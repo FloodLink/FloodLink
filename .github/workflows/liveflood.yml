@@ -1,0 +1,68 @@
+name: 🌧️ FloodLink Live Risk Engine
+
+on:
+  schedule:
+    - cron: "0 */3 * * *"   # every 3 hours
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+# avoid concurrent runs stepping on each other
+concurrency:
+  group: floodlink-live
+  cancel-in-progress: true
+
+jobs:
+  run-floodlink:
+    runs-on: ubuntu-latest
+    env:
+      TWITTER_ENABLED: "true"
+      # ⚠️ Recommend using GitHub Secrets instead of raw keys below
+      TWITTER_API_KEY: "G76uq36FDZQcziI4NRsVA7e9B"
+      TWITTER_SECRET: "1aBFSVrKmTkUaLyjo5AcO8jxWduij0qYVlqiXrHBeAzQ6zann9"
+      TWITTER_ACCESS_TOKEN: "1983097408964964354-Yp3lphTP0q9S5YvDTkUcYji4BMi6FK"
+      TWITTER_ACCESS_SECRET: "IFceTp0cztPlCNi5qKZmzPDS0TAFOTzR4PStAqPUHZkQa"
+
+    steps:
+      - name: 📦 Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0   # allow pull/rebase/push
+
+      - name: 🐍 Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: ⚙️ Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install pandas requests tweepy tzdata
+
+      - name: 🌧️ Run FloodLink Live Engine
+        run: |
+          echo "Starting live flood risk evaluation..."
+          echo "TWITTER_ENABLED=$TWITTER_ENABLED"
+          python livefloodengine.py
+
+      - name: 💾 Commit and push updated alerts.json
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          set -e
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+
+          # Make sure we're up to date, then rebase our changes
+          git fetch origin
+          git pull --rebase origin "${GITHUB_REF_NAME:-main}" || true
+
+          # Stage only the generated files
+          git add alerts_comparison.json tweeted_alerts.json || echo "No files found to add."
+
+          # Commit if there are staged changes
+          git diff --cached --quiet || git commit -m "🌧️ Auto-update: new flood risk alerts (every 3h)"
+
+          # Push; safe force avoids CI races while protecting others' work
+          git push --force-with-lease
