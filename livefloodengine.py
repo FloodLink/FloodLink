@@ -114,10 +114,8 @@ def compute_indicators(api_data):
     tz = ZoneInfo(TIMEZONE)
     now = datetime.now(tz).replace(minute=0, second=0, microsecond=0)
 
-    # parse times (DatetimeIndex)
-    dt = pd.to_datetime(times)
-    if getattr(dt, "tz", None) is None:
-        dt = dt.tz_localize(tz)
+    # parse times (DatetimeIndex) — robust tz handling
+    dt = pd.to_datetime(times, utc=True).tz_convert(tz)
 
     start_idx = next((i for i, t in enumerate(dt) if t >= now), 0)
     end_idx = start_idx + FORECAST_HOURS
