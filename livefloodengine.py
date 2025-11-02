@@ -212,15 +212,16 @@ def build_alert_dict(alerts):
 
 def compare_alerts(prev, curr):
     """
-    Return list of (change_type, alert) for:
-      - New alerts in TWEET_LEVELS
-      - Explicit level transitions in ALLOWED_PAIRS (e.g., Medium↔High, High↔Extreme).
+    Tweet when:
+      • First time we see a site at a tweet-worthy level (Medium/High/Extreme)
+      • Any UPGRADE into a tweet-worthy level (e.g., None→Medium, Low→Medium, Medium→High, High→Extreme)
+      • (Optional) Downgrades if enabled
     """
     changes = []
     for key, c in curr.items():
         cur_lvl = c["dynamic_level"]
 
-        # New sites at tweet-worthy levels
+        # New site this run
         if key not in prev:
             if cur_lvl in TWEET_LEVELS:
                 changes.append(("New", c))
@@ -228,13 +229,21 @@ def compare_alerts(prev, curr):
 
         prev_lvl = prev[key]["dynamic_level"]
         if prev_lvl == cur_lvl:
-            continue  # no level change → no alert
+            continue
 
-        if (prev_lvl, cur_lvl) in ALLOWED_PAIRS:
-            change_type = "Upgrade" if LEVELS.index(cur_lvl) > LEVELS.index(prev_lvl) else "Downgrade"
-            changes.append((change_type, c))
+        prev_i, cur_i = LEVELS.index(prev_lvl), LEVELS.index(cur_lvl)
+
+        # Any upgrade into a tweet-worthy level
+        if ALERT_ON_UPGRADES and cur_i > prev_i and cur_lvl in TWEET_LEVELS:
+            changes.append(("Upgrade", c))
+            continue
+
+        # Downgrades from tweet-worthy levels (optional)
+        if ALERT_ON_DOWNGRADES and cur_i < prev_i and prev_lvl in TWEET_LEVELS:
+            changes.append(("Downgrade", c))
 
     return changes
+
 
 # -------------------------------
 # TWEET MANAGEMENT
