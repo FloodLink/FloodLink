@@ -69,9 +69,6 @@ ALERT_ON_UPGRADES   = True                     # Medium→High, High→Extreme
 ALERT_ON_DOWNGRADES = True                     # High→Medium, Extreme→High
 
 LEVELS = ["None", "Low", "Medium", "High", "Extreme"]
-UPGRADE_PAIRS   = {("Medium", "High"), ("High", "Extreme")}
-DOWNGRADE_PAIRS = {("High", "Medium"), ("Extreme", "High")} if ALERT_ON_DOWNGRADES else set()
-ALLOWED_PAIRS   = UPGRADE_PAIRS | DOWNGRADE_PAIRS
 
 # -------------------------------
 # HELPER FUNCTIONS
