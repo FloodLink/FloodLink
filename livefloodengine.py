@@ -51,7 +51,7 @@ RISK_THRESHOLD = 8.5         # baseline FRisk cutoff from GIS layer
 RAIN_UNIT_MM   = 100.0       # 100 mm → 1.0× rain multiplier
 SOIL_MIN_MULT  = 0.8         # soil=0 -> 0.8×
 SOIL_MAX_MULT  = 1.8         # soil=1 -> 1.8×
-HUM_MIN_MULT   = 0.9         # RH=0% -> 0.9×
+HUM_MIN_MULT   = 1.0         # RH=0% -> 0.9×
 HUM_MAX_MULT   = 1.1         # RH=100% -> 1.1×
 RAIN_CUTOFF_MM = 0.0         # set 0.5 to ignore drizzle; 0.0 keeps strict linearity
 
