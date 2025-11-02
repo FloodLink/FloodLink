@@ -377,6 +377,21 @@ def main():
     changes = compare_alerts(prev_alerts_dict, curr_alerts_dict)
     print(f"🔍 Detected {len(changes)} level-change events.")
 
+    # 👉 Debug: list each transition with prev → current (plus key metrics)
+    if changes:
+        for change_type, a in changes:
+            key = (round(a["latitude"], 4), round(a["longitude"], 4))
+            prev_lvl = prev_alerts_dict.get(key, {}).get("dynamic_level", "None")
+            print(
+                "🛰️ "
+                f"{a['name']} [{a['latitude']:.4f},{a['longitude']:.4f}]: "
+                f"{prev_lvl} → {a['dynamic_level']} ({change_type}); "
+                f"rain={a[f'rain_{FORECAST_HOURS}h_mm']} mm, "
+                f"soil={a['soil_moisture_avg']:.3f}, RH={a['humidity_avg']}%"
+            )
+    else:
+        print("ℹ️ No tweetable transitions this run (either steady level or below tweet-worthy).")
+
     last_tweet_ts = 0.0
 
     # Tweet + update tracker
