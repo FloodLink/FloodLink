@@ -1,1 +1,15 @@
-{}
+{
+  "15.9940,108.1630": {
+    "name": "Da Nang, Vietnam",
+    "risk_level": "Medium",
+    "latitude": 15.994,
+    "longitude": 108.163,
+    "rain_mm": 86.2,
+    "humidity": 94.3,
+    "soil_moisture": 0.0,
+    "temperature": 24.7,
+    "pressure": 1010.9,
+    "raw_dynamic_score": 7.984,
+    "last_updated": "2025-11-02T23:37:06.732894Z"
+  }
+}
