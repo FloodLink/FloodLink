@@ -16,8 +16,11 @@ concurrency:
 jobs:
   run-floodlink:
     runs-on: ubuntu-latest
+    
     env:
+      # ✅ enable live tweets
       TWITTER_ENABLED: "true"
+      
       # ⚠️ Recommend using GitHub Secrets instead of raw keys below
       TWITTER_API_KEY: "G76uq36FDZQcziI4NRsVA7e9B"
       TWITTER_SECRET: "1aBFSVrKmTkUaLyjo5AcO8jxWduij0qYVlqiXrHBeAzQ6zann9"
@@ -34,6 +37,7 @@ jobs:
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
+          cache: 'pip'
 
       - name: ⚙️ Install dependencies
         run: |
@@ -46,23 +50,25 @@ jobs:
           echo "TWITTER_ENABLED=$TWITTER_ENABLED"
           python livefloodengine.py
 
-      - name: 💾 Commit and push updated alerts.json
+      - name: 💾 Commit and push updated alerts JSON
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           set -e
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
 
-          # Make sure we're up to date, then rebase our changes
+          # Rebase on current branch to avoid diverging
           git fetch origin
-          git pull --rebase origin "${GITHUB_REF_NAME:-main}" || true
+          git pull --rebase origin "${{ github.ref_name }}" || true
 
           # Stage only the generated files
           git add alerts_comparison.json tweeted_alerts.json || echo "No files found to add."
 
-          # Commit if there are staged changes
-          git diff --cached --quiet || git commit -m "🌧️ Auto-update: new flood risk alerts (every 3h)"
-
-          # Push; safe force avoids CI races while protecting others' work
-          git push --force-with-lease
+          # Commit only if there are staged changes
+          if ! git diff --cached --quiet; then
+            git commit -m "🌧️ Auto-update: flood risk alerts ($(date -u +'%Y-%m-%dT%H:%M:%SZ'))"
+            git push origin "${{ github.ref_name }}"
+          else
+            echo "No JSON changes to commit."
+          fi
