@@ -37,10 +37,10 @@ FORECAST_HOURS = 6                 # 3, 6, 12, ...
 
 # --- Twitter config ---
 TWITTER_ENABLED = os.getenv("TWITTER_ENABLED", "false").lower() == "true"
-TWITTER_API_KEY: ${{ secrets.TWITTER_API_KEY }}
-TWITTER_SECRET: ${{ secrets.TWITTER_SECRET }}
-TWITTER_ACCESS_TOKEN: ${{ secrets.TWITTER_ACCESS_TOKEN }}
-TWITTER_ACCESS_SECRET: ${{ secrets.TWITTER_ACCESS_SECRET }}
+TWITTER_API_KEY = os.getenv("TWITTER_API_KEY")
+TWITTER_SECRET = os.getenv("TWITTER_SECRET")
+TWITTER_ACCESS_TOKEN = os.getenv("TWITTER_ACCESS_TOKEN")
+TWITTER_ACCESS_SECRET = os.getenv("TWITTER_ACCESS_SECRET")
 MIN_SECONDS_BETWEEN_TWEETS = 30
 
 # -------------------------------
