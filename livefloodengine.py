@@ -25,7 +25,7 @@ from requests.exceptions import RequestException, ReadTimeout, ConnectionError
 # -------------------------------
 # CONFIGURATION
 # -------------------------------
-CSV_PATH = "madrid_features.csv"
+CSV_PATH = "Citiesglobal.csv"
 COMPARISON_PATH = "alerts_comparison.json"   # single source of truth
 TWEET_LOG_PATH = "tweeted_alerts.json"       # map-ready tweet history
 
@@ -272,7 +272,8 @@ def tweet_alert(change_type, alert):
     color_emoji = level_colors.get(level, "⚪")
 
     tweet_text = (
-        f"{color_emoji} Flood risk at {alert['name']}.\n\n"
+        f"{color_emoji} Flood risk in "
+        f"{', '.join([x for x in [alert.get('name','Location'), alert.get('country','')] if x])}.\n\n"
         f"Time: {FORECAST_HOURS} hours\n"
         f"{level} risk ({change_type})\n"
         f"Location ({lat:.2f}, {lon:.2f})\n\n"
@@ -323,6 +324,7 @@ def main():
         lat, lon = float(row["Latitude"]), float(row["Longitude"])
         base_risk = float(row["FRisk"])
         name = str(row.get("ETIQUETA", f"id_{row['JOIN_ID']}"))
+        country = str(row.get("Country", "")).strip()
 
         data = fetch_weather(lat, lon)
         if not data:
@@ -335,6 +337,7 @@ def main():
 
         alerts.append({
             "id": str(row["JOIN_ID"]),
+            "country": country,
             "name": name,
             "latitude": lat,
             "longitude": lon,
@@ -399,6 +402,7 @@ def main():
         last_tweet_ts = time.time()
 
         tweeted_alerts[key] = {
+            "country": alert.get("country", ""),
             "name": alert["name"],
             "risk_level": alert["dynamic_level"],
             "latitude": alert["latitude"],
