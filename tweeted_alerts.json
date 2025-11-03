@@ -1,1 +1,14 @@
-{}
+{
+  "10.6966,122.5629": {
+    "country": "Philippines",
+    "name": "Iloilo City",
+    "risk_level": "Medium",
+    "latitude": 10.6966,
+    "longitude": 122.5629,
+    "rain_mm": 111.5,
+    "humidity": 95.5,
+    "soil_moisture": 0.0,
+    "raw_dynamic_score": 10.51,
+    "last_updated": "2025-11-03T22:18:13.311475Z"
+  }
+}
