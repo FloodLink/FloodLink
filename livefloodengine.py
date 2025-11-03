@@ -108,7 +108,7 @@ def compute_indicators(api_data):
     hourly = api_data.get("hourly", {})
     times = hourly.get("time", [])
     if not times:
-        return 0.0, 0.0, 0.0, 0.0, 0.0
+        return 0.0, 0.0, 0.0
 
     tz = ZoneInfo(TIMEZONE)
     now = datetime.now(tz).replace(minute=0, second=0, microsecond=0)
