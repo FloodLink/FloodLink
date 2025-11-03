@@ -1,4 +1,4 @@
-Index,Country,ETIQUETA,Latitude,Longitude,FRisk
+JOIN_ID,Country,ETIQUETA,Latitude,Longitude,FRisk
 1,Afghanistan,Herat,34.3482,62.1997,9.5
 2,Afghanistan,Kabul,34.5289,69.1725,9.13
 3,Afghanistan,Kandahar,31.6133,65.7101,9.39
@@ -1859,3 +1859,4 @@ Index,Country,ETIQUETA,Latitude,Longitude,FRisk
 1858,Zimbabwe,Bulawayo,-20.15,28.5833,9.5
 1859,Zimbabwe,Chitungwiza,-18.0127,31.0756,9.41
 1860,Zimbabwe,Harare,-17.8294,31.0539,9.47
+
