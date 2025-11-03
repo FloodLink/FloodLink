@@ -29,7 +29,7 @@ CSV_PATH = "madrid_features.csv"
 COMPARISON_PATH = "alerts_comparison.json"   # single source of truth
 TWEET_LOG_PATH = "tweeted_alerts.json"       # map-ready tweet history
 
-SLEEP_BETWEEN_CALLS = 2.5         # seconds between API calls
+SLEEP_BETWEEN_CALLS = 2.0         # seconds between API calls
 TIMEZONE = "Europe/Madrid"
 MAX_RETRIES = 3
 TIMEOUT = 6                        # request timeout (s) per Open-Meteo call
@@ -79,7 +79,6 @@ def fetch_weather(lat, lon):
         "https://api.open-meteo.com/v1/forecast?"
         f"latitude={lat}&longitude={lon}"
         f"&hourly=precipitation,relative_humidity_2m,soil_moisture_0_to_7cm,"
-        f"temperature_2m,surface_pressure"
         f"&forecast_days=2&timezone={TIMEZONE}"
     )
     for attempt in range(1, MAX_RETRIES + 1):
@@ -413,8 +412,6 @@ def main():
             "rain_mm": alert[f"rain_{FORECAST_HOURS}h_mm"],
             "humidity": alert["humidity_avg"],
             "soil_moisture": alert["soil_moisture_avg"],
-            "temperature": alert["temperature_avg"],
-            "pressure": alert["pressure_avg"],
             "raw_dynamic_score": alert["raw_dynamic_score"],
             "last_updated": datetime.now(ZoneInfo("UTC")).isoformat().replace("+00:00", "Z")
         }
