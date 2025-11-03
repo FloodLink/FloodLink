@@ -31,7 +31,7 @@ TWEET_LOG_PATH = "tweeted_alerts.json"       # map-ready tweet history
 
 SLEEP_BETWEEN_CALLS = 2.0         # seconds between API calls
 TIMEZONE = "Europe/Madrid"
-MAX_RETRIES = 3
+MAX_RETRIES = 1
 TIMEOUT = 6                        # request timeout (s) per Open-Meteo call
 FORECAST_HOURS = 6                 # 3, 6, 12, ...
 
