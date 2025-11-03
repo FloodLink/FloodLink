@@ -102,7 +102,7 @@ def compute_indicators(api_data):
     """
     Use the next FORECAST_HOURS starting at 'now' in the requested timezone.
     - precipitation: sum (mm)
-    - RH / soil / temp / pressure: average over window
+    - RH / soil : average over window
     Open-Meteo soil moisture is m³/m³; useful range ~0–0.6; normalize to [0,1].
     """
     hourly = api_data.get("hourly", {})
@@ -140,7 +140,7 @@ def compute_indicators(api_data):
     soil_norm = [min(max(x / 0.6, 0.0), 1.0) for x in soil_vals]
     soil_avg  = float(sum(soil_norm) / FORECAST_HOURS)
 
-    return rain_sum, rh_avg, soil_avg, temp_avg, press_avg
+    return rain_sum, rh_avg, soil_avg
 
 # -------------------------------
 # LINEAR MULTIPLIERS
