@@ -29,7 +29,7 @@ CSV_PATH = "madrid_features.csv"
 COMPARISON_PATH = "alerts_comparison.json"   # single source of truth
 TWEET_LOG_PATH = "tweeted_alerts.json"       # map-ready tweet history
 
-SLEEP_BETWEEN_CALLS = 2.0         # seconds between API calls
+SLEEP_BETWEEN_CALLS = 1.0         # seconds between API calls
 TIMEZONE = "Europe/Madrid"
 MAX_RETRIES = 1
 TIMEOUT = 6                        # request timeout (s) per Open-Meteo call
@@ -78,7 +78,7 @@ def fetch_weather(lat, lon):
     base_url = (
         "https://api.open-meteo.com/v1/forecast?"
         f"latitude={lat}&longitude={lon}"
-        f"&hourly=precipitation,relative_humidity_2m,soil_moisture_0_to_7cm,"
+        f"&hourly=precipitation,relative_humidity_2m,soil_moisture_0_to_7cm"
         f"&forecast_days=2&timezone={TIMEZONE}"
     )
     for attempt in range(1, MAX_RETRIES + 1):
@@ -132,8 +132,6 @@ def compute_indicators(api_data):
     rain_vals = window("precipitation", 0.0)
     rh_vals   = window("relative_humidity_2m", 0.0)
     soil_vals = window("soil_moisture_0_to_7cm", 0.0)
-    temp_vals = window("temperature_2m", 0.0)
-    press_vals= window("surface_pressure", 0.0)
 
     rain_sum = float(sum(rain_vals))
     rh_avg   = float(sum(rh_vals) / FORECAST_HOURS)
@@ -142,8 +140,6 @@ def compute_indicators(api_data):
     soil_norm = [min(max(x / 0.6, 0.0), 1.0) for x in soil_vals]
     soil_avg  = float(sum(soil_norm) / FORECAST_HOURS)
 
-    temp_avg  = float(sum(temp_vals) / FORECAST_HOURS)
-    press_avg = float(sum(press_vals) / FORECAST_HOURS)
     return rain_sum, rh_avg, soil_avg, temp_avg, press_avg
 
 # -------------------------------
@@ -332,7 +328,7 @@ def main():
         if not data:
             continue
 
-        rain_sum, rh_avg, soil_avg, temp_avg, press_avg = compute_indicators(data)
+        rain_sum, rh_avg, soil_avg = compute_indicators(data)
         raw_score, dyn_level, r_mult, s_mult, h_mult = calculate_dynamic_risk_raw(
             base_risk, rain_sum, rh_avg, soil_avg
         )
@@ -347,8 +343,6 @@ def main():
             f"rain_{FORECAST_HOURS}h_mm": round(rain_sum, 2),
             "humidity_avg": round(rh_avg, 1),
             "soil_moisture_avg": round(soil_avg, 3),
-            "temperature_avg": round(temp_avg, 1),
-            "pressure_avg": round(press_avg, 1),
 
             # Diagnostics for tuning
             "rain_mult": round(r_mult, 3),
