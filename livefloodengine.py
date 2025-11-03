@@ -274,8 +274,8 @@ def tweet_alert(change_type, alert):
     tweet_text = (
         f"{color_emoji} Flood risk in "
         f"{', '.join([x for x in [alert.get('name','Location'), alert.get('country','')] if x])}.\n\n"
-        f"Time: {FORECAST_HOURS} hours\n"
         f"{level} risk ({change_type})\n"
+        f"Time: {FORECAST_HOURS} hours\n"
         f"Location ({lat:.2f}, {lon:.2f})\n\n"
         f"Rain: {alert[f'rain_{FORECAST_HOURS}h_mm']} mm\n"
         f"Soil moisture: {alert['soil_moisture_avg']:.2f}\n"
