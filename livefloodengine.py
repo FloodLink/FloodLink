@@ -267,8 +267,8 @@ def tweet_alert(change_type, alert):
     # 🎨 Emoji color map for risk level
     level_colors = {
         "None": "⚪",
-        "Low": "🟢",
-        "Medium": "🟡",
+        "Low": "⚪",
+        "Medium": "🟢",
         "High": "🟠",
         "Extreme": "🔴"
     }
