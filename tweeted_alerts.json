@@ -1,15 +1,67 @@
 {
   "15.9940,108.1630": {
     "name": "Da Nang, Vietnam",
-    "risk_level": "Medium",
+    "risk_level": "Low",
     "latitude": 15.994,
     "longitude": 108.163,
-    "rain_mm": 86.2,
-    "humidity": 94.3,
+    "rain_mm": 17.4,
+    "humidity": 94.8,
+    "soil_moisture": 0.0,
+    "temperature": 24.6,
+    "pressure": 1010.5,
+    "raw_dynamic_score": 1.612,
+    "last_updated": "2025-11-03T04:47:54.556410Z"
+  },
+  "16.4030,107.5700": {
+    "name": "Hue, Vietnam",
+    "risk_level": "Medium",
+    "latitude": 16.403,
+    "longitude": 107.57,
+    "rain_mm": 102.7,
+    "humidity": 96.5,
+    "soil_moisture": 0.0,
+    "temperature": 24.8,
+    "pressure": 1009.2,
+    "raw_dynamic_score": 9.123,
+    "last_updated": "2025-11-03T04:47:24.337311Z"
+  },
+  "16.4630,107.6300": {
+    "name": "Hue, Vietnam",
+    "risk_level": "Medium",
+    "latitude": 16.463,
+    "longitude": 107.63,
+    "rain_mm": 93.9,
+    "humidity": 94.5,
+    "soil_moisture": 0.0,
+    "temperature": 25.7,
+    "pressure": 1009.5,
+    "raw_dynamic_score": 8.342,
+    "last_updated": "2025-11-03T04:48:24.775035Z"
+  },
+  "16.5230,107.6300": {
+    "name": "Hue, Vietnam",
+    "risk_level": "Medium",
+    "latitude": 16.523,
+    "longitude": 107.63,
+    "rain_mm": 93.9,
+    "humidity": 94.5,
+    "soil_moisture": 0.0,
+    "temperature": 25.4,
+    "pressure": 1009.6,
+    "raw_dynamic_score": 8.09,
+    "last_updated": "2025-11-03T04:48:54.987537Z"
+  },
+  "16.0140,108.1830": {
+    "name": "Da Nang, Vietnam",
+    "risk_level": "Low",
+    "latitude": 16.014,
+    "longitude": 108.183,
+    "rain_mm": 15.0,
+    "humidity": 94.0,
     "soil_moisture": 0.0,
     "temperature": 24.7,
-    "pressure": 1010.9,
-    "raw_dynamic_score": 7.984,
-    "last_updated": "2025-11-02T23:37:06.732894Z"
+    "pressure": 1007.1,
+    "raw_dynamic_score": 1.358,
+    "last_updated": "2025-11-03T04:49:25.205154Z"
   }
 }
