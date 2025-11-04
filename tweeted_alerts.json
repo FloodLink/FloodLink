@@ -10,5 +10,17 @@
     "soil_moisture": 0.0,
     "raw_dynamic_score": 10.51,
     "last_updated": "2025-11-03T22:18:13.311475Z"
+  },
+  "-4.7761,11.8635": {
+    "country": "Congo",
+    "name": "Pointe-Noire",
+    "risk_level": "Medium",
+    "latitude": -4.7761,
+    "longitude": 11.8635,
+    "rain_mm": 71.9,
+    "humidity": 96.0,
+    "soil_moisture": 0.0,
+    "raw_dynamic_score": 6.722,
+    "last_updated": "2025-11-04T07:15:22.186509Z"
   }
 }
