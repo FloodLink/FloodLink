@@ -22,5 +22,17 @@
     "soil_moisture": 0.0,
     "raw_dynamic_score": 6.722,
     "last_updated": "2025-11-04T07:15:22.186509Z"
+  },
+  "13.9419,121.1627": {
+    "country": "Philippines",
+    "name": "Lipa City",
+    "risk_level": "Medium",
+    "latitude": 13.9419,
+    "longitude": 121.1627,
+    "rain_mm": 61.8,
+    "humidity": 94.5,
+    "soil_moisture": 0.0,
+    "raw_dynamic_score": 5.841,
+    "last_updated": "2025-11-09T11:05:14.408968Z"
   }
 }
