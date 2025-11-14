@@ -328,8 +328,26 @@ def main():
 
         data = fetch_weather(lat, lon)
         if not data:
+            # 🔁 Keep last known state if we have one,
+            # so the threat stays active until we get fresh data.
+            key = (round(lat, 4), round(lon, 4))
+            prev_alert = prev_alerts_dict.get(key)
+
+            if prev_alert:
+                print(
+                    f"⚠️ Using previous alert for {name} "
+                    f"[{lat:.4f},{lon:.4f}] due to API failure."
+                )
+                alerts.append(prev_alert)
+            else:
+                # No previous info: we can't invent a risk level, just skip this run
+                print(
+                    f"⚠️ No weather data and no previous alert for {name} "
+                    f"[{lat:.4f},{lon:.4f}] – skipping this run."
+                )
             continue
 
+        # Normal path: we got fresh weather data
         rain_sum, rh_avg, soil_avg = compute_indicators(data)
         raw_score, dyn_level, r_mult, s_mult, h_mult = calculate_dynamic_risk_raw(
             base_risk, rain_sum, rh_avg, soil_avg
@@ -357,6 +375,7 @@ def main():
         })
 
         time.sleep(SLEEP_BETWEEN_CALLS)
+
 
     # Persist current results
     result = {
