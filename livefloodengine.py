@@ -249,7 +249,22 @@ def save_tweeted_alerts(tweeted):
         json.dump(tweeted, f, indent=2, ensure_ascii=False)
 
 def cleanup_tweeted_alerts(tweeted, valid_coords):
-    cleaned = {k: v for k, v in tweeted.items() if k in valid_coords}
+    """
+    Keep only:
+      - coordinates that still exist in the CSV, AND
+      - entries whose risk_level is still tweet-worthy (Medium/High/Extreme).
+
+    This reinforces the invariant: tweeted_alerts.json = only ongoing alerts.
+    """
+    cleaned = {}
+    for k, v in tweeted.items():
+        # k is "lat,lon" string
+        if k not in valid_coords:
+            continue
+        if v.get("risk_level") not in TWEET_LEVELS:
+            continue
+        cleaned[k] = v
+
     if len(cleaned) < len(tweeted):
         print(f"🧹 Cleaned {len(tweeted) - len(cleaned)} outdated tweet entries.")
     return cleaned
@@ -411,29 +426,49 @@ def main():
     # Tweet + update tracker
     for change_type, alert in changes:
         key = f"{alert['latitude']:.4f},{alert['longitude']:.4f}"
+        current_level = alert["dynamic_level"]
 
-        # rate-limit stream, not per-site
+        # Only tweet downgrades for locations that have an active record
+        # in tweeted_alerts.json (i.e., we have tweeted them before).
+        if change_type == "Downgrade" and key not in tweeted_alerts:
+            print(f"↘️ Skipping downgrade tweet for {key} "
+                  f"({alert['name']}) – no prior tweet recorded.")
+            continue
+
+        # Stream-wide rate limiting (not per location)
         now_ts = time.time()
         if now_ts - last_tweet_ts < MIN_SECONDS_BETWEEN_TWEETS:
             time.sleep(MIN_SECONDS_BETWEEN_TWEETS - (now_ts - last_tweet_ts))
 
+        # Send tweet (or DRY RUN printout)
         tweet_alert(change_type, alert)
         last_tweet_ts = time.time()
 
-        tweeted_alerts[key] = {
-            "country": alert.get("country", ""),
-            "name": alert["name"],
-            "risk_level": alert["dynamic_level"],
-            "latitude": alert["latitude"],
-            "longitude": alert["longitude"],
-            "rain_mm": alert[f"rain_{FORECAST_HOURS}h_mm"],
-            "humidity": alert["humidity_avg"],
-            "soil_moisture": alert["soil_moisture_avg"],
-            "raw_dynamic_score": alert["raw_dynamic_score"],
-            "last_updated": datetime.now(ZoneInfo("UTC")).isoformat().replace("+00:00", "Z")
-        }
+        # --- Update tweeted_alerts.json according to the new level ---
+
+        if current_level in TWEET_LEVELS:
+            # Still Medium / High / Extreme → keep or create/update entry
+            tweeted_alerts[key] = {
+                "country": alert.get("country", ""),
+                "name": alert["name"],
+                "risk_level": current_level,
+                "latitude": alert["latitude"],
+                "longitude": alert["longitude"],
+                "rain_mm": alert[f"rain_{FORECAST_HOURS}h_mm"],
+                "humidity": alert["humidity_avg"],
+                "soil_moisture": alert["soil_moisture_avg"],
+                "raw_dynamic_score": alert["raw_dynamic_score"],
+                "last_updated": datetime.now(ZoneInfo("UTC")).isoformat().replace("+00:00", "Z")
+            }
+        else:
+            # Downgrade into Low / None → remove from live map
+            if key in tweeted_alerts:
+                print(f"🗑️ Removing resolved alert from tweet log: "
+                      f"{alert['name']} [{key}] (→ {current_level})")
+                tweeted_alerts.pop(key, None)
 
     save_tweeted_alerts(tweeted_alerts)
+
 
     # Update comparison file
     with open(COMPARISON_PATH, "w", encoding="utf-8") as f:
