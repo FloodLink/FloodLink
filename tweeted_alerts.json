@@ -47,16 +47,16 @@
     "raw_dynamic_score": 7.01,
     "last_updated": "2025-11-09T14:44:44.156644Z"
   },
-  "-0.2534,-79.1696": {
-    "country": "Ecuador",
-    "name": "Santo Domingo",
+  "-9.9747,-67.8100": {
+    "country": "Brazil",
+    "name": "Rio Branco",
     "risk_level": "Medium",
-    "latitude": -0.2534,
-    "longitude": -79.1696,
-    "rain_mm": 90.8,
-    "humidity": 98.2,
+    "latitude": -9.9747,
+    "longitude": -67.81,
+    "rain_mm": 62.8,
+    "humidity": 96.7,
     "soil_moisture": 0.0,
-    "raw_dynamic_score": 8.325,
-    "last_updated": "2025-11-15T04:59:17.212621Z"
+    "raw_dynamic_score": 5.579,
+    "last_updated": "2025-11-15T11:05:04.422029Z"
   }
 }
