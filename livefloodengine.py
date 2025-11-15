@@ -252,16 +252,19 @@ def cleanup_tweeted_alerts(tweeted, valid_coords):
     """
     Keep only:
       - coordinates that still exist in the CSV, AND
-      - entries whose risk_level is still tweet-worthy (Medium/High/Extreme).
+      - entries NOT marked as resolved.
 
-    This reinforces the invariant: tweeted_alerts.json = only ongoing alerts.
+    Entries are marked resolved=True when a downgrade to Low/None happens.
+    They stay in tweeted_alerts.json for that run, and are removed here on
+    the following run.
     """
     cleaned = {}
     for k, v in tweeted.items():
         # k is "lat,lon" string
         if k not in valid_coords:
             continue
-        if v.get("risk_level") not in TWEET_LEVELS:
+        # Drop entries that have already been marked as resolved
+        if v.get("resolved", False):
             continue
         cleaned[k] = v
 
@@ -461,11 +464,24 @@ def main():
                 "last_updated": datetime.now(ZoneInfo("UTC")).isoformat().replace("+00:00", "Z")
             }
         else:
-            # Downgrade into Low / None → remove from live map
-            if key in tweeted_alerts:
-                print(f"🗑️ Removing resolved alert from tweet log: "
-                      f"{alert['name']} [{key}] (→ {current_level})")
-                tweeted_alerts.pop(key, None)
+            # Downgrade into Low / None → keep it ONE more run as 'resolved'
+            # so other systems can see the cleared/low state.
+            print(f"✅ Marking alert as resolved in tweet log: "
+                  f"{alert['name']} [{key}] (→ {current_level})")
+
+            tweeted_alerts[key] = {
+                "country": alert.get("country", ""),
+                "name": alert["name"],
+                "risk_level": current_level,  # "Low" or "None"
+                "latitude": alert["latitude"],
+                "longitude": alert["longitude"],
+                "rain_mm": alert[f"rain_{FORECAST_HOURS}h_mm"],
+                "humidity": alert["humidity_avg"],
+                "soil_moisture": alert["soil_moisture_avg"],
+                "raw_dynamic_score": alert["raw_dynamic_score"],
+                "last_updated": datetime.now(ZoneInfo("UTC")).isoformat().replace("+00:00", "Z"),
+                "resolved": True,  # <-- flag for next run's cleanup
+            }
 
     save_tweeted_alerts(tweeted_alerts)
 
