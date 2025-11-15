@@ -46,18 +46,5 @@
     "soil_moisture": 0.0,
     "raw_dynamic_score": 7.01,
     "last_updated": "2025-11-09T14:44:44.156644Z"
-  },
-  "-9.9747,-67.8100": {
-    "country": "Brazil",
-    "name": "Rio Branco",
-    "risk_level": "Low",
-    "latitude": -9.9747,
-    "longitude": -67.81,
-    "rain_mm": 23.8,
-    "humidity": 93.2,
-    "soil_moisture": 0.0,
-    "raw_dynamic_score": 2.111,
-    "last_updated": "2025-11-15T14:47:18.244577Z",
-    "resolved": true
   }
 }
