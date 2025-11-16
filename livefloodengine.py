@@ -30,6 +30,7 @@ COMPARISON_PATH = "alerts_comparison.json"   # single source of truth
 TWEET_LOG_PATH = "tweeted_alerts.json"       # map-ready tweet history
 
 SLEEP_BETWEEN_CALLS = 1.0         # seconds between API calls
+COMPARISON_HISTORY = 5  # or 10
 TIMEZONE = "Europe/Madrid"
 MAX_RETRIES = 1
 TIMEOUT = 3                        # request timeout (s) per Open-Meteo call
@@ -196,6 +197,36 @@ def load_json(path):
         with open(path, "r", encoding="utf-8") as f:
             return json.load(f)
     return {"alerts": []}
+
+def rotate_comparison_snapshots(max_history=COMPARISON_HISTORY):
+    """
+    Rotate alerts_comparison snapshots:
+
+      alerts_comparison_{max_history-1}.json -> alerts_comparison_{max_history}.json
+      ...
+      alerts_comparison_1.json -> alerts_comparison_2.json
+      alerts_comparison.json   -> alerts_comparison_1.json
+
+    The new current run will then be written to alerts_comparison.json.
+    """
+    base = COMPARISON_PATH  # "alerts_comparison.json"
+
+    # Shift numbered snapshots up: N-1 -> N, ..., 1 -> 2
+    for i in range(max_history - 1, 0, -1):
+        older = f"alerts_comparison_{i}.json"
+        newer = f"alerts_comparison_{i + 1}.json"
+        if os.path.exists(older):
+            if os.path.exists(newer):
+                os.remove(newer)
+            os.replace(older, newer)
+
+    # Move current base file to _1
+    if os.path.exists(base):
+        first_snapshot = "alerts_comparison_1.json"
+        if os.path.exists(first_snapshot):
+            os.remove(first_snapshot)
+        os.replace(base, first_snapshot)
+
 
 def build_alert_dict(alerts):
     return {(round(a["latitude"], 4), round(a["longitude"], 4)): a for a in alerts}
@@ -485,6 +516,8 @@ def main():
 
     save_tweeted_alerts(tweeted_alerts)
 
+    # Rotate old comparison snapshots, then write the new one
+    rotate_comparison_snapshots(COMPARISON_HISTORY)
 
     # Update comparison file
     with open(COMPARISON_PATH, "w", encoding="utf-8") as f:
