@@ -33,7 +33,7 @@ SLEEP_BETWEEN_CALLS = 0.1         # seconds between API calls
 COMPARISON_HISTORY = 5  # or 10
 TIMEZONE = "Europe/Madrid"
 MAX_RETRIES = 1
-TIMEOUT = 3                        # request timeout (s) per Open-Meteo call
+TIMEOUT = 5                        # request timeout (s) per Open-Meteo call
 FORECAST_HOURS = 6                 # 3, 6, 12, ...
 
 # --- Twitter config ---
