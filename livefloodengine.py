@@ -29,7 +29,7 @@ CSV_PATH = "Citiesglobal.csv"
 COMPARISON_PATH = "alerts_comparison.json"   # single source of truth
 TWEET_LOG_PATH = "tweeted_alerts.json"       # map-ready tweet history
 
-SLEEP_BETWEEN_CALLS = 1.0         # seconds between API calls
+SLEEP_BETWEEN_CALLS = 0.1         # seconds between API calls
 COMPARISON_HISTORY = 5  # or 10
 TIMEZONE = "Europe/Madrid"
 MAX_RETRIES = 1
