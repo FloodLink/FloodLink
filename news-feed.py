@@ -92,8 +92,10 @@ STOPWORDS = set([
     "new", "latest", "after", "before", "during", "amid"
 ])
 
-def extract_key_terms(text: str):
-    text = text.lower()
+def extract_key_terms(text):
+    if not text:
+        return set()
+    text = str(text).lower()
     words = re.findall(r"\b\w+\b", text)
     numbers = re.findall(r"\d+", text)
     keywords = [w for w in words if w not in STOPWORDS] + numbers
