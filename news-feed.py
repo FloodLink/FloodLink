@@ -75,9 +75,9 @@ RETENTION_DAYS = 10
 TWEET_THRESHOLD = 8  # 0–10 relevance; post only high-impact events
 
 # Tweet type probabilities (FloodLink: mostly news + a few replies)
-RANDOM_NEWS = 0.7
+RANDOM_NEWS = 0.3
 RANDOM_REPLY = 0.15
-RANDOM_NONE = 0.15
+RANDOM_NONE = 0.65
 
 NEWS_TWEETS_LIMIT = 4   # daily flood news tweets
 REPLY_TWEETS_LIMIT = 1  # daily replies
