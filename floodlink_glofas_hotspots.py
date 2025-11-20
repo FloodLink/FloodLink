@@ -228,43 +228,48 @@ def haversine_km(lat1, lon1, lat2, lon2):
 
 def load_cities(path=CITIES_PATH):
     """
-    Load GeoNames cities file (cities1000).
+    Load cities1000.csv as you have it:
 
-    Expected columns in original GeoNames TXT:
-    geonameid, name, asciiname, alternatenames, latitude, longitude,
-    feature_class, feature_code, country_code, cc2, admin1_code, ... population, ...
-
-    Adjust column names here if you pre-cleaned the CSV.
+    Columns (from your screenshot):
+      - Name
+      - ASCII Name
+      - Country Code
+      - Country name EN
+      - Population
+      - Timezone
+      - Latitude
+      - Longitude
     """
-    cols = [
-        "geonameid",
-        "name",
-        "asciiname",
-        "alternatenames",
-        "latitude",
-        "longitude",
-        "feature_class",
-        "feature_code",
-        "country_code",
-        "cc2",
-        "admin1_code",
-        "admin2_code",
-        "admin3_code",
-        "admin4_code",
-        "population",
-        "elevation",
-        "dem",
-        "timezone",
-        "modification_date",
-    ]
-    df = pd.read_csv(path, sep=",", header=None, names=cols)
+    df = pd.read_csv(path)  # header row already present
 
-    # Keep only what we need
-    df = df[["name", "country_code", "latitude", "longitude", "population"]].copy()
+    # Keep only what we need and normalize column names
+    df = df[[
+        "Name",
+        "Country Code",
+        "Country name EN",
+        "Latitude",
+        "Longitude",
+        "Population",
+    ]].copy()
+
+    df.rename(
+        columns={
+            "Name": "name",
+            "Country Code": "country_code",
+            "Country name EN": "country_name",
+            "Latitude": "latitude",
+            "Longitude": "longitude",
+            "Population": "population",
+        },
+        inplace=True,
+    )
+
     df["latitude"] = df["latitude"].astype(float)
     df["longitude"] = df["longitude"].astype(float)
     df["population"] = df["population"].fillna(0).astype(int)
+
     return df
+
 
 
 def find_nearest_cities(lat, lon, cities_df,
@@ -273,7 +278,6 @@ def find_nearest_cities(lat, lon, cities_df,
     """
     Return up to top_n nearest cities within max_distance_km of (lat, lon).
     """
-    # Vectorized distance to all cities
     dists = haversine_km(
         lat,
         lon,
@@ -291,11 +295,12 @@ def find_nearest_cities(lat, lon, cities_df,
     for _, row in temp.iterrows():
         nearest.append({
             "name": row["name"],
-            "country": row["country_code"],
+            "country": row["country_name"],   # <-- uses "Country name EN"
             "population": int(row["population"]),
             "distance_km": float(row["distance_km"]),
         })
     return nearest
+
 
 
 # ---------------------------------
