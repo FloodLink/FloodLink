@@ -1,0 +1,49 @@
+name: 🌧️ FloodLink – Auto-Post Flood News
+
+on:
+  schedule:
+    # Runs roughly every 50 minutes, like your previous hybrid bot
+    - cron: "*/50 * * * *"
+  workflow_dispatch:  # Manual trigger if you want to test
+
+permissions:
+  contents: write  # Needed if we want to commit JSON logs
+
+concurrency:
+  group: floodlink-news  # Different group from the construction bot
+  cancel-in-progress: true
+
+jobs:
+  post_flood_news:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 📥 Checkout Repo
+        uses: actions/checkout@v4
+
+      - name: 🏗️ Set Up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.10"
+
+      - name: 📦 Install Dependencies
+        run: |
+          pip install --upgrade tweepy openai feedparser requests
+
+      - name: 🚀 Run FloodLink News Bot
+        env:
+          TWITTER_API_KEY: ${{ secrets.TWITTER_API_KEY }}
+          TWITTER_SECRET: ${{ secrets.TWITTER_SECRET }}
+          TWITTER_ACCESS_TOKEN: ${{ secrets.TWITTER_ACCESS_TOKEN }}
+          TWITTER_ACCESS_SECRET: ${{ secrets.TWITTER_ACCESS_SECRET }}
+          XAI_API_KEY: ${{ secrets.XAI_API_KEY }}
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+        run: python news-feed.py
+
+      - name: 🔄 Commit and Push FloodLink Logs
+        run: |
+          git config --global user.email "github-actions@github.com"
+          git config --global user.name "GitHub Actions"
+          git add floodlink_news.json floodlink_replies.json || true
+          git diff --cached --quiet && echo "No changes to commit" || \
+            (git commit -m "Update FloodLink logs [Automated]" && git push origin main)
