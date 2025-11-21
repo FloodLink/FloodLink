@@ -525,19 +525,31 @@ def reply_to_random_tweet():
         print("❌ Failed to generate reply.")
         return
 
+    # Prepare log entry up front (will save even if API fails)
+    log_entry = {
+        "date": datetime.utcnow().strftime("%Y-%m-%d"),
+        "username": username,
+        "tweet_id": tweet_id,
+        "original_tweet": tweet_text,
+        "reply_text": reply_text,
+        "status": "pending"
+    }
+
     try:
         twitter_client.create_tweet(
             text=f"@{username} {reply_text}",
             in_reply_to_tweet_id=tweet_id
         )
         print(f"✅ Replied to @{username}: {reply_text}")
+        log_entry["status"] = "posted"
+    except tweepy.errors.TweepyException as e:
+        print(f"❌ Error posting reply: {e}")
+        log_entry["status"] = f"error: {type(e).__name__}"
 
-        reply_log[str(tweet_id)] = {
-            "date": datetime.utcnow().strftime("%Y-%m-%d"),
-            "username": username,
-            "tweet_id": tweet_id
-        }
-        save_reply_log(reply_log)
+    # ✅ Always log, even if posting failed
+    reply_log[str(tweet_id)] = log_entry
+    save_reply_log(reply_log)
+
     except tweepy.errors.TweepyException as e:
         print(f"❌ Error posting reply: {e}")
 
