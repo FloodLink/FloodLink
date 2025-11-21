@@ -56,23 +56,23 @@ jobs:
           set -e
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-
-          # Rebase on current branch to avoid diverging
+          
+          # 1) Sync with remote, autostashing local JSON edits
           git fetch origin
-          git pull --rebase origin "${{ github.ref_name }}" || true
-
-          # Always add the main JSON files (they are created every run)
+          git pull --rebase --autostash origin main
+          
+          # 2) Always add the main JSON files (they are created/updated every run)
           git add alerts_comparison.json tweeted_alerts.json || true
-
-          # Only add snapshot files if they exist (avoid git error on first run)
+          
+          # 3) Add snapshot files if they exist
           if ls alerts_comparison_*.json 1> /dev/null 2>&1; then
             git add alerts_comparison_*.json
           fi
-
-          # Commit only if there are staged changes
+          
+          # 4) Commit only if there are staged changes
           if ! git diff --cached --quiet; then
             git commit -m "🌧️ Auto-update: flood risk alerts ($(date -u +'%Y-%m-%dT%H:%M:%SZ'))"
-            git push origin "${{ github.ref_name }}"
+            git push origin main
           else
             echo "No JSON changes to commit."
           fi
