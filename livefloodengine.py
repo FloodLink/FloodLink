@@ -461,15 +461,32 @@ def main():
     for change_type, alert in changes:
         key = f"{alert['latitude']:.4f},{alert['longitude']:.4f}"
         current_level = alert["dynamic_level"]
+        last_entry = tweeted_alerts.get(key)
 
-        # Only tweet downgrades for locations that have an active record
-        # in tweeted_alerts.json (i.e., we have tweeted them before).
-        if change_type == "Downgrade" and key not in tweeted_alerts:
-            print(f"↘️ Skipping downgrade tweet for {key} "
-                  f"({alert['name']}) – no prior tweet recorded.")
-            continue
+        # --- Downgrade gating logic ---
+        if change_type == "Downgrade":
+            # If we've never tweeted this location, ignore the downgrade
+            if last_entry is None:
+                print(
+                    f"↘️ Skipping downgrade tweet for {key} "
+                    f"({alert['name']}) – no prior tweet recorded."
+                )
+                continue
 
-        # Stream-wide rate limiting (not per location)
+            # If the last tweeted level is already Low/None (i.e. not in TWEET_LEVELS),
+            # we've already announced the downgrade for this alert cycle.
+            last_level = last_entry.get("risk_level", "None")
+            if last_level not in TWEET_LEVELS:
+                print(
+                    f"↘️ Skipping extra downgrade tweet for {key} "
+                    f"({alert['name']}) – last tweeted level is already "
+                    f"{last_level} (outside {TWEET_LEVELS})."
+                )
+                continue
+
+        # -------------------------
+        # Stream-wide rate limiting
+        # -------------------------
         now_ts = time.time()
         if now_ts - last_tweet_ts < MIN_SECONDS_BETWEEN_TWEETS:
             time.sleep(MIN_SECONDS_BETWEEN_TWEETS - (now_ts - last_tweet_ts))
@@ -496,9 +513,10 @@ def main():
             }
         else:
             # Downgrade into Low / None → keep it ONE more run as 'resolved'
-            # so other systems can see the cleared/low state.
-            print(f"✅ Marking alert as resolved in tweet log: "
-                  f"{alert['name']} [{key}] (→ {current_level})")
+            print(
+                f"✅ Marking alert as resolved in tweet log: "
+                f"{alert['name']} [{key}] (→ {current_level})"
+            )
 
             tweeted_alerts[key] = {
                 "country": alert.get("country", ""),
