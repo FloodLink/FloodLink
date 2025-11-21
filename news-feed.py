@@ -72,7 +72,7 @@ LOG_FILE = "floodlink_news.json"
 REPLY_LOG_FILE = "floodlink_replies.json"
 
 RETENTION_DAYS = 10
-TWEET_THRESHOLD = 8  # 0–10 relevance; post only high-impact events
+TWEET_THRESHOLD = 9  # 0–10 relevance; post only high-impact events
 
 # Tweet type probabilities (FloodLink: mostly news + a few replies)
 RANDOM_NEWS = 0.3
