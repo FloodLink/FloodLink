@@ -550,8 +550,6 @@ def reply_to_random_tweet():
     reply_log[str(tweet_id)] = log_entry
     save_reply_log(reply_log)
 
-    except tweepy.errors.TweepyException as e:
-        print(f"❌ Error posting reply: {e}")
 
 # =========================================================
 #                      POSTING
