@@ -2,13 +2,14 @@
   "35.1408,-90.0475": {
     "country": "United States of America",
     "name": "Memphis",
-    "risk_level": "Medium",
+    "risk_level": "Low",
     "latitude": 35.1408,
     "longitude": -90.0475,
-    "rain_mm": 58.1,
-    "humidity": 95.3,
+    "rain_mm": 4.6,
+    "humidity": 96.5,
     "soil_moisture": 0.0,
-    "raw_dynamic_score": 5.123,
-    "last_updated": "2025-11-20T15:28:25.366891Z"
+    "raw_dynamic_score": 0.406,
+    "last_updated": "2025-11-21T08:35:19.682410Z",
+    "resolved": true
   }
 }
