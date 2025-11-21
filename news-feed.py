@@ -19,7 +19,6 @@ TWITTER_ACCESS_SECRET = os.getenv("TWITTER_ACCESS_SECRET")
 OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
 XAI_API_KEY = os.getenv("XAI_API_KEY")
 
-OPENAI_MODEL = "gpt-5"
 XAI_MODEL = "grok-4-fast-reasoning"
 
 # =========================================================
@@ -74,13 +73,18 @@ REPLY_LOG_FILE = "floodlink_replies.json"
 RETENTION_DAYS = 10
 TWEET_THRESHOLD = 9  # 0–10 relevance; post only high-impact events
 
-# Tweet type probabilities (FloodLink: mostly news + a few replies)
+# Tweet type probabilities
 RANDOM_NEWS = 0.3
-RANDOM_REPLY = 0.15
-RANDOM_NONE = 0.65
+RANDOM_STATISTIC = 0.1
+RANDOM_INFRASTRUCTURE = 0.2
+RANDOM_REPLY = 0.2
+RANDOM_NONE = 0.2
 
-NEWS_TWEETS_LIMIT = 4   # daily flood news tweets
-REPLY_TWEETS_LIMIT = 1  # daily replies
+# Daily tweet limits
+NEWS_TWEETS_LIMIT = 4        # flood news
+STAT_TWEETS_LIMIT = 1        # flood stats
+INFRA_TWEETS_LIMIT = 1       # flood infrastructure
+REPLY_TWEETS_LIMIT = 1       # replies
 
 # =========================================================
 #                        HELPERS
@@ -171,13 +175,22 @@ def save_processed_articles(processed):
 
 def select_tweet_type():
     return random.choices(
-        ["news", "reply", "none"],
-        [RANDOM_NEWS, RANDOM_REPLY, RANDOM_NONE]
+        ["news", "statistical", "infrastructure", "reply", "none"],
+        [RANDOM_NEWS, RANDOM_STATISTIC, RANDOM_INFRASTRUCTURE, RANDOM_REPLY, RANDOM_NONE]
     )[0]
 
 def count_news_tweets_today(processed_articles):
     today = datetime.utcnow().strftime("%Y-%m-%d")
     return sum(1 for a in processed_articles if a.get("date") == today and a.get("type") == "news")
+
+def count_stat_tweets_today(processed_articles):
+    today = datetime.utcnow().strftime("%Y-%m-%d")
+    return sum(1 for a in processed_articles if a.get("date") == today and a.get("type") == "statistical")
+
+def count_infra_tweets_today(processed_articles):
+    today = datetime.utcnow().strftime("%Y-%m-%d")
+    return sum(1 for a in processed_articles if a.get("date") == today and a.get("type") == "infrastructure")
+
 
 # =========================================================
 #                   NEWS FETCH + SCORING
@@ -305,6 +318,108 @@ Source: {source}
     tweet = tweet.replace('"', "").replace("'", "")
     return tweet[:280]
 
+# =========================================================
+#      AI: FLOOD STATISTICAL TWEETS
+# =========================================================
+
+STATISTICAL_CATEGORIES = [
+    "global flood fatalities and trends",
+    "population living in floodplains",
+    "urban areas exposed to river flooding",
+    "coastal cities at risk from sea-level rise and storm surge",
+    "economic losses from floods and flash floods",
+    "extreme rainfall trends in major cities",
+    "monsoon flood patterns in Asia",
+    "pluvial (surface) flooding in dense cities",
+    "coverage of flood early warning systems worldwide",
+    "dams, levees and reservoirs used for flood control"
+]
+
+def generate_statistical_tweet(selected_category):
+    """
+    Generate a global/regional flood statistic tweet.
+    """
+    client = openai.OpenAI(
+        api_key=XAI_API_KEY,
+        base_url="https://api.x.ai/v1"
+    )
+
+    tweet_formats = {
+        1: "A single striking statistic or future projection.",
+        2: "A direct comparison between two regions or time periods.",
+        3: """A short ranked list (3–5 items) under 280 characters.
+
+Format:
+Summary: <one-sentence overview>
+
+1. Item
+2. Item
+3. Item
+"""
+    }
+
+    selected_format_key = random.choice(list(tweet_formats.keys()))
+    selected_format = tweet_formats[selected_format_key]
+
+    prompt = f"""
+Assume the current year is 2025.
+
+Generate a concise, factual tweet about **{selected_category}**,
+focusing ONLY on floods, flash floods, storm surge, or extreme rainfall.
+
+{selected_format}
+
+Rules:
+- Use recent data (2020 onwards) or realistic near-future projections.
+- Present only clear numbers or rankings (people, % exposed, losses, etc.).
+- Max 280 characters.
+- NO hashtags, NO emojis except country flags before location names.
+- Use line breaks only if they improve readability.
+"""
+
+    response = client.chat.completions.create(
+        model=XAI_MODEL,
+        messages=[{"role": "user", "content": prompt}]
+    )
+    return response.choices[0].message.content.strip()[:280]
+
+# =========================================================
+#      AI: FLOOD INFRASTRUCTURE TWEETS
+# =========================================================
+
+def generate_infrastructure_tweet():
+    """
+    Generate a tweet about physical or digital infrastructure
+    related to flood risk: levees, storm tanks, pumps, sensors, etc.
+    """
+    client = openai.OpenAI(
+        api_key=XAI_API_KEY,
+        base_url="https://api.x.ai/v1"
+    )
+
+    prompt = """
+Assume the current year is 2025.
+
+Write a concise tweet about infrastructure that protects
+or is exposed to floods (levees, dikes, dams, stormwater tanks,
+drainage networks, pumping stations, retention basins,
+flood sensors or early warning systems).
+
+Rules:
+- Focus on ONE clear quantitative metric
+  (e.g. km of levees, storage volume, people protected,
+   % of city covered by sensors, number of storm tanks, etc.).
+- You may highlight a specific country or city if helpful.
+- Max 280 characters.
+- NO hashtags, NO emojis except country flags before location names.
+- Avoid generic marketing language; keep it data-driven.
+"""
+
+    response = client.chat.completions.create(
+        model=XAI_MODEL,
+        messages=[{"role": "user", "content": prompt}]
+    )
+    return response.choices[0].message.content.strip()[:280]
 
 # =========================================================
 #                       REPLIES
@@ -453,31 +568,41 @@ def post_tweet(tweet):
 # =========================================================
 
 if __name__ == "__main__":
-    print("🔍 Loading previously processed FloodLink articles...")
+    print("🔍 Loading previously processed FloodLink items...")
     processed_articles = load_processed_articles()
     filtered_links = {a.get("link") for a in processed_articles if a.get("link")} if processed_articles else set()
-    print(f"📂 {len(processed_articles)} flood-related articles already processed.")
+    print(f"📂 {len(processed_articles)} items already processed.")
 
     today = datetime.utcnow().strftime("%Y-%m-%d")
     today_news_count = count_news_tweets_today(processed_articles)
+    today_stat_count = count_stat_tweets_today(processed_articles)
+    today_infra_count = count_infra_tweets_today(processed_articles)
     reply_log = load_reply_log()
     today_reply_count = count_replies_today(reply_log)
 
     tweet_type = select_tweet_type()
     print(f"🔀 Selected tweet type: {tweet_type}")
 
-    # enforce limits
+    # enforce per-type limits early
     if tweet_type == "news" and today_news_count >= NEWS_TWEETS_LIMIT:
         print(f"🚫 Reached daily news limit ({NEWS_TWEETS_LIMIT}).")
+        exit(0)
+    if tweet_type == "statistical" and today_stat_count >= STAT_TWEETS_LIMIT:
+        print(f"🚫 Reached daily statistical limit ({STAT_TWEETS_LIMIT}).")
+        exit(0)
+    if tweet_type == "infrastructure" and today_infra_count >= INFRA_TWEETS_LIMIT:
+        print(f"🚫 Reached daily infrastructure limit ({INFRA_TWEETS_LIMIT}).")
         exit(0)
     if tweet_type == "reply" and today_reply_count >= REPLY_TWEETS_LIMIT:
         print(f"🚫 Reached daily reply limit ({REPLY_TWEETS_LIMIT}).")
         exit(0)
 
+    # ---------- REPLY ----------
     if tweet_type == "reply":
         reply_to_random_tweet()
         exit(0)
 
+    # ---------- FLOOD NEWS ----------
     if tweet_type == "news":
         latest_news = get_latest_news()
         print(f"📰 Found {len(latest_news)} recent articles.")
@@ -524,11 +649,21 @@ if __name__ == "__main__":
             processed_articles.append(base_entry)
             scored_news.append((score, title, link, source, summary))
 
-        # sort by score, pick top few
+        # sort by score
         scored_news.sort(reverse=True, key=lambda x: x[0])
-        top_articles = scored_news[:3]
+
+        # respect remaining slots + per-run cap (3)
+        remaining_slots = max(0, NEWS_TWEETS_LIMIT - today_news_count)
+        if remaining_slots <= 0:
+            top_articles = []
+        else:
+            per_run_cap = 3
+            max_to_tweet = min(remaining_slots, per_run_cap)
+            top_articles = scored_news[:max_to_tweet]
 
         for score, title, link, source, summary in top_articles:
+            if today_news_count >= NEWS_TWEETS_LIMIT:
+                break
             if score >= TWEET_THRESHOLD:
                 tweet = summarize_news(title, summary, source)
                 if post_tweet(tweet):
@@ -547,9 +682,44 @@ if __name__ == "__main__":
             else:
                 print(f"🚫 Article below threshold (score={score}): {title}")
 
+    # ---------- FLOOD STATISTICS ----------
+    elif tweet_type == "statistical":
+        if today_stat_count >= STAT_TWEETS_LIMIT:
+            print(f"🚫 Reached daily statistical limit ({STAT_TWEETS_LIMIT}).")
+        else:
+            selected_category = random.choice(STATISTICAL_CATEGORIES)
+            tweet = generate_statistical_tweet(selected_category)
+            if post_tweet(tweet):
+                today_stat_count += 1
+                processed_articles.append({
+                    "link": None,
+                    "date": today,
+                    "status": "posted",
+                    "tweet": tweet,
+                    "type": "statistical",
+                    "category": selected_category
+                })
+
+    # ---------- FLOOD INFRASTRUCTURE ----------
+    elif tweet_type == "infrastructure":
+        if today_infra_count >= INFRA_TWEETS_LIMIT:
+            print(f"🚫 Reached daily infrastructure limit ({INFRA_TWEETS_LIMIT}).")
+        else:
+            tweet = generate_infrastructure_tweet()
+            if post_tweet(tweet):
+                today_infra_count += 1
+                processed_articles.append({
+                    "link": None,
+                    "date": today,
+                    "status": "posted",
+                    "tweet": tweet,
+                    "type": "infrastructure"
+                })
+
     else:
         print("🤖 No tweet posted in this run (simulating human-like inactivity).")
 
+    # save everything
     processed_articles = cleanup_old_articles(processed_articles)
     save_processed_articles(processed_articles)
     print("✅ floodlink_news.json updated.")
