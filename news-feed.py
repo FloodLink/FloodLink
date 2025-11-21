@@ -266,7 +266,7 @@ Summary: {summary}
 
 def summarize_news(title, summary, source):
     """
-    Turn a flood-related headline into a FloodLink tweet.
+    Create a FloodLink tweet with clear FORECAST / POST-EVENT label.
     """
     client = openai.OpenAI(
         api_key=XAI_API_KEY,
@@ -274,24 +274,25 @@ def summarize_news(title, summary, source):
     )
 
     prompt = f"""
-You are posting as FloodLink, a global flood-risk early warning system on X.
+You post as FloodLink, a global flood-risk early warning system on X.
 
-Rewrite the following flood-related news into a concise alert-style tweet.
+Write ONE tweet about this article in EXACTLY this format:
+
+<FLAG(optional)> <STATUS> <Location>: <short description>
 
 Rules:
-- If a country or clearly identifiable city is mentioned, put its flag emoji BEFORE the name when possible.
-- Focus on: location, type of hazard (flood / flash flood / storm surge / landslide from heavy rain), and impact or risk level.
-- Clearly indicate if it is a FORECAST (upcoming risk) or POST-EVENT (already hit).
-- NO hashtags.
-- NO emojis except country flags.
-- Keep under 260 characters to be safe.
-- Tone: clear, factual, calm, data-driven (no panic).
+- STATUS = FORECAST (future or imminent risk, warnings, alerts)
+          OR POST-EVENT (flood already happened: damage, deaths, rescues).
+- If you can infer a clear country, put its flag emoji first (e.g. 🇺🇸). Otherwise omit the flag.
+- Location: short city/region/country name.
+- Description: mention type (flood / flash flood / storm surge / landslide from rain)
+  and key risk/impact. If you mention a source, keep it short at the end.
+- Max 260 characters total.
+- NO hashtags, NO emojis except the optional country flag.
+- NO quotation marks.
 
 Title: {title}
-
-Useful context (if relevant):
-{summary}
-
+Summary: {summary}
 Source: {source}
 """
 
@@ -303,6 +304,7 @@ Source: {source}
     tweet = response.choices[0].message.content.strip()
     tweet = tweet.replace('"', "").replace("'", "")
     return tweet[:280]
+
 
 # =========================================================
 #                       REPLIES
