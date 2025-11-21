@@ -585,5 +585,13 @@
         "status": "posted",
         "tweet": "Japan \ud83c\uddef\ud83c\uddf1's Tokyo operates the G-Cans underground flood control system, boasting 670,000 m\u00b3 storage capacity to divert rainwater and protect 13 million residents from urban flooding.",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2025-11-21",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 US dams & reservoirs mitigated $12B in flood losses from extreme rainfall events (2020-2024), protecting 8M people.\n\n\ud83c\uddf3\ud83c\uddf1 Netherlands' levees & reservoirs cut storm surge & flash flood exposure by 70% for 9M residents (2021-2024), vs. 45% in unprotected EU zones.",
+        "type": "statistical",
+        "category": "dams, levees and reservoirs used for flood control"
     }
 ]
