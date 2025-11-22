@@ -881,5 +881,25 @@
         "score": 0,
         "status": "skipped",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOc3VEYlJlbTRfc3hvRGhiNUM2Zml4a2ZSZEJVQ3lJMjVFdXBSVlUtTkpVT0d4aUNKY051VXlNY0pmaXk1aEh6d3A2ZFZhOFZTdmxLcEtNWHNGQU5OdGk4eW1hekFqVGY1VU1IRHlYejRfRUJ6MlNWQ0lZT2VjU0syS0NxQ0RqTzdNaEdMQ1NGYURsQ1BmTXUzVGVkSmRoblhWUnQyQ2dSM1hsODA?oc=5",
+        "date": "2025-11-22",
+        "title": "Las Vegas hotel swamped by flooding ahead of F1 Grand Prix - kyma.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxOc3VEYlJlbTRfc3hvRGhiNUM2Zml4a2ZSZEJVQ3lJMjVFdXBSVlUtTkpVT0d4aUNKY051VXlNY0pmaXk1aEh6d3A2ZFZhOFZTdmxLcEtNWHNGQU5OdGk4eW1hekFqVGY1VU1IRHlYejRfRUJ6MlNWQ0lZT2VjU0syS0NxQ0RqTzdNaEdMQ1NGYURsQ1BmTXUzVGVkSmRoblhWUnQyQ2dSM1hsODA?oc=5\" target=\"_blank\">Las Vegas hotel swamped by flooding ahead of F1 Grand Prix</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">kyma.com</font>",
+        "similarity_excluded": "No",
+        "score": 6,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPdFJCR19oRmlHdG9pNldWam5JcFg2SnYzUThxVmlBQ1FKb2wzUDd5RWE1c25GS01YS253Wlk4M2R1WDBpc083QlB3TUxBSkJ3SDJ6ZDhzNzVGUl9HaFp0dTNKZ0xDRU54NHBiSDE0MzRXRzNvUHFmeVZOZHMxem9rNw?oc=5",
+        "date": "2025-11-22",
+        "title": "Flood threat for soaked Dallas and Texas Hill Country persists overnight as storms keep firing - AOL.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPdFJCR19oRmlHdG9pNldWam5JcFg2SnYzUThxVmlBQ1FKb2wzUDd5RWE1c25GS01YS253Wlk4M2R1WDBpc083QlB3TUxBSkJ3SDJ6ZDhzNzVGUl9HaFp0dTNKZ0xDRU54NHBiSDE0MzRXRzNvUHFmeVZOZHMxem9rNw?oc=5\" target=\"_blank\">Flood threat for soaked Dallas and Texas Hill Country persists overnight as storms keep firing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AOL.com</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
     }
 ]
