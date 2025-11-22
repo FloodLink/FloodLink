@@ -695,5 +695,15 @@
         "status": "posted",
         "tweet": "\ud83c\uddfa\ud83c\uddf8 FORECAST Southern California: Torrential rains prompting flash flood warnings before moving east. (AP News)",
         "type": "news"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOZ2pSbEJremNUZG5HX2ZVcFl6Z3VXZDNJOWhmV3FBekpLWENkLTAwajkzLXFrcnpSMU9aZ2FoRXk4Q0tBci14V1lZMldzUGRQdFJ3X2FTZVNrNUJsWjVFdHAweXBpdThMaXAySVd1UEZBbzhKcG9RdHpaSHJYZ0hTb0w2Qm1VVHdmSVNnaXlVNXNrRENBZGMzaDQxa2RHLWhXckFqZm15eHl2bERFbEd0X291MzZlM2YybURzelJURVJ4aHdjN1RaQw?oc=5",
+        "date": "2025-11-22",
+        "title": "Torrential Rains Return to Southern California, Prompting Flash Flood Warnings Before Moving East - WBAP",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxOZ2pSbEJremNUZG5HX2ZVcFl6Z3VXZDNJOWhmV3FBekpLWENkLTAwajkzLXFrcnpSMU9aZ2FoRXk4Q0tBci14V1lZMldzUGRQdFJ3X2FTZVNrNUJsWjVFdHAweXBpdThMaXAySVd1UEZBbzhKcG9RdHpaSHJYZ0hTb0w2Qm1VVHdmSVNnaXlVNXNrRENBZGMzaDQxa2RHLWhXckFqZm15eHl2bERFbEd0X291MzZlM2YybURzelJURVJ4aHdjN1RaQw?oc=5\" target=\"_blank\">Torrential Rains Return to Southern California, Prompting Flash Flood Warnings Before Moving East</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WBAP</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
     }
 ]
