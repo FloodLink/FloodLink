@@ -871,5 +871,15 @@
         "score": 8,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdjQxT1d4NThBSTZQdm1zU3hPcnF3UjlNRkI1elRwVTRUMndud3V6VzZtQVhMMzhxRkNWOWpyRnUwbml0ckx5cW5hNDZSdXpuOWo0MUJvOWlqT082VS1CcDBHNHl5ck8xa3ZjYTgtYW5kYzRKTWhGbVZURVhmRUJ3U2F2NUFTeDAtR2lOLTlfMmF0WVdYa3BLTA?oc=5",
+        "date": "2025-11-22",
+        "title": "Strong Storms, Heavy Rain Target the Southern Plains Again - WeatherNation",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNdjQxT1d4NThBSTZQdm1zU3hPcnF3UjlNRkI1elRwVTRUMndud3V6VzZtQVhMMzhxRkNWOWpyRnUwbml0ckx5cW5hNDZSdXpuOWo0MUJvOWlqT082VS1CcDBHNHl5ck8xa3ZjYTgtYW5kYzRKTWhGbVZURVhmRUJ3U2F2NUFTeDAtR2lOLTlfMmF0WVdYa3BLTA?oc=5\" target=\"_blank\">Strong Storms, Heavy Rain Target the Southern Plains Again</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WeatherNation</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
     }
 ]
