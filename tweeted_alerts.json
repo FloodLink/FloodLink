@@ -1,1 +1,14 @@
-{}
+{
+  "5.3302,103.1408": {
+    "country": "Malaysia",
+    "name": "Kuala Terengganu",
+    "risk_level": "Medium",
+    "latitude": 5.3302,
+    "longitude": 103.1408,
+    "rain_mm": 62.1,
+    "humidity": 97.0,
+    "soil_moisture": 0.0,
+    "raw_dynamic_score": 5.691,
+    "last_updated": "2025-11-22T23:19:41.194892Z"
+  }
+}
