@@ -1030,5 +1030,15 @@
         "score": 8,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPN0xjaEZ1cUZ1SEt0QlBqMlJwTjNkUElWdVg1dktrTWozRkpVNzc4RnFZakZlNVlydHNHN2FEQ3lVMTBxblR1UGJoYWhHNVM1NFBEQ1FYU082WVdmS0ZQUl80U2tFUTludjBNRDdDWW5vcDQtVUZyVVhpOTd5aUJzeTE0VmpKdWR2SmxyVHF4V0dIRmRhVDRhZk9NdEpubHdLM2toa2tBbjBZSEVOSFE?oc=5",
+        "date": "2025-11-23",
+        "title": "55 dead in Vietnam after torrential rain triggers flooding and landslides - Sky News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPN0xjaEZ1cUZ1SEt0QlBqMlJwTjNkUElWdVg1dktrTWozRkpVNzc4RnFZakZlNVlydHNHN2FEQ3lVMTBxblR1UGJoYWhHNVM1NFBEQ1FYU082WVdmS0ZQUl80U2tFUTludjBNRDdDWW5vcDQtVUZyVVhpOTd5aUJzeTE0VmpKdWR2SmxyVHF4V0dIRmRhVDRhZk9NdEpubHdLM2toa2tBbjBZSEVOSFE?oc=5\" target=\"_blank\">55 dead in Vietnam after torrential rain triggers flooding and landslides</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sky News</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
     }
 ]
