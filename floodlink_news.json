@@ -1149,5 +1149,36 @@
         "status": "posted",
         "tweet": "\ud83c\uddfa\ud83c\uddf8 FORECAST Aransas & San Patricio Counties, TX: Flash flood warning; imminent risk of flash flooding in low-lying areas. (southtexasnews.com)",
         "type": "news"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQb1lsTnd2cmd2OEZ6U1U1UHE4ZFdwUVJrY3UtdG4xZmxXYlUwVEVVamNkSmdJQ1l3SFh1LUNJUlZCZ2xLNGUzbFQxcXBfbW5yRUlsTEI4TUN6bVludWxmcVlMUl95RmdQVnNpaWg5bjZ2ai1BeDNpQnFybkRpVzM2VWlEY3dBZXF0X1JrWXZaN0g2ODhR?oc=5",
+        "date": "2025-11-24",
+        "title": "Flash flood warning in force for parts of northern Viti Levu - The Fiji Times",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQb1lsTnd2cmd2OEZ6U1U1UHE4ZFdwUVJrY3UtdG4xZmxXYlUwVEVVamNkSmdJQ1l3SFh1LUNJUlZCZ2xLNGUzbFQxcXBfbW5yRUlsTEI4TUN6bVludWxmcVlMUl95RmdQVnNpaWg5bjZ2ai1BeDNpQnFybkRpVzM2VWlEY3dBZXF0X1JrWXZaN0g2ODhR?oc=5\" target=\"_blank\">Flash flood warning in force for parts of northern Viti Levu</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Fiji Times</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5na1A0b19iWlhMdTJfNVZvVlROTmVQUVRkVjdvZWZRVWt3cEZwMDE5Yzk3dEVnVDJwRkcxNXVuUHl4QmxYTnJuelZVc2xFaEpXWXYxc0FLa1hqQ0xYMjZNWjhn?oc=5",
+        "date": "2025-11-24",
+        "title": "Why southern floods turned catastrophic as monsoon trough triggers heaviest rainfall in 300 years - Nation Thailand",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE5na1A0b19iWlhMdTJfNVZvVlROTmVQUVRkVjdvZWZRVWt3cEZwMDE5Yzk3dEVnVDJwRkcxNXVuUHl4QmxYTnJuelZVc2xFaEpXWXYxc0FLa1hqQ0xYMjZNWjhn?oc=5\" target=\"_blank\">Why southern floods turned catastrophic as monsoon trough triggers heaviest rainfall in 300 years</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Nation Thailand</font>",
+        "similarity_excluded": "No",
+        "score": 10,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5na1A0b19iWlhMdTJfNVZvVlROTmVQUVRkVjdvZWZRVWt3cEZwMDE5Yzk3dEVnVDJwRkcxNXVuUHl4QmxYTnJuelZVc2xFaEpXWXYxc0FLa1hqQ0xYMjZNWjhn?oc=5",
+        "date": "2025-11-24",
+        "title": "Why southern floods turned catastrophic as monsoon trough triggers heaviest rainfall in 300 years - Nation Thailand",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE5na1A0b19iWlhMdTJfNVZvVlROTmVQUVRkVjdvZWZRVWt3cEZwMDE5Yzk3dEVnVDJwRkcxNXVuUHl4QmxYTnJuelZVc2xFaEpXWXYxc0FLa1hqQ0xYMjZNWjhn?oc=5\" target=\"_blank\">Why southern floods turned catastrophic as monsoon trough triggers heaviest rainfall in 300 years</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Nation Thailand</font>",
+        "similarity_excluded": "No",
+        "score": 10,
+        "status": "posted",
+        "tweet": "\ud83c\uddf9\ud83c\udded POST-EVENT Southern Thailand: Catastrophic floods triggered by monsoon trough causing heaviest rainfall in 300 years. (Nation Thailand)",
+        "type": "news"
     }
 ]
