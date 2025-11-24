@@ -43,11 +43,11 @@ jobs:
           python -m pip install --upgrade pip
           pip install pandas requests tweepy tzdata
 
-      - name: 🌧️ Run FloodLink Live Engine (batched)
+      - name: 🌧️ Run FloodLink Live Engine
         run: |
-          echo "Starting live flood risk evaluation (batched)..."
+          echo "Starting live flood risk evaluation..."
           echo "TWITTER_ENABLED=$TWITTER_ENABLED"
-          python floodlink_live_batch.py
+          python livefloodengine.py
 
       - name: 💾 Commit and push updated alerts JSON
         env:
