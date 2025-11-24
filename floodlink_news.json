@@ -1180,5 +1180,13 @@
         "status": "posted",
         "tweet": "\ud83c\uddf9\ud83c\udded POST-EVENT Southern Thailand: Catastrophic floods triggered by monsoon trough causing heaviest rainfall in 300 years. (Nation Thailand)",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2025-11-24",
+        "status": "posted",
+        "tweet": "Summary: Global flood fatalities exceeded 25,000 since 2020, with extreme rainfall events up 25% amid climate trends.\n\n1. \ud83c\uddf1\ud83c\uddfe Libya 2023: 4,300 deaths from flash floods.\n2. \ud83c\uddf5\ud83c\uddf0 Pakistan 2022: 1,739 from monsoon deluge.\n3. \ud83c\udde7\ud83c\uddf7 Brazil 2024: 180+ in southern extreme rains.\n4. Trend: 15",
+        "type": "statistical",
+        "category": "global flood fatalities and trends"
     }
 ]
