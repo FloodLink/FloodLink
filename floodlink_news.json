@@ -1256,5 +1256,36 @@
         "status": "posted",
         "tweet": "\ud83c\uddf3\ud83c\uddf1 The Netherlands maintains 26,000 km of dikes and levees as of 2025, protecting 60% of its 17.8 million residents from coastal and river flooding.",
         "type": "infrastructure"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQY2VUNU55aUlNbllldDNHclB6emx5X25VRjJPTGppaFJCdTFBVkZIcGQ5Z0p6b2w5ZzB4bU05dnZiTXN2WGNQdTRNaUVaODktMF85LWpHa2U0cEdaSTZyQ3JXVVRWM2hkX1l6bERQalp1WFlIWlZtWkVQM3cxZ0lJQ2trV2JGRzZoaHNCaU1kMHNaNnV3bUptNUIwZW5vYk0?oc=5",
+        "date": "2025-11-24",
+        "title": "Malaysian floods affect 11,000 people across 7 states - The Straits Times",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQY2VUNU55aUlNbllldDNHclB6emx5X25VRjJPTGppaFJCdTFBVkZIcGQ5Z0p6b2w5ZzB4bU05dnZiTXN2WGNQdTRNaUVaODktMF85LWpHa2U0cEdaSTZyQ3JXVVRWM2hkX1l6bERQalp1WFlIWlZtWkVQM3cxZ0lJQ2trV2JGRzZoaHNCaU1kMHNaNnV3bUptNUIwZW5vYk0?oc=5\" target=\"_blank\">Malaysian floods affect 11,000 people across 7 states</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Straits Times</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5MdFJlY3doZXBsRjh1MHF4STJhVERGMjFYaTJCNnlGUWpuSEZnYVdtSUpjUXNkS2FOckJaQ1hHMjRhcXF3RUdmOGRqWm5nZEZq?oc=5",
+        "date": "2025-11-24",
+        "title": "Two apartment blocks evacuated after landslide triggers soil movement in Seputeh - The Edge Malaysia",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTE5MdFJlY3doZXBsRjh1MHF4STJhVERGMjFYaTJCNnlGUWpuSEZnYVdtSUpjUXNkS2FOckJaQ1hHMjRhcXF3RUdmOGRqWm5nZEZq?oc=5\" target=\"_blank\">Two apartment blocks evacuated after landslide triggers soil movement in Seputeh</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Edge Malaysia</font>",
+        "similarity_excluded": "No",
+        "score": 6,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQY2VUNU55aUlNbllldDNHclB6emx5X25VRjJPTGppaFJCdTFBVkZIcGQ5Z0p6b2w5ZzB4bU05dnZiTXN2WGNQdTRNaUVaODktMF85LWpHa2U0cEdaSTZyQ3JXVVRWM2hkX1l6bERQalp1WFlIWlZtWkVQM3cxZ0lJQ2trV2JGRzZoaHNCaU1kMHNaNnV3bUptNUIwZW5vYk0?oc=5",
+        "date": "2025-11-24",
+        "title": "Malaysian floods affect 11,000 people across 7 states - The Straits Times",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQY2VUNU55aUlNbllldDNHclB6emx5X25VRjJPTGppaFJCdTFBVkZIcGQ5Z0p6b2w5ZzB4bU05dnZiTXN2WGNQdTRNaUVaODktMF85LWpHa2U0cEdaSTZyQ3JXVVRWM2hkX1l6bERQalp1WFlIWlZtWkVQM3cxZ0lJQ2trV2JGRzZoaHNCaU1kMHNaNnV3bUptNUIwZW5vYk0?oc=5\" target=\"_blank\">Malaysian floods affect 11,000 people across 7 states</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Straits Times</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "posted",
+        "tweet": "\ud83c\uddf2\ud83c\uddfe POST-EVENT Malaysia: Floods affect 11,000 people across 7 states. (The Straits Times)",
+        "type": "news"
     }
 ]
