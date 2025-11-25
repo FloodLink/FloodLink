@@ -1529,5 +1529,13 @@
         "status": "posted",
         "tweet": "\ud83c\uddf9\ud83c\udded POST-EVENT Thailand: Severe floods strand over 1,000 tourists; authorities stepping in to provide assistance. (Gulf News)",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2025-11-25",
+        "status": "posted",
+        "tweet": "\ud83c\uddea\ud83c\uddfa Europe boasts 98% coverage of flood early warning systems for 450M people at risk from floods and storm surges (2024 data).  \n\ud83c\uddee\ud83c\uddf3 India: 62% coverage for 600M exposed to flash floods and extreme rainfall, up from 45% in 2020.",
+        "type": "statistical",
+        "category": "coverage of flood early warning systems worldwide"
     }
 ]
