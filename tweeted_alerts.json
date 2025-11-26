@@ -2,13 +2,14 @@
   "3.8077,103.3260": {
     "country": "Malaysia",
     "name": "Kuantan",
-    "risk_level": "Medium",
+    "risk_level": "Low",
     "latitude": 3.8077,
     "longitude": 103.326,
-    "rain_mm": 89.4,
-    "humidity": 97.7,
+    "rain_mm": 4.8,
+    "humidity": 90.2,
     "soil_moisture": 0.0,
-    "raw_dynamic_score": 8.115,
-    "last_updated": "2025-11-25T15:27:49.167925Z"
+    "raw_dynamic_score": 0.434,
+    "last_updated": "2025-11-26T08:35:33.759437Z",
+    "resolved": true
   }
 }
