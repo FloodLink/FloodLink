@@ -1647,5 +1647,66 @@
         "status": "posted",
         "tweet": "\ud83c\uddee\ud83c\udde9 POST-EVENT Sumatra: At least 10 killed, six missing after landslips and flash floods. (The Hindu)",
         "type": "news"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5ySFZHc1JJTmY3UXF5WHlJdTRnT0gwVmt4dURxNE9ibVQxM3lZWl9pSkRYR3ZucV92aHFxa2J0cGdQMXJFV21NbHc3d1hWSllmanFEUURwRWRCY1BWVDV0Q1dyR3ZYVW1vUzZ3TUQ0THJ5OG5k?oc=5",
+        "date": "2025-11-26",
+        "title": "Mum and four-year-old rescued by boat as sudden flash flood destroys home - Yahoo News UK",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE5ySFZHc1JJTmY3UXF5WHlJdTRnT0gwVmt4dURxNE9ibVQxM3lZWl9pSkRYR3ZucV92aHFxa2J0cGdQMXJFV21NbHc3d1hWSllmanFEUURwRWRCY1BWVDV0Q1dyR3ZYVW1vUzZ3TUQ0THJ5OG5k?oc=5\" target=\"_blank\">Mum and four-year-old rescued by boat as sudden flash flood destroys home</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo News UK</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNM3V0OFlNQ1dYOXRlcmFZVFU1OURtY19XWkZZZmRscFRXNTd4bXZrUE52MEJ4OC1mXy1ORXVfbG95clNXZEtfalppNlV2cDNrcWp0enVZdWJ2NkFkNE9MQWdKdkI3cjlWREc1OUkwUUtneDhTVFdsRXMxLVRTRnhRTUF4RzJWWUpZRTlvc1BjWWVvaGtkMTFR?oc=5",
+        "date": "2025-11-26",
+        "title": "Unusual alignment of two climate forces behind record-breaking rain, floods in Southeast Asia - CNA",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNM3V0OFlNQ1dYOXRlcmFZVFU1OURtY19XWkZZZmRscFRXNTd4bXZrUE52MEJ4OC1mXy1ORXVfbG95clNXZEtfalppNlV2cDNrcWp0enVZdWJ2NkFkNE9MQWdKdkI3cjlWREc1OUkwUUtneDhTVFdsRXMxLVRTRnhRTUF4RzJWWUpZRTlvc1BjWWVvaGtkMTFR?oc=5\" target=\"_blank\">Unusual alignment of two climate forces behind record-breaking rain, floods in Southeast Asia</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNA</font>",
+        "similarity_excluded": "No",
+        "score": 10,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNbWtFTHBVSGRadlJ4X0I1VHZURlJ2WGpZTW83U3lLQXNPUS1LbVRUbzc2SW1DV1hMenpUUlpTbTI2Z2loZnh2SUlhRnVIQmc2WElSZlZWQlk4V0o1ZUFKRFpvNURWNUFLTFZfWGF5MVctSFJtUXRJaC1mb1pBeWp6UzJ4bWFINEZYa1VTdFI1SUbSAaMBQVVfeXFMTlFnRmNEQ3A2WkNsQXZmeG1IVS1KNVFqTTJSUndDYWstLUo2SVdOSWFpMmNEXzFfcHd4aXJ6ZEp3bEdQcHR4OHJOcUJtX1VNTnVjZnk5YWw2ZkpHV1FRVVZLYjZrLWJjQldsNXh1T1JBbW5tdjVFdEtTa181ekdsR2xvUHFiMGhod0k0b0Ffam9BQ3NSbVMwWi1QYVIzRHhybU9mMA?oc=5",
+        "date": "2025-11-26",
+        "title": "21,000 evacuate following floods in Malaysia - Gulf News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNbWtFTHBVSGRadlJ4X0I1VHZURlJ2WGpZTW83U3lLQXNPUS1LbVRUbzc2SW1DV1hMenpUUlpTbTI2Z2loZnh2SUlhRnVIQmc2WElSZlZWQlk4V0o1ZUFKRFpvNURWNUFLTFZfWGF5MVctSFJtUXRJaC1mb1pBeWp6UzJ4bWFINEZYa1VTdFI1SUbSAaMBQVVfeXFMTlFnRmNEQ3A2WkNsQXZmeG1IVS1KNVFqTTJSUndDYWstLUo2SVdOSWFpMmNEXzFfcHd4aXJ6ZEp3bEdQcHR4OHJOcUJtX1VNTnVjZnk5YWw2ZkpHV1FRVVZLYjZrLWJjQldsNXh1T1JBbW5tdjVFdEtTa181ekdsR2xvUHFiMGhod0k0b0Ffam9BQ3NSbVMwWi1QYVIzRHhybU9mMA?oc=5\" target=\"_blank\">21,000 evacuate following floods in Malaysia</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Gulf News</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONXViM19oTXVxTDJ6cHhfUGdtakttbjZybnh2QWZvY19OSWxFeFdoUGhzN2xuSEoxLWgxemdqbUhFWER5dVVXUUk3U01sR21RdmlTSmtKQ1V4ZmlSMHdhSFdDUjJaWFVwdVpRWTFwbHRndl9QNm1YNWU5bERhOURaa0RncnJaYmY2Z1dKeFFqNU5jdnJIYWxZZWZ6cXZ6TElJcmtvTHZqYTc?oc=5",
+        "date": "2025-11-26",
+        "title": "Floods and landslides kill eight in Indonesia - Free Malaysia Today",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxONXViM19oTXVxTDJ6cHhfUGdtakttbjZybnh2QWZvY19OSWxFeFdoUGhzN2xuSEoxLWgxemdqbUhFWER5dVVXUUk3U01sR21RdmlTSmtKQ1V4ZmlSMHdhSFdDUjJaWFVwdVpRWTFwbHRndl9QNm1YNWU5bERhOURaa0RncnJaYmY2Z1dKeFFqNU5jdnJIYWxZZWZ6cXZ6TElJcmtvTHZqYTc?oc=5\" target=\"_blank\">Floods and landslides kill eight in Indonesia</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Free Malaysia Today</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNS1Q0MUlzazRYZ0JvR0NWV1pZYWRSNGpwdTljQ3pUeFV1djF6N2RBQjdsTnc1dW9IQnhySjdtSkxiMmNJaVhqOVVRU1ZKV0llSm13MzZPN215WHdMQ01XUVloNnFjVDRuQTBHWVY5clFtQ1pKLVJwdGdybjNmOWJEaXpwWnFQdVc1UTN6VEhQd29lOHlBd09yZ2hrd1ZlTlZ1LVdRMjJQS0IxcnUtZmRKSDloNHU0Z9IBuwFBVV95cUxNZGl2T0QxekZGQ1ctcVZ4TU4yWUIySUx2RUJDaVdWaGdiNVZpcy1tU0U4U05USnJNM2QzYkN4YXdNbUQ4Q0FQUlBucWZ1X3YwNWtFMFpocUFtMUJfNUg4WXBMY0RUQTIzYWhCc2lQVEFINDJXZG1jVkQ5dmNSMUhBMTdleUJic1kyeWxfWGhVSVZyd1RBaUNBSllWS0wwOEl1RjhFeHFodk4yQk83ZURqWGNaVlNtOElYV1ZZ?oc=5",
+        "date": "2025-11-26",
+        "title": "Landslides and flash floods on Indonesia\u2019s Sumatra island leave at least 10 dead and 6 missing - ABC News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNS1Q0MUlzazRYZ0JvR0NWV1pZYWRSNGpwdTljQ3pUeFV1djF6N2RBQjdsTnc1dW9IQnhySjdtSkxiMmNJaVhqOVVRU1ZKV0llSm13MzZPN215WHdMQ01XUVloNnFjVDRuQTBHWVY5clFtQ1pKLVJwdGdybjNmOWJEaXpwWnFQdVc1UTN6VEhQd29lOHlBd09yZ2hrd1ZlTlZ1LVdRMjJQS0IxcnUtZmRKSDloNHU0Z9IBuwFBVV95cUxNZGl2T0QxekZGQ1ctcVZ4TU4yWUIySUx2RUJDaVdWaGdiNVZpcy1tU0U4U05USnJNM2QzYkN4YXdNbUQ4Q0FQUlBucWZ1X3YwNWtFMFpocUFtMUJfNUg4WXBMY0RUQTIzYWhCc2lQVEFINDJXZG1jVkQ5dmNSMUhBMTdleUJic1kyeWxfWGhVSVZyd1RBaUNBSllWS0wwOEl1RjhFeHFodk4yQk83ZURqWGNaVlNtOElYV1ZZ?oc=5\" target=\"_blank\">Landslides and flash floods on Indonesia\u2019s Sumatra island leave at least 10 dead and 6 missing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ABC News</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNM3V0OFlNQ1dYOXRlcmFZVFU1OURtY19XWkZZZmRscFRXNTd4bXZrUE52MEJ4OC1mXy1ORXVfbG95clNXZEtfalppNlV2cDNrcWp0enVZdWJ2NkFkNE9MQWdKdkI3cjlWREc1OUkwUUtneDhTVFdsRXMxLVRTRnhRTUF4RzJWWUpZRTlvc1BjWWVvaGtkMTFR?oc=5",
+        "date": "2025-11-26",
+        "title": "Unusual alignment of two climate forces behind record-breaking rain, floods in Southeast Asia - CNA",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNM3V0OFlNQ1dYOXRlcmFZVFU1OURtY19XWkZZZmRscFRXNTd4bXZrUE52MEJ4OC1mXy1ORXVfbG95clNXZEtfalppNlV2cDNrcWp0enVZdWJ2NkFkNE9MQWdKdkI3cjlWREc1OUkwUUtneDhTVFdsRXMxLVRTRnhRTUF4RzJWWUpZRTlvc1BjWWVvaGtkMTFR?oc=5\" target=\"_blank\">Unusual alignment of two climate forces behind record-breaking rain, floods in Southeast Asia</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNA</font>",
+        "similarity_excluded": "No",
+        "score": 10,
+        "status": "posted",
+        "tweet": "POST-EVENT Southeast Asia: Record-breaking floods from heavy rain due to unusual alignment of two climate forces. (CNA)",
+        "type": "news"
     }
 ]
