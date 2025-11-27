@@ -1917,5 +1917,13 @@
         "status": "posted",
         "tweet": "POST-EVENT Thailand and Indonesia: Floods spur drone deployment for relief efforts in Thailand; death toll climbs from ongoing floods in Indonesia. (Reuters)",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2025-11-27",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 US: 31 million people live in 100-year floodplains, vulnerable to flash floods & storm surge (2023 data).\n\n\ud83c\udde8\ud83c\uddf3 China: 194 million in similar zones, at risk from extreme rainfall & river floods.\n\n(2023 estimates)",
+        "type": "statistical",
+        "category": "population living in floodplains"
     }
 ]
