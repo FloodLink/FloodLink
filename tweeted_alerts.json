@@ -10,5 +10,17 @@
     "soil_moisture": 0.0,
     "raw_dynamic_score": 5.038,
     "last_updated": "2025-11-27T08:41:02.209303Z"
+  },
+  "25.7891,-80.2040": {
+    "country": "United States of America",
+    "name": "Miami",
+    "risk_level": "Medium",
+    "latitude": 25.7891,
+    "longitude": -80.204,
+    "rain_mm": 77.1,
+    "humidity": 83.5,
+    "soil_moisture": 0.0,
+    "raw_dynamic_score": 7.249,
+    "last_updated": "2025-11-27T15:30:32.178357Z"
   }
 }
