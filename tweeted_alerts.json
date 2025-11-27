@@ -1,1 +1,14 @@
-{}
+{
+  "2.7297,101.9381": {
+    "country": "Malaysia",
+    "name": "Seremban",
+    "risk_level": "Medium",
+    "latitude": 2.7297,
+    "longitude": 101.9381,
+    "rain_mm": 55.9,
+    "humidity": 87.3,
+    "soil_moisture": 0.0,
+    "raw_dynamic_score": 5.038,
+    "last_updated": "2025-11-27T08:41:02.209303Z"
+  }
+}
