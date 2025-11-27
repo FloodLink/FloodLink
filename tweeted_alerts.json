@@ -2,14 +2,15 @@
   "2.7297,101.9381": {
     "country": "Malaysia",
     "name": "Seremban",
-    "risk_level": "Medium",
+    "risk_level": "Low",
     "latitude": 2.7297,
     "longitude": 101.9381,
-    "rain_mm": 55.9,
-    "humidity": 87.3,
+    "rain_mm": 23.9,
+    "humidity": 92.7,
     "soil_moisture": 0.0,
-    "raw_dynamic_score": 5.038,
-    "last_updated": "2025-11-27T08:41:02.209303Z"
+    "raw_dynamic_score": 2.16,
+    "last_updated": "2025-11-27T17:21:47.023853Z",
+    "resolved": true
   },
   "25.7891,-80.2040": {
     "country": "United States of America",
@@ -22,5 +23,17 @@
     "soil_moisture": 0.0,
     "raw_dynamic_score": 7.249,
     "last_updated": "2025-11-27T15:30:32.178357Z"
+  },
+  "3.1412,101.6865": {
+    "country": "Malaysia",
+    "name": "Kuala Lumpur",
+    "risk_level": "Medium",
+    "latitude": 3.1412,
+    "longitude": 101.6865,
+    "rain_mm": 59.3,
+    "humidity": 97.0,
+    "soil_moisture": 0.0,
+    "raw_dynamic_score": 5.611,
+    "last_updated": "2025-11-27T17:21:16.759430Z"
   }
 }
