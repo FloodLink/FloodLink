@@ -2,15 +2,15 @@ name: 🌧️ FloodLink – Auto-Post Flood News
 
 on:
   schedule:
-    # Runs roughly every 50 minutes, like your previous hybrid bot
+    # Runs roughly every 50 minutes, like your construction bot
     - cron: "*/50 * * * *"
-  workflow_dispatch:  # Manual trigger if you want to test
+  workflow_dispatch:  # Manual trigger for testing
 
 permissions:
-  contents: write  # Needed if we want to commit JSON logs
+  contents: write  # Needed to commit JSON logs
 
 concurrency:
-  group: floodlink-news  # Different group from the construction bot
+  group: floodlink-news      # Separate from the construction bot
   cancel-in-progress: true
 
 jobs:
@@ -30,19 +30,36 @@ jobs:
         run: |
           pip install --upgrade tweepy openai feedparser requests
 
+      - name: 📄 Initialize FloodLink Log Files
+        run: |
+          # Main news log
+          if [ ! -f floodlink_news.json ]; then echo '[]' > floodlink_news.json; fi
+          # Reply log (dict keyed by tweet_id)
+          if [ ! -f floodlink_replies.json ]; then echo '{}' > floodlink_replies.json; fi
+
       - name: 🚀 Run FloodLink News Bot
         env:
           TWITTER_API_KEY: ${{ secrets.TWITTER_API_KEY }}
           TWITTER_SECRET: ${{ secrets.TWITTER_SECRET }}
           TWITTER_ACCESS_TOKEN: ${{ secrets.TWITTER_ACCESS_TOKEN }}
           TWITTER_ACCESS_SECRET: ${{ secrets.TWITTER_ACCESS_SECRET }}
+          TWITTER_BEARER_TOKEN: ${{ secrets.TWITTER_BEARER_TOKEN }}  # 🔴 NEW – needed for bearer_client
           XAI_API_KEY: ${{ secrets.XAI_API_KEY }}
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}               # (safe to pass, even if not used yet)
         run: python news-feed.py
 
       - name: 🔄 Commit and Push FloodLink Logs
         run: |
           git config --global user.email "github-actions@github.com"
           git config --global user.name "GitHub Actions"
+
+          # Stage both log files (if they exist)
           git add floodlink_news.json floodlink_replies.json || true
-          git diff --cached --quiet && echo "No changes to commit" || \
-            (git commit -m "Update FloodLink logs [Automated]" && git push origin main)
+
+          # Commit only if there are changes
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Update FloodLink logs [Automated]"
+            git push origin main
+          fi
