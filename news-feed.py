@@ -465,7 +465,7 @@ def count_replies_today(reply_log):
     today = datetime.utcnow().strftime("%Y-%m-%d")
     return sum(1 for entry in reply_log.values() if entry.get("date") == today)
 
-def fetch_latest_tweets(user_id, max_results=5):
+def fetch_latest_tweets(user_id, max_results=1):  # prior 5 but takes a lot of resources from free X API
     """ Fetch the latest original tweets from a specific user. """
     try:
         tweets = bearer_client.get_users_tweets(  # use read-only client
