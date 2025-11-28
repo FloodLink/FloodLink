@@ -1,27 +1,15 @@
 {
-  "3.1412,101.6865": {
-    "country": "Malaysia",
-    "name": "Kuala Lumpur",
-    "risk_level": "Low",
-    "latitude": 3.1412,
-    "longitude": 101.6865,
-    "rain_mm": 29.8,
-    "humidity": 93.2,
-    "soil_moisture": 0.0,
-    "raw_dynamic_score": 2.815,
-    "last_updated": "2025-11-27T23:09:08.434021Z",
-    "resolved": true
-  },
   "3.8077,103.3260": {
     "country": "Malaysia",
     "name": "Kuantan",
-    "risk_level": "Medium",
+    "risk_level": "Low",
     "latitude": 3.8077,
     "longitude": 103.326,
-    "rain_mm": 86.2,
-    "humidity": 95.3,
+    "rain_mm": 47.8,
+    "humidity": 94.3,
     "soil_moisture": 0.0,
-    "raw_dynamic_score": 7.816,
-    "last_updated": "2025-11-27T23:09:38.633295Z"
+    "raw_dynamic_score": 4.332,
+    "last_updated": "2025-11-28T05:13:09.234304Z",
+    "resolved": true
   }
 }
