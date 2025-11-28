@@ -81,7 +81,7 @@ def fetch_weather(lat, lon):
         "https://api.open-meteo.com/v1/forecast?"
         f"latitude={lat}&longitude={lon}"
         f"&hourly=precipitation,relative_humidity_2m,soil_moisture_0_to_7cm"
-        f"&forecast_days=2&timezone={TIMEZONE}"
+        f"&forecast_days=2&timezone=auto"   # <--- changed from {TIMEZONE}
     )
     for attempt in range(1, MAX_RETRIES + 1):
         try:
@@ -102,31 +102,49 @@ def fetch_weather(lat, lon):
 # -------------------------------
 def compute_indicators(api_data):
     """
-    Use the next FORECAST_HOURS starting at 'now' in the requested timezone.
-    - precipitation: sum (mm)
-    - RH / soil : average over window
-    Open-Meteo soil moisture is m³/m³; useful range ~0–0.6; normalize to [0,1].
+    Use the next FORECAST_HOURS starting at 'now' in the *local* timezone
+    returned by Open-Meteo (timezone=auto).
+
+    Returns:
+        rain_sum (mm),
+        rh_avg (%),
+        soil_avg (0–1),
+        peak_dt_local (datetime or None)  # local time of max rainfall in window
     """
     hourly = api_data.get("hourly", {})
     times = hourly.get("time", [])
     if not times:
-        return 0.0, 0.0, 0.0
+        return 0.0, 0.0, 0.0, None
 
-    tz = ZoneInfo(TIMEZONE)
-    now = datetime.now(tz).replace(minute=0, second=0, microsecond=0)
+    # Local timezone for this coordinate (fallback to global TIMEZONE)
+    tz_name = api_data.get("timezone", TIMEZONE)
+    try:
+        tz = ZoneInfo(tz_name)
+    except Exception:
+        tz = ZoneInfo(TIMEZONE)
 
-    # parse times (DatetimeIndex) — robust tz handling
-    dt = pd.to_datetime(times, utc=True).tz_convert(tz)
+    # Parse times → timezone-aware local datetimes
+    dt = pd.to_datetime(times)
+    if dt.tz is None:
+        dt = dt.tz_localize(tz)
+    else:
+        dt = dt.tz_convert(tz)
 
-    start_idx = next((i for i, t in enumerate(dt) if t >= now), 0)
+    # "Now" in that local timezone, aligned to the hour
+    now_local = datetime.now(tz).replace(minute=0, second=0, microsecond=0)
+
+    # Start index = first forecast time >= now
+    start_idx = next((i for i, t in enumerate(dt) if t >= now_local), 0)
     end_idx = start_idx + FORECAST_HOURS
 
     def window(key, default=0.0):
         arr = hourly.get(key, [])
         vals = []
-        for v in arr[start_idx:end_idx]:
+        # Only index while within arr bounds
+        for i in range(start_idx, min(end_idx, len(arr))):
+            v = arr[i]
             vals.append(v if isinstance(v, (int, float)) and v is not None else default)
-        # pad if short
+        # pad if fewer than FORECAST_HOURS
         if len(vals) < FORECAST_HOURS:
             vals += [default] * (FORECAST_HOURS - len(vals))
         return vals
@@ -142,7 +160,21 @@ def compute_indicators(api_data):
     soil_norm = [min(max(x / 0.6, 0.0), 1.0) for x in soil_vals]
     soil_avg  = float(sum(soil_norm) / FORECAST_HOURS)
 
-    return rain_sum, rh_avg, soil_avg
+    # Time of max rainfall within this window
+    if any(rain_vals):
+        # index inside the window [0..FORECAST_HOURS-1]
+        max_idx_in_window = max(range(len(rain_vals)), key=lambda i: rain_vals[i])
+        # convert to absolute index in dt
+        dt_idx = start_idx + max_idx_in_window
+        if dt_idx < len(dt):
+            peak_dt_local = dt[dt_idx]
+        else:
+            peak_dt_local = None
+    else:
+        peak_dt_local = None
+
+    return rain_sum, rh_avg, soil_avg, peak_dt_local
+
 
 # -------------------------------
 # LINEAR MULTIPLIERS
@@ -328,11 +360,13 @@ def tweet_alert(change_type, alert):
 
     # Uppercase level for the header line
     level_upper = level.upper()
+    
+    peak_time_str = alert.get("peak_time_local_str", "unknown")
 
     tweet_text = (
         f"{color_emoji} {level_upper} FLOOD RISK – {place}\n\n"
         f"Type: {change_type}\n"
-        f"Time: {FORECAST_HOURS} hours\n"
+        f"Local Time: {peak_time_str}\n"
         f"Location: ({lat:.2f}, {lon:.2f})\n"
         f"Rain: {alert[f'rain_{FORECAST_HOURS}h_mm']:.1f} mm\n"
         # f"Soil moisture: {alert['soil_moisture_avg']:.2f}\n"
@@ -405,10 +439,16 @@ def main():
             continue
 
         # Normal path: we got fresh weather data
-        rain_sum, rh_avg, soil_avg = compute_indicators(data)
+        rain_sum, rh_avg, soil_avg, peak_dt_local = compute_indicators(data)
         raw_score, dyn_level, r_mult, s_mult, h_mult = calculate_dynamic_risk_raw(
             base_risk, rain_sum, rh_avg, soil_avg
         )
+
+        # Simple local time string like "23:00"
+        if peak_dt_local is not None:
+            peak_time_local_str = peak_dt_local.strftime("%H:%M")
+        else:
+            peak_time_local_str = "unknown"
 
         alerts.append({
             "id": str(row["JOIN_ID"]),
@@ -428,7 +468,10 @@ def main():
             "humidity_mult": round(h_mult, 3),
 
             "raw_dynamic_score": raw_score,
-            "dynamic_level": dyn_level
+            "dynamic_level": dyn_level,
+
+            # NEW: time of max rainfall in the window
+            "peak_time_local_str": peak_time_local_str,
         })
 
         time.sleep(SLEEP_BETWEEN_CALLS)
