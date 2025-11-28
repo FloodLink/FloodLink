@@ -499,6 +499,7 @@ def generate_grok_reply(tweet_text, username):
     You are responding to @{username} on Twitter.
 
     - Read the following tweet and generate a **concise, data-driven reply** that adds a relevant statistic or fact. 
+    - If relevant, bring it towards the flooding theme, but do not force it.
     - Ensure the response is **engaging, contextually relevant, and under 280 characters.**
     - The reply should **enhance the conversation** by providing a valuable insight related to the tweet's topic.
     - **Maintain a professional yet conversational tone.**
