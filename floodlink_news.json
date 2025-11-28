@@ -1925,5 +1925,76 @@
         "tweet": "\ud83c\uddfa\ud83c\uddf8 US: 31 million people live in 100-year floodplains, vulnerable to flash floods & storm surge (2023 data).\n\n\ud83c\udde8\ud83c\uddf3 China: 194 million in similar zones, at risk from extreme rainfall & river floods.\n\n(2023 estimates)",
         "type": "statistical",
         "category": "population living in floodplains"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBEcFFnYnREYzY0QlB5eGdwUVdlTG5JbVp3RENkVGtYU3RyOEFXaVIwUDFNVUxOc0wtZ1dpTVQwbWpMaHNkRzlJVUo2QmlaYnhWNjktVlJGOC14Z9IBX0FVX3lxTE1id3MtSGFlbVFnNDZrdW1LR28yRF9VSXAtdjJFS1pJUjk3cURkVEdzTGxJYVZCYlQ0WUJPQi11Ym5WbTcyX1FXMmFYbTFIM004d202Z3l6LXU3TTBZLWFN?oc=5",
+        "date": "2025-11-28",
+        "title": "Sri Lanka: At least 40 dead after severe floods - BBC",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTFBEcFFnYnREYzY0QlB5eGdwUVdlTG5JbVp3RENkVGtYU3RyOEFXaVIwUDFNVUxOc0wtZ1dpTVQwbWpMaHNkRzlJVUo2QmlaYnhWNjktVlJGOC14Z9IBX0FVX3lxTE1id3MtSGFlbVFnNDZrdW1LR28yRF9VSXAtdjJFS1pJUjk3cURkVEdzTGxJYVZCYlQ0WUJPQi11Ym5WbTcyX1FXMmFYbTFIM004d202Z3l6LXU3TTBZLWFN?oc=5\" target=\"_blank\">Sri Lanka: At least 40 dead after severe floods</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
+        "similarity_excluded": "No",
+        "score": 10,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNLXROS0FDMzlnNlhHaWhIRlpSR3FIX2VGVUpjYnpPMzU1c24xZWNhclMtWklQYU1BOWFpWGx4bkg3enBIVjI0ZVFaR1JFN1d1dlNrUGMwZ0ppWld2bjlnQjdQN3R4NVowdGtvdmF4YklzNl9pN28tQTE0ZEVVZzdaVG5ZSTJ3RjRCcUNsRWZn?oc=5",
+        "date": "2025-11-28",
+        "title": "Flash flooding in Sumatra kills 69 as rescue crews search rivers for survivors - The Guardian",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNLXROS0FDMzlnNlhHaWhIRlpSR3FIX2VGVUpjYnpPMzU1c24xZWNhclMtWklQYU1BOWFpWGx4bkg3enBIVjI0ZVFaR1JFN1d1dlNrUGMwZ0ppWld2bjlnQjdQN3R4NVowdGtvdmF4YklzNl9pN28tQTE0ZEVVZzdaVG5ZSTJ3RjRCcUNsRWZn?oc=5\" target=\"_blank\">Flash flooding in Sumatra kills 69 as rescue crews search rivers for survivors</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQb25KbW9PUFhBd2w2Z09YQzRnV2g1eThPZkRpQ1M5d3p4MjVLLUxkQlVpbWdhZDJNUXY1NjYybnk0UjlLMUE5MzNWOWp3QUZTU0VwTU4ycl9RaHUxSk0tTW4wS1l2THE5eXFaeWJKNU5Za2M3VnBXeExpc0VRTEozNkNWN1NydVZLQVhsZFpNRW9GQ0lqT2tkaVJqbnVOTURZQmFKN1lsV2xIaVJONEZUdmpvQQ?oc=5",
+        "date": "2025-11-28",
+        "title": "Typhoon Koto weakens, heading for south-central Vietnam - VnExpress International",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQb25KbW9PUFhBd2w2Z09YQzRnV2g1eThPZkRpQ1M5d3p4MjVLLUxkQlVpbWdhZDJNUXY1NjYybnk0UjlLMUE5MzNWOWp3QUZTU0VwTU4ycl9RaHUxSk0tTW4wS1l2THE5eXFaeWJKNU5Za2M3VnBXeExpc0VRTEozNkNWN1NydVZLQVhsZFpNRW9GQ0lqT2tkaVJqbnVOTURZQmFKN1lsV2xIaVJONEZUdmpvQQ?oc=5\" target=\"_blank\">Typhoon Koto weakens, heading for south-central Vietnam</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VnExpress International</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTThMSnpfUGhVS3B0ZTJjb1J1UzRPRnV0Y25Ub0F6bE51NjVSQVE2ZnV2ZGxuYlduZjRxZ2FYLTR4cGJFT2ppN3lTd2lRYVlWd3JJc05YR0pxZzhJYzdSTjhSS28zZWxWSVc3dzRqamFoLWg4RE9hOG10bFpCUk1GWEljNUpSNFVrNllpT0lZc0tPQzRYckRrMlNYQkdmcU9wWGh1YV93?oc=5",
+        "date": "2025-11-28",
+        "title": "'Truly severe' floods overwhelm Southeast Asia - VnExpress International",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPTThMSnpfUGhVS3B0ZTJjb1J1UzRPRnV0Y25Ub0F6bE51NjVSQVE2ZnV2ZGxuYlduZjRxZ2FYLTR4cGJFT2ppN3lTd2lRYVlWd3JJc05YR0pxZzhJYzdSTjhSS28zZWxWSVc3dzRqamFoLWg4RE9hOG10bFpCUk1GWEljNUpSNFVrNllpT0lZc0tPQzRYckRrMlNYQkdmcU9wWGh1YV93?oc=5\" target=\"_blank\">'Truly severe' floods overwhelm Southeast Asia</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VnExpress International</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNS1ZHZnpTczhVQ1FSMTVZNUk3U1hFUDRoc0pSZzdSbndTYUJzUTdjcU04ZkdWZUV4TzhDYy1LMlcyODEzY2pZb2I2LWJQeDhGcGtpcTRxOE44UjRDRHE1ZHlOVFJnQlkxbkpBdG8wZ3BmYi16RklMckVBSC1qY2tmcGptbUQ2T2JiS1lOQmdiVDVELXY2WmVlOTJOZnhuRVJjWDRIY1hfVFI4QUtHSEZMRE52ekpDckpNbUgzTHBkZldNX2c?oc=5",
+        "date": "2025-11-28",
+        "title": "Sri Lanka closes offices and schools as death toll from landslides and floods rises to 56 - WRAL",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxNS1ZHZnpTczhVQ1FSMTVZNUk3U1hFUDRoc0pSZzdSbndTYUJzUTdjcU04ZkdWZUV4TzhDYy1LMlcyODEzY2pZb2I2LWJQeDhGcGtpcTRxOE44UjRDRHE1ZHlOVFJnQlkxbkpBdG8wZ3BmYi16RklMckVBSC1qY2tmcGptbUQ2T2JiS1lOQmdiVDVELXY2WmVlOTJOZnhuRVJjWDRIY1hfVFI4QUtHSEZMRE52ekpDckpNbUgzTHBkZldNX2c?oc=5\" target=\"_blank\">Sri Lanka closes offices and schools as death toll from landslides and floods rises to 56</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WRAL</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOcXlzbF9vQWJOdGQ1aHJUQzR1Zl9yTVI0b1ZGZjMzQmNQV21tamd2Y0ljTjRFSUFXOXNBcEdNOFBMOFBLeHFfUHNjMlpGeDlVRDN4Q05iakJyNHhyMFRjSmtzbm5PNkRDTl9pRzZTRmhjX3FMM0JKczFwNUlCNmVHMHJ4aGZkcUE1dks3TVNWRVhFanl5TUNKVF9pRQ?oc=5",
+        "date": "2025-11-28",
+        "title": "More than 30 dead and 14 missing amid landslides and floods - macau daily times \u6fb3\u9580\u6bcf\u65e5\u6642\u5831",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOcXlzbF9vQWJOdGQ1aHJUQzR1Zl9yTVI0b1ZGZjMzQmNQV21tamd2Y0ljTjRFSUFXOXNBcEdNOFBMOFBLeHFfUHNjMlpGeDlVRDN4Q05iakJyNHhyMFRjSmtzbm5PNkRDTl9pRzZTRmhjX3FMM0JKczFwNUlCNmVHMHJ4aGZkcUE1dks3TVNWRVhFanl5TUNKVF9pRQ?oc=5\" target=\"_blank\">More than 30 dead and 14 missing amid landslides and floods</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">macau daily times \u6fb3\u9580\u6bcf\u65e5\u6642\u5831</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBEcFFnYnREYzY0QlB5eGdwUVdlTG5JbVp3RENkVGtYU3RyOEFXaVIwUDFNVUxOc0wtZ1dpTVQwbWpMaHNkRzlJVUo2QmlaYnhWNjktVlJGOC14Z9IBX0FVX3lxTE1id3MtSGFlbVFnNDZrdW1LR28yRF9VSXAtdjJFS1pJUjk3cURkVEdzTGxJYVZCYlQ0WUJPQi11Ym5WbTcyX1FXMmFYbTFIM004d202Z3l6LXU3TTBZLWFN?oc=5",
+        "date": "2025-11-28",
+        "title": "Sri Lanka: At least 40 dead after severe floods - BBC",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTFBEcFFnYnREYzY0QlB5eGdwUVdlTG5JbVp3RENkVGtYU3RyOEFXaVIwUDFNVUxOc0wtZ1dpTVQwbWpMaHNkRzlJVUo2QmlaYnhWNjktVlJGOC14Z9IBX0FVX3lxTE1id3MtSGFlbVFnNDZrdW1LR28yRF9VSXAtdjJFS1pJUjk3cURkVEdzTGxJYVZCYlQ0WUJPQi11Ym5WbTcyX1FXMmFYbTFIM004d202Z3l6LXU3TTBZLWFN?oc=5\" target=\"_blank\">Sri Lanka: At least 40 dead after severe floods</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
+        "similarity_excluded": "No",
+        "score": 10,
+        "status": "posted",
+        "tweet": "\ud83c\uddf1\ud83c\uddf0 POST-EVENT Sri Lanka: At least 40 dead after severe floods (BBC)",
+        "type": "news"
     }
 ]
