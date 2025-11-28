@@ -34,10 +34,11 @@ twitter_client = tweepy.Client(
 
 # Accounts FloodLink may occasionally reply to (FILL IN REAL IDs)
 TARGET_ACCOUNTS = {
-    "sama": "1605",        # Replace with actual user IDs
-    "elonmusk": "44196397",    # Replace with actual user IDs
-    "stats_feed": "1335132884278108161",   # Replace with actual user IDs
-    "balajis": "2178012643"
+    "NWS": "454313925",        # Replace with actual user IDs
+    "RedCross": "6519522",    # Replace with actual user IDs
+    "CIA": "2359926157",   # Replace with actual user IDs
+    "WHO": "14499829",
+    "UN": "14159148"
 }
 
 # =========================================================
