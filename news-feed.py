@@ -91,10 +91,10 @@ RANDOM_REPLY = 0.2
 RANDOM_NONE = 0.2
 
 # Daily tweet limits
-NEWS_TWEETS_LIMIT = 4        # flood news
+NEWS_TWEETS_LIMIT = 3        # flood news
 STAT_TWEETS_LIMIT = 1        # flood stats
 INFRA_TWEETS_LIMIT = 1       # flood infrastructure
-REPLY_TWEETS_LIMIT = 1       # replies
+REPLY_TWEETS_LIMIT = 3       # replies
 
 # =========================================================
 #                        HELPERS
