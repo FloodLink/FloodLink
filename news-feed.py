@@ -84,11 +84,11 @@ RETENTION_DAYS = 10
 TWEET_THRESHOLD = 9  # 0–10 relevance; post only high-impact events
 
 # Tweet type probabilities
-RANDOM_NEWS = 0
-RANDOM_STATISTIC = 0
-RANDOM_INFRASTRUCTURE = 0
-RANDOM_REPLY = 1
-RANDOM_NONE = 0
+RANDOM_NEWS = 0.3
+RANDOM_STATISTIC = 0.1
+RANDOM_INFRASTRUCTURE = 0.2
+RANDOM_REPLY = 0.2
+RANDOM_NONE = 0.2
 
 # Daily tweet limits
 NEWS_TWEETS_LIMIT = 3        # flood news
