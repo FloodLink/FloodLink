@@ -16,15 +16,24 @@ TWITTER_API_KEY = os.getenv("TWITTER_API_KEY")
 TWITTER_SECRET = os.getenv("TWITTER_SECRET")
 TWITTER_ACCESS_TOKEN = os.getenv("TWITTER_ACCESS_TOKEN")
 TWITTER_ACCESS_SECRET = os.getenv("TWITTER_ACCESS_SECRET")
+TWITTER_BEARER_TOKEN = os.getenv("TWITTER_BEARER_TOKEN")
 OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
 XAI_API_KEY = os.getenv("XAI_API_KEY")
 
-XAI_MODEL = "grok-4-fast-reasoning"
+# --- Updated model definitions (October 2025) ---
+OPENAI_MODEL = "gpt-5"                     # Replaces GPT-4
+XAI_MODEL = "grok-4-fast-reasoning"        # Replaces Grok-2-1212
 
 # =========================================================
 #                        TWITTER
 # =========================================================
 
+# Authenticate Twitter API (Using API v2)
+bearer_client = tweepy.Client(
+    bearer_token=TWITTER_BEARER_TOKEN
+)  # For reads (OAuth 2.0 app-only)
+
+# Authenticate Twitter API (Using API v2)
 twitter_client = tweepy.Client(
     consumer_key=TWITTER_API_KEY,
     consumer_secret=TWITTER_SECRET,
@@ -427,22 +436,39 @@ Rules:
 # =========================================================
 
 def load_reply_log():
+    """ Load previously replied tweets to avoid duplicates. """
     if os.path.exists(REPLY_LOG_FILE):
-        with open(REPLY_LOG_FILE, "r") as f:
-            return json.load(f)
+        try:
+            with open(REPLY_LOG_FILE, "r") as file:
+                data = json.load(file)
+                if isinstance(data, dict):
+                    return data
+                # if somehow stored as list, convert to dict-ish
+                print("⚠️ reply log not in dict format, resetting.")
+                return {}
+        except json.JSONDecodeError:
+            print("⚠️ Corrupted reply log, resetting.")
+            return {}
     return {}
 
 def save_reply_log(log_data):
-    with open(REPLY_LOG_FILE, "w") as f:
-        json.dump(log_data, f, indent=4)
+    """ Save replied tweets to prevent duplicate replies. """
+    print("💾 Writing to floodlink_replies.json...")
+    try:
+        with open(REPLY_LOG_FILE, "w") as file:
+            json.dump(log_data, file, indent=4)
+        print("✅ Successfully wrote to floodlink_replies.json!")
+    except Exception as e:
+        print(f"❌ Error writing to floodlink_replies.json: {e}")
 
 def count_replies_today(reply_log):
     today = datetime.utcnow().strftime("%Y-%m-%d")
-    return sum(1 for entry in reply_log.values() if entry["date"] == today)
+    return sum(1 for entry in reply_log.values() if entry.get("date") == today)
 
 def fetch_latest_tweets(user_id, max_results=5):
+    """ Fetch the latest original tweets from a specific user. """
     try:
-        tweets = twitter_client.get_users_tweets(
+        tweets = bearer_client.get_users_tweets(  # use read-only client
             id=user_id,
             max_results=max_results,
             tweet_fields=["id", "text", "created_at"],
@@ -450,7 +476,7 @@ def fetch_latest_tweets(user_id, max_results=5):
         )
         return tweets.data if tweets.data else []
     except tweepy.errors.TweepyException as e:
-        print(f"❌ Error fetching tweets for {user_id}: {e}")
+        print(f"❌ Error fetching tweets for user {user_id}: {e}")
         return []
 
 def pick_most_recent_tweet(all_tweets, reply_log):
@@ -470,25 +496,20 @@ def generate_grok_reply(tweet_text, username):
     )
 
     prompt = f"""
-You are replying as FloodLink, a flood-risk early warning system on X.
+    You are responding to @{username} on Twitter.
 
-Read this tweet from @{username} (likely about climate, disasters, weather or resilience)
-and reply with ONE concise, data-driven insight related to:
+    - Read the following tweet and generate a **concise, data-driven reply** that adds a relevant statistic or fact. 
+    - Ensure the response is **engaging, contextually relevant, and under 280 characters.**
+    - The reply should **enhance the conversation** by providing a valuable insight related to the tweet's topic.
+    - **Maintain a professional yet conversational tone.**
+    - **DO NOT mention or @ the username to keep it natural.**
+    - **DO NOT use hashtags, emojis, or generic phrases.**
+    - If no suitable statistic is available, provide a **thoughtful industry insight, preferably related to one of @{username}'s companies.**
 
-- floods, flash floods, storm surge, rainfall extremes, river levels,
-- early warning systems, flood forecasting, or urban flood resilience.
+    **Tweet:** "{tweet_text}"
 
-Rules:
-- Under 240 characters.
-- NO hashtags.
-- NO emojis except country flags before location names, if used.
-- Tone: factual, calm, slightly analytical. No hype.
-
-Tweet:
-\"\"\"{tweet_text}\"\"\"
-
-Your reply (text only, no username prefix):
-"""
+    **Your Reply:**
+    """
 
     response = client.chat.completions.create(
         model=XAI_MODEL,
@@ -497,36 +518,49 @@ Your reply (text only, no username prefix):
     return response.choices[0].message.content.strip()
 
 def reply_to_random_tweet():
+    """ Randomly select a target account, fetch their latest tweets, and reply once per tweet ID. """
     reply_log = load_reply_log()
+
+    # Daily limit check
     if count_replies_today(reply_log) >= REPLY_TWEETS_LIMIT:
-        print(f"🚫 Reached daily reply limit ({REPLY_TWEETS_LIMIT}).")
+        print(f"🚫 Reached daily reply limit ({REPLY_TWEETS_LIMIT}). Exiting.")
         return
 
     if not TARGET_ACCOUNTS:
         print("⚠️ No TARGET_ACCOUNTS configured for FloodLink replies.")
         return
 
+    # 1️⃣ Randomly pick one target account
     username = random.choice(list(TARGET_ACCOUNTS.keys()))
     user_id = TARGET_ACCOUNTS[username]
     print(f"🔍 Fetching tweets from @{username}...")
 
+    # 2️⃣ Fetch their latest tweets (excludes retweets and replies)
     all_tweets = fetch_latest_tweets(user_id, max_results=5)
     if not all_tweets:
+        print(f"🔍 No tweets found for @{username}.")
         return
 
-    selected = pick_most_recent_tweet(all_tweets, reply_log)
-    if not selected:
+    # 3️⃣ Filter out tweets we've already replied to (by tweet ID)
+    replied_ids = set(reply_log.keys())
+    new_tweets = [t for t in all_tweets if str(t.id) not in replied_ids]
+
+    if not new_tweets:
+        print(f"🔁 All recent tweets from @{username} already replied to. Skipping this run.")
         return
 
-    tweet_id = selected.id
-    tweet_text = selected.text
+    # pick the most recent unreplied tweet (they come in newest-first order)
+    selected_tweet = new_tweets[0]
+    tweet_id = selected_tweet.id
+    tweet_text = selected_tweet.text
 
+    # 4️⃣ Generate a FloodLink-style reply
     reply_text = generate_grok_reply(tweet_text, username)
     if not reply_text:
-        print("❌ Failed to generate reply.")
+        print(f"❌ Failed to generate reply for @{username}. Skipping.")
         return
 
-    # Prepare log entry up front (will save even if API fails)
+    # 5️⃣ Prepare log entry (we log even on failure)
     log_entry = {
         "date": datetime.utcnow().strftime("%Y-%m-%d"),
         "username": username,
@@ -536,20 +570,25 @@ def reply_to_random_tweet():
         "status": "pending"
     }
 
+    # 6️⃣ Post the reply
     try:
+        # Either of these are valid styles:
+        # A) Threaded, without explicit @ (more "natural" looking)
         twitter_client.create_tweet(
-            text=f"@{username} {reply_text}",
+            text=reply_text,
             in_reply_to_tweet_id=tweet_id
         )
+
         print(f"✅ Replied to @{username}: {reply_text}")
         log_entry["status"] = "posted"
     except tweepy.errors.TweepyException as e:
         print(f"❌ Error posting reply: {e}")
         log_entry["status"] = f"error: {type(e).__name__}"
 
-    # ✅ Always log, even if posting failed
+    # 7️⃣ Persist to log so we never reply to the same tweet twice
     reply_log[str(tweet_id)] = log_entry
     save_reply_log(reply_log)
+
 
 
 # =========================================================
