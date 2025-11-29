@@ -360,7 +360,7 @@ def generate_statistical_tweet(selected_category):
         3: """A short ranked list (3–5 items) under 280 characters.
 
 Format:
-Summary: <one-sentence overview>
+<one-sentence overview>
 
 1. Item
 2. Item
