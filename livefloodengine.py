@@ -336,7 +336,7 @@ def cleanup_tweeted_alerts(tweeted, valid_coords):
         print(f"🧹 Cleaned {len(tweeted) - len(cleaned)} outdated tweet entries.")
     return cleaned
 
-def tweet_alert(change_type, alert):
+def tweet_alert(change_type, alert, quote_tweet_id=None):
     """Post a tweet for a new or transitioned flood alert."""
     lat, lon = alert["latitude"], alert["longitude"]
     level = alert["dynamic_level"]
