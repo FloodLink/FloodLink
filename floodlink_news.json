@@ -2374,5 +2374,13 @@
         "score": 8,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2025-11-29",
+        "status": "posted",
+        "tweet": "Summary: By 2025, over 1 billion urban dwellers globally face heightened river flooding risks from extreme rainfall and climate shifts.\n\n1. \ud83c\udde8\ud83c\uddf3 Shanghai: 18M exposed to Yangtze floods, $50B potential losses.\n2. \ud83c\uddee\ud83c\uddf3 Mumbai: 14M at risk from flash floods, 20% annual inundation.\n3. \ud83c\uddfa\ud83c\uddf8",
+        "type": "statistical",
+        "category": "urban areas exposed to river flooding"
     }
 ]
