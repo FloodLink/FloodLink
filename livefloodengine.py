@@ -373,11 +373,11 @@ def tweet_alert(change_type, alert):
         # f"Humidity: {alert['humidity_avg']}%\n"
     )
 
-    print(f"🚨 Tweet → {tweet_text}\n")
+    print(f"🚨 Tweet → {tweet_text}\n" + (f"(Quoting ID: {quote_tweet_id})\n" if quote_tweet_id else ""))
 
     if not TWITTER_ENABLED:
         print("🧪 DRY RUN (tweet suppressed). Set TWITTER_ENABLED=true to send.")
-        return
+        return None  # No ID in dry run
 
     try:
         client = tweepy.Client(
@@ -387,9 +387,16 @@ def tweet_alert(change_type, alert):
             access_token_secret=TWITTER_ACCESS_SECRET,
             wait_on_rate_limit=True,
         )
-        client.create_tweet(text=tweet_text)
+        response = client.create_tweet(
+            text=tweet_text,
+            quote_tweet_id=quote_tweet_id  # None is fine, ignored if absent
+        )
+        new_tweet_id = response.data['id']
+        print(f"✅ Tweet posted with ID: {new_tweet_id}")
+        return str(new_tweet_id)  # Return as str for JSON safety
     except Exception as e:
         print(f"❌ Tweet failed: {e}")
+        return None
 
 
 # -------------------------------
@@ -542,46 +549,53 @@ def main():
         if now_ts - last_tweet_ts < MIN_SECONDS_BETWEEN_TWEETS:
             time.sleep(MIN_SECONDS_BETWEEN_TWEETS - (now_ts - last_tweet_ts))
 
-        # Send tweet (or DRY RUN printout)
-        tweet_alert(change_type, alert)
+        # --- Quote logic: Use previous tweet ID if available (for upgrades/downgrades) ---
+        quote_tweet_id = None
+        if change_type in ["Upgrade", "Downgrade"] and last_entry and "tweet_id" in last_entry:
+            quote_tweet_id = last_entry["tweet_id"]
+
+        # Send tweet (or DRY RUN printout), capture new ID
+        new_tweet_id = tweet_alert(change_type, alert, quote_tweet_id=quote_tweet_id)
         last_tweet_ts = time.time()
 
         # --- Update tweeted_alerts.json according to the new level ---
+        if new_tweet_id:  # Only update if tweet succeeded
+            if current_level in TWEET_LEVELS:
+                # Still Medium / High / Extreme → keep or create/update entry
+                tweeted_alerts[key] = {
+                    "country": alert.get("country", ""),
+                    "name": alert["name"],
+                    "risk_level": current_level,
+                    "latitude": alert["latitude"],
+                    "longitude": alert["longitude"],
+                    "rain_mm": alert[f"rain_{FORECAST_HOURS}h_mm"],
+                    "humidity": alert["humidity_avg"],
+                    "soil_moisture": alert["soil_moisture_avg"],
+                    "raw_dynamic_score": alert["raw_dynamic_score"],
+                    "last_updated": datetime.now(ZoneInfo("UTC")).isoformat().replace("+00:00", "Z"),
+                    "tweet_id": new_tweet_id  # NEW: Store/update the latest tweet ID
+                }
+            else:
+                # Downgrade into Low / None → keep it ONE more run as 'resolved'
+                print(
+                    f"✅ Marking alert as resolved in tweet log: "
+                    f"{alert['name']} [{key}] (→ {current_level})"
+                )
 
-        if current_level in TWEET_LEVELS:
-            # Still Medium / High / Extreme → keep or create/update entry
-            tweeted_alerts[key] = {
-                "country": alert.get("country", ""),
-                "name": alert["name"],
-                "risk_level": current_level,
-                "latitude": alert["latitude"],
-                "longitude": alert["longitude"],
-                "rain_mm": alert[f"rain_{FORECAST_HOURS}h_mm"],
-                "humidity": alert["humidity_avg"],
-                "soil_moisture": alert["soil_moisture_avg"],
-                "raw_dynamic_score": alert["raw_dynamic_score"],
-                "last_updated": datetime.now(ZoneInfo("UTC")).isoformat().replace("+00:00", "Z")
-            }
-        else:
-            # Downgrade into Low / None → keep it ONE more run as 'resolved'
-            print(
-                f"✅ Marking alert as resolved in tweet log: "
-                f"{alert['name']} [{key}] (→ {current_level})"
-            )
-
-            tweeted_alerts[key] = {
-                "country": alert.get("country", ""),
-                "name": alert["name"],
-                "risk_level": current_level,  # "Low" or "None"
-                "latitude": alert["latitude"],
-                "longitude": alert["longitude"],
-                "rain_mm": alert[f"rain_{FORECAST_HOURS}h_mm"],
-                "humidity": alert["humidity_avg"],
-                "soil_moisture": alert["soil_moisture_avg"],
-                "raw_dynamic_score": alert["raw_dynamic_score"],
-                "last_updated": datetime.now(ZoneInfo("UTC")).isoformat().replace("+00:00", "Z"),
-                "resolved": True,  # <-- flag for next run's cleanup
-            }
+                tweeted_alerts[key] = {
+                    "country": alert.get("country", ""),
+                    "name": alert["name"],
+                    "risk_level": current_level,  # "Low" or "None"
+                    "latitude": alert["latitude"],
+                    "longitude": alert["longitude"],
+                    "rain_mm": alert[f"rain_{FORECAST_HOURS}h_mm"],
+                    "humidity": alert["humidity_avg"],
+                    "soil_moisture": alert["soil_moisture_avg"],
+                    "raw_dynamic_score": alert["raw_dynamic_score"],
+                    "last_updated": datetime.now(ZoneInfo("UTC")).isoformat().replace("+00:00", "Z"),
+                    "resolved": True,  # <-- flag for next run's cleanup
+                    "tweet_id": new_tweet_id  # NEW: Store the downgrade tweet ID (optional, but keeps chain info)
+                }
 
     save_tweeted_alerts(tweeted_alerts)
 
