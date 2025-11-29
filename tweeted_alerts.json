@@ -1,15 +1,1 @@
-{
-  "38.6120,27.4265": {
-    "country": "Turkey",
-    "name": "Manisa",
-    "risk_level": "Low",
-    "latitude": 38.612,
-    "longitude": 27.4265,
-    "rain_mm": 26.5,
-    "humidity": 86.5,
-    "soil_moisture": 0.0,
-    "raw_dynamic_score": 2.487,
-    "last_updated": "2025-11-29T08:40:06.073781Z",
-    "resolved": true
-  }
-}
+{}
