@@ -2486,5 +2486,25 @@
         "status": "posted",
         "tweet": "POST-EVENT Asia: Deadly storms trigger widespread flash floods and landslides, killing over 600 with hundreds missing.",
         "type": "news"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOakNNZzlWTmFBVWw1MXcteE9QS2xjOGxsVlF6LXplNElrTXl0RU1iYkFJMkI5d3J5OTVLc0F5R3ZYYV9ud1B4dzdsT05zRTJrTkRnZVN5RGhjbmE2bnFJMEdQSXpaUlBRTlFwa0RhV183WWpJU0ttbTVTNW8wcDgtMDNkd2ZVcmYxU25PVTRHekhDSUYxaWcyVnRqSQ?oc=5",
+        "date": "2025-11-30",
+        "title": "Deadly storms ravage Asia, killing more than 600 with hundreds missing - CNN",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOakNNZzlWTmFBVWw1MXcteE9QS2xjOGxsVlF6LXplNElrTXl0RU1iYkFJMkI5d3J5OTVLc0F5R3ZYYV9ud1B4dzdsT05zRTJrTkRnZVN5RGhjbmE2bnFJMEdQSXpaUlBRTlFwa0RhV183WWpJU0ttbTVTNW8wcDgtMDNkd2ZVcmYxU25PVTRHekhDSUYxaWcyVnRqSQ?oc=5\" target=\"_blank\">Deadly storms ravage Asia, killing more than 600 with hundreds missing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNN</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRVhrRm41anpzZm9URjFJTUQxUS1kYlJONWRlT2F6U2tKMzB4bzJCOHl3M0ZqaWVBTFd6bXMxSGhOZUR0elViYU9MeVlxZGZ3RHZqUE5OX0YwdGFQTzc2U2ptZFJnd080M2pIR3FqMjJidkpOOEh5NzRRUi04Nmt3WjNOcU5pdktGUERxS3BFWHV4dFR5NmpESQ?oc=5",
+        "date": "2025-11-30",
+        "title": "Tropical storm kills at least three in Vietnam - CNA",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPRVhrRm41anpzZm9URjFJTUQxUS1kYlJONWRlT2F6U2tKMzB4bzJCOHl3M0ZqaWVBTFd6bXMxSGhOZUR0elViYU9MeVlxZGZ3RHZqUE5OX0YwdGFQTzc2U2ptZFJnd080M2pIR3FqMjJidkpOOEh5NzRRUi04Nmt3WjNOcU5pdktGUERxS3BFWHV4dFR5NmpESQ?oc=5\" target=\"_blank\">Tropical storm kills at least three in Vietnam</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNA</font>",
+        "similarity_excluded": "No",
+        "score": 2,
+        "status": "processed",
+        "tweet": null
     }
 ]
