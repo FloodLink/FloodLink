@@ -51,7 +51,7 @@ TARGET_ACCOUNTS = {
 }
 
 # How many recent tweets we READ per reply run
-REPLY_FETCH_LIMIT = 1  # keep at 1 on Free tier to save reads
+REPLY_FETCH_LIMIT = 5  # 5 minimum enforced by X
 
 # =========================================================
 #                         RSS
