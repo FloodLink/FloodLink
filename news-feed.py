@@ -97,7 +97,7 @@ RANDOM_NONE = 0.2
 NEWS_TWEETS_LIMIT = 3        # flood news
 STAT_TWEETS_LIMIT = 1        # flood stats
 INFRA_TWEETS_LIMIT = 1       # flood infrastructure
-REPLY_TWEETS_LIMIT = 3       # replies
+REPLY_TWEETS_LIMIT = 1       # replies
 
 # =========================================================
 #                        HELPERS
