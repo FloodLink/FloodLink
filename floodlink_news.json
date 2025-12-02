@@ -2184,5 +2184,13 @@
         "status": "posted",
         "tweet": "\ud83c\uddf3\ud83c\uddf1 Netherlands' flood defenses include 26,000 km of dikes and levees, protecting low-lying polders where 60% of the population lives from river and coastal floods.",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2025-12-02",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 New York: Extreme rainfall events increased 30% since 2020, with 2023 storms causing $5B in flood damages\u2014projections show 50% more by 2030 (NOAA 2024).",
+        "type": "statistical",
+        "category": "extreme rainfall trends in major cities"
     }
 ]
