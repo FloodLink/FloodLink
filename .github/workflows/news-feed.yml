@@ -1,4 +1,4 @@
-name: 🌧️ FloodLink – Auto-Post Flood News
+name: 🌧️ FloodLink – Global Flood Early Warning Agent
 
 on:
   schedule:
@@ -10,34 +10,38 @@ permissions:
   contents: write  # Needed to commit JSON logs
 
 concurrency:
-  group: floodlink-news      # Separate from the construction bot
+  group: floodlink-agent
   cancel-in-progress: true
 
 jobs:
-  post_flood_news:
+  post_news:
     runs-on: ubuntu-latest
 
     steps:
       - name: 📥 Checkout Repo
-        uses: actions/checkout@v4
+        uses: actions/checkout@v3
 
       - name: 🏗️ Set Up Python
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v4
         with:
-          python-version: "3.10"
+          python-version: "3.11"
 
       - name: 📦 Install Dependencies
         run: |
-          pip install --upgrade tweepy openai feedparser requests
-
-      - name: 📄 Initialize FloodLink Log Files
+          python -m pip install --upgrade pip
+          pip install --upgrade tweepy>=4.14.0 openai feedparser requests
+        
+      - name: 📄 Initialize Log Files
         run: |
-          # Main news log
-          if [ ! -f floodlink_news.json ]; then echo '[]' > floodlink_news.json; fi
-          # Reply log (dict keyed by tweet_id)
-          if [ ! -f floodlink_replies.json ]; then echo '{}' > floodlink_replies.json; fi
+          [ -f floodlink_news.json ]                  || echo '[]'   > floodlink_news.json
+          [ -f floodlink_replies.json ]                || echo '{}'   > floodlink_replies.json
+          [ -f floodlink_target_engagement.json ]      || echo '{}'   > floodlink_target_engagement.json
+          [ -f floodlink_mentions_reply_log.json ]     || echo '{}' > floodlink_mentions_reply_log.json
+          [ -f last_mentions_check.txt ]       || echo "0"   > last_mentions_check.txt
 
-      - name: 🚀 Run FloodLink News Bot
+          echo "All FloodLink log files ready"
+
+      - name: 🚀 Run FloodLink Agent
         env:
           TWITTER_API_KEY: ${{ secrets.TWITTER_API_KEY }}
           TWITTER_SECRET: ${{ secrets.TWITTER_SECRET }}
@@ -53,13 +57,17 @@ jobs:
           git config --global user.email "github-actions@github.com"
           git config --global user.name "GitHub Actions"
 
-          # Stage both log files (if they exist)
-          git add floodlink_news.json floodlink_replies.json || true
+          # Add ALL possible log files
+          git add floodlink_news.json || true
+          git add floodlink_replies.json || true
+          git add floodlink_target_engagement.json || true
+          git add floodlink_mentions_reply_log.json || true
+          git add last_mentions_check.txt || true
 
-          # Commit only if there are changes
+          # Only commit if something changed
           if git diff --cached --quiet; then
             echo "No changes to commit"
           else
-            git commit -m "Update FloodLink logs [Automated]"
+            git commit -m "Update logs: news, replies, and engagement tweets [Automated]"
             git push origin main
           fi
