@@ -1145,7 +1145,7 @@ if __name__ == "__main__":
                 })
 
     elif tweet_type == "engagement":
-        print("Engagement cycle — curating flood warnings & infrastructure tweets"")
+        print("Engagement cycle — curating flood warnings & infrastructure tweets")
         process_mention_engagement()
 
     else:
