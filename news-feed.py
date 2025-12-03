@@ -45,13 +45,60 @@ twitter_client = tweepy.Client(
 TARGET_ACCOUNTS = {
     "NWS": "454313925",        # Replace with actual user IDs
     "RedCross": "6519522",    # Replace with actual user IDs
+    "NOAA": "16105558",
     "CIA": "2359926157",   # Replace with actual user IDs
-    "WHO": "14499829",
-    "UN": "14159148"
+    "WMO": "14499829",
+    "UN": "14159148",
+    "UNDRR": "140959349",
 }
 
 # How many recent tweets we READ per reply run
 REPLY_FETCH_LIMIT = 5  # 5 minimum enforced by X
+
+
+# =========================================================
+#                     STORAGE + LIMITS
+# =========================================================
+
+LOG_FILE = "floodlink_news.json"
+REPLY_LOG_FILE = "floodlink_replies.json"
+TARGET_TWEETS_LOG = "floodlink_target_engagement.json"
+MENTIONS_REPLY_LOG = "floodlink_mentions_reply_log.json"
+MENTIONS_RATE_LIMIT_FILE = "floodlink_last_mentions_check.txt"
+
+RETENTION_DAYS = 10
+
+# Scoring thresholds
+NEWS_MIN_SCORE = 9
+REPLY_MIN_SCORE = 2
+QUOTE_MIN_SCORE = 7
+REPOST_MIN_SCORE = 5
+LIKE_MIN_SCORE = 4
+
+# Tweet type probabilities
+RANDOM_NEWS = 0.3
+RANDOM_STATISTIC = 0.1
+RANDOM_INFRASTRUCTURE = 0.2
+RANDOM_REPLY = 0.15
+RANDOM_ENGAGEMENT = 0.15
+RANDOM_NONE = 0.1
+
+# Engagement weights
+ENGAGEMENT_QUOTE_WEIGHT = 0.5
+ENGAGEMENT_REPOST_WEIGHT = 0.5
+ENGAGEMENT_LIKE_WEIGHT = 0.0
+
+# Daily tweet limits
+NEWS_TWEETS_LIMIT = 3        
+STAT_TWEETS_LIMIT = 1
+INFRA_TWEETS_LIMIT = 1
+REPLY_TWEETS_LIMIT = 1
+MENTIONS_REPLY_DAILY_LIMIT = 6
+
+# Daily limits for retweets/quotes (adjust as needed)
+DAILY_QUOTE_LIMIT = 1
+DAILY_REPOST_LIMIT = 2
+DAILY_LIKE_LIMIT = 0   # Very safe
 
 # =========================================================
 #                         RSS
@@ -76,28 +123,6 @@ RSS_FEEDS = [
     # "https://www.gdacs.org/xml/rss.xml",
 ]
 
-# =========================================================
-#                     STORAGE + LIMITS
-# =========================================================
-
-LOG_FILE = "floodlink_news.json"
-REPLY_LOG_FILE = "floodlink_replies.json"
-
-RETENTION_DAYS = 10
-TWEET_THRESHOLD = 9  # 0–10 relevance; post only high-impact events
-
-# Tweet type probabilities
-RANDOM_NEWS = 0.3
-RANDOM_STATISTIC = 0.1
-RANDOM_INFRASTRUCTURE = 0.2
-RANDOM_REPLY = 0.2
-RANDOM_NONE = 0.2
-
-# Daily tweet limits
-NEWS_TWEETS_LIMIT = 3        # flood news
-STAT_TWEETS_LIMIT = 1        # flood stats
-INFRA_TWEETS_LIMIT = 1       # flood infrastructure
-REPLY_TWEETS_LIMIT = 1       # replies
 
 # =========================================================
 #                        HELPERS
@@ -125,7 +150,7 @@ def is_similar_news(new_title, new_summary, processed_articles, threshold=0.6, l
     recent_articles = [
         a for a in processed_articles
         if isinstance(a.get("score", 0), (int, float))
-        and a.get("score", 0) >= TWEET_THRESHOLD
+        and a.get("score", 0) >= NEWS_MIN_SCORE
     ][-limit:]
 
     for article in recent_articles:
@@ -186,10 +211,70 @@ def save_processed_articles(processed):
         else:
             print("✅ Changes committed to GitHub.")
 
+# HELPER FOR QUOTE REPOST / REPOST / LIKES
+def load_target_tweets():
+    if os.path.exists(TARGET_TWEETS_LOG):
+        try:
+            with open(TARGET_TWEETS_LOG, "r") as f:
+                return json.load(f)
+        except:
+            return {}
+    return {}
+
+def save_target_tweets(data):
+    with open(TARGET_TWEETS_LOG, "w") as f:
+        json.dump(data, f, indent=4)
+
+def cleanup_target_tweets():
+    data = load_target_tweets()
+    cutoff = (datetime.utcnow() - timedelta(days=RETENTION_DAYS)).strftime("%Y-%m-%d")
+    cleaned = {tid: entry for tid, entry in data.items() if entry.get("date", "0000-00-00") >= cutoff}
+    save_target_tweets(cleaned)
+    return cleaned
+
+# HELPER FOR REPLY MENTION
+def load_mentions_reply_log():
+    if os.path.exists(MENTIONS_REPLY_LOG):
+        try:
+            with open(MENTIONS_REPLY_LOG, "r") as f:
+                return json.load(f)
+        except:
+            return {}
+    return {}
+
+def save_mentions_reply_log(data):
+    try:
+        with open(MENTIONS_REPLY_LOG, "w") as f:
+            json.dump(data, f, indent=4)
+        print(f"Saved {MENTIONS_REPLY_LOG}")
+    except Exception as e:
+        print(f"Failed to save {MENTIONS_REPLY_LOG}: {e}")
+
+# Check if we can fetch mentions (Free tier: 1 request every 15 minutes)
+def can_check_mentions():
+    if not os.path.exists(MENTIONS_RATE_LIMIT_FILE):
+        print("DEBUG: No rate limit file exists, allowing check.")
+        return True
+    try:
+        last_check = float(open(MENTIONS_RATE_LIMIT_FILE).read().strip())
+        time_since = time.time() - last_check
+        print(f"DEBUG: Last check {time_since:.0f} seconds ago.")
+        return time_since >= 960  # Increased to 16 min for safety
+    except Exception as e:
+        print(f"DEBUG: Error reading rate limit file: {e}. Allowing check.")
+        return True
+
+def update_mentions_timestamp():
+    try:
+        with open(MENTIONS_RATE_LIMIT_FILE, "w") as f:
+            f.write(str(time.time()))
+    except Exception as e:
+        print(f"Failed to update mentions timestamp: {e}")
+
 def select_tweet_type():
     return random.choices(
-        ["news", "statistical", "infrastructure", "reply", "none"],
-        [RANDOM_NEWS, RANDOM_STATISTIC, RANDOM_INFRASTRUCTURE, RANDOM_REPLY, RANDOM_NONE]
+        ["news", "statistical", "infrastructure", "reply", "engagement", "none"],
+        [RANDOM_NEWS, RANDOM_STATISTIC, RANDOM_INFRASTRUCTURE, RANDOM_REPLY, RANDOM_ENGAGEMENT, RANDOM_NONE]
     )[0]
 
 def count_news_tweets_today(processed_articles):
@@ -203,6 +288,16 @@ def count_stat_tweets_today(processed_articles):
 def count_infra_tweets_today(processed_articles):
     today = datetime.utcnow().strftime("%Y-%m-%d")
     return sum(1 for a in processed_articles if a.get("date") == today and a.get("type") == "infrastructure")
+
+# Count how many crypto tweets were posted today.
+def count_engagement_action(data, action):
+    today = datetime.utcnow().strftime("%Y-%m-%d")
+    return sum(1 for entry in data.values() if entry.get("date") == today and entry.get("action") == action)
+
+# Count how many real @-mention replies we made today
+def count_mentions_replies_today(log):
+    today = datetime.utcnow().strftime("%Y-%m-%d")
+    return sum(1 for entry in log.values() if entry.get("date") == today)
 
 
 # =========================================================
@@ -441,63 +536,71 @@ Rules:
 def load_reply_log():
     """ Load previously replied tweets to avoid duplicates. """
     if os.path.exists(REPLY_LOG_FILE):
-        try:
-            with open(REPLY_LOG_FILE, "r") as file:
-                data = json.load(file)
-                if isinstance(data, dict):
-                    return data
-                # if somehow stored as list, convert to dict-ish
-                print("⚠️ reply log not in dict format, resetting.")
-                return {}
-        except json.JSONDecodeError:
-            print("⚠️ Corrupted reply log, resetting.")
-            return {}
+        with open(REPLY_LOG_FILE, "r") as file:
+            return json.load(file)
     return {}
 
 def save_reply_log(log_data):
     """ Save replied tweets to prevent duplicate replies. """
-    print("💾 Writing to floodlink_replies.json...")
+    print("💾 Writing to replied_tweets.json...")
     try:
         with open(REPLY_LOG_FILE, "w") as file:
             json.dump(log_data, file, indent=4)
-        print("✅ Successfully wrote to floodlink_replies.json!")
+        print("✅ Successfully wrote to replied_tweets.json!")
     except Exception as e:
-        print(f"❌ Error writing to floodlink_replies.json: {e}")
+        print(f"❌ Error writing to replied_tweets.json: {e}")
 
 def count_replies_today(reply_log):
     today = datetime.utcnow().strftime("%Y-%m-%d")
-    return sum(1 for entry in reply_log.values() if entry.get("date") == today)
+    return sum(1 for entry in reply_log.values() if entry["date"] == today)
 
 def fetch_latest_tweets(user_id, max_results=REPLY_FETCH_LIMIT):
-    """Fetch the latest tweets from a specific user."""
     try:
         tweets = bearer_client.get_users_tweets(
             id=user_id,
             max_results=max_results,
-            tweet_fields=["id", "text", "created_at"],
-            exclude=["retweets", "replies"],
+            tweet_fields=["text", "created_at"],
+            exclude=["retweets", "replies"]
         )
-        return tweets.data if tweets.data else []
-    except tweepy.errors.TweepyException as e:
-        print(f"❌ Error fetching tweets for user {user_id}: {e}")
+        if not tweets.data:
+            return []
+
+        log = load_target_tweets()
+        today = datetime.utcnow().strftime("%Y-%m-%d")
+        saved = 0
+
+        for tweet in tweets.data:
+            tid = str(tweet.id)
+            if tid in log:
+                continue  # already have it
+
+            # Score relevance immediately
+            score = classify_mention_relevance(tweet.text)
+            handle = next((k for k, v in TARGET_ACCOUNTS.items() if v == user_id), "unknown")
+
+            log[tid] = {
+                "tweet_id": tid,
+                "text": tweet.text,
+                "author_id": user_id,
+                "author_handle": handle,
+                "date": today,
+                "relevance_score": score,   # ← now 0–10 integer
+                "action": None
+            }
+            saved += 1
+
+        if saved > 0:
+            save_target_tweets(log)
+            print(f"Saved {saved} new tweets with relevance scores")
+
+        return tweets.data
+
+    except Exception as e:
+        print(f"Error fetching tweets: {e}")
         return []
 
-def pick_most_recent_tweet(all_tweets, reply_log):
-    new_tweets = [t for t in all_tweets if str(t.id) not in reply_log]
-    if not new_tweets:
-        print("🔍 No new tweets available to reply to.")
-        return None
-    return new_tweets[0]
-
 def generate_grok_reply(tweet_text, username):
-    """
-    Reply as FloodLink with a short data / insight nugget about floods or extreme rainfall.
-    """
-    client = openai.OpenAI(
-        api_key=XAI_API_KEY,
-        base_url="https://api.x.ai/v1"
-    )
-
+    """ Use Grok-2-1212 to generate a smart, relevant reply based on the tweet. """
     prompt = f"""
     You are responding to @{username} on Twitter.
 
@@ -512,88 +615,354 @@ def generate_grok_reply(tweet_text, username):
 
     **Tweet:** "{tweet_text}"
 
-    **Your Reply:**
+    Reply directly with only the final tweet text, nothing else:
     """
 
+    client = openai.OpenAI(api_key=XAI_API_KEY, base_url="https://api.x.ai/v1")
     response = client.chat.completions.create(
         model=XAI_MODEL,
-        messages=[{"role": "user", "content": prompt}]
+        messages=[{"role": "user", "content": prompt}],
+        temperature=0.7,
+        max_tokens=300
     )
     return response.choices[0].message.content.strip()
-
+    
 def reply_to_random_tweet():
-    """ Randomly select a target account, fetch their latest tweets, and reply once per tweet ID. """
+    """ Randomly select a user, fetch their latest tweet, and reply once per tweet. """
     reply_log = load_reply_log()
 
-    # Daily limit check
+    # Daily limit check (using already loaded log)
     if count_replies_today(reply_log) >= REPLY_TWEETS_LIMIT:
         print(f"🚫 Reached daily reply limit ({REPLY_TWEETS_LIMIT}). Exiting.")
         return
 
     if not TARGET_ACCOUNTS:
-        print("⚠️ No TARGET_ACCOUNTS configured for FloodLink replies.")
+        print("⚠️ No TARGET_ACCOUNTS configured. Skipping reply run.")
         return
 
-    # 1️⃣ Randomly pick one target account
-    username = random.choice(list(TARGET_ACCOUNTS.keys()))
-    user_id = TARGET_ACCOUNTS[username]
-    print(f"🔍 Fetching tweets from @{username}...")
+    # **Step 1: Randomly choose a user**
+    user_to_fetch = random.choice(list(TARGET_ACCOUNTS.keys()))
+    user_id = TARGET_ACCOUNTS[user_to_fetch]
+    print(f"🔍 Fetching tweets from @{user_to_fetch}...")
 
-    # 2️⃣ Fetch their latest tweets (excludes retweets and replies)
-    all_tweets = fetch_latest_tweets(user_id)  # uses 1, not 5
+    # **Step 2: Fetch their latest tweets**
+    all_tweets = fetch_latest_tweets(user_id)  # uses REPLY_FETCH_LIMIT
+
     if not all_tweets:
-        print(f"🔍 No tweets found for @{username}.")
+        print(f"🔍 No tweets found for @{user_to_fetch}.")
         return
 
-    # 3️⃣ Filter out tweets we've already replied to (by tweet ID)
+    # Build set of tweet IDs we've already replied to
     replied_ids = set(reply_log.keys())
+
+    # **Step 3: Filter out tweets we've already replied to**
     new_tweets = [t for t in all_tweets if str(t.id) not in replied_ids]
 
     if not new_tweets:
-        print(f"🔁 All recent tweets from @{username} already replied to. Skipping this run.")
+        print(f"🔁 All recent tweets from @{user_to_fetch} already replied to. Skipping this run.")
         return
 
-    # pick the most recent unreplied tweet (they come in newest-first order)
+    # # SMART FILTER: with a score over defined and pick the most recent new tweet
     selected_tweet = new_tweets[0]
-    tweet_id = selected_tweet.id
-    tweet_text = selected_tweet.text
+    tweet_id = selected_tweet.id                  # ← fixed
+    tweet_text = selected_tweet.text              # ← fixed
 
-    # 4️⃣ Generate a FloodLink-style reply
+    target_data = load_target_tweets()
+    score = target_data.get(str(tweet_id), {}).get("relevance_score", 0)
+
+    if score <= REPLY_MIN_SCORE:
+        print(f"Skipping reply → low relevance score {score}/10: \"{selected_tweet.text[:80]}...\"")
+        return
+        
+    username = user_to_fetch  # Using stored username
+
+    # **Step 4: Generate a Grok-powered reply**
     reply_text = generate_grok_reply(tweet_text, username)
     if not reply_text:
         print(f"❌ Failed to generate reply for @{username}. Skipping.")
         return
 
-    # 5️⃣ Prepare log entry (we log even on failure)
-    log_entry = {
-        "date": datetime.utcnow().strftime("%Y-%m-%d"),
-        "username": username,
-        "tweet_id": tweet_id,
-        "original_tweet": tweet_text,
-        "reply_text": reply_text,
-        "status": "pending"
-    }
-
-    # 6️⃣ Post the reply
+    # **Step 5: Post the reply**
     try:
-        # Either of these are valid styles:
-        # A) Threaded, without explicit @ (more "natural" looking)
         twitter_client.create_tweet(
-            text=reply_text,
+            text=reply_text,  # No @{username} prefix to keep it natural
             in_reply_to_tweet_id=tweet_id
         )
-
         print(f"✅ Replied to @{username}: {reply_text}")
-        log_entry["status"] = "posted"
+
+        # **Step 6: Log replied tweet (now with full texts)**
+        reply_log[str(tweet_id)] = {
+            "date": datetime.utcnow().strftime("%Y-%m-%d"),
+            "username": username,
+            "tweet_id": tweet_id,
+            "source_text": tweet_text,
+            "reply_text": reply_text,
+            "relevance_score": score
+        }
+        save_reply_log(reply_log)
+
     except tweepy.errors.TweepyException as e:
         print(f"❌ Error posting reply: {e}")
-        log_entry["status"] = f"error: {type(e).__name__}"
 
-    # 7️⃣ Persist to log so we never reply to the same tweet twice
-    reply_log[str(tweet_id)] = log_entry
-    save_reply_log(reply_log)
+# =========================================================
+#             TARGET ENGAGEMENT (Quote/RT/Like)
+# =========================================================
 
+def classify_mention_relevance(text):
+    client = openai.OpenAI(api_key=XAI_API_KEY, base_url="https://api.x.ai/v1")
+    
+    prompt = f"""
+    Score 0–10 (integer only) the relevance of this tweet for FloodLink (@FloodLink), a global early-warning network focused exclusively on flooding risks, flood emergencies, and flood-protection infrastructure.
+    
+    10 = Active catastrophic flooding, flash floods, dam/levee failure, mass evacuations, deaths, red alerts in progress
+    9  = Major ongoing or imminent severe flooding (large populations/regions at risk, official emergency declarations)
+    8  = Credible high-risk flood warnings, storm surge threats, extreme rainfall + river overflow forecasts
+    7  = Heavy rainfall events very likely to cause serious flooding, urban pluvial flooding alerts, cyclone/monsoon flood risk
+    6  = Moderate/local flooding already occurring or forecasted, landslide risk from rain, coastal flood advisories
+    5  = General extreme rainfall, tropical cyclones, or weather systems that could evolve into flooding
+    4  = Flood-adjacent topics (dams, levees, drainage upgrades, early-warning systems, nature-based solutions)
+    3  = Climate/disaster-resilience discussion, light weather memes from trusted accounts
+    2  = Off-topic but not spam (e.g., general weather, earthquakes, wildfires)
+    0–1 = gm/gn, pure spam, crypto promos, unrelated politics, one-word replies
+    
+    Only reply with a single integer 0–10. No explanation.
+    
+    Tweet: \"{text}\"
+    """
+    try:
+        resp = client.chat.completions.create(
+            model=XAI_MODEL,
+            messages=[{"role": "user", "content": prompt}],
+            max_tokens=5,
+            temperature=0.1
+        )
+        score_text = resp.choices[0].message.content.strip()
+        score = int(score_text)
+        return max(0, min(10, score))  # Clamp to 0–10
+    except:
+        return 0
 
+def generate_quote_comment(text):
+    client = openai.OpenAI(api_key=XAI_API_KEY, base_url="https://api.x.ai/v1")
+    
+    prompt = f"""
+    Write a sharp, professional quote tweet (max 180 chars) that adds a precise insight or data point to the original tweet.
+    
+    Rules:
+    - Generate a **concise, data-driven insight** that adds a relevant statistic or fact. 
+    - No hashtags, no @-mentions, no generic emojis (flags OK)
+    - Sound forward-looking and authoritative
+    - Never generic — always add a concrete angle or number when possible
+    
+    Original tweet: {text}
+    
+    Quote comment only:"""
+
+    try:
+        resp = client.chat.completions.create(
+            model=XAI_MODEL,
+            messages=[{"role": "user", "content": prompt}],
+            max_tokens=110,
+            temperature=0.8
+        )
+        comment = resp.choices[0].message.content.strip()
+        return comment[:180] if comment else None
+    except:
+        return None
+
+def process_mention_engagement():
+    data = cleanup_target_tweets()  # Auto-remove old tweets
+    if not data:
+        print("No target tweets in pool")
+        return
+
+    # Filter tweets that haven't been engaged with yet
+    available = [(tid, entry) for tid, entry in data.items() if entry.get("action") is None]
+    if not available:
+        print("All target tweets already engaged with")
+        return
+
+    # Random-within-random: pick action type
+    action = random.choices(
+        ["quote", "repost", "like"],
+        weights=[ENGAGEMENT_QUOTE_WEIGHT, ENGAGEMENT_REPOST_WEIGHT, ENGAGEMENT_LIKE_WEIGHT],
+        k=1
+    )[0]
+
+    print(f"Engagement mode: {action.upper()} → curating from target accounts")
+
+    processed = 0
+    random.shuffle(available)
+
+    for tid, entry in available:
+        text = entry["text"]
+        score = entry.get("relevance_score", 0)  # Use pre-scored value
+
+        # QUOTE:
+        if (action == "quote" and score >= QUOTE_MIN_SCORE and 
+            count_engagement_action(data, "quote") < DAILY_QUOTE_LIMIT):
+            comment = generate_quote_comment(text)
+            if comment and 15 < len(comment) < 200:
+                try:
+                    twitter_client.create_tweet(text=comment, quote_tweet_id=int(tid))
+                    
+                    # ←←← NOW SAVES THE ACTUAL QUOTE TEXT!
+                    data[tid]["action"] = "quote"
+                    data[tid]["date"] = datetime.utcnow().strftime("%Y-%m-%d")
+                    data[tid]["quote_text"] = comment.strip()   # ← THIS IS THE FIX!
+                    
+                    print(f"Quote-tweeted: {comment[:60]}...")
+                    processed += 1
+                    save_target_tweets(data)
+                    return  # One quote per run is enough
+                except Exception as e:
+                    print(f"Quote failed: {e}")
+
+        # REPOST: 7–10
+        elif (action == "repost" and score >= REPOST_MIN_SCORE and 
+              count_engagement_action(data, "repost") < DAILY_REPOST_LIMIT):
+            try:
+                twitter_client.retweet(tweet_id=int(tid))  # ← This always works
+                data[tid]["action"] = "repost"
+                data[tid]["date"] = datetime.utcnow().strftime("%Y-%m-%d")
+                print("Reposted from target account")
+                processed += 1
+                if processed >= 2:
+                    save_target_tweets(data)
+                    return
+            except Exception as e:
+                print(f"Repost failed: {e}")
+
+        # LIKE: 5–10 (or everything if like mode)
+        elif (action == "like" and score >= LIKE_MIN_SCORE and 
+              count_engagement_action(data, "like") < DAILY_LIKE_LIMIT):
+            try:
+                twitter_client.like(tweet_id=int(tid))
+                data[tid]["action"] = "like"
+                data[tid]["date"] = datetime.utcnow().strftime("%Y-%m-%d")
+                processed += 1
+            except Exception as e:
+                print(f"Like failed: {e}")
+
+        if processed >= 3:
+            break
+
+    save_target_tweets(data)
+    print(f"Engagement complete: {processed} actions")
+    
+
+# =========================================================
+#         REAL @-MENTION → ALWAYS REPLY (Separate & Guaranteed)
+# =========================================================
+
+MY_USER_ID = None
+
+def get_my_user_id():
+    global MY_USER_ID
+    if MY_USER_ID:
+        return MY_USER_ID
+    try:
+        MY_USER_ID = twitter_client.get_me().data.id
+        print(f"My user ID: {MY_USER_ID}")
+        return MY_USER_ID
+    except:
+        return None
+
+def process_mention_replies():
+    if not can_check_mentions():
+        print("Mentions check skipped (15-min rate limit)")
+        return
+
+    user_id = get_my_user_id()
+    if not user_id:
+        return
+
+    log = load_mentions_reply_log()
+    since_id = log.get('metadata', {}).get('last_mention_id')
+
+    update_mentions_timestamp()  # Commit before fetch
+
+    try:
+        resp = bearer_client.get_users_mentions(
+            id=user_id,
+            max_results=10,
+            tweet_fields=["author_id", "text"],
+            since_id=since_id
+        )
+        print(f"Fetched {len(resp.data or [])} mentions")
+    except tweepy.errors.TooManyRequests as e:
+        print(f"Rate limit hit (429): {e}. Waiting longer next time.")
+        return
+    except Exception as e:
+        print(f"Failed to fetch mentions: {e}")
+        return
+
+    mentions = resp.data or []
+    today = datetime.utcnow().strftime("%Y-%m-%d")
+
+    # Update metadata with max ID from this fetch (even if no replies)
+    if mentions:
+        new_max = max(int(tweet.id) for tweet in mentions)
+        current_max = since_id or 0
+        updated_max = max(current_max, new_max)
+        if 'metadata' not in log:
+            log['metadata'] = {}
+        log['metadata']['last_mention_id'] = updated_max
+        save_mentions_reply_log(log)  # Save updated max early
+
+    if count_mentions_replies_today(log) >= MENTIONS_REPLY_DAILY_LIMIT:  # ← now uses the correct one
+        print(f"Daily mention reply limit reached ({MENTIONS_REPLY_DAILY_LIMIT})")
+        return
+
+    replied = 0
+    for tweet in mentions:
+        tid = str(tweet.id)
+        if tid in log or tweet.author_id == user_id:
+            continue
+
+        # Blocks: crypto spam (50+ tags) + Grok/Claude/Gemini replies (2 tags) + any mass-tag nonsense
+        if len(re.findall(r'@\w+', tweet.text)) > 1:
+            print(f"Blocked mention with multiple @ tags ({tweet.text[:100]}...)")
+            continue
+
+        reply_text = openai.OpenAI(api_key=XAI_API_KEY, base_url="https://api.x.ai/v1").chat.completions.create(
+            model=XAI_MODEL,
+            messages=[{
+                "role": "user",
+                "content": f"""
+        You are @FloodLink — an early flood alert network and flood risk infrastructure account.
+        
+        Someone just @-mentioned you with this:
+        
+        "{tweet.text}"
+        
+        Write a concise, natural, professional reply (max 240 chars).
+        - No hashtags, no @-mentions (X adds them automatically)
+        - No generic emojis (country flags OK)
+        - Sound helpful and slightly forward-looking
+        
+        Reply directly with only the final reply text, nothing else:
+        """
+            }],
+            temperature=0.7,
+            max_tokens=300
+        ).choices[0].message.content.strip()
+
+        if not reply_text or len(reply_text) > 280:
+            continue
+
+        try:
+            twitter_client.create_tweet(text=reply_text, in_reply_to_tweet_id=tweet.id)
+            log[tid] = {"date": today, "replied": True, "text": reply_text}
+            save_mentions_reply_log(log)
+            print(f"Replied to @-mention: {reply_text[:60]}...")
+            if count_mentions_replies_today(log) >= MENTIONS_REPLY_DAILY_LIMIT:
+                break
+        except Exception as e:
+            print(f"Mention reply failed: {e}")
+
+    if replied:
+        print(f"Completed {replied} mention replies")
 
 # =========================================================
 #                      POSTING
@@ -604,8 +973,10 @@ def post_tweet(tweet):
     try:
         resp = twitter_client.create_tweet(text=tweet)
         print(f"✅ Tweet posted: {resp.data}")
+        
         # small cooldown so runs don't spam
-        time.sleep(60)
+        time.sleep(120)
+        
         return True
     except tweepy.errors.Forbidden as e:
         if "Status is a duplicate" in str(e):
@@ -622,6 +993,9 @@ def post_tweet(tweet):
 # =========================================================
 
 if __name__ == "__main__":
+    print("Agent started — checking real @-mentions first...")
+    process_mention_replies()
+    
     print("🔍 Loading previously processed FloodLink items...")
     processed_articles = load_processed_articles()
     filtered_links = {a.get("link") for a in processed_articles if a.get("link")} if processed_articles else set()
@@ -718,7 +1092,7 @@ if __name__ == "__main__":
         for score, title, link, source, summary in top_articles:
             if today_news_count >= NEWS_TWEETS_LIMIT:
                 break
-            if score >= TWEET_THRESHOLD:
+            if score >= NEWS_MIN_SCORE:
                 tweet = summarize_news(title, summary, source)
                 if post_tweet(tweet):
                     today_news_count += 1
@@ -769,6 +1143,10 @@ if __name__ == "__main__":
                     "tweet": tweet,
                     "type": "infrastructure"
                 })
+
+    elif tweet_type == "engagement":
+        print("Engagement cycle — curating flood warnings & infrastructure tweets"")
+        process_mention_engagement()
 
     else:
         print("🤖 No tweet posted in this run (simulating human-like inactivity).")
