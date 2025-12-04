@@ -2381,5 +2381,76 @@
         "tweet": "\ud83c\uddee\ud83c\uddf3 India vs. \ud83c\uddf5\ud83c\uddf0 Pakistan: 2022 monsoon floods affected 33M in Pakistan (1,700 deaths, $30B losses) vs. 10M in India (500 deaths, $5B losses). By 2025 projections, extreme rainfall could expose 20% more people in both.",
         "type": "statistical",
         "category": "monsoon flood patterns in Asia"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQakNOYTF4aFY3bWhHRkNtd2xEU0FKdW1VX1NkZW9XZE5hTmFyM2lhTlI5OG1raFJ4UXRnRlZYdFVaaWpTcktwR0Q2dU9YTW03QUhCT083Z1pibHd4Um1qekpyWk5uYWFVZi10ek5KeDlSOHp1aURyakpxNWRXR2F2WEZXR1Z4YmlDd0tLQ2JTUzlRZzZwQm5oMzhKbkY3S1RPeHJkd2o0Q3ZoTGlVdDlUcGJVaGNCZ9IBuwFBVV95cUxQQmF4UmRRTGJFdmpNRkVmVklJY09rYmxaUzBBamtZaS1ORTlwcWhCa1FKU2txT0FEeEg2QXF4UF9jRVB0V1lxVnNBOXpLMTBnMC1yd0thc29GcUtNMFpZZjRRRzBQWGhaTkEtcnNrZlFqc1hITDliMDVTU1U2R2NGcWtJblpHNzZnTUN3cVdGRU1ETXpNYUVMcTFCaThESWcyLU9xaE9QVlpfSkxjczBVSkJ0bVFyOXJfV0lz?oc=5",
+        "date": "2025-12-04",
+        "title": "Coastal flood advisory affecting Bay Area Shorelines until Sunday afternoon - The Mercury News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQakNOYTF4aFY3bWhHRkNtd2xEU0FKdW1VX1NkZW9XZE5hTmFyM2lhTlI5OG1raFJ4UXRnRlZYdFVaaWpTcktwR0Q2dU9YTW03QUhCT083Z1pibHd4Um1qekpyWk5uYWFVZi10ek5KeDlSOHp1aURyakpxNWRXR2F2WEZXR1Z4YmlDd0tLQ2JTUzlRZzZwQm5oMzhKbkY3S1RPeHJkd2o0Q3ZoTGlVdDlUcGJVaGNCZ9IBuwFBVV95cUxQQmF4UmRRTGJFdmpNRkVmVklJY09rYmxaUzBBamtZaS1ORTlwcWhCa1FKU2txT0FEeEg2QXF4UF9jRVB0V1lxVnNBOXpLMTBnMC1yd0thc29GcUtNMFpZZjRRRzBQWGhaTkEtcnNrZlFqc1hITDliMDVTU1U2R2NGcWtJblpHNzZnTUN3cVdGRU1ETXpNYUVMcTFCaThESWcyLU9xaE9QVlpfSkxjczBVSkJ0bVFyOXJfV0lz?oc=5\" target=\"_blank\">Coastal flood advisory affecting Bay Area Shorelines until Sunday afternoon</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Mercury News</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMmt3T0oySlVQbGNGNC1aNDFORkJnLVM1ajBackwyQ2FHalV6U3JJUFNhZ0FaNnRnOXlTcFYzQWMwaFhNT082dE1pQmtVejRBOGZ2OUJfX3RIMnJEQlRCYThxMW5LcHBKVEdRWkVHakJualdQeTdJOHRnOUNhNUVIZWw5bi1rcG5BUF9tQi1fb0w2aXB4dE1BU0NWZEcwenNMZ3ltcE1mamhxZw?oc=5",
+        "date": "2025-12-04",
+        "title": "Rain forecasts raise fears in flood-hit Indonesia, Sri Lanka - France 24",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMmt3T0oySlVQbGNGNC1aNDFORkJnLVM1ajBackwyQ2FHalV6U3JJUFNhZ0FaNnRnOXlTcFYzQWMwaFhNT082dE1pQmtVejRBOGZ2OUJfX3RIMnJEQlRCYThxMW5LcHBKVEdRWkVHakJualdQeTdJOHRnOUNhNUVIZWw5bi1rcG5BUF9tQi1fb0w2aXB4dE1BU0NWZEcwenNMZ3ltcE1mamhxZw?oc=5\" target=\"_blank\">Rain forecasts raise fears in flood-hit Indonesia, Sri Lanka</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">France 24</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOb040eERYaFpqN2VVVDhwWEQ1d1c0cVliSHpMZzRleFhwcUtrYmFiQ3puUmhQWlU2TmtTRTdxNTBhaERpVnRNMzNoY2pRLWpqdXRrZHJQamlxRV8za2tsMWNtNjRqSlZwM09iak9qTXJuMVBOeHcwblBpbEhjbDN4cDNZdWVYZDRkNEpIajJjQjBVTU9VT0RiamFlZE1jUFpidU9POFdnMm45cm5mUFFNT2g3Sk1nakg0WjRHcjF4X1NRWUk3V1ItaFJzRGg1Rkk1ZHhjXzJPMmJ5aGFlVktF?oc=5",
+        "date": "2025-12-04",
+        "title": "Indonesia promises action on any mining permit violations as Sumatra floods toll at about 800 - Reuters",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxOb040eERYaFpqN2VVVDhwWEQ1d1c0cVliSHpMZzRleFhwcUtrYmFiQ3puUmhQWlU2TmtTRTdxNTBhaERpVnRNMzNoY2pRLWpqdXRrZHJQamlxRV8za2tsMWNtNjRqSlZwM09iak9qTXJuMVBOeHcwblBpbEhjbDN4cDNZdWVYZDRkNEpIajJjQjBVTU9VT0RiamFlZE1jUFpidU9POFdnMm45cm5mUFFNT2g3Sk1nakg0WjRHcjF4X1NRWUk3V1ItaFJzRGg1Rkk1ZHhjXzJPMmJ5aGFlVktF?oc=5\" target=\"_blank\">Indonesia promises action on any mining permit violations as Sumatra floods toll at about 800</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNNlVoOVRnTTlqVkpxSnJxSkdMTUhYMl9vUHBGSUVFRDItYnlCQ21BZ25pMDZ2dWhZbGwzREdtd1VlNU81QVJlMEFycE5tZUNvamlpWmtYTG5vczJDdWZDYW42N2x0VXkyRk91MElmM211U0JJZ1l4a2hYcXJXZ0poR1RzRC1vd2t5cWwxT0ROMGoyTHpON3d5TG40V3BuYVlqWWNROFdKQTJQaWljXzNhZEgweEZZOWFuT3B0ajNNN3VNRnltYi1kUnlIRjZwUl9YT2NOYUR0Y2tLdXUtaFQ1Ukx30gHnAUFVX3lxTE9WZWtFQXNnbEdiejN4VzMzcjBUUXBGbmlDdVQ2RG9DN3VqbEs3dXhTNDQ1bnBPVS1pNVNfc0RlV2ltbEh0NEg1RjloSFVwY2xCeEUtckhCVVoweXVfWDFPNDlzN1hUVFpQS2VEQVc1ZXdnQmxhcUQyU0IyYW84ZmZtSWNjb1dfWEJkWWpvY0F6SUVDYW90cEppVGZuVHpWUmNzYnh0WGE3T3dPMk1QT2ctd2piMUgybXY4OUVLcXo1eHVtU3BicEs1eF9pRGNMb1JFU1VVcGYxTlpLRVNmVklTWmMtY0MzZw?oc=5",
+        "date": "2025-12-04",
+        "title": "Coastal flood advisory for North Bay Interior Valleys and San Francisco Bay Shoreline until Sunday afternoon - The Mercury News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxNNlVoOVRnTTlqVkpxSnJxSkdMTUhYMl9vUHBGSUVFRDItYnlCQ21BZ25pMDZ2dWhZbGwzREdtd1VlNU81QVJlMEFycE5tZUNvamlpWmtYTG5vczJDdWZDYW42N2x0VXkyRk91MElmM211U0JJZ1l4a2hYcXJXZ0poR1RzRC1vd2t5cWwxT0ROMGoyTHpON3d5TG40V3BuYVlqWWNROFdKQTJQaWljXzNhZEgweEZZOWFuT3B0ajNNN3VNRnltYi1kUnlIRjZwUl9YT2NOYUR0Y2tLdXUtaFQ1Ukx30gHnAUFVX3lxTE9WZWtFQXNnbEdiejN4VzMzcjBUUXBGbmlDdVQ2RG9DN3VqbEs3dXhTNDQ1bnBPVS1pNVNfc0RlV2ltbEh0NEg1RjloSFVwY2xCeEUtckhCVVoweXVfWDFPNDlzN1hUVFpQS2VEQVc1ZXdnQmxhcUQyU0IyYW84ZmZtSWNjb1dfWEJkWWpvY0F6SUVDYW90cEppVGZuVHpWUmNzYnh0WGE3T3dPMk1QT2ctd2piMUgybXY4OUVLcXo1eHVtU3BicEs1eF9pRGNMb1JFU1VVcGYxTlpLRVNmVklTWmMtY0MzZw?oc=5\" target=\"_blank\">Coastal flood advisory for North Bay Interior Valleys and San Francisco Bay Shoreline until Sunday afternoon</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Mercury News</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQa1VsZDRZcFpVd3BPYmZiMGt2d2ZtT3h6cU5yUlc1a0dkb0UwZUVyRG8tQnlaaENZcHJjSEwyOVlWVEdMaEZERDZKc09VeXJ0dnlZTHVqV0ZzU09rTW5SUDA3b3hCSzVXUW5mdjVqUnM3eVF3aUc1MjB2VEpEYmZuTGwxSEstbEFCUkZsMGR0RGc0bmpwY3JFRXlQajBkWHloNmtNWmJlWTloeUVXYUttc3hTbDByRUJralFlNzNzWEtvUURZU254UmxaY1d6dkx0QXhiZWVEd1ZoSWprcHRNZA?oc=5",
+        "date": "2025-12-04",
+        "title": "Rain forecasts raise fears in flood-hit Indonesia, Sri Lanka - hpenews.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxQa1VsZDRZcFpVd3BPYmZiMGt2d2ZtT3h6cU5yUlc1a0dkb0UwZUVyRG8tQnlaaENZcHJjSEwyOVlWVEdMaEZERDZKc09VeXJ0dnlZTHVqV0ZzU09rTW5SUDA3b3hCSzVXUW5mdjVqUnM3eVF3aUc1MjB2VEpEYmZuTGwxSEstbEFCUkZsMGR0RGc0bmpwY3JFRXlQajBkWHloNmtNWmJlWTloeUVXYUttc3hTbDByRUJralFlNzNzWEtvUURZU254UmxaY1d6dkx0QXhiZWVEd1ZoSWprcHRNZA?oc=5\" target=\"_blank\">Rain forecasts raise fears in flood-hit Indonesia, Sri Lanka</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">hpenews.com</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQc253SHN3cUtYd3QtUm9JRzRDalFkdUdEaVBvUGtiRE02UFpLdHlKS1FXc1Q0Q0NrTWNwWDYxOTZNaEVwdXhROTNyUVNad1BXTWdiSk5rUGVYVTBXV2xheTd2WVNBRFpvNFVZZ1IxNjBNNy1KVW84MTFnLTJIU0ZZYnlvSEZjV2haNHdpbHRMNUpyVUNOdkpfNHc4dkppQmRjU1BrRHBSb1NtYi1SRDkwcEdqNzJZakk0X2hFZA?oc=5",
+        "date": "2025-12-04",
+        "title": "What\u2019s behind the massive death toll in floods across Southeast Asia \u2013 and why it should serve as a warning - The Independent",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQc253SHN3cUtYd3QtUm9JRzRDalFkdUdEaVBvUGtiRE02UFpLdHlKS1FXc1Q0Q0NrTWNwWDYxOTZNaEVwdXhROTNyUVNad1BXTWdiSk5rUGVYVTBXV2xheTd2WVNBRFpvNFVZZ1IxNjBNNy1KVW84MTFnLTJIU0ZZYnlvSEZjV2haNHdpbHRMNUpyVUNOdkpfNHc4dkppQmRjU1BrRHBSb1NtYi1SRDkwcEdqNzJZakk0X2hFZA?oc=5\" target=\"_blank\">What\u2019s behind the massive death toll in floods across Southeast Asia \u2013 and why it should serve as a warning</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Independent</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQc253SHN3cUtYd3QtUm9JRzRDalFkdUdEaVBvUGtiRE02UFpLdHlKS1FXc1Q0Q0NrTWNwWDYxOTZNaEVwdXhROTNyUVNad1BXTWdiSk5rUGVYVTBXV2xheTd2WVNBRFpvNFVZZ1IxNjBNNy1KVW84MTFnLTJIU0ZZYnlvSEZjV2haNHdpbHRMNUpyVUNOdkpfNHc4dkppQmRjU1BrRHBSb1NtYi1SRDkwcEdqNzJZakk0X2hFZA?oc=5",
+        "date": "2025-12-04",
+        "title": "What\u2019s behind the massive death toll in floods across Southeast Asia \u2013 and why it should serve as a warning - The Independent",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQc253SHN3cUtYd3QtUm9JRzRDalFkdUdEaVBvUGtiRE02UFpLdHlKS1FXc1Q0Q0NrTWNwWDYxOTZNaEVwdXhROTNyUVNad1BXTWdiSk5rUGVYVTBXV2xheTd2WVNBRFpvNFVZZ1IxNjBNNy1KVW84MTFnLTJIU0ZZYnlvSEZjV2haNHdpbHRMNUpyVUNOdkpfNHc4dkppQmRjU1BrRHBSb1NtYi1SRDkwcEdqNzJZakk0X2hFZA?oc=5\" target=\"_blank\">What\u2019s behind the massive death toll in floods across Southeast Asia \u2013 and why it should serve as a warning</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Independent</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "posted",
+        "tweet": "POST-EVENT Southeast Asia: Massive death toll from floods across the region underscores vulnerabilities and serves as a warning for future risks. (The Independent)",
+        "type": "news"
     }
 ]
