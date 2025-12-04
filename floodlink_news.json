@@ -2373,5 +2373,13 @@
         "score": 0,
         "status": "skipped",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2025-12-04",
+        "status": "posted",
+        "tweet": "\ud83c\uddee\ud83c\uddf3 India vs. \ud83c\uddf5\ud83c\uddf0 Pakistan: 2022 monsoon floods affected 33M in Pakistan (1,700 deaths, $30B losses) vs. 10M in India (500 deaths, $5B losses). By 2025 projections, extreme rainfall could expose 20% more people in both.",
+        "type": "statistical",
+        "category": "monsoon flood patterns in Asia"
     }
 ]
