@@ -2456,5 +2456,13 @@
         "status": "posted",
         "tweet": "\ud83c\uddee\ud83c\udde9 POST-EVENT Sumatra: Deadly flooding causes casualties and evokes memories of 2004 Indian Ocean tsunami (Reuters)",
         "type": "news"
+    },
+    {
+        "link": null,
+        "date": "2025-12-05",
+        "status": "posted",
+        "tweet": "Global flood early warning coverage: 50% of at-risk population protected in 2020, up to 70% projected by 2025 amid rising flash floods & extreme rainfall. Yet, storm surge warnings lag at 40% worldwide. (UN data)",
+        "type": "statistical",
+        "category": "coverage of flood early warning systems worldwide"
     }
 ]
