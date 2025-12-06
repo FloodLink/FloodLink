@@ -90,7 +90,7 @@ ENGAGEMENT_LIKE_WEIGHT = 0.0
 
 # Daily tweet limits
 NEWS_TWEETS_LIMIT = 3        
-STAT_TWEETS_LIMIT = 1
+STAT_TWEETS_LIMIT = 2
 INFRA_TWEETS_LIMIT = 1
 REPLY_TWEETS_LIMIT = 1
 MENTIONS_REPLY_DAILY_LIMIT = 6
@@ -458,11 +458,13 @@ def generate_statistical_tweet(selected_category):
         3: """A short ranked list (3–5 items) under 280 characters.
 
 Format:
-<one-sentence overview>
+<Very short overview of the metric description>
 
 1. Item
 2. Item
 3. Item
+4. Item
+5. Item
 """
     }
 
