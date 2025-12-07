@@ -2,25 +2,51 @@
   "-8.8368,13.2343": {
     "country": "Angola",
     "name": "Luanda",
-    "risk_level": "Medium",
+    "risk_level": "Low",
     "latitude": -8.8368,
     "longitude": 13.2343,
-    "rain_mm": 55.19,
+    "rain_mm": 2.62,
     "soil_moisture": 1.0,
-    "raw_dynamic_score": 9.437,
-    "last_updated": "2025-12-07T16:14:07.547476Z",
-    "tweet_id": "1997701163123180015"
+    "raw_dynamic_score": 0.449,
+    "last_updated": "2025-12-07T22:08:36.237725Z",
+    "resolved": true,
+    "tweet_id": "1997790370172985372"
   },
   "-3.8003,102.2653": {
     "country": "Indonesia",
     "name": "Bengkulu",
-    "risk_level": "Medium",
+    "risk_level": "Low",
     "latitude": -3.8003,
     "longitude": 102.2653,
-    "rain_mm": 43.25,
-    "soil_moisture": 0.607,
-    "raw_dynamic_score": 6.023,
-    "last_updated": "2025-12-07T16:14:37.755751Z",
-    "tweet_id": "1997701289795334475"
+    "rain_mm": 13.69,
+    "soil_moisture": 0.617,
+    "raw_dynamic_score": 1.917,
+    "last_updated": "2025-12-07T22:09:36.766185Z",
+    "resolved": true,
+    "tweet_id": "1997790624075161764"
+  },
+  "-14.9172,13.4925": {
+    "country": "Angola",
+    "name": "Lubango",
+    "risk_level": "Medium",
+    "latitude": -14.9172,
+    "longitude": 13.4925,
+    "rain_mm": 38.56,
+    "soil_moisture": 0.595,
+    "raw_dynamic_score": 5.136,
+    "last_updated": "2025-12-07T22:09:06.470182Z",
+    "tweet_id": "1997790497277096125"
+  },
+  "1.5500,110.3333": {
+    "country": "Malaysia",
+    "name": "Kuching",
+    "risk_level": "Medium",
+    "latitude": 1.55,
+    "longitude": 110.3333,
+    "rain_mm": 85.56,
+    "soil_moisture": 0.755,
+    "raw_dynamic_score": 12.283,
+    "last_updated": "2025-12-07T22:10:07.000979Z",
+    "tweet_id": "1997790751112220777"
   }
 }
