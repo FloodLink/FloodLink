@@ -2236,5 +2236,25 @@
         "status": "posted",
         "tweet": "\ud83c\uddf3\ud83c\uddf1 The Netherlands' flood defense network spans 26,200 km of dikes, dunes and barriers, protecting 9 million residents\u201460% of the population\u2014from rising sea levels and river floods in 2025.",
         "type": "infrastructure"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNYUVaSGJRSkJ4SjNESWpkaUMzaXRpWDN4Z284RzNQS3ZjbTRmVmhpQVJ3aUk5YWdCcy01VjZFSkJMU1ZTSXVzaWlwZUhyeHQ3S2Y5d0daWE1nZGxKY1N0eHhkcy1ueGJ4QVhMVzh6ejBmblllVHVqYlpjMmNEbzBlbDdwVWFOcEU3WnlBSg?oc=5",
+        "date": "2025-12-07",
+        "title": "New Storm System Threatens Pacific Northwest With Flooding - vocal.media",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNYUVaSGJRSkJ4SjNESWpkaUMzaXRpWDN4Z284RzNQS3ZjbTRmVmhpQVJ3aUk5YWdCcy01VjZFSkJMU1ZTSXVzaWlwZUhyeHQ3S2Y5d0daWE1nZGxKY1N0eHhkcy1ueGJ4QVhMVzh6ejBmblllVHVqYlpjMmNEbzBlbDdwVWFOcEU3WnlBSg?oc=5\" target=\"_blank\">New Storm System Threatens Pacific Northwest With Flooding</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">vocal.media</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZ2sxd0NQd2ZGY2VDRTJTLUI3TzVRdjk3ckxxZlhCZU1IbTVGYWk3VDc1Rk5taVVMWmlQY21WT29FUGxud0NnRjdkRlBlQ2UxTURBYWQ4bjUtMzNjWWphLVBoRFF4N0Y2OU9VZ24tUXFKem1TNkVFMnk2T29ocHp3eVRRbGJ5WXFUQUduZlR0VVRIc0U2a0JiYVVDRF93WkxPd3l1WW50SllUNDQ?oc=5",
+        "date": "2025-12-07",
+        "title": "Survivors Pick Up Pieces in Flood-Hit Indonesia as More Rain Predicted - Laotian Times",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZ2sxd0NQd2ZGY2VDRTJTLUI3TzVRdjk3ckxxZlhCZU1IbTVGYWk3VDc1Rk5taVVMWmlQY21WT29FUGxud0NnRjdkRlBlQ2UxTURBYWQ4bjUtMzNjWWphLVBoRFF4N0Y2OU9VZ24tUXFKem1TNkVFMnk2T29ocHp3eVRRbGJ5WXFUQUduZlR0VVRIc0U2a0JiYVVDRF93WkxPd3l1WW50SllUNDQ?oc=5\" target=\"_blank\">Survivors Pick Up Pieces in Flood-Hit Indonesia as More Rain Predicted</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Laotian Times</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
     }
 ]
