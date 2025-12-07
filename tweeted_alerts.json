@@ -2,13 +2,38 @@
   "13.9419,121.1627": {
     "country": "Philippines",
     "name": "Lipa City",
-    "risk_level": "Medium",
+    "risk_level": "Low",
     "latitude": 13.9419,
     "longitude": 121.1627,
-    "rain_mm": 67.88,
-    "soil_moisture": 0.0,
-    "raw_dynamic_score": 6.126,
-    "last_updated": "2025-12-07T13:45:52.795620Z",
-    "tweet_id": "1997663855879798820"
+    "rain_mm": 2.38,
+    "soil_moisture": 0.667,
+    "raw_dynamic_score": 0.342,
+    "last_updated": "2025-12-07T16:15:08.063784Z",
+    "resolved": true,
+    "tweet_id": "1997701416559759509"
+  },
+  "-8.8368,13.2343": {
+    "country": "Angola",
+    "name": "Luanda",
+    "risk_level": "Medium",
+    "latitude": -8.8368,
+    "longitude": 13.2343,
+    "rain_mm": 55.19,
+    "soil_moisture": 1.0,
+    "raw_dynamic_score": 9.437,
+    "last_updated": "2025-12-07T16:14:07.547476Z",
+    "tweet_id": "1997701163123180015"
+  },
+  "-3.8003,102.2653": {
+    "country": "Indonesia",
+    "name": "Bengkulu",
+    "risk_level": "Medium",
+    "latitude": -3.8003,
+    "longitude": 102.2653,
+    "rain_mm": 43.25,
+    "soil_moisture": 0.607,
+    "raw_dynamic_score": 6.023,
+    "last_updated": "2025-12-07T16:14:37.755751Z",
+    "tweet_id": "1997701289795334475"
   }
 }
