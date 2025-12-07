@@ -2266,5 +2266,13 @@
         "score": 0,
         "status": "skipped",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2025-12-07",
+        "status": "posted",
+        "tweet": "Asia's monsoon flood exposure rankings (2020-2025 projections, pop. at risk)\n\n\ud83c\uddee\ud83c\uddf31. India: 250M exposed\n\ud83c\udde7\ud83c\udde92. Bangladesh: 60M\n\ud83c\uddf5\ud83c\uddf03. Pakistan: 45M\n\ud83c\udde8\ud83c\uddf34. China: 35M\n\ud83c\uddfb\ud83c\uddf35. Vietnam: 25M",
+        "type": "statistical",
+        "category": "monsoon flood patterns in Asia"
     }
 ]
