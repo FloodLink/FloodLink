@@ -1,17 +1,4 @@
 {
-  "13.9419,121.1627": {
-    "country": "Philippines",
-    "name": "Lipa City",
-    "risk_level": "Low",
-    "latitude": 13.9419,
-    "longitude": 121.1627,
-    "rain_mm": 2.38,
-    "soil_moisture": 0.667,
-    "raw_dynamic_score": 0.342,
-    "last_updated": "2025-12-07T16:15:08.063784Z",
-    "resolved": true,
-    "tweet_id": "1997701416559759509"
-  },
   "-8.8368,13.2343": {
     "country": "Angola",
     "name": "Luanda",
