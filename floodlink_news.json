@@ -2115,5 +2115,25 @@
         "status": "posted",
         "tweet": "\ud83c\uddfa\ud83c\uddf8 FORECAST Central West Florida: Flash flood warning until Sunday night due to thunderstorms (Tampa Bay Times)",
         "type": "news"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRWVzS1EtOUZ6dWhHTXNsalA2LWpVNTBlODc3bGdubUt0eUNkUEpWdGlGbGtlWmpucy13c01QOGFtVlFSN0VfRVpDa184UDQ1WnQ1SkMzWjQyRGhici16TXZlZmMtRi1xUVlWdmNQTjEydk1DNU1WNG8zZ0Y5Sm9EcXZJOVZjWWZFWGJCbGkyRUltcjc5TDEtMWQtZ09CNmh2VU1wVmc1aGgzNnpDa2ZGWHFn?oc=5",
+        "date": "2025-12-08",
+        "title": "LIVE RADAR: Gusty winds, risk for flash flooding persist for Central Florida before cooler temps move in - WKMG",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQRWVzS1EtOUZ6dWhHTXNsalA2LWpVNTBlODc3bGdubUt0eUNkUEpWdGlGbGtlWmpucy13c01QOGFtVlFSN0VfRVpDa184UDQ1WnQ1SkMzWjQyRGhici16TXZlZmMtRi1xUVlWdmNQTjEydk1DNU1WNG8zZ0Y5Sm9EcXZJOVZjWWZFWGJCbGkyRUltcjc5TDEtMWQtZ09CNmh2VU1wVmc1aGgzNnpDa2ZGWHFn?oc=5\" target=\"_blank\">LIVE RADAR: Gusty winds, risk for flash flooding persist for Central Florida before cooler temps move in</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WKMG</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNGxVNjE0LXNzTlFCM0dJMG1WZThnQy0wcW1waV81MmxmRXhBR1JGZWFfUnl3Yk5pU21PQVJSOGY4blpVOXItd1lkT0ktdEw4UDgxRkh5MW4tZlB1TENQLUt1WmlZSHU1dWswN3lJVVFNaW50UkJmUVA0MlJnc24tR2w3TUlEeHdWU0pmNUhBSWhFVFVWTkNKa3FqUFBRUdIBpgFBVV95cUxQZzN4OFpiejUxOWF6WTVVT01pWGlUdlY2M2FpazhOc1l0SDl1ZENDd0ZqTEtNaGs2OE54NHJaYktwazBJMWlWUXJTRzBSTy02NndqZ0l3STFkX0huOFFHaGsyamZkMzVHRjdfbl9PNWFIVG5rRGJHRUZKQmU0SS1lRHZaNC1TWkgwT3o5VnBGcHNKVFBRTUVFV2NkY0NyUzFSeGtwb1Rn?oc=5",
+        "date": "2025-12-08",
+        "title": "Sri Lanka issues landslide warnings as cyclone toll hits 627 - The Express Tribune",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNNGxVNjE0LXNzTlFCM0dJMG1WZThnQy0wcW1waV81MmxmRXhBR1JGZWFfUnl3Yk5pU21PQVJSOGY4blpVOXItd1lkT0ktdEw4UDgxRkh5MW4tZlB1TENQLUt1WmlZSHU1dWswN3lJVVFNaW50UkJmUVA0MlJnc24tR2w3TUlEeHdWU0pmNUhBSWhFVFVWTkNKa3FqUFBRUdIBpgFBVV95cUxQZzN4OFpiejUxOWF6WTVVT01pWGlUdlY2M2FpazhOc1l0SDl1ZENDd0ZqTEtNaGs2OE54NHJaYktwazBJMWlWUXJTRzBSTy02NndqZ0l3STFkX0huOFFHaGsyamZkMzVHRjdfbl9PNWFIVG5rRGJHRUZKQmU0SS1lRHZaNC1TWkgwT3o5VnBGcHNKVFBRTUVFV2NkY0NyUzFSeGtwb1Rn?oc=5\" target=\"_blank\">Sri Lanka issues landslide warnings as cyclone toll hits 627</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Express Tribune</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
     }
 ]
