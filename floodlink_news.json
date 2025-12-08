@@ -2135,5 +2135,13 @@
         "score": 0,
         "status": "skipped",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2025-12-08",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 US urban areas: 16 million people exposed to river flooding (2023 est.).  \n\ud83c\uddee\ud83c\uddf3 India: 65 million urban residents at risk from river floods & extreme rainfall (2024 data).  \nGlobal urban flood exposure doubled since 2020.",
+        "type": "statistical",
+        "category": "urban areas exposed to river flooding"
     }
 ]
