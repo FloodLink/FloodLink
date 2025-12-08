@@ -2234,5 +2234,12 @@
         "score": 5,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2025-12-08",
+        "status": "posted",
+        "tweet": "\ud83c\uddf3\ud83c\uddf1 The Netherlands' flood defense network spans 26,000 km of dikes, dunes, and levees, protecting 9 million residents\u2014over half the population\u2014from North Sea surges and river overflows.",
+        "type": "infrastructure"
     }
 ]
