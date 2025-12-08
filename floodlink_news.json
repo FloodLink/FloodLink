@@ -2143,5 +2143,56 @@
         "tweet": "\ud83c\uddfa\ud83c\uddf8 US urban areas: 16 million people exposed to river flooding (2023 est.).  \n\ud83c\uddee\ud83c\uddf3 India: 65 million urban residents at risk from river floods & extreme rainfall (2024 data).  \nGlobal urban flood exposure doubled since 2020.",
         "type": "statistical",
         "category": "urban areas exposed to river flooding"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUl9pMUkxa0NGRlI2X3djd3NteEVkVDJ6UkFuYmRnZ2dfQ2c4Z2pNZXFEOWNnWmdkdE1zVmFzSENJTE4xYmlYeEF3ZnZEbGFFVEhVSURjOTVlbXRkSEpKMm9ibDhQQVhsbFVwODdOeWRmSF82T1dHWWdKN05LeWdDcmg0VjR1LWFyWTNDM3d2ZnpvNktvRm1BTFZsNDNPSHR1dWFRUzZjcWFSd1lfS0JFcm9vTGZZZzZq?oc=5",
+        "date": "2025-12-08",
+        "title": "Seattle weather: Major flood forecast worsens for Western WA rivers - The Seattle Times",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUl9pMUkxa0NGRlI2X3djd3NteEVkVDJ6UkFuYmRnZ2dfQ2c4Z2pNZXFEOWNnWmdkdE1zVmFzSENJTE4xYmlYeEF3ZnZEbGFFVEhVSURjOTVlbXRkSEpKMm9ibDhQQVhsbFVwODdOeWRmSF82T1dHWWdKN05LeWdDcmg0VjR1LWFyWTNDM3d2ZnpvNktvRm1BTFZsNDNPSHR1dWFRUzZjcWFSd1lfS0JFcm9vTGZZZzZq?oc=5\" target=\"_blank\">Seattle weather: Major flood forecast worsens for Western WA rivers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Seattle Times</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNTTFWeEZzNEZ5djZ3NHVObmliRWxTdGFLYVlGc3hoc2pvRTBOZjloZVVkN1ByZUpPVlAycjZaRDhfbURxX0VBZDFrYVN6Y0drMk56alZybWtvQ0FSRHlaNDc2c01PRHhDUjRUeHk5RERKYnM3aXNQaWZYTzAtejZOaXc1dnpGYW9rR3o5V3F6MnVTcXY3RklXNVdCOW5PZl9ONkZ6T1BZTTU2LVlUTll2SGRkdll6eTF5eFVfcjdsRjBmU3A4VEQ2R0FZc1J0eVdxT0E?oc=5",
+        "date": "2025-12-08",
+        "title": "Indonesia says more than $3 billion in recovery funds required after Sumatra floods - Reuters",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxNTTFWeEZzNEZ5djZ3NHVObmliRWxTdGFLYVlGc3hoc2pvRTBOZjloZVVkN1ByZUpPVlAycjZaRDhfbURxX0VBZDFrYVN6Y0drMk56alZybWtvQ0FSRHlaNDc2c01PRHhDUjRUeHk5RERKYnM3aXNQaWZYTzAtejZOaXc1dnpGYW9rR3o5V3F6MnVTcXY3RklXNVdCOW5PZl9ONkZ6T1BZTTU2LVlUTll2SGRkdll6eTF5eFVfcjdsRjBmU3A4VEQ2R0FZc1J0eVdxT0E?oc=5\" target=\"_blank\">Indonesia says more than $3 billion in recovery funds required after Sumatra floods</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5JTTREQ25IaWxrTVhBVWZDMTNMQUViclJlMVJNclVUaWdxTkhKMjhORmsxaHdKcUhTM2FIVlBqNEF2UnVuaHY0RWZRX0prRUhSdTlCWU1weXhiWnB0eEo5b29EN3F0dw?oc=5",
+        "date": "2025-12-08",
+        "title": "Weather forecast: rain expected early week, stormier weather arriving Wednesday - Ynetnews",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE5JTTREQ25IaWxrTVhBVWZDMTNMQUViclJlMVJNclVUaWdxTkhKMjhORmsxaHdKcUhTM2FIVlBqNEF2UnVuaHY0RWZRX0prRUhSdTlCWU1weXhiWnB0eEo5b29EN3F0dw?oc=5\" target=\"_blank\">Weather forecast: rain expected early week, stormier weather arriving Wednesday</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Ynetnews</font>",
+        "similarity_excluded": "No",
+        "score": 2,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOWk1VMHhJYzBUMXl1UmRzNm0wblJrNzctWVpCZU5FR3lrUjhJdHlPbURRalBTcnNPU19XRVRHWGFXb05XWk9PUE5VU0tNQzJIa0NmZEZ4cVJvLWd5dUhvSjZGUENIbE9GRFdmbkZEdXQxaVZraEwtUW94RTNicXlhVGNrTFA0MnpCdjVHRjBUYi1PLUlkLVcyZlE2a9IBmgFBVV95cUxPaVBkVGZWcWVmQWVYZEpZeGFEQ2JReDdxVE9aYV9NYU9OLURPNnBNd2k0UzV2UFlzTk1KWkxkckxtRUt5Tm1XS1RPQ0xGYUFSMGF3bmtLX1FmZmVFcmNJakV3Nms4bmJOR1pEWkFaaHBRb2dTLWNadG1hR1daV25aTWkyTVJHTUNpcFlYRGpvWFl5d2lsMkstbzh3?oc=5",
+        "date": "2025-12-08",
+        "title": "Record-high dam water releases deepen Vietnam\u2019s flood crisis - ucanews.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOWk1VMHhJYzBUMXl1UmRzNm0wblJrNzctWVpCZU5FR3lrUjhJdHlPbURRalBTcnNPU19XRVRHWGFXb05XWk9PUE5VU0tNQzJIa0NmZEZ4cVJvLWd5dUhvSjZGUENIbE9GRFdmbkZEdXQxaVZraEwtUW94RTNicXlhVGNrTFA0MnpCdjVHRjBUYi1PLUlkLVcyZlE2a9IBmgFBVV95cUxPaVBkVGZWcWVmQWVYZEpZeGFEQ2JReDdxVE9aYV9NYU9OLURPNnBNd2k0UzV2UFlzTk1KWkxkckxtRUt5Tm1XS1RPQ0xGYUFSMGF3bmtLX1FmZmVFcmNJakV3Nms4bmJOR1pEWkFaaHBRb2dTLWNadG1hR1daV25aTWkyTVJHTUNpcFlYRGpvWFl5d2lsMkstbzh3?oc=5\" target=\"_blank\">Record-high dam water releases deepen Vietnam\u2019s flood crisis</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ucanews.com</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOWk1VMHhJYzBUMXl1UmRzNm0wblJrNzctWVpCZU5FR3lrUjhJdHlPbURRalBTcnNPU19XRVRHWGFXb05XWk9PUE5VU0tNQzJIa0NmZEZ4cVJvLWd5dUhvSjZGUENIbE9GRFdmbkZEdXQxaVZraEwtUW94RTNicXlhVGNrTFA0MnpCdjVHRjBUYi1PLUlkLVcyZlE2a9IBmgFBVV95cUxPaVBkVGZWcWVmQWVYZEpZeGFEQ2JReDdxVE9aYV9NYU9OLURPNnBNd2k0UzV2UFlzTk1KWkxkckxtRUt5Tm1XS1RPQ0xGYUFSMGF3bmtLX1FmZmVFcmNJakV3Nms4bmJOR1pEWkFaaHBRb2dTLWNadG1hR1daV25aTWkyTVJHTUNpcFlYRGpvWFl5d2lsMkstbzh3?oc=5",
+        "date": "2025-12-08",
+        "title": "Record-high dam water releases deepen Vietnam\u2019s flood crisis - ucanews.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOWk1VMHhJYzBUMXl1UmRzNm0wblJrNzctWVpCZU5FR3lrUjhJdHlPbURRalBTcnNPU19XRVRHWGFXb05XWk9PUE5VU0tNQzJIa0NmZEZ4cVJvLWd5dUhvSjZGUENIbE9GRFdmbkZEdXQxaVZraEwtUW94RTNicXlhVGNrTFA0MnpCdjVHRjBUYi1PLUlkLVcyZlE2a9IBmgFBVV95cUxPaVBkVGZWcWVmQWVYZEpZeGFEQ2JReDdxVE9aYV9NYU9OLURPNnBNd2k0UzV2UFlzTk1KWkxkckxtRUt5Tm1XS1RPQ0xGYUFSMGF3bmtLX1FmZmVFcmNJakV3Nms4bmJOR1pEWkFaaHBRb2dTLWNadG1hR1daV25aTWkyTVJHTUNpcFlYRGpvWFl5d2lsMkstbzh3?oc=5\" target=\"_blank\">Record-high dam water releases deepen Vietnam\u2019s flood crisis</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ucanews.com</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "posted",
+        "tweet": "\ud83c\uddfb\ud83c\uddf3 POST-EVENT Vietnam: Record-high dam water releases deepen ongoing flood crisis.",
+        "type": "news"
     }
 ]
