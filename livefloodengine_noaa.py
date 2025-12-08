@@ -62,7 +62,7 @@ RAIN_CUTOFF_MM = 0.0         # set 0.5 to ignore drizzle; 0.0 keeps strict linea
 RAW_LOW_MAX   = 7.0          # 0..7   -> Low
 RAW_MED_MAX   = 12.0         # 7..12  -> Medium
 RAW_HIGH_MAX  = 24.0         # 12..24 -> High
-# >35 -> Extreme
+# >24 -> Extreme
 
 # -------------------------------
 # ALERT TRANSITION POLICY
