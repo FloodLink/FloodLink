@@ -2,14 +2,27 @@
   "-0.6190,100.1200": {
     "country": "Indonesia",
     "name": "Pariaman",
-    "risk_level": "Medium",
+    "risk_level": "Low",
     "latitude": -0.61898,
     "longitude": 100.11997,
-    "rain_mm": 50.25,
+    "rain_mm": 3.56,
     "soil_moisture": 1.0,
-    "raw_dynamic_score": 7.688,
-    "last_updated": "2025-12-10T11:00:28.467501Z",
-    "tweet_id": "1998709393827811348",
+    "raw_dynamic_score": 0.545,
+    "last_updated": "2025-12-10T16:28:45.684698Z",
+    "tweet_id": "1998792009742786690",
+    "resolved": true
+  },
+  "-4.8251,104.8817": {
+    "country": "Indonesia",
+    "name": "Kotabumi",
+    "risk_level": "Medium",
+    "latitude": -4.82505,
+    "longitude": 104.8817,
+    "rain_mm": 72.38,
+    "soil_moisture": 0.672,
+    "raw_dynamic_score": 9.358,
+    "last_updated": "2025-12-10T16:29:15.878331Z",
+    "tweet_id": "1998792136612094077",
     "resolved": false
   }
 }
