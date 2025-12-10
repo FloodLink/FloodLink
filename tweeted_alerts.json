@@ -2,25 +2,27 @@
   "-31.7719,-52.3425": {
     "country": "Brazil",
     "name": "Pelotas",
-    "risk_level": "Medium",
+    "risk_level": "Low",
     "latitude": -31.7719,
     "longitude": -52.3425,
-    "rain_mm": 70.06,
-    "soil_moisture": 0.738,
-    "raw_dynamic_score": 10.232,
-    "last_updated": "2025-12-10T03:49:46.752528Z",
-    "tweet_id": "1998601005664211280"
+    "rain_mm": 12.25,
+    "soil_moisture": 0.698,
+    "raw_dynamic_score": 1.75,
+    "last_updated": "2025-12-10T10:12:22.440845Z",
+    "resolved": true,
+    "tweet_id": "1998697288680747280"
   },
   "-0.9492,100.3543": {
     "country": "Indonesia",
     "name": "Padang",
-    "risk_level": "High",
+    "risk_level": "Low",
     "latitude": -0.9492,
     "longitude": 100.3543,
-    "rain_mm": 80.62,
+    "rain_mm": 19.44,
     "soil_moisture": 1.0,
-    "raw_dynamic_score": 13.787,
-    "last_updated": "2025-12-10T03:50:16.984146Z",
-    "tweet_id": "1998601132499927380"
+    "raw_dynamic_score": 3.324,
+    "last_updated": "2025-12-10T10:12:52.677020Z",
+    "resolved": true,
+    "tweet_id": "1998697415600386442"
   }
 }
