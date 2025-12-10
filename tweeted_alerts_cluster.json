@@ -2,14 +2,27 @@
   "-4.8251,104.8817": {
     "country": "Indonesia",
     "name": "Kotabumi",
-    "risk_level": "Medium",
+    "risk_level": "Low",
     "latitude": -4.82505,
     "longitude": 104.8817,
-    "rain_mm": 72.38,
-    "soil_moisture": 0.672,
-    "raw_dynamic_score": 9.358,
-    "last_updated": "2025-12-10T16:29:15.878331Z",
-    "tweet_id": "1998792136612094077",
+    "rain_mm": 4.69,
+    "soil_moisture": 0.583,
+    "raw_dynamic_score": 0.576,
+    "last_updated": "2025-12-10T22:21:28.447658Z",
+    "tweet_id": "1998880772816527420",
+    "resolved": true
+  },
+  "17.1485,121.8892": {
+    "country": "Philippines",
+    "name": "Ilagan",
+    "risk_level": "High",
+    "latitude": 17.14854,
+    "longitude": 121.88924,
+    "rain_mm": 102.69,
+    "soil_moisture": 0.737,
+    "raw_dynamic_score": 13.764,
+    "last_updated": "2025-12-10T22:21:58.643778Z",
+    "tweet_id": "1998880899648143537",
     "resolved": false
   }
 }
