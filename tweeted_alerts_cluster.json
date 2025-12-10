@@ -1,0 +1,15 @@
+{
+  "-0.6190,100.1200": {
+    "country": "Indonesia",
+    "name": "Pariaman",
+    "risk_level": "Medium",
+    "latitude": -0.61898,
+    "longitude": 100.11997,
+    "rain_mm": 50.25,
+    "soil_moisture": 1.0,
+    "raw_dynamic_score": 7.688,
+    "last_updated": "2025-12-10T11:00:28.467501Z",
+    "tweet_id": "1998709393827811348",
+    "resolved": false
+  }
+}
