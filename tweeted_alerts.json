@@ -1,1 +1,14 @@
-{}
+{
+  "-0.9492,100.3543": {
+    "country": "Indonesia",
+    "name": "Padang",
+    "risk_level": "Medium",
+    "latitude": -0.9492,
+    "longitude": 100.3543,
+    "rain_mm": 51.94,
+    "soil_moisture": 1.0,
+    "raw_dynamic_score": 8.881,
+    "last_updated": "2025-12-10T22:10:27.889817Z",
+    "tweet_id": "1998878002436767973"
+  }
+}
