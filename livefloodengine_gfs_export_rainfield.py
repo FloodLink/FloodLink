@@ -1,13 +1,38 @@
 """
-FloodLink – NOAA GFS → Global 6h Rain Grid (JSON)
+FloodLink – NOAA GFS → Global 1h Rainfall Time Series (JSON)
 
-Downloads GFS 0.25° GRIB2, computes 6-hour accumulated rain
-for the whole globe, and writes a compact JSON grid:
+Downloads GFS 0.25° GRIB2, extracts hourly total precipitation
+for the next FORECAST_HOURS hours, and writes a compact
+time-series JSON grid:
 
   gfs_rain_6h.json
 
-This file will later be used by the FloodLink Earth-style
-visualization (canvas/WebGL).
+Structure:
+
+{
+  "header": {
+    "parameter": "rain_1h_mm",
+    "parameterUnit": "mm",
+    "nx": ...,
+    "ny": ...,
+    "tCount": T,
+    "tStepHours": 1,
+    "lo1": ...,
+    "la1": ...,
+    "dx": 0.25,
+    "dy": 0.25,
+    "forecastHours": FORECAST_HOURS,
+    "refTime": "YYYY-MM-DDTHH:00:00Z",
+    "times": ["...", "...", ...],   # one per hour slice
+    "source": "NOAA GFS 0p25"
+  },
+  "data": [
+    # Hour 1 (t=0): ny*nx values, row-major (lat 0..ny-1, lon 0..nx-1),
+    # Hour 2 (t=1): next ny*nx values,
+    # ...
+    # Hour T: ...
+  ]
+}
 """
 
 import os
@@ -23,10 +48,10 @@ import pygrib
 # CONFIG
 # --------------------------------
 GFS_RES = "0p25"             # 0.25° grid
-FORECAST_HOURS = 6           # next 6 hours
+FORECAST_HOURS = 6           # next N hours (max we try to load)
 MAX_RETRIES = 2
 TIMEOUT = 60                 # seconds
-RAINFIELD_PATH = "gfs_rain_6h.json"
+RAINFIELD_PATH = "gfs_rain_6h.json"   # now a time series, not a 6h sum
 
 
 # --------------------------------
@@ -52,7 +77,7 @@ def get_latest_cycle():
 
 def get_forecast_steps(max_hours: int):
     """
-    For 0.25° GFS, forecasts are hourly → 1..max_hours inclusive.
+    For 0.25° GFS, we request hourly forecasts: f001..f{max_hours}.
     """
     return list(range(1, max_hours + 1))
 
@@ -102,10 +127,10 @@ def load_gfs_apcp_grid(forecast_hours):
     Download and load APCP (total precipitation) for all steps up to forecast_hours.
 
     Returns:
-        apcp: np.array [time, lat, lon] in mm (kg/m^2)
+        apcp: np.array [T, Y, X] in mm (kg/m^2), cumulative
         lats, lons: 2D arrays
-        times: list of datetime (UTC)
-        ref_time: datetime (UTC) of the cycle
+        times: list of datetime (UTC) for each step
+        ref_time: datetime (UTC) of the cycle start
     """
     date, cycle, prev_date, prev_cycle = get_latest_cycle()
     ref_time = datetime.strptime(date + cycle, "%Y%m%d%H").replace(tzinfo=timezone.utc)
@@ -151,18 +176,18 @@ def load_gfs_apcp_grid(forecast_hours):
 
 
 # --------------------------------
-# Rain accumulation & JSON export
+# Hourly rain time series & JSON export
 # --------------------------------
-def compute_6h_rain(apcp):
+def compute_hourly_rain_series(apcp):
     """
-    Given APCP cumulative field [T,Y,X] (mm), compute sum of
-    1-hour increments over all T steps (up to 6h).
+    Given APCP cumulative field [T,Y,X] (mm), compute per-hour
+    increments for each time step.
 
     Returns:
-        rain_6h: [Y,X] mm
+        inc: np.array [T,Y,X] where inc[t] = rain in the hour (t-1, t]
     """
     T, NY, NX = apcp.shape
-    inc = np.zeros_like(apcp)
+    inc = np.zeros_like(apcp, dtype="float32")
 
     # first hour: just the first cumulative field (>=0)
     inc[0] = np.maximum(apcp[0], 0.0)
@@ -170,60 +195,73 @@ def compute_6h_rain(apcp):
         diff = apcp[t] - apcp[t - 1]
         inc[t] = np.maximum(diff, 0.0)
 
-    rain_6h = np.sum(inc, axis=0)  # [Y,X]
-    return rain_6h
+    return inc
 
 
-def grid_to_json(rain_6h, lats, lons, ref_time, valid_time):
+def timeseries_to_json(hourly_rain, lats, lons, ref_time, times):
     """
-    Build an Earth-style JSON grid: header + flattened data.
+    Build an Earth-style JSON grid: header + flattened time-series data.
+
+    hourly_rain: [T,Y,X] mm for each hour.
+    times: list of datetime (UTC) for each T.
     """
-    ny, nx = rain_6h.shape
+    T, ny, nx = hourly_rain.shape
     lat_axis = lats[:, 0]
     lon_axis = lons[0, :]
 
+    # iso strings for each time step
+    time_strs = [t.isoformat().replace("+00:00", "Z") for t in times]
+
     header = {
-        "parameter": "rain_6h_mm",
+        "parameter": "rain_1h_mm",
         "parameterUnit": "mm",
         "nx": int(nx),
         "ny": int(ny),
+        "tCount": int(T),
+        "tStepHours": 1,
         "lo1": float(lon_axis[0]),
-        "la1": float(lat_axis[0]),       # usually 90
+        "la1": float(lat_axis[0]),          # usually 90
         "lo2": float(lon_axis[-1]),
-        "la2": float(lat_axis[-1]),      # usually -90
+        "la2": float(lat_axis[-1]),         # usually -90
         "dx": float(lon_axis[1] - lon_axis[0]),
         "dy": float(lat_axis[0] - lat_axis[1]),  # positive step in degrees
         "forecastHours": FORECAST_HOURS,
         "refTime": ref_time.isoformat().replace("+00:00", "Z"),
-        "validTime": valid_time.isoformat().replace("+00:00", "Z"),
+        "times": time_strs,
         "source": "NOAA GFS " + GFS_RES,
+        "layout": "time-major",   # T blocks, each of size ny*nx
     }
 
-    # Flatten row-major (lat index 0..ny-1, lon index 0..nx-1)
-    data = rain_6h.flatten().round(2).tolist()
+    # Flatten time-major: for t in 0..T-1, concatenate hourly_rain[t].flatten()
+    flat = []
+    for t in range(T):
+        flat.extend(hourly_rain[t].flatten().round(2).tolist())
 
     return {
         "header": header,
-        "data": data,
+        "data": flat,
     }
 
 
 def main():
-    print(f"🌧  FloodLink GFS rain field export – next {FORECAST_HOURS}h")
+    print(f"🌧  FloodLink GFS rain time series export – next {FORECAST_HOURS}h")
 
     apcp, lats, lons, times, ref_time = load_gfs_apcp_grid(FORECAST_HOURS)
     if apcp is None:
         print("❌ Failed to load APCP grid.")
         return
 
-    print(f"   Grid shape: {apcp.shape} (T, Y, X)")
+    print(f"   Cumulative APCP grid shape: {apcp.shape} (T, Y, X)")
     print(f"   First valid time: {times[0].isoformat()}")
     print(f"   Last  valid time: {times[-1].isoformat()}")
 
-    rain_6h = compute_6h_rain(apcp)
-    print(f"   Rain range: {float(rain_6h.min()):.2f} – {float(rain_6h.max()):.2f} mm")
+    hourly_rain = compute_hourly_rain_series(apcp)
+    print(
+        f"   Hourly rain range: "
+        f"{float(hourly_rain.min()):.2f} – {float(hourly_rain.max()):.2f} mm"
+    )
 
-    grid_json = grid_to_json(rain_6h, lats, lons, ref_time, times[-1])
+    grid_json = timeseries_to_json(hourly_rain, lats, lons, ref_time, times)
 
     with open(RAINFIELD_PATH, "w", encoding="utf-8") as f:
         json.dump(grid_json, f, ensure_ascii=False)
