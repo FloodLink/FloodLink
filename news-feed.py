@@ -426,6 +426,95 @@ Source: {source}
     tweet = tweet.replace('"', "").replace("'", "")
     return tweet[:280]
 
+def geocode_news_location(title, summary):
+    client = openai.OpenAI(
+        api_key=XAI_API_KEY,
+        base_url="https://api.x.ai/v1"
+    )
+
+    prompt = f"""
+You are a geocoding assistant for FloodLink, a global flood-risk early warning system.
+
+From the news article below, infer the SINGLE most relevant physical location
+where the flooding (or flood risk) is happening.
+
+Return a JSON object with EXACTLY these keys:
+
+- "country": Country name (e.g. "Brazil", "India", "United States"), or null if unknown.
+- "name": Short human-readable place name (city/town or region, optionally including state), e.g. "Porto Alegre", "Rio Grande do Sul", "Southern Luzon", or "Queensland".
+- "latitude": Decimal degrees WGS84 (float, north positive, south negative).
+- "longitude": Decimal degrees WGS84 (float, east positive, west negative).
+- "confidence": Float between 0 and 1 indicating how sure you are.
+
+If you truly cannot infer any location, return:
+
+{{
+  "country": null,
+  "name": null,
+  "latitude": null,
+  "longitude": null,
+  "confidence": 0.0
+}}
+
+IMPORTANT:
+- Answer with ONLY a JSON object, no commentary.
+- Prefer the *most specific* place where impacts occur (city/town > region > country).
+
+Title: {title}
+Summary: {summary}
+"""
+
+    try:
+        resp = client.chat.completions.create(
+            model=XAI_MODEL,
+            messages=[{"role": "user", "content": prompt}],
+            temperature=0.1,
+            max_tokens=200
+        )
+        raw = resp.choices[0].message.content.strip()
+
+        data = json.loads(raw)
+
+        if not isinstance(data, dict):
+            return None
+
+        # Normalise keys & types
+        country = data.get("country")
+        name = data.get("name")
+        lat = data.get("latitude")
+        lon = data.get("longitude")
+        conf = data.get("confidence", 0.0)
+
+        # Cast lat/lon
+        try:
+            lat = float(lat) if lat is not None else None
+        except (ValueError, TypeError):
+            lat = None
+        try:
+            lon = float(lon) if lon is not None else None
+        except (ValueError, TypeError):
+            lon = None
+
+        # Cast confidence and clamp 0–1
+        try:
+            conf = float(conf)
+        except (ValueError, TypeError):
+            conf = 0.0
+        conf = max(0.0, min(1.0, conf))
+
+        return {
+            "country": country,
+            "name": name,
+            "latitude": lat,
+            "longitude": lon,
+            "confidence": conf
+        }
+
+    except Exception as e:
+        print(f"❌ Error geocoding location: {e}")
+        return None
+
+
 # =========================================================
 #      AI: FLOOD STATISTICAL TWEETS
 # =========================================================
@@ -975,20 +1064,27 @@ def post_tweet(tweet):
     try:
         resp = twitter_client.create_tweet(text=tweet)
         print(f"✅ Tweet posted: {resp.data}")
-        
+
+        tweet_id = None
+        try:
+            tweet_id = resp.data.get("id")
+        except Exception:
+            pass
+
         # small cooldown so runs don't spam
         time.sleep(120)
-        
-        return True
+
+        return tweet_id  # None if parsing failed
     except tweepy.errors.Forbidden as e:
         if "Status is a duplicate" in str(e):
             print("⚠️ Duplicate tweet detected. Skipping.")
         else:
             print(f"❌ Twitter API error: {e}")
-        return False
+        return None
     except tweepy.errors.TweepyException as e:
         print(f"❌ Other Tweepy error: {e}")
-        return False
+        return None
+
 
 # =========================================================
 #                        MAIN
@@ -1096,9 +1192,22 @@ if __name__ == "__main__":
                 break
             if score >= NEWS_MIN_SCORE:
                 tweet = summarize_news(title, summary, source)
-                if post_tweet(tweet):
+                
+                # 🔎 NEW: geocode the news location in your desired format
+                geo_data = geocode_news_location(title, summary)
+                if geo_data:
+                    print(
+                        f"📍 Geocoded news → {geo_data.get('name')} "
+                        f"({geo_data.get('latitude')}, {geo_data.get('longitude')}) "
+                        f"country={geo_data.get('country')} "
+                        f"conf={geo_data.get('confidence')}"
+                    )
+        
+                tweet_id = post_tweet(tweet)
+                if tweet_id:
                     today_news_count += 1
-                    processed_articles.append({
+        
+                    entry = {
                         "link": link,
                         "date": today,
                         "title": title,
@@ -1107,8 +1216,24 @@ if __name__ == "__main__":
                         "score": score,
                         "status": "posted",
                         "tweet": tweet,
-                        "type": "news"
-                    })
+                        "type": "news",
+                        "tweet_id": tweet_id
+                    }
+        
+                    # Attach `geo` in the format you defined
+                    if geo_data:
+                        entry["geo"] = geo_data
+        
+                    processed_articles.append(entry)
+        
+                    # OPTIONAL: back-fill the earlier "processed" entry for this link
+                    for a in processed_articles:
+                        if a.get("link") == link and a.get("status") == "processed":
+                            a["tweet_id"] = tweet_id
+                            if geo_data:
+                                a["geo"] = geo_data
+                            break
+        
             else:
                 print(f"🚫 Article below threshold (score={score}): {title}")
 
@@ -1119,7 +1244,8 @@ if __name__ == "__main__":
         else:
             selected_category = random.choice(STATISTICAL_CATEGORIES)
             tweet = generate_statistical_tweet(selected_category)
-            if post_tweet(tweet):
+            tweet_id = post_tweet(tweet)
+            if tweet_id:
                 today_stat_count += 1
                 processed_articles.append({
                     "link": None,
@@ -1127,8 +1253,10 @@ if __name__ == "__main__":
                     "status": "posted",
                     "tweet": tweet,
                     "type": "statistical",
-                    "category": selected_category
+                    "category": selected_category,
+                    "tweet_id": tweet_id
                 })
+
 
     # ---------- FLOOD INFRASTRUCTURE ----------
     elif tweet_type == "infrastructure":
@@ -1136,14 +1264,16 @@ if __name__ == "__main__":
             print(f"🚫 Reached daily infrastructure limit ({INFRA_TWEETS_LIMIT}).")
         else:
             tweet = generate_infrastructure_tweet()
-            if post_tweet(tweet):
+            tweet_id = post_tweet(tweet)
+            if tweet_id:
                 today_infra_count += 1
                 processed_articles.append({
                     "link": None,
                     "date": today,
                     "status": "posted",
                     "tweet": tweet,
-                    "type": "infrastructure"
+                    "type": "infrastructure",
+                    "tweet_id": tweet_id
                 })
 
     elif tweet_type == "engagement":
