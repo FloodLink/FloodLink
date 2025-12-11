@@ -1,17 +1,4 @@
 {
-  "17.1485,121.8892": {
-    "country": "Philippines",
-    "name": "Ilagan",
-    "risk_level": "Low",
-    "latitude": 17.14854,
-    "longitude": 121.88924,
-    "rain_mm": 2.44,
-    "soil_moisture": 0.69,
-    "raw_dynamic_score": 0.318,
-    "last_updated": "2025-12-11T04:36:26.222906Z",
-    "tweet_id": "1998975135328399738",
-    "resolved": true
-  },
   "-0.9492,100.3543": {
     "country": "Indonesia",
     "name": "Padang",
