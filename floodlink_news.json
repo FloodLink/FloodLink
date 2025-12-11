@@ -2447,5 +2447,13 @@
         "status": "posted",
         "tweet": "\ud83c\uddf3\ud83c\uddf1 In 2025, the Netherlands' flood infrastructure spans 26,000 km of dikes and levees, protecting 9 million residents in low-lying areas from rising sea levels and river overflows.",
         "type": "infrastructure"
+    },
+    {
+        "link": null,
+        "date": "2025-12-11",
+        "status": "posted",
+        "tweet": "Dense cities: Pluvial flooding risks soar. In 2023, \ud83c\uddfa\ud83c\uddf8 NYC flash floods exposed 1.5M residents, causing $5B losses. \ud83c\udde7\ud83c\uddf7 S\u00e3o Paulo's 2024 extreme rainfall events hit 2.1M\u2014a 40% higher exposure despite comparable density.",
+        "type": "statistical",
+        "category": "pluvial (surface) flooding in dense cities"
     }
 ]
