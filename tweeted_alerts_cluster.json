@@ -1,1 +1,28 @@
-{}
+{
+  "-5.9561,28.0165": {
+    "country": "Congo, The Democratic Republic of the",
+    "name": "Nyunzu",
+    "risk_level": "Medium",
+    "latitude": -5.95609,
+    "longitude": 28.01649,
+    "rain_mm": 57.75,
+    "soil_moisture": 0.664,
+    "raw_dynamic_score": 7.433,
+    "last_updated": "2025-12-11T16:31:27.154170Z",
+    "tweet_id": "1999155074757521492",
+    "resolved": false
+  },
+  "-21.3000,47.6333": {
+    "country": "Madagascar",
+    "name": "Ifanadiana",
+    "risk_level": "Medium",
+    "latitude": -21.3,
+    "longitude": 47.63333,
+    "rain_mm": 65.88,
+    "soil_moisture": 0.607,
+    "raw_dynamic_score": 8.207,
+    "last_updated": "2025-12-11T16:31:57.363398Z",
+    "tweet_id": "1999155201706459329",
+    "resolved": false
+  }
+}
