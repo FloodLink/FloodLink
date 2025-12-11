@@ -2,14 +2,27 @@
   "17.1485,121.8892": {
     "country": "Philippines",
     "name": "Ilagan",
-    "risk_level": "High",
+    "risk_level": "Low",
     "latitude": 17.14854,
     "longitude": 121.88924,
-    "rain_mm": 102.69,
-    "soil_moisture": 0.737,
-    "raw_dynamic_score": 13.764,
-    "last_updated": "2025-12-10T22:21:58.643778Z",
-    "tweet_id": "1998880899648143537",
+    "rain_mm": 2.44,
+    "soil_moisture": 0.69,
+    "raw_dynamic_score": 0.318,
+    "last_updated": "2025-12-11T04:36:26.222906Z",
+    "tweet_id": "1998975135328399738",
+    "resolved": true
+  },
+  "-0.9492,100.3543": {
+    "country": "Indonesia",
+    "name": "Padang",
+    "risk_level": "High",
+    "latitude": -0.94924,
+    "longitude": 100.35427,
+    "rain_mm": 84.88,
+    "soil_moisture": 1.0,
+    "raw_dynamic_score": 12.986,
+    "last_updated": "2025-12-11T04:35:55.929987Z",
+    "tweet_id": "1998975008358498424",
     "resolved": false
   }
 }
