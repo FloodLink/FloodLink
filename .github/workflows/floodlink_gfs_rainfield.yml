@@ -47,7 +47,7 @@ jobs:
       - name: 🌧️ Generate global 6h rainfield JSON
         run: |
           echo "Starting GFS 6h rainfield export..."
-          python -u gfs_rainfield_6h.py
+          python -u livefloodengine_gfs_export_rainfield.py
 
       - name: 💾 Commit and push updated rainfield JSON
         env:
