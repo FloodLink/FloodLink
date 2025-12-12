@@ -1,9 +1,8 @@
-name: 🌍 FloodLink GFS 6h Rainfield Export
+name: 🌍 FloodLink GFS 1h Rainfield + Isocurves
 
 on:
   schedule:
-    # GFS 0.25° is updated every 6h; running every 3h is a good compromise.
-    # If you want hourly, change to "0 */1 * * *"
+    # GFS 0.25° is updated every 6h; running every 1h keeps us fresh enough
     - cron: "0 */1 * * *"
   workflow_dispatch:
 
@@ -44,12 +43,12 @@ jobs:
           python -m pip install --upgrade pip
           pip install requests pygrib numpy
 
-      - name: 🌧️ Generate global 6h rainfield JSON
+      - name: 🌧️ Generate global 1h rain time-series + isocurves
         run: |
-          echo "Starting GFS 6h rainfield export..."
+          echo "Starting GFS 1h rainfield time-series export (with isocurves)..."
           python -u livefloodengine_gfs_export_rainfield.py
 
-      - name: 💾 Commit and push updated rainfield JSON
+      - name: 💾 Commit and push updated rainfield JSON + isocurves
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
@@ -61,13 +60,13 @@ jobs:
           git fetch origin
           git pull --rebase --autostash origin main
 
-          # 2) Add the rainfield JSON (and any future variants)
-          git add gfs_rain_6h.json || true
+          # 2) Add the rainfield time-series + isocurve GeoJSON
+          git add gfs_rain_6h.json rain_isolines.geojson || true
 
           # 3) Commit only if there are staged changes
           if ! git diff --cached --quiet; then
-            git commit -m "🌍 Auto-update: GFS 6h global rainfield ($(date -u +'%Y-%m-%dT%H:%M:%SZ'))"
+            git commit -m "🌍 Auto-update: GFS 1h rainfield + isocurves ($(date -u +'%Y-%m-%dT%H:%M:%SZ'))"
             git push origin main
           else
-            echo "No rainfield JSON changes to commit."
+            echo "No rainfield / isocurve changes to commit."
           fi
