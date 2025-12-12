@@ -1,0 +1,16 @@
+{
+  "nx": 1440,
+  "ny": 721,
+  "tCount": 6,
+  "maxRainMm": 80.0,
+  "times": [
+    "2025-12-12T06:00:00Z",
+    "2025-12-12T06:00:00Z",
+    "2025-12-12T06:00:00Z",
+    "2025-12-12T06:00:00Z",
+    "2025-12-12T06:00:00Z",
+    "2025-12-12T06:00:00Z"
+  ],
+  "flipY": true,
+  "note": "Each rain_t###.png is grayscale: value / 255 * maxRainMm = mm/hour (values above maxRainMm were clamped)."
+}
