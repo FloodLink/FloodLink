@@ -51,6 +51,43 @@ MAX_RAIN_MM_FOR_TEXTURE = 80.0
 # Rain thresholds (mm) for contour lines
 ISO_LEVELS_MM = [0.25, 0.5, 1, 5, 10, 20, 40, 80]
 
+# --------------------------------
+# Smoothing helper (Chaikin)
+# --------------------------------
+def chaikin_smooth(coords, iterations=2):
+    """
+    Simple Chaikin corner-cutting algorithm to smooth a polyline.
+
+    coords: list of (x, y) pairs.
+    iterations: how many smoothing passes (1–3 is usually enough).
+
+    Returns a new list of (x, y) pairs.
+    """
+    if len(coords) < 3:
+        return coords
+
+    new_coords = coords
+    for _ in range(iterations):
+        if len(new_coords) < 3:
+            break
+        smoothed = [new_coords[0]]  # keep first point
+        for i in range(len(new_coords) - 1):
+            x0, y0 = new_coords[i]
+            x1, y1 = new_coords[i + 1]
+
+            # Q is closer to P0, R is closer to P1
+            qx = 0.75 * x0 + 0.25 * x1
+            qy = 0.75 * y0 + 0.25 * y1
+            rx = 0.25 * x0 + 0.75 * x1
+            ry = 0.25 * y0 + 0.75 * y1
+
+            smoothed.append((qx, qy))
+            smoothed.append((rx, ry))
+
+        smoothed.append(new_coords[-1])  # keep last point
+        new_coords = smoothed
+
+    return new_coords
 
 # --------------------------------
 # GFS helpers
@@ -278,8 +315,13 @@ def generate_isolines_all_hours(hourly_rain, lats, lons, times, levels_mm, out_p
             for seg in seglist:
                 if len(seg) < 2:
                     continue
-                coords = [[float(x), float(y)] for x, y in seg]
-
+        
+                # 🔧 Smooth the contour segment before exporting
+                #   iterations=2 is a good starting point (1 = subtle, 3 = very round)
+                smoothed = chaikin_smooth(list(seg), iterations=2)
+        
+                coords = [[float(x), float(y)] for x, y in smoothed]
+        
                 features.append({
                     "type": "Feature",
                     "geometry": {
@@ -292,6 +334,7 @@ def generate_isolines_all_hours(hourly_rain, lats, lons, times, levels_mm, out_p
                         "validTime": valid_time
                     }
                 })
+
 
         plt.close(fig)
 
