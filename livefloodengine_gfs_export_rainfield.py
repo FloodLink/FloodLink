@@ -1,16 +1,23 @@
 """
 FloodLink – NOAA GFS → Global 1h Rainfall Time Series (JSON)
 + Precomputed Isocurves (GeoJSON, all hours)
++ Per-hour PNG data textures
 
 Outputs:
-  1) gfs_rain_6h.json        (time-series grid, 1h steps, up to FORECAST_HOURS)
-  2) rain_isolines_6h.geojson (LineString contours for each hour)
+  1) gfs_rain_6h.json             (time-series grid, 1h steps, up to FORECAST_HOURS)
+  2) gfs_rain_isolines_6h.geojson (LineString contours for each hour)
+  3) gfs_rain_6h_textures/
+       ├─ rain_t000.png
+       ├─ rain_t001.png
+       ├─ ...
+       └─ gfs_rain_6h_textures_meta.json
 """
 
 import os
 import json
 import time
 from datetime import datetime, timedelta, timezone
+from pathlib import Path
 
 import numpy as np
 import requests
@@ -21,6 +28,9 @@ import matplotlib
 matplotlib.use("Agg")  # headless backend for GitHub Actions
 import matplotlib.pyplot as plt
 
+# For PNG texture export
+from PIL import Image
+
 # --------------------------------
 # CONFIG
 # --------------------------------
@@ -29,8 +39,14 @@ FORECAST_HOURS = 6               # next N hours (max we try to load)
 MAX_RETRIES = 2
 TIMEOUT = 60                     # seconds
 
-RAINFIELD_PATH = "gfs_rain_6h.json"         # time series, 1h increments
-ISOLINES_PATH = "gfs_rain_isolines_6h.geojson"  # precomputed isocurves for all hours
+RAINFIELD_PATH = "gfs_rain_6h.json"              # time series, 1h increments
+ISOLINES_PATH = "gfs_rain_isolines_6h.geojson"   # precomputed isocurves for all hours
+
+# Directory for PNG data textures
+TEXTURE_DIR = Path("gfs_rain_6h_textures")
+
+# Max rain value encoded into 0..255 in PNGs (mm/hour)
+MAX_RAIN_MM_FOR_TEXTURE = 80.0
 
 # Rain thresholds (mm) for contour lines
 ISO_LEVELS_MM = [0.25, 0.5, 1, 5, 10, 20, 40, 80]
@@ -257,8 +273,7 @@ def generate_isolines_all_hours(hourly_rain, lats, lons, times, levels_mm, out_p
         fig, ax = plt.subplots(figsize=(6, 3))
         cs = ax.contour(lon_grid, lat_grid, field, levels=levels_mm)
 
-        # IMPORTANT: use cs.allsegs instead of cs.collections
-        # allsegs is a list<level>[ list<segment>[ (x,y)... ] ]
+        # cs.allsegs: list<level>[ list<segment>[ (x,y)... ] ]
         for level, seglist in zip(cs.levels, cs.allsegs):
             for seg in seglist:
                 if len(seg) < 2:
@@ -292,6 +307,69 @@ def generate_isolines_all_hours(hourly_rain, lats, lons, times, levels_mm, out_p
 
 
 # --------------------------------
+# PNG data textures export
+# --------------------------------
+def export_png_textures(hourly_rain, times, out_dir: Path,
+                        max_rain_mm: float = MAX_RAIN_MM_FOR_TEXTURE,
+                        flip_y: bool = True):
+    """
+    Export each hour slice as a grayscale PNG data texture.
+
+    hourly_rain: [T, Y, X] in mm/hour
+    times      : list of datetime objects (len T)
+    out_dir    : directory for PNGs + metadata JSON
+
+    Pixel encoding:
+        gray (0..255) ~ rain_mm / max_rain_mm (clamped)
+    """
+    T, ny, nx = hourly_rain.shape
+    out_dir.mkdir(parents=True, exist_ok=True)
+
+    print(f"   Exporting PNG textures to {out_dir} ...")
+    print(f"   Texture shape per frame: {nx}x{ny}, frames={T}, max_rain_mm={max_rain_mm}")
+
+    # Prepare metadata for client
+    time_strs = [t.isoformat().replace("+00:00", "Z") for t in times]
+
+    meta = {
+        "nx": int(nx),
+        "ny": int(ny),
+        "tCount": int(T),
+        "maxRainMm": float(max_rain_mm),
+        "times": time_strs,
+        "flipY": bool(flip_y),
+        "note": (
+            "Each rain_t###.png is grayscale: value / 255 * maxRainMm = mm/hour "
+            "(values above maxRainMm were clamped)."
+        ),
+    }
+
+    for t in range(T):
+        slice_mm = np.array(hourly_rain[t], dtype=np.float32)  # [ny, nx]
+        slice_clamped = np.clip(slice_mm, 0.0, max_rain_mm) / max_rain_mm
+        img_8 = (slice_clamped * 255.0).round().astype(np.uint8)
+
+        if flip_y:
+            img_8 = np.flipud(img_8)
+
+        img = Image.fromarray(img_8, mode="L")
+
+        out_name = f"rain_t{t:03d}.png"
+        out_path = out_dir / out_name
+        img.save(out_path, format="PNG")
+
+        if t < 3 or t == T - 1:
+            t_str = time_strs[t] if t < len(time_strs) else f"t={t}"
+            print(f"      🖼  Saved {out_name}  (time={t_str})")
+
+    meta_path = out_dir / "gfs_rain_6h_textures_meta.json"
+    with meta_path.open("w", encoding="utf-8") as f:
+        json.dump(meta, f, ensure_ascii=False, indent=2)
+
+    print(f"   📄 Wrote texture metadata → {meta_path}")
+
+
+# --------------------------------
 # Main
 # --------------------------------
 def main():
@@ -321,7 +399,7 @@ def main():
     size_mb = os.path.getsize(RAINFIELD_PATH) / 1024 / 1024
     print(f"✅ Wrote {RAINFIELD_PATH} ({size_mb:.2f} MB)")
 
-    # --- Isoline (isobar-style) export for all hours ---
+    # --- Isolines GeoJSON for all hours ---
     generate_isolines_all_hours(
         hourly_rain=hourly_rain,
         lats=lats,
@@ -329,6 +407,15 @@ def main():
         times=times,
         levels_mm=ISO_LEVELS_MM,
         out_path=ISOLINES_PATH,
+    )
+
+    # --- PNG data textures ---
+    export_png_textures(
+        hourly_rain=hourly_rain,
+        times=times,
+        out_dir=TEXTURE_DIR,
+        max_rain_mm=MAX_RAIN_MM_FOR_TEXTURE,
+        flip_y=True,
     )
 
 
