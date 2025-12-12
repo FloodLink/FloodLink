@@ -2904,5 +2904,14 @@
         "tweet": "\ud83c\uddf3\ud83c\uddf1 The Netherlands' flood defense network spans 26,000 km of dikes, dunes, and barriers, protecting low-lying areas home to 9 million residents from rising sea levels and storm surges.",
         "type": "infrastructure",
         "tweet_id": "1999373897117106563"
+    },
+    {
+        "link": null,
+        "date": "2025-12-12",
+        "status": "posted",
+        "tweet": "Shanghai \ud83c\udde8\ud83c\uddf3: 35% of its 25M residents exposed to pluvial flooding from extreme rainfall in 2020.  \nBy 2030, projections show 50% exposure amid denser urbanization\u2014vs. just 15% in London \ud83c\uddec\ud83c\udde7 today.",
+        "type": "statistical",
+        "category": "pluvial (surface) flooding in dense cities",
+        "tweet_id": "1999392803218969054"
     }
 ]
