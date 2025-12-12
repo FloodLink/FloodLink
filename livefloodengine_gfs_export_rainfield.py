@@ -33,7 +33,7 @@ RAINFIELD_PATH = "gfs_rain_6h.json"         # time series, 1h increments
 ISOLINES_PATH = "gfs_rain_isolines_6h.geojson"  # precomputed isocurves for all hours
 
 # Rain thresholds (mm) for contour lines
-ISO_LEVELS_MM = [1, 5, 10, 20, 40, 80]
+ISO_LEVELS_MM = [0.25, 0.5, 1, 5, 10, 20, 40, 80]
 
 
 # --------------------------------
