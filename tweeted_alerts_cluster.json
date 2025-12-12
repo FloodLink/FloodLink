@@ -2,27 +2,40 @@
   "8.4333,99.9667": {
     "country": "Thailand",
     "name": "Nakhon Si Thammarat",
-    "risk_level": "Medium",
+    "risk_level": "Low",
     "latitude": 8.43333,
     "longitude": 99.96667,
-    "rain_mm": 70.31,
-    "soil_moisture": 0.578,
-    "raw_dynamic_score": 8.613,
-    "last_updated": "2025-12-11T22:21:48.155728Z",
-    "tweet_id": "1999243243461181888",
-    "resolved": false
+    "rain_mm": 2.25,
+    "soil_moisture": 0.571,
+    "raw_dynamic_score": 0.274,
+    "last_updated": "2025-12-12T04:35:07.653709Z",
+    "tweet_id": "1999337193647571389",
+    "resolved": true
   },
   "9.5357,99.9357": {
     "country": "Thailand",
     "name": "Ko Samui",
-    "risk_level": "High",
+    "risk_level": "Low",
     "latitude": 9.53567,
     "longitude": 99.93567,
-    "rain_mm": 93.56,
+    "rain_mm": 17.69,
     "soil_moisture": 1.0,
-    "raw_dynamic_score": 14.315,
-    "last_updated": "2025-12-11T22:22:18.347955Z",
-    "tweet_id": "1999243370183688231",
+    "raw_dynamic_score": 2.706,
+    "last_updated": "2025-12-12T04:35:37.889031Z",
+    "tweet_id": "1999337320458121296",
+    "resolved": true
+  },
+  "9.9824,98.5503": {
+    "country": "Myanmar",
+    "name": "Kawthoung",
+    "risk_level": "Medium",
+    "latitude": 9.98238,
+    "longitude": 98.55034,
+    "rain_mm": 50.62,
+    "soil_moisture": 1.0,
+    "raw_dynamic_score": 7.746,
+    "last_updated": "2025-12-12T04:34:37.392175Z",
+    "tweet_id": "1999337066853736555",
     "resolved": false
   }
 }
