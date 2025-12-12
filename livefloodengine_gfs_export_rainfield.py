@@ -1,40 +1,10 @@
 """
 FloodLink – NOAA GFS → Global 1h Rainfall Time Series (JSON)
-+ All-Hours Isolines (GeoJSON)
++ Precomputed Isocurves (GeoJSON, all hours)
 
-Downloads GFS 0.25° GRIB2, extracts hourly total precipitation
-for the next FORECAST_HOURS hours, and writes:
-
-  1) gfs_rain_6h.json          (time-series grid, 1h steps, all hours)
-  2) rain_isolines_6h.geojson  (LineString isobars for ALL hours)
-
-gfs_rain_6h.json structure:
-
-{
-  "header": {
-    "parameter": "rain_1h_mm",
-    "parameterUnit": "mm",
-    "nx": ...,
-    "ny": ...,
-    "tCount": T,
-    "tStepHours": 1,
-    "lo1": ...,
-    "la1": ...,
-    "dx": 0.25,
-    "dy": 0.25,
-    "forecastHours": FORECAST_HOURS,
-    "refTime": "YYYY-MM-DDTHH:00:00Z",
-    "times": ["...", "...", ...],   # one per hour slice
-    "source": "NOAA GFS 0p25",
-    "layout": "time-major"
-  },
-  "data": [
-    # Hour 1 (t=0): ny*nx values, row-major (lat 0..ny-1, lon 0..nx-1),
-    # Hour 2 (t=1): next ny*nx values,
-    # ...
-    # Hour T: ...
-  ]
-}
+Outputs:
+  1) gfs_rain_6h.json        (time-series grid, 1h steps, up to FORECAST_HOURS)
+  2) rain_isolines_6h.geojson (LineString contours for each hour)
 """
 
 import os
@@ -54,23 +24,20 @@ import matplotlib.pyplot as plt
 # --------------------------------
 # CONFIG
 # --------------------------------
-GFS_RES = "0p25"             # 0.25° grid
-FORECAST_HOURS = 6           # next N hours (max we try to load)
+GFS_RES = "0p25"                 # 0.25° grid
+FORECAST_HOURS = 6               # next N hours (max we try to load)
 MAX_RETRIES = 2
-TIMEOUT = 60                 # seconds
+TIMEOUT = 60                     # seconds
 
-# Master time-series file (all hours packed together)
-RAINFIELD_PATH = "gfs_rain_6h.json"
-
-# All-hours isolines GeoJSON
-ISOLINES_PATH = "rain_isolines_6h.geojson"
+RAINFIELD_PATH = "gfs_rain_6h.json"         # time series, 1h increments
+ISOLINES_PATH = "gfs_rain_isolines_6h.geojson"  # precomputed isocurves for all hours
 
 # Rain thresholds (mm) for contour lines
 ISO_LEVELS_MM = [1, 5, 10, 20, 40, 80]
 
 
 # --------------------------------
-# GFS helpers (same logic as engine)
+# GFS helpers
 # --------------------------------
 def get_latest_cycle():
     """
@@ -259,27 +226,21 @@ def timeseries_to_json(hourly_rain, lats, lons, ref_time, times):
 
 
 # --------------------------------
-# Isoline generation (all hours)
+# Isoline generation (contours) – all hours
 # --------------------------------
-def generate_isolines_all_hours(hourly_rain, lats, lons,
-                                level_list_mm, times, out_path):
+def generate_isolines_all_hours(hourly_rain, lats, lons, times, levels_mm, out_path):
     """
-    Create contour lines (isobars) for ALL hours and write one GeoJSON file.
+    Create contour lines (isocurves) for each hour slice and write one GeoJSON.
 
-    hourly_rain : [T, Y, X] array (mm)
-    lats, lons  : 2D arrays (Y, X)
-    level_list_mm : list of rainfall thresholds in mm
-    times       : list of datetimes (UTC), length T
-    out_path    : output GeoJSON path
+    hourly_rain: [T, Y, X] array (mm)
+    lats, lons : 2D arrays (Y, X)
+    times      : list of datetime objects (len T)
+    levels_mm  : list of rainfall thresholds in mm
+    out_path   : output GeoJSON path
     """
     T, NY, NX = hourly_rain.shape
     if T == 0:
         print("⚠ No time steps in hourly_rain; skipping isolines.")
-        return
-
-    level_list_mm = list(level_list_mm)
-    if not level_list_mm:
-        print("⚠ No ISO_LEVELS_MM provided; skipping isolines.")
         return
 
     lon_grid = np.array(lons, dtype="float32")
@@ -287,23 +248,22 @@ def generate_isolines_all_hours(hourly_rain, lats, lons,
 
     features = []
 
-    for t in range(T):
-        field = np.array(hourly_rain[t], dtype="float32")
-        valid_time = times[t]
-        valid_iso = valid_time.isoformat().replace("+00:00", "Z")
+    print(f"   Generating isolines for all {T} hours, levels={levels_mm}")
 
-        print(f"   Generating isolines for hour index {t}, levels={level_list_mm}")
+    for h in range(T):
+        field = np.array(hourly_rain[h], dtype="float32")
+        valid_time = times[h].isoformat().replace("+00:00", "Z")
 
         fig, ax = plt.subplots(figsize=(6, 3))
-        cs = ax.contour(lon_grid, lat_grid, field, levels=level_list_mm)
+        cs = ax.contour(lon_grid, lat_grid, field, levels=levels_mm)
 
-        for level, collection in zip(cs.levels, cs.collections):
-            for path in collection.get_paths():
-                vertices = path.vertices  # Nx2 array (lon, lat)
-                if len(vertices) < 2:
+        # IMPORTANT: use cs.allsegs instead of cs.collections
+        # allsegs is a list<level>[ list<segment>[ (x,y)... ] ]
+        for level, seglist in zip(cs.levels, cs.allsegs):
+            for seg in seglist:
+                if len(seg) < 2:
                     continue
-                coords = vertices.tolist()
-                coords = [[float(x), float(y)] for x, y in coords]
+                coords = [[float(x), float(y)] for x, y in seg]
 
                 features.append({
                     "type": "Feature",
@@ -313,8 +273,8 @@ def generate_isolines_all_hours(hourly_rain, lats, lons,
                     },
                     "properties": {
                         "level": float(level),
-                        "hourIndex": int(t),
-                        "validTime": valid_iso
+                        "hourIndex": int(h),
+                        "validTime": valid_time
                     }
                 })
 
@@ -328,7 +288,7 @@ def generate_isolines_all_hours(hourly_rain, lats, lons,
     with open(out_path, "w", encoding="utf-8") as f:
         json.dump(geojson, f, ensure_ascii=False)
 
-    print(f"✅ Wrote {out_path} with {len(features)} contour lines across {T} hours")
+    print(f"✅ Wrote {out_path} with {len(features)} contour lines (all hours)")
 
 
 # --------------------------------
@@ -352,22 +312,22 @@ def main():
         f"{float(hourly_rain.min()):.2f} – {float(hourly_rain.max()):.2f} mm"
     )
 
-    # --- 1) Master JSON time series (all hours) ---
+    # --- JSON time series export ---
     grid_json = timeseries_to_json(hourly_rain, lats, lons, ref_time, times)
 
     with open(RAINFIELD_PATH, "w", encoding="utf-8") as f:
         json.dump(grid_json, f, ensure_ascii=False)
 
     size_mb = os.path.getsize(RAINFIELD_PATH) / 1024 / 1024
-    print(f"✅ Wrote {RAINFIELD_PATH} ({size_mb:.1f} MB)")
+    print(f"✅ Wrote {RAINFIELD_PATH} ({size_mb:.2f} MB)")
 
-    # --- 2) All-hours isolines GeoJSON ---
+    # --- Isoline (isobar-style) export for all hours ---
     generate_isolines_all_hours(
         hourly_rain=hourly_rain,
         lats=lats,
         lons=lons,
-        level_list_mm=ISO_LEVELS_MM,
         times=times,
+        levels_mm=ISO_LEVELS_MM,
         out_path=ISOLINES_PATH,
     )
 
