@@ -56,17 +56,18 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
-          # 1) Sync with remote, autostashing local JSON edits
+          # 1) Sync with remote
           git fetch origin
           git pull --rebase --autostash origin main
 
-          # 2) Add the rainfield time-series + isocurve GeoJSON
-          git add gfs_rain_6h.json gfs_rain_isolines_6h.geojson || true
+          # 2) Stage outputs (JSON + GeoJSON + textures folder)
+          git add gfs_rain_6h.json gfs_rain_isolines_6h.geojson gfs_rain_6h_textures || true
 
           # 3) Commit only if there are staged changes
-          if ! git.diff --cached --quiet; then
-            git commit -m "🌍 Auto-update: GFS 1h rainfield + isocurves ($(date -u +'%Y-%m-%dT%H:%M:%SZ'))"
-            git push origin main
+          if git diff --cached --quiet; then
+            echo "No rainfield / isocurve / texture changes to commit."
           else
-            echo "No rainfield / isocurve changes to commit."
+            git commit -m "🌍 Auto-update: GFS 1h rainfield + isocurves + textures ($(date -u +'%Y-%m-%dT%H:%M:%SZ'))"
+            git push origin main
           fi
+
