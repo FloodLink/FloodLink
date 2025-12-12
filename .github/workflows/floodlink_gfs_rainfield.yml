@@ -41,7 +41,7 @@ jobs:
       - name: ⚙️ Install Python dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install requests pygrib numpy
+          pip install requests pygrib numpy matplotlib
 
       - name: 🌧️ Generate global 1h rain time-series + isocurves
         run: |
@@ -61,10 +61,10 @@ jobs:
           git pull --rebase --autostash origin main
 
           # 2) Add the rainfield time-series + isocurve GeoJSON
-          git add gfs_rain_6h.json rain_isolines.geojson || true
+          git add gfs_rain_6h.json rain_isolines_6h.geojson || true
 
           # 3) Commit only if there are staged changes
-          if ! git diff --cached --quiet; then
+          if ! git.diff --cached --quiet; then
             git commit -m "🌍 Auto-update: GFS 1h rainfield + isocurves ($(date -u +'%Y-%m-%dT%H:%M:%SZ'))"
             git push origin main
           else
