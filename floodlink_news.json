@@ -2887,5 +2887,14 @@
             "longitude": -115.9431,
             "confidence": 1.0
         }
+    },
+    {
+        "link": null,
+        "date": "2025-12-12",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 US floods & storm surges: $25B losses in 2020.  \nBy 2024, escalated to $90B amid worsening hurricanes.  \n(Extreme rainfall & flash floods primary drivers.)",
+        "type": "statistical",
+        "category": "economic losses from floods and flash floods",
+        "tweet_id": "1999363118296891883"
     }
 ]
