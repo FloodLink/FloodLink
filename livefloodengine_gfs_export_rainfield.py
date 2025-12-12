@@ -49,7 +49,7 @@ TEXTURE_DIR = Path("gfs_rain_6h_textures")
 MAX_RAIN_MM_FOR_TEXTURE = 80.0
 
 # Rain thresholds (mm) for contour lines
-ISO_LEVELS_MM = [0.25, 0.5, 1, 5, 10, 20, 40, 80]
+ISO_LEVELS_MM = [0.25, 1, 5, 10, 20, 40, 80]
 
 # --------------------------------
 # Smoothing helper (Chaikin)
