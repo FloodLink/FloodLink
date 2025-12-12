@@ -61,7 +61,7 @@ jobs:
           git pull --rebase --autostash origin main
 
           # 2) Add the rainfield time-series + isocurve GeoJSON
-          git add gfs_rain_6h.json rain_isolines_6h.geojson || true
+          git add gfs_rain_6h.json gfs_rain_isolines_6h.geojson || true
 
           # 3) Commit only if there are staged changes
           if ! git.diff --cached --quiet; then
