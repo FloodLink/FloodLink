@@ -1,17 +1,4 @@
 {
-  "9.9824,98.5503": {
-    "country": "Myanmar",
-    "name": "Kawthoung",
-    "risk_level": "Low",
-    "latitude": 9.98238,
-    "longitude": 98.55034,
-    "rain_mm": 0.06,
-    "soil_moisture": 1.0,
-    "raw_dynamic_score": 0.01,
-    "last_updated": "2025-12-12T10:24:39.559121Z",
-    "tweet_id": "1999425156133855368",
-    "resolved": true
-  },
   "-25.7327,-59.1099": {
     "country": "Argentina",
     "name": "Pirané",
