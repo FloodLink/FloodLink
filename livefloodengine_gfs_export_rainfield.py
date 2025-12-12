@@ -51,6 +51,12 @@ MAX_RAIN_MM_FOR_TEXTURE = 80.0
 # Rain thresholds (mm) for contour lines
 ISO_LEVELS_MM = [0.25, 1, 5, 10, 20, 40, 80]
 
+# Isoline smoothing / compression knobs
+SMOOTH_ITERATIONS = 1   # 0 = no smoothing, 1 = light, 2 = stronger
+DECIMATE_STEP     = 2   # keep every Nth vertex after smoothing
+COORD_DECIMALS    = 3   # round lon/lat to this many decimals
+
+
 # --------------------------------
 # Smoothing helper (Chaikin)
 # --------------------------------
@@ -88,6 +94,7 @@ def chaikin_smooth(coords, iterations=2):
         new_coords = smoothed
 
     return new_coords
+
 
 # --------------------------------
 # GFS helpers
@@ -302,6 +309,8 @@ def generate_isolines_all_hours(hourly_rain, lats, lons, times, levels_mm, out_p
     features = []
 
     print(f"   Generating isolines for all {T} hours, levels={levels_mm}")
+    print(f"   Smoothing={SMOOTH_ITERATIONS} iter, "
+          f"decimate_step={DECIMATE_STEP}, coord_decimals={COORD_DECIMALS}")
 
     for h in range(T):
         field = np.array(hourly_rain[h], dtype="float32")
@@ -315,13 +324,29 @@ def generate_isolines_all_hours(hourly_rain, lats, lons, times, levels_mm, out_p
             for seg in seglist:
                 if len(seg) < 2:
                     continue
-        
-                # 🔧 Smooth the contour segment before exporting
-                #   iterations=2 is a good starting point (1 = subtle, 3 = very round)
-                smoothed = chaikin_smooth(list(seg), iterations=2)
-        
-                coords = [[float(x), float(y)] for x, y in smoothed]
-        
+
+                # 1) Smooth
+                seg_coords = list(seg)
+                if SMOOTH_ITERATIONS > 0:
+                    seg_coords = chaikin_smooth(seg_coords,
+                                                iterations=SMOOTH_ITERATIONS)
+
+                # 2) Decimate
+                if DECIMATE_STEP > 1:
+                    seg_coords = seg_coords[::DECIMATE_STEP]
+
+                if len(seg_coords) < 2:
+                    continue
+
+                # 3) Round coordinates
+                coords = [
+                    [
+                        round(float(x), COORD_DECIMALS),
+                        round(float(y), COORD_DECIMALS),
+                    ]
+                    for x, y in seg_coords
+                ]
+
                 features.append({
                     "type": "Feature",
                     "geometry": {
@@ -335,7 +360,6 @@ def generate_isolines_all_hours(hourly_rain, lats, lons, times, levels_mm, out_p
                     }
                 })
 
-
         plt.close(fig)
 
     geojson = {
@@ -346,7 +370,9 @@ def generate_isolines_all_hours(hourly_rain, lats, lons, times, levels_mm, out_p
     with open(out_path, "w", encoding="utf-8") as f:
         json.dump(geojson, f, ensure_ascii=False)
 
-    print(f"✅ Wrote {out_path} with {len(features)} contour lines (all hours)")
+    size_mb = os.path.getsize(out_path) / 1024 / 1024
+    print(f"✅ Wrote {out_path} with {len(features)} contour lines "
+          f"(smoothed & decimated, {size_mb:.2f} MB)")
 
 
 # --------------------------------
