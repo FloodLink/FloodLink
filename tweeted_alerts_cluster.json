@@ -2,27 +2,27 @@
   "-23.1100,-50.3675": {
     "country": "Brazil",
     "name": "Bandeirantes",
-    "risk_level": "Medium",
+    "risk_level": "Low",
     "latitude": -23.11,
     "longitude": -50.3675,
-    "rain_mm": 56.38,
-    "soil_moisture": 0.633,
-    "raw_dynamic_score": 7.132,
-    "last_updated": "2025-12-13T04:27:06.473277Z",
-    "tweet_id": "1999697563407253813",
-    "resolved": false
+    "rain_mm": 13.12,
+    "soil_moisture": 0.665,
+    "raw_dynamic_score": 1.69,
+    "last_updated": "2025-12-13T10:20:29.140789Z",
+    "tweet_id": "1999786493653745893",
+    "resolved": true
   },
   "-23.0506,-50.2289": {
     "country": "Brazil",
     "name": "Andirá",
-    "risk_level": "Medium",
+    "risk_level": "Low",
     "latitude": -23.05056,
     "longitude": -50.22889,
-    "rain_mm": 56.38,
-    "soil_moisture": 0.633,
-    "raw_dynamic_score": 7.132,
-    "last_updated": "2025-12-13T04:27:06.473295Z",
-    "tweet_id": "1999697563407253813",
-    "resolved": false
+    "rain_mm": 13.12,
+    "soil_moisture": 0.665,
+    "raw_dynamic_score": 1.69,
+    "last_updated": "2025-12-13T10:20:29.140818Z",
+    "tweet_id": "1999786493653745893",
+    "resolved": true
   }
 }
