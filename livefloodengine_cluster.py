@@ -280,6 +280,37 @@ def clean_text(val) -> str:
     return unicodedata.normalize("NFC", s)
 
 
+def normalize_country(country_val) -> str:
+    """
+    Fix country names that come as 'Congo, The Democratic Republic of the'
+    into 'The Democratic Republic of the Congo'
+    Also handles 'Bahamas, The' -> 'The Bahamas'
+    """
+    c = clean_text(country_val)
+    if not c:
+        return ""
+
+    if "," not in c:
+        return c
+
+    left, right = [p.strip() for p in c.split(",", 1)]
+    if not right:
+        return left
+
+    rlow = right.lower()
+
+    # "Bahamas, The" / "Gambia, The"
+    if rlow == "the":
+        return f"The {left}".strip()
+
+    # "Congo, The Democratic Republic of the"
+    if rlow.startswith("the "):
+        return f"The {right[4:].strip()} {left}".replace("  ", " ").strip()
+
+    # "Korea, Republic of" -> "Republic of Korea"
+    return f"{right} {left}".replace("  ", " ").strip()
+
+
 # -------------------------------
 # WEATHER INDICATORS
 # -------------------------------
@@ -746,7 +777,7 @@ def main():
             else:
                 name = f"id_{row['JOIN_ID']}"
                
-            country = clean_text(row.get("Country", ""))
+            country = normalize_country(row.get("Country", ""))
             country_flag = clean_text(row.get("CountryFlag", ""))
             region = clean_text(row.get("region", ""))
 
