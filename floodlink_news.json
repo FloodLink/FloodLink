@@ -3338,5 +3338,14 @@
             "longitude": -122.334,
             "confidence": 1.0
         }
+    },
+    {
+        "link": null,
+        "date": "2025-12-13",
+        "status": "posted",
+        "tweet": "Global flood fatalities 2020-2025: ~28,000 total, up 25% from prior decade due to extreme rainfall.\n\n1. \ud83c\uddf1\ud83c\uddfe Libya 2023: 4,000 deaths\n2. \ud83c\uddf5\ud83c\uddf0 Pakistan 2022: 1,739\n3. \ud83c\udde7\ud83c\udde9 Bangladesh 2020-24 avg: 1,200/yr\n4. \ud83c\udde8\ud83c\uddf3 China 2021: 302\n5. Trend: 40% rise in flash flood events",
+        "type": "statistical",
+        "category": "global flood fatalities and trends",
+        "tweet_id": "1999754519131955666"
     }
 ]
