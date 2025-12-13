@@ -26,6 +26,7 @@ from collections import defaultdict
 import pandas as pd
 import requests
 import tweepy
+import unicodedata
 from requests.exceptions import RequestException, ReadTimeout, ConnectionError
 
 import numpy as np
@@ -250,6 +251,33 @@ def precompute_city_indices(lats, lons, df):
         idx_map[row["JOIN_ID"]] = (ilat, ilon)
 
     return idx_map
+   
+
+def clean_text(val) -> str:
+    """Fix common mojibake like 'ParanÃ¡' -> 'Paraná' and normalize accents."""
+    if val is None:
+        return ""
+
+    # Handles np.nan, pd.NA, NaT, etc.
+    try:
+        if pd.isna(val):
+            return ""
+    except Exception:
+        pass
+
+    s = str(val).strip()
+    if not s or s.lower() in {"nan", "none", "<na>"}:
+        return ""
+
+    if any(x in s for x in ("Ã", "Â", "�")):
+        try:
+            repaired = s.encode("latin1", errors="ignore").decode("utf-8", errors="ignore")
+            if repaired:
+                s = repaired
+        except Exception:
+            pass
+
+    return unicodedata.normalize("NFC", s)
 
 
 # -------------------------------
@@ -661,6 +689,12 @@ def main():
 
     df = pd.read_csv(CSV_PATH)
 
+    # Clean common text fields (fixes 'ParanÃ¡' -> 'Paraná', etc.)
+    for col in ["region", "Country", "Name", "ETIQUETA", "CountryFlag"]:
+        if col in df.columns:
+            df[col] = df[col].apply(clean_text)
+
+
     # --- Basic CSV + FRisk summary ---
     print("📊 CSV summary:")
     print(f"  Total rows: {len(df)}")
@@ -706,15 +740,15 @@ def main():
             base_risk = float(row["FRisk"])
 
             if "Name" in row and pd.notna(row["Name"]):
-                name = str(row["Name"])
+                name = clean_text(row["Name"])
             elif "ETIQUETA" in row and pd.notna(row["ETIQUETA"]):
-                name = str(row["ETIQUETA"])
+                name = clean_text(row["ETIQUETA"])
             else:
                 name = f"id_{row['JOIN_ID']}"
-
-            country = str(row.get("Country", "")).strip()
-            country_flag = str(row.get("CountryFlag", "")).strip()
-            region = str(row.get("region", "")).strip()
+               
+            country = clean_text(row.get("Country", ""))
+            country_flag = clean_text(row.get("CountryFlag", ""))
+            region = clean_text(row.get("region", ""))
 
             ilat, ilon = idx_map[row["JOIN_ID"]]
 
