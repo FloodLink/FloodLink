@@ -1,1 +1,28 @@
-{}
+{
+  "-23.1936,-49.3839": {
+    "country": "Brazil",
+    "name": "Piraju",
+    "risk_level": "Medium",
+    "latitude": -23.19361,
+    "longitude": -49.38389,
+    "rain_mm": 55.0,
+    "soil_moisture": 0.676,
+    "raw_dynamic_score": 7.127,
+    "last_updated": "2025-12-13T16:24:35.001441Z",
+    "tweet_id": "1999878122087272873",
+    "resolved": false
+  },
+  "2.6620,97.8827": {
+    "country": "Indonesia",
+    "name": "Subulussalam",
+    "risk_level": "Medium",
+    "latitude": 2.662,
+    "longitude": 97.8827,
+    "rain_mm": 57.31,
+    "soil_moisture": 0.702,
+    "raw_dynamic_score": 7.536,
+    "last_updated": "2025-12-13T16:25:05.203205Z",
+    "tweet_id": "1999878248721699248",
+    "resolved": false
+  }
+}
