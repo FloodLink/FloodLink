@@ -3263,5 +3263,13 @@
             "longitude": -120.5,
             "confidence": 0.9
         }
+    },
+    {
+        "link": null,
+        "date": "2025-12-13",
+        "status": "posted",
+        "tweet": "\ud83c\uddf3\ud83c\uddf1 The Netherlands maintains 26,000 km of flood defenses, including dikes, dunes, and barriers, shielding 9 million residents from sea-level rise and river flooding in 2025.",
+        "type": "infrastructure",
+        "tweet_id": "1999691624851308864"
     }
 ]
