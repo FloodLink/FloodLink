@@ -2,14 +2,40 @@
   "-23.8744,-53.9017": {
     "country": "Brazil",
     "name": "Altônia",
-    "risk_level": "Medium",
+    "risk_level": "Low",
     "latitude": -23.87444,
     "longitude": -53.90167,
-    "rain_mm": 57.94,
-    "soil_moisture": 0.623,
-    "raw_dynamic_score": 7.288,
-    "last_updated": "2025-12-12T22:20:59.554469Z",
-    "tweet_id": "1999605427332649350",
+    "rain_mm": 0.94,
+    "soil_moisture": 0.564,
+    "raw_dynamic_score": 0.114,
+    "last_updated": "2025-12-13T04:27:06.473301Z",
+    "tweet_id": "1999697563407253813",
+    "resolved": true
+  },
+  "-23.1100,-50.3675": {
+    "country": "Brazil",
+    "name": "Bandeirantes",
+    "risk_level": "Medium",
+    "latitude": -23.11,
+    "longitude": -50.3675,
+    "rain_mm": 56.38,
+    "soil_moisture": 0.633,
+    "raw_dynamic_score": 7.132,
+    "last_updated": "2025-12-13T04:27:06.473277Z",
+    "tweet_id": "1999697563407253813",
+    "resolved": false
+  },
+  "-23.0506,-50.2289": {
+    "country": "Brazil",
+    "name": "Andirá",
+    "risk_level": "Medium",
+    "latitude": -23.05056,
+    "longitude": -50.22889,
+    "rain_mm": 56.38,
+    "soil_moisture": 0.633,
+    "raw_dynamic_score": 7.132,
+    "last_updated": "2025-12-13T04:27:06.473295Z",
+    "tweet_id": "1999697563407253813",
     "resolved": false
   }
 }
