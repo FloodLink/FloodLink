@@ -3271,5 +3271,72 @@
         "tweet": "\ud83c\uddf3\ud83c\uddf1 The Netherlands maintains 26,000 km of flood defenses, including dikes, dunes, and barriers, shielding 9 million residents from sea-level rise and river flooding in 2025.",
         "type": "infrastructure",
         "tweet_id": "1999691624851308864"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBfZDRiNlJ4b0pwaWZfNjIxcU1GZ2hZbE9wQ3VWRnlHbTR6V1JNNkJLSHlFVl9oQU53RDFka3hQQTJONW00azc5ZjNfeEtrQmdrdW5aSmJCWVo1QUhIeVVVWVF0SFY2WVE3NjVNODV2NzFuVWFrY1BzRF85cnZmODg?oc=5",
+        "date": "2025-12-13",
+        "title": "Seattle weather: Much needed dry time for Saturday - FOX 13 Seattle",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFBfZDRiNlJ4b0pwaWZfNjIxcU1GZ2hZbE9wQ3VWRnlHbTR6V1JNNkJLSHlFVl9oQU53RDFka3hQQTJONW00azc5ZjNfeEtrQmdrdW5aSmJCWVo1QUhIeVVVWVF0SFY2WVE3NjVNODV2NzFuVWFrY1BzRF85cnZmODg?oc=5\" target=\"_blank\">Seattle weather: Much needed dry time for Saturday</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FOX 13 Seattle</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE44SmswSVltMERfc1kxRDVnTDVRVm4wbWZOaGt6dndNVmItellfTmlXTnZvYlJSQXlhTHRJU3ZOcVdHVm9OUjd0SUNaN3JqZ1F5Y0prbg?oc=5",
+        "date": "2025-12-13",
+        "title": "Burlington, WA still underwater as Skagit County hit hard by floods - FOX 13 Seattle",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE44SmswSVltMERfc1kxRDVnTDVRVm4wbWZOaGt6dndNVmItellfTmlXTnZvYlJSQXlhTHRJU3ZOcVdHVm9OUjd0SUNaN3JqZ1F5Y0prbg?oc=5\" target=\"_blank\">Burlington, WA still underwater as Skagit County hit hard by floods</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FOX 13 Seattle</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": null,
+        "tweet_id": "1999718998527869212",
+        "geo": {
+            "country": "United States",
+            "name": "Burlington, WA",
+            "latitude": 48.4751,
+            "longitude": -122.334,
+            "confidence": 1.0
+        }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQNGFLRmdnVHJ5ZVhRY2VKaURuR1FXcTBXQ3U5QUxnYnUtcXo0UXRfV3U1UHFGZlRUcUxRZDRMNkFGeXlhOGJMOWNUc2IzN1JwQU93NHNqbk5RQ243b3NpaDgya3U5d1FaU3dtRXNjTFVFdVZTZ3lVR2tPRG9hVENMUGV1cnpqQXg2VFcycVpmcnpaZk9OYUtySzBITUZSWXBqdEpBRmkweFl6UHRPTW9jSlhkMFlEbTg?oc=5",
+        "date": "2025-12-13",
+        "title": "Camp Mystic to get new flood warning system ahead of summer - MSN",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQNGFLRmdnVHJ5ZVhRY2VKaURuR1FXcTBXQ3U5QUxnYnUtcXo0UXRfV3U1UHFGZlRUcUxRZDRMNkFGeXlhOGJMOWNUc2IzN1JwQU93NHNqbk5RQ243b3NpaDgya3U5d1FaU3dtRXNjTFVFdVZTZ3lVR2tPRG9hVENMUGV1cnpqQXg2VFcycVpmcnpaZk9OYUtySzBITUZSWXBqdEpBRmkweFl6UHRPTW9jSlhkMFlEbTg?oc=5\" target=\"_blank\">Camp Mystic to get new flood warning system ahead of summer</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPcFNQNktYTVhaYlBjMzM3OF9xNzY4ZHZmTmlhZ1I0T3IwTGVEbHRZU2U0eVYwMFR3MlpjWW0zRkNVUHU1bklqaHd6d3ZaMmJaSjVBd19tZFdDSl9jQU9MMU5XZElEUVZBcWlRUk9CMUJuM09YYkt1Y09VWkplWjJrajZVVkd3TEE?oc=5",
+        "date": "2025-12-13",
+        "title": "High alert issued ahead of Tropical Disturbance - FBC News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxPcFNQNktYTVhaYlBjMzM3OF9xNzY4ZHZmTmlhZ1I0T3IwTGVEbHRZU2U0eVYwMFR3MlpjWW0zRkNVUHU1bklqaHd6d3ZaMmJaSjVBd19tZFdDSl9jQU9MMU5XZElEUVZBcWlRUk9CMUJuM09YYkt1Y09VWkplWjJrajZVVkd3TEE?oc=5\" target=\"_blank\">High alert issued ahead of Tropical Disturbance</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FBC News</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE44SmswSVltMERfc1kxRDVnTDVRVm4wbWZOaGt6dndNVmItellfTmlXTnZvYlJSQXlhTHRJU3ZOcVdHVm9OUjd0SUNaN3JqZ1F5Y0prbg?oc=5",
+        "date": "2025-12-13",
+        "title": "Burlington, WA still underwater as Skagit County hit hard by floods - FOX 13 Seattle",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE44SmswSVltMERfc1kxRDVnTDVRVm4wbWZOaGt6dndNVmItellfTmlXTnZvYlJSQXlhTHRJU3ZOcVdHVm9OUjd0SUNaN3JqZ1F5Y0prbg?oc=5\" target=\"_blank\">Burlington, WA still underwater as Skagit County hit hard by floods</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FOX 13 Seattle</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 POST-EVENT Burlington, WA: Floods submerge areas in Skagit County with ongoing water coverage and impacts. (FOX 13 Seattle)",
+        "type": "news",
+        "tweet_id": "1999718998527869212",
+        "geo": {
+            "country": "United States",
+            "name": "Burlington, WA",
+            "latitude": 48.4751,
+            "longitude": -122.334,
+            "confidence": 1.0
+        }
     }
 ]
