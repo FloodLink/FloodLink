@@ -1,1 +1,54 @@
-{}
+{
+  "3.9360,102.3626": {
+    "country": "Malaysia",
+    "name": "Jerantut",
+    "risk_level": "Medium",
+    "latitude": 3.936,
+    "longitude": 102.3626,
+    "rain_mm": 83.0,
+    "soil_moisture": 0.656,
+    "raw_dynamic_score": 10.633,
+    "last_updated": "2025-12-14T10:20:52.188848Z",
+    "tweet_id": "2000148978331943009",
+    "resolved": false
+  },
+  "4.1842,102.0468": {
+    "country": "Malaysia",
+    "name": "Kuala Lipis",
+    "risk_level": "Medium",
+    "latitude": 4.1842,
+    "longitude": 102.0468,
+    "rain_mm": 59.62,
+    "soil_moisture": 0.614,
+    "raw_dynamic_score": 7.459,
+    "last_updated": "2025-12-14T10:20:52.188862Z",
+    "tweet_id": "2000148978331943009",
+    "resolved": false
+  },
+  "4.0000,101.3167": {
+    "country": "Malaysia",
+    "name": "Sungkai",
+    "risk_level": "Medium",
+    "latitude": 4.0,
+    "longitude": 101.31667,
+    "rain_mm": 56.06,
+    "soil_moisture": 0.622,
+    "raw_dynamic_score": 7.046,
+    "last_updated": "2025-12-14T10:21:22.370841Z",
+    "tweet_id": "2000149104962285882",
+    "resolved": false
+  },
+  "4.1167,101.2833": {
+    "country": "Malaysia",
+    "name": "Bidur",
+    "risk_level": "Medium",
+    "latitude": 4.11667,
+    "longitude": 101.28333,
+    "rain_mm": 56.06,
+    "soil_moisture": 0.622,
+    "raw_dynamic_score": 7.046,
+    "last_updated": "2025-12-14T10:21:22.370859Z",
+    "tweet_id": "2000149104962285882",
+    "resolved": false
+  }
+}
