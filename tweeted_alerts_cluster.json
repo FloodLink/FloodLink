@@ -1,17 +1,4 @@
 {
-  "-18.1431,177.5069": {
-    "country": "Fiji",
-    "name": "Sigatoka",
-    "risk_level": "Low",
-    "latitude": -18.14307,
-    "longitude": 177.50691,
-    "rain_mm": 24.38,
-    "soil_moisture": 1.0,
-    "raw_dynamic_score": 3.729,
-    "last_updated": "2025-12-14T22:19:56.480751Z",
-    "tweet_id": "2000329938532958437",
-    "resolved": true
-  },
   "-20.9628,-42.0408": {
     "country": "Brazil",
     "name": "Porciúncula",
