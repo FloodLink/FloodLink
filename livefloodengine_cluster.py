@@ -178,7 +178,6 @@ def download_gfs_file(date, cycle, fhr):
 
     return None
 
-
 def load_gfs_grids(forecast_hours):
     """
     Download and load GFS grib2 files for APCP and SOILW into memory once.
@@ -204,6 +203,22 @@ def load_gfs_grids(forecast_hours):
                 continue
 
         grb = pygrib.open(file)
+
+        # DEBUG: list all precip messages and their step ranges
+        try:
+            msgs = grb.select(name="Total Precipitation")
+            print(f"\n--- {file} has {len(msgs)} 'Total Precipitation' messages ---")
+            for i, m in enumerate(msgs[:10]):  # cap printing
+                print(
+                    f"[{i}] stepRange={getattr(m,'stepRange',None)} "
+                    f"startStep={getattr(m,'startStep',None)} endStep={getattr(m,'endStep',None)} "
+                    f"validDate={getattr(m,'validDate',None)}"
+                )
+        except Exception as e:
+            print("DEBUG precip scan failed:", e)
+
+        # Read variables as before
+        apcp_msg = None  # we'll use this to set times consistently
         for var in VARIABLES:
             if var == "SOILW":
                 try:
@@ -213,12 +228,19 @@ def load_gfs_grids(forecast_hours):
                     continue
             else:
                 msg = grb.select(name="Total Precipitation")[0]
+                apcp_msg = msg
 
             grids[var].append(msg.values)
             if lats is None:
                 lats, lons = msg.latlons()
 
-        times.append(msg.validDate)  # UTC
+        # Use APCP validDate if available, otherwise fallback to last msg
+        if apcp_msg is not None:
+            times.append(apcp_msg.validDate)
+        else:
+            # fallback (should rarely happen)
+            times.append(msg.validDate)
+
         grb.close()
         os.remove(file)
 
