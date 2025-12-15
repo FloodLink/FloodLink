@@ -1,1 +1,15 @@
-{}
+{
+  "17.1485,121.8892": {
+    "country": "Philippines",
+    "name": "Ilagan",
+    "risk_level": "High",
+    "latitude": 17.14854,
+    "longitude": 121.88924,
+    "rain_mm": 129.88,
+    "soil_moisture": 0.743,
+    "raw_dynamic_score": 17.46,
+    "last_updated": "2025-12-15T16:32:10.198570Z",
+    "tweet_id": "2000604807053377770",
+    "resolved": false
+  }
+}
