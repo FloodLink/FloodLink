@@ -115,21 +115,34 @@ def get_latest_cycle():
     return date, cycle, date, prev_cycle
 
 
-def get_forecast_steps(max_hours: int):
+def get_forecast_steps_for_now(forecast_hours: int, cycle_dt_utc, now_utc=None):
     """
-    Forecast hours to download:
+    Return forecast steps that cover the NEXT `forecast_hours` from *now*,
+    relative to the chosen cycle datetime.
 
-      - For GFS_RES 0p50 / 1p00 → 3-hourly steps: f003, f006, f009, ...
-      - For GFS_RES 0p25       → 1-hourly steps: f001, f002, f003, ...
-
-    With GFS_RES = "0p25" and FORECAST_HOURS = 6, this returns [1, 2, 3, 4, 5, 6].
+    For 0p25: hourly steps (f001, f002, ...)
+    For 0p50/1p00: 3-hourly steps (f003, f006, ...)
     """
+    if now_utc is None:
+        now_utc = datetime.utcnow().replace(tzinfo=ZoneInfo("UTC"))
+
+    # How many hours since the cycle started?
+    lead_hours = (now_utc - cycle_dt_utc).total_seconds() / 3600.0
+
     if GFS_RES in ("0p50", "1p00"):
         step = 3
-        return list(range(step, max_hours + 1, step))
+        # align start to next available 3-hour step
+        start_fhr = max(step, int(np.ceil(lead_hours / step)) * step)
+        # cover roughly `forecast_hours` ahead from that start
+        end_hour = start_fhr + (forecast_hours - 1)
+        end_fhr = int(np.ceil(end_hour / step)) * step
+        return list(range(start_fhr, end_fhr + 1, step))
     else:
-        # 0.25° → hourly
-        return list(range(1, max_hours + 1))
+        # hourly
+        start_fhr = max(1, int(np.ceil(lead_hours)))
+        end_fhr = start_fhr + forecast_hours - 1
+        return list(range(start_fhr, end_fhr + 1))
+
 
 
 def download_gfs_file(date, cycle, fhr):
@@ -185,67 +198,160 @@ def load_gfs_grids(forecast_hours):
     Returns:
         grids: dict[var] -> np.array [time, lat, lon]
         lats, lons: 2D arrays
-        times: list of datetime (UTC)
+        times: list of datetime (naive UTC)
     """
     date, cycle, prev_date, prev_cycle = get_latest_cycle()
+
+    now_utc = datetime.utcnow().replace(tzinfo=ZoneInfo("UTC"))
+
+    cycle_dt = datetime.strptime(date + cycle, "%Y%m%d%H").replace(tzinfo=ZoneInfo("UTC"))
+    prev_cycle_dt = datetime.strptime(prev_date + prev_cycle, "%Y%m%d%H").replace(tzinfo=ZoneInfo("UTC"))
+
+    # Compute window for latest cycle
+    window_steps = get_forecast_steps_for_now(forecast_hours, cycle_dt, now_utc)
+
+    if not window_steps:
+        print("❌ window_steps is empty (unexpected).")
+        return None, None, None, []
+
+    # Baseline step to compute the first increment correctly
+    baseline_step = None
+    if GFS_RES in ("0p50", "1p00"):
+        step = 3
+        if window_steps[0] > step:
+            baseline_step = window_steps[0] - step
+    else:
+        if window_steps[0] > 1:
+            baseline_step = window_steps[0] - 1
+
+    # We will download baseline first (if exists), then the window steps
+    steps_to_download = ([baseline_step] if baseline_step is not None else []) + window_steps
+
+    # Probe the first needed *download* to choose cycle (baseline if present, else first window step)
+    probe_fhr = steps_to_download[0]
+    probe_file = download_gfs_file(date, cycle, probe_fhr)
+
+    use_date, use_cycle, use_cycle_dt = date, cycle, cycle_dt
+    predownloaded = {}
+
+    if probe_file is not None:
+        predownloaded[probe_fhr] = probe_file
+    else:
+        probe_file_prev = download_gfs_file(prev_date, prev_cycle, probe_fhr)
+        if probe_file_prev is None:
+            print(f"❌ Unable to download probe step f{probe_fhr:03d} from latest or previous cycle.")
+            return None, None, None, []
+
+        use_date, use_cycle, use_cycle_dt = prev_date, prev_cycle, prev_cycle_dt
+
+        # Recompute window/baseline for fallback cycle (IMPORTANT)
+        window_steps = get_forecast_steps_for_now(forecast_hours, use_cycle_dt, now_utc)
+
+        if not window_steps:
+            print("❌ window_steps is empty (unexpected) after fallback recompute.")
+            return None, None, None, []
+
+        baseline_step = None
+        if GFS_RES in ("0p50", "1p00"):
+            step = 3
+            if window_steps[0] > step:
+                baseline_step = window_steps[0] - step
+        else:
+            if window_steps[0] > 1:
+                baseline_step = window_steps[0] - 1
+
+        steps_to_download = ([baseline_step] if baseline_step is not None else []) + window_steps
+
+        # If the probe hour changed after recompute, discard the old probe and download the correct one
+        new_probe_fhr = steps_to_download[0]
+        if new_probe_fhr != probe_fhr:
+            try:
+                os.remove(probe_file_prev)
+            except Exception:
+                pass
+            probe_file_prev = download_gfs_file(use_date, use_cycle, new_probe_fhr)
+            if probe_file_prev is None:
+                print(f"❌ Unable to download recomputed probe step f{new_probe_fhr:03d} for fallback cycle.")
+                return None, None, None, []
+            probe_fhr = new_probe_fhr
+
+        predownloaded[probe_fhr] = probe_file_prev
+
+    print(f"🛰️ Using GFS cycle: {use_date} {use_cycle}Z | window: f{window_steps[0]:03d}..f{window_steps[-1]:03d}"
+          + (f" | baseline: f{baseline_step:03d}" if baseline_step is not None else ""))
+
     grids = {var: [] for var in VARIABLES}
+    grids["_meta"] = {
+        "window_steps": window_steps,
+        "baseline_step": baseline_step,
+        "has_baseline": baseline_step is not None
+    }
+
     times = []
     lats, lons = None, None
+    soil_ok = True
 
-    forecast_steps = get_forecast_steps(forecast_hours)
-
-    for fhr in forecast_steps:
-        file = download_gfs_file(date, cycle, fhr)
+    for fhr in steps_to_download:
+        file = predownloaded.get(fhr)
         if file is None:
-            file = download_gfs_file(prev_date, prev_cycle, fhr)
+            file = download_gfs_file(use_date, use_cycle, fhr)
             if file is None:
-                print(f"⚠️ Skipping f{fhr:03d} – unable to download from both cycles.")
+                print(f"⚠️ Skipping f{fhr:03d} – unable to download from chosen cycle.")
                 continue
 
         grb = pygrib.open(file)
-
-        # DEBUG: list all precip messages and their step ranges
+         
+        # APCP / Total precipitation (prefer shortName="tp")
         try:
-            msgs = grb.select(name="Total Precipitation")
-            print(f"\n--- {file} has {len(msgs)} 'Total Precipitation' messages ---")
-            for i, m in enumerate(msgs[:10]):  # cap printing
-                print(
-                    f"[{i}] stepRange={getattr(m,'stepRange',None)} "
-                    f"startStep={getattr(m,'startStep',None)} endStep={getattr(m,'endStep',None)} "
-                    f"validDate={getattr(m,'validDate',None)}"
+            # 1) Prefer tp directly (most reliable across filtered outputs)
+            tp_msgs = grb.select(shortName="tp")
+
+            # Prefer the message whose endStep matches this fhr
+            apcp_msg = next(
+                (m for m in tp_msgs if int(getattr(m, "endStep", -1)) == fhr),
+                tp_msgs[0]
+            )
+
+        except Exception:
+            # 2) Fallback: try by name (some files expose it this way)
+            try:
+                tp_msgs = grb.select(name="Total Precipitation")
+                apcp_msg = next(
+                    (m for m in tp_msgs if int(getattr(m, "endStep", -1)) == fhr),
+                    tp_msgs[0]
                 )
-        except Exception as e:
-            print("DEBUG precip scan failed:", e)
+            except Exception as e:
+                print(f"⚠️ No APCP/tp in {file}: {e}")
+                grb.close()
+                os.remove(file)
+                continue
 
-        # Read variables as before
-        apcp_msg = None  # we'll use this to set times consistently
-        for var in VARIABLES:
-            if var == "SOILW":
-                try:
-                    msg = grb.select(shortName="soilw")[0]
-                except ValueError:
-                    print(f"⚠️ No SOILW field in {file}, skipping soil moisture for this step.")
-                    continue
-            else:
-                msg = grb.select(name="Total Precipitation")[0]
-                apcp_msg = msg
 
-            grids[var].append(msg.values)
-            if lats is None:
-                lats, lons = msg.latlons()
+        grids["APCP"].append(apcp_msg.values)
+        if lats is None:
+            lats, lons = apcp_msg.latlons()
 
-        # Use APCP validDate if available, otherwise fallback to last msg
-        if apcp_msg is not None:
-            times.append(apcp_msg.validDate)
-        else:
-            # fallback (should rarely happen)
-            times.append(msg.validDate)
+        # SOILW: keep aligned with APCP/times (include baseline if we included it)
+        if soil_ok:
+            try:
+                soil_msg = grb.select(shortName="soilw")[0]
+                grids["SOILW"].append(soil_msg.values)
+            except Exception:
+                soil_ok = False
+                grids["SOILW"] = []
+                print(f"⚠️ SOILW missing at f{fhr:03d}; disabling soil for this run.")
+
+        # Build valid times ourselves (naive UTC)
+        times.append((use_cycle_dt + timedelta(hours=fhr)).replace(tzinfo=None))
 
         grb.close()
         os.remove(file)
 
-    for var in grids:
-        grids[var] = np.stack(grids[var]) if grids[var] else None
+    grids["APCP"] = np.stack(grids["APCP"]) if grids["APCP"] else None
+    if soil_ok and grids["SOILW"]:
+        grids["SOILW"] = np.stack(grids["SOILW"])
+    else:
+        grids["SOILW"] = None
 
     return grids, lats, lons, times
 
@@ -338,29 +444,31 @@ def normalize_country(country_val) -> str:
 # -------------------------------
 def compute_indicators_at_index(grids, times, ilat, ilon):
     """
-    Compute indicators for a point given its precomputed grid indices.
-
     Returns:
         rain_sum (mm),
         soil_avg (0–1),
         peak_dt_local (datetime or None)
     """
-    if grids is None or grids.get("APCP") is None:
+    if grids is None or grids.get("APCP") is None or not times:
         return 0.0, 0.0, None
+
+    meta = grids.get("_meta", {})
+    has_baseline = bool(meta.get("has_baseline", False))
+    start_i = 1 if has_baseline else 0  # index where the real window begins
 
     rain_vals = []
     soil_vals = []
 
     n_steps = min(len(times), grids["APCP"].shape[0])
 
-    for t in range(n_steps):
-        apcp_current = float(grids["APCP"][t, ilat, ilon])
-        if t == 0:
-            rain_inc = apcp_current
-        else:
-            apcp_prev = float(grids["APCP"][t - 1, ilat, ilon])
-            rain_inc = apcp_current - apcp_prev
+    # Need at least 2 points if we have baseline (baseline + 1 window step)
+    if has_baseline and n_steps < 2:
+        return 0.0, 0.0, None
 
+    for t in range(start_i, n_steps):
+        apcp_current = float(grids["APCP"][t, ilat, ilon])
+        apcp_prev = float(grids["APCP"][t - 1, ilat, ilon]) if t > 0 else 0.0
+        rain_inc = apcp_current - apcp_prev
         rain_vals.append(max(0.0, rain_inc))
 
         if grids.get("SOILW") is not None:
@@ -375,9 +483,12 @@ def compute_indicators_at_index(grids, times, ilat, ilon):
     else:
         soil_avg = 0.0
 
-    if any(rain_vals):
-        max_idx = int(np.argmax(rain_vals))
-        peak_dt_utc = times[max_idx].replace(tzinfo=ZoneInfo("UTC"))
+    if rain_vals and any(rain_vals):
+        max_idx_in_rain = int(np.argmax(rain_vals))  # index within rain_vals
+        # map back to times index (offset by start_i)
+        t_idx = start_i + max_idx_in_rain
+
+        peak_dt_utc = times[t_idx].replace(tzinfo=ZoneInfo("UTC"))
         tz = ZoneInfo(TIMEZONE)
         peak_dt_local = peak_dt_utc.astimezone(tz)
     else:
@@ -773,6 +884,21 @@ def main():
 
     # Load NOAA GFS grids once for all locations
     grids, lats, lons, times = load_gfs_grids(FORECAST_HOURS)
+
+    # DEBUG: confirm the forecast window we are evaluating (UTC + local)
+    meta = grids.get("_meta", {}) if grids else {}
+    has_baseline = bool(meta.get("has_baseline", False))
+    start_i = 1 if has_baseline else 0
+   
+    if times and len(times) > start_i:
+        tz = ZoneInfo(TIMEZONE)
+        start_utc = times[start_i].replace(tzinfo=ZoneInfo("UTC"))
+        end_utc   = times[-1].replace(tzinfo=ZoneInfo("UTC"))
+        print(f"🕒 Window UTC:   {start_utc.strftime('%Y-%m-%d %H:%M')} → {end_utc.strftime('%Y-%m-%d %H:%M')}")
+        print(f"🕒 Window local: {start_utc.astimezone(tz).strftime('%Y-%m-%d %H:%M')} → {end_utc.astimezone(tz).strftime('%Y-%m-%d %H:%M')}")
+    else:
+        print("🕒 Window debug: no usable times[] returned (download/parse failed)")
+
     if grids is None or grids.get("APCP") is None or lats is None or lons is None:
         print("❌ Failed to load GFS data – using previous alerts where available.")
         for _, row in high_risk.iterrows():
