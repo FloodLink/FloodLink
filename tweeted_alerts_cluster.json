@@ -2,27 +2,27 @@
   "-20.9628,-42.0408": {
     "country": "Brazil",
     "name": "Porciúncula",
-    "risk_level": "Medium",
+    "risk_level": "Low",
     "latitude": -20.96278,
     "longitude": -42.04083,
-    "rain_mm": 75.0,
-    "soil_moisture": 0.53,
-    "raw_dynamic_score": 8.93,
-    "last_updated": "2025-12-14T22:19:26.223307Z",
-    "tweet_id": "2000329811705594220",
-    "resolved": false
+    "rain_mm": 1.31,
+    "soil_moisture": 0.517,
+    "raw_dynamic_score": 0.155,
+    "last_updated": "2025-12-15T03:42:32.014836Z",
+    "tweet_id": "2000411121472176391",
+    "resolved": true
   },
   "-21.0422,-41.9733": {
     "country": "Brazil",
     "name": "Natividade",
-    "risk_level": "Medium",
+    "risk_level": "Low",
     "latitude": -21.04222,
     "longitude": -41.97333,
-    "rain_mm": 75.0,
-    "soil_moisture": 0.53,
-    "raw_dynamic_score": 8.93,
-    "last_updated": "2025-12-14T22:19:26.223325Z",
-    "tweet_id": "2000329811705594220",
-    "resolved": false
+    "rain_mm": 1.31,
+    "soil_moisture": 0.517,
+    "raw_dynamic_score": 0.155,
+    "last_updated": "2025-12-15T03:42:32.014856Z",
+    "tweet_id": "2000411121472176391",
+    "resolved": true
   }
 }
