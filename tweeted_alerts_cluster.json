@@ -1,54 +1,28 @@
 {
-  "17.1485,121.8892": {
-    "country": "Philippines",
-    "name": "Ilagan",
-    "risk_level": "Low",
-    "latitude": 17.14854,
-    "longitude": 121.88924,
-    "rain_mm": 31.56,
-    "soil_moisture": 0.74,
-    "raw_dynamic_score": 4.236,
-    "last_updated": "2025-12-15T21:22:14.362746Z",
-    "tweet_id": "2000677805143560660",
-    "resolved": true
-  },
   "-25.9734,-54.5630": {
     "country": "Argentina",
     "name": "Colonia Wanda",
-    "risk_level": "Medium",
+    "risk_level": "Low",
     "latitude": -25.97337,
     "longitude": -54.56304,
-    "rain_mm": 65.44,
-    "soil_moisture": 0.662,
-    "raw_dynamic_score": 8.412,
-    "last_updated": "2025-12-15T20:08:26.880392Z",
-    "tweet_id": "2000659235168800996",
-    "resolved": false
+    "rain_mm": 38.88,
+    "soil_moisture": 0.672,
+    "raw_dynamic_score": 5.026,
+    "last_updated": "2025-12-15T22:21:28.180113Z",
+    "tweet_id": "2000692710928240867",
+    "resolved": true
   },
   "-26.0227,-54.6136": {
     "country": "Argentina",
     "name": "Puerto Esperanza",
-    "risk_level": "Medium",
+    "risk_level": "Low",
     "latitude": -26.02267,
     "longitude": -54.61356,
-    "rain_mm": 65.44,
-    "soil_moisture": 0.662,
-    "raw_dynamic_score": 8.412,
-    "last_updated": "2025-12-15T20:08:26.880407Z",
-    "tweet_id": "2000659235168800996",
-    "resolved": false
-  },
-  "-20.0406,-63.5240": {
-    "country": "Plurinational State of Bolivia",
-    "name": "Camiri",
-    "risk_level": "Low",
-    "latitude": -20.04063,
-    "longitude": -63.52396,
-    "rain_mm": 27.81,
-    "soil_moisture": 0.589,
-    "raw_dynamic_score": 3.429,
-    "last_updated": "2025-12-15T21:21:44.071389Z",
-    "tweet_id": "2000677678160949325",
+    "rain_mm": 38.88,
+    "soil_moisture": 0.672,
+    "raw_dynamic_score": 5.026,
+    "last_updated": "2025-12-15T22:21:28.180132Z",
+    "tweet_id": "2000692710928240867",
     "resolved": true
   }
 }
