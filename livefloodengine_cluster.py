@@ -775,6 +775,61 @@ def tweet_alert(change_type, alert, quote_tweet_id=None):
 # -------------------------------
 # REGION CLUSTER HELPERS
 # -------------------------------
+def pick_region_anchor(region_key, alerts, tweeted_alerts):
+    """
+    Pick a representative tweet-log entry for a (country, region) cluster
+    so upgrades/downgrades don't get skipped just because the first changed
+    city isn't the one stored in the tweet log.
+
+    Strategy: pick the entry in this region with the most recent last_tweeted_at.
+    Returns: (coord_key, entry) or (None, None)
+    """
+    best_ck = None
+    best_entry = None
+    best_ts = None
+
+    for a in alerts:
+        rk = (a.get("country", "") or "", a.get("region", "") or "")
+        if rk != region_key:
+            continue
+
+        ck = f"{a['latitude']:.4f},{a['longitude']:.4f}"
+        e = tweeted_alerts.get(ck)
+        if not e:
+            continue
+
+        ts = parse_utc_z(e.get("last_tweeted_at")) or parse_utc_z(e.get("last_updated"))
+        if ts is None:
+            continue
+
+        if best_ts is None or ts > best_ts:
+            best_ts = ts
+            best_ck = ck
+            best_entry = e
+
+    return best_ck, best_entry
+
+
+def compute_current_region_level(region_key, alerts, tweeted_alerts):
+    """
+    Compute current cluster level from ALL currently evaluated alerts
+    in that region that are actually tracked in tweeted_alerts.
+    """
+    pairs = []
+    for a in alerts:
+        rk = (a.get("country", "") or "", a.get("region", "") or "")
+        if rk != region_key:
+            continue
+        ck = f"{a['latitude']:.4f},{a['longitude']:.4f}"
+        if ck in tweeted_alerts:
+            pairs.append(("Active", a))
+
+    if pairs:
+        return cluster_level(pairs)
+
+    # fallback: if nothing is tracked (rare), return None
+    return None
+
 def cluster_level(alerts_in_region):
     """Cluster level = highest city-level in this region."""
     levels_here = [a["dynamic_level"] for _, a in alerts_in_region]
@@ -900,6 +955,7 @@ def process_pending_downgrades(tweeted_alerts, alerts, now_utc, client, last_twe
     If a downgrade was skipped due to cooldown, we store it as pending.
     After cooldown, if it's STILL downgraded vs tweeted_level, we tweet it.
     """
+
     coord_to_alert = {
         f"{a['latitude']:.4f},{a['longitude']:.4f}": a
         for a in alerts
@@ -934,12 +990,20 @@ def process_pending_downgrades(tweeted_alerts, alerts, now_utc, client, last_twe
         # If recovered back to tweeted level or higher, cancel pending
         if level_index(cur_lvl) >= level_index(tweeted_lvl):
             clear_pending(entry)
+            # optional: clear shadow fields too
+            entry.pop("pending_observed_level", None)
+            entry.pop("pending_observed_rain_mm", None)
+            entry.pop("pending_observed_soil_moisture", None)
+            entry.pop("pending_observed_raw_dynamic_score", None)
             continue
 
         quote_id = entry.get("tweet_id")
         if not quote_id:
-            # Shouldn't happen (pending only set if there was a tweet), but fail-safe
             clear_pending(entry)
+            entry.pop("pending_observed_level", None)
+            entry.pop("pending_observed_rain_mm", None)
+            entry.pop("pending_observed_soil_moisture", None)
+            entry.pop("pending_observed_raw_dynamic_score", None)
             continue
 
         now_ts = time.time()
@@ -950,17 +1014,31 @@ def process_pending_downgrades(tweeted_alerts, alerts, now_utc, client, last_twe
         last_tweet_ts_holder[0] = time.time()
 
         if new_id:
+            now_z = now_utc.isoformat().replace("+00:00", "Z")
+
             entry["tweet_id"] = new_id
             entry["tweeted_level"] = cur_lvl
             entry["risk_level"] = cur_lvl
-            entry["last_tweeted_at"] = now_utc.isoformat().replace("+00:00", "Z")
-            entry["last_updated"] = now_utc.isoformat().replace("+00:00", "Z")
+
+            # ✅ refresh map-facing metrics to match what we just tweeted
+            entry["rain_mm"] = a.get(f"rain_{FORECAST_HOURS}h_mm", entry.get("rain_mm"))
+            entry["soil_moisture"] = a.get("soil_moisture_avg", entry.get("soil_moisture"))
+            entry["raw_dynamic_score"] = a.get("raw_dynamic_score", entry.get("raw_dynamic_score"))
+
+            entry["last_tweeted_at"] = now_z
+            entry["last_updated"] = now_z
 
             clear_pending(entry)
 
+            # remove optional shadow fields
+            entry.pop("pending_observed_level", None)
+            entry.pop("pending_observed_rain_mm", None)
+            entry.pop("pending_observed_soil_moisture", None)
+            entry.pop("pending_observed_raw_dynamic_score", None)
+
             if cur_lvl not in TWEET_LEVELS:
                 entry["resolved"] = True
-                entry.setdefault("resolved_at", now_utc.isoformat().replace("+00:00", "Z"))
+                entry.setdefault("resolved_at", now_z)
             else:
                 entry["resolved"] = False
                 entry.pop("resolved_at", None)
@@ -995,12 +1073,20 @@ def process_pending_downgrades(tweeted_alerts, alerts, now_utc, client, last_twe
         # If recovered back to tweeted level or higher, cancel pending
         if level_index(cur_cluster_lvl) >= level_index(tweeted_lvl):
             clear_pending(entry)
+            entry.pop("pending_observed_level", None)
+            entry.pop("pending_observed_rain_mm", None)
+            entry.pop("pending_observed_soil_moisture", None)
+            entry.pop("pending_observed_raw_dynamic_score", None)
             processed_regions.add(region_key)
             continue
 
         quote_id = entry.get("tweet_id")
         if not quote_id:
             clear_pending(entry)
+            entry.pop("pending_observed_level", None)
+            entry.pop("pending_observed_rain_mm", None)
+            entry.pop("pending_observed_soil_moisture", None)
+            entry.pop("pending_observed_raw_dynamic_score", None)
             processed_regions.add(region_key)
             continue
 
@@ -1018,27 +1104,45 @@ def process_pending_downgrades(tweeted_alerts, alerts, now_utc, client, last_twe
         last_tweet_ts_holder[0] = time.time()
 
         if new_id:
+            now_z = now_utc.isoformat().replace("+00:00", "Z")
+
             # Update all coords in this region that exist in the log
             for _, aa in current_pairs:
                 ck = f"{aa['latitude']:.4f},{aa['longitude']:.4f}"
                 if ck not in tweeted_alerts:
                     continue
+
                 e = tweeted_alerts[ck]
+
                 e["tweet_id"] = new_id
                 e["tweeted_level"] = cur_cluster_lvl
                 e["risk_level"] = aa["dynamic_level"]
-                e["last_tweeted_at"] = now_utc.isoformat().replace("+00:00", "Z")
-                e["last_updated"] = now_utc.isoformat().replace("+00:00", "Z")
+
+                # ✅ refresh map-facing metrics for each coord
+                e["rain_mm"] = aa.get(f"rain_{FORECAST_HOURS}h_mm", e.get("rain_mm"))
+                e["soil_moisture"] = aa.get("soil_moisture_avg", e.get("soil_moisture"))
+                e["raw_dynamic_score"] = aa.get("raw_dynamic_score", e.get("raw_dynamic_score"))
+
+                e["last_tweeted_at"] = now_z
+                e["last_updated"] = now_z
+
                 clear_pending(e)
+
+                # remove optional shadow fields
+                e.pop("pending_observed_level", None)
+                e.pop("pending_observed_rain_mm", None)
+                e.pop("pending_observed_soil_moisture", None)
+                e.pop("pending_observed_raw_dynamic_score", None)
 
                 if aa["dynamic_level"] not in TWEET_LEVELS:
                     e["resolved"] = True
-                    e.setdefault("resolved_at", now_utc.isoformat().replace("+00:00", "Z"))
+                    e.setdefault("resolved_at", now_z)
                 else:
                     e["resolved"] = False
                     e.pop("resolved_at", None)
 
         processed_regions.add(region_key)
+
 
 
 # -------------------------------
@@ -1227,23 +1331,26 @@ def main():
             if change_type == "Downgrade" and last_entry is None:
                 print(f"↘️ Skipping downgrade for {alert['name']} – no prior tweet.")
                 continue
-
+            
             if change_type == "Downgrade" and last_entry is not None and within_cooldown(last_entry, now_utc):
                 print(f"⏳ Skipping downgrade tweet for {alert['name']} – within {COOLDOWN_HOURS}h cooldown.")
-                last_entry["risk_level"] = alert["dynamic_level"]
-                last_entry["rain_mm"] = alert[f"rain_{FORECAST_HOURS}h_mm"]
-                last_entry["soil_moisture"] = alert["soil_moisture_avg"]
-                last_entry["raw_dynamic_score"] = alert["raw_dynamic_score"]
+
+                # ✅ FREEZE tweeted state:
+                # Do NOT change risk_level / resolved / rain_mm / soil_moisture / raw_dynamic_score.
+                # Keep tweeted_alerts_cluster.json consistent with what was actually tweeted.
+
+                # Heartbeat timestamp
                 last_entry["last_updated"] = now_utc.isoformat().replace("+00:00", "Z")
 
-                if alert["dynamic_level"] not in TWEET_LEVELS:
-                    last_entry["resolved"] = True
-                    last_entry.setdefault("resolved_at", now_utc.isoformat().replace("+00:00", "Z"))
-                else:
-                    last_entry["resolved"] = False
-                    last_entry.pop("resolved_at", None)
-
+                # Store only the pending downgrade target
                 mark_pending_downgrade(last_entry, alert["dynamic_level"], now_utc, is_region=False)
+
+                # Optional debug/shadow fields (safe to remove if you want ultra-clean JSON)
+                last_entry["pending_observed_level"] = alert["dynamic_level"]
+                last_entry["pending_observed_rain_mm"] = alert[f"rain_{FORECAST_HOURS}h_mm"]
+                last_entry["pending_observed_soil_moisture"] = alert["soil_moisture_avg"]
+                last_entry["pending_observed_raw_dynamic_score"] = alert["raw_dynamic_score"]
+
                 continue
 
             quote_tweet_id = None
@@ -1291,39 +1398,55 @@ def main():
         if cluster_type == "Downgrade" and not ALERT_ON_DOWNGRADES:
             continue
 
-        rep_alert = alerts_in_region[0][1]
-        rep_key = f"{rep_alert['latitude']:.4f},{rep_alert['longitude']:.4f}"
-        rep_last = tweeted_alerts.get(rep_key)
+        # ✅ Robust anchor selection (prevents skipped downgrades/upgrades)
+        rep_key, rep_last = pick_region_anchor(region_key, alerts, tweeted_alerts)
 
+        # If no prior tweet exists for this region, Upgrade becomes New
         if cluster_type == "Upgrade" and rep_last is None:
             cluster_type = "New"
 
+        # If no prior tweet exists, we never tweet Downgrades (policy)
         if cluster_type == "Downgrade" and rep_last is None:
             print(f"↘️ Skipping region downgrade for {region_key} – no prior tweet.")
             continue
 
+        # --- Cooldown handling for region downgrade (FREEZE) ---
         if cluster_type == "Downgrade" and rep_last is not None and within_cooldown(rep_last, now_utc):
             print(f"⏳ Skipping region downgrade tweet for {region_key} – within {COOLDOWN_HOURS}h cooldown.")
+
+            # ✅ FREEZE tweeted state for ALL coords in this region:
+            # Do NOT change risk_level / resolved / rain_mm / soil_moisture / raw_dynamic_score.
+            now_z = now_utc.isoformat().replace("+00:00", "Z")
 
             for _, alert in alerts_in_region:
                 coord_key = f"{alert['latitude']:.4f},{alert['longitude']:.4f}"
                 entry = tweeted_alerts.get(coord_key)
                 if not entry:
                     continue
-                entry["risk_level"] = alert["dynamic_level"]
-                entry["rain_mm"] = alert[f"rain_{FORECAST_HOURS}h_mm"]
-                entry["soil_moisture"] = alert["soil_moisture_avg"]
-                entry["raw_dynamic_score"] = alert["raw_dynamic_score"]
-                entry["last_updated"] = now_utc.isoformat().replace("+00:00", "Z")
 
-                if alert["dynamic_level"] not in TWEET_LEVELS:
-                    entry["resolved"] = True
-                    entry.setdefault("resolved_at", now_utc.isoformat().replace("+00:00", "Z"))
-                else:
-                    entry["resolved"] = False
-                    entry.pop("resolved_at", None)
+                # Heartbeat timestamp only
+                entry["last_updated"] = now_z
 
-            mark_pending_downgrade(rep_last, cluster_level(alerts_in_region), now_utc, is_region=True)
+                # Optional debug/shadow fields (remove if you want ultra-clean JSON)
+                entry["pending_observed_level"] = alert["dynamic_level"]
+                entry["pending_observed_rain_mm"] = alert[f"rain_{FORECAST_HOURS}h_mm"]
+                entry["pending_observed_soil_moisture"] = alert["soil_moisture_avg"]
+                entry["pending_observed_raw_dynamic_score"] = alert["raw_dynamic_score"]
+
+            # ✅ IMPORTANT: pending target should reflect FULL current region state, not just changes[]
+            pending_target = compute_current_region_level(region_key, alerts, tweeted_alerts)
+            if pending_target is None:
+                # fallback: use the change list (still valid structurally)
+                pending_target = cluster_level(alerts_in_region)
+
+            rep_last["last_updated"] = now_z  # ✅ add this
+       
+            mark_pending_downgrade(
+                rep_last,
+                target_level=pending_target,
+                now_utc=now_utc,
+                is_region=True
+            )
             continue
 
         quote_tweet_id = None
@@ -1372,6 +1495,7 @@ def main():
                     tweeted_alerts[coord_key].setdefault("resolved_at", now_utc.isoformat().replace("+00:00", "Z"))
                 else:
                     tweeted_alerts[coord_key].pop("resolved_at", None)
+
 
     # ✅ After region tweets: process pending downgrades that have waited out the cooldown
     last_tweet_ts_holder = [last_tweet_ts]
