@@ -59,14 +59,14 @@ MIN_SECONDS_BETWEEN_TWEETS = 30
 # -------------------------------
 RISK_THRESHOLD = 8.4         # baseline FRisk cutoff from GIS layer (tweakable)
 
-RAIN_UNIT_MM   = 100.0       # 100 mm → 1.0× rain multiplier
+RAIN_UNIT_MM   = 80.0       # 100 mm → 1.0× rain multiplier
 SOIL_MIN_MULT  = 0.95        # soil=0 -> 0.95×
 SOIL_MAX_MULT  = 1.8         # soil=1 -> 1.8×
 RAIN_CUTOFF_MM = 0.0         # set 0.5 to ignore drizzle; 0.0 keeps strict linearity
 
 # RAW alert bands (tune later or learn from rolling percentiles)
-RAW_LOW_MAX   = 7.0          # 0..7   -> Low
-RAW_MED_MAX   = 12.0         # 7..12  -> Medium
+RAW_LOW_MAX   = 6.5          # 0..6.5   -> Low
+RAW_MED_MAX   = 12.0         # 6.5..12  -> Medium
 RAW_HIGH_MAX  = 24.0         # 12..24 -> High
 # >24 -> Extreme
 
