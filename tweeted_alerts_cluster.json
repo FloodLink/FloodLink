@@ -9,10 +9,18 @@
     "rain_mm": 58.19,
     "soil_moisture": 0.727,
     "raw_dynamic_score": 7.757,
-    "last_updated": "2025-12-16T09:27:12.883548Z",
+    "last_updated": "2025-12-16T10:16:36.776340Z",
     "last_tweeted_at": "2025-12-16T09:27:12.883548Z",
     "tweet_id": "2000860293396881493",
-    "resolved": false
+    "resolved": false,
+    "pending_downgrade": true,
+    "pending_target_level": "Low",
+    "pending_set_at": "2025-12-16T10:16:36.776340Z",
+    "pending_is_region": false,
+    "pending_observed_level": "Low",
+    "pending_observed_rain_mm": 45.38,
+    "pending_observed_soil_moisture": 0.687,
+    "pending_observed_raw_dynamic_score": 5.917
   },
   "-18.9495,48.2301": {
     "country": "Madagascar",
@@ -24,9 +32,17 @@
     "rain_mm": 64.44,
     "soil_moisture": 0.591,
     "raw_dynamic_score": 7.953,
-    "last_updated": "2025-12-16T09:27:12.883548Z",
+    "last_updated": "2025-12-16T10:16:36.776340Z",
     "last_tweeted_at": "2025-12-16T09:27:12.883548Z",
     "tweet_id": "2000860420018725074",
-    "resolved": false
+    "resolved": false,
+    "pending_downgrade": true,
+    "pending_target_level": "Low",
+    "pending_set_at": "2025-12-16T10:16:36.776340Z",
+    "pending_is_region": false,
+    "pending_observed_level": "Low",
+    "pending_observed_rain_mm": 31.81,
+    "pending_observed_soil_moisture": 0.607,
+    "pending_observed_raw_dynamic_score": 3.963
   }
 }
