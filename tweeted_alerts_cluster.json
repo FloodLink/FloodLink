@@ -127,10 +127,18 @@
     "rain_mm": 34.44,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 6.586,
-    "last_updated": "2025-12-16T15:31:49.425425Z",
+    "last_updated": "2025-12-16T17:30:22.494345Z",
     "last_tweeted_at": "2025-12-16T15:31:49.425425Z",
     "tweet_id": "2000952070266925167",
-    "resolved": false
+    "resolved": false,
+    "pending_downgrade": true,
+    "pending_target_level": "Low",
+    "pending_set_at": "2025-12-16T17:30:22.494345Z",
+    "pending_is_region": false,
+    "pending_observed_level": "Low",
+    "pending_observed_rain_mm": 28.88,
+    "pending_observed_soil_moisture": 1.0,
+    "pending_observed_raw_dynamic_score": 5.522
   },
   "-6.2222,-57.7528": {
     "country": "Brazil",
@@ -217,10 +225,18 @@
     "rain_mm": 77.06,
     "soil_moisture": 0.734,
     "raw_dynamic_score": 12.888,
-    "last_updated": "2025-12-16T16:39:21.451139Z",
+    "last_updated": "2025-12-16T17:30:22.494345Z",
     "last_tweeted_at": "2025-12-16T16:39:21.451139Z",
     "tweet_id": "2000969418566984032",
-    "resolved": false
+    "resolved": false,
+    "pending_downgrade": true,
+    "pending_target_level": "Medium",
+    "pending_set_at": "2025-12-16T17:30:22.494345Z",
+    "pending_is_region": false,
+    "pending_observed_level": "Medium",
+    "pending_observed_rain_mm": 69.88,
+    "pending_observed_soil_moisture": 0.738,
+    "pending_observed_raw_dynamic_score": 11.712
   },
   "14.3647,121.4829": {
     "country": "Philippines",
@@ -295,6 +311,51 @@
     "last_updated": "2025-12-16T16:39:21.451139Z",
     "last_tweeted_at": "2025-12-16T16:39:21.451139Z",
     "tweet_id": "2000969418566984032",
+    "resolved": false
+  },
+  "-16.2567,-56.6228": {
+    "country": "Brazil",
+    "name": "Poconé",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": -16.25667,
+    "longitude": -56.62278,
+    "rain_mm": 43.5,
+    "soil_moisture": 0.574,
+    "raw_dynamic_score": 6.645,
+    "last_updated": "2025-12-16T17:30:22.494345Z",
+    "last_tweeted_at": "2025-12-16T17:30:22.494345Z",
+    "tweet_id": "2000981880682803612",
+    "resolved": false
+  },
+  "14.7601,121.1999": {
+    "country": "Philippines",
+    "name": "Rodriguez",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 14.76011,
+    "longitude": 121.19993,
+    "rain_mm": 51.88,
+    "soil_moisture": 0.683,
+    "raw_dynamic_score": 8.435,
+    "last_updated": "2025-12-16T17:30:22.494345Z",
+    "last_tweeted_at": "2025-12-16T17:30:22.494345Z",
+    "tweet_id": "2000982007761772802",
+    "resolved": false
+  },
+  "14.7069,121.1306": {
+    "country": "Philippines",
+    "name": "Malanday",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 14.7069,
+    "longitude": 121.1306,
+    "rain_mm": 51.88,
+    "soil_moisture": 0.683,
+    "raw_dynamic_score": 8.435,
+    "last_updated": "2025-12-16T17:30:22.494345Z",
+    "last_tweeted_at": "2025-12-16T17:30:22.494345Z",
+    "tweet_id": "2000982134622724607",
     "resolved": false
   }
 }
