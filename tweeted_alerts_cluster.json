@@ -22,22 +22,6 @@
     "pending_observed_soil_moisture": 0.691,
     "pending_observed_raw_dynamic_score": 5.514
   },
-  "-18.9495,48.2301": {
-    "country": "Madagascar",
-    "name": "Moramanga",
-    "risk_level": "Low",
-    "tweeted_level": "Low",
-    "latitude": -18.94948,
-    "longitude": 48.23007,
-    "rain_mm": 5.0,
-    "soil_moisture": 0.597,
-    "raw_dynamic_score": 0.774,
-    "last_updated": "2025-12-16T15:31:49.425425Z",
-    "last_tweeted_at": "2025-12-16T15:31:49.425425Z",
-    "tweet_id": "2000952196968423563",
-    "resolved": true,
-    "resolved_at": "2025-12-16T15:31:49.425425Z"
-  },
   "-22.8164,-45.1925": {
     "country": "Brazil",
     "name": "Guaratinguetá",
@@ -48,14 +32,10 @@
     "rain_mm": 46.69,
     "soil_moisture": 0.575,
     "raw_dynamic_score": 7.136,
-    "last_updated": "2025-12-16T15:31:49.425425Z",
+    "last_updated": "2025-12-16T22:26:05.570359Z",
     "last_tweeted_at": "2025-12-16T14:32:38.312227Z",
     "tweet_id": "2000937159155495231",
-    "resolved": false,
-    "pending_downgrade": true,
-    "pending_target_level": "Low",
-    "pending_set_at": "2025-12-16T15:31:49.425425Z",
-    "pending_is_region": true
+    "resolved": false
   },
   "-22.8469,-45.2297": {
     "country": "Brazil",
@@ -150,10 +130,18 @@
     "rain_mm": 48.62,
     "soil_moisture": 0.495,
     "raw_dynamic_score": 7.081,
-    "last_updated": "2025-12-16T16:39:21.451139Z",
+    "last_updated": "2025-12-16T22:26:05.570359Z",
     "last_tweeted_at": "2025-12-16T16:39:21.451139Z",
     "tweet_id": "2000969038084899267",
-    "resolved": false
+    "resolved": false,
+    "pending_downgrade": true,
+    "pending_target_level": "Low",
+    "pending_set_at": "2025-12-16T22:26:05.570359Z",
+    "pending_is_region": false,
+    "pending_observed_level": "Low",
+    "pending_observed_rain_mm": 15.06,
+    "pending_observed_soil_moisture": 0.599,
+    "pending_observed_raw_dynamic_score": 2.335
   },
   "-16.6666,-48.6125": {
     "country": "Brazil",
