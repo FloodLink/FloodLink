@@ -1,30 +1,4 @@
 {
-  "-25.9734,-54.5630": {
-    "country": "Argentina",
-    "name": "Colonia Wanda",
-    "risk_level": "Low",
-    "latitude": -25.97337,
-    "longitude": -54.56304,
-    "rain_mm": 38.88,
-    "soil_moisture": 0.672,
-    "raw_dynamic_score": 5.026,
-    "last_updated": "2025-12-15T22:21:28.180113Z",
-    "tweet_id": "2000692710928240867",
-    "resolved": true
-  },
-  "-26.0227,-54.6136": {
-    "country": "Argentina",
-    "name": "Puerto Esperanza",
-    "risk_level": "Low",
-    "latitude": -26.02267,
-    "longitude": -54.61356,
-    "rain_mm": 38.88,
-    "soil_moisture": 0.672,
-    "raw_dynamic_score": 5.026,
-    "last_updated": "2025-12-15T22:21:28.180132Z",
-    "tweet_id": "2000692710928240867",
-    "resolved": true
-  },
   "5.6919,-76.6583": {
     "country": "Colombia",
     "name": "Quibdó",
