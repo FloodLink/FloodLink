@@ -25,25 +25,18 @@
   "-18.9495,48.2301": {
     "country": "Madagascar",
     "name": "Moramanga",
-    "risk_level": "Medium",
-    "tweeted_level": "Medium",
+    "risk_level": "Low",
+    "tweeted_level": "Low",
     "latitude": -18.94948,
     "longitude": 48.23007,
-    "rain_mm": 64.44,
-    "soil_moisture": 0.591,
-    "raw_dynamic_score": 7.953,
-    "last_updated": "2025-12-16T10:16:36.776340Z",
-    "last_tweeted_at": "2025-12-16T09:27:12.883548Z",
-    "tweet_id": "2000860420018725074",
-    "resolved": false,
-    "pending_downgrade": true,
-    "pending_target_level": "Low",
-    "pending_set_at": "2025-12-16T10:16:36.776340Z",
-    "pending_is_region": false,
-    "pending_observed_level": "Low",
-    "pending_observed_rain_mm": 31.81,
-    "pending_observed_soil_moisture": 0.607,
-    "pending_observed_raw_dynamic_score": 3.963
+    "rain_mm": 5.0,
+    "soil_moisture": 0.597,
+    "raw_dynamic_score": 0.774,
+    "last_updated": "2025-12-16T15:31:49.425425Z",
+    "last_tweeted_at": "2025-12-16T15:31:49.425425Z",
+    "tweet_id": "2000952196968423563",
+    "resolved": true,
+    "resolved_at": "2025-12-16T15:31:49.425425Z"
   },
   "-22.8164,-45.1925": {
     "country": "Brazil",
@@ -55,10 +48,14 @@
     "rain_mm": 46.69,
     "soil_moisture": 0.575,
     "raw_dynamic_score": 7.136,
-    "last_updated": "2025-12-16T14:32:38.312227Z",
+    "last_updated": "2025-12-16T15:31:49.425425Z",
     "last_tweeted_at": "2025-12-16T14:32:38.312227Z",
     "tweet_id": "2000937159155495231",
-    "resolved": false
+    "resolved": false,
+    "pending_downgrade": true,
+    "pending_target_level": "Low",
+    "pending_set_at": "2025-12-16T15:31:49.425425Z",
+    "pending_is_region": true
   },
   "-22.8469,-45.2297": {
     "country": "Brazil",
@@ -70,7 +67,7 @@
     "rain_mm": 46.69,
     "soil_moisture": 0.575,
     "raw_dynamic_score": 7.136,
-    "last_updated": "2025-12-16T14:32:38.312227Z",
+    "last_updated": "2025-12-16T15:31:49.425425Z",
     "last_tweeted_at": "2025-12-16T14:32:38.312227Z",
     "tweet_id": "2000937159155495231",
     "resolved": false
@@ -85,7 +82,7 @@
     "rain_mm": 46.69,
     "soil_moisture": 0.575,
     "raw_dynamic_score": 7.136,
-    "last_updated": "2025-12-16T14:32:38.312227Z",
+    "last_updated": "2025-12-16T15:31:49.425425Z",
     "last_tweeted_at": "2025-12-16T14:32:38.312227Z",
     "tweet_id": "2000937159155495231",
     "resolved": false
@@ -100,10 +97,14 @@
     "rain_mm": 46.5,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 8.893,
-    "last_updated": "2025-12-16T14:32:38.312227Z",
+    "last_updated": "2025-12-16T15:31:49.425425Z",
     "last_tweeted_at": "2025-12-16T14:32:38.312227Z",
     "tweet_id": "2000937285718544430",
-    "resolved": false
+    "resolved": false,
+    "pending_downgrade": true,
+    "pending_target_level": "Low",
+    "pending_set_at": "2025-12-16T15:31:49.425425Z",
+    "pending_is_region": true
   },
   "14.1122,122.9553": {
     "country": "Philippines",
@@ -115,9 +116,24 @@
     "rain_mm": 46.5,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 8.893,
-    "last_updated": "2025-12-16T14:32:38.312227Z",
+    "last_updated": "2025-12-16T15:31:49.425425Z",
     "last_tweeted_at": "2025-12-16T14:32:38.312227Z",
     "tweet_id": "2000937285718544430",
+    "resolved": false
+  },
+  "14.1910,121.7309": {
+    "country": "Philippines",
+    "name": "Mauban",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 14.191,
+    "longitude": 121.7309,
+    "rain_mm": 34.44,
+    "soil_moisture": 1.0,
+    "raw_dynamic_score": 6.586,
+    "last_updated": "2025-12-16T15:31:49.425425Z",
+    "last_tweeted_at": "2025-12-16T15:31:49.425425Z",
+    "tweet_id": "2000952070266925167",
     "resolved": false
   }
 }
