@@ -28,31 +28,37 @@
   "9.8167,80.1667": {
     "country": "Sri Lanka",
     "name": "Valvedditturai",
-    "risk_level": "Medium",
+    "risk_level": "Low",
     "tweeted_level": "Medium",
     "latitude": 9.81667,
     "longitude": 80.16667,
-    "rain_mm": 49.12,
+    "rain_mm": 43.81,
     "soil_moisture": 1.0,
-    "raw_dynamic_score": 7.516,
-    "last_updated": "2025-12-16T01:43:47.152732Z",
+    "raw_dynamic_score": 6.703,
+    "last_updated": "2025-12-16T03:24:57.631579Z",
     "last_tweeted_at": "2025-12-16T01:43:47.152732Z",
     "tweet_id": "2000743667510767661",
-    "resolved": false
+    "resolved": true,
+    "resolved_at": "2025-12-16T03:24:57.631579Z",
+    "pending_downgrade": true,
+    "pending_target_level": "Low",
+    "pending_set_at": "2025-12-16T03:24:57.631579Z",
+    "pending_is_region": true
   },
   "9.8167,80.2333": {
     "country": "Sri Lanka",
     "name": "Point Pedro",
-    "risk_level": "Medium",
+    "risk_level": "Low",
     "tweeted_level": "Medium",
     "latitude": 9.81667,
     "longitude": 80.23333,
-    "rain_mm": 49.12,
+    "rain_mm": 43.81,
     "soil_moisture": 1.0,
-    "raw_dynamic_score": 7.516,
-    "last_updated": "2025-12-16T01:43:47.152732Z",
+    "raw_dynamic_score": 6.703,
+    "last_updated": "2025-12-16T03:24:57.631579Z",
     "last_tweeted_at": "2025-12-16T01:43:47.152732Z",
     "tweet_id": "2000743667510767661",
-    "resolved": false
+    "resolved": true,
+    "resolved_at": "2025-12-16T03:24:57.631579Z"
   }
 }
