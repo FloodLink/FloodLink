@@ -2,14 +2,12 @@ name: 🌍 FloodLink GFS 1h Rainfield + Isocurves
 
 on:
   schedule:
-    # GFS 0.25° is updated every 6h; running every 1h keeps us fresh enough
     - cron: "0 */1 * * *"
   workflow_dispatch:
 
 permissions:
   contents: write
 
-# avoid concurrent runs stepping on each other
 concurrency:
   group: floodlink-gfs-rainfield
   cancel-in-progress: true
@@ -19,14 +17,13 @@ jobs:
     runs-on: ubuntu-latest
 
     env:
-      # 👇 force unbuffered stdout so logs stream live
       PYTHONUNBUFFERED: "1"
 
     steps:
       - name: 📦 Checkout repository
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0   # allow pull/rebase/push
+          fetch-depth: 0
 
       - name: 🐍 Set up Python
         uses: actions/setup-python@v5
@@ -41,11 +38,11 @@ jobs:
       - name: ⚙️ Install Python dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install requests pygrib numpy matplotlib
+          pip install requests pygrib numpy matplotlib pillow
 
       - name: 🌧️ Generate global 1h rain time-series + isocurves
         run: |
-          echo "Starting GFS 1h rainfield time-series export (with isocurves)..."
+          echo "Starting GFS 1h rainfield time-series export (with isocurves + cum + textures)..."
           python -u livefloodengine_gfs_export_rainfield.py
 
       - name: 💾 Commit and push updated rainfield JSON + isocurves
@@ -56,18 +53,15 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
-          # 1) Sync with remote
           git fetch origin
           git pull --rebase --autostash origin main
 
-          # 2) Stage outputs (JSON + GeoJSON + textures folder)
-          git add gfs_rain_6h.json gfs_rain_isolines_6h.geojson gfs_rain_6h_textures || true
+          # Stage outputs (JSON + GeoJSON + textures folder)
+          git add gfs_rain_6h.json gfs_rain_6h_cum.json gfs_rain_isolines_6h.geojson gfs_rain_6h_textures || true
 
-          # 3) Commit only if there are staged changes
           if git diff --cached --quiet; then
-            echo "No rainfield / isocurve / texture changes to commit."
+            echo "No rainfield / cum / isocurve / texture changes to commit."
           else
-            git commit -m "🌍 Auto-update: GFS 1h rainfield + isocurves + textures ($(date -u +'%Y-%m-%dT%H:%M:%SZ'))"
+            git commit -m "🌍 Auto-update: GFS rainfield + cum + isocurves + textures ($(date -u +'%Y-%m-%dT%H:%M:%SZ'))"
             git push origin main
           fi
-
