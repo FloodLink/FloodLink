@@ -2,11 +2,13 @@
 FloodLink – NOAA GFS → Global 1h Rainfall Time Series (JSON)
 + Precomputed Isocurves (GeoJSON, all hours)
 + Per-hour PNG data textures
++ 6h Cumulative grid JSON (compact)
 
 Outputs:
-  1) gfs_rain_6h.json             (time-series grid, 1h steps, up to FORECAST_HOURS)
-  2) gfs_rain_isolines_6h.geojson (LineString contours for each hour)
-  3) gfs_rain_6h_textures/
+  1) gfs_rain_6h.json                 (time-series grid, 1h steps, up to FORECAST_HOURS)
+  2) gfs_rain_6h_cum.json             (cumulative over window, compact grid, tCount=1)
+  3) gfs_rain_isolines_6h.geojson     (LineString contours for each hour)
+  4) gfs_rain_6h_textures/
        ├─ rain_t000.png
        ├─ rain_t001.png
        ├─ ...
@@ -17,7 +19,6 @@ import os
 import json
 import time
 from datetime import datetime, timedelta, timezone
-from zoneinfo import ZoneInfo
 from pathlib import Path
 
 import numpy as np
@@ -41,15 +42,8 @@ MAX_RETRIES = 2
 TIMEOUT = 60                     # seconds
 
 RAINFIELD_PATH = "gfs_rain_6h.json"              # time series, 1h increments
-ISOLINES_PATH = "gfs_rain_isolines_6h.geojson"   # precomputed isocurves for all hours
-CUM_GEOJSON_PATH = "gfs_rain_6h_cum_geojson.json"
-
-# Controls output size
-CUM_SAMPLE_STEP = 1        # 2 = every 2nd grid cell (smaller file)
-CUM_MIN_RAIN_MM = 0.1      # drop tiny drizzle (reduces noise + file size)
-CUM_COORD_DECIMALS = 3     # lon/lat rounding
-CUM_RAIN_DECIMALS = 2      # rain rounding
-INCLUDE_MAX_1H = True      # store peak 1h too
+CUMFIELD_PATH  = "gfs_rain_6h_cum.json"          # cumulative over window, compact grid (tCount=1)
+ISOLINES_PATH  = "gfs_rain_isolines_6h.geojson"  # precomputed isocurves for all hours
 
 # Directory for PNG data textures
 TEXTURE_DIR = Path("gfs_rain_6h_textures")
@@ -190,7 +184,6 @@ def download_gfs_file(date, cycle, fhr):
 
             size_mb = os.path.getsize(file_path) / 1024 / 1024
             if size_mb < 0.05:
-                # very small files are often error pages; keep a warning
                 print(f"   ⚠ Saved {file_path} but it is tiny ({size_mb:.2f} MB)")
 
             print(f"   ✔ Saved {file_path} ({size_mb:.2f} MB)")
@@ -222,12 +215,10 @@ def load_gfs_apcp_grid(forecast_hours: int):
     cycle_dt = datetime.strptime(date + cycle, "%Y%m%d%H").replace(tzinfo=timezone.utc)
     prev_cycle_dt = datetime.strptime(prev_date + prev_cycle, "%Y%m%d%H").replace(tzinfo=timezone.utc)
 
-    # 1) Propose window for latest cycle
     window_steps = get_forecast_steps_for_now(forecast_hours, cycle_dt, now_utc, gfs_res=GFS_RES)
     if not window_steps:
         return None, None, None, None, None, None
 
-    # 2) Baseline (previous hour/step) so first increment is meaningful
     baseline_step = None
     if GFS_RES in ("0p50", "1p00"):
         if window_steps[0] > 3:
@@ -236,27 +227,23 @@ def load_gfs_apcp_grid(forecast_hours: int):
         if window_steps[0] > 1:
             baseline_step = window_steps[0] - 1
 
-    # IMPORTANT: probe with *window start*, not baseline
     probe_fhr = window_steps[0]
     probe_file = download_gfs_file(date, cycle, probe_fhr)
 
     use_date, use_cycle, use_cycle_dt = date, cycle, cycle_dt
 
     if probe_file is None:
-        # Try fallback cycle with same probe step
         probe_file_prev = download_gfs_file(prev_date, prev_cycle, probe_fhr)
         if probe_file_prev is None:
             print(f"❌ Could not download probe f{probe_fhr:03d} from latest or previous cycle.")
             return None, None, None, None, None, None
 
-        # Use fallback
         use_date, use_cycle, use_cycle_dt = prev_date, prev_cycle, prev_cycle_dt
         try:
             os.remove(probe_file_prev)
         except Exception:
             pass
 
-        # Recompute window/baseline for fallback cycle (very important)
         window_steps = get_forecast_steps_for_now(forecast_hours, use_cycle_dt, now_utc, gfs_res=GFS_RES)
         baseline_step = None
         if GFS_RES in ("0p50", "1p00"):
@@ -292,20 +279,12 @@ def load_gfs_apcp_grid(forecast_hours: int):
 
         grb = pygrib.open(file_path)
         try:
-            # Prefer shortName="tp" (most consistent), match endStep to fhr if possible
             tp_msgs = grb.select(shortName="tp")
-            msg = next(
-                (m for m in tp_msgs if int(getattr(m, "endStep", -1)) == fhr),
-                tp_msgs[0]
-            )
+            msg = next((m for m in tp_msgs if int(getattr(m, "endStep", -1)) == fhr), tp_msgs[0])
         except Exception:
-            # Fallback to name="Total Precipitation"
             try:
                 tp_msgs = grb.select(name="Total Precipitation")
-                msg = next(
-                    (m for m in tp_msgs if int(getattr(m, "endStep", -1)) == fhr),
-                    tp_msgs[0]
-                )
+                msg = next((m for m in tp_msgs if int(getattr(m, "endStep", -1)) == fhr), tp_msgs[0])
             except Exception as e:
                 print(f"⚠ No tp/APCP in {file_path}: {e}")
                 grb.close()
@@ -320,7 +299,6 @@ def load_gfs_apcp_grid(forecast_hours: int):
         if lats is None:
             lats, lons = msg.latlons()
 
-        # Build times ourselves so they align perfectly to fhr
         times.append(use_cycle_dt + timedelta(hours=fhr))
         steps_used.append(fhr)
 
@@ -336,7 +314,6 @@ def load_gfs_apcp_grid(forecast_hours: int):
     apcp = np.stack(apcp_list)  # [T,Y,X] cumulative
     ref_time = use_cycle_dt
 
-    # Baseline is only "real" if we successfully downloaded it AND it is first in our used list.
     has_baseline = (
         baseline_step is not None
         and len(steps_used) >= 2
@@ -353,78 +330,6 @@ def load_gfs_apcp_grid(forecast_hours: int):
 
     return apcp, lats, lons, times, ref_time, meta
 
-def cumulative_6h_to_geojson(
-    hourly_rain: np.ndarray,
-    lats: np.ndarray,
-    lons: np.ndarray,
-    times_window,
-    sample_step: int = 2,
-    min_mm: float = 0.1,
-    coord_decimals: int = 3,
-    rain_decimals: int = 2,
-    include_max_1h: bool = True
-):
-    """
-    Build a sampled GeoJSON FeatureCollection of points with 6h cumulative rain.
-    hourly_rain: [T, Y, X] mm/hour
-    lats, lons : [Y, X] grids
-    """
-    T, ny, nx = hourly_rain.shape
-    cum = np.maximum(hourly_rain, 0.0).sum(axis=0)  # [Y, X] mm over 6h
-
-    if include_max_1h:
-        max1h = np.maximum(hourly_rain, 0.0).max(axis=0)  # [Y, X]
-    else:
-        max1h = None
-
-    features = []
-
-    for iy in range(0, ny, sample_step):
-        for ix in range(0, nx, sample_step):
-            v = float(cum[iy, ix])
-            if v < min_mm:
-                continue
-
-            lon = float(lons[iy, ix])
-            lat = float(lats[iy, ix])
-
-            # Convert 0..360 to -180..180 for Mapbox sanity
-            if lon > 180.0:
-                lon -= 360.0
-
-            props = {
-                # IMPORTANT: keep "rain_mm" so your existing heatmap code works unchanged
-                "rain_mm": round(v, rain_decimals),
-                "rain_6h_mm": round(v, rain_decimals),
-            }
-
-            if include_max_1h and max1h is not None:
-                props["rain_1h_max_mm"] = round(float(max1h[iy, ix]), rain_decimals)
-
-            features.append({
-                "type": "Feature",
-                "geometry": {
-                    "type": "Point",
-                    "coordinates": [round(lon, coord_decimals), round(lat, coord_decimals)]
-                },
-                "properties": props
-            })
-
-    fc = {
-        "type": "FeatureCollection",
-        "features": features,
-        "properties": {
-            "parameter": "rain_6h_cumulative_mm",
-            "unit": "mm",
-            "tCountSummed": int(T),
-            "validStart": times_window[0].isoformat().replace("+00:00", "Z") if times_window else None,
-            "validEnd": times_window[-1].isoformat().replace("+00:00", "Z") if times_window else None,
-            "sampleStep": int(sample_step),
-            "minRainMm": float(min_mm),
-        }
-    }
-    return fc
-
 
 # --------------------------------
 # Hourly rain time series & JSON export
@@ -440,7 +345,6 @@ def compute_hourly_rain_series(apcp: np.ndarray, has_baseline: bool):
     inc = np.zeros_like(apcp, dtype="float32")
 
     if not has_baseline:
-        # If we don't have a baseline, best effort: treat first slice as "first hour"
         inc[0] = np.maximum(apcp[0], 0.0)
 
     for t in range(1, T):
@@ -453,7 +357,6 @@ def compute_hourly_rain_series(apcp: np.ndarray, has_baseline: bool):
 def timeseries_to_json(hourly_rain, lats, lons, ref_time, times):
     """
     Build an Earth-style JSON grid: header + flattened time-series data.
-
     hourly_rain: [T,Y,X] mm for each hour.
     times: list of datetime (UTC) for each T.
     """
@@ -471,16 +374,16 @@ def timeseries_to_json(hourly_rain, lats, lons, ref_time, times):
         "tCount": int(T),
         "tStepHours": 1,
         "lo1": float(lon_axis[0]),
-        "la1": float(lat_axis[0]),               # usually 90
+        "la1": float(lat_axis[0]),
         "lo2": float(lon_axis[-1]),
-        "la2": float(lat_axis[-1]),              # usually -90
+        "la2": float(lat_axis[-1]),
         "dx": float(lon_axis[1] - lon_axis[0]),
-        "dy": float(lat_axis[0] - lat_axis[1]),  # positive step in degrees
+        "dy": float(lat_axis[0] - lat_axis[1]),
         "forecastHours": FORECAST_HOURS,
         "refTime": ref_time.isoformat().replace("+00:00", "Z"),
         "times": time_strs,
         "source": "NOAA GFS " + GFS_RES,
-        "layout": "time-major",  # T blocks, each of size ny*nx
+        "layout": "time-major",
     }
 
     flat = []
@@ -490,18 +393,72 @@ def timeseries_to_json(hourly_rain, lats, lons, ref_time, times):
     return {"header": header, "data": flat}
 
 
+def cumulative_to_grid_json(hourly_rain, lats, lons, ref_time, times_window, include_max_1h: bool = True):
+    """
+    Export 6h cumulative rain in the same compact grid format as gfs_rain_6h.json,
+    but with tCount=1.
+    """
+    T, ny, nx = hourly_rain.shape
+    lat_axis = lats[:, 0]
+    lon_axis = lons[0, :]
+
+    cum = np.maximum(hourly_rain, 0.0).sum(axis=0).astype("float32")  # [ny, nx]
+
+    max1h = None
+    if include_max_1h:
+        max1h = np.maximum(hourly_rain, 0.0).max(axis=0).astype("float32")
+
+    valid_start = times_window[0].isoformat().replace("+00:00", "Z") if times_window else None
+    valid_end   = times_window[-1].isoformat().replace("+00:00", "Z") if times_window else None
+
+    header = {
+        "parameter": "rain_6h_mm",
+        "parameterUnit": "mm",
+        "nx": int(nx),
+        "ny": int(ny),
+        "tCount": 1,
+        "tStepHours": int(T),
+        "lo1": float(lon_axis[0]),
+        "la1": float(lat_axis[0]),
+        "lo2": float(lon_axis[-1]),
+        "la2": float(lat_axis[-1]),
+        "dx": float(lon_axis[1] - lon_axis[0]),
+        "dy": float(lat_axis[0] - lat_axis[1]),
+        "forecastHours": int(T),
+        "refTime": ref_time.isoformat().replace("+00:00", "Z"),
+        "times": [valid_end] if valid_end else [],
+        "source": "NOAA GFS " + GFS_RES,
+        "layout": "time-major",
+        "validStart": valid_start,
+        "validEnd": valid_end,
+    }
+
+    # data: [1, ny, nx] flattened (time-major with only one block)
+    data = cum.round(2).flatten().tolist()
+
+    out = {"header": header, "data": data}
+
+    if include_max_1h and max1h is not None:
+        out["max1h_header"] = {
+            "parameter": "rain_1h_max_mm",
+            "parameterUnit": "mm",
+            "nx": int(nx),
+            "ny": int(ny),
+            "tCount": 1,
+            "layout": "time-major",
+            "note": "Peak 1-hour rainfall within the same window."
+        }
+        out["max1h_data"] = max1h.round(2).flatten().tolist()
+
+    return out
+
+
 # --------------------------------
 # Isoline generation (contours) – all hours
 # --------------------------------
 def generate_isolines_all_hours(hourly_rain, lats, lons, times, levels_mm, out_path):
     """
     Create contour lines (isocurves) for each hour slice and write one GeoJSON.
-
-    hourly_rain: [T, Y, X] array (mm)
-    lats, lons : 2D arrays (Y, X)
-    times      : list of datetime objects (len T)
-    levels_mm  : list of rainfall thresholds in mm
-    out_path   : output GeoJSON path
     """
     T, NY, NX = hourly_rain.shape
     if T == 0:
@@ -514,8 +471,7 @@ def generate_isolines_all_hours(hourly_rain, lats, lons, times, levels_mm, out_p
     features = []
 
     print(f"   Generating isolines for all {T} hours, levels={levels_mm}")
-    print(f"   Smoothing={SMOOTH_ITERATIONS} iter, "
-          f"decimate_step={DECIMATE_STEP}, coord_decimals={COORD_DECIMALS}")
+    print(f"   Smoothing={SMOOTH_ITERATIONS} iter, decimate_step={DECIMATE_STEP}, coord_decimals={COORD_DECIMALS}")
 
     for h in range(T):
         field = np.array(hourly_rain[h], dtype="float32")
@@ -524,26 +480,22 @@ def generate_isolines_all_hours(hourly_rain, lats, lons, times, levels_mm, out_p
         fig, ax = plt.subplots(figsize=(6, 3))
         cs = ax.contour(lon_grid, lat_grid, field, levels=levels_mm)
 
-        # cs.allsegs: list<level>[ list<segment>[ (x,y)... ] ]
         for level, seglist in zip(cs.levels, cs.allsegs):
             for seg in seglist:
                 if len(seg) < 2:
                     continue
 
-                # 1) Smooth
                 seg_coords = list(seg)
-                if SMOOTH_ITERATIONS > 0:
-                    seg_coords = chaikin_smooth(seg_coords,
-                                                iterations=SMOOTH_ITERATIONS)
 
-                # 2) Decimate
+                if SMOOTH_ITERATIONS > 0:
+                    seg_coords = chaikin_smooth(seg_coords, iterations=SMOOTH_ITERATIONS)
+
                 if DECIMATE_STEP > 1:
                     seg_coords = seg_coords[::DECIMATE_STEP]
 
                 if len(seg_coords) < 2:
                     continue
 
-                # 3) Round coordinates
                 coords = [
                     [round(float(x), COORD_DECIMALS), round(float(y), COORD_DECIMALS)]
                     for x, y in seg_coords
@@ -552,11 +504,7 @@ def generate_isolines_all_hours(hourly_rain, lats, lons, times, levels_mm, out_p
                 features.append({
                     "type": "Feature",
                     "geometry": {"type": "LineString", "coordinates": coords},
-                    "properties": {
-                        "level": float(level),
-                        "hourIndex": int(h),
-                        "validTime": valid_time
-                    }
+                    "properties": {"level": float(level), "hourIndex": int(h), "validTime": valid_time}
                 })
 
         plt.close(fig)
@@ -567,8 +515,7 @@ def generate_isolines_all_hours(hourly_rain, lats, lons, times, levels_mm, out_p
         json.dump(geojson, f, ensure_ascii=False)
 
     size_mb = os.path.getsize(out_path) / 1024 / 1024
-    print(f"✅ Wrote {out_path} with {len(features)} contour lines "
-          f"(smoothed & decimated, {size_mb:.2f} MB)")
+    print(f"✅ Wrote {out_path} with {len(features)} contour lines ({size_mb:.2f} MB)")
 
 
 # --------------------------------
@@ -579,13 +526,6 @@ def export_png_textures(hourly_rain, times, out_dir: Path,
                         flip_y: bool = True):
     """
     Export each hour slice as a grayscale PNG data texture.
-
-    hourly_rain: [T, Y, X] in mm/hour
-    times      : list of datetime objects (len T)
-    out_dir    : directory for PNGs + metadata JSON
-
-    Pixel encoding:
-        gray (0..255) ~ rain_mm / max_rain_mm (clamped)
     """
     T, ny, nx = hourly_rain.shape
     out_dir.mkdir(parents=True, exist_ok=True)
@@ -609,7 +549,7 @@ def export_png_textures(hourly_rain, times, out_dir: Path,
     }
 
     for t in range(T):
-        slice_mm = np.array(hourly_rain[t], dtype=np.float32)  # [ny, nx]
+        slice_mm = np.array(hourly_rain[t], dtype=np.float32)
         slice_clamped = np.clip(slice_mm, 0.0, max_rain_mm) / max_rain_mm
         img_8 = (slice_clamped * 255.0).round().astype(np.uint8)
 
@@ -645,7 +585,7 @@ def main():
         return
 
     hourly_rain, start_i = compute_hourly_rain_series(apcp, has_baseline=meta["has_baseline"])
-    times_window = times[start_i:]  # drop baseline time if present
+    times_window = times[start_i:]
 
     print(f"   Cumulative APCP grid shape: {apcp.shape} (T, Y, X)")
     print(f"   Steps used: {meta.get('steps_used')}")
@@ -662,28 +602,22 @@ def main():
     grid_json = timeseries_to_json(hourly_rain, lats, lons, ref_time, times_window)
     with open(RAINFIELD_PATH, "w", encoding="utf-8") as f:
         json.dump(grid_json, f, ensure_ascii=False)
-
     size_mb = os.path.getsize(RAINFIELD_PATH) / 1024 / 1024
     print(f"✅ Wrote {RAINFIELD_PATH} ({size_mb:.2f} MB)")
 
-    # --- CUMULATIVE 6H GeoJSON (sampled points) ---
-    cum_geojson = cumulative_6h_to_geojson(
+    # --- 6H cumulative compact grid (WINDOW ONLY) ---
+    cum_json = cumulative_to_grid_json(
         hourly_rain=hourly_rain,
         lats=lats,
         lons=lons,
+        ref_time=ref_time,
         times_window=times_window,
-        sample_step=CUM_SAMPLE_STEP,
-        min_mm=CUM_MIN_RAIN_MM,
-        coord_decimals=CUM_COORD_DECIMALS,
-        rain_decimals=CUM_RAIN_DECIMALS,
-        include_max_1h=INCLUDE_MAX_1H,
+        include_max_1h=True
     )
-
-    with open(CUM_GEOJSON_PATH, "w", encoding="utf-8") as f:
-        json.dump(cum_geojson, f, ensure_ascii=False)
-
-    cum_mb = os.path.getsize(CUM_GEOJSON_PATH) / 1024 / 1024
-    print(f"✅ Wrote {CUM_GEOJSON_PATH} ({cum_mb:.2f} MB) | points={len(cum_geojson['features'])}")
+    with open(CUMFIELD_PATH, "w", encoding="utf-8") as f:
+        json.dump(cum_json, f, ensure_ascii=False)
+    cum_mb = os.path.getsize(CUMFIELD_PATH) / 1024 / 1024
+    print(f"✅ Wrote {CUMFIELD_PATH} ({cum_mb:.2f} MB)")
 
     # --- Isolines GeoJSON for all hours (WINDOW ONLY) ---
     generate_isolines_all_hours(
