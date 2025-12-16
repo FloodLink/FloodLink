@@ -4209,5 +4209,25 @@
         "score": 0,
         "status": "skipped",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4xbTBvb291U1pweUVPT0ttaUxzNFRieV9CZXpXUDhVLVNhT05zeExBMVhqdlNNZGx3WkNQQVpuSXctaDNlZ3VuN1dDTUxCN2dUb1UyWU80MGo2WmFwNUNwS2xPT1hJOU14ZkMxTV9ManA0TTh0ODNlM3VB?oc=5",
+        "date": "2025-12-16",
+        "title": "UPDATE: Flood warning in place for Snohomish County until 2 a.m. Thursday - Tri-City Herald",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE4xbTBvb291U1pweUVPT0ttaUxzNFRieV9CZXpXUDhVLVNhT05zeExBMVhqdlNNZGx3WkNQQVpuSXctaDNlZ3VuN1dDTUxCN2dUb1UyWU80MGo2WmFwNUNwS2xPT1hJOU14ZkMxTV9ManA0TTh0ODNlM3VB?oc=5\" target=\"_blank\">UPDATE: Flood warning in place for Snohomish County until 2 a.m. Thursday</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tri-City Herald</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOSVdxaU9XMnJTU2c3Q0ZxNWJlTkUyMEktb0Fncm1GLWJsSXRzZEVWdUtuSlNXU3U2QXBUYU1rWFpkOHg0cEVIc1llekNOSXJjYjBOWWg3aUZTSGZhNUFIdDJLclZyTWgtc1U0XzA0c3EwUDBqT1Fwdl9MMF9nakI5NUlpV3hfVm92QzJERElKTEM5MDg?oc=5",
+        "date": "2025-12-16",
+        "title": "Tropical Depression to bring heavy rain and strong winds - FBC News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxOSVdxaU9XMnJTU2c3Q0ZxNWJlTkUyMEktb0Fncm1GLWJsSXRzZEVWdUtuSlNXU3U2QXBUYU1rWFpkOHg0cEVIc1llekNOSXJjYjBOWWg3aUZTSGZhNUFIdDJLclZyTWgtc1U0XzA0c3EwUDBqT1Fwdl9MMF9nakI5NUlpV3hfVm92QzJERElKTEM5MDg?oc=5\" target=\"_blank\">Tropical Depression to bring heavy rain and strong winds</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FBC News</font>",
+        "similarity_excluded": "No",
+        "score": 6,
+        "status": "processed",
+        "tweet": null
     }
 ]
