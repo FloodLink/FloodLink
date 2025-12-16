@@ -42,6 +42,14 @@ TIMEOUT = 60                     # seconds
 
 RAINFIELD_PATH = "gfs_rain_6h.json"              # time series, 1h increments
 ISOLINES_PATH = "gfs_rain_isolines_6h.geojson"   # precomputed isocurves for all hours
+CUM_GEOJSON_PATH = "gfs_rain_6h_cum_geojson.json"
+
+# Controls output size
+CUM_SAMPLE_STEP = 1        # 2 = every 2nd grid cell (smaller file)
+CUM_MIN_RAIN_MM = 0.1      # drop tiny drizzle (reduces noise + file size)
+CUM_COORD_DECIMALS = 3     # lon/lat rounding
+CUM_RAIN_DECIMALS = 2      # rain rounding
+INCLUDE_MAX_1H = True      # store peak 1h too
 
 # Directory for PNG data textures
 TEXTURE_DIR = Path("gfs_rain_6h_textures")
@@ -345,6 +353,78 @@ def load_gfs_apcp_grid(forecast_hours: int):
 
     return apcp, lats, lons, times, ref_time, meta
 
+def cumulative_6h_to_geojson(
+    hourly_rain: np.ndarray,
+    lats: np.ndarray,
+    lons: np.ndarray,
+    times_window,
+    sample_step: int = 2,
+    min_mm: float = 0.1,
+    coord_decimals: int = 3,
+    rain_decimals: int = 2,
+    include_max_1h: bool = True
+):
+    """
+    Build a sampled GeoJSON FeatureCollection of points with 6h cumulative rain.
+    hourly_rain: [T, Y, X] mm/hour
+    lats, lons : [Y, X] grids
+    """
+    T, ny, nx = hourly_rain.shape
+    cum = np.maximum(hourly_rain, 0.0).sum(axis=0)  # [Y, X] mm over 6h
+
+    if include_max_1h:
+        max1h = np.maximum(hourly_rain, 0.0).max(axis=0)  # [Y, X]
+    else:
+        max1h = None
+
+    features = []
+
+    for iy in range(0, ny, sample_step):
+        for ix in range(0, nx, sample_step):
+            v = float(cum[iy, ix])
+            if v < min_mm:
+                continue
+
+            lon = float(lons[iy, ix])
+            lat = float(lats[iy, ix])
+
+            # Convert 0..360 to -180..180 for Mapbox sanity
+            if lon > 180.0:
+                lon -= 360.0
+
+            props = {
+                # IMPORTANT: keep "rain_mm" so your existing heatmap code works unchanged
+                "rain_mm": round(v, rain_decimals),
+                "rain_6h_mm": round(v, rain_decimals),
+            }
+
+            if include_max_1h and max1h is not None:
+                props["rain_1h_max_mm"] = round(float(max1h[iy, ix]), rain_decimals)
+
+            features.append({
+                "type": "Feature",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [round(lon, coord_decimals), round(lat, coord_decimals)]
+                },
+                "properties": props
+            })
+
+    fc = {
+        "type": "FeatureCollection",
+        "features": features,
+        "properties": {
+            "parameter": "rain_6h_cumulative_mm",
+            "unit": "mm",
+            "tCountSummed": int(T),
+            "validStart": times_window[0].isoformat().replace("+00:00", "Z") if times_window else None,
+            "validEnd": times_window[-1].isoformat().replace("+00:00", "Z") if times_window else None,
+            "sampleStep": int(sample_step),
+            "minRainMm": float(min_mm),
+        }
+    }
+    return fc
+
 
 # --------------------------------
 # Hourly rain time series & JSON export
@@ -585,6 +665,25 @@ def main():
 
     size_mb = os.path.getsize(RAINFIELD_PATH) / 1024 / 1024
     print(f"✅ Wrote {RAINFIELD_PATH} ({size_mb:.2f} MB)")
+
+    # --- CUMULATIVE 6H GeoJSON (sampled points) ---
+    cum_geojson = cumulative_6h_to_geojson(
+        hourly_rain=hourly_rain,
+        lats=lats,
+        lons=lons,
+        times_window=times_window,
+        sample_step=CUM_SAMPLE_STEP,
+        min_mm=CUM_MIN_RAIN_MM,
+        coord_decimals=CUM_COORD_DECIMALS,
+        rain_decimals=CUM_RAIN_DECIMALS,
+        include_max_1h=INCLUDE_MAX_1H,
+    )
+
+    with open(CUM_GEOJSON_PATH, "w", encoding="utf-8") as f:
+        json.dump(cum_geojson, f, ensure_ascii=False)
+
+    cum_mb = os.path.getsize(CUM_GEOJSON_PATH) / 1024 / 1024
+    print(f"✅ Wrote {CUM_GEOJSON_PATH} ({cum_mb:.2f} MB) | points={len(cum_geojson['features'])}")
 
     # --- Isolines GeoJSON for all hours (WINDOW ONLY) ---
     generate_isolines_all_hours(
