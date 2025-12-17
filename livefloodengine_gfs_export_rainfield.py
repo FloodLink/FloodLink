@@ -276,7 +276,6 @@ def load_gfs_apcp_grid(forecast_hours: int):
         if file_path is None:
             print(f"⚠ Skipping f{fhr:03d} (download failed)")
             continue
-
         grb = pygrib.open(file_path)
         try:
             tp_msgs = grb.select(shortName="tp")
@@ -294,7 +293,66 @@ def load_gfs_apcp_grid(forecast_hours: int):
                     pass
                 continue
 
-        apcp_list.append(msg.values.astype("float32"))
+        # ---- DEBUG: print GRIB metadata for tp/APCP ----
+        name      = getattr(msg, "name", None)
+        shortName = getattr(msg, "shortName", None)
+        units     = getattr(msg, "units", None)
+
+        startStep = getattr(msg, "startStep", None)
+        endStep   = getattr(msg, "endStep", None)
+        stepRange = getattr(msg, "stepRange", None)
+        stepType  = getattr(msg, "stepType", None)
+
+        print(f"   📌 tp id  f{fhr:03d}: name={name} / shortName={shortName}")
+        print(
+            f"   🌧 tp meta f{fhr:03d}: units={units} "
+            f"startStep={startStep} endStep={endStep} "
+            f"stepRange={stepRange} stepType={stepType}"
+        )
+
+        # ---- Read values (and OPTIONAL unit fix if units are meters) ----
+        vals = msg.values.astype("float32")
+
+        raw_units = getattr(msg, "units", None)
+        u = (str(raw_units).strip().lower() if raw_units is not None else "")
+
+        # normalize common formatting differences
+        u_norm = (
+            u.replace("**", "^")
+             .replace("−", "-")
+             .replace(" ", "")
+        )
+
+        # Helpful debug (so you can see exactly what string you're matching)
+        print(f"   🔎 units raw='{u}' | norm='{u_norm}'")
+
+        # If NOAA gives meters of water equivalent, convert to mm
+        is_meters = (u_norm in ("m", "meter", "meters")) or ("mofwaterequivalent" in u_norm)
+        if is_meters:
+            print(f"   ⚠ Converting tp from meters to mm for f{fhr:03d}")
+            vals *= 1000.0
+
+        # If units are kg/m^2 (or kg m-2), that's effectively mm of water (NO conversion needed)
+        is_kg_m2 = ("kg" in u_norm) and (
+            ("m-2" in u_norm) or ("m^-2" in u_norm) or ("m^(-2)" in u_norm) or
+            ("/m^2" in u_norm) or ("/m2" in u_norm)
+        )
+        if is_kg_m2:
+            print(f"   ℹ️ units look like kg/m² (treat as mm) for f{fhr:03d}")
+
+        # If it's something unexpected, flag it loudly
+        if (not is_meters) and (not is_kg_m2) and u_norm not in ("", "mm"):
+            print(f"   ⚠️ Unrecognized tp units '{raw_units}' for f{fhr:03d} — check conversion logic.")
+
+        # quick sanity
+        print(
+            f"   ✅ tp values f{fhr:03d}: "
+            f"min={float(vals.min()):.4f} "
+            f"mean={float(vals.mean()):.4f} "
+            f"max={float(vals.max()):.4f}"
+        )
+
+        apcp_list.append(vals)
 
         if lats is None:
             lats, lons = msg.latlons()
@@ -307,6 +365,7 @@ def load_gfs_apcp_grid(forecast_hours: int):
             os.remove(file_path)
         except Exception:
             pass
+
 
     if not apcp_list:
         return None, None, None, None, None, None
@@ -584,6 +643,7 @@ def main():
         print("❌ Failed to load APCP grid.")
         return
 
+  
     hourly_rain, start_i = compute_hourly_rain_series(apcp, has_baseline=meta["has_baseline"])
     times_window = times[start_i:]
 
@@ -592,6 +652,14 @@ def main():
     print(f"   Has baseline: {meta.get('has_baseline')} (baseline={meta.get('baseline_step')})")
     print(f"   First window time: {times_window[0].isoformat()}")
     print(f"   Last  window time: {times_window[-1].isoformat()}")
+
+    # ✅ extra sanity check for the produced hourly increments (this is what your map is visualizing)
+    print(
+        f"   ✅ hourly_inc stats: "
+        f"min={float(hourly_rain.min()):.4f} "
+        f"mean={float(hourly_rain.mean()):.4f} "
+        f"max={float(hourly_rain.max()):.4f}"
+    )
 
     print(
         f"   Hourly rain range: "
