@@ -4626,5 +4626,72 @@
         "score": 0,
         "status": "skipped",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMirAJBVV95cUxOQndfSl84TzYyT0Zrdndndno3TVdaaW4tTWlaYmlNcTFzR25OTnltYXVhN253ZTFLdk5vemJDb2JPUVNLNEozb3R1SmhUeGdPcEVhLVp4LVJDU2FuZGdGMHk5Z1B2UEE3bl92RHpjMENCWUtNd3ZhcXNCM1RULS1TZTdiZURQUTM4NzZ6WUFSS0Y0MVBFTnJ5ZEd6VnZJRS1ZVVotbVlUR1ZhY0RZSVpVNXZHUmZ4WW5JWWpOcnRyand2RnlzQVg3ZlY0SmRhLTQwSmZqTjlUeUpxM0s1SnJRMTJPczBaUGhNdmdVbUJNUlFtUHU5VVJIVW5vVEZ5WFdrZHRfbHpPNk9CRF9JTmRiaWpmeUFsS29EZHFsTEVRUUgxV1o1WFp1Tjk0NFU?oc=5",
+        "date": "2025-12-17",
+        "title": "Storm cuts power to 200,000, downs trees, threatens rivers, with mountain blizzard warning - KOMO",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAJBVV95cUxOQndfSl84TzYyT0Zrdndndno3TVdaaW4tTWlaYmlNcTFzR25OTnltYXVhN253ZTFLdk5vemJDb2JPUVNLNEozb3R1SmhUeGdPcEVhLVp4LVJDU2FuZGdGMHk5Z1B2UEE3bl92RHpjMENCWUtNd3ZhcXNCM1RULS1TZTdiZURQUTM4NzZ6WUFSS0Y0MVBFTnJ5ZEd6VnZJRS1ZVVotbVlUR1ZhY0RZSVpVNXZHUmZ4WW5JWWpOcnRyand2RnlzQVg3ZlY0SmRhLTQwSmZqTjlUeUpxM0s1SnJRMTJPczBaUGhNdmdVbUJNUlFtUHU5VVJIVW5vVEZ5WFdrZHRfbHpPNk9CRF9JTmRiaWpmeUFsS29EZHFsTEVRUUgxV1o1WFp1Tjk0NFU?oc=5\" target=\"_blank\">Storm cuts power to 200,000, downs trees, threatens rivers, with mountain blizzard warning</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KOMO</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMjBHY3l2Q283dEhPTTY1b2pYRGtsM1pTOFZsS2doS0dzdGc5NGJ1cTZyYmhkVklQcENLNkJrVkxMUm4xc3dkU0RHbVBQcjdsOG1rTDFVR19KblJMemQ4Wk5RRGVtc2kzSHoxX0V4SXpYN2hicDg4ZnRzTE0yNFBJako2a2Q4MHJvZllkUVZNN3pjRTVXVkE4OUhDc3dFTGRNd193NmhueEVscWFOQi1MYUNEY3l3UQ?oc=5",
+        "date": "2025-12-17",
+        "title": "An emerging threat as WA flooding continues: saturated levees - The Seattle Times",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQMjBHY3l2Q283dEhPTTY1b2pYRGtsM1pTOFZsS2doS0dzdGc5NGJ1cTZyYmhkVklQcENLNkJrVkxMUm4xc3dkU0RHbVBQcjdsOG1rTDFVR19KblJMemQ4Wk5RRGVtc2kzSHoxX0V4SXpYN2hicDg4ZnRzTE0yNFBJako2a2Q4MHJvZllkUVZNN3pjRTVXVkE4OUhDc3dFTGRNd193NmhueEVscWFOQi1MYUNEY3l3UQ?oc=5\" target=\"_blank\">An emerging threat as WA flooding continues: saturated levees</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Seattle Times</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": null,
+        "tweet_id": "2001306031435948474",
+        "geo": {
+            "country": "United States",
+            "name": "Washington",
+            "latitude": 47.0425,
+            "longitude": -122.9007,
+            "confidence": 0.95
+        }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUDFMdEtMWTEzNXZpVkxpQ2ZNanktOGVEMkVTWUFqT2ZkTGVjbG5nZmF0eS1Ia1FJZ1BuYlpzaHlhaFJBZWpSc29NdGZkeHdmOFF5SmFlZGk5dUROZV9oMVNBWHY2aEEtNTVsTnN0NFUybmthZDdnMnp0OWs4N0JMVVkwQk9XN3hPM0l5TjJhNmE5d1NGbk9PUkx4YWhpRG1YWjBySFAyTm4?oc=5",
+        "date": "2025-12-17",
+        "title": "Severe Winds Compound Washington Flood Disaster - The Weather Channel",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUDFMdEtMWTEzNXZpVkxpQ2ZNanktOGVEMkVTWUFqT2ZkTGVjbG5nZmF0eS1Ia1FJZ1BuYlpzaHlhaFJBZWpSc29NdGZkeHdmOFF5SmFlZGk5dUROZV9oMVNBWHY2aEEtNTVsTnN0NFUybmthZDdnMnp0OWs4N0JMVVkwQk9XN3hPM0l5TjJhNmE5d1NGbk9PUkx4YWhpRG1YWjBySFAyTm4?oc=5\" target=\"_blank\">Severe Winds Compound Washington Flood Disaster</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Weather Channel</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxPdlU2MTU0WklvOUdjVm93VUxKdFRGS2Q5RGlwTHdjVTFDaFUwRkVYNi1KMXg0R0Qydm1TblhTMlNkbmtGN1FXOG42WTFIdVc5bWhqRjlvRzdrT1drOWlOZDNXY3JUWUtBR0FJSVJvczZPUm5IOWk3MzNubWhlZm9FbjZ3cnk5QlRscGtSVk9rWXpOcUZmUHVyWnBjWXV0WF93cWZkZmtOZGxZUmRSOUl1ZEthWW5RdmdqQzZHZnpCUHJYM3B4Y0VrUEllREJQd2k4RG5NUEx6MURQT0ZiemJJUW9MNnpmaG9PdWlZZ2ZSdlVOQmlGMEotQkR5T1NMSGpxZUI2dzdTYk1lX0laVTBTMDFwVEFTQ1lsOGRKOUk2Q2NIUjRCZUR2UFFjelVUdTFLNnRTeXVzaFNCNHRfSTRxMmNkSU16dw?oc=5",
+        "date": "2025-12-17",
+        "title": "SR 410 near Enumclaw reopens 1 lane after partial collapse during heavy flooding - KOMO",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgJBVV95cUxPdlU2MTU0WklvOUdjVm93VUxKdFRGS2Q5RGlwTHdjVTFDaFUwRkVYNi1KMXg0R0Qydm1TblhTMlNkbmtGN1FXOG42WTFIdVc5bWhqRjlvRzdrT1drOWlOZDNXY3JUWUtBR0FJSVJvczZPUm5IOWk3MzNubWhlZm9FbjZ3cnk5QlRscGtSVk9rWXpOcUZmUHVyWnBjWXV0WF93cWZkZmtOZGxZUmRSOUl1ZEthWW5RdmdqQzZHZnpCUHJYM3B4Y0VrUEllREJQd2k4RG5NUEx6MURQT0ZiemJJUW9MNnpmaG9PdWlZZ2ZSdlVOQmlGMEotQkR5T1NMSGpxZUI2dzdTYk1lX0laVTBTMDFwVEFTQ1lsOGRKOUk2Q2NIUjRCZUR2UFFjelVUdTFLNnRTeXVzaFNCNHRfSTRxMmNkSU16dw?oc=5\" target=\"_blank\">SR 410 near Enumclaw reopens 1 lane after partial collapse during heavy flooding</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KOMO</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMjBHY3l2Q283dEhPTTY1b2pYRGtsM1pTOFZsS2doS0dzdGc5NGJ1cTZyYmhkVklQcENLNkJrVkxMUm4xc3dkU0RHbVBQcjdsOG1rTDFVR19KblJMemQ4Wk5RRGVtc2kzSHoxX0V4SXpYN2hicDg4ZnRzTE0yNFBJako2a2Q4MHJvZllkUVZNN3pjRTVXVkE4OUhDc3dFTGRNd193NmhueEVscWFOQi1MYUNEY3l3UQ?oc=5",
+        "date": "2025-12-17",
+        "title": "An emerging threat as WA flooding continues: saturated levees - The Seattle Times",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQMjBHY3l2Q283dEhPTTY1b2pYRGtsM1pTOFZsS2doS0dzdGc5NGJ1cTZyYmhkVklQcENLNkJrVkxMUm4xc3dkU0RHbVBQcjdsOG1rTDFVR19KblJMemQ4Wk5RRGVtc2kzSHoxX0V4SXpYN2hicDg4ZnRzTE0yNFBJako2a2Q4MHJvZllkUVZNN3pjRTVXVkE4OUhDc3dFTGRNd193NmhueEVscWFOQi1MYUNEY3l3UQ?oc=5\" target=\"_blank\">An emerging threat as WA flooding continues: saturated levees</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Seattle Times</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 FORECAST Washington: Ongoing flooding saturating levees, raising risk of breaches and further inundation.",
+        "type": "news",
+        "tweet_id": "2001306031435948474",
+        "geo": {
+            "country": "United States",
+            "name": "Washington",
+            "latitude": 47.0425,
+            "longitude": -122.9007,
+            "confidence": 0.95
+        }
     }
 ]
