@@ -4,12 +4,12 @@
   "tCount": 6,
   "maxRainMm": 80.0,
   "times": [
-    "2025-12-17T07:00:00Z",
     "2025-12-17T08:00:00Z",
     "2025-12-17T09:00:00Z",
     "2025-12-17T10:00:00Z",
     "2025-12-17T11:00:00Z",
-    "2025-12-17T12:00:00Z"
+    "2025-12-17T12:00:00Z",
+    "2025-12-17T13:00:00Z"
   ],
   "flipY": true,
   "note": "Each rain_t###.png is grayscale: value / 255 * maxRainMm = mm/hour (values above maxRainMm were clamped)."
