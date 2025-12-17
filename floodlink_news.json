@@ -4424,5 +4424,25 @@
         "type": "statistical",
         "category": "urban areas exposed to river flooding",
         "tweet_id": "2001168941683519691"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQaVpjOVhQQnR2Z2kwb0NfUnNac2lnNDAxQjRjdmRJVnZGNENQU1hCM09yVFcxWktzTVNNejJZWW1BRlZfUmkxSl9jc24yczllTW41Q0p6RUpTOVBXVFVzQ3BRaFpFSGlCdk9ST0lac0JVZHp3S1dxejhXcmtRMGo3dVk5R1NleUhjYmo3eWFhUDlsRjRsVnphRGE5NGdmRW1GR1N3Y3l5TGtVcGRGMUhVZmhSVFcxcTBLTnBkVG8wU2xaUXVRV0JURGJoRndTeXdacE1tdGZSYw?oc=5",
+        "date": "2025-12-17",
+        "title": "Flood watch affecting Oregon from Thursday to Saturday caused by persistent downpours - OregonLive.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxQaVpjOVhQQnR2Z2kwb0NfUnNac2lnNDAxQjRjdmRJVnZGNENQU1hCM09yVFcxWktzTVNNejJZWW1BRlZfUmkxSl9jc24yczllTW41Q0p6RUpTOVBXVFVzQ3BRaFpFSGlCdk9ST0lac0JVZHp3S1dxejhXcmtRMGo3dVk5R1NleUhjYmo3eWFhUDlsRjRsVnphRGE5NGdmRW1GR1N3Y3l5TGtVcGRGMUhVZmhSVFcxcTBLTnBkVG8wU2xaUXVRV0JURGJoRndTeXdacE1tdGZSYw?oc=5\" target=\"_blank\">Flood watch affecting Oregon from Thursday to Saturday caused by persistent downpours</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">OregonLive.com</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1udVhBREVUcVR1VU9RMUMyd2ItTXRETTM4c3B5Y2pCaV9BQm9GYVU0V0lPMHd3Q1RlUC1nUFI1NnpWVzlvY21Ialhya2JKeEhJUWt0R1FUWFJYWk9IaGhEMVQzUW55Z2l1OEE?oc=5",
+        "date": "2025-12-17",
+        "title": "Pacific levee breach forces evacuations, orders still active - MyNorthwest.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE1udVhBREVUcVR1VU9RMUMyd2ItTXRETTM4c3B5Y2pCaV9BQm9GYVU0V0lPMHd3Q1RlUC1nUFI1NnpWVzlvY21Ialhya2JKeEhJUWt0R1FUWFJYWk9IaGhEMVQzUW55Z2l1OEE?oc=5\" target=\"_blank\">Pacific levee breach forces evacuations, orders still active</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MyNorthwest.com</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
     }
 ]
