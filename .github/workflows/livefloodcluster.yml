@@ -2,7 +2,7 @@ name: 🌧️ FloodLink Cluster-NOAA Live Risk Engine
 
 on:
   schedule:
-    - cron: "0 */1 * * *"   # every 1 hour
+    - cron: "0 */3 * * *"   # every 1 hour
   workflow_dispatch:
 
 permissions:
