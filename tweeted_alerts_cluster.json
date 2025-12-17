@@ -13,5 +13,20 @@
     "last_tweeted_at": "2025-12-17T10:25:38.491762Z",
     "tweet_id": "2001237379257131201",
     "resolved": false
+  },
+  "4.8604,115.4090": {
+    "country": "Malaysia",
+    "name": "Lawas",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 4.8604,
+    "longitude": 115.409,
+    "rain_mm": 41.94,
+    "soil_moisture": 0.718,
+    "raw_dynamic_score": 6.954,
+    "last_updated": "2025-12-17T11:27:37.101545Z",
+    "last_tweeted_at": "2025-12-17T11:27:37.101545Z",
+    "tweet_id": "2001252969950384310",
+    "resolved": false
   }
 }
