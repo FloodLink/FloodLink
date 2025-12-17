@@ -4406,5 +4406,14 @@
         "score": 0,
         "status": "skipped",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2025-12-17",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 US dams & levees averted $18B in 2023 flood damages from extreme rainfall, protecting 45M people.\n\n\ud83c\uddf3\ud83c\uddf1 Netherlands' dikes & reservoirs prevented \u20ac12B ($13B) in storm surge losses that year, shielding 90% of its 17.8M population.\n\n(128 chars)",
+        "type": "statistical",
+        "category": "dams, levees and reservoirs used for flood control",
+        "tweet_id": "2001161456814116932"
     }
 ]
