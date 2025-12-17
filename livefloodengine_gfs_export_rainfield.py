@@ -202,12 +202,16 @@ def load_gfs_apcp_grid(forecast_hours: int):
     Load cumulative APCP (tp) for the NEXT `forecast_hours` from *now*.
     Includes a baseline step (previous hour) so the first increment is correct.
 
+    IMPORTANT:
+    GFS can change accumulation origin (e.g., 0-6 then 6-7 etc).
+    So we also return startStep/endStep per frame to compute true 1h increments robustly.
+
     Returns:
-        apcp: np.array [T, Y, X] cumulative (includes baseline at index 0 if present)
+        apcp: np.array [T, Y, X] cumulative
         lats, lons: 2D arrays
-        times: list of datetime (UTC, tz-aware) aligned to apcp
-        ref_time: cycle start datetime (UTC, tz-aware)
-        meta: dict with window_steps / baseline_step / has_baseline / steps_used
+        times: list of datetime (UTC) aligned to each downloaded frame's endStep
+        ref_time: cycle start datetime (UTC)
+        meta: dict including window_steps, baseline_step, has_baseline, steps_used, start_steps, end_steps
     """
     date, cycle, prev_date, prev_cycle = get_latest_cycle()
     now_utc = datetime.utcnow().replace(tzinfo=timezone.utc)
@@ -266,32 +270,60 @@ def load_gfs_apcp_grid(forecast_hours: int):
         + (f" | baseline: f{baseline_step:03d}" if baseline_step is not None else "")
     )
 
-    apcp_list = []
-    times = []
-    steps_used = []
+    frames = []  # (startStep, endStep, vals, frame_time_utc)
     lats, lons = None, None
+
+    def _parse_step_range(msg, fallback_end: int):
+        """Return (startStep, endStep) as ints, best-effort."""
+        s = getattr(msg, "startStep", None)
+        e = getattr(msg, "endStep", None)
+
+        # pygrib sometimes provides these as strings/None
+        try:
+            s_int = int(s) if s is not None else None
+        except Exception:
+            s_int = None
+        try:
+            e_int = int(e) if e is not None else None
+        except Exception:
+            e_int = None
+
+        if s_int is not None and e_int is not None:
+            return s_int, e_int
+
+        sr = getattr(msg, "stepRange", None)
+        if isinstance(sr, str) and "-" in sr:
+            try:
+                a, b = sr.split("-", 1)
+                return int(a), int(b)
+            except Exception:
+                pass
+
+        # fallback: assume 0..fhr
+        return 0, int(fallback_end)
 
     for fhr in steps_to_download:
         file_path = download_gfs_file(use_date, use_cycle, fhr)
         if file_path is None:
             print(f"⚠ Skipping f{fhr:03d} (download failed)")
             continue
+
         grb = pygrib.open(file_path)
         try:
-            tp_msgs = grb.select(shortName="tp")
-            msg = next((m for m in tp_msgs if int(getattr(m, "endStep", -1)) == fhr), tp_msgs[0])
-        except Exception:
             try:
+                tp_msgs = grb.select(shortName="tp")
+                msg = next((m for m in tp_msgs if int(getattr(m, "endStep", -1)) == fhr), tp_msgs[0])
+            except Exception:
                 tp_msgs = grb.select(name="Total Precipitation")
                 msg = next((m for m in tp_msgs if int(getattr(m, "endStep", -1)) == fhr), tp_msgs[0])
-            except Exception as e:
-                print(f"⚠ No tp/APCP in {file_path}: {e}")
-                grb.close()
-                try:
-                    os.remove(file_path)
-                except Exception:
-                    pass
-                continue
+        except Exception as e:
+            print(f"⚠ No tp/APCP in {file_path}: {e}")
+            grb.close()
+            try:
+                os.remove(file_path)
+            except Exception:
+                pass
+            continue
 
         # ---- DEBUG: print GRIB metadata for tp/APCP ----
         name      = getattr(msg, "name", None)
@@ -310,29 +342,24 @@ def load_gfs_apcp_grid(forecast_hours: int):
             f"stepRange={stepRange} stepType={stepType}"
         )
 
-        # ---- Read values (and OPTIONAL unit fix if units are meters) ----
+        # ---- Read values ----
         vals = msg.values.astype("float32")
 
+        # ---- Units handling (keep your improved normalization) ----
         raw_units = getattr(msg, "units", None)
         u = (str(raw_units).strip().lower() if raw_units is not None else "")
-
-        # normalize common formatting differences
         u_norm = (
             u.replace("**", "^")
              .replace("−", "-")
              .replace(" ", "")
         )
-
-        # Helpful debug (so you can see exactly what string you're matching)
         print(f"   🔎 units raw='{u}' | norm='{u_norm}'")
 
-        # If NOAA gives meters of water equivalent, convert to mm
         is_meters = (u_norm in ("m", "meter", "meters")) or ("mofwaterequivalent" in u_norm)
         if is_meters:
             print(f"   ⚠ Converting tp from meters to mm for f{fhr:03d}")
             vals *= 1000.0
 
-        # If units are kg/m^2 (or kg m-2), that's effectively mm of water (NO conversion needed)
         is_kg_m2 = ("kg" in u_norm) and (
             ("m-2" in u_norm) or ("m^-2" in u_norm) or ("m^(-2)" in u_norm) or
             ("/m^2" in u_norm) or ("/m2" in u_norm)
@@ -340,9 +367,11 @@ def load_gfs_apcp_grid(forecast_hours: int):
         if is_kg_m2:
             print(f"   ℹ️ units look like kg/m² (treat as mm) for f{fhr:03d}")
 
-        # If it's something unexpected, flag it loudly
         if (not is_meters) and (not is_kg_m2) and u_norm not in ("", "mm"):
             print(f"   ⚠️ Unrecognized tp units '{raw_units}' for f{fhr:03d} — check conversion logic.")
+
+        # ---- Parse accumulation window ----
+        s_step, e_step = _parse_step_range(msg, fallback_end=fhr)
 
         # quick sanity
         print(
@@ -351,14 +380,14 @@ def load_gfs_apcp_grid(forecast_hours: int):
             f"mean={float(vals.mean()):.4f} "
             f"max={float(vals.max()):.4f}"
         )
-
-        apcp_list.append(vals)
-
+      
         if lats is None:
             lats, lons = msg.latlons()
+        
+        # Store frame, then we'll sort by endStep after downloads (robust to skips/out-of-order)
+        frame_time = use_cycle_dt + timedelta(hours=int(e_step))
+        frames.append((int(s_step), int(e_step), vals.astype("float32"), frame_time))
 
-        times.append(use_cycle_dt + timedelta(hours=fhr))
-        steps_used.append(fhr)
 
         grb.close()
         try:
@@ -366,51 +395,136 @@ def load_gfs_apcp_grid(forecast_hours: int):
         except Exception:
             pass
 
-
-    if not apcp_list:
+    if not frames:
         return None, None, None, None, None, None
-
-    apcp = np.stack(apcp_list)  # [T,Y,X] cumulative
+    
+    # Sort by endStep to keep time alignment stable even if some downloads were skipped
+    frames.sort(key=lambda x: x[1])  # sort by endStep
+    
+    start_steps = [f[0] for f in frames]
+    end_steps   = [f[1] for f in frames]
+    times       = [f[3] for f in frames]
+    apcp        = np.stack([f[2] for f in frames])  # [T, Y, X], cumulative values per frame
+    
     ref_time = use_cycle_dt
-
+    steps_used = end_steps[:]  # keep your existing naming
+    
     has_baseline = (
         baseline_step is not None
         and len(steps_used) >= 2
         and steps_used[0] == baseline_step
         and steps_used[1] == window_steps[0]
     )
-
+    
     meta = {
-        "window_steps": window_steps,
+        "window_steps": window_steps,      # these are desired endSteps
         "baseline_step": baseline_step,
         "has_baseline": has_baseline,
-        "steps_used": steps_used,
+        "steps_used": steps_used,          # endSteps actually downloaded (sorted)
+        "start_steps": start_steps,
+        "end_steps": end_steps,
     }
-
+    
     return apcp, lats, lons, times, ref_time, meta
-
 
 # --------------------------------
 # Hourly rain time series & JSON export
 # --------------------------------
-def compute_hourly_rain_series(apcp: np.ndarray, has_baseline: bool):
+def compute_hourly_rain_window(
+    apcp: np.ndarray,
+    start_steps: list[int],
+    end_steps: list[int],
+    window_end_steps: list[int],
+):
     """
-    apcp: cumulative [T,Y,X] (includes baseline at index 0 if has_baseline)
+    Convert GFS 'tp' accumulations into true 1-hour increments for the desired window endSteps.
+
+    Handles accumulation origin resets (e.g., 0-6 then 6-7) by grouping by startStep
+    and differencing only within the same origin.
+
     Returns:
-      hourly_inc_window: [W,Y,X] mm/hour for the window only
-      start_index: int (where the real window begins in the apcp array)
+        hourly_rain: np.array [W, Y, X] mm/hour for each requested endStep in window_end_steps
     """
-    T, NY, NX = apcp.shape
-    inc = np.zeros_like(apcp, dtype="float32")
+    if apcp is None or apcp.size == 0:
+        return None
 
-    if not has_baseline:
-        inc[0] = np.maximum(apcp[0], 0.0)
+    # origin -> { endStep -> vals }
+    origin_map: dict[int, dict[int, np.ndarray]] = {}
+    for i in range(apcp.shape[0]):
+        s = int(start_steps[i])
+        e = int(end_steps[i])
+        origin_map.setdefault(s, {})[e] = apcp[i]
 
-    for t in range(1, T):
-        inc[t] = np.maximum(apcp[t] - apcp[t - 1], 0.0)
+    inc_map: dict[int, np.ndarray] = {}
+    q_map: dict[int, int] = {}  # quality: 0=distributed, 2=exact 1h
 
-    start_i = 1 if has_baseline else 0
-    return inc[start_i:], start_i
+    def set_inc(hour_end: int, vals: np.ndarray, quality: int):
+        prev_q = q_map.get(hour_end, -1)
+        if quality > prev_q:
+            inc_map[hour_end] = vals.astype("float32")
+            q_map[hour_end] = quality
+
+    for origin, end_dict in origin_map.items():
+        ends = sorted(end_dict.keys())
+        if not ends:
+            continue
+
+        prev_end = None
+        prev_vals = None
+
+        for end in ends:
+            vals = end_dict[end].astype("float32")
+
+            if prev_end is None:
+                duration = end - origin
+                if duration <= 0:
+                    prev_end, prev_vals = end, vals
+                    continue
+
+                if duration == 1:
+                    # already a true 1h accumulation
+                    set_inc(end, np.maximum(vals, 0.0), quality=2)
+                else:
+                    # no previous frame for this origin -> distribute evenly across the span (best-effort)
+                    per_h = np.maximum(vals, 0.0) / float(duration)
+                    for h in range(origin + 1, end + 1):
+                        set_inc(h, per_h, quality=0)
+
+            else:
+                duration = end - prev_end
+                if duration <= 0:
+                    prev_end, prev_vals = end, vals
+                    continue
+
+                delta = np.maximum(vals - prev_vals, 0.0)
+
+                if duration == 1:
+                    set_inc(end, delta, quality=2)
+                else:
+                    # distribute across missing hours (best-effort)
+                    per_h = delta / float(duration)
+                    for h in range(prev_end + 1, end + 1):
+                        set_inc(h, per_h, quality=0)
+
+            prev_end, prev_vals = end, vals
+
+    # Build output aligned to requested window endSteps
+    W = len(window_end_steps)
+    ny, nx = apcp.shape[1], apcp.shape[2]
+    out = np.zeros((W, ny, nx), dtype="float32")
+
+    missing = []
+    for i, h in enumerate(window_end_steps):
+        if h in inc_map:
+            out[i] = inc_map[h]
+        else:
+            missing.append(h)
+
+    if missing:
+        print(f"⚠ Missing hourly increments for endSteps: {missing} (filled with zeros)")
+
+    return out
+
 
 
 def timeseries_to_json(hourly_rain, lats, lons, ref_time, times):
@@ -644,9 +758,23 @@ def main():
         return
 
   
-    hourly_rain, start_i = compute_hourly_rain_series(apcp, has_baseline=meta["has_baseline"])
-    times_window = times[start_i:]
+    # ✅ compute true 1h increments using (startStep,endStep) logic (handles origin resets)
+    hourly_rain = compute_hourly_rain_window(
+        apcp=apcp,
+        start_steps=meta["start_steps"],
+        end_steps=meta["end_steps"],
+        window_end_steps=meta["window_steps"],
+    )
 
+    if hourly_rain is None:
+        print("❌ Failed to compute hourly rain increments.")
+        return
+
+    times_window = [ref_time + timedelta(hours=int(h)) for h in meta["window_steps"]]
+
+    print(f"   Window endSteps requested: {meta['window_steps']}")
+    print(f"   Frames downloaded endSteps: {meta['end_steps']}")
+    print(f"   Frames downloaded startSteps: {meta['start_steps']}")
     print(f"   Cumulative APCP grid shape: {apcp.shape} (T, Y, X)")
     print(f"   Steps used: {meta.get('steps_used')}")
     print(f"   Has baseline: {meta.get('has_baseline')} (baseline={meta.get('baseline_step')})")
