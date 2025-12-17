@@ -4386,5 +4386,25 @@
         "score": 0,
         "status": "skipped",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1abC1qUE5CdkRSNHhyWkFzcHVOeW50bVRUbEFqeERYUVJ5bGpCbDZoRl9KYWVZQkdTNm5mZGlpS01kMEJ3OVVGQXpvcmlXNlRlWnVsWENrUnlGLTVuS1FRN1dZcm41aUlHZG1xZk5kWVFLYWRaNi1kcnF30gF_QVVfeXFMT1o2QnVMQVlMd1Z0MEJtZUQxakJPeUZpZ2RUaTRWVFplWGNoYWJaYnpOdXFPQldxZ19OZGNCTVV0ZWxDQjdhbjRyN3ZhdFRPalpob28tVWNZM2gtbFo3bGNxNUs5eXZKcWlhaEIyYmh5YXVxc2ZHZFhRV0FLU015SQ?oc=5",
+        "date": "2025-12-17",
+        "title": "Blizzard Warning for WA passes, Wind Warnings, and flooding continues - FOX 13 Seattle",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE1abC1qUE5CdkRSNHhyWkFzcHVOeW50bVRUbEFqeERYUVJ5bGpCbDZoRl9KYWVZQkdTNm5mZGlpS01kMEJ3OVVGQXpvcmlXNlRlWnVsWENrUnlGLTVuS1FRN1dZcm41aUlHZG1xZk5kWVFLYWRaNi1kcnF30gF_QVVfeXFMT1o2QnVMQVlMd1Z0MEJtZUQxakJPeUZpZ2RUaTRWVFplWGNoYWJaYnpOdXFPQldxZ19OZGNCTVV0ZWxDQjdhbjRyN3ZhdFRPalpob28tVWNZM2gtbFo3bGNxNUs5eXZKcWlhaEIyYmh5YXVxc2ZHZFhRV0FLU015SQ?oc=5\" target=\"_blank\">Blizzard Warning for WA passes, Wind Warnings, and flooding continues</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FOX 13 Seattle</font>",
+        "similarity_excluded": "No",
+        "score": 6,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQWVkyaE9uanQ0U0wyME5wdzh2NHM1SEViNEFwektYX0xDaEJFWF84SHFqNzJpQkR0aG9xbnhwZU9hd3MzRGdncUJGVHV3N1lVbkw4VjE2dkxheGFteG1jVXFWaUZvZHNuUjFZbDAySEk3UnczLV8zblBpeVExWXJBcE4wWDlEZW0yQmt3b3JpUlA1YWYzVTgwYWl1MXVxZUl1YXFjX0hjYlhIMzBkVHhFaXJ0RWFRNGVSelRV?oc=5",
+        "date": "2025-12-17",
+        "title": "Flood watch issued for Oahu, Kauai and Niihau through Thursday - Honolulu Star-Advertiser",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQWVkyaE9uanQ0U0wyME5wdzh2NHM1SEViNEFwektYX0xDaEJFWF84SHFqNzJpQkR0aG9xbnhwZU9hd3MzRGdncUJGVHV3N1lVbkw4VjE2dkxheGFteG1jVXFWaUZvZHNuUjFZbDAySEk3UnczLV8zblBpeVExWXJBcE4wWDlEZW0yQmt3b3JpUlA1YWYzVTgwYWl1MXVxZUl1YXFjX0hjYlhIMzBkVHhFaXJ0RWFRNGVSelRV?oc=5\" target=\"_blank\">Flood watch issued for Oahu, Kauai and Niihau through Thursday</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Honolulu Star-Advertiser</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
     }
 ]
