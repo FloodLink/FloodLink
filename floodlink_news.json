@@ -4366,5 +4366,25 @@
         "score": 7,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxOQ3lReklIZmM5S3NpeWpqaXk0bGRkUHltUVpza0V2dndmWlh3WlZkX1RmMi1McDVrczA2UHYwNmhmWVFsX1VRdlh6aVVmd3VnRXNhQ05rclhkUE4xczV0NWRwSGs0VDVFMU5GeEFrTnZIQmdTWVZhemNOWUVrTWozU2swRTFZb0ZUT05KWGJfRnZ4SUV1RmRseWExallFWEM4TFRhbEFmTWQ5d0lobUpvOHotZGVPNlhwcWdDZmljWTA3bGJmZDFDcGNvbkRTZU83Z1JDMTljcF91czJDSUg5cjMtZUlESHhMMzE1amxkclBrcmE5ZXRBbkx3U0lzVFVWVi1VenU0UlNwT1VtSjk0RXpJZ2dFeVk?oc=5",
+        "date": "2025-12-17",
+        "title": "King County official warns of over a dozen weak spots in levee system amid recent breaches - KOMO",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwJBVV95cUxOQ3lReklIZmM5S3NpeWpqaXk0bGRkUHltUVpza0V2dndmWlh3WlZkX1RmMi1McDVrczA2UHYwNmhmWVFsX1VRdlh6aVVmd3VnRXNhQ05rclhkUE4xczV0NWRwSGs0VDVFMU5GeEFrTnZIQmdTWVZhemNOWUVrTWozU2swRTFZb0ZUT05KWGJfRnZ4SUV1RmRseWExallFWEM4TFRhbEFmTWQ5d0lobUpvOHotZGVPNlhwcWdDZmljWTA3bGJmZDFDcGNvbkRTZU83Z1JDMTljcF91czJDSUg5cjMtZUlESHhMMzE1amxkclBrcmE5ZXRBbkx3U0lzVFVWVi1VenU0UlNwT1VtSjk0RXpJZ2dFeVk?oc=5\" target=\"_blank\">King County official warns of over a dozen weak spots in levee system amid recent breaches</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KOMO</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQU3NjRGp5MmVmMzJ3dkdOUEtrZm0wMTlQa3A3eEF1LUdoYlBRdndYU1NWOFdUcFZqalF1aTFjZ3gtcjVPbjZEUV9tUk5tM2gteXg3N2xTRngyUzRTWEl5cUdXOVpyYTRJYnlVN3ZIUnFnSHdwMC0yamhObzBTNGVUWk0xVC1iRVBRWkt5MFFWLU1YWWw5ZS0yQjZ4QzgzLUsyWEtaanBDN0tsV1JGc05McWJyd25Ua0c0RFlCT0hWdzk?oc=5",
+        "date": "2025-12-17",
+        "title": "Landslide reported in town of Concrete - king5.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxQU3NjRGp5MmVmMzJ3dkdOUEtrZm0wMTlQa3A3eEF1LUdoYlBRdndYU1NWOFdUcFZqalF1aTFjZ3gtcjVPbjZEUV9tUk5tM2gteXg3N2xTRngyUzRTWEl5cUdXOVpyYTRJYnlVN3ZIUnFnSHdwMC0yamhObzBTNGVUWk0xVC1iRVBRWkt5MFFWLU1YWWw5ZS0yQjZ4QzgzLUsyWEtaanBDN0tsV1JGc05McWJyd25Ua0c0RFlCT0hWdzk?oc=5\" target=\"_blank\">Landslide reported in town of Concrete</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">king5.com</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
     }
 ]
