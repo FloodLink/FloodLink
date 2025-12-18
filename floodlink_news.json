@@ -5182,5 +5182,52 @@
         "score": 6,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOWFI1d3RTYmFKS1FmNFVtd0VvWWF0blJINmxKNkU3SEpJZE1DajhTS0JkbFdjZl9QLWJ6blg2YlBfZ182Ym1tbDUwanZOWEFOWEtRVUp3XzdPcENYTnk0cXEzcVZDTm96MUgtWWtCd2d6TXExRFZlMXFLWWNleWtkTm96dmZkUGhNVmFsSl8zQ0RnbEFCNWZlRlU2dllXYldXbUFlcGJDaGRBWk1QVGhDN19NNlVudFg4YThPNXBITmxtSEE?oc=5",
+        "date": "2025-12-18",
+        "title": "Flood Warning issued for Siletz River - newportnewstimes.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxOWFI1d3RTYmFKS1FmNFVtd0VvWWF0blJINmxKNkU3SEpJZE1DajhTS0JkbFdjZl9QLWJ6blg2YlBfZ182Ym1tbDUwanZOWEFOWEtRVUp3XzdPcENYTnk0cXEzcVZDTm96MUgtWWtCd2d6TXExRFZlMXFLWWNleWtkTm96dmZkUGhNVmFsSl8zQ0RnbEFCNWZlRlU2dllXYldXbUFlcGJDaGRBWk1QVGhDN19NNlVudFg4YThPNXBITmxtSEE?oc=5\" target=\"_blank\">Flood Warning issued for Siletz River</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">newportnewstimes.com</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9VU0ZoV01BM21PNVRqYU9pd0dTTnF1Y0VjaU9BZFVDVGFYSjllZ00wQjFnSTV2U0FDMnpobExpdHBnQW14ZE53eUVQQlgtRGZxVnFLSnpSVTBPVlZuNzF6ZFFXSXNIaENxTXl3?oc=5",
+        "date": "2025-12-18",
+        "title": "Siletz River flood warning - Lincoln City Homepage",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE9VU0ZoV01BM21PNVRqYU9pd0dTTnF1Y0VjaU9BZFVDVGFYSjllZ00wQjFnSTV2U0FDMnpobExpdHBnQW14ZE53eUVQQlgtRGZxVnFLSnpSVTBPVlZuNzF6ZFFXSXNIaENxTXl3?oc=5\" target=\"_blank\">Siletz River flood warning</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Lincoln City Homepage</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": null,
+        "tweet_id": "2001757749051625792",
+        "geo": {
+            "country": "United States",
+            "name": "Lincoln City",
+            "latitude": 44.9631,
+            "longitude": -124.018,
+            "confidence": 0.95
+        }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9VU0ZoV01BM21PNVRqYU9pd0dTTnF1Y0VjaU9BZFVDVGFYSjllZ00wQjFnSTV2U0FDMnpobExpdHBnQW14ZE53eUVQQlgtRGZxVnFLSnpSVTBPVlZuNzF6ZFFXSXNIaENxTXl3?oc=5",
+        "date": "2025-12-18",
+        "title": "Siletz River flood warning - Lincoln City Homepage",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE9VU0ZoV01BM21PNVRqYU9pd0dTTnF1Y0VjaU9BZFVDVGFYSjllZ00wQjFnSTV2U0FDMnpobExpdHBnQW14ZE53eUVQQlgtRGZxVnFLSnpSVTBPVlZuNzF6ZFFXSXNIaENxTXl3?oc=5\" target=\"_blank\">Siletz River flood warning</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Lincoln City Homepage</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 FORECAST Siletz River: Flood warning issued for potential river flooding impacting Lincoln City area. (Lincoln City Homepage)",
+        "type": "news",
+        "tweet_id": "2001757749051625792",
+        "geo": {
+            "country": "United States",
+            "name": "Lincoln City",
+            "latitude": 44.9631,
+            "longitude": -124.018,
+            "confidence": 0.95
+        }
     }
 ]
