@@ -73,7 +73,7 @@ RAW_HIGH_MAX  = 24.0         # 12..24 -> High
 # -------------------------------
 # ALERT TRANSITION POLICY
 # -------------------------------
-COOLDOWN_HOURS = 6  # downgrade tweets blocked within this window after last tweet
+COOLDOWN_HOURS = 24  # downgrade tweets blocked within this window after last tweet
 
 TWEET_LEVELS = ["Medium", "High", "Extreme"]   # which levels are tweet-worthy at all
 ALERT_ON_UPGRADES   = True                     # Medium→High, High→Extreme
