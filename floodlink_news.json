@@ -4763,5 +4763,14 @@
             "longitude": -97.1306,
             "confidence": 1.0
         }
+    },
+    {
+        "link": null,
+        "date": "2025-12-18",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 US dams & levees mitigated 2023 flash floods, protecting 8M people & cutting losses 25% vs. 2021 Ida surge ($65B damages, 1M exposed).\n\n\ud83c\uddf3\ud83c\uddf1 Netherlands reservoirs reduced 2024 extreme rainfall exposure by 40%, averting \u20ac5B vs. 2021 European floods (500K exposed).",
+        "type": "statistical",
+        "category": "dams, levees and reservoirs used for flood control",
+        "tweet_id": "2001596989960577390"
     }
 ]
