@@ -73,10 +73,14 @@
     "rain_mm": 63.0,
     "soil_moisture": 0.73,
     "raw_dynamic_score": 10.513,
-    "last_updated": "2025-12-18T01:57:45.452181Z",
+    "last_updated": "2025-12-18T03:57:43.129916Z",
     "last_tweeted_at": "2025-12-18T01:57:45.452181Z",
     "tweet_id": "2001471964591050942",
-    "resolved": false
+    "resolved": false,
+    "pending_downgrade": true,
+    "pending_target_level": "Low",
+    "pending_set_at": "2025-12-18T03:57:43.129916Z",
+    "pending_is_region": true
   },
   "-18.5486,-42.5569": {
     "country": "Brazil",
@@ -88,7 +92,7 @@
     "rain_mm": 79.44,
     "soil_moisture": 0.76,
     "raw_dynamic_score": 13.469,
-    "last_updated": "2025-12-18T01:57:45.452181Z",
+    "last_updated": "2025-12-18T03:57:43.129916Z",
     "last_tweeted_at": "2025-12-18T01:57:45.452181Z",
     "tweet_id": "2001471964591050942",
     "resolved": false
@@ -103,10 +107,14 @@
     "rain_mm": 47.88,
     "soil_moisture": 0.575,
     "raw_dynamic_score": 7.32,
-    "last_updated": "2025-12-18T01:57:45.452181Z",
+    "last_updated": "2025-12-18T03:57:43.129916Z",
     "last_tweeted_at": "2025-12-18T01:57:45.452181Z",
     "tweet_id": "2001472091141685392",
-    "resolved": false
+    "resolved": false,
+    "pending_downgrade": true,
+    "pending_target_level": "Low",
+    "pending_set_at": "2025-12-18T03:57:43.129916Z",
+    "pending_is_region": true
   },
   "-24.6545,25.9086": {
     "country": "Botswana",
@@ -118,7 +126,7 @@
     "rain_mm": 47.88,
     "soil_moisture": 0.575,
     "raw_dynamic_score": 7.32,
-    "last_updated": "2025-12-18T01:57:45.452181Z",
+    "last_updated": "2025-12-18T03:57:43.129916Z",
     "last_tweeted_at": "2025-12-18T01:57:45.452181Z",
     "tweet_id": "2001472091141685392",
     "resolved": false
@@ -133,9 +141,32 @@
     "rain_mm": 65.94,
     "soil_moisture": 0.628,
     "raw_dynamic_score": 10.394,
-    "last_updated": "2025-12-18T01:57:45.452181Z",
+    "last_updated": "2025-12-18T03:57:43.129916Z",
     "last_tweeted_at": "2025-12-18T01:57:45.452181Z",
     "tweet_id": "2001472217939575174",
+    "resolved": false,
+    "pending_downgrade": true,
+    "pending_target_level": "Low",
+    "pending_set_at": "2025-12-18T03:57:43.129916Z",
+    "pending_is_region": false,
+    "pending_observed_level": "Low",
+    "pending_observed_rain_mm": 11.19,
+    "pending_observed_soil_moisture": 0.58,
+    "pending_observed_raw_dynamic_score": 1.716
+  },
+  "4.4683,97.9683": {
+    "country": "Indonesia",
+    "name": "Langsa",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 4.4683,
+    "longitude": 97.9683,
+    "rain_mm": 58.88,
+    "soil_moisture": 0.652,
+    "raw_dynamic_score": 9.409,
+    "last_updated": "2025-12-18T03:57:43.129916Z",
+    "last_tweeted_at": "2025-12-18T03:57:43.129916Z",
+    "tweet_id": "2001502140003684847",
     "resolved": false
   }
 }
