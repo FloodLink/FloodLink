@@ -5102,5 +5102,35 @@
         "score": 0,
         "status": "skipped",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPN1U0TXVpNF9STzR5eDhiTGsySFNNQWl3XzRPX2NnWmJ3QVlKdi1zNVJxdFJ5c1JNV2FhQVlCdlZKQ1UtdGxCZ2NXOUprQmt2M0hnVFdZOEZuZVpoTmRVVXpDZEk0Vzh2YVhsQ21VX0tfeW9lWk1vZnhUWEd5d05SSm5xb1dCYmhocHE4RDRJVk1nUzY0WVF3Nlp5cl9zRERLV0tOVVpfeXI?oc=5",
+        "date": "2025-12-18",
+        "title": "Coastal flood advisory issued for Bergen County for Friday - NJ.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPN1U0TXVpNF9STzR5eDhiTGsySFNNQWl3XzRPX2NnWmJ3QVlKdi1zNVJxdFJ5c1JNV2FhQVlCdlZKQ1UtdGxCZ2NXOUprQmt2M0hnVFdZOEZuZVpoTmRVVXpDZEk0Vzh2YVhsQ21VX0tfeW9lWk1vZnhUWEd5d05SSm5xb1dCYmhocHE4RDRJVk1nUzY0WVF3Nlp5cl9zRERLV0tOVVpfeXI?oc=5\" target=\"_blank\">Coastal flood advisory issued for Bergen County for Friday</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NJ.com</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNc3lPZ0E0SFB4ang5M0ZiWkw5UW9kM2FqOXhISF9FU0c4Nm9RVkxwNkpackhoeEpYMzl4c3NqcVdwb2pqZWJFUUo3R25rbGdZX1F6TnRPUTc1TGNQaS1GeGl2cUdtUnBocFJxMG5hWUktaUlrU0FVQV9pV0NJalQ2NXJWYk9NbzRMXzVmcmZlX2o5Z2paWWhiRXJuYzFPUmJoQ2hOMF9STW5MNUh4SU9iTVoxT1VEXzdRZV9pQmtSQWo?oc=5",
+        "date": "2025-12-18",
+        "title": "NY weather: Coastal flood advisory issued for Suffolk County for Friday - SILive.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNc3lPZ0E0SFB4ang5M0ZiWkw5UW9kM2FqOXhISF9FU0c4Nm9RVkxwNkpackhoeEpYMzl4c3NqcVdwb2pqZWJFUUo3R25rbGdZX1F6TnRPUTc1TGNQaS1GeGl2cUdtUnBocFJxMG5hWUktaUlrU0FVQV9pV0NJalQ2NXJWYk9NbzRMXzVmcmZlX2o5Z2paWWhiRXJuYzFPUmJoQ2hOMF9STW5MNUh4SU9iTVoxT1VEXzdRZV9pQmtSQWo?oc=5\" target=\"_blank\">NY weather: Coastal flood advisory issued for Suffolk County for Friday</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SILive.com</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPYjgwTEpfVExYQ3cwTUktTnUwVGhOLW5Fd0dhMEtGZmlicFE5d1dEYzJ4MmNiZlpVWlFSd0k0aDdmOXgtcXZoNWNpdW5YNjBzRzBGUjUwS3VzVEw3clVCbzU5VDFiTzdGZEJjZmlzMG9fUk4zUmlBa2dhcFEtTHdyWmxGMEQ3VHJURmRGb3o1S2NtRlFPNUJsTXRFb0RkenQ5Xy04?oc=5",
+        "date": "2025-12-18",
+        "title": "Another atmospheric river brings major flooding concerns to Oregon, Southwest Washington - Oregon Public Broadcasting - OPB",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPYjgwTEpfVExYQ3cwTUktTnUwVGhOLW5Fd0dhMEtGZmlicFE5d1dEYzJ4MmNiZlpVWlFSd0k0aDdmOXgtcXZoNWNpdW5YNjBzRzBGUjUwS3VzVEw3clVCbzU5VDFiTzdGZEJjZmlzMG9fUk4zUmlBa2dhcFEtTHdyWmxGMEQ3VHJURmRGb3o1S2NtRlFPNUJsTXRFb0RkenQ5Xy04?oc=5\" target=\"_blank\">Another atmospheric river brings major flooding concerns to Oregon, Southwest Washington</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Oregon Public Broadcasting - OPB</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
     }
 ]
