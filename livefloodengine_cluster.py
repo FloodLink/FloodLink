@@ -291,6 +291,40 @@ def load_gfs_grids(forecast_hours):
 
     times = []
     lats, lons = None, None
+
+    # ✅ Match livefloodengine_gfs_export_rainfield.py logic:
+    #    - Parse startStep/endStep per frame (robust to accumulation origin changes)
+    #    - Convert tp units to mm if needed
+    #    - Sort frames by endStep before computing 1h increments
+    frames = []  # (startStep, endStep, apcp_vals_mm, soil_vals, frame_time_utc_naive)
+
+    def _parse_step_range(msg, fallback_end: int):
+        """Return (startStep, endStep) as ints, best-effort."""
+        s = getattr(msg, "startStep", None)
+        e = getattr(msg, "endStep", None)
+
+        try:
+            s_int = int(s) if s is not None else None
+        except Exception:
+            s_int = None
+        try:
+            e_int = int(e) if e is not None else None
+        except Exception:
+            e_int = None
+
+        if s_int is not None and e_int is not None:
+            return s_int, e_int
+
+        sr = getattr(msg, "stepRange", None)
+        if isinstance(sr, str) and "-" in sr:
+            try:
+                a, b = sr.split("-", 1)
+                return int(a), int(b)
+            except Exception:
+                pass
+
+        return 0, int(fallback_end)
+
     soil_ok = True
 
     for fhr in steps_to_download:
@@ -302,7 +336,7 @@ def load_gfs_grids(forecast_hours):
                 continue
 
         grb = pygrib.open(file)
-         
+
         # APCP / Total precipitation (prefer shortName="tp")
         try:
             # 1) Prefer tp directly (most reliable across filtered outputs)
@@ -328,34 +362,247 @@ def load_gfs_grids(forecast_hours):
                 os.remove(file)
                 continue
 
+        # Convert to float32 and normalize units (mm)
+        vals = apcp_msg.values.astype("float32")
 
-        grids["APCP"].append(apcp_msg.values)
+        raw_units = getattr(apcp_msg, "units", None)
+        u = (str(raw_units).strip().lower() if raw_units is not None else "")
+        u_norm = (
+            u.replace("**", "^")
+             .replace("−", "-")
+             .replace(" ", "")
+        )
+
+        is_meters = (u_norm in ("m", "meter", "meters")) or ("mofwaterequivalent" in u_norm)
+        if is_meters:
+            vals *= 1000.0
+
+        is_kg_m2 = ("kg" in u_norm) and (
+            ("m-2" in u_norm) or ("m^-2" in u_norm) or ("m^(-2)" in u_norm) or
+            ("/m^2" in u_norm) or ("/m2" in u_norm)
+        )
+        # kg/m² for liquid water is effectively mm; no conversion required.
+
+        s_step, e_step = _parse_step_range(apcp_msg, fallback_end=fhr)
+
         if lats is None:
             lats, lons = apcp_msg.latlons()
 
-        # SOILW: keep aligned with APCP/times (include baseline if we included it)
+        # SOILW (try to align to the same endStep)
+        soil_vals = None
         if soil_ok:
             try:
-                soil_msg = grb.select(shortName="soilw")[0]
-                grids["SOILW"].append(soil_msg.values)
+                soil_msgs = grb.select(shortName="soilw")
+                soil_msg = next(
+                    (m for m in soil_msgs if int(getattr(m, "endStep", -1)) == int(e_step)),
+                    soil_msgs[0]
+                )
+                soil_vals = soil_msg.values.astype("float32")
             except Exception:
                 soil_ok = False
-                grids["SOILW"] = []
+                soil_vals = None
                 print(f"⚠️ SOILW missing at f{fhr:03d}; disabling soil for this run.")
 
-        # Build valid times ourselves (naive UTC)
-        times.append((use_cycle_dt + timedelta(hours=fhr)).replace(tzinfo=None))
+        # Frame time: use endStep (not loop order) so time alignment stays correct
+        frame_time_utc = (use_cycle_dt + timedelta(hours=int(e_step))).replace(tzinfo=None)
+        frames.append((int(s_step), int(e_step), vals.astype("float32"), soil_vals, frame_time_utc))
 
         grb.close()
         os.remove(file)
 
-    grids["APCP"] = np.stack(grids["APCP"]) if grids["APCP"] else None
-    if soil_ok and grids["SOILW"]:
-        grids["SOILW"] = np.stack(grids["SOILW"])
+    if not frames:
+        return None, None, None, []
+
+    # ✅ FIX: sort frames by endStep so apcp/start/end/times stay aligned even if some downloads were skipped
+    frames.sort(key=lambda x: x[1])
+
+    start_steps = [f[0] for f in frames]
+    end_steps   = [f[1] for f in frames]
+
+    grids["APCP"] = np.stack([f[2] for f in frames]) if frames else None
+    times = [f[4] for f in frames]
+
+    grids["_meta"]["start_steps"] = start_steps
+    grids["_meta"]["end_steps"] = end_steps
+    grids["_meta"]["steps_used"] = end_steps[:]
+
+    # Detect if we truly have a baseline (baseline endStep followed by window start endStep)
+    has_baseline = (
+        baseline_step is not None
+        and len(end_steps) >= 2
+        and end_steps[0] == baseline_step
+        and end_steps[1] == window_steps[0]
+    )
+    grids["_meta"]["has_baseline"] = bool(has_baseline)
+
+    # Compute true 1h increments for EXACTLY the requested window endSteps
+    hourly_rain, hourly_report = compute_hourly_rain_window(
+        apcp=grids["APCP"],
+        start_steps=start_steps,
+        end_steps=end_steps,
+        window_end_steps=window_steps,
+    )
+    grids["RAIN_1H"] = hourly_rain
+    grids["_meta"]["hourly_report"] = hourly_report
+
+    # Window times aligned to window_steps (naive UTC)
+    times_window = [(use_cycle_dt + timedelta(hours=int(h))).replace(tzinfo=None) for h in window_steps]
+    grids["_meta"]["times_window"] = times_window
+
+    # SOILW: build a window-aligned cube (same time axis as RAIN_1H)
+    if soil_ok:
+        soil_by_end = {f[1]: f[3] for f in frames if f[3] is not None}
+        soil_window = []
+        ok = True
+        for h in window_steps:
+            v = soil_by_end.get(int(h))
+            if v is None:
+                ok = False
+                break
+            soil_window.append(v)
+
+        if ok and soil_window:
+            grids["SOILW_WINDOW"] = np.stack(soil_window).astype("float32")
+            grids["SOILW"] = np.stack([f[3] for f in frames]).astype("float32")
+        else:
+            grids["SOILW_WINDOW"] = None
+            grids["SOILW"] = None
     else:
+        grids["SOILW_WINDOW"] = None
         grids["SOILW"] = None
 
     return grids, lats, lons, times
+
+
+
+def compute_hourly_rain_window(
+    apcp: np.ndarray,
+    start_steps: list[int],
+    end_steps: list[int],
+    window_end_steps: list[int],
+):
+    """
+    Convert GFS 'tp' accumulations into true 1-hour increments for the desired window endSteps.
+
+    Returns:
+        hourly_rain: np.array [W, Y, X] mm/hour for each requested endStep in window_end_steps
+        report: list of dicts per requested hour {endStep, quality, method, origin}
+                quality: 2=exact 1h, 0=distributed (approx), -1=missing
+    """
+    if apcp is None or apcp.size == 0:
+        return None, []
+
+    # origin -> { endStep -> vals }
+    origin_map: dict[int, dict[int, np.ndarray]] = {}
+    for i in range(apcp.shape[0]):
+        s = int(start_steps[i])
+        e = int(end_steps[i])
+        origin_map.setdefault(s, {})[e] = apcp[i]
+
+    inc_map: dict[int, np.ndarray] = {}
+    q_map: dict[int, int] = {}           # 0=distributed, 2=exact 1h
+    origin_used: dict[int, int] = {}     # chosen origin for that hour_end
+    method_used: dict[int, str] = {}     # "direct_1h", "delta_1h", "distributed"
+
+    def set_inc(hour_end: int, vals: np.ndarray, quality: int, origin: int, method: str):
+        prev_q = q_map.get(hour_end, -999)
+        if quality > prev_q:
+            inc_map[hour_end] = vals.astype("float32")
+            q_map[hour_end] = quality
+            origin_used[hour_end] = int(origin)
+            method_used[hour_end] = method
+
+    for origin, end_dict in origin_map.items():
+        ends = sorted(end_dict.keys())
+        if not ends:
+            continue
+
+        prev_end = None
+        prev_vals = None
+
+        for end in ends:
+            vals = end_dict[end].astype("float32")
+
+            if prev_end is None:
+                duration = end - origin
+                if duration <= 0:
+                    prev_end, prev_vals = end, vals
+                    continue
+
+                if duration == 1:
+                    # already a true 1h accumulation (origin -> end)
+                    set_inc(end, np.maximum(vals, 0.0), quality=2, origin=origin, method="direct_1h")
+                else:
+                    # no previous frame for this origin -> distribute evenly across the span
+                    per_h = np.maximum(vals, 0.0) / float(duration)
+                    for h in range(origin + 1, end + 1):
+                        set_inc(h, per_h, quality=0, origin=origin, method="distributed")
+
+            else:
+                duration = end - prev_end
+                if duration <= 0:
+                    prev_end, prev_vals = end, vals
+                    continue
+
+                delta = np.maximum(vals - prev_vals, 0.0)
+
+                if duration == 1:
+                    # true 1h increment via differencing
+                    set_inc(end, delta, quality=2, origin=origin, method="delta_1h")
+                else:
+                    # distribute across missing hours (approx)
+                    per_h = delta / float(duration)
+                    for h in range(prev_end + 1, end + 1):
+                        set_inc(h, per_h, quality=0, origin=origin, method="distributed")
+
+            prev_end, prev_vals = end, vals
+
+    # Build output aligned to requested window endSteps
+    W = len(window_end_steps)
+    ny, nx = apcp.shape[1], apcp.shape[2]
+    out = np.zeros((W, ny, nx), dtype="float32")
+
+    report = []
+    missing = []
+    approx = []
+    exact = []
+
+    for i, h in enumerate(window_end_steps):
+        q = q_map.get(h, -1)
+        if h in inc_map:
+            out[i] = inc_map[h]
+        else:
+            missing.append(h)
+
+        entry = {
+            "endStep": int(h),
+            "quality": int(q),
+            "method": method_used.get(h, "missing"),
+            "origin": origin_used.get(h, None),
+        }
+        report.append(entry)
+
+        if q == 2:
+            exact.append(h)
+        elif q == 0:
+            approx.append(h)
+
+    if missing:
+        print(f"⚠ Missing hourly increments for endSteps: {missing} (filled with zeros)")
+
+    # Print a clean quality summary
+    print(f"🧪 Hourly quality: exact={len(exact)}/{W}, approx={len(approx)}/{W}, missing={len(missing)}/{W}")
+    if approx:
+        print(f"   ⚠ Approximated (distributed) endSteps: {approx}")
+    if missing:
+        print(f"   ❌ Missing endSteps: {missing}")
+
+    # Optional: per-hour detail
+    for r in report:
+        qtxt = "EXACT" if r["quality"] == 2 else ("APPROX" if r["quality"] == 0 else "MISSING")
+        print(f"   • endStep={r['endStep']:>3} -> {qtxt:7} | method={r['method']:<11} | origin={r['origin']}")
+
+    return out, report
 
 
 def precompute_city_indices(lats, lons, df):
@@ -526,7 +773,48 @@ def compute_indicators_at_index(grids, times, ilat, ilon):
         soil_avg (0–1),
         peak_dt_local (datetime or None)
     """
-    if grids is None or grids.get("APCP") is None or not times:
+    if grids is None or not times:
+        return 0.0, 0.0, None
+
+    # ✅ Preferred path: use true 1h increments aligned to exactly xN 1h endSteps
+    #    (same logic as livefloodengine_gfs_export_rainfield.py)
+    if grids.get("RAIN_1H") is not None:
+        rain_cube = grids["RAIN_1H"]
+        meta = grids.get("_meta", {})
+        times_window = meta.get("times_window") or []
+
+        W = int(rain_cube.shape[0])
+        if W == 0 or (times_window and len(times_window) < W):
+            return 0.0, 0.0, None
+
+        rain_vals = [float(rain_cube[t, ilat, ilon]) for t in range(W)]
+        rain_sum = float(sum(rain_vals))
+
+        soil_vals = []
+        if grids.get("SOILW_WINDOW") is not None:
+            soil_cube = grids["SOILW_WINDOW"]
+            W2 = min(W, soil_cube.shape[0])
+            for t in range(W2):
+                soil_vals.append(float(soil_cube[t, ilat, ilon]))
+
+        if soil_vals:
+            soil_norm = [min(max(x / 0.6, 0.0), 1.0) for x in soil_vals]
+            soil_avg = sum(soil_norm) / len(soil_norm)
+        else:
+            soil_avg = 0.0
+
+        if rain_vals and any(rain_vals):
+            t_idx = int(np.argmax(rain_vals))
+            peak_dt_utc = (times_window[t_idx] if times_window else times[t_idx]).replace(tzinfo=ZoneInfo("UTC"))
+            tz = ZoneInfo(TIMEZONE)
+            peak_dt_local = peak_dt_utc.astimezone(tz)
+        else:
+            peak_dt_local = None
+
+        return rain_sum, soil_avg, peak_dt_local
+
+    # --- fallback (legacy): derive increments by differencing the downloaded cumulative stack ---
+    if grids.get("APCP") is None:
         return 0.0, 0.0, None
 
     meta = grids.get("_meta", {})
@@ -1236,11 +1524,19 @@ def main():
     meta = grids.get("_meta", {}) if grids else {}
     has_baseline = bool(meta.get("has_baseline", False))
     start_i = 1 if has_baseline else 0
-   
+
     if times and len(times) > start_i:
         tz = ZoneInfo(TIMEZONE)
-        start_utc = times[start_i].replace(tzinfo=ZoneInfo("UTC"))
-        end_utc   = times[-1].replace(tzinfo=ZoneInfo("UTC"))
+
+        # Prefer the window times (xN 1h endSteps) if available
+        times_window = meta.get("times_window") if grids else None
+        if times_window and len(times_window) >= 1:
+            start_utc = times_window[0].replace(tzinfo=ZoneInfo("UTC"))
+            end_utc   = times_window[-1].replace(tzinfo=ZoneInfo("UTC"))
+        else:
+            start_utc = times[start_i].replace(tzinfo=ZoneInfo("UTC"))
+            end_utc   = times[-1].replace(tzinfo=ZoneInfo("UTC"))
+
         print(f"🕒 Window UTC:   {start_utc.strftime('%Y-%m-%d %H:%M')} → {end_utc.strftime('%Y-%m-%d %H:%M')}")
         print(f"🕒 Window local: {start_utc.astimezone(tz).strftime('%Y-%m-%d %H:%M')} → {end_utc.astimezone(tz).strftime('%Y-%m-%d %H:%M')}")
     else:
@@ -1271,7 +1567,7 @@ def main():
                 name = clean_text(row["ETIQUETA"])
             else:
                 name = f"id_{row['JOIN_ID']}"
-               
+
             country = normalize_country(row.get("Country", ""))
             country_flag = clean_text(row.get("CountryFlag", ""))
             region = clean_text(row.get("region", ""))
