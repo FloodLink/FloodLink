@@ -5045,5 +5045,75 @@
             "longitude": -122.58,
             "confidence": 0.85
         }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9zVzRXcGNKZkV3LTFPWEVEbk5ZUWdVZzVfTTM4M0lvMDM1V2Z4T0ZCV2xyRmRzQXM3QS1XbVppSEgzanNHWV8td0RFYTRFUlRQYXJrN19ybkVTekFKd2I2M1VreDRkNWVOQ01IbWJBWEhMQUlYZUhKNEpoZ20?oc=5",
+        "date": "2025-12-19",
+        "title": "UPDATE: Flood warning issued for Wahkiakum County until Friday morning - Bellingham Herald",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE9zVzRXcGNKZkV3LTFPWEVEbk5ZUWdVZzVfTTM4M0lvMDM1V2Z4T0ZCV2xyRmRzQXM3QS1XbVppSEgzanNHWV8td0RFYTRFUlRQYXJrN19ybkVTekFKd2I2M1VreDRkNWVOQ01IbWJBWEhMQUlYZUhKNEpoZ20?oc=5\" target=\"_blank\">UPDATE: Flood warning issued for Wahkiakum County until Friday morning</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bellingham Herald</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOYUVSTEl0X3hTZWhmMkhfSDBYb2FSRTIxbzhpQzUxTmlKZmZNcFBEQmkxVV94QU9pYW9KMmlza0VRZGw3STI4V1FZZWZ6MFpTbFJJLUNCVXV6UDJLX2pnWm9YblpOb2ljcWZqdkJnSENWbnd3Z1B1QTRTbTg3UXphXzZEdEw5eTZwc3FsdVM3MlZObXpublB4QWZ5eG9YRHJZalhsbTRMNTdvRlNlZ0JCT0JmQ1JvLXlCcDNrdnl6OTRSX29HS3cwalVZYlhNREp4ekE?oc=5",
+        "date": "2025-12-19",
+        "title": "Update: Coastal flood advisory affecting Southern Westchester until Friday afternoon - Syracuse.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxOYUVSTEl0X3hTZWhmMkhfSDBYb2FSRTIxbzhpQzUxTmlKZmZNcFBEQmkxVV94QU9pYW9KMmlza0VRZGw3STI4V1FZZWZ6MFpTbFJJLUNCVXV6UDJLX2pnWm9YblpOb2ljcWZqdkJnSENWbnd3Z1B1QTRTbTg3UXphXzZEdEw5eTZwc3FsdVM3MlZObXpublB4QWZ5eG9YRHJZalhsbTRMNTdvRlNlZ0JCT0JmQ1JvLXlCcDNrdnl6OTRSX29HS3cwalVZYlhNREp4ekE?oc=5\" target=\"_blank\">Update: Coastal flood advisory affecting Southern Westchester until Friday afternoon</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Syracuse.com</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOaWFmbTd3R0NMYzRHNVhab3pfckFSbmRrMjlxUVNWc2lpYUtiNm9tVnBPQzNqZ2NtZkQ5bERTWUh1UlJnWjE3dXRBQi1DRGRabGNOdkJROGZweUthZS1nQVFDMExQWnNtd0kzUXZCbnVhQTVPZUZUSDRmLXBGSTlVUVFGNXVwOFNJbWFseGxLRG41dERCOTJDMGdFMWw2WWhYdVh6UENndEVRd2tEdGhnTF9TWnZMUkJrVGZGajVOWGRKUQ?oc=5",
+        "date": "2025-12-19",
+        "title": "NY weather: Coastal flood warning for part of New York until Friday midday - SILive.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxOaWFmbTd3R0NMYzRHNVhab3pfckFSbmRrMjlxUVNWc2lpYUtiNm9tVnBPQzNqZ2NtZkQ5bERTWUh1UlJnWjE3dXRBQi1DRGRabGNOdkJROGZweUthZS1nQVFDMExQWnNtd0kzUXZCbnVhQTVPZUZUSDRmLXBGSTlVUVFGNXVwOFNJbWFseGxLRG41dERCOTJDMGdFMWw2WWhYdVh6UENndEVRd2tEdGhnTF9TWnZMUkJrVGZGajVOWGRKUQ?oc=5\" target=\"_blank\">NY weather: Coastal flood warning for part of New York until Friday midday</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SILive.com</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPejA5NnZ4SnRvRWZ0UExLcGo3elV2bFVkM2RZdUtxVG9zOGQyQmhKUTRrQUN4Q3FVWlJ4WU5KOVBQanJoS2hlX1lFRzhSdkJBdW9Jd1BnQjY5cV9VTnh0QV9XRVVqbXZmN3d2UElXZXJTaUo1b25uemN0eUpKbW1OV29TTk9LcWtXdm9UYllLTlV2blVORy14SHRqYzc0clQ4RHZleDAtZDRKaEtLXzNBNUZNa2ZsQ1REUjd5SUF2dkxIRHhzNUFESTJR?oc=5",
+        "date": "2025-12-19",
+        "title": "NY weather: Coastal flood advisory for Westchester County until Friday afternoon - SILive.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxPejA5NnZ4SnRvRWZ0UExLcGo3elV2bFVkM2RZdUtxVG9zOGQyQmhKUTRrQUN4Q3FVWlJ4WU5KOVBQanJoS2hlX1lFRzhSdkJBdW9Jd1BnQjY5cV9VTnh0QV9XRVVqbXZmN3d2UElXZXJTaUo1b25uemN0eUpKbW1OV29TTk9LcWtXdm9UYllLTlV2blVORy14SHRqYzc0clQ4RHZleDAtZDRKaEtLXzNBNUZNa2ZsQ1REUjd5SUF2dkxIRHhzNUFESTJR?oc=5\" target=\"_blank\">NY weather: Coastal flood advisory for Westchester County until Friday afternoon</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SILive.com</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOVjhPN2NoX3BIang5ckgtRE9TX0J1LW5pbmktNC12ZjBTdjREZE1rSUwtb0RjMDduVGZmc0NJTl9oZ2VTcjNMT0F0WkhvQWxMYjZBcmM2c0MxM1JERklONXEtb05JZmFULXlVRlYzZHZyUGR1YWNwajFLY1YwaUpzUFRKa3RYU3UzSW92NVNJSW9nZnVzODlxOC1MSTl6Y3UzWDNaUXFoaEduZFZnX3M4bWJORGN2LVN5WXIzVlJsN2NORVJNNjh4V3NTX2FFa0E?oc=5",
+        "date": "2025-12-19",
+        "title": "NYC weather: New York City placed under a coastal flood advisory until Friday midday - SILive.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxOVjhPN2NoX3BIang5ckgtRE9TX0J1LW5pbmktNC12ZjBTdjREZE1rSUwtb0RjMDduVGZmc0NJTl9oZ2VTcjNMT0F0WkhvQWxMYjZBcmM2c0MxM1JERklONXEtb05JZmFULXlVRlYzZHZyUGR1YWNwajFLY1YwaUpzUFRKa3RYU3UzSW92NVNJSW9nZnVzODlxOC1MSTl6Y3UzWDNaUXFoaEduZFZnX3M4bWJORGN2LVN5WXIzVlJsN2NORVJNNjh4V3NTX2FFa0E?oc=5\" target=\"_blank\">NYC weather: New York City placed under a coastal flood advisory until Friday midday</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SILive.com</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQVk9FbGt0ZFBwcFZLZ2hOeXpPTlNPSllPMW5VTmhtcW9tNV91VU1hV0FJU0h4RllZWDlUZWtORlFnaUN0aVZ6ZDA2RXc5djBMY0I2SXotTi1WYXJtc1lyd2hkVXR0LVVUU1FlM0ZZNVQ5dHowdWRxTDctdVg4Z1dDb2JST05jMVZMNURXTklLT2RkOTJkaURtZ1BhYWdmLXFSQ3dLaGdDWHlqZG5kTjl4RWZSVnJtN1ZKZWJTQVV3cjctVURCUUZzVS15akQ?oc=5",
+        "date": "2025-12-19",
+        "title": "NY weather: Coastal flood advisory affecting Suffolk County until Friday afternoon - SILive.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxQVk9FbGt0ZFBwcFZLZ2hOeXpPTlNPSllPMW5VTmhtcW9tNV91VU1hV0FJU0h4RllZWDlUZWtORlFnaUN0aVZ6ZDA2RXc5djBMY0I2SXotTi1WYXJtc1lyd2hkVXR0LVVUU1FlM0ZZNVQ5dHowdWRxTDctdVg4Z1dDb2JST05jMVZMNURXTklLT2RkOTJkaURtZ1BhYWdmLXFSQ3dLaGdDWHlqZG5kTjl4RWZSVnJtN1ZKZWJTQVV3cjctVURCUUZzVS15akQ?oc=5\" target=\"_blank\">NY weather: Coastal flood advisory affecting Suffolk County until Friday afternoon</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SILive.com</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPbmJGM3k3NTh1UjVDbC1BbVlYMGhqR1Q5NjVhUGZYVHBRS1RKSk5jRV9RZWJYZExrNW5Sbi05WW1tbmcxTVI1RExGR05lYjh0WUFqUXNCX3ZBaW1oMjVRNHc5X29rXy1QYXY3S1pneHJoczBWcnROOFZzWXFqMTBacy03RFpSTmpodzhSTjJKaHI4YnNaRlhqWFpkdncwQmJ4LW5NeEIzeWVBWmZiRENFcEp4Y3gtYW9mck90NWgxUzhPWnV4ZWwtcV80QmNfRkV3eG9OWW9CSmlLRW9McUxaRHkwMWM4Ykttdy1Ua3VSYmxjdGx1WWfSAfsBQVVfeXFMUDhLUWZtZkl1eDV1aExCTnlNem5mVzVOWnhVbXRCVWs1cTNWcXgzTHBpUW4yVWVBZnpnZTJ0V0tpcll1VEZKMWJGeXYxZkhXZ25CZEtsRFZadFRqR1pYTW1PVVBHb1R2WldtUTAxTTBLa3U4a2JYV0pIQ0xlUGhlVk1wM2thdlVfOEZqd29IcjlJc2RBTk5vUXg0QVBjbFk0R1F1eG5EbXhkeWVDY3R0QUxtTHRzSjNlWmZyd0NvZ2xFajZjc1lFSkNmVkIwVXhaOGRRZmVVTGhrVk5sZ3h5ZkFzN1FJZm84cmFGMjNwblVGT1dUNXZVYXEtOFU?oc=5",
+        "date": "2025-12-19",
+        "title": "Western Oregon, Southwest Washington face flood warnings, landslide alerts, and widespread power outages - The Economic Times",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9gFBVV95cUxPbmJGM3k3NTh1UjVDbC1BbVlYMGhqR1Q5NjVhUGZYVHBRS1RKSk5jRV9RZWJYZExrNW5Sbi05WW1tbmcxTVI1RExGR05lYjh0WUFqUXNCX3ZBaW1oMjVRNHc5X29rXy1QYXY3S1pneHJoczBWcnROOFZzWXFqMTBacy03RFpSTmpodzhSTjJKaHI4YnNaRlhqWFpkdncwQmJ4LW5NeEIzeWVBWmZiRENFcEp4Y3gtYW9mck90NWgxUzhPWnV4ZWwtcV80QmNfRkV3eG9OWW9CSmlLRW9McUxaRHkwMWM4Ykttdy1Ua3VSYmxjdGx1WWfSAfsBQVVfeXFMUDhLUWZtZkl1eDV1aExCTnlNem5mVzVOWnhVbXRCVWs1cTNWcXgzTHBpUW4yVWVBZnpnZTJ0V0tpcll1VEZKMWJGeXYxZkhXZ25CZEtsRFZadFRqR1pYTW1PVVBHb1R2WldtUTAxTTBLa3U4a2JYV0pIQ0xlUGhlVk1wM2thdlVfOEZqd29IcjlJc2RBTk5vUXg0QVBjbFk0R1F1eG5EbXhkeWVDY3R0QUxtTHRzSjNlWmZyd0NvZ2xFajZjc1lFSkNmVkIwVXhaOGRRZmVVTGhrVk5sZ3h5ZkFzN1FJZm84cmFGMjNwblVGT1dUNXZVYXEtOFU?oc=5\" target=\"_blank\">Western Oregon, Southwest Washington face flood warnings, landslide alerts, and widespread power outages</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Economic Times</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
     }
 ]
