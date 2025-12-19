@@ -4911,5 +4911,139 @@
         "score": 4,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOVHVnTUlRSExEZnRILWkwMDIzVUVWMXhGbmJST3AydkNWV1lFTzM5Tm00UVAzTXNKcEIyT25rTk9EaktKZEpyS2s5cDFpX0IwS1FrVUtzYVUwejRpQzBSemN5NGRHMVgzVGZHR2o5SS1wXzhvNEZYaTRHRFgzcUtSbXhSbDNlSVVvQVlhYW9zVTliOGZZZV9PdUFXbkdoekthT2Fwc3Uxck9nQmdPT2I5dzhNZTlnUjZ0T1RabVVwZjc5M3ppNFE?oc=5",
+        "date": "2025-12-19",
+        "title": "Jefferson County placed under a flash flood warning until Friday morning - OregonLive.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxOVHVnTUlRSExEZnRILWkwMDIzVUVWMXhGbmJST3AydkNWV1lFTzM5Tm00UVAzTXNKcEIyT25rTk9EaktKZEpyS2s5cDFpX0IwS1FrVUtzYVUwejRpQzBSemN5NGRHMVgzVGZHR2o5SS1wXzhvNEZYaTRHRFgzcUtSbXhSbDNlSVVvQVlhYW9zVTliOGZZZV9PdUFXbkdoekthT2Fwc3Uxck9nQmdPT2I5dzhNZTlnUjZ0T1RabVVwZjc5M3ppNFE?oc=5\" target=\"_blank\">Jefferson County placed under a flash flood warning until Friday morning</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">OregonLive.com</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQSlB0c0h6dmhfQmFYNXFFTzZ1clJYX2VlMDJZY1ZaZ0tIdXk4MV9HTU1peDRoeHFHakVGWUZwb3BXMUlmeXhISl9sS0RMYjBHZEwzM3lCMHkxcm4yc0VlTTN1SzZ1d2NyZG1UaklVc05jUGdKREY4YVRkUkwxelAyX2g0UFMzLU05MzlYT0ZNVXBYa2QwMlBqVUtLUWxqb3ZsMURWSU9md21WYkZiTHdvOHVpdVdvcVhBczZaWFdSTV96ZnFNY1gxa2JFZnBQRE5raEhac2FZZDJUaWxFQ0pfd2lMODRtSUdHd3A1MA?oc=5",
+        "date": "2025-12-19",
+        "title": "Flash Flood Warning issued December 18 at 10:06PM PST until December 19 at 10:00AM PST by NWS Pendleton OR - KTVZ",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxQSlB0c0h6dmhfQmFYNXFFTzZ1clJYX2VlMDJZY1ZaZ0tIdXk4MV9HTU1peDRoeHFHakVGWUZwb3BXMUlmeXhISl9sS0RMYjBHZEwzM3lCMHkxcm4yc0VlTTN1SzZ1d2NyZG1UaklVc05jUGdKREY4YVRkUkwxelAyX2g0UFMzLU05MzlYT0ZNVXBYa2QwMlBqVUtLUWxqb3ZsMURWSU9md21WYkZiTHdvOHVpdVdvcVhBczZaWFdSTV96ZnFNY1gxa2JFZnBQRE5raEhac2FZZDJUaWxFQ0pfd2lMODRtSUdHd3A1MA?oc=5\" target=\"_blank\">Flash Flood Warning issued December 18 at 10:06PM PST until December 19 at 10:00AM PST by NWS Pendleton OR</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KTVZ</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": null,
+        "tweet_id": "2001910319291974013",
+        "geo": {
+            "country": "United States",
+            "name": "Pendleton, Oregon",
+            "latitude": 45.6722,
+            "longitude": -118.7886,
+            "confidence": 0.8
+        }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOUnAta1Q2WHNnMDk1WWhpSkQ2UUZvWVd5Vl9kVnpkMlBnbklrQnJBRVJaUm1lUXlFMkljaXRXSWVhUHRYZjFjRzJ4djVvZE9ZTFhtYVA2Z2o1amhDYVAtcDlzYkRvUHhtZmU4bFdsYVNOX2hnNXplS1RGZWVEVkwzQTRwd2pLZU45TDUzMTkweUlMczlGdEhPcHhiaS05UE00TjVMTGUzWlg3Uk02TmRVY0xNUktzLVVLeFNDRkp0YVpVUTF5?oc=5",
+        "date": "2025-12-19",
+        "title": "Live: 22 Oregon rivers and creeks under flood warning as rivers rise - Statesman Journal",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxOUnAta1Q2WHNnMDk1WWhpSkQ2UUZvWVd5Vl9kVnpkMlBnbklrQnJBRVJaUm1lUXlFMkljaXRXSWVhUHRYZjFjRzJ4djVvZE9ZTFhtYVA2Z2o1amhDYVAtcDlzYkRvUHhtZmU4bFdsYVNOX2hnNXplS1RGZWVEVkwzQTRwd2pLZU45TDUzMTkweUlMczlGdEhPcHhiaS05UE00TjVMTGUzWlg3Uk02TmRVY0xNUktzLVVLeFNDRkp0YVpVUTF5?oc=5\" target=\"_blank\">Live: 22 Oregon rivers and creeks under flood warning as rivers rise</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Statesman Journal</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5rNHVDT0tFeXFYc2N3WjFXWmE4aUJtM1JGWTFjNlZPTUVRX184VHp2X1ctTWJSQ0RqWk9BZW43M0E1YUxHQ3FTeGdHWDMxMk5VQ2p6SUJvVS1jOEJ3X2xFay1yQjRTQkh2NE1QYS1fRlBZakdZQjRtRENn?oc=5",
+        "date": "2025-12-19",
+        "title": "UPDATE: Flood warning issued for Wahkiakum County until Friday morning - Tacoma News Tribune",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE5rNHVDT0tFeXFYc2N3WjFXWmE4aUJtM1JGWTFjNlZPTUVRX184VHp2X1ctTWJSQ0RqWk9BZW43M0E1YUxHQ3FTeGdHWDMxMk5VQ2p6SUJvVS1jOEJ3X2xFay1yQjRTQkh2NE1QYS1fRlBZakdZQjRtRENn?oc=5\" target=\"_blank\">UPDATE: Flood warning issued for Wahkiakum County until Friday morning</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tacoma News Tribune</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPUFdNVFZTSUY2ZHVtRGQ4VFBPNGVxdEhJcW5tTGozVHc0dE9NU1c5bGhlVy1hSERveEFrMzlYeUxleXVMVjFLajVhUUQ1RUlmbWVrbWtpZFlvTk82M09qdXRFNUFCTDBzRDdSbWdfcVlla2ZfVXEtWnVhd2t4YktpX2d0dWJXNjJRaEN6NmN1NFo4RzNoS1ZOLUt1d1htM3FWb0VuRVlEUzVocW9tR2FaQVE3UUs3a2RjcWsyVEVKQ3pWS1lfcmg3RGJBNUc2TnB6UWptZ2FCckJxZnlETVE?oc=5",
+        "date": "2025-12-19",
+        "title": "Flood warning issued for Deschutes County until Friday morning due to persistent downpours - OregonLive.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxPUFdNVFZTSUY2ZHVtRGQ4VFBPNGVxdEhJcW5tTGozVHc0dE9NU1c5bGhlVy1hSERveEFrMzlYeUxleXVMVjFLajVhUUQ1RUlmbWVrbWtpZFlvTk82M09qdXRFNUFCTDBzRDdSbWdfcVlla2ZfVXEtWnVhd2t4YktpX2d0dWJXNjJRaEN6NmN1NFo4RzNoS1ZOLUt1d1htM3FWb0VuRVlEUzVocW9tR2FaQVE3UUs3a2RjcWsyVEVKQ3pWS1lfcmg3RGJBNUc2TnB6UWptZ2FCckJxZnlETVE?oc=5\" target=\"_blank\">Flood warning issued for Deschutes County until Friday morning due to persistent downpours</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">OregonLive.com</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxON0V3dUlRNXB3Mm83bUtWMmlSTm4yWVJTVTJUR0ZVNGI3UXZ1VGJGMS1JUE9ZUG8xVUdlbFdLeE82ajR2TmliRVhmc0dlbUxuT1dNUk5FeGZ2OHd2Ui1SWThzY21zRHlQQkYwN2I2ZFkwNTdNN0Q5TUpyU28xem5mNE1JbExIdHZvODZudHdvM041elJHRGNMUXR0RjBaRm9zMzkwMnFySnZXSVNwd1RuVUdJUDNndUstYVRPVWd0N3hPbGJQVWFRQnV5eUlXTnNLeXMwN1JnNnluWG9xN0dTZ2NZNFk?oc=5",
+        "date": "2025-12-19",
+        "title": "Flood Warning issued December 18 at 10:36PM PST until December 19 at 10:00AM PST by NWS Pendleton OR - KTVZ",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxON0V3dUlRNXB3Mm83bUtWMmlSTm4yWVJTVTJUR0ZVNGI3UXZ1VGJGMS1JUE9ZUG8xVUdlbFdLeE82ajR2TmliRVhmc0dlbUxuT1dNUk5FeGZ2OHd2Ui1SWThzY21zRHlQQkYwN2I2ZFkwNTdNN0Q5TUpyU28xem5mNE1JbExIdHZvODZudHdvM041elJHRGNMUXR0RjBaRm9zMzkwMnFySnZXSVNwd1RuVUdJUDNndUstYVRPVWd0N3hPbGJQVWFRQnV5eUlXTnNLeXMwN1JnNnluWG9xN0dTZ2NZNFk?oc=5\" target=\"_blank\">Flood Warning issued December 18 at 10:36PM PST until December 19 at 10:00AM PST by NWS Pendleton OR</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KTVZ</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNMGxmVTZtbGt2Rnl1Ty1vQjdhYzdFMDdQdzA5WC1hVlpOc1R6MkNsSDc2VnMxNUJ5aGJ1ZzdoWVEwVDRJcDM2NkhfTGQzUUhDLVlTMS1fQUYyMGZrMFZvLUVoMmRUWVB6QVpBcUp6YmdLZmtlRVotOXVDTEJuSTdBLTZ1U2Z6WTFrZXNQR2xCSll3UWFaNy1rWUU4aUJFUm5tS1Z4NlFNdTl0UXRsd3NB?oc=5",
+        "date": "2025-12-19",
+        "title": "NYC weather: Coastal flood advisory for Manhattan for Friday - SILive.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxNMGxmVTZtbGt2Rnl1Ty1vQjdhYzdFMDdQdzA5WC1hVlpOc1R6MkNsSDc2VnMxNUJ5aGJ1ZzdoWVEwVDRJcDM2NkhfTGQzUUhDLVlTMS1fQUYyMGZrMFZvLUVoMmRUWVB6QVpBcUp6YmdLZmtlRVotOXVDTEJuSTdBLTZ1U2Z6WTFrZXNQR2xCSll3UWFaNy1rWUU4aUJFUm5tS1Z4NlFNdTl0UXRsd3NB?oc=5\" target=\"_blank\">NYC weather: Coastal flood advisory for Manhattan for Friday</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SILive.com</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOUk81MjBTaDlnaV8wam0xODM1RWFSTE0wOVQ5dDlDMkhSNEdjUjFXM296SWhwM1RGX29GaWlYV2ZjMXpkdHJ3TWRZVFlBYTY2NjhIaVNNWnFMUjBITzlBNjl1NVlTUFNzUDBnVWp6VkowZUUxNkFUbXdBYm5KRjVwUmdxNUhvSXJpVlJidmVMMTNUb05tRmJrUlZSSDloakJuTG9QN0dkY25mVXRtejQ4ZU5KZmN6NFREYUhsWE9XUHRaQ3RleEhORTFTRVp0OE9VWEdXa0NkRk9POUpnZVJIZmoxN2wxVXlQQjlXdUYtUVJpSUh6UGpjQk1oQlk?oc=5",
+        "date": "2025-12-19",
+        "title": "Flood warning issued for Johnson River, sending residents scrambling to prepare - KGW",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_AFBVV95cUxOUk81MjBTaDlnaV8wam0xODM1RWFSTE0wOVQ5dDlDMkhSNEdjUjFXM296SWhwM1RGX29GaWlYV2ZjMXpkdHJ3TWRZVFlBYTY2NjhIaVNNWnFMUjBITzlBNjl1NVlTUFNzUDBnVWp6VkowZUUxNkFUbXdBYm5KRjVwUmdxNUhvSXJpVlJidmVMMTNUb05tRmJrUlZSSDloakJuTG9QN0dkY25mVXRtejQ4ZU5KZmN6NFREYUhsWE9XUHRaQ3RleEhORTFTRVp0OE9VWEdXa0NkRk9POUpnZVJIZmoxN2wxVXlQQjlXdUYtUVJpSUh6UGpjQk1oQlk?oc=5\" target=\"_blank\">Flood warning issued for Johnson River, sending residents scrambling to prepare</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KGW</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": null,
+        "tweet_id": "2001910867256864771",
+        "geo": {
+            "country": "United States",
+            "name": "Johnson River, Oregon",
+            "latitude": 45.48,
+            "longitude": -122.58,
+            "confidence": 0.85
+        }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQSlB0c0h6dmhfQmFYNXFFTzZ1clJYX2VlMDJZY1ZaZ0tIdXk4MV9HTU1peDRoeHFHakVGWUZwb3BXMUlmeXhISl9sS0RMYjBHZEwzM3lCMHkxcm4yc0VlTTN1SzZ1d2NyZG1UaklVc05jUGdKREY4YVRkUkwxelAyX2g0UFMzLU05MzlYT0ZNVXBYa2QwMlBqVUtLUWxqb3ZsMURWSU9md21WYkZiTHdvOHVpdVdvcVhBczZaWFdSTV96ZnFNY1gxa2JFZnBQRE5raEhac2FZZDJUaWxFQ0pfd2lMODRtSUdHd3A1MA?oc=5",
+        "date": "2025-12-19",
+        "title": "Flash Flood Warning issued December 18 at 10:06PM PST until December 19 at 10:00AM PST by NWS Pendleton OR - KTVZ",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxQSlB0c0h6dmhfQmFYNXFFTzZ1clJYX2VlMDJZY1ZaZ0tIdXk4MV9HTU1peDRoeHFHakVGWUZwb3BXMUlmeXhISl9sS0RMYjBHZEwzM3lCMHkxcm4yc0VlTTN1SzZ1d2NyZG1UaklVc05jUGdKREY4YVRkUkwxelAyX2g0UFMzLU05MzlYT0ZNVXBYa2QwMlBqVUtLUWxqb3ZsMURWSU9md21WYkZiTHdvOHVpdVdvcVhBczZaWFdSTV96ZnFNY1gxa2JFZnBQRE5raEhac2FZZDJUaWxFQ0pfd2lMODRtSUdHd3A1MA?oc=5\" target=\"_blank\">Flash Flood Warning issued December 18 at 10:06PM PST until December 19 at 10:00AM PST by NWS Pendleton OR</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KTVZ</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 FORECAST Eastern Oregon: Flash flood warning until 10AM Dec 19; life-threatening flooding from heavy rain possible (NWS Pendleton)",
+        "type": "news",
+        "tweet_id": "2001910319291974013",
+        "geo": {
+            "country": "United States",
+            "name": "Pendleton, Oregon",
+            "latitude": 45.6722,
+            "longitude": -118.7886,
+            "confidence": 0.8
+        }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOUk81MjBTaDlnaV8wam0xODM1RWFSTE0wOVQ5dDlDMkhSNEdjUjFXM296SWhwM1RGX29GaWlYV2ZjMXpkdHJ3TWRZVFlBYTY2NjhIaVNNWnFMUjBITzlBNjl1NVlTUFNzUDBnVWp6VkowZUUxNkFUbXdBYm5KRjVwUmdxNUhvSXJpVlJidmVMMTNUb05tRmJrUlZSSDloakJuTG9QN0dkY25mVXRtejQ4ZU5KZmN6NFREYUhsWE9XUHRaQ3RleEhORTFTRVp0OE9VWEdXa0NkRk9POUpnZVJIZmoxN2wxVXlQQjlXdUYtUVJpSUh6UGpjQk1oQlk?oc=5",
+        "date": "2025-12-19",
+        "title": "Flood warning issued for Johnson River, sending residents scrambling to prepare - KGW",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_AFBVV95cUxOUk81MjBTaDlnaV8wam0xODM1RWFSTE0wOVQ5dDlDMkhSNEdjUjFXM296SWhwM1RGX29GaWlYV2ZjMXpkdHJ3TWRZVFlBYTY2NjhIaVNNWnFMUjBITzlBNjl1NVlTUFNzUDBnVWp6VkowZUUxNkFUbXdBYm5KRjVwUmdxNUhvSXJpVlJidmVMMTNUb05tRmJrUlZSSDloakJuTG9QN0dkY25mVXRtejQ4ZU5KZmN6NFREYUhsWE9XUHRaQ3RleEhORTFTRVp0OE9VWEdXa0NkRk9POUpnZVJIZmoxN2wxVXlQQjlXdUYtUVJpSUh6UGpjQk1oQlk?oc=5\" target=\"_blank\">Flood warning issued for Johnson River, sending residents scrambling to prepare</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KGW</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 FORECAST Johnson River: Flood warning issued, residents scrambling to prepare for potential flooding. (KGW)",
+        "type": "news",
+        "tweet_id": "2001910867256864771",
+        "geo": {
+            "country": "United States",
+            "name": "Johnson River, Oregon",
+            "latitude": 45.48,
+            "longitude": -122.58,
+            "confidence": 0.85
+        }
     }
 ]
