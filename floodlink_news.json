@@ -5283,5 +5283,15 @@
         "score": 3,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE02NVUtQUlhWGd5eWdzMFJWWXoxTmhSVDRNTUEzaGc5cThBTkhqT0hqdmxUdVc5UHJESzdJTmRtS1pjbjdOZjdqY2pwR0RpNnpWZERVV0dXRHRBQdIBX0FVX3lxTE4tYVpISVNXNXR4c1BFYjI4a2hsRHRKRUFGN1RCcFVRdHJWamNUb213N0c0cUE2bk5RVmt1UUZSZVptZFRLel9DcFprVGRkaWxNZ002aVBSY0VmanJoMHNB?oc=5",
+        "date": "2025-12-19",
+        "title": "Flood warnings across south of England as river levels rise - BBC",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE02NVUtQUlhWGd5eWdzMFJWWXoxTmhSVDRNTUEzaGc5cThBTkhqT0hqdmxUdVc5UHJESzdJTmRtS1pjbjdOZjdqY2pwR0RpNnpWZERVV0dXRHRBQdIBX0FVX3lxTE4tYVpISVNXNXR4c1BFYjI4a2hsRHRKRUFGN1RCcFVRdHJWamNUb213N0c0cUE2bk5RVmt1UUZSZVptZFRLel9DcFprVGRkaWxNZ002aVBSY0VmanJoMHNB?oc=5\" target=\"_blank\">Flood warnings across south of England as river levels rise</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
     }
 ]
