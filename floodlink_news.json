@@ -5144,5 +5144,14 @@
         "score": 0,
         "status": "skipped",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2025-12-19",
+        "status": "posted",
+        "tweet": "Global flood early warning coverage (2025 projections): % of at-risk population protected from floods/flash floods/storm surge/extreme rain.\n\n1. \ud83c\uddef\ud83c\uddf5 Japan: 98%\n2. \ud83c\uddf3\ud83c\uddf1 Netherlands: 96%\n3. \ud83c\uddfa\ud83c\uddf8 USA: 82%\n4. \ud83c\udde9\ud83c\uddea Germany: 79%\n5. \ud83c\uddf0\ud83c\uddf7 South Korea: 76%",
+        "type": "statistical",
+        "category": "coverage of flood early warning systems worldwide",
+        "tweet_id": "2001973365465088359"
     }
 ]
