@@ -5253,5 +5253,35 @@
         "score": 6,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOa2pGVHZSLTF0MF9hazd6Nnppa2xQZTRvS2kyRkhjUzRianVORTVPZzlqNG9hRzVaUl9aNU1UVk9FLWV5cjJCU0lpUnQ1WHFpS3ZTRi1LUS1SbnU5RUliMDRieDNRalktaUpGOU9scnlkeG1OUHRCbnlZb0lOTzVHOGJYTHZXclJ6UFRvRXM4dnlPMlZJZ0VWRWxMTk9VVlp0U19McVoxQm5hS1VaVWc?oc=5",
+        "date": "2025-12-19",
+        "title": "Flood Warning on Friday for Moscow - KXLY.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxOa2pGVHZSLTF0MF9hazd6Nnppa2xQZTRvS2kyRkhjUzRianVORTVPZzlqNG9hRzVaUl9aNU1UVk9FLWV5cjJCU0lpUnQ1WHFpS3ZTRi1LUS1SbnU5RUliMDRieDNRalktaUpGOU9scnlkeG1OUHRCbnlZb0lOTzVHOGJYTHZXclJ6UFRvRXM4dnlPMlZJZ0VWRWxMTk9VVlp0U19McVoxQm5hS1VaVWc?oc=5\" target=\"_blank\">Flood Warning on Friday for Moscow</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KXLY.com</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBWNmZsbGVEWmdNYnpXekhzNGhKZHVFSlJBMkFVTWhFVGU0emh2UmlLQzJHYlFveWlFc1B4aDN4WXRxYjRwb1lIS2UtZkQtTmNJTmxKNGU3aGJIT05SWjlrZUFjUEdsVUlDTkxIWVdfUzNHaFY2V0E?oc=5",
+        "date": "2025-12-19",
+        "title": "Coastal flood advisory affecting San Juan County until Friday morning - The Olympian",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTFBWNmZsbGVEWmdNYnpXekhzNGhKZHVFSlJBMkFVTWhFVGU0emh2UmlLQzJHYlFveWlFc1B4aDN4WXRxYjRwb1lIS2UtZkQtTmNJTmxKNGU3aGJIT05SWjlrZUFjUEdsVUlDTkxIWVdfUzNHaFY2V0E?oc=5\" target=\"_blank\">Coastal flood advisory affecting San Juan County until Friday morning</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Olympian</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxONTd6WjdSdkxyelo5UWYtYW9aS3BtREt6U3ZvR1E5OHBHYlp2a3RvQlFEQlNnZkFDaktZX1VPcUJ4M1BBLWdpZjFKb1dyOWdRa28wVTFXQldmZ053V0VWYmtoaUYtZDYzdFcyY1EySHJmVDROUmh5S3NYVjdrYTR6NHN5aWYxSzJGckpENVp2TkdpSXBDY1ppVDJrakltNlU?oc=5",
+        "date": "2025-12-19",
+        "title": "Cyclone 93S Brings Rain to Greater Jakarta Over the Past Two Days - Tempo.co English",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxONTd6WjdSdkxyelo5UWYtYW9aS3BtREt6U3ZvR1E5OHBHYlp2a3RvQlFEQlNnZkFDaktZX1VPcUJ4M1BBLWdpZjFKb1dyOWdRa28wVTFXQldmZ053V0VWYmtoaUYtZDYzdFcyY1EySHJmVDROUmh5S3NYVjdrYTR6NHN5aWYxSzJGckpENVp2TkdpSXBDY1ppVDJrakltNlU?oc=5\" target=\"_blank\">Cyclone 93S Brings Rain to Greater Jakarta Over the Past Two Days</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tempo.co English</font>",
+        "similarity_excluded": "No",
+        "score": 3,
+        "status": "processed",
+        "tweet": null
     }
 ]
