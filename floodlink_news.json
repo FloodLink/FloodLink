@@ -5115,5 +5115,14 @@
         "score": 8,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2025-12-19",
+        "status": "posted",
+        "tweet": "Top dense cities facing rising pluvial flood risks from extreme rainfall by 2030 (projections based on 2020-25 trends):\n\n1. Mumbai \ud83c\uddee\ud83c\uddf3: 40% pop exposed, $10B annual losses\n2. Shanghai \ud83c\udde8\ud83c\uddf3: 35% exposed, 15M at risk\n3. New York \ud83c\uddfa\ud83c\uddf8: 25% exposed, $5B in 2021 Ida floods\n4. Lagos \ud83c\uddf3\ud83c\uddec: 50%",
+        "type": "statistical",
+        "category": "pluvial (surface) flooding in dense cities",
+        "tweet_id": "2001954212448546826"
     }
 ]
