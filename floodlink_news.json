@@ -5421,5 +5421,42 @@
         "type": "statistical",
         "category": "pluvial (surface) flooding in dense cities",
         "tweet_id": "2002346229200535704"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMUZEUlVHRTk4MjRCanRQVFNfM0dKMXhCSWlRUHlKelp2T20tV1l3TDVRZEhHa3NBQU11X3M5NGg5ZkJsdFpzWEM5QV9YREJfTC02UDR0NEdyUmtBV0hwUVlfR0NUWUJ6cTNyZEVVM3l4djladjlFQnNqMEtpeUhJYldZUmszVkhjaTBsUXEwZmlwZTlv0gGaAUFVX3lxTE9xWTBRY29NRVB1ZE8zbWdyUDU4eVE2U1RtSS1ISFhwOWRjVUp4Y3JEUEV0LW9TRUFWallwMEVMZGhad2dTY2lPbEhHTTgtNkJJS0hPdmt0NWtMRGFPZjZLNjRHc1NhUEFyTGtYRjVwQW9pVzBFTGN4d0NOQkVNdzdyT3M5UzNlV0FBaE8zVWRnWFdrcVdFdG9jelE?oc=5",
+        "date": "2025-12-20",
+        "title": "Man drowns after car is swept away by floodwaters in Oregon - FOX Weather",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQMUZEUlVHRTk4MjRCanRQVFNfM0dKMXhCSWlRUHlKelp2T20tV1l3TDVRZEhHa3NBQU11X3M5NGg5ZkJsdFpzWEM5QV9YREJfTC02UDR0NEdyUmtBV0hwUVlfR0NUWUJ6cTNyZEVVM3l4djladjlFQnNqMEtpeUhJYldZUmszVkhjaTBsUXEwZmlwZTlv0gGaAUFVX3lxTE9xWTBRY29NRVB1ZE8zbWdyUDU4eVE2U1RtSS1ISFhwOWRjVUp4Y3JEUEV0LW9TRUFWallwMEVMZGhad2dTY2lPbEhHTTgtNkJJS0hPdmt0NWtMRGFPZjZLNjRHc1NhUEFyTGtYRjVwQW9pVzBFTGN4d0NOQkVNdzdyT3M5UzNlV0FBaE8zVWRnWFdrcVdFdG9jelE?oc=5\" target=\"_blank\">Man drowns after car is swept away by floodwaters in Oregon</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FOX Weather</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": null,
+        "tweet_id": "2002411704588890355",
+        "geo": {
+            "country": "United States",
+            "name": "Oregon",
+            "latitude": 43.8041,
+            "longitude": -120.5542,
+            "confidence": 1.0
+        }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMUZEUlVHRTk4MjRCanRQVFNfM0dKMXhCSWlRUHlKelp2T20tV1l3TDVRZEhHa3NBQU11X3M5NGg5ZkJsdFpzWEM5QV9YREJfTC02UDR0NEdyUmtBV0hwUVlfR0NUWUJ6cTNyZEVVM3l4djladjlFQnNqMEtpeUhJYldZUmszVkhjaTBsUXEwZmlwZTlv0gGaAUFVX3lxTE9xWTBRY29NRVB1ZE8zbWdyUDU4eVE2U1RtSS1ISFhwOWRjVUp4Y3JEUEV0LW9TRUFWallwMEVMZGhad2dTY2lPbEhHTTgtNkJJS0hPdmt0NWtMRGFPZjZLNjRHc1NhUEFyTGtYRjVwQW9pVzBFTGN4d0NOQkVNdzdyT3M5UzNlV0FBaE8zVWRnWFdrcVdFdG9jelE?oc=5",
+        "date": "2025-12-20",
+        "title": "Man drowns after car is swept away by floodwaters in Oregon - FOX Weather",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQMUZEUlVHRTk4MjRCanRQVFNfM0dKMXhCSWlRUHlKelp2T20tV1l3TDVRZEhHa3NBQU11X3M5NGg5ZkJsdFpzWEM5QV9YREJfTC02UDR0NEdyUmtBV0hwUVlfR0NUWUJ6cTNyZEVVM3l4djladjlFQnNqMEtpeUhJYldZUmszVkhjaTBsUXEwZmlwZTlv0gGaAUFVX3lxTE9xWTBRY29NRVB1ZE8zbWdyUDU4eVE2U1RtSS1ISFhwOWRjVUp4Y3JEUEV0LW9TRUFWallwMEVMZGhad2dTY2lPbEhHTTgtNkJJS0hPdmt0NWtMRGFPZjZLNjRHc1NhUEFyTGtYRjVwQW9pVzBFTGN4d0NOQkVNdzdyT3M5UzNlV0FBaE8zVWRnWFdrcVdFdG9jelE?oc=5\" target=\"_blank\">Man drowns after car is swept away by floodwaters in Oregon</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FOX Weather</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 POST-EVENT Oregon: Man drowns after car swept away by floodwaters. via FOX Weather",
+        "type": "news",
+        "tweet_id": "2002411704588890355",
+        "geo": {
+            "country": "United States",
+            "name": "Oregon",
+            "latitude": 43.8041,
+            "longitude": -120.5542,
+            "confidence": 1.0
+        }
     }
 ]
