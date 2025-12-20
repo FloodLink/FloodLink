@@ -5458,5 +5458,15 @@
             "longitude": -120.5542,
             "confidence": 1.0
         }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPcDRKS2RLVTdzbWZnS3lhVVp6aFkxNVBIT1lwVHZZZ1NPNS1McXowaU1tYnRma3ZkZ1F2RS1YdVhaWmJyX1R5dVN5UEotNVJvb1hVYXR6YVVDRkxuMGVEVllPSjVxaHFmSXNpY0Nnc0JDSEpFaUhTYkQxbEJ2dXhuVFFoTzF2UzBlTElR?oc=5",
+        "date": "2025-12-20",
+        "title": "Storm forecast prompts flood warning for region - Oakdale Leader",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxPcDRKS2RLVTdzbWZnS3lhVVp6aFkxNVBIT1lwVHZZZ1NPNS1McXowaU1tYnRma3ZkZ1F2RS1YdVhaWmJyX1R5dVN5UEotNVJvb1hVYXR6YVVDRkxuMGVEVllPSjVxaHFmSXNpY0Nnc0JDSEpFaUhTYkQxbEJ2dXhuVFFoTzF2UzBlTElR?oc=5\" target=\"_blank\">Storm forecast prompts flood warning for region</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Oakdale Leader</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
     }
 ]
