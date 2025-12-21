@@ -5720,5 +5720,55 @@
             "longitude": -79.0558,
             "confidence": 0.95
         }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMThkcEZiZjgyS25VdzhBQnFZdHIxNmhPVURpVDY1UGxfNDYwc3NJdV9YZEdZOENTaFlGMTB3YXBKYjdpandvNll0TlhVOXd1eGZHdldDdmd2SHowZ3FKLWJIR2FFZXpmYS1EQ0RnMjIzNkNqNmpxRjhUZkV0M2swVmdHOERTTU03RDFycEFOSng1cUlOZEt4RkhweGlLSzF3bVZvVEZfcjRCNVBvWHR6cm1ZMA?oc=5",
+        "date": "2025-12-21",
+        "title": "Heavy rain floods Redding roads; stranded vehicles prompt countywide safety warnings - KRCR",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNMThkcEZiZjgyS25VdzhBQnFZdHIxNmhPVURpVDY1UGxfNDYwc3NJdV9YZEdZOENTaFlGMTB3YXBKYjdpandvNll0TlhVOXd1eGZHdldDdmd2SHowZ3FKLWJIR2FFZXpmYS1EQ0RnMjIzNkNqNmpxRjhUZkV0M2swVmdHOERTTU03RDFycEFOSng1cUlOZEt4RkhweGlLSzF3bVZvVEZfcjRCNVBvWHR6cm1ZMA?oc=5\" target=\"_blank\">Heavy rain floods Redding roads; stranded vehicles prompt countywide safety warnings</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KRCR</font>",
+        "similarity_excluded": "No",
+        "score": 6,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1KQjlVak9qNmV4M1gtQV9pdmpyejh3a0NROFBYWVpMcDhibjUwTHM1SHc4TFk2QUNGYXM1V1lubm1rWHFmT29tb3hBMGp5U0ZSMEtYY0g2dGdFbDc4bmExX05pMkdqdElnYk8wd2pzMA?oc=5",
+        "date": "2025-12-21",
+        "title": "UPDATE: Flood warning issued for Mendocino County until 3 a.m. Monday, says the NWS - Modesto Bee",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE1KQjlVak9qNmV4M1gtQV9pdmpyejh3a0NROFBYWVpMcDhibjUwTHM1SHc4TFk2QUNGYXM1V1lubm1rWHFmT29tb3hBMGp5U0ZSMEtYY0g2dGdFbDc4bmExX05pMkdqdElnYk8wd2pzMA?oc=5\" target=\"_blank\">UPDATE: Flood warning issued for Mendocino County until 3 a.m. Monday, says the NWS</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Modesto Bee</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOd1dLbUNpVzVQT3hkaHUxOEVVUHpTdGlCcHQ1SzgtLURLbndRakVNX0RKYS0yNW1WaXVBMXZTVk9vUmZmaVdXNjVZVFhBeGlkVmhhdzg4Q0JubjY2dF90RzRXZ3ZwUzVfNEpSYlRKcUpuNVBWUGJZWXhzR0llc21pUzBjODU0MVlVX1pvSkFkd0RMc0ZGaFJNTnZaRDJBMFdrVXN0U0VYcTFNcVA2YTNBaXd3WHBfQkE4UnN2ZG11R2nSAcYBQVVfeXFMTXFCb1RZSUhId0NKN29iWDc3ajMwMHVFVzJZZm52SWNaRmtCbnJFdUhBeFRYNnlwV1BmV3VYbDdZd3RfOUtzUUp5djUyejQ2LWtfVVdjUS1NVnpHd0lRcUVyVzhnMUZtamxaR21yZGt5YlRlQTg3OXZDeF9wNkNQVXJKSl9uRGx3XzRZQW9vdHZZbjRnQl9ZZFB0WkVwajhqNEkyWkZ4MUFRYlhzQTFncTBJMkFPSDZZMTNzZkxsNjE3ZnN0aUlR?oc=5",
+        "date": "2025-12-21",
+        "title": "Flood watch in place for Delta until early Friday evening caused by heavy rainfall - East Bay Times",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxOd1dLbUNpVzVQT3hkaHUxOEVVUHpTdGlCcHQ1SzgtLURLbndRakVNX0RKYS0yNW1WaXVBMXZTVk9vUmZmaVdXNjVZVFhBeGlkVmhhdzg4Q0JubjY2dF90RzRXZ3ZwUzVfNEpSYlRKcUpuNVBWUGJZWXhzR0llc21pUzBjODU0MVlVX1pvSkFkd0RMc0ZGaFJNTnZaRDJBMFdrVXN0U0VYcTFNcVA2YTNBaXd3WHBfQkE4UnN2ZG11R2nSAcYBQVVfeXFMTXFCb1RZSUhId0NKN29iWDc3ajMwMHVFVzJZZm52SWNaRmtCbnJFdUhBeFRYNnlwV1BmV3VYbDdZd3RfOUtzUUp5djUyejQ2LWtfVVdjUS1NVnpHd0lRcUVyVzhnMUZtamxaR21yZGt5YlRlQTg3OXZDeF9wNkNQVXJKSl9uRGx3XzRZQW9vdHZZbjRnQl9ZZFB0WkVwajhqNEkyWkZ4MUFRYlhzQTFncTBJMkFPSDZZMTNzZkxsNjE3ZnN0aUlR?oc=5\" target=\"_blank\">Flood watch in place for Delta until early Friday evening caused by heavy rainfall</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">East Bay Times</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNcGRpdEVSNXhUckE0UzFjWm5GaTdZVEt4ZjB0SGdpVFQ0Tkt0ZUpBSEc4VE9QMGpUMURySFJobVcwSVo2MzdNUVFpTEQzVWtHVVBka1pxMG9BbmlCZHB3VU16SzZER1JRVllkdk5mcE5CNGpIeF83NDYxRDdGNXJkUWFidU9vUC1oYnprZVVJNzJ2NmJRRTdHNHpJNlZGc0lrZkFpdFdMbG8tUVhtaFpyNUVFV1pETmdabGhob0RmYWlXNjlyOC16RmpsbUFDbjZIZG9Gb2Zka3NVZ2PSAeABQVVfeXFMUFlneDd1am9YTUZsNXNBdlo4UTVla0NmRjM3anpRamF3cmpZRElkeG9UYmdNLTFTQ3diWHJHdDFRS3d4dmJxd0VGVWJDZDR0d2ZTOWNVWlhRRTlaZFJlTlZjSllPdFdtSjZmM1Z3SkZ1SFU0cVo2Z09Qd3V0M1hzNmxUdXlBNVRBMVZTdDhlRmNZLTFXWnAzTEtYM3lRSEszZ0lkZ0wxQ3ZYN1EtMzRJaHJ3M3R4ZW1rNGhuT3JQaW1jRFBvSGNkVnlxbjlDTWpWQ2VWSm5tVkZaZXJHQTR6WEg?oc=5",
+        "date": "2025-12-21",
+        "title": "Flood watch issued for the Greater Lake Tahoe Area and Lassen-Eastern Plumas-Eastern Sierra counties - East Bay Times",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxNcGRpdEVSNXhUckE0UzFjWm5GaTdZVEt4ZjB0SGdpVFQ0Tkt0ZUpBSEc4VE9QMGpUMURySFJobVcwSVo2MzdNUVFpTEQzVWtHVVBka1pxMG9BbmlCZHB3VU16SzZER1JRVllkdk5mcE5CNGpIeF83NDYxRDdGNXJkUWFidU9vUC1oYnprZVVJNzJ2NmJRRTdHNHpJNlZGc0lrZkFpdFdMbG8tUVhtaFpyNUVFV1pETmdabGhob0RmYWlXNjlyOC16RmpsbUFDbjZIZG9Gb2Zka3NVZ2PSAeABQVVfeXFMUFlneDd1am9YTUZsNXNBdlo4UTVla0NmRjM3anpRamF3cmpZRElkeG9UYmdNLTFTQ3diWHJHdDFRS3d4dmJxd0VGVWJDZDR0d2ZTOWNVWlhRRTlaZFJlTlZjSllPdFdtSjZmM1Z3SkZ1SFU0cVo2Z09Qd3V0M1hzNmxUdXlBNVRBMVZTdDhlRmNZLTFXWnAzTEtYM3lRSEszZ0lkZ0wxQ3ZYN1EtMzRJaHJ3M3R4ZW1rNGhuT3JQaW1jRFBvSGNkVnlxbjlDTWpWQ2VWSm5tVkZaZXJHQTR6WEg?oc=5\" target=\"_blank\">Flood watch issued for the Greater Lake Tahoe Area and Lassen-Eastern Plumas-Eastern Sierra counties</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">East Bay Times</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOcExqdEtId2RuZE9Wa1dpZlI0MXl1SVByY1Zja3hqS1ZLZVVvZTVXMk1TV1lxNWJBd2J2MTdkT2t1ZFIzY3c0QTdza0EtVzdlVjByRElNbVkxa0JTNklKNTZQTnFkQS1sVFBoa1M1Y3BSMmFzZ1hnaGd6dkRLcTdfTzc4MWhOMVNqWWdoTUJJenpQSnRO?oc=5",
+        "date": "2025-12-21",
+        "title": "Flooding reported in Willits as winter storm moves through - The Mendocino Voice",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxOcExqdEtId2RuZE9Wa1dpZlI0MXl1SVByY1Zja3hqS1ZLZVVvZTVXMk1TV1lxNWJBd2J2MTdkT2t1ZFIzY3c0QTdza0EtVzdlVjByRElNbVkxa0JTNklKNTZQTnFkQS1sVFBoa1M1Y3BSMmFzZ1hnaGd6dkRLcTdfTzc4MWhOMVNqWWdoTUJJenpQSnRO?oc=5\" target=\"_blank\">Flooding reported in Willits as winter storm moves through</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Mendocino Voice</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
     }
 ]
