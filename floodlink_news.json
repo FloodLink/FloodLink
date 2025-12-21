@@ -5286,5 +5286,65 @@
         "score": 7,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBlQVcyTzRKV0hzQkVMalJ0S0ZRd0lqZ3lGR0FYTTd5NWs5dlAtVGJpODU1RmFqOThGOGRuTzUxOUpXS3prUWE5MmIxWHk2VEtyVTZERl85anZSQWlDd0JDNE9uTy1VWnVvcmM2UEZ6WQ?oc=5",
+        "date": "2025-12-21",
+        "title": "UPDATE: Flood warning in place for Humboldt County until Monday night - Sacramento Bee",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTFBlQVcyTzRKV0hzQkVMalJ0S0ZRd0lqZ3lGR0FYTTd5NWs5dlAtVGJpODU1RmFqOThGOGRuTzUxOUpXS3prUWE5MmIxWHk2VEtyVTZERl85anZSQWlDd0JDNE9uTy1VWnVvcmM2UEZ6WQ?oc=5\" target=\"_blank\">UPDATE: Flood warning in place for Humboldt County until Monday night</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sacramento Bee</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9zRmdVWk51ZDhpdUZPNFd5WEdtNUx4YnVGbW43LVo1dy1PaEViNnh5TzJyT1otTGg4TjY2LXlWRjk0MjRBOURkMWhtZkJvLVhRV2pqcWhJZlZORGpoZXdablNlalhrYnRBMkstLWZHckttTzBkaHhFeQ?oc=5",
+        "date": "2025-12-21",
+        "title": "UPDATE: Flood watch in place for Northern Humboldt Coast until Sunday night - San Luis Obispo Tribune",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE9zRmdVWk51ZDhpdUZPNFd5WEdtNUx4YnVGbW43LVo1dy1PaEViNnh5TzJyT1otTGg4TjY2LXlWRjk0MjRBOURkMWhtZkJvLVhRV2pqcWhJZlZORGpoZXdablNlalhrYnRBMkstLWZHckttTzBkaHhFeQ?oc=5\" target=\"_blank\">UPDATE: Flood watch in place for Northern Humboldt Coast until Sunday night</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">San Luis Obispo Tribune</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOSGlvektLWVZhZFBlaWNRUjZibWp2Z3lHWHFJOWlCNXRBNUl2QmFfM0h2TFo3ZDRua0JUMEFmSkx5YTMzOXlvV0NIYUFXelU1dWtrbm5TZGhwYjEyYjJxaWUyVVI4Nk9PSjRkXzMwQXIxbE5DdkRUR21UY2YzZ0MxWnZXTzU1VUUxWUtvVlJ3TUVwdjlmdjljOHpGdmVuSS10enphUXB2ejB5eVl0YWlZTURoay10QUJiN05TWWI2X1JaMFBp0gHYAUFVX3lxTE9hQXpsMHdpQmVzNmVuTkZ0NGZ4d3Z4bUN2Y0FWdGlYLXZBZUh1UncxeWtjVzNaWGZ1b1ZfRTNqOTEzQjQ3cWxHclpBbUM2T21YVzBKZ29oMzZJZkh6c1pkMW9XYmJ5VjhGMVlWY1pMZ1RjTHRXcDUtaDRudTBIMlVUSUEyX1ZUWFF6eVcyZHNsbXNCX0M3S2NGOHdoT0RudHB2aGZEUGszV2Y1MHNhNm1BTVFvRXpnemlfYmVNWGI1QktjTWo3eDJEYmg4OVFDUVNSWVFkRjVtWQ?oc=5",
+        "date": "2025-12-21",
+        "title": "Flood risks ease in Oregon, snow prompts Sunday weather warning for the Cascades - OregonLive.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxOSGlvektLWVZhZFBlaWNRUjZibWp2Z3lHWHFJOWlCNXRBNUl2QmFfM0h2TFo3ZDRua0JUMEFmSkx5YTMzOXlvV0NIYUFXelU1dWtrbm5TZGhwYjEyYjJxaWUyVVI4Nk9PSjRkXzMwQXIxbE5DdkRUR21UY2YzZ0MxWnZXTzU1VUUxWUtvVlJ3TUVwdjlmdjljOHpGdmVuSS10enphUXB2ejB5eVl0YWlZTURoay10QUJiN05TWWI2X1JaMFBp0gHYAUFVX3lxTE9hQXpsMHdpQmVzNmVuTkZ0NGZ4d3Z4bUN2Y0FWdGlYLXZBZUh1UncxeWtjVzNaWGZ1b1ZfRTNqOTEzQjQ3cWxHclpBbUM2T21YVzBKZ29oMzZJZkh6c1pkMW9XYmJ5VjhGMVlWY1pMZ1RjTHRXcDUtaDRudTBIMlVUSUEyX1ZUWFF6eVcyZHNsbXNCX0M3S2NGOHdoT0RudHB2aGZEUGszV2Y1MHNhNm1BTVFvRXpnemlfYmVNWGI1QktjTWo3eDJEYmg4OVFDUVNSWVFkRjVtWQ?oc=5\" target=\"_blank\">Flood risks ease in Oregon, snow prompts Sunday weather warning for the Cascades</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">OregonLive.com</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWFQ5a0xmZXRiNU8yQmkyNktfVk1vOGFOWjV4SDhMc1RfVXp2RVA2dnlmUXBBUFc1V05lYzI4ZEppX09PTnNXSUlOaTdZSkVYMVJsU0JSazBjbWtrWGJiRnhndjRjSFVJT1Nhc0RwSDNrSjhkYjNXaF9XU3ZjV3JfS0NxNnAxLUhOcnRBSEwzX2pvc3BiZC13VDAtOXM2S1Bfc0s0d2o5RzZUR3VWSTdXSEVQVzY3Zw?oc=5",
+        "date": "2025-12-21",
+        "title": "Roads Close, Flooding Spreads as First Day of Winter Brings a Real North Coast Storm - Redheaded Blackbelt",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPWFQ5a0xmZXRiNU8yQmkyNktfVk1vOGFOWjV4SDhMc1RfVXp2RVA2dnlmUXBBUFc1V05lYzI4ZEppX09PTnNXSUlOaTdZSkVYMVJsU0JSazBjbWtrWGJiRnhndjRjSFVJT1Nhc0RwSDNrSjhkYjNXaF9XU3ZjV3JfS0NxNnAxLUhOcnRBSEwzX2pvc3BiZC13VDAtOXM2S1Bfc0s0d2o5RzZUR3VWSTdXSEVQVzY3Zw?oc=5\" target=\"_blank\">Roads Close, Flooding Spreads as First Day of Winter Brings a Real North Coast Storm</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Redheaded Blackbelt</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQUVEzdjluelp6MHdkcVFFZ2U4UzlIa1ZtNWpfdWxBVnByWHdTX0loZHRzb3c4c2pfZFFxQXMtTjV1WWpxZl9uSzdqbWZyVExaU25fdjZWVmJJMXVOdldlb1R4YXgzQ0ZiN29YTklOb1hPSDJGZWtJWm9UZWVqeFFqOU9qS0pWY1IyOUpWZjZPRk9CUVhYWU16UXFQSFp5cWlmUlZYWXRLT3g5TlRBVU5PeFB1OWRHcFdWQktIblZ0NUw1bVgzLVp6Rw?oc=5",
+        "date": "2025-12-21",
+        "title": "Five departments on orange alert as heavy rain and floods continue in south of France - The Connexion",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxQUVEzdjluelp6MHdkcVFFZ2U4UzlIa1ZtNWpfdWxBVnByWHdTX0loZHRzb3c4c2pfZFFxQXMtTjV1WWpxZl9uSzdqbWZyVExaU25fdjZWVmJJMXVOdldlb1R4YXgzQ0ZiN29YTklOb1hPSDJGZWtJWm9UZWVqeFFqOU9qS0pWY1IyOUpWZjZPRk9CUVhYWU16UXFQSFp5cWlmUlZYWXRLT3g5TlRBVU5PeFB1OWRHcFdWQktIblZ0NUw1bVgzLVp6Rw?oc=5\" target=\"_blank\">Five departments on orange alert as heavy rain and floods continue in south of France</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Connexion</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOcTZQTFJNZzR5WDVjQmtrSzZpM0lILWhncXFFcWdvM053YV8yRnN2VEJYWFQydDFMU0llZ19VQVV1Mm92ZVBwbUl6OEh2aENWMjNmQXNwZjYwUHd4Y0xYSmtPQTk2X1UxTGkzZGg5Tk1rZTdyNms0cFJuUEwtYVZ0VFNQZC1pVWtfRDh6WG1tRkJIYzN6NXBCNnR3Z1F4SUo0RTFQMUhVdW4?oc=5",
+        "date": "2025-12-21",
+        "title": "Civil Defence Puts Full Force on Alert as Northeast Monsoon Threatens More Floods - Wilayah.com.my",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxOcTZQTFJNZzR5WDVjQmtrSzZpM0lILWhncXFFcWdvM053YV8yRnN2VEJYWFQydDFMU0llZ19VQVV1Mm92ZVBwbUl6OEh2aENWMjNmQXNwZjYwUHd4Y0xYSmtPQTk2X1UxTGkzZGg5Tk1rZTdyNms0cFJuUEwtYVZ0VFNQZC1pVWtfRDh6WG1tRkJIYzN6NXBCNnR3Z1F4SUo0RTFQMUhVdW4?oc=5\" target=\"_blank\">Civil Defence Puts Full Force on Alert as Northeast Monsoon Threatens More Floods</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Wilayah.com.my</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
     }
 ]
