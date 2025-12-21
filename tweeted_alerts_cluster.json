@@ -35,38 +35,6 @@
     "resolved": true,
     "resolved_at": "2025-12-20T21:21:54.438997Z"
   },
-  "4.1752,73.5092": {
-    "country": "Maldives",
-    "name": "Male",
-    "risk_level": "Low",
-    "tweeted_level": "Low",
-    "latitude": 4.17521,
-    "longitude": 73.50916,
-    "rain_mm": 0.25,
-    "soil_moisture": 1.0,
-    "raw_dynamic_score": 0.048,
-    "last_updated": "2025-12-20T15:24:10.664245Z",
-    "last_tweeted_at": "2025-12-20T15:24:10.664245Z",
-    "tweet_id": "2002399807004971186",
-    "resolved": true,
-    "resolved_at": "2025-12-20T15:24:10.664245Z"
-  },
-  "-15.2484,23.1274": {
-    "country": "Zambia",
-    "name": "Mongu",
-    "risk_level": "Low",
-    "tweeted_level": "Low",
-    "latitude": -15.24835,
-    "longitude": 23.12741,
-    "rain_mm": 1.94,
-    "soil_moisture": 0.423,
-    "raw_dynamic_score": 0.27,
-    "last_updated": "2025-12-20T15:24:10.664245Z",
-    "last_tweeted_at": "2025-12-20T15:24:10.664245Z",
-    "tweet_id": "2002399933832319153",
-    "resolved": true,
-    "resolved_at": "2025-12-20T15:24:10.664245Z"
-  },
   "-7.4837,21.3034": {
     "country": "Angola",
     "name": "Cassanguidi",
@@ -269,7 +237,7 @@
     "rain_mm": 121.69,
     "soil_moisture": 0.754,
     "raw_dynamic_score": 20.574,
-    "last_updated": "2025-12-21T09:26:12.071506Z",
+    "last_updated": "2025-12-21T15:24:22.556933Z",
     "last_tweeted_at": "2025-12-21T09:26:12.071506Z",
     "tweet_id": "2002672230405169548",
     "resolved": false
@@ -636,7 +604,7 @@
     "rain_mm": 70.44,
     "soil_moisture": 0.564,
     "raw_dynamic_score": 10.697,
-    "last_updated": "2025-12-21T12:49:18.967843Z",
+    "last_updated": "2025-12-21T15:24:22.556933Z",
     "last_tweeted_at": "2025-12-21T06:37:55.496448Z",
     "tweet_id": "2002639970247295078",
     "resolved": false
@@ -651,10 +619,14 @@
     "rain_mm": 51.38,
     "soil_moisture": 0.675,
     "raw_dynamic_score": 8.316,
-    "last_updated": "2025-12-21T09:26:12.071506Z",
+    "last_updated": "2025-12-21T15:24:22.556933Z",
     "last_tweeted_at": "2025-12-21T09:26:12.071506Z",
     "tweet_id": "2002671977169858671",
-    "resolved": false
+    "resolved": false,
+    "pending_downgrade": true,
+    "pending_target_level": "Low",
+    "pending_set_at": "2025-12-21T15:24:22.556933Z",
+    "pending_is_region": true
   },
   "-7.8700,112.5283": {
     "country": "Indonesia",
@@ -666,7 +638,7 @@
     "rain_mm": 51.38,
     "soil_moisture": 0.675,
     "raw_dynamic_score": 8.316,
-    "last_updated": "2025-12-21T09:26:12.071506Z",
+    "last_updated": "2025-12-21T15:24:22.556933Z",
     "last_tweeted_at": "2025-12-21T09:26:12.071506Z",
     "tweet_id": "2002671977169858671",
     "resolved": false
@@ -704,10 +676,18 @@
     "rain_mm": 46.25,
     "soil_moisture": 0.628,
     "raw_dynamic_score": 7.293,
-    "last_updated": "2025-12-21T12:49:18.967843Z",
+    "last_updated": "2025-12-21T15:24:22.556933Z",
     "last_tweeted_at": "2025-12-21T12:49:18.967843Z",
     "tweet_id": "2002723091743490517",
-    "resolved": false
+    "resolved": false,
+    "pending_downgrade": true,
+    "pending_target_level": "Low",
+    "pending_set_at": "2025-12-21T15:24:22.556933Z",
+    "pending_is_region": false,
+    "pending_observed_level": "Low",
+    "pending_observed_rain_mm": 9.31,
+    "pending_observed_soil_moisture": 0.603,
+    "pending_observed_raw_dynamic_score": 1.447
   },
   "-7.3589,109.9031": {
     "country": "Indonesia",
@@ -719,10 +699,18 @@
     "rain_mm": 61.38,
     "soil_moisture": 0.687,
     "raw_dynamic_score": 10.004,
-    "last_updated": "2025-12-21T12:49:18.967843Z",
+    "last_updated": "2025-12-21T15:24:22.556933Z",
     "last_tweeted_at": "2025-12-21T12:49:18.967843Z",
     "tweet_id": "2002723218453324255",
-    "resolved": false
+    "resolved": false,
+    "pending_downgrade": true,
+    "pending_target_level": "Low",
+    "pending_set_at": "2025-12-21T15:24:22.556933Z",
+    "pending_is_region": false,
+    "pending_observed_level": "Low",
+    "pending_observed_rain_mm": 19.88,
+    "pending_observed_soil_moisture": 0.661,
+    "pending_observed_raw_dynamic_score": 3.192
   },
   "35.6831,-5.3287": {
     "country": "Morocco",
@@ -734,10 +722,14 @@
     "rain_mm": 34.5,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 6.598,
-    "last_updated": "2025-12-21T12:49:18.967843Z",
+    "last_updated": "2025-12-21T15:24:22.556933Z",
     "last_tweeted_at": "2025-12-21T12:49:18.967843Z",
     "tweet_id": "2002723345129668994",
-    "resolved": false
+    "resolved": false,
+    "pending_downgrade": true,
+    "pending_target_level": "Low",
+    "pending_set_at": "2025-12-21T15:24:22.556933Z",
+    "pending_is_region": true
   },
   "35.8491,-5.3575": {
     "country": "Morocco",
@@ -749,7 +741,7 @@
     "rain_mm": 34.5,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 6.598,
-    "last_updated": "2025-12-21T12:49:18.967843Z",
+    "last_updated": "2025-12-21T15:24:22.556933Z",
     "last_tweeted_at": "2025-12-21T12:49:18.967843Z",
     "tweet_id": "2002723345129668994",
     "resolved": false
@@ -764,10 +756,18 @@
     "rain_mm": 87.56,
     "soil_moisture": 0.738,
     "raw_dynamic_score": 14.675,
-    "last_updated": "2025-12-21T12:49:18.967843Z",
+    "last_updated": "2025-12-21T15:24:22.556933Z",
     "last_tweeted_at": "2025-12-21T12:49:18.967843Z",
     "tweet_id": "2002723471969693833",
-    "resolved": false
+    "resolved": false,
+    "pending_downgrade": true,
+    "pending_target_level": "Medium",
+    "pending_set_at": "2025-12-21T15:24:22.556933Z",
+    "pending_is_region": false,
+    "pending_observed_level": "Medium",
+    "pending_observed_rain_mm": 48.5,
+    "pending_observed_soil_moisture": 0.736,
+    "pending_observed_raw_dynamic_score": 8.12
   },
   "17.4738,121.4680": {
     "country": "Philippines",
@@ -779,10 +779,18 @@
     "rain_mm": 53.44,
     "soil_moisture": 0.716,
     "raw_dynamic_score": 8.849,
-    "last_updated": "2025-12-21T12:49:18.967843Z",
+    "last_updated": "2025-12-21T15:24:22.556933Z",
     "last_tweeted_at": "2025-12-21T12:49:18.967843Z",
     "tweet_id": "2002723598788686262",
-    "resolved": false
+    "resolved": false,
+    "pending_downgrade": true,
+    "pending_target_level": "Low",
+    "pending_set_at": "2025-12-21T15:24:22.556933Z",
+    "pending_is_region": false,
+    "pending_observed_level": "Low",
+    "pending_observed_rain_mm": 33.75,
+    "pending_observed_soil_moisture": 0.718,
+    "pending_observed_raw_dynamic_score": 5.594
   },
   "17.4278,121.7695": {
     "country": "Philippines",
@@ -794,9 +802,28 @@
     "rain_mm": 87.56,
     "soil_moisture": 0.738,
     "raw_dynamic_score": 14.675,
-    "last_updated": "2025-12-21T12:49:18.967843Z",
+    "last_updated": "2025-12-21T15:24:22.556933Z",
     "last_tweeted_at": "2025-12-21T12:49:18.967843Z",
     "tweet_id": "2002723725599281482",
+    "resolved": false,
+    "pending_downgrade": true,
+    "pending_target_level": "Medium",
+    "pending_set_at": "2025-12-21T15:24:22.556933Z",
+    "pending_is_region": true
+  },
+  "-14.8811,-40.5794": {
+    "country": "Brazil",
+    "name": "Barra do Choça",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": -14.88111,
+    "longitude": -40.57944,
+    "rain_mm": 49.56,
+    "soil_moisture": 0.615,
+    "raw_dynamic_score": 7.754,
+    "last_updated": "2025-12-21T15:24:22.556933Z",
+    "last_tweeted_at": "2025-12-21T15:24:22.556933Z",
+    "tweet_id": "2002762115036201047",
     "resolved": false
   }
 }
