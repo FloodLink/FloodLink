@@ -5366,5 +5366,13 @@
         "score": 3,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2025-12-22",
+        "status": "posted",
+        "tweet": "\ud83c\uddf3\ud83c\uddf1 In 2025, the Netherlands maintains 26,500 km of dikes and levees, protecting 60% of its 18 million residents from coastal and river flooding.",
+        "type": "infrastructure",
+        "tweet_id": "2002998077398127038"
     }
 ]
