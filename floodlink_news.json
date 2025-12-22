@@ -5845,5 +5845,115 @@
         "score": 3,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNTkREY2d0d2tPSHFHdzdrWk95ZXNLSk5JbFFDR1gwenFhbTFCUlFPeDY4UUVwem5YUkhPYWFBUlAyT2xnbWRvNnJHVGlqVlVMOUFlYVZEdm1tM0liU1EzT2hsWl84UEF2dkZjc1c4TUJzTGpUdDJwZWFIM2VBNmVYRWQ5V0lGY2lDcUdyUGJvRkphNGFCa0VFSVJjSmRsNXp4emNWWGR4SldVV09weDMtbVhQUHlUTnhoVS1ST0JVRllfcDc4ZWFUQ2xGcGJ6ZXpHakNseTRJRDZnVUtfNkNTaEtrd2MyNFpxdkk5ZTVFcHRHbnc?oc=5",
+        "date": "2025-12-22",
+        "title": "California Storm Updates: Flood warnings, chain controls and more - ABC10",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8wFBVV95cUxNTkREY2d0d2tPSHFHdzdrWk95ZXNLSk5JbFFDR1gwenFhbTFCUlFPeDY4UUVwem5YUkhPYWFBUlAyT2xnbWRvNnJHVGlqVlVMOUFlYVZEdm1tM0liU1EzT2hsWl84UEF2dkZjc1c4TUJzTGpUdDJwZWFIM2VBNmVYRWQ5V0lGY2lDcUdyUGJvRkphNGFCa0VFSVJjSmRsNXp4emNWWGR4SldVV09weDMtbVhQUHlUTnhoVS1ST0JVRllfcDc4ZWFUQ2xGcGJ6ZXpHakNseTRJRDZnVUtfNkNTaEtrd2MyNFpxdkk5ZTVFcHRHbnc?oc=5\" target=\"_blank\">California Storm Updates: Flood warnings, chain controls and more</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ABC10</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE91MS1NdEVGN2pOWXpnbmY0VllIV1ZxcWFVZzJIcmtUU1RjdEUzc08tZ2dJcHpBV2M3b096N3JraXpJRnFOQnJtNEVFMlFHSEg3eTVEMDkxYUxPcHE1T0xDdUR4Z3M4SXV6SVRMNnM3QlQ1VGJ4OWZMWA?oc=5",
+        "date": "2025-12-22",
+        "title": "Flood warning issued for Tehama County until further notice, says the NWS - San Luis Obispo Tribune",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE91MS1NdEVGN2pOWXpnbmY0VllIV1ZxcWFVZzJIcmtUU1RjdEUzc08tZ2dJcHpBV2M3b096N3JraXpJRnFOQnJtNEVFMlFHSEg3eTVEMDkxYUxPcHE1T0xDdUR4Z3M4SXV6SVRMNnM3QlQ1VGJ4OWZMWA?oc=5\" target=\"_blank\">Flood warning issued for Tehama County until further notice, says the NWS</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">San Luis Obispo Tribune</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUktpT3p5T2pvQ2VGdThPYURJR2ROejN3NDA3OFl0a2N4MGRDZFlnUDI2QTVpVUplV1JXY0pCcHdIckpSbUkwX3hBNFJtTWI3d2ZoNzIwTF9oZngxeVN4TUcxRHRGc3dOZW9uNFRWbWYzQkNfZzV5bDNKa3ZsZGhVQVRFOEVha3ZSNkw0MkF6LXM1TjVLRmN5Yl9PdFJQZWxFaXc1NW5zYzByNmJNY3fSAbMBQVVfeXFMTlRrQm1pQnVneXhzZnpBTE1HVnVFTnVNN1hEVmZoRFZqQmh0cmtwYzlKYVR6RDNvQjM1clhtRm83TVA2WTBRWDFZdlN1YmliWjhPUDRoUlpibEt5WHpTalBJc3NvMTlVYU0yMEc4emhLUWhyZVZmV2xUVjB4ZW9yeEl6dkItVy1WWVRSWEUtVTd3OG56ajQ4ZTF4Skk4cGdvVGIyb2l1ZXFwM3FwbDFXeDBTd00?oc=5",
+        "date": "2025-12-22",
+        "title": "Central California forecasted for heavy rain, flooding and snow during Christmas week - ABC30 Fresno",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxOUktpT3p5T2pvQ2VGdThPYURJR2ROejN3NDA3OFl0a2N4MGRDZFlnUDI2QTVpVUplV1JXY0pCcHdIckpSbUkwX3hBNFJtTWI3d2ZoNzIwTF9oZngxeVN4TUcxRHRGc3dOZW9uNFRWbWYzQkNfZzV5bDNKa3ZsZGhVQVRFOEVha3ZSNkw0MkF6LXM1TjVLRmN5Yl9PdFJQZWxFaXc1NW5zYzByNmJNY3fSAbMBQVVfeXFMTlRrQm1pQnVneXhzZnpBTE1HVnVFTnVNN1hEVmZoRFZqQmh0cmtwYzlKYVR6RDNvQjM1clhtRm83TVA2WTBRWDFZdlN1YmliWjhPUDRoUlpibEt5WHpTalBJc3NvMTlVYU0yMEc4emhLUWhyZVZmV2xUVjB4ZW9yeEl6dkItVy1WWVRSWEUtVTd3OG56ajQ4ZTF4Skk4cGdvVGIyb2l1ZXFwM3FwbDFXeDBTd00?oc=5\" target=\"_blank\">Central California forecasted for heavy rain, flooding and snow during Christmas week</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ABC30 Fresno</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPRlNGTlIzTlB3WUNld0dPVHhUT2dDbW16LUlMekZENTNXUDRQRktPLTNmVUlZRjhMOGZvNTh2NTNDYXJCR0lGcFJDTGxYXzd4ZlpaRXNoQ2JlVmwyRDNKNFozRGc1ZV96Vnp0bHZYV01HdG9OUXdCSFVnWnJpMHpuRXFaSXN3YnVFTzJwSG1uMmhNcDMwLTVaUUZJd0F3XzA5T28wTnFpemRGX3lnRkM4X1VuM3Z4Qm9iWGJOUWlTS3Z4bWVYOEE?oc=5",
+        "date": "2025-12-22",
+        "title": "Heavy rain, high winds, outages, flash floods \u2014 Bay Area could see it all this holiday week - Local News Matters",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxPRlNGTlIzTlB3WUNld0dPVHhUT2dDbW16LUlMekZENTNXUDRQRktPLTNmVUlZRjhMOGZvNTh2NTNDYXJCR0lGcFJDTGxYXzd4ZlpaRXNoQ2JlVmwyRDNKNFozRGc1ZV96Vnp0bHZYV01HdG9OUXdCSFVnWnJpMHpuRXFaSXN3YnVFTzJwSG1uMmhNcDMwLTVaUUZJd0F3XzA5T28wTnFpemRGX3lnRkM4X1VuM3Z4Qm9iWGJOUWlTS3Z4bWVYOEE?oc=5\" target=\"_blank\">Heavy rain, high winds, outages, flash floods \u2014 Bay Area could see it all this holiday week</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Local News Matters</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNTFhyTHA0MW91SHNyb29NREZDT3BKWlVCQUhxZTNOeWdxb21oRzJndGJlT3Y5MUx4YUNiY3laSUkwTHZmS2JrcVBMNlNpa09Ya0VGQkRoN1M1aFYyR29iSVBoUW01Uld2YzI2YU9TZjVScTZkX2VaMHoxSkt6dERHaTlTOXlwUE53eWg3XzQ1Z3pJS0NlU3N1N09HLWJ1MGxOT3djSXAzOVlYZEE2aW1JQlRlT1p0TXJ1ZWJwZVczWmhMdUhySkR5ek56anRyVzTSAdQBQVVfeXFMTURjWG1aVEJrZGIzVzd5NUt0WVFHWmVnaVBtdVlLOEROTHJyUzRRaXplTGY5WUt6MnEwVEFZNE83bFhxSElTR0NSUjVob0lUZzZxSHVkZVZDTkhnRUVDbHk2TWU4d09Ob3RBcDlHUktQQnNYT0cwenkwUXd3SVRpNll0WGJkUFd1N1A4VjhRV3lGclY0WmFGV3l5c0JnQTVDSHExOFk0aDdjc0RRMnZnOVRYQXpWcEctUkxnbFZvSzlwZXRLQmhHSjZ5N0RGTThmUGRIdE4?oc=5",
+        "date": "2025-12-22",
+        "title": "Flood watch in place for Malibu for Tuesday and Wednesday caused by substantial downpours - Pasadena Star News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxNTFhyTHA0MW91SHNyb29NREZDT3BKWlVCQUhxZTNOeWdxb21oRzJndGJlT3Y5MUx4YUNiY3laSUkwTHZmS2JrcVBMNlNpa09Ya0VGQkRoN1M1aFYyR29iSVBoUW01Uld2YzI2YU9TZjVScTZkX2VaMHoxSkt6dERHaTlTOXlwUE53eWg3XzQ1Z3pJS0NlU3N1N09HLWJ1MGxOT3djSXAzOVlYZEE2aW1JQlRlT1p0TXJ1ZWJwZVczWmhMdUhySkR5ek56anRyVzTSAdQBQVVfeXFMTURjWG1aVEJrZGIzVzd5NUt0WVFHWmVnaVBtdVlLOEROTHJyUzRRaXplTGY5WUt6MnEwVEFZNE83bFhxSElTR0NSUjVob0lUZzZxSHVkZVZDTkhnRUVDbHk2TWU4d09Ob3RBcDlHUktQQnNYT0cwenkwUXd3SVRpNll0WGJkUFd1N1A4VjhRV3lGclY0WmFGV3l5c0JnQTVDSHExOFk0aDdjc0RRMnZnOVRYQXpWcEctUkxnbFZvSzlwZXRLQmhHSjZ5N0RGTThmUGRIdE4?oc=5\" target=\"_blank\">Flood watch in place for Malibu for Tuesday and Wednesday caused by substantial downpours</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Pasadena Star News</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWk1jR05kYVI1bGxkeVdsWVZOOFZWSUhUaWlJV2ZhQTlPb1A4Y2pwT3pYMzJTUE5naXUyUUg1MVA4WWxZT0hQUktheFdzY09XQ085ZHFmZnhrRDVIZEdGYkc2WjROM215UUNqcklva0tFN1V5eTBjUXlmbFhfeDV5TWI4NmFNTTRBbkRfdVVYeEZoblBFUVh4RExlRzhUc1RvYVRUaUJiWmp3UnZKd1owTFprSnVzTjg5Tml3?oc=5",
+        "date": "2025-12-22",
+        "title": "Flood Watch Issued as Powerful Holiday Storm Bears Down on Santa Barbara County - The Santa Barbara Independent",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWk1jR05kYVI1bGxkeVdsWVZOOFZWSUhUaWlJV2ZhQTlPb1A4Y2pwT3pYMzJTUE5naXUyUUg1MVA4WWxZT0hQUktheFdzY09XQ085ZHFmZnhrRDVIZEdGYkc2WjROM215UUNqcklva0tFN1V5eTBjUXlmbFhfeDV5TWI4NmFNTTRBbkRfdVVYeEZoblBFUVh4RExlRzhUc1RvYVRUaUJiWmp3UnZKd1owTFprSnVzTjg5Tml3?oc=5\" target=\"_blank\">Flood Watch Issued as Powerful Holiday Storm Bears Down on Santa Barbara County</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Santa Barbara Independent</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVGMzdE5FUTF6aWFXU2Nta0daT1hmRTl2Q0NfRm5YZEhRNzVFUUhrSEpMOHpxNE00eWIzUS1LSlZhNnAwZ3VTLWxDa19jRTNTa3ktaG4xaEE3enRySzJLUjl4dUJua3dacXZFRDNvV3RpdE9yM1UzTGNTbmpFVkoxZ2FBcU1veHB0OXlzcnlaSHh3d0xDYm5ld1kxbkticXBX0gGmAUFVX3lxTE0xc3g2Q3dMZVJEb1lOSVpTcloybXRYYmVqa0lLZGpsSDZ3MnFUemxKUEJxZFE1VXY4SVR4TzhON2R4ZFliUENyTmpsWk44WEVCMV9jcTVOSTF4NXJ2Z01fdUw3QmFxd0Q5UmdlU3kxRkI5Y0NUQjlNb0xmaXRkeWV3SHRxTkZlbVpzT0NGcHdVWE91UUtWeHRyb0VhSGtBa3p5N25Zb1E?oc=5",
+        "date": "2025-12-22",
+        "title": "'High risk' of significant flooding in Los Angeles area causes concern for Christmas Eve - FOX Weather",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNVGMzdE5FUTF6aWFXU2Nta0daT1hmRTl2Q0NfRm5YZEhRNzVFUUhrSEpMOHpxNE00eWIzUS1LSlZhNnAwZ3VTLWxDa19jRTNTa3ktaG4xaEE3enRySzJLUjl4dUJua3dacXZFRDNvV3RpdE9yM1UzTGNTbmpFVkoxZ2FBcU1veHB0OXlzcnlaSHh3d0xDYm5ld1kxbkticXBX0gGmAUFVX3lxTE0xc3g2Q3dMZVJEb1lOSVpTcloybXRYYmVqa0lLZGpsSDZ3MnFUemxKUEJxZFE1VXY4SVR4TzhON2R4ZFliUENyTmpsWk44WEVCMV9jcTVOSTF4NXJ2Z01fdUw3QmFxd0Q5UmdlU3kxRkI5Y0NUQjlNb0xmaXRkeWV3SHRxTkZlbVpzT0NGcHdVWE91UUtWeHRyb0VhSGtBa3p5N25Zb1E?oc=5\" target=\"_blank\">'High risk' of significant flooding in Los Angeles area causes concern for Christmas Eve</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FOX Weather</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8tRXBRSlk1M2wzekplbTdja2tUSEZhd3RSSkRCdjRWdGgzaGd5dVVPaS1FeXIwSmg1cUFrOUgtQ3RvcEF3RV9mLXVoVVpzU3htdnVPOUF1QzE4VXRxNnY3T0Y2SjR6TndoYlBjRnhNc0RDeGgwOWh5aA?oc=5",
+        "date": "2025-12-22",
+        "title": "UPDATE: Flood advisory active for San Francisco and San Mateo counties Monday midday - San Luis Obispo Tribune",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE8tRXBRSlk1M2wzekplbTdja2tUSEZhd3RSSkRCdjRWdGgzaGd5dVVPaS1FeXIwSmg1cUFrOUgtQ3RvcEF3RV9mLXVoVVpzU3htdnVPOUF1QzE4VXRxNnY3T0Y2SjR6TndoYlBjRnhNc0RDeGgwOWh5aA?oc=5\" target=\"_blank\">UPDATE: Flood advisory active for San Francisco and San Mateo counties Monday midday</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">San Luis Obispo Tribune</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNMUFuR3lUdmZFbF9MTHRJcDRlTEltVmp4Y0pyVWNLMlFHdElPbXQ2SURTQW1uSE55UVZPTGxKZUx3YVpDV1g3dk5oanFrSVJPLTJudFY3MVpveXoxMDFqbVBlanVsMkkwN0wzMkt2ZjFtbWliRDJWMHRGb21PbjBIbjRuMlZHbDBHUkZZNWRwTDhsa2RZV09SMVBqUHNaeERZVW9LcTFvZzBTNjF2ZlMtMmlMYjRHd0oyRnA0ZWNoZmdHY0U3WXBmMUQ1dmlMR2ZHdUtlZ1RVRXhUQW0xZnc?oc=5",
+        "date": "2025-12-22",
+        "title": "At least 1 killed as heavy rains bring floods to Northern California - San Francisco Examiner",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxNMUFuR3lUdmZFbF9MTHRJcDRlTEltVmp4Y0pyVWNLMlFHdElPbXQ2SURTQW1uSE55UVZPTGxKZUx3YVpDV1g3dk5oanFrSVJPLTJudFY3MVpveXoxMDFqbVBlanVsMkkwN0wzMkt2ZjFtbWliRDJWMHRGb21PbjBIbjRuMlZHbDBHUkZZNWRwTDhsa2RZV09SMVBqUHNaeERZVW9LcTFvZzBTNjF2ZlMtMmlMYjRHd0oyRnA0ZWNoZmdHY0U3WXBmMUQ1dmlMR2ZHdUtlZ1RVRXhUQW0xZnc?oc=5\" target=\"_blank\">At least 1 killed as heavy rains bring floods to Northern California</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">San Francisco Examiner</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQOHVBbHFscUVYUmtfNUREZE4zTHFrX3N5cERtdGNEdnlwanFCTDNKTkRpZm1WRy04dlhqT0Uwa1pQY3h4cEtQY01UNkdlRGEzQzBoWHI0QndjS3VCSDRUSGFQV1JIcFRlM0o0c21iX2M0V1BTZm0tZkVsUFRiT0RvNTVqUmI2X1YwQ19IazBGNEdORFZsT2praE5wNFBMRGJtMlVjVFNwTktEWGdnNU1BZEdUbw?oc=5",
+        "date": "2025-12-22",
+        "title": "River swells in southern France as extreme flood warning issued - MSN",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQOHVBbHFscUVYUmtfNUREZE4zTHFrX3N5cERtdGNEdnlwanFCTDNKTkRpZm1WRy04dlhqT0Uwa1pQY3h4cEtQY01UNkdlRGEzQzBoWHI0QndjS3VCSDRUSGFQV1JIcFRlM0o0c21iX2M0V1BTZm0tZkVsUFRiT0RvNTVqUmI2X1YwQ19IazBGNEdORFZsT2praE5wNFBMRGJtMlVjVFNwTktEWGdnNU1BZEdUbw?oc=5\" target=\"_blank\">River swells in southern France as extreme flood warning issued</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWGx1X091RVdjOEJOTFRRUndveXlWdGRyM2F6SVgxd2Y5ZEloVG4wWkhUWVhXWmJwekJWNWxVUGhLV3B3c3c1aTNaWWhPaGZqbGU2eG5hS01xZjF4WTBGNTBuS052alA4QUlzQkdudDVEYUVtSkxMeTBrWGRTekd2Nk9jYnJTSVZvQ0tHdndzMHJPajhZZGdXa1l1V2tCNWs2ZkpvWVZpRk1ITHE0b2lzMTVsTVV5QVZ1VUJiZEd3?oc=5",
+        "date": "2025-12-22",
+        "title": "Flash flooding in northern California leads to soaked roads, water rescues and 1 death - WRAL",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxQWGx1X091RVdjOEJOTFRRUndveXlWdGRyM2F6SVgxd2Y5ZEloVG4wWkhUWVhXWmJwekJWNWxVUGhLV3B3c3c1aTNaWWhPaGZqbGU2eG5hS01xZjF4WTBGNTBuS052alA4QUlzQkdudDVEYUVtSkxMeTBrWGRTekd2Nk9jYnJTSVZvQ0tHdndzMHJPajhZZGdXa1l1V2tCNWs2ZkpvWVZpRk1ITHE0b2lzMTVsTVV5QVZ1VUJiZEd3?oc=5\" target=\"_blank\">Flash flooding in northern California leads to soaked roads, water rescues and 1 death</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WRAL</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
     }
 ]
