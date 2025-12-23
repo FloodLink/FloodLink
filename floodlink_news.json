@@ -5996,5 +5996,14 @@
             "longitude": 3.8767,
             "confidence": 0.95
         }
+    },
+    {
+        "link": null,
+        "date": "2025-12-23",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 New York: Flash floods exposed 2.5M people in 2024, up 40% from 2020.  \n\ud83c\udde7\ud83c\uddf7 Rio de Janeiro: Extreme rainfall caused $3B losses in 2023 storms, 2x the 2020 figure.  \nClimate trends amplify urban flood risks.",
+        "type": "statistical",
+        "category": "extreme rainfall trends in major cities",
+        "tweet_id": "2003433401424961719"
     }
 ]
