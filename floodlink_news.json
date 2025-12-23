@@ -5895,5 +5895,13 @@
         "score": 0,
         "status": "skipped",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2025-12-23",
+        "status": "posted",
+        "tweet": "\ud83c\uddf3\ud83c\uddf1 The Netherlands' flood defense network spans 26,000 km of dikes, levees, and dunes, protecting 60% of its land area from rising sea levels and river overflows in 2025.",
+        "type": "infrastructure",
+        "tweet_id": "2003360466144518606"
     }
 ]
