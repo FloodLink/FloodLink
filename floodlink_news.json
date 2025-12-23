@@ -5959,5 +5959,42 @@
             "longitude": null,
             "confidence": 0.9
         }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSlNMbXo5RGxPYWdURGtmTTg3eWNLVjNkLW9mSVJtVExRcVhGX3JuVjFraEY5QnpIV2tXU1FmcVlaR0FpTDVWZ0gzLVlMUHViMk96MFdxLXRULVpjcjd1YWJIXzdVYThaWjl5dTloYUx3YXdvQVNxNTQ5V3FjZW8xTnAza3hya3VsaDcwQktEN3NlS3UxYUU1MUFwUzUwTVpxMm92bDNfemR5eVhq?oc=5",
+        "date": "2025-12-23",
+        "title": "H\u00e9rault red flood alert after 300mm of rain hits southern France - The Connexion",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPSlNMbXo5RGxPYWdURGtmTTg3eWNLVjNkLW9mSVJtVExRcVhGX3JuVjFraEY5QnpIV2tXU1FmcVlaR0FpTDVWZ0gzLVlMUHViMk96MFdxLXRULVpjcjd1YWJIXzdVYThaWjl5dTloYUx3YXdvQVNxNTQ5V3FjZW8xTnAza3hya3VsaDcwQktEN3NlS3UxYUU1MUFwUzUwTVpxMm92bDNfemR5eVhq?oc=5\" target=\"_blank\">H\u00e9rault red flood alert after 300mm of rain hits southern France</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Connexion</font>",
+        "similarity_excluded": "No",
+        "score": 10,
+        "status": "processed",
+        "tweet": null,
+        "tweet_id": "2003404051384545568",
+        "geo": {
+            "country": "France",
+            "name": "H\u00e9rault",
+            "latitude": 43.6119,
+            "longitude": 3.8767,
+            "confidence": 0.95
+        }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSlNMbXo5RGxPYWdURGtmTTg3eWNLVjNkLW9mSVJtVExRcVhGX3JuVjFraEY5QnpIV2tXU1FmcVlaR0FpTDVWZ0gzLVlMUHViMk96MFdxLXRULVpjcjd1YWJIXzdVYThaWjl5dTloYUx3YXdvQVNxNTQ5V3FjZW8xTnAza3hya3VsaDcwQktEN3NlS3UxYUU1MUFwUzUwTVpxMm92bDNfemR5eVhq?oc=5",
+        "date": "2025-12-23",
+        "title": "H\u00e9rault red flood alert after 300mm of rain hits southern France - The Connexion",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPSlNMbXo5RGxPYWdURGtmTTg3eWNLVjNkLW9mSVJtVExRcVhGX3JuVjFraEY5QnpIV2tXU1FmcVlaR0FpTDVWZ0gzLVlMUHViMk96MFdxLXRULVpjcjd1YWJIXzdVYThaWjl5dTloYUx3YXdvQVNxNTQ5V3FjZW8xTnAza3hya3VsaDcwQktEN3NlS3UxYUU1MUFwUzUwTVpxMm92bDNfemR5eVhq?oc=5\" target=\"_blank\">H\u00e9rault red flood alert after 300mm of rain hits southern France</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Connexion</font>",
+        "similarity_excluded": "No",
+        "score": 10,
+        "status": "posted",
+        "tweet": "\ud83c\uddeb\ud83c\uddf7 FORECAST H\u00e9rault: Red flood alert after 300mm rain; high risk of flash floods in southern France. (The Connexion)",
+        "type": "news",
+        "tweet_id": "2003404051384545568",
+        "geo": {
+            "country": "France",
+            "name": "H\u00e9rault",
+            "latitude": 43.6119,
+            "longitude": 3.8767,
+            "confidence": 0.95
+        }
     }
 ]
