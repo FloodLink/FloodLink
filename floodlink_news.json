@@ -5903,5 +5903,72 @@
         "score": 8,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE91SDgyZ0M5YWJHZjhFdnI2bVVBOE1PbjlvellyVTJUR0otc2hfZXBqZTBQMHphX0RUSUpISWQwU0dwSWVIY0N5NTBfSElraXhWa0l5NTlZQW54VTRDdEJrOEVUUDVMSzlNQWZnczl4VQ?oc=5",
+        "date": "2025-12-24",
+        "title": "Flash flood warning issued for Santa Barbara and Ventura counties until Wednesday morning - Sacramento Bee",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE91SDgyZ0M5YWJHZjhFdnI2bVVBOE1PbjlvellyVTJUR0otc2hfZXBqZTBQMHphX0RUSUpISWQwU0dwSWVIY0N5NTBfSElraXhWa0l5NTlZQW54VTRDdEJrOEVUUDVMSzlNQWZnczl4VQ?oc=5\" target=\"_blank\">Flash flood warning issued for Santa Barbara and Ventura counties until Wednesday morning</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sacramento Bee</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": null,
+        "tweet_id": "2003818442508452090",
+        "geo": {
+            "country": "United States",
+            "name": "Santa Barbara and Ventura counties",
+            "latitude": 34.35,
+            "longitude": -119.5,
+            "confidence": 1.0
+        }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5oejNQWnp6TVhQeDlWeUhnaVFIQWdqRVFDR0JnZjVfNTNNUkNIUnhLUDliYUZwZTkwc1RsMG5xRzJQaTczLTZzQXNYa1Jndzl2bjE3bHhsS3I2d3FCVHRXTmZJRTRHZjhLQnJZck1pMFE4M3QwMTJBVQ?oc=5",
+        "date": "2025-12-24",
+        "title": "UPDATE: Flood advisory affecting San Luis Obispo and Santa Barbara counties - San Luis Obispo Tribune",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE5oejNQWnp6TVhQeDlWeUhnaVFIQWdqRVFDR0JnZjVfNTNNUkNIUnhLUDliYUZwZTkwc1RsMG5xRzJQaTczLTZzQXNYa1Jndzl2bjE3bHhsS3I2d3FCVHRXTmZJRTRHZjhLQnJZck1pMFE4M3QwMTJBVQ?oc=5\" target=\"_blank\">UPDATE: Flood advisory affecting San Luis Obispo and Santa Barbara counties</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">San Luis Obispo Tribune</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVm5TdW03NVBQWXVPeWEzWGkyRzdXU0JiUUJDWTJHb0NLN0hNY0I4QUEwQWpKeVZSTXd5RjRZV3BOX1h5Tm9aWjJfc3dOMjdZYVBDU3Jxb3N4NGM3TkFIenhLTXc2ZVc0VDR5S2ExTGRYV3RjOEd5U3hxcVNmYXN4cjRnYnhVOVZEV3FGeGlKRmpvVWlscDdvNHIxcVBaa29WNnJTaGNhdjBfQVIyakRjV9IBtgFBVV95cUxQWEhSRlhPZXNEb0pobTdmaHhMbFJTN1YyTjE2T1VCVGRmWHhmYmRGbzd1M2xobVRTQzZzTTMxVDV5ZE9VX3lvUEhsc2FoLUhVejVuSUQ0WXo1Z1NZV3FRd1Ytb3RDYzFIa0JHTHUxRHhFenRhbmtlOUtOQ1pNcDNFVWJsekxzal9FQXNEanViRHFfZXNhUUNfbzZQbFBjZzhFalpIc2xuTVhieUlxSlZYVlMzWGVMZw?oc=5",
+        "date": "2025-12-24",
+        "title": "California drivers warned to reconsider Christmas travel plans ahead of storms - ABC News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOVm5TdW03NVBQWXVPeWEzWGkyRzdXU0JiUUJDWTJHb0NLN0hNY0I4QUEwQWpKeVZSTXd5RjRZV3BOX1h5Tm9aWjJfc3dOMjdZYVBDU3Jxb3N4NGM3TkFIenhLTXc2ZVc0VDR5S2ExTGRYV3RjOEd5U3hxcVNmYXN4cjRnYnhVOVZEV3FGeGlKRmpvVWlscDdvNHIxcVBaa29WNnJTaGNhdjBfQVIyakRjV9IBtgFBVV95cUxQWEhSRlhPZXNEb0pobTdmaHhMbFJTN1YyTjE2T1VCVGRmWHhmYmRGbzd1M2xobVRTQzZzTTMxVDV5ZE9VX3lvUEhsc2FoLUhVejVuSUQ0WXo1Z1NZV3FRd1Ytb3RDYzFIa0JHTHUxRHhFenRhbmtlOUtOQ1pNcDNFVWJsekxzal9FQXNEanViRHFfZXNhUUNfbzZQbFBjZzhFalpIc2xuTVhieUlxSlZYVlMzWGVMZw?oc=5\" target=\"_blank\">California drivers warned to reconsider Christmas travel plans ahead of storms</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ABC News</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNYllNWWY0SDZVVFIweGl6TFMzc1pzQXE0ejhPODh4MXc1bm9ocE40bVduSTktR3Q2aXdjMDVzVUFhZGxnTGhPUUJTeVlxc1VpNWJ0blQ5eW9xRGtlMnQ3blphYlZRVWNEOUk1OXM2LXd2dFpWR0JmMW9aWGZfVEhFOWQ3NGU4X2VkSWZDdUFqbw?oc=5",
+        "date": "2025-12-24",
+        "title": "Dangerous holiday storm slams California, flooding threatens travel - Straight Arrow News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxNYllNWWY0SDZVVFIweGl6TFMzc1pzQXE0ejhPODh4MXc1bm9ocE40bVduSTktR3Q2aXdjMDVzVUFhZGxnTGhPUUJTeVlxc1VpNWJ0blQ5eW9xRGtlMnQ3blphYlZRVWNEOUk1OXM2LXd2dFpWR0JmMW9aWGZfVEhFOWQ3NGU4X2VkSWZDdUFqbw?oc=5\" target=\"_blank\">Dangerous holiday storm slams California, flooding threatens travel</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Straight Arrow News</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE91SDgyZ0M5YWJHZjhFdnI2bVVBOE1PbjlvellyVTJUR0otc2hfZXBqZTBQMHphX0RUSUpISWQwU0dwSWVIY0N5NTBfSElraXhWa0l5NTlZQW54VTRDdEJrOEVUUDVMSzlNQWZnczl4VQ?oc=5",
+        "date": "2025-12-24",
+        "title": "Flash flood warning issued for Santa Barbara and Ventura counties until Wednesday morning - Sacramento Bee",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE91SDgyZ0M5YWJHZjhFdnI2bVVBOE1PbjlvellyVTJUR0otc2hfZXBqZTBQMHphX0RUSUpISWQwU0dwSWVIY0N5NTBfSElraXhWa0l5NTlZQW54VTRDdEJrOEVUUDVMSzlNQWZnczl4VQ?oc=5\" target=\"_blank\">Flash flood warning issued for Santa Barbara and Ventura counties until Wednesday morning</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sacramento Bee</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 FORECAST Santa Barbara & Ventura Counties: Flash flood warning until Wednesday morning, with risk of life-threatening flash flooding. (Sacramento Bee)",
+        "type": "news",
+        "tweet_id": "2003818442508452090",
+        "geo": {
+            "country": "United States",
+            "name": "Santa Barbara and Ventura counties",
+            "latitude": 34.35,
+            "longitude": -119.5,
+            "confidence": 1.0
+        }
     }
 ]
