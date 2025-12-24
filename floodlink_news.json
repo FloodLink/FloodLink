@@ -5854,5 +5854,14 @@
         "score": 0,
         "status": "skipped",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2025-12-24",
+        "status": "posted",
+        "tweet": "By 2050, sea-level rise could expose 300 million people in coastal cities worldwide to annual flooding from storm surge and extreme rainfall\u2014up from 200 million today.",
+        "type": "statistical",
+        "category": "coastal cities at risk from sea-level rise and storm surge",
+        "tweet_id": "2003781360524144969"
     }
 ]
