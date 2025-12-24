@@ -423,10 +423,14 @@
     "rain_mm": 34.75,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 6.646,
-    "last_updated": "2025-12-23T12:55:23.076943Z",
+    "last_updated": "2025-12-24T00:59:33.335450Z",
     "last_tweeted_at": "2025-12-23T12:55:23.076943Z",
     "tweet_id": "2003449524124045778",
-    "resolved": false
+    "resolved": false,
+    "pending_downgrade": true,
+    "pending_target_level": "Low",
+    "pending_set_at": "2025-12-24T00:59:33.335450Z",
+    "pending_is_region": true
   },
   "34.4833,136.6333": {
     "country": "Japan",
@@ -438,7 +442,7 @@
     "rain_mm": 34.75,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 6.646,
-    "last_updated": "2025-12-23T12:55:23.076943Z",
+    "last_updated": "2025-12-24T00:59:33.335450Z",
     "last_tweeted_at": "2025-12-23T12:55:23.076943Z",
     "tweet_id": "2003449524124045778",
     "resolved": false
@@ -453,7 +457,7 @@
     "rain_mm": 34.75,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 6.646,
-    "last_updated": "2025-12-23T12:55:23.076943Z",
+    "last_updated": "2025-12-24T00:59:33.335450Z",
     "last_tweeted_at": "2025-12-23T12:55:23.076943Z",
     "tweet_id": "2003449524124045778",
     "resolved": false
@@ -468,7 +472,7 @@
     "rain_mm": 34.75,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 6.646,
-    "last_updated": "2025-12-23T12:55:23.076943Z",
+    "last_updated": "2025-12-24T00:59:33.335450Z",
     "last_tweeted_at": "2025-12-23T12:55:23.076943Z",
     "tweet_id": "2003449524124045778",
     "resolved": false
@@ -506,10 +510,18 @@
     "rain_mm": 41.25,
     "soil_moisture": 0.707,
     "raw_dynamic_score": 6.796,
-    "last_updated": "2025-12-23T15:28:48.486230Z",
+    "last_updated": "2025-12-24T00:59:33.335450Z",
     "last_tweeted_at": "2025-12-23T15:28:48.486230Z",
     "tweet_id": "2003491785709072697",
-    "resolved": false
+    "resolved": false,
+    "pending_downgrade": true,
+    "pending_target_level": "Low",
+    "pending_set_at": "2025-12-24T00:59:33.335450Z",
+    "pending_is_region": false,
+    "pending_observed_level": "Low",
+    "pending_observed_rain_mm": 5.62,
+    "pending_observed_soil_moisture": 0.669,
+    "pending_observed_raw_dynamic_score": 0.908
   },
   "-19.5291,45.4556": {
     "country": "Madagascar",
@@ -521,9 +533,32 @@
     "rain_mm": 58.19,
     "soil_moisture": 0.582,
     "raw_dynamic_score": 8.93,
-    "last_updated": "2025-12-23T15:28:48.486230Z",
+    "last_updated": "2025-12-24T00:59:33.335450Z",
     "last_tweeted_at": "2025-12-23T15:28:48.486230Z",
     "tweet_id": "2003491912356114456",
+    "resolved": false,
+    "pending_downgrade": true,
+    "pending_target_level": "Low",
+    "pending_set_at": "2025-12-24T00:59:33.335450Z",
+    "pending_is_region": false,
+    "pending_observed_level": "Low",
+    "pending_observed_rain_mm": 24.06,
+    "pending_observed_soil_moisture": 0.587,
+    "pending_observed_raw_dynamic_score": 3.704
+  },
+  "-3.8917,-59.0954": {
+    "country": "Brazil",
+    "name": "Nova Olinda do Norte",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": -3.89174,
+    "longitude": -59.09542,
+    "rain_mm": 58.19,
+    "soil_moisture": 0.711,
+    "raw_dynamic_score": 9.612,
+    "last_updated": "2025-12-24T00:59:33.335450Z",
+    "last_tweeted_at": "2025-12-24T00:59:33.335450Z",
+    "tweet_id": "2003631641114431856",
     "resolved": false
   }
 }
