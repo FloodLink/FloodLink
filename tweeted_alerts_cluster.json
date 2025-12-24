@@ -9,7 +9,7 @@
     "rain_mm": 81.19,
     "soil_moisture": 0.717,
     "raw_dynamic_score": 13.452,
-    "last_updated": "2025-12-24T09:18:11.043163Z",
+    "last_updated": "2025-12-24T12:25:06.544953Z",
     "last_tweeted_at": "2025-12-20T12:48:31.001933Z",
     "tweet_id": "2002360502677069901",
     "resolved": false
@@ -24,7 +24,7 @@
     "rain_mm": 41.56,
     "soil_moisture": 0.687,
     "raw_dynamic_score": 6.775,
-    "last_updated": "2025-12-20T12:48:31.001933Z",
+    "last_updated": "2025-12-24T12:25:06.544953Z",
     "last_tweeted_at": "2025-12-20T12:48:31.001933Z",
     "tweet_id": "2002360502677069901",
     "resolved": false
@@ -118,54 +118,6 @@
     "last_tweeted_at": "2025-12-21T06:37:55.496448Z",
     "tweet_id": "2002639843390632169",
     "resolved": false
-  },
-  "44.0997,3.0785": {
-    "country": "France",
-    "name": "Millau",
-    "risk_level": "Low",
-    "tweeted_level": "Low",
-    "latitude": 44.09973,
-    "longitude": 3.07848,
-    "rain_mm": 0.88,
-    "soil_moisture": 0.671,
-    "raw_dynamic_score": 0.141,
-    "last_updated": "2025-12-23T09:31:33.061939Z",
-    "last_tweeted_at": "2025-12-23T09:31:33.061939Z",
-    "tweet_id": "2003398223524745270",
-    "resolved": true,
-    "resolved_at": "2025-12-23T09:31:33.061939Z"
-  },
-  "-12.1688,26.3894": {
-    "country": "Zambia",
-    "name": "Solwezi",
-    "risk_level": "Low",
-    "tweeted_level": "Low",
-    "latitude": -12.1688,
-    "longitude": 26.38938,
-    "rain_mm": 2.88,
-    "soil_moisture": 0.624,
-    "raw_dynamic_score": 0.452,
-    "last_updated": "2025-12-23T09:31:33.061939Z",
-    "last_tweeted_at": "2025-12-23T09:31:33.061939Z",
-    "tweet_id": "2003398350368890891",
-    "resolved": true,
-    "resolved_at": "2025-12-23T09:31:33.061939Z"
-  },
-  "-12.0951,26.4273": {
-    "country": "Zambia",
-    "name": "Kansanshi",
-    "risk_level": "Low",
-    "tweeted_level": "Low",
-    "latitude": -12.09514,
-    "longitude": 26.42727,
-    "rain_mm": 3.94,
-    "soil_moisture": 0.639,
-    "raw_dynamic_score": 0.625,
-    "last_updated": "2025-12-23T09:31:33.061939Z",
-    "last_tweeted_at": "2025-12-23T09:31:33.061939Z",
-    "tweet_id": "2003398350368890891",
-    "resolved": true,
-    "resolved_at": "2025-12-23T09:31:33.061939Z"
   },
   "36.5978,30.5606": {
     "country": "Türkiye",
@@ -487,7 +439,7 @@
     "rain_mm": 85.69,
     "soil_moisture": 0.747,
     "raw_dynamic_score": 14.429,
-    "last_updated": "2025-12-24T06:22:22.099867Z",
+    "last_updated": "2025-12-24T12:25:06.544953Z",
     "last_tweeted_at": "2025-12-24T06:22:22.099867Z",
     "tweet_id": "2003730888496918725",
     "resolved": false
@@ -502,10 +454,14 @@
     "rain_mm": 81.19,
     "soil_moisture": 0.745,
     "raw_dynamic_score": 13.655,
-    "last_updated": "2025-12-24T09:18:11.043163Z",
+    "last_updated": "2025-12-24T12:25:06.544953Z",
     "last_tweeted_at": "2025-12-24T06:22:22.099867Z",
     "tweet_id": "2003730888496918725",
-    "resolved": false
+    "resolved": false,
+    "pending_downgrade": true,
+    "pending_target_level": "Low",
+    "pending_set_at": "2025-12-24T12:25:06.544953Z",
+    "pending_is_region": true
   },
   "-2.6283,-56.7358": {
     "country": "Brazil",
@@ -517,7 +473,7 @@
     "rain_mm": 61.31,
     "soil_moisture": 0.727,
     "raw_dynamic_score": 10.212,
-    "last_updated": "2025-12-24T06:22:22.099867Z",
+    "last_updated": "2025-12-24T12:25:06.544953Z",
     "last_tweeted_at": "2025-12-24T06:22:22.099867Z",
     "tweet_id": "2003730888496918725",
     "resolved": false
@@ -532,7 +488,7 @@
     "rain_mm": 121.19,
     "soil_moisture": 0.761,
     "raw_dynamic_score": 20.566,
-    "last_updated": "2025-12-24T06:22:22.099867Z",
+    "last_updated": "2025-12-24T12:25:06.544953Z",
     "last_tweeted_at": "2025-12-24T06:22:22.099867Z",
     "tweet_id": "2003730888496918725",
     "resolved": false
@@ -547,7 +503,7 @@
     "rain_mm": 91.81,
     "soil_moisture": 0.766,
     "raw_dynamic_score": 15.62,
-    "last_updated": "2025-12-24T06:22:22.099867Z",
+    "last_updated": "2025-12-24T12:25:06.544953Z",
     "last_tweeted_at": "2025-12-24T06:22:22.099867Z",
     "tweet_id": "2003730888496918725",
     "resolved": false
@@ -562,10 +518,14 @@
     "rain_mm": 67.88,
     "soil_moisture": 0.713,
     "raw_dynamic_score": 11.222,
-    "last_updated": "2025-12-24T06:22:22.099867Z",
+    "last_updated": "2025-12-24T12:25:06.544953Z",
     "last_tweeted_at": "2025-12-24T06:22:22.099867Z",
     "tweet_id": "2003731015425012056",
-    "resolved": false
+    "resolved": false,
+    "pending_downgrade": true,
+    "pending_target_level": "Low",
+    "pending_set_at": "2025-12-24T12:25:06.544953Z",
+    "pending_is_region": true
   },
   "-7.3817,108.2082": {
     "country": "Indonesia",
@@ -600,7 +560,7 @@
     "rain_mm": 89.56,
     "soil_moisture": 0.683,
     "raw_dynamic_score": 14.567,
-    "last_updated": "2025-12-24T09:18:11.043163Z",
+    "last_updated": "2025-12-24T12:25:06.544953Z",
     "last_tweeted_at": "2025-12-24T09:18:11.043163Z",
     "tweet_id": "2003757247927562291",
     "resolved": false
@@ -615,10 +575,18 @@
     "rain_mm": 40.69,
     "soil_moisture": 0.735,
     "raw_dynamic_score": 6.807,
-    "last_updated": "2025-12-24T09:18:11.043163Z",
+    "last_updated": "2025-12-24T12:25:06.544953Z",
     "last_tweeted_at": "2025-12-24T09:18:11.043163Z",
     "tweet_id": "2003757121280614683",
-    "resolved": false
+    "resolved": false,
+    "pending_downgrade": true,
+    "pending_target_level": "Low",
+    "pending_set_at": "2025-12-24T12:25:06.544953Z",
+    "pending_is_region": false,
+    "pending_observed_level": "Low",
+    "pending_observed_rain_mm": 2.81,
+    "pending_observed_soil_moisture": 0.692,
+    "pending_observed_raw_dynamic_score": 0.46
   },
   "34.2164,-119.0376": {
     "country": "United States",
@@ -753,6 +721,21 @@
     "last_updated": "2025-12-24T09:18:11.043163Z",
     "last_tweeted_at": "2025-12-24T09:18:11.043163Z",
     "tweet_id": "2003757247927562291",
+    "resolved": false
+  },
+  "-7.6072,109.5142": {
+    "country": "Indonesia",
+    "name": "Gombong",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": -7.60722,
+    "longitude": 109.51417,
+    "rain_mm": 41.94,
+    "soil_moisture": 0.674,
+    "raw_dynamic_score": 6.786,
+    "last_updated": "2025-12-24T12:25:06.544953Z",
+    "last_tweeted_at": "2025-12-24T12:25:06.544953Z",
+    "tweet_id": "2003804164422262878",
     "resolved": false
   }
 }
