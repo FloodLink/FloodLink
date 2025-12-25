@@ -7120,5 +7120,35 @@
             "longitude": -122.1,
             "confidence": 0.95
         }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1ETzVaUFRRTF9abkpRazM2b1U5RWRIeWdWY3Vwczk0SGlyNmFta1JWX19YSjVqMzJ6RnN5SlZ4cjhTWE56SkJFS2pPMXJ3TmoyVWpSajVUUC02LUU1RUR5WllRUGNRaFAxc0lpdmNkRQ?oc=5",
+        "date": "2025-12-25",
+        "title": "UPDATE: Flood warning active for Kern County until Thursday morning - Modesto Bee",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE1ETzVaUFRRTF9abkpRazM2b1U5RWRIeWdWY3Vwczk0SGlyNmFta1JWX19YSjVqMzJ6RnN5SlZ4cjhTWE56SkJFS2pPMXJ3TmoyVWpSajVUUC02LUU1RUR5WllRUGNRaFAxc0lpdmNkRQ?oc=5\" target=\"_blank\">UPDATE: Flood warning active for Kern County until Thursday morning</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Modesto Bee</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1RZEdQb04tWEtqUGFBdEFBTWxtVnY4SmtteUtqai1sME1tdEF5ZmhhNUJXT1FsSEhpSmVLQlgwQ2xLemRUS0tHblZvcV9MMGxCeHZGR1diYUZQcW1jSHQxQXdEeU9qNzRzcEZHcU9RcjE0bUFkdE1ZZg?oc=5",
+        "date": "2025-12-25",
+        "title": "UPDATE: Damaging winds predicted with thunderstorms in Alameda and Santa Clara counties Thursday - San Luis Obispo Tribune",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE1RZEdQb04tWEtqUGFBdEFBTWxtVnY4SmtteUtqai1sME1tdEF5ZmhhNUJXT1FsSEhpSmVLQlgwQ2xLemRUS0tHblZvcV9MMGxCeHZGR1diYUZQcW1jSHQxQXdEeU9qNzRzcEZHcU9RcjE0bUFkdE1ZZg?oc=5\" target=\"_blank\">UPDATE: Damaging winds predicted with thunderstorms in Alameda and Santa Clara counties Thursday</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">San Luis Obispo Tribune</font>",
+        "similarity_excluded": "No",
+        "score": 1,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQnRaY0tUMHgzN0lEWGYybzFTaGd0aEdXbkw1WVpmeWRQSWEySFBqWEtybUIzTmtZWkxuREsySURGbk9tYXZ1R3JBdXJRVWdwZDk0dEltVDQ1NGpCSU5kR2pwMGxkWWU1TnF1b0ZYQjcwbVM0c3ByWGNCOGJtRzBrZm5XUVYzNE1HbUU2Qmk1Z0w5S0ctNzNRLXgySW14Z28?oc=5",
+        "date": "2025-12-25",
+        "title": "Atmospheric river drenches Los Angeles, triggers widespread flooding - wibqam.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxOQnRaY0tUMHgzN0lEWGYybzFTaGd0aEdXbkw1WVpmeWRQSWEySFBqWEtybUIzTmtZWkxuREsySURGbk9tYXZ1R3JBdXJRVWdwZDk0dEltVDQ1NGpCSU5kR2pwMGxkWWU1TnF1b0ZYQjcwbVM0c3ByWGNCOGJtRzBrZm5XUVYzNE1HbUU2Qmk1Z0w5S0ctNzNRLXgySW14Z28?oc=5\" target=\"_blank\">Atmospheric river drenches Los Angeles, triggers widespread flooding</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">wibqam.com</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
     }
 ]
