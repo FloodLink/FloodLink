@@ -6680,5 +6680,14 @@
         "score": 9,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2025-12-25",
+        "status": "posted",
+        "tweet": "In 2020, ~30M people in the US lived in 100-year floodplains exposed to flash floods & storm surge.  \nBy 2025 projections, this rises to 35M (11% of population) due to extreme rainfall & sea level rise.",
+        "type": "statistical",
+        "category": "population living in floodplains",
+        "tweet_id": "2004037575808569742"
     }
 ]
