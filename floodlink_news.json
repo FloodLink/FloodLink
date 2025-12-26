@@ -7350,5 +7350,14 @@
         "score": 0,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2025-12-26",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 US: 25M urban residents exposed to river flooding in 2020.  \n\ud83c\uddea\ud83c\uddfa EU: 18M.  \nBy 2025, projections show 30M in US vs. 22M in EU due to extreme rainfall intensification.",
+        "type": "statistical",
+        "category": "urban areas exposed to river flooding",
+        "tweet_id": "2004611169898955095"
     }
 ]
