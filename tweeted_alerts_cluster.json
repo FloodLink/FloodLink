@@ -725,10 +725,18 @@
     "rain_mm": 48.31,
     "soil_moisture": 0.592,
     "raw_dynamic_score": 7.459,
-    "last_updated": "2025-12-26T09:15:56.995071Z",
+    "last_updated": "2025-12-26T21:12:12.516333Z",
     "last_tweeted_at": "2025-12-26T09:15:56.995071Z",
     "tweet_id": "2004481460909044127",
-    "resolved": false
+    "resolved": false,
+    "pending_downgrade": true,
+    "pending_target_level": "Low",
+    "pending_set_at": "2025-12-26T21:12:12.516333Z",
+    "pending_is_region": false,
+    "pending_observed_level": "Low",
+    "pending_observed_rain_mm": 11.88,
+    "pending_observed_soil_moisture": 0.623,
+    "pending_observed_raw_dynamic_score": 1.867
   },
   "4.1842,102.0468": {
     "country": "Malaysia",
@@ -847,10 +855,14 @@
     "rain_mm": 52.75,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 10.088,
-    "last_updated": "2025-12-26T18:19:24.539425Z",
+    "last_updated": "2025-12-26T21:12:12.516333Z",
     "last_tweeted_at": "2025-12-26T18:19:24.539425Z",
     "tweet_id": "2004618229109444706",
-    "resolved": false
+    "resolved": false,
+    "pending_downgrade": true,
+    "pending_target_level": "Medium",
+    "pending_set_at": "2025-12-26T21:12:12.516333Z",
+    "pending_is_region": true
   },
   "2.8136,101.5019": {
     "country": "Malaysia",
@@ -862,7 +874,7 @@
     "rain_mm": 104.44,
     "soil_moisture": 0.74,
     "raw_dynamic_score": 17.521,
-    "last_updated": "2025-12-26T18:19:24.539425Z",
+    "last_updated": "2025-12-26T21:12:12.516333Z",
     "last_tweeted_at": "2025-12-26T18:19:24.539425Z",
     "tweet_id": "2004618229109444706",
     "resolved": false
@@ -877,7 +889,7 @@
     "rain_mm": 104.44,
     "soil_moisture": 0.74,
     "raw_dynamic_score": 17.521,
-    "last_updated": "2025-12-26T18:19:24.539425Z",
+    "last_updated": "2025-12-26T21:12:12.516333Z",
     "last_tweeted_at": "2025-12-26T18:19:24.539425Z",
     "tweet_id": "2004618229109444706",
     "resolved": false
@@ -892,7 +904,7 @@
     "rain_mm": 104.44,
     "soil_moisture": 0.74,
     "raw_dynamic_score": 17.521,
-    "last_updated": "2025-12-26T18:19:24.539425Z",
+    "last_updated": "2025-12-26T21:12:12.516333Z",
     "last_tweeted_at": "2025-12-26T18:19:24.539425Z",
     "tweet_id": "2004618229109444706",
     "resolved": false
@@ -907,7 +919,7 @@
     "rain_mm": 52.75,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 10.088,
-    "last_updated": "2025-12-26T18:19:24.539425Z",
+    "last_updated": "2025-12-26T21:12:12.516333Z",
     "last_tweeted_at": "2025-12-26T18:19:24.539425Z",
     "tweet_id": "2004618229109444706",
     "resolved": false
@@ -955,6 +967,21 @@
     "last_updated": "2025-12-26T18:19:24.539425Z",
     "last_tweeted_at": "2025-12-26T18:19:24.539425Z",
     "tweet_id": "2004618355659931930",
+    "resolved": false
+  },
+  "-18.0635,44.0295": {
+    "country": "Madagascar",
+    "name": "Maintirano",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": -18.06354,
+    "longitude": 44.02951,
+    "rain_mm": 35.62,
+    "soil_moisture": 1.0,
+    "raw_dynamic_score": 6.813,
+    "last_updated": "2025-12-26T21:12:12.516333Z",
+    "last_tweeted_at": "2025-12-26T21:12:12.516333Z",
+    "tweet_id": "2004661591007240499",
     "resolved": false
   }
 }
