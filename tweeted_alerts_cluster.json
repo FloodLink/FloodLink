@@ -347,26 +347,6 @@
     "pending_observed_soil_moisture": 1.0,
     "pending_observed_raw_dynamic_score": 0.155
   },
-  "3.9360,102.3626": {
-    "country": "Malaysia",
-    "name": "Jerantut",
-    "risk_level": "Low",
-    "tweeted_level": "High",
-    "latitude": 3.936,
-    "longitude": 102.3626,
-    "rain_mm": 6.88,
-    "soil_moisture": 0.58,
-    "raw_dynamic_score": 1.054,
-    "last_updated": "2025-12-27T09:11:38.812003Z",
-    "last_tweeted_at": "2025-12-26T18:19:24.539425Z",
-    "tweet_id": "2004618102399553751",
-    "resolved": true,
-    "resolved_at": "2025-12-26T18:19:24.539425Z",
-    "pending_downgrade": true,
-    "pending_target_level": "Low",
-    "pending_set_at": "2025-12-27T09:11:38.812003Z",
-    "pending_is_region": true
-  },
   "-16.1153,33.7294": {
     "country": "Mozambique",
     "name": "Moatize",
@@ -470,22 +450,6 @@
     "pending_observed_soil_moisture": 0.623,
     "pending_observed_raw_dynamic_score": 1.867
   },
-  "4.1842,102.0468": {
-    "country": "Malaysia",
-    "name": "Kuala Lipis",
-    "risk_level": "Low",
-    "tweeted_level": "High",
-    "latitude": 4.1842,
-    "longitude": 102.0468,
-    "rain_mm": 1.81,
-    "soil_moisture": 0.539,
-    "raw_dynamic_score": 0.271,
-    "last_updated": "2025-12-27T09:11:38.812003Z",
-    "last_tweeted_at": "2025-12-26T18:19:24.539425Z",
-    "tweet_id": "2004618102399553751",
-    "resolved": true,
-    "resolved_at": "2025-12-26T18:19:24.539425Z"
-  },
   "-18.6667,44.6167": {
     "country": "Madagascar",
     "name": "Antsalova",
@@ -561,7 +525,7 @@
     "rain_mm": 85.31,
     "soil_moisture": 0.694,
     "raw_dynamic_score": 13.962,
-    "last_updated": "2025-12-27T09:11:38.812003Z",
+    "last_updated": "2025-12-27T18:35:11.517721Z",
     "last_tweeted_at": "2025-12-26T18:19:24.539425Z",
     "tweet_id": "2004618102399553751",
     "resolved": false
