@@ -6722,5 +6722,14 @@
         "score": 6,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2025-12-27",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 US dams & reservoirs cut 2024 extreme rainfall flood losses by 25% ($8B saved, 4M protected) vs 2020's $12B unprotected damages in Midwest storms.  \n\ud83c\uddea\ud83c\uddfa Europe's levee upgrades post-2021 floods reduced exposure for 12M by 35%, down from 18M at risk.",
+        "type": "statistical",
+        "category": "dams, levees and reservoirs used for flood control",
+        "tweet_id": "2004760795326935305"
     }
 ]
