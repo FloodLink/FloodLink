@@ -6930,5 +6930,15 @@
         "score": 3,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNVURVTVpneDVrUEdiM0FyNThOZmJPVnEzeE9ZcEZFQ2ZlUXM1dk1FZGRHSHlrRk5zeFhKeUdTSWRYbTI5MlNBUklfY2tkSzU4b3dmelg2MEc1dUpsLWl1Wm1sZHRUY1F6Q3g0NnRBRlBSbmxtRjZTdTVoUzB3Tk9fdy0yaHVjYjVUSkI3YVRYdG5Yc05Ja0JJYnl5R081YTNqdTlSX1dKMVlpbzhCMVRScmlid19Gb0Vid0dtalE0Q3pmQ3BGX1RsUVhRQnByR3ROSUtteTVGbw?oc=5",
+        "date": "2025-12-27",
+        "title": "Flash Flood Warning issued for parts of LA, Ventura counties - ABC7 Los Angeles",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxNVURVTVpneDVrUEdiM0FyNThOZmJPVnEzeE9ZcEZFQ2ZlUXM1dk1FZGRHSHlrRk5zeFhKeUdTSWRYbTI5MlNBUklfY2tkSzU4b3dmelg2MEc1dUpsLWl1Wm1sZHRUY1F6Q3g0NnRBRlBSbmxtRjZTdTVoUzB3Tk9fdy0yaHVjYjVUSkI3YVRYdG5Yc05Ja0JJYnl5R081YTNqdTlSX1dKMVlpbzhCMVRScmlid19Gb0Vid0dtalE0Q3pmQ3BGX1RsUVhRQnByR3ROSUtteTVGbw?oc=5\" target=\"_blank\">Flash Flood Warning issued for parts of LA, Ventura counties</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ABC7 Los Angeles</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
     }
 ]
