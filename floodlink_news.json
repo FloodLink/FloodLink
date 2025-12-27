@@ -6811,5 +6811,14 @@
         "score": 0,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2025-12-27",
+        "status": "posted",
+        "tweet": "In 2020, 1.8 billion people globally lived in river floodplains vulnerable to extreme rainfall and flash floods.  \nBy 2025, projections show this rising to 2.0 billion, driven by urbanization in South Asia.",
+        "type": "statistical",
+        "category": "population living in floodplains",
+        "tweet_id": "2004784015044477221"
     }
 ]
