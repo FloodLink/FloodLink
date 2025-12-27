@@ -437,11 +437,15 @@
     "rain_mm": 6.88,
     "soil_moisture": 0.58,
     "raw_dynamic_score": 1.054,
-    "last_updated": "2025-12-26T18:19:24.539425Z",
+    "last_updated": "2025-12-27T09:11:38.812003Z",
     "last_tweeted_at": "2025-12-26T18:19:24.539425Z",
     "tweet_id": "2004618102399553751",
     "resolved": true,
-    "resolved_at": "2025-12-26T18:19:24.539425Z"
+    "resolved_at": "2025-12-26T18:19:24.539425Z",
+    "pending_downgrade": true,
+    "pending_target_level": "Low",
+    "pending_set_at": "2025-12-27T09:11:38.812003Z",
+    "pending_is_region": true
   },
   "-16.1153,33.7294": {
     "country": "Mozambique",
@@ -556,7 +560,7 @@
     "rain_mm": 1.81,
     "soil_moisture": 0.539,
     "raw_dynamic_score": 0.271,
-    "last_updated": "2025-12-26T18:19:24.539425Z",
+    "last_updated": "2025-12-27T09:11:38.812003Z",
     "last_tweeted_at": "2025-12-26T18:19:24.539425Z",
     "tweet_id": "2004618102399553751",
     "resolved": true,
@@ -637,7 +641,7 @@
     "rain_mm": 85.31,
     "soil_moisture": 0.694,
     "raw_dynamic_score": 13.962,
-    "last_updated": "2025-12-26T18:19:24.539425Z",
+    "last_updated": "2025-12-27T09:11:38.812003Z",
     "last_tweeted_at": "2025-12-26T18:19:24.539425Z",
     "tweet_id": "2004618102399553751",
     "resolved": false
@@ -652,7 +656,7 @@
     "rain_mm": 43.81,
     "soil_moisture": 0.694,
     "raw_dynamic_score": 7.168,
-    "last_updated": "2025-12-26T18:19:24.539425Z",
+    "last_updated": "2025-12-27T09:11:38.812003Z",
     "last_tweeted_at": "2025-12-26T18:19:24.539425Z",
     "tweet_id": "2004618102399553751",
     "resolved": false
