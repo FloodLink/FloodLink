@@ -79,6 +79,12 @@ TWEET_LEVELS = ["Medium", "High", "Extreme"]   # which levels are tweet-worthy a
 ALERT_ON_UPGRADES   = True                     # Medium→High, High→Extreme
 ALERT_ON_DOWNGRADES = True                     # High→Medium, Extreme→High (and lower)
 
+# ✅ NEW: fine-grained control for "drop below Medium" downgrade tweets (to Low/None)
+# These only matter when ALERT_ON_DOWNGRADES=True and the downgrade target is Low/None.
+TWEET_DOWNGRADE_TO_LOWNONE_FROM_MEDIUM  = False
+TWEET_DOWNGRADE_TO_LOWNONE_FROM_HIGH    = True
+TWEET_DOWNGRADE_TO_LOWNONE_FROM_EXTREME = True
+
 LEVELS = ["None", "Low", "Medium", "High", "Extreme"]
 
 # -------------------------------
@@ -651,6 +657,15 @@ def level_index(lvl: str) -> int:
     except Exception:
         return 0
 
+def has_prior_tweet(entry: dict) -> bool:
+    """
+    ✅ NEW: tweeted_alerts_cluster.json is now a LIVE state store, so entries may exist even if never tweeted.
+    We only treat it as "prior tweet exists" if tweet metadata is present.
+    """
+    if not entry:
+        return False
+    return bool(entry.get("tweet_id") and entry.get("last_tweeted_at"))
+
 def get_tweeted_level(entry: dict) -> str:
     # tweeted_level = last level that was ACTUALLY tweeted (cooldown anchor for severity)
     return entry.get("tweeted_level") or entry.get("risk_level", "None")
@@ -659,14 +674,15 @@ def decide_effective_change(change_type: str, current_level: str, last_entry: di
     """
     Returns one of: "New", "Upgrade", "Downgrade", or "Skip"
     based on what was ACTUALLY tweeted (tweeted_level), not comparison snapshots.
+
+    ✅ IMPORTANT: last_entry may exist even if never tweeted (live store).
     """
     cur_i = level_index(current_level)
 
-    if last_entry is None:
-        # No prior tweet: treat Upgrade as New (if tweet-worthy)
+    # ✅ No prior tweet: allow only NEW alert (at tweet-worthy levels). Never downgrade.
+    if not has_prior_tweet(last_entry):
         if change_type in ("Upgrade", "New") and current_level in TWEET_LEVELS:
             return "New"
-        # Never tweet Downgrade without a prior tweet
         return "Skip"
 
     tweeted_lvl = get_tweeted_level(last_entry)
@@ -702,6 +718,43 @@ def clear_pending(entry: dict):
     entry.pop("pending_target_level", None)
     entry.pop("pending_set_at", None)
     entry.pop("pending_is_region", None)
+
+def upsert_live_state_entry(tweeted_alerts: dict, alert: dict, now_z: str):
+    """
+    ✅ NEW: tweeted_alerts_cluster.json becomes a LIVE STATE STORE.
+
+    Always refreshed (every run):
+      - risk_level
+      - rain_mm
+      - soil_moisture
+      - raw_dynamic_score
+      - last_updated
+
+    If something was tweeted, it ALSO has (and we must preserve):
+      - tweet_id
+      - tweeted_level
+      - last_tweeted_at
+
+    If never tweeted, those fields should be missing (and we do not create them).
+    """
+    ck = f"{alert['latitude']:.4f},{alert['longitude']:.4f}"
+    entry = tweeted_alerts.get(ck, {})
+
+    # Always keep stable identity fields up to date
+    entry["country"] = alert.get("country", entry.get("country", ""))
+    entry["name"] = alert.get("name", entry.get("name", ""))
+    entry["latitude"] = alert.get("latitude", entry.get("latitude"))
+    entry["longitude"] = alert.get("longitude", entry.get("longitude"))
+
+    # Live fields (always refreshed)
+    entry["risk_level"] = alert.get("dynamic_level", entry.get("risk_level", "None"))
+    entry["rain_mm"] = alert.get(f"rain_{FORECAST_HOURS}h_mm", entry.get("rain_mm"))
+    entry["soil_moisture"] = alert.get("soil_moisture_avg", entry.get("soil_moisture"))
+    entry["raw_dynamic_score"] = alert.get("raw_dynamic_score", entry.get("raw_dynamic_score"))
+    entry["last_updated"] = now_z
+
+    tweeted_alerts[ck] = entry
+    return ck, entry
 
 
 #CLEANER TEXT
@@ -946,7 +999,7 @@ def compare_alerts(prev, curr):
     Tweet when:
       • First time we see a site at a tweet-worthy level (Medium/High/Extreme)
       • Any UPGRADE into a tweet-worthy level
-      • Downgrades from tweet-worthy levels (optional)
+      • Downgrades from tweet-worthy levels (optional, with fine-grained Low/None toggles)
 
     NOTE: final gating (upgrade requires prior tweet; downgrade requires prior tweet and cooldown)
           is handled later in the tweeting loop using tweeted_alerts log.
@@ -974,6 +1027,15 @@ def compare_alerts(prev, curr):
 
         # Downgrades from tweet-worthy levels (prev in tweet-levels)
         if ALERT_ON_DOWNGRADES and cur_i < prev_i and prev_lvl in TWEET_LEVELS:
+            # ✅ NEW: if dropping to Low/None, apply per-origin toggles
+            if cur_lvl not in TWEET_LEVELS:
+                if prev_lvl == "Medium" and not TWEET_DOWNGRADE_TO_LOWNONE_FROM_MEDIUM:
+                    continue
+                if prev_lvl == "High" and not TWEET_DOWNGRADE_TO_LOWNONE_FROM_HIGH:
+                    continue
+                if prev_lvl == "Extreme" and not TWEET_DOWNGRADE_TO_LOWNONE_FROM_EXTREME:
+                    continue
+
             changes.append(("Downgrade", c))
 
     return changes
@@ -996,30 +1058,17 @@ def save_tweeted_alerts(tweeted):
 
 def cleanup_tweeted_alerts(tweeted, valid_coords, now_utc):
     """
-    Keep only coordinates that still exist in the CSV.
-    If resolved, keep for at least COOLDOWN_HOURS since resolved_at.
+    ✅ LIVE STATE STORE behaviour:
+      - Keep ONLY coordinates that still exist in the CSV.
+      - Do NOT purge "resolved" entries on a timer anymore, because we want a persistent state store.
     """
     cleaned = {}
     for k, v in tweeted.items():
-        if k not in valid_coords:
-            continue
-
-        if v.get("resolved", False):
-            resolved_at = parse_utc_z(v.get("resolved_at"))
-            # If we don't have a timestamp, keep it (fail-safe)
-            if resolved_at is None:
-                cleaned[k] = v
-                continue
-
-            if (now_utc - resolved_at) < timedelta(hours=COOLDOWN_HOURS):
-                cleaned[k] = v
-            # else: drop it after cooldown window
-            continue
-
-        cleaned[k] = v
+        if k in valid_coords:
+            cleaned[k] = v
 
     if len(cleaned) < len(tweeted):
-        print(f"🧹 Cleaned {len(tweeted) - len(cleaned)} resolved entries after cooldown expiry.")
+        print(f"🧹 Cleaned {len(tweeted) - len(cleaned)} entries not found in CSV.")
     return cleaned
 
 
@@ -1122,7 +1171,11 @@ def pick_region_anchor(region_key, alerts, tweeted_alerts):
         if not e:
             continue
 
-        ts = parse_utc_z(e.get("last_tweeted_at")) or parse_utc_z(e.get("last_updated"))
+        # ✅ Only consider anchors that have actually tweeted before
+        if not has_prior_tweet(e):
+            continue
+
+        ts = parse_utc_z(e.get("last_tweeted_at"))
         if ts is None:
             continue
 
@@ -1637,6 +1690,13 @@ def main():
         print("ℹ️ No tweetable transitions this run.")
 
     # -----------------------
+    # ✅ LIVE STATE STORE REFRESH (always)
+    # -----------------------
+    now_z = now_utc.isoformat().replace("+00:00", "Z")
+    for a in alerts:
+        upsert_live_state_entry(tweeted_alerts, a, now_z)
+
+    # -----------------------
     # REGION-LEVEL TWEETS
     # -----------------------
     region_clusters = defaultdict(list)
@@ -1657,24 +1717,11 @@ def main():
             coord_key = f"{alert['latitude']:.4f},{alert['longitude']:.4f}"
             last_entry = tweeted_alerts.get(coord_key)
 
-            now_z = now_utc.isoformat().replace("+00:00", "Z")
-
-            # ✅ FIX: Gate using what was ACTUALLY tweeted (tweeted_level)
+            # ✅ FIX: Gate using what was ACTUALLY tweeted (tweeted_level), not just "entry exists"
             effective = decide_effective_change(change_type, alert["dynamic_level"], last_entry)
 
             if effective == "Skip":
-                # Heartbeat only; do NOT tweet and do NOT mutate tweeted state
-                if last_entry is not None:
-                    last_entry["last_updated"] = now_z
-
-                    # If we had pending downgrade but recovered back to tweeted level or higher → clear pending
-                    if level_index(alert["dynamic_level"]) >= level_index(get_tweeted_level(last_entry)):
-                        clear_pending(last_entry)
-                        last_entry.pop("pending_observed_level", None)
-                        last_entry.pop("pending_observed_rain_mm", None)
-                        last_entry.pop("pending_observed_soil_moisture", None)
-                        last_entry.pop("pending_observed_raw_dynamic_score", None)
-
+                # Live store already refreshed above
                 continue
 
             change_type = effective
@@ -1682,9 +1729,6 @@ def main():
             # Downgrade cooldown (FREEZE)
             if change_type == "Downgrade" and last_entry is not None and within_cooldown(last_entry, now_utc):
                 print(f"⏳ Skipping downgrade tweet for {alert['name']} – within {COOLDOWN_HOURS}h cooldown.")
-
-                # Heartbeat timestamp
-                last_entry["last_updated"] = now_z
 
                 # Store only the pending downgrade target
                 mark_pending_downgrade(last_entry, alert["dynamic_level"], now_utc, is_region=False)
@@ -1698,8 +1742,8 @@ def main():
 
             # ✅ Only quote for Upgrade/Downgrade; New never quotes
             quote_tweet_id = None
-            if change_type in ["Upgrade", "Downgrade"] and last_entry and "tweet_id" in last_entry:
-                quote_tweet_id = last_entry["tweet_id"]
+            if change_type in ["Upgrade", "Downgrade"] and last_entry and has_prior_tweet(last_entry):
+                quote_tweet_id = last_entry.get("tweet_id")
 
             now_ts = time.time()
             if now_ts - last_tweet_ts < MIN_SECONDS_BETWEEN_TWEETS:
@@ -1712,27 +1756,20 @@ def main():
                 level = alert["dynamic_level"]
                 resolved = level not in TWEET_LEVELS
 
-                tweeted_alerts[coord_key] = {
-                    "country": alert.get("country", ""),
-                    "name": alert["name"],
-                    "risk_level": level,
-                    "tweeted_level": level,
-                    "latitude": alert["latitude"],
-                    "longitude": alert["longitude"],
-                    "rain_mm": alert[f"rain_{FORECAST_HOURS}h_mm"],
-                    "soil_moisture": alert["soil_moisture_avg"],
-                    "raw_dynamic_score": alert["raw_dynamic_score"],
-                    "last_updated": now_z,
-                    "last_tweeted_at": now_z,
-                    "tweet_id": new_tweet_id,
-                    "resolved": resolved,
-                }
+                # ✅ Update IN-PLACE so we preserve the live-state keys and only add tweet metadata
+                entry = tweeted_alerts.get(coord_key, {})
+                entry["tweet_id"] = new_tweet_id
+                entry["tweeted_level"] = level
+                entry["last_tweeted_at"] = now_z
+                entry["resolved"] = resolved
 
-                clear_pending(tweeted_alerts[coord_key])
+                clear_pending(entry)
                 if resolved:
-                    tweeted_alerts[coord_key].setdefault("resolved_at", now_z)
+                    entry.setdefault("resolved_at", now_z)
                 else:
-                    tweeted_alerts[coord_key].pop("resolved_at", None)
+                    entry.pop("resolved_at", None)
+
+                tweeted_alerts[coord_key] = entry
 
             continue
 
@@ -1742,10 +1779,8 @@ def main():
         if cluster_type == "Downgrade" and not ALERT_ON_DOWNGRADES:
             continue
 
-        # ✅ Robust anchor selection
+        # ✅ Robust anchor selection (only anchors with prior tweets)
         rep_key, rep_last = pick_region_anchor(region_key, alerts, tweeted_alerts)
-
-        now_z = now_utc.isoformat().replace("+00:00", "Z")
 
         # ✅ Build "ALL currently risky cities in this region" so the cluster level reflects reality
         region_all_pairs = [
@@ -1764,22 +1799,13 @@ def main():
         effective = decide_effective_change(cluster_type, current_cluster_lvl, rep_last)
 
         if effective == "Skip":
-            if rep_last is not None:
-                rep_last["last_updated"] = now_z
-
-                # If pending downgrade existed but region recovered back to tweeted level or higher → clear it
-                if level_index(current_cluster_lvl) >= level_index(get_tweeted_level(rep_last)):
-                    clear_pending(rep_last)
-                    rep_last.pop("pending_observed_level", None)
-                    rep_last.pop("pending_observed_rain_mm", None)
-                    rep_last.pop("pending_observed_soil_moisture", None)
-                    rep_last.pop("pending_observed_raw_dynamic_score", None)
+            # Live store already refreshed above
             continue
 
         cluster_type = effective
 
         # If no prior tweet exists, we never tweet Downgrades (policy)
-        if cluster_type == "Downgrade" and rep_last is None:
+        if cluster_type == "Downgrade" and not has_prior_tweet(rep_last):
             print(f"↘️ Skipping region downgrade for {region_key} – no prior tweet.")
             continue
 
@@ -1787,20 +1813,7 @@ def main():
         if cluster_type == "Downgrade" and rep_last is not None and within_cooldown(rep_last, now_utc):
             print(f"⏳ Skipping region downgrade tweet for {region_key} – within {COOLDOWN_HOURS}h cooldown.")
 
-            # ✅ FREEZE tweeted state for ALL coords in this region that we track
-            for a in alerts:
-                rk = (a.get("country", "") or "", a.get("region", "") or "")
-                if rk != region_key:
-                    continue
-                coord_key = f"{a['latitude']:.4f},{a['longitude']:.4f}"
-                entry = tweeted_alerts.get(coord_key)
-                if not entry:
-                    continue
-
-                entry["last_updated"] = now_z
-
             # Set pending target to the FULL current region state
-            rep_last["last_updated"] = now_z
             mark_pending_downgrade(
                 rep_last,
                 target_level=current_cluster_lvl,
@@ -1811,8 +1824,8 @@ def main():
 
         # ✅ Only quote for Upgrade/Downgrade; New never quotes
         quote_tweet_id = None
-        if cluster_type in ["Upgrade", "Downgrade"] and rep_last and "tweet_id" in rep_last:
-            quote_tweet_id = rep_last["tweet_id"]
+        if cluster_type in ["Upgrade", "Downgrade"] and rep_last and has_prior_tweet(rep_last):
+            quote_tweet_id = rep_last.get("tweet_id")
 
         now_ts = time.time()
         if now_ts - last_tweet_ts < MIN_SECONDS_BETWEEN_TWEETS:
@@ -1832,41 +1845,29 @@ def main():
             # Use the full region severity as the tweeted_level anchor
             cluster_lvl = current_cluster_lvl
 
-            # Update ALL tracked coords in this region (not just changed ones)
+            # Update ALL tracked coords in this region (tweet metadata only; live state already refreshed)
             for a in alerts:
                 rk = (a.get("country", "") or "", a.get("region", "") or "")
                 if rk != region_key:
                     continue
 
                 coord_key = f"{a['latitude']:.4f},{a['longitude']:.4f}"
-                if coord_key not in tweeted_alerts and a.get("dynamic_level") not in TWEET_LEVELS:
-                    # If we aren't tracking this coord and it's not tweet-worthy, skip creating entries
-                    continue
+                entry = tweeted_alerts.get(coord_key, {})
+                entry["tweet_id"] = new_tweet_id
+                entry["tweeted_level"] = cluster_lvl
+                entry["last_tweeted_at"] = now_z
 
                 level = a["dynamic_level"]
                 resolved = level not in TWEET_LEVELS
+                entry["resolved"] = resolved
 
-                tweeted_alerts[coord_key] = {
-                    "country": a.get("country", ""),
-                    "name": a["name"],
-                    "risk_level": level,
-                    "tweeted_level": cluster_lvl,
-                    "latitude": a["latitude"],
-                    "longitude": a["longitude"],
-                    "rain_mm": a.get(f"rain_{FORECAST_HOURS}h_mm", 0.0),
-                    "soil_moisture": a.get("soil_moisture_avg", 0.0),
-                    "raw_dynamic_score": a.get("raw_dynamic_score", 0.0),
-                    "last_updated": now_z,
-                    "last_tweeted_at": now_z,
-                    "tweet_id": new_tweet_id,
-                    "resolved": resolved,
-                }
-
-                clear_pending(tweeted_alerts[coord_key])
+                clear_pending(entry)
                 if resolved:
-                    tweeted_alerts[coord_key].setdefault("resolved_at", now_z)
+                    entry.setdefault("resolved_at", now_z)
                 else:
-                    tweeted_alerts[coord_key].pop("resolved_at", None)
+                    entry.pop("resolved_at", None)
+
+                tweeted_alerts[coord_key] = entry
 
 
     # ✅ After region tweets: process pending downgrades that have waited out the cooldown
