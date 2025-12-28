@@ -37,7 +37,8 @@ import pygrib
 # -------------------------------
 CSV_PATH = "cities15000.csv"
 COMPARISON_PATH = "alerts_comparison_cluster.json"   # single source of truth
-TWEET_LOG_PATH = "tweeted_alerts_cluster.json"       # map-ready tweet history
+TWEET_LOG_PATH = "tweeted_alerts_cluster.json"       # pure X registry
+MAP_ALERTS_PATH = "map_alerts.json"                  # map-facing alerts + optional tweet metadata
 
 SLEEP_BETWEEN_CALLS = 0.1         # kept for compatibility (not used for bulk NOAA)
 COMPARISON_HISTORY = 5            # or 10
@@ -78,6 +79,13 @@ COOLDOWN_HOURS = 24  # downgrade tweets blocked within this window after last tw
 TWEET_LEVELS = ["Medium", "High", "Extreme"]   # which levels are tweet-worthy at all
 ALERT_ON_UPGRADES   = True                     # Medium→High, High→Extreme
 ALERT_ON_DOWNGRADES = True                     # High→Medium, Extreme→High (and lower)
+
+# ✅ NEW: fine-grained control for "drop below Medium" downgrade tweets (to Low/None)
+# These only matter when ALERT_ON_DOWNGRADES=True and the downgrade target is Low/None.
+# Set to False to suppress these tweets on X free-tier, and flip to True later for paid tiers.
+TWEET_DOWNGRADE_TO_LOWNONE_FROM_MEDIUM  = True
+TWEET_DOWNGRADE_TO_LOWNONE_FROM_HIGH    = True
+TWEET_DOWNGRADE_TO_LOWNONE_FROM_EXTREME = True
 
 LEVELS = ["None", "Low", "Medium", "High", "Extreme"]
 
@@ -655,6 +663,24 @@ def get_tweeted_level(entry: dict) -> str:
     # tweeted_level = last level that was ACTUALLY tweeted (cooldown anchor for severity)
     return entry.get("tweeted_level") or entry.get("risk_level", "None")
 
+def should_tweet_resolution_downgrade(from_level: str, to_level: str) -> bool:
+    """
+    Fine-grained suppression for Medium/High/Extreme -> Low/None.
+    Only applies when we're about to tweet a Downgrade whose target is Low/None.
+    """
+    if to_level not in ("Low", "None"):
+        return True
+
+    if from_level == "Medium":
+        return bool(TWEET_DOWNGRADE_TO_LOWNONE_FROM_MEDIUM)
+    if from_level == "High":
+        return bool(TWEET_DOWNGRADE_TO_LOWNONE_FROM_HIGH)
+    if from_level == "Extreme":
+        return bool(TWEET_DOWNGRADE_TO_LOWNONE_FROM_EXTREME)
+
+    # If we weren't coming from a tweet-worthy level, allow (should be unreachable in normal flow)
+    return True
+
 def decide_effective_change(change_type: str, current_level: str, last_entry: dict):
     """
     Returns one of: "New", "Upgrade", "Downgrade", or "Skip"
@@ -948,8 +974,8 @@ def compare_alerts(prev, curr):
       • Any UPGRADE into a tweet-worthy level
       • Downgrades from tweet-worthy levels (optional)
 
-    NOTE: final gating (upgrade requires prior tweet; downgrade requires prior tweet and cooldown)
-          is handled later in the tweeting loop using tweeted_alerts log.
+    NOTE: final gating (upgrade requires prior tweet; downgrade requires prior tweet and cooldown,
+          and resolution-suppression toggles) is handled later in the tweeting loop using tweeted_alerts log.
     """
     changes = []
     for key, c in curr.items():
@@ -1311,6 +1337,19 @@ def process_pending_downgrades(tweeted_alerts, alerts, now_utc, client, last_twe
         cur_lvl = a["dynamic_level"]
         tweeted_lvl = get_tweeted_level(entry)
 
+        # ✅ policy: optionally suppress resolution downgrades (to Low/None)
+        if cur_lvl in ("Low", "None") and tweeted_lvl in ("Medium", "High", "Extreme"):
+            if not should_tweet_resolution_downgrade(tweeted_lvl, cur_lvl):
+                # Heartbeat only; clear pending so we don't keep trying
+                now_z = now_utc.isoformat().replace("+00:00", "Z")
+                entry["last_updated"] = now_z
+                clear_pending(entry)
+                entry.pop("pending_observed_level", None)
+                entry.pop("pending_observed_rain_mm", None)
+                entry.pop("pending_observed_soil_moisture", None)
+                entry.pop("pending_observed_raw_dynamic_score", None)
+                continue
+
         # If recovered back to tweeted level or higher, cancel pending
         if level_index(cur_lvl) >= level_index(tweeted_lvl):
             clear_pending(entry)
@@ -1393,6 +1432,19 @@ def process_pending_downgrades(tweeted_alerts, alerts, now_utc, client, last_twe
 
         cur_cluster_lvl = cluster_level(current_pairs)
         tweeted_lvl = get_tweeted_level(entry)
+
+        # ✅ policy: optionally suppress resolution downgrades (to Low/None)
+        if cur_cluster_lvl in ("Low", "None") and tweeted_lvl in ("Medium", "High", "Extreme"):
+            if not should_tweet_resolution_downgrade(tweeted_lvl, cur_cluster_lvl):
+                now_z = now_utc.isoformat().replace("+00:00", "Z")
+                entry["last_updated"] = now_z
+                clear_pending(entry)
+                entry.pop("pending_observed_level", None)
+                entry.pop("pending_observed_rain_mm", None)
+                entry.pop("pending_observed_soil_moisture", None)
+                entry.pop("pending_observed_raw_dynamic_score", None)
+                processed_regions.add(region_key)
+                continue
 
         # If recovered back to tweeted level or higher, cancel pending
         if level_index(cur_cluster_lvl) >= level_index(tweeted_lvl):
@@ -1679,6 +1731,21 @@ def main():
 
             change_type = effective
 
+            # ✅ NEW: suppress resolution downgrades (Medium/High/Extreme → Low/None) via fine-grained toggles
+            if change_type == "Downgrade" and last_entry is not None:
+                tweeted_lvl = get_tweeted_level(last_entry)
+                if alert["dynamic_level"] in ("Low", "None") and tweeted_lvl in ("Medium", "High", "Extreme"):
+                    if not should_tweet_resolution_downgrade(tweeted_lvl, alert["dynamic_level"]):
+                        print(f"🚫 Suppressing resolution downgrade tweet for {alert['name']} ({tweeted_lvl} → {alert['dynamic_level']}).")
+                        last_entry["last_updated"] = now_z
+                        # Ensure we don't keep a stale pending downgrade around for a suppressed policy
+                        clear_pending(last_entry)
+                        last_entry.pop("pending_observed_level", None)
+                        last_entry.pop("pending_observed_rain_mm", None)
+                        last_entry.pop("pending_observed_soil_moisture", None)
+                        last_entry.pop("pending_observed_raw_dynamic_score", None)
+                        continue
+
             # Downgrade cooldown (FREEZE)
             if change_type == "Downgrade" and last_entry is not None and within_cooldown(last_entry, now_utc):
                 print(f"⏳ Skipping downgrade tweet for {alert['name']} – within {COOLDOWN_HOURS}h cooldown.")
@@ -1783,6 +1850,20 @@ def main():
             print(f"↘️ Skipping region downgrade for {region_key} – no prior tweet.")
             continue
 
+        # ✅ NEW: suppress resolution downgrades (Medium/High/Extreme → Low/None) via fine-grained toggles
+        if cluster_type == "Downgrade" and rep_last is not None:
+            tweeted_lvl = get_tweeted_level(rep_last)
+            if current_cluster_lvl in ("Low", "None") and tweeted_lvl in ("Medium", "High", "Extreme"):
+                if not should_tweet_resolution_downgrade(tweeted_lvl, current_cluster_lvl):
+                    print(f"🚫 Suppressing region resolution downgrade tweet for {region_key} ({tweeted_lvl} → {current_cluster_lvl}).")
+                    rep_last["last_updated"] = now_z
+                    clear_pending(rep_last)
+                    rep_last.pop("pending_observed_level", None)
+                    rep_last.pop("pending_observed_rain_mm", None)
+                    rep_last.pop("pending_observed_soil_moisture", None)
+                    rep_last.pop("pending_observed_raw_dynamic_score", None)
+                    continue
+
         # --- Cooldown handling for region downgrade (FREEZE) ---
         if cluster_type == "Downgrade" and rep_last is not None and within_cooldown(rep_last, now_utc):
             print(f"⏳ Skipping region downgrade tweet for {region_key} – within {COOLDOWN_HOURS}h cooldown.")
@@ -1882,6 +1963,36 @@ def main():
 
     save_tweeted_alerts(tweeted_alerts)
 
+    # -----------------------
+    # MAP-FACING ALERT LOG
+    # -----------------------
+    # map_alerts.json logs ALL current evaluated alerts, and adds tweet metadata only if it exists.
+    map_alerts = {
+        "timestamp": datetime.now(ZoneInfo("UTC")).isoformat().replace("+00:00", "Z"),
+        "source": "NOAA GFS",
+        "forecast_window_hours": FORECAST_HOURS,
+        "features_evaluated": len(alerts),
+        "alerts": [],
+    }
+
+    for a in alerts:
+        ck = f"{a['latitude']:.4f},{a['longitude']:.4f}"
+        e = tweeted_alerts.get(ck)
+
+        entry = dict(a)  # keep the alert fields intact
+
+        # If something was tweeted we bring in map_alerts.json : it also has: tweet_id, tweeted_level, last_tweeted_at
+        if e and e.get("tweet_id"):
+            entry["tweet_id"] = e.get("tweet_id")
+            entry["tweeted_level"] = e.get("tweeted_level")
+            entry["last_tweeted_at"] = e.get("last_tweeted_at")
+
+        # If it was never tweeted: those fields are simply missing in map_alerts.json and it will still be logged.
+        map_alerts["alerts"].append(entry)
+
+    with open(MAP_ALERTS_PATH, "w", encoding="utf-8") as f:
+        json.dump(map_alerts, f, indent=2, ensure_ascii=False)
+
     rotate_comparison_snapshots(COMPARISON_HISTORY)
 
     with open(COMPARISON_PATH, "w", encoding="utf-8") as f:
@@ -1890,7 +2001,7 @@ def main():
     print(
         f"✅ Completed in {round((time.time() - start_time)/60, 1)} min. "
         f"Features evaluated: {len(alerts)} | "
-        f"Updated {COMPARISON_PATH} and {TWEET_LOG_PATH}."
+        f"Updated {COMPARISON_PATH}, {TWEET_LOG_PATH}, and {MAP_ALERTS_PATH}."
     )
 
 
