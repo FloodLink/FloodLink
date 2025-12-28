@@ -6455,5 +6455,14 @@
         "score": 0,
         "status": "skipped",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2025-12-28",
+        "status": "posted",
+        "tweet": "\ud83c\uddea\ud83c\uddfa In Europe, 92% of people exposed to floods & flash floods are covered by early warning systems (2023).\n\n\ud83c\udde6\ud83c\uddeb In Sub-Saharan Africa, coverage stands at just 24% for the same risks (2023).\n\nGlobal gap persists despite tech advances.",
+        "type": "statistical",
+        "category": "coverage of flood early warning systems worldwide",
+        "tweet_id": "2005201251974140025"
     }
 ]
