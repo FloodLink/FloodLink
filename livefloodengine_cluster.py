@@ -83,7 +83,7 @@ ALERT_ON_DOWNGRADES = True                     # High→Medium, Extreme→High (
 # ✅ NEW: fine-grained control for "drop below Medium" downgrade tweets (to Low/None)
 # These only matter when ALERT_ON_DOWNGRADES=True and the downgrade target is Low/None.
 # Set to False to suppress these tweets on X free-tier, and flip to True later for paid tiers.
-TWEET_DOWNGRADE_TO_LOWNONE_FROM_MEDIUM  = True
+TWEET_DOWNGRADE_TO_LOWNONE_FROM_MEDIUM  = False
 TWEET_DOWNGRADE_TO_LOWNONE_FROM_HIGH    = True
 TWEET_DOWNGRADE_TO_LOWNONE_FROM_EXTREME = True
 
