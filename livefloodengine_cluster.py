@@ -14,6 +14,14 @@ Now includes:
 - Repost behaviour restored:
     * Upgrades & downgrades only if there was a previous tweet
     * Upgrades & downgrades quote the previous tweet (threading)
+
+MAP ALERTS BEHAVIOR (per your requirement):
+- map_alerts.json is the NON-SUPPRESSED tracker (independent of tweeting).
+- It tracks ALL live Medium/High/Extreme alerts.
+- It also tracks downgrades/resolutions.
+- It applies the SAME 24h downgrade cooldown behavior:
+    - If a downgrade occurs within cooldown, the map stays at the prior (higher) level,
+      and the downgrade is stored as pending and applied after cooldown if still downgraded.
 """
 
 import os
@@ -38,7 +46,7 @@ import pygrib
 CSV_PATH = "cities15000.csv"
 COMPARISON_PATH = "alerts_comparison_cluster.json"   # single source of truth
 TWEET_LOG_PATH = "tweeted_alerts_cluster.json"       # pure X registry
-MAP_ALERTS_PATH = "map_alerts.json"                  # map-facing alerts + optional tweet metadata
+MAP_ALERTS_PATH = "map_alerts.json"                  # NON-suppressed map tracker + cooldown logic
 
 SLEEP_BETWEEN_CALLS = 0.1         # kept for compatibility (not used for bulk NOAA)
 COMPARISON_HISTORY = 5            # or 10
@@ -75,14 +83,14 @@ RAW_HIGH_MAX  = 24.0         # 12..24 -> High
 # ALERT TRANSITION POLICY
 # -------------------------------
 COOLDOWN_HOURS = 24  # downgrade tweets blocked within this window after last tweet
+# Map uses the SAME cooldown window
+MAP_COOLDOWN_HOURS = COOLDOWN_HOURS
 
 TWEET_LEVELS = ["Medium", "High", "Extreme"]   # which levels are tweet-worthy at all
 ALERT_ON_UPGRADES   = True                     # Medium→High, High→Extreme
 ALERT_ON_DOWNGRADES = True                     # High→Medium, Extreme→High (and lower)
 
-# ✅ NEW: fine-grained control for "drop below Medium" downgrade tweets (to Low/None)
-# These only matter when ALERT_ON_DOWNGRADES=True and the downgrade target is Low/None.
-# Set to False to suppress these tweets on X free-tier, and flip to True later for paid tiers.
+# ✅ fine-grained control for "drop below Medium" downgrade tweets (to Low/None)
 TWEET_DOWNGRADE_TO_LOWNONE_FROM_MEDIUM  = False
 TWEET_DOWNGRADE_TO_LOWNONE_FROM_HIGH    = True
 TWEET_DOWNGRADE_TO_LOWNONE_FROM_EXTREME = True
@@ -92,25 +100,17 @@ LEVELS = ["None", "Low", "Medium", "High", "Extreme"]
 # -------------------------------
 # NOAA GFS CONFIG
 # -------------------------------
-# Use 0.25° GFS with hourly forecast steps
 GFS_RES = "0p25"   # was "0p50"
-
-# Variables to extract from GFS
 VARIABLES = ["APCP", "SOILW"]
-
-# Level spec for the GRIB filter
 LEVELS_DICT = {
     "APCP": "surface",
-    "SOILW": "0-0.1 m below ground",  # depth layer for top soil
+    "SOILW": "0-0.1 m below ground",
 }
 
 # -------------------------------
 # NOAA GFS HELPERS
 # -------------------------------
 def get_latest_cycle():
-    """
-    Determine latest available 6-hourly GFS cycle and the previous one for fallback.
-    """
     now = datetime.utcnow()
     date = now.strftime("%Y%m%d")
     cycle_hour = (now.hour // 6) * 6
@@ -126,39 +126,26 @@ def get_latest_cycle():
 
 
 def get_forecast_steps_for_now(forecast_hours: int, cycle_dt_utc, now_utc=None):
-    """
-    Return forecast steps that cover the NEXT `forecast_hours` from *now*,
-    relative to the chosen cycle datetime.
-
-    For 0p25: hourly steps (f001, f002, ...)
-    For 0p50/1p00: 3-hourly steps (f003, f006, ...)
-    """
     if now_utc is None:
         now_utc = datetime.utcnow().replace(tzinfo=ZoneInfo("UTC"))
 
-    # How many hours since the cycle started?
     lead_hours = (now_utc - cycle_dt_utc).total_seconds() / 3600.0
 
     if GFS_RES in ("0p50", "1p00"):
         step = 3
-        # align start to next available 3-hour step
         start_fhr = max(step, int(np.ceil(lead_hours / step)) * step)
-        # cover roughly `forecast_hours` ahead from that start
         end_hour = start_fhr + (forecast_hours - 1)
         end_fhr = int(np.ceil(end_hour / step)) * step
         return list(range(start_fhr, end_fhr + 1, step))
     else:
-        # hourly
         start_fhr = max(1, int(np.ceil(lead_hours)))
         end_fhr = start_fhr + forecast_hours - 1
         return list(range(start_fhr, end_fhr + 1))
 
 
-
 def download_gfs_file(date, cycle, fhr):
     base_url = f"https://nomads.ncep.noaa.gov/cgi-bin/filter_gfs_{GFS_RES}.pl"
 
-    # File naming differs between 0p50 "full" grid and 0.25° standard grid
     if GFS_RES == "0p50":
         file_name = f"gfs.t{cycle}z.pgrb2full.0p50.f{fhr:03d}"
     else:
@@ -169,7 +156,6 @@ def download_gfs_file(date, cycle, fhr):
         "file": file_name,
     }
 
-    # Global domain
     params.update({
         "leftlon": 0,
         "rightlon": 360,
@@ -201,15 +187,8 @@ def download_gfs_file(date, cycle, fhr):
 
     return None
 
-def load_gfs_grids(forecast_hours):
-    """
-    Download and load GFS grib2 files for APCP and SOILW into memory once.
 
-    Returns:
-        grids: dict[var] -> np.array [time, lat, lon]
-        lats, lons: 2D arrays
-        times: list of datetime (naive UTC)
-    """
+def load_gfs_grids(forecast_hours):
     date, cycle, prev_date, prev_cycle = get_latest_cycle()
 
     now_utc = datetime.utcnow().replace(tzinfo=ZoneInfo("UTC"))
@@ -217,14 +196,12 @@ def load_gfs_grids(forecast_hours):
     cycle_dt = datetime.strptime(date + cycle, "%Y%m%d%H").replace(tzinfo=ZoneInfo("UTC"))
     prev_cycle_dt = datetime.strptime(prev_date + prev_cycle, "%Y%m%d%H").replace(tzinfo=ZoneInfo("UTC"))
 
-    # Compute window for latest cycle
     window_steps = get_forecast_steps_for_now(forecast_hours, cycle_dt, now_utc)
 
     if not window_steps:
         print("❌ window_steps is empty (unexpected).")
         return None, None, None, []
 
-    # Baseline step to compute the first increment correctly
     baseline_step = None
     if GFS_RES in ("0p50", "1p00"):
         step = 3
@@ -234,10 +211,8 @@ def load_gfs_grids(forecast_hours):
         if window_steps[0] > 1:
             baseline_step = window_steps[0] - 1
 
-    # We will download baseline first (if exists), then the window steps
     steps_to_download = ([baseline_step] if baseline_step is not None else []) + window_steps
 
-    # Probe the first needed *download* to choose cycle (baseline if present, else first window step)
     probe_fhr = steps_to_download[0]
     probe_file = download_gfs_file(date, cycle, probe_fhr)
 
@@ -254,9 +229,7 @@ def load_gfs_grids(forecast_hours):
 
         use_date, use_cycle, use_cycle_dt = prev_date, prev_cycle, prev_cycle_dt
 
-        # Recompute window/baseline for fallback cycle (IMPORTANT)
         window_steps = get_forecast_steps_for_now(forecast_hours, use_cycle_dt, now_utc)
-
         if not window_steps:
             print("❌ window_steps is empty (unexpected) after fallback recompute.")
             return None, None, None, []
@@ -272,7 +245,6 @@ def load_gfs_grids(forecast_hours):
 
         steps_to_download = ([baseline_step] if baseline_step is not None else []) + window_steps
 
-        # If the probe hour changed after recompute, discard the old probe and download the correct one
         new_probe_fhr = steps_to_download[0]
         if new_probe_fhr != probe_fhr:
             try:
@@ -300,14 +272,9 @@ def load_gfs_grids(forecast_hours):
     times = []
     lats, lons = None, None
 
-    # ✅ Match livefloodengine_gfs_export_rainfield.py logic:
-    #    - Parse startStep/endStep per frame (robust to accumulation origin changes)
-    #    - Convert tp units to mm if needed
-    #    - Sort frames by endStep before computing 1h increments
     frames = []  # (startStep, endStep, apcp_vals_mm, soil_vals, frame_time_utc_naive)
 
     def _parse_step_range(msg, fallback_end: int):
-        """Return (startStep, endStep) as ints, best-effort."""
         s = getattr(msg, "startStep", None)
         e = getattr(msg, "endStep", None)
 
@@ -345,19 +312,13 @@ def load_gfs_grids(forecast_hours):
 
         grb = pygrib.open(file)
 
-        # APCP / Total precipitation (prefer shortName="tp")
         try:
-            # 1) Prefer tp directly (most reliable across filtered outputs)
             tp_msgs = grb.select(shortName="tp")
-
-            # Prefer the message whose endStep matches this fhr
             apcp_msg = next(
                 (m for m in tp_msgs if int(getattr(m, "endStep", -1)) == fhr),
                 tp_msgs[0]
             )
-
         except Exception:
-            # 2) Fallback: try by name (some files expose it this way)
             try:
                 tp_msgs = grb.select(name="Total Precipitation")
                 apcp_msg = next(
@@ -370,7 +331,6 @@ def load_gfs_grids(forecast_hours):
                 os.remove(file)
                 continue
 
-        # Convert to float32 and normalize units (mm)
         vals = apcp_msg.values.astype("float32")
 
         raw_units = getattr(apcp_msg, "units", None)
@@ -385,18 +345,11 @@ def load_gfs_grids(forecast_hours):
         if is_meters:
             vals *= 1000.0
 
-        is_kg_m2 = ("kg" in u_norm) and (
-            ("m-2" in u_norm) or ("m^-2" in u_norm) or ("m^(-2)" in u_norm) or
-            ("/m^2" in u_norm) or ("/m2" in u_norm)
-        )
-        # kg/m² for liquid water is effectively mm; no conversion required.
-
         s_step, e_step = _parse_step_range(apcp_msg, fallback_end=fhr)
 
         if lats is None:
             lats, lons = apcp_msg.latlons()
 
-        # SOILW (try to align to the same endStep)
         soil_vals = None
         if soil_ok:
             try:
@@ -411,7 +364,6 @@ def load_gfs_grids(forecast_hours):
                 soil_vals = None
                 print(f"⚠️ SOILW missing at f{fhr:03d}; disabling soil for this run.")
 
-        # Frame time: use endStep (not loop order) so time alignment stays correct
         frame_time_utc = (use_cycle_dt + timedelta(hours=int(e_step))).replace(tzinfo=None)
         frames.append((int(s_step), int(e_step), vals.astype("float32"), soil_vals, frame_time_utc))
 
@@ -421,7 +373,6 @@ def load_gfs_grids(forecast_hours):
     if not frames:
         return None, None, None, []
 
-    # ✅ FIX: sort frames by endStep so apcp/start/end/times stay aligned even if some downloads were skipped
     frames.sort(key=lambda x: x[1])
 
     start_steps = [f[0] for f in frames]
@@ -434,7 +385,6 @@ def load_gfs_grids(forecast_hours):
     grids["_meta"]["end_steps"] = end_steps
     grids["_meta"]["steps_used"] = end_steps[:]
 
-    # Detect if we truly have a baseline (baseline endStep followed by window start endStep)
     has_baseline = (
         baseline_step is not None
         and len(end_steps) >= 2
@@ -443,7 +393,6 @@ def load_gfs_grids(forecast_hours):
     )
     grids["_meta"]["has_baseline"] = bool(has_baseline)
 
-    # Compute true 1h increments for EXACTLY the requested window endSteps
     hourly_rain, hourly_report = compute_hourly_rain_window(
         apcp=grids["APCP"],
         start_steps=start_steps,
@@ -453,11 +402,9 @@ def load_gfs_grids(forecast_hours):
     grids["RAIN_1H"] = hourly_rain
     grids["_meta"]["hourly_report"] = hourly_report
 
-    # Window times aligned to window_steps (naive UTC)
     times_window = [(use_cycle_dt + timedelta(hours=int(h))).replace(tzinfo=None) for h in window_steps]
     grids["_meta"]["times_window"] = times_window
 
-    # SOILW: build a window-aligned cube (same time axis as RAIN_1H)
     if soil_ok:
         soil_by_end = {f[1]: f[3] for f in frames if f[3] is not None}
         soil_window = []
@@ -482,25 +429,15 @@ def load_gfs_grids(forecast_hours):
     return grids, lats, lons, times
 
 
-
 def compute_hourly_rain_window(
     apcp: np.ndarray,
     start_steps: list[int],
     end_steps: list[int],
     window_end_steps: list[int],
 ):
-    """
-    Convert GFS 'tp' accumulations into true 1-hour increments for the desired window endSteps.
-
-    Returns:
-        hourly_rain: np.array [W, Y, X] mm/hour for each requested endStep in window_end_steps
-        report: list of dicts per requested hour {endStep, quality, method, origin}
-                quality: 2=exact 1h, 0=distributed (approx), -1=missing
-    """
     if apcp is None or apcp.size == 0:
         return None, []
 
-    # origin -> { endStep -> vals }
     origin_map: dict[int, dict[int, np.ndarray]] = {}
     for i in range(apcp.shape[0]):
         s = int(start_steps[i])
@@ -508,9 +445,9 @@ def compute_hourly_rain_window(
         origin_map.setdefault(s, {})[e] = apcp[i]
 
     inc_map: dict[int, np.ndarray] = {}
-    q_map: dict[int, int] = {}           # 0=distributed, 2=exact 1h
-    origin_used: dict[int, int] = {}     # chosen origin for that hour_end
-    method_used: dict[int, str] = {}     # "direct_1h", "delta_1h", "distributed"
+    q_map: dict[int, int] = {}
+    origin_used: dict[int, int] = {}
+    method_used: dict[int, str] = {}
 
     def set_inc(hour_end: int, vals: np.ndarray, quality: int, origin: int, method: str):
         prev_q = q_map.get(hour_end, -999)
@@ -538,10 +475,8 @@ def compute_hourly_rain_window(
                     continue
 
                 if duration == 1:
-                    # already a true 1h accumulation (origin -> end)
                     set_inc(end, np.maximum(vals, 0.0), quality=2, origin=origin, method="direct_1h")
                 else:
-                    # no previous frame for this origin -> distribute evenly across the span
                     per_h = np.maximum(vals, 0.0) / float(duration)
                     for h in range(origin + 1, end + 1):
                         set_inc(h, per_h, quality=0, origin=origin, method="distributed")
@@ -555,17 +490,14 @@ def compute_hourly_rain_window(
                 delta = np.maximum(vals - prev_vals, 0.0)
 
                 if duration == 1:
-                    # true 1h increment via differencing
                     set_inc(end, delta, quality=2, origin=origin, method="delta_1h")
                 else:
-                    # distribute across missing hours (approx)
                     per_h = delta / float(duration)
                     for h in range(prev_end + 1, end + 1):
                         set_inc(h, per_h, quality=0, origin=origin, method="distributed")
 
             prev_end, prev_vals = end, vals
 
-    # Build output aligned to requested window endSteps
     W = len(window_end_steps)
     ny, nx = apcp.shape[1], apcp.shape[2]
     out = np.zeros((W, ny, nx), dtype="float32")
@@ -598,14 +530,12 @@ def compute_hourly_rain_window(
     if missing:
         print(f"⚠ Missing hourly increments for endSteps: {missing} (filled with zeros)")
 
-    # Print a clean quality summary
     print(f"🧪 Hourly quality: exact={len(exact)}/{W}, approx={len(approx)}/{W}, missing={len(missing)}/{W}")
     if approx:
         print(f"   ⚠ Approximated (distributed) endSteps: {approx}")
     if missing:
         print(f"   ❌ Missing endSteps: {missing}")
 
-    # Optional: per-hour detail
     for r in report:
         qtxt = "EXACT" if r["quality"] == 2 else ("APPROX" if r["quality"] == 0 else "MISSING")
         print(f"   • endStep={r['endStep']:>3} -> {qtxt:7} | method={r['method']:<11} | origin={r['origin']}")
@@ -614,9 +544,6 @@ def compute_hourly_rain_window(
 
 
 def precompute_city_indices(lats, lons, df):
-    """
-    Precompute nearest grid indices (ilat, ilon) for each city.
-    """
     lat_axis = lats[:, 0]
     lon_axis = lons[0, :]
 
@@ -625,7 +552,6 @@ def precompute_city_indices(lats, lons, df):
         lat = float(row["Latitude"])
         lon = float(row["Longitude"])
 
-        # Handle 0–360 vs -180–180 if needed
         if np.any(lon_axis > 180):
             if lon < 0:
                 lon = lon + 360.0
@@ -637,7 +563,10 @@ def precompute_city_indices(lats, lons, df):
 
     return idx_map
 
-#FOR COOLDOWN DOWNGRADES
+
+# -------------------------------
+# TIME / COOLDOWN HELPERS
+# -------------------------------
 def parse_utc_z(ts: str):
     if not ts:
         return None
@@ -646,12 +575,22 @@ def parse_utc_z(ts: str):
     except Exception:
         return None
 
+
+# FOR TWEETS: cooldown anchor is last_tweeted_at
 def within_cooldown(last_entry: dict, now_utc: datetime) -> bool:
-    # Cooldown is based ONLY on the last time we actually tweeted.
     last_ts = parse_utc_z(last_entry.get("last_tweeted_at"))
     if not last_ts:
         return False
     return (now_utc - last_ts) < timedelta(hours=COOLDOWN_HOURS)
+
+
+# FOR MAP: cooldown anchor is last_map_changed_at (NOT last_tweeted_at)
+def within_map_cooldown(map_entry: dict, now_utc: datetime) -> bool:
+    last_ts = parse_utc_z(map_entry.get("last_map_changed_at"))
+    if not last_ts:
+        return False
+    return (now_utc - last_ts) < timedelta(hours=MAP_COOLDOWN_HOURS)
+
 
 def level_index(lvl: str) -> int:
     try:
@@ -659,15 +598,12 @@ def level_index(lvl: str) -> int:
     except Exception:
         return 0
 
+
 def get_tweeted_level(entry: dict) -> str:
-    # tweeted_level = last level that was ACTUALLY tweeted (cooldown anchor for severity)
     return entry.get("tweeted_level") or entry.get("risk_level", "None")
 
+
 def should_tweet_resolution_downgrade(from_level: str, to_level: str) -> bool:
-    """
-    Fine-grained suppression for Medium/High/Extreme -> Low/None.
-    Only applies when we're about to tweet a Downgrade whose target is Low/None.
-    """
     if to_level not in ("Low", "None"):
         return True
 
@@ -678,40 +614,30 @@ def should_tweet_resolution_downgrade(from_level: str, to_level: str) -> bool:
     if from_level == "Extreme":
         return bool(TWEET_DOWNGRADE_TO_LOWNONE_FROM_EXTREME)
 
-    # If we weren't coming from a tweet-worthy level, allow (should be unreachable in normal flow)
     return True
 
+
 def decide_effective_change(change_type: str, current_level: str, last_entry: dict):
-    """
-    Returns one of: "New", "Upgrade", "Downgrade", or "Skip"
-    based on what was ACTUALLY tweeted (tweeted_level), not comparison snapshots.
-    """
     cur_i = level_index(current_level)
 
     if last_entry is None:
-        # No prior tweet: treat Upgrade as New (if tweet-worthy)
         if change_type in ("Upgrade", "New") and current_level in TWEET_LEVELS:
             return "New"
-        # Never tweet Downgrade without a prior tweet
         return "Skip"
 
     tweeted_lvl = get_tweeted_level(last_entry)
     tw_i = level_index(tweeted_lvl)
 
-    # If last tweeted state was not tweet-worthy (Low/None), coming back is a NEW alert
     if current_level in TWEET_LEVELS and tweeted_lvl not in TWEET_LEVELS:
         return "New"
 
     if change_type == "New":
-        # If it already had a tweet before, only tweet if it’s a TRUE upgrade vs tweeted_level
         return "Upgrade" if (tweeted_lvl in TWEET_LEVELS and cur_i > tw_i) else "Skip"
 
     if change_type == "Upgrade":
-        # Only tweet if it actually increases severity vs what we last tweeted
         return "Upgrade" if (tweeted_lvl in TWEET_LEVELS and cur_i > tw_i) else "Skip"
 
     if change_type == "Downgrade":
-        # Only tweet downgrade if truly lower than tweeted_level (cooldown handled elsewhere)
         return "Downgrade" if cur_i < tw_i else "Skip"
 
     return "Skip"
@@ -723,6 +649,7 @@ def mark_pending_downgrade(entry: dict, target_level: str, now_utc: datetime, is
     entry["pending_set_at"] = now_utc.isoformat().replace("+00:00", "Z")
     entry["pending_is_region"] = bool(is_region)
 
+
 def clear_pending(entry: dict):
     entry.pop("pending_downgrade", None)
     entry.pop("pending_target_level", None)
@@ -730,13 +657,13 @@ def clear_pending(entry: dict):
     entry.pop("pending_is_region", None)
 
 
-#CLEANER TEXT
+# -------------------------------
+# CLEANER TEXT
+# -------------------------------
 def clean_text(val) -> str:
-    """Fix common mojibake like 'ParanÃ¡' -> 'Paraná' and normalize accents."""
     if val is None:
         return ""
 
-    # Handles np.nan, pd.NA, NaT, etc.
     try:
         if pd.isna(val):
             return ""
@@ -759,11 +686,6 @@ def clean_text(val) -> str:
 
 
 def normalize_country(country_val) -> str:
-    """
-    Fix country names that come as 'Congo, The Democratic Republic of the'
-    into 'The Democratic Republic of the Congo'
-    Also handles 'Bahamas, The' -> 'The Bahamas'
-    """
     c = clean_text(country_val)
     if not c:
         return ""
@@ -777,15 +699,12 @@ def normalize_country(country_val) -> str:
 
     rlow = right.lower()
 
-    # "Bahamas, The" / "Gambia, The"
     if rlow == "the":
         return f"The {left}".strip()
 
-    # "Congo, The Democratic Republic of the"
     if rlow.startswith("the "):
         return f"The {right[4:].strip()} {left}".replace("  ", " ").strip()
 
-    # "Korea, Republic of" -> "Republic of Korea"
     return f"{right} {left}".replace("  ", " ").strip()
 
 
@@ -793,17 +712,9 @@ def normalize_country(country_val) -> str:
 # WEATHER INDICATORS
 # -------------------------------
 def compute_indicators_at_index(grids, times, ilat, ilon):
-    """
-    Returns:
-        rain_sum (mm),
-        soil_avg (0–1),
-        peak_dt_local (datetime or None)
-    """
     if grids is None or not times:
         return 0.0, 0.0, None
 
-    # ✅ Preferred path: use true 1h increments aligned to exactly xN 1h endSteps
-    #    (same logic as livefloodengine_gfs_export_rainfield.py)
     if grids.get("RAIN_1H") is not None:
         rain_cube = grids["RAIN_1H"]
         meta = grids.get("_meta", {})
@@ -839,20 +750,18 @@ def compute_indicators_at_index(grids, times, ilat, ilon):
 
         return rain_sum, soil_avg, peak_dt_local
 
-    # --- fallback (legacy): derive increments by differencing the downloaded cumulative stack ---
     if grids.get("APCP") is None:
         return 0.0, 0.0, None
 
     meta = grids.get("_meta", {})
     has_baseline = bool(meta.get("has_baseline", False))
-    start_i = 1 if has_baseline else 0  # index where the real window begins
+    start_i = 1 if has_baseline else 0
 
     rain_vals = []
     soil_vals = []
 
     n_steps = min(len(times), grids["APCP"].shape[0])
 
-    # Need at least 2 points if we have baseline (baseline + 1 window step)
     if has_baseline and n_steps < 2:
         return 0.0, 0.0, None
 
@@ -875,8 +784,7 @@ def compute_indicators_at_index(grids, times, ilat, ilon):
         soil_avg = 0.0
 
     if rain_vals and any(rain_vals):
-        max_idx_in_rain = int(np.argmax(rain_vals))  # index within rain_vals
-        # map back to times index (offset by start_i)
+        max_idx_in_rain = int(np.argmax(rain_vals))
         t_idx = start_i + max_idx_in_rain
 
         peak_dt_utc = times[t_idx].replace(tzinfo=ZoneInfo("UTC"))
@@ -904,9 +812,6 @@ def soil_multiplier(soil_frac: float) -> float:
 # RISK MODEL (RAW ONLY)
 # -------------------------------
 def calculate_dynamic_risk_raw(base_risk: float, rain_mm: float, soil_frac: float):
-    """
-    Returns: (raw_score, level, r_mult, s_mult)
-    """
     if rain_mm < RAIN_CUTOFF_MM:
         return 0.0, "None", 0.0, soil_multiplier(0.0)
 
@@ -940,13 +845,9 @@ def load_json(path):
 
 
 def rotate_comparison_snapshots(max_history=COMPARISON_HISTORY):
-    """
-    Rotate alerts_comparison snapshots.
-    """
     base = COMPARISON_PATH
-    root, ext = os.path.splitext(base)  # e.g. "alerts_comparison_cluster", ".json"
+    root, ext = os.path.splitext(base)
 
-    # Shift older snapshots up one index
     for i in range(max_history - 1, 0, -1):
         older = f"{root}_{i}{ext}"
         newer = f"{root}_{i + 1}{ext}"
@@ -955,7 +856,6 @@ def rotate_comparison_snapshots(max_history=COMPARISON_HISTORY):
                 os.remove(newer)
             os.replace(older, newer)
 
-    # Move current base file to _1
     if os.path.exists(base):
         first_snapshot = f"{root}_1{ext}"
         if os.path.exists(first_snapshot):
@@ -968,20 +868,10 @@ def build_alert_dict(alerts):
 
 
 def compare_alerts(prev, curr):
-    """
-    Tweet when:
-      • First time we see a site at a tweet-worthy level (Medium/High/Extreme)
-      • Any UPGRADE into a tweet-worthy level
-      • Downgrades from tweet-worthy levels (optional)
-
-    NOTE: final gating (upgrade requires prior tweet; downgrade requires prior tweet and cooldown,
-          and resolution-suppression toggles) is handled later in the tweeting loop using tweeted_alerts log.
-    """
     changes = []
     for key, c in curr.items():
         cur_lvl = c["dynamic_level"]
 
-        # New site this run
         if key not in prev:
             if cur_lvl in TWEET_LEVELS:
                 changes.append(("New", c))
@@ -993,12 +883,10 @@ def compare_alerts(prev, curr):
 
         prev_i, cur_i = LEVELS.index(prev_lvl), LEVELS.index(cur_lvl)
 
-        # Any upgrade into a tweet-worthy level
         if ALERT_ON_UPGRADES and cur_i > prev_i and cur_lvl in TWEET_LEVELS:
             changes.append(("Upgrade", c))
             continue
 
-        # Downgrades from tweet-worthy levels (prev in tweet-levels)
         if ALERT_ON_DOWNGRADES and cur_i < prev_i and prev_lvl in TWEET_LEVELS:
             changes.append(("Downgrade", c))
 
@@ -1021,10 +909,6 @@ def save_tweeted_alerts(tweeted):
 
 
 def cleanup_tweeted_alerts(tweeted, valid_coords, now_utc):
-    """
-    Keep only coordinates that still exist in the CSV.
-    If resolved, keep for at least COOLDOWN_HOURS since resolved_at.
-    """
     cleaned = {}
     for k, v in tweeted.items():
         if k not in valid_coords:
@@ -1032,14 +916,12 @@ def cleanup_tweeted_alerts(tweeted, valid_coords, now_utc):
 
         if v.get("resolved", False):
             resolved_at = parse_utc_z(v.get("resolved_at"))
-            # If we don't have a timestamp, keep it (fail-safe)
             if resolved_at is None:
                 cleaned[k] = v
                 continue
 
             if (now_utc - resolved_at) < timedelta(hours=COOLDOWN_HOURS):
                 cleaned[k] = v
-            # else: drop it after cooldown window
             continue
 
         cleaned[k] = v
@@ -1050,7 +932,6 @@ def cleanup_tweeted_alerts(tweeted, valid_coords, now_utc):
 
 
 def create_client():
-    """Create Tweepy client."""
     return tweepy.Client(
         consumer_key=TWITTER_API_KEY,
         consumer_secret=TWITTER_SECRET,
@@ -1061,7 +942,6 @@ def create_client():
 
 
 def tweet_alert(change_type, alert, quote_tweet_id=None):
-    """Post a tweet for a new or transitioned flood alert (single point style)."""
     lat, lon = alert["latitude"], alert["longitude"]
     level = alert["dynamic_level"]
 
@@ -1126,14 +1006,6 @@ def tweet_alert(change_type, alert, quote_tweet_id=None):
 # REGION CLUSTER HELPERS
 # -------------------------------
 def pick_region_anchor(region_key, alerts, tweeted_alerts):
-    """
-    Pick a representative tweet-log entry for a (country, region) cluster
-    so upgrades/downgrades don't get skipped just because the first changed
-    city isn't the one stored in the tweet log.
-
-    Strategy: pick the entry in this region with the most recent last_tweeted_at.
-    Returns: (coord_key, entry) or (None, None)
-    """
     best_ck = None
     best_entry = None
     best_ts = None
@@ -1160,35 +1032,13 @@ def pick_region_anchor(region_key, alerts, tweeted_alerts):
     return best_ck, best_entry
 
 
-def compute_current_region_level(region_key, alerts, tweeted_alerts):
-    """
-    Compute current cluster level from ALL currently evaluated alerts
-    in that region that are actually tracked in tweeted_alerts.
-    """
-    pairs = []
-    for a in alerts:
-        rk = (a.get("country", "") or "", a.get("region", "") or "")
-        if rk != region_key:
-            continue
-        ck = f"{a['latitude']:.4f},{a['longitude']:.4f}"
-        if ck in tweeted_alerts:
-            pairs.append(("Active", a))
-
-    if pairs:
-        return cluster_level(pairs)
-
-    # fallback: if nothing is tracked (rare), return None
-    return None
-
 def cluster_level(alerts_in_region):
-    """Cluster level = highest city-level in this region."""
     levels_here = [a["dynamic_level"] for _, a in alerts_in_region]
     max_idx = max(LEVELS.index(lvl) for lvl in levels_here)
     return LEVELS[max_idx]
 
 
 def cluster_change_type(alerts_in_region):
-    """Upgrade beats New, New beats Downgrade."""
     types = {ct for ct, _ in alerts_in_region}
     if "Upgrade" in types:
         return "Upgrade"
@@ -1200,7 +1050,6 @@ def cluster_change_type(alerts_in_region):
 
 
 def cluster_stats(alerts_in_region):
-    """Peak rain + soil range + representative local time."""
     rains = [a[f"rain_{FORECAST_HOURS}h_mm"] for _, a in alerts_in_region]
     soils = [a["soil_moisture_avg"] for _, a in alerts_in_region]
 
@@ -1217,10 +1066,6 @@ def cluster_stats(alerts_in_region):
 
 
 def cluster_city_list(alerts_in_region):
-    """
-    Return a comma-separated list of ALL city names in the region,
-    sorted by severity (Extreme→High→Medium→Low→None) then score.
-    """
     sorted_alerts = sorted(
         (a for _, a in alerts_in_region),
         key=lambda a: (LEVELS.index(a["dynamic_level"]), a["raw_dynamic_score"]),
@@ -1232,17 +1077,6 @@ def cluster_city_list(alerts_in_region):
 
 def tweet_region_cluster(region_key, alerts_in_region, client=None,
                          change_type=None, quote_tweet_id=None):
-    """
-    Compose and send a tweet for a region (multi-city only).
-
-    Region style:
-       🟠 HIGH FLOOD RISK – 🇧🇷 Mato Grosso do Sul, Brazil
-       Type: Upgrade
-       Key locations: city1, city2, ...
-       Local time (approx.): ...
-       Peak rain ...
-       Soil moisture range ...
-    """
     country, region = region_key
     cluster_lvl = cluster_level(alerts_in_region)
     if change_type is None:
@@ -1298,20 +1132,14 @@ def tweet_region_cluster(region_key, alerts_in_region, client=None,
 
 
 # -------------------------------
-# PENDING DOWNGRADE PROCESSOR
+# PENDING DOWNGRADE PROCESSOR (TWEETS)
 # -------------------------------
 def process_pending_downgrades(tweeted_alerts, alerts, now_utc, client, last_tweet_ts_holder):
-    """
-    If a downgrade was skipped due to cooldown, we store it as pending.
-    After cooldown, if it's STILL downgraded vs tweeted_level, we tweet it.
-    """
-
     coord_to_alert = {
         f"{a['latitude']:.4f},{a['longitude']:.4f}": a
         for a in alerts
     }
 
-    # Build region index from current alerts (only for coords we actually track)
     region_to_alerts = defaultdict(list)
     for a in alerts:
         ck = f"{a['latitude']:.4f},{a['longitude']:.4f}"
@@ -1337,10 +1165,8 @@ def process_pending_downgrades(tweeted_alerts, alerts, now_utc, client, last_twe
         cur_lvl = a["dynamic_level"]
         tweeted_lvl = get_tweeted_level(entry)
 
-        # ✅ policy: optionally suppress resolution downgrades (to Low/None)
         if cur_lvl in ("Low", "None") and tweeted_lvl in ("Medium", "High", "Extreme"):
             if not should_tweet_resolution_downgrade(tweeted_lvl, cur_lvl):
-                # Heartbeat only; clear pending so we don't keep trying
                 now_z = now_utc.isoformat().replace("+00:00", "Z")
                 entry["last_updated"] = now_z
                 clear_pending(entry)
@@ -1350,10 +1176,8 @@ def process_pending_downgrades(tweeted_alerts, alerts, now_utc, client, last_twe
                 entry.pop("pending_observed_raw_dynamic_score", None)
                 continue
 
-        # If recovered back to tweeted level or higher, cancel pending
         if level_index(cur_lvl) >= level_index(tweeted_lvl):
             clear_pending(entry)
-            # optional: clear shadow fields too
             entry.pop("pending_observed_level", None)
             entry.pop("pending_observed_rain_mm", None)
             entry.pop("pending_observed_soil_moisture", None)
@@ -1383,7 +1207,6 @@ def process_pending_downgrades(tweeted_alerts, alerts, now_utc, client, last_twe
             entry["tweeted_level"] = cur_lvl
             entry["risk_level"] = cur_lvl
 
-            # ✅ refresh map-facing metrics to match what we just tweeted
             entry["rain_mm"] = a.get(f"rain_{FORECAST_HOURS}h_mm", entry.get("rain_mm"))
             entry["soil_moisture"] = a.get("soil_moisture_avg", entry.get("soil_moisture"))
             entry["raw_dynamic_score"] = a.get("raw_dynamic_score", entry.get("raw_dynamic_score"))
@@ -1393,7 +1216,6 @@ def process_pending_downgrades(tweeted_alerts, alerts, now_utc, client, last_twe
 
             clear_pending(entry)
 
-            # remove optional shadow fields
             entry.pop("pending_observed_level", None)
             entry.pop("pending_observed_rain_mm", None)
             entry.pop("pending_observed_soil_moisture", None)
@@ -1433,7 +1255,6 @@ def process_pending_downgrades(tweeted_alerts, alerts, now_utc, client, last_twe
         cur_cluster_lvl = cluster_level(current_pairs)
         tweeted_lvl = get_tweeted_level(entry)
 
-        # ✅ policy: optionally suppress resolution downgrades (to Low/None)
         if cur_cluster_lvl in ("Low", "None") and tweeted_lvl in ("Medium", "High", "Extreme"):
             if not should_tweet_resolution_downgrade(tweeted_lvl, cur_cluster_lvl):
                 now_z = now_utc.isoformat().replace("+00:00", "Z")
@@ -1446,7 +1267,6 @@ def process_pending_downgrades(tweeted_alerts, alerts, now_utc, client, last_twe
                 processed_regions.add(region_key)
                 continue
 
-        # If recovered back to tweeted level or higher, cancel pending
         if level_index(cur_cluster_lvl) >= level_index(tweeted_lvl):
             clear_pending(entry)
             entry.pop("pending_observed_level", None)
@@ -1482,7 +1302,6 @@ def process_pending_downgrades(tweeted_alerts, alerts, now_utc, client, last_twe
         if new_id:
             now_z = now_utc.isoformat().replace("+00:00", "Z")
 
-            # Update all coords in this region that exist in the log
             for _, aa in current_pairs:
                 ck = f"{aa['latitude']:.4f},{aa['longitude']:.4f}"
                 if ck not in tweeted_alerts:
@@ -1494,7 +1313,6 @@ def process_pending_downgrades(tweeted_alerts, alerts, now_utc, client, last_twe
                 e["tweeted_level"] = cur_cluster_lvl
                 e["risk_level"] = aa["dynamic_level"]
 
-                # ✅ refresh map-facing metrics for each coord
                 e["rain_mm"] = aa.get(f"rain_{FORECAST_HOURS}h_mm", e.get("rain_mm"))
                 e["soil_moisture"] = aa.get("soil_moisture_avg", e.get("soil_moisture"))
                 e["raw_dynamic_score"] = aa.get("raw_dynamic_score", e.get("raw_dynamic_score"))
@@ -1504,7 +1322,6 @@ def process_pending_downgrades(tweeted_alerts, alerts, now_utc, client, last_twe
 
                 clear_pending(e)
 
-                # remove optional shadow fields
                 e.pop("pending_observed_level", None)
                 e.pop("pending_observed_rain_mm", None)
                 e.pop("pending_observed_soil_moisture", None)
@@ -1520,6 +1337,106 @@ def process_pending_downgrades(tweeted_alerts, alerts, now_utc, client, last_twe
         processed_regions.add(region_key)
 
 
+# -------------------------------
+# MAP ALERTS (NON-SUPPRESSED) STATE HELPERS
+# -------------------------------
+def load_map_alerts_state():
+    """
+    map_alerts.json is a persistent state file so we can:
+      - include ALL current Medium/High/Extreme alerts (even if not tweeted),
+      - track downgrades/resolutions,
+      - apply the same cooldown logic for downgrades.
+    """
+    if not os.path.exists(MAP_ALERTS_PATH):
+        return {}
+
+    try:
+        with open(MAP_ALERTS_PATH, "r", encoding="utf-8") as f:
+            data = json.load(f)
+
+        # Support legacy format (object with "alerts": [...]) or newer state (object with "alerts": [...])
+        if isinstance(data, dict) and isinstance(data.get("alerts"), list):
+            state = {}
+            for a in data["alerts"]:
+                ck = f"{float(a['latitude']):.4f},{float(a['longitude']):.4f}"
+                state[ck] = a
+            return state
+
+        # If someone saved as raw dict {coord_key: entry}
+        if isinstance(data, dict) and "alerts" not in data:
+            # best-effort: treat as state dict
+            return data
+
+        return {}
+    except Exception as e:
+        print(f"⚠️ Failed to load map alerts state: {e}")
+        return {}
+
+
+def cleanup_map_alerts_state(map_state: dict, valid_coords: set, now_utc: datetime):
+    """
+    Remove entries no longer in CSV. Also remove resolved entries once they've been
+    resolved for >= MAP_COOLDOWN_HOURS (same retention rule style as tweets).
+    """
+    cleaned = {}
+    for ck, entry in map_state.items():
+        if ck not in valid_coords:
+            continue
+
+        if entry.get("resolved", False):
+            resolved_at = parse_utc_z(entry.get("resolved_at"))
+            if resolved_at is None:
+                cleaned[ck] = entry
+                continue
+            if (now_utc - resolved_at) < timedelta(hours=MAP_COOLDOWN_HOURS):
+                cleaned[ck] = entry
+            continue
+
+        cleaned[ck] = entry
+
+    if len(cleaned) < len(map_state):
+        print(f"🧹 Map state cleaned {len(map_state) - len(cleaned)} resolved/invalid entries.")
+    return cleaned
+
+
+def save_map_alerts_output(map_state: dict, now_utc: datetime):
+    """
+    Output format remains map-friendly:
+      {
+        timestamp, source, forecast_window_hours, cooldown_hours,
+        alerts: [ ...entries... ]
+      }
+
+    Each entry includes:
+      - map_level: the effective level (with cooldown applied)
+      - current_level: the live evaluated level this run
+      - pending_* fields if a downgrade is waiting out cooldown
+    """
+    out = {
+        "timestamp": now_utc.isoformat().replace("+00:00", "Z"),
+        "source": "NOAA GFS",
+        "forecast_window_hours": FORECAST_HOURS,
+        "cooldown_hours": MAP_COOLDOWN_HOURS,
+        "alerts": [],
+    }
+
+    # Include:
+    #  - all entries currently at Medium/High/Extreme (map_level),
+    #  - plus any resolved entries still retained (cleanup already kept them),
+    #  - plus anything with pending_downgrade (usually still Medium+ by map_level).
+    for ck, entry in map_state.items():
+        out["alerts"].append(entry)
+
+    # Sort: highest map_level first, then raw_dynamic_score desc
+    out["alerts"].sort(
+        key=lambda e: (level_index(e.get("map_level", e.get("risk_level", "None"))),
+                       float(e.get("raw_dynamic_score", 0.0))),
+        reverse=True
+    )
+
+    with open(MAP_ALERTS_PATH, "w", encoding="utf-8") as f:
+        json.dump(out, f, indent=2, ensure_ascii=False)
+
 
 # -------------------------------
 # MAIN WORKFLOW
@@ -1531,6 +1448,7 @@ def main():
     previous = load_json(COMPARISON_PATH)
     prev_alerts_dict = build_alert_dict(previous.get("alerts", []))
     tweeted_alerts = load_tweeted_alerts()
+    map_state = load_map_alerts_state()
 
     if not os.path.exists(CSV_PATH):
         print(f"❌ CSV file not found: {CSV_PATH} – skipping evaluation.")
@@ -1538,13 +1456,10 @@ def main():
 
     df = pd.read_csv(CSV_PATH)
 
-    # Clean common text fields (fixes 'ParanÃ¡' -> 'Paraná', etc.)
     for col in ["region", "Country", "Name", "ETIQUETA", "CountryFlag"]:
         if col in df.columns:
             df[col] = df[col].apply(clean_text)
 
-
-    # --- Basic CSV + FRisk summary ---
     print("📊 CSV summary:")
     print(f"  Total rows: {len(df)}")
     if "FRisk" in df.columns:
@@ -1563,16 +1478,15 @@ def main():
 
     valid_coords = {f"{row['Latitude']:.4f},{row['Longitude']:.4f}" for _, row in df.iterrows()}
     now_utc = datetime.now(ZoneInfo("UTC"))
-    tweeted_alerts = cleanup_tweeted_alerts(tweeted_alerts, valid_coords, now_utc)
 
+    tweeted_alerts = cleanup_tweeted_alerts(tweeted_alerts, valid_coords, now_utc)
+    map_state = cleanup_map_alerts_state(map_state, valid_coords, now_utc)
 
     alerts = []
     start_time = time.time()
 
-    # Load NOAA GFS grids once for all locations
     grids, lats, lons, times = load_gfs_grids(FORECAST_HOURS)
 
-    # DEBUG: confirm the forecast window we are evaluating (UTC + local)
     meta = grids.get("_meta", {}) if grids else {}
     has_baseline = bool(meta.get("has_baseline", False))
     start_i = 1 if has_baseline else 0
@@ -1580,7 +1494,6 @@ def main():
     if times and len(times) > start_i:
         tz = ZoneInfo(TIMEZONE)
 
-        # Prefer the window times (xN 1h endSteps) if available
         times_window = meta.get("times_window") if grids else None
         if times_window and len(times_window) >= 1:
             start_utc = times_window[0].replace(tzinfo=ZoneInfo("UTC"))
@@ -1660,7 +1573,6 @@ def main():
                 "peak_time_local_str": peak_time_local_str,
             })
 
-    # Persist current results
     result = {
         "timestamp": datetime.now(ZoneInfo("UTC")).isoformat().replace("+00:00", "Z"),
         "source": "NOAA GFS",
@@ -1669,7 +1581,6 @@ def main():
         "alerts": alerts,
     }
 
-    # Detect level-change events
     curr_alerts_dict = build_alert_dict(alerts)
     changes = compare_alerts(prev_alerts_dict, curr_alerts_dict)
     print(f"🔍 Detected {len(changes)} level-change events.")
@@ -1703,7 +1614,6 @@ def main():
     client = create_client() if TWITTER_ENABLED else None
 
     for region_key, alerts_in_region in region_clusters.items():
-        # Single-location region → classic per-point behaviour
         if len(alerts_in_region) == 1:
             change_type, alert = alerts_in_region[0]
             coord_key = f"{alert['latitude']:.4f},{alert['longitude']:.4f}"
@@ -1711,15 +1621,12 @@ def main():
 
             now_z = now_utc.isoformat().replace("+00:00", "Z")
 
-            # ✅ FIX: Gate using what was ACTUALLY tweeted (tweeted_level)
             effective = decide_effective_change(change_type, alert["dynamic_level"], last_entry)
 
             if effective == "Skip":
-                # Heartbeat only; do NOT tweet and do NOT mutate tweeted state
                 if last_entry is not None:
                     last_entry["last_updated"] = now_z
 
-                    # If we had pending downgrade but recovered back to tweeted level or higher → clear pending
                     if level_index(alert["dynamic_level"]) >= level_index(get_tweeted_level(last_entry)):
                         clear_pending(last_entry)
                         last_entry.pop("pending_observed_level", None)
@@ -1731,14 +1638,12 @@ def main():
 
             change_type = effective
 
-            # ✅ NEW: suppress resolution downgrades (Medium/High/Extreme → Low/None) via fine-grained toggles
             if change_type == "Downgrade" and last_entry is not None:
                 tweeted_lvl = get_tweeted_level(last_entry)
                 if alert["dynamic_level"] in ("Low", "None") and tweeted_lvl in ("Medium", "High", "Extreme"):
                     if not should_tweet_resolution_downgrade(tweeted_lvl, alert["dynamic_level"]):
                         print(f"🚫 Suppressing resolution downgrade tweet for {alert['name']} ({tweeted_lvl} → {alert['dynamic_level']}).")
                         last_entry["last_updated"] = now_z
-                        # Ensure we don't keep a stale pending downgrade around for a suppressed policy
                         clear_pending(last_entry)
                         last_entry.pop("pending_observed_level", None)
                         last_entry.pop("pending_observed_rain_mm", None)
@@ -1746,24 +1651,18 @@ def main():
                         last_entry.pop("pending_observed_raw_dynamic_score", None)
                         continue
 
-            # Downgrade cooldown (FREEZE)
             if change_type == "Downgrade" and last_entry is not None and within_cooldown(last_entry, now_utc):
                 print(f"⏳ Skipping downgrade tweet for {alert['name']} – within {COOLDOWN_HOURS}h cooldown.")
 
-                # Heartbeat timestamp
                 last_entry["last_updated"] = now_z
-
-                # Store only the pending downgrade target
                 mark_pending_downgrade(last_entry, alert["dynamic_level"], now_utc, is_region=False)
 
-                # Optional debug/shadow fields
                 last_entry["pending_observed_level"] = alert["dynamic_level"]
                 last_entry["pending_observed_rain_mm"] = alert[f"rain_{FORECAST_HOURS}h_mm"]
                 last_entry["pending_observed_soil_moisture"] = alert["soil_moisture_avg"]
                 last_entry["pending_observed_raw_dynamic_score"] = alert["raw_dynamic_score"]
                 continue
 
-            # ✅ Only quote for Upgrade/Downgrade; New never quotes
             quote_tweet_id = None
             if change_type in ["Upgrade", "Downgrade"] and last_entry and "tweet_id" in last_entry:
                 quote_tweet_id = last_entry["tweet_id"]
@@ -1809,12 +1708,9 @@ def main():
         if cluster_type == "Downgrade" and not ALERT_ON_DOWNGRADES:
             continue
 
-        # ✅ Robust anchor selection
         rep_key, rep_last = pick_region_anchor(region_key, alerts, tweeted_alerts)
-
         now_z = now_utc.isoformat().replace("+00:00", "Z")
 
-        # ✅ Build "ALL currently risky cities in this region" so the cluster level reflects reality
         region_all_pairs = [
             ("Active", a)
             for a in alerts
@@ -1822,19 +1718,16 @@ def main():
             and a.get("dynamic_level") in TWEET_LEVELS
         ]
         if not region_all_pairs:
-            # fallback: at least use the changed ones
             region_all_pairs = [("Active", a) for _, a in alerts_in_region]
 
         current_cluster_lvl = cluster_level(region_all_pairs)
 
-        # ✅ FIX: Gate using what was ACTUALLY tweeted (tweeted_level)
         effective = decide_effective_change(cluster_type, current_cluster_lvl, rep_last)
 
         if effective == "Skip":
             if rep_last is not None:
                 rep_last["last_updated"] = now_z
 
-                # If pending downgrade existed but region recovered back to tweeted level or higher → clear it
                 if level_index(current_cluster_lvl) >= level_index(get_tweeted_level(rep_last)):
                     clear_pending(rep_last)
                     rep_last.pop("pending_observed_level", None)
@@ -1845,12 +1738,10 @@ def main():
 
         cluster_type = effective
 
-        # If no prior tweet exists, we never tweet Downgrades (policy)
         if cluster_type == "Downgrade" and rep_last is None:
             print(f"↘️ Skipping region downgrade for {region_key} – no prior tweet.")
             continue
 
-        # ✅ NEW: suppress resolution downgrades (Medium/High/Extreme → Low/None) via fine-grained toggles
         if cluster_type == "Downgrade" and rep_last is not None:
             tweeted_lvl = get_tweeted_level(rep_last)
             if current_cluster_lvl in ("Low", "None") and tweeted_lvl in ("Medium", "High", "Extreme"):
@@ -1864,11 +1755,9 @@ def main():
                     rep_last.pop("pending_observed_raw_dynamic_score", None)
                     continue
 
-        # --- Cooldown handling for region downgrade (FREEZE) ---
         if cluster_type == "Downgrade" and rep_last is not None and within_cooldown(rep_last, now_utc):
             print(f"⏳ Skipping region downgrade tweet for {region_key} – within {COOLDOWN_HOURS}h cooldown.")
 
-            # ✅ FREEZE tweeted state for ALL coords in this region that we track
             for a in alerts:
                 rk = (a.get("country", "") or "", a.get("region", "") or "")
                 if rk != region_key:
@@ -1877,10 +1766,8 @@ def main():
                 entry = tweeted_alerts.get(coord_key)
                 if not entry:
                     continue
-
                 entry["last_updated"] = now_z
 
-            # Set pending target to the FULL current region state
             rep_last["last_updated"] = now_z
             mark_pending_downgrade(
                 rep_last,
@@ -1890,7 +1777,6 @@ def main():
             )
             continue
 
-        # ✅ Only quote for Upgrade/Downgrade; New never quotes
         quote_tweet_id = None
         if cluster_type in ["Upgrade", "Downgrade"] and rep_last and "tweet_id" in rep_last:
             quote_tweet_id = rep_last["tweet_id"]
@@ -1899,7 +1785,6 @@ def main():
         if now_ts - last_tweet_ts < MIN_SECONDS_BETWEEN_TWEETS:
             time.sleep(MIN_SECONDS_BETWEEN_TWEETS - (now_ts - last_tweet_ts))
 
-        # ✅ Tweet should reflect full region state (not only changed cities)
         new_tweet_id = tweet_region_cluster(
             region_key,
             region_all_pairs,
@@ -1910,10 +1795,8 @@ def main():
         last_tweet_ts = time.time()
 
         if new_tweet_id:
-            # Use the full region severity as the tweeted_level anchor
             cluster_lvl = current_cluster_lvl
 
-            # Update ALL tracked coords in this region (not just changed ones)
             for a in alerts:
                 rk = (a.get("country", "") or "", a.get("region", "") or "")
                 if rk != region_key:
@@ -1921,7 +1804,6 @@ def main():
 
                 coord_key = f"{a['latitude']:.4f},{a['longitude']:.4f}"
                 if coord_key not in tweeted_alerts and a.get("dynamic_level") not in TWEET_LEVELS:
-                    # If we aren't tracking this coord and it's not tweet-worthy, skip creating entries
                     continue
 
                 level = a["dynamic_level"]
@@ -1949,8 +1831,7 @@ def main():
                 else:
                     tweeted_alerts[coord_key].pop("resolved_at", None)
 
-
-    # ✅ After region tweets: process pending downgrades that have waited out the cooldown
+    # After region tweets: process pending downgrades (tweet side)
     last_tweet_ts_holder = [last_tweet_ts]
     process_pending_downgrades(
         tweeted_alerts=tweeted_alerts,
@@ -1964,34 +1845,165 @@ def main():
     save_tweeted_alerts(tweeted_alerts)
 
     # -----------------------
-    # MAP-FACING ALERT LOG
+    # MAP ALERTS (NON-SUPPRESSED) UPDATE
     # -----------------------
-    # map_alerts.json logs ALL current evaluated alerts, and adds tweet metadata only if it exists.
-    map_alerts = {
-        "timestamp": datetime.now(ZoneInfo("UTC")).isoformat().replace("+00:00", "Z"),
-        "source": "NOAA GFS",
-        "forecast_window_hours": FORECAST_HOURS,
-        "features_evaluated": len(alerts),
-        "alerts": [],
-    }
+    # This builds a persistent map_state:
+    # - include ALL current Medium/High/Extreme
+    # - include downgrades/resolutions
+    # - apply SAME cooldown logic on downgrades (hold previous level, store pending)
+    coord_to_alert = {f"{a['latitude']:.4f},{a['longitude']:.4f}": a for a in alerts}
+    now_z = now_utc.isoformat().replace("+00:00", "Z")
 
-    for a in alerts:
-        ck = f"{a['latitude']:.4f},{a['longitude']:.4f}"
-        e = tweeted_alerts.get(ck)
+    for ck, a in coord_to_alert.items():
+        cur_lvl = a.get("dynamic_level", "None")
 
-        entry = dict(a)  # keep the alert fields intact
+        # We track:
+        # - all currently live Medium/High/Extreme
+        # - OR anything already present in map_state (to capture downgrades/resolutions)
+        if (cur_lvl not in TWEET_LEVELS) and (ck not in map_state):
+            continue
 
-        # If something was tweeted we bring in map_alerts.json : it also has: tweet_id, tweeted_level, last_tweeted_at
-        if e and e.get("tweet_id"):
-            entry["tweet_id"] = e.get("tweet_id")
-            entry["tweeted_level"] = e.get("tweeted_level")
-            entry["last_tweeted_at"] = e.get("last_tweeted_at")
+        entry = map_state.get(ck, {})
 
-        # If it was never tweeted: those fields are simply missing in map_alerts.json and it will still be logged.
-        map_alerts["alerts"].append(entry)
+        # Static identity fields (keep updated if CSV names change)
+        entry["country"] = a.get("country", entry.get("country", ""))
+        entry["country_flag"] = a.get("country_flag", entry.get("country_flag", ""))
+        entry["region"] = a.get("region", entry.get("region", ""))
+        entry["name"] = a.get("name", entry.get("name", ""))
+        entry["latitude"] = float(a["latitude"])
+        entry["longitude"] = float(a["longitude"])
 
-    with open(MAP_ALERTS_PATH, "w", encoding="utf-8") as f:
-        json.dump(map_alerts, f, indent=2, ensure_ascii=False)
+        # Live-evaluated fields
+        entry["current_level"] = cur_lvl
+        entry["base_risk"] = a.get("base_risk", entry.get("base_risk"))
+        entry["raw_dynamic_score"] = a.get("raw_dynamic_score", entry.get("raw_dynamic_score"))
+        entry["peak_time_local_str"] = a.get("peak_time_local_str", entry.get("peak_time_local_str", "unknown"))
+        entry["rain_mm"] = a.get(f"rain_{FORECAST_HOURS}h_mm", entry.get("rain_mm", 0.0))
+        entry["soil_moisture"] = a.get("soil_moisture_avg", entry.get("soil_moisture", 0.0))
+
+        # Heartbeat
+        entry["last_updated"] = now_z
+
+        # Initialize effective map level if missing
+        prev_map_level = entry.get("map_level")
+        if not prev_map_level:
+            # If this is a brand new entry, set to current level (even if Medium+ only)
+            prev_map_level = cur_lvl if cur_lvl in TWEET_LEVELS else "None"
+            entry["map_level"] = prev_map_level
+            entry["last_map_changed_at"] = entry.get("last_map_changed_at") or now_z
+
+        # Clear pending if recovered to >= effective map level
+        if entry.get("pending_downgrade"):
+            if level_index(cur_lvl) >= level_index(entry.get("map_level", "None")):
+                clear_pending(entry)
+                entry.pop("pending_observed_level", None)
+                entry.pop("pending_observed_rain_mm", None)
+                entry.pop("pending_observed_soil_moisture", None)
+                entry.pop("pending_observed_raw_dynamic_score", None)
+
+        # Apply upgrade immediately
+        if level_index(cur_lvl) > level_index(entry.get("map_level", "None")):
+            entry["map_level"] = cur_lvl
+            entry["last_map_changed_at"] = now_z
+            entry["change_type"] = "Upgrade" if ck in map_state else "New"
+            entry["resolved"] = False
+            entry.pop("resolved_at", None)
+            clear_pending(entry)
+            entry.pop("pending_observed_level", None)
+            entry.pop("pending_observed_rain_mm", None)
+            entry.pop("pending_observed_soil_moisture", None)
+            entry.pop("pending_observed_raw_dynamic_score", None)
+
+        # Downgrade: apply only if NOT within cooldown, else store pending and HOLD map_level
+        elif level_index(cur_lvl) < level_index(entry.get("map_level", "None")):
+            if within_map_cooldown(entry, now_utc):
+                # hold previous map_level
+                mark_pending_downgrade(entry, cur_lvl, now_utc, is_region=False)
+                entry["pending_observed_level"] = cur_lvl
+                entry["pending_observed_rain_mm"] = entry.get("rain_mm")
+                entry["pending_observed_soil_moisture"] = entry.get("soil_moisture")
+                entry["pending_observed_raw_dynamic_score"] = entry.get("raw_dynamic_score")
+            else:
+                # apply downgrade
+                entry["map_level"] = cur_lvl
+                entry["last_map_changed_at"] = now_z
+                entry["change_type"] = "Downgrade"
+                clear_pending(entry)
+                entry.pop("pending_observed_level", None)
+                entry.pop("pending_observed_rain_mm", None)
+                entry.pop("pending_observed_soil_moisture", None)
+                entry.pop("pending_observed_raw_dynamic_score", None)
+
+                if cur_lvl not in TWEET_LEVELS:
+                    entry["resolved"] = True
+                    entry.setdefault("resolved_at", now_z)
+                else:
+                    entry["resolved"] = False
+                    entry.pop("resolved_at", None)
+
+        else:
+            # No level change (current == map_level)
+            # ensure resolved flag is consistent
+            if entry.get("map_level") in TWEET_LEVELS:
+                entry["resolved"] = False
+                entry.pop("resolved_at", None)
+
+        # Add optional tweet metadata (if exists) without affecting map logic
+        te = tweeted_alerts.get(ck)
+        if te and te.get("tweet_id"):
+            entry["tweet_id"] = te.get("tweet_id")
+            entry["tweeted_level"] = te.get("tweeted_level")
+            entry["last_tweeted_at"] = te.get("last_tweeted_at")
+
+        map_state[ck] = entry
+
+    # Second pass: apply any pending downgrades whose cooldown has expired (if still downgraded)
+    # This handles cases where the level didn't change this run but cooldown elapsed.
+    for ck, entry in list(map_state.items()):
+        if not entry.get("pending_downgrade"):
+            continue
+        if within_map_cooldown(entry, now_utc):
+            continue
+
+        a = coord_to_alert.get(ck)
+        if not a:
+            continue
+
+        cur_lvl = a.get("dynamic_level", entry.get("current_level", "None"))
+        map_lvl = entry.get("map_level", "None")
+
+        # If still downgraded vs map_level → apply now
+        if level_index(cur_lvl) < level_index(map_lvl):
+            entry["map_level"] = cur_lvl
+            entry["last_map_changed_at"] = now_z
+            entry["change_type"] = "Downgrade"
+            clear_pending(entry)
+            entry.pop("pending_observed_level", None)
+            entry.pop("pending_observed_rain_mm", None)
+            entry.pop("pending_observed_soil_moisture", None)
+            entry.pop("pending_observed_raw_dynamic_score", None)
+
+            if cur_lvl not in TWEET_LEVELS:
+                entry["resolved"] = True
+                entry.setdefault("resolved_at", now_z)
+            else:
+                entry["resolved"] = False
+                entry.pop("resolved_at", None)
+        else:
+            # recovered or equal → cancel pending
+            clear_pending(entry)
+            entry.pop("pending_observed_level", None)
+            entry.pop("pending_observed_rain_mm", None)
+            entry.pop("pending_observed_soil_moisture", None)
+            entry.pop("pending_observed_raw_dynamic_score", None)
+
+        map_state[ck] = entry
+
+    # Cleanup resolved entries after retention window
+    map_state = cleanup_map_alerts_state(map_state, valid_coords, now_utc)
+
+    # Save map-facing output
+    save_map_alerts_output(map_state, now_utc)
 
     rotate_comparison_snapshots(COMPARISON_HISTORY)
 
