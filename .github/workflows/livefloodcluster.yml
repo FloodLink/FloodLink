@@ -70,7 +70,7 @@ jobs:
           git pull --rebase --autostash origin main
           
           # 2) Always add the main cluster JSON files
-          git add alerts_comparison_cluster.json tweeted_alerts_cluster.json || true
+          git add alerts_comparison_cluster.json tweeted_alerts_cluster.json map_alerts.json || true
           
           # 3) Add snapshot files if they exist (cluster versions)
           if ls alerts_comparison_cluster_*.json 1> /dev/null 2>&1; then
