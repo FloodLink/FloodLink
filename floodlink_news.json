@@ -6242,5 +6242,25 @@
             "longitude": null,
             "confidence": 0.8
         }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWjgyQjZfZzVBX0hwZExqM0p1amRiNE1lS1hvaGNNVHA2MU9sU3JfOFE2NnNwVFI2SGNfWTRkTjZUU0R6ZU1FalhQa3BjenYzMkh0SEhZSzVuSFlPTFB0OGwxamcweFhjZ3h0WEdXTUphZC1kZ1lCYmJzWkdzWnd5R1pjQk9iSVMwLWd5cWhVMkFoSEc5cUlxUkJEVWZpVGZEZ2F3?oc=5",
+        "date": "2025-12-29",
+        "title": "Washout reported in Haida Gwaii amid rainfall warning for B.C.'s North Coast - CBC",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPWjgyQjZfZzVBX0hwZExqM0p1amRiNE1lS1hvaGNNVHA2MU9sU3JfOFE2NnNwVFI2SGNfWTRkTjZUU0R6ZU1FalhQa3BjenYzMkh0SEhZSzVuSFlPTFB0OGwxamcweFhjZ3h0WEdXTUphZC1kZ1lCYmJzWkdzWnd5R1pjQk9iSVMwLWd5cWhVMkFoSEc5cUlxUkJEVWZpVGZEZ2F3?oc=5\" target=\"_blank\">Washout reported in Haida Gwaii amid rainfall warning for B.C.'s North Coast</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CBC</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNSVRlVEoxbG5jVnBrWm1KWmQwM2xWSDRNMjhDMzJwM3FVRVZTSzJBTlN5VzVHbEoyTmcwXzlJYzRMYlBfRm56MnZvbDRxMXQySmZQbG5TUkIybDkxd09qNzl6STVjTlczVEd3c0F0djVycmcxQ1ZVVkFSRl9hY1htYkl3QQ?oc=5",
+        "date": "2025-12-29",
+        "title": "Beware of 4 Diseases During the Rainy Season - Tempo.co English",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxNSVRlVEoxbG5jVnBrWm1KWmQwM2xWSDRNMjhDMzJwM3FVRVZTSzJBTlN5VzVHbEoyTmcwXzlJYzRMYlBfRm56MnZvbDRxMXQySmZQbG5TUkIybDkxd09qNzl6STVjTlczVEd3c0F0djVycmcxQ1ZVVkFSRl9hY1htYkl3QQ?oc=5\" target=\"_blank\">Beware of 4 Diseases During the Rainy Season</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tempo.co English</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
     }
 ]
