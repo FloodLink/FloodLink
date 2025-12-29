@@ -6078,5 +6078,52 @@
         "score": 7,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRTZoeVlhODFyTjBOQXhHRmtqejI0ek40ZnJzb2syald3OUc3YTJjeWV1cHZ1ZXlDRDE3ZHhyWUhBYjQ4MVdoc3V2dnE5emtIY0N4aU56QlRWdlB1R2kyUnBEVnZBZGZJeHRZYUJoT3Bjb3dicHhsMzRxdDU5WUNCZHJETFllNS13cjRTY1I0cXBCdHlwTUFTUkYwZmNHZFVDWFYtVTR4OGJuYzF1TEJrNjJBYw?oc=5",
+        "date": "2025-12-29",
+        "title": "Caution near waterways as flood warning takes effect in Drayton - CambridgeToday.ca",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNRTZoeVlhODFyTjBOQXhHRmtqejI0ek40ZnJzb2syald3OUc3YTJjeWV1cHZ1ZXlDRDE3ZHhyWUhBYjQ4MVdoc3V2dnE5emtIY0N4aU56QlRWdlB1R2kyUnBEVnZBZGZJeHRZYUJoT3Bjb3dicHhsMzRxdDU5WUNCZHJETFllNS13cjRTY1I0cXBCdHlwTUFTUkYwZmNHZFVDWFYtVTR4OGJuYzF1TEJrNjJBYw?oc=5\" target=\"_blank\">Caution near waterways as flood warning takes effect in Drayton</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CambridgeToday.ca</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBQYnIzQm9EUS1mUGpaeG9OaFJTbXJua0YyaEluZUlpWF9oUUloRU1VdWxWMkVUTTdEenJVV0Z4WTJrLWxvSzJOY2VaYkFNMkxaeWI5cVAtQUxBUmhOUVA0ZUlPUGM0M204cUZaZXNBaDh0S1FM?oc=5",
+        "date": "2025-12-29",
+        "title": "Polish city Elbl\u0105g declares flood alert as river exceeds warning level - Yahoo News Canada",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTFBQYnIzQm9EUS1mUGpaeG9OaFJTbXJua0YyaEluZUlpWF9oUUloRU1VdWxWMkVUTTdEenJVV0Z4WTJrLWxvSzJOY2VaYkFNMkxaeWI5cVAtQUxBUmhOUVA0ZUlPUGM0M204cUZaZXNBaDh0S1FM?oc=5\" target=\"_blank\">Polish city Elbl\u0105g declares flood alert as river exceeds warning level</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo News Canada</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": null,
+        "tweet_id": "2005631597882613882",
+        "geo": {
+            "country": "Poland",
+            "name": "Elbl\u0105g",
+            "latitude": 54.1527,
+            "longitude": 19.4042,
+            "confidence": 1.0
+        }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBQYnIzQm9EUS1mUGpaeG9OaFJTbXJua0YyaEluZUlpWF9oUUloRU1VdWxWMkVUTTdEenJVV0Z4WTJrLWxvSzJOY2VaYkFNMkxaeWI5cVAtQUxBUmhOUVA0ZUlPUGM0M204cUZaZXNBaDh0S1FM?oc=5",
+        "date": "2025-12-29",
+        "title": "Polish city Elbl\u0105g declares flood alert as river exceeds warning level - Yahoo News Canada",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTFBQYnIzQm9EUS1mUGpaeG9OaFJTbXJua0YyaEluZUlpWF9oUUloRU1VdWxWMkVUTTdEenJVV0Z4WTJrLWxvSzJOY2VaYkFNMkxaeWI5cVAtQUxBUmhOUVA0ZUlPUGM0M204cUZaZXNBaDh0S1FM?oc=5\" target=\"_blank\">Polish city Elbl\u0105g declares flood alert as river exceeds warning level</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo News Canada</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "posted",
+        "tweet": "\ud83c\uddf5\ud83c\uddf1 FORECAST Elbl\u0105g: Flood alert declared as river exceeds warning level. (Yahoo News Canada)",
+        "type": "news",
+        "tweet_id": "2005631597882613882",
+        "geo": {
+            "country": "Poland",
+            "name": "Elbl\u0105g",
+            "latitude": 54.1527,
+            "longitude": 19.4042,
+            "confidence": 1.0
+        }
     }
 ]
