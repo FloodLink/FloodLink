@@ -6058,5 +6058,25 @@
             "longitude": 101.0,
             "confidence": 1.0
         }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZ1o0bmgtMlZjcXNDblFaenFadFNodFJ4RzdrbVJFRTdxc3JqUy1uWlNhelhkal9vTENGRmtmRjFpaHBSY0U5d2JkemxiVlJ4M1lpQVV4MXNXOGQtWm55MGdORjM3WnZFX2RqUzcxUndLTEpneGtRT09tanZTS19xYTM0cmdQN0FyU25HTExqZ2FoMFRkRU9Vd0E1RTk5WWNLbi1CYnlvTDR3UlFabHJVU9IBtgFBVV95cUxOeWFFbEU2MXd5MklmM01xVEdfdFZYZmVXU1hKekZkTkVDWjFwVnVjb0p5SUtGY2RFckJhWEw5QzBZVW5GNVlHU3N5WE1iNTVjNmZsUmxlazBhR1FkX1Y0VmtFNGQ2SWttSG1yRnd3aC0xS09yQ2tWN0RBMzVHd1p2OS1tOWs3N21TelVCQlpVRjBiZWJLYzltUzd3QnVUUUYyWFRLNVRUbE95ZVdUYzZRcTdaenRBdw?oc=5",
+        "date": "2025-12-29",
+        "title": "Coastal flood advisory for Bay Area Shorelines from Wednesday to Sunday - The Mercury News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOZ1o0bmgtMlZjcXNDblFaenFadFNodFJ4RzdrbVJFRTdxc3JqUy1uWlNhelhkal9vTENGRmtmRjFpaHBSY0U5d2JkemxiVlJ4M1lpQVV4MXNXOGQtWm55MGdORjM3WnZFX2RqUzcxUndLTEpneGtRT09tanZTS19xYTM0cmdQN0FyU25HTExqZ2FoMFRkRU9Vd0E1RTk5WWNLbi1CYnlvTDR3UlFabHJVU9IBtgFBVV95cUxOeWFFbEU2MXd5MklmM01xVEdfdFZYZmVXU1hKekZkTkVDWjFwVnVjb0p5SUtGY2RFckJhWEw5QzBZVW5GNVlHU3N5WE1iNTVjNmZsUmxlazBhR1FkX1Y0VmtFNGQ2SWttSG1yRnd3aC0xS09yQ2tWN0RBMzVHd1p2OS1tOWs3N21TelVCQlpVRjBiZWJLYzltUzd3QnVUUUYyWFRLNVRUbE95ZVdUYzZRcTdaenRBdw?oc=5\" target=\"_blank\">Coastal flood advisory for Bay Area Shorelines from Wednesday to Sunday</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Mercury News</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9iZzJTcEhxYllqckpnc1JDOUxTQkdTWmRISmxFeGJja3RVNGlLY2xleDBOc211eE1lX0dsZ29pUWgtSXpPTGpMVU1UWTdMRFVZdEl0QkRQYmZ3Wm9ybXFWZTl0SUFlUQ?oc=5",
+        "date": "2025-12-29",
+        "title": "Heavy storm lashes Israel, flooding cities and uprooting trees - Ynetnews",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE9iZzJTcEhxYllqckpnc1JDOUxTQkdTWmRISmxFeGJja3RVNGlLY2xleDBOc211eE1lX0dsZ29pUWgtSXpPTGpMVU1UWTdMRFVZdEl0QkRQYmZ3Wm9ybXFWZTl0SUFlUQ?oc=5\" target=\"_blank\">Heavy storm lashes Israel, flooding cities and uprooting trees</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Ynetnews</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
     }
 ]
