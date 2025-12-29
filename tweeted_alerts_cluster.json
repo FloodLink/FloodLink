@@ -9,7 +9,7 @@
     "rain_mm": 57.94,
     "soil_moisture": 0.552,
     "raw_dynamic_score": 8.735,
-    "last_updated": "2025-12-29T16:28:27.833512Z",
+    "last_updated": "2025-12-29T17:20:54.523580Z",
     "last_tweeted_at": "2025-12-29T14:24:01.344363Z",
     "tweet_id": "2005646032454013181",
     "resolved": false
@@ -24,7 +24,7 @@
     "rain_mm": 34.69,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 6.634,
-    "last_updated": "2025-12-29T16:28:27.833512Z",
+    "last_updated": "2025-12-29T17:20:54.523580Z",
     "last_tweeted_at": "2025-12-29T16:28:27.833512Z",
     "tweet_id": "2005677335782007104",
     "resolved": false
@@ -57,6 +57,21 @@
     "last_updated": "2025-12-29T16:28:27.833512Z",
     "last_tweeted_at": "2025-12-29T16:28:27.833512Z",
     "tweet_id": "2005677462559039633",
+    "resolved": false
+  },
+  "-26.2550,-53.6397": {
+    "country": "Brazil",
+    "name": "Dionísio Cerqueira",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": -26.255,
+    "longitude": -53.63972,
+    "rain_mm": 40.69,
+    "soil_moisture": 0.683,
+    "raw_dynamic_score": 6.618,
+    "last_updated": "2025-12-29T17:20:54.523580Z",
+    "last_tweeted_at": "2025-12-29T17:20:54.523580Z",
+    "tweet_id": "2005690534971486614",
     "resolved": false
   }
 }
