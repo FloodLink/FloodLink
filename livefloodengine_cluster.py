@@ -57,10 +57,10 @@ FORECAST_HOURS = 6  # e.g. 3, 6, 12 ...; with 0.25° this is hourly steps
 
 # --- Twitter config ---
 TWITTER_ENABLED = os.getenv("TWITTER_ENABLED", "false").lower() == "true"
-TWITTER_API_KEY = os.getenv("TWITTER_API_KEY")
-TWITTER_SECRET = os.getenv("TWITTER_SECRET")
-TWITTER_ACCESS_TOKEN = os.getenv("TWITTER_ACCESS_TOKEN")
-TWITTER_ACCESS_SECRET = os.getenv("TWITTER_ACCESS_SECRET")
+TWITTER_API_KEY = os.getenv("TWITTER_API_KEY2")
+TWITTER_SECRET = os.getenv("TWITTER_SECRET2")
+TWITTER_ACCESS_TOKEN = os.getenv("TWITTER_ACCESS_TOKEN2")
+TWITTER_ACCESS_SECRET = os.getenv("TWITTER_ACCESS_SECRET2")
 MIN_SECONDS_BETWEEN_TWEETS = 30
 
 # -------------------------------
