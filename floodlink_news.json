@@ -6055,5 +6055,42 @@
         "score": 6,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNWnNSbTI5WTlIVExmQ0V5TlRHNjdtSXJLX3NrVGlyb2hPX1RGSEVleExjUUNJM2JJZ2FNUjIydlp0a0J4ZTFxcFpIbXdwMnU1OTNQOG15cGJ0Q1hEeUR6R25MWlFjWkp5aU5LOGxMdjBhX0VDN1pmdmRYQkRmVkNqcEQycHFuY0E2djlVZS1QbG9TRG1MUGZTR3BKMXdQLXdiaFlia042YjlOclQzTkNicVd2VzdKQUZwS1dUdmhzdGZhRHdaTEhMRk0zdDNDeTdjbmZBS3BhaDlla19KMmlQVkVNOG9CT1FvRi00YzJaS1FudlF2MWQ2VHB1U2lOcWM?oc=5",
+        "date": "2025-12-30",
+        "title": "Indonesia: IHCP Situation Report #6 on Floods, Flash Floods, and Landslides in Aceh, North Sumatra, and West Sumatra provinces (December 29, 2025) - ReliefWeb",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_wFBVV95cUxNWnNSbTI5WTlIVExmQ0V5TlRHNjdtSXJLX3NrVGlyb2hPX1RGSEVleExjUUNJM2JJZ2FNUjIydlp0a0J4ZTFxcFpIbXdwMnU1OTNQOG15cGJ0Q1hEeUR6R25MWlFjWkp5aU5LOGxMdjBhX0VDN1pmdmRYQkRmVkNqcEQycHFuY0E2djlVZS1QbG9TRG1MUGZTR3BKMXdQLXdiaFlia042YjlOclQzTkNicVd2VzdKQUZwS1dUdmhzdGZhRHdaTEhMRk0zdDNDeTdjbmZBS3BhaDlla19KMmlQVkVNOG9CT1FvRi00YzJaS1FudlF2MWQ2VHB1U2lOcWM?oc=5\" target=\"_blank\">Indonesia: IHCP Situation Report #6 on Floods, Flash Floods, and Landslides in Aceh, North Sumatra, and West Sumatra provinces (December 29, 2025)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ReliefWeb</font>",
+        "similarity_excluded": "No",
+        "score": 10,
+        "status": "processed",
+        "tweet": null,
+        "tweet_id": "2005909938002899198",
+        "geo": {
+            "country": "Indonesia",
+            "name": "Aceh",
+            "latitude": 5.5478,
+            "longitude": 95.3236,
+            "confidence": 0.7
+        }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNWnNSbTI5WTlIVExmQ0V5TlRHNjdtSXJLX3NrVGlyb2hPX1RGSEVleExjUUNJM2JJZ2FNUjIydlp0a0J4ZTFxcFpIbXdwMnU1OTNQOG15cGJ0Q1hEeUR6R25MWlFjWkp5aU5LOGxMdjBhX0VDN1pmdmRYQkRmVkNqcEQycHFuY0E2djlVZS1QbG9TRG1MUGZTR3BKMXdQLXdiaFlia042YjlOclQzTkNicVd2VzdKQUZwS1dUdmhzdGZhRHdaTEhMRk0zdDNDeTdjbmZBS3BhaDlla19KMmlQVkVNOG9CT1FvRi00YzJaS1FudlF2MWQ2VHB1U2lOcWM?oc=5",
+        "date": "2025-12-30",
+        "title": "Indonesia: IHCP Situation Report #6 on Floods, Flash Floods, and Landslides in Aceh, North Sumatra, and West Sumatra provinces (December 29, 2025) - ReliefWeb",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_wFBVV95cUxNWnNSbTI5WTlIVExmQ0V5TlRHNjdtSXJLX3NrVGlyb2hPX1RGSEVleExjUUNJM2JJZ2FNUjIydlp0a0J4ZTFxcFpIbXdwMnU1OTNQOG15cGJ0Q1hEeUR6R25MWlFjWkp5aU5LOGxMdjBhX0VDN1pmdmRYQkRmVkNqcEQycHFuY0E2djlVZS1QbG9TRG1MUGZTR3BKMXdQLXdiaFlia042YjlOclQzTkNicVd2VzdKQUZwS1dUdmhzdGZhRHdaTEhMRk0zdDNDeTdjbmZBS3BhaDlla19KMmlQVkVNOG9CT1FvRi00YzJaS1FudlF2MWQ2VHB1U2lOcWM?oc=5\" target=\"_blank\">Indonesia: IHCP Situation Report #6 on Floods, Flash Floods, and Landslides in Aceh, North Sumatra, and West Sumatra provinces (December 29, 2025)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ReliefWeb</font>",
+        "similarity_excluded": "No",
+        "score": 10,
+        "status": "posted",
+        "tweet": "\ud83c\uddee\ud83c\udde9 POST-EVENT Aceh, North & West Sumatra: Floods, flash floods, and landslides causing impacts; IHCP Situation Report #6 (Dec 29, 2025) via ReliefWeb.",
+        "type": "news",
+        "tweet_id": "2005909938002899198",
+        "geo": {
+            "country": "Indonesia",
+            "name": "Aceh",
+            "latitude": 5.5478,
+            "longitude": 95.3236,
+            "confidence": 0.7
+        }
     }
 ]
