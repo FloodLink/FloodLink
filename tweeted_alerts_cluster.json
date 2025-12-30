@@ -514,7 +514,7 @@
     "rain_mm": 41.31,
     "soil_moisture": 0.663,
     "raw_dynamic_score": 6.643,
-    "last_updated": "2025-12-30T12:46:39.020260Z",
+    "last_updated": "2025-12-30T13:37:53.508625Z",
     "last_tweeted_at": "2025-12-30T08:32:08.562104Z",
     "tweet_id": "2005919995641942390",
     "resolved": false
@@ -664,10 +664,18 @@
     "rain_mm": 87.69,
     "soil_moisture": 0.684,
     "raw_dynamic_score": 14.265,
-    "last_updated": "2025-12-30T10:25:44.174382Z",
+    "last_updated": "2025-12-30T13:37:53.508625Z",
     "last_tweeted_at": "2025-12-30T10:25:44.174382Z",
     "tweet_id": "2005948570554577302",
-    "resolved": false
+    "resolved": false,
+    "pending_downgrade": true,
+    "pending_target_level": "Medium",
+    "pending_set_at": "2025-12-30T13:37:53.508625Z",
+    "pending_is_region": false,
+    "pending_observed_level": "Medium",
+    "pending_observed_rain_mm": 66.38,
+    "pending_observed_soil_moisture": 0.698,
+    "pending_observed_raw_dynamic_score": 10.884
   },
   "-7.5142,109.2942": {
     "country": "Indonesia",
@@ -724,7 +732,7 @@
     "rain_mm": 54.0,
     "soil_moisture": 0.604,
     "raw_dynamic_score": 8.398,
-    "last_updated": "2025-12-30T10:25:44.174382Z",
+    "last_updated": "2025-12-30T13:37:53.508625Z",
     "last_tweeted_at": "2025-12-30T10:25:44.174382Z",
     "tweet_id": "2005948824519598433",
     "resolved": false
@@ -739,7 +747,7 @@
     "rain_mm": 67.88,
     "soil_moisture": 0.593,
     "raw_dynamic_score": 10.487,
-    "last_updated": "2025-12-30T10:25:44.174382Z",
+    "last_updated": "2025-12-30T13:37:53.508625Z",
     "last_tweeted_at": "2025-12-30T10:25:44.174382Z",
     "tweet_id": "2005948951095304548",
     "resolved": false
