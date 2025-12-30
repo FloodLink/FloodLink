@@ -1,20 +1,4 @@
 {
-  "-26.8978,-49.2317": {
-    "country": "Brazil",
-    "name": "Indaial",
-    "risk_level": "Low",
-    "tweeted_level": "High",
-    "latitude": -26.89778,
-    "longitude": -49.23167,
-    "rain_mm": 2.69,
-    "soil_moisture": 0.599,
-    "raw_dynamic_score": 0.417,
-    "last_updated": "2025-12-30T04:41:00.550197Z",
-    "last_tweeted_at": "2025-12-29T22:22:24.684636Z",
-    "tweet_id": "2005766541829103923",
-    "resolved": true,
-    "resolved_at": "2025-12-29T22:22:24.684636Z"
-  },
   "-19.9000,48.8000": {
     "country": "Madagascar",
     "name": "Mahanoro",
@@ -60,22 +44,6 @@
     "tweet_id": "2006040267996995749",
     "resolved": true,
     "resolved_at": "2025-12-30T16:30:05.270851Z"
-  },
-  "-26.2550,-53.6397": {
-    "country": "Brazil",
-    "name": "Dionísio Cerqueira",
-    "risk_level": "Low",
-    "tweeted_level": "High",
-    "latitude": -26.255,
-    "longitude": -53.63972,
-    "rain_mm": 3.56,
-    "soil_moisture": 0.661,
-    "raw_dynamic_score": 0.572,
-    "last_updated": "2025-12-30T20:26:18.490404Z",
-    "last_tweeted_at": "2025-12-29T22:22:24.684636Z",
-    "tweet_id": "2005766415135932778",
-    "resolved": true,
-    "resolved_at": "2025-12-29T22:22:24.684636Z"
   },
   "-25.7789,-49.3261": {
     "country": "Brazil",
