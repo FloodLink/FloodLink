@@ -744,5 +744,20 @@
     "last_tweeted_at": "2025-12-30T10:25:44.174382Z",
     "tweet_id": "2005948951095304548",
     "resolved": false
+  },
+  "-7.9135,113.8214": {
+    "country": "Indonesia",
+    "name": "Bondowoso",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": -7.91346,
+    "longitude": 113.82145,
+    "rain_mm": 43.12,
+    "soil_moisture": 0.693,
+    "raw_dynamic_score": 7.051,
+    "last_updated": "2025-12-31T04:40:21.812966Z",
+    "last_tweeted_at": "2025-12-31T04:40:21.812966Z",
+    "tweet_id": "2006223912577675296",
+    "resolved": false
   }
 }
