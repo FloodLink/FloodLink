@@ -935,5 +935,50 @@
     "last_tweeted_at": "2025-12-31T13:34:50.336504Z",
     "tweet_id": "2006358558942937545",
     "resolved": false
+  },
+  "-22.4286,-43.4186": {
+    "country": "Brazil",
+    "name": "Paty do Alferes",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": -22.42861,
+    "longitude": -43.41861,
+    "rain_mm": 43.19,
+    "soil_moisture": 0.586,
+    "raw_dynamic_score": 6.644,
+    "last_updated": "2025-12-31T15:23:11.919866Z",
+    "last_tweeted_at": "2025-12-31T15:23:11.919866Z",
+    "tweet_id": "2006385695674249234",
+    "resolved": false
+  },
+  "-22.1585,-43.2932": {
+    "country": "Brazil",
+    "name": "Paraíba do Sul",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": -22.15847,
+    "longitude": -43.29321,
+    "rain_mm": 52.81,
+    "soil_moisture": 0.553,
+    "raw_dynamic_score": 7.969,
+    "last_updated": "2025-12-31T15:23:11.919866Z",
+    "last_tweeted_at": "2025-12-31T15:23:11.919866Z",
+    "tweet_id": "2006385695674249234",
+    "resolved": false
+  },
+  "-22.4539,-43.4689": {
+    "country": "Brazil",
+    "name": "Miguel Pereira",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": -22.45389,
+    "longitude": -43.46889,
+    "rain_mm": 43.19,
+    "soil_moisture": 0.586,
+    "raw_dynamic_score": 6.644,
+    "last_updated": "2025-12-31T15:23:11.919866Z",
+    "last_tweeted_at": "2025-12-31T15:23:11.919866Z",
+    "tweet_id": "2006385695674249234",
+    "resolved": false
   }
 }
