@@ -29,22 +29,6 @@
     "tweet_id": "2005677335782007104",
     "resolved": false
   },
-  "-25.4710,-56.0160": {
-    "country": "Paraguay",
-    "name": "Caaguazú",
-    "risk_level": "Low",
-    "tweeted_level": "Low",
-    "latitude": -25.47104,
-    "longitude": -56.01603,
-    "rain_mm": 3.06,
-    "soil_moisture": 0.532,
-    "raw_dynamic_score": 0.456,
-    "last_updated": "2025-12-30T16:30:05.270851Z",
-    "last_tweeted_at": "2025-12-30T16:30:05.270851Z",
-    "tweet_id": "2006040267996995749",
-    "resolved": true,
-    "resolved_at": "2025-12-30T16:30:05.270851Z"
-  },
   "-25.7789,-49.3261": {
     "country": "Brazil",
     "name": "Mandirituba",
@@ -1023,7 +1007,7 @@
     "rain_mm": 68.0,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 13.005,
-    "last_updated": "2025-12-31T16:11:29.498715Z",
+    "last_updated": "2025-12-31T17:21:05.881947Z",
     "last_tweeted_at": "2025-12-31T16:11:29.498715Z",
     "tweet_id": "2006397971621871661",
     "resolved": false
