@@ -36,6 +36,8 @@ import requests
 import tweepy
 import unicodedata
 from requests.exceptions import RequestException, ReadTimeout, ConnectionError
+from tweepy.errors import Forbidden, TooManyRequests, Unauthorized, TweepyException
+
 
 import numpy as np
 import pygrib
@@ -940,6 +942,42 @@ def create_client():
         wait_on_rate_limit=True,
     )
 
+def log_x_error(e: Exception, context: str = ""):
+    print(f"❌ X API error [{context}] -> {type(e).__name__}: {e}")
+
+    resp = getattr(e, "response", None)
+    if resp is not None:
+        try:
+            print(f"   status_code: {resp.status_code}")
+        except Exception:
+            pass
+
+        # body (usually contains the real reason)
+        try:
+            body = resp.text
+            if body:
+                print("   response_body:")
+                print(body[:3000])  # keep logs reasonable
+        except Exception:
+            pass
+
+        # headers that help debugging with X support + rate limits
+        try:
+            rid = resp.headers.get("x-request-id") or resp.headers.get("x-response-id")
+            if rid:
+                print(f"   request_id: {rid}")
+            rl_rem = resp.headers.get("x-rate-limit-remaining")
+            rl_rst = resp.headers.get("x-rate-limit-reset")
+            if rl_rem is not None or rl_rst is not None:
+                print(f"   rate_limit: remaining={rl_rem}, reset={rl_rst}")
+        except Exception:
+            pass
+
+    # Tweepy sometimes exposes parsed api_errors
+    api_errors = getattr(e, "api_errors", None)
+    if api_errors:
+        print(f"   api_errors: {api_errors}")
+
 
 def tweet_alert(change_type, alert, quote_tweet_id=None):
     lat, lon = alert["latitude"], alert["longitude"]
@@ -997,8 +1035,40 @@ def tweet_alert(change_type, alert, quote_tweet_id=None):
         new_tweet_id = response.data["id"]
         print(f"✅ Tweet posted with ID: {new_tweet_id}")
         return str(new_tweet_id)
+
+    except Forbidden as e:
+        log_x_error(e, context="create_tweet (point)")
+
+        # Very common: quoting fails (tweet deleted/protected/blocked/not visible)
+        # Retry once without quoting so your pipeline can continue.
+        if quote_tweet_id:
+            print("↩ Retrying WITHOUT quote_tweet_id (quote may be forbidden for this account)...")
+            try:
+                client = create_client()
+                response = client.create_tweet(text=tweet_text)
+                new_tweet_id = response.data["id"]
+                print(f"✅ Tweet posted (no-quote) with ID: {new_tweet_id}")
+                return str(new_tweet_id)
+            except Exception as e2:
+                log_x_error(e2, context="create_tweet retry no-quote (point)")
+                return None
+
+        return None
+
+    except TooManyRequests as e:
+        log_x_error(e, context="create_tweet rate-limit (point)")
+        return None
+
+    except Unauthorized as e:
+        log_x_error(e, context="create_tweet unauthorized (point)")
+        return None
+
+    except TweepyException as e:
+        log_x_error(e, context="create_tweet tweepy (point)")
+        return None
+
     except Exception as e:
-        print(f"❌ Tweet failed: {e}")
+        print(f"❌ Tweet failed (unexpected): {e}")
         return None
 
 
@@ -1612,6 +1682,15 @@ def main():
 
     last_tweet_ts = 0.0
     client = create_client() if TWITTER_ENABLED else None
+
+    # ✅ Point 3: confirm which account the Action is authenticated as
+    if TWITTER_ENABLED and client is not None:
+        try:
+            me = client.get_me()
+            if me and me.data:
+                print(f"🔑 Auth OK as @{me.data.username} (id={me.data.id})")
+        except Exception as e:
+            log_x_error(e, context="get_me()")
 
     for region_key, alerts_in_region in region_clusters.items():
         if len(alerts_in_region) == 1:
