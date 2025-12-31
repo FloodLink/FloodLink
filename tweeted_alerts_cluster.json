@@ -518,7 +518,7 @@
     "rain_mm": 68.38,
     "soil_moisture": 0.679,
     "raw_dynamic_score": 11.097,
-    "last_updated": "2025-12-30T14:23:52.257790Z",
+    "last_updated": "2025-12-31T06:36:56.404899Z",
     "last_tweeted_at": "2025-12-30T10:25:44.174382Z",
     "tweet_id": "2005948570554577302",
     "resolved": false,
@@ -758,6 +758,21 @@
     "last_updated": "2025-12-31T05:27:15.675507Z",
     "last_tweeted_at": "2025-12-31T04:40:21.812966Z",
     "tweet_id": "2006223912577675296",
+    "resolved": false
+  },
+  "-8.0764,111.7064": {
+    "country": "Indonesia",
+    "name": "Trenggalek",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": -8.0764,
+    "longitude": 111.70641,
+    "rain_mm": 57.62,
+    "soil_moisture": 0.661,
+    "raw_dynamic_score": 9.256,
+    "last_updated": "2025-12-31T06:36:56.404899Z",
+    "last_tweeted_at": "2025-12-31T06:36:56.404899Z",
+    "tweet_id": "2006253258575069191",
     "resolved": false
   }
 }
