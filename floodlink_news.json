@@ -5285,5 +5285,15 @@
         "score": 8,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9fQTFsOUtlbEF3V2EzdUdiVkVzNXVJdGoxWGV6X1lXSUVGc0NBc1RQbGlQbW1VOUdfNXV4ZWkyb19FTFRJOVpfSnZPUEluTVF6ODRJRzRKc0x1SlZCYnJUenR1WUlSbUZwdURGZEl0VQ?oc=5",
+        "date": "2026-01-01",
+        "title": "UPDATE: Coastal flood warning in place for Northern Humboldt Coast for Thursday - Modesto Bee",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE9fQTFsOUtlbEF3V2EzdUdiVkVzNXVJdGoxWGV6X1lXSUVGc0NBc1RQbGlQbW1VOUdfNXV4ZWkyb19FTFRJOVpfSnZPUEluTVF6ODRJRzRKc0x1SlZCYnJUenR1WUlSbUZwdURGZEl0VQ?oc=5\" target=\"_blank\">UPDATE: Coastal flood warning in place for Northern Humboldt Coast for Thursday</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Modesto Bee</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
     }
 ]
