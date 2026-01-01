@@ -1,4 +1,4 @@
-name: 🌍 FloodLink Cluster-NOAA Live Risk Engine 
+name: 🌍 FloodLink Cluster-NOAA Live Risk Engine
 
 on:
   schedule:
@@ -8,7 +8,6 @@ on:
 permissions:
   contents: write
 
-# avoid concurrent runs stepping on each other
 concurrency:
   group: floodlink-live-cluster
   cancel-in-progress: true
@@ -16,15 +15,11 @@ concurrency:
 jobs:
   run-floodlink:
     runs-on: ubuntu-latest
-    
-    env:
-      # 👇 force unbuffered stdout so logs stream live
-      PYTHONUNBUFFERED: "1"
 
-      # ✅ enable live tweets (set to "false" for dry runs)
+    env:
+      PYTHONUNBUFFERED: "1"
       TWITTER_ENABLED: "true"
-      
-      # ⚠️ Use GitHub Secrets for keys
+
       TWITTER_API_KEY2: ${{ secrets.TWITTER_API_KEY2 }}
       TWITTER_SECRET2: ${{ secrets.TWITTER_SECRET2 }}
       TWITTER_ACCESS_TOKEN2: ${{ secrets.TWITTER_ACCESS_TOKEN2 }}
@@ -35,20 +30,20 @@ jobs:
       - name: 📦 Checkout repository
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0   # allow pull/rebase/push
+          fetch-depth: 0
 
       - name: 🐍 Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
-          cache: 'pip'
+          cache: 'pip'   # ✅ speeds up installs, still allows latest when you use --upgrade
 
       - name: 📦 Install system dependencies
         run: |
           sudo apt-get update
           sudo apt-get install -y libeccodes0
 
-      - name: ⚙️ Install dependencies
+      - name: ⚙️ Install dependencies (latest)
         run: |
           python -m pip install --upgrade pip setuptools wheel
           pip install --upgrade pandas requests tweepy tzdata pygrib numpy scipy
@@ -77,14 +72,6 @@ jobs:
             git add alerts_comparison_cluster_*.json
           fi
 
-          if ! git diff --cached --quiet; then
-            git commit -m "🌧️ Auto-update: cluster flood risk alerts ($(date -u +'%Y-%m-%dT%H:%M:%SZ'))"
-            git push origin main
-          else
-            echo "No JSON changes to commit."
-          fi
-          
-          # 4) Commit only if there are staged changes
           if ! git diff --cached --quiet; then
             git commit -m "🌧️ Auto-update: cluster flood risk alerts ($(date -u +'%Y-%m-%dT%H:%M:%SZ'))"
             git push origin main
