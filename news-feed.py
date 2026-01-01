@@ -20,7 +20,7 @@ TWITTER_BEARER_TOKEN = os.getenv("TWITTER_BEARER_TOKEN")
 OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
 XAI_API_KEY = os.getenv("XAI_API_KEY")
 
-# --- Updated model definitions (October 2025) ---
+# --- Updated model definitions (October 2026) ---
 OPENAI_MODEL = "gpt-5"                     # Replaces GPT-4
 XAI_MODEL = "grok-4-fast-reasoning"        # Replaces Grok-2-1212
 
@@ -561,7 +561,7 @@ Format:
     selected_format = tweet_formats[selected_format_key]
 
     prompt = f"""
-Assume the current year is 2025.
+Assume the current year is 2026.
 
 Generate a concise, factual tweet about **{selected_category}**,
 focusing ONLY on floods, flash floods, storm surge, or extreme rainfall.
@@ -597,7 +597,7 @@ def generate_infrastructure_tweet():
     )
 
     prompt = """
-Assume the current year is 2025.
+Assume the current year is 2026.
 
 Write a concise tweet about infrastructure that protects
 or is exposed to floods (levees, dikes, dams, stormwater tanks,
