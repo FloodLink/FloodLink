@@ -29,6 +29,7 @@ jobs:
       TWITTER_SECRET2: ${{ secrets.TWITTER_SECRET2 }}
       TWITTER_ACCESS_TOKEN2: ${{ secrets.TWITTER_ACCESS_TOKEN2 }}
       TWITTER_ACCESS_SECRET2: ${{ secrets.TWITTER_ACCESS_SECRET2 }}
+      TWITTER_BEARER_TOKEN2: ${{ secrets.TWITTER_BEARER_TOKEN2 }}
 
     steps:
       - name: 📦 Checkout repository
