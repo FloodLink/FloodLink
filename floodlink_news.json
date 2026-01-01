@@ -5687,5 +5687,14 @@
             "longitude": -118.2437,
             "confidence": 1.0
         }
+    },
+    {
+        "link": null,
+        "date": "2026-01-01",
+        "status": "posted",
+        "tweet": "Since 2020, extreme rainfall events in the world's 50 largest cities have surged 35%, per IPCC data, exposing 1.2 billion urban residents to heightened flash flood risks by 2030.",
+        "type": "statistical",
+        "category": "extreme rainfall trends in major cities",
+        "tweet_id": "2006815636685541459"
     }
 ]
