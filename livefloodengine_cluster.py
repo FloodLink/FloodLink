@@ -949,22 +949,32 @@ def create_client():
         ]:
             if not v:
                 missing.append(k)
-
         if missing:
             print(f"❌ Missing X creds in env: {missing}. Check GitHub secrets + job env wiring.")
-            # Disable tweeting to avoid Cloudflare challenge spam
-            # (or raise Exception if you prefer a hard fail)
             raise RuntimeError("Missing X credentials")
 
-    return tweepy.Client(
-        bearer_token=TWITTER_BEARER_TOKEN,          # OK if None
+    kwargs = dict(
+        bearer_token=TWITTER_BEARER_TOKEN,  # can be None
         consumer_key=TWITTER_API_KEY,
         consumer_secret=TWITTER_SECRET,
         access_token=TWITTER_ACCESS_TOKEN,
         access_token_secret=TWITTER_ACCESS_SECRET,
         wait_on_rate_limit=True,
-        base_url=X_API_BASE_URL,                    # key change
     )
+
+    # ✅ Compatible with both old/new Tweepy
+    try:
+        return tweepy.Client(**kwargs, base_url=X_API_BASE_URL)
+    except TypeError:
+        client = tweepy.Client(**kwargs)
+
+        # Best-effort: if Tweepy exposes base url as an attribute, overwrite it
+        # (won't crash if attribute doesn't exist)
+        for attr in ("base_url", "_base_url"):
+            if hasattr(client, attr):
+                setattr(client, attr, X_API_BASE_URL)
+        return client
+
 
 
 def log_x_error(e: Exception, context: str = ""):
