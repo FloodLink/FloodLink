@@ -5483,5 +5483,52 @@
         "score": 7,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNc3FlY2VMWUpEMC1lTmVfRkVaOW5PemJidktfQXc1dTJxQ0N5TWhTRzZYN1dlNW0xVlJkckNwQ3lob3BzVWlVT1ZPTFhrbEZVUXpJUnZlOXFTcHc0V2RmaDVXTVFPZ0JsSkY3ek9vM3VVc0RueTdOaVh2RGVaeW5nMUJuN3F6X0VsQjdLNE1weW0ybGExdHVGeTYwZndHUnVJbXp6SlAtS3ZwNy1PcWxHatIBtgFBVV95cUxQLTJnWVlRcW14M0txS2R2c2pUWlhxTFRBbkZMdkVYdjMwTzJ2TVRrV0gyOGRjY0xGTi1rczk1QWFDOVUtU0ZKLW1LSW94ZFA1Y0RBNXpudWJOZGtMODFSS201SHhheW9UMWJKenBkSExFWUg0V194NE5vd1RsSDNoRmhCNGQtYVpjT0FBSFZUQjRHdjlHX3JlWFh1S3h5eTJWTzhDRHFLQkxJbGpVRkRLLWxKcDJLZw?oc=5",
+        "date": "2026-01-01",
+        "title": "Flash floods triggered by heavy rains in Afghanistan kill at least 17 people - ABC News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNc3FlY2VMWUpEMC1lTmVfRkVaOW5PemJidktfQXc1dTJxQ0N5TWhTRzZYN1dlNW0xVlJkckNwQ3lob3BzVWlVT1ZPTFhrbEZVUXpJUnZlOXFTcHc0V2RmaDVXTVFPZ0JsSkY3ek9vM3VVc0RueTdOaVh2RGVaeW5nMUJuN3F6X0VsQjdLNE1weW0ybGExdHVGeTYwZndHUnVJbXp6SlAtS3ZwNy1PcWxHatIBtgFBVV95cUxQLTJnWVlRcW14M0txS2R2c2pUWlhxTFRBbkZMdkVYdjMwTzJ2TVRrV0gyOGRjY0xGTi1rczk1QWFDOVUtU0ZKLW1LSW94ZFA1Y0RBNXpudWJOZGtMODFSS201SHhheW9UMWJKenBkSExFWUg0V194NE5vd1RsSDNoRmhCNGQtYVpjT0FBSFZUQjRHdjlHX3JlWFh1S3h5eTJWTzhDRHFLQkxJbGpVRkRLLWxKcDJLZw?oc=5\" target=\"_blank\">Flash floods triggered by heavy rains in Afghanistan kill at least 17 people</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ABC News</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": null,
+        "tweet_id": "2006740651442946291",
+        "geo": {
+            "country": "Afghanistan",
+            "name": null,
+            "latitude": null,
+            "longitude": null,
+            "confidence": 0.4
+        }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOZk02UWxlZ0dLWWJKbWJzeHE0YnRERU44NmdRUElwTkhKQ3V5QVJJWlprak5ZZ0tUTUhiMWtrOEw2a01aSGNIWldkNlZjVmRjSVNnWHVWMDNEdUhKWUR1NUFjWWVrdm5nUnhSMXowQ2ttejk1d2pXYVFNS0NtekNRM2RmUVJMQnJzanpEcFJMSE5pYTk4c0Zta1Bmd3Q3bktIQ0ZHeE9OTkJ5Rm1wWk5MeDRSZ2MwbXFDOGVpatIBwgFBVV95cUxOUnEtNVd5TjVGd24xVUVqRDhhcTFLX1I0VHR4cjRBUUJJR2IxdUdIbkM5S0tzbHZlc2ZHRDZWc1B0V2p2c2g3RU9CZFBsN3daVWNkMlEzdFhQZDdmZks5S1l3UUszb0Y3bk1WS1lXNGZNNV9CQThCTFpLOFBhMlNBcF8wXzNtQlpubFZQOXJpeGVxc2pfQjFxcFMtTzhQckVubFNnSGpLX3lOejczWXoxVEFPbXNLdGYyMkhJbXY0cmtjQQ?oc=5",
+        "date": "2026-01-01",
+        "title": "Bay Area Shorelines placed under a coastal flood advisory until Sunday afternoon - The Mercury News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOZk02UWxlZ0dLWWJKbWJzeHE0YnRERU44NmdRUElwTkhKQ3V5QVJJWlprak5ZZ0tUTUhiMWtrOEw2a01aSGNIWldkNlZjVmRjSVNnWHVWMDNEdUhKWUR1NUFjWWVrdm5nUnhSMXowQ2ttejk1d2pXYVFNS0NtekNRM2RmUVJMQnJzanpEcFJMSE5pYTk4c0Zta1Bmd3Q3bktIQ0ZHeE9OTkJ5Rm1wWk5MeDRSZ2MwbXFDOGVpatIBwgFBVV95cUxOUnEtNVd5TjVGd24xVUVqRDhhcTFLX1I0VHR4cjRBUUJJR2IxdUdIbkM5S0tzbHZlc2ZHRDZWc1B0V2p2c2g3RU9CZFBsN3daVWNkMlEzdFhQZDdmZks5S1l3UUszb0Y3bk1WS1lXNGZNNV9CQThCTFpLOFBhMlNBcF8wXzNtQlpubFZQOXJpeGVxc2pfQjFxcFMtTzhQckVubFNnSGpLX3lOejczWXoxVEFPbXNLdGYyMkhJbXY0cmtjQQ?oc=5\" target=\"_blank\">Bay Area Shorelines placed under a coastal flood advisory until Sunday afternoon</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Mercury News</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNc3FlY2VMWUpEMC1lTmVfRkVaOW5PemJidktfQXc1dTJxQ0N5TWhTRzZYN1dlNW0xVlJkckNwQ3lob3BzVWlVT1ZPTFhrbEZVUXpJUnZlOXFTcHc0V2RmaDVXTVFPZ0JsSkY3ek9vM3VVc0RueTdOaVh2RGVaeW5nMUJuN3F6X0VsQjdLNE1weW0ybGExdHVGeTYwZndHUnVJbXp6SlAtS3ZwNy1PcWxHatIBtgFBVV95cUxQLTJnWVlRcW14M0txS2R2c2pUWlhxTFRBbkZMdkVYdjMwTzJ2TVRrV0gyOGRjY0xGTi1rczk1QWFDOVUtU0ZKLW1LSW94ZFA1Y0RBNXpudWJOZGtMODFSS201SHhheW9UMWJKenBkSExFWUg0V194NE5vd1RsSDNoRmhCNGQtYVpjT0FBSFZUQjRHdjlHX3JlWFh1S3h5eTJWTzhDRHFLQkxJbGpVRkRLLWxKcDJLZw?oc=5",
+        "date": "2026-01-01",
+        "title": "Flash floods triggered by heavy rains in Afghanistan kill at least 17 people - ABC News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNc3FlY2VMWUpEMC1lTmVfRkVaOW5PemJidktfQXc1dTJxQ0N5TWhTRzZYN1dlNW0xVlJkckNwQ3lob3BzVWlVT1ZPTFhrbEZVUXpJUnZlOXFTcHc0V2RmaDVXTVFPZ0JsSkY3ek9vM3VVc0RueTdOaVh2RGVaeW5nMUJuN3F6X0VsQjdLNE1weW0ybGExdHVGeTYwZndHUnVJbXp6SlAtS3ZwNy1PcWxHatIBtgFBVV95cUxQLTJnWVlRcW14M0txS2R2c2pUWlhxTFRBbkZMdkVYdjMwTzJ2TVRrV0gyOGRjY0xGTi1rczk1QWFDOVUtU0ZKLW1LSW94ZFA1Y0RBNXpudWJOZGtMODFSS201SHhheW9UMWJKenBkSExFWUg0V194NE5vd1RsSDNoRmhCNGQtYVpjT0FBSFZUQjRHdjlHX3JlWFh1S3h5eTJWTzhDRHFLQkxJbGpVRkRLLWxKcDJLZw?oc=5\" target=\"_blank\">Flash floods triggered by heavy rains in Afghanistan kill at least 17 people</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ABC News</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "posted",
+        "tweet": "\ud83c\udde6\ud83c\uddeb POST-EVENT Afghanistan: Flash floods triggered by heavy rains kill at least 17 people. (ABC News)",
+        "type": "news",
+        "tweet_id": "2006740651442946291",
+        "geo": {
+            "country": "Afghanistan",
+            "name": null,
+            "latitude": null,
+            "longitude": null,
+            "confidence": 0.4
+        }
     }
 ]
