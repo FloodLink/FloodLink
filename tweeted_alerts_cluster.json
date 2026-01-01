@@ -885,7 +885,7 @@
     "rain_mm": 22.56,
     "soil_moisture": 0.609,
     "raw_dynamic_score": 3.519,
-    "last_updated": "2025-12-31T16:11:29.498715Z",
+    "last_updated": "2026-01-01T01:56:57.336402Z",
     "last_tweeted_at": "2025-12-31T16:11:29.498715Z",
     "tweet_id": "2006397971621871661",
     "resolved": true,
@@ -901,7 +901,7 @@
     "rain_mm": 12.25,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 2.343,
-    "last_updated": "2025-12-31T16:11:29.498715Z",
+    "last_updated": "2026-01-01T01:56:57.336402Z",
     "last_tweeted_at": "2025-12-31T16:11:29.498715Z",
     "tweet_id": "2006397971621871661",
     "resolved": true,
@@ -977,7 +977,7 @@
     "rain_mm": 46.0,
     "soil_moisture": 0.632,
     "raw_dynamic_score": 7.267,
-    "last_updated": "2025-12-31T19:19:15.306703Z",
+    "last_updated": "2026-01-01T01:56:57.336402Z",
     "last_tweeted_at": "2025-12-31T16:11:29.498715Z",
     "tweet_id": "2006397844874309771",
     "resolved": false
@@ -1007,10 +1007,14 @@
     "rain_mm": 68.0,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 13.005,
-    "last_updated": "2025-12-31T22:22:42.251038Z",
+    "last_updated": "2026-01-01T01:56:57.336402Z",
     "last_tweeted_at": "2025-12-31T16:11:29.498715Z",
     "tweet_id": "2006397971621871661",
-    "resolved": false
+    "resolved": false,
+    "pending_downgrade": true,
+    "pending_target_level": "Low",
+    "pending_set_at": "2026-01-01T01:56:57.336402Z",
+    "pending_is_region": true
   },
   "2.6667,112.0833": {
     "country": "Malaysia",
@@ -1022,7 +1026,7 @@
     "rain_mm": 58.12,
     "soil_moisture": 0.662,
     "raw_dynamic_score": 9.343,
-    "last_updated": "2025-12-31T16:11:29.498715Z",
+    "last_updated": "2026-01-01T01:56:57.336402Z",
     "last_tweeted_at": "2025-12-31T16:11:29.498715Z",
     "tweet_id": "2006397971621871661",
     "resolved": false
@@ -1037,7 +1041,7 @@
     "rain_mm": 77.62,
     "soil_moisture": 0.731,
     "raw_dynamic_score": 12.961,
-    "last_updated": "2025-12-31T16:11:29.498715Z",
+    "last_updated": "2026-01-01T01:56:57.336402Z",
     "last_tweeted_at": "2025-12-31T16:11:29.498715Z",
     "tweet_id": "2006397971621871661",
     "resolved": false
