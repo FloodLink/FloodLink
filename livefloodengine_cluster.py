@@ -57,12 +57,17 @@ MAX_RETRIES = 1                   # per NOAA file download
 TIMEOUT = 30                      # request timeout (s) per NOAA download
 FORECAST_HOURS = 6  # e.g. 3, 6, 12 ...; with 0.25° this is hourly steps
 
+# -------------------------------
 # --- Twitter config ---
+# -------------------------------
 TWITTER_ENABLED = os.getenv("TWITTER_ENABLED", "false").lower() == "true"
+X_API_BASE_URL = os.getenv("X_API_BASE_URL", "https://api.x.com/2")
+
 TWITTER_API_KEY = os.getenv("TWITTER_API_KEY2")
 TWITTER_SECRET = os.getenv("TWITTER_SECRET2")
 TWITTER_ACCESS_TOKEN = os.getenv("TWITTER_ACCESS_TOKEN2")
 TWITTER_ACCESS_SECRET = os.getenv("TWITTER_ACCESS_SECRET2")
+TWITTER_BEARER_TOKEN = os.getenv("TWITTER_BEARER_TOKEN2")
 MIN_SECONDS_BETWEEN_TWEETS = 30
 
 # -------------------------------
@@ -934,13 +939,33 @@ def cleanup_tweeted_alerts(tweeted, valid_coords, now_utc):
 
 
 def create_client():
+    if TWITTER_ENABLED:
+        missing = []
+        for k, v in [
+            ("TWITTER_API_KEY2", TWITTER_API_KEY),
+            ("TWITTER_SECRET2", TWITTER_SECRET),
+            ("TWITTER_ACCESS_TOKEN2", TWITTER_ACCESS_TOKEN),
+            ("TWITTER_ACCESS_SECRET2", TWITTER_ACCESS_SECRET),
+        ]:
+            if not v:
+                missing.append(k)
+
+        if missing:
+            print(f"❌ Missing X creds in env: {missing}. Check GitHub secrets + job env wiring.")
+            # Disable tweeting to avoid Cloudflare challenge spam
+            # (or raise Exception if you prefer a hard fail)
+            raise RuntimeError("Missing X credentials")
+
     return tweepy.Client(
+        bearer_token=TWITTER_BEARER_TOKEN,          # OK if None
         consumer_key=TWITTER_API_KEY,
         consumer_secret=TWITTER_SECRET,
         access_token=TWITTER_ACCESS_TOKEN,
         access_token_secret=TWITTER_ACCESS_SECRET,
         wait_on_rate_limit=True,
+        base_url=X_API_BASE_URL,                    # key change
     )
+
 
 def log_x_error(e: Exception, context: str = ""):
     print(f"❌ X API error [{context}] -> {type(e).__name__}: {e}")
@@ -1029,9 +1054,11 @@ def tweet_alert(change_type, alert, quote_tweet_id=None):
     try:
         client = create_client()
         response = client.create_tweet(
-            text=tweet_text,
-            quote_tweet_id=quote_tweet_id
+             text=tweet_text,
+             quote_tweet_id=quote_tweet_id,
+             user_auth=True,   # ✅ IMPORTANT
         )
+
         new_tweet_id = response.data["id"]
         print(f"✅ Tweet posted with ID: {new_tweet_id}")
         return str(new_tweet_id)
@@ -1045,7 +1072,7 @@ def tweet_alert(change_type, alert, quote_tweet_id=None):
             print("↩ Retrying WITHOUT quote_tweet_id (quote may be forbidden for this account)...")
             try:
                 client = create_client()
-                response = client.create_tweet(text=tweet_text)
+                response = client.create_tweet(text=tweet_text, user_auth=True)  # ✅ IMPORTANT
                 new_tweet_id = response.data["id"]
                 print(f"✅ Tweet posted (no-quote) with ID: {new_tweet_id}")
                 return str(new_tweet_id)
@@ -1192,7 +1219,11 @@ def tweet_region_cluster(region_key, alerts_in_region, client=None,
     try:
         if client is None:
             client = create_client()
-        response = client.create_tweet(text=tweet_text, quote_tweet_id=quote_tweet_id)
+        response = client.create_tweet(
+             text=tweet_text,
+             quote_tweet_id=quote_tweet_id,
+             user_auth=True,   # ✅ IMPORTANT
+        )
         new_tweet_id = response.data["id"]
         print(f"✅ Region tweet posted with ID: {new_tweet_id}")
         return str(new_tweet_id)
@@ -1686,7 +1717,7 @@ def main():
     # ✅ Point 3: confirm which account the Action is authenticated as
     if TWITTER_ENABLED and client is not None:
         try:
-            me = client.get_me()
+            me = client.get_me(user_auth=True)
             if me and me.data:
                 print(f"🔑 Auth OK as @{me.data.username} (id={me.data.id})")
         except Exception as e:
