@@ -5236,5 +5236,14 @@
         "score": 7,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-01-01",
+        "status": "posted",
+        "tweet": "Global economic losses from floods, flash floods, and extreme rainfall hit $65B in 2024, per Swiss Re\u2014projected to surpass $100B annually by 2030 amid worsening climate trends.",
+        "type": "statistical",
+        "category": "economic losses from floods and flash floods",
+        "tweet_id": "2006585454133498016"
     }
 ]
