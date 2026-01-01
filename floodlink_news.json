@@ -5295,5 +5295,25 @@
         "score": 0,
         "status": "skipped",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBJZHBTemJqTWFpR01oaHYtSWtNeUpNalJvaERhOHNJcDJJWl8xZUFsU1lsd0MtWGotYmlEdFdvbE1RbnFSaTEwbEI1NTJuT0o4dHpXN1J6dlJoZzJ0VHRldENLSkdXZlg5cFRMb0oyMGhtM1BwM1plSw?oc=5",
+        "date": "2026-01-01",
+        "title": "Flood watch issued for Southern California until Thursday night caused by substantial rain - San Luis Obispo Tribune",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFBJZHBTemJqTWFpR01oaHYtSWtNeUpNalJvaERhOHNJcDJJWl8xZUFsU1lsd0MtWGotYmlEdFdvbE1RbnFSaTEwbEI1NTJuT0o4dHpXN1J6dlJoZzJ0VHRldENLSkdXZlg5cFRMb0oyMGhtM1BwM1plSw?oc=5\" target=\"_blank\">Flood watch issued for Southern California until Thursday night caused by substantial rain</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">San Luis Obispo Tribune</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE80NTQtQXRFWHJYVl9NN0JNRG4tcnVRUExaUHBIQXltOEtZVjJ4MThqSUpYdTBPSDlqTE9WaXRQMXA2cTJDSlZqVDY4SVpEODhv?oc=5",
+        "date": "2026-01-01",
+        "title": "Heavy rainfall triggers floods, landslides in NegOr town - Philippine News Agency",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTE80NTQtQXRFWHJYVl9NN0JNRG4tcnVRUExaUHBIQXltOEtZVjJ4MThqSUpYdTBPSDlqTE9WaXRQMXA2cTJDSlZqVDY4SVpEODhv?oc=5\" target=\"_blank\">Heavy rainfall triggers floods, landslides in NegOr town</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Philippine News Agency</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
     }
 ]
