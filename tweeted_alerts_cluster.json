@@ -734,7 +734,7 @@
     "rain_mm": 52.69,
     "soil_moisture": 0.655,
     "raw_dynamic_score": 8.434,
-    "last_updated": "2026-01-02T10:24:31.130204Z",
+    "last_updated": "2026-01-02T15:24:41.781221Z",
     "last_tweeted_at": "2026-01-02T10:24:31.130204Z",
     "tweet_id": "2007035296546771308",
     "resolved": false
@@ -831,6 +831,21 @@
     "last_updated": "2026-01-02T13:35:14.787345Z",
     "last_tweeted_at": "2026-01-02T11:21:08.769394Z",
     "tweet_id": "2007049547327885419",
+    "resolved": false
+  },
+  "-0.9492,100.3543": {
+    "country": "Indonesia",
+    "name": "Padang",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": -0.94924,
+    "longitude": 100.35427,
+    "rain_mm": 39.06,
+    "soil_moisture": 1.0,
+    "raw_dynamic_score": 7.471,
+    "last_updated": "2026-01-02T15:24:41.781221Z",
+    "last_tweeted_at": "2026-01-02T15:24:41.781221Z",
+    "tweet_id": "2007110854777692354",
     "resolved": false
   }
 }
