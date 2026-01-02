@@ -816,5 +816,35 @@
     "last_tweeted_at": "2026-01-01T22:22:41.639101Z",
     "tweet_id": "2006853776452268316",
     "resolved": false
+  },
+  "-0.6190,100.1200": {
+    "country": "Indonesia",
+    "name": "Pariaman",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": -0.61898,
+    "longitude": 100.11997,
+    "rain_mm": 52.12,
+    "soil_moisture": 1.0,
+    "raw_dynamic_score": 9.969,
+    "last_updated": "2026-01-02T06:36:31.836237Z",
+    "last_tweeted_at": "2026-01-02T06:36:31.836237Z",
+    "tweet_id": "2006977932837740808",
+    "resolved": false
+  },
+  "-0.3091,100.3705": {
+    "country": "Indonesia",
+    "name": "Bukittinggi",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": -0.30907,
+    "longitude": 100.37055,
+    "rain_mm": 58.69,
+    "soil_moisture": 0.654,
+    "raw_dynamic_score": 9.391,
+    "last_updated": "2026-01-02T06:36:31.836237Z",
+    "last_tweeted_at": "2026-01-02T06:36:31.836237Z",
+    "tweet_id": "2006977932837740808",
+    "resolved": false
   }
 }
