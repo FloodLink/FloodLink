@@ -759,10 +759,18 @@
     "rain_mm": 80.38,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 15.372,
-    "last_updated": "2026-01-01T22:22:41.639101Z",
+    "last_updated": "2026-01-02T01:48:40.541154Z",
     "last_tweeted_at": "2026-01-01T22:22:41.639101Z",
     "tweet_id": "2006853649733972167",
-    "resolved": false
+    "resolved": false,
+    "pending_downgrade": true,
+    "pending_target_level": "Medium",
+    "pending_set_at": "2026-01-02T01:48:40.541154Z",
+    "pending_is_region": false,
+    "pending_observed_level": "Medium",
+    "pending_observed_rain_mm": 61.5,
+    "pending_observed_soil_moisture": 1.0,
+    "pending_observed_raw_dynamic_score": 11.762
   },
   "14.6206,120.5817": {
     "country": "Philippines",
