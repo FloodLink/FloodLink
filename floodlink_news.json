@@ -5569,5 +5569,14 @@
         "score": 7,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-01-02",
+        "status": "posted",
+        "tweet": "Flood fatalities worldwide: 2020-2025 averaged 9,200 deaths/year, up 40% from 2010-2019's 6,600. Flash floods & extreme rainfall drove 65% of losses, with projections for 2026 signaling further rises amid climate trends.",
+        "type": "statistical",
+        "category": "global flood fatalities and trends",
+        "tweet_id": "2007103217738367170"
     }
 ]
