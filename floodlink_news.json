@@ -5462,5 +5462,14 @@
         "score": 6,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-01-02",
+        "status": "posted",
+        "tweet": "By 2030, 1.8 billion urban residents worldwide will face river flooding risks\u2014up 24% from 2020\u2014due to intensifying extreme rainfall.",
+        "type": "statistical",
+        "category": "urban areas exposed to river flooding",
+        "tweet_id": "2007002919950823479"
     }
 ]
