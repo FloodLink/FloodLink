@@ -5529,5 +5529,25 @@
         "tweet": "\ud83c\uddf3\ud83c\uddf1 The Netherlands' 26,000 km of dikes and levees form a vital barrier, protecting 60% of the country's land from flooding in 2026.",
         "type": "infrastructure",
         "tweet_id": "2007042591632638263"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbi1nOVFRUFNBdGQ4RHZrSWxiT0duYkFPeHR4WlFrWXNBeDl2dVRSUVl1dV9kZm1jOHRGT1FnSEpSRGY1ZU41MkJsN3FLY0xWS2I5azNuTVlfNndjRGhrb09Sa2kwQlpFQjU5RlhYczNiaGVmc2l1VjJNb3Z4cmRSdkZVVV9aUmZFU2dqOEpjTEQwSm1wRXR6Y2NSc0d6UnV1RXJuY1VQLXXSAa4BQVVfeXFMTXJ1VDlrUVkxbGswdUlhQzZmLVVId2MtR0lwVXZsejlKQzlhcGt1cE1fS2RjRkl6SmVUcWYyQ01kMXhxV0FrNFhVV0xmOGZXazNKS0wyV3c4RGhKYk5rSlE2SnhEc2wtazlsaVR5cUJmcnNFdnc4dUNRV3BQNFNvOFpqVU8xRVhOa0pBVzhlRDVtSVp2LWw4bzNzV1ZWNVpwNjBjTHQ1eU92akxzTUt3?oc=5",
+        "date": "2026-01-02",
+        "title": "Coastal Flood Warning Issued for San Francisco Bay Shoreline and North Bay Areas - Times Now",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbi1nOVFRUFNBdGQ4RHZrSWxiT0duYkFPeHR4WlFrWXNBeDl2dVRSUVl1dV9kZm1jOHRGT1FnSEpSRGY1ZU41MkJsN3FLY0xWS2I5azNuTVlfNndjRGhrb09Sa2kwQlpFQjU5RlhYczNiaGVmc2l1VjJNb3Z4cmRSdkZVVV9aUmZFU2dqOEpjTEQwSm1wRXR6Y2NSc0d6UnV1RXJuY1VQLXXSAa4BQVVfeXFMTXJ1VDlrUVkxbGswdUlhQzZmLVVId2MtR0lwVXZsejlKQzlhcGt1cE1fS2RjRkl6SmVUcWYyQ01kMXhxV0FrNFhVV0xmOGZXazNKS0wyV3c4RGhKYk5rSlE2SnhEc2wtazlsaVR5cUJmcnNFdnc4dUNRV3BQNFNvOFpqVU8xRVhOa0pBVzhlRDVtSVp2LWw4bzNzV1ZWNVpwNjBjTHQ1eU92akxzTUt3?oc=5\" target=\"_blank\">Coastal Flood Warning Issued for San Francisco Bay Shoreline and North Bay Areas</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Times Now</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSE1XOVZkaTJWSGdiMldBQjZpaFZoX0paRmN6ZkEwY05NZUZfa2p2NE8xdnBwdWdZNkUyYk14cl93WnVVaE9BT3NTR185YksydnNDZjIxWWFTb0YwZUJuZ2s1czUwbFdnWnpCQ3NKR1p2amNOZ2ExX0NGclY5UWtyd1NPNDg4dnI1RnNNWFlIVmx4ZlB6TkFHNXJGMjBvazlQVGZuVDN4aw?oc=5",
+        "date": "2026-01-02",
+        "title": "Tropical cyclone could form next week - 9News.com.au",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxOSE1XOVZkaTJWSGdiMldBQjZpaFZoX0paRmN6ZkEwY05NZUZfa2p2NE8xdnBwdWdZNkUyYk14cl93WnVVaE9BT3NTR185YksydnNDZjIxWWFTb0YwZUJuZ2s1czUwbFdnWnpCQ3NKR1p2amNOZ2ExX0NGclY5UWtyd1NPNDg4dnI1RnNNWFlIVmx4ZlB6TkFHNXJGMjBvazlQVGZuVDN4aw?oc=5\" target=\"_blank\">Tropical cyclone could form next week</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">9News.com.au</font>",
+        "similarity_excluded": "No",
+        "score": 4,
+        "status": "processed",
+        "tweet": null
     }
 ]
