@@ -5521,5 +5521,13 @@
         "score": 5,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-01-02",
+        "status": "posted",
+        "tweet": "\ud83c\uddf3\ud83c\uddf1 The Netherlands' 26,000 km of dikes and levees form a vital barrier, protecting 60% of the country's land from flooding in 2026.",
+        "type": "infrastructure",
+        "tweet_id": "2007042591632638263"
     }
 ]
