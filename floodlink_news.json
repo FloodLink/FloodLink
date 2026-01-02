@@ -5549,5 +5549,15 @@
         "score": 4,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9xcHRRNlNLMVJVT3JiWUJwR3VzdGVhUGc4SElOVjB5WHZ0Ylg0VW1yZ0x4YVh5cmIwcTVobzhuSGk1R1lOUzNrOXhtanlidW8zTWxDZk93VVptUmw3WXJzdEVJN1JfVHJhVnFtbVRLWHZ1OWs0WEsxcg?oc=5",
+        "date": "2026-01-02",
+        "title": "Coastal flood warning affecting Northern California Friday and Saturday - San Luis Obispo Tribune",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE9xcHRRNlNLMVJVT3JiWUJwR3VzdGVhUGc4SElOVjB5WHZ0Ylg0VW1yZ0x4YVh5cmIwcTVobzhuSGk1R1lOUzNrOXhtanlidW8zTWxDZk93VVptUmw3WXJzdEVJN1JfVHJhVnFtbVRLWHZ1OWs0WEsxcg?oc=5\" target=\"_blank\">Coastal flood warning affecting Northern California Friday and Saturday</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">San Luis Obispo Tribune</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
     }
 ]
