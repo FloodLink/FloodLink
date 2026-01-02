@@ -5442,5 +5442,25 @@
         "score": 7,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1CbFpNSF9FR3JJSVVOVW9GdS1JbkN2cEJ2NU16QXBqSExwOFJFa2VTaTZwdEowa3B1alh0SkM1X2NlVWxlT0FFRU9QMjhCWG8wcTdTTWNCVWR1MThpcTk2dTI5a1pTcHVOVXZOQVdLQQ?oc=5",
+        "date": "2026-01-02",
+        "title": "Coastal flood warning affecting Northern California Friday and Saturday - Modesto Bee",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE1CbFpNSF9FR3JJSVVOVW9GdS1JbkN2cEJ2NU16QXBqSExwOFJFa2VTaTZwdEowa3B1alh0SkM1X2NlVWxlT0FFRU9QMjhCWG8wcTdTTWNCVWR1MThpcTk2dTI5a1pTcHVOVXZOQVdLQQ?oc=5\" target=\"_blank\">Coastal flood warning affecting Northern California Friday and Saturday</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Modesto Bee</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdzVMa0NnanFtRXVhU3FGaklYR25FelRVWDlTd1ptTkpzaGpLelV3NFpBelhfRVptQ2ZYQmo0R2F4aWhkaktVYVBmQk9MOXdZSU1paFRpOS0wN0dSSXg4OGFFZnpRejZETkF0b093NWZmb2pWXzhUeXZ5UnV0b0stTVJRWnZDZ0tQc2o2VDBGaS04a2RtUlVhVmo5dw?oc=5",
+        "date": "2026-01-02",
+        "title": "When north and south winds collide, torrential rain falls in south-east Asia - The Guardian",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQdzVMa0NnanFtRXVhU3FGaklYR25FelRVWDlTd1ptTkpzaGpLelV3NFpBelhfRVptQ2ZYQmo0R2F4aWhkaktVYVBmQk9MOXdZSU1paFRpOS0wN0dSSXg4OGFFZnpRejZETkF0b093NWZmb2pWXzhUeXZ5UnV0b0stTVJRWnZDZ0tQc2o2VDBGaS04a2RtUlVhVmo5dw?oc=5\" target=\"_blank\">When north and south winds collide, torrential rain falls in south-east Asia</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font>",
+        "similarity_excluded": "No",
+        "score": 6,
+        "status": "processed",
+        "tweet": null
     }
 ]
