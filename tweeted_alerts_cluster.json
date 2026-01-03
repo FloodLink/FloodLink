@@ -9,7 +9,7 @@
     "rain_mm": 175.62,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 33.588,
-    "last_updated": "2026-01-03T03:24:58.099800Z",
+    "last_updated": "2026-01-03T04:34:54.671647Z",
     "last_tweeted_at": "2026-01-02T22:22:45.591522Z",
     "tweet_id": "2007216175852429370",
     "resolved": false,
@@ -392,7 +392,7 @@
     "rain_mm": 46.0,
     "soil_moisture": 0.632,
     "raw_dynamic_score": 7.267,
-    "last_updated": "2026-01-03T03:24:58.099800Z",
+    "last_updated": "2026-01-03T04:34:54.671647Z",
     "last_tweeted_at": "2025-12-31T16:11:29.498715Z",
     "tweet_id": "2006397844874309771",
     "resolved": false
@@ -822,7 +822,7 @@
     "rain_mm": 55.88,
     "soil_moisture": 0.691,
     "raw_dynamic_score": 9.125,
-    "last_updated": "2026-01-02T23:21:59.995482Z",
+    "last_updated": "2026-01-03T04:34:54.671647Z",
     "last_tweeted_at": "2026-01-02T23:21:59.995482Z",
     "tweet_id": "2007230956420161735",
     "resolved": false
@@ -852,7 +852,7 @@
     "rain_mm": 56.56,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 10.818,
-    "last_updated": "2026-01-03T01:43:09.924691Z",
+    "last_updated": "2026-01-03T04:34:54.671647Z",
     "last_tweeted_at": "2026-01-03T01:43:09.924691Z",
     "tweet_id": "2007266494615584786",
     "resolved": false
@@ -885,6 +885,36 @@
     "last_updated": "2026-01-03T01:43:09.924691Z",
     "last_tweeted_at": "2026-01-03T01:43:09.924691Z",
     "tweet_id": "2007266494615584786",
+    "resolved": false
+  },
+  "12.5698,125.0141": {
+    "country": "Philippines",
+    "name": "Laoang",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 12.5698,
+    "longitude": 125.0141,
+    "rain_mm": 67.31,
+    "soil_moisture": 0.686,
+    "raw_dynamic_score": 10.967,
+    "last_updated": "2026-01-03T04:34:54.671647Z",
+    "last_tweeted_at": "2026-01-03T04:34:54.671647Z",
+    "tweet_id": "2007309958824501732",
+    "resolved": false
+  },
+  "12.4989,124.6377": {
+    "country": "Philippines",
+    "name": "Catarman",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 12.4989,
+    "longitude": 124.6377,
+    "rain_mm": 49.94,
+    "soil_moisture": 1.0,
+    "raw_dynamic_score": 9.551,
+    "last_updated": "2026-01-03T04:34:54.671647Z",
+    "last_tweeted_at": "2026-01-03T04:34:54.671647Z",
+    "tweet_id": "2007309958824501732",
     "resolved": false
   }
 }
