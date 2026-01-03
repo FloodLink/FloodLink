@@ -4719,5 +4719,289 @@
         "tweet": "\ud83c\uddf3\ud83c\uddf1 The Netherlands' 26,000 km of dikes and levees protect 9 million residents\u201460% of the population\u2014from coastal and river flooding, with ongoing reinforcements under the Delta Programme.",
         "type": "infrastructure",
         "tweet_id": "2007510128631701692"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOLXJMVkVUNVd6TV9nTWZBd2JUZ2VLZVllQk5OUkdPUzFaY0J0aElfWFptQTNYMElBZXZ5RzNIRFI3RDZOLVFGYXh3clJYUjVGejlpWkc2MTRTY0NzVE9mLU51dEdzVHY3clo5WGVZSTVBdy1FZUpIMWhuX3VERHFqaTZWZnJQcXExQmVJaDZEVlpNZnVPTjFZU3pMUUNadThIdW92M2NiQjdCR3llUWl0clA0MmNjOWpSWVZZckFwUk14OHdNODNZOU1qalZxQ1hW?oc=5",
+        "date": "2026-01-03",
+        "title": "Flash Flood Warning Issued for Parts of Santa Barbara County as 101 Closes for \u2018Unknown Duration\u2019 - The Santa Barbara Independent",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxOLXJMVkVUNVd6TV9nTWZBd2JUZ2VLZVllQk5OUkdPUzFaY0J0aElfWFptQTNYMElBZXZ5RzNIRFI3RDZOLVFGYXh3clJYUjVGejlpWkc2MTRTY0NzVE9mLU51dEdzVHY3clo5WGVZSTVBdy1FZUpIMWhuX3VERHFqaTZWZnJQcXExQmVJaDZEVlpNZnVPTjFZU3pMUUNadThIdW92M2NiQjdCR3llUWl0clA0MmNjOWpSWVZZckFwUk14OHdNODNZOU1qalZxQ1hW?oc=5\" target=\"_blank\">Flash Flood Warning Issued for Parts of Santa Barbara County as 101 Closes for \u2018Unknown Duration\u2019</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Santa Barbara Independent</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": null,
+        "tweet_id": "2007560104216797581",
+        "geo": {
+            "country": "United States",
+            "name": "Santa Barbara County",
+            "latitude": 34.4214,
+            "longitude": -119.6982,
+            "confidence": 0.95
+        }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPb3lNWVZHbklxTUtTWXBLVkJVT25PRkNrX0VXZm5iQzEydnI2NkljelhaS2JpbnJDeXhMS2Q5Xzg2RTItU1ptb0lJeEwxT1FRMk5JalM3akhfSGJMSFNwNFl4NFBvVVpGbVJLYUVmMnlYMXFaYnJnYjFCd1BMendYU1U1V3laRHFfSnRjRFFUR096ZWxBT1VPdmRxLWtwWFRYZzEzZ3hYOA?oc=5",
+        "date": "2026-01-03",
+        "title": "Highway 101 Closed at Goleta as NWS Issues Flash Flood Warning for South Coast - Noozhawk",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPb3lNWVZHbklxTUtTWXBLVkJVT25PRkNrX0VXZm5iQzEydnI2NkljelhaS2JpbnJDeXhMS2Q5Xzg2RTItU1ptb0lJeEwxT1FRMk5JalM3akhfSGJMSFNwNFl4NFBvVVpGbVJLYUVmMnlYMXFaYnJnYjFCd1BMendYU1U1V3laRHFfSnRjRFFUR096ZWxBT1VPdmRxLWtwWFRYZzEzZ3hYOA?oc=5\" target=\"_blank\">Highway 101 Closed at Goleta as NWS Issues Flash Flood Warning for South Coast</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Noozhawk</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOT0NjdVVaWWJUeUJFcHhuQmoydW5sdWR1Zk1jdlozZzg5YWtybnZhUU5jeDN6NWdCR2MyN3BCZWJLUllMcEplT2RBQ0p4ZUFhNUhoQWRJTU5zaUxoUFpzUVdHNHRmMnFxMVV6c0FnWTU0bThtWlRZbnMzQ2l2T2d2YjV4X3AxN3JOVDNTZ2poaGJ5ZnRUcmFqQmk4TmtscVhHZUpBLXhJSlB5VXFQTmc?oc=5",
+        "date": "2026-01-03",
+        "title": "Flash Flood Warning Issued and Part of Highway 101 Closed in Santa Barbara County - edhat",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxOT0NjdVVaWWJUeUJFcHhuQmoydW5sdWR1Zk1jdlozZzg5YWtybnZhUU5jeDN6NWdCR2MyN3BCZWJLUllMcEplT2RBQ0p4ZUFhNUhoQWRJTU5zaUxoUFpzUVdHNHRmMnFxMVV6c0FnWTU0bThtWlRZbnMzQ2l2T2d2YjV4X3AxN3JOVDNTZ2poaGJ5ZnRUcmFqQmk4TmtscVhHZUpBLXhJSlB5VXFQTmc?oc=5\" target=\"_blank\">Flash Flood Warning Issued and Part of Highway 101 Closed in Santa Barbara County</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">edhat</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOcGtFbHhKV2tMdm51UFhwUjVyYkxCQ09QM2dpWXVLU0pHMnFzOF9LODVfTUJ5bXFCSW5HMExfZHk3WmFqT08yREd3TmNtRFI5Ti1nZWpqSGlzMGQ2ZzQ1bFNSUDNaQ0gwMzUweFRMSFBRQmFsZG40Yi1tU2wwNEVZRnBPT09PN0kyQXVrY3EzWkYySU5TbzYwSEU2RFpFRnhaR1hTa2dPcUI?oc=5",
+        "date": "2026-01-03",
+        "title": "Flash flood warning issued for parts of Santa Barbara County - KSBY News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxOcGtFbHhKV2tMdm51UFhwUjVyYkxCQ09QM2dpWXVLU0pHMnFzOF9LODVfTUJ5bXFCSW5HMExfZHk3WmFqT08yREd3TmNtRFI5Ti1nZWpqSGlzMGQ2ZzQ1bFNSUDNaQ0gwMzUweFRMSFBRQmFsZG40Yi1tU2wwNEVZRnBPT09PN0kyQXVrY3EzWkYySU5TbzYwSEU2RFpFRnhaR1hTa2dPcUI?oc=5\" target=\"_blank\">Flash flood warning issued for parts of Santa Barbara County</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KSBY News</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNTEtNdGZQci03a1BpcjFtOFdNdmttNjhRRi02czQ3QmE2UUJQQ0dRRmtGckZhQ1pxLWRlbHNwU3RMaHZ2c09sSm5hVFFYN1hLRzYzb2paVWJnU0pQWGlTS0VvMzRCVGtZMDhKdzg5dUQ3aGVIRkhaaGxybXlFRmNwZTY2NWxaYTY0R0d2SFo2NkJTLUU1ZE04VmdoYTlZRlEwSDRHYXdiNzZMN3VybG0yOVVn?oc=5",
+        "date": "2026-01-03",
+        "title": "Flash Flood Warnings Issued, Highway 101 Shut Down Near Goleta Due to Mudslides - News Channel 3-12",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNTEtNdGZQci03a1BpcjFtOFdNdmttNjhRRi02czQ3QmE2UUJQQ0dRRmtGckZhQ1pxLWRlbHNwU3RMaHZ2c09sSm5hVFFYN1hLRzYzb2paVWJnU0pQWGlTS0VvMzRCVGtZMDhKdzg5dUQ3aGVIRkhaaGxybXlFRmNwZTY2NWxaYTY0R0d2SFo2NkJTLUU1ZE04VmdoYTlZRlEwSDRHYXdiNzZMN3VybG0yOVVn?oc=5\" target=\"_blank\">Flash Flood Warnings Issued, Highway 101 Shut Down Near Goleta Due to Mudslides</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">News Channel 3-12</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": null,
+        "tweet_id": "2007560641645613475",
+        "geo": {
+            "country": "United States",
+            "name": "Goleta",
+            "latitude": 34.4358,
+            "longitude": -119.9665,
+            "confidence": 0.95
+        }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNWdIOWpXd1lySVdwZE92dm5Za0plSlhpWklIaTJsdmtZZ2s3cHRCTW1zcElHVUtHTWhPaDdQSFhPMXNoeGVMMEpaZDd4R2tKM0xKT0JDS3RxRnc2OUN6Q0MteFU1SXBpMmdpWGNHeTlsNUlPUVBWcDN5NmFTbFZRUXUwMlRJUXZXQWZQekJrX3hnMVUtTjhN?oc=5",
+        "date": "2026-01-03",
+        "title": "Heavy Rain Prompts Flash Flood Warning for Lompoc, Buellton, Gaviota - Noozhawk",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNNWdIOWpXd1lySVdwZE92dm5Za0plSlhpWklIaTJsdmtZZ2s3cHRCTW1zcElHVUtHTWhPaDdQSFhPMXNoeGVMMEpaZDd4R2tKM0xKT0JDS3RxRnc2OUN6Q0MteFU1SXBpMmdpWGNHeTlsNUlPUVBWcDN5NmFTbFZRUXUwMlRJUXZXQWZQekJrX3hnMVUtTjhN?oc=5\" target=\"_blank\">Heavy Rain Prompts Flash Flood Warning for Lompoc, Buellton, Gaviota</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Noozhawk</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8wbkJzb3FsOFc0Tlc0Y19pZGRJMFVTRUhMeGNCWGtvbXg4RWpzZ0RuME1idEQtVmZncVdzSFhVanBvX0xiZ0dKUkFYOGFiSmo2NEh0WVI0aFRzTHQyVUhBTGVzamJ6TF9KbUNtWERmdw?oc=5",
+        "date": "2026-01-03",
+        "title": "UPDATE: Flash flood warning in place for Santa Barbara County until Saturday afternoon - Sacramento Bee",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE8wbkJzb3FsOFc0Tlc0Y19pZGRJMFVTRUhMeGNCWGtvbXg4RWpzZ0RuME1idEQtVmZncVdzSFhVanBvX0xiZ0dKUkFYOGFiSmo2NEh0WVI0aFRzTHQyVUhBTGVzamJ6TF9KbUNtWERmdw?oc=5\" target=\"_blank\">UPDATE: Flash flood warning in place for Santa Barbara County until Saturday afternoon</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sacramento Bee</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4wSURYLXJkVzF3MDlzbTYzSktyYWtqN0hGTE1iVDk0ZWFuNTAtc2s5UkVPc0VZeFFGRGF4SFdsUVNqaVpiVWMwSXhBZUVELVVpTThYRlE1TUtmWmhIUjVCeFhEUHQzUTJBcEhXU0g4QQ?oc=5",
+        "date": "2026-01-03",
+        "title": "UPDATE: Flash flood warning in place for Humboldt County until early Saturday evening - Sacramento Bee",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE4wSURYLXJkVzF3MDlzbTYzSktyYWtqN0hGTE1iVDk0ZWFuNTAtc2s5UkVPc0VZeFFGRGF4SFdsUVNqaVpiVWMwSXhBZUVELVVpTThYRlE1TUtmWmhIUjVCeFhEUHQzUTJBcEhXU0g4QQ?oc=5\" target=\"_blank\">UPDATE: Flash flood warning in place for Humboldt County until early Saturday evening</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sacramento Bee</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5zYzFuS0x1ZTVvb25XV2Qxc2d5SFp4THZJLVZvS2RUMUJPQjdNRF84Nkk5ZjV6T1c1S1NhQU9JMGp2VkQ5YnNSRDJIOGFNVHFoSFVMQm9SU1hBLWpqRG16ZENhbmZXSUN6SmRjRjR3Nl84WlVpUzBYVw?oc=5",
+        "date": "2026-01-03",
+        "title": "UPDATE: Flash flood warning in place for Humboldt County until early Saturday evening - San Luis Obispo Tribune",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE5zYzFuS0x1ZTVvb25XV2Qxc2d5SFp4THZJLVZvS2RUMUJPQjdNRF84Nkk5ZjV6T1c1S1NhQU9JMGp2VkQ5YnNSRDJIOGFNVHFoSFVMQm9SU1hBLWpqRG16ZENhbmZXSUN6SmRjRjR3Nl84WlVpUzBYVw?oc=5\" target=\"_blank\">UPDATE: Flash flood warning in place for Humboldt County until early Saturday evening</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">San Luis Obispo Tribune</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTC1EaUt6V2NNQnRYZWQ4RXB6aV9ETlgzTDdkb2ZPVmRtRldNSTBfbGRPWmpERDdKa1p4TjNZR3NRdlJwUGpPWVZ2VUZJRGZxWXhUc3ZLOWZfYXBHZ053NGpUZUZEMUpjM09UNDVmTVVyVF9zZjVabGFwRnRfYWNEcDN3VG8xSjQ4TUZKU0ZyNVFBNVRNRk5FelBhcUhrNVJZMGpXZUVXb3M?oc=5",
+        "date": "2026-01-03",
+        "title": "Coastal flood statement affecting Long Island Sunday - Syracuse.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTC1EaUt6V2NNQnRYZWQ4RXB6aV9ETlgzTDdkb2ZPVmRtRldNSTBfbGRPWmpERDdKa1p4TjNZR3NRdlJwUGpPWVZ2VUZJRGZxWXhUc3ZLOWZfYXBHZ053NGpUZUZEMUpjM09UNDVmTVVyVF9zZjVabGFwRnRfYWNEcDN3VG8xSjQ4TUZKU0ZyNVFBNVRNRk5FelBhcUhrNVJZMGpXZUVXb3M?oc=5\" target=\"_blank\">Coastal flood statement affecting Long Island Sunday</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Syracuse.com</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQNEYzdzJOb3JOVnRZNXFuUEhBcWNpX3ZTZDVDRE1VS0Z1NHJHWTFULTNDaFFDcWQ4Y1czMUlaV0dqTVlRcjhUZVp5a09LU3ZaOG1CbEtZWFpBeVROWmJ2aGdISW91aHFEUWZkaVZyZnAwOFRxY0hxbnQ5SHZUZ1NuVEdKcnlhODMtdFVlV2hYNkk1TkR5Q0JrdkhOa3IwZHpIYXY5cFM0TlhVQW5DaVFXak5fTmlhdERsd1RwQVdBSllUU0NSS3UtZlFrRDVndUhjb0JGdlgwcmptLTc5aWNYQm13?oc=5",
+        "date": "2026-01-03",
+        "title": "National Weather Service issues coastal flooding warning for San Francisco Bay shoreline Saturday - Palo Alto Online",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxQNEYzdzJOb3JOVnRZNXFuUEhBcWNpX3ZTZDVDRE1VS0Z1NHJHWTFULTNDaFFDcWQ4Y1czMUlaV0dqTVlRcjhUZVp5a09LU3ZaOG1CbEtZWFpBeVROWmJ2aGdISW91aHFEUWZkaVZyZnAwOFRxY0hxbnQ5SHZUZ1NuVEdKcnlhODMtdFVlV2hYNkk1TkR5Q0JrdkhOa3IwZHpIYXY5cFM0TlhVQW5DaVFXak5fTmlhdERsd1RwQVdBSllUU0NSS3UtZlFrRDVndUhjb0JGdlgwcmptLTc5aWNYQm13?oc=5\" target=\"_blank\">National Weather Service issues coastal flooding warning for San Francisco Bay shoreline Saturday</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Palo Alto Online</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQc2NuMDlzUmo1eEd5emdKN3ZQTS15akxuVEFpOU1zcE1BeFhTbklpektiQi1mNDlpMDNRSTJ2b0xQaW1NZFJNM1p3MDZ2cG1abURNYXdBanJNNkFNMzBkQVVLQlBHLWs3NmVLcC1BUEExY1dpbUdEMmJjcF9SZ213YzNSZDdKRVhNVjVoaWpiX0NJbVpOZU9BVW14YWtZZzd3U29qWW1kYkxya2dKM1E?oc=5",
+        "date": "2026-01-03",
+        "title": "Coastal flood statement in place for 4 N.J. counties for Sunday - NJ.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQc2NuMDlzUmo1eEd5emdKN3ZQTS15akxuVEFpOU1zcE1BeFhTbklpektiQi1mNDlpMDNRSTJ2b0xQaW1NZFJNM1p3MDZ2cG1abURNYXdBanJNNkFNMzBkQVVLQlBHLWs3NmVLcC1BUEExY1dpbUdEMmJjcF9SZ213YzNSZDdKRVhNVjVoaWpiX0NJbVpOZU9BVW14YWtZZzd3U29qWW1kYkxya2dKM1E?oc=5\" target=\"_blank\">Coastal flood statement in place for 4 N.J. counties for Sunday</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NJ.com</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZmlQSTMwZFNMa2hoWDJOc1ByZEVobGpKN1pMcF9YbGd5eEF3VHB2bHBRSmNNVUlWcnBkQl9oWDRPM2lJYlo3UmJLS24xeXYyUXJxcXB3YmtxbXRGQkp0UnZsZUdJS3VoTDdONzMtWURCbHZOTW9NNlJIWGFVa2xtVm8tZmlhdEtBSlltUkFHYXlCeERpYkFHaWljQjM0dG1Vb2RQYm5rbkxCVDBKOVV5RDJVQWN0OGFmMnoyeklmMV9LQQ?oc=5",
+        "date": "2026-01-03",
+        "title": "NY weather: Coastal flood statement issued for part of New York for Sunday - SILive.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZmlQSTMwZFNMa2hoWDJOc1ByZEVobGpKN1pMcF9YbGd5eEF3VHB2bHBRSmNNVUlWcnBkQl9oWDRPM2lJYlo3UmJLS24xeXYyUXJxcXB3YmtxbXRGQkp0UnZsZUdJS3VoTDdONzMtWURCbHZOTW9NNlJIWGFVa2xtVm8tZmlhdEtBSlltUkFHYXlCeERpYkFHaWljQjM0dG1Vb2RQYm5rbkxCVDBKOVV5RDJVQWN0OGFmMnoyeklmMV9LQQ?oc=5\" target=\"_blank\">NY weather: Coastal flood statement issued for part of New York for Sunday</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SILive.com</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOUjJkOVB6YWdJR21nLVVyN19CMWVKOHZPVVpJRmkzRGdYWnlXUEZhTEkzRWliRndRTzhPVUFXTFlsTVBSN25PMlBqS3hsaE5nczlYUFpIUVF4QW54bVNIQnVVUVdsazNTaVhhcE5SaGwwcXhTUGJLQS1BNDBacWxUZnozMTNETy04amhvdzlpbE5SSGs3WnViNmQzaHNFLWNJeGZ4dmVqSm42ZXZ6ZVNmcGNtYkx3eGVyNno4cGFhR2VraF9KS3lWcVl3?oc=5",
+        "date": "2026-01-03",
+        "title": "Flood advisory affecting North Bay until Saturday morning triggered by intense downpours - The Press Democrat",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxOUjJkOVB6YWdJR21nLVVyN19CMWVKOHZPVVpJRmkzRGdYWnlXUEZhTEkzRWliRndRTzhPVUFXTFlsTVBSN25PMlBqS3hsaE5nczlYUFpIUVF4QW54bVNIQnVVUVdsazNTaVhhcE5SaGwwcXhTUGJLQS1BNDBacWxUZnozMTNETy04amhvdzlpbE5SSGs3WnViNmQzaHNFLWNJeGZ4dmVqSm42ZXZ6ZVNmcGNtYkx3eGVyNno4cGFhR2VraF9KS3lWcVl3?oc=5\" target=\"_blank\">Flood advisory affecting North Bay until Saturday morning triggered by intense downpours</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Press Democrat</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9UOGIxNTlSNVdKczZUMlVfMV9zQVRTWWhCa1Vuc0FZU19kSk5Cc0dERl8tcG5BVm8xWUpkZ2JPeHVXNjcySWRuQWlMc29RZmlnaDNFX0Q5Wlp2ZDVBRG5MQ01WUnloMU9oZ2lJVHJaR3A3NG55TnoxTg?oc=5",
+        "date": "2026-01-03",
+        "title": "Flood watch affecting Central Valley until early Monday evening caused by intense rain - San Luis Obispo Tribune",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE9UOGIxNTlSNVdKczZUMlVfMV9zQVRTWWhCa1Vuc0FZU19kSk5Cc0dERl8tcG5BVm8xWUpkZ2JPeHVXNjcySWRuQWlMc29RZmlnaDNFX0Q5Wlp2ZDVBRG5MQ01WUnloMU9oZ2lJVHJaR3A3NG55TnoxTg?oc=5\" target=\"_blank\">Flood watch affecting Central Valley until early Monday evening caused by intense rain</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">San Luis Obispo Tribune</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAxd2hRYm9Ra0lQbnBaU3p6UjU2Zy02SzFtdWUyRzR3RE9MVXBQVDJTb3dIMUtuZGY2bVhxWXNMT3lySnRaSUlKeV9rUXhNMEtKUlNxanBZZkVVMktEcHRpangtSmpxVFVyYjkxMlFlNVk0dXBYYjVlOQ?oc=5",
+        "date": "2026-01-03",
+        "title": "Flood advisory for Humboldt County until Saturday afternoon caused by heavy downpours - San Luis Obispo Tribune",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFAxd2hRYm9Ra0lQbnBaU3p6UjU2Zy02SzFtdWUyRzR3RE9MVXBQVDJTb3dIMUtuZGY2bVhxWXNMT3lySnRaSUlKeV9rUXhNMEtKUlNxanBZZkVVMktEcHRpangtSmpxVFVyYjkxMlFlNVk0dXBYYjVlOQ?oc=5\" target=\"_blank\">Flood advisory for Humboldt County until Saturday afternoon caused by heavy downpours</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">San Luis Obispo Tribune</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBZUjRtR3VkSVN1emNlLUlhcGtQUUlMOUMySkNQeDNzN2VldjJiNS03Z1dMSWZqZEJiT1ltbTMzS25qZ0ROcFpNekE4VEVsdms4YUs0NjJMUlA0VjVCeWtTbFpSRXdqazJVU1VIWklKa1IyNlZVcWNWag?oc=5",
+        "date": "2026-01-03",
+        "title": "UPDATE: Flood advisory active for Marin and Sonoma counties until early Saturday evening - San Luis Obispo Tribune",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFBZUjRtR3VkSVN1emNlLUlhcGtQUUlMOUMySkNQeDNzN2VldjJiNS03Z1dMSWZqZEJiT1ltbTMzS25qZ0ROcFpNekE4VEVsdms4YUs0NjJMUlA0VjVCeWtTbFpSRXdqazJVU1VIWklKa1IyNlZVcWNWag?oc=5\" target=\"_blank\">UPDATE: Flood advisory active for Marin and Sonoma counties until early Saturday evening</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">San Luis Obispo Tribune</font>",
+        "similarity_excluded": "No",
+        "score": 6,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9RWlBCMmktVTl4S3ROdmhzTUViVXZVT19XMVdCcHhUeEh1OTlJNTVYLTd1UHpiVXhFLWdJUUo0cTNBSG5QZmpuckFUWWJuc0swY0M5ZlVoUTdQOExLeldpZjUyMmNCbXdHODBaa2g2b2U4RWhjY0dkeQ?oc=5",
+        "date": "2026-01-03",
+        "title": "Flood advisory in place for Mendocino County until Saturday afternoon - San Luis Obispo Tribune",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE9RWlBCMmktVTl4S3ROdmhzTUViVXZVT19XMVdCcHhUeEh1OTlJNTVYLTd1UHpiVXhFLWdJUUo0cTNBSG5QZmpuckFUWWJuc0swY0M5ZlVoUTdQOExLeldpZjUyMmNCbXdHODBaa2g2b2U4RWhjY0dkeQ?oc=5\" target=\"_blank\">Flood advisory in place for Mendocino County until Saturday afternoon</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">San Luis Obispo Tribune</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1ldVFyM1NpZmp0RlJCamhpcUZzOWhvM3BBQnQ3cDdBYVoybEpDZEpQTmZET0Fvb21pY0tSZTJkV25hUFozcXFMYnA3bDVEQ3ZOVjJUV3R3cDFCZnFQSXdTRThaanF4RERxcU01Rk44NkdKTVBWMTNNaw?oc=5",
+        "date": "2026-01-03",
+        "title": "UPDATE: Flood advisory affecting San Luis Obispo and Santa Barbara counties until Saturday midday - San Luis Obispo Tribune",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE1ldVFyM1NpZmp0RlJCamhpcUZzOWhvM3BBQnQ3cDdBYVoybEpDZEpQTmZET0Fvb21pY0tSZTJkV25hUFozcXFMYnA3bDVEQ3ZOVjJUV3R3cDFCZnFQSXdTRThaanF4RERxcU01Rk44NkdKTVBWMTNNaw?oc=5\" target=\"_blank\">UPDATE: Flood advisory affecting San Luis Obispo and Santa Barbara counties until Saturday midday</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">San Luis Obispo Tribune</font>",
+        "similarity_excluded": "No",
+        "score": 6,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQMnFJMVp5RFZaeWsyMGVIR3Jfb09PbFlIRnFxanNLWmJCQVp1eEpYejlDNm9WV2ZTSFc2YXF6aEVCSVc0OE1wRWhQT0k3RFB4TkJIbXA0UzZzRk9aVnBocnRJUzktclUtMHFVYk5WU0MzVWk5Ty0zeVo2TVZOUjlKYUdZdUxGWG1Xd1ZFN2JnSXNwRlJYTnBMUDJSSGh1Z3dTTUNUVTBIazkya0hmWlhGM1oyR2ZZb2hnSFk4MTdaR1E2TDkxM1hlQXJpZnlJNVE?oc=5",
+        "date": "2026-01-03",
+        "title": "King tides, storm surge prompt coastal flood warning; will later be downgraded to advisory - KION Central Coast",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxQMnFJMVp5RFZaeWsyMGVIR3Jfb09PbFlIRnFxanNLWmJCQVp1eEpYejlDNm9WV2ZTSFc2YXF6aEVCSVc0OE1wRWhQT0k3RFB4TkJIbXA0UzZzRk9aVnBocnRJUzktclUtMHFVYk5WU0MzVWk5Ty0zeVo2TVZOUjlKYUdZdUxGWG1Xd1ZFN2JnSXNwRlJYTnBMUDJSSGh1Z3dTTUNUVTBIazkya0hmWlhGM1oyR2ZZb2hnSFk4MTdaR1E2TDkxM1hlQXJpZnlJNVE?oc=5\" target=\"_blank\">King tides, storm surge prompt coastal flood warning; will later be downgraded to advisory</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KION Central Coast</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNE93OVJ1b3BKS1AzT0NaMkN0R09UTGdFWnhMU3UtVTNRblRGUHZ1UFBaRmIwYUVPN291VEllM20xVFplMzFPbjlibmtPNnhvVjEzQ1h5RTJTR00yT21Nc01KVDhJVXliVVNMRDMzWGVPeVRFSEdDUUFFRHpsNjBqcWxySncycUlqcGN0TUw4TmJjdXRCRXlFcklBQW1pa0g3RGFZLUxNWW8?oc=5",
+        "date": "2026-01-03",
+        "title": "Road closures, including Highway 101, due to flooding and debris flows - KSBY News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNE93OVJ1b3BKS1AzT0NaMkN0R09UTGdFWnhMU3UtVTNRblRGUHZ1UFBaRmIwYUVPN291VEllM20xVFplMzFPbjlibmtPNnhvVjEzQ1h5RTJTR00yT21Nc01KVDhJVXliVVNMRDMzWGVPeVRFSEdDUUFFRHpsNjBqcWxySncycUlqcGN0TUw4TmJjdXRCRXlFcklBQW1pa0g3RGFZLUxNWW8?oc=5\" target=\"_blank\">Road closures, including Highway 101, due to flooding and debris flows</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KSBY News</font>",
+        "similarity_excluded": "No",
+        "score": 6,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPaFJZMVRJTGpxTDRZRjJSQlE0SV9aZmZ3cHh6V0xRRTBEUUtnNGcyd1dfckZ2NHdlbTB6clAzZUZJYzNxZS1DN1VJa2lFZVpDc3ZqT01UeGhPSnVaTm10N1l3VHFPMXF6NGh5NklfRkxkLUszUFRqMjd0LVEtcVJkVFRfRkpZaGVNNVh4VVFKLTdBVXVmMFNsMHQycExKTW11UlY4d2dOYnpGME1leUU1QWdoSDFfZGt0SW84WTZ3TC0?oc=5",
+        "date": "2026-01-03",
+        "title": "Third Day of Flooding in Coastal Communities as Record King Tides and Strong Winds Continue - Redheaded Blackbelt",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxPaFJZMVRJTGpxTDRZRjJSQlE0SV9aZmZ3cHh6V0xRRTBEUUtnNGcyd1dfckZ2NHdlbTB6clAzZUZJYzNxZS1DN1VJa2lFZVpDc3ZqT01UeGhPSnVaTm10N1l3VHFPMXF6NGh5NklfRkxkLUszUFRqMjd0LVEtcVJkVFRfRkpZaGVNNVh4VVFKLTdBVXVmMFNsMHQycExKTW11UlY4d2dOYnpGME1leUU1QWdoSDFfZGt0SW84WTZ3TC0?oc=5\" target=\"_blank\">Third Day of Flooding in Coastal Communities as Record King Tides and Strong Winds Continue</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Redheaded Blackbelt</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPaDhlUlhqNGdRb3VoeXBMVEdkQTY3cWtQZzB6aHBTTU5YcXBzY3B6S1phRS1hbHBVNWZrOEl5NWhMSzFaeUhrLWZCVVA1VUEyQ3FyS2Y1aHJBZ1RZNG0yTndIalRwQmJ3Z3ljVlJMa0NEbVRnR01FbEtydlZjOElicTQ3ZmFMSDFmV3pv?oc=5",
+        "date": "2026-01-03",
+        "title": "Coastal flooding alert issued for parts of B.C.'s South Coast, including Metro Vancouver - Vancouver Sun",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxPaDhlUlhqNGdRb3VoeXBMVEdkQTY3cWtQZzB6aHBTTU5YcXBzY3B6S1phRS1hbHBVNWZrOEl5NWhMSzFaeUhrLWZCVVA1VUEyQ3FyS2Y1aHJBZ1RZNG0yTndIalRwQmJ3Z3ljVlJMa0NEbVRnR01FbEtydlZjOElicTQ3ZmFMSDFmV3pv?oc=5\" target=\"_blank\">Coastal flooding alert issued for parts of B.C.'s South Coast, including Metro Vancouver</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Vancouver Sun</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOLXJMVkVUNVd6TV9nTWZBd2JUZ2VLZVllQk5OUkdPUzFaY0J0aElfWFptQTNYMElBZXZ5RzNIRFI3RDZOLVFGYXh3clJYUjVGejlpWkc2MTRTY0NzVE9mLU51dEdzVHY3clo5WGVZSTVBdy1FZUpIMWhuX3VERHFqaTZWZnJQcXExQmVJaDZEVlpNZnVPTjFZU3pMUUNadThIdW92M2NiQjdCR3llUWl0clA0MmNjOWpSWVZZckFwUk14OHdNODNZOU1qalZxQ1hW?oc=5",
+        "date": "2026-01-03",
+        "title": "Flash Flood Warning Issued for Parts of Santa Barbara County as 101 Closes for \u2018Unknown Duration\u2019 - The Santa Barbara Independent",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxOLXJMVkVUNVd6TV9nTWZBd2JUZ2VLZVllQk5OUkdPUzFaY0J0aElfWFptQTNYMElBZXZ5RzNIRFI3RDZOLVFGYXh3clJYUjVGejlpWkc2MTRTY0NzVE9mLU51dEdzVHY3clo5WGVZSTVBdy1FZUpIMWhuX3VERHFqaTZWZnJQcXExQmVJaDZEVlpNZnVPTjFZU3pMUUNadThIdW92M2NiQjdCR3llUWl0clA0MmNjOWpSWVZZckFwUk14OHdNODNZOU1qalZxQ1hW?oc=5\" target=\"_blank\">Flash Flood Warning Issued for Parts of Santa Barbara County as 101 Closes for \u2018Unknown Duration\u2019</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Santa Barbara Independent</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 FORECAST Santa Barbara County: Flash flood warning issued for parts of the county; Highway 101 closed for unknown duration. (Santa Barbara Independent)",
+        "type": "news",
+        "tweet_id": "2007560104216797581",
+        "geo": {
+            "country": "United States",
+            "name": "Santa Barbara County",
+            "latitude": 34.4214,
+            "longitude": -119.6982,
+            "confidence": 0.95
+        }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNTEtNdGZQci03a1BpcjFtOFdNdmttNjhRRi02czQ3QmE2UUJQQ0dRRmtGckZhQ1pxLWRlbHNwU3RMaHZ2c09sSm5hVFFYN1hLRzYzb2paVWJnU0pQWGlTS0VvMzRCVGtZMDhKdzg5dUQ3aGVIRkhaaGxybXlFRmNwZTY2NWxaYTY0R0d2SFo2NkJTLUU1ZE04VmdoYTlZRlEwSDRHYXdiNzZMN3VybG0yOVVn?oc=5",
+        "date": "2026-01-03",
+        "title": "Flash Flood Warnings Issued, Highway 101 Shut Down Near Goleta Due to Mudslides - News Channel 3-12",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNTEtNdGZQci03a1BpcjFtOFdNdmttNjhRRi02czQ3QmE2UUJQQ0dRRmtGckZhQ1pxLWRlbHNwU3RMaHZ2c09sSm5hVFFYN1hLRzYzb2paVWJnU0pQWGlTS0VvMzRCVGtZMDhKdzg5dUQ3aGVIRkhaaGxybXlFRmNwZTY2NWxaYTY0R0d2SFo2NkJTLUU1ZE04VmdoYTlZRlEwSDRHYXdiNzZMN3VybG0yOVVn?oc=5\" target=\"_blank\">Flash Flood Warnings Issued, Highway 101 Shut Down Near Goleta Due to Mudslides</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">News Channel 3-12</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 FORECAST Goleta: Flash flood warnings issued; Highway 101 shut down due to mudslides from heavy rain. (News Channel 3-12)",
+        "type": "news",
+        "tweet_id": "2007560641645613475",
+        "geo": {
+            "country": "United States",
+            "name": "Goleta",
+            "latitude": 34.4358,
+            "longitude": -119.9665,
+            "confidence": 0.95
+        }
     }
 ]
