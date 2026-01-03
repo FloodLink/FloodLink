@@ -5013,5 +5013,25 @@
         "score": 0,
         "status": "skipped",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOQUZOWk13NVRzZEk1aTRkM2RxSV84ZUxzbkdEYW9ETlk0NUprTk0zc3NNLUlEcjktbDc2c2VGTi1hWm44SDRBMHJ5WFhvX1dURXVONWxibVVXTjJEcEJMX3RtNmIyR0MtbWEtU05vcW5lT3dPTktmUFpJdXB6aVNzd2d6R2dfMDNLLU9EMjdSX2JQMlQtcy1ZdzZGbDQxS2Q4ZmNHVXh3?oc=5",
+        "date": "2026-01-03",
+        "title": "'No estimate for reopening': Two major California highways close down due to flooding - SFGATE",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxOQUZOWk13NVRzZEk1aTRkM2RxSV84ZUxzbkdEYW9ETlk0NUprTk0zc3NNLUlEcjktbDc2c2VGTi1hWm44SDRBMHJ5WFhvX1dURXVONWxibVVXTjJEcEJMX3RtNmIyR0MtbWEtU05vcW5lT3dPTktmUFpJdXB6aVNzd2d6R2dfMDNLLU9EMjdSX2JQMlQtcy1ZdzZGbDQxS2Q4ZmNHVXh3?oc=5\" target=\"_blank\">'No estimate for reopening': Two major California highways close down due to flooding</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SFGATE</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQd3VhSldWeVFMXzlYS0psLUMxVnpjQjNpUzFXUjM3RmI5RXJDdDNlNVBlT1VnaG9oU3YxelZTWG85Z0pCZzhsb29WNjhWMmNWUWc3STgyQm96ZnU3cGQyY1l0Z3pxMDl2Qm5JT0EydEVfaXlBQS02R0pqcDhaRTVxYlZSbmJxNmpTYl83UTJUdERJVEcwcEI5WDEtbFUtVi1tUmVQMmxOeVNjaXRk?oc=5",
+        "date": "2026-01-03",
+        "title": "High water levels prompt flood watch for Lower Grand River - CambridgeToday.ca",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQd3VhSldWeVFMXzlYS0psLUMxVnpjQjNpUzFXUjM3RmI5RXJDdDNlNVBlT1VnaG9oU3YxelZTWG85Z0pCZzhsb29WNjhWMmNWUWc3STgyQm96ZnU3cGQyY1l0Z3pxMDl2Qm5JT0EydEVfaXlBQS02R0pqcDhaRTVxYlZSbmJxNmpTYl83UTJUdERJVEcwcEI5WDEtbFUtVi1tUmVQMmxOeVNjaXRk?oc=5\" target=\"_blank\">High water levels prompt flood watch for Lower Grand River</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CambridgeToday.ca</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
     }
 ]
