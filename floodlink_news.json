@@ -5003,5 +5003,15 @@
             "longitude": -119.9665,
             "confidence": 0.95
         }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5NNk9WX25OS01XNGN1bzlUSXNNb0hSdHBDb205Z1k2bUxsTUFxUE1ES2dvQnh4bnNpMVE4NGJ1WHptM0Y3aHhCR2ZYU0hKMDJVQWd6Y3pxWVhpQUQxQzM4S2dqRnNMLWdzOHMzSFFINlJ1bndCNmJBeQ?oc=5",
+        "date": "2026-01-03",
+        "title": "UPDATE: Flash flood warning in place for Humboldt County until early Saturday evening - Merced Sun-Star",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE5NNk9WX25OS01XNGN1bzlUSXNNb0hSdHBDb205Z1k2bUxsTUFxUE1ES2dvQnh4bnNpMVE4NGJ1WHptM0Y3aHhCR2ZYU0hKMDJVQWd6Y3pxWVhpQUQxQzM4S2dqRnNMLWdzOHMzSFFINlJ1bndCNmJBeQ?oc=5\" target=\"_blank\">UPDATE: Flash flood warning in place for Humboldt County until early Saturday evening</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Merced Sun-Star</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
     }
 ]
