@@ -4613,5 +4613,14 @@
         "score": 7,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-01-03",
+        "status": "posted",
+        "tweet": "Global flood early warning coverage in 2026 protects ~2.5B people from floods, flash floods, storm surges & extreme rain (UN proj.).\n\n1. \ud83c\uddef\ud83c\uddf5 Japan: 100% pop. covered\n2. \ud83c\uddf3\ud83c\uddf1 Netherlands: 98%\n3. \ud83c\uddfa\ud83c\uddf8 USA: 85%\n4. \ud83c\udde9\ud83c\uddea Germany: 82%\n5. \ud83c\uddec\ud83c\udde7 UK: 78%",
+        "type": "statistical",
+        "category": "coverage of flood early warning systems worldwide",
+        "tweet_id": "2007315523520864685"
     }
 ]
