@@ -9,18 +9,18 @@
     "rain_mm": 175.62,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 33.588,
-    "last_updated": "2026-01-03T04:34:54.671647Z",
+    "last_updated": "2026-01-03T06:34:26.142978Z",
     "last_tweeted_at": "2026-01-02T22:22:45.591522Z",
     "tweet_id": "2007216175852429370",
     "resolved": false,
     "pending_downgrade": true,
     "pending_target_level": "Low",
-    "pending_set_at": "2026-01-03T03:24:58.099800Z",
+    "pending_set_at": "2026-01-03T06:34:26.142978Z",
     "pending_is_region": false,
     "pending_observed_level": "Low",
-    "pending_observed_rain_mm": 8.88,
+    "pending_observed_rain_mm": 21.81,
     "pending_observed_soil_moisture": 1.0,
-    "pending_observed_raw_dynamic_score": 1.697
+    "pending_observed_raw_dynamic_score": 4.172
   },
   "-18.8167,49.0667": {
     "country": "Madagascar",
