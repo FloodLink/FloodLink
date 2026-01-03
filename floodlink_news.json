@@ -4642,5 +4642,35 @@
         "score": 8,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxONWdscE1pdDRfT0xNXzdVZ3VDSkw3eTVEYjBHNkYxWFNyYzgzTXdrNDNuUzVGRnJfUnd3a2Q5UDQ1eDliZF9ST1NCQWxlclhGUjA3RDFOQUIxQXREUTQxTXB6QkZJM1ZfXzM1aWJ1dkVqb0tPSk5jTVNkRDFiQXpiNkJjUC01ZndoQWpYdVByLVI3a1dfaEJVcHF2TmJESWh1SmgxVA?oc=5",
+        "date": "2026-01-03",
+        "title": "Heavy rain, flash flooding possible across Hawaii - Honolulu Star-Advertiser",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxONWdscE1pdDRfT0xNXzdVZ3VDSkw3eTVEYjBHNkYxWFNyYzgzTXdrNDNuUzVGRnJfUnd3a2Q5UDQ1eDliZF9ST1NCQWxlclhGUjA3RDFOQUIxQXREUTQxTXB6QkZJM1ZfXzM1aWJ1dkVqb0tPSk5jTVNkRDFiQXpiNkJjUC01ZndoQWpYdVByLVI3a1dfaEJVcHF2TmJESWh1SmgxVA?oc=5\" target=\"_blank\">Heavy rain, flash flooding possible across Hawaii</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Honolulu Star-Advertiser</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE96MGYzZ3pmbl9MbEg4X3FBb19qUU5IRE5fb0VJQ1hLVHFFV1ZwcUtnalJkZWlMOWI2aU8wSFlJNXM3VkZQcGpKX1BvQlEteURtRUNCMVV2YXBLc3VjdFJGNkltSTVSTjZhaEMwU2I3TjVfUDNxRk43VA?oc=5",
+        "date": "2026-01-03",
+        "title": "Beach hazards statement affecting San Francisco County Sunday - San Luis Obispo Tribune",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE96MGYzZ3pmbl9MbEg4X3FBb19qUU5IRE5fb0VJQ1hLVHFFV1ZwcUtnalJkZWlMOWI2aU8wSFlJNXM3VkZQcGpKX1BvQlEteURtRUNCMVV2YXBLc3VjdFJGNkltSTVSTjZhaEMwU2I3TjVfUDNxRk43VA?oc=5\" target=\"_blank\">Beach hazards statement affecting San Francisco County Sunday</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">San Luis Obispo Tribune</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1IOWYwaXhpWTRaZ3FhRHZaSlRSR0tqRzhBblhLYkp0ZHJZZzJReWkxdUpmRG84TnAzWEhPRmlKQ0lkd0RZNVE5YnJnNHZzSk9zR1MyX1NoTmJfdXF4Sk95eU51aGdhb3hvZm14Z3BMY09DODZ0R3JPaHRJMGtkUQ?oc=5",
+        "date": "2026-01-03",
+        "title": "Sarawak prepares for 2 million flood victims amid monsoon surge - The Sun Malaysia",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE1IOWYwaXhpWTRaZ3FhRHZaSlRSR0tqRzhBblhLYkp0ZHJZZzJReWkxdUpmRG84TnAzWEhPRmlKQ0lkd0RZNVE5YnJnNHZzSk9zR1MyX1NoTmJfdXF4Sk95eU51aGdhb3hvZm14Z3BMY09DODZ0R3JPaHRJMGtkUQ?oc=5\" target=\"_blank\">Sarawak prepares for 2 million flood victims amid monsoon surge</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Sun Malaysia</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": null
     }
 ]
