@@ -727,7 +727,7 @@
     "rain_mm": 0.56,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 0.108,
-    "last_updated": "2026-01-03T16:27:29.272129Z",
+    "last_updated": "2026-01-03T17:19:58.764272Z",
     "last_tweeted_at": "2026-01-03T16:27:29.272129Z",
     "tweet_id": "2007490047197749504",
     "resolved": true,
@@ -1015,7 +1015,7 @@
     "rain_mm": 62.0,
     "soil_moisture": 0.612,
     "raw_dynamic_score": 9.686,
-    "last_updated": "2026-01-03T16:27:29.272129Z",
+    "last_updated": "2026-01-03T17:19:58.764272Z",
     "last_tweeted_at": "2026-01-03T16:27:29.272129Z",
     "tweet_id": "2007489287525412974",
     "resolved": false
@@ -1228,6 +1228,36 @@
     "last_updated": "2026-01-03T16:27:29.272129Z",
     "last_tweeted_at": "2026-01-03T16:27:29.272129Z",
     "tweet_id": "2007489793685680256",
+    "resolved": false
+  },
+  "-15.8900,-52.2567": {
+    "country": "Brazil",
+    "name": "Barra do Garças",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": -15.89,
+    "longitude": -52.25667,
+    "rain_mm": 59.88,
+    "soil_moisture": 0.442,
+    "raw_dynamic_score": 8.435,
+    "last_updated": "2026-01-03T17:19:58.764272Z",
+    "last_tweeted_at": "2026-01-03T17:19:58.764272Z",
+    "tweet_id": "2007502242098667697",
+    "resolved": false
+  },
+  "-15.8975,-52.2508": {
+    "country": "Brazil",
+    "name": "Aragarças",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": -15.8975,
+    "longitude": -52.25083,
+    "rain_mm": 59.88,
+    "soil_moisture": 0.442,
+    "raw_dynamic_score": 8.435,
+    "last_updated": "2026-01-03T17:19:58.764272Z",
+    "last_tweeted_at": "2026-01-03T17:19:58.764272Z",
+    "tweet_id": "2007502242098667697",
     "resolved": false
   }
 }
