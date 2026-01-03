@@ -4702,5 +4702,14 @@
         "score": 6,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-01-03",
+        "status": "posted",
+        "tweet": "Global pop protected from floods/flash floods by dams, levees & reservoirs (2026 proj.): 1.2B people.\n\n1. \ud83c\udde8\ud83c\uddf3 China: 450M (Three Gorges system)\n2. \ud83c\uddee\ud83c\uddf3 India: 250M (Narmada/Mahanadi dams)\n3. \ud83c\uddfa\ud83c\uddf8 USA: 120M (Mississippi levees)\n4. \ud83c\uddf3\ud83c\uddf1 Netherlands: 17M (Delta Works)\n5. \ud83c\udde7\ud83c\uddf7 Brazil: 80M (Am",
+        "type": "statistical",
+        "category": "dams, levees and reservoirs used for flood control",
+        "tweet_id": "2007454289367597184"
     }
 ]
