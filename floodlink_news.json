@@ -4073,5 +4073,14 @@
         "score": 0,
         "status": "skipped",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-01-04",
+        "status": "posted",
+        "tweet": "Top 5 coastal cities facing highest storm surge risk by 2050 (millions exposed, per IPCC 2022 projections):\n\n\ud83c\uddfa\ud83c\uddf8 Miami: 2.4M  \n\ud83c\uddee\ud83c\udde9 Jakarta: 1.8M  \n\ud83c\udde8\ud83c\uddf3 Shanghai: 1.6M  \n\ud83c\uddee\ud83c\uddf3 Mumbai: 1.4M  \n\ud83c\uddea\ud83c\uddec Alexandria: 1.2M",
+        "type": "statistical",
+        "category": "coastal cities at risk from sea-level rise and storm surge",
+        "tweet_id": "2007727370300531112"
     }
 ]
