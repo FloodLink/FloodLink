@@ -4196,5 +4196,45 @@
             "longitude": 100.5018,
             "confidence": 1.0
         }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9OYVBjR2o3YzAwa0Y3VVFqTW5fc3JCR3hCMmo5MlFkWGRFbWhlSXk2MHM1Ti1JMWt4Ukdual9pcHBXZV85NHBXX09GM1N3QnBhUlREQXlBaHI4NGVYOS1NWlZIelRMLVZ5djFRWERseU4tNjBGOFgyWjJR?oc=5",
+        "date": "2026-01-04",
+        "title": "Mason County placed under a flood warning until Sunday evening, says the NWS - Tri-City Herald",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE9OYVBjR2o3YzAwa0Y3VVFqTW5fc3JCR3hCMmo5MlFkWGRFbWhlSXk2MHM1Ti1JMWt4Ukdual9pcHBXZV85NHBXX09GM1N3QnBhUlREQXlBaHI4NGVYOS1NWlZIelRMLVZ5djFRWERseU4tNjBGOFgyWjJR?oc=5\" target=\"_blank\">Mason County placed under a flood warning until Sunday evening, says the NWS</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tri-City Herald</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1RQ3ZkZUZ2TWRxalNBVHRDR1JWcFIzNVJEMTlkZ2loS3RXYWNkTkRjVG5xWC0xckxiWnRsNHEweGEwTkZ3X2tmMEZfVzBCX1B6by0xakEtZHRDVGJMOW1SSXNmUmlWUHYxMmE2Z3d3QlZuczNmWEpnVw?oc=5",
+        "date": "2026-01-04",
+        "title": "UPDATE: Coastal flood warning for Northern Humboldt Coast until Sunday afternoon - San Luis Obispo Tribune",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE1RQ3ZkZUZ2TWRxalNBVHRDR1JWcFIzNVJEMTlkZ2loS3RXYWNkTkRjVG5xWC0xckxiWnRsNHEweGEwTkZ3X2tmMEZfVzBCX1B6by0xakEtZHRDVGJMOW1SSXNmUmlWUHYxMmE2Z3d3QlZuczNmWEpnVw?oc=5\" target=\"_blank\">UPDATE: Coastal flood warning for Northern Humboldt Coast until Sunday afternoon</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">San Luis Obispo Tribune</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOWXhMaGxEMGxYQzRTcjVVWllKWHJ1MDFYMVNjRy1iOHdpd21oSzFvOHFudGRieWdmMnBoNm10bDloRXYxaDhETHZTcDV4NUwya3R4R0RuSVJZVTFHay14cjh2aDlyYkxKbzhBeXQ5R0phSkVwd05UQW41bFRPQk1McGRJb3QzUmFld2dlckE3ZlEtSXRXU2VsR1g0a1ZCOTJfSWVpZTd3X2Z4Nm42Y21kSjBoZ2xLMGRwekpMNUMzeHdjYnN3clVvbl9n0gHPAUFVX3lxTE1vYXRkbGk3eXdmX09yT25mMnQzVjB5d2FHa0JIdTJOVlFYVWVnZmxzS0hKNmVtQ0xmOXJOc09DN182U1hiR0p1aTlPMElESGstMWZmd09ZOF93T3RtUDlGeTNSazYwQk1EU0t1RmxJRjcwY0RSSFZHcFhxVmxGQTczclVYX1dIampjbm0xMVhlRVdjWkxlc1I0VzZPaEZRcEJKSFNHdjRJMVhmQWl5TUZzRTUyQTRYcVpGcjcxd19ubm02eUY5Z0tjVy1oQWRsTQ?oc=5",
+        "date": "2026-01-04",
+        "title": "Update: Flood advisory affecting Delta until Sunday midday triggered by excessive rainfall - East Bay Times",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxOWXhMaGxEMGxYQzRTcjVVWllKWHJ1MDFYMVNjRy1iOHdpd21oSzFvOHFudGRieWdmMnBoNm10bDloRXYxaDhETHZTcDV4NUwya3R4R0RuSVJZVTFHay14cjh2aDlyYkxKbzhBeXQ5R0phSkVwd05UQW41bFRPQk1McGRJb3QzUmFld2dlckE3ZlEtSXRXU2VsR1g0a1ZCOTJfSWVpZTd3X2Z4Nm42Y21kSjBoZ2xLMGRwekpMNUMzeHdjYnN3clVvbl9n0gHPAUFVX3lxTE1vYXRkbGk3eXdmX09yT25mMnQzVjB5d2FHa0JIdTJOVlFYVWVnZmxzS0hKNmVtQ0xmOXJOc09DN182U1hiR0p1aTlPMElESGstMWZmd09ZOF93T3RtUDlGeTNSazYwQk1EU0t1RmxJRjcwY0RSSFZHcFhxVmxGQTczclVYX1dIampjbm0xMVhlRVdjWkxlc1I0VzZPaEZRcEJKSFNHdjRJMVhmQWl5TUZzRTUyQTRYcVpGcjcxd19ubm02eUY5Z0tjVy1oQWRsTQ?oc=5\" target=\"_blank\">Update: Flood advisory affecting Delta until Sunday midday triggered by excessive rainfall</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">East Bay Times</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRXY3SF9YVFJRU2VKWjdTNS1LT092UklhYVFKN1g3ZGs5SjQ3MEhCV01qOHVIaUMzM3FnSDlVYW8yMFNGWW1rbnEwQmMzcHotVHFzQTJWVDlnTzJudUdlbGExdnJVYkFmal9NSGNtLUdrLXdWeGNPM2hNdTNsdU9taHdId21NZTdNVHdRZkZIcXc2UGVydFUwY0FfUGU5ckVOUWFfY3Rza9IBrAFBVV95cUxPUWtkbnhYSGdqLWl1b3oyWWJPN1hJN2pNbS1wLXktWEdZTTR3MC1UcWNFbDItTHhJWHBIMUtKM29CTFl4cjFONlE4RzNtWGxyZXhPeGhlT05mcV85ZmJETmtYWF9XN0lSRnhjLWI4eHBPLVU5dld1OW5jM2NrQjE3VXlBUS1RNXRQQVdZYWU4QzdJWkxsR1l2QzJYM0ZjN0k3aHY3c29sX0EwWDdH?oc=5",
+        "date": "2026-01-04",
+        "title": "Man dies in California after being swept away into creek during flooding, torrential rain - FOX Weather",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPRXY3SF9YVFJRU2VKWjdTNS1LT092UklhYVFKN1g3ZGs5SjQ3MEhCV01qOHVIaUMzM3FnSDlVYW8yMFNGWW1rbnEwQmMzcHotVHFzQTJWVDlnTzJudUdlbGExdnJVYkFmal9NSGNtLUdrLXdWeGNPM2hNdTNsdU9taHdId21NZTdNVHdRZkZIcXc2UGVydFUwY0FfUGU5ckVOUWFfY3Rza9IBrAFBVV95cUxPUWtkbnhYSGdqLWl1b3oyWWJPN1hJN2pNbS1wLXktWEdZTTR3MC1UcWNFbDItTHhJWHBIMUtKM29CTFl4cjFONlE4RzNtWGxyZXhPeGhlT05mcV85ZmJETmtYWF9XN0lSRnhjLWI4eHBPLVU5dld1OW5jM2NrQjE3VXlBUS1RNXRQQVdZYWU4QzdJWkxsR1l2QzJYM0ZjN0k3aHY3c29sX0EwWDdH?oc=5\" target=\"_blank\">Man dies in California after being swept away into creek during flooding, torrential rain</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FOX Weather</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": null
     }
 ]
