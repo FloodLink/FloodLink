@@ -4346,5 +4346,14 @@
         "score": 8,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-01-04",
+        "status": "posted",
+        "tweet": "By 2026, pluvial flooding in dense cities projected to expose 1.2B people globally to extreme rainfall events.\n\n1. \ud83c\udde7\ud83c\udde9 Dhaka: 45% pop (8M) at flash flood risk\n2. \ud83c\uddee\ud83c\uddf3 Mumbai: 38% (12M) vulnerable\n3. \ud83c\udde8\ud83c\uddf3 Shanghai: 32% (9M) exposed\n4. \ud83c\uddfa\ud83c\uddf8 New York: 25% (4M) threatened\n5. \ud83c\uddef\ud83c\uddf5 Tokyo: 22% (",
+        "type": "statistical",
+        "category": "pluvial (surface) flooding in dense cities",
+        "tweet_id": "2007918375024902230"
     }
 ]
