@@ -205,7 +205,7 @@
     "rain_mm": 41.31,
     "soil_moisture": 0.663,
     "raw_dynamic_score": 6.643,
-    "last_updated": "2026-01-04T10:23:34.033885Z",
+    "last_updated": "2026-01-04T13:31:58.041581Z",
     "last_tweeted_at": "2025-12-30T08:32:08.562104Z",
     "tweet_id": "2005919995641942390",
     "resolved": false
@@ -770,7 +770,7 @@
     "rain_mm": 55.88,
     "soil_moisture": 0.691,
     "raw_dynamic_score": 9.125,
-    "last_updated": "2026-01-03T04:34:54.671647Z",
+    "last_updated": "2026-01-04T13:31:58.041581Z",
     "last_tweeted_at": "2026-01-02T23:21:59.995482Z",
     "tweet_id": "2007230956420161735",
     "resolved": false
@@ -935,7 +935,7 @@
     "rain_mm": 48.56,
     "soil_moisture": 0.742,
     "raw_dynamic_score": 8.157,
-    "last_updated": "2026-01-03T15:22:07.417537Z",
+    "last_updated": "2026-01-04T13:31:58.041581Z",
     "last_tweeted_at": "2026-01-03T10:23:13.348700Z",
     "tweet_id": "2007397618117193859",
     "resolved": false
@@ -1258,10 +1258,18 @@
     "rain_mm": 100.44,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 19.209,
-    "last_updated": "2026-01-04T12:43:22.627337Z",
+    "last_updated": "2026-01-04T13:31:58.041581Z",
     "last_tweeted_at": "2026-01-04T06:35:04.040370Z",
     "tweet_id": "2007702336009875603",
-    "resolved": false
+    "resolved": false,
+    "pending_downgrade": true,
+    "pending_target_level": "Medium",
+    "pending_set_at": "2026-01-04T13:31:58.041581Z",
+    "pending_is_region": false,
+    "pending_observed_level": "Medium",
+    "pending_observed_rain_mm": 38.81,
+    "pending_observed_soil_moisture": 1.0,
+    "pending_observed_raw_dynamic_score": 7.423
   },
   "10.9756,124.8928": {
     "country": "Philippines",
@@ -1288,10 +1296,14 @@
     "rain_mm": 100.44,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 19.209,
-    "last_updated": "2026-01-04T12:43:22.627337Z",
+    "last_updated": "2026-01-04T13:31:58.041581Z",
     "last_tweeted_at": "2026-01-04T06:35:04.040370Z",
     "tweet_id": "2007702462606491969",
-    "resolved": false
+    "resolved": false,
+    "pending_downgrade": true,
+    "pending_target_level": "Medium",
+    "pending_set_at": "2026-01-04T13:31:58.041581Z",
+    "pending_is_region": true
   },
   "11.2511,125.0064": {
     "country": "Philippines",
@@ -1303,7 +1315,7 @@
     "rain_mm": 100.44,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 19.209,
-    "last_updated": "2026-01-04T06:35:04.040370Z",
+    "last_updated": "2026-01-04T13:31:58.041581Z",
     "last_tweeted_at": "2026-01-04T06:35:04.040370Z",
     "tweet_id": "2007702462606491969",
     "resolved": false
