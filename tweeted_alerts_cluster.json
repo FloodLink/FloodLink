@@ -205,7 +205,7 @@
     "rain_mm": 41.31,
     "soil_moisture": 0.663,
     "raw_dynamic_score": 6.643,
-    "last_updated": "2026-01-02T16:28:35.292275Z",
+    "last_updated": "2026-01-04T10:23:34.033885Z",
     "last_tweeted_at": "2025-12-30T08:32:08.562104Z",
     "tweet_id": "2005919995641942390",
     "resolved": false
@@ -574,38 +574,6 @@
     "last_tweeted_at": "2026-01-01T22:22:41.639101Z",
     "tweet_id": "2006853776452268316",
     "resolved": false
-  },
-  "-0.6190,100.1200": {
-    "country": "Indonesia",
-    "name": "Pariaman",
-    "risk_level": "None",
-    "tweeted_level": "None",
-    "latitude": -0.61898,
-    "longitude": 100.11997,
-    "rain_mm": 0.0,
-    "soil_moisture": 1.0,
-    "raw_dynamic_score": 0.0,
-    "last_updated": "2026-01-03T10:23:13.348700Z",
-    "last_tweeted_at": "2026-01-03T10:23:13.348700Z",
-    "tweet_id": "2007397745317847529",
-    "resolved": true,
-    "resolved_at": "2026-01-03T10:23:13.348700Z"
-  },
-  "-0.3091,100.3705": {
-    "country": "Indonesia",
-    "name": "Bukittinggi",
-    "risk_level": "None",
-    "tweeted_level": "None",
-    "latitude": -0.30907,
-    "longitude": 100.37055,
-    "rain_mm": 0.0,
-    "soil_moisture": 0.583,
-    "raw_dynamic_score": 0.0,
-    "last_updated": "2026-01-03T10:23:13.348700Z",
-    "last_tweeted_at": "2026-01-03T10:23:13.348700Z",
-    "tweet_id": "2007397872254210400",
-    "resolved": true,
-    "resolved_at": "2026-01-03T10:23:13.348700Z"
   },
   "2.0147,98.9655": {
     "country": "Indonesia",
@@ -1271,7 +1239,7 @@
     "rain_mm": 61.44,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 11.75,
-    "last_updated": "2026-01-04T09:22:30.529541Z",
+    "last_updated": "2026-01-04T10:23:34.033885Z",
     "last_tweeted_at": "2026-01-04T06:35:04.040370Z",
     "tweet_id": "2007702336009875603",
     "resolved": false
@@ -1406,10 +1374,18 @@
     "rain_mm": 140.44,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 26.859,
-    "last_updated": "2026-01-04T06:35:04.040370Z",
+    "last_updated": "2026-01-04T10:23:34.033885Z",
     "last_tweeted_at": "2026-01-04T06:35:04.040370Z",
     "tweet_id": "2007702589404561565",
-    "resolved": false
+    "resolved": false,
+    "pending_downgrade": true,
+    "pending_target_level": "Low",
+    "pending_set_at": "2026-01-04T10:23:34.033885Z",
+    "pending_is_region": false,
+    "pending_observed_level": "Low",
+    "pending_observed_rain_mm": 14.31,
+    "pending_observed_soil_moisture": 1.0,
+    "pending_observed_raw_dynamic_score": 2.737
   },
   "11.0517,124.0055": {
     "country": "Philippines",
@@ -1421,7 +1397,7 @@
     "rain_mm": 42.88,
     "soil_moisture": 0.63,
     "raw_dynamic_score": 6.766,
-    "last_updated": "2026-01-04T06:35:04.040370Z",
+    "last_updated": "2026-01-04T10:23:34.033885Z",
     "last_tweeted_at": "2026-01-04T06:35:04.040370Z",
     "tweet_id": "2007702715938337240",
     "resolved": false
