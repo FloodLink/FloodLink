@@ -4355,5 +4355,35 @@
         "type": "statistical",
         "category": "pluvial (surface) flooding in dense cities",
         "tweet_id": "2007918375024902230"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQb1RXZWVRS2ZCN055YWxBSlVrcGgxbkVHeWlveVAyNnJDSjRfS1l5bUhwSi1DZUpOWXdsZFlfVkxySzc2WnBwc2pXOVhoeHZ2Q015S3djZXpYQnpaczlXc3NnenM3b0IwZWJNWXpIb1RxbDlUck0wS1BfaHRtTXczNW5RRWctNzdMV01XOGNWNzJKbnNjR0w2YXZnd040bTV0TkRtRUlDX3hCd2c?oc=5",
+        "date": "2026-01-04",
+        "title": "Several parishes under flash flood watch amid heavy rains - Jamaica Gleaner",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQb1RXZWVRS2ZCN055YWxBSlVrcGgxbkVHeWlveVAyNnJDSjRfS1l5bUhwSi1DZUpOWXdsZFlfVkxySzc2WnBwc2pXOVhoeHZ2Q015S3djZXpYQnpaczlXc3NnenM3b0IwZWJNWXpIb1RxbDlUck0wS1BfaHRtTXczNW5RRWctNzdMV01XOGNWNzJKbnNjR0w2YXZnd040bTV0TkRtRUlDX3hCd2c?oc=5\" target=\"_blank\">Several parishes under flash flood watch amid heavy rains</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Jamaica Gleaner</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1KZ000Q1BESHFkYUNPMkdTbjNRbFBWb1llMEt4ay1tYldQVmRjQ2RZamdsR0lQMXYtN0lxSUJyNWJRUUQ2RXlBNkc4ZlJ2VFRzNzVOS3VBb3RHc0hZdW9uSU5SRW5UdnVIS0gyMnhaUGxLNU0?oc=5",
+        "date": "2026-01-04",
+        "title": "UPDATE: Ventura County placed under a flash flood warning Sunday midday - Fresno Bee",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE1KZ000Q1BESHFkYUNPMkdTbjNRbFBWb1llMEt4ay1tYldQVmRjQ2RZamdsR0lQMXYtN0lxSUJyNWJRUUQ2RXlBNkc4ZlJ2VFRzNzVOS3VBb3RHc0hZdW9uSU5SRW5UdnVIS0gyMnhaUGxLNU0?oc=5\" target=\"_blank\">UPDATE: Ventura County placed under a flash flood warning Sunday midday</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fresno Bee</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9DOERhdGE1VS1BY09lNHZNclFXTjVjbzI0RVFqbE9UZUtzY3BQZEs0RGtpTkJrajVBSjg4cmNtTXR3VW10YXNybWk4OHJ4am1IUngzZHVLejd6UdIBX0FVX3lxTE01dTk5ZzVHOGx4MkpkalhLQzFlSjVfSHJua1lWWVBiMy1Dc1FJSDdPeXF0dW8wbDk2a0pabHh1TFV0dU9PMS1LMHlwdjQ2NzFCWUVVZ19WN2x6LWtXRzdV?oc=5",
+        "date": "2026-01-04",
+        "title": "How AI is being trialled in Northumberland flood planning - BBC",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE9DOERhdGE1VS1BY09lNHZNclFXTjVjbzI0RVFqbE9UZUtzY3BQZEs0RGtpTkJrajVBSjg4cmNtTXR3VW10YXNybWk4OHJ4am1IUngzZHVLejd6UdIBX0FVX3lxTE01dTk5ZzVHOGx4MkpkalhLQzFlSjVfSHJua1lWWVBiMy1Dc1FJSDdPeXF0dW8wbDk2a0pabHh1TFV0dU9PMS1LMHlwdjQ2NzFCWUVVZ19WN2x6LWtXRzdV?oc=5\" target=\"_blank\">How AI is being trialled in Northumberland flood planning</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
     }
 ]
