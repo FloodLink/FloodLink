@@ -257,5 +257,35 @@
     "last_tweeted_at": "2026-01-05T19:29:00.892132Z",
     "tweet_id": "2008259755580481747",
     "resolved": false
+  },
+  "-17.8861,-39.8589": {
+    "country": "Brazil",
+    "name": "Posto da Mata",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": -17.88608,
+    "longitude": -39.85887,
+    "rain_mm": 52.75,
+    "soil_moisture": 0.537,
+    "raw_dynamic_score": 7.884,
+    "last_updated": "2026-01-05T20:36:09.444978Z",
+    "last_tweeted_at": "2026-01-05T20:36:09.444978Z",
+    "tweet_id": "2008276394061545814",
+    "resolved": false
+  },
+  "-17.0822,-40.9358": {
+    "country": "Brazil",
+    "name": "Águas Formosas",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": -17.08222,
+    "longitude": -40.93583,
+    "rain_mm": 47.88,
+    "soil_moisture": 0.666,
+    "raw_dynamic_score": 7.711,
+    "last_updated": "2026-01-05T20:36:09.444978Z",
+    "last_tweeted_at": "2026-01-05T20:36:09.444978Z",
+    "tweet_id": "2008276646726361245",
+    "resolved": false
   }
 }
