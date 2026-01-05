@@ -227,5 +227,35 @@
     "last_tweeted_at": "2026-01-05T18:45:54.366520Z",
     "tweet_id": "2008248672036024728",
     "resolved": false
+  },
+  "-18.0864,-39.5508": {
+    "country": "Brazil",
+    "name": "Mucuri",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": -18.08639,
+    "longitude": -39.55083,
+    "rain_mm": 50.44,
+    "soil_moisture": 0.57,
+    "raw_dynamic_score": 7.689,
+    "last_updated": "2026-01-05T19:29:00.892132Z",
+    "last_tweeted_at": "2026-01-05T19:29:00.892132Z",
+    "tweet_id": "2008259503007969602",
+    "resolved": false
+  },
+  "42.4412,19.2631": {
+    "country": "Montenegro",
+    "name": "Podgorica",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 42.44124,
+    "longitude": 19.26309,
+    "rain_mm": 40.31,
+    "soil_moisture": 0.741,
+    "raw_dynamic_score": 6.768,
+    "last_updated": "2026-01-05T19:29:00.892132Z",
+    "last_tweeted_at": "2026-01-05T19:29:00.892132Z",
+    "tweet_id": "2008259755580481747",
+    "resolved": false
   }
 }
