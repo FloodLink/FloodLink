@@ -92,5 +92,20 @@
     "last_tweeted_at": "2026-01-05T15:34:52.075955Z",
     "tweet_id": "2008200563725377842",
     "resolved": false
+  },
+  "-18.0303,-40.1506": {
+    "country": "Brazil",
+    "name": "Pedro Canário",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": -18.03028,
+    "longitude": -40.15056,
+    "rain_mm": 44.88,
+    "soil_moisture": 0.503,
+    "raw_dynamic_score": 6.567,
+    "last_updated": "2026-01-05T16:38:09.489840Z",
+    "last_tweeted_at": "2026-01-05T16:38:09.489840Z",
+    "tweet_id": "2008216495940399535",
+    "resolved": false
   }
 }
