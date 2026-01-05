@@ -66,7 +66,7 @@ TARGET_TWEETS_LOG = "floodlink_target_engagement.json"
 MENTIONS_REPLY_LOG = "floodlink_mentions_reply_log.json"
 MENTIONS_RATE_LIMIT_FILE = "floodlink_last_mentions_check.txt"
 
-RETENTION_DAYS = 10
+RETENTION_DAYS = 30
 
 # Scoring thresholds
 NEWS_MIN_SCORE = 9
