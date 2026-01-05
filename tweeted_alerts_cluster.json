@@ -9,7 +9,7 @@
     "rain_mm": 34.94,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 6.682,
-    "last_updated": "2026-01-05T14:28:15.949495Z",
+    "last_updated": "2026-01-05T15:34:52.075955Z",
     "last_tweeted_at": "2026-01-05T14:28:15.949495Z",
     "tweet_id": "2008183811104735281",
     "resolved": false
@@ -24,10 +24,14 @@
     "rain_mm": 77.62,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 14.846,
-    "last_updated": "2026-01-05T14:28:15.949495Z",
+    "last_updated": "2026-01-05T15:34:52.075955Z",
     "last_tweeted_at": "2026-01-05T14:28:15.949495Z",
     "tweet_id": "2008184063429914953",
-    "resolved": false
+    "resolved": false,
+    "pending_downgrade": true,
+    "pending_target_level": "Medium",
+    "pending_set_at": "2026-01-05T15:34:52.075955Z",
+    "pending_is_region": true
   },
   "13.9210,122.1002": {
     "country": "Philippines",
@@ -39,7 +43,7 @@
     "rain_mm": 63.75,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 12.192,
-    "last_updated": "2026-01-05T14:28:15.949495Z",
+    "last_updated": "2026-01-05T15:34:52.075955Z",
     "last_tweeted_at": "2026-01-05T14:28:15.949495Z",
     "tweet_id": "2008184063429914953",
     "resolved": false
@@ -54,7 +58,7 @@
     "rain_mm": 77.62,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 14.846,
-    "last_updated": "2026-01-05T14:28:15.949495Z",
+    "last_updated": "2026-01-05T15:34:52.075955Z",
     "last_tweeted_at": "2026-01-05T14:28:15.949495Z",
     "tweet_id": "2008184063429914953",
     "resolved": false
@@ -69,9 +73,24 @@
     "rain_mm": 63.75,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 12.192,
-    "last_updated": "2026-01-05T14:28:15.949495Z",
+    "last_updated": "2026-01-05T15:34:52.075955Z",
     "last_tweeted_at": "2026-01-05T14:28:15.949495Z",
     "tweet_id": "2008184063429914953",
+    "resolved": false
+  },
+  "-20.6000,48.3333": {
+    "country": "Madagascar",
+    "name": "Sahavato",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": -20.6,
+    "longitude": 48.33333,
+    "rain_mm": 49.38,
+    "soil_moisture": 0.619,
+    "raw_dynamic_score": 7.742,
+    "last_updated": "2026-01-05T15:34:52.075955Z",
+    "last_tweeted_at": "2026-01-05T15:34:52.075955Z",
+    "tweet_id": "2008200563725377842",
     "resolved": false
   }
 }
