@@ -3922,5 +3922,14 @@
         "score": 8,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-01-05",
+        "status": "posted",
+        "tweet": "In 2026, nearly 2 billion people\u2014over 25% of the global population\u2014live in floodplains exposed to risks from floods, flash floods, extreme rainfall, and storm surges.",
+        "type": "statistical",
+        "category": "population living in floodplains",
+        "tweet_id": "2008056114936443329"
     }
 ]
