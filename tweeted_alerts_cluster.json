@@ -1,20 +1,4 @@
 {
-  "-19.9000,48.8000": {
-    "country": "Madagascar",
-    "name": "Mahanoro",
-    "risk_level": "Low",
-    "tweeted_level": "Low",
-    "latitude": -19.9,
-    "longitude": 48.8,
-    "rain_mm": 5.44,
-    "soil_moisture": 1.0,
-    "raw_dynamic_score": 1.04,
-    "last_updated": "2026-01-04T01:57:38.355064Z",
-    "last_tweeted_at": "2026-01-04T01:57:38.355064Z",
-    "tweet_id": "2007632775717802091",
-    "resolved": true,
-    "resolved_at": "2026-01-04T01:57:38.355064Z"
-  },
   "-18.8167,49.0667": {
     "country": "Madagascar",
     "name": "Ampasimanolotra",
@@ -837,7 +821,7 @@
     "rain_mm": 48.56,
     "soil_moisture": 0.742,
     "raw_dynamic_score": 8.157,
-    "last_updated": "2026-01-04T21:21:36.655046Z",
+    "last_updated": "2026-01-05T02:03:17.609377Z",
     "last_tweeted_at": "2026-01-03T10:23:13.348700Z",
     "tweet_id": "2007397618117193859",
     "resolved": false
@@ -1434,7 +1418,7 @@
     "rain_mm": 44.94,
     "soil_moisture": 0.744,
     "raw_dynamic_score": 7.554,
-    "last_updated": "2026-01-04T19:18:18.354448Z",
+    "last_updated": "2026-01-05T02:03:17.609377Z",
     "last_tweeted_at": "2026-01-04T19:18:18.354448Z",
     "tweet_id": "2007894413159108712",
     "resolved": false
@@ -1464,9 +1448,24 @@
     "rain_mm": 42.94,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 8.212,
-    "last_updated": "2026-01-04T23:24:12.651460Z",
+    "last_updated": "2026-01-05T02:03:17.609377Z",
     "last_tweeted_at": "2026-01-04T19:18:18.354448Z",
     "tweet_id": "2007894666335670300",
+    "resolved": false
+  },
+  "42.4412,19.2631": {
+    "country": "Montenegro",
+    "name": "Podgorica",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 42.44124,
+    "longitude": 19.26309,
+    "rain_mm": 63.12,
+    "soil_moisture": 0.751,
+    "raw_dynamic_score": 10.655,
+    "last_updated": "2026-01-05T02:03:17.609377Z",
+    "last_tweeted_at": "2026-01-05T02:03:17.609377Z",
+    "tweet_id": "2007996335136354703",
     "resolved": false
   }
 }
