@@ -4092,5 +4092,92 @@
             "longitude": 123.3054,
             "confidence": 0.95
         }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5DNGpxS05ENzFnU0ZSOGVyWmtUcDFBS2FXUjhLTURYM0l6Q2hRQ0xoVUVYUXA4UVktXzZWUE5yZmRlVHZqQ0Q5Tk91Tng3R1Vodl9uYnFGakdfcnIxSDVDSER1d0pTYURJeHRqMVg1amhqVmRyekpCQQ?oc=5",
+        "date": "2026-01-05",
+        "title": "Coastal flood warning issued for Northern Humboldt Coast Monday afternoon - San Luis Obispo Tribune",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE5DNGpxS05ENzFnU0ZSOGVyWmtUcDFBS2FXUjhLTURYM0l6Q2hRQ0xoVUVYUXA4UVktXzZWUE5yZmRlVHZqQ0Q5Tk91Tng3R1Vodl9uYnFGakdfcnIxSDVDSER1d0pTYURJeHRqMVg1amhqVmRyekpCQQ?oc=5\" target=\"_blank\">Coastal flood warning issued for Northern Humboldt Coast Monday afternoon</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">San Luis Obispo Tribune</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1BZGJfZE0tME9xV05ERTZXejZIQTRaMElvdHJIVi16SEROdlVHazZrNUw2RjZIVWN3RENVMTJ5Z05QSXpVMHVsRWdLWTdNb3JTTk9zRG41SUI1X29iZjVJWmtYZnBDWTNEaUZPTE03QTk0Z1dGVWpqQlpHbTc?oc=5",
+        "date": "2026-01-05",
+        "title": "NWS issues flood warning for Washington coastline - Rolling Out",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE1BZGJfZE0tME9xV05ERTZXejZIQTRaMElvdHJIVi16SEROdlVHazZrNUw2RjZIVWN3RENVMTJ5Z05QSXpVMHVsRWdLWTdNb3JTTk9zRG41SUI1X29iZjVJWmtYZnBDWTNEaUZPTE03QTk0Z1dGVWpqQlpHbTc?oc=5\" target=\"_blank\">NWS issues flood warning for Washington coastline</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Rolling Out</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": null,
+        "tweet_id": "2008275386703241312",
+        "geo": {
+            "country": "United States",
+            "name": "Washington coastline",
+            "latitude": 47.5,
+            "longitude": -124.2,
+            "confidence": 0.95
+        }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOM0I0R3Q5cFFHazltTi1vaFQ2SktRdExEakpCRjkyZzVXel9iN1p1SGoySTZKeEZkSzg4Q1RZaVl3djRaaTVKdTFPTmlNVU14WUI4YTVFNmxuSnhYQ24yVUo1NWFkdzd1cnJsVDRqWHQ5UE1ia2Z0STBqc3pncF9jN1FsQllOVFdhOEpwZU1adWY2a0dxOTVVamo3YVNiRklvSmpDNWFyZGk0QjRDM3dlb1R1VEIyWXFHS1d6MFFMdFNvQ0x6X25JYUk5UU9WR0F5ZDJfTDlHd1Q4amwxbVJPekN30gHnAUFVX3lxTE12NWZuci05MTZnS1pzMWJjanZxamdlWE4tMlp3U0piYTJ0SklOcFFIVGt3bHJxZTNUOG5oamtJeFgwZldIS0lOTmFlNnM2eEgyNHVoQVQ1c05fMmVrQ0habHBsRGNpaWt5X3dQbU9vNkJ6NFB5bzR1bWFMY3JDQWtrcTBBR210UWR3OTYwZnV4XzJDRzZReHVYOWUxLW96UUs1TU1IV2VkOUNMRVdNZHMtUHZKamtrQVp1bjFCOUdFeC1QRmRZLW15QmNEVmE2U2hkaU9DanlvUV91N1FGcEtKQVowWF8xTQ?oc=5",
+        "date": "2026-01-05",
+        "title": "Coastal Flood Advisory In Effect: What To Know About Bay Area Flooding And King Tides - Times Now",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxOM0I0R3Q5cFFHazltTi1vaFQ2SktRdExEakpCRjkyZzVXel9iN1p1SGoySTZKeEZkSzg4Q1RZaVl3djRaaTVKdTFPTmlNVU14WUI4YTVFNmxuSnhYQ24yVUo1NWFkdzd1cnJsVDRqWHQ5UE1ia2Z0STBqc3pncF9jN1FsQllOVFdhOEpwZU1adWY2a0dxOTVVamo3YVNiRklvSmpDNWFyZGk0QjRDM3dlb1R1VEIyWXFHS1d6MFFMdFNvQ0x6X25JYUk5UU9WR0F5ZDJfTDlHd1Q4amwxbVJPekN30gHnAUFVX3lxTE12NWZuci05MTZnS1pzMWJjanZxamdlWE4tMlp3U0piYTJ0SklOcFFIVGt3bHJxZTNUOG5oamtJeFgwZldIS0lOTmFlNnM2eEgyNHVoQVQ1c05fMmVrQ0habHBsRGNpaWt5X3dQbU9vNkJ6NFB5bzR1bWFMY3JDQWtrcTBBR210UWR3OTYwZnV4XzJDRzZReHVYOWUxLW96UUs1TU1IV2VkOUNMRVdNZHMtUHZKamtrQVp1bjFCOUdFeC1QRmRZLW15QmNEVmE2U2hkaU9DanlvUV91N1FGcEtKQVowWF8xTQ?oc=5\" target=\"_blank\">Coastal Flood Advisory In Effect: What To Know About Bay Area Flooding And King Tides</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Times Now</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQY3dwU00tVVhDUHJuVTJMR3VlWEhHbFVxTkF2Z2FsSkgzY0RyR1didzl0aHFWQWRwU0xYU05DdzV1NDJsMHBVZ29PSDJDQ1BmNG50TFBjTFhlODhhSFNHM2dac01HT1JlTDBEZVdUU2ttNWlWcXFpRHNIR1JCa1N5c0VqT0llNmZlNE9SOGE1TktwYkg1QWRzQ1RGTnZ5SDJUZ29Z?oc=5",
+        "date": "2026-01-05",
+        "title": "Flash flood watch extended for eastern and south-central parishes - jamaicaobserver.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQY3dwU00tVVhDUHJuVTJMR3VlWEhHbFVxTkF2Z2FsSkgzY0RyR1didzl0aHFWQWRwU0xYU05DdzV1NDJsMHBVZ29PSDJDQ1BmNG50TFBjTFhlODhhSFNHM2dac01HT1JlTDBEZVdUU2ttNWlWcXFpRHNIR1JCa1N5c0VqT0llNmZlNE9SOGE1TktwYkg1QWRzQ1RGTnZ5SDJUZ29Z?oc=5\" target=\"_blank\">Flash flood watch extended for eastern and south-central parishes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">jamaicaobserver.com</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUWE4QXVjSkNMSFpoUzZubTBGemlQdVdrU0x4QVEwMzhlWDNnY014UGRSLTJTS0l6Z25hM0p1MjVzRFZZMmFwMXJQeFZ6ejBTQWU0R0k3UmRvdE1QeHVGRmg4bXJ1SnQ4bUJCcWhIZTQ2YzdtNHlzVG1kdW9PTVZZUGc2RkJzZE9zaHVXaUVtNWp5VnVzck0wWTUxS2pqUTJkZEE?oc=5",
+        "date": "2026-01-05",
+        "title": "Flash flood watch for low-lying and flood-prone areas of eight parishes extended - IRIE FM",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQUWE4QXVjSkNMSFpoUzZubTBGemlQdVdrU0x4QVEwMzhlWDNnY014UGRSLTJTS0l6Z25hM0p1MjVzRFZZMmFwMXJQeFZ6ejBTQWU0R0k3UmRvdE1QeHVGRmg4bXJ1SnQ4bUJCcWhIZTQ2YzdtNHlzVG1kdW9PTVZZUGc2RkJzZE9zaHVXaUVtNWp5VnVzck0wWTUxS2pqUTJkZEE?oc=5\" target=\"_blank\">Flash flood watch for low-lying and flood-prone areas of eight parishes extended</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">IRIE FM</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPd0xFMndxczFXN05UQnAtdU5uaG5ocGNPZUxmREdFd2djNndsQkJld2FseHVwNjhGRkREUFp0NlhrX1NxNERTa1Y2VC1qVjZFaWg0YWhIdUM4Tnp6SXNJcUhRalFGWlQ0ZnFLT0tHSUZYRXkzOVpHclcwdFpFaFlfWWVUa3hMMWxHdWNFd1JXb25wYnpmWXdzTGpfQkpkOXE2cHp3UmN1QUFpXzBSTDQybUJR?oc=5",
+        "date": "2026-01-05",
+        "title": "North-west Queensland towns wait for flooding to reside to begin clean-up - Australian Broadcasting Corporation",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPd0xFMndxczFXN05UQnAtdU5uaG5ocGNPZUxmREdFd2djNndsQkJld2FseHVwNjhGRkREUFp0NlhrX1NxNERTa1Y2VC1qVjZFaWg0YWhIdUM4Tnp6SXNJcUhRalFGWlQ0ZnFLT0tHSUZYRXkzOVpHclcwdFpFaFlfWWVUa3hMMWxHdWNFd1JXb25wYnpmWXdzTGpfQkpkOXE2cHp3UmN1QUFpXzBSTDQybUJR?oc=5\" target=\"_blank\">North-west Queensland towns wait for flooding to reside to begin clean-up</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Australian Broadcasting Corporation</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1BZGJfZE0tME9xV05ERTZXejZIQTRaMElvdHJIVi16SEROdlVHazZrNUw2RjZIVWN3RENVMTJ5Z05QSXpVMHVsRWdLWTdNb3JTTk9zRG41SUI1X29iZjVJWmtYZnBDWTNEaUZPTE03QTk0Z1dGVWpqQlpHbTc?oc=5",
+        "date": "2026-01-05",
+        "title": "NWS issues flood warning for Washington coastline - Rolling Out",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE1BZGJfZE0tME9xV05ERTZXejZIQTRaMElvdHJIVi16SEROdlVHazZrNUw2RjZIVWN3RENVMTJ5Z05QSXpVMHVsRWdLWTdNb3JTTk9zRG41SUI1X29iZjVJWmtYZnBDWTNEaUZPTE03QTk0Z1dGVWpqQlpHbTc?oc=5\" target=\"_blank\">NWS issues flood warning for Washington coastline</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Rolling Out</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 FORECAST Washington Coast: NWS issues flood warning for coastline, risk of coastal flooding from high tides and rain.",
+        "type": "news",
+        "tweet_id": "2008275386703241312",
+        "geo": {
+            "country": "United States",
+            "name": "Washington coastline",
+            "latitude": 47.5,
+            "longitude": -124.2,
+            "confidence": 0.95
+        }
     }
 ]
