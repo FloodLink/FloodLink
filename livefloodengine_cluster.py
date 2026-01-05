@@ -63,12 +63,13 @@ FORECAST_HOURS = 6  # e.g. 3, 6, 12 ...; with 0.25° this is hourly steps
 TWITTER_ENABLED = os.getenv("TWITTER_ENABLED", "false").lower() == "true"
 X_API_BASE_URL = os.getenv("X_API_BASE_URL", "https://api.x.com/2")
 
-TWITTER_API_KEY = os.getenv("TWITTER_API_KEY2")
-TWITTER_SECRET = os.getenv("TWITTER_SECRET2")
-TWITTER_ACCESS_TOKEN = os.getenv("TWITTER_ACCESS_TOKEN2")
-TWITTER_ACCESS_SECRET = os.getenv("TWITTER_ACCESS_SECRET2")
-TWITTER_BEARER_TOKEN = os.getenv("TWITTER_BEARER_TOKEN2")
-MIN_SECONDS_BETWEEN_TWEETS = 30
+TWITTER_API_KEY = os.getenv("TWITTER_API_KEY")
+TWITTER_SECRET = os.getenv("TWITTER_SECRET")
+TWITTER_ACCESS_TOKEN = os.getenv("TWITTER_ACCESS_TOKEN")
+TWITTER_ACCESS_SECRET = os.getenv("TWITTER_ACCESS_SECRET")
+TWITTER_BEARER_TOKEN = os.getenv("TWITTER_BEARER_TOKEN")
+
+MIN_SECONDS_BETWEEN_TWEETS = 60
 
 # -------------------------------
 # TUNABLE CONSTANTS (units!)
@@ -942,10 +943,10 @@ def create_client():
     if TWITTER_ENABLED:
         missing = []
         for k, v in [
-            ("TWITTER_API_KEY2", TWITTER_API_KEY),
-            ("TWITTER_SECRET2", TWITTER_SECRET),
-            ("TWITTER_ACCESS_TOKEN2", TWITTER_ACCESS_TOKEN),
-            ("TWITTER_ACCESS_SECRET2", TWITTER_ACCESS_SECRET),
+            ("TWITTER_API_KEY", TWITTER_API_KEY),
+            ("TWITTER_SECRET", TWITTER_SECRET),
+            ("TWITTER_ACCESS_TOKEN", TWITTER_ACCESS_TOKEN),
+            ("TWITTER_ACCESS_SECRET", TWITTER_ACCESS_SECRET),
         ]:
             if not v:
                 missing.append(k)
@@ -954,7 +955,7 @@ def create_client():
             raise RuntimeError("Missing X credentials")
 
     kwargs = dict(
-        bearer_token=TWITTER_BEARER_TOKEN,  # can be None
+        # bearer_token=TWITTER_BEARER_TOKEN,  # can be None
         consumer_key=TWITTER_API_KEY,
         consumer_secret=TWITTER_SECRET,
         access_token=TWITTER_ACCESS_TOKEN,
