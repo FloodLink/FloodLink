@@ -1,1 +1,77 @@
-{}
+{
+  "42.2872,18.8392": {
+    "country": "Montenegro",
+    "name": "Budva",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 42.28721,
+    "longitude": 18.83922,
+    "rain_mm": 34.94,
+    "soil_moisture": 1.0,
+    "raw_dynamic_score": 6.682,
+    "last_updated": "2026-01-05T14:28:15.949495Z",
+    "last_tweeted_at": "2026-01-05T14:28:15.949495Z",
+    "tweet_id": "2008183811104735281",
+    "resolved": false
+  },
+  "13.8840,122.2604": {
+    "country": "Philippines",
+    "name": "Lopez",
+    "risk_level": "High",
+    "tweeted_level": "High",
+    "latitude": 13.884,
+    "longitude": 122.2604,
+    "rain_mm": 77.62,
+    "soil_moisture": 1.0,
+    "raw_dynamic_score": 14.846,
+    "last_updated": "2026-01-05T14:28:15.949495Z",
+    "last_tweeted_at": "2026-01-05T14:28:15.949495Z",
+    "tweet_id": "2008184063429914953",
+    "resolved": false
+  },
+  "13.9210,122.1002": {
+    "country": "Philippines",
+    "name": "Gumaca",
+    "risk_level": "High",
+    "tweeted_level": "High",
+    "latitude": 13.921,
+    "longitude": 122.1002,
+    "rain_mm": 63.75,
+    "soil_moisture": 1.0,
+    "raw_dynamic_score": 12.192,
+    "last_updated": "2026-01-05T14:28:15.949495Z",
+    "last_tweeted_at": "2026-01-05T14:28:15.949495Z",
+    "tweet_id": "2008184063429914953",
+    "resolved": false
+  },
+  "13.9575,122.2880": {
+    "country": "Philippines",
+    "name": "Calauag",
+    "risk_level": "High",
+    "tweeted_level": "High",
+    "latitude": 13.9575,
+    "longitude": 122.288,
+    "rain_mm": 77.62,
+    "soil_moisture": 1.0,
+    "raw_dynamic_score": 14.846,
+    "last_updated": "2026-01-05T14:28:15.949495Z",
+    "last_tweeted_at": "2026-01-05T14:28:15.949495Z",
+    "tweet_id": "2008184063429914953",
+    "resolved": false
+  },
+  "14.0027,121.9208": {
+    "country": "Philippines",
+    "name": "Atimonan",
+    "risk_level": "High",
+    "tweeted_level": "High",
+    "latitude": 14.0027,
+    "longitude": 121.92078,
+    "rain_mm": 63.75,
+    "soil_moisture": 1.0,
+    "raw_dynamic_score": 12.192,
+    "last_updated": "2026-01-05T14:28:15.949495Z",
+    "last_tweeted_at": "2026-01-05T14:28:15.949495Z",
+    "tweet_id": "2008184063429914953",
+    "resolved": false
+  }
+}
