@@ -4716,5 +4716,25 @@
         "score": 8,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA2Z3pyVHNfejc4UW5oeVM5bkloMkp5elF5ZWxtd3dzdFQ3UzBPSzl6a0NuVnhhN2U3bDdSalNCU0JOa19QQ3RLa0pleWd2NC0wN056NFh2VFAyQi05NHhNOU9MYnJ4ZHk2V0dmT29EVXpHVlk?oc=5",
+        "date": "2026-01-06",
+        "title": "UPDATE: Flood warning affecting Tehama County until Wednesday morning - Fresno Bee",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTFA2Z3pyVHNfejc4UW5oeVM5bkloMkp5elF5ZWxtd3dzdFQ3UzBPSzl6a0NuVnhhN2U3bDdSalNCU0JOa19QQ3RLa0pleWd2NC0wN056NFh2VFAyQi05NHhNOU9MYnJ4ZHk2V0dmT29EVXpHVlk?oc=5\" target=\"_blank\">UPDATE: Flood warning affecting Tehama County until Wednesday morning</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fresno Bee</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZGdSRVFTY0hHM1FDRFJad2JWZVZESFRfTUliQmc5ZGIzVFlKazMwbWxtcVIwUDNNX1R4dVIyZUszUFNVajhTRk9IVXRPeGZFb2Q1Y1ZCUWFIa1dkN3ZYSUU5R09pNzB4dEVzTUJSSkZGOUFQcnY0TzdQaFByTWhzTFg3bl9YTk94eElXY0xmcUs4aFFjdlkwTTNPaklEemlsTGk2NUh5aHAwSW8?oc=5",
+        "date": "2026-01-06",
+        "title": "Death toll from flash floods in eastern Indonesia rises to 14 - Anadolu Ajans\u0131",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZGdSRVFTY0hHM1FDRFJad2JWZVZESFRfTUliQmc5ZGIzVFlKazMwbWxtcVIwUDNNX1R4dVIyZUszUFNVajhTRk9IVXRPeGZFb2Q1Y1ZCUWFIa1dkN3ZYSUU5R09pNzB4dEVzTUJSSkZGOUFQcnY0TzdQaFByTWhzTFg3bl9YTk94eElXY0xmcUs4aFFjdlkwTTNPaklEemlsTGk2NUh5aHAwSW8?oc=5\" target=\"_blank\">Death toll from flash floods in eastern Indonesia rises to 14</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Anadolu Ajans\u0131</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
     }
 ]
