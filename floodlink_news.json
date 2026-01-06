@@ -4513,5 +4513,14 @@
             "longitude": 124.6575,
             "confidence": 1.0
         }
+    },
+    {
+        "link": null,
+        "date": "2026-01-06",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 By 2030, U.S. dams and reservoirs are projected to shield 25 million more people from flood risks, as extreme rainfall events rise 40%\u2014averting up to $100B in annual damages from storms and surges.",
+        "type": "statistical",
+        "category": "dams, levees and reservoirs used for flood control",
+        "tweet_id": "2008406604811845982"
     }
 ]
