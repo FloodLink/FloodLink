@@ -4636,5 +4636,15 @@
             "longitude": null,
             "confidence": 0.7
         }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPRkV5a2lnRW44RmdfRFFCWmdJUVZQdE1VTGI5V1gxQkRuRnFFX0JPRjJBWm9oQ0owSWZ3cEdoX2VZQzhiTTNRVkNfYS16Z0dLdmVmNHFlUFZ4Ujh2RWJaMEFaeG10M2VMZ0dIUjRDeTBZaVpEQ1Mzb0pva0dlbkRqWDZqYy1SbFdIS3J0WF9GZw?oc=5",
+        "date": "2026-01-06",
+        "title": "Flood Warning Issued in California as River Depth Hits 210 Feet - Newsweek",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxPRkV5a2lnRW44RmdfRFFCWmdJUVZQdE1VTGI5V1gxQkRuRnFFX0JPRjJBWm9oQ0owSWZ3cEdoX2VZQzhiTTNRVkNfYS16Z0dLdmVmNHFlUFZ4Ujh2RWJaMEFaeG10M2VMZ0dIUjRDeTBZaVpEQ1Mzb0pva0dlbkRqWDZqYy1SbFdIS3J0WF9GZw?oc=5\" target=\"_blank\">Flood Warning Issued in California as River Depth Hits 210 Feet</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Newsweek</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
     }
 ]
