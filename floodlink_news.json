@@ -4550,5 +4550,15 @@
         "score": 9,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQdlktVUExcThiQ3EyT1lhRnhRSDRtUG9WNHFJLWU1SHl5Nm1MWndHSkNMakVzOVJvOWJmZ1F5STFraHVOMzlYb2tqWDFyanl2ajNJQmp1S2xUM1k2ZWpmblZxczZqblFiWWRFSFc2R3VFMW5qLXktZGdOdEczSkdJREFIU0o?oc=5",
+        "date": "2026-01-06",
+        "title": "Flash floods kill 16 people on remote Indonesia islands - Yahoo",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxQdlktVUExcThiQ3EyT1lhRnhRSDRtUG9WNHFJLWU1SHl5Nm1MWndHSkNMakVzOVJvOWJmZ1F5STFraHVOMzlYb2tqWDFyanl2ajNJQmp1S2xUM1k2ZWpmblZxczZqblFiWWRFSFc2R3VFMW5qLXktZGdOdEczSkdJREFIU0o?oc=5\" target=\"_blank\">Flash floods kill 16 people on remote Indonesia islands</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
     }
 ]
