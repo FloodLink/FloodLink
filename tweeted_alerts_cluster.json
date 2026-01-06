@@ -338,5 +338,50 @@
     "last_tweeted_at": "2026-01-06T04:07:36.663581Z",
     "tweet_id": "2008390006365380994",
     "resolved": false
+  },
+  "1.6155,-75.6041": {
+    "country": "Colombia",
+    "name": "Florencia",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 1.61549,
+    "longitude": -75.60412,
+    "rain_mm": 47.81,
+    "soil_moisture": 0.714,
+    "raw_dynamic_score": 7.907,
+    "last_updated": "2026-01-06T12:32:21.839138Z",
+    "last_tweeted_at": "2026-01-06T12:32:21.839138Z",
+    "tweet_id": "2008517031763603540",
+    "resolved": false
+  },
+  "-19.4333,46.7500": {
+    "country": "Madagascar",
+    "name": "Miandrarivo",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": -19.43333,
+    "longitude": 46.75,
+    "rain_mm": 48.94,
+    "soil_moisture": 0.588,
+    "raw_dynamic_score": 7.54,
+    "last_updated": "2026-01-06T12:32:21.839138Z",
+    "last_tweeted_at": "2026-01-06T12:32:21.839138Z",
+    "tweet_id": "2008517284243873923",
+    "resolved": false
+  },
+  "-19.8333,46.8500": {
+    "country": "Madagascar",
+    "name": "Betafo",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": -19.83333,
+    "longitude": 46.85,
+    "rain_mm": 71.69,
+    "soil_moisture": 0.625,
+    "raw_dynamic_score": 11.281,
+    "last_updated": "2026-01-06T12:32:21.839138Z",
+    "last_tweeted_at": "2026-01-06T12:32:21.839138Z",
+    "tweet_id": "2008517284243873923",
+    "resolved": false
   }
 }
