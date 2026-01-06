@@ -4560,5 +4560,14 @@
         "score": 0,
         "status": "skipped",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-01-06",
+        "status": "posted",
+        "tweet": "2025 economic losses from extreme rainfall & floods:  \n\ud83c\uddfa\ud83c\uddf8 USA: $45B (hurricanes & flash floods)  \n\ud83c\uddea\ud83c\uddfa Europe: $28B (storm surges & river overflows)  \nA 61% higher US impact despite similar exposure levels.",
+        "type": "statistical",
+        "category": "economic losses from floods and flash floods",
+        "tweet_id": "2008500704487280695"
     }
 ]
