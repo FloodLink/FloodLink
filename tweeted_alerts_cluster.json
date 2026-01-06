@@ -289,7 +289,7 @@
     "rain_mm": 47.88,
     "soil_moisture": 0.666,
     "raw_dynamic_score": 7.711,
-    "last_updated": "2026-01-05T22:31:28.281768Z",
+    "last_updated": "2026-01-06T04:07:36.663581Z",
     "last_tweeted_at": "2026-01-05T20:36:09.444978Z",
     "tweet_id": "2008276646726361245",
     "resolved": false
@@ -319,9 +319,24 @@
     "rain_mm": 41.75,
     "soil_moisture": 0.739,
     "raw_dynamic_score": 7.0,
-    "last_updated": "2026-01-06T02:22:19.403509Z",
+    "last_updated": "2026-01-06T04:07:36.663581Z",
     "last_tweeted_at": "2026-01-06T02:22:19.403509Z",
     "tweet_id": "2008363763112480824",
+    "resolved": false
+  },
+  "-11.6278,-46.8206": {
+    "country": "Brazil",
+    "name": "Dianópolis",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": -11.62778,
+    "longitude": -46.82056,
+    "rain_mm": 55.0,
+    "soil_moisture": 0.622,
+    "raw_dynamic_score": 8.641,
+    "last_updated": "2026-01-06T04:07:36.663581Z",
+    "last_tweeted_at": "2026-01-06T04:07:36.663581Z",
+    "tweet_id": "2008390006365380994",
     "resolved": false
   }
 }
