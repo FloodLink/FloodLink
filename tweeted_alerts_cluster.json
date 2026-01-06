@@ -163,7 +163,7 @@
     "rain_mm": 15.69,
     "soil_moisture": 0.599,
     "raw_dynamic_score": 2.433,
-    "last_updated": "2026-01-05T22:31:28.281768Z",
+    "last_updated": "2026-01-06T02:22:19.403509Z",
     "last_tweeted_at": "2026-01-05T22:31:28.281768Z",
     "tweet_id": "2008305410428526910",
     "resolved": true,
@@ -179,7 +179,7 @@
     "rain_mm": 15.69,
     "soil_moisture": 0.599,
     "raw_dynamic_score": 2.433,
-    "last_updated": "2026-01-05T22:31:28.281768Z",
+    "last_updated": "2026-01-06T02:22:19.403509Z",
     "last_tweeted_at": "2026-01-05T22:31:28.281768Z",
     "tweet_id": "2008305410428526910",
     "resolved": true,
@@ -240,7 +240,7 @@
     "rain_mm": 103.81,
     "soil_moisture": 0.616,
     "raw_dynamic_score": 16.258,
-    "last_updated": "2026-01-05T22:31:28.281768Z",
+    "last_updated": "2026-01-06T02:22:19.403509Z",
     "last_tweeted_at": "2026-01-05T22:31:28.281768Z",
     "tweet_id": "2008305410428526910",
     "resolved": false
@@ -270,10 +270,14 @@
     "rain_mm": 100.81,
     "soil_moisture": 0.624,
     "raw_dynamic_score": 15.861,
-    "last_updated": "2026-01-05T22:31:28.281768Z",
+    "last_updated": "2026-01-06T02:22:19.403509Z",
     "last_tweeted_at": "2026-01-05T22:31:28.281768Z",
     "tweet_id": "2008305410428526910",
-    "resolved": false
+    "resolved": false,
+    "pending_downgrade": true,
+    "pending_target_level": "Low",
+    "pending_set_at": "2026-01-06T02:22:19.403509Z",
+    "pending_is_region": true
   },
   "-17.0822,-40.9358": {
     "country": "Brazil",
@@ -288,6 +292,36 @@
     "last_updated": "2026-01-05T22:31:28.281768Z",
     "last_tweeted_at": "2026-01-05T20:36:09.444978Z",
     "tweet_id": "2008276646726361245",
+    "resolved": false
+  },
+  "-0.9961,-77.8131": {
+    "country": "Ecuador",
+    "name": "Tena",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": -0.9961,
+    "longitude": -77.81315,
+    "rain_mm": 49.38,
+    "soil_moisture": 0.67,
+    "raw_dynamic_score": 7.973,
+    "last_updated": "2026-01-06T02:22:19.403509Z",
+    "last_tweeted_at": "2026-01-06T02:22:19.403509Z",
+    "tweet_id": "2008363510636429779",
+    "resolved": false
+  },
+  "42.7731,18.9445": {
+    "country": "Montenegro",
+    "name": "Nikšić",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 42.7731,
+    "longitude": 18.94446,
+    "rain_mm": 41.75,
+    "soil_moisture": 0.739,
+    "raw_dynamic_score": 7.0,
+    "last_updated": "2026-01-06T02:22:19.403509Z",
+    "last_tweeted_at": "2026-01-06T02:22:19.403509Z",
+    "tweet_id": "2008363763112480824",
     "resolved": false
   }
 }
