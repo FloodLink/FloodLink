@@ -153,38 +153,6 @@
     "tweet_id": "2008230092150096294",
     "resolved": false
   },
-  "-17.3739,-40.2206": {
-    "country": "Brazil",
-    "name": "Medeiros Neto",
-    "risk_level": "Low",
-    "tweeted_level": "High",
-    "latitude": -17.37389,
-    "longitude": -40.22056,
-    "rain_mm": 15.69,
-    "soil_moisture": 0.599,
-    "raw_dynamic_score": 2.433,
-    "last_updated": "2026-01-06T02:22:19.403509Z",
-    "last_tweeted_at": "2026-01-05T22:31:28.281768Z",
-    "tweet_id": "2008305410428526910",
-    "resolved": true,
-    "resolved_at": "2026-01-05T22:31:28.281768Z"
-  },
-  "-17.1664,-40.3300": {
-    "country": "Brazil",
-    "name": "Itanhém",
-    "risk_level": "Low",
-    "tweeted_level": "High",
-    "latitude": -17.16639,
-    "longitude": -40.33,
-    "rain_mm": 15.69,
-    "soil_moisture": 0.599,
-    "raw_dynamic_score": 2.433,
-    "last_updated": "2026-01-06T02:22:19.403509Z",
-    "last_tweeted_at": "2026-01-05T22:31:28.281768Z",
-    "tweet_id": "2008305410428526910",
-    "resolved": true,
-    "resolved_at": "2026-01-05T22:31:28.281768Z"
-  },
   "5.6919,-76.6583": {
     "country": "Colombia",
     "name": "Quibdó",
