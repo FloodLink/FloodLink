@@ -398,17 +398,17 @@
     "rain_mm": 83.62,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 15.993,
-    "last_updated": "2026-01-07T15:19:38.304967Z",
+    "last_updated": "2026-01-07T18:24:25.581247Z",
     "last_tweeted_at": "2026-01-07T12:32:36.511460Z",
     "tweet_id": "2008879482413998463",
     "resolved": false,
     "pending_downgrade": true,
-    "pending_target_level": "Medium",
-    "pending_set_at": "2026-01-07T15:19:38.304967Z",
+    "pending_target_level": "Low",
+    "pending_set_at": "2026-01-07T18:24:25.581247Z",
     "pending_is_region": false,
-    "pending_observed_level": "Medium",
-    "pending_observed_rain_mm": 58.19,
+    "pending_observed_level": "Low",
+    "pending_observed_rain_mm": 11.69,
     "pending_observed_soil_moisture": 1.0,
-    "pending_observed_raw_dynamic_score": 11.128
+    "pending_observed_raw_dynamic_score": 2.235
   }
 }
