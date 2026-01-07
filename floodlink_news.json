@@ -4776,5 +4776,25 @@
         "score": 8,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPS2dJaVlrUF9aRnUycU5SMlZ5aFVSVWtLdTkwS1JEaGQ2U1dUS3c5cHJyV3hXaGJsYnB1VkNJYmFXMUZNZWx5MEFicGNSQmI0SzU0c2VBXzB0eWRFZE9KSWVnS1R4dDNTMXotX3hnZlBkUHZGM3lrMGlHc2htUThyR0puQTJlaXlJNFhVZ3VWUWlsT3NxSXFGVGFDS0RhUQ?oc=5",
+        "date": "2026-01-07",
+        "title": "Sacramento River Flooding Possible Overnight in Northern California - Active NorCal",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPS2dJaVlrUF9aRnUycU5SMlZ5aFVSVWtLdTkwS1JEaGQ2U1dUS3c5cHJyV3hXaGJsYnB1VkNJYmFXMUZNZWx5MEFicGNSQmI0SzU0c2VBXzB0eWRFZE9KSWVnS1R4dDNTMXotX3hnZlBkUHZGM3lrMGlHc2htUThyR0puQTJlaXlJNFhVZ3VWUWlsT3NxSXFGVGFDS0RhUQ?oc=5\" target=\"_blank\">Sacramento River Flooding Possible Overnight in Northern California</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Active NorCal</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNbnpwbUtrbVZFOGN2QW1BWnV2amhzak5YT3ZKMGZxQ05Yc2pQelowMGVCWWpiWl9TaG5qczJGeWxQRnBYZGdwTG5jdUhHVGpMcUJERnE2b0tTUGhuVGZ5VlhEZDByOERMd19mUTVCY2kxY0lra2Q2Q2Nkc3Z1N2RnZTdNa2huVlpUWV9BeEhqOVU1RVBoN1c0UkF4U0dxbUg4S3RqeVRET2tfbm9mVFo0S2tmRDRDYUpObFFWdXpMZWU1WVpjZlRiRVFxei0yVG5lSEx4OV8wUTNiVGJuN3JDeUJpS1ZRVW1vSy0zRktR?oc=5",
+        "date": "2026-01-07",
+        "title": "Additional roads in Glenn County shut down due to flooding, rising waters - Action News Now",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7gFBVV95cUxNbnpwbUtrbVZFOGN2QW1BWnV2amhzak5YT3ZKMGZxQ05Yc2pQelowMGVCWWpiWl9TaG5qczJGeWxQRnBYZGdwTG5jdUhHVGpMcUJERnE2b0tTUGhuVGZ5VlhEZDByOERMd19mUTVCY2kxY0lra2Q2Q2Nkc3Z1N2RnZTdNa2huVlpUWV9BeEhqOVU1RVBoN1c0UkF4U0dxbUg4S3RqeVRET2tfbm9mVFo0S2tmRDRDYUpObFFWdXpMZWU1WVpjZlRiRVFxei0yVG5lSEx4OV8wUTNiVGJuN3JDeUJpS1ZRVW1vSy0zRktR?oc=5\" target=\"_blank\">Additional roads in Glenn County shut down due to flooding, rising waters</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Action News Now</font>",
+        "similarity_excluded": "No",
+        "score": 6,
+        "status": "processed",
+        "tweet": null
     }
 ]
