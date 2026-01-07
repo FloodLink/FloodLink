@@ -375,9 +375,32 @@
     "rain_mm": 97.06,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 18.563,
-    "last_updated": "2026-01-07T04:02:11.553339Z",
+    "last_updated": "2026-01-07T12:32:36.511460Z",
     "last_tweeted_at": "2026-01-07T04:02:11.553339Z",
     "tweet_id": "2008751279846166791",
+    "resolved": false,
+    "pending_downgrade": true,
+    "pending_target_level": "Low",
+    "pending_set_at": "2026-01-07T12:32:36.511460Z",
+    "pending_is_region": false,
+    "pending_observed_level": "Low",
+    "pending_observed_rain_mm": 0.19,
+    "pending_observed_soil_moisture": 1.0,
+    "pending_observed_raw_dynamic_score": 0.036
+  },
+  "13.5848,124.2374": {
+    "country": "Philippines",
+    "name": "Virac",
+    "risk_level": "High",
+    "tweeted_level": "High",
+    "latitude": 13.5848,
+    "longitude": 124.2374,
+    "rain_mm": 83.62,
+    "soil_moisture": 1.0,
+    "raw_dynamic_score": 15.993,
+    "last_updated": "2026-01-07T12:32:36.511460Z",
+    "last_tweeted_at": "2026-01-07T12:32:36.511460Z",
+    "tweet_id": "2008879482413998463",
     "resolved": false
   }
 }
