@@ -4854,5 +4854,14 @@
         "score": 0,
         "status": "skipped",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-01-07",
+        "status": "posted",
+        "tweet": "Global economic losses from floods and flash floods reached $140 billion in 2024, a 30% increase from 2020\u2014driven by extreme rainfall events. Projections for 2030: $300 billion annually.",
+        "type": "statistical",
+        "category": "economic losses from floods and flash floods",
+        "tweet_id": "2008886109367947552"
     }
 ]
