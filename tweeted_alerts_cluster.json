@@ -432,7 +432,7 @@
     "rain_mm": 40.38,
     "soil_moisture": 0.666,
     "raw_dynamic_score": 6.505,
-    "last_updated": "2026-01-08T18:24:52.008774Z",
+    "last_updated": "2026-01-08T21:17:16.922304Z",
     "last_tweeted_at": "2026-01-08T18:24:52.008774Z",
     "tweet_id": "2009330522816696493",
     "resolved": false
@@ -462,7 +462,7 @@
     "rain_mm": 38.06,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 7.279,
-    "last_updated": "2026-01-08T18:24:52.008774Z",
+    "last_updated": "2026-01-08T21:17:16.922304Z",
     "last_tweeted_at": "2026-01-08T18:24:52.008774Z",
     "tweet_id": "2009330775594823956",
     "resolved": false
@@ -492,10 +492,18 @@
     "rain_mm": 170.94,
     "soil_moisture": 0.763,
     "raw_dynamic_score": 29.034,
-    "last_updated": "2026-01-08T18:24:52.008774Z",
+    "last_updated": "2026-01-08T21:17:16.922304Z",
     "last_tweeted_at": "2026-01-08T18:24:52.008774Z",
     "tweet_id": "2009331028087681365",
-    "resolved": false
+    "resolved": false,
+    "pending_downgrade": true,
+    "pending_target_level": "Medium",
+    "pending_set_at": "2026-01-08T21:17:16.922304Z",
+    "pending_is_region": false,
+    "pending_observed_level": "Medium",
+    "pending_observed_rain_mm": 70.0,
+    "pending_observed_soil_moisture": 0.744,
+    "pending_observed_raw_dynamic_score": 11.767
   },
   "1.4167,110.1500": {
     "country": "Malaysia",
@@ -555,6 +563,36 @@
     "last_updated": "2026-01-08T18:24:52.008774Z",
     "last_tweeted_at": "2026-01-08T18:24:52.008774Z",
     "tweet_id": "2009331028087681365",
+    "resolved": false
+  },
+  "43.8014,-91.2396": {
+    "country": "United States",
+    "name": "La Crosse",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 43.80136,
+    "longitude": -91.23958,
+    "rain_mm": 40.19,
+    "soil_moisture": 0.793,
+    "raw_dynamic_score": 6.936,
+    "last_updated": "2026-01-08T21:17:16.922304Z",
+    "last_tweeted_at": "2026-01-08T21:17:16.922304Z",
+    "tweet_id": "2009373911532601358",
+    "resolved": false
+  },
+  "43.8464,-91.2482": {
+    "country": "United States",
+    "name": "North La Crosse",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 43.84635,
+    "longitude": -91.24819,
+    "rain_mm": 40.19,
+    "soil_moisture": 0.793,
+    "raw_dynamic_score": 6.936,
+    "last_updated": "2026-01-08T21:17:16.922304Z",
+    "last_tweeted_at": "2026-01-08T21:17:16.922304Z",
+    "tweet_id": "2009373911532601358",
     "resolved": false
   }
 }
