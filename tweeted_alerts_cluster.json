@@ -410,5 +410,20 @@
     "pending_observed_rain_mm": 11.69,
     "pending_observed_soil_moisture": 1.0,
     "pending_observed_raw_dynamic_score": 2.235
+  },
+  "4.8604,115.4090": {
+    "country": "Malaysia",
+    "name": "Lawas",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 4.8604,
+    "longitude": 115.409,
+    "rain_mm": 42.75,
+    "soil_moisture": 0.694,
+    "raw_dynamic_score": 6.996,
+    "last_updated": "2026-01-08T04:01:44.902257Z",
+    "last_tweeted_at": "2026-01-08T04:01:44.902257Z",
+    "tweet_id": "2009113301771280451",
+    "resolved": false
   }
 }
