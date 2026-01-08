@@ -4982,5 +4982,62 @@
         "score": 0,
         "status": "skipped",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE01MnkyYjc1NE9qUUhDVFdPbjNCMERVZklXRFpoejZ5NFhIMWhraW9mVFlKSnJJNlhuNU5YNGpvbUxfMzJyanJnLVdZM28yMkVNeUxaYXFXbWw4WFBFNjdjSzE4MnpWZm9tb1B3Mi16MWlpb0U?oc=5",
+        "date": "2026-01-08",
+        "title": "UPDATE: The current flood warning for Sonoma County will be expiring at 9 p.m. - Fresno Bee",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE01MnkyYjc1NE9qUUhDVFdPbjNCMERVZklXRFpoejZ5NFhIMWhraW9mVFlKSnJJNlhuNU5YNGpvbUxfMzJyanJnLVdZM28yMkVNeUxaYXFXbWw4WFBFNjdjSzE4MnpWZm9tb1B3Mi16MWlpb0U?oc=5\" target=\"_blank\">UPDATE: The current flood warning for Sonoma County will be expiring at 9 p.m.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fresno Bee</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQc1hHOEQ2UkRpYWYweUtKREdmeUUtTS1TWmRvWlRlUzB0cDBqQURkSEl1dV9DV2s4Zmx5T3ZFeDhxQ01JSzZMREFISXEyQ3plcEczZENOQ2wxRWVBeUItanBMQXczVUlkbm84TDdGa0ktOGlLc20zMWc0cmpoY29kSjJlYzcyU2Fv?oc=5",
+        "date": "2026-01-08",
+        "title": "Nearly two months after Typhoon Tino triggered massive flooding in Negros Occidental, more than 500 families in La Castellana, Negros Occidental remain displaced after their homes were destroyed by floodwaters. - facebook.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQc1hHOEQ2UkRpYWYweUtKREdmeUUtTS1TWmRvWlRlUzB0cDBqQURkSEl1dV9DV2s4Zmx5T3ZFeDhxQ01JSzZMREFISXEyQ3plcEczZENOQ2wxRWVBeUItanBMQXczVUlkbm84TDdGa0ktOGlLc20zMWc0cmpoY29kSjJlYzcyU2Fv?oc=5\" target=\"_blank\">Nearly two months after Typhoon Tino triggered massive flooding in Negros Occidental, more than 500 families in La Castellana, Negros Occidental remain displaced after their homes were destroyed by floodwaters.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">facebook.com</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": null,
+        "tweet_id": "2009155238045860206",
+        "geo": {
+            "country": "Philippines",
+            "name": "La Castellana, Negros Occidental",
+            "latitude": 10.33,
+            "longitude": 122.92,
+            "confidence": 0.95
+        }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNWmRPQnduR19mYWlkbVZiczA5UWtla0pvQ29ZcHlWZmp1WEp5eVh6VEItZHRpUTdEeUYybHhpT2c0MDE5eVdwak9nY21LM3Q4NkxxcnlncW5rSVRCRHppdnhaV21FQnF4YnMzVElxS2ZpWF9xeFFPQjZtSmZCcVFEb2RfLXVwdTRm?oc=5",
+        "date": "2026-01-08",
+        "title": "Tropical Low Threatens Qld With Rain, Flooding - Mirage News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNWmRPQnduR19mYWlkbVZiczA5UWtla0pvQ29ZcHlWZmp1WEp5eVh6VEItZHRpUTdEeUYybHhpT2c0MDE5eVdwak9nY21LM3Q4NkxxcnlncW5rSVRCRHppdnhaV21FQnF4YnMzVElxS2ZpWF9xeFFPQjZtSmZCcVFEb2RfLXVwdTRm?oc=5\" target=\"_blank\">Tropical Low Threatens Qld With Rain, Flooding</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mirage News</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQc1hHOEQ2UkRpYWYweUtKREdmeUUtTS1TWmRvWlRlUzB0cDBqQURkSEl1dV9DV2s4Zmx5T3ZFeDhxQ01JSzZMREFISXEyQ3plcEczZENOQ2wxRWVBeUItanBMQXczVUlkbm84TDdGa0ktOGlLc20zMWc0cmpoY29kSjJlYzcyU2Fv?oc=5",
+        "date": "2026-01-08",
+        "title": "Nearly two months after Typhoon Tino triggered massive flooding in Negros Occidental, more than 500 families in La Castellana, Negros Occidental remain displaced after their homes were destroyed by floodwaters. - facebook.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQc1hHOEQ2UkRpYWYweUtKREdmeUUtTS1TWmRvWlRlUzB0cDBqQURkSEl1dV9DV2s4Zmx5T3ZFeDhxQ01JSzZMREFISXEyQ3plcEczZENOQ2wxRWVBeUItanBMQXczVUlkbm84TDdGa0ktOGlLc20zMWc0cmpoY29kSjJlYzcyU2Fv?oc=5\" target=\"_blank\">Nearly two months after Typhoon Tino triggered massive flooding in Negros Occidental, more than 500 families in La Castellana, Negros Occidental remain displaced after their homes were destroyed by floodwaters.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">facebook.com</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "posted",
+        "tweet": "\ud83c\uddf5\ud83c\udded POST-EVENT La Castellana, Negros Occidental: Over 500 families remain displaced nearly two months after Typhoon Tino triggered massive flooding that destroyed their homes. (facebook.com)",
+        "type": "news",
+        "tweet_id": "2009155238045860206",
+        "geo": {
+            "country": "Philippines",
+            "name": "La Castellana, Negros Occidental",
+            "latitude": 10.33,
+            "longitude": 122.92,
+            "confidence": 0.95
+        }
     }
 ]
