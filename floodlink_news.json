@@ -5719,5 +5719,25 @@
         "score": 0,
         "status": "skipped",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNjZyNHU0WWVhYnExTHY4WHNLeG9aaXZNVlpxRWNZVWc5N2Eya0hlV1NXVnZJbUV0WVNNWUE2OUYwU0xkVHNod0pMNW9HZWJBNmlZNVp5VVhKUUllUEVSczVTWFhIcnkwUi1QeEtUQVdpRFVLU3lkX3ZNVGgxdmJhSGtvRW40eWRIYVY1TkxWX3JYT3dzTG9OWnM5X3paVUMteDhITDFVUWFVZzRYOE5IbEZn?oc=5",
+        "date": "2026-01-09",
+        "title": "North Queensland braces for tropical cyclone likely to form today - Australian Broadcasting Corporation",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQNjZyNHU0WWVhYnExTHY4WHNLeG9aaXZNVlpxRWNZVWc5N2Eya0hlV1NXVnZJbUV0WVNNWUE2OUYwU0xkVHNod0pMNW9HZWJBNmlZNVp5VVhKUUllUEVSczVTWFhIcnkwUi1QeEtUQVdpRFVLU3lkX3ZNVGgxdmJhSGtvRW40eWRIYVY1TkxWX3JYT3dzTG9OWnM5X3paVUMteDhITDFVUWFVZzRYOE5IbEZn?oc=5\" target=\"_blank\">North Queensland braces for tropical cyclone likely to form today</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Australian Broadcasting Corporation</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZ1BJQWhTeUV6a3dMVF9DbTJmUDBrNjhpbnp2aEJqaVFhZ3JyLTR0LW5xb0JNQWQ0X2tzWVRhdVc4VG9HTkdLRndLNUdpRFVTaHZ0TGxxMXVuNHF6NHdpcEVUbGpOanMxV2JGUlBleE1SU1hlcktSSmRBZlAwUnQzUDRaY3ZvMFNKZWFMWklodzhNa2VPTXNqbQ?oc=5",
+        "date": "2026-01-09",
+        "title": "In Helene's wake, NC's landslide hazard mapping program tries to become more useful for emergencies - WUNC",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPZ1BJQWhTeUV6a3dMVF9DbTJmUDBrNjhpbnp2aEJqaVFhZ3JyLTR0LW5xb0JNQWQ0X2tzWVRhdVc4VG9HTkdLRndLNUdpRFVTaHZ0TGxxMXVuNHF6NHdpcEVUbGpOanMxV2JGUlBleE1SU1hlcktSSmRBZlAwUnQzUDRaY3ZvMFNKZWFMWklodzhNa2VPTXNqbQ?oc=5\" target=\"_blank\">In Helene's wake, NC's landslide hazard mapping program tries to become more useful for emergencies</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WUNC</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
     }
 ]
