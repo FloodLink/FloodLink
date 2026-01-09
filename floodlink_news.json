@@ -5679,5 +5679,35 @@
         "score": 1,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1oSXZ2TkI5M08yazhESUYzZnU3V2F5YUlzMWRaU01SWmp2TWZtRkRtbmFWTFBVOTZMUnNheVpFaHhtZG9BTjJqZ0V2TU1SZWVjUVBlUHRJVGdkQVdDeGFQY3VqcnFPek5fdG9xbnloYklKakRxQ2sxa1dHUXpjZw?oc=5",
+        "date": "2026-01-09",
+        "title": "Wayne Co. roads closed due to flash flooding - WDAM-TV",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE1oSXZ2TkI5M08yazhESUYzZnU3V2F5YUlzMWRaU01SWmp2TWZtRkRtbmFWTFBVOTZMUnNheVpFaHhtZG9BTjJqZ0V2TU1SZWVjUVBlUHRJVGdkQVdDeGFQY3VqcnFPek5fdG9xbnloYklKakRxQ2sxa1dHUXpjZw?oc=5\" target=\"_blank\">Wayne Co. roads closed due to flash flooding</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WDAM-TV</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQOEE5a1BpOS1TR0cwNENibmxaOWZFTHVpbzZzQUJHTHJnYzYxVEJneDhUT3JIbWxDT3I3Z1RjamdxZTJ5V1p5UlVGeV9lYVJlY1FkeHFfLXJVSHYyb25aT2VCVHctVkp3TVY4dlMzVWVhenRQUGtCY1BNc3V5M3p6anlXUHZPOEg4R0lRY0NVVGxmWTZndmc?oc=5",
+        "date": "2026-01-09",
+        "title": "Miss-Lou under threat of severe storms, floods - The Natchez Democrat",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxQOEE5a1BpOS1TR0cwNENibmxaOWZFTHVpbzZzQUJHTHJnYzYxVEJneDhUT3JIbWxDT3I3Z1RjamdxZTJ5V1p5UlVGeV9lYVJlY1FkeHFfLXJVSHYyb25aT2VCVHctVkp3TVY4dlMzVWVhenRQUGtCY1BNc3V5M3p6anlXUHZPOEg4R0lRY0NVVGxmWTZndmc?oc=5\" target=\"_blank\">Miss-Lou under threat of severe storms, floods</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Natchez Democrat</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPN0tFb2FHOHQyRmdpdjkwWk5GaWpKbUtNdzBXbmZsUHlUR0lodnpSWmNHQ1ctUy1qYjA3ZFdmakZfUlFtSU1KQUVXbk0zQ2J4WUNsaXg5QTMxdDRBWHRvaDNjY1dYYkRhSncwTGxTUW9uTk9xQXN1Y2JlSjNVN0x4eGdyZUUwSEVtLW43SnFLX29UQTE0U3dlbjhTcFBDUkthcmFmSVRPRGdLQi1Vc1dXU0RBZV8yU19xNXAtVEpuS0FPZzZfMmxZbUw1dW8?oc=5",
+        "date": "2026-01-09",
+        "title": "High Desert holiday storm determined a rare '1 in 1,000' chance event - Victorville Daily Press",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxPN0tFb2FHOHQyRmdpdjkwWk5GaWpKbUtNdzBXbmZsUHlUR0lodnpSWmNHQ1ctUy1qYjA3ZFdmakZfUlFtSU1KQUVXbk0zQ2J4WUNsaXg5QTMxdDRBWHRvaDNjY1dYYkRhSncwTGxTUW9uTk9xQXN1Y2JlSjNVN0x4eGdyZUUwSEVtLW43SnFLX29UQTE0U3dlbjhTcFBDUkthcmFmSVRPRGdLQi1Vc1dXU0RBZV8yU19xNXAtVEpuS0FPZzZfMmxZbUw1dW8?oc=5\" target=\"_blank\">High Desert holiday storm determined a rare '1 in 1,000' chance event</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Victorville Daily Press</font>",
+        "similarity_excluded": "No",
+        "score": 2,
+        "status": "processed",
+        "tweet": null
     }
 ]
