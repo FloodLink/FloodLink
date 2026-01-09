@@ -477,7 +477,7 @@
     "rain_mm": 154.69,
     "soil_moisture": 0.764,
     "raw_dynamic_score": 26.293,
-    "last_updated": "2026-01-08T18:24:52.008774Z",
+    "last_updated": "2026-01-09T01:09:58.108905Z",
     "last_tweeted_at": "2026-01-08T18:24:52.008774Z",
     "tweet_id": "2009331028087681365",
     "resolved": false
@@ -575,7 +575,7 @@
     "rain_mm": 40.19,
     "soil_moisture": 0.793,
     "raw_dynamic_score": 6.936,
-    "last_updated": "2026-01-08T21:17:16.922304Z",
+    "last_updated": "2026-01-09T01:09:58.108905Z",
     "last_tweeted_at": "2026-01-08T21:17:16.922304Z",
     "tweet_id": "2009373911532601358",
     "resolved": false
@@ -593,6 +593,21 @@
     "last_updated": "2026-01-08T21:17:16.922304Z",
     "last_tweeted_at": "2026-01-08T21:17:16.922304Z",
     "tweet_id": "2009373911532601358",
+    "resolved": false
+  },
+  "41.7075,-86.8950": {
+    "country": "United States",
+    "name": "Michigan City",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 41.70754,
+    "longitude": -86.89503,
+    "rain_mm": 34.06,
+    "soil_moisture": 1.0,
+    "raw_dynamic_score": 6.514,
+    "last_updated": "2026-01-09T01:09:58.108905Z",
+    "last_tweeted_at": "2026-01-09T01:09:58.108905Z",
+    "tweet_id": "2009432468462391605",
     "resolved": false
   }
 }
