@@ -5416,5 +5416,139 @@
         "tweet": "\ud83c\uddf3\ud83c\uddf1 In 2026, the Netherlands' Delta Programme sustains 26,500 km of dikes and levees, shielding 9.5 million people\u2014over half the population\u2014from sea-level rise and river floods.",
         "type": "infrastructure",
         "tweet_id": "2009474050201182311"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVEk5NnYzM0VySDFFaWh6R2JodFR3aUQ2SVJySUZ4NVVwTUhPbnRsRE5VMTBkTlphRmc5c0g1eXJfZFhETVdQcXg1ZDlHVGFPazBTSnlrQlhGMnc1cmFEa0JXdUZub29mVmVxa0tXeXR3TVV1cXFXamlVVkRuZEZMY1I0Y3dWUVc1TGlwdjhIanF2N25MZHFfYlFWam85VDUwY0R0N0dFaHR6NEVHMGY0cUg5emh3Y1hhbHNSQWZyMndEWVXSAcsBQVVfeXFMUEEyeE1CWlFnNmF1RTVya0QwUjg1TXF2U1p5dmpjTVViOWZURW1WNGNqalpIR19EYUxBX3VrOXlCOF82T2dnWTRkNWxOY2I4aVhiNlNtWUY2R25GZ3lyejdTN2dZbFRRNjRnRG90eDlMTVJDZ093OXlLNEFWZi0yQVloLWhyUlRjZzNzeER3SmVSWnRXaDBoN1hiWDl3X0V1QVpuZ1lSX1YxNHJfb3ZNWHdRV0RHbVR0Qk5OdzJ1RlpPSUJlSV9pbEQ1SFU?oc=5",
+        "date": "2026-01-09",
+        "title": "Flash flood warning issued as thunderstorms, heavy rainfall moves across region - NBC 5 Chicago",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVEk5NnYzM0VySDFFaWh6R2JodFR3aUQ2SVJySUZ4NVVwTUhPbnRsRE5VMTBkTlphRmc5c0g1eXJfZFhETVdQcXg1ZDlHVGFPazBTSnlrQlhGMnc1cmFEa0JXdUZub29mVmVxa0tXeXR3TVV1cXFXamlVVkRuZEZMY1I0Y3dWUVc1TGlwdjhIanF2N25MZHFfYlFWam85VDUwY0R0N0dFaHR6NEVHMGY0cUg5emh3Y1hhbHNSQWZyMndEWVXSAcsBQVVfeXFMUEEyeE1CWlFnNmF1RTVya0QwUjg1TXF2U1p5dmpjTVViOWZURW1WNGNqalpIR19EYUxBX3VrOXlCOF82T2dnWTRkNWxOY2I4aVhiNlNtWUY2R25GZ3lyejdTN2dZbFRRNjRnRG90eDlMTVJDZ093OXlLNEFWZi0yQVloLWhyUlRjZzNzeER3SmVSWnRXaDBoN1hiWDl3X0V1QVpuZ1lSX1YxNHJfb3ZNWHdRV0RHbVR0Qk5OdzJ1RlpPSUJlSV9pbEQ1SFU?oc=5\" target=\"_blank\">Flash flood warning issued as thunderstorms, heavy rainfall moves across region</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NBC 5 Chicago</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": null,
+        "tweet_id": "2009517700754657426",
+        "geo": {
+            "country": "United States",
+            "name": "Chicago",
+            "latitude": 41.8781,
+            "longitude": -87.6298,
+            "confidence": 0.95
+        }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPU080SWpBU3ptZklZamtRd3ZwejF6ck5pUG02N2NqZ2Y5dFh6UXQ5MWgwbU1SbVc5QjZoaElIc0VQeExYSS1pR2ZrT1dESTZhV0RkdnVTOWlKWG5fVFJqNlY4bVlyV3Y1ZVk2Y3l2MzBBeDlQYkVYdGhwT1I5X0VZZDFQWXNTTTlq?oc=5",
+        "date": "2026-01-09",
+        "title": "Flash flood warning for parts of Chicago area amid Thursday night storms - CBS News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPU080SWpBU3ptZklZamtRd3ZwejF6ck5pUG02N2NqZ2Y5dFh6UXQ5MWgwbU1SbVc5QjZoaElIc0VQeExYSS1pR2ZrT1dESTZhV0RkdnVTOWlKWG5fVFJqNlY4bVlyV3Y1ZVk2Y3l2MzBBeDlQYkVYdGhwT1I5X0VZZDFQWXNTTTlq?oc=5\" target=\"_blank\">Flash flood warning for parts of Chicago area amid Thursday night storms</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CBS News</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQLXFpTU1WY3dzdTFxTFhZUDU0aUR4WkIxNk1ZN05qX1A1RXhPd1dnQWdSQmlBMTJWX29HNTlhZHZoelA1bTRkRTc5aFh6N2ttMGUtdkFNakMtTjRtWE45anhCWkczWV9Zb1VkTlE2anJsOS1RdXFzRWVxbjN1ZUJ1dTg4TlZxam9FeVQweWdObzVua1prRDlUaHkxNVU2MDZIN0NoUGZR0gGrAUFVX3lxTE16c1owVnE0cWw2VTRxOW1za3J5ckp0RWtMN0FnX0ZpTGdCY201SklJRVN6MFZaTDBNV05DQnpEM1Q5bUtGaW1yRnR2NEdyNEhGajNvWEZocmZ0N1hCU3BNQlhUdDktZUpWYkVZRWMzX1k5akFSNHpUOHlVQlo1V1J6YkVKRE95ZkwtSHdHZzlBd2NXa0pOZjJXS3ZHTXRVVWpld0ktNDE3Q3Vncw?oc=5",
+        "date": "2026-01-09",
+        "title": "Chicago weather: Strong to possibly a few severe storms are possible this evening - FOX 32 Chicago",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQLXFpTU1WY3dzdTFxTFhZUDU0aUR4WkIxNk1ZN05qX1A1RXhPd1dnQWdSQmlBMTJWX29HNTlhZHZoelA1bTRkRTc5aFh6N2ttMGUtdkFNakMtTjRtWE45anhCWkczWV9Zb1VkTlE2anJsOS1RdXFzRWVxbjN1ZUJ1dTg4TlZxam9FeVQweWdObzVua1prRDlUaHkxNVU2MDZIN0NoUGZR0gGrAUFVX3lxTE16c1owVnE0cWw2VTRxOW1za3J5ckp0RWtMN0FnX0ZpTGdCY201SklJRVN6MFZaTDBNV05DQnpEM1Q5bUtGaW1yRnR2NEdyNEhGajNvWEZocmZ0N1hCU3BNQlhUdDktZUpWYkVZRWMzX1k5akFSNHpUOHlVQlo1V1J6YkVKRE95ZkwtSHdHZzlBd2NXa0pOZjJXS3ZHTXRVVWpld0ktNDE3Q3Vncw?oc=5\" target=\"_blank\">Chicago weather: Strong to possibly a few severe storms are possible this evening</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FOX 32 Chicago</font>",
+        "similarity_excluded": "No",
+        "score": 2,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPME9SM2hhcnhQMVRNNFFsbEl2akpzU051YmhMTThncUowUURNN2YyMllTVEFNc2xGSkJrY1Q3eTVHQjhBM2J5SFJGV2xzblpuNEUycmVzdmdfcU0wQWctX2pOSXllbjdLM3VWVnNqdmlYM2dCV2ROclhnaUcza25OVUV5a9IBiAFBVV95cUxQN1RzNWp3dmY5UV9aalZWb2F3dUVfVVFCMXJZbFhYVHd2OWF4N1M2d2E0RE1lS3RrZ3hIS2hQVUhUTnlRdnBuRGFFM2o2bDdHaDh2WllZbWxwV25LNVZnUGsyMkdERDFDQUZUYjNwVElfRGZPODZtUzNxM2pVdERneFRmVWlNemZq?oc=5",
+        "date": "2026-01-09",
+        "title": "Severe weather setup threatens millions as tornadoes and flash flooding loom in the South - FOX Weather",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxPME9SM2hhcnhQMVRNNFFsbEl2akpzU051YmhMTThncUowUURNN2YyMllTVEFNc2xGSkJrY1Q3eTVHQjhBM2J5SFJGV2xzblpuNEUycmVzdmdfcU0wQWctX2pOSXllbjdLM3VWVnNqdmlYM2dCV2ROclhnaUcza25OVUV5a9IBiAFBVV95cUxQN1RzNWp3dmY5UV9aalZWb2F3dUVfVVFCMXJZbFhYVHd2OWF4N1M2d2E0RE1lS3RrZ3hIS2hQVUhUTnlRdnBuRGFFM2o2bDdHaDh2WllZbWxwV25LNVZnUGsyMkdERDFDQUZUYjNwVElfRGZPODZtUzNxM2pVdERneFRmVWlNemZq?oc=5\" target=\"_blank\">Severe weather setup threatens millions as tornadoes and flash flooding loom in the South</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FOX Weather</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": null,
+        "tweet_id": "2009518224631615531",
+        "geo": {
+            "country": "United States",
+            "name": "Southern United States",
+            "latitude": 30.0,
+            "longitude": -90.0,
+            "confidence": 0.6
+        }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOWUdzVXdhYnJYMXc5Z0dJdUZKUko0S1NyUHpYQ1RMbndSRThFU2RSUno3YTJlTE4zZXF5ck9sZW5FaUwtczNjSUdvU3kzYVZnMkRRT282VGhmX3Z5NTc0ZnVwODBxZ19LbmdXdC1QcjhzYVNtc2syYXhTNl9ycGlmbUduaVZyRFNpblZ6YnZJZUdiOGdCUjNZ0gGcAUFVX3lxTE0xSjAyUzJDQ0phRVZRMlRsYVZBbkpCbU1xWlpfVnZwUXduU2lQX3llTHBDSWowWXFZeWc2V0VuYmxYZVRXTnRVSHdsTGpHZkExT2w4MklWLUxSamtaS1BwdWpnTUcyQ2w2ZTBZdkRPS2Y4ZUJ6OEx3RnRpMF84UG9OYzFBNjFLVTFsTHllMFhnVzJCenB5RF9IOXF6cw?oc=5",
+        "date": "2026-01-09",
+        "title": "Alaska to get slammed with heavy rain after snowier than normal December - FOX Weather",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOWUdzVXdhYnJYMXc5Z0dJdUZKUko0S1NyUHpYQ1RMbndSRThFU2RSUno3YTJlTE4zZXF5ck9sZW5FaUwtczNjSUdvU3kzYVZnMkRRT282VGhmX3Z5NTc0ZnVwODBxZ19LbmdXdC1QcjhzYVNtc2syYXhTNl9ycGlmbUduaVZyRFNpblZ6YnZJZUdiOGdCUjNZ0gGcAUFVX3lxTE0xSjAyUzJDQ0phRVZRMlRsYVZBbkpCbU1xWlpfVnZwUXduU2lQX3llTHBDSWowWXFZeWc2V0VuYmxYZVRXTnRVSHdsTGpHZkExT2w4MklWLUxSamtaS1BwdWpnTUcyQ2w2ZTBZdkRPS2Y4ZUJ6OEx3RnRpMF84UG9OYzFBNjFLVTFsTHllMFhnVzJCenB5RF9IOXF6cw?oc=5\" target=\"_blank\">Alaska to get slammed with heavy rain after snowier than normal December</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FOX Weather</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNSHRKdm5RNGVxNVd3N21oTVRQUnU5eWVYU0FLX2RYbFB6b0U5VkZ4ZWlvWkozUS1ncTFIbWJCYnNRNmhxMF81TU1XZHhuQ2cwcXloX2VqaEZnMzhvc2hYQ0lxVjk0VVB1a1Y4cUgzeHFwVzljMzNVN0lQTXkzQnRWRVVwQnNKblVEQzBmY0I1YVRUekRsMnRzQlByWDhxc3c3V2tLQlBxYmowaHZ3SmpHRjkyNVlNbzg4eUVGQ0o5cEVESnJy?oc=5",
+        "date": "2026-01-09",
+        "title": "1/8/26: Moderate Flood Watch in Davidson, Clear Evening at 65\u00b0F, Risk of Flash Flooding Tomorrow - Davidson County Source",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxNSHRKdm5RNGVxNVd3N21oTVRQUnU5eWVYU0FLX2RYbFB6b0U5VkZ4ZWlvWkozUS1ncTFIbWJCYnNRNmhxMF81TU1XZHhuQ2cwcXloX2VqaEZnMzhvc2hYQ0lxVjk0VVB1a1Y4cUgzeHFwVzljMzNVN0lQTXkzQnRWRVVwQnNKblVEQzBmY0I1YVRUekRsMnRzQlByWDhxc3c3V2tLQlBxYmowaHZ3SmpHRjkyNVlNbzg4eUVGQ0o5cEVESnJy?oc=5\" target=\"_blank\">1/8/26: Moderate Flood Watch in Davidson, Clear Evening at 65\u00b0F, Risk of Flash Flooding Tomorrow</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Davidson County Source</font>",
+        "similarity_excluded": "No",
+        "score": 6,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOQmtMSy1MSTBUWDI1Q0poeXI0U2pZRlZrZWRpcWdQaU8wbGcwMFNKNGt2bzhvdXZlc0pvTFJSMmJTNFlQc0hYWVpqVzJWa19kdGJaSHMzczhYTXlNX3owY1JzSzZ3MHp6U3pLbU4wU1dRWUNZSTdYVThxemRUWXlrMmdCakNMYjJlSDJyTk53Rm1NRVA0d21CU09BN3BaUXZock1DMW0wWGJhald3QzlQX3pHM3dWb1FHX05uS2lKMm80NnVUUF9aMkQxLXpyZG9EZVdVMG5IdzNsQXlxTGhHNnR4SS1laUNqQnhCYzU1NGx3NTlxMC04V1kyTE5NRjNvZ1lKd012RzlRckc4Z3VJNDUxRDNfcUZo0gGeAkFVX3lxTE9BWEJqaTBITzVaQUNONzBteERIRjh4QmZGV3NrS2J0ekJZekc4UnhYWjRRQmxFR1FkWmI4VDRnSlltTmhDcnd5T2F6REUwMnI1ZWY3OXB4eHNGS0M5WWx2bzlXMFVScElVTVRvU1FHZk91WVhqT09vSHh3TzZ4Y3k0WXFfMU0wdUlJamttOW9YZmVOTUVHajNKdHRZeWU0T0VhOGFtUG5tT3dDdHdySmY1WEtnbV9sTDZJeXA1Z0hqUVJHY21ZWlVkQ2t5eEZOQTlVZDFJcC04S0ZFLWlwblRhRFhlMDliZERzXzJiS1EtU2VoMV9oR0t5T2c3NEw5UjJfd1JqM01EQzNMMXZyUjMwUWw0azNtVDdqOTk1bkE?oc=5",
+        "date": "2026-01-09",
+        "title": "\u2018Prepare now\u2019: Warning as cyclone likely - News.com.au",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAJBVV95cUxOQmtMSy1MSTBUWDI1Q0poeXI0U2pZRlZrZWRpcWdQaU8wbGcwMFNKNGt2bzhvdXZlc0pvTFJSMmJTNFlQc0hYWVpqVzJWa19kdGJaSHMzczhYTXlNX3owY1JzSzZ3MHp6U3pLbU4wU1dRWUNZSTdYVThxemRUWXlrMmdCakNMYjJlSDJyTk53Rm1NRVA0d21CU09BN3BaUXZock1DMW0wWGJhald3QzlQX3pHM3dWb1FHX05uS2lKMm80NnVUUF9aMkQxLXpyZG9EZVdVMG5IdzNsQXlxTGhHNnR4SS1laUNqQnhCYzU1NGx3NTlxMC04V1kyTE5NRjNvZ1lKd012RzlRckc4Z3VJNDUxRDNfcUZo0gGeAkFVX3lxTE9BWEJqaTBITzVaQUNONzBteERIRjh4QmZGV3NrS2J0ekJZekc4UnhYWjRRQmxFR1FkWmI4VDRnSlltTmhDcnd5T2F6REUwMnI1ZWY3OXB4eHNGS0M5WWx2bzlXMFVScElVTVRvU1FHZk91WVhqT09vSHh3TzZ4Y3k0WXFfMU0wdUlJamttOW9YZmVOTUVHajNKdHRZeWU0T0VhOGFtUG5tT3dDdHdySmY1WEtnbV9sTDZJeXA1Z0hqUVJHY21ZWlVkQ2t5eEZOQTlVZDFJcC04S0ZFLWlwblRhRFhlMDliZERzXzJiS1EtU2VoMV9oR0t5T2c3NEw5UjJfd1JqM01EQzNMMXZyUjMwUWw0azNtVDdqOTk1bkE?oc=5\" target=\"_blank\">\u2018Prepare now\u2019: Warning as cyclone likely</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">News.com.au</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxQNTdweXA4cExiTVFmZF9xYUw1OTctVDRKME9KUFlmbEpMWU5xX3NUTUY0S3ppSkg1aUpDN1NEdm11SERZTDk2eTI1UlJ2WTEtdURQTDdPOThTNkpKLXVWendmM2RjVEc0enVRRGFkdE52NTNGbk5FU0ZDUWZNSklTY19xOC1JZVlBdW9rU1M4UktTNC1fbTl4d3pBRUFuVVFSTUlkOEJZczRrNXRLSTU1blR6U1ZaUUJXWFdKTHp1ZzRna3Nhcm10TElSWnNjbmFKdXA5ckN4QW1CWjlNREYyWTNHYmdSQ1FvdDJ6MlNRNlR0MnlZTllwQU9MZjQwQ0pYLV9iWXN6UWh6eVNVZ0hjb0d0Qk1MTFdNcU12bDQ3QWd2UdIBpwJBVV95cUxNQXg2TEkwdVZQVlhQdlI0Y19UT0dVeVJjY0toNzB1Y1prSGwwNmJ5bzlUYXZ6VzdpRDRZZVJVNFFZemNlbjZrUG9BanU2ZHNKci1hSmdETVhiSEJVdlhnbGZiSVhPZDh4RDV4WHl4OHBMVHp1UWFERXQweEE0eHp3eTdFdVEwU0l4emE5SlJ0TGU5Y1lUQ0pFdV9CQXpDR09jSUpqMTk0d3BTXy0teHhxS19Lb1RUbmFBVmlBQkRjR1dXNXg0R1RxaGZJbmhHdmRVMWQ4MlZaSVY2S1R4U1dUMHBYTzZkVUtpcmNBWWZUVVRzNW1lZnlDNUFablJySk1ublBENUQ1MHVqdmNTOEdiQWZ3ZVV0bk1vcnF6QTRZMlN6V1M1RllV?oc=5",
+        "date": "2026-01-09",
+        "title": "120kmh winds, 250mm rain: Cyclone to form off Qld coast - The Courier Mail",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogJBVV95cUxQNTdweXA4cExiTVFmZF9xYUw1OTctVDRKME9KUFlmbEpMWU5xX3NUTUY0S3ppSkg1aUpDN1NEdm11SERZTDk2eTI1UlJ2WTEtdURQTDdPOThTNkpKLXVWendmM2RjVEc0enVRRGFkdE52NTNGbk5FU0ZDUWZNSklTY19xOC1JZVlBdW9rU1M4UktTNC1fbTl4d3pBRUFuVVFSTUlkOEJZczRrNXRLSTU1blR6U1ZaUUJXWFdKTHp1ZzRna3Nhcm10TElSWnNjbmFKdXA5ckN4QW1CWjlNREYyWTNHYmdSQ1FvdDJ6MlNRNlR0MnlZTllwQU9MZjQwQ0pYLV9iWXN6UWh6eVNVZ0hjb0d0Qk1MTFdNcU12bDQ3QWd2UdIBpwJBVV95cUxNQXg2TEkwdVZQVlhQdlI0Y19UT0dVeVJjY0toNzB1Y1prSGwwNmJ5bzlUYXZ6VzdpRDRZZVJVNFFZemNlbjZrUG9BanU2ZHNKci1hSmdETVhiSEJVdlhnbGZiSVhPZDh4RDV4WHl4OHBMVHp1UWFERXQweEE0eHp3eTdFdVEwU0l4emE5SlJ0TGU5Y1lUQ0pFdV9CQXpDR09jSUpqMTk0d3BTXy0teHhxS19Lb1RUbmFBVmlBQkRjR1dXNXg0R1RxaGZJbmhHdmRVMWQ4MlZaSVY2S1R4U1dUMHBYTzZkVUtpcmNBWWZUVVRzNW1lZnlDNUFablJySk1ublBENUQ1MHVqdmNTOEdiQWZ3ZVV0bk1vcnF6QTRZMlN6V1M1RllV?oc=5\" target=\"_blank\">120kmh winds, 250mm rain: Cyclone to form off Qld coast</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Courier Mail</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVEk5NnYzM0VySDFFaWh6R2JodFR3aUQ2SVJySUZ4NVVwTUhPbnRsRE5VMTBkTlphRmc5c0g1eXJfZFhETVdQcXg1ZDlHVGFPazBTSnlrQlhGMnc1cmFEa0JXdUZub29mVmVxa0tXeXR3TVV1cXFXamlVVkRuZEZMY1I0Y3dWUVc1TGlwdjhIanF2N25MZHFfYlFWam85VDUwY0R0N0dFaHR6NEVHMGY0cUg5emh3Y1hhbHNSQWZyMndEWVXSAcsBQVVfeXFMUEEyeE1CWlFnNmF1RTVya0QwUjg1TXF2U1p5dmpjTVViOWZURW1WNGNqalpIR19EYUxBX3VrOXlCOF82T2dnWTRkNWxOY2I4aVhiNlNtWUY2R25GZ3lyejdTN2dZbFRRNjRnRG90eDlMTVJDZ093OXlLNEFWZi0yQVloLWhyUlRjZzNzeER3SmVSWnRXaDBoN1hiWDl3X0V1QVpuZ1lSX1YxNHJfb3ZNWHdRV0RHbVR0Qk5OdzJ1RlpPSUJlSV9pbEQ1SFU?oc=5",
+        "date": "2026-01-09",
+        "title": "Flash flood warning issued as thunderstorms, heavy rainfall moves across region - NBC 5 Chicago",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVEk5NnYzM0VySDFFaWh6R2JodFR3aUQ2SVJySUZ4NVVwTUhPbnRsRE5VMTBkTlphRmc5c0g1eXJfZFhETVdQcXg1ZDlHVGFPazBTSnlrQlhGMnc1cmFEa0JXdUZub29mVmVxa0tXeXR3TVV1cXFXamlVVkRuZEZMY1I0Y3dWUVc1TGlwdjhIanF2N25MZHFfYlFWam85VDUwY0R0N0dFaHR6NEVHMGY0cUg5emh3Y1hhbHNSQWZyMndEWVXSAcsBQVVfeXFMUEEyeE1CWlFnNmF1RTVya0QwUjg1TXF2U1p5dmpjTVViOWZURW1WNGNqalpIR19EYUxBX3VrOXlCOF82T2dnWTRkNWxOY2I4aVhiNlNtWUY2R25GZ3lyejdTN2dZbFRRNjRnRG90eDlMTVJDZ093OXlLNEFWZi0yQVloLWhyUlRjZzNzeER3SmVSWnRXaDBoN1hiWDl3X0V1QVpuZ1lSX1YxNHJfb3ZNWHdRV0RHbVR0Qk5OdzJ1RlpPSUJlSV9pbEQ1SFU?oc=5\" target=\"_blank\">Flash flood warning issued as thunderstorms, heavy rainfall moves across region</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NBC 5 Chicago</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 FORECAST Chicago area: Flash flood warning issued as thunderstorms bring heavy rainfall, risking flash floods across the region. (NBC 5 Chicago)",
+        "type": "news",
+        "tweet_id": "2009517700754657426",
+        "geo": {
+            "country": "United States",
+            "name": "Chicago",
+            "latitude": 41.8781,
+            "longitude": -87.6298,
+            "confidence": 0.95
+        }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPME9SM2hhcnhQMVRNNFFsbEl2akpzU051YmhMTThncUowUURNN2YyMllTVEFNc2xGSkJrY1Q3eTVHQjhBM2J5SFJGV2xzblpuNEUycmVzdmdfcU0wQWctX2pOSXllbjdLM3VWVnNqdmlYM2dCV2ROclhnaUcza25OVUV5a9IBiAFBVV95cUxQN1RzNWp3dmY5UV9aalZWb2F3dUVfVVFCMXJZbFhYVHd2OWF4N1M2d2E0RE1lS3RrZ3hIS2hQVUhUTnlRdnBuRGFFM2o2bDdHaDh2WllZbWxwV25LNVZnUGsyMkdERDFDQUZUYjNwVElfRGZPODZtUzNxM2pVdERneFRmVWlNemZq?oc=5",
+        "date": "2026-01-09",
+        "title": "Severe weather setup threatens millions as tornadoes and flash flooding loom in the South - FOX Weather",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxPME9SM2hhcnhQMVRNNFFsbEl2akpzU051YmhMTThncUowUURNN2YyMllTVEFNc2xGSkJrY1Q3eTVHQjhBM2J5SFJGV2xzblpuNEUycmVzdmdfcU0wQWctX2pOSXllbjdLM3VWVnNqdmlYM2dCV2ROclhnaUcza25OVUV5a9IBiAFBVV95cUxQN1RzNWp3dmY5UV9aalZWb2F3dUVfVVFCMXJZbFhYVHd2OWF4N1M2d2E0RE1lS3RrZ3hIS2hQVUhUTnlRdnBuRGFFM2o2bDdHaDh2WllZbWxwV25LNVZnUGsyMkdERDFDQUZUYjNwVElfRGZPODZtUzNxM2pVdERneFRmVWlNemZq?oc=5\" target=\"_blank\">Severe weather setup threatens millions as tornadoes and flash flooding loom in the South</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FOX Weather</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 FORECAST Southern US: Flash flooding and tornadoes loom, threatening millions in severe weather setup. (FOX Weather)",
+        "type": "news",
+        "tweet_id": "2009518224631615531",
+        "geo": {
+            "country": "United States",
+            "name": "Southern United States",
+            "latitude": 30.0,
+            "longitude": -90.0,
+            "confidence": 0.6
+        }
     }
 ]
