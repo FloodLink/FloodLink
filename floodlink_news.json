@@ -5709,5 +5709,15 @@
         "score": 2,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPa1BZQm9TVFJ3eTFkMGRKOWlxMm1nWGJVNWpMRXRQS3FjX0RFUFQ0aTRoTGFsQmlJajRldnNvbkxyM1lzTndhSUZmb0t0d2s5aUM0VUNWSVMtRkV6UW43SmMtU0JQN0NVazVPUmhVM0tzcjVfb2lSMFRYckRGbzNpQm5CT3Jmd2haRVFreTQyY1ZOaXMzZ3RiTGdUV0xVc2JELXlRSEdDa0pTNy0ySE5yUGhvWmIwdUdNTzNZM3VzOFJXNktGRDBv?oc=5",
+        "date": "2026-01-09",
+        "title": "Flood watch for North Alabama until Saturday midday caused by persistent rainfall - AL.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxPa1BZQm9TVFJ3eTFkMGRKOWlxMm1nWGJVNWpMRXRQS3FjX0RFUFQ0aTRoTGFsQmlJajRldnNvbkxyM1lzTndhSUZmb0t0d2s5aUM0VUNWSVMtRkV6UW43SmMtU0JQN0NVazVPUmhVM0tzcjVfb2lSMFRYckRGbzNpQm5CT3Jmd2haRVFreTQyY1ZOaXMzZ3RiTGdUV0xVc2JELXlRSEdDa0pTNy0ySE5yUGhvWmIwdUdNTzNZM3VzOFJXNktGRDBv?oc=5\" target=\"_blank\">Flood watch for North Alabama until Saturday midday caused by persistent rainfall</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AL.com</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
     }
 ]
