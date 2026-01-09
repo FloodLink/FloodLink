@@ -5559,5 +5559,45 @@
         "type": "statistical",
         "category": "urban areas exposed to river flooding",
         "tweet_id": "2009611079433720164"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE81VWszaW1zeEFQYU5kNThZQkdIQUVOU2Iyb3hfdXloMmpKOUtaTG5Xcnl3OHhlME02bGo1UTNVYzZ1aER2ZDBQREVhNGpNWEF3MklwV2hVQUZZTy16UWYwLVRoSGM3eHgta0M0UHdwTkFhZw?oc=5",
+        "date": "2026-01-09",
+        "title": "Showers, storms...some strong/severe - WAFB",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE81VWszaW1zeEFQYU5kNThZQkdIQUVOU2Iyb3hfdXloMmpKOUtaTG5Xcnl3OHhlME02bGo1UTNVYzZ1aER2ZDBQREVhNGpNWEF3MklwV2hVQUZZTy16UWYwLVRoSGM3eHgta0M0UHdwTkFhZw?oc=5\" target=\"_blank\">Showers, storms...some strong/severe</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WAFB</font>",
+        "similarity_excluded": "No",
+        "score": 2,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9ILVFRQXRnRU9MaXJVbDVEWjd0V1JXM1VIbUdiM19vdkV5Vk1UOWxmeEZKV2dtMzhYR0FJa1BjRWkwMjJoTHhqNDR3NDVnajA1TEVIVmVIUUJ6OUVmMTVaZ1M1Zw?oc=5",
+        "date": "2026-01-09",
+        "title": "Flash flood threat increases for the South, as major storms bring severe weather risk to millions | Latest Weather Clips - FOX Weather",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE9ILVFRQXRnRU9MaXJVbDVEWjd0V1JXM1VIbUdiM19vdkV5Vk1UOWxmeEZKV2dtMzhYR0FJa1BjRWkwMjJoTHhqNDR3NDVnajA1TEVIVmVIUUJ6OUVmMTVaZ1M1Zw?oc=5\" target=\"_blank\">Flash flood threat increases for the South, as major storms bring severe weather risk to millions | Latest Weather Clips</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FOX Weather</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZk9sV1E3cTJuWEwwdWV1czlzSkJoWXhBZk85dzlEMGRjS0VPOU90Yk9YWnZhM2Z6TTJkMllXQ21KXzRKb3JEakkxNnBzWnBUejNGNlFvek82VnRPOUJDTWtyZW84OFU5MGVqNDgtVGpGQm82WkU2bERMN1RQWmhhSWxR?oc=5",
+        "date": "2026-01-09",
+        "title": "Amber flood warning in place following Storm Goretti hitting Somerset - Yahoo News UK",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxOZk9sV1E3cTJuWEwwdWV1czlzSkJoWXhBZk85dzlEMGRjS0VPOU90Yk9YWnZhM2Z6TTJkMllXQ21KXzRKb3JEakkxNnBzWnBUejNGNlFvek82VnRPOUJDTWtyZW84OFU5MGVqNDgtVGpGQm82WkU2bERMN1RQWmhhSWxR?oc=5\" target=\"_blank\">Amber flood warning in place following Storm Goretti hitting Somerset</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo News UK</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPcENSMDdDdjdCZEhhc2hpcnlGU0M2aTlMQjh0bkVPUmhkUHdPRm5uamIwbThYdVUwU0FJelFzUlc5YnhreTRPNUtLSzBLTDY1ME9iWnY3N0kzQXhidXRmRmV6Qi1XU2wwLVIxemZpNVB3UUc3dTFXM1Z3Mnlhd2I1Ujc4RUdRZ2o5V2c?oc=5",
+        "date": "2026-01-09",
+        "title": "Post-Tropical Cyclone Priscilla poses threat of Southwest flash flooding - AOL.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxPcENSMDdDdjdCZEhhc2hpcnlGU0M2aTlMQjh0bkVPUmhkUHdPRm5uamIwbThYdVUwU0FJelFzUlc5YnhreTRPNUtLSzBLTDY1ME9iWnY3N0kzQXhidXRmRmV6Qi1XU2wwLVIxemZpNVB3UUc3dTFXM1Z3Mnlhd2I1Ujc4RUdRZ2o5V2c?oc=5\" target=\"_blank\">Post-Tropical Cyclone Priscilla poses threat of Southwest flash flooding</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AOL.com</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
     }
 ]
