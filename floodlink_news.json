@@ -6205,5 +6205,25 @@
         "score": 8,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQcFdFdzJybGlhV2NYZUUwUHVyb191LU9BVl96UVpwXzFwclhXdVdYWnZsM2YwYnZLWlZ5TTNfQi1rdWViem80cFBfTG51V2VSM3dIdUNJTTNXdHEzcDhJcVpCdE9mdnNPVFd3cFh6M2g2YTZtSGdPNExJbXVrbURzTEJIa2U3RENCTEx0bkJTUlZrellKbFliNlVvbXh4eW9QZENYLUlDVG0yRndaQzU4TUpOZWx5WXdPNWdvb1JOdHRYTFJGS3FQOC1fQ1VKaTFMTktNTTlhbHNvdw?oc=5",
+        "date": "2026-01-10",
+        "title": "Road closures reported as heavy rain affects parts of north, west Georgia - 11Alive.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxQcFdFdzJybGlhV2NYZUUwUHVyb191LU9BVl96UVpwXzFwclhXdVdYWnZsM2YwYnZLWlZ5TTNfQi1rdWViem80cFBfTG51V2VSM3dIdUNJTTNXdHEzcDhJcVpCdE9mdnNPVFd3cFh6M2g2YTZtSGdPNExJbXVrbURzTEJIa2U3RENCTEx0bkJTUlZrellKbFliNlVvbXh4eW9QZENYLUlDVG0yRndaQzU4TUpOZWx5WXdPNWdvb1JOdHRYTFJGS3FQOC1fQ1VKaTFMTktNTTlhbHNvdw?oc=5\" target=\"_blank\">Road closures reported as heavy rain affects parts of north, west Georgia</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">11Alive.com</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE52R3VWYTBvTVpsdk84VndBeW1pdE5qVVpPQzFhd0lHMVljOFhSaW9CcXFOeVctTlZwMUZFLTZnR2d6UmR1RVRIanpNZmxlYWtjWEdmTjJ3bnNNdGlWbFdCdWxBSDg3S28?oc=5",
+        "date": "2026-01-10",
+        "title": "Heavy storms, flood risk expected across Israel starting Monday night - Ynetnews",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE52R3VWYTBvTVpsdk84VndBeW1pdE5qVVpPQzFhd0lHMVljOFhSaW9CcXFOeVctTlZwMUZFLTZnR2d6UmR1RVRIanpNZmxlYWtjWEdmTjJ3bnNNdGlWbFdCdWxBSDg3S28?oc=5\" target=\"_blank\">Heavy storms, flood risk expected across Israel starting Monday night</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Ynetnews</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
     }
 ]
