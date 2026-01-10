@@ -5739,5 +5739,13 @@
         "score": 7,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-01-10",
+        "status": "posted",
+        "tweet": "\ud83c\uddef\ud83c\uddf5 Tokyo's Metropolitan Area Outer Underground Discharge Channel holds 670,000 cubic meters of stormwater in its massive retention tanks, shielding the city from typhoon-induced flooding in a basin home to 14 million people.",
+        "type": "infrastructure",
+        "tweet_id": "2009843350430724283"
     }
 ]
