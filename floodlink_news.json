@@ -6025,5 +6025,25 @@
         "score": 0,
         "status": "skipped",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUmluVTc1TnJ5eVFsZkt4QnpHTnhhZzJOckdoMlEycnJxTnlZV011RzFUV1JwbDJMMmsxOTF6cTJvZDNhTGY4LXpCNHhzckx2ZmVOM2Vna3FxR3kxZTlKT3dpT3R1b0k4MUdfaE1EOWpqOXM3VWtMTDI3cEMtb3J5MTVFNDdBVnF6RGVIaFZoOU9FVWtLOWFYeDZB?oc=5",
+        "date": "2026-01-10",
+        "title": "Flash flooding swamps streets, neighborhoods, prompts rescues - The Enterprise Journal",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNUmluVTc1TnJ5eVFsZkt4QnpHTnhhZzJOckdoMlEycnJxTnlZV011RzFUV1JwbDJMMmsxOTF6cTJvZDNhTGY4LXpCNHhzckx2ZmVOM2Vna3FxR3kxZTlKT3dpT3R1b0k4MUdfaE1EOWpqOXM3VWtMTDI3cEMtb3J5MTVFNDdBVnF6RGVIaFZoOU9FVWtLOWFYeDZB?oc=5\" target=\"_blank\">Flash flooding swamps streets, neighborhoods, prompts rescues</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Enterprise Journal</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNREdVQi1HY0g5ZElfcDFPejFFREJlSUtHdkNQaVpDcGFDcVlFM3JaRWpkN3RPbWJvNS1DcUN2WHE1U1M1ZU1pbThpVHVnWlY4bjlJbmliSnVVVV9qVlhjV0JWTjd0ZHRNRGhRNi1rYl84RFh5QVJDNHpLSnNCb2lPUEdLQ2k5VlR3SWFYalNwMC0tNEU0RVFHalRJV0xXY1Vyc05NQ2lTSjdfOF84aUpUdEJCd3RQaEVoaGFJM3RDU1BETG82RzNfM1ZMMmhyOTY4R3JoRGxR?oc=5",
+        "date": "2026-01-10",
+        "title": "Chilton County placed under a flood advisory until Saturday midday due to excessive rainfall - AL.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxNREdVQi1HY0g5ZElfcDFPejFFREJlSUtHdkNQaVpDcGFDcVlFM3JaRWpkN3RPbWJvNS1DcUN2WHE1U1M1ZU1pbThpVHVnWlY4bjlJbmliSnVVVV9qVlhjV0JWTjd0ZHRNRGhRNi1rYl84RFh5QVJDNHpLSnNCb2lPUEdLQ2k5VlR3SWFYalNwMC0tNEU0RVFHalRJV0xXY1Vyc05NQ2lTSjdfOF84aUpUdEJCd3RQaEVoaGFJM3RDU1BETG82RzNfM1ZMMmhyOTY4R3JoRGxR?oc=5\" target=\"_blank\">Chilton County placed under a flood advisory until Saturday midday due to excessive rainfall</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AL.com</font>",
+        "similarity_excluded": "No",
+        "score": 6,
+        "status": "processed",
+        "tweet": null
     }
 ]
