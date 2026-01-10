@@ -5897,5 +5897,14 @@
         "score": 0,
         "status": "skipped",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-01-10",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 In 2025, US dams & levees protected 25M people from flash floods, averting $12B losses.  \n\ud83c\uddf3\ud83c\uddf1 Netherlands: Same period, reservoirs & dikes shielded 90% of 17M population from storm surge, limiting damages to $2B.",
+        "type": "statistical",
+        "category": "dams, levees and reservoirs used for flood control",
+        "tweet_id": "2009897214311849992"
     }
 ]
