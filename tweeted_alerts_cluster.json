@@ -867,7 +867,7 @@
     "rain_mm": 42.25,
     "soil_moisture": 0.692,
     "raw_dynamic_score": 6.904,
-    "last_updated": "2026-01-10T03:57:00.498173Z",
+    "last_updated": "2026-01-10T06:23:10.589173Z",
     "last_tweeted_at": "2026-01-10T03:57:00.498173Z",
     "tweet_id": "2009836889126392106",
     "resolved": false
@@ -882,7 +882,7 @@
     "rain_mm": 71.56,
     "soil_moisture": 0.654,
     "raw_dynamic_score": 11.449,
-    "last_updated": "2026-01-10T03:57:00.498173Z",
+    "last_updated": "2026-01-10T06:23:10.589173Z",
     "last_tweeted_at": "2026-01-10T03:57:00.498173Z",
     "tweet_id": "2009837141984194686",
     "resolved": false
@@ -897,7 +897,7 @@
     "rain_mm": 39.88,
     "soil_moisture": 0.724,
     "raw_dynamic_score": 6.633,
-    "last_updated": "2026-01-10T03:57:00.498173Z",
+    "last_updated": "2026-01-10T06:23:10.589173Z",
     "last_tweeted_at": "2026-01-10T03:57:00.498173Z",
     "tweet_id": "2009837394854629837",
     "resolved": false
@@ -912,7 +912,7 @@
     "rain_mm": 66.81,
     "soil_moisture": 0.743,
     "raw_dynamic_score": 11.226,
-    "last_updated": "2026-01-10T03:57:00.498173Z",
+    "last_updated": "2026-01-10T06:23:10.589173Z",
     "last_tweeted_at": "2026-01-10T03:57:00.498173Z",
     "tweet_id": "2009837647607541860",
     "resolved": false
@@ -927,9 +927,24 @@
     "rain_mm": 45.81,
     "soil_moisture": 0.686,
     "raw_dynamic_score": 7.462,
-    "last_updated": "2026-01-10T03:57:00.498173Z",
+    "last_updated": "2026-01-10T06:23:10.589173Z",
     "last_tweeted_at": "2026-01-10T03:57:00.498173Z",
     "tweet_id": "2009837900255637591",
+    "resolved": false
+  },
+  "-25.4022,32.8072": {
+    "country": "Mozambique",
+    "name": "Manhiça",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": -25.40222,
+    "longitude": 32.80722,
+    "rain_mm": 43.5,
+    "soil_moisture": 0.571,
+    "raw_dynamic_score": 6.633,
+    "last_updated": "2026-01-10T06:23:10.589173Z",
+    "last_tweeted_at": "2026-01-10T06:23:10.589173Z",
+    "tweet_id": "2009873677232566674",
     "resolved": false
   }
 }
