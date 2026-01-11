@@ -6432,5 +6432,14 @@
         "score": 0,
         "status": "skipped",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-01-11",
+        "status": "posted",
+        "tweet": "In 2026, ~2B people globally live in floodplains, at risk from floods, flash floods, storm surges & extreme rainfall (UN projections).\n\nTop 5 countries by exposed population:\n1. \ud83c\uddee\ud83c\uddf3 India: 540M\n2. \ud83c\udde8\ud83c\uddf3 China: 320M\n3. \ud83c\udde7\ud83c\udde9 Bangladesh: 120M\n4. \ud83c\uddfa\ud83c\uddf8 USA: 85M\n5. \ud83c\uddee\ud83c\udde9 Indonesia: 75M",
+        "type": "statistical",
+        "category": "population living in floodplains",
+        "tweet_id": "2010334573331099832"
     }
 ]
