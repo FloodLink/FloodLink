@@ -6373,5 +6373,14 @@
         "score": 0,
         "status": "skipped",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-01-11",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 US coastal cities: Extreme rainfall events up 40% from 2020-2023, exposing 15M more people to flash floods by 2026 projections.  \n\ud83c\uddea\ud83c\uddfa European cities: Only 20% rise, with 8M additional at risk\u2014better infrastructure key. (Source: NOAA/ECMWF)",
+        "type": "statistical",
+        "category": "extreme rainfall trends in major cities",
+        "tweet_id": "2010241154869277133"
     }
 ]
