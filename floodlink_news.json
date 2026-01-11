@@ -6528,5 +6528,15 @@
             "longitude": null,
             "confidence": 0.8
         }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNdzF0bldjb1pRNTV5ZHY0S2VCS3NTU3k1Q1E3b0tIUmF5ZzdTR2YyVHlnY01qbl9NS0Z5VTAwWENvRld3eW5VTGl1X0xIdHRiM2EwbkczU2RZM0RnYXl3YlZSeWU2RDZ2V1ZqRTlEWWVUbWFfMnFpcWppME9mZll5NjhJMGpYTVJXT2Z5aDZPbWcyUXV2NDROZzZ6TVVsdEd6dWtFX3NOVGpnTWNlb0tBM0dNS09xTkxqNTdVVXcwd05nTmZsYzhXTGJMbXBfcnBoR0w0SmxVQjVGYmQwR1hxR0FnLXdmc1M3?oc=5",
+        "date": "2026-01-11",
+        "title": "East coast hammered by weather extremes as residents battle bushfires and flash flooding - 7NEWS",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxNdzF0bldjb1pRNTV5ZHY0S2VCS3NTU3k1Q1E3b0tIUmF5ZzdTR2YyVHlnY01qbl9NS0Z5VTAwWENvRld3eW5VTGl1X0xIdHRiM2EwbkczU2RZM0RnYXl3YlZSeWU2RDZ2V1ZqRTlEWWVUbWFfMnFpcWppME9mZll5NjhJMGpYTVJXT2Z5aDZPbWcyUXV2NDROZzZ6TVVsdEd6dWtFX3NOVGpnTWNlb0tBM0dNS09xTkxqNTdVVXcwd05nTmZsYzhXTGJMbXBfcnBoR0w0SmxVQjVGYmQwR1hxR0FnLXdmc1M3?oc=5\" target=\"_blank\">East coast hammered by weather extremes as residents battle bushfires and flash flooding</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">7NEWS</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
     }
 ]
