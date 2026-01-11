@@ -1430,7 +1430,7 @@
     "rain_mm": 42.69,
     "soil_moisture": 0.657,
     "raw_dynamic_score": 6.84,
-    "last_updated": "2026-01-11T18:22:20.869918Z",
+    "last_updated": "2026-01-11T21:15:26.870491Z",
     "last_tweeted_at": "2026-01-11T18:22:20.869918Z",
     "tweet_id": "2010417048233431117",
     "resolved": false
@@ -1463,6 +1463,51 @@
     "last_updated": "2026-01-11T18:22:20.869918Z",
     "last_tweeted_at": "2026-01-11T18:22:20.869918Z",
     "tweet_id": "2010439974840090650",
+    "resolved": false
+  },
+  "-8.5365,118.4634": {
+    "country": "Indonesia",
+    "name": "Dompu",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": -8.5365,
+    "longitude": 118.4634,
+    "rain_mm": 50.5,
+    "soil_moisture": 0.746,
+    "raw_dynamic_score": 8.499,
+    "last_updated": "2026-01-11T21:15:26.870491Z",
+    "last_tweeted_at": "2026-01-11T21:15:26.870491Z",
+    "tweet_id": "2010460608815083794",
+    "resolved": false
+  },
+  "-9.1061,124.8925": {
+    "country": "Indonesia",
+    "name": "Atambua",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": -9.10611,
+    "longitude": 124.8925,
+    "rain_mm": 43.19,
+    "soil_moisture": 0.636,
+    "raw_dynamic_score": 6.841,
+    "last_updated": "2026-01-11T21:15:26.870491Z",
+    "last_tweeted_at": "2026-01-11T21:15:26.870491Z",
+    "tweet_id": "2010460861257671130",
+    "resolved": false
+  },
+  "-8.9917,125.2197": {
+    "country": "Timor-Leste",
+    "name": "Maliana",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": -8.99167,
+    "longitude": 125.21972,
+    "rain_mm": 53.0,
+    "soil_moisture": 0.617,
+    "raw_dynamic_score": 8.303,
+    "last_updated": "2026-01-11T21:15:26.870491Z",
+    "last_tweeted_at": "2026-01-11T21:15:26.870491Z",
+    "tweet_id": "2010461113700237403",
     "resolved": false
   }
 }
