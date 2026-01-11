@@ -494,22 +494,6 @@
     "tweet_id": "2009513864291910039",
     "resolved": false
   },
-  "-2.8833,108.2667": {
-    "country": "Indonesia",
-    "name": "Manggar",
-    "risk_level": "None",
-    "tweeted_level": "None",
-    "latitude": -2.88333,
-    "longitude": 108.26667,
-    "rain_mm": 0.0,
-    "soil_moisture": 1.0,
-    "raw_dynamic_score": 0.0,
-    "last_updated": "2026-01-10T09:16:32.249725Z",
-    "last_tweeted_at": "2026-01-10T09:16:32.249725Z",
-    "tweet_id": "2009917807710892046",
-    "resolved": true,
-    "resolved_at": "2026-01-10T09:16:32.249725Z"
-  },
   "-30.9443,-59.7883": {
     "country": "Argentina",
     "name": "Santa Elena",
@@ -1370,7 +1354,7 @@
     "rain_mm": 47.69,
     "soil_moisture": 0.575,
     "raw_dynamic_score": 7.289,
-    "last_updated": "2026-01-11T06:24:28.202739Z",
+    "last_updated": "2026-01-11T09:16:59.068628Z",
     "last_tweeted_at": "2026-01-11T06:24:28.202739Z",
     "tweet_id": "2010269536314880319",
     "resolved": false
@@ -1433,6 +1417,21 @@
     "last_updated": "2026-01-11T06:24:28.202739Z",
     "last_tweeted_at": "2026-01-11T06:24:28.202739Z",
     "tweet_id": "2010269536314880319",
+    "resolved": false
+  },
+  "-0.6985,-80.0925": {
+    "country": "Ecuador",
+    "name": "Chone",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": -0.6985,
+    "longitude": -80.0925,
+    "rain_mm": 43.75,
+    "soil_moisture": 0.667,
+    "raw_dynamic_score": 7.05,
+    "last_updated": "2026-01-11T09:16:59.068628Z",
+    "last_tweeted_at": "2026-01-11T09:16:59.068628Z",
+    "tweet_id": "2010279807016407130",
     "resolved": false
   }
 }
