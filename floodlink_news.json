@@ -6892,5 +6892,14 @@
         "score": 0,
         "status": "skipped",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-01-12",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 NYC: 1.8M people exposed to pluvial flooding by 2026, up 30% from 2020 levels.  \n\ud83c\udde8\ud83c\uddf3 Shanghai: 2.5M exposed, a 25% rise\u2014dense cities face escalating flash flood risks from extreme rainfall.",
+        "type": "statistical",
+        "category": "pluvial (surface) flooding in dense cities",
+        "tweet_id": "2010761907859288425"
     }
 ]
