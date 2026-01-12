@@ -7018,5 +7018,14 @@
             "longitude": -123.3,
             "confidence": 0.95
         }
+    },
+    {
+        "link": null,
+        "date": "2026-01-12",
+        "status": "posted",
+        "tweet": "By 2030, extreme rainfall and storm surges could overwhelm 20% of global flood control dams and levees, exposing 300 million more people to flash floods\u2014up from 2020 baselines.",
+        "type": "statistical",
+        "category": "dams, levees and reservoirs used for flood control",
+        "tweet_id": "2010791500804661551"
     }
 ]
