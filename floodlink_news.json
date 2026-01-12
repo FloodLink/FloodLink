@@ -7152,5 +7152,52 @@
         "score": 4,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNb2RHYXkwc3JTWUZVNi1ILUJ6U0tMa3g0UzNNUHJkazVYNHJuVHA4U1hlTVFTR3dnX3g1SFBHYjVFcWRrWmFKZDRDSjJ5TklmS2RWRDdNQ2d3bmtwelk0NFAxeXQwQ0RlaGNBZWJQVUpVNmdSeERMTFJqd2R4azN1aUlsWFR2Y2ZFanViWjE1bVBIRE0zQ0ZaRm4wZEk0elVEZndPMjhjRQ?oc=5",
+        "date": "2026-01-12",
+        "title": "Martindale Road near Parksville floods after heavy rain - Vancouver Island Free Daily",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNb2RHYXkwc3JTWUZVNi1ILUJ6U0tMa3g0UzNNUHJkazVYNHJuVHA4U1hlTVFTR3dnX3g1SFBHYjVFcWRrWmFKZDRDSjJ5TklmS2RWRDdNQ2d3bmtwelk0NFAxeXQwQ0RlaGNBZWJQVUpVNmdSeERMTFJqd2R4azN1aUlsWFR2Y2ZFanViWjE1bVBIRE0zQ0ZaRm4wZEk0elVEZndPMjhjRQ?oc=5\" target=\"_blank\">Martindale Road near Parksville floods after heavy rain</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Vancouver Island Free Daily</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSEhzbVlqYktDSU03TnNSR2VFT3lLVjhKWEpXMXFXXzdKT04xakdkTzFDSm80MmgxZm1uaGd2M1VpRzFoNEd6aTJzdlhwTG1MWjJoVW9DcDI5QUY0cGxsUi1sZlhjVkoxZFpzN1VvdUV1Y19WOU1INlFpOVN0dktVM2tDcVRnaXNk?oc=5",
+        "date": "2026-01-12",
+        "title": "Central Queensland has been hit by record-breaking rainfall and flash flooding as ex-tropical cyclone Koji moves inland. - facebook.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSEhzbVlqYktDSU03TnNSR2VFT3lLVjhKWEpXMXFXXzdKT04xakdkTzFDSm80MmgxZm1uaGd2M1VpRzFoNEd6aTJzdlhwTG1MWjJoVW9DcDI5QUY0cGxsUi1sZlhjVkoxZFpzN1VvdUV1Y19WOU1INlFpOVN0dktVM2tDcVRnaXNk?oc=5\" target=\"_blank\">Central Queensland has been hit by record-breaking rainfall and flash flooding as ex-tropical cyclone Koji moves inland.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">facebook.com</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": null,
+        "tweet_id": "2010863515955794417",
+        "geo": {
+            "country": "Australia",
+            "name": "Central Queensland",
+            "latitude": -23.38,
+            "longitude": 150.47,
+            "confidence": 0.95
+        }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSEhzbVlqYktDSU03TnNSR2VFT3lLVjhKWEpXMXFXXzdKT04xakdkTzFDSm80MmgxZm1uaGd2M1VpRzFoNEd6aTJzdlhwTG1MWjJoVW9DcDI5QUY0cGxsUi1sZlhjVkoxZFpzN1VvdUV1Y19WOU1INlFpOVN0dktVM2tDcVRnaXNk?oc=5",
+        "date": "2026-01-12",
+        "title": "Central Queensland has been hit by record-breaking rainfall and flash flooding as ex-tropical cyclone Koji moves inland. - facebook.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSEhzbVlqYktDSU03TnNSR2VFT3lLVjhKWEpXMXFXXzdKT04xakdkTzFDSm80MmgxZm1uaGd2M1VpRzFoNEd6aTJzdlhwTG1MWjJoVW9DcDI5QUY0cGxsUi1sZlhjVkoxZFpzN1VvdUV1Y19WOU1INlFpOVN0dktVM2tDcVRnaXNk?oc=5\" target=\"_blank\">Central Queensland has been hit by record-breaking rainfall and flash flooding as ex-tropical cyclone Koji moves inland.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">facebook.com</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "posted",
+        "tweet": "\ud83c\udde6\ud83c\uddfa POST-EVENT Central Queensland: Flash flooding from record-breaking rainfall as ex-tropical cyclone Koji moves inland. (facebook.com)",
+        "type": "news",
+        "tweet_id": "2010863515955794417",
+        "geo": {
+            "country": "Australia",
+            "name": "Central Queensland",
+            "latitude": -23.38,
+            "longitude": 150.47,
+            "confidence": 0.95
+        }
     }
 ]
