@@ -7122,5 +7122,25 @@
         "tweet": "\ud83c\uddf3\ud83c\uddf1 The Netherlands' flood defense system includes 26,000 km of dikes and levees, protecting 60% of the population\u2014about 10 million people\u2014from coastal and river flooding.",
         "type": "infrastructure",
         "tweet_id": "2010833433711558762"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZG4wd2sxNUh4TkJkZFZmc3h1YUNJYTVYSHhvOWRxTlVqVVNzZE5XaFBDdkNldHgxSHdIS1VCQWhEMTNhMUNGSlI5bDBuNEpXeDZoT0hDZUpWOWY2NExLdU92ZDVyTEs1ZXRQM1loWkc3bXk1b2ZWZGhXZ05zTThIeXN4enpMZE1HZlV3SDliYktoaXRTekVQODBTNA?oc=5",
+        "date": "2026-01-12",
+        "title": "Parksville campground ordered to evacuate as heavy rain brings flooding to B.C.\u2019s South Coast - CBC",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPZG4wd2sxNUh4TkJkZFZmc3h1YUNJYTVYSHhvOWRxTlVqVVNzZE5XaFBDdkNldHgxSHdIS1VCQWhEMTNhMUNGSlI5bDBuNEpXeDZoT0hDZUpWOWY2NExLdU92ZDVyTEs1ZXRQM1loWkc3bXk1b2ZWZGhXZ05zTThIeXN4enpMZE1HZlV3SDliYktoaXRTekVQODBTNA?oc=5\" target=\"_blank\">Parksville campground ordered to evacuate as heavy rain brings flooding to B.C.\u2019s South Coast</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CBC</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNMW1SRTRMRWFIUHIwVU83M1lWSEhpTV9yTFNCVFlRVVUxa2wzcFkzQmE5aDNNWGl0OTBZZHktRkpFZS1MZHZiTHliSk9VZm1ZeGQ1X0ZtZUlXN0VPNjVhUmlzS3hKbkFPZ0tHSzNJWklRNWVFbnZibjZ3LU5qc0RKbjdOd2NDWjJUT2RtbE9kWWU?oc=5",
+        "date": "2026-01-12",
+        "title": "Martindale Road near Parksville floods after heavy rain - Parksville Qualicum News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNMW1SRTRMRWFIUHIwVU83M1lWSEhpTV9yTFNCVFlRVVUxa2wzcFkzQmE5aDNNWGl0OTBZZHktRkpFZS1MZHZiTHliSk9VZm1ZeGQ1X0ZtZUlXN0VPNjVhUmlzS3hKbkFPZ0tHSzNJWklRNWVFbnZibjZ3LU5qc0RKbjdOd2NDWjJUT2RtbE9kWWU?oc=5\" target=\"_blank\">Martindale Road near Parksville floods after heavy rain</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Parksville Qualicum News</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
     }
 ]
