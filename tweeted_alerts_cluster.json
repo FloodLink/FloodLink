@@ -509,22 +509,6 @@
     "tweet_id": "2009556796235710828",
     "resolved": false
   },
-  "5.0790,115.5496": {
-    "country": "Malaysia",
-    "name": "Sipitang",
-    "risk_level": "Low",
-    "tweeted_level": "Low",
-    "latitude": 5.07903,
-    "longitude": 115.54964,
-    "rain_mm": 1.94,
-    "soil_moisture": 1.0,
-    "raw_dynamic_score": 0.371,
-    "last_updated": "2026-01-11T01:16:31.985436Z",
-    "last_tweeted_at": "2026-01-11T01:16:31.985436Z",
-    "tweet_id": "2010164424385159641",
-    "resolved": true,
-    "resolved_at": "2026-01-11T01:16:31.985436Z"
-  },
   "-9.2953,-75.9957": {
     "country": "Peru",
     "name": "Tingo María",
@@ -569,38 +553,6 @@
     "last_tweeted_at": "2026-01-09T15:18:29.605157Z",
     "tweet_id": "2009657616591413572",
     "resolved": false
-  },
-  "5.5714,115.5984": {
-    "country": "Malaysia",
-    "name": "Kuala Penyu",
-    "risk_level": "Low",
-    "tweeted_level": "Low",
-    "latitude": 5.5714,
-    "longitude": 115.5984,
-    "rain_mm": 0.44,
-    "soil_moisture": 1.0,
-    "raw_dynamic_score": 0.084,
-    "last_updated": "2026-01-11T01:16:31.985436Z",
-    "last_tweeted_at": "2026-01-11T01:16:31.985436Z",
-    "tweet_id": "2010164424385159641",
-    "resolved": true,
-    "resolved_at": "2026-01-11T01:16:31.985436Z"
-  },
-  "5.3473,115.7455": {
-    "country": "Malaysia",
-    "name": "Beaufort",
-    "risk_level": "Low",
-    "tweeted_level": "Low",
-    "latitude": 5.3473,
-    "longitude": 115.7455,
-    "rain_mm": 2.19,
-    "soil_moisture": 0.632,
-    "raw_dynamic_score": 0.346,
-    "last_updated": "2026-01-11T01:16:31.985436Z",
-    "last_tweeted_at": "2026-01-11T01:16:31.985436Z",
-    "tweet_id": "2010164424385159641",
-    "resolved": true,
-    "resolved_at": "2026-01-11T01:16:31.985436Z"
   },
   "5.2803,115.2475": {
     "country": "Malaysia",
@@ -1445,7 +1397,7 @@
     "rain_mm": 46.69,
     "soil_moisture": 0.575,
     "raw_dynamic_score": 7.136,
-    "last_updated": "2026-01-11T18:22:20.869918Z",
+    "last_updated": "2026-01-12T01:17:34.088172Z",
     "last_tweeted_at": "2026-01-11T18:22:20.869918Z",
     "tweet_id": "2010417301204644213",
     "resolved": false
@@ -1460,7 +1412,7 @@
     "rain_mm": 46.69,
     "soil_moisture": 0.575,
     "raw_dynamic_score": 7.136,
-    "last_updated": "2026-01-11T18:22:20.869918Z",
+    "last_updated": "2026-01-12T01:17:34.088172Z",
     "last_tweeted_at": "2026-01-11T18:22:20.869918Z",
     "tweet_id": "2010439974840090650",
     "resolved": false
@@ -1475,7 +1427,7 @@
     "rain_mm": 50.5,
     "soil_moisture": 0.746,
     "raw_dynamic_score": 8.499,
-    "last_updated": "2026-01-11T21:15:26.870491Z",
+    "last_updated": "2026-01-12T01:17:34.088172Z",
     "last_tweeted_at": "2026-01-11T21:15:26.870491Z",
     "tweet_id": "2010460608815083794",
     "resolved": false
@@ -1490,7 +1442,7 @@
     "rain_mm": 43.19,
     "soil_moisture": 0.636,
     "raw_dynamic_score": 6.841,
-    "last_updated": "2026-01-11T21:15:26.870491Z",
+    "last_updated": "2026-01-12T01:17:34.088172Z",
     "last_tweeted_at": "2026-01-11T21:15:26.870491Z",
     "tweet_id": "2010460861257671130",
     "resolved": false
@@ -1505,9 +1457,24 @@
     "rain_mm": 53.0,
     "soil_moisture": 0.617,
     "raw_dynamic_score": 8.303,
-    "last_updated": "2026-01-11T21:15:26.870491Z",
+    "last_updated": "2026-01-12T01:17:34.088172Z",
     "last_tweeted_at": "2026-01-11T21:15:26.870491Z",
     "tweet_id": "2010461113700237403",
+    "resolved": false
+  },
+  "49.2413,-124.8028": {
+    "country": "Canada",
+    "name": "Port Alberni",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 49.24133,
+    "longitude": -124.8028,
+    "rain_mm": 43.25,
+    "soil_moisture": 0.658,
+    "raw_dynamic_score": 6.936,
+    "last_updated": "2026-01-12T01:17:34.088172Z",
+    "last_tweeted_at": "2026-01-12T01:17:34.088172Z",
+    "tweet_id": "2010521541419893179",
     "resolved": false
   }
 }
