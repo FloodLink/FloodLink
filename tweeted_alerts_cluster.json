@@ -1473,7 +1473,7 @@
     "rain_mm": 43.25,
     "soil_moisture": 0.658,
     "raw_dynamic_score": 6.936,
-    "last_updated": "2026-01-12T01:17:34.088172Z",
+    "last_updated": "2026-01-12T09:28:07.551867Z",
     "last_tweeted_at": "2026-01-12T01:17:34.088172Z",
     "tweet_id": "2010521541419893179",
     "resolved": false
@@ -1611,6 +1611,21 @@
     "last_updated": "2026-01-12T06:29:04.386202Z",
     "last_tweeted_at": "2026-01-12T06:29:04.386202Z",
     "tweet_id": "2010599936749129776",
+    "resolved": false
+  },
+  "-7.3589,109.9031": {
+    "country": "Indonesia",
+    "name": "Wonosobo",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": -7.35889,
+    "longitude": 109.90306,
+    "rain_mm": 40.69,
+    "soil_moisture": 0.664,
+    "raw_dynamic_score": 6.548,
+    "last_updated": "2026-01-12T09:28:07.551867Z",
+    "last_tweeted_at": "2026-01-12T09:28:07.551867Z",
+    "tweet_id": "2010644994269347908",
     "resolved": false
   }
 }
