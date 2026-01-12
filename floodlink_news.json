@@ -6812,5 +6812,45 @@
             "longitude": 98.11,
             "confidence": 0.8
         }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5tcHJMaVpoZmh6U0g0ZHR3TldNRloxS1VreEhEbGtTektFZV82eUJIYTN0OGdLNU40cmVLbEhTVDdWSzVDVElxbnRMQ0ZqenlfbFpxT1lKME9jd9IBX0FVX3lxTFBWaGdQa0JUOGk0XzEtVVFRSGw0amRfTU51RjhSMWhaZW55T0F5aHlyeEloNGtTLXpINldSYmt5SkpIQUdxX0pZSnJ2ZnBtRGUzY2J5blRVZUFYSTYwdExz?oc=5",
+        "date": "2026-01-12",
+        "title": "Roads closed as heavy rain causes flooding - BBC",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE5tcHJMaVpoZmh6U0g0ZHR3TldNRloxS1VreEhEbGtTektFZV82eUJIYTN0OGdLNU40cmVLbEhTVDdWSzVDVElxbnRMQ0ZqenlfbFpxT1lKME9jd9IBX0FVX3lxTFBWaGdQa0JUOGk0XzEtVVFRSGw0amRfTU51RjhSMWhaZW55T0F5aHlyeEloNGtTLXpINldSYmt5SkpIQUdxX0pZSnJ2ZnBtRGUzY2J5blRVZUFYSTYwdExz?oc=5\" target=\"_blank\">Roads closed as heavy rain causes flooding</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
+        "similarity_excluded": "No",
+        "score": 6,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMG9yY2s2NGt4dmo1T1owV2JubjJCV2ZvNGIzQzVKaklrVjVIT0tPR3JLTjV4Sjl1YWZaQjhGclBmeTFNeWJUbmJ5ODJRT01hRmYtRzNDRTBmNV9tZVVscVVKekRqZ1RwMnhxekNqSU9HMzZXN0F2V2owWFVKVTJpXzdVd3FabVREWjR0X1E4QW4tVDJiaFFfQXRySlpqSi13TEpONUNZajI2QVNmMTZKelIycUg?oc=5",
+        "date": "2026-01-12",
+        "title": "Ice warning after heavy rain and melting snow causes flood disruption - The Independent",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPMG9yY2s2NGt4dmo1T1owV2JubjJCV2ZvNGIzQzVKaklrVjVIT0tPR3JLTjV4Sjl1YWZaQjhGclBmeTFNeWJUbmJ5ODJRT01hRmYtRzNDRTBmNV9tZVVscVVKekRqZ1RwMnhxekNqSU9HMzZXN0F2V2owWFVKVTJpXzdVd3FabVREWjR0X1E4QW4tVDJiaFFfQXRySlpqSi13TEpONUNZajI2QVNmMTZKelIycUg?oc=5\" target=\"_blank\">Ice warning after heavy rain and melting snow causes flood disruption</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Independent</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQ3llUDJTRVJmel9YNV83aGxqNjRVeFZKRmJSNmZYb3VxdmN2bFNqVDNYanNyUVN6UHJCZlJCQkh5WjV5emJfVGhUU3QyZjloWjByUW85bXgxWEZteGM2WWxlRmRiWDhVT2UzdFZaR0dlei1pNFpFRGd6a1VnVFZrUFdFOWxsbjJXeEppWUMxTFNjbHRXTzZrTHBXT0Y?oc=5",
+        "date": "2026-01-12",
+        "title": "Torrential Rains Bring Parts of World\u2019s Largest City to a Standstill - Jakarta Globe",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxOQ3llUDJTRVJmel9YNV83aGxqNjRVeFZKRmJSNmZYb3VxdmN2bFNqVDNYanNyUVN6UHJCZlJCQkh5WjV5emJfVGhUU3QyZjloWjByUW85bXgxWEZteGM2WWxlRmRiWDhVT2UzdFZaR0dlei1pNFpFRGd6a1VnVFZrUFdFOWxsbjJXeEppWUMxTFNjbHRXTzZrTHBXT0Y?oc=5\" target=\"_blank\">Torrential Rains Bring Parts of World\u2019s Largest City to a Standstill</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Jakarta Globe</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNQVJIMlYyNF9JMzVMbDZ5UWRCMnZFdmZ4WTJXbkNvNWRMaHN3dDNWYjUzelRfQ2tWLUFMTkp5YzhXRWxuZTJBNTZORmw0UHVnM1hZNG5veXZib3ZYaGVhZEV3UlB0eXhRRHRZQlJzVDR6VkVHWkp0N0dyR0ZhU3dncjRjRTJYc2diZmNnenI5b3BfYXE4U0RBSjg2U0UzVGpCSkJHTnNrSEYzdmdqOWhremxRbFZlbHpJejBfZ3RuZ01ldw?oc=5",
+        "date": "2026-01-12",
+        "title": "Tropical Cyclone Koji brings severe flooding across north and central Queensland, Australia - The Watchers - Watching the world evolve and transform",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxNQVJIMlYyNF9JMzVMbDZ5UWRCMnZFdmZ4WTJXbkNvNWRMaHN3dDNWYjUzelRfQ2tWLUFMTkp5YzhXRWxuZTJBNTZORmw0UHVnM1hZNG5veXZib3ZYaGVhZEV3UlB0eXhRRHRZQlJzVDR6VkVHWkp0N0dyR0ZhU3dncjRjRTJYc2diZmNnenI5b3BfYXE4U0RBSjg2U0UzVGpCSkJHTnNrSEYzdmdqOWhremxRbFZlbHpJejBfZ3RuZ01ldw?oc=5\" target=\"_blank\">Tropical Cyclone Koji brings severe flooding across north and central Queensland, Australia</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Watchers - Watching the world evolve and transform</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
     }
 ]
