@@ -1472,10 +1472,18 @@
     "rain_mm": 78.94,
     "soil_moisture": 0.741,
     "raw_dynamic_score": 13.249,
-    "last_updated": "2026-01-13T09:24:28.037365Z",
+    "last_updated": "2026-01-13T12:40:53.665491Z",
     "last_tweeted_at": "2026-01-13T09:24:28.037365Z",
     "tweet_id": "2011010240762777661",
-    "resolved": false
+    "resolved": false,
+    "pending_downgrade": true,
+    "pending_target_level": "Low",
+    "pending_set_at": "2026-01-13T12:40:53.665491Z",
+    "pending_is_region": false,
+    "pending_observed_level": "Low",
+    "pending_observed_rain_mm": 6.06,
+    "pending_observed_soil_moisture": 0.651,
+    "pending_observed_raw_dynamic_score": 0.968
   },
   "35.9975,45.8853": {
     "country": "Islamic Republic of Iran",
@@ -1487,9 +1495,39 @@
     "rain_mm": 43.25,
     "soil_moisture": 0.6,
     "raw_dynamic_score": 6.71,
-    "last_updated": "2026-01-13T09:24:28.037365Z",
+    "last_updated": "2026-01-13T12:40:53.665491Z",
     "last_tweeted_at": "2026-01-13T09:24:28.037365Z",
     "tweet_id": "2011010493297656096",
+    "resolved": false
+  },
+  "-6.0344,-76.9742": {
+    "country": "Peru",
+    "name": "Moyobamba",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": -6.03441,
+    "longitude": -76.97423,
+    "rain_mm": 41.31,
+    "soil_moisture": 0.738,
+    "raw_dynamic_score": 6.923,
+    "last_updated": "2026-01-13T12:40:53.665491Z",
+    "last_tweeted_at": "2026-01-13T12:40:53.665491Z",
+    "tweet_id": "2011055894184997357",
+    "resolved": false
+  },
+  "-7.0561,-76.5911": {
+    "country": "Peru",
+    "name": "Bellavista",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": -7.05614,
+    "longitude": -76.5911,
+    "rain_mm": 39.25,
+    "soil_moisture": 0.736,
+    "raw_dynamic_score": 6.572,
+    "last_updated": "2026-01-13T12:40:53.665491Z",
+    "last_tweeted_at": "2026-01-13T12:40:53.665491Z",
+    "tweet_id": "2011055894184997357",
     "resolved": false
   }
 }
