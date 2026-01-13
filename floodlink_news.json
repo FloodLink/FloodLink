@@ -7325,5 +7325,42 @@
         "score": 0,
         "status": "skipped",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOQlduRElBUXVXOVo3OTNqTTAwM3lQRU1CSHJSQlh4Snd6blRoR1dENURkMjJiYmh5ZnV4RHBBdlNoYjlhbzlHMHl5YlUtbkRSRjVUXzlXR01UM0VTbzFXTFA5WTBaUnZVRnpyTUo4QWRtOWYyNlJZdGZFYXBYem04VzJYZ2d5OHBlRTNZa2VzYWJnSXEteXVwZXNYOA?oc=5",
+        "date": "2026-01-13",
+        "title": "At least 13 killed in eastern DR Congo landslide: Report - Anadolu Ajans\u0131",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOQlduRElBUXVXOVo3OTNqTTAwM3lQRU1CSHJSQlh4Snd6blRoR1dENURkMjJiYmh5ZnV4RHBBdlNoYjlhbzlHMHl5YlUtbkRSRjVUXzlXR01UM0VTbzFXTFA5WTBaUnZVRnpyTUo4QWRtOWYyNlJZdGZFYXBYem04VzJYZ2d5OHBlRTNZa2VzYWJnSXEteXVwZXNYOA?oc=5\" target=\"_blank\">At least 13 killed in eastern DR Congo landslide: Report</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Anadolu Ajans\u0131</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": null,
+        "tweet_id": "2011147619758678031",
+        "geo": {
+            "country": "Democratic Republic of the Congo",
+            "name": "Eastern DR Congo",
+            "latitude": -1.0,
+            "longitude": 29.0,
+            "confidence": 0.7
+        }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOQlduRElBUXVXOVo3OTNqTTAwM3lQRU1CSHJSQlh4Snd6blRoR1dENURkMjJiYmh5ZnV4RHBBdlNoYjlhbzlHMHl5YlUtbkRSRjVUXzlXR01UM0VTbzFXTFA5WTBaUnZVRnpyTUo4QWRtOWYyNlJZdGZFYXBYem04VzJYZ2d5OHBlRTNZa2VzYWJnSXEteXVwZXNYOA?oc=5",
+        "date": "2026-01-13",
+        "title": "At least 13 killed in eastern DR Congo landslide: Report - Anadolu Ajans\u0131",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOQlduRElBUXVXOVo3OTNqTTAwM3lQRU1CSHJSQlh4Snd6blRoR1dENURkMjJiYmh5ZnV4RHBBdlNoYjlhbzlHMHl5YlUtbkRSRjVUXzlXR01UM0VTbzFXTFA5WTBaUnZVRnpyTUo4QWRtOWYyNlJZdGZFYXBYem04VzJYZ2d5OHBlRTNZa2VzYWJnSXEteXVwZXNYOA?oc=5\" target=\"_blank\">At least 13 killed in eastern DR Congo landslide: Report</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Anadolu Ajans\u0131</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "posted",
+        "tweet": "\ud83c\udde8\ud83c\udde9 POST-EVENT Eastern DR Congo: At least 13 killed in landslide from heavy rain. (Anadolu Ajans\u0131)",
+        "type": "news",
+        "tweet_id": "2011147619758678031",
+        "geo": {
+            "country": "Democratic Republic of the Congo",
+            "name": "Eastern DR Congo",
+            "latitude": -1.0,
+            "longitude": 29.0,
+            "confidence": 0.7
+        }
     }
 ]
