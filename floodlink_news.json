@@ -7362,5 +7362,42 @@
             "longitude": 29.0,
             "confidence": 0.7
         }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOa09ac2pfY0RTYnh4RTRjMFdXTjhDLTdyWTFyMU1Za01tbDhMWUtlUkZqYzR0Z0wtNk1hY2E0RWlCR2FuakV3ajYwUjJKNzZZZGNrSmpyR01VNzRhWHhsTXhFSDlDQmZMYUhPN1BIeFlLeVNpVXpENUhQbkVaNDF4OGMtbUJDQ09mOUFGOHloZjVFeGUwSjlvNm1PWTBNb0RqRHVXZFhheDdNUQ?oc=5",
+        "date": "2026-01-13",
+        "title": "Survival tales from flood-hit Clermont as ex-TC Koji recovery begins - Australian Broadcasting Corporation",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxOa09ac2pfY0RTYnh4RTRjMFdXTjhDLTdyWTFyMU1Za01tbDhMWUtlUkZqYzR0Z0wtNk1hY2E0RWlCR2FuakV3ajYwUjJKNzZZZGNrSmpyR01VNzRhWHhsTXhFSDlDQmZMYUhPN1BIeFlLeVNpVXpENUhQbkVaNDF4OGMtbUJDQ09mOUFGOHloZjVFeGUwSjlvNm1PWTBNb0RqRHVXZFhheDdNUQ?oc=5\" target=\"_blank\">Survival tales from flood-hit Clermont as ex-TC Koji recovery begins</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Australian Broadcasting Corporation</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": null,
+        "tweet_id": "2011181328188989749",
+        "geo": {
+            "country": "Australia",
+            "name": "Clermont, Queensland",
+            "latitude": -22.8222,
+            "longitude": 147.6406,
+            "confidence": 0.95
+        }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOa09ac2pfY0RTYnh4RTRjMFdXTjhDLTdyWTFyMU1Za01tbDhMWUtlUkZqYzR0Z0wtNk1hY2E0RWlCR2FuakV3ajYwUjJKNzZZZGNrSmpyR01VNzRhWHhsTXhFSDlDQmZMYUhPN1BIeFlLeVNpVXpENUhQbkVaNDF4OGMtbUJDQ09mOUFGOHloZjVFeGUwSjlvNm1PWTBNb0RqRHVXZFhheDdNUQ?oc=5",
+        "date": "2026-01-13",
+        "title": "Survival tales from flood-hit Clermont as ex-TC Koji recovery begins - Australian Broadcasting Corporation",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxOa09ac2pfY0RTYnh4RTRjMFdXTjhDLTdyWTFyMU1Za01tbDhMWUtlUkZqYzR0Z0wtNk1hY2E0RWlCR2FuakV3ajYwUjJKNzZZZGNrSmpyR01VNzRhWHhsTXhFSDlDQmZMYUhPN1BIeFlLeVNpVXpENUhQbkVaNDF4OGMtbUJDQ09mOUFGOHloZjVFeGUwSjlvNm1PWTBNb0RqRHVXZFhheDdNUQ?oc=5\" target=\"_blank\">Survival tales from flood-hit Clermont as ex-TC Koji recovery begins</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Australian Broadcasting Corporation</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "posted",
+        "tweet": "\ud83c\udde6\ud83c\uddfa POST-EVENT Clermont: Flood from ex-TC Koji causes damage; survival tales shared as recovery begins. (ABC)",
+        "type": "news",
+        "tweet_id": "2011181328188989749",
+        "geo": {
+            "country": "Australia",
+            "name": "Clermont, Queensland",
+            "latitude": -22.8222,
+            "longitude": 147.6406,
+            "confidence": 0.95
+        }
     }
 ]
