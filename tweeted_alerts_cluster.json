@@ -1469,7 +1469,7 @@
     "rain_mm": 41.38,
     "soil_moisture": 0.663,
     "raw_dynamic_score": 6.653,
-    "last_updated": "2026-01-12T18:25:24.266918Z",
+    "last_updated": "2026-01-13T06:26:18.962700Z",
     "last_tweeted_at": "2026-01-12T18:25:24.266918Z",
     "tweet_id": "2010780202935239091",
     "resolved": false
@@ -1484,18 +1484,18 @@
     "rain_mm": 107.31,
     "soil_moisture": 0.766,
     "raw_dynamic_score": 18.259,
-    "last_updated": "2026-01-12T21:16:34.556195Z",
+    "last_updated": "2026-01-13T06:26:18.962700Z",
     "last_tweeted_at": "2026-01-12T18:25:24.266918Z",
     "tweet_id": "2010780455411286216",
     "resolved": false,
     "pending_downgrade": true,
-    "pending_target_level": "Medium",
-    "pending_set_at": "2026-01-12T21:16:34.556195Z",
+    "pending_target_level": "Low",
+    "pending_set_at": "2026-01-13T06:26:18.962700Z",
     "pending_is_region": false,
-    "pending_observed_level": "Medium",
-    "pending_observed_rain_mm": 53.94,
-    "pending_observed_soil_moisture": 0.751,
-    "pending_observed_raw_dynamic_score": 9.1
+    "pending_observed_level": "Low",
+    "pending_observed_rain_mm": 8.19,
+    "pending_observed_soil_moisture": 0.704,
+    "pending_observed_raw_dynamic_score": 1.347
   },
   "7.0002,-76.2691": {
     "country": "Colombia",
@@ -1507,7 +1507,7 @@
     "rain_mm": 45.44,
     "soil_moisture": 0.725,
     "raw_dynamic_score": 7.561,
-    "last_updated": "2026-01-12T21:16:34.556195Z",
+    "last_updated": "2026-01-13T06:26:18.962700Z",
     "last_tweeted_at": "2026-01-12T21:16:34.556195Z",
     "tweet_id": "2010823283860533375",
     "resolved": false
@@ -1522,9 +1522,24 @@
     "rain_mm": 45.44,
     "soil_moisture": 0.536,
     "raw_dynamic_score": 6.786,
-    "last_updated": "2026-01-12T21:16:34.556195Z",
+    "last_updated": "2026-01-13T06:26:18.962700Z",
     "last_tweeted_at": "2026-01-12T21:16:34.556195Z",
     "tweet_id": "2010823536416354618",
+    "resolved": false
+  },
+  "-1.8049,-79.5249": {
+    "country": "Ecuador",
+    "name": "Babahoyo",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": -1.80493,
+    "longitude": -79.52492,
+    "rain_mm": 41.94,
+    "soil_moisture": 0.712,
+    "raw_dynamic_score": 6.928,
+    "last_updated": "2026-01-13T06:26:18.962700Z",
+    "last_tweeted_at": "2026-01-13T06:26:18.962700Z",
+    "tweet_id": "2010961630306447669",
     "resolved": false
   }
 }
