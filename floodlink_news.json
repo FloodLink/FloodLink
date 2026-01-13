@@ -7237,5 +7237,14 @@
         "score": 0,
         "status": "skipped",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-01-13",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 US dams, levees & reservoirs cut 2024-2025 flood losses by $15B, protecting 12M from extreme rainfall\u201445% better than 2020-2023 unprotected regions.  \n\ud83c\udde8\ud83c\uddf3 China's Three Gorges system shielded 20M from 2025 flash floods, averting $25B in damages vs. pre-2020 baselines.",
+        "type": "statistical",
+        "category": "dams, levees and reservoirs used for flood control",
+        "tweet_id": "2011030491151900823"
     }
 ]
