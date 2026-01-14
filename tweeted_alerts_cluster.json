@@ -1727,16 +1727,16 @@
   "-21.1534,149.1655": {
     "country": "Australia",
     "name": "Mackay",
-    "risk_level": "Medium",
-    "tweeted_level": "Medium",
+    "risk_level": "High",
+    "tweeted_level": "High",
     "latitude": -21.15345,
     "longitude": 149.16554,
-    "rain_mm": 43.0,
+    "rain_mm": 98.44,
     "soil_moisture": 1.0,
-    "raw_dynamic_score": 8.224,
-    "last_updated": "2026-01-14T18:25:52.820331Z",
-    "last_tweeted_at": "2026-01-14T18:25:52.820331Z",
-    "tweet_id": "2011505105925976550",
+    "raw_dynamic_score": 18.826,
+    "last_updated": "2026-01-14T21:17:46.088031Z",
+    "last_tweeted_at": "2026-01-14T21:17:46.088031Z",
+    "tweet_id": "2011548353046159777",
     "resolved": false
   },
   "-22.5231,-44.1042": {
@@ -1749,7 +1749,7 @@
     "rain_mm": 46.12,
     "soil_moisture": 0.64,
     "raw_dynamic_score": 7.323,
-    "last_updated": "2026-01-14T18:25:52.820331Z",
+    "last_updated": "2026-01-14T21:17:46.088031Z",
     "last_tweeted_at": "2026-01-14T18:25:52.820331Z",
     "tweet_id": "2011505358372511751",
     "resolved": false
@@ -1854,7 +1854,7 @@
     "rain_mm": 46.56,
     "soil_moisture": 0.636,
     "raw_dynamic_score": 7.374,
-    "last_updated": "2026-01-14T18:25:52.820331Z",
+    "last_updated": "2026-01-14T21:17:46.088031Z",
     "last_tweeted_at": "2026-01-14T18:25:52.820331Z",
     "tweet_id": "2011505611318423672",
     "resolved": false
