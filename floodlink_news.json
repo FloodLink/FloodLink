@@ -7608,5 +7608,15 @@
             "longitude": null,
             "confidence": 0.8
         }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE84UGlOMzY0V1JRSlRrSmlIMXBGVHc1MllxQURXLU8tZU8xZkpoamFaRlRJMldCUnZjUThUNVpuenh5RV9HamtDS1JxcFNfS19pVTJ3cENWVnRHMFBEcUZheFdEcFIxZ3V3VVVjYWlxZ1BjdnRrcjZxaEliaWs0Z0k?oc=5",
+        "date": "2026-01-14",
+        "title": "\u2018Swollen\u2019: Grim flood warning for states - Yahoo News Australia",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE84UGlOMzY0V1JRSlRrSmlIMXBGVHc1MllxQURXLU8tZU8xZkpoamFaRlRJMldCUnZjUThUNVpuenh5RV9HamtDS1JxcFNfS19pVTJ3cENWVnRHMFBEcUZheFdEcFIxZ3V3VVVjYWlxZ1BjdnRrcjZxaEliaWs0Z0k?oc=5\" target=\"_blank\">\u2018Swollen\u2019: Grim flood warning for states</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo News Australia</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
     }
 ]
