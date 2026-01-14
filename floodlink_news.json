@@ -7696,5 +7696,35 @@
         "score": 0,
         "status": "skipped",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOaDExTXp4dlZVU2MwbGJybWdNd0hQdHZCSURra1pNZlVGSVFpZzVqeEJVYjhHWWdmZkFMRHBhaVNOWXUzUHVXV3J1c21zWUxLb1RvTmowRFJReTFXYUpYYzJjdDRtY3l0WjBndVhiSF92RXh1cU9jVE1sUFdmQjV1Szl3LVkybXh2cEZYbkxrV2tGbEZHdExvWUFncERwWEM2RVlHN1V2MDV2a1JneXhoemVIeVNpUGpnQ3lPaWVqcFRMLTY3a21DRzF1dmdRQmstakRwanI0UkR2M1RSMXlJ?oc=5",
+        "date": "2026-01-14",
+        "title": "Heavy rain is set to continue in much of Australia as severe thunderstorms threaten to swamp some major cities into the next working week. - Facebook",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxOaDExTXp4dlZVU2MwbGJybWdNd0hQdHZCSURra1pNZlVGSVFpZzVqeEJVYjhHWWdmZkFMRHBhaVNOWXUzUHVXV3J1c21zWUxLb1RvTmowRFJReTFXYUpYYzJjdDRtY3l0WjBndVhiSF92RXh1cU9jVE1sUFdmQjV1Szl3LVkybXh2cEZYbkxrV2tGbEZHdExvWUFncERwWEM2RVlHN1V2MDV2a1JneXhoemVIeVNpUGpnQ3lPaWVqcFRMLTY3a21DRzF1dmdRQmstakRwanI0UkR2M1RSMXlJ?oc=5\" target=\"_blank\">Heavy rain is set to continue in much of Australia as severe thunderstorms threaten to swamp some major cities into the next working week.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Facebook</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVm9fZjhMblBlZDVXcE9oNE1MemFGVjZLT1E3Y2kyam5VYnJIQktVOHcwOGZyS0N0dEl6azdyXzY1VklRVHlKRmV1YzB3SGwyQ1FUaVNTS3lKbXZQU1dnWTlaeTBtWmdPSHB0d1BuR050a2tmNGZZejkxeVJ0VmJIS3N3Y1hPTnJUNHdReXdmWi1nSWZ4MEcyVDlrNENpTzY3ZGxHSGZjLW43QV9lSHc?oc=5",
+        "date": "2026-01-14",
+        "title": "Flood warning for London as capital to be hit by deluge of rain - London Evening Standard",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPVm9fZjhMblBlZDVXcE9oNE1MemFGVjZLT1E3Y2kyam5VYnJIQktVOHcwOGZyS0N0dEl6azdyXzY1VklRVHlKRmV1YzB3SGwyQ1FUaVNTS3lKbXZQU1dnWTlaeTBtWmdPSHB0d1BuR050a2tmNGZZejkxeVJ0VmJIS3N3Y1hPTnJUNHdReXdmWi1nSWZ4MEcyVDlrNENpTzY3ZGxHSGZjLW43QV9lSHc?oc=5\" target=\"_blank\">Flood warning for London as capital to be hit by deluge of rain</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">London Evening Standard</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOeTExeHdxS2hpTXp5RTRwLTc1aS1INjk5MGY3cDl5TF8yZXdXZk1ZaVl0RHBHWFNPaTc4Um9Zdmo3Z0huNXVOZ3ZLblFNdVVxVW5LdVdMT0p6b3JUV25fOU5DNk00Qm16WUpqTUFBRkp3OXpEdDVWZmlVZjR3MjZiaGhuOGE5NUhNU1Y3bmhzQ3RzbmhMVjFDdjdRemtYTmZlbmRfOGVTRXhnbzBKZnZRZA?oc=5",
+        "date": "2026-01-14",
+        "title": "Soaking ahead for Australia's eastern seaboard following heatwave - Australian Broadcasting Corporation",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOeTExeHdxS2hpTXp5RTRwLTc1aS1INjk5MGY3cDl5TF8yZXdXZk1ZaVl0RHBHWFNPaTc4Um9Zdmo3Z0huNXVOZ3ZLblFNdVVxVW5LdVdMT0p6b3JUV25fOU5DNk00Qm16WUpqTUFBRkp3OXpEdDVWZmlVZjR3MjZiaGhuOGE5NUhNU1Y3bmhzQ3RzbmhMVjFDdjdRemtYTmZlbmRfOGVTRXhnbzBKZnZRZA?oc=5\" target=\"_blank\">Soaking ahead for Australia's eastern seaboard following heatwave</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Australian Broadcasting Corporation</font>",
+        "similarity_excluded": "No",
+        "score": 4,
+        "status": "processed",
+        "tweet": null
     }
 ]
