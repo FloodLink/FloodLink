@@ -7523,5 +7523,14 @@
             "longitude": -99.3,
             "confidence": 0.9
         }
+    },
+    {
+        "link": null,
+        "date": "2026-01-14",
+        "status": "posted",
+        "tweet": "By 2030, extreme monsoon rainfall in Asia could surge 25% above 2020 levels, exposing 400 million more people to floods and flash floods. \ud83c\uddee\ud83c\uddf3\ud83c\uddf5\ud83c\uddf0\ud83c\udde7\ud83c\udde9\ud83c\uddf9\ud83c\udded",
+        "type": "statistical",
+        "category": "monsoon flood patterns in Asia",
+        "tweet_id": "2011287857818648713"
     }
 ]
