@@ -1522,5 +1522,20 @@
     "last_tweeted_at": "2026-01-13T12:40:53.665491Z",
     "tweet_id": "2011055894184997357",
     "resolved": false
+  },
+  "-23.8878,30.2871": {
+    "country": "South Africa",
+    "name": "Nkowakowa",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": -23.88782,
+    "longitude": 30.28708,
+    "rain_mm": 43.31,
+    "soil_moisture": 0.617,
+    "raw_dynamic_score": 6.786,
+    "last_updated": "2026-01-14T01:12:15.554726Z",
+    "last_tweeted_at": "2026-01-14T01:12:15.554726Z",
+    "tweet_id": "2011244981541843306",
+    "resolved": false
   }
 }
