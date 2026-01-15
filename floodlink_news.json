@@ -7832,5 +7832,52 @@
             "longitude": 153.03,
             "confidence": 1.0
         }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbWQ1YmJTV0M5dGE3amp1Vlg1cEg3ZVhWenA3b2xlX09GckRUY1drWWJ6RlhrYzlpUDZiRktvS3J3enBrMmRYc2RQel9yUlZMUlg0NWV0ZTlha0phdXI4TEstWkYzQ2ZvWFI0QVRsbGRtSkdCYXU1MGo5MGR6US1QbnRDa2l5b2NIdEhxRnpZMTU2bTQwSWpBMTVRYjZlSnR6Nkt5eDU4RVRBdnRtbjFJRzE4TEFfa2M?oc=5",
+        "date": "2026-01-15",
+        "title": "Flash flooding hits Victoria\u2019s Great Ocean Road as cars washed out to sea - The Guardian",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPbWQ1YmJTV0M5dGE3amp1Vlg1cEg3ZVhWenA3b2xlX09GckRUY1drWWJ6RlhrYzlpUDZiRktvS3J3enBrMmRYc2RQel9yUlZMUlg0NWV0ZTlha0phdXI4TEstWkYzQ2ZvWFI0QVRsbGRtSkdCYXU1MGo5MGR6US1QbnRDa2l5b2NIdEhxRnpZMTU2bTQwSWpBMTVRYjZlSnR6Nkt5eDU4RVRBdnRtbjFJRzE4TEFfa2M?oc=5\" target=\"_blank\">Flash flooding hits Victoria\u2019s Great Ocean Road as cars washed out to sea</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPY1V1aWdpV19udkdWTkVlZVpZNWZxTC15dFFGbDJUVnRjeDg4azlzZEstQVBpLVl0VTVWczlFNlRQSlBQMVRYYTB0YjFpRUVBeHJkSm9udUNJX1ZWZmo4TjN4TVprZGRqOE5Wc1VEZUh0U0ZOT3dzSGJ4Y3FwNk9BcmVidUVzZFZ1SXJKRHFWOWN1SkhKOE9ZYmNjVEt4TVdBbFk4N19DcTdoREVtNFdHdQ?oc=5",
+        "date": "2026-01-15",
+        "title": "Cars washed to sea, rain record smashed in Great Ocean Road deluge - Australian Broadcasting Corporation",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPY1V1aWdpV19udkdWTkVlZVpZNWZxTC15dFFGbDJUVnRjeDg4azlzZEstQVBpLVl0VTVWczlFNlRQSlBQMVRYYTB0YjFpRUVBeHJkSm9udUNJX1ZWZmo4TjN4TVprZGRqOE5Wc1VEZUh0U0ZOT3dzSGJ4Y3FwNk9BcmVidUVzZFZ1SXJKRHFWOWN1SkhKOE9ZYmNjVEt4TVdBbFk4N19DcTdoREVtNFdHdQ?oc=5\" target=\"_blank\">Cars washed to sea, rain record smashed in Great Ocean Road deluge</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Australian Broadcasting Corporation</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": null,
+        "tweet_id": "2011679367198335159",
+        "geo": {
+            "country": "Australia",
+            "name": "Great Ocean Road",
+            "latitude": -38.5,
+            "longitude": 143.5,
+            "confidence": 0.95
+        }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPY1V1aWdpV19udkdWTkVlZVpZNWZxTC15dFFGbDJUVnRjeDg4azlzZEstQVBpLVl0VTVWczlFNlRQSlBQMVRYYTB0YjFpRUVBeHJkSm9udUNJX1ZWZmo4TjN4TVprZGRqOE5Wc1VEZUh0U0ZOT3dzSGJ4Y3FwNk9BcmVidUVzZFZ1SXJKRHFWOWN1SkhKOE9ZYmNjVEt4TVdBbFk4N19DcTdoREVtNFdHdQ?oc=5",
+        "date": "2026-01-15",
+        "title": "Cars washed to sea, rain record smashed in Great Ocean Road deluge - Australian Broadcasting Corporation",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPY1V1aWdpV19udkdWTkVlZVpZNWZxTC15dFFGbDJUVnRjeDg4azlzZEstQVBpLVl0VTVWczlFNlRQSlBQMVRYYTB0YjFpRUVBeHJkSm9udUNJX1ZWZmo4TjN4TVprZGRqOE5Wc1VEZUh0U0ZOT3dzSGJ4Y3FwNk9BcmVidUVzZFZ1SXJKRHFWOWN1SkhKOE9ZYmNjVEt4TVdBbFk4N19DcTdoREVtNFdHdQ?oc=5\" target=\"_blank\">Cars washed to sea, rain record smashed in Great Ocean Road deluge</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Australian Broadcasting Corporation</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "posted",
+        "tweet": "\ud83c\udde6\ud83c\uddfa POST-EVENT Great Ocean Road: Flash flood from record deluge washes cars to sea, smashes rainfall records.",
+        "type": "news",
+        "tweet_id": "2011679367198335159",
+        "geo": {
+            "country": "Australia",
+            "name": "Great Ocean Road",
+            "latitude": -38.5,
+            "longitude": 143.5,
+            "confidence": 0.95
+        }
     }
 ]
