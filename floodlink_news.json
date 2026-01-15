@@ -7879,5 +7879,52 @@
             "longitude": 143.5,
             "confidence": 0.95
         }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBhSTJKa2dTRThfelNrbXJfN243WlJLcGJXTktTNHA3Y2lzc2MxMHduZGJhNWpLTEhhU0dVR1ZSbVFZQzdid3BVNzhYU3BXcXNYWEJjUENpaFgyd9IBX0FVX3lxTE9Cc3o4b004UEw0dUQxZGdFNHhaSllYdEJ1NHVFRGZGSlFCbDVSSlVSOWZTem94WWt2VnB5LUFWcEhNT3lsUzdVcVhvTFB2VjhPd2ZOdEgwWFY0V3FSTVdz?oc=5",
+        "date": "2026-01-15",
+        "title": "Met Office Yellow heavy rain warning issued for southern England - BBC",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTFBhSTJKa2dTRThfelNrbXJfN243WlJLcGJXTktTNHA3Y2lzc2MxMHduZGJhNWpLTEhhU0dVR1ZSbVFZQzdid3BVNzhYU3BXcXNYWEJjUENpaFgyd9IBX0FVX3lxTE9Cc3o4b004UEw0dUQxZGdFNHhaSllYdEJ1NHVFRGZGSlFCbDVSSlVSOWZTem94WWt2VnB5LUFWcEhNT3lsUzdVcVhvTFB2VjhPd2ZOdEgwWFY0V3FSTVdz?oc=5\" target=\"_blank\">Met Office Yellow heavy rain warning issued for southern England</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMEFYRW5QdGhxbzNaaFIzTHpLTUNHbTNnN0lvSTVBUkZjZzJadXBMMzduZnR3OVNkcEdxeERlRDRtU1NKcThWblo5alJCb05STFJUaTRrSHd3QnkxYzEzZi0xRnljX0daMnhyVGNJX3FSbms2NVcza1lYelZIMk9lLU5xVmttZHZRVjVERlBGcV9Wb1Ria1dCRDFDVURZSXJ4QjVTald30gGrAUFVX3lxTE5TZGlPVERfeVVuVElLeU54dC1fZ1VFcUI1WHRqYVZZbEF2NVNMNFh3eDdUN1RSb2N5WnA0ZDNRT1ZQZDY1YWJ1MjRWdGp6RnNzN0FCT2NmUGNVcHlYN01OUjEzTzd3WXppRTExSDB6Zk85SEdDT3hsc3RJSEc1cVJGWlhuMi1kSzZxNmwyZ3pSVUJuYV9ZTklvRmtHOGxWNkdJWXdqQmxPZzgtQQ?oc=5",
+        "date": "2026-01-15",
+        "title": "Cars swept out to sea by flash floods in Wye River as popular caravan parks are urgently evacuated: 'Unbelievable' - Daily Mail",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxOMEFYRW5QdGhxbzNaaFIzTHpLTUNHbTNnN0lvSTVBUkZjZzJadXBMMzduZnR3OVNkcEdxeERlRDRtU1NKcThWblo5alJCb05STFJUaTRrSHd3QnkxYzEzZi0xRnljX0daMnhyVGNJX3FSbms2NVcza1lYelZIMk9lLU5xVmttZHZRVjVERlBGcV9Wb1Ria1dCRDFDVURZSXJ4QjVTald30gGrAUFVX3lxTE5TZGlPVERfeVVuVElLeU54dC1fZ1VFcUI1WHRqYVZZbEF2NVNMNFh3eDdUN1RSb2N5WnA0ZDNRT1ZQZDY1YWJ1MjRWdGp6RnNzN0FCT2NmUGNVcHlYN01OUjEzTzd3WXppRTExSDB6Zk85SEdDT3hsc3RJSEc1cVJGWlhuMi1kSzZxNmwyZ3pSVUJuYV9ZTklvRmtHOGxWNkdJWXdqQmxPZzgtQQ?oc=5\" target=\"_blank\">Cars swept out to sea by flash floods in Wye River as popular caravan parks are urgently evacuated: 'Unbelievable'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Daily Mail</font>",
+        "similarity_excluded": "No",
+        "score": 10,
+        "status": "processed",
+        "tweet": null,
+        "tweet_id": "2011691896867791251",
+        "geo": {
+            "country": "Australia",
+            "name": "Wye River",
+            "latitude": -38.633,
+            "longitude": 143.883,
+            "confidence": 1.0
+        }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMEFYRW5QdGhxbzNaaFIzTHpLTUNHbTNnN0lvSTVBUkZjZzJadXBMMzduZnR3OVNkcEdxeERlRDRtU1NKcThWblo5alJCb05STFJUaTRrSHd3QnkxYzEzZi0xRnljX0daMnhyVGNJX3FSbms2NVcza1lYelZIMk9lLU5xVmttZHZRVjVERlBGcV9Wb1Ria1dCRDFDVURZSXJ4QjVTald30gGrAUFVX3lxTE5TZGlPVERfeVVuVElLeU54dC1fZ1VFcUI1WHRqYVZZbEF2NVNMNFh3eDdUN1RSb2N5WnA0ZDNRT1ZQZDY1YWJ1MjRWdGp6RnNzN0FCT2NmUGNVcHlYN01OUjEzTzd3WXppRTExSDB6Zk85SEdDT3hsc3RJSEc1cVJGWlhuMi1kSzZxNmwyZ3pSVUJuYV9ZTklvRmtHOGxWNkdJWXdqQmxPZzgtQQ?oc=5",
+        "date": "2026-01-15",
+        "title": "Cars swept out to sea by flash floods in Wye River as popular caravan parks are urgently evacuated: 'Unbelievable' - Daily Mail",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxOMEFYRW5QdGhxbzNaaFIzTHpLTUNHbTNnN0lvSTVBUkZjZzJadXBMMzduZnR3OVNkcEdxeERlRDRtU1NKcThWblo5alJCb05STFJUaTRrSHd3QnkxYzEzZi0xRnljX0daMnhyVGNJX3FSbms2NVcza1lYelZIMk9lLU5xVmttZHZRVjVERlBGcV9Wb1Ria1dCRDFDVURZSXJ4QjVTald30gGrAUFVX3lxTE5TZGlPVERfeVVuVElLeU54dC1fZ1VFcUI1WHRqYVZZbEF2NVNMNFh3eDdUN1RSb2N5WnA0ZDNRT1ZQZDY1YWJ1MjRWdGp6RnNzN0FCT2NmUGNVcHlYN01OUjEzTzd3WXppRTExSDB6Zk85SEdDT3hsc3RJSEc1cVJGWlhuMi1kSzZxNmwyZ3pSVUJuYV9ZTklvRmtHOGxWNkdJWXdqQmxPZzgtQQ?oc=5\" target=\"_blank\">Cars swept out to sea by flash floods in Wye River as popular caravan parks are urgently evacuated: 'Unbelievable'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Daily Mail</font>",
+        "similarity_excluded": "No",
+        "score": 10,
+        "status": "posted",
+        "tweet": "\ud83c\udde6\ud83c\uddfa POST-EVENT Wye River: Flash floods sweep cars out to sea as popular caravan parks are urgently evacuated. (Daily Mail)",
+        "type": "news",
+        "tweet_id": "2011691896867791251",
+        "geo": {
+            "country": "Australia",
+            "name": "Wye River",
+            "latitude": -38.633,
+            "longitude": 143.883,
+            "confidence": 1.0
+        }
     }
 ]
