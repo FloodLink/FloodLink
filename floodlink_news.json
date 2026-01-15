@@ -7926,5 +7926,14 @@
             "longitude": 143.883,
             "confidence": 1.0
         }
+    },
+    {
+        "link": null,
+        "date": "2026-01-15",
+        "status": "posted",
+        "tweet": "Asia's coastal cities face 6x higher exposure to storm surge flooding than North America's: 300M people at risk by 2030 vs 50M.\n\nProjections show a 40% rise in extreme rainfall-driven flash floods for both regions since 2020.",
+        "type": "statistical",
+        "category": "coastal cities at risk from sea-level rise and storm surge",
+        "tweet_id": "2011709246203744749"
     }
 ]
