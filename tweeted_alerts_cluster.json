@@ -1734,10 +1734,18 @@
     "rain_mm": 98.44,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 18.826,
-    "last_updated": "2026-01-14T21:17:46.088031Z",
+    "last_updated": "2026-01-15T01:08:27.146202Z",
     "last_tweeted_at": "2026-01-14T21:17:46.088031Z",
     "tweet_id": "2011548353046159777",
-    "resolved": false
+    "resolved": false,
+    "pending_downgrade": true,
+    "pending_target_level": "Medium",
+    "pending_set_at": "2026-01-15T01:08:27.146202Z",
+    "pending_is_region": false,
+    "pending_observed_level": "Medium",
+    "pending_observed_rain_mm": 46.75,
+    "pending_observed_soil_moisture": 1.0,
+    "pending_observed_raw_dynamic_score": 8.941
   },
   "-22.5231,-44.1042": {
     "country": "Brazil",
