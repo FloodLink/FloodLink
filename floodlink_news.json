@@ -8152,5 +8152,42 @@
         "score": 0,
         "status": "skipped",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVjBTS2EwSEE1RkM3QWxibFVwX0FmR0R4U005NzNiOWtBR01wbjFKWjEzUVFsQk5zektvWjU4M253RnFlNkFXUTEtYTRYcFJmbjFUNVdIcFE0MVZFVU1pNmFRQUpSMWNOTmE3UUtyUDZTWUR3X1I5TDdOTURCbXZET2ZnU2VLOGlJV1RxMGJRY0ZTT1FpT0pBbFduazMzZE5rTWE1MjM4aVU5cE5IUWhzbA?oc=5",
+        "date": "2026-01-15",
+        "title": "South Africa Closes Kruger Park as Deadly Floods Kill Dozens - Bloomberg.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNVjBTS2EwSEE1RkM3QWxibFVwX0FmR0R4U005NzNiOWtBR01wbjFKWjEzUVFsQk5zektvWjU4M253RnFlNkFXUTEtYTRYcFJmbjFUNVdIcFE0MVZFVU1pNmFRQUpSMWNOTmE3UUtyUDZTWUR3X1I5TDdOTURCbXZET2ZnU2VLOGlJV1RxMGJRY0ZTT1FpT0pBbFduazMzZE5rTWE1MjM4aVU5cE5IUWhzbA?oc=5\" target=\"_blank\">South Africa Closes Kruger Park as Deadly Floods Kill Dozens</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
+        "similarity_excluded": "No",
+        "score": 10,
+        "status": "processed",
+        "tweet": null,
+        "tweet_id": "2011816148635898247",
+        "geo": {
+            "country": "South Africa",
+            "name": "Kruger National Park",
+            "latitude": -23.9833,
+            "longitude": 31.4833,
+            "confidence": 0.95
+        }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVjBTS2EwSEE1RkM3QWxibFVwX0FmR0R4U005NzNiOWtBR01wbjFKWjEzUVFsQk5zektvWjU4M253RnFlNkFXUTEtYTRYcFJmbjFUNVdIcFE0MVZFVU1pNmFRQUpSMWNOTmE3UUtyUDZTWUR3X1I5TDdOTURCbXZET2ZnU2VLOGlJV1RxMGJRY0ZTT1FpT0pBbFduazMzZE5rTWE1MjM4aVU5cE5IUWhzbA?oc=5",
+        "date": "2026-01-15",
+        "title": "South Africa Closes Kruger Park as Deadly Floods Kill Dozens - Bloomberg.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNVjBTS2EwSEE1RkM3QWxibFVwX0FmR0R4U005NzNiOWtBR01wbjFKWjEzUVFsQk5zektvWjU4M253RnFlNkFXUTEtYTRYcFJmbjFUNVdIcFE0MVZFVU1pNmFRQUpSMWNOTmE3UUtyUDZTWUR3X1I5TDdOTURCbXZET2ZnU2VLOGlJV1RxMGJRY0ZTT1FpT0pBbFduazMzZE5rTWE1MjM4aVU5cE5IUWhzbA?oc=5\" target=\"_blank\">South Africa Closes Kruger Park as Deadly Floods Kill Dozens</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
+        "similarity_excluded": "No",
+        "score": 10,
+        "status": "posted",
+        "tweet": "\ud83c\uddff\ud83c\udde6 POST-EVENT Kruger National Park: Deadly floods kill dozens, leading to park closure. (Bloomberg)",
+        "type": "news",
+        "tweet_id": "2011816148635898247",
+        "geo": {
+            "country": "South Africa",
+            "name": "Kruger National Park",
+            "latitude": -23.9833,
+            "longitude": 31.4833,
+            "confidence": 0.95
+        }
     }
 ]
