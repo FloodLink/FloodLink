@@ -7736,5 +7736,14 @@
         "score": 0,
         "status": "skipped",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-01-15",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 US: $145B in flood & storm surge losses (2020-2025)  \n\ud83c\uddea\ud83c\uddfa Europe: $120B from extreme rainfall & flash floods (same period)  \nProjections show US losses rising 20% by 2026.",
+        "type": "statistical",
+        "category": "economic losses from floods and flash floods",
+        "tweet_id": "2011621314172215308"
     }
 ]
