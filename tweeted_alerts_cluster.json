@@ -1734,18 +1734,18 @@
     "rain_mm": 98.44,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 18.826,
-    "last_updated": "2026-01-15T01:08:27.146202Z",
+    "last_updated": "2026-01-15T04:05:17.282894Z",
     "last_tweeted_at": "2026-01-14T21:17:46.088031Z",
     "tweet_id": "2011548353046159777",
     "resolved": false,
     "pending_downgrade": true,
-    "pending_target_level": "Medium",
-    "pending_set_at": "2026-01-15T01:08:27.146202Z",
+    "pending_target_level": "Low",
+    "pending_set_at": "2026-01-15T04:05:17.282894Z",
     "pending_is_region": false,
-    "pending_observed_level": "Medium",
-    "pending_observed_rain_mm": 46.75,
+    "pending_observed_level": "Low",
+    "pending_observed_rain_mm": 10.31,
     "pending_observed_soil_moisture": 1.0,
-    "pending_observed_raw_dynamic_score": 8.941
+    "pending_observed_raw_dynamic_score": 1.972
   },
   "-22.5231,-44.1042": {
     "country": "Brazil",
@@ -1895,6 +1895,21 @@
     "last_updated": "2026-01-14T18:25:52.820331Z",
     "last_tweeted_at": "2026-01-14T18:25:52.820331Z",
     "tweet_id": "2011505611318423672",
+    "resolved": false
+  },
+  "38.9167,139.8550": {
+    "country": "Japan",
+    "name": "Sakata",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 38.91667,
+    "longitude": 139.855,
+    "rain_mm": 37.25,
+    "soil_moisture": 1.0,
+    "raw_dynamic_score": 7.124,
+    "last_updated": "2026-01-15T04:05:17.282894Z",
+    "last_tweeted_at": "2026-01-15T04:05:17.282894Z",
+    "tweet_id": "2011650909026058512",
     "resolved": false
   }
 }
