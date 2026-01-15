@@ -99,7 +99,7 @@
     "rain_mm": 50.25,
     "soil_moisture": 0.677,
     "raw_dynamic_score": 8.144,
-    "last_updated": "2026-01-05T22:31:28.281768Z",
+    "last_updated": "2026-01-15T12:32:26.092809Z",
     "last_tweeted_at": "2026-01-05T17:32:09.870418Z",
     "tweet_id": "2008230597224001845",
     "resolved": false
@@ -1880,6 +1880,21 @@
     "last_updated": "2026-01-15T09:34:23.240328Z",
     "last_tweeted_at": "2026-01-15T09:34:23.240328Z",
     "tweet_id": "2011733976587911603",
+    "resolved": false
+  },
+  "-14.8191,14.5350": {
+    "country": "Angola",
+    "name": "Quipungo",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": -14.81909,
+    "longitude": 14.53504,
+    "rain_mm": 79.19,
+    "soil_moisture": 0.508,
+    "raw_dynamic_score": 11.628,
+    "last_updated": "2026-01-15T12:32:26.092809Z",
+    "last_tweeted_at": "2026-01-15T12:32:26.092809Z",
+    "tweet_id": "2011778541495427532",
     "resolved": false
   }
 }
