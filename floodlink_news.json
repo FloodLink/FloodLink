@@ -7965,5 +7965,62 @@
         "score": 0,
         "status": "skipped",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVkVseS1maVlkWTVBMWItTVRkVTVfZC04SmEtd3RQWXpBVzBQNGZBNDNjUmFaaGNLQVhqNU5EMlFPTUlrUEM3Ujlxd1lSTnVmbDhDcmJmeXhVaWdFQjJSMlNRNS1GMjBYQjZ4SDRxTWF5RGlTeUhqMW1JNUdNRG5DbFB5WFRHdFJCUVZXcVN5aTRwN1U1MWVuckFIVGVKNHZSY3EzZkNSczRrRmJldzNjX3F3eXNZNFVzOURF?oc=5",
+        "date": "2026-01-15",
+        "title": "Yellow weather warning for rain extended - with flooding expected in parts of England - Sky News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVkVseS1maVlkWTVBMWItTVRkVTVfZC04SmEtd3RQWXpBVzBQNGZBNDNjUmFaaGNLQVhqNU5EMlFPTUlrUEM3Ujlxd1lSTnVmbDhDcmJmeXhVaWdFQjJSMlNRNS1GMjBYQjZ4SDRxTWF5RGlTeUhqMW1JNUdNRG5DbFB5WFRHdFJCUVZXcVN5aTRwN1U1MWVuckFIVGVKNHZSY3EzZkNSczRrRmJldzNjX3F3eXNZNFVzOURF?oc=5\" target=\"_blank\">Yellow weather warning for rain extended - with flooding expected in parts of England</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sky News</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAtTzgyODBVZnIyc085aDg3UmVoWmU5X2xFSDJDdG96Uy1RWlAzU1VoUHU0Y04yZ2N5MGpGdlh2U0hDWUh6WHBKZzhUc1ZBNEdPVC1mc3Bsaw?oc=5",
+        "date": "2026-01-15",
+        "title": "Watch: Aerial footage shows cars swept away by flash floods in Australia - BBC",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTFAtTzgyODBVZnIyc085aDg3UmVoWmU5X2xFSDJDdG96Uy1RWlAzU1VoUHU0Y04yZ2N5MGpGdlh2U0hDWUh6WHBKZzhUc1ZBNEdPVC1mc3Bsaw?oc=5\" target=\"_blank\">Watch: Aerial footage shows cars swept away by flash floods in Australia</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": null,
+        "tweet_id": "2011739884235735285",
+        "geo": {
+            "country": "Australia",
+            "name": null,
+            "latitude": null,
+            "longitude": null,
+            "confidence": 0.7
+        }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPdE1ycFdTM2haQ1BQMk9CVklaYVBUTFlpVEtJSnVCemV4QmdZYnNHVENpb2ZFcnBkY1hZTVJnQWxudzQ3QzQtTWtYa2hSTllFb2labzBrNFZVTDVzWlZoY1NzNG5CdDhDV0lSSkN6N0cyU0FXVmlZUTMxYTRlQmFlUA?oc=5",
+        "date": "2026-01-15",
+        "title": "Weather warning issued TODAY ahead of flooding risk - Yahoo News UK",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPdE1ycFdTM2haQ1BQMk9CVklaYVBUTFlpVEtJSnVCemV4QmdZYnNHVENpb2ZFcnBkY1hZTVJnQWxudzQ3QzQtTWtYa2hSTllFb2labzBrNFZVTDVzWlZoY1NzNG5CdDhDV0lSSkN6N0cyU0FXVmlZUTMxYTRlQmFlUA?oc=5\" target=\"_blank\">Weather warning issued TODAY ahead of flooding risk</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo News UK</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAtTzgyODBVZnIyc085aDg3UmVoWmU5X2xFSDJDdG96Uy1RWlAzU1VoUHU0Y04yZ2N5MGpGdlh2U0hDWUh6WHBKZzhUc1ZBNEdPVC1mc3Bsaw?oc=5",
+        "date": "2026-01-15",
+        "title": "Watch: Aerial footage shows cars swept away by flash floods in Australia - BBC",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTFAtTzgyODBVZnIyc085aDg3UmVoWmU5X2xFSDJDdG96Uy1RWlAzU1VoUHU0Y04yZ2N5MGpGdlh2U0hDWUh6WHBKZzhUc1ZBNEdPVC1mc3Bsaw?oc=5\" target=\"_blank\">Watch: Aerial footage shows cars swept away by flash floods in Australia</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "posted",
+        "tweet": "\ud83c\udde6\ud83c\uddfa POST-EVENT Australia: Flash floods sweep cars away in dramatic aerial footage showing widespread damage. BBC",
+        "type": "news",
+        "tweet_id": "2011739884235735285",
+        "geo": {
+            "country": "Australia",
+            "name": null,
+            "latitude": null,
+            "longitude": null,
+            "confidence": 0.7
+        }
     }
 ]
