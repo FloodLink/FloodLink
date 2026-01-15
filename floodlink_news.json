@@ -8052,5 +8052,25 @@
         "score": 0,
         "status": "skipped",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNSmxUVjV6X004bi1hYktBek4tUnFHYlgzWjczU19CODNxRkdVRlY4NmY3RThtNWFUcUkxb0dJR2J1ZWdnUVpfVnNfTExXRDZ0RWRpcWwzVXk4MURWSzhjc3hOMFBpSnFybmxkUUJNc3NROXBSMnJfRXpwTXpsVUVXQm9vcVhxSDE0WDFITDJvaTN4RUF1YTJZY1lZNS1SVVpudXI4TS1TbGFsa2NPTk54Tk9xZnR5LUI2SVo2SWtUZ3RVMUY4UWtFeW9rc3Ata0YzdVN4X1dJZ0FsUQ?oc=5",
+        "date": "2026-01-15",
+        "title": "Australian insurers track extended heavy rain, thunderstorms, flooding risk - Insurance Business",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxNSmxUVjV6X004bi1hYktBek4tUnFHYlgzWjczU19CODNxRkdVRlY4NmY3RThtNWFUcUkxb0dJR2J1ZWdnUVpfVnNfTExXRDZ0RWRpcWwzVXk4MURWSzhjc3hOMFBpSnFybmxkUUJNc3NROXBSMnJfRXpwTXpsVUVXQm9vcVhxSDE0WDFITDJvaTN4RUF1YTJZY1lZNS1SVVpudXI4TS1TbGFsa2NPTk54Tk9xZnR5LUI2SVo2SWtUZ3RVMUY4UWtFeW9rc3Ata0YzdVN4X1dJZ0FsUQ?oc=5\" target=\"_blank\">Australian insurers track extended heavy rain, thunderstorms, flooding risk</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Insurance Business</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPczB1ZHRiVGR0VWZMZkVhdXE2eHQ2NXgwNklsaU9IZjhoYTNHWEwwT3pBTnlWTkZKMXNJVlE1ZXFSUndHcUJQMTdUX1lyUDlGZENoY2d1aDctdlFLcHpiRzlSY2pKMURKOVlqdUpHZWxhTGx0LUxPRkxzSnBCMnQyMjN1dElLT1pWRWdOMTFhMXl3TUZxUEF2OTVoNTVCNDg2aUZPLQ?oc=5",
+        "date": "2026-01-15",
+        "title": "Flood alerts expanded across England - The Telegraph",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPczB1ZHRiVGR0VWZMZkVhdXE2eHQ2NXgwNklsaU9IZjhoYTNHWEwwT3pBTnlWTkZKMXNJVlE1ZXFSUndHcUJQMTdUX1lyUDlGZENoY2d1aDctdlFLcHpiRzlSY2pKMURKOVlqdUpHZWxhTGx0LUxPRkxzSnBCMnQyMjN1dElLT1pWRWdOMTFhMXl3TUZxUEF2OTVoNTVCNDg2aUZPLQ?oc=5\" target=\"_blank\">Flood alerts expanded across England</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Telegraph</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
     }
 ]
