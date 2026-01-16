@@ -8368,5 +8368,14 @@
         "score": 0,
         "status": "skipped",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-01-16",
+        "status": "posted",
+        "tweet": "By 2030, pluvial flooding from extreme rainfall could expose 1.8 billion urban residents in dense cities worldwide\u2014up 30% from 2020 levels.",
+        "type": "statistical",
+        "category": "pluvial (surface) flooding in dense cities",
+        "tweet_id": "2012117358706630845"
     }
 ]
