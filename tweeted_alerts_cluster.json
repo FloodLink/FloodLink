@@ -849,7 +849,7 @@
     "rain_mm": 44.38,
     "soil_moisture": 0.671,
     "raw_dynamic_score": 7.166,
-    "last_updated": "2026-01-11T01:16:31.985436Z",
+    "last_updated": "2026-01-16T18:24:53.962991Z",
     "last_tweeted_at": "2026-01-10T15:15:41.544290Z",
     "tweet_id": "2010023316182945924",
     "resolved": false
@@ -1840,7 +1840,7 @@
     "rain_mm": 39.56,
     "soil_moisture": 0.726,
     "raw_dynamic_score": 6.588,
-    "last_updated": "2026-01-16T04:02:30.780252Z",
+    "last_updated": "2026-01-16T18:24:53.962991Z",
     "last_tweeted_at": "2026-01-15T06:25:58.406593Z",
     "tweet_id": "2011686822317826210",
     "resolved": false
@@ -1968,7 +1968,7 @@
     "rain_mm": 46.88,
     "soil_moisture": 0.653,
     "raw_dynamic_score": 7.496,
-    "last_updated": "2026-01-16T12:31:31.730376Z",
+    "last_updated": "2026-01-16T18:24:53.962991Z",
     "last_tweeted_at": "2026-01-16T06:26:30.179822Z",
     "tweet_id": "2012049096862024056",
     "resolved": false
@@ -2021,10 +2021,18 @@
     "rain_mm": 96.31,
     "soil_moisture": 0.654,
     "raw_dynamic_score": 15.412,
-    "last_updated": "2026-01-16T12:31:31.730376Z",
+    "last_updated": "2026-01-16T18:24:53.962991Z",
     "last_tweeted_at": "2026-01-16T09:28:51.732480Z",
     "tweet_id": "2012095242774909137",
-    "resolved": false
+    "resolved": false,
+    "pending_downgrade": true,
+    "pending_target_level": "Low",
+    "pending_set_at": "2026-01-16T18:24:53.962991Z",
+    "pending_is_region": false,
+    "pending_observed_level": "Low",
+    "pending_observed_rain_mm": 20.19,
+    "pending_observed_soil_moisture": 0.639,
+    "pending_observed_raw_dynamic_score": 3.202
   },
   "-21.4527,47.0857": {
     "country": "Madagascar",
@@ -2051,7 +2059,7 @@
     "rain_mm": 56.94,
     "soil_moisture": 0.608,
     "raw_dynamic_score": 8.874,
-    "last_updated": "2026-01-16T12:31:31.730376Z",
+    "last_updated": "2026-01-16T18:24:53.962991Z",
     "last_tweeted_at": "2026-01-16T12:31:31.730376Z",
     "tweet_id": "2012140955302801817",
     "resolved": false
@@ -2066,7 +2074,7 @@
     "rain_mm": 50.62,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 9.682,
-    "last_updated": "2026-01-16T12:31:31.730376Z",
+    "last_updated": "2026-01-16T18:24:53.962991Z",
     "last_tweeted_at": "2026-01-16T12:31:31.730376Z",
     "tweet_id": "2012141207577588203",
     "resolved": false
@@ -2111,7 +2119,7 @@
     "rain_mm": 50.62,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 9.682,
-    "last_updated": "2026-01-16T12:31:31.730376Z",
+    "last_updated": "2026-01-16T18:24:53.962991Z",
     "last_tweeted_at": "2026-01-16T12:31:31.730376Z",
     "tweet_id": "2012141459940560990",
     "resolved": false
@@ -2129,6 +2137,66 @@
     "last_updated": "2026-01-16T12:31:31.730376Z",
     "last_tweeted_at": "2026-01-16T12:31:31.730376Z",
     "tweet_id": "2012141459940560990",
+    "resolved": false
+  },
+  "-16.0920,47.6470": {
+    "country": "Madagascar",
+    "name": "Mampikony",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": -16.092,
+    "longitude": 47.647,
+    "rain_mm": 71.81,
+    "soil_moisture": 0.65,
+    "raw_dynamic_score": 11.462,
+    "last_updated": "2026-01-16T18:24:53.962991Z",
+    "last_tweeted_at": "2026-01-16T18:24:53.962991Z",
+    "tweet_id": "2012229633534496875",
+    "resolved": false
+  },
+  "-25.4428,31.9953": {
+    "country": "Mozambique",
+    "name": "Ressano Garcia",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": -25.44278,
+    "longitude": 31.99528,
+    "rain_mm": 39.38,
+    "soil_moisture": 0.714,
+    "raw_dynamic_score": 6.515,
+    "last_updated": "2026-01-16T18:24:53.962991Z",
+    "last_tweeted_at": "2026-01-16T18:24:53.962991Z",
+    "tweet_id": "2012229886518182185",
+    "resolved": false
+  },
+  "-25.7495,-56.4352": {
+    "country": "Paraguay",
+    "name": "Villarrica",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": -25.74946,
+    "longitude": -56.43518,
+    "rain_mm": 54.62,
+    "soil_moisture": 0.449,
+    "raw_dynamic_score": 7.731,
+    "last_updated": "2026-01-16T18:24:53.962991Z",
+    "last_tweeted_at": "2026-01-16T18:24:53.962991Z",
+    "tweet_id": "2012230139350819162",
+    "resolved": false
+  },
+  "-25.4332,31.9548": {
+    "country": "South Africa",
+    "name": "Komatipoort",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": -25.43321,
+    "longitude": 31.95478,
+    "rain_mm": 39.38,
+    "soil_moisture": 0.714,
+    "raw_dynamic_score": 6.515,
+    "last_updated": "2026-01-16T18:24:53.962991Z",
+    "last_tweeted_at": "2026-01-16T18:24:53.962991Z",
+    "tweet_id": "2012230392128876951",
     "resolved": false
   }
 }
