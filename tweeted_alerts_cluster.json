@@ -1972,5 +1972,50 @@
     "last_tweeted_at": "2026-01-16T06:26:30.179822Z",
     "tweet_id": "2012049096862024056",
     "resolved": false
+  },
+  "-7.3000,109.2167": {
+    "country": "Indonesia",
+    "name": "Baturaden",
+    "risk_level": "High",
+    "tweeted_level": "High",
+    "latitude": -7.3,
+    "longitude": 109.21667,
+    "rain_mm": 95.88,
+    "soil_moisture": 0.704,
+    "raw_dynamic_score": 15.77,
+    "last_updated": "2026-01-16T09:28:51.732480Z",
+    "last_tweeted_at": "2026-01-16T09:28:51.732480Z",
+    "tweet_id": "2012094737889788041",
+    "resolved": false
+  },
+  "-19.9000,47.2333": {
+    "country": "Madagascar",
+    "name": "Soanindrariny",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": -19.9,
+    "longitude": 47.23333,
+    "rain_mm": 50.0,
+    "soil_moisture": 0.611,
+    "raw_dynamic_score": 7.805,
+    "last_updated": "2026-01-16T09:28:51.732480Z",
+    "last_tweeted_at": "2026-01-16T09:28:51.732480Z",
+    "tweet_id": "2012094990315631096",
+    "resolved": false
+  },
+  "-20.5303,47.2434": {
+    "country": "Madagascar",
+    "name": "Ambositra",
+    "risk_level": "High",
+    "tweeted_level": "High",
+    "latitude": -20.53034,
+    "longitude": 47.24344,
+    "rain_mm": 96.31,
+    "soil_moisture": 0.654,
+    "raw_dynamic_score": 15.412,
+    "last_updated": "2026-01-16T09:28:51.732480Z",
+    "last_tweeted_at": "2026-01-16T09:28:51.732480Z",
+    "tweet_id": "2012095242774909137",
+    "resolved": false
   }
 }
