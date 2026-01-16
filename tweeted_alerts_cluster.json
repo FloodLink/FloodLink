@@ -1942,5 +1942,35 @@
     "last_tweeted_at": "2026-01-15T21:17:53.626212Z",
     "tweet_id": "2011910777871933710",
     "resolved": false
+  },
+  "-29.4133,-66.8564": {
+    "country": "Argentina",
+    "name": "La Rioja",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": -29.41328,
+    "longitude": -66.85637,
+    "rain_mm": 46.12,
+    "soil_moisture": 0.495,
+    "raw_dynamic_score": 6.719,
+    "last_updated": "2026-01-16T06:26:30.179822Z",
+    "last_tweeted_at": "2026-01-16T06:26:30.179822Z",
+    "tweet_id": "2012048844465586219",
+    "resolved": false
+  },
+  "9.6531,124.3697": {
+    "country": "Philippines",
+    "name": "Jagna",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 9.6531,
+    "longitude": 124.3697,
+    "rain_mm": 46.88,
+    "soil_moisture": 0.653,
+    "raw_dynamic_score": 7.496,
+    "last_updated": "2026-01-16T06:26:30.179822Z",
+    "last_tweeted_at": "2026-01-16T06:26:30.179822Z",
+    "tweet_id": "2012049096862024056",
+    "resolved": false
   }
 }
