@@ -8339,5 +8339,14 @@
             "longitude": null,
             "confidence": 0.0
         }
+    },
+    {
+        "link": null,
+        "date": "2026-01-16",
+        "status": "posted",
+        "tweet": "Global flood early warning systems now cover 65% of at-risk populations in 2026\u2014protecting ~3.2B people from floods, flash floods, storm surges & extreme rainfall. Up from 45% in 2020, per UNDRR.",
+        "type": "statistical",
+        "category": "coverage of flood early warning systems worldwide",
+        "tweet_id": "2012088184960692230"
     }
 ]
