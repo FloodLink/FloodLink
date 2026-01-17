@@ -984,7 +984,7 @@
     "rain_mm": 61.25,
     "soil_moisture": 0.49,
     "raw_dynamic_score": 8.893,
-    "last_updated": "2026-01-11T18:22:20.869918Z",
+    "last_updated": "2026-01-17T15:16:16.213658Z",
     "last_tweeted_at": "2026-01-11T15:16:16.493743Z",
     "tweet_id": "2010371484267757587",
     "resolved": false
@@ -2409,7 +2409,7 @@
     "rain_mm": 85.69,
     "soil_moisture": 0.629,
     "raw_dynamic_score": 13.516,
-    "last_updated": "2026-01-17T12:28:32.814262Z",
+    "last_updated": "2026-01-17T15:16:16.213658Z",
     "last_tweeted_at": "2026-01-17T09:17:13.384919Z",
     "tweet_id": "2012454194192527637",
     "resolved": false
@@ -2967,6 +2967,36 @@
     "last_updated": "2026-01-17T12:28:32.814262Z",
     "last_tweeted_at": "2026-01-17T12:28:32.814262Z",
     "tweet_id": "2012502591528218952",
+    "resolved": false
+  },
+  "-6.1189,106.5750": {
+    "country": "Indonesia",
+    "name": "Sepatan",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": -6.11889,
+    "longitude": 106.575,
+    "rain_mm": 45.69,
+    "soil_moisture": 1.0,
+    "raw_dynamic_score": 8.738,
+    "last_updated": "2026-01-17T15:16:16.213658Z",
+    "last_tweeted_at": "2026-01-17T15:16:16.213658Z",
+    "tweet_id": "2012574782701686928",
+    "resolved": false
+  },
+  "-6.0989,106.6381": {
+    "country": "Indonesia",
+    "name": "Teluknaga",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": -6.09889,
+    "longitude": 106.63806,
+    "rain_mm": 60.25,
+    "soil_moisture": 1.0,
+    "raw_dynamic_score": 11.523,
+    "last_updated": "2026-01-17T15:16:16.213658Z",
+    "last_tweeted_at": "2026-01-17T15:16:16.213658Z",
+    "tweet_id": "2012574782701686928",
     "resolved": false
   }
 }
