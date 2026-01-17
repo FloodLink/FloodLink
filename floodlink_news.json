@@ -8659,5 +8659,25 @@
         "type": "statistical",
         "category": "pluvial (surface) flooding in dense cities",
         "tweet_id": "2012403710211568089"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNT2puaWpRc2NfZW16anppTWVXWjhMSG0yQmI4THlRcDlsaEtTRVZ2RUw4NHJQX3BkOE5EdHlpSk1GQUtSN08zWGhwQW1Fb3JfVkVtdm4xZ1BWUmxvTlg2MmM3b295dnNqaXpsUnNKeWlvNzJVcGJvcTZCUlNzQk51enBQLW5ycTh2c0dlVlNVNWo0QkhzTVlESUwwRTd4ZWdJaTFFZFV1VWs4RGEyS1ljTjJCX25YaDVnVDRRYllNWFZqTmI2ZjJ4SUlFWnpsYl81NWc?oc=5",
+        "date": "2026-01-17",
+        "title": "Heavy rain batters NSW coastline as further storms forecast in multiple states over wet weekend - The Guardian",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxNT2puaWpRc2NfZW16anppTWVXWjhMSG0yQmI4THlRcDlsaEtTRVZ2RUw4NHJQX3BkOE5EdHlpSk1GQUtSN08zWGhwQW1Fb3JfVkVtdm4xZ1BWUmxvTlg2MmM3b295dnNqaXpsUnNKeWlvNzJVcGJvcTZCUlNzQk51enBQLW5ycTh2c0dlVlNVNWo0QkhzTVlESUwwRTd4ZWdJaTFFZFV1VWs4RGEyS1ljTjJCX25YaDVnVDRRYllNWFZqTmI2ZjJ4SUlFWnpsYl81NWc?oc=5\" target=\"_blank\">Heavy rain batters NSW coastline as further storms forecast in multiple states over wet weekend</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font>",
+        "similarity_excluded": "No",
+        "score": 3,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPYjY0VE9RR1hZR2xLUjNJMmltUWZ0UlVCMmVaLXBVekNYdms3WFhNbzVTLTZFejBiak5FSXFXTm94UGdFSnB6SmVseU45RzBZeEhKdUVWdXVmUENUbDgyS28zTGFVTEw4d1hXU1dpMkNDQ0VmM0pQbDJTSjVUYnlQV2Jn?oc=5",
+        "date": "2026-01-17",
+        "title": "New flood warning system installed to help Yorkshire Dales' motorists - Yahoo News UK",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxPYjY0VE9RR1hZR2xLUjNJMmltUWZ0UlVCMmVaLXBVekNYdms3WFhNbzVTLTZFejBiak5FSXFXTm94UGdFSnB6SmVseU45RzBZeEhKdUVWdXVmUENUbDgyS28zTGFVTEw4d1hXU1dpMkNDQ0VmM0pQbDJTSjVUYnlQV2Jn?oc=5\" target=\"_blank\">New flood warning system installed to help Yorkshire Dales' motorists</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo News UK</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
     }
 ]
