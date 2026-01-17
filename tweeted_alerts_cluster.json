@@ -984,7 +984,7 @@
     "rain_mm": 61.25,
     "soil_moisture": 0.49,
     "raw_dynamic_score": 8.893,
-    "last_updated": "2026-01-17T18:21:58.291780Z",
+    "last_updated": "2026-01-17T21:15:30.749717Z",
     "last_tweeted_at": "2026-01-11T15:16:16.493743Z",
     "tweet_id": "2010371484267757587",
     "resolved": false
@@ -2983,7 +2983,7 @@
     "rain_mm": 45.69,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 8.738,
-    "last_updated": "2026-01-17T18:21:58.291780Z",
+    "last_updated": "2026-01-17T21:15:30.749717Z",
     "last_tweeted_at": "2026-01-17T15:16:16.213658Z",
     "tweet_id": "2012574782701686928",
     "resolved": false
@@ -3013,7 +3013,7 @@
     "rain_mm": 55.0,
     "soil_moisture": 0.72,
     "raw_dynamic_score": 9.127,
-    "last_updated": "2026-01-17T18:21:58.291780Z",
+    "last_updated": "2026-01-17T21:15:30.749717Z",
     "last_tweeted_at": "2026-01-17T18:21:58.291780Z",
     "tweet_id": "2012591282300796977",
     "resolved": false
@@ -3043,7 +3043,7 @@
     "rain_mm": 40.06,
     "soil_moisture": 0.708,
     "raw_dynamic_score": 6.607,
-    "last_updated": "2026-01-17T18:21:58.291780Z",
+    "last_updated": "2026-01-17T21:15:30.749717Z",
     "last_tweeted_at": "2026-01-17T18:21:58.291780Z",
     "tweet_id": "2012591534655303687",
     "resolved": false
@@ -3118,9 +3118,39 @@
     "rain_mm": 42.06,
     "soil_moisture": 0.614,
     "raw_dynamic_score": 6.578,
-    "last_updated": "2026-01-17T18:21:58.291780Z",
+    "last_updated": "2026-01-17T21:15:30.749717Z",
     "last_tweeted_at": "2026-01-17T18:21:58.291780Z",
     "tweet_id": "2012595063583367590",
+    "resolved": false
+  },
+  "-23.8783,-47.9972": {
+    "country": "Brazil",
+    "name": "São Miguel Arcanjo",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": -23.87833,
+    "longitude": -47.99722,
+    "rain_mm": 49.88,
+    "soil_moisture": 0.579,
+    "raw_dynamic_score": 7.644,
+    "last_updated": "2026-01-17T21:15:30.749717Z",
+    "last_tweeted_at": "2026-01-17T21:15:30.749717Z",
+    "tweet_id": "2012634961598148880",
+    "resolved": false
+  },
+  "-19.7364,-45.2522": {
+    "country": "Brazil",
+    "name": "Bom Despacho",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": -19.73639,
+    "longitude": -45.25222,
+    "rain_mm": 46.19,
+    "soil_moisture": 0.495,
+    "raw_dynamic_score": 6.726,
+    "last_updated": "2026-01-17T21:15:30.749717Z",
+    "last_tweeted_at": "2026-01-17T21:15:30.749717Z",
+    "tweet_id": "2012635214535696754",
     "resolved": false
   }
 }
