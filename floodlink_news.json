@@ -8707,5 +8707,25 @@
         "score": 0,
         "status": "skipped",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQUEVzY08xLTRsaHdncWFSWk1yN0xEamNuVG9uWklwQjZ0NWI3UHdxZTVySmNIeEU0aWxKcmNkYzkzbGs3NFBSNjE2TlgxeHN3SURibWU5MWpSem1qU1BzS3MzZ2dnUHIwLXhZWHlwbjRFeERCaGFnRVRoWm1WVmJrSkF2N1dOMC1wOHR4RmZZS1NzTjRnN2p6ckkzMGlMZ0RTaC1fZkRR?oc=5",
+        "date": "2026-01-17",
+        "title": "Woman dies as \u2018very dangerous\u2019 thunderstorms hit Australia as evacuations loom - The US Sun",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQUEVzY08xLTRsaHdncWFSWk1yN0xEamNuVG9uWklwQjZ0NWI3UHdxZTVySmNIeEU0aWxKcmNkYzkzbGs3NFBSNjE2TlgxeHN3SURibWU5MWpSem1qU1BzS3MzZ2dnUHIwLXhZWHlwbjRFeERCaGFnRVRoWm1WVmJrSkF2N1dOMC1wOHR4RmZZS1NzTjRnN2p6ckkzMGlMZ0RTaC1fZkRR?oc=5\" target=\"_blank\">Woman dies as \u2018very dangerous\u2019 thunderstorms hit Australia as evacuations loom</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The US Sun</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA0THVvV0w3b09wbEtSX28zMDF1VVBaeEFSR1hLM3REVHktazBCcHlOZ3ZKa1hOTkFmcnRSNXNuLWJrZm5KbC00VDNlN1ZZWU9DWmFsSExTZFBIeGdzd1VCelNoZFctWnVDd1dHLWtPNkJJNHctZnZIUFNB?oc=5",
+        "date": "2026-01-17",
+        "title": "SES flood warnings - Northern Beaches Council",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTFA0THVvV0w3b09wbEtSX28zMDF1VVBaeEFSR1hLM3REVHktazBCcHlOZ3ZKa1hOTkFmcnRSNXNuLWJrZm5KbC00VDNlN1ZZWU9DWmFsSExTZFBIeGdzd1VCelNoZFctWnVDd1dHLWtPNkJJNHctZnZIUFNB?oc=5\" target=\"_blank\">SES flood warnings</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Northern Beaches Council</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
     }
 ]
