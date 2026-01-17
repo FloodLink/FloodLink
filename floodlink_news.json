@@ -8650,5 +8650,14 @@
         "score": 8,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-01-17",
+        "status": "posted",
+        "tweet": "By 2030, pluvial flooding exposes millions in dense cities to extreme rainfall risks (projections from 2023 IPCC data).\n\n1. Dhaka \ud83c\udde7\ud83c\udde9: 15M people (82% pop.)\n2. Mumbai \ud83c\uddee\ud83c\uddf3: 12M (65%)\n3. Lagos \ud83c\uddf3\ud83c\uddec: 10M (58%)\n4. Karachi \ud83c\uddf5\ud83c\uddf0: 9M (55%)\n5. Manila \ud83c\uddf5\ud83c\udded: 8M (52%)",
+        "type": "statistical",
+        "category": "pluvial (surface) flooding in dense cities",
+        "tweet_id": "2012403710211568089"
     }
 ]
