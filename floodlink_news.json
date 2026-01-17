@@ -8784,5 +8784,42 @@
             "longitude": -99.34,
             "confidence": 0.95
         }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUGhHZ1JmbGpNczg0blJUSG1Lbkl2QTh3VkY3V293TzRmZXFudGdpVERpNWx5aEFURWJWMjVhaVlieGtYNmpGLVUzS2JnN18zYWpKcEw1cWxITHdQYndtd21ja2RKaHZGak94TFREWE5jSzF3M0xTclo2ZFExUGdfLXlOOVBSU1dlaTdOUmU5ZnhGaE9CQVh5QjQzV0w3Zw?oc=5",
+        "date": "2026-01-17",
+        "title": "'Extremely wild weather': NSW coast battles heavy rainfall, flash flooding - Australian Broadcasting Corporation",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQUGhHZ1JmbGpNczg0blJUSG1Lbkl2QTh3VkY3V293TzRmZXFudGdpVERpNWx5aEFURWJWMjVhaVlieGtYNmpGLVUzS2JnN18zYWpKcEw1cWxITHdQYndtd21ja2RKaHZGak94TFREWE5jSzF3M0xTclo2ZFExUGdfLXlOOVBSU1dlaTdOUmU5ZnhGaE9CQVh5QjQzV0w3Zw?oc=5\" target=\"_blank\">'Extremely wild weather': NSW coast battles heavy rainfall, flash flooding</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Australian Broadcasting Corporation</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": null,
+        "tweet_id": "2012675602856452302",
+        "geo": {
+            "country": "Australia",
+            "name": "New South Wales coast",
+            "latitude": -33.0,
+            "longitude": 151.0,
+            "confidence": 0.9
+        }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUGhHZ1JmbGpNczg0blJUSG1Lbkl2QTh3VkY3V293TzRmZXFudGdpVERpNWx5aEFURWJWMjVhaVlieGtYNmpGLVUzS2JnN18zYWpKcEw1cWxITHdQYndtd21ja2RKaHZGak94TFREWE5jSzF3M0xTclo2ZFExUGdfLXlOOVBSU1dlaTdOUmU5ZnhGaE9CQVh5QjQzV0w3Zw?oc=5",
+        "date": "2026-01-17",
+        "title": "'Extremely wild weather': NSW coast battles heavy rainfall, flash flooding - Australian Broadcasting Corporation",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQUGhHZ1JmbGpNczg0blJUSG1Lbkl2QTh3VkY3V293TzRmZXFudGdpVERpNWx5aEFURWJWMjVhaVlieGtYNmpGLVUzS2JnN18zYWpKcEw1cWxITHdQYndtd21ja2RKaHZGak94TFREWE5jSzF3M0xTclo2ZFExUGdfLXlOOVBSU1dlaTdOUmU5ZnhGaE9CQVh5QjQzV0w3Zw?oc=5\" target=\"_blank\">'Extremely wild weather': NSW coast battles heavy rainfall, flash flooding</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Australian Broadcasting Corporation</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "posted",
+        "tweet": "\ud83c\udde6\ud83c\uddfa FORECAST NSW coast: Flash flooding from heavy rainfall causing wild weather and risks to coastal areas. (ABC)",
+        "type": "news",
+        "tweet_id": "2012675602856452302",
+        "geo": {
+            "country": "Australia",
+            "name": "New South Wales coast",
+            "latitude": -33.0,
+            "longitude": 151.0,
+            "confidence": 0.9
+        }
     }
 ]
