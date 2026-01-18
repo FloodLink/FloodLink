@@ -8983,5 +8983,25 @@
         "score": 4,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1sNFNpRUQ3Z0xUOG9wUGFoOTkwNHAyX25sNUtzeVZHb3NvZE1JXzdfOGVkRFBrcXRLdUhjcFhoTDFhN0xfOEV1WFRfdWNOZEozVGFHQ090RQ?oc=5",
+        "date": "2026-01-18",
+        "title": "Man swims in flooded Sydney golf course after heavy rain - BBC",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE1sNFNpRUQ3Z0xUOG9wUGFoOTkwNHAyX25sNUtzeVZHb3NvZE1JXzdfOGVkRFBrcXRLdUhjcFhoTDFhN0xfOEV1WFRfdWNOZEozVGFHQ090RQ?oc=5\" target=\"_blank\">Man swims in flooded Sydney golf course after heavy rain</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
+        "similarity_excluded": "No",
+        "score": 5,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOR0R6MDdIUWhtRWdQMUpuRVoxa3MxMjNDUFVZMUZmaF9hN2N1YmFfWU01bVhvMldJTEdCZDN0SDRYQjFSN0JJaXItUXRxelpOUUJVT2hlZDFfUmxoNXpNYmROX3BmUHByQkV2bE1CakppdUEtemtFQ2RqdlZzTTBGNnRKdWh3N1NjaGYxcHZ5NUkyOUEzY0paNXlPREZVNjZXOWxISW5Td2owSWVsdlBiZ1A1cVVqQ2c0WWFYcl9LUkJPYzhHd0wxa0V1MlNJSDAzeXc?oc=5",
+        "date": "2026-01-18",
+        "title": "Flash flooding eases in Australia's largest city Sydney - \u0648\u0643\u0627\u0644\u0629 \u0623\u0646\u0628\u0627\u0621 \u0627\u0644\u0628\u062d\u0631\u064a\u0646",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxOR0R6MDdIUWhtRWdQMUpuRVoxa3MxMjNDUFVZMUZmaF9hN2N1YmFfWU01bVhvMldJTEdCZDN0SDRYQjFSN0JJaXItUXRxelpOUUJVT2hlZDFfUmxoNXpNYmROX3BmUHByQkV2bE1CakppdUEtemtFQ2RqdlZzTTBGNnRKdWh3N1NjaGYxcHZ5NUkyOUEzY0paNXlPREZVNjZXOWxISW5Td2owSWVsdlBiZ1A1cVVqQ2c0WWFYcl9LUkJPYzhHd0wxa0V1MlNJSDAzeXc?oc=5\" target=\"_blank\">Flash flooding eases in Australia's largest city Sydney</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">\u0648\u0643\u0627\u0644\u0629 \u0623\u0646\u0628\u0627\u0621 \u0627\u0644\u0628\u062d\u0631\u064a\u0646</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
     }
 ]
