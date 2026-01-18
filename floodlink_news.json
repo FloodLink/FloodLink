@@ -8924,5 +8924,14 @@
         "score": 6,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-01-18",
+        "status": "posted",
+        "tweet": "Global flood losses hit $180B in 2025, driven by flash floods and extreme rainfall\u2014up 50% from 2020 levels, per UN estimates. Coastal storm surges alone cost $60B.",
+        "type": "statistical",
+        "category": "economic losses from floods and flash floods",
+        "tweet_id": "2012755215833763946"
     }
 ]
