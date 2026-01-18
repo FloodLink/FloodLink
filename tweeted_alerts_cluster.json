@@ -3119,7 +3119,7 @@
     "rain_mm": 49.88,
     "soil_moisture": 0.579,
     "raw_dynamic_score": 7.644,
-    "last_updated": "2026-01-18T01:15:46.737838Z",
+    "last_updated": "2026-01-18T18:21:59.743343Z",
     "last_tweeted_at": "2026-01-17T21:15:30.749717Z",
     "tweet_id": "2012634961598148880",
     "resolved": false
@@ -3318,7 +3318,7 @@
     "rain_mm": 81.75,
     "soil_moisture": 0.742,
     "raw_dynamic_score": 13.729,
-    "last_updated": "2026-01-18T15:16:30.399870Z",
+    "last_updated": "2026-01-18T18:21:59.743343Z",
     "last_tweeted_at": "2026-01-18T15:16:30.399870Z",
     "tweet_id": "2012937231137210583",
     "resolved": false
@@ -3336,6 +3336,21 @@
     "last_updated": "2026-01-18T15:16:30.399870Z",
     "last_tweeted_at": "2026-01-18T15:16:30.399870Z",
     "tweet_id": "2012937231137210583",
+    "resolved": false
+  },
+  "-1.5665,13.1987": {
+    "country": "Gabon",
+    "name": "Moanda",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": -1.56652,
+    "longitude": 13.1987,
+    "rain_mm": 43.88,
+    "soil_moisture": 0.607,
+    "raw_dynamic_score": 6.836,
+    "last_updated": "2026-01-18T18:21:59.743343Z",
+    "last_tweeted_at": "2026-01-18T18:21:59.743343Z",
+    "tweet_id": "2012953677368062256",
     "resolved": false
   }
 }
