@@ -8821,5 +8821,14 @@
             "longitude": 151.0,
             "confidence": 0.9
         }
+    },
+    {
+        "link": null,
+        "date": "2026-01-18",
+        "status": "posted",
+        "tweet": "Global flood fatalities hit 6,500 in 2024, a 40% rise from the 2020-2023 avg. Projections: 10,000+ deaths/year by 2030 as extreme rainfall intensifies.",
+        "type": "statistical",
+        "category": "global flood fatalities and trends",
+        "tweet_id": "2012713183786549584"
     }
 ]
