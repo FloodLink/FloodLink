@@ -3235,5 +3235,50 @@
     "last_tweeted_at": "2026-01-18T01:15:46.737838Z",
     "tweet_id": "2012695672449823205",
     "resolved": false
+  },
+  "-5.8781,-46.6992": {
+    "country": "Brazil",
+    "name": "Sítio Novo",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": -5.87806,
+    "longitude": -46.69917,
+    "rain_mm": 53.75,
+    "soil_moisture": 0.574,
+    "raw_dynamic_score": 8.214,
+    "last_updated": "2026-01-18T06:24:23.372674Z",
+    "last_tweeted_at": "2026-01-18T06:24:23.372674Z",
+    "tweet_id": "2012773083791397101",
+    "resolved": false
+  },
+  "-5.7451,-47.3640": {
+    "country": "Brazil",
+    "name": "Governador Edison Lobão",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": -5.74507,
+    "longitude": -47.36395,
+    "rain_mm": 56.75,
+    "soil_moisture": 0.549,
+    "raw_dynamic_score": 8.541,
+    "last_updated": "2026-01-18T06:24:23.372674Z",
+    "last_tweeted_at": "2026-01-18T06:24:23.372674Z",
+    "tweet_id": "2012773083791397101",
+    "resolved": false
+  },
+  "-7.9135,113.8214": {
+    "country": "Indonesia",
+    "name": "Bondowoso",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": -7.91346,
+    "longitude": 113.82145,
+    "rain_mm": 64.88,
+    "soil_moisture": 0.705,
+    "raw_dynamic_score": 10.677,
+    "last_updated": "2026-01-18T06:24:23.372674Z",
+    "last_tweeted_at": "2026-01-18T06:24:23.372674Z",
+    "tweet_id": "2012773336582152519",
+    "resolved": false
   }
 }
