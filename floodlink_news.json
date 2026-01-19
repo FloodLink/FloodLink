@@ -9104,5 +9104,62 @@
         "type": "statistical",
         "category": "economic losses from floods and flash floods",
         "tweet_id": "2013159321576620034"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcnhSRklMY1FmS0s4ME5hWmNLS0w3bEcybGN4SVZEd3dPLVk3cjVtQ05fbXdOYjY0NXYxNElJekdSR1hjd1FYbGZCcmpVenYyNkQwRGJCUkZMdzFqTWFocFdmUVpGa1pVd1RVTlQzeHhjdC1BdHdGOFRXd1FnTlo2SVpiR1lHRVRh?oc=5",
+        "date": "2026-01-19",
+        "title": "Man swims at flooded golf course as heavy rainfall, flash flooding hit Sydney - CNA",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcnhSRklMY1FmS0s4ME5hWmNLS0w3bEcybGN4SVZEd3dPLVk3cjVtQ05fbXdOYjY0NXYxNElJekdSR1hjd1FYbGZCcmpVenYyNkQwRGJCUkZMdzFqTWFocFdmUVpGa1pVd1RVTlQzeHhjdC1BdHdGOFRXd1FnTlo2SVpiR1lHRVRh?oc=5\" target=\"_blank\">Man swims at flooded golf course as heavy rainfall, flash flooding hit Sydney</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNA</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUVV5NVc1aFlaMGQyeUdaREJVaTJSQjc2ZWozbTN5bnhweDFockhuQUVNV2dWSUltcTZWY0o3YUo2MGxQMlhPc2thanpxODVfT0wxcUQwdDZQTUtfS200N2I1bDJ4VjM1U3JOQm81NmlZM2FjcVNTaWtlT2hRbHlzS1d1WDQ3RjNTUXNXNWJnUWJjQ25PcmU2bGQzWDA4OUpGU1cwVHZCUHVaMWtiaEZFbVdB?oc=5",
+        "date": "2026-01-19",
+        "title": "French weekly weather forecast January 19 - 23: colder and lots of rain - The Connexion",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQUVV5NVc1aFlaMGQyeUdaREJVaTJSQjc2ZWozbTN5bnhweDFockhuQUVNV2dWSUltcTZWY0o3YUo2MGxQMlhPc2thanpxODVfT0wxcUQwdDZQTUtfS200N2I1bDJ4VjM1U3JOQm81NmlZM2FjcVNTaWtlT2hRbHlzS1d1WDQ3RjNTUXNXNWJnUWJjQ25PcmU2bGQzWDA4OUpGU1cwVHZCUHVaMWtiaEZFbVdB?oc=5\" target=\"_blank\">French weekly weather forecast January 19 - 23: colder and lots of rain</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Connexion</font>",
+        "similarity_excluded": "No",
+        "score": 3,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9UMDJDVGpvNC1rT3Z2Xy1JRThObHdwZEd3YmR3OUY1bUp5RG15c1ZvTC1vX1JMeTlSbFlRdklLNllhVkZiSVl0WVI5X2JOYkw5ejNpT0xhZ3RBNHo2akNF?oc=5",
+        "date": "2026-01-19",
+        "title": "Landslides triggered by Typhoon Doksuri in northern China in July 2023 - eos.org",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE9UMDJDVGpvNC1rT3Z2Xy1JRThObHdwZEd3YmR3OUY1bUp5RG15c1ZvTC1vX1JMeTlSbFlRdklLNllhVkZiSVl0WVI5X2JOYkw5ejNpT0xhZ3RBNHo2akNF?oc=5\" target=\"_blank\">Landslides triggered by Typhoon Doksuri in northern China in July 2023</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">eos.org</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": null,
+        "tweet_id": "2013236297750430205",
+        "geo": {
+            "country": "China",
+            "name": "Northern China",
+            "latitude": 40.0,
+            "longitude": 110.0,
+            "confidence": 0.8
+        }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9UMDJDVGpvNC1rT3Z2Xy1JRThObHdwZEd3YmR3OUY1bUp5RG15c1ZvTC1vX1JMeTlSbFlRdklLNllhVkZiSVl0WVI5X2JOYkw5ejNpT0xhZ3RBNHo2akNF?oc=5",
+        "date": "2026-01-19",
+        "title": "Landslides triggered by Typhoon Doksuri in northern China in July 2023 - eos.org",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE9UMDJDVGpvNC1rT3Z2Xy1JRThObHdwZEd3YmR3OUY1bUp5RG15c1ZvTC1vX1JMeTlSbFlRdklLNllhVkZiSVl0WVI5X2JOYkw5ejNpT0xhZ3RBNHo2akNF?oc=5\" target=\"_blank\">Landslides triggered by Typhoon Doksuri in northern China in July 2023</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">eos.org</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "posted",
+        "tweet": "\ud83c\udde8\ud83c\uddf3 POST-EVENT Northern China: Landslides triggered by heavy rains from Typhoon Doksuri in July 2023 caused widespread disruption. (eos.org)",
+        "type": "news",
+        "tweet_id": "2013236297750430205",
+        "geo": {
+            "country": "China",
+            "name": "Northern China",
+            "latitude": 40.0,
+            "longitude": 110.0,
+            "confidence": 0.8
+        }
     }
 ]
