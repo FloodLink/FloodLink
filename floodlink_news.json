@@ -9078,5 +9078,13 @@
             "longitude": null,
             "confidence": 0.95
         }
+    },
+    {
+        "link": null,
+        "date": "2026-01-19",
+        "status": "posted",
+        "tweet": "The Netherlands \ud83c\uddf3\ud83c\uddf1 maintains 26,000 km of dikes and dunes as primary flood defenses, protecting 60% of its land\u2014home to 9 million people\u2014from rising sea levels and extreme weather in 2026.",
+        "type": "infrastructure",
+        "tweet_id": "2013100698913698217"
     }
 ]
