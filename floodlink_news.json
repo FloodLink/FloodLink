@@ -9161,5 +9161,42 @@
             "longitude": 110.0,
             "confidence": 0.8
         }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQWUNYa00wQ3JVVzhPZng3cFdIZHZRSmdaRzJaSTJsWXVhSG03YkQyNlh1ZlQ2VERsNXkwWThiN0w1TTV1cjBzYjVOYkpjd1FvZ25JZjVQQUhXRHgwdEZWUml4R1RDT29idWkzVUpuZmMzX0NGcTVaTnpZWktNeVduTklwQTNVMjBwQWNLV2ZjRl9sY19mc0FRRkhkRWY5ZC03T3c2ZWV6NE80YkZESWd3?oc=5",
+        "date": "2026-01-19",
+        "title": "\"Flood Warning\" Issued at Ex-Prince Andrew's Rumored New Home, Marsh Farm - Marie Claire",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQWUNYa00wQ3JVVzhPZng3cFdIZHZRSmdaRzJaSTJsWXVhSG03YkQyNlh1ZlQ2VERsNXkwWThiN0w1TTV1cjBzYjVOYkpjd1FvZ25JZjVQQUhXRHgwdEZWUml4R1RDT29idWkzVUpuZmMzX0NGcTVaTnpZWktNeVduTklwQTNVMjBwQWNLV2ZjRl9sY19mc0FRRkhkRWY5ZC03T3c2ZWV6NE80YkZESWd3?oc=5\" target=\"_blank\">\"Flood Warning\" Issued at Ex-Prince Andrew's Rumored New Home, Marsh Farm</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Marie Claire</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": null,
+        "tweet_id": "2013370138842792147",
+        "geo": {
+            "country": "United Kingdom",
+            "name": "Marsh Farm, Berkshire",
+            "latitude": 51.4306,
+            "longitude": -1.0722,
+            "confidence": 0.95
+        }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQWUNYa00wQ3JVVzhPZng3cFdIZHZRSmdaRzJaSTJsWXVhSG03YkQyNlh1ZlQ2VERsNXkwWThiN0w1TTV1cjBzYjVOYkpjd1FvZ25JZjVQQUhXRHgwdEZWUml4R1RDT29idWkzVUpuZmMzX0NGcTVaTnpZWktNeVduTklwQTNVMjBwQWNLV2ZjRl9sY19mc0FRRkhkRWY5ZC03T3c2ZWV6NE80YkZESWd3?oc=5",
+        "date": "2026-01-19",
+        "title": "\"Flood Warning\" Issued at Ex-Prince Andrew's Rumored New Home, Marsh Farm - Marie Claire",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQWUNYa00wQ3JVVzhPZng3cFdIZHZRSmdaRzJaSTJsWXVhSG03YkQyNlh1ZlQ2VERsNXkwWThiN0w1TTV1cjBzYjVOYkpjd1FvZ25JZjVQQUhXRHgwdEZWUml4R1RDT29idWkzVUpuZmMzX0NGcTVaTnpZWktNeVduTklwQTNVMjBwQWNLV2ZjRl9sY19mc0FRRkhkRWY5ZC03T3c2ZWV6NE80YkZESWd3?oc=5\" target=\"_blank\">\"Flood Warning\" Issued at Ex-Prince Andrew's Rumored New Home, Marsh Farm</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Marie Claire</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "posted",
+        "tweet": "\ud83c\uddec\ud83c\udde7 FORECAST Marsh Farm: Flood warning issued for area including ex-Prince Andrews rumored new home, with risks of flooding from heavy rain (Marie Claire)",
+        "type": "news",
+        "tweet_id": "2013370138842792147",
+        "geo": {
+            "country": "United Kingdom",
+            "name": "Marsh Farm, Berkshire",
+            "latitude": 51.4306,
+            "longitude": -1.0722,
+            "confidence": 0.95
+        }
     }
 ]
