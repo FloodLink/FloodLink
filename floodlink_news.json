@@ -9246,5 +9246,42 @@
         "score": 1,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPQUJ3SzZkRDFuZGRKMW81VkJLTjl4bnBpcWNQOHBpUUdnQ09sN0JmQkFsRE5IZXlRc0JVa2tWQ0hpMXZYSmVrMmNWSWsyZnFOMkFKblY2Z0tvNlctTE80SGNWMjROcDJud3lfWjBzMC1Dc3VxSUdmMmtoODFvcTBYb2MyLVRtbE1fejRmTVR1NDZ1dW1pZVl5TUJTN2pOZDJJb1h5eUFISkRjTjl3MFlFazkzSHZVRzVDc3J4ci1OSDEzX29MMms1dVhTTTB6NjdrNVp1TnpweUFGTVRCdnN3VHVYaGdBdw?oc=5",
+        "date": "2026-01-20",
+        "title": "VIDEO: Barberton area flood warning: Senteeko Dam wall at risk of collapse - The Citizen",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxPQUJ3SzZkRDFuZGRKMW81VkJLTjl4bnBpcWNQOHBpUUdnQ09sN0JmQkFsRE5IZXlRc0JVa2tWQ0hpMXZYSmVrMmNWSWsyZnFOMkFKblY2Z0tvNlctTE80SGNWMjROcDJud3lfWjBzMC1Dc3VxSUdmMmtoODFvcTBYb2MyLVRtbE1fejRmTVR1NDZ1dW1pZVl5TUJTN2pOZDJJb1h5eUFISkRjTjl3MFlFazkzSHZVRzVDc3J4ci1OSDEzX29MMms1dVhTTTB6NjdrNVp1TnpweUFGTVRCdnN3VHVYaGdBdw?oc=5\" target=\"_blank\">VIDEO: Barberton area flood warning: Senteeko Dam wall at risk of collapse</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Citizen</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": null,
+        "tweet_id": "2013581892545847349",
+        "geo": {
+            "country": "South Africa",
+            "name": "Barberton",
+            "latitude": -25.75,
+            "longitude": 31.05,
+            "confidence": 0.95
+        }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPQUJ3SzZkRDFuZGRKMW81VkJLTjl4bnBpcWNQOHBpUUdnQ09sN0JmQkFsRE5IZXlRc0JVa2tWQ0hpMXZYSmVrMmNWSWsyZnFOMkFKblY2Z0tvNlctTE80SGNWMjROcDJud3lfWjBzMC1Dc3VxSUdmMmtoODFvcTBYb2MyLVRtbE1fejRmTVR1NDZ1dW1pZVl5TUJTN2pOZDJJb1h5eUFISkRjTjl3MFlFazkzSHZVRzVDc3J4ci1OSDEzX29MMms1dVhTTTB6NjdrNVp1TnpweUFGTVRCdnN3VHVYaGdBdw?oc=5",
+        "date": "2026-01-20",
+        "title": "VIDEO: Barberton area flood warning: Senteeko Dam wall at risk of collapse - The Citizen",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxPQUJ3SzZkRDFuZGRKMW81VkJLTjl4bnBpcWNQOHBpUUdnQ09sN0JmQkFsRE5IZXlRc0JVa2tWQ0hpMXZYSmVrMmNWSWsyZnFOMkFKblY2Z0tvNlctTE80SGNWMjROcDJud3lfWjBzMC1Dc3VxSUdmMmtoODFvcTBYb2MyLVRtbE1fejRmTVR1NDZ1dW1pZVl5TUJTN2pOZDJJb1h5eUFISkRjTjl3MFlFazkzSHZVRzVDc3J4ci1OSDEzX29MMms1dVhTTTB6NjdrNVp1TnpweUFGTVRCdnN3VHVYaGdBdw?oc=5\" target=\"_blank\">VIDEO: Barberton area flood warning: Senteeko Dam wall at risk of collapse</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Citizen</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "posted",
+        "tweet": "\ud83c\uddff\ud83c\udde6 FORECAST Barberton: Flood warning as Senteeko Dam wall risks collapse, threatening severe downstream flooding. Via The Citizen.",
+        "type": "news",
+        "tweet_id": "2013581892545847349",
+        "geo": {
+            "country": "South Africa",
+            "name": "Barberton",
+            "latitude": -25.75,
+            "longitude": 31.05,
+            "confidence": 0.95
+        }
     }
 ]
