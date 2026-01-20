@@ -9283,5 +9283,14 @@
             "longitude": 31.05,
             "confidence": 0.95
         }
+    },
+    {
+        "link": null,
+        "date": "2026-01-20",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 New York: Storm surge from extreme rainfall affected 1.2M people in 2023, vs. 800K in 2020\u201450% rise in exposure.  \n\ud83c\udde7\ud83c\uddf7 Rio de Janeiro: Flash floods doubled to 8 events in 2025 from 4 in 2020, with $1.5B losses vs. $700M.",
+        "type": "statistical",
+        "category": "extreme rainfall trends in major cities",
+        "tweet_id": "2013646836309881208"
     }
 ]
