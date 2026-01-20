@@ -9226,5 +9226,25 @@
         "tweet": "In 2026, the Netherlands \ud83c\uddf3\ud83c\uddf1 maintains 26,200 km of dikes and levees, shielding 60% of its land area\u2014home to 10 million people\u2014from rising flood risks.",
         "type": "infrastructure",
         "tweet_id": "2013484508385776116"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPUkloZVJVS1E3SEVnczUzdVhDbmQ1b3FRZDZTSm9uTDlvWmZzUE1JbmN1a1BGNXUyaFYwd01FVTlYUy1TaHo0aXFZb3U1Skc5MjlINFlaeFBCWUJLdC1PVHEweHQzd1dVT09lWXdaQnhjaWJJZEpPZFVXVXFSRXQxeUpZVUNXUQ?oc=5",
+        "date": "2026-01-20",
+        "title": "Governor Blames Record Rainfall for Jakarta Floods - Jakarta Globe",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxPUkloZVJVS1E3SEVnczUzdVhDbmQ1b3FRZDZTSm9uTDlvWmZzUE1JbmN1a1BGNXUyaFYwd01FVTlYUy1TaHo0aXFZb3U1Skc5MjlINFlaeFBCWUJLdC1PVHEweHQzd1dVT09lWXdaQnhjaWJJZEpPZFVXVXFSRXQxeUpZVUNXUQ?oc=5\" target=\"_blank\">Governor Blames Record Rainfall for Jakarta Floods</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Jakarta Globe</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBqUHdqbkhhM20tekY2NlozTy15TEdkSDlJX3l5aXJnNU93NDZiYnZSa2otU0tBQ3FtYlBmc2Z1cFhfaU5mWjhNWmRrYVUyY0V5Z3d3eVZQWmdJQdIBX0FVX3lxTE4wRWtabFdmMkh0YlpNUy1pNlJJanZ5SWdiWXVneGRES0RlNzY2ZFhFUkh0Q25teDFqV2RHV2VrQ0FMbVB6bHAzQlVaNDVMNWxWWVV6QUt1RjZld0tsZjA0?oc=5",
+        "date": "2026-01-20",
+        "title": "How landslides can affect rail travel in the south - BBC",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTFBqUHdqbkhhM20tekY2NlozTy15TEdkSDlJX3l5aXJnNU93NDZiYnZSa2otU0tBQ3FtYlBmc2Z1cFhfaU5mWjhNWmRrYVUyY0V5Z3d3eVZQWmdJQdIBX0FVX3lxTE4wRWtabFdmMkh0YlpNUy1pNlJJanZ5SWdiWXVneGRES0RlNzY2ZFhFUkh0Q25teDFqV2RHV2VrQ0FMbVB6bHAzQlVaNDVMNWxWWVV6QUt1RjZld0tsZjA0?oc=5\" target=\"_blank\">How landslides can affect rail travel in the south</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
+        "similarity_excluded": "No",
+        "score": 1,
+        "status": "processed",
+        "tweet": null
     }
 ]
