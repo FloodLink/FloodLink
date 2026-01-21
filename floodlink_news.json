@@ -9495,5 +9495,14 @@
             "longitude": 144.7937,
             "confidence": 0.95
         }
+    },
+    {
+        "link": null,
+        "date": "2026-01-21",
+        "status": "posted",
+        "tweet": "Top dense cities facing rising pluvial flood risks from extreme rainfall (projections to 2030, World Bank data).\n\n1. Mumbai \ud83c\uddee\ud83c\uddf3: 12M people exposed, $50B potential losses\n2. Dhaka \ud83c\udde7\ud83c\udde9: 8M exposed, 40% urban area flood-prone\n3. Lagos \ud83c\uddf3\ud83c\uddec: 7M exposed, 2x flash flood events since 2020\n",
+        "type": "statistical",
+        "category": "pluvial (surface) flooding in dense cities",
+        "tweet_id": "2013903971589431738"
     }
 ]
