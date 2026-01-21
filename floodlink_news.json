@@ -9534,5 +9534,42 @@
         "score": 0,
         "status": "skipped",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOX3RjRGRiWGdKUDJkT18zVjJxc1NoLTNlWDJndXo1MlctcHp5elBNUVdPMGlrNVpCcDVXdlRkQVhXaW54R0ItZ19xd21ZQmdVbVM5MXhzTHRaRUNsTU5OZEhLNjdvQjcyNzZDeFNXLVN6eUFVNnBGdEJPR3RPRk1jSVZEX3FlT0N1VU1iY25QSmZmR2N2akZadXdKUGE2NW9sY0tBOUxFZWNFQXA3MDZ4WWhrdUdJMTYxNTQ5SEc0OXlwZDZNWUkwcy1WUno2OWJWZlktM1paYWItRFhZV0JF?oc=5",
+        "date": "2026-01-21",
+        "title": "What to know about the extreme U.S. flooding \u2014 and ways to stay safe - tapinto.net",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxOX3RjRGRiWGdKUDJkT18zVjJxc1NoLTNlWDJndXo1MlctcHp5elBNUVdPMGlrNVpCcDVXdlRkQVhXaW54R0ItZ19xd21ZQmdVbVM5MXhzTHRaRUNsTU5OZEhLNjdvQjcyNzZDeFNXLVN6eUFVNnBGdEJPR3RPRk1jSVZEX3FlT0N1VU1iY25QSmZmR2N2akZadXdKUGE2NW9sY0tBOUxFZWNFQXA3MDZ4WWhrdUdJMTYxNTQ5SEc0OXlwZDZNWUkwcy1WUno2OWJWZlktM1paYWItRFhZV0JF?oc=5\" target=\"_blank\">What to know about the extreme U.S. flooding \u2014 and ways to stay safe</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">tapinto.net</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": null,
+        "tweet_id": "2014009814456955373",
+        "geo": {
+            "country": "United States",
+            "name": null,
+            "latitude": null,
+            "longitude": null,
+            "confidence": 0.8
+        }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOX3RjRGRiWGdKUDJkT18zVjJxc1NoLTNlWDJndXo1MlctcHp5elBNUVdPMGlrNVpCcDVXdlRkQVhXaW54R0ItZ19xd21ZQmdVbVM5MXhzTHRaRUNsTU5OZEhLNjdvQjcyNzZDeFNXLVN6eUFVNnBGdEJPR3RPRk1jSVZEX3FlT0N1VU1iY25QSmZmR2N2akZadXdKUGE2NW9sY0tBOUxFZWNFQXA3MDZ4WWhrdUdJMTYxNTQ5SEc0OXlwZDZNWUkwcy1WUno2OWJWZlktM1paYWItRFhZV0JF?oc=5",
+        "date": "2026-01-21",
+        "title": "What to know about the extreme U.S. flooding \u2014 and ways to stay safe - tapinto.net",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxOX3RjRGRiWGdKUDJkT18zVjJxc1NoLTNlWDJndXo1MlctcHp5elBNUVdPMGlrNVpCcDVXdlRkQVhXaW54R0ItZ19xd21ZQmdVbVM5MXhzTHRaRUNsTU5OZEhLNjdvQjcyNzZDeFNXLVN6eUFVNnBGdEJPR3RPRk1jSVZEX3FlT0N1VU1iY25QSmZmR2N2akZadXdKUGE2NW9sY0tBOUxFZWNFQXA3MDZ4WWhrdUdJMTYxNTQ5SEc0OXlwZDZNWUkwcy1WUno2OWJWZlktM1paYWItRFhZV0JF?oc=5\" target=\"_blank\">What to know about the extreme U.S. flooding \u2014 and ways to stay safe</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">tapinto.net</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 POST-EVENT United States: Extreme flooding causing widespread impacts; monitor alerts and avoid low-lying areas to stay safe. tapinto.net",
+        "type": "news",
+        "tweet_id": "2014009814456955373",
+        "geo": {
+            "country": "United States",
+            "name": null,
+            "latitude": null,
+            "longitude": null,
+            "confidence": 0.8
+        }
     }
 ]
