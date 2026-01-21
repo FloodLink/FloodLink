@@ -3773,7 +3773,7 @@
     "rain_mm": 55.62,
     "soil_moisture": 0.583,
     "raw_dynamic_score": 8.545,
-    "last_updated": "2026-01-21T01:11:58.750208Z",
+    "last_updated": "2026-01-21T09:28:54.552055Z",
     "last_tweeted_at": "2026-01-21T01:11:58.750208Z",
     "tweet_id": "2013782135652454454",
     "resolved": false
@@ -4133,7 +4133,7 @@
     "rain_mm": 54.0,
     "soil_moisture": 0.676,
     "raw_dynamic_score": 8.748,
-    "last_updated": "2026-01-21T04:07:37.833912Z",
+    "last_updated": "2026-01-21T09:28:54.552055Z",
     "last_tweeted_at": "2026-01-21T04:07:37.833912Z",
     "tweet_id": "2013825821719568715",
     "resolved": false
@@ -4208,7 +4208,7 @@
     "rain_mm": 40.5,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 7.746,
-    "last_updated": "2026-01-21T06:28:48.032056Z",
+    "last_updated": "2026-01-21T09:28:54.552055Z",
     "last_tweeted_at": "2026-01-21T06:28:48.032056Z",
     "tweet_id": "2013861608020164955",
     "resolved": false
@@ -4283,7 +4283,7 @@
     "rain_mm": 42.56,
     "soil_moisture": 0.656,
     "raw_dynamic_score": 6.816,
-    "last_updated": "2026-01-21T06:28:48.032056Z",
+    "last_updated": "2026-01-21T09:28:54.552055Z",
     "last_tweeted_at": "2026-01-21T06:28:48.032056Z",
     "tweet_id": "2013861860542423457",
     "resolved": false
@@ -4298,9 +4298,39 @@
     "rain_mm": 41.12,
     "soil_moisture": 0.646,
     "raw_dynamic_score": 6.552,
-    "last_updated": "2026-01-21T06:28:48.032056Z",
+    "last_updated": "2026-01-21T09:28:54.552055Z",
     "last_tweeted_at": "2026-01-21T06:28:48.032056Z",
     "tweet_id": "2013862112959795294",
+    "resolved": false
+  },
+  "-8.6199,122.2111": {
+    "country": "Indonesia",
+    "name": "Maumere",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": -8.6199,
+    "longitude": 122.2111,
+    "rain_mm": 35.62,
+    "soil_moisture": 1.0,
+    "raw_dynamic_score": 6.813,
+    "last_updated": "2026-01-21T09:28:54.552055Z",
+    "last_tweeted_at": "2026-01-21T09:28:54.552055Z",
+    "tweet_id": "2013906680413647055",
+    "resolved": false
+  },
+  "-39.4926,176.9123": {
+    "country": "New Zealand",
+    "name": "Napier",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": -39.4926,
+    "longitude": 176.91233,
+    "rain_mm": 36.12,
+    "soil_moisture": 1.0,
+    "raw_dynamic_score": 6.909,
+    "last_updated": "2026-01-21T09:28:54.552055Z",
+    "last_tweeted_at": "2026-01-21T09:28:54.552055Z",
+    "tweet_id": "2013906933015564727",
     "resolved": false
   }
 }
