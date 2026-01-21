@@ -9391,5 +9391,14 @@
         "score": 2,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-01-21",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 US cities: 2020-2023 extreme rainfall flooded 12M people, $120B losses.\n\n\ud83c\uddea\ud83c\uddfa European cities: Same period exposed 8M, $90B damages.\n\n2024-2026 projections: US up 25% to 15M exposed; Europe 20% to 9.6M.",
+        "type": "statistical",
+        "category": "extreme rainfall trends in major cities",
+        "tweet_id": "2013854147263549609"
     }
 ]
