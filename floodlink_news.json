@@ -9621,5 +9621,25 @@
         "score": 6,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxObFhZQ25lVW1SQVZaQnJaN3ZJVnBydHpqekQ4aWIxM2dQeXE2WkpjUHZsaERaMEx6YVZvZ1AtVTFDVmpsb0dtOTRFb2FON2xoXzRtS1BqM2lGVm52TkRQLXF3Wk1XVGtBUDZlMXU1T0ZTUWZXQkRqVHpwcGN3ZG8xYkJLNFZHOU8td0JlOVBTVkxuNkhqY0l6clJ0NGExckJtVk5VeHd1Rl82ejFNWmNOQkhlZUlLbDhvOUs0?oc=5",
+        "date": "2026-01-21",
+        "title": "New amber weather warning for rain amid risk of floods and power cuts - MSN",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxObFhZQ25lVW1SQVZaQnJaN3ZJVnBydHpqekQ4aWIxM2dQeXE2WkpjUHZsaERaMEx6YVZvZ1AtVTFDVmpsb0dtOTRFb2FON2xoXzRtS1BqM2lGVm52TkRQLXF3Wk1XVGtBUDZlMXU1T0ZTUWZXQkRqVHpwcGN3ZG8xYkJLNFZHOU8td0JlOVBTVkxuNkhqY0l6clJ0NGExckJtVk5VeHd1Rl82ejFNWmNOQkhlZUlLbDhvOUs0?oc=5\" target=\"_blank\">New amber weather warning for rain amid risk of floods and power cuts</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNY0daZU5GOGxVeGUzVXB1b3o3NUEyZTZqcHZDUEwzdWltRWoyd0JaVnFSZWVzYjNBWjhPMG1OTmJINnV1WmhFcDNxbV93cnZRbDllb3NaYU9UR2NSUUpHZTJKTFhPa3BZU1dZZFoxV013dFlkazBnRU15NUZFVkh4Nng1bk50NjNwUGpiNWZVcmtqaEEycmdnTA?oc=5",
+        "date": "2026-01-21",
+        "title": "Scotland weather: Met Office rain warning upgraded to amber as forecasters say flooding 'likely' - scotsman.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNY0daZU5GOGxVeGUzVXB1b3o3NUEyZTZqcHZDUEwzdWltRWoyd0JaVnFSZWVzYjNBWjhPMG1OTmJINnV1WmhFcDNxbV93cnZRbDllb3NaYU9UR2NSUUpHZTJKTFhPa3BZU1dZZFoxV013dFlkazBnRU15NUZFVkh4Nng1bk50NjNwUGpiNWZVcmtqaEEycmdnTA?oc=5\" target=\"_blank\">Scotland weather: Met Office rain warning upgraded to amber as forecasters say flooding 'likely'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">scotsman.com</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
     }
 ]
