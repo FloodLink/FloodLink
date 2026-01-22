@@ -3181,7 +3181,7 @@
     "rain_mm": 54.56,
     "soil_moisture": 0.559,
     "raw_dynamic_score": 8.264,
-    "last_updated": "2026-01-22T04:08:42.671537Z",
+    "last_updated": "2026-01-22T06:27:42.664216Z",
     "last_tweeted_at": "2026-01-20T21:18:04.274322Z",
     "tweet_id": "2013723272148554211",
     "resolved": false
@@ -3950,9 +3950,39 @@
     "rain_mm": 34.06,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 6.514,
-    "last_updated": "2026-01-22T04:08:42.671537Z",
+    "last_updated": "2026-01-22T06:27:42.664216Z",
     "last_tweeted_at": "2026-01-22T04:08:42.671537Z",
     "tweet_id": "2014188734409740474",
+    "resolved": false
+  },
+  "-2.6283,-56.7358": {
+    "country": "Brazil",
+    "name": "Parintins",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": -2.62833,
+    "longitude": -56.73583,
+    "rain_mm": 55.06,
+    "soil_moisture": 0.67,
+    "raw_dynamic_score": 8.888,
+    "last_updated": "2026-01-22T06:27:42.664216Z",
+    "last_tweeted_at": "2026-01-22T06:27:42.664216Z",
+    "tweet_id": "2014223474676420682",
+    "resolved": false
+  },
+  "-4.3306,-49.7964": {
+    "country": "Brazil",
+    "name": "Novo Repartimento",
+    "risk_level": "High",
+    "tweeted_level": "High",
+    "latitude": -4.33056,
+    "longitude": -49.79639,
+    "rain_mm": 74.44,
+    "soil_moisture": 0.711,
+    "raw_dynamic_score": 12.29,
+    "last_updated": "2026-01-22T06:27:42.664216Z",
+    "last_tweeted_at": "2026-01-22T06:27:42.664216Z",
+    "tweet_id": "2014223727412515122",
     "resolved": false
   }
 }
