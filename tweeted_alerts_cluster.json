@@ -1029,7 +1029,7 @@
     "rain_mm": 74.31,
     "soil_moisture": 0.756,
     "raw_dynamic_score": 12.574,
-    "last_updated": "2026-01-22T01:12:06.018576Z",
+    "last_updated": "2026-01-22T04:08:42.671537Z",
     "last_tweeted_at": "2026-01-21T21:25:57.091276Z",
     "tweet_id": "2014087387559895400",
     "resolved": false
@@ -3181,7 +3181,7 @@
     "rain_mm": 54.56,
     "soil_moisture": 0.559,
     "raw_dynamic_score": 8.264,
-    "last_updated": "2026-01-22T01:12:06.018576Z",
+    "last_updated": "2026-01-22T04:08:42.671537Z",
     "last_tweeted_at": "2026-01-20T21:18:04.274322Z",
     "tweet_id": "2013723272148554211",
     "resolved": false
@@ -3886,13 +3886,13 @@
     "rain_mm": 48.94,
     "soil_moisture": 0.702,
     "raw_dynamic_score": 8.043,
-    "last_updated": "2026-01-22T01:12:06.018576Z",
+    "last_updated": "2026-01-22T04:08:42.671537Z",
     "last_tweeted_at": "2026-01-21T21:25:57.091276Z",
     "tweet_id": "2014087387559895400",
     "resolved": false,
     "pending_downgrade": true,
-    "pending_target_level": "Medium",
-    "pending_set_at": "2026-01-22T01:12:06.018576Z",
+    "pending_target_level": "Low",
+    "pending_set_at": "2026-01-22T04:08:42.671537Z",
     "pending_is_region": true
   },
   "-8.4601,118.7267": {
@@ -3905,7 +3905,7 @@
     "rain_mm": 54.81,
     "soil_moisture": 0.713,
     "raw_dynamic_score": 9.061,
-    "last_updated": "2026-01-22T01:12:06.018576Z",
+    "last_updated": "2026-01-22T04:08:42.671537Z",
     "last_tweeted_at": "2026-01-21T21:25:57.091276Z",
     "tweet_id": "2014087387559895400",
     "resolved": false
@@ -3920,9 +3920,39 @@
     "rain_mm": 44.06,
     "soil_moisture": 0.57,
     "raw_dynamic_score": 6.716,
-    "last_updated": "2026-01-22T01:12:06.018576Z",
+    "last_updated": "2026-01-22T04:08:42.671537Z",
     "last_tweeted_at": "2026-01-22T01:12:06.018576Z",
     "tweet_id": "2014144046705545273",
+    "resolved": false
+  },
+  "-4.0009,-49.5068": {
+    "country": "Brazil",
+    "name": "Breu Branco",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": -4.00092,
+    "longitude": -49.5068,
+    "rain_mm": 57.88,
+    "soil_moisture": 0.664,
+    "raw_dynamic_score": 9.315,
+    "last_updated": "2026-01-22T04:08:42.671537Z",
+    "last_tweeted_at": "2026-01-22T04:08:42.671537Z",
+    "tweet_id": "2014188481791119644",
+    "resolved": false
+  },
+  "-17.6333,-149.6000": {
+    "country": "French Polynesia",
+    "name": "Punaauia",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": -17.63333,
+    "longitude": -149.6,
+    "rain_mm": 34.06,
+    "soil_moisture": 1.0,
+    "raw_dynamic_score": 6.514,
+    "last_updated": "2026-01-22T04:08:42.671537Z",
+    "last_tweeted_at": "2026-01-22T04:08:42.671537Z",
+    "tweet_id": "2014188734409740474",
     "resolved": false
   }
 }
