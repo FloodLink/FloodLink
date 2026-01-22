@@ -9842,5 +9842,14 @@
             "longitude": 176.185,
             "confidence": 1.0
         }
+    },
+    {
+        "link": null,
+        "date": "2026-01-22",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 NYC's pluvial flooding exposed 1.2M residents in 2023 storms, vs 850K in \ud83c\uddec\ud83c\udde7 London's 2021 flash floods. By 2026, NYC projections show 40% more at risk (1.7M) from extreme rainfall, per NOAA data.",
+        "type": "statistical",
+        "category": "pluvial (surface) flooding in dense cities",
+        "tweet_id": "2014216634773413945"
     }
 ]
