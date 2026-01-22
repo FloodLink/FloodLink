@@ -3181,7 +3181,7 @@
     "rain_mm": 54.56,
     "soil_moisture": 0.559,
     "raw_dynamic_score": 8.264,
-    "last_updated": "2026-01-22T06:27:42.664216Z",
+    "last_updated": "2026-01-22T09:29:59.755243Z",
     "last_tweeted_at": "2026-01-20T21:18:04.274322Z",
     "tweet_id": "2013723272148554211",
     "resolved": false
@@ -3935,7 +3935,7 @@
     "rain_mm": 57.88,
     "soil_moisture": 0.664,
     "raw_dynamic_score": 9.315,
-    "last_updated": "2026-01-22T04:08:42.671537Z",
+    "last_updated": "2026-01-22T09:29:59.755243Z",
     "last_tweeted_at": "2026-01-22T04:08:42.671537Z",
     "tweet_id": "2014188481791119644",
     "resolved": false
@@ -3983,6 +3983,36 @@
     "last_updated": "2026-01-22T06:27:42.664216Z",
     "last_tweeted_at": "2026-01-22T06:27:42.664216Z",
     "tweet_id": "2014223727412515122",
+    "resolved": false
+  },
+  "-7.2975,108.7642": {
+    "country": "Indonesia",
+    "name": "Majenang",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": -7.2975,
+    "longitude": 108.7642,
+    "rain_mm": 42.12,
+    "soil_moisture": 0.671,
+    "raw_dynamic_score": 6.804,
+    "last_updated": "2026-01-22T09:29:59.755243Z",
+    "last_tweeted_at": "2026-01-22T09:29:59.755243Z",
+    "tweet_id": "2014269348337119421",
+    "resolved": false
+  },
+  "-7.3817,108.2082": {
+    "country": "Indonesia",
+    "name": "Kawalu",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": -7.3817,
+    "longitude": 108.2082,
+    "rain_mm": 46.81,
+    "soil_moisture": 0.627,
+    "raw_dynamic_score": 7.375,
+    "last_updated": "2026-01-22T09:29:59.755243Z",
+    "last_tweeted_at": "2026-01-22T09:29:59.755243Z",
+    "tweet_id": "2014269601035571402",
     "resolved": false
   }
 }
