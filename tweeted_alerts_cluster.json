@@ -3074,7 +3074,7 @@
     "rain_mm": 54.56,
     "soil_moisture": 0.559,
     "raw_dynamic_score": 8.264,
-    "last_updated": "2026-01-23T04:05:05.430575Z",
+    "last_updated": "2026-01-23T06:27:05.353147Z",
     "last_tweeted_at": "2026-01-20T21:18:04.274322Z",
     "tweet_id": "2013723272148554211",
     "resolved": false
@@ -3584,7 +3584,7 @@
     "rain_mm": 0.38,
     "soil_moisture": 0.674,
     "raw_dynamic_score": 0.061,
-    "last_updated": "2026-01-23T04:05:05.430575Z",
+    "last_updated": "2026-01-23T06:27:05.353147Z",
     "last_tweeted_at": "2026-01-23T04:05:05.430575Z",
     "tweet_id": "2014549960436355459",
     "resolved": true,
@@ -3630,11 +3630,15 @@
     "rain_mm": 0.06,
     "soil_moisture": 0.657,
     "raw_dynamic_score": 0.01,
-    "last_updated": "2026-01-23T04:05:05.430575Z",
+    "last_updated": "2026-01-23T06:27:05.353147Z",
     "last_tweeted_at": "2026-01-23T04:05:05.430575Z",
     "tweet_id": "2014549960436355459",
     "resolved": true,
-    "resolved_at": "2026-01-23T04:05:05.430575Z"
+    "resolved_at": "2026-01-23T04:05:05.430575Z",
+    "pending_downgrade": true,
+    "pending_target_level": "Medium",
+    "pending_set_at": "2026-01-23T06:27:05.353147Z",
+    "pending_is_region": true
   },
   "37.9643,23.4965": {
     "country": "Greece",
@@ -4111,7 +4115,7 @@
     "rain_mm": 60.0,
     "soil_moisture": 0.669,
     "raw_dynamic_score": 9.682,
-    "last_updated": "2026-01-23T04:05:05.430575Z",
+    "last_updated": "2026-01-23T06:27:05.353147Z",
     "last_tweeted_at": "2026-01-23T04:05:05.430575Z",
     "tweet_id": "2014549960436355459",
     "resolved": false
@@ -4126,7 +4130,7 @@
     "rain_mm": 60.0,
     "soil_moisture": 0.669,
     "raw_dynamic_score": 9.682,
-    "last_updated": "2026-01-23T04:05:05.430575Z",
+    "last_updated": "2026-01-23T06:27:05.353147Z",
     "last_tweeted_at": "2026-01-23T04:05:05.430575Z",
     "tweet_id": "2014549960436355459",
     "resolved": false
@@ -4141,7 +4145,7 @@
     "rain_mm": 83.81,
     "soil_moisture": 0.694,
     "raw_dynamic_score": 13.716,
-    "last_updated": "2026-01-23T04:05:05.430575Z",
+    "last_updated": "2026-01-23T06:27:05.353147Z",
     "last_tweeted_at": "2026-01-23T04:05:05.430575Z",
     "tweet_id": "2014549960436355459",
     "resolved": false
