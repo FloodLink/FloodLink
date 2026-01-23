@@ -10360,5 +10360,52 @@
         "score": 6,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTWR1a1p5UkJab2twdWxBby1PZ1dPUDNjT3ZvV19fNUNMdkNDelhOVDZTYmt3aG12WkdFZHpTUW4zNXRGV2pZZGVuakpaTV9QTTRwMzV6MkhwX1p5RUc0aGI5ckVFT0UtVGJ0SkZzdXlDZmQ5ajBjOVpBRG9XRW5pUUVhaDBWVW5qa0VTTXVGZFhxaGdfTFVGdy16RTM?oc=5",
+        "date": "2026-01-23",
+        "title": "Southern Africa: Heavy rains and floods Flash Update No. 1 - ReliefWeb",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPTWR1a1p5UkJab2twdWxBby1PZ1dPUDNjT3ZvV19fNUNMdkNDelhOVDZTYmt3aG12WkdFZHpTUW4zNXRGV2pZZGVuakpaTV9QTTRwMzV6MkhwX1p5RUc0aGI5ckVFT0UtVGJ0SkZzdXlDZmQ5ajBjOVpBRG9XRW5pUUVhaDBWVW5qa0VTTXVGZFhxaGdfTFVGdy16RTM?oc=5\" target=\"_blank\">Southern Africa: Heavy rains and floods Flash Update No. 1</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ReliefWeb</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPSTFLYlFJMjQ3Nk1yd0dzdnJTTDhhWGQ1Q0FGbHZvV01TM1FmTmJnV29UV3R6Uzc0aHVTWjdDdkh0dGdtM0FOOF8zMEdyX1kzMVVrbWtYOGpUX0w3QnpqOEExd3F6X1MzdzFvdHA3bHBWQ3pmYU1KdEhfa0dCZGp4dw?oc=5",
+        "date": "2026-01-23",
+        "title": "The Mount Maunganui tragedy reminds us landslides are NZ\u2019s deadliest natural hazard - Yahoo News Australia",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPSTFLYlFJMjQ3Nk1yd0dzdnJTTDhhWGQ1Q0FGbHZvV01TM1FmTmJnV29UV3R6Uzc0aHVTWjdDdkh0dGdtM0FOOF8zMEdyX1kzMVVrbWtYOGpUX0w3QnpqOEExd3F6X1MzdzFvdHA3bHBWQ3pmYU1KdEhfa0dCZGp4dw?oc=5\" target=\"_blank\">The Mount Maunganui tragedy reminds us landslides are NZ\u2019s deadliest natural hazard</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo News Australia</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": null,
+        "tweet_id": "2014628262735921566",
+        "geo": {
+            "country": "New Zealand",
+            "name": "Mount Maunganui",
+            "latitude": -37.65,
+            "longitude": 176.18,
+            "confidence": 0.95
+        }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPSTFLYlFJMjQ3Nk1yd0dzdnJTTDhhWGQ1Q0FGbHZvV01TM1FmTmJnV29UV3R6Uzc0aHVTWjdDdkh0dGdtM0FOOF8zMEdyX1kzMVVrbWtYOGpUX0w3QnpqOEExd3F6X1MzdzFvdHA3bHBWQ3pmYU1KdEhfa0dCZGp4dw?oc=5",
+        "date": "2026-01-23",
+        "title": "The Mount Maunganui tragedy reminds us landslides are NZ\u2019s deadliest natural hazard - Yahoo News Australia",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPSTFLYlFJMjQ3Nk1yd0dzdnJTTDhhWGQ1Q0FGbHZvV01TM1FmTmJnV29UV3R6Uzc0aHVTWjdDdkh0dGdtM0FOOF8zMEdyX1kzMVVrbWtYOGpUX0w3QnpqOEExd3F6X1MzdzFvdHA3bHBWQ3pmYU1KdEhfa0dCZGp4dw?oc=5\" target=\"_blank\">The Mount Maunganui tragedy reminds us landslides are NZ\u2019s deadliest natural hazard</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo News Australia</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "posted",
+        "tweet": "\ud83c\uddf3\ud83c\uddff POST-EVENT Mount Maunganui: Landslide from rain causes tragedy, reminding that landslides are New Zealands deadliest natural hazard. (Yahoo News Australia)",
+        "type": "news",
+        "tweet_id": "2014628262735921566",
+        "geo": {
+            "country": "New Zealand",
+            "name": "Mount Maunganui",
+            "latitude": -37.65,
+            "longitude": 176.18,
+            "confidence": 0.95
+        }
     }
 ]
