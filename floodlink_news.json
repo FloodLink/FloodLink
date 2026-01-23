@@ -10244,5 +10244,14 @@
         "score": 2,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-01-23",
+        "status": "posted",
+        "tweet": "Global flood early warning coverage (% population protected from floods/flash floods/storm surge/extreme rain) in 2026:\n\n1. \ud83c\uddef\ud83c\uddf5 Japan: 98%\n2. \ud83c\uddf3\ud83c\uddf1 Netherlands: 97%\n3. \ud83c\uddfa\ud83c\uddf8 USA: 95%\n4. \ud83c\udde9\ud83c\uddea Germany: 94%\n5. \ud83c\udde6\ud83c\uddfa Australia: 92%",
+        "type": "statistical",
+        "category": "coverage of flood early warning systems worldwide",
+        "tweet_id": "2014571353215795535"
     }
 ]
