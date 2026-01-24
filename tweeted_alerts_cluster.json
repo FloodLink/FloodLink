@@ -1859,38 +1859,6 @@
     "tweet_id": "2012591282300796977",
     "resolved": false
   },
-  "-6.2842,107.8106": {
-    "country": "Indonesia",
-    "name": "Pamanukan",
-    "risk_level": "Low",
-    "tweeted_level": "Low",
-    "latitude": -6.28417,
-    "longitude": 107.81056,
-    "rain_mm": 5.31,
-    "soil_moisture": 0.684,
-    "raw_dynamic_score": 0.864,
-    "last_updated": "2026-01-23T18:26:13.109859Z",
-    "last_tweeted_at": "2026-01-23T18:26:13.109859Z",
-    "tweet_id": "2014766683140055308",
-    "resolved": true,
-    "resolved_at": "2026-01-23T18:26:13.109859Z"
-  },
-  "-6.3264,108.3200": {
-    "country": "Indonesia",
-    "name": "Indramayu",
-    "risk_level": "Low",
-    "tweeted_level": "Low",
-    "latitude": -6.32639,
-    "longitude": 108.32,
-    "rain_mm": 5.38,
-    "soil_moisture": 1.0,
-    "raw_dynamic_score": 1.028,
-    "last_updated": "2026-01-23T18:26:13.109859Z",
-    "last_tweeted_at": "2026-01-23T18:26:13.109859Z",
-    "tweet_id": "2014766683140055308",
-    "resolved": true,
-    "resolved_at": "2026-01-23T18:26:13.109859Z"
-  },
   "-17.8333,48.4167": {
     "country": "Madagascar",
     "name": "Ambatondrazaka",
@@ -3691,38 +3659,6 @@
     "tweet_id": "2014269348337119421",
     "resolved": false
   },
-  "-6.4622,108.4519": {
-    "country": "Indonesia",
-    "name": "Karangampel",
-    "risk_level": "Low",
-    "tweeted_level": "Low",
-    "latitude": -6.46222,
-    "longitude": 108.45194,
-    "rain_mm": 5.25,
-    "soil_moisture": 0.686,
-    "raw_dynamic_score": 0.855,
-    "last_updated": "2026-01-23T18:26:13.109859Z",
-    "last_tweeted_at": "2026-01-23T18:26:13.109859Z",
-    "tweet_id": "2014766683140055308",
-    "resolved": true,
-    "resolved_at": "2026-01-23T18:26:13.109859Z"
-  },
-  "-6.4747,108.3153": {
-    "country": "Indonesia",
-    "name": "Jatibarang",
-    "risk_level": "Low",
-    "tweeted_level": "Low",
-    "latitude": -6.47472,
-    "longitude": 108.31528,
-    "rain_mm": 5.75,
-    "soil_moisture": 0.692,
-    "raw_dynamic_score": 0.94,
-    "last_updated": "2026-01-23T18:26:13.109859Z",
-    "last_tweeted_at": "2026-01-23T18:26:13.109859Z",
-    "tweet_id": "2014766683140055308",
-    "resolved": true,
-    "resolved_at": "2026-01-23T18:26:13.109859Z"
-  },
   "-7.6051,111.9035": {
     "country": "Indonesia",
     "name": "Nganjuk",
@@ -3767,22 +3703,6 @@
     "last_tweeted_at": "2026-01-22T12:35:39.754575Z",
     "tweet_id": "2014316573394096504",
     "resolved": false
-  },
-  "-6.5700,107.7567": {
-    "country": "Indonesia",
-    "name": "Subang",
-    "risk_level": "Low",
-    "tweeted_level": "Low",
-    "latitude": -6.57,
-    "longitude": 107.75667,
-    "rain_mm": 6.06,
-    "soil_moisture": 0.712,
-    "raw_dynamic_score": 1.002,
-    "last_updated": "2026-01-23T18:26:13.109859Z",
-    "last_tweeted_at": "2026-01-23T18:26:13.109859Z",
-    "tweet_id": "2014766683140055308",
-    "resolved": true,
-    "resolved_at": "2026-01-23T18:26:13.109859Z"
   },
   "32.9243,75.1357": {
     "country": "India",
@@ -4236,7 +4156,7 @@
     "rain_mm": 67.44,
     "soil_moisture": 0.647,
     "raw_dynamic_score": 10.745,
-    "last_updated": "2026-01-24T15:17:02.969269Z",
+    "last_updated": "2026-01-24T21:16:21.918511Z",
     "last_tweeted_at": "2026-01-24T15:17:02.969269Z",
     "tweet_id": "2015081458424037721",
     "resolved": false
@@ -4266,7 +4186,7 @@
     "rain_mm": 48.75,
     "soil_moisture": 0.59,
     "raw_dynamic_score": 7.517,
-    "last_updated": "2026-01-24T15:17:02.969269Z",
+    "last_updated": "2026-01-24T21:16:21.918511Z",
     "last_tweeted_at": "2026-01-24T15:17:02.969269Z",
     "tweet_id": "2015081710782644481",
     "resolved": false
