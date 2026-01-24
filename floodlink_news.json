@@ -10766,5 +10766,14 @@
         "score": 8,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-01-24",
+        "status": "posted",
+        "tweet": "Global flood fatalities: 2020-2023 averaged 4,200 deaths/year from floods, flash floods & extreme rainfall.  \n2024-2026 projection: 6,100 deaths/year\u2014a 45% rise, per UN estimates.  \nStorm surges now account for 25% of total, up from 15%.",
+        "type": "statistical",
+        "category": "global flood fatalities and trends",
+        "tweet_id": "2014980267891671546"
     }
 ]
