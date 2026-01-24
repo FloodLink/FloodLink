@@ -4141,7 +4141,7 @@
     "rain_mm": 54.62,
     "soil_moisture": 0.584,
     "raw_dynamic_score": 8.397,
-    "last_updated": "2026-01-24T06:24:54.948455Z",
+    "last_updated": "2026-01-24T09:17:45.242886Z",
     "last_tweeted_at": "2026-01-24T04:00:31.257046Z",
     "tweet_id": "2014911453120364597",
     "resolved": false
@@ -4209,16 +4209,16 @@
   "-17.0104,-46.0085": {
     "country": "Brazil",
     "name": "Brasilândia de Minas",
-    "risk_level": "Medium",
-    "tweeted_level": "Medium",
+    "risk_level": "High",
+    "tweeted_level": "High",
     "latitude": -17.01037,
     "longitude": -46.00851,
-    "rain_mm": 62.0,
-    "soil_moisture": 0.659,
-    "raw_dynamic_score": 9.947,
-    "last_updated": "2026-01-24T06:24:54.948455Z",
-    "last_tweeted_at": "2026-01-24T06:24:54.948455Z",
-    "tweet_id": "2014947547064746025",
+    "rain_mm": 83.62,
+    "soil_moisture": 0.67,
+    "raw_dynamic_score": 13.501,
+    "last_updated": "2026-01-24T09:17:45.242886Z",
+    "last_tweeted_at": "2026-01-24T09:17:45.242886Z",
+    "tweet_id": "2014991045327785988",
     "resolved": false
   },
   "25.0321,-111.6626": {
@@ -4234,6 +4234,21 @@
     "last_updated": "2026-01-24T06:24:54.948455Z",
     "last_tweeted_at": "2026-01-24T06:24:54.948455Z",
     "tweet_id": "2014947799721234847",
+    "resolved": false
+  },
+  "-13.5000,48.8667": {
+    "country": "Madagascar",
+    "name": "Ambarakaraka",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": -13.5,
+    "longitude": 48.86667,
+    "rain_mm": 47.0,
+    "soil_moisture": 0.58,
+    "raw_dynamic_score": 7.207,
+    "last_updated": "2026-01-24T09:17:45.242886Z",
+    "last_tweeted_at": "2026-01-24T09:17:45.242886Z",
+    "tweet_id": "2014991298051428380",
     "resolved": false
   }
 }
