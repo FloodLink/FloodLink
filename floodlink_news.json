@@ -10936,5 +10936,14 @@
             "longitude": 107.6191,
             "confidence": 0.7
         }
+    },
+    {
+        "link": null,
+        "date": "2026-01-24",
+        "status": "posted",
+        "tweet": "Top 5 nations by pop. protected from floods/flash floods via dams, levees & reservoirs (2020-25 data):\n\n1. \ud83c\udde8\ud83c\uddf3 China: 148M (Yangtze sys.)\n2. \ud83c\uddfa\ud83c\uddf8 USA: 75M (Mississippi levees)\n3. \ud83c\uddee\ud83c\uddf3 India: 62M (Narmada dams)\n4. \ud83c\uddf3\ud83c\uddf1 Netherlands: 17M (Delta Works)\n5. \ud83c\udde7\ud83c\udde9 Bangladesh: 15M (Ganges barrages",
+        "type": "statistical",
+        "category": "dams, levees and reservoirs used for flood control",
+        "tweet_id": "2015000847160066487"
     }
 ]
