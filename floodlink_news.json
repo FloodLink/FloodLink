@@ -11429,5 +11429,14 @@
         "score": 0,
         "status": "skipped",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-01-25",
+        "status": "posted",
+        "tweet": "2026 projections: Top urban areas by population exposed to river flooding & storm surge.\n\n\ud83c\udde8\ud83c\uddf3 Shanghai: 24M people\n\ud83c\udde7\ud83c\udde9 Dhaka: 18M\n\ud83c\uddee\ud83c\udde9 Jakarta: 15M\n\ud83c\uddee\ud83c\uddf3 Mumbai: 12M\n\ud83c\uddfa\ud83c\uddf8 New York: 8M",
+        "type": "statistical",
+        "category": "urban areas exposed to river flooding",
+        "tweet_id": "2015393325063590021"
     }
 ]
