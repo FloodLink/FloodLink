@@ -9,7 +9,7 @@
     "rain_mm": 34.94,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 6.682,
-    "last_updated": "2026-01-05T15:34:52.075955Z",
+    "last_updated": "2026-01-25T21:16:27.560068Z",
     "last_tweeted_at": "2026-01-05T14:28:15.949495Z",
     "tweet_id": "2008183811104735281",
     "resolved": false
@@ -174,7 +174,7 @@
     "rain_mm": 41.75,
     "soil_moisture": 0.739,
     "raw_dynamic_score": 7.0,
-    "last_updated": "2026-01-06T04:07:36.663581Z",
+    "last_updated": "2026-01-25T21:16:27.560068Z",
     "last_tweeted_at": "2026-01-06T02:22:19.403509Z",
     "tweet_id": "2008363763112480824",
     "resolved": false
@@ -1524,7 +1524,7 @@
     "rain_mm": 36.94,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 7.064,
-    "last_updated": "2026-01-25T18:23:43.351938Z",
+    "last_updated": "2026-01-25T21:16:27.560068Z",
     "last_tweeted_at": "2026-01-25T18:23:43.351938Z",
     "tweet_id": "2015492336646774902",
     "resolved": false
@@ -4290,7 +4290,7 @@
     "rain_mm": 49.38,
     "soil_moisture": 0.737,
     "raw_dynamic_score": 8.27,
-    "last_updated": "2026-01-25T18:23:43.351938Z",
+    "last_updated": "2026-01-25T21:16:27.560068Z",
     "last_tweeted_at": "2026-01-25T18:23:43.351938Z",
     "tweet_id": "2015490822154932641",
     "resolved": false
@@ -4305,7 +4305,7 @@
     "rain_mm": 52.44,
     "soil_moisture": 0.706,
     "raw_dynamic_score": 8.636,
-    "last_updated": "2026-01-25T18:23:43.351938Z",
+    "last_updated": "2026-01-25T21:16:27.560068Z",
     "last_tweeted_at": "2026-01-25T18:23:43.351938Z",
     "tweet_id": "2015491074526150841",
     "resolved": false
@@ -4410,10 +4410,18 @@
     "rain_mm": 79.12,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 15.133,
-    "last_updated": "2026-01-25T18:23:43.351938Z",
+    "last_updated": "2026-01-25T21:16:27.560068Z",
     "last_tweeted_at": "2026-01-25T18:23:43.351938Z",
     "tweet_id": "2015491579591672204",
-    "resolved": false
+    "resolved": false,
+    "pending_downgrade": true,
+    "pending_target_level": "Low",
+    "pending_set_at": "2026-01-25T21:16:27.560068Z",
+    "pending_is_region": false,
+    "pending_observed_level": "Low",
+    "pending_observed_rain_mm": 28.06,
+    "pending_observed_soil_moisture": 1.0,
+    "pending_observed_raw_dynamic_score": 5.367
   },
   "11.6388,124.8417": {
     "country": "Philippines",
@@ -4503,6 +4511,21 @@
     "last_updated": "2026-01-25T18:23:43.351938Z",
     "last_tweeted_at": "2026-01-25T18:23:43.351938Z",
     "tweet_id": "2015492336646774902",
+    "resolved": false
+  },
+  "26.2483,60.7525": {
+    "country": "Islamic Republic of Iran",
+    "name": "Qaşr-e Qand",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 26.24833,
+    "longitude": 60.7525,
+    "rain_mm": 48.25,
+    "soil_moisture": 0.541,
+    "raw_dynamic_score": 7.227,
+    "last_updated": "2026-01-25T21:16:27.560068Z",
+    "last_tweeted_at": "2026-01-25T21:16:27.560068Z",
+    "tweet_id": "2015534294735688143",
     "resolved": false
   }
 }
