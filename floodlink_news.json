@@ -11552,5 +11552,82 @@
             "longitude": null,
             "confidence": 0.5
         }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPZS0xYjZnNWFHMU05RFp2eDY3NHdVeTdyeEVSbkhBQm5BWnF5bkdGNzhKZFZiQS1qUzUwRmNURENMSml6R1VHUEQtRi1HcFFzdnhGckNnZ1pxOE1QNGM5cXpqU3owNlFGNUtsaVpIQ2swS2xiYzlvZkc0R25jbHVDNzFaZWRkZWEtamlzZEJqU1VEUnQ5SG0ya1kwcnA3aXpTZnl1T3F4Y0JhUEZGNElyNWhRWVRLc0U1R25wYVYtVm5jSlJYRkxSbDE2ZHAwV2w3RGJSZEl4MzM5T2c?oc=5",
+        "date": "2026-01-25",
+        "title": "Flood warning affecting Madison County until early Sunday evening caused by significant rainfall - al.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxPZS0xYjZnNWFHMU05RFp2eDY3NHdVeTdyeEVSbkhBQm5BWnF5bkdGNzhKZFZiQS1qUzUwRmNURENMSml6R1VHUEQtRi1HcFFzdnhGckNnZ1pxOE1QNGM5cXpqU3owNlFGNUtsaVpIQ2swS2xiYzlvZkc0R25jbHVDNzFaZWRkZWEtamlzZEJqU1VEUnQ5SG0ya1kwcnA3aXpTZnl1T3F4Y0JhUEZGNElyNWhRWVRLc0U1R25wYVYtVm5jSlJYRkxSbDE2ZHAwV2w3RGJSZEl4MzM5T2c?oc=5\" target=\"_blank\">Flood warning affecting Madison County until early Sunday evening caused by significant rainfall</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">al.com</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5EU3l6ajU5SDRSU3JGLXNTQ3VwVnY3cjBGMTh5d0E3UGRwdm9nSmJYVWg0dXdRQ2FIVVBReTVRMXM5RFotQkJQSElFVlNiMUh2NTNrdmE0SGtkWU1sZDF5ZUlrYjNXbzJCUXo1dWhGSjNyS0REREE?oc=5",
+        "date": "2026-01-25",
+        "title": "Flood warning in place for Madison County - waff.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE5EU3l6ajU5SDRSU3JGLXNTQ3VwVnY3cjBGMTh5d0E3UGRwdm9nSmJYVWg0dXdRQ2FIVVBReTVRMXM5RFotQkJQSElFVlNiMUh2NTNrdmE0SGtkWU1sZDF5ZUlrYjNXbzJCUXo1dWhGSjNyS0REREE?oc=5\" target=\"_blank\">Flood warning in place for Madison County</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">waff.com</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQV1c2SHFGSEt4NzFFdEpRYkY5LWZ4TXJlQno0SlRRNWJLNGgtdFlaQUJjOWQwdEw5dlZCU1E1WDJxMnNWOUNMRkpleDBVaVgwemxfaUQ2dlJUcHVSLXdIcV95NlNpWnJaaGZGVEZvRnk3THdNdEdtMkhTQnVYUHZCWTNrSUpXTnpIQ0c2cmVEdDMwMFJGLW44VWNpRGhudTJSVUgxWHNLdHI5b285RXlmX3ZYdm9VTWFSSlhlbE54blpab25TTWlrbnVpZm5WSXFRRFBiSmRNc002Tm12dU10ejB30gFfQVVfeXFMTmhldE5IcUJ5MkJwbWlNdHA2ZWdqRmxsTDRzcF9KVWVWeDNWTWx2eHZQZ0poNFF0Ulk4RFBldkhOWTFjTWpac244dzcxUDV5NEthRzJqVldoYVFKYkhtN3c?oc=5",
+        "date": "2026-01-25",
+        "title": "Yellow weather warning for rain issued for south east England - BBC",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxQV1c2SHFGSEt4NzFFdEpRYkY5LWZ4TXJlQno0SlRRNWJLNGgtdFlaQUJjOWQwdEw5dlZCU1E1WDJxMnNWOUNMRkpleDBVaVgwemxfaUQ2dlJUcHVSLXdIcV95NlNpWnJaaGZGVEZvRnk3THdNdEdtMkhTQnVYUHZCWTNrSUpXTnpIQ0c2cmVEdDMwMFJGLW44VWNpRGhudTJSVUgxWHNLdHI5b285RXlmX3ZYdm9VTWFSSlhlbE54blpab25TTWlrbnVpZm5WSXFRRFBiSmRNc002Tm12dU10ejB30gFfQVVfeXFMTmhldE5IcUJ5MkJwbWlNdHA2ZWdqRmxsTDRzcF9KVWVWeDNWTWx2eHZQZ0poNFF0Ulk4RFBldkhOWTFjTWpac244dzcxUDV5NEthRzJqVldoYVFKYkhtN3c?oc=5\" target=\"_blank\">Yellow weather warning for rain issued for south east England</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQVXQ5SGhXYmhhSFlJMVZHNG9KMzJ1Q1Z1WnhwZUt5eXRnbmg5OFRRTWtzUVVTR1F1VnB3WG80akh5cmxHcFV4VTJRT2s4bHdLbWZYUE5GeGZBXzV6ZFBTdXdvSVE3TjRGaWE2NXo5V1ZxaFF6cXM1ZUNISEp1Vjk0Vmx2VjRTU1ktRG5TcHg5SDF3Z1EzTzg0d0Y0cWljUlJDX1VlNEpxeExEaG0wbkFkQVIyOUJBLWM5QjVBaGQ0Mjl1bHI4UmkyWk40MjVEV1VpTXdTODlseG1pMUxlN0t2YmZQVVhvT0lVT2YyVkVDR29XbWVvVnExTDZHbGdZVzJkVHloT1ZjZ1RzS1E?oc=5",
+        "date": "2026-01-25",
+        "title": "Flood warning issued for northern Alabama and southern middle Tennessee until 6 p.m. Sunday - rocketcitynow.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwJBVV95cUxQVXQ5SGhXYmhhSFlJMVZHNG9KMzJ1Q1Z1WnhwZUt5eXRnbmg5OFRRTWtzUVVTR1F1VnB3WG80akh5cmxHcFV4VTJRT2s4bHdLbWZYUE5GeGZBXzV6ZFBTdXdvSVE3TjRGaWE2NXo5V1ZxaFF6cXM1ZUNISEp1Vjk0Vmx2VjRTU1ktRG5TcHg5SDF3Z1EzTzg0d0Y0cWljUlJDX1VlNEpxeExEaG0wbkFkQVIyOUJBLWM5QjVBaGQ0Mjl1bHI4UmkyWk40MjVEV1VpTXdTODlseG1pMUxlN0t2YmZQVVhvT0lVT2YyVkVDR29XbWVvVnExTDZHbGdZVzJkVHloT1ZjZ1RzS1E?oc=5\" target=\"_blank\">Flood warning issued for northern Alabama and southern middle Tennessee until 6 p.m. Sunday</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">rocketcitynow.com</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": null,
+        "tweet_id": "2015500132934926395",
+        "geo": {
+            "country": "United States",
+            "name": "Northern Alabama and Southern Middle Tennessee",
+            "latitude": 35.0,
+            "longitude": -86.0,
+            "confidence": 0.8
+        }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE04b1dTTWswTmpZWUVZQ3hqNXVHU0sxajROUWM4c0M0SU9fQ0ozR2k4NkZzUUxPSmxySFcxZEFkU3dGUGJJWDNpaUZGdDRvY3A2UV9MSHFjSE9qQdIBX0FVX3lxTE9mVFM5LVM4NFFZX1VxMjFDVWZjMWtzd0tuUGplc0Rnc2hwLWYxU0s4UWthbk1oMW9WYkNXbU9YOG56bmdBb1hyTFhMWEpXYk54U2JINlV2UzY0MW1HV2hz?oc=5",
+        "date": "2026-01-25",
+        "title": "West Country: Flood warnings and road closures in place after rain - BBC",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE04b1dTTWswTmpZWUVZQ3hqNXVHU0sxajROUWM4c0M0SU9fQ0ozR2k4NkZzUUxPSmxySFcxZEFkU3dGUGJJWDNpaUZGdDRvY3A2UV9MSHFjSE9qQdIBX0FVX3lxTE9mVFM5LVM4NFFZX1VxMjFDVWZjMWtzd0tuUGplc0Rnc2hwLWYxU0s4UWthbk1oMW9WYkNXbU9YOG56bmdBb1hyTFhMWEpXYk54U2JINlV2UzY0MW1HV2hz?oc=5\" target=\"_blank\">West Country: Flood warnings and road closures in place after rain</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQVXQ5SGhXYmhhSFlJMVZHNG9KMzJ1Q1Z1WnhwZUt5eXRnbmg5OFRRTWtzUVVTR1F1VnB3WG80akh5cmxHcFV4VTJRT2s4bHdLbWZYUE5GeGZBXzV6ZFBTdXdvSVE3TjRGaWE2NXo5V1ZxaFF6cXM1ZUNISEp1Vjk0Vmx2VjRTU1ktRG5TcHg5SDF3Z1EzTzg0d0Y0cWljUlJDX1VlNEpxeExEaG0wbkFkQVIyOUJBLWM5QjVBaGQ0Mjl1bHI4UmkyWk40MjVEV1VpTXdTODlseG1pMUxlN0t2YmZQVVhvT0lVT2YyVkVDR29XbWVvVnExTDZHbGdZVzJkVHloT1ZjZ1RzS1E?oc=5",
+        "date": "2026-01-25",
+        "title": "Flood warning issued for northern Alabama and southern middle Tennessee until 6 p.m. Sunday - rocketcitynow.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwJBVV95cUxQVXQ5SGhXYmhhSFlJMVZHNG9KMzJ1Q1Z1WnhwZUt5eXRnbmg5OFRRTWtzUVVTR1F1VnB3WG80akh5cmxHcFV4VTJRT2s4bHdLbWZYUE5GeGZBXzV6ZFBTdXdvSVE3TjRGaWE2NXo5V1ZxaFF6cXM1ZUNISEp1Vjk0Vmx2VjRTU1ktRG5TcHg5SDF3Z1EzTzg0d0Y0cWljUlJDX1VlNEpxeExEaG0wbkFkQVIyOUJBLWM5QjVBaGQ0Mjl1bHI4UmkyWk40MjVEV1VpTXdTODlseG1pMUxlN0t2YmZQVVhvT0lVT2YyVkVDR29XbWVvVnExTDZHbGdZVzJkVHloT1ZjZ1RzS1E?oc=5\" target=\"_blank\">Flood warning issued for northern Alabama and southern middle Tennessee until 6 p.m. Sunday</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">rocketcitynow.com</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 FORECAST Northern Alabama and Southern Tennessee: Flood warning until 6 p.m. Sunday, with risks of flash flooding from heavy rain. (rocketcitynow.com)",
+        "type": "news",
+        "tweet_id": "2015500132934926395",
+        "geo": {
+            "country": "United States",
+            "name": "Northern Alabama and Southern Middle Tennessee",
+            "latitude": 35.0,
+            "longitude": -86.0,
+            "confidence": 0.8
+        }
     }
 ]
