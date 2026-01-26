@@ -11751,5 +11751,25 @@
         "score": 0,
         "status": "skipped",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBmYnFJdzNkTWUxWi1ISzlLRXhTWC1HN1F6WEZGTHN1ZlZ3SlcxZkJJMU9MN3dZVVZ6WmtfWElBLXpVTG1ZOEo5RldWSFRIcUZkT09NdE5YQmJhblBiTkxMX3oxWlJmdXZ2UXBHcWFQaFctemFTcVhvZU93?oc=5",
+        "date": "2026-01-26",
+        "title": "Wind and flood warning as heavy rain set to fall on Northern Ireland - Yahoo News Canada",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTFBmYnFJdzNkTWUxWi1ISzlLRXhTWC1HN1F6WEZGTHN1ZlZ3SlcxZkJJMU9MN3dZVVZ6WmtfWElBLXpVTG1ZOEo5RldWSFRIcUZkT09NdE5YQmJhblBiTkxMX3oxWlJmdXZ2UXBHcWFQaFctemFTcVhvZU93?oc=5\" target=\"_blank\">Wind and flood warning as heavy rain set to fall on Northern Ireland</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo News Canada</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZkNYXzN1Z0p2Ni15aldob1VDdlVRc084M1VHMmtfTU5UXzYyVXg5Qk4wMWFnenhtTzYzYnhXaGVXODREUjJHQjVNTERLNDNybkxzTzVYQ2xxLVF5VkdoLXlaNE1vamI3akYyZk1hM0Z6T1NFNWFnZ2RIU2p3cHd2S0RfdEl0VVNBVHRoOWlVWGs3Q3oxNW8ydFVIVjdOYmJCeVAwRTd5LXRiUEJRVGxF?oc=5",
+        "date": "2026-01-26",
+        "title": "Indonesian marines among 42 missing after deadly West Java landslide - edp24.co.uk",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQZkNYXzN1Z0p2Ni15aldob1VDdlVRc084M1VHMmtfTU5UXzYyVXg5Qk4wMWFnenhtTzYzYnhXaGVXODREUjJHQjVNTERLNDNybkxzTzVYQ2xxLVF5VkdoLXlaNE1vamI3akYyZk1hM0Z6T1NFNWFnZ2RIU2p3cHd2S0RfdEl0VVNBVHRoOWlVWGs3Q3oxNW8ydFVIVjdOYmJCeVAwRTd5LXRiUEJRVGxF?oc=5\" target=\"_blank\">Indonesian marines among 42 missing after deadly West Java landslide</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">edp24.co.uk</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
     }
 ]
