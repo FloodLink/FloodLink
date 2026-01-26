@@ -774,7 +774,7 @@
     "rain_mm": 40.62,
     "soil_moisture": 0.683,
     "raw_dynamic_score": 6.607,
-    "last_updated": "2026-01-26T09:31:06.662394Z",
+    "last_updated": "2026-01-26T15:36:30.016500Z",
     "last_tweeted_at": "2026-01-10T12:28:25.166400Z",
     "tweet_id": "2009966857025917384",
     "resolved": false
@@ -4108,18 +4108,18 @@
     "rain_mm": 175.38,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 33.54,
-    "last_updated": "2026-01-26T12:35:23.275986Z",
+    "last_updated": "2026-01-26T15:36:30.016500Z",
     "last_tweeted_at": "2026-01-26T04:16:58.639406Z",
     "tweet_id": "2015640112193806820",
     "resolved": false,
     "pending_downgrade": true,
-    "pending_target_level": "High",
-    "pending_set_at": "2026-01-26T12:35:23.275986Z",
+    "pending_target_level": "Medium",
+    "pending_set_at": "2026-01-26T15:36:30.016500Z",
     "pending_is_region": false,
-    "pending_observed_level": "High",
-    "pending_observed_rain_mm": 74.12,
+    "pending_observed_level": "Medium",
+    "pending_observed_rain_mm": 47.62,
     "pending_observed_soil_moisture": 1.0,
-    "pending_observed_raw_dynamic_score": 14.176
+    "pending_observed_raw_dynamic_score": 9.108
   },
   "44.0572,17.4508": {
     "country": "Bosnia and Herzegovina",
@@ -4514,6 +4514,36 @@
     "last_updated": "2026-01-26T12:35:23.275986Z",
     "last_tweeted_at": "2026-01-26T12:35:23.275986Z",
     "tweet_id": "2015765551587463197",
+    "resolved": false
+  },
+  "5.1628,-52.6427": {
+    "country": "French Guiana",
+    "name": "Kourou",
+    "risk_level": "High",
+    "tweeted_level": "High",
+    "latitude": 5.16281,
+    "longitude": -52.64265,
+    "rain_mm": 95.5,
+    "soil_moisture": 0.674,
+    "raw_dynamic_score": 15.452,
+    "last_updated": "2026-01-26T15:36:30.016500Z",
+    "last_tweeted_at": "2026-01-26T15:36:30.016500Z",
+    "tweet_id": "2015811121039704475",
+    "resolved": false
+  },
+  "-16.7971,47.6516": {
+    "country": "Madagascar",
+    "name": "Tsaratanana",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": -16.79706,
+    "longitude": 47.65165,
+    "rain_mm": 51.81,
+    "soil_moisture": 0.619,
+    "raw_dynamic_score": 8.128,
+    "last_updated": "2026-01-26T15:36:30.016500Z",
+    "last_tweeted_at": "2026-01-26T15:36:30.016500Z",
+    "tweet_id": "2015811373549371721",
     "resolved": false
   }
 }
