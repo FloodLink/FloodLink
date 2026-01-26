@@ -774,7 +774,7 @@
     "rain_mm": 40.62,
     "soil_moisture": 0.683,
     "raw_dynamic_score": 6.607,
-    "last_updated": "2026-01-10T15:15:41.544290Z",
+    "last_updated": "2026-01-26T09:31:06.662394Z",
     "last_tweeted_at": "2026-01-10T12:28:25.166400Z",
     "tweet_id": "2009966857025917384",
     "resolved": false
@@ -3963,22 +3963,6 @@
     "tweet_id": "2014911453120364597",
     "resolved": false
   },
-  "-17.0104,-46.0085": {
-    "country": "Brazil",
-    "name": "Brasilândia de Minas",
-    "risk_level": "Low",
-    "tweeted_level": "Low",
-    "latitude": -17.01037,
-    "longitude": -46.00851,
-    "rain_mm": 2.0,
-    "soil_moisture": 0.545,
-    "raw_dynamic_score": 0.3,
-    "last_updated": "2026-01-25T09:18:39.285948Z",
-    "last_tweeted_at": "2026-01-25T09:18:39.285948Z",
-    "tweet_id": "2015353905392066940",
-    "resolved": true,
-    "resolved_at": "2026-01-25T09:18:39.285948Z"
-  },
   "25.0321,-111.6626": {
     "country": "Mexico",
     "name": "Ciudad Constitución",
@@ -4505,7 +4489,7 @@
     "rain_mm": 41.06,
     "soil_moisture": 0.644,
     "raw_dynamic_score": 6.534,
-    "last_updated": "2026-01-26T06:30:30.170356Z",
+    "last_updated": "2026-01-26T09:31:06.662394Z",
     "last_tweeted_at": "2026-01-26T06:30:30.170356Z",
     "tweet_id": "2015673724150628624",
     "resolved": false
