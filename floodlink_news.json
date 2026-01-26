@@ -11533,5 +11533,14 @@
             "longitude": 107.6191,
             "confidence": 0.95
         }
+    },
+    {
+        "link": null,
+        "date": "2026-01-26",
+        "status": "posted",
+        "tweet": "\ud83c\uddee\ud83c\uddf3 In 2025, 180 million urban residents in India faced river flooding exposure, vs. 45 million in the \ud83c\uddfa\ud83c\uddf8 US\u2014a 4x regional disparity amid rising extreme rainfall (World Bank data). Projections to 2030: +20% globally.",
+        "type": "statistical",
+        "category": "urban areas exposed to river flooding",
+        "tweet_id": "2015716366934802738"
     }
 ]
