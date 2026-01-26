@@ -4197,16 +4197,16 @@
   "11.6081,125.4319": {
     "country": "Philippines",
     "name": "Borongan",
-    "risk_level": "Medium",
-    "tweeted_level": "Medium",
+    "risk_level": "Extreme",
+    "tweeted_level": "Extreme",
     "latitude": 11.60806,
     "longitude": 125.43194,
-    "rain_mm": 39.31,
+    "rain_mm": 175.38,
     "soil_moisture": 1.0,
-    "raw_dynamic_score": 7.519,
-    "last_updated": "2026-01-26T01:17:03.125260Z",
-    "last_tweeted_at": "2026-01-25T09:18:39.285948Z",
-    "tweet_id": "2015353652890783994",
+    "raw_dynamic_score": 33.54,
+    "last_updated": "2026-01-26T04:16:58.639406Z",
+    "last_tweeted_at": "2026-01-26T04:16:58.639406Z",
+    "tweet_id": "2015640112193806820",
     "resolved": false
   },
   "44.0572,17.4508": {
@@ -4452,7 +4452,7 @@
     "rain_mm": 53.25,
     "soil_moisture": 0.639,
     "raw_dynamic_score": 8.447,
-    "last_updated": "2026-01-25T18:23:43.351938Z",
+    "last_updated": "2026-01-26T04:16:58.639406Z",
     "last_tweeted_at": "2026-01-25T18:23:43.351938Z",
     "tweet_id": "2015491831916831175",
     "resolved": false
@@ -4516,10 +4516,18 @@
     "rain_mm": 69.5,
     "soil_moisture": 0.677,
     "raw_dynamic_score": 11.262,
-    "last_updated": "2026-01-26T01:17:03.125260Z",
+    "last_updated": "2026-01-26T04:16:58.639406Z",
     "last_tweeted_at": "2026-01-25T18:23:43.351938Z",
     "tweet_id": "2015492336646774902",
-    "resolved": false
+    "resolved": false,
+    "pending_downgrade": true,
+    "pending_target_level": "Low",
+    "pending_set_at": "2026-01-26T04:16:58.639406Z",
+    "pending_is_region": false,
+    "pending_observed_level": "Low",
+    "pending_observed_rain_mm": 3.69,
+    "pending_observed_soil_moisture": 0.657,
+    "pending_observed_raw_dynamic_score": 0.591
   },
   "26.2483,60.7525": {
     "country": "Islamic Republic of Iran",
@@ -4546,7 +4554,7 @@
     "rain_mm": 47.56,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 9.096,
-    "last_updated": "2026-01-26T01:17:03.125260Z",
+    "last_updated": "2026-01-26T04:16:58.639406Z",
     "last_tweeted_at": "2026-01-26T01:17:03.125260Z",
     "tweet_id": "2015594843913756893",
     "resolved": false
