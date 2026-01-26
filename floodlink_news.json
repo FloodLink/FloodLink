@@ -11542,5 +11542,25 @@
         "type": "statistical",
         "category": "urban areas exposed to river flooding",
         "tweet_id": "2015716366934802738"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1zZ1FjR01iVUloaHhYNlVpRXJGV3B2SVVMWVRHWktMazdnNXZ5bkZWQm9pMUduRWNpUWQzV29XWjRIajBqSTdCYWYyeTlFNDk5aEVvd3E0Q2xnQdIBX0FVX3lxTE1La193S3JfRU9uY0dVU3NKRnZDdG00bkZPNkN6MjdlbEtIcWJTd1lWTlRmLVhTTG9wLTFaVk5tOEtqeDRQWFlkWmhTaGd6SDhOOE85R21HMGZxZFBScThn?oc=5",
+        "date": "2026-01-26",
+        "title": "Flood warning as heavy rain to bring travel disruption to Wales - BBC",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE1zZ1FjR01iVUloaHhYNlVpRXJGV3B2SVVMWVRHWktMazdnNXZ5bkZWQm9pMUduRWNpUWQzV29XWjRIajBqSTdCYWYyeTlFNDk5aEVvd3E0Q2xnQdIBX0FVX3lxTE1La193S3JfRU9uY0dVU3NKRnZDdG00bkZPNkN6MjdlbEtIcWJTd1lWTlRmLVhTTG9wLTFaVk5tOEtqeDRQWFlkWmhTaGd6SDhOOE85R21HMGZxZFBScThn?oc=5\" target=\"_blank\">Flood warning as heavy rain to bring travel disruption to Wales</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxORzN1czZjNlE1U2FpSUVhS09qamsyVkU1ZkdHdE5JNUloUy04aGFxd0J2V0NFejI4SVRrb1g5aDk3NmdTeFZvaFoyV0VfWXRSRFJLZWFvSWNuQzVXQlJjR1VLSUpRdmhWWFBqVU9LbW1NWkdLSkVySnhwYWhDY0szb01GSFZUU3RhWWJobHhYXy1aOF9JRnVHVlRjUXJqSk5xaVVUVQ?oc=5",
+        "date": "2026-01-26",
+        "title": "Death toll rises to 25 after landslide in Indonesia's West Java - Az\u0259rtac",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxORzN1czZjNlE1U2FpSUVhS09qamsyVkU1ZkdHdE5JNUloUy04aGFxd0J2V0NFejI4SVRrb1g5aDk3NmdTeFZvaFoyV0VfWXRSRFJLZWFvSWNuQzVXQlJjR1VLSUpRdmhWWFBqVU9LbW1NWkdLSkVySnhwYWhDY0szb01GSFZUU3RhWWJobHhYXy1aOF9JRnVHVlRjUXJqSk5xaVVUVQ?oc=5\" target=\"_blank\">Death toll rises to 25 after landslide in Indonesia's West Java</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Az\u0259rtac</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
     }
 ]
