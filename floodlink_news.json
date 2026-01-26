@@ -11642,5 +11642,14 @@
         "score": 0,
         "status": "skipped",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-01-26",
+        "status": "posted",
+        "tweet": "By 2030, extreme rainfall could double annual global flood losses to $500B without upgraded dams & reservoirs\u2014exposing 1B+ people. (World Bank projection, 2023)",
+        "type": "statistical",
+        "category": "dams, levees and reservoirs used for flood control",
+        "tweet_id": "2015772740234695116"
     }
 ]
