@@ -4104,18 +4104,10 @@
     "rain_mm": 175.38,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 33.54,
-    "last_updated": "2026-01-26T18:28:24.133636Z",
+    "last_updated": "2026-01-26T21:20:24.928414Z",
     "last_tweeted_at": "2026-01-26T04:16:58.639406Z",
     "tweet_id": "2015640112193806820",
-    "resolved": false,
-    "pending_downgrade": true,
-    "pending_target_level": "Medium",
-    "pending_set_at": "2026-01-26T15:36:30.016500Z",
-    "pending_is_region": false,
-    "pending_observed_level": "Medium",
-    "pending_observed_rain_mm": 47.62,
-    "pending_observed_soil_moisture": 1.0,
-    "pending_observed_raw_dynamic_score": 9.108
+    "resolved": false
   },
   "44.0572,17.4508": {
     "country": "Bosnia and Herzegovina",
@@ -4504,14 +4496,18 @@
     "rain_mm": 95.5,
     "soil_moisture": 0.674,
     "raw_dynamic_score": 15.452,
-    "last_updated": "2026-01-26T18:28:24.133636Z",
+    "last_updated": "2026-01-26T21:20:24.928414Z",
     "last_tweeted_at": "2026-01-26T15:36:30.016500Z",
     "tweet_id": "2015811121039704475",
     "resolved": false,
     "pending_downgrade": true,
-    "pending_target_level": "Medium",
-    "pending_set_at": "2026-01-26T18:28:24.133636Z",
-    "pending_is_region": true
+    "pending_target_level": "Low",
+    "pending_set_at": "2026-01-26T21:20:24.928414Z",
+    "pending_is_region": false,
+    "pending_observed_level": "Low",
+    "pending_observed_rain_mm": 2.12,
+    "pending_observed_soil_moisture": 0.587,
+    "pending_observed_raw_dynamic_score": 0.327
   },
   "-16.7971,47.6516": {
     "country": "Madagascar",
@@ -4523,7 +4519,7 @@
     "rain_mm": 51.81,
     "soil_moisture": 0.619,
     "raw_dynamic_score": 8.128,
-    "last_updated": "2026-01-26T15:36:30.016500Z",
+    "last_updated": "2026-01-26T21:20:24.928414Z",
     "last_tweeted_at": "2026-01-26T15:36:30.016500Z",
     "tweet_id": "2015811373549371721",
     "resolved": false
