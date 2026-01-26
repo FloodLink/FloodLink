@@ -3993,22 +3993,6 @@
     "tweet_id": "2014991298051428380",
     "resolved": false
   },
-  "-1.8530,-65.5743": {
-    "country": "Brazil",
-    "name": "Maraã",
-    "risk_level": "Low",
-    "tweeted_level": "Low",
-    "latitude": -1.85302,
-    "longitude": -65.57426,
-    "rain_mm": 0.56,
-    "soil_moisture": 0.592,
-    "raw_dynamic_score": 0.087,
-    "last_updated": "2026-01-25T12:31:19.665673Z",
-    "last_tweeted_at": "2026-01-25T12:31:19.665673Z",
-    "tweet_id": "2015403152431108253",
-    "resolved": true,
-    "resolved_at": "2026-01-25T12:31:19.665673Z"
-  },
   "-14.2167,48.0833": {
     "country": "Madagascar",
     "name": "Maromandia",
@@ -4124,10 +4108,18 @@
     "rain_mm": 175.38,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 33.54,
-    "last_updated": "2026-01-26T04:16:58.639406Z",
+    "last_updated": "2026-01-26T12:35:23.275986Z",
     "last_tweeted_at": "2026-01-26T04:16:58.639406Z",
     "tweet_id": "2015640112193806820",
-    "resolved": false
+    "resolved": false,
+    "pending_downgrade": true,
+    "pending_target_level": "High",
+    "pending_set_at": "2026-01-26T12:35:23.275986Z",
+    "pending_is_region": false,
+    "pending_observed_level": "High",
+    "pending_observed_rain_mm": 74.12,
+    "pending_observed_soil_moisture": 1.0,
+    "pending_observed_raw_dynamic_score": 14.176
   },
   "44.0572,17.4508": {
     "country": "Bosnia and Herzegovina",
@@ -4492,6 +4484,36 @@
     "last_updated": "2026-01-26T09:31:06.662394Z",
     "last_tweeted_at": "2026-01-26T06:30:30.170356Z",
     "tweet_id": "2015673724150628624",
+    "resolved": false
+  },
+  "4.9167,-52.2667": {
+    "country": "French Guiana",
+    "name": "Rémire-Montjoly",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 4.91667,
+    "longitude": -52.26667,
+    "rain_mm": 34.94,
+    "soil_moisture": 1.0,
+    "raw_dynamic_score": 6.682,
+    "last_updated": "2026-01-26T12:35:23.275986Z",
+    "last_tweeted_at": "2026-01-26T12:35:23.275986Z",
+    "tweet_id": "2015765551587463197",
+    "resolved": false
+  },
+  "4.9381,-52.3346": {
+    "country": "French Guiana",
+    "name": "Cayenne",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 4.9381,
+    "longitude": -52.33455,
+    "rain_mm": 34.94,
+    "soil_moisture": 1.0,
+    "raw_dynamic_score": 6.682,
+    "last_updated": "2026-01-26T12:35:23.275986Z",
+    "last_tweeted_at": "2026-01-26T12:35:23.275986Z",
+    "tweet_id": "2015765551587463197",
     "resolved": false
   }
 }
