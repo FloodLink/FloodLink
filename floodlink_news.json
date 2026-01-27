@@ -11526,5 +11526,42 @@
         "score": 0,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQSHZsWHNqV1VqZVAyeC1YY3YtVTZuMUQ4eUhuVHB6SGZJMHFnYVdqQVVuSm9tcmxVR08zWDNtRzdia2NlTVRjR3dhZWtaQWZDZk1PMWdDUjVGelh1ajI2V2ZTeWpoVTJ3aUFRdkZVZF9veUxPRFVwSEh6b0J3dUFRTHBvVUlQdS1yaXRDTTQ5elNxcnVCeTZHTTljT2pDOXhqZEhKXw?oc=5",
+        "date": "2026-01-27",
+        "title": "Residents of Einasleigh in Far North Queensland evacuate amid flooding - Australian Broadcasting Corporation",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQSHZsWHNqV1VqZVAyeC1YY3YtVTZuMUQ4eUhuVHB6SGZJMHFnYVdqQVVuSm9tcmxVR08zWDNtRzdia2NlTVRjR3dhZWtaQWZDZk1PMWdDUjVGelh1ajI2V2ZTeWpoVTJ3aUFRdkZVZF9veUxPRFVwSEh6b0J3dUFRTHBvVUlQdS1yaXRDTTQ5elNxcnVCeTZHTTljT2pDOXhqZEhKXw?oc=5\" target=\"_blank\">Residents of Einasleigh in Far North Queensland evacuate amid flooding</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Australian Broadcasting Corporation</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": null,
+        "tweet_id": "2015998785684377973",
+        "geo": {
+            "country": "Australia",
+            "name": "Einasleigh",
+            "latitude": -18.64,
+            "longitude": 143.95,
+            "confidence": 1.0
+        }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQSHZsWHNqV1VqZVAyeC1YY3YtVTZuMUQ4eUhuVHB6SGZJMHFnYVdqQVVuSm9tcmxVR08zWDNtRzdia2NlTVRjR3dhZWtaQWZDZk1PMWdDUjVGelh1ajI2V2ZTeWpoVTJ3aUFRdkZVZF9veUxPRFVwSEh6b0J3dUFRTHBvVUlQdS1yaXRDTTQ5elNxcnVCeTZHTTljT2pDOXhqZEhKXw?oc=5",
+        "date": "2026-01-27",
+        "title": "Residents of Einasleigh in Far North Queensland evacuate amid flooding - Australian Broadcasting Corporation",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQSHZsWHNqV1VqZVAyeC1YY3YtVTZuMUQ4eUhuVHB6SGZJMHFnYVdqQVVuSm9tcmxVR08zWDNtRzdia2NlTVRjR3dhZWtaQWZDZk1PMWdDUjVGelh1ajI2V2ZTeWpoVTJ3aUFRdkZVZF9veUxPRFVwSEh6b0J3dUFRTHBvVUlQdS1yaXRDTTQ5elNxcnVCeTZHTTljT2pDOXhqZEhKXw?oc=5\" target=\"_blank\">Residents of Einasleigh in Far North Queensland evacuate amid flooding</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Australian Broadcasting Corporation</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "posted",
+        "tweet": "\ud83c\udde6\ud83c\uddfa POST-EVENT Einasleigh, Queensland: Residents evacuating amid flooding from heavy rains (ABC)",
+        "type": "news",
+        "tweet_id": "2015998785684377973",
+        "geo": {
+            "country": "Australia",
+            "name": "Einasleigh",
+            "latitude": -18.64,
+            "longitude": 143.95,
+            "confidence": 1.0
+        }
     }
 ]
