@@ -4545,10 +4545,14 @@
     "rain_mm": 78.56,
     "soil_moisture": 0.59,
     "raw_dynamic_score": 12.114,
-    "last_updated": "2026-01-27T01:15:53.566430Z",
+    "last_updated": "2026-01-27T04:08:40.181373Z",
     "last_tweeted_at": "2026-01-27T01:15:53.566430Z",
     "tweet_id": "2015956942351696096",
-    "resolved": false
+    "resolved": false,
+    "pending_downgrade": true,
+    "pending_target_level": "Low",
+    "pending_set_at": "2026-01-27T04:08:40.181373Z",
+    "pending_is_region": true
   },
   "-3.4578,-42.3703": {
     "country": "Brazil",
@@ -4560,9 +4564,39 @@
     "rain_mm": 50.06,
     "soil_moisture": 0.574,
     "raw_dynamic_score": 7.649,
-    "last_updated": "2026-01-27T01:15:53.566430Z",
+    "last_updated": "2026-01-27T04:08:40.181373Z",
     "last_tweeted_at": "2026-01-27T01:15:53.566430Z",
     "tweet_id": "2015957195108843888",
+    "resolved": false
+  },
+  "-11.5247,-61.0128": {
+    "country": "Brazil",
+    "name": "Espigão dOeste",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": -11.52472,
+    "longitude": -61.01278,
+    "rain_mm": 43.88,
+    "soil_moisture": 0.709,
+    "raw_dynamic_score": 7.236,
+    "last_updated": "2026-01-27T04:08:40.181373Z",
+    "last_tweeted_at": "2026-01-27T04:08:40.181373Z",
+    "tweet_id": "2016000406787162177",
+    "resolved": false
+  },
+  "-12.1201,-58.0027": {
+    "country": "Brazil",
+    "name": "Brasnorte",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": -12.1201,
+    "longitude": -58.00274,
+    "rain_mm": 56.62,
+    "soil_moisture": 0.71,
+    "raw_dynamic_score": 9.346,
+    "last_updated": "2026-01-27T04:08:40.181373Z",
+    "last_tweeted_at": "2026-01-27T04:08:40.181373Z",
+    "tweet_id": "2016000659238047786",
     "resolved": false
   }
 }
