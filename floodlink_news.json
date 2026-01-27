@@ -11822,5 +11822,14 @@
         "score": 1,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-01-27",
+        "status": "posted",
+        "tweet": "By 2026, early warning systems for floods, flash floods, and extreme rainfall are projected to cover just 50% of the 2.5B people globally at risk\u2014leaving 1.25B vulnerable to deadly surges.",
+        "type": "statistical",
+        "category": "coverage of flood early warning systems worldwide",
+        "tweet_id": "2016078358023692640"
     }
 ]
