@@ -3669,7 +3669,7 @@
     "rain_mm": 42.25,
     "soil_moisture": 0.709,
     "raw_dynamic_score": 6.968,
-    "last_updated": "2026-01-22T15:25:58.484503Z",
+    "last_updated": "2026-01-27T06:28:05.671853Z",
     "last_tweeted_at": "2026-01-22T12:35:39.754575Z",
     "tweet_id": "2014316320871837759",
     "resolved": false
@@ -4097,25 +4097,18 @@
   "11.6081,125.4319": {
     "country": "Philippines",
     "name": "Borongan",
-    "risk_level": "Extreme",
-    "tweeted_level": "Extreme",
+    "risk_level": "Low",
+    "tweeted_level": "Low",
     "latitude": 11.60806,
     "longitude": 125.43194,
-    "rain_mm": 175.38,
+    "rain_mm": 15.0,
     "soil_moisture": 1.0,
-    "raw_dynamic_score": 33.54,
-    "last_updated": "2026-01-27T01:15:53.566430Z",
-    "last_tweeted_at": "2026-01-26T04:16:58.639406Z",
-    "tweet_id": "2015640112193806820",
-    "resolved": false,
-    "pending_downgrade": true,
-    "pending_target_level": "Low",
-    "pending_set_at": "2026-01-27T01:15:53.566430Z",
-    "pending_is_region": false,
-    "pending_observed_level": "Low",
-    "pending_observed_rain_mm": 13.06,
-    "pending_observed_soil_moisture": 1.0,
-    "pending_observed_raw_dynamic_score": 2.498
+    "raw_dynamic_score": 2.869,
+    "last_updated": "2026-01-27T06:28:05.671853Z",
+    "last_tweeted_at": "2026-01-27T06:28:05.671853Z",
+    "tweet_id": "2016035759057166840",
+    "resolved": true,
+    "resolved_at": "2026-01-27T06:28:05.671853Z"
   },
   "44.0572,17.4508": {
     "country": "Bosnia and Herzegovina",
@@ -4597,6 +4590,21 @@
     "last_updated": "2026-01-27T04:08:40.181373Z",
     "last_tweeted_at": "2026-01-27T04:08:40.181373Z",
     "tweet_id": "2016000659238047786",
+    "resolved": false
+  },
+  "-10.7481,-62.2158": {
+    "country": "Brazil",
+    "name": "Ouro Preto do Oeste",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": -10.74806,
+    "longitude": -62.21583,
+    "rain_mm": 52.19,
+    "soil_moisture": 0.662,
+    "raw_dynamic_score": 8.389,
+    "last_updated": "2026-01-27T06:28:05.671853Z",
+    "last_tweeted_at": "2026-01-27T06:28:05.671853Z",
+    "tweet_id": "2016035506358730893",
     "resolved": false
   }
 }
