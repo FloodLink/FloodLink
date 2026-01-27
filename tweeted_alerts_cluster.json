@@ -4007,7 +4007,7 @@
     "rain_mm": 55.81,
     "soil_moisture": 0.659,
     "raw_dynamic_score": 8.956,
-    "last_updated": "2026-01-24T12:29:51.927865Z",
+    "last_updated": "2026-01-27T21:16:20.337970Z",
     "last_tweeted_at": "2026-01-24T12:29:51.927865Z",
     "tweet_id": "2015039638377816406",
     "resolved": false
@@ -4586,10 +4586,14 @@
     "rain_mm": 76.12,
     "soil_moisture": 0.65,
     "raw_dynamic_score": 12.153,
-    "last_updated": "2026-01-27T18:31:47.678841Z",
+    "last_updated": "2026-01-27T21:16:20.337970Z",
     "last_tweeted_at": "2026-01-27T18:31:47.678841Z",
     "tweet_id": "2016217635512582204",
-    "resolved": false
+    "resolved": false,
+    "pending_downgrade": true,
+    "pending_target_level": "Low",
+    "pending_set_at": "2026-01-27T21:16:20.337970Z",
+    "pending_is_region": true
   },
   "-2.9022,-40.8411": {
     "country": "Brazil",
@@ -4601,7 +4605,7 @@
     "rain_mm": 76.12,
     "soil_moisture": 0.65,
     "raw_dynamic_score": 12.153,
-    "last_updated": "2026-01-27T18:31:47.678841Z",
+    "last_updated": "2026-01-27T21:16:20.337970Z",
     "last_tweeted_at": "2026-01-27T18:31:47.678841Z",
     "tweet_id": "2016217635512582204",
     "resolved": false
@@ -4616,7 +4620,7 @@
     "rain_mm": 71.56,
     "soil_moisture": 0.627,
     "raw_dynamic_score": 11.275,
-    "last_updated": "2026-01-27T18:31:47.678841Z",
+    "last_updated": "2026-01-27T21:16:20.337970Z",
     "last_tweeted_at": "2026-01-27T18:31:47.678841Z",
     "tweet_id": "2016217635512582204",
     "resolved": false
@@ -4631,7 +4635,7 @@
     "rain_mm": 54.25,
     "soil_moisture": 0.589,
     "raw_dynamic_score": 8.362,
-    "last_updated": "2026-01-27T18:31:47.678841Z",
+    "last_updated": "2026-01-27T21:16:20.337970Z",
     "last_tweeted_at": "2026-01-27T18:31:47.678841Z",
     "tweet_id": "2016217888118722880",
     "resolved": false
@@ -4646,7 +4650,7 @@
     "rain_mm": 50.12,
     "soil_moisture": 0.604,
     "raw_dynamic_score": 7.796,
-    "last_updated": "2026-01-27T18:31:47.678841Z",
+    "last_updated": "2026-01-27T21:16:20.337970Z",
     "last_tweeted_at": "2026-01-27T18:31:47.678841Z",
     "tweet_id": "2016218140678762994",
     "resolved": false
