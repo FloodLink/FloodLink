@@ -11759,5 +11759,14 @@
             "longitude": 14.0154,
             "confidence": 0.8
         }
+    },
+    {
+        "link": null,
+        "date": "2026-01-28",
+        "status": "posted",
+        "tweet": "By 2030, pluvial flooding in Asian megacities like Mumbai \ud83c\uddee\ud83c\uddf3 could expose 12M residents, vs. 3M in European hubs like Paris \ud83c\uddeb\ud83c\uddf7\u2014a 4x higher risk from extreme rainfall, per 2024 IPCC projections.",
+        "type": "statistical",
+        "category": "pluvial (surface) flooding in dense cities",
+        "tweet_id": "2016360681495302439"
     }
 ]
