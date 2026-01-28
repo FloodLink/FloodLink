@@ -11858,5 +11858,14 @@
         "score": 2,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-01-28",
+        "status": "posted",
+        "tweet": "In 2020, ~1.8B people globally lived in river floodplains.  \nBy 2026, projections show 2.1B exposed, with Asia's share rising from 1B to 1.3B due to extreme rainfall and urbanization.",
+        "type": "statistical",
+        "category": "population living in floodplains",
+        "tweet_id": "2016409822841700693"
     }
 ]
