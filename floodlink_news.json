@@ -11838,5 +11838,25 @@
         "score": 7,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZnppYW03SkhLX0pVcFB6TS1mcjdJQjVuMlVxeDFDNWR2Wk9MbEdKck9rVU1LeERndW45QzdPSmRjYWVUUHFDSXFLTUphTW9jd3JuN2dpNi1RS3RXUUJsaDZ2eVZjMFIwR2R5X1Ntc3RVWUZjQmtVWGRWbVU0Q1A0LUtFRThuanJwV0kzLVZnX1JvT0JiY3REOHlvZHNjVnAtazctRU11bXA5eDdJY2V4eElEYzFsLU5GMWxfSWJR?oc=5",
+        "date": "2026-01-28",
+        "title": "Storm Chandra latest: \u2018Major incident\u2019 declared over flooding as Met Office issues warning for ice - The Independent",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxQZnppYW03SkhLX0pVcFB6TS1mcjdJQjVuMlVxeDFDNWR2Wk9MbEdKck9rVU1LeERndW45QzdPSmRjYWVUUHFDSXFLTUphTW9jd3JuN2dpNi1RS3RXUUJsaDZ2eVZjMFIwR2R5X1Ntc3RVWUZjQmtVWGRWbVU0Q1A0LUtFRThuanJwV0kzLVZnX1JvT0JiY3REOHlvZHNjVnAtazctRU11bXA5eDdJY2V4eElEYzFsLU5GMWxfSWJR?oc=5\" target=\"_blank\">Storm Chandra latest: \u2018Major incident\u2019 declared over flooding as Met Office issues warning for ice</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Independent</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1KRlFBX1FMNjdseEpRcnZXc0YydXZQUjNmUGx0Z3lQZUVHQ204dDU0ckNub0l1Q2RPbnJFSHJ2LS1uM3ZRYjRSRkktUnhGX29mNnctQVhqZ0M?oc=5",
+        "date": "2026-01-28",
+        "title": "Video of bus trapped in Indonesia flash flood is AI-generated - AFP Fact Check",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE1KRlFBX1FMNjdseEpRcnZXc0YydXZQUjNmUGx0Z3lQZUVHQ204dDU0ckNub0l1Q2RPbnJFSHJ2LS1uM3ZRYjRSRkktUnhGX29mNnctQVhqZ0M?oc=5\" target=\"_blank\">Video of bus trapped in Indonesia flash flood is AI-generated</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AFP Fact Check</font>",
+        "similarity_excluded": "No",
+        "score": 2,
+        "status": "processed",
+        "tweet": null
     }
 ]
