@@ -12100,5 +12100,42 @@
         "score": 0,
         "status": "skipped",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQazEyWWxaOEJBQmNqN19HbW5NLXJmQndPR3VtRWdzRjh5andRMW4tMGlwdThxMTJoTmRhYmlvQ3VXaUdWOEdZcVYwT0ljdEp4WVl5dGNMWExNNlV0X0JUNEdGeDg5Slg1bmFvMHlYREhNSVRxemJ6QUpaSXM5MUxpbA?oc=5",
+        "date": "2026-01-29",
+        "title": "Serious flood warning issued for Northern California - Rolling Out",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxQazEyWWxaOEJBQmNqN19HbW5NLXJmQndPR3VtRWdzRjh5andRMW4tMGlwdThxMTJoTmRhYmlvQ3VXaUdWOEdZcVYwT0ljdEp4WVl5dGNMWExNNlV0X0JUNEdGeDg5Slg1bmFvMHlYREhNSVRxemJ6QUpaSXM5MUxpbA?oc=5\" target=\"_blank\">Serious flood warning issued for Northern California</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Rolling Out</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": null,
+        "tweet_id": "2016881376549859463",
+        "geo": {
+            "country": "United States",
+            "name": "Northern California",
+            "latitude": 38.5816,
+            "longitude": -121.4944,
+            "confidence": 0.95
+        }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQazEyWWxaOEJBQmNqN19HbW5NLXJmQndPR3VtRWdzRjh5andRMW4tMGlwdThxMTJoTmRhYmlvQ3VXaUdWOEdZcVYwT0ljdEp4WVl5dGNMWExNNlV0X0JUNEdGeDg5Slg1bmFvMHlYREhNSVRxemJ6QUpaSXM5MUxpbA?oc=5",
+        "date": "2026-01-29",
+        "title": "Serious flood warning issued for Northern California - Rolling Out",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxQazEyWWxaOEJBQmNqN19HbW5NLXJmQndPR3VtRWdzRjh5andRMW4tMGlwdThxMTJoTmRhYmlvQ3VXaUdWOEdZcVYwT0ljdEp4WVl5dGNMWExNNlV0X0JUNEdGeDg5Slg1bmFvMHlYREhNSVRxemJ6QUpaSXM5MUxpbA?oc=5\" target=\"_blank\">Serious flood warning issued for Northern California</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Rolling Out</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 FORECAST Northern California: Serious flood warning issued for potential flash flooding and heavy rainfall impacts. (Rolling Out)",
+        "type": "news",
+        "tweet_id": "2016881376549859463",
+        "geo": {
+            "country": "United States",
+            "name": "Northern California",
+            "latitude": 38.5816,
+            "longitude": -121.4944,
+            "confidence": 0.95
+        }
     }
 ]
