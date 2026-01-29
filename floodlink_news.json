@@ -11965,5 +11965,72 @@
             "longitude": null,
             "confidence": 0.5
         }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNam5EeVhYS0dHakZaSURxcjJqSEJramhaaHhqZ2M2WEhPTEVzSjJldnpmZVM1NDRzbl9UMkZWR29lcFh5eWpfYnNUYURISV9qbTl4TjA1RldmamQ2MXpldTZpRU54UmdDUlRPUmFaMHdkNkxLcmRSOWVXNXNyYUxTWUVxbXBMUFN1X0Vudk81OUFwb1dQMzBMQjJHV1NESGxMMU1UajNJbw?oc=5",
+        "date": "2026-01-29",
+        "title": "Dublin's Fairview flooded amid ongoing weather warning - The Irish Times",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNam5EeVhYS0dHakZaSURxcjJqSEJramhaaHhqZ2M2WEhPTEVzSjJldnpmZVM1NDRzbl9UMkZWR29lcFh5eWpfYnNUYURISV9qbTl4TjA1RldmamQ2MXpldTZpRU54UmdDUlRPUmFaMHdkNkxLcmRSOWVXNXNyYUxTWUVxbXBMUFN1X0Vudk81OUFwb1dQMzBMQjJHV1NESGxMMU1UajNJbw?oc=5\" target=\"_blank\">Dublin's Fairview flooded amid ongoing weather warning</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Irish Times</font>",
+        "similarity_excluded": "No",
+        "score": 6,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMWZqTkx6NllVZG9ZQ1EwZXk3ZHVFdWNCNFJaUGF2c2M2MmtwcTFZZzlKcjVKMHNWdE4zSE80R1RTdW5lV19VUDlnNEk5OG5tdDhOVE00ZjhuejJTV25scENoeHAxSGdaaFdSYmFuUVNaVDB2TTJLVUczUGVndlZhd3lDbXJCUDBTeGN2OWgydG5zNi1JWGdNTDBCbXVvTFNaZEo0c3h5djM1MmZ6Y2FYd2pqOTc?oc=5",
+        "date": "2026-01-29",
+        "title": "Heavy rain to disrupt transport and worsen flooding amid Storm Chandra fallout - ITVX",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNMWZqTkx6NllVZG9ZQ1EwZXk3ZHVFdWNCNFJaUGF2c2M2MmtwcTFZZzlKcjVKMHNWdE4zSE80R1RTdW5lV19VUDlnNEk5OG5tdDhOVE00ZjhuejJTV25scENoeHAxSGdaaFdSYmFuUVNaVDB2TTJLVUczUGVndlZhd3lDbXJCUDBTeGN2OWgydG5zNi1JWGdNTDBCbXVvTFNaZEo0c3h5djM1MmZ6Y2FYd2pqOTc?oc=5\" target=\"_blank\">Heavy rain to disrupt transport and worsen flooding amid Storm Chandra fallout</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ITVX</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOeGZKTmxpWm04MWFoaHdYWE9DdkQwREtKYkg3NU5pb3FUTnJlZWpWRzNtSUhTLUU1bHhiZzNSNmlGUlBfeE5hOEJfUURKb1RlbkdybExIb3prV1NiOTJHYnh1aXdpcVNKMC1IQm9UcjBLZnNCQjhGYmRRUGRqX0xOYVN3ckxCRXdBdVd3NnhQVUVhWTdLZXZpYmNrcVBOQ210ZzVnTjdNMGZ6ZTByaU1iSmtyVmRUNlExZkE?oc=5",
+        "date": "2026-01-29",
+        "title": "United Kingdom in Crisis: Flood Warnings, Evacuations, and the Aftermath! - Travel And Tour World",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxOeGZKTmxpWm04MWFoaHdYWE9DdkQwREtKYkg3NU5pb3FUTnJlZWpWRzNtSUhTLUU1bHhiZzNSNmlGUlBfeE5hOEJfUURKb1RlbkdybExIb3prV1NiOTJHYnh1aXdpcVNKMC1IQm9UcjBLZnNCQjhGYmRRUGRqX0xOYVN3ckxCRXdBdVd3NnhQVUVhWTdLZXZpYmNrcVBOQ210ZzVnTjdNMGZ6ZTByaU1iSmtyVmRUNlExZkE?oc=5\" target=\"_blank\">United Kingdom in Crisis: Flood Warnings, Evacuations, and the Aftermath!</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Travel And Tour World</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": null,
+        "tweet_id": "2016805610977702088",
+        "geo": {
+            "country": "United Kingdom",
+            "name": "United Kingdom",
+            "latitude": 54.0,
+            "longitude": -2.0,
+            "confidence": 0.9
+        }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQMGQ2dDdFd0J2MS1BWnJyNlE0SmliZHJkVGZ0RFhfRUprMEJvQ0swbXpQS3h4aGZONTVCT3pOdEpkWFcyZ1BKUzlQbVFnVDZsMGxPcXI2WnBqZ2JSWjg3cGltUHh4bTAwbUFlSHlhQVNCelBfbklYNExmTmtxYTFROFBvTlhXS3lQcVRkTFVIdkRoN1BhWlNHNmJTVFhscDllQTZzVG1xMUFUMVd6Y2JyejF3SjZfYlRWRnZSZWV3eGVvNHpKZ2hncTctOTJsTWpMaVJqTkhvVFlnRW1Ga1lWai14aEJ5ZUtDenAzc0c1YlQwU2MwU2htVVZTeVhSWmo0V3hPRGlBSnJvN1hVSnp6RURCNHoyMm5u?oc=5",
+        "date": "2026-01-29",
+        "title": "Northern Ireland weather warning as heavy rain to disrupt transport and cause flooding amid Storm Chandra fallout - irishnews.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAJBVV95cUxQMGQ2dDdFd0J2MS1BWnJyNlE0SmliZHJkVGZ0RFhfRUprMEJvQ0swbXpQS3h4aGZONTVCT3pOdEpkWFcyZ1BKUzlQbVFnVDZsMGxPcXI2WnBqZ2JSWjg3cGltUHh4bTAwbUFlSHlhQVNCelBfbklYNExmTmtxYTFROFBvTlhXS3lQcVRkTFVIdkRoN1BhWlNHNmJTVFhscDllQTZzVG1xMUFUMVd6Y2JyejF3SjZfYlRWRnZSZWV3eGVvNHpKZ2hncTctOTJsTWpMaVJqTkhvVFlnRW1Ga1lWai14aEJ5ZUtDenAzc0c1YlQwU2MwU2htVVZTeVhSWmo0V3hPRGlBSnJvN1hVSnp6RURCNHoyMm5u?oc=5\" target=\"_blank\">Northern Ireland weather warning as heavy rain to disrupt transport and cause flooding amid Storm Chandra fallout</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">irishnews.com</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOeGZKTmxpWm04MWFoaHdYWE9DdkQwREtKYkg3NU5pb3FUTnJlZWpWRzNtSUhTLUU1bHhiZzNSNmlGUlBfeE5hOEJfUURKb1RlbkdybExIb3prV1NiOTJHYnh1aXdpcVNKMC1IQm9UcjBLZnNCQjhGYmRRUGRqX0xOYVN3ckxCRXdBdVd3NnhQVUVhWTdLZXZpYmNrcVBOQ210ZzVnTjdNMGZ6ZTByaU1iSmtyVmRUNlExZkE?oc=5",
+        "date": "2026-01-29",
+        "title": "United Kingdom in Crisis: Flood Warnings, Evacuations, and the Aftermath! - Travel And Tour World",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxOeGZKTmxpWm04MWFoaHdYWE9DdkQwREtKYkg3NU5pb3FUTnJlZWpWRzNtSUhTLUU1bHhiZzNSNmlGUlBfeE5hOEJfUURKb1RlbkdybExIb3prV1NiOTJHYnh1aXdpcVNKMC1IQm9UcjBLZnNCQjhGYmRRUGRqX0xOYVN3ckxCRXdBdVd3NnhQVUVhWTdLZXZpYmNrcVBOQ210ZzVnTjdNMGZ6ZTByaU1iSmtyVmRUNlExZkE?oc=5\" target=\"_blank\">United Kingdom in Crisis: Flood Warnings, Evacuations, and the Aftermath!</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Travel And Tour World</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "posted",
+        "tweet": "\ud83c\uddec\ud83c\udde7 FORECAST United Kingdom: Flood warnings and evacuations issued amid ongoing crisis with reports of aftermath impacts (Travel And Tour World)",
+        "type": "news",
+        "tweet_id": "2016805610977702088",
+        "geo": {
+            "country": "United Kingdom",
+            "name": "United Kingdom",
+            "latitude": 54.0,
+            "longitude": -2.0,
+            "confidence": 0.9
+        }
     }
 ]
