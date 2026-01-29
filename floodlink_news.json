@@ -12032,5 +12032,13 @@
             "longitude": -2.0,
             "confidence": 0.9
         }
+    },
+    {
+        "link": null,
+        "date": "2026-01-29",
+        "status": "posted",
+        "tweet": "\ud83c\uddf3\ud83c\uddf1 As of 2026, the Netherlands protects 60% of its 18 million residents with 26,000 km of dikes, levees, and dunes, engineered to withstand 1-in-10,000-year floods.",
+        "type": "infrastructure",
+        "tweet_id": "2016819304293900608"
     }
 ]
