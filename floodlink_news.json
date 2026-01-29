@@ -12137,5 +12137,14 @@
             "longitude": -121.4944,
             "confidence": 0.95
         }
+    },
+    {
+        "link": null,
+        "date": "2026-01-29",
+        "status": "posted",
+        "tweet": "By 2050, sea-level rise will expose 300 million people in coastal cities to chronic flooding and storm surges, with 570 cities at risk worldwide.",
+        "type": "statistical",
+        "category": "coastal cities at risk from sea-level rise and storm surge",
+        "tweet_id": "2016910463804854320"
     }
 ]
