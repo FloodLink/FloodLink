@@ -4401,22 +4401,6 @@
     "tweet_id": "2015811373549371721",
     "resolved": false
   },
-  "-3.4959,-42.5620": {
-    "country": "Brazil",
-    "name": "Santa Quitéria do Maranhão",
-    "risk_level": "None",
-    "tweeted_level": "Low",
-    "latitude": -3.49586,
-    "longitude": -42.56198,
-    "rain_mm": 0.0,
-    "soil_moisture": 0.487,
-    "raw_dynamic_score": 0.0,
-    "last_updated": "2026-01-28T04:07:06.276208Z",
-    "last_tweeted_at": "2026-01-28T04:07:06.276208Z",
-    "tweet_id": "2016362405559685150",
-    "resolved": true,
-    "resolved_at": "2026-01-28T04:07:06.276208Z"
-  },
   "-3.4578,-42.3703": {
     "country": "Brazil",
     "name": "Luzilândia",
@@ -4795,6 +4779,21 @@
     "last_updated": "2026-01-29T01:21:48.214367Z",
     "last_tweeted_at": "2026-01-28T21:29:37.245277Z",
     "tweet_id": "2016625277825437910",
+    "resolved": false
+  },
+  "-4.5386,120.3279": {
+    "country": "Indonesia",
+    "name": "Watampone",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": -4.5386,
+    "longitude": 120.3279,
+    "rain_mm": 53.88,
+    "soil_moisture": 0.661,
+    "raw_dynamic_score": 8.656,
+    "last_updated": "2026-01-29T04:27:54.827771Z",
+    "last_tweeted_at": "2026-01-29T04:27:54.827771Z",
+    "tweet_id": "2016730028298416183",
     "resolved": false
   }
 }
