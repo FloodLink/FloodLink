@@ -12100,5 +12100,14 @@
         "score": 0,
         "status": "skipped",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-01-30",
+        "status": "posted",
+        "tweet": "\ud83c\uddf5\ud83c\uddf0 Pakistan's 2022 floods caused $30B in economic losses from extreme rainfall and flash floods.  \n\ud83c\uddfa\ud83c\uddf8 US projections for 2026 estimate $25B annual losses from similar events, up 25% from 2020-2023 average of $20B.",
+        "type": "statistical",
+        "category": "economic losses from floods and flash floods",
+        "tweet_id": "2017232322966528373"
     }
 ]
