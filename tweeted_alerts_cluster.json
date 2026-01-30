@@ -1872,7 +1872,7 @@
     "rain_mm": 49.88,
     "soil_moisture": 0.579,
     "raw_dynamic_score": 7.644,
-    "last_updated": "2026-01-29T21:23:58.560492Z",
+    "last_updated": "2026-01-30T01:21:41.044209Z",
     "last_tweeted_at": "2026-01-17T21:15:30.749717Z",
     "tweet_id": "2012634961598148880",
     "resolved": false
@@ -4597,25 +4597,18 @@
   "-16.1000,45.3167": {
     "country": "Madagascar",
     "name": "Soalala",
-    "risk_level": "High",
-    "tweeted_level": "High",
+    "risk_level": "Low",
+    "tweeted_level": "Low",
     "latitude": -16.1,
     "longitude": 45.31667,
-    "rain_mm": 94.44,
+    "rain_mm": 23.44,
     "soil_moisture": 1.0,
-    "raw_dynamic_score": 18.061,
-    "last_updated": "2026-01-29T09:38:24.434285Z",
-    "last_tweeted_at": "2026-01-28T21:29:37.245277Z",
-    "tweet_id": "2016625025248612462",
-    "resolved": false,
-    "pending_downgrade": true,
-    "pending_target_level": "Low",
-    "pending_set_at": "2026-01-29T09:38:24.434285Z",
-    "pending_is_region": false,
-    "pending_observed_level": "Low",
-    "pending_observed_rain_mm": 27.5,
-    "pending_observed_soil_moisture": 1.0,
-    "pending_observed_raw_dynamic_score": 5.259
+    "raw_dynamic_score": 4.482,
+    "last_updated": "2026-01-30T01:21:41.044209Z",
+    "last_tweeted_at": "2026-01-30T01:21:41.044209Z",
+    "tweet_id": "2017045806193222063",
+    "resolved": true,
+    "resolved_at": "2026-01-30T01:21:41.044209Z"
   },
   "-10.5667,38.8000": {
     "country": "United Republic of Tanzania",
@@ -4792,6 +4785,21 @@
     "last_updated": "2026-01-29T21:23:58.560492Z",
     "last_tweeted_at": "2026-01-29T18:37:34.626878Z",
     "tweet_id": "2016944117268259161",
+    "resolved": false
+  },
+  "-4.3755,-70.0318": {
+    "country": "Brazil",
+    "name": "Benjamin Constant",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": -4.37555,
+    "longitude": -70.03179,
+    "rain_mm": 47.69,
+    "soil_moisture": 0.637,
+    "raw_dynamic_score": 7.557,
+    "last_updated": "2026-01-30T01:21:41.044209Z",
+    "last_tweeted_at": "2026-01-30T01:21:41.044209Z",
+    "tweet_id": "2017045553582895448",
     "resolved": false
   }
 }
