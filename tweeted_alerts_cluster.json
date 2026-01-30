@@ -1452,7 +1452,7 @@
     "rain_mm": 39.56,
     "soil_moisture": 0.726,
     "raw_dynamic_score": 6.588,
-    "last_updated": "2026-01-30T13:49:14.456071Z",
+    "last_updated": "2026-01-30T18:35:26.309841Z",
     "last_tweeted_at": "2026-01-15T06:25:58.406593Z",
     "tweet_id": "2011686822317826210",
     "resolved": false
@@ -1587,7 +1587,7 @@
     "rain_mm": 61.38,
     "soil_moisture": 0.637,
     "raw_dynamic_score": 9.727,
-    "last_updated": "2026-01-30T15:30:16.674736Z",
+    "last_updated": "2026-01-30T18:35:26.309841Z",
     "last_tweeted_at": "2026-01-16T12:31:31.730376Z",
     "tweet_id": "2012140702679916594",
     "resolved": false
@@ -4527,7 +4527,7 @@
     "rain_mm": 52.0,
     "soil_moisture": 0.69,
     "raw_dynamic_score": 8.49,
-    "last_updated": "2026-01-30T15:30:16.674736Z",
+    "last_updated": "2026-01-30T18:35:26.309841Z",
     "last_tweeted_at": "2026-01-28T18:31:52.385393Z",
     "tweet_id": "2016580039706353881",
     "resolved": false
@@ -4908,10 +4908,18 @@
     "rain_mm": 39.75,
     "soil_moisture": 0.739,
     "raw_dynamic_score": 6.667,
-    "last_updated": "2026-01-30T13:49:14.456071Z",
+    "last_updated": "2026-01-30T18:35:26.309841Z",
     "last_tweeted_at": "2026-01-30T13:49:14.456071Z",
     "tweet_id": "2017233687390380457",
-    "resolved": false
+    "resolved": false,
+    "pending_downgrade": true,
+    "pending_target_level": "Low",
+    "pending_set_at": "2026-01-30T18:35:26.309841Z",
+    "pending_is_region": false,
+    "pending_observed_level": "Low",
+    "pending_observed_rain_mm": 15.62,
+    "pending_observed_soil_moisture": 0.702,
+    "pending_observed_raw_dynamic_score": 2.567
   },
   "-15.9486,-44.8644": {
     "country": "Brazil",
@@ -4938,9 +4946,39 @@
     "rain_mm": 55.69,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 10.65,
-    "last_updated": "2026-01-30T15:30:16.674736Z",
+    "last_updated": "2026-01-30T18:35:26.309841Z",
     "last_tweeted_at": "2026-01-30T15:30:16.674736Z",
     "tweet_id": "2017259368962458102",
+    "resolved": false
+  },
+  "-19.1722,-41.4722": {
+    "country": "Brazil",
+    "name": "Conselheiro Pena",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": -19.17222,
+    "longitude": -41.47222,
+    "rain_mm": 44.94,
+    "soil_moisture": 0.612,
+    "raw_dynamic_score": 7.022,
+    "last_updated": "2026-01-30T18:35:26.309841Z",
+    "last_tweeted_at": "2026-01-30T18:35:26.309841Z",
+    "tweet_id": "2017305710879756502",
+    "resolved": false
+  },
+  "-2.9437,25.9224": {
+    "country": "The Democratic Republic of the Congo",
+    "name": "Kindu",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": -2.94373,
+    "longitude": 25.92237,
+    "rain_mm": 45.12,
+    "soil_moisture": 0.67,
+    "raw_dynamic_score": 7.285,
+    "last_updated": "2026-01-30T18:35:26.309841Z",
+    "last_tweeted_at": "2026-01-30T18:35:26.309841Z",
+    "tweet_id": "2017305963313947050",
     "resolved": false
   }
 }
