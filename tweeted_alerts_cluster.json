@@ -1572,7 +1572,7 @@
     "rain_mm": 50.0,
     "soil_moisture": 0.611,
     "raw_dynamic_score": 7.805,
-    "last_updated": "2026-01-30T09:35:01.399752Z",
+    "last_updated": "2026-01-30T15:30:16.674736Z",
     "last_tweeted_at": "2026-01-16T09:28:51.732480Z",
     "tweet_id": "2012094990315631096",
     "resolved": false
@@ -1587,7 +1587,7 @@
     "rain_mm": 61.38,
     "soil_moisture": 0.637,
     "raw_dynamic_score": 9.727,
-    "last_updated": "2026-01-16T15:19:42.449112Z",
+    "last_updated": "2026-01-30T15:30:16.674736Z",
     "last_tweeted_at": "2026-01-16T12:31:31.730376Z",
     "tweet_id": "2012140702679916594",
     "resolved": false
@@ -4527,7 +4527,7 @@
     "rain_mm": 52.0,
     "soil_moisture": 0.69,
     "raw_dynamic_score": 8.49,
-    "last_updated": "2026-01-28T21:29:37.245277Z",
+    "last_updated": "2026-01-30T15:30:16.674736Z",
     "last_tweeted_at": "2026-01-28T18:31:52.385393Z",
     "tweet_id": "2016580039706353881",
     "resolved": false
@@ -4878,7 +4878,7 @@
     "rain_mm": 43.31,
     "soil_moisture": 0.588,
     "raw_dynamic_score": 6.671,
-    "last_updated": "2026-01-30T09:35:01.399752Z",
+    "last_updated": "2026-01-30T15:30:16.674736Z",
     "last_tweeted_at": "2026-01-30T09:35:01.399752Z",
     "tweet_id": "2017169957985890513",
     "resolved": false
@@ -4911,6 +4911,36 @@
     "last_updated": "2026-01-30T13:49:14.456071Z",
     "last_tweeted_at": "2026-01-30T13:49:14.456071Z",
     "tweet_id": "2017233687390380457",
+    "resolved": false
+  },
+  "-15.9486,-44.8644": {
+    "country": "Brazil",
+    "name": "São Francisco",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": -15.94861,
+    "longitude": -44.86444,
+    "rain_mm": 47.19,
+    "soil_moisture": 0.507,
+    "raw_dynamic_score": 6.925,
+    "last_updated": "2026-01-30T15:30:16.674736Z",
+    "last_tweeted_at": "2026-01-30T15:30:16.674736Z",
+    "tweet_id": "2017259116503220325",
+    "resolved": false
+  },
+  "11.6081,125.4319": {
+    "country": "Philippines",
+    "name": "Borongan",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 11.60806,
+    "longitude": 125.43194,
+    "rain_mm": 55.69,
+    "soil_moisture": 1.0,
+    "raw_dynamic_score": 10.65,
+    "last_updated": "2026-01-30T15:30:16.674736Z",
+    "last_tweeted_at": "2026-01-30T15:30:16.674736Z",
+    "tweet_id": "2017259368962458102",
     "resolved": false
   }
 }
