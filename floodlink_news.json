@@ -12288,5 +12288,62 @@
         "score": 0,
         "status": "skipped",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBwRUFuN2gxWHRsbWxiRWpqZjlMbXNpUHI4dDg3MjJMWE9MT0Y2UmNzMmo4VVBJZUZCS29IWm96S1dPSXBBY2VvcnVEOUtxQXBtb2N1MGdLQU9KQV9yVTNMV2Q3UDFDU21tT1VjeVRibkE4S3Z5QWZZ?oc=5",
+        "date": "2026-01-30",
+        "title": "East Carteret placed under a coastal flood warning Saturday and Sunday - News & Observer",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTFBwRUFuN2gxWHRsbWxiRWpqZjlMbXNpUHI4dDg3MjJMWE9MT0Y2UmNzMmo4VVBJZUZCS29IWm96S1dPSXBBY2VvcnVEOUtxQXBtb2N1MGdLQU9KQV9yVTNMV2Q3UDFDU21tT1VjeVRibkE4S3Z5QWZZ?oc=5\" target=\"_blank\">East Carteret placed under a coastal flood warning Saturday and Sunday</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">News & Observer</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": null,
+        "tweet_id": "2017327481003679902",
+        "geo": {
+            "country": "United States",
+            "name": "East Carteret, North Carolina",
+            "latitude": 34.7227,
+            "longitude": -76.7266,
+            "confidence": 0.95
+        }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdFd2NW15Q0JTNURYcUwya1NDelN5bEdYdUlOYnBtMkVZTFkzV3ktNS1WdGpHc2twT1MxelVybGh6UUkyQkphSDdUR1lUM2dTTnZOaE84THpBcFpDSmdpalp1aW8tM0g5N3JJeGU1WTNFU1R1Qm5wcGFXclJKWDI0eWV4MS0xWnI5ek1VNTMtLUUxdk5PbmFqcUhCUkNkZ1VqSXkzYk9pYlRUbTlZZVpTd1ljR2VXUThX?oc=5",
+        "date": "2026-01-30",
+        "title": "Flood warning issued for Dove Creek, Comox Valley under rainfall warning - Cowichan Valley Citizen",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdFd2NW15Q0JTNURYcUwya1NDelN5bEdYdUlOYnBtMkVZTFkzV3ktNS1WdGpHc2twT1MxelVybGh6UUkyQkphSDdUR1lUM2dTTnZOaE84THpBcFpDSmdpalp1aW8tM0g5N3JJeGU1WTNFU1R1Qm5wcGFXclJKWDI0eWV4MS0xWnI5ek1VNTMtLUUxdk5PbmFqcUhCUkNkZ1VqSXkzYk9pYlRUbTlZZVpTd1ljR2VXUThX?oc=5\" target=\"_blank\">Flood warning issued for Dove Creek, Comox Valley under rainfall warning</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cowichan Valley Citizen</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMijANBVV95cUxPUmVxTnNGMExWTkFCN2FYT1pRT3dGTm1XMjh3dHVkdFFBOWRZbUpfS1FDQzRiZDhDU0VsX3lZWXJCUkdMZnNfSFNKM2pMdm5yV2xpR29IOHg4ZkxKRDJTOVVhMjhOb3prYUhvZ0puVXpxa3lEMUNJTHg5clVMUDl0OG9rb1o5cTJpbjRVUk9yR2dOZWs3Y2RxbHFsMVB5NEFYZUNfSXllRmoxMG1FaUZ3RHc0aXdJS0hmbkxnYWN6NHJESk1mRkNwTUh2dVdSTURDQ0VhVUY3VXVfNHBNU01tWVpwRmVOUmtVc3pOa1NBTko1MVNrb3I2d3Q5bDF2R0laTmozZERtSElfS2FIekFHRUtIZlFreFVkWDNnTFJYejRVbG5KZjBFR0ZQd0NfQTViUVRES1BtTmVzamhUU2R2My15YWkyYmVZLU5USmVfVnQ4Y182YUlGUDRsazBJRmd1ZkZPRy1RaDE0NExuNkg5d0gzNXRsVWlMZTN6cUZ1RjVxYWhmbnhpTUt6MDI?oc=5",
+        "date": "2026-01-30",
+        "title": "Indonesia Landslide Death Toll Rises To 44 - Barron's",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMijANBVV95cUxPUmVxTnNGMExWTkFCN2FYT1pRT3dGTm1XMjh3dHVkdFFBOWRZbUpfS1FDQzRiZDhDU0VsX3lZWXJCUkdMZnNfSFNKM2pMdm5yV2xpR29IOHg4ZkxKRDJTOVVhMjhOb3prYUhvZ0puVXpxa3lEMUNJTHg5clVMUDl0OG9rb1o5cTJpbjRVUk9yR2dOZWs3Y2RxbHFsMVB5NEFYZUNfSXllRmoxMG1FaUZ3RHc0aXdJS0hmbkxnYWN6NHJESk1mRkNwTUh2dVdSTURDQ0VhVUY3VXVfNHBNU01tWVpwRmVOUmtVc3pOa1NBTko1MVNrb3I2d3Q5bDF2R0laTmozZERtSElfS2FIekFHRUtIZlFreFVkWDNnTFJYejRVbG5KZjBFR0ZQd0NfQTViUVRES1BtTmVzamhUU2R2My15YWkyYmVZLU5USmVfVnQ4Y182YUlGUDRsazBJRmd1ZkZPRy1RaDE0NExuNkg5d0gzNXRsVWlMZTN6cUZ1RjVxYWhmbnhpTUt6MDI?oc=5\" target=\"_blank\">Indonesia Landslide Death Toll Rises To 44</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Barron's</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBwRUFuN2gxWHRsbWxiRWpqZjlMbXNpUHI4dDg3MjJMWE9MT0Y2UmNzMmo4VVBJZUZCS29IWm96S1dPSXBBY2VvcnVEOUtxQXBtb2N1MGdLQU9KQV9yVTNMV2Q3UDFDU21tT1VjeVRibkE4S3Z5QWZZ?oc=5",
+        "date": "2026-01-30",
+        "title": "East Carteret placed under a coastal flood warning Saturday and Sunday - News & Observer",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTFBwRUFuN2gxWHRsbWxiRWpqZjlMbXNpUHI4dDg3MjJMWE9MT0Y2UmNzMmo4VVBJZUZCS29IWm96S1dPSXBBY2VvcnVEOUtxQXBtb2N1MGdLQU9KQV9yVTNMV2Q3UDFDU21tT1VjeVRibkE4S3Z5QWZZ?oc=5\" target=\"_blank\">East Carteret placed under a coastal flood warning Saturday and Sunday</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">News & Observer</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 FORECAST East Carteret, NC: Coastal flood warning for Saturday and Sunday, with risk of inundation in low-lying coastal areas. (News & Observer)",
+        "type": "news",
+        "tweet_id": "2017327481003679902",
+        "geo": {
+            "country": "United States",
+            "name": "East Carteret, North Carolina",
+            "latitude": 34.7227,
+            "longitude": -76.7266,
+            "confidence": 0.95
+        }
     }
 ]
