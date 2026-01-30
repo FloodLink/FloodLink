@@ -1572,7 +1572,7 @@
     "rain_mm": 50.0,
     "soil_moisture": 0.611,
     "raw_dynamic_score": 7.805,
-    "last_updated": "2026-01-16T12:31:31.730376Z",
+    "last_updated": "2026-01-30T09:35:01.399752Z",
     "last_tweeted_at": "2026-01-16T09:28:51.732480Z",
     "tweet_id": "2012094990315631096",
     "resolved": false
@@ -4565,18 +4565,17 @@
   "-16.1000,45.3167": {
     "country": "Madagascar",
     "name": "Soalala",
-    "risk_level": "Low",
-    "tweeted_level": "Low",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
     "latitude": -16.1,
     "longitude": 45.31667,
-    "rain_mm": 23.44,
+    "rain_mm": 49.0,
     "soil_moisture": 1.0,
-    "raw_dynamic_score": 4.482,
-    "last_updated": "2026-01-30T01:21:41.044209Z",
-    "last_tweeted_at": "2026-01-30T01:21:41.044209Z",
-    "tweet_id": "2017045806193222063",
-    "resolved": true,
-    "resolved_at": "2026-01-30T01:21:41.044209Z"
+    "raw_dynamic_score": 9.371,
+    "last_updated": "2026-01-30T09:35:01.399752Z",
+    "last_tweeted_at": "2026-01-30T09:35:01.399752Z",
+    "tweet_id": "2017169705291632707",
+    "resolved": false
   },
   "-10.5667,38.8000": {
     "country": "United Republic of Tanzania",
@@ -4795,7 +4794,7 @@
     "rain_mm": 42.12,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 8.056,
-    "last_updated": "2026-01-30T04:30:43.716300Z",
+    "last_updated": "2026-01-30T09:35:01.399752Z",
     "last_tweeted_at": "2026-01-30T04:30:43.716300Z",
     "tweet_id": "2017093377741947317",
     "resolved": false
@@ -4825,7 +4824,7 @@
     "rain_mm": 62.19,
     "soil_moisture": 0.729,
     "raw_dynamic_score": 10.372,
-    "last_updated": "2026-01-30T06:41:39.045368Z",
+    "last_updated": "2026-01-30T09:35:01.399752Z",
     "last_tweeted_at": "2026-01-30T06:41:39.045368Z",
     "tweet_id": "2017126337908265016",
     "resolved": false
@@ -4855,7 +4854,7 @@
     "rain_mm": 62.19,
     "soil_moisture": 0.729,
     "raw_dynamic_score": 10.372,
-    "last_updated": "2026-01-30T06:41:39.045368Z",
+    "last_updated": "2026-01-30T09:35:01.399752Z",
     "last_tweeted_at": "2026-01-30T06:41:39.045368Z",
     "tweet_id": "2017126590363439321",
     "resolved": false
@@ -4873,6 +4872,36 @@
     "last_updated": "2026-01-30T06:41:39.045368Z",
     "last_tweeted_at": "2026-01-30T06:41:39.045368Z",
     "tweet_id": "2017126590363439321",
+    "resolved": false
+  },
+  "-20.5528,46.8036": {
+    "country": "Madagascar",
+    "name": "Ambatofinandrahana",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": -20.55284,
+    "longitude": 46.80365,
+    "rain_mm": 43.31,
+    "soil_moisture": 0.588,
+    "raw_dynamic_score": 6.671,
+    "last_updated": "2026-01-30T09:35:01.399752Z",
+    "last_tweeted_at": "2026-01-30T09:35:01.399752Z",
+    "tweet_id": "2017169957985890513",
+    "resolved": false
+  },
+  "5.0790,115.5496": {
+    "country": "Malaysia",
+    "name": "Sipitang",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 5.07903,
+    "longitude": 115.54964,
+    "rain_mm": 37.44,
+    "soil_moisture": 1.0,
+    "raw_dynamic_score": 7.16,
+    "last_updated": "2026-01-30T09:35:01.399752Z",
+    "last_tweeted_at": "2026-01-30T09:35:01.399752Z",
+    "tweet_id": "2017170210705260957",
     "resolved": false
   }
 }
