@@ -12345,5 +12345,13 @@
             "longitude": -76.7266,
             "confidence": 0.95
         }
+    },
+    {
+        "link": null,
+        "date": "2026-01-30",
+        "status": "posted",
+        "tweet": "\ud83c\uddf3\ud83c\uddf1 The Netherlands' flood defense system includes 26,500 km of dikes and levees, protecting 60% of its population\u2014about 10.5 million people\u2014from river and coastal flooding.",
+        "type": "infrastructure",
+        "tweet_id": "2017366310405939294"
     }
 ]
