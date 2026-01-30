@@ -12020,5 +12020,35 @@
             "longitude": null,
             "confidence": 0.0
         }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOM3FxY2hlV3k2SmxYZmwyUFVYdzBMWXRYVzc2WThHa0ZPTnhUSjhhdE5MOUtMcjJwZ3ZNa09HdzdqN1I5dDBVZEFzTjlyMjEza0xDOUZ1NGdBeFNjZ3lRcXFGR1A1a3lpY1R2bV9rMHRwVW9NbV94eFIxQTRfVlNSRTFmZFdONU1JV0tROUVZb2tLOWdLeURHekhNSmlyeGI5MXlBV1U1Q01qSm9LZ29TNzBlY2llZGRk?oc=5",
+        "date": "2026-01-30",
+        "title": "UK weather map: Where heavy rain is expected to hit after Storm Chandra flooding - The Independent",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxOM3FxY2hlV3k2SmxYZmwyUFVYdzBMWXRYVzc2WThHa0ZPTnhUSjhhdE5MOUtMcjJwZ3ZNa09HdzdqN1I5dDBVZEFzTjlyMjEza0xDOUZ1NGdBeFNjZ3lRcXFGR1A1a3lpY1R2bV9rMHRwVW9NbV94eFIxQTRfVlNSRTFmZFdONU1JV0tROUVZb2tLOWdLeURHekhNSmlyeGI5MXlBV1U1Q01qSm9LZ29TNzBlY2llZGRk?oc=5\" target=\"_blank\">UK weather map: Where heavy rain is expected to hit after Storm Chandra flooding</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Independent</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNMHpLbzYtTTVjMXFtX0IxSVNCcks5ZWNJUmZPZGE3cVpWaUFnQmM5Uk1lSTJzeVhxZ3h1SFJ0SVY3RjdNWmdUMlhSd0pyaUl3ZWRHSUVfSEo1OUQtZmZ1amVYSUNmaDZsZFJ0cGlaZ0dhQWpMWW5OaU9PWmNGelJVVUZaYVYxMVJTMmNjSUNtRnV6UDNfaEo4VGJFNkllMWp0Q1lZT0VFampXU1pOSkRvalQ5UHlnYzMzQVU4OXBSTzFIaWRFSFEwMTkxdUZEQQ?oc=5",
+        "date": "2026-01-30",
+        "title": "Met Office issues weather warning for heavy rain with fears Storm Chandra flooding could worsen - NationalWorld",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxNMHpLbzYtTTVjMXFtX0IxSVNCcks5ZWNJUmZPZGE3cVpWaUFnQmM5Uk1lSTJzeVhxZ3h1SFJ0SVY3RjdNWmdUMlhSd0pyaUl3ZWRHSUVfSEo1OUQtZmZ1amVYSUNmaDZsZFJ0cGlaZ0dhQWpMWW5OaU9PWmNGelJVVUZaYVYxMVJTMmNjSUNtRnV6UDNfaEo4VGJFNkllMWp0Q1lZT0VFampXU1pOSkRvalQ5UHlnYzMzQVU4OXBSTzFIaWRFSFEwMTkxdUZEQQ?oc=5\" target=\"_blank\">Met Office issues weather warning for heavy rain with fears Storm Chandra flooding could worsen</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NationalWorld</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE12UjFZR19UZzFjb2d4MnhERE02OTdKdEU5aUtlYjNWR0dfUXU3Ny1YVl8tdmhMVmxGSjRoNU00amh6Q1hwTHg2Y2ozTkdhbkZEa29WME9KNFppWk01SlMweHJ1TFlRX0l3MnRZ?oc=5",
+        "date": "2026-01-30",
+        "title": "Yellow rain warning will mean more flooding - Carlow Weather - Newstalk",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE12UjFZR19UZzFjb2d4MnhERE02OTdKdEU5aUtlYjNWR0dfUXU3Ny1YVl8tdmhMVmxGSjRoNU00amh6Q1hwTHg2Y2ozTkdhbkZEa29WME9KNFppWk01SlMweHJ1TFlRX0l3MnRZ?oc=5\" target=\"_blank\">Yellow rain warning will mean more flooding - Carlow Weather</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Newstalk</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
     }
 ]
