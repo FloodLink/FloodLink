@@ -12055,5 +12055,15 @@
             "longitude": 29.0,
             "confidence": 0.8
         }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVDIwUElaWnhHeXo5ZU5aZXpBbEpiS0dSSkQ4Vlh5T3N5NnFEMHZPUy1kUGROZFdoTVRoQ3V4Ym81bTRZRUFGR2Z5SEJIb0J2U21vMWFZZFhsZnF3bGhPRkEySlpaNFRNeFRpX0tOaXNfZmdkMTVNdmVNMGNTdW5wYW1US1JYbW9JRVlfTC1VUTlIaV9kU0xPR29CdmthQ0RZSlA0dw?oc=5",
+        "date": "2026-01-31",
+        "title": "Indonesia landslide death toll rises to 49 - Free Malaysia Today",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPVDIwUElaWnhHeXo5ZU5aZXpBbEpiS0dSSkQ4Vlh5T3N5NnFEMHZPUy1kUGROZFdoTVRoQ3V4Ym81bTRZRUFGR2Z5SEJIb0J2U21vMWFZZFhsZnF3bGhPRkEySlpaNFRNeFRpX0tOaXNfZmdkMTVNdmVNMGNTdW5wYW1US1JYbW9JRVlfTC1VUTlIaV9kU0xPR29CdmthQ0RZSlA0dw?oc=5\" target=\"_blank\">Indonesia landslide death toll rises to 49</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Free Malaysia Today</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
     }
 ]
