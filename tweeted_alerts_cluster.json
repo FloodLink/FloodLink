@@ -5046,7 +5046,7 @@
     "rain_mm": 42.69,
     "soil_moisture": 0.569,
     "raw_dynamic_score": 6.501,
-    "last_updated": "2026-01-31T15:19:26.704321Z",
+    "last_updated": "2026-01-31T18:25:41.355808Z",
     "last_tweeted_at": "2026-01-31T15:19:26.704321Z",
     "tweet_id": "2017618780470272499",
     "resolved": false
@@ -5076,9 +5076,39 @@
     "rain_mm": 55.88,
     "soil_moisture": 0.572,
     "raw_dynamic_score": 8.527,
-    "last_updated": "2026-01-31T15:19:26.704321Z",
+    "last_updated": "2026-01-31T18:25:41.355808Z",
     "last_tweeted_at": "2026-01-31T15:19:26.704321Z",
     "tweet_id": "2017619285967839600",
+    "resolved": false
+  },
+  "-19.9000,48.8000": {
+    "country": "Madagascar",
+    "name": "Mahanoro",
+    "risk_level": "High",
+    "tweeted_level": "High",
+    "latitude": -19.9,
+    "longitude": 48.8,
+    "rain_mm": 64.44,
+    "soil_moisture": 1.0,
+    "raw_dynamic_score": 12.324,
+    "last_updated": "2026-01-31T18:25:41.355808Z",
+    "last_tweeted_at": "2026-01-31T18:25:41.355808Z",
+    "tweet_id": "2017665648030064788",
+    "resolved": false
+  },
+  "-9.7024,33.2697": {
+    "country": "Malawi",
+    "name": "Chitipa",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": -9.70237,
+    "longitude": 33.26969,
+    "rain_mm": 74.0,
+    "soil_moisture": 0.639,
+    "raw_dynamic_score": 11.739,
+    "last_updated": "2026-01-31T18:25:41.355808Z",
+    "last_tweeted_at": "2026-01-31T18:25:41.355808Z",
+    "tweet_id": "2017665900556537956",
     "resolved": false
   }
 }
