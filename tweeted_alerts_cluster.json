@@ -1719,7 +1719,7 @@
     "rain_mm": 53.81,
     "soil_moisture": 0.595,
     "raw_dynamic_score": 8.322,
-    "last_updated": "2026-01-30T13:49:14.456071Z",
+    "last_updated": "2026-01-31T04:26:09.347997Z",
     "last_tweeted_at": "2026-01-17T12:28:32.814262Z",
     "tweet_id": "2012502338406375819",
     "resolved": false
@@ -4524,10 +4524,14 @@
     "rain_mm": 164.19,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 31.401,
-    "last_updated": "2026-01-31T01:18:49.213192Z",
+    "last_updated": "2026-01-31T04:26:09.347997Z",
     "last_tweeted_at": "2026-01-30T21:25:30.666788Z",
     "tweet_id": "2017349021933977905",
-    "resolved": false
+    "resolved": false,
+    "pending_downgrade": true,
+    "pending_target_level": "Medium",
+    "pending_set_at": "2026-01-31T04:26:09.347997Z",
+    "pending_is_region": true
   },
   "-10.5667,38.8000": {
     "country": "United Republic of Tanzania",
@@ -4752,7 +4756,7 @@
     "rain_mm": 17.88,
     "soil_moisture": 0.626,
     "raw_dynamic_score": 2.814,
-    "last_updated": "2026-01-30T21:25:30.666788Z",
+    "last_updated": "2026-01-31T04:26:09.347997Z",
     "last_tweeted_at": "2026-01-30T21:25:30.666788Z",
     "tweet_id": "2017349021933977905",
     "resolved": true,
@@ -4858,7 +4862,7 @@
     "rain_mm": 53.62,
     "soil_moisture": 0.734,
     "raw_dynamic_score": 8.97,
-    "last_updated": "2026-01-30T21:25:30.666788Z",
+    "last_updated": "2026-01-31T04:26:09.347997Z",
     "last_tweeted_at": "2026-01-30T21:25:30.666788Z",
     "tweet_id": "2017349021933977905",
     "resolved": false
@@ -4948,7 +4952,7 @@
     "rain_mm": 65.0,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 12.431,
-    "last_updated": "2026-01-31T01:18:49.213192Z",
+    "last_updated": "2026-01-31T04:26:09.347997Z",
     "last_tweeted_at": "2026-01-31T01:18:49.213192Z",
     "tweet_id": "2017407475033456666",
     "resolved": false
@@ -4963,10 +4967,18 @@
     "rain_mm": 64.75,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 12.383,
-    "last_updated": "2026-01-31T01:18:49.213192Z",
+    "last_updated": "2026-01-31T04:26:09.347997Z",
     "last_tweeted_at": "2026-01-31T01:18:49.213192Z",
     "tweet_id": "2017407727815844103",
-    "resolved": false
+    "resolved": false,
+    "pending_downgrade": true,
+    "pending_target_level": "Medium",
+    "pending_set_at": "2026-01-31T04:26:09.347997Z",
+    "pending_is_region": false,
+    "pending_observed_level": "Medium",
+    "pending_observed_rain_mm": 37.94,
+    "pending_observed_soil_moisture": 1.0,
+    "pending_observed_raw_dynamic_score": 7.256
   },
   "-4.9750,23.4439": {
     "country": "The Democratic Republic of the Congo",
@@ -4978,7 +4990,7 @@
     "rain_mm": 47.88,
     "soil_moisture": 0.597,
     "raw_dynamic_score": 7.413,
-    "last_updated": "2026-01-31T01:18:49.213192Z",
+    "last_updated": "2026-01-31T04:26:09.347997Z",
     "last_tweeted_at": "2026-01-31T01:18:49.213192Z",
     "tweet_id": "2017407222616129927",
     "resolved": false
@@ -4993,9 +5005,28 @@
     "rain_mm": 45.06,
     "soil_moisture": 0.592,
     "raw_dynamic_score": 6.96,
-    "last_updated": "2026-01-31T01:18:49.213192Z",
+    "last_updated": "2026-01-31T04:26:09.347997Z",
     "last_tweeted_at": "2026-01-31T01:18:49.213192Z",
     "tweet_id": "2017407475033456666",
+    "resolved": false,
+    "pending_downgrade": true,
+    "pending_target_level": "Low",
+    "pending_set_at": "2026-01-31T04:26:09.347997Z",
+    "pending_is_region": true
+  },
+  "-15.5500,47.6667": {
+    "country": "Madagascar",
+    "name": "Boriziny",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": -15.55,
+    "longitude": 47.66667,
+    "rain_mm": 51.12,
+    "soil_moisture": 0.672,
+    "raw_dynamic_score": 8.263,
+    "last_updated": "2026-01-31T04:26:09.347997Z",
+    "last_tweeted_at": "2026-01-31T04:26:09.347997Z",
+    "tweet_id": "2017454361253749049",
     "resolved": false
   }
 }
