@@ -4239,7 +4239,7 @@
     "rain_mm": 51.81,
     "soil_moisture": 0.619,
     "raw_dynamic_score": 8.128,
-    "last_updated": "2026-01-31T09:25:02.157748Z",
+    "last_updated": "2026-01-31T12:34:11.499310Z",
     "last_tweeted_at": "2026-01-26T15:36:30.016500Z",
     "tweet_id": "2015811373549371721",
     "resolved": false
@@ -5032,9 +5032,24 @@
     "rain_mm": 51.12,
     "soil_moisture": 0.672,
     "raw_dynamic_score": 8.263,
-    "last_updated": "2026-01-31T06:33:03.456471Z",
+    "last_updated": "2026-01-31T12:34:11.499310Z",
     "last_tweeted_at": "2026-01-31T04:26:09.347997Z",
     "tweet_id": "2017454361253749049",
+    "resolved": false
+  },
+  "-0.3091,100.3705": {
+    "country": "Indonesia",
+    "name": "Bukittinggi",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": -0.30907,
+    "longitude": 100.37055,
+    "rain_mm": 48.31,
+    "soil_moisture": 0.661,
+    "raw_dynamic_score": 7.762,
+    "last_updated": "2026-01-31T12:34:11.499310Z",
+    "last_tweeted_at": "2026-01-31T12:34:11.499310Z",
+    "tweet_id": "2017577188384493706",
     "resolved": false
   }
 }
