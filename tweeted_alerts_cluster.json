@@ -1734,7 +1734,7 @@
     "rain_mm": 43.0,
     "soil_moisture": 0.611,
     "raw_dynamic_score": 6.712,
-    "last_updated": "2026-01-31T09:25:02.157748Z",
+    "last_updated": "2026-01-31T15:19:26.704321Z",
     "last_tweeted_at": "2026-01-17T12:28:32.814262Z",
     "tweet_id": "2012502591528218952",
     "resolved": false
@@ -4578,22 +4578,6 @@
     "tweet_id": "2016808165032050722",
     "resolved": false
   },
-  "3.1667,113.0333": {
-    "country": "Malaysia",
-    "name": "Bintulu",
-    "risk_level": "Low",
-    "tweeted_level": "Low",
-    "latitude": 3.16667,
-    "longitude": 113.03333,
-    "rain_mm": 0.12,
-    "soil_moisture": 1.0,
-    "raw_dynamic_score": 0.024,
-    "last_updated": "2026-01-30T13:49:14.456071Z",
-    "last_tweeted_at": "2026-01-30T13:49:14.456071Z",
-    "tweet_id": "2017233940051026071",
-    "resolved": true,
-    "resolved_at": "2026-01-30T13:49:14.456071Z"
-  },
   "3.1167,113.2667": {
     "country": "Malaysia",
     "name": "Sebauh",
@@ -5047,9 +5031,54 @@
     "rain_mm": 48.31,
     "soil_moisture": 0.661,
     "raw_dynamic_score": 7.762,
-    "last_updated": "2026-01-31T12:34:11.499310Z",
+    "last_updated": "2026-01-31T15:19:26.704321Z",
     "last_tweeted_at": "2026-01-31T12:34:11.499310Z",
     "tweet_id": "2017577188384493706",
+    "resolved": false
+  },
+  "-14.5489,-49.9692": {
+    "country": "Brazil",
+    "name": "Crixás",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": -14.54889,
+    "longitude": -49.96917,
+    "rain_mm": 42.69,
+    "soil_moisture": 0.569,
+    "raw_dynamic_score": 6.501,
+    "last_updated": "2026-01-31T15:19:26.704321Z",
+    "last_tweeted_at": "2026-01-31T15:19:26.704321Z",
+    "tweet_id": "2017618780470272499",
+    "resolved": false
+  },
+  "-19.3302,48.9779": {
+    "country": "Madagascar",
+    "name": "Vatomandry",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": -19.33018,
+    "longitude": 48.97791,
+    "rain_mm": 37.88,
+    "soil_moisture": 1.0,
+    "raw_dynamic_score": 7.244,
+    "last_updated": "2026-01-31T15:19:26.704321Z",
+    "last_tweeted_at": "2026-01-31T15:19:26.704321Z",
+    "tweet_id": "2017619033206505841",
+    "resolved": false
+  },
+  "-27.9830,30.7177": {
+    "country": "South Africa",
+    "name": "Mondlo",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": -27.98299,
+    "longitude": 30.71769,
+    "rain_mm": 55.88,
+    "soil_moisture": 0.572,
+    "raw_dynamic_score": 8.527,
+    "last_updated": "2026-01-31T15:19:26.704321Z",
+    "last_tweeted_at": "2026-01-31T15:19:26.704321Z",
+    "tweet_id": "2017619285967839600",
     "resolved": false
   }
 }
