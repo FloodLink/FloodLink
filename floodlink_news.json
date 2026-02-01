@@ -11946,5 +11946,13 @@
         "score": 5,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-02-01",
+        "status": "posted",
+        "tweet": "\ud83c\uddf3\ud83c\uddf1 In 2026, the Netherlands maintains 26,000 km of dikes and levees, forming a vital barrier against floods for a nation where 60% of the population lives in flood-prone areas.",
+        "type": "infrastructure",
+        "tweet_id": "2017901081494241777"
     }
 ]
