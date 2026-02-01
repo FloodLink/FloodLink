@@ -835,7 +835,7 @@
     "rain_mm": 46.31,
     "soil_moisture": 0.635,
     "raw_dynamic_score": 7.331,
-    "last_updated": "2026-02-01T15:21:48.912158Z",
+    "last_updated": "2026-02-01T18:28:07.945867Z",
     "last_tweeted_at": "2026-01-11T01:16:31.985436Z",
     "tweet_id": "2010159400586289296",
     "resolved": false
@@ -850,7 +850,7 @@
     "rain_mm": 44.56,
     "soil_moisture": 0.641,
     "raw_dynamic_score": 7.077,
-    "last_updated": "2026-02-01T15:21:48.912158Z",
+    "last_updated": "2026-02-01T18:28:07.945867Z",
     "last_tweeted_at": "2026-01-11T01:16:31.985436Z",
     "tweet_id": "2010159653037191175",
     "resolved": false
@@ -5295,10 +5295,18 @@
     "rain_mm": 123.5,
     "soil_moisture": 0.755,
     "raw_dynamic_score": 20.89,
-    "last_updated": "2026-02-01T15:21:48.912158Z",
+    "last_updated": "2026-02-01T18:28:07.945867Z",
     "last_tweeted_at": "2026-02-01T09:27:08.773938Z",
     "tweet_id": "2017892505560187296",
-    "resolved": false
+    "resolved": false,
+    "pending_downgrade": true,
+    "pending_target_level": "Low",
+    "pending_set_at": "2026-02-01T18:28:07.945867Z",
+    "pending_is_region": false,
+    "pending_observed_level": "Low",
+    "pending_observed_rain_mm": 9.56,
+    "pending_observed_soil_moisture": 0.716,
+    "pending_observed_raw_dynamic_score": 1.583
   },
   "8.1736,-76.0592": {
     "country": "Colombia",
@@ -5355,6 +5363,51 @@
     "last_updated": "2026-02-01T15:21:48.912158Z",
     "last_tweeted_at": "2026-02-01T12:35:28.380346Z",
     "tweet_id": "2017939897873473582",
+    "resolved": false
+  },
+  "-13.0713,-55.9148": {
+    "country": "Brazil",
+    "name": "Lucas do Rio Verde",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": -13.07127,
+    "longitude": -55.91479,
+    "rain_mm": 50.06,
+    "soil_moisture": 0.689,
+    "raw_dynamic_score": 8.169,
+    "last_updated": "2026-02-01T18:28:07.945867Z",
+    "last_tweeted_at": "2026-02-01T18:28:07.945867Z",
+    "tweet_id": "2018028649073541194",
+    "resolved": false
+  },
+  "8.0942,-74.7757": {
+    "country": "Colombia",
+    "name": "Nechí",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 8.09419,
+    "longitude": -74.77573,
+    "rain_mm": 47.5,
+    "soil_moisture": 0.744,
+    "raw_dynamic_score": 7.987,
+    "last_updated": "2026-02-01T18:28:07.945867Z",
+    "last_tweeted_at": "2026-02-01T18:28:07.945867Z",
+    "tweet_id": "2018028901587447878",
+    "resolved": false
+  },
+  "-21.1500,46.5833": {
+    "country": "Madagascar",
+    "name": "Ikalamavony",
+    "risk_level": "High",
+    "tweeted_level": "High",
+    "latitude": -21.15,
+    "longitude": 46.58333,
+    "rain_mm": 86.94,
+    "soil_moisture": 0.631,
+    "raw_dynamic_score": 13.73,
+    "last_updated": "2026-02-01T18:28:07.945867Z",
+    "last_tweeted_at": "2026-02-01T18:28:07.945867Z",
+    "tweet_id": "2018029154927599912",
     "resolved": false
   }
 }
