@@ -12073,5 +12073,35 @@
         "score": 2,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQdzZWRFkyUjB1eUc2MVo5UXVKTU1PMnlDSnBOQjZ0a0V4LWpKQVJWc0tDSi1YNDhXY2ZTbDBGalhzakt6cjIwcGE4U3ZIdXFtanQxWUk2Y2dORC1xZUJTUFNudW9VemQ0UlI0TFQ5NVRpLUtFal91b2NXNlZoaENtd0JGdTBvazJkYTZVWGVwWTZBQ2xrWmhQcHpHWjVKSnFuaW50eGtDaXNxSTVMVmVkUFNkUmppUGJaaHRZY2lzTThEb1FlOWp3VXZjX1Y?oc=5",
+        "date": "2026-02-01",
+        "title": "NY weather: Coastal flood statement issued for Queens and Nassau County for Monday - SILive.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxQdzZWRFkyUjB1eUc2MVo5UXVKTU1PMnlDSnBOQjZ0a0V4LWpKQVJWc0tDSi1YNDhXY2ZTbDBGalhzakt6cjIwcGE4U3ZIdXFtanQxWUk2Y2dORC1xZUJTUFNudW9VemQ0UlI0TFQ5NVRpLUtFal91b2NXNlZoaENtd0JGdTBvazJkYTZVWGVwWTZBQ2xrWmhQcHpHWjVKSnFuaW50eGtDaXNxSTVMVmVkUFNkUmppUGJaaHRZY2lzTThEb1FlOWp3VXZjX1Y?oc=5\" target=\"_blank\">NY weather: Coastal flood statement issued for Queens and Nassau County for Monday</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SILive.com</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9jUktWM094THFMejhHT3ZRSUFhWHlET3VPY1VkWnF0VUN1cWJpV01lYjBteU4wazk3eDlTM0w5QXJVanZnVDVwVkQ2bHdHbTVkS2tCcV9CTnEwYjBV?oc=5",
+        "date": "2026-02-01",
+        "title": "Isle of Wight flood warnings as motorists stranded in deep water - BBC",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE9jUktWM094THFMejhHT3ZRSUFhWHlET3VPY1VkWnF0VUN1cWJpV01lYjBteU4wazk3eDlTM0w5QXJVanZnVDVwVkQ2bHdHbTVkS2tCcV9CTnEwYjBV?oc=5\" target=\"_blank\">Isle of Wight flood warnings as motorists stranded in deep water</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE41VXE3X1pYdm85aXZrTGR1UUZRODJ4anBNaUsxZkpDRVVnbHJtTDNUZHJSa1c4eFJiVktBM2U1TkViODZzdGZHMmFXRjJhdTNmZ3BIZ2o4ZkxsZw?oc=5",
+        "date": "2026-02-01",
+        "title": "Flood-prone Ynysybwl homes may be bought and bulldozed by council - BBC",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE41VXE3X1pYdm85aXZrTGR1UUZRODJ4anBNaUsxZkpDRVVnbHJtTDNUZHJSa1c4eFJiVktBM2U1TkViODZzdGZHMmFXRjJhdTNmZ3BIZ2o4ZkxsZw?oc=5\" target=\"_blank\">Flood-prone Ynysybwl homes may be bought and bulldozed by council</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
+        "similarity_excluded": "No",
+        "score": 6,
+        "status": "processed",
+        "tweet": null
     }
 ]
