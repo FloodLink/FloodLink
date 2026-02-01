@@ -84,7 +84,7 @@
     "rain_mm": 2.44,
     "soil_moisture": 0.623,
     "raw_dynamic_score": 0.383,
-    "last_updated": "2026-02-01T12:35:28.380346Z",
+    "last_updated": "2026-02-01T15:21:48.912158Z",
     "last_tweeted_at": "2026-02-01T12:35:28.380346Z",
     "tweet_id": "2017939897873473582",
     "resolved": true,
@@ -835,7 +835,7 @@
     "rain_mm": 46.31,
     "soil_moisture": 0.635,
     "raw_dynamic_score": 7.331,
-    "last_updated": "2026-01-11T06:24:28.202739Z",
+    "last_updated": "2026-02-01T15:21:48.912158Z",
     "last_tweeted_at": "2026-01-11T01:16:31.985436Z",
     "tweet_id": "2010159400586289296",
     "resolved": false
@@ -850,7 +850,7 @@
     "rain_mm": 44.56,
     "soil_moisture": 0.641,
     "raw_dynamic_score": 7.077,
-    "last_updated": "2026-01-11T06:24:28.202739Z",
+    "last_updated": "2026-02-01T15:21:48.912158Z",
     "last_tweeted_at": "2026-01-11T01:16:31.985436Z",
     "tweet_id": "2010159653037191175",
     "resolved": false
@@ -1421,10 +1421,14 @@
     "rain_mm": 77.56,
     "soil_moisture": 0.713,
     "raw_dynamic_score": 12.826,
-    "last_updated": "2026-02-01T12:35:28.380346Z",
+    "last_updated": "2026-02-01T15:21:48.912158Z",
     "last_tweeted_at": "2026-02-01T12:35:28.380346Z",
     "tweet_id": "2017939897873473582",
-    "resolved": false
+    "resolved": false,
+    "pending_downgrade": true,
+    "pending_target_level": "Medium",
+    "pending_set_at": "2026-02-01T15:21:48.912158Z",
+    "pending_is_region": true
   },
   "3.8801,-77.0312": {
     "country": "Colombia",
@@ -5291,7 +5295,7 @@
     "rain_mm": 123.5,
     "soil_moisture": 0.755,
     "raw_dynamic_score": 20.89,
-    "last_updated": "2026-02-01T09:27:08.773938Z",
+    "last_updated": "2026-02-01T15:21:48.912158Z",
     "last_tweeted_at": "2026-02-01T09:27:08.773938Z",
     "tweet_id": "2017892505560187296",
     "resolved": false
@@ -5306,10 +5310,14 @@
     "rain_mm": 49.75,
     "soil_moisture": 0.734,
     "raw_dynamic_score": 8.319,
-    "last_updated": "2026-02-01T09:27:08.773938Z",
+    "last_updated": "2026-02-01T15:21:48.912158Z",
     "last_tweeted_at": "2026-02-01T09:27:08.773938Z",
     "tweet_id": "2017892505560187296",
-    "resolved": false
+    "resolved": false,
+    "pending_downgrade": true,
+    "pending_target_level": "Medium",
+    "pending_set_at": "2026-02-01T15:21:48.912158Z",
+    "pending_is_region": true
   },
   "8.3137,-75.1398": {
     "country": "Colombia",
@@ -5321,7 +5329,7 @@
     "rain_mm": 61.44,
     "soil_moisture": 0.744,
     "raw_dynamic_score": 10.327,
-    "last_updated": "2026-02-01T12:35:28.380346Z",
+    "last_updated": "2026-02-01T15:21:48.912158Z",
     "last_tweeted_at": "2026-02-01T09:27:08.773938Z",
     "tweet_id": "2017892505560187296",
     "resolved": false,
@@ -5344,7 +5352,7 @@
     "rain_mm": 45.25,
     "soil_moisture": 0.649,
     "raw_dynamic_score": 7.218,
-    "last_updated": "2026-02-01T12:35:28.380346Z",
+    "last_updated": "2026-02-01T15:21:48.912158Z",
     "last_tweeted_at": "2026-02-01T12:35:28.380346Z",
     "tweet_id": "2017939897873473582",
     "resolved": false
