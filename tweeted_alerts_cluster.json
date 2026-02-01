@@ -5105,7 +5105,7 @@
     "rain_mm": 69.88,
     "soil_moisture": 0.726,
     "raw_dynamic_score": 11.637,
-    "last_updated": "2026-02-01T05:01:05.241309Z",
+    "last_updated": "2026-02-01T06:44:21.300010Z",
     "last_tweeted_at": "2026-02-01T05:01:05.241309Z",
     "tweet_id": "2017825541190258789",
     "resolved": false
@@ -5150,7 +5150,7 @@
     "rain_mm": 45.94,
     "soil_moisture": 0.697,
     "raw_dynamic_score": 7.528,
-    "last_updated": "2026-02-01T05:01:05.241309Z",
+    "last_updated": "2026-02-01T06:44:21.300010Z",
     "last_tweeted_at": "2026-02-01T05:01:05.241309Z",
     "tweet_id": "2017825794077462700",
     "resolved": false
@@ -5195,10 +5195,18 @@
     "rain_mm": 76.69,
     "soil_moisture": 0.74,
     "raw_dynamic_score": 12.864,
-    "last_updated": "2026-02-01T05:01:05.241309Z",
+    "last_updated": "2026-02-01T06:44:21.300010Z",
     "last_tweeted_at": "2026-02-01T05:01:05.241309Z",
     "tweet_id": "2017826299231015161",
-    "resolved": false
+    "resolved": false,
+    "pending_downgrade": true,
+    "pending_target_level": "Medium",
+    "pending_set_at": "2026-02-01T06:44:21.300010Z",
+    "pending_is_region": false,
+    "pending_observed_level": "Medium",
+    "pending_observed_rain_mm": 68.12,
+    "pending_observed_soil_moisture": 0.739,
+    "pending_observed_raw_dynamic_score": 11.422
   },
   "39.6285,22.4211": {
     "country": "Greece",
@@ -5258,6 +5266,21 @@
     "last_updated": "2026-02-01T05:01:05.241309Z",
     "last_tweeted_at": "2026-02-01T05:01:05.241309Z",
     "tweet_id": "2017827310163173839",
+    "resolved": false
+  },
+  "7.9792,-75.4202": {
+    "country": "Colombia",
+    "name": "Montelíbano",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 7.97917,
+    "longitude": -75.4202,
+    "rain_mm": 63.56,
+    "soil_moisture": 0.703,
+    "raw_dynamic_score": 10.452,
+    "last_updated": "2026-02-01T06:44:21.300010Z",
+    "last_tweeted_at": "2026-02-01T06:44:21.300010Z",
+    "tweet_id": "2017851538555998559",
     "resolved": false
   }
 }
