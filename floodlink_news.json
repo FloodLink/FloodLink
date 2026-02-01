@@ -11887,5 +11887,14 @@
             "longitude": -74.006,
             "confidence": 0.95
         }
+    },
+    {
+        "link": null,
+        "date": "2026-02-01",
+        "status": "posted",
+        "tweet": "Global population in floodplains: ~2B exposed to floods/flash floods/storm surge/extreme rain (2025 est.)\n\n1. \ud83c\udde8\ud83c\uddf3 China: 300M\n2. \ud83c\uddee\ud83c\uddf3 India: 250M\n3. \ud83c\udde7\ud83c\udde9 Bangladesh: 100M\n4. \ud83c\uddfa\ud83c\uddf8 USA: 80M\n5. \ud83c\uddee\ud83c\udde9 Indonesia: 70M",
+        "type": "statistical",
+        "category": "population living in floodplains",
+        "tweet_id": "2017800986593722515"
     }
 ]
