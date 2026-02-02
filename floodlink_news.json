@@ -11621,5 +11621,82 @@
         "score": 0,
         "status": "skipped",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE15U2lqRlJ3N0c2UWFvUjhsTFIwV1YxdGVUZUUtcGE3WEd4RXE4TWNJeFUtTGxBb2pQX2lmZk9RM0lzQXVQcHFrRHpOZkw3ZzRJODl2b3BnWlUwRlg4OHNLeHFiWWNOMFVFSWF1YmtqUE9ocWdjVkc5dWxueUI?oc=5",
+        "date": "2026-02-02",
+        "title": "Flood warning in place for Mason County until Tuesday afternoon, says the NWS - Bellingham Herald",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE15U2lqRlJ3N0c2UWFvUjhsTFIwV1YxdGVUZUUtcGE3WEd4RXE4TWNJeFUtTGxBb2pQX2lmZk9RM0lzQXVQcHFrRHpOZkw3ZzRJODl2b3BnWlUwRlg4OHNLeHFiWWNOMFVFSWF1YmtqUE9ocWdjVkc5dWxueUI?oc=5\" target=\"_blank\">Flood warning in place for Mason County until Tuesday afternoon, says the NWS</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bellingham Herald</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4xQ1IyNUNrNHJuRGpQNlNDQWRETUw5b1lMUjE5VTZ5Z3Zud0pvY1ZIMk5qWEdMbG5wSXNsZmRPeWo2bDRDZXJDTzBfV21MT0V2T3E4YzIzdzBlWElPWmNYM2l0SHVzRlA3VGc?oc=5",
+        "date": "2026-02-02",
+        "title": "Heavy Rains and Floods Affect Almost all of Colombia Due to La Ni\u00f1a\u2013like Conditions - Colombia One",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE4xQ1IyNUNrNHJuRGpQNlNDQWRETUw5b1lMUjE5VTZ5Z3Zud0pvY1ZIMk5qWEdMbG5wSXNsZmRPeWo2bDRDZXJDTzBfV21MT0V2T3E4YzIzdzBlWElPWmNYM2l0SHVzRlA3VGc?oc=5\" target=\"_blank\">Heavy Rains and Floods Affect Almost all of Colombia Due to La Ni\u00f1a\u2013like Conditions</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Colombia One</font>",
+        "similarity_excluded": "No",
+        "score": 10,
+        "status": "processed",
+        "tweet": null,
+        "tweet_id": "2018462973103055048",
+        "geo": {
+            "country": "Colombia",
+            "name": "Colombia",
+            "latitude": 4.5709,
+            "longitude": -74.2973,
+            "confidence": 0.95
+        }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBEc29Db3JfbkFSRGpYX1JXR0FJc2NkMDVYcll4SUJLYlNBcnEyN01PbWNZWjg5WExLeWx3ODRhWTFiZi01amlqNy1qRXFWV2JXZjdqXzNCQlNWaWpvYThHVzhqa2RtMXVZeEtpV3d3?oc=5",
+        "date": "2026-02-02",
+        "title": "Flood risk to Cork City's low-lying quays as status yellow rain warning issued - Irish Examiner",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTFBEc29Db3JfbkFSRGpYX1JXR0FJc2NkMDVYcll4SUJLYlNBcnEyN01PbWNZWjg5WExLeWx3ODRhWTFiZi01amlqNy1qRXFWV2JXZjdqXzNCQlNWaWpvYThHVzhqa2RtMXVZeEtpV3d3?oc=5\" target=\"_blank\">Flood risk to Cork City's low-lying quays as status yellow rain warning issued</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Irish Examiner</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOeDcwS2EtTjliOVhJYkhNSGJSMUZzMjl6NHZ4Njk3YmR3elh3by1jT2NIZHIwZnJYZGRtbE5CVEhXWm93T3pkT25mUkQ5U2hSN01ScGpDOUlDcGlYemp4RGhKeDVwQjhJc1dyeU1VMmxvdGRLVHhYS0Jkbm1QS1o4WC1lSkk0ZmkxOXpuMUlkYw?oc=5",
+        "date": "2026-02-02",
+        "title": "Flood warning for Wickham with more heavy rain forecast - Meon Valley Times",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxOeDcwS2EtTjliOVhJYkhNSGJSMUZzMjl6NHZ4Njk3YmR3elh3by1jT2NIZHIwZnJYZGRtbE5CVEhXWm93T3pkT25mUkQ5U2hSN01ScGpDOUlDcGlYemp4RGhKeDVwQjhJc1dyeU1VMmxvdGRLVHhYS0Jkbm1QS1o4WC1lSkk0ZmkxOXpuMUlkYw?oc=5\" target=\"_blank\">Flood warning for Wickham with more heavy rain forecast</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Meon Valley Times</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOT3V4QnlHNW15UUhBNzFvQzYzNU1Hd2h1dmNDeG9LcGtIY1RobENmREQ3NmNreUFPUDMzU1piMzBGbHd4cGxnNW1GWG1ZNjJoUjltTW0xNzJOYWc0Wl9QdDZsZ3NwRXkyeVBPTnJHdUNXNXJzdmJ6eGtqSFFzR0RueENScWV6VUVN?oc=5",
+        "date": "2026-02-02",
+        "title": "Every flood alert in Devon as county battered by more heavy rain - full list - Devon Live",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxOT3V4QnlHNW15UUhBNzFvQzYzNU1Hd2h1dmNDeG9LcGtIY1RobENmREQ3NmNreUFPUDMzU1piMzBGbHd4cGxnNW1GWG1ZNjJoUjltTW0xNzJOYWc0Wl9QdDZsZ3NwRXkyeVBPTnJHdUNXNXJzdmJ6eGtqSFFzR0RueENScWV6VUVN?oc=5\" target=\"_blank\">Every flood alert in Devon as county battered by more heavy rain - full list</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Devon Live</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4xQ1IyNUNrNHJuRGpQNlNDQWRETUw5b1lMUjE5VTZ5Z3Zud0pvY1ZIMk5qWEdMbG5wSXNsZmRPeWo2bDRDZXJDTzBfV21MT0V2T3E4YzIzdzBlWElPWmNYM2l0SHVzRlA3VGc?oc=5",
+        "date": "2026-02-02",
+        "title": "Heavy Rains and Floods Affect Almost all of Colombia Due to La Ni\u00f1a\u2013like Conditions - Colombia One",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE4xQ1IyNUNrNHJuRGpQNlNDQWRETUw5b1lMUjE5VTZ5Z3Zud0pvY1ZIMk5qWEdMbG5wSXNsZmRPeWo2bDRDZXJDTzBfV21MT0V2T3E4YzIzdzBlWElPWmNYM2l0SHVzRlA3VGc?oc=5\" target=\"_blank\">Heavy Rains and Floods Affect Almost all of Colombia Due to La Ni\u00f1a\u2013like Conditions</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Colombia One</font>",
+        "similarity_excluded": "No",
+        "score": 10,
+        "status": "posted",
+        "tweet": "\ud83c\udde8\ud83c\uddf4 POST-EVENT Colombia: Heavy rains triggering widespread floods affecting nearly the entire country due to La Ni\u00f1a-like conditions. (Colombia One)",
+        "type": "news",
+        "tweet_id": "2018462973103055048",
+        "geo": {
+            "country": "Colombia",
+            "name": "Colombia",
+            "latitude": 4.5709,
+            "longitude": -74.2973,
+            "confidence": 0.95
+        }
     }
 ]
