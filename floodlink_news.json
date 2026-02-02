@@ -11522,5 +11522,14 @@
         "score": 0,
         "status": "skipped",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-02-02",
+        "status": "posted",
+        "tweet": "By 2026, flood early warning systems will cover 70% of the global population\u2014up from 40% in 2020\u2014averting $15B in annual losses from flash floods, storm surges, and extreme rainfall.",
+        "type": "statistical",
+        "category": "coverage of flood early warning systems worldwide",
+        "tweet_id": "2018214111843139982"
     }
 ]
