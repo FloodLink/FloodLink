@@ -11498,5 +11498,25 @@
         "score": 8,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOUUFqb1BiT3ZPY05RUllPRUhhWnE4elBmdHV5bDFUbko0STlsLVpTYkxIZjZyd2RnRzVaMzBxaTdscmFqcU1jcnMtbDFieVJTR2M1WXBDWUxHQlZJZ1lWVXVMa21vUDRHd1ZXXzlTbUN1V29sZFNZZmoydHFrZkM4clFZUm0zMkQ3LVNwOWtZN09fNEZyMm9NS1NuNEl6NDNOSjZGSDFIVTVwWDlRejEyeU9sR01iLUkzaVNtbjY5cFFMcnBnX19VSGpR?oc=5",
+        "date": "2026-02-03",
+        "title": "ALERT: Warning issued amid risk of further heavy rainfall and flooding this week - Ireland Live",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxOUUFqb1BiT3ZPY05RUllPRUhhWnE4elBmdHV5bDFUbko0STlsLVpTYkxIZjZyd2RnRzVaMzBxaTdscmFqcU1jcnMtbDFieVJTR2M1WXBDWUxHQlZJZ1lWVXVMa21vUDRHd1ZXXzlTbUN1V29sZFNZZmoydHFrZkM4clFZUm0zMkQ3LVNwOWtZN09fNEZyMm9NS1NuNEl6NDNOSjZGSDFIVTVwWDlRejEyeU9sR01iLUkzaVNtbjY5cFFMcnBnX19VSGpR?oc=5\" target=\"_blank\">ALERT: Warning issued amid risk of further heavy rainfall and flooding this week</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Ireland Live</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOVnhvSTlYY3p4dndmeml4NkFJLTJuRi1ob2Y0QTJreDk4ZEJUU1BlSW95YnM0WVl2blhTMDM1bnFhM3lUZmg4MVlvM3VVOFg3WFZEMzJxaEdWRE1DZGg0V0xHbWdadnZMcktGOWkyYXRXbk5VTFNsUEwwdVd5R1dVbzhzOXIzWXJoRXpEaE9SSjNtMVVLUnJzZ2llNzNtN1JDNUtqRzZRMmo5dU1HMG1qeWxMRWVNNFNKYmZBbFRYeUxXRVQydnNsa0hQajhzbjVLZ2NNMnNxazFua21FRDh4ag?oc=5",
+        "date": "2026-02-03",
+        "title": "\u201cNo time for boats or beaches\u201d: cold front maintains risk of flooding and dangerous seas in Puerto Rico - El Nuevo D\u00eda",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxOVnhvSTlYY3p4dndmeml4NkFJLTJuRi1ob2Y0QTJreDk4ZEJUU1BlSW95YnM0WVl2blhTMDM1bnFhM3lUZmg4MVlvM3VVOFg3WFZEMzJxaEdWRE1DZGg0V0xHbWdadnZMcktGOWkyYXRXbk5VTFNsUEwwdVd5R1dVbzhzOXIzWXJoRXpEaE9SSjNtMVVLUnJzZ2llNzNtN1JDNUtqRzZRMmo5dU1HMG1qeWxMRWVNNFNKYmZBbFRYeUxXRVQydnNsa0hQajhzbjVLZ2NNMnNxazFua21FRDh4ag?oc=5\" target=\"_blank\">\u201cNo time for boats or beaches\u201d: cold front maintains risk of flooding and dangerous seas in Puerto Rico</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">El Nuevo D\u00eda</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
     }
 ]
