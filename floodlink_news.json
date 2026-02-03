@@ -11333,5 +11333,14 @@
             "longitude": 22.0,
             "confidence": 1.0
         }
+    },
+    {
+        "link": null,
+        "date": "2026-02-03",
+        "status": "posted",
+        "tweet": "Top urban areas exposed to river flooding (2026 projections, pop. at risk in millions):\n\n\ud83c\uddee\ud83c\uddf3 Mumbai: 21M (flash floods)\n\ud83c\udde8\ud83c\uddf3 Shanghai: 18M (river overflow)\n\ud83c\udde7\ud83c\udde9 Dhaka: 16M (extreme rainfall)\n\ud83c\uddfa\ud83c\uddf8 New York: 9M (storm surge)\n\ud83c\uddee\ud83c\udde9 Jakarta: 8M (river flooding)",
+        "type": "statistical",
+        "category": "urban areas exposed to river flooding",
+        "tweet_id": "2018661983583621408"
     }
 ]
