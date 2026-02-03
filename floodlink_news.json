@@ -11518,5 +11518,25 @@
         "score": 8,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxORkk5bzBfM3VWdjlSYVlybUtkQXk3ZnlIX3hreEdsZG9CRldrcHU0M0pMcXJhY3VqN2pyOWJqcXA5NjQ5cVlCVzJXTjJnQ2NnUzBsWmZDRDJOMndpY3FiMGhVMzJFRDdUaXl1M1o1eFd4NnpBMjFlWnlNR0hHSF9aMV9pQktRVGx4bFBGbksxUVFINER6OG5YSkY4enZuS25kVHVSNkoxYnpQSmxuMGpn?oc=5",
+        "date": "2026-02-03",
+        "title": "Live: Dublin flood teams monitoring river and tide levels; \u2018unlike any other flood before\u2019, says specialist; rain warnings remain in place - The Irish Times",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxORkk5bzBfM3VWdjlSYVlybUtkQXk3ZnlIX3hreEdsZG9CRldrcHU0M0pMcXJhY3VqN2pyOWJqcXA5NjQ5cVlCVzJXTjJnQ2NnUzBsWmZDRDJOMndpY3FiMGhVMzJFRDdUaXl1M1o1eFd4NnpBMjFlWnlNR0hHSF9aMV9pQktRVGx4bFBGbksxUVFINER6OG5YSkY4enZuS25kVHVSNkoxYnpQSmxuMGpn?oc=5\" target=\"_blank\">Live: Dublin flood teams monitoring river and tide levels; \u2018unlike any other flood before\u2019, says specialist; rain warnings remain in place</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Irish Times</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPSHg0dnBfc1BlVF8tX09mM2c0SGRwbHRSOGtONVo3eXhEVEVFT1NHUHZiR3lJX1ZnMEhPa2NtX3JvOHY5bjlVR2diTVJsMVJzeEZQQktVNjE3Mk5fbE5VQTgtUFRzLVNqWUZUdjRMTUk1UndCaExldkVIZHhtR3B0aEVacWFNcGJ1SW4yNjhKMUM?oc=5",
+        "date": "2026-02-03",
+        "title": "KP CS reviews flood response plan for upcoming monsoon - Associated Press of Pakistan",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPSHg0dnBfc1BlVF8tX09mM2c0SGRwbHRSOGtONVo3eXhEVEVFT1NHUHZiR3lJX1ZnMEhPa2NtX3JvOHY5bjlVR2diTVJsMVJzeEZQQktVNjE3Mk5fbE5VQTgtUFRzLVNqWUZUdjRMTUk1UndCaExldkVIZHhtR3B0aEVacWFNcGJ1SW4yNjhKMUM?oc=5\" target=\"_blank\">KP CS reviews flood response plan for upcoming monsoon</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Associated Press of Pakistan</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
     }
 ]
