@@ -5660,7 +5660,7 @@
     "rain_mm": 47.19,
     "soil_moisture": 0.453,
     "raw_dynamic_score": 6.695,
-    "last_updated": "2026-02-03T18:48:45.212799Z",
+    "last_updated": "2026-02-03T21:31:24.105101Z",
     "last_tweeted_at": "2026-02-03T18:48:45.212799Z",
     "tweet_id": "2018758871800508767",
     "resolved": false
@@ -5690,9 +5690,39 @@
     "rain_mm": 42.19,
     "soil_moisture": 0.612,
     "raw_dynamic_score": 6.591,
-    "last_updated": "2026-02-03T18:48:45.212799Z",
+    "last_updated": "2026-02-03T21:31:24.105101Z",
     "last_tweeted_at": "2026-02-03T18:48:45.212799Z",
     "tweet_id": "2018759124457038113",
+    "resolved": false
+  },
+  "-17.2222,-46.8747": {
+    "country": "Brazil",
+    "name": "Paracatu",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": -17.22222,
+    "longitude": -46.87472,
+    "rain_mm": 47.62,
+    "soil_moisture": 0.713,
+    "raw_dynamic_score": 7.874,
+    "last_updated": "2026-02-03T21:31:24.105101Z",
+    "last_tweeted_at": "2026-02-03T21:31:24.105101Z",
+    "tweet_id": "2018799551575203841",
+    "resolved": false
+  },
+  "-9.4772,147.1509": {
+    "country": "Papua New Guinea",
+    "name": "Port Moresby",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": -9.47723,
+    "longitude": 147.15089,
+    "rain_mm": 49.81,
+    "soil_moisture": 0.574,
+    "raw_dynamic_score": 7.611,
+    "last_updated": "2026-02-03T21:31:24.105101Z",
+    "last_tweeted_at": "2026-02-03T21:31:24.105101Z",
+    "tweet_id": "2018799803933843790",
     "resolved": false
   }
 }
