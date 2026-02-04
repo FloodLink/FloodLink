@@ -11406,5 +11406,25 @@
         "score": 3,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQRTJQV2NtcU1VdzlqT1hXME1nbTdBV0Y4YzNfRW1XMzM5OHM2b1lZZzE1RE4yNmpsMXIzbzg0MDViYWFSZUtKXzl4cFlxZ2NSVGQxa0s2OHlaX0N0dDhLaE9MbTFLYVZXWU5VYUVzTEdKSWMyU3QtSUlteXo0MTV4QURENURlWlI3VjVOT1JuWldwTDFoclR0bDYzM1RTbzNlV0pnN1R6RnJ0TkRHUFhUV05lZXBFTHU5cEQ0VEVZSWpkY3pvTDdZ?oc=5",
+        "date": "2026-02-04",
+        "title": "Weather update: Met \u00c9ireann issues multiple warnings including orange alert ahead of heavy rain - The Irish Times",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxQRTJQV2NtcU1VdzlqT1hXME1nbTdBV0Y4YzNfRW1XMzM5OHM2b1lZZzE1RE4yNmpsMXIzbzg0MDViYWFSZUtKXzl4cFlxZ2NSVGQxa0s2OHlaX0N0dDhLaE9MbTFLYVZXWU5VYUVzTEdKSWMyU3QtSUlteXo0MTV4QURENURlWlI3VjVOT1JuWldwTDFoclR0bDYzM1RTbzNlV0pnN1R6RnJ0TkRHUFhUV05lZXBFTHU5cEQ0VEVZSWpkY3pvTDdZ?oc=5\" target=\"_blank\">Weather update: Met \u00c9ireann issues multiple warnings including orange alert ahead of heavy rain</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Irish Times</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1PWklDdUswMEdXMjlmVWtBMl9Rc1hTM0JVbzJLM0tCdkRLcTF1M2xiX2ZuTUQ2bTUxX3pqanpwVVpJLW1COFUxSGtDa1NsX0E4ZENxX01zcV9BejZYVF9YTjdOZlczeHRJN2hFcnlnNEc1dw?oc=5",
+        "date": "2026-02-04",
+        "title": "One dead as Storm Leonardo hits Portugal and Spain - RTE.ie",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE1PWklDdUswMEdXMjlmVWtBMl9Rc1hTM0JVbzJLM0tCdkRLcTF1M2xiX2ZuTUQ2bTUxX3pqanpwVVpJLW1COFUxSGtDa1NsX0E4ZENxX01zcV9BejZYVF9YTjdOZlczeHRJN2hFcnlnNEc1dw?oc=5\" target=\"_blank\">One dead as Storm Leonardo hits Portugal and Spain</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">RTE.ie</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
     }
 ]
