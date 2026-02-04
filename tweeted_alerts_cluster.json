@@ -5667,5 +5667,50 @@
     "last_tweeted_at": "2026-02-04T01:22:00.745320Z",
     "tweet_id": "2018857831953293317",
     "resolved": false
+  },
+  "0.3905,9.7610": {
+    "country": "Gabon",
+    "name": "Ntoum",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 0.39051,
+    "longitude": 9.76096,
+    "rain_mm": 42.5,
+    "soil_moisture": 0.624,
+    "raw_dynamic_score": 6.687,
+    "last_updated": "2026-02-04T12:44:26.311021Z",
+    "last_tweeted_at": "2026-02-04T12:44:26.311021Z",
+    "tweet_id": "2019029317435490520",
+    "resolved": false
+  },
+  "-18.9833,47.3167": {
+    "country": "Madagascar",
+    "name": "Imerintsiatosika",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": -18.98333,
+    "longitude": 47.31667,
+    "rain_mm": 57.25,
+    "soil_moisture": 0.675,
+    "raw_dynamic_score": 9.27,
+    "last_updated": "2026-02-04T12:44:26.311021Z",
+    "last_tweeted_at": "2026-02-04T12:44:26.311021Z",
+    "tweet_id": "2019029569827663939",
+    "resolved": false
+  },
+  "-19.0167,47.1833": {
+    "country": "Madagascar",
+    "name": "Arivonimamo",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": -19.01667,
+    "longitude": 47.18333,
+    "rain_mm": 57.25,
+    "soil_moisture": 0.675,
+    "raw_dynamic_score": 9.27,
+    "last_updated": "2026-02-04T12:44:26.311021Z",
+    "last_tweeted_at": "2026-02-04T12:44:26.311021Z",
+    "tweet_id": "2019029569827663939",
+    "resolved": false
   }
 }
