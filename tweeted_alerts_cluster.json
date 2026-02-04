@@ -5074,22 +5074,6 @@
     "tweet_id": "2018028649073541194",
     "resolved": false
   },
-  "-21.1500,46.5833": {
-    "country": "Madagascar",
-    "name": "Ikalamavony",
-    "risk_level": "Low",
-    "tweeted_level": "Low",
-    "latitude": -21.15,
-    "longitude": 46.58333,
-    "rain_mm": 0.19,
-    "soil_moisture": 0.529,
-    "raw_dynamic_score": 0.028,
-    "last_updated": "2026-02-03T01:26:01.814726Z",
-    "last_tweeted_at": "2026-02-03T01:26:01.814726Z",
-    "tweet_id": "2018496206012346548",
-    "resolved": true,
-    "resolved_at": "2026-02-03T01:26:01.814726Z"
-  },
   "7.3915,-73.4957": {
     "country": "Colombia",
     "name": "Sabana de Torres",
@@ -5735,7 +5719,7 @@
     "rain_mm": 36.0,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 6.885,
-    "last_updated": "2026-02-04T01:22:00.745320Z",
+    "last_updated": "2026-02-04T04:29:51.021719Z",
     "last_tweeted_at": "2026-02-04T01:22:00.745320Z",
     "tweet_id": "2018857579447828821",
     "resolved": false
@@ -5765,7 +5749,7 @@
     "rain_mm": 41.44,
     "soil_moisture": 0.679,
     "raw_dynamic_score": 6.722,
-    "last_updated": "2026-02-04T01:22:00.745320Z",
+    "last_updated": "2026-02-04T04:29:51.021719Z",
     "last_tweeted_at": "2026-02-04T01:22:00.745320Z",
     "tweet_id": "2018857831953293317",
     "resolved": false
