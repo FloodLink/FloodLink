@@ -11247,5 +11247,25 @@
             "longitude": 133.5333,
             "confidence": 0.95
         }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA3N2ZJX2VpVm5KU29ocmdnQkVaVVBTbWUxVFZvYTl0ZTdYWUtlT2RYTENmcWU0Qk4zVWRaRXZ0YXdETVJjMmltaVV3S01PSUpGaTFfUUJNcGN1UQ?oc=5",
+        "date": "2026-02-04",
+        "title": "Heavy rain could lead to more flooding across Devon and Cornwall - BBC",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTFA3N2ZJX2VpVm5KU29ocmdnQkVaVVBTbWUxVFZvYTl0ZTdYWUtlT2RYTENmcWU0Qk4zVWRaRXZ0YXdETVJjMmltaVV3S01PSUpGaTFfUUJNcGN1UQ?oc=5\" target=\"_blank\">Heavy rain could lead to more flooding across Devon and Cornwall</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1uUUcyel9HZW5MWlhKTEVaN0xqVG9IVDJ4bExLeEU5TlVBZXIwRDNjWTRORms1QkNyVWhxZWl5My1RQ0lETkpaVXk5WEpqOTEzdmZMcFRNb091UmFvWGRMZUk2eEYxdElMLWxELTYzSjFoYWRSOFJxSk5pT3ZZQQ?oc=5",
+        "date": "2026-02-04",
+        "title": "Fresh weather warning for heavy rain with surface water flooding 'likely' - Yahoo News UK",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE1uUUcyel9HZW5MWlhKTEVaN0xqVG9IVDJ4bExLeEU5TlVBZXIwRDNjWTRORms1QkNyVWhxZWl5My1RQ0lETkpaVXk5WEpqOTEzdmZMcFRNb091UmFvWGRMZUk2eEYxdElMLWxELTYzSjFoYWRSOFJxSk5pT3ZZQQ?oc=5\" target=\"_blank\">Fresh weather warning for heavy rain with surface water flooding 'likely'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo News UK</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
     }
 ]
