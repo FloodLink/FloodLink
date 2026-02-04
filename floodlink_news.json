@@ -11210,5 +11210,42 @@
         "score": 6,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPYUpVcUo1Q3Q2WDlGZllBOGVCbEpQZW1jemd4U3BjZ0VZZDBaTHZsOGVQVDExUEIxMWYxU2h1RmhmZkctbU56anBZc1pxaHpSTGdMQ1JNajkyM09ubDNraUtWLXZfcnV2Rm02TG1zTkJ6X0lkQ0twa3BWMUxBOG5wcHNrMllhOWVLOTRUQWNNTmNQSERzcmc3MkRZVGIteUQ5T1RudU9Sb29BTngz?oc=5",
+        "date": "2026-02-04",
+        "title": "Remote NT town to be evacuated ahead of major flooding - Australian Broadcasting Corporation",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPYUpVcUo1Q3Q2WDlGZllBOGVCbEpQZW1jemd4U3BjZ0VZZDBaTHZsOGVQVDExUEIxMWYxU2h1RmhmZkctbU56anBZc1pxaHpSTGdMQ1JNajkyM09ubDNraUtWLXZfcnV2Rm02TG1zTkJ6X0lkQ0twa3BWMUxBOG5wcHNrMllhOWVLOTRUQWNNTmNQSERzcmc3MkRZVGIteUQ5T1RudU9Sb29BTngz?oc=5\" target=\"_blank\">Remote NT town to be evacuated ahead of major flooding</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Australian Broadcasting Corporation</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": null,
+        "tweet_id": "2018963797457932784",
+        "geo": {
+            "country": "Australia",
+            "name": "Elliott",
+            "latitude": -17.5333,
+            "longitude": 133.5333,
+            "confidence": 0.95
+        }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPYUpVcUo1Q3Q2WDlGZllBOGVCbEpQZW1jemd4U3BjZ0VZZDBaTHZsOGVQVDExUEIxMWYxU2h1RmhmZkctbU56anBZc1pxaHpSTGdMQ1JNajkyM09ubDNraUtWLXZfcnV2Rm02TG1zTkJ6X0lkQ0twa3BWMUxBOG5wcHNrMllhOWVLOTRUQWNNTmNQSERzcmc3MkRZVGIteUQ5T1RudU9Sb29BTngz?oc=5",
+        "date": "2026-02-04",
+        "title": "Remote NT town to be evacuated ahead of major flooding - Australian Broadcasting Corporation",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPYUpVcUo1Q3Q2WDlGZllBOGVCbEpQZW1jemd4U3BjZ0VZZDBaTHZsOGVQVDExUEIxMWYxU2h1RmhmZkctbU56anBZc1pxaHpSTGdMQ1JNajkyM09ubDNraUtWLXZfcnV2Rm02TG1zTkJ6X0lkQ0twa3BWMUxBOG5wcHNrMllhOWVLOTRUQWNNTmNQSERzcmc3MkRZVGIteUQ5T1RudU9Sb29BTngz?oc=5\" target=\"_blank\">Remote NT town to be evacuated ahead of major flooding</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Australian Broadcasting Corporation</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "posted",
+        "tweet": "\ud83c\udde6\ud83c\uddfa FORECAST Northern Territory: Remote town to be evacuated ahead of major flooding from heavy rains.",
+        "type": "news",
+        "tweet_id": "2018963797457932784",
+        "geo": {
+            "country": "Australia",
+            "name": "Elliott",
+            "latitude": -17.5333,
+            "longitude": 133.5333,
+            "confidence": 0.95
+        }
     }
 ]
