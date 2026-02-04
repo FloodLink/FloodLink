@@ -11267,5 +11267,14 @@
         "score": 0,
         "status": "skipped",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-02-04",
+        "status": "posted",
+        "tweet": "By 2026, 1.2 billion urban residents worldwide will be exposed to river flooding risks from extreme rainfall, up 30% from 2020 levels.",
+        "type": "statistical",
+        "category": "urban areas exposed to river flooding",
+        "tweet_id": "2019046318404948407"
     }
 ]
