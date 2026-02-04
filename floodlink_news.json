@@ -11171,5 +11171,14 @@
         "score": 8,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-02-04",
+        "status": "posted",
+        "tweet": "By 2030, extreme rainfall could double flood risks for 1 billion people globally, overwhelming aging dams, levees & reservoirs without upgrades. (World Bank 2024 projection)",
+        "type": "statistical",
+        "category": "dams, levees and reservoirs used for flood control",
+        "tweet_id": "2018887713168986600"
     }
 ]
