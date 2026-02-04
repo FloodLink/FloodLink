@@ -5645,7 +5645,7 @@
     "rain_mm": 38.44,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 7.351,
-    "last_updated": "2026-02-03T18:48:45.212799Z",
+    "last_updated": "2026-02-04T01:22:00.745320Z",
     "last_tweeted_at": "2026-02-03T18:48:45.212799Z",
     "tweet_id": "2018758619441795351",
     "resolved": false
@@ -5705,7 +5705,7 @@
     "rain_mm": 47.62,
     "soil_moisture": 0.713,
     "raw_dynamic_score": 7.874,
-    "last_updated": "2026-02-03T21:31:24.105101Z",
+    "last_updated": "2026-02-04T01:22:00.745320Z",
     "last_tweeted_at": "2026-02-03T21:31:24.105101Z",
     "tweet_id": "2018799551575203841",
     "resolved": false
@@ -5720,9 +5720,54 @@
     "rain_mm": 49.81,
     "soil_moisture": 0.574,
     "raw_dynamic_score": 7.611,
-    "last_updated": "2026-02-03T21:31:24.105101Z",
+    "last_updated": "2026-02-04T01:22:00.745320Z",
     "last_tweeted_at": "2026-02-03T21:31:24.105101Z",
     "tweet_id": "2018799803933843790",
+    "resolved": false
+  },
+  "36.8469,-2.9497": {
+    "country": "Spain",
+    "name": "Berja",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 36.84693,
+    "longitude": -2.94966,
+    "rain_mm": 36.0,
+    "soil_moisture": 1.0,
+    "raw_dynamic_score": 6.885,
+    "last_updated": "2026-02-04T01:22:00.745320Z",
+    "last_tweeted_at": "2026-02-04T01:22:00.745320Z",
+    "tweet_id": "2018857579447828821",
+    "resolved": false
+  },
+  "36.7483,-3.0208": {
+    "country": "Spain",
+    "name": "Adra",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 36.74831,
+    "longitude": -3.02076,
+    "rain_mm": 36.0,
+    "soil_moisture": 1.0,
+    "raw_dynamic_score": 6.885,
+    "last_updated": "2026-02-04T01:22:00.745320Z",
+    "last_tweeted_at": "2026-02-04T01:22:00.745320Z",
+    "tweet_id": "2018857579447828821",
+    "resolved": false
+  },
+  "35.1688,-5.2636": {
+    "country": "Morocco",
+    "name": "Chefchaouen",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 35.16878,
+    "longitude": -5.2636,
+    "rain_mm": 41.44,
+    "soil_moisture": 0.679,
+    "raw_dynamic_score": 6.722,
+    "last_updated": "2026-02-04T01:22:00.745320Z",
+    "last_tweeted_at": "2026-02-04T01:22:00.745320Z",
+    "tweet_id": "2018857831953293317",
     "resolved": false
   }
 }
