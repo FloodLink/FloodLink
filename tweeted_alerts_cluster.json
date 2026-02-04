@@ -4818,22 +4818,6 @@
     "tweet_id": "2017407222616129927",
     "resolved": false
   },
-  "-15.5500,47.6667": {
-    "country": "Madagascar",
-    "name": "Boriziny",
-    "risk_level": "Low",
-    "tweeted_level": "Low",
-    "latitude": -15.55,
-    "longitude": 47.66667,
-    "rain_mm": 3.5,
-    "soil_moisture": 0.561,
-    "raw_dynamic_score": 0.531,
-    "last_updated": "2026-02-03T04:46:34.964959Z",
-    "last_tweeted_at": "2026-02-03T04:46:34.964959Z",
-    "tweet_id": "2018546664282214883",
-    "resolved": true,
-    "resolved_at": "2026-02-03T04:46:34.964959Z"
-  },
   "-0.3091,100.3705": {
     "country": "Indonesia",
     "name": "Bukittinggi",
