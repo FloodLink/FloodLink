@@ -5603,7 +5603,7 @@
     "rain_mm": 47.62,
     "soil_moisture": 0.713,
     "raw_dynamic_score": 7.874,
-    "last_updated": "2026-02-04T01:22:00.745320Z",
+    "last_updated": "2026-02-04T21:30:27.299566Z",
     "last_tweeted_at": "2026-02-03T21:31:24.105101Z",
     "tweet_id": "2018799551575203841",
     "resolved": false
@@ -5723,7 +5723,7 @@
     "rain_mm": 41.88,
     "soil_moisture": 0.656,
     "raw_dynamic_score": 6.709,
-    "last_updated": "2026-02-04T18:42:21.497810Z",
+    "last_updated": "2026-02-04T21:30:27.299566Z",
     "last_tweeted_at": "2026-02-04T18:42:21.497810Z",
     "tweet_id": "2019119397328077082",
     "resolved": false
@@ -5768,7 +5768,7 @@
     "rain_mm": 38.88,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 7.435,
-    "last_updated": "2026-02-04T18:42:21.497810Z",
+    "last_updated": "2026-02-04T21:30:27.299566Z",
     "last_tweeted_at": "2026-02-04T18:42:21.497810Z",
     "tweet_id": "2019119902410297832",
     "resolved": false
@@ -5786,6 +5786,21 @@
     "last_updated": "2026-02-04T18:42:21.497810Z",
     "last_tweeted_at": "2026-02-04T18:42:21.497810Z",
     "tweet_id": "2019120155339493656",
+    "resolved": false
+  },
+  "-16.8050,-49.9258": {
+    "country": "Brazil",
+    "name": "Palmeiras de Goiás",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": -16.805,
+    "longitude": -49.92583,
+    "rain_mm": 48.75,
+    "soil_moisture": 0.685,
+    "raw_dynamic_score": 7.938,
+    "last_updated": "2026-02-04T21:30:27.299566Z",
+    "last_tweeted_at": "2026-02-04T21:30:27.299566Z",
+    "tweet_id": "2019161695499788377",
     "resolved": false
   }
 }
