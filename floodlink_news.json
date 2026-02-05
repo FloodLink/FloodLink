@@ -11131,5 +11131,15 @@
             "longitude": 130.3833,
             "confidence": 0.95
         }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBkRURrM19lc21rTWRlaUhaaWpsV0t5VXBSbXYzZTQwcE1BWUJoUGZCTmRqbWVFWm1uM3FjTFJwcmVHNUtuUEJ5dnFPakdtc2xBUnpoZEdkbGRwbGZhelV1UDlxdHBXTnZa?oc=5",
+        "date": "2026-02-05",
+        "title": "Heavy Rains Leave at Least 56 Dead in Peru - Colombia One",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTFBkRURrM19lc21rTWRlaUhaaWpsV0t5VXBSbXYzZTQwcE1BWUJoUGZCTmRqbWVFWm1uM3FjTFJwcmVHNUtuUEJ5dnFPakdtc2xBUnpoZEdkbGRwbGZhelV1UDlxdHBXTnZa?oc=5\" target=\"_blank\">Heavy Rains Leave at Least 56 Dead in Peru</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Colombia One</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
     }
 ]
