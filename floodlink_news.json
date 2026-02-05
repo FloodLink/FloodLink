@@ -11141,5 +11141,14 @@
         "score": 0,
         "status": "skipped",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-02-05",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 New York City extreme rainfall events rose 40% from 2020-2023 (avg. 150mm/day peaks) to 2024-2026 projections (210mm/day), exposing 2.5M more residents to flash floods. \n\n\ud83c\udde8\ud83c\uddf3 Shanghai saw 35% increase in same period, with 2025 floods displacing 1.8M vs. 1.2M in 2020.",
+        "type": "statistical",
+        "category": "extreme rainfall trends in major cities",
+        "tweet_id": "2019479188085043635"
     }
 ]
