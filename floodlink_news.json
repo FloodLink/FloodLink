@@ -11200,5 +11200,14 @@
         "score": 0,
         "status": "skipped",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-02-05",
+        "status": "posted",
+        "tweet": "By 2030, extreme rainfall could boost global flood risks by 25%, exposing 500M more people\u2014making dams, levees & reservoirs essential for mitigating flash floods & storm surges.",
+        "type": "statistical",
+        "category": "dams, levees and reservoirs used for flood control",
+        "tweet_id": "2019532193169613264"
     }
 ]
