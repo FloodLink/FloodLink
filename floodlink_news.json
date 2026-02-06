@@ -11213,5 +11213,14 @@
             "longitude": 124.6472,
             "confidence": 0.95
         }
+    },
+    {
+        "link": null,
+        "date": "2026-02-06",
+        "status": "posted",
+        "tweet": "\ud83c\uddee\ud83c\uddf3 In India, 600 million people live in floodplains vulnerable to extreme rainfall and flash floods (2023 data).  \n\ud83c\udde7\ud83c\udde9 In Bangladesh, 80 million\u2014over 50% of the population\u2014face similar risks from river floods and storm surge (2024 est.).",
+        "type": "statistical",
+        "category": "population living in floodplains",
+        "tweet_id": "2019826141373297009"
     }
 ]
