@@ -11080,5 +11080,14 @@
             "longitude": -99.342,
             "confidence": 0.95
         }
+    },
+    {
+        "link": null,
+        "date": "2026-02-06",
+        "status": "posted",
+        "tweet": "By 2030, aging dams & levees in the \ud83c\uddfa\ud83c\uddf8 could expose 20 million more people to flash floods from extreme rainfall, per USGS projections\u2014up 25% from 2020 levels.",
+        "type": "statistical",
+        "category": "dams, levees and reservoirs used for flood control",
+        "tweet_id": "2019604481147621429"
     }
 ]
