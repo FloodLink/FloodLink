@@ -11402,5 +11402,139 @@
         "score": 0,
         "status": "skipped",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPSHhxVjVIN0tXakN2dVZKRTRfOHdLczZWRnE1NHh2aW5NSkJYUlFHdHByYjliWGJCeU81R0VfWXduTklXQVhrbjFVamFJM0NiTUYyeDd2ZlU1TlowdUlESUtfczBFNXhCLWtUaEhuQXJObWtpNl9QcWlLZDdJbmlZZjNYNDIwZHJvYUFPS2ttbVpBUU1iVUVIc2ZqRGRra3dGVjY5OE1Qam5kdFBYUUJCVlViZ0gyaWdjaGdUZE1oVy1TbXljWlVxUExTM0ZpclhPbWc?oc=5",
+        "date": "2026-02-06",
+        "title": "Family of child missing after floods in Texas Hill Country files lawsuit against Camp Mystic - KSAT",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxPSHhxVjVIN0tXakN2dVZKRTRfOHdLczZWRnE1NHh2aW5NSkJYUlFHdHByYjliWGJCeU81R0VfWXduTklXQVhrbjFVamFJM0NiTUYyeDd2ZlU1TlowdUlESUtfczBFNXhCLWtUaEhuQXJObWtpNl9QcWlLZDdJbmlZZjNYNDIwZHJvYUFPS2ttbVpBUU1iVUVIc2ZqRGRra3dGVjY5OE1Qam5kdFBYUUJCVlViZ0gyaWdjaGdUZE1oVy1TbXljWlVxUExTM0ZpclhPbWc?oc=5\" target=\"_blank\">Family of child missing after floods in Texas Hill Country files lawsuit against Camp Mystic</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KSAT</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQb2xBSU42Rzl3cUN1RFRHcmU1eDZibE1VR0tsRHJhejJmSEE2bWItN0lvSVkyaXdPc01SNVp3NGh2M2xLRDZKUzJxbWlvZ3VUYl9aRkEtb2Fkd2NodGlOci1BeTFPR3BBdkV1UHBidVVtQ21GVjVIRWJfWU5WNURhV3haTVI1LXBaSGo5MVFaUThxUXRRaVY0Nko1eU1hUkprUTJOU3ZXbmpBUmxrS2Vfc3QydDhGdw?oc=5",
+        "date": "2026-02-06",
+        "title": "Flash flood watch issued for all islands starting Saturday - Honolulu Star-Advertiser",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQb2xBSU42Rzl3cUN1RFRHcmU1eDZibE1VR0tsRHJhejJmSEE2bWItN0lvSVkyaXdPc01SNVp3NGh2M2xLRDZKUzJxbWlvZ3VUYl9aRkEtb2Fkd2NodGlOci1BeTFPR3BBdkV1UHBidVVtQ21GVjVIRWJfWU5WNURhV3haTVI1LXBaSGo5MVFaUThxUXRRaVY0Nko1eU1hUkprUTJOU3ZXbmpBUmxrS2Vfc3QydDhGdw?oc=5\" target=\"_blank\">Flash flood watch issued for all islands starting Saturday</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Honolulu Star-Advertiser</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": null,
+        "tweet_id": "2019893939780644892",
+        "geo": {
+            "country": "United States",
+            "name": "Hawaii",
+            "latitude": 21.3069,
+            "longitude": -157.8583,
+            "confidence": 1.0
+        }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNTGhNdklZUlZwUlJJa3lHOWc1bjE1LTVIVXhaLXpFd0xiQTQ4SUhjSnlDY20xa0ppTzlsb1FaZklLcUdaRXdIUElwTG0xMmpKR3FqWHFTcDY3NElwN0FyV1llZG51OUN4SFJ4eWYwdVdJYzAtVy1DcURDM3IzQXpDYlU2UXdlS3JvTUlWdnhyOW9LV0N1?oc=5",
+        "date": "2026-02-06",
+        "title": "Holiday hotspots brace for MORE floods as 65mph storm barrels in after 5 killed - the-sun.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNTGhNdklZUlZwUlJJa3lHOWc1bjE1LTVIVXhaLXpFd0xiQTQ4SUhjSnlDY20xa0ppTzlsb1FaZklLcUdaRXdIUElwTG0xMmpKR3FqWHFTcDY3NElwN0FyV1llZG51OUN4SFJ4eWYwdVdJYzAtVy1DcURDM3IzQXpDYlU2UXdlS3JvTUlWdnhyOW9LV0N1?oc=5\" target=\"_blank\">Holiday hotspots brace for MORE floods as 65mph storm barrels in after 5 killed</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">the-sun.com</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": null,
+        "tweet_id": "2019894466589467121",
+        "geo": {
+            "country": null,
+            "name": null,
+            "latitude": null,
+            "longitude": null,
+            "confidence": 0.0
+        }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQOHMyWkRvTTJoWER3MzAzUDFRRnl2ZC1xV2pGdDVnWF9ObTUxcnh6WTE1em9HZDhMVWM3ZXV5UF8xd0czQXNRMTNyejJWSWg2cS1pY1VYeDMtV1I3RlU5aGhKM3MyNGU1M3JOQTE1YkJvbVhtZTdmR05hVVluVmU1QjZORQ?oc=5",
+        "date": "2026-02-06",
+        "title": "Oahu On Edge as Flood Watch Sounds Island Alarm - Hoodline",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxQOHMyWkRvTTJoWER3MzAzUDFRRnl2ZC1xV2pGdDVnWF9ObTUxcnh6WTE1em9HZDhMVWM3ZXV5UF8xd0czQXNRMTNyejJWSWg2cS1pY1VYeDMtV1I3RlU5aGhKM3MyNGU1M3JOQTE1YkJvbVhtZTdmR05hVVluVmU1QjZORQ?oc=5\" target=\"_blank\">Oahu On Edge as Flood Watch Sounds Island Alarm</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Hoodline</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOcUxkRUNTQjJ2Q0NMN25MQVFVa2lrMVdFelhfYmZrU1VwbG8xYW1uQ2x0eWxuaHhBYllvUzVxanVaX3l0TzNpYjNBRlgxcVlLd09STTdmbEg3TkZhYUk4bUx3eldOVU1qSnNxaDJUQlVmZ1E0aW9tdU1QYzRFRWpqSkFRSFBOcGY4dUtET1VHZkxBX2FDbW13M2dSMkRRUGd6ZUZXVTdJR245ZUxLLWVtbG1uOWxyUm52eTVsSEtGM2w?oc=5",
+        "date": "2026-02-06",
+        "title": "Parents of last missing Mystic camper file lawsuit saying disaster was preventable - Baltimore Sun",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxOcUxkRUNTQjJ2Q0NMN25MQVFVa2lrMVdFelhfYmZrU1VwbG8xYW1uQ2x0eWxuaHhBYllvUzVxanVaX3l0TzNpYjNBRlgxcVlLd09STTdmbEg3TkZhYUk4bUx3eldOVU1qSnNxaDJUQlVmZ1E0aW9tdU1QYzRFRWpqSkFRSFBOcGY4dUtET1VHZkxBX2FDbW13M2dSMkRRUGd6ZUZXVTdJR245ZUxLLWVtbG1uOWxyUm52eTVsSEtGM2w?oc=5\" target=\"_blank\">Parents of last missing Mystic camper file lawsuit saying disaster was preventable</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Baltimore Sun</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPOFA4NzFSNjlpRkx6aDNKWDFGaWIzMUc2SEk3cEk1WG94OVlBNUdxR3g5MjFvMzZfVFZLZFhyWkxjMFlrQ1dVX0IxRU5GU09GNXR3M01Ta19yMGxyUWlaSnFUNHpqaVRoT2ZsU3duMGdqWE54RzUtNk9PeEVRNXF2SlU4RV9UcTBub1lMa2hQTXQ5QTNXSURTZGo4OHRYRk8wb2c?oc=5",
+        "date": "2026-02-06",
+        "title": "Flood warnings in place in Worcester as residents warned of rising water - malverngazette.co.uk",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPOFA4NzFSNjlpRkx6aDNKWDFGaWIzMUc2SEk3cEk1WG94OVlBNUdxR3g5MjFvMzZfVFZLZFhyWkxjMFlrQ1dVX0IxRU5GU09GNXR3M01Ta19yMGxyUWlaSnFUNHpqaVRoT2ZsU3duMGdqWE54RzUtNk9PeEVRNXF2SlU4RV9UcTBub1lMa2hQTXQ5QTNXSURTZGo4OHRYRk8wb2c?oc=5\" target=\"_blank\">Flood warnings in place in Worcester as residents warned of rising water</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">malverngazette.co.uk</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNX3BlU2xxYXI2YlpYWk9CUXJNUF9fWnpXTXhQYTFfaV82VDM3cDFVUEhGLUI4UF9lU1NEa081Qmp2Szgya3lJQWI0TXhLRFdXeUdBdHZ6dU41VWZjVnIwM3hUWXhfdUVmNmdSN04wUXZ1UjBSRVlselNfdDhBTWh1TEliX1NmU0lab1hwYm9scjE4ZTlweWhCVVM3ejQyeEJXVUNNdWV2S194SVFTRVlFanFsSTgzYXEzSVF3UFVHVWRmQTJOUEVfak00emZjeXlOcVpjeDRyejgzam1MMGhEaVNHUmU2ZXN3R2ZVREtILXFSMjYzRFMxQQ?oc=5",
+        "date": "2026-02-06",
+        "title": "Spain and Portugal continue to battle Storm Leonardo as new storm approaches - The Batesville Daily Guard",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi-AFBVV95cUxNX3BlU2xxYXI2YlpYWk9CUXJNUF9fWnpXTXhQYTFfaV82VDM3cDFVUEhGLUI4UF9lU1NEa081Qmp2Szgya3lJQWI0TXhLRFdXeUdBdHZ6dU41VWZjVnIwM3hUWXhfdUVmNmdSN04wUXZ1UjBSRVlselNfdDhBTWh1TEliX1NmU0lab1hwYm9scjE4ZTlweWhCVVM3ejQyeEJXVUNNdWV2S194SVFTRVlFanFsSTgzYXEzSVF3UFVHVWRmQTJOUEVfak00emZjeXlOcVpjeDRyejgzam1MMGhEaVNHUmU2ZXN3R2ZVREtILXFSMjYzRFMxQQ?oc=5\" target=\"_blank\">Spain and Portugal continue to battle Storm Leonardo as new storm approaches</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Batesville Daily Guard</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNbzQ1b3pzSUVrbS1ULWxWbXBkSnZUMElMMFJJM21ENUxYcUxmblF5VWdXLWx5Q1F6VGVUa0d4N0RpdXJFbGpTYnEtYk0wdERaOG4wbUR0YjV6bHA5UTZoazdCbXZvcUlGVXlZcmNMLVN5TUtkVjZKcXdqZ0g3ZXJXQ2Q1X1fSAZIBQVVfeXFMUFZXNzB4QldEanJ3RjJkY0ZFSmZFSFkyVVIxMXpTbUt1R2ZKU2hJdXlKOU9xMlJpSTEtWUswYlBtU3paMWZydzhrUnFva09laHBTNnRuOWRlTTVBNVdZQWZzNXQwQ3U2NnFoU1pubmVjckFwTE9aZ3ppRjhGYWdCSTFKOXduU2pUb2dXemg4YUlCVGc?oc=5",
+        "date": "2026-02-06",
+        "title": "\u2018Basyang\u2019 onslaught triggers landslides, floods - Daily Tribune",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxNbzQ1b3pzSUVrbS1ULWxWbXBkSnZUMElMMFJJM21ENUxYcUxmblF5VWdXLWx5Q1F6VGVUa0d4N0RpdXJFbGpTYnEtYk0wdERaOG4wbUR0YjV6bHA5UTZoazdCbXZvcUlGVXlZcmNMLVN5TUtkVjZKcXdqZ0g3ZXJXQ2Q1X1fSAZIBQVVfeXFMUFZXNzB4QldEanJ3RjJkY0ZFSmZFSFkyVVIxMXpTbUt1R2ZKU2hJdXlKOU9xMlJpSTEtWUswYlBtU3paMWZydzhrUnFva09laHBTNnRuOWRlTTVBNVdZQWZzNXQwQ3U2NnFoU1pubmVjckFwTE9aZ3ppRjhGYWdCSTFKOXduU2pUb2dXemg4YUlCVGc?oc=5\" target=\"_blank\">\u2018Basyang\u2019 onslaught triggers landslides, floods</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Daily Tribune</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQb2xBSU42Rzl3cUN1RFRHcmU1eDZibE1VR0tsRHJhejJmSEE2bWItN0lvSVkyaXdPc01SNVp3NGh2M2xLRDZKUzJxbWlvZ3VUYl9aRkEtb2Fkd2NodGlOci1BeTFPR3BBdkV1UHBidVVtQ21GVjVIRWJfWU5WNURhV3haTVI1LXBaSGo5MVFaUThxUXRRaVY0Nko1eU1hUkprUTJOU3ZXbmpBUmxrS2Vfc3QydDhGdw?oc=5",
+        "date": "2026-02-06",
+        "title": "Flash flood watch issued for all islands starting Saturday - Honolulu Star-Advertiser",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQb2xBSU42Rzl3cUN1RFRHcmU1eDZibE1VR0tsRHJhejJmSEE2bWItN0lvSVkyaXdPc01SNVp3NGh2M2xLRDZKUzJxbWlvZ3VUYl9aRkEtb2Fkd2NodGlOci1BeTFPR3BBdkV1UHBidVVtQ21GVjVIRWJfWU5WNURhV3haTVI1LXBaSGo5MVFaUThxUXRRaVY0Nko1eU1hUkprUTJOU3ZXbmpBUmxrS2Vfc3QydDhGdw?oc=5\" target=\"_blank\">Flash flood watch issued for all islands starting Saturday</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Honolulu Star-Advertiser</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 FORECAST Hawaii: Flash flood watch for all islands starting Saturday, heavy rain expected to cause rapid flooding. (Honolulu Star-Advertiser)",
+        "type": "news",
+        "tweet_id": "2019893939780644892",
+        "geo": {
+            "country": "United States",
+            "name": "Hawaii",
+            "latitude": 21.3069,
+            "longitude": -157.8583,
+            "confidence": 1.0
+        }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNTGhNdklZUlZwUlJJa3lHOWc1bjE1LTVIVXhaLXpFd0xiQTQ4SUhjSnlDY20xa0ppTzlsb1FaZklLcUdaRXdIUElwTG0xMmpKR3FqWHFTcDY3NElwN0FyV1llZG51OUN4SFJ4eWYwdVdJYzAtVy1DcURDM3IzQXpDYlU2UXdlS3JvTUlWdnhyOW9LV0N1?oc=5",
+        "date": "2026-02-06",
+        "title": "Holiday hotspots brace for MORE floods as 65mph storm barrels in after 5 killed - the-sun.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNTGhNdklZUlZwUlJJa3lHOWc1bjE1LTVIVXhaLXpFd0xiQTQ4SUhjSnlDY20xa0ppTzlsb1FaZklLcUdaRXdIUElwTG0xMmpKR3FqWHFTcDY3NElwN0FyV1llZG51OUN4SFJ4eWYwdVdJYzAtVy1DcURDM3IzQXpDYlU2UXdlS3JvTUlWdnhyOW9LV0N1?oc=5\" target=\"_blank\">Holiday hotspots brace for MORE floods as 65mph storm barrels in after 5 killed</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">the-sun.com</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "posted",
+        "tweet": "\ud83c\uddec\ud83c\udde7 FORECAST UK: Imminent floods from 65mph storm barreling toward holiday hotspots after 5 killed (the-sun.com)",
+        "type": "news",
+        "tweet_id": "2019894466589467121",
+        "geo": {
+            "country": null,
+            "name": null,
+            "latitude": null,
+            "longitude": null,
+            "confidence": 0.0
+        }
     }
 ]
