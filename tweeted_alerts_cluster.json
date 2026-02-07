@@ -6459,5 +6459,35 @@
     "last_tweeted_at": "2026-02-06T21:28:00.839808Z",
     "tweet_id": "2019885860016238672",
     "resolved": false
+  },
+  "-5.8372,-43.8336": {
+    "country": "Brazil",
+    "name": "Buriti Bravo",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": -5.83722,
+    "longitude": -43.83361,
+    "rain_mm": 43.19,
+    "soil_moisture": 0.574,
+    "raw_dynamic_score": 6.597,
+    "last_updated": "2026-02-07T04:29:08.081938Z",
+    "last_tweeted_at": "2026-02-07T04:29:08.081938Z",
+    "tweet_id": "2019991826216649084",
+    "resolved": false
+  },
+  "-4.0009,-49.5068": {
+    "country": "Brazil",
+    "name": "Breu Branco",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": -4.00092,
+    "longitude": -49.5068,
+    "rain_mm": 62.88,
+    "soil_moisture": 0.661,
+    "raw_dynamic_score": 10.099,
+    "last_updated": "2026-02-07T04:29:08.081938Z",
+    "last_tweeted_at": "2026-02-07T04:29:08.081938Z",
+    "tweet_id": "2019992078751592494",
+    "resolved": false
   }
 }
