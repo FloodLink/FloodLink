@@ -11257,5 +11257,25 @@
         "score": 6,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPdzVKQ0JlWGFhWnNnYlRCRnMtRVlaUmYxdDRhdWRrVjFlaFd2a3FYeWtxWEk3NmhjbDRpRnVVWm93NlVoNzVEaERYNTVCMTFYRmx3S3V5ZTFuQWJ2SU1KaXBjRmJ6ZW5OUF90QnZTeklCMjNkSmRiRGhGdVdGV2NNcExHbEpVU0xHRFN5cEh0LWpEUzdmX0QyV1RSbVhaUjUtdFhRODBDaEtPUVAyZ0JnN1VlR0VlWWp4QXZtOFRkbmVZLXlVSllTRjNDdHJDNW9ZRnNxaWtsa29obzUw?oc=5",
+        "date": "2026-02-07",
+        "title": "Hatteras and Ocracoke Islands under Extreme Cold Warning and Coastal Flood Advisory through Sunday - Island Free Press",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxPdzVKQ0JlWGFhWnNnYlRCRnMtRVlaUmYxdDRhdWRrVjFlaFd2a3FYeWtxWEk3NmhjbDRpRnVVWm93NlVoNzVEaERYNTVCMTFYRmx3S3V5ZTFuQWJ2SU1KaXBjRmJ6ZW5OUF90QnZTeklCMjNkSmRiRGhGdVdGV2NNcExHbEpVU0xHRFN5cEh0LWpEUzdmX0QyV1RSbVhaUjUtdFhRODBDaEtPUVAyZ0JnN1VlR0VlWWp4QXZtOFRkbmVZLXlVSllTRjNDdHJDNW9ZRnNxaWtsa29obzUw?oc=5\" target=\"_blank\">Hatteras and Ocracoke Islands under Extreme Cold Warning and Coastal Flood Advisory through Sunday</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Island Free Press</font>",
+        "similarity_excluded": "No",
+        "score": 6,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQTjhuT2VsSnViZVg1RFFheGtpNXpUcVpDMk0zMzNnVmxUUDMxdTlOcXVWQ0g4TlNGQWVRN3drNmd0U2Voam1VeFBqQTBodjBjQ181UkE0OUdzSG8wcHNVZHBISHVJZ2g4ZUVkQjBxTGlydTNMWE5tMC1ad295QXE3TG94SGdJa1laWDNIcnFjVVExUmhsc213WHhoN2ZzZFlvRWdzWFpHTWg5NnZLRHVrZDlldW5jYW5QT0hVTzNxNzZxU2g3MjRHZEhtbFc1M0R0dTdETFEtYmloazRh?oc=5",
+        "date": "2026-02-07",
+        "title": "Another storm to batter already flood-hit holiday hotspots - NationalWorld",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxQTjhuT2VsSnViZVg1RFFheGtpNXpUcVpDMk0zMzNnVmxUUDMxdTlOcXVWQ0g4TlNGQWVRN3drNmd0U2Voam1VeFBqQTBodjBjQ181UkE0OUdzSG8wcHNVZHBISHVJZ2g4ZUVkQjBxTGlydTNMWE5tMC1ad295QXE3TG94SGdJa1laWDNIcnFjVVExUmhsc213WHhoN2ZzZFlvRWdzWFpHTWg5NnZLRHVrZDlldW5jYW5QT0hVTzNxNzZxU2g3MjRHZEhtbFc1M0R0dTdETFEtYmloazRh?oc=5\" target=\"_blank\">Another storm to batter already flood-hit holiday hotspots</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NationalWorld</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
     }
 ]
