@@ -5877,5 +5877,50 @@
     "last_tweeted_at": "2026-02-08T05:02:40.498652Z",
     "tweet_id": "2020362649905594704",
     "resolved": false
+  },
+  "-32.1759,26.8244": {
+    "country": "South Africa",
+    "name": "Whittlesea",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": -32.17588,
+    "longitude": 26.82437,
+    "rain_mm": 57.56,
+    "soil_moisture": 0.495,
+    "raw_dynamic_score": 8.384,
+    "last_updated": "2026-02-08T09:27:41.452627Z",
+    "last_tweeted_at": "2026-02-08T09:27:41.452627Z",
+    "tweet_id": "2020429357236338742",
+    "resolved": false
+  },
+  "-32.7748,26.6338": {
+    "country": "South Africa",
+    "name": "Fort Beaufort",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": -32.77477,
+    "longitude": 26.63376,
+    "rain_mm": 56.75,
+    "soil_moisture": 0.49,
+    "raw_dynamic_score": 8.24,
+    "last_updated": "2026-02-08T09:27:41.452627Z",
+    "last_tweeted_at": "2026-02-08T09:27:41.452627Z",
+    "tweet_id": "2020429357236338742",
+    "resolved": false
+  },
+  "-32.7875,26.8344": {
+    "country": "South Africa",
+    "name": "Alice",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": -32.78749,
+    "longitude": 26.8344,
+    "rain_mm": 56.75,
+    "soil_moisture": 0.49,
+    "raw_dynamic_score": 8.24,
+    "last_updated": "2026-02-08T09:27:41.452627Z",
+    "last_tweeted_at": "2026-02-08T09:27:41.452627Z",
+    "tweet_id": "2020429357236338742",
+    "resolved": false
   }
 }
