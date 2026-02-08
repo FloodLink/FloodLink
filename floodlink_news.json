@@ -11308,5 +11308,72 @@
         "score": 8,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcjYyYkRKeHZ3TWJjMGgwanlxdThxYmU0Zk5lWUhTczBoU1pQZzNSS1ctR2FtZHJuWmlibTBfRUVSVTY5aWZQSEVQNUNMNkdqMWRjeHVnLUJCakFYR2pqSUI1V3J4XzFjSllITURHTm16MXk4T1otWHdzbUUwcXdCY0w4Tm1FTGNNcFZaMGtyMDJZRnJ6TG5vWFJaMG02Q1c3SDk0?oc=5",
+        "date": "2026-02-08",
+        "title": "Hawai\u02bbi To Close Down Monday Due To Storm Impacts - Big Island Video News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxOcjYyYkRKeHZ3TWJjMGgwanlxdThxYmU0Zk5lWUhTczBoU1pQZzNSS1ctR2FtZHJuWmlibTBfRUVSVTY5aWZQSEVQNUNMNkdqMWRjeHVnLUJCakFYR2pqSUI1V3J4XzFjSllITURHTm16MXk4T1otWHdzbUUwcXdCY0w4Tm1FTGNNcFZaMGtyMDJZRnJ6TG5vWFJaMG02Q1c3SDk0?oc=5\" target=\"_blank\">Hawai\u02bbi To Close Down Monday Due To Storm Impacts</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Big Island Video News</font>",
+        "similarity_excluded": "No",
+        "score": 4,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPRS1pbU9yZDNDVjZqLTllRnFMaUJJRUM1dXhtdjBLWW1mNkdQMjJ5eVQzUVNSOEU2cG1YZkhqTTNpRXZfZ1NvUzhDbU5DdUZwUDNXSnlsZGF4MklIbjFvYUVoZjVMWENsc2VWR0RfWXdUckdxUU5pUWppXzlNYlQzRTZsTVlfdDdtNkdzcTlQS3BBeXJzY200ZVlNRmRDMi1DT0xITEhROWtyV2s3NlhEaFN1aFJmSmFuWmpKdDI2ckFNNWhWZnlzN01SRGRRY0dVVWFVQ2tB?oc=5",
+        "date": "2026-02-08",
+        "title": "Statewide closures in Hawaii due to severe weather threat - KITV",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxPRS1pbU9yZDNDVjZqLTllRnFMaUJJRUM1dXhtdjBLWW1mNkdQMjJ5eVQzUVNSOEU2cG1YZkhqTTNpRXZfZ1NvUzhDbU5DdUZwUDNXSnlsZGF4MklIbjFvYUVoZjVMWENsc2VWR0RfWXdUckdxUU5pUWppXzlNYlQzRTZsTVlfdDdtNkdzcTlQS3BBeXJzY200ZVlNRmRDMi1DT0xITEhROWtyV2s3NlhEaFN1aFJmSmFuWmpKdDI2ckFNNWhWZnlzN01SRGRRY0dVVWFVQ2tB?oc=5\" target=\"_blank\">Statewide closures in Hawaii due to severe weather threat</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KITV</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONmhoQVFUTnRwM0VmZmVzcXJka0JSNFF0eC1ZcnRVS0E2clZiLTN6dml0YzZ0OFhnYjNzcTZxaXExREhZQTI0czd4QWROeFYyLU12UUlrMko5S3M3YkNpLV9mbkFyNjRNT1FfY1VwLWNhU216MmdvVHZzX2k1T1g4OTM2UkFWLXgyajRIY0tqTUU5SVFqMk83aVRHRXExUFNDNkV0aFgwdFFzRUNIQnVBbUFNY0JTenIwejBR?oc=5",
+        "date": "2026-02-08",
+        "title": "Flash floods sweep northern Morocco, killing at least four including toddler - France 24",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxONmhoQVFUTnRwM0VmZmVzcXJka0JSNFF0eC1ZcnRVS0E2clZiLTN6dml0YzZ0OFhnYjNzcTZxaXExREhZQTI0czd4QWROeFYyLU12UUlrMko5S3M3YkNpLV9mbkFyNjRNT1FfY1VwLWNhU216MmdvVHZzX2k1T1g4OTM2UkFWLXgyajRIY0tqTUU5SVFqMk83aVRHRXExUFNDNkV0aFgwdFFzRUNIQnVBbUFNY0JTenIwejBR?oc=5\" target=\"_blank\">Flash floods sweep northern Morocco, killing at least four including toddler</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">France 24</font>",
+        "similarity_excluded": "No",
+        "score": 10,
+        "status": "processed",
+        "tweet": null,
+        "tweet_id": "2020637730539966882",
+        "geo": {
+            "country": "Morocco",
+            "name": "Northern Morocco",
+            "latitude": 35.0,
+            "longitude": -5.0,
+            "confidence": 0.9
+        }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBIR0dYOFhhblBWM0psaTVYTTNIWXY2cG9BaGNuYmE0R3ZTS3lpNUpzbmltSzJJMDhRbUhiU09lbkRRS2xSX3hBdDBjbm1LWlJvQ0ZmMVZlQXdQQQ?oc=5",
+        "date": "2026-02-08",
+        "title": "Flooding in Midlands after days of rain - BBC",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTFBIR0dYOFhhblBWM0psaTVYTTNIWXY2cG9BaGNuYmE0R3ZTS3lpNUpzbmltSzJJMDhRbUhiU09lbkRRS2xSX3hBdDBjbm1LWlJvQ0ZmMVZlQXdQQQ?oc=5\" target=\"_blank\">Flooding in Midlands after days of rain</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONmhoQVFUTnRwM0VmZmVzcXJka0JSNFF0eC1ZcnRVS0E2clZiLTN6dml0YzZ0OFhnYjNzcTZxaXExREhZQTI0czd4QWROeFYyLU12UUlrMko5S3M3YkNpLV9mbkFyNjRNT1FfY1VwLWNhU216MmdvVHZzX2k1T1g4OTM2UkFWLXgyajRIY0tqTUU5SVFqMk83aVRHRXExUFNDNkV0aFgwdFFzRUNIQnVBbUFNY0JTenIwejBR?oc=5",
+        "date": "2026-02-08",
+        "title": "Flash floods sweep northern Morocco, killing at least four including toddler - France 24",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxONmhoQVFUTnRwM0VmZmVzcXJka0JSNFF0eC1ZcnRVS0E2clZiLTN6dml0YzZ0OFhnYjNzcTZxaXExREhZQTI0czd4QWROeFYyLU12UUlrMko5S3M3YkNpLV9mbkFyNjRNT1FfY1VwLWNhU216MmdvVHZzX2k1T1g4OTM2UkFWLXgyajRIY0tqTUU5SVFqMk83aVRHRXExUFNDNkV0aFgwdFFzRUNIQnVBbUFNY0JTenIwejBR?oc=5\" target=\"_blank\">Flash floods sweep northern Morocco, killing at least four including toddler</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">France 24</font>",
+        "similarity_excluded": "No",
+        "score": 10,
+        "status": "posted",
+        "tweet": "\ud83c\uddf2\ud83c\udde6 POST-EVENT Northern Morocco: Flash floods kill at least four including a toddler. (France 24)",
+        "type": "news",
+        "tweet_id": "2020637730539966882",
+        "geo": {
+            "country": "Morocco",
+            "name": "Northern Morocco",
+            "latitude": 35.0,
+            "longitude": -5.0,
+            "confidence": 0.9
+        }
     }
 ]
