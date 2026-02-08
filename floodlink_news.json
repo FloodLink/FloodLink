@@ -11120,5 +11120,35 @@
         "score": 0,
         "status": "skipped",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1CaDladHJFb0k3Y0FMZEJvcUNKVUpNTDlZdkIyT1RKUjlCd1I0Qk9YMTJYYllsRXlXNlQxS012dnFGa3drQWg2a1QyMmVJaUxiYVBpVlkzMjF1NWJ1LXo3TzlqaWFJd3FiWExKOUVtSWNLQnJZd0pXbFdVLVI?oc=5",
+        "date": "2026-02-08",
+        "title": "Fresh heavy rain warning issued amid hundreds of flood alerts - Yahoo News UK",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE1CaDladHJFb0k3Y0FMZEJvcUNKVUpNTDlZdkIyT1RKUjlCd1I0Qk9YMTJYYllsRXlXNlQxS012dnFGa3drQWg2a1QyMmVJaUxiYVBpVlkzMjF1NWJ1LXo3TzlqaWFJd3FiWExKOUVtSWNLQnJZd0pXbFdVLVI?oc=5\" target=\"_blank\">Fresh heavy rain warning issued amid hundreds of flood alerts</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo News UK</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNnptajQtM1JyaDNJSFlNUnZkcnpoSmFSTmVST3RPS1FWUnlMMktHYWNSQjVsSGpmaHcxNmlkRnU0ZnNjRUtIQXMwTkJqb2RUQmphRlA5RkFjbGZfMzA2RXAtcHNRTlJjODlTN1BOUDZIVVVrUVZBYXRiamRSVWE2WGJKREJRcEotZGd1Q2FoR3FyejZCS2k0LXpmckRTYnBCUUxkU3JYN0xxN3ljcG1aS0V3cWo?oc=5",
+        "date": "2026-02-08",
+        "title": "Fresh heavy rain warning issued amid hundreds of flood alerts - This is the Coast",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNNnptajQtM1JyaDNJSFlNUnZkcnpoSmFSTmVST3RPS1FWUnlMMktHYWNSQjVsSGpmaHcxNmlkRnU0ZnNjRUtIQXMwTkJqb2RUQmphRlA5RkFjbGZfMzA2RXAtcHNRTlJjODlTN1BOUDZIVVVrUVZBYXRiamRSVWE2WGJKREJRcEotZGd1Q2FoR3FyejZCS2k0LXpmckRTYnBCUUxkU3JYN0xxN3ljcG1aS0V3cWo?oc=5\" target=\"_blank\">Fresh heavy rain warning issued amid hundreds of flood alerts</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">This is the Coast</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB1U0JsNVBjcXBiLUd5ZFRDYTA3eGU4amxUM2w3VmJJM05VS1Z3R2hmYndQcVRYV0JaTGxGY081aWFEZ0ZsZE9zQWFMRTd4eVk4RUJ1dHNfUWZ2WmRY?oc=5",
+        "date": "2026-02-08",
+        "title": "Met Office rain weather warning issued for England and Wales - BBC",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTFB1U0JsNVBjcXBiLUd5ZFRDYTA3eGU4amxUM2w3VmJJM05VS1Z3R2hmYndQcVRYV0JaTGxGY081aWFEZ0ZsZE9zQWFMRTd4eVk4RUJ1dHNfUWZ2WmRY?oc=5\" target=\"_blank\">Met Office rain weather warning issued for England and Wales</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
     }
 ]
