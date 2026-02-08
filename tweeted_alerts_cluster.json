@@ -5599,7 +5599,7 @@
     "rain_mm": 62.88,
     "soil_moisture": 0.661,
     "raw_dynamic_score": 10.099,
-    "last_updated": "2026-02-08T01:58:36.880370Z",
+    "last_updated": "2026-02-08T05:02:40.498652Z",
     "last_tweeted_at": "2026-02-07T04:29:08.081938Z",
     "tweet_id": "2019992078751592494",
     "resolved": false
@@ -5858,9 +5858,24 @@
     "rain_mm": 62.0,
     "soil_moisture": 0.646,
     "raw_dynamic_score": 9.873,
-    "last_updated": "2026-02-08T01:58:36.880370Z",
+    "last_updated": "2026-02-08T05:02:40.498652Z",
     "last_tweeted_at": "2026-02-08T01:58:36.880370Z",
     "tweet_id": "2020316345632690370",
+    "resolved": false
+  },
+  "14.1737,122.9066": {
+    "country": "Philippines",
+    "name": "Vinzons",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 14.1737,
+    "longitude": 122.9066,
+    "rain_mm": 37.25,
+    "soil_moisture": 1.0,
+    "raw_dynamic_score": 7.124,
+    "last_updated": "2026-02-08T05:02:40.498652Z",
+    "last_tweeted_at": "2026-02-08T05:02:40.498652Z",
+    "tweet_id": "2020362649905594704",
     "resolved": false
   }
 }
