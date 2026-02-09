@@ -10914,5 +10914,14 @@
         "tweet": "The Netherlands' Delta Programme has fortified 27,000 km of dikes and levees by 2026, protecting 10 million residents from coastal floods. \ud83c\uddf3\ud83c\uddf1",
         "type": "infrastructure",
         "tweet_id": "2020778205582409758"
+    },
+    {
+        "link": null,
+        "date": "2026-02-09",
+        "status": "posted",
+        "tweet": "By 2030, extreme rainfall and storm surges could expose 2.5B people globally to floods\u2014up 50% from 2020\u2014but dams, levees, and reservoirs could protect 1B of them if upgraded. (World Bank 2025 projection)",
+        "type": "statistical",
+        "category": "dams, levees and reservoirs used for flood control",
+        "tweet_id": "2020823811680239818"
     }
 ]
