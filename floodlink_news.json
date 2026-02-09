@@ -10876,5 +10876,35 @@
             "longitude": null,
             "confidence": 0.9
         }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0zbWY5WHQ4NEx2dFhlbTNjS0dMYXQ5WFZ4dTVvSVpJSURzSFlvU3BZU0hqSENQX0tDQm1PdF9LcVlXRl8tYnRnZEdhTWRUZVJYLWdGelR5dlV1QXBzVGl6czh3Njc4ZlNfcXNSOFMyOHdVRkdnNEdOazhVWVlRQzg?oc=5",
+        "date": "2026-02-09",
+        "title": "\"Good Samaritans pushed my car to safety in Brading flash flood\" \u2014 Letter - Yahoo News UK",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE0zbWY5WHQ4NEx2dFhlbTNjS0dMYXQ5WFZ4dTVvSVpJSURzSFlvU3BZU0hqSENQX0tDQm1PdF9LcVlXRl8tYnRnZEdhTWRUZVJYLWdGelR5dlV1QXBzVGl6czh3Njc4ZlNfcXNSOFMyOHdVRkdnNEdOazhVWVlRQzg?oc=5\" target=\"_blank\">\"Good Samaritans pushed my car to safety in Brading flash flood\" \u2014 Letter</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo News UK</font>",
+        "similarity_excluded": "No",
+        "score": 6,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUTh5ajJNM3RPYU1acFRwbFNoLWhHM1VDZzBQMEdqV1d2NXZwcHRkMlRqdWRUcWFHRjZFa2hWSl8zV1BCUFJxMHJnT2FOSGhRVVk1NlVOZ1RyMzRiX1JzVjZBOGZBeE5CcC1qcTlZZXgxM3VLSjJJRjZtSWJxdTRIQVA4OU1ackxKRVJ6a2h3VkVoQWdzRF9SaFRUUVVadGpmLVg2UFJRRm5aZ0Y0YkNN?oc=5",
+        "date": "2026-02-09",
+        "title": "Live updates: 15 flood warnings for Nottinghamshire \u2013 and 19 flood alerts - West Bridgford Wire",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxNUTh5ajJNM3RPYU1acFRwbFNoLWhHM1VDZzBQMEdqV1d2NXZwcHRkMlRqdWRUcWFHRjZFa2hWSl8zV1BCUFJxMHJnT2FOSGhRVVk1NlVOZ1RyMzRiX1JzVjZBOGZBeE5CcC1qcTlZZXgxM3VLSjJJRjZtSWJxdTRIQVA4OU1ackxKRVJ6a2h3VkVoQWdzRF9SaFRUUVVadGpmLVg2UFJRRm5aZ0Y0YkNN?oc=5\" target=\"_blank\">Live updates: 15 flood warnings for Nottinghamshire \u2013 and 19 flood alerts</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">West Bridgford Wire</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNS0tPWHpTeUFrVWpROERrLUJmdkdwaHpoQ0JPYmYwWUNvMWUzb0VJbkFOcDdJS29abE9UaFE2RFhkTkZYOVJLYXNNcDlQSVZsMThEeENKdTlobk5BWklXNjdiTjV4LVh0dHBfb2VaNFlibHVyYlBTcFJGb0ZLckI5U3p5Q2RaWDhETDRVVmstYkI2a0RNOEVFSFFoa3Y3MWdwXzhqaVZJMXZDVFpOQ3NTSlFOM0xaSnlzU2lmZmFEeDVUVVhnVWNoQkpacWNEcXFTLUhNUER2c0xmV0E?oc=5",
+        "date": "2026-02-09",
+        "title": "Mayor Greg Gasataya expressed concern over false and misleading reports circulating on social media about flooding in the city, particularly during the recent Typhoon Basyang. Read this story from Daily Guardian here: - Facebook",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxNS0tPWHpTeUFrVWpROERrLUJmdkdwaHpoQ0JPYmYwWUNvMWUzb0VJbkFOcDdJS29abE9UaFE2RFhkTkZYOVJLYXNNcDlQSVZsMThEeENKdTlobk5BWklXNjdiTjV4LVh0dHBfb2VaNFlibHVyYlBTcFJGb0ZLckI5U3p5Q2RaWDhETDRVVmstYkI2a0RNOEVFSFFoa3Y3MWdwXzhqaVZJMXZDVFpOQ3NTSlFOM0xaSnlzU2lmZmFEeDVUVVhnVWNoQkpacWNEcXFTLUhNUER2c0xmV0E?oc=5\" target=\"_blank\">Mayor Greg Gasataya expressed concern over false and misleading reports circulating on social media about flooding in the city, particularly during the recent Typhoon Basyang. Read this story from Daily Guardian here:</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Facebook</font>",
+        "similarity_excluded": "No",
+        "score": 2,
+        "status": "processed",
+        "tweet": null
     }
 ]
