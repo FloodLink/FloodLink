@@ -4794,7 +4794,7 @@
     "rain_mm": 47.75,
     "soil_moisture": 0.733,
     "raw_dynamic_score": 7.981,
-    "last_updated": "2026-02-02T15:37:05.690967Z",
+    "last_updated": "2026-02-09T15:51:22.647358Z",
     "last_tweeted_at": "2026-02-02T06:58:16.745967Z",
     "tweet_id": "2018225679423230096",
     "resolved": false
@@ -5274,7 +5274,7 @@
     "rain_mm": 61.62,
     "soil_moisture": 0.733,
     "raw_dynamic_score": 10.299,
-    "last_updated": "2026-02-09T12:53:57.111704Z",
+    "last_updated": "2026-02-09T15:51:22.647358Z",
     "last_tweeted_at": "2026-02-05T21:26:16.365284Z",
     "tweet_id": "2019525744477474919",
     "resolved": false
@@ -6270,6 +6270,36 @@
     "last_updated": "2026-02-09T12:53:57.111704Z",
     "last_tweeted_at": "2026-02-09T12:53:57.111704Z",
     "tweet_id": "2020843907362222142",
+    "resolved": false
+  },
+  "10.6969,122.5644": {
+    "country": "Philippines",
+    "name": "Iloilo",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 10.69694,
+    "longitude": 122.56444,
+    "rain_mm": 63.06,
+    "soil_moisture": 0.651,
+    "raw_dynamic_score": 10.071,
+    "last_updated": "2026-02-09T15:51:22.647358Z",
+    "last_tweeted_at": "2026-02-09T15:51:22.647358Z",
+    "tweet_id": "2020888295782183267",
+    "resolved": false
+  },
+  "11.2468,124.0146": {
+    "country": "Philippines",
+    "name": "Daanbantayan",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 11.24681,
+    "longitude": 124.01462,
+    "rain_mm": 36.12,
+    "soil_moisture": 1.0,
+    "raw_dynamic_score": 6.909,
+    "last_updated": "2026-02-09T15:51:22.647358Z",
+    "last_tweeted_at": "2026-02-09T15:51:22.647358Z",
+    "tweet_id": "2020888548308570601",
     "resolved": false
   }
 }
