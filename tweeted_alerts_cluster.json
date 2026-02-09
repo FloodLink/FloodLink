@@ -6239,5 +6239,20 @@
     "last_tweeted_at": "2026-02-09T01:28:07.181189Z",
     "tweet_id": "2020671567080923442",
     "resolved": false
+  },
+  "11.4551,123.1520": {
+    "country": "Philippines",
+    "name": "Estancia",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 11.4551,
+    "longitude": 123.152,
+    "rain_mm": 36.75,
+    "soil_moisture": 1.0,
+    "raw_dynamic_score": 7.028,
+    "last_updated": "2026-02-09T09:59:56.536607Z",
+    "last_tweeted_at": "2026-02-09T09:59:56.536607Z",
+    "tweet_id": "2020799852574023922",
+    "resolved": false
   }
 }
