@@ -1539,7 +1539,7 @@
     "rain_mm": 42.06,
     "soil_moisture": 0.614,
     "raw_dynamic_score": 6.578,
-    "last_updated": "2026-02-10T16:04:31.374639Z",
+    "last_updated": "2026-02-10T21:40:46.655702Z",
     "last_tweeted_at": "2026-01-17T18:21:58.291780Z",
     "tweet_id": "2012595063583367590",
     "resolved": false
@@ -6484,10 +6484,18 @@
     "rain_mm": 119.81,
     "soil_moisture": 0.659,
     "raw_dynamic_score": 19.226,
-    "last_updated": "2026-02-10T19:00:36.779685Z",
+    "last_updated": "2026-02-10T21:40:46.655702Z",
     "last_tweeted_at": "2026-02-10T16:04:31.374639Z",
     "tweet_id": "2021254244112945530",
-    "resolved": false
+    "resolved": false,
+    "pending_downgrade": true,
+    "pending_target_level": "Low",
+    "pending_set_at": "2026-02-10T21:40:46.655702Z",
+    "pending_is_region": false,
+    "pending_observed_level": "Low",
+    "pending_observed_rain_mm": 19.69,
+    "pending_observed_soil_moisture": 0.607,
+    "pending_observed_raw_dynamic_score": 3.067
   },
   "4.7548,115.0101": {
     "country": "Malaysia",
@@ -6514,7 +6522,7 @@
     "rain_mm": 52.19,
     "soil_moisture": 0.371,
     "raw_dynamic_score": 7.017,
-    "last_updated": "2026-02-10T16:04:31.374639Z",
+    "last_updated": "2026-02-10T21:40:46.655702Z",
     "last_tweeted_at": "2026-02-10T16:04:31.374639Z",
     "tweet_id": "2021253991800373669",
     "resolved": false
