@@ -10982,5 +10982,14 @@
         "score": 0,
         "status": "skipped",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-02-10",
+        "status": "posted",
+        "tweet": "Top 5 coastal cities by pop exposed to 1-in-100-yr storm surge flooding by 2050 (millions, Climate Central 2023 proj.):\n\n\ud83c\udde8\ud83c\uddf3 Guangzhou: 12.6\n\n\ud83c\udde8\ud83c\uddf3 Shanghai: 9.8\n\n\ud83c\uddee\ud83c\uddf3 Mumbai: 8.9\n\n\ud83c\uddfa\ud83c\uddf8 Miami: 5.6\n\n\ud83c\udde7\ud83c\udde9 Dhaka: 5.2",
+        "type": "statistical",
+        "category": "coastal cities at risk from sea-level rise and storm surge",
+        "tweet_id": "2021225584517579189"
     }
 ]
