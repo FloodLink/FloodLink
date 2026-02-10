@@ -10862,5 +10862,15 @@
             "longitude": null,
             "confidence": 0.8
         }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQNklkaGY2dDFRSGdGZEhfRlY1bW05QVlCWUpnTU5rYUNDX1c4S0YtSEYzS05FUjhFN05Za1NCSnRDU0ZRVFJkOFc2S3NOVWVKMkFJdkJjUVFuSkdmeXVoRnQxOFYyWUU3TS0ta3ppNW9MRU1LQUNLQUJFeHZ0aFZOR2hkY0QxZDJ3NUZRYnVWTC1Sc2xSNUpVaFpFQjlLNWdCbzlGNUdxUTN1bU9JVXB6VXNaZ21aY1hUZ2x3Q3ExODdBOWpKSkVlUlM1WjdSRjVfSGc5Tw?oc=5",
+        "date": "2026-02-10",
+        "title": "Hundreds of flood warnings issued across UK as heavy rain sweeps country - facebook.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxQNklkaGY2dDFRSGdGZEhfRlY1bW05QVlCWUpnTU5rYUNDX1c4S0YtSEYzS05FUjhFN05Za1NCSnRDU0ZRVFJkOFc2S3NOVWVKMkFJdkJjUVFuSkdmeXVoRnQxOFYyWUU3TS0ta3ppNW9MRU1LQUNLQUJFeHZ0aFZOR2hkY0QxZDJ3NUZRYnVWTC1Sc2xSNUpVaFpFQjlLNWdCbzlGNUdxUTN1bU9JVXB6VXNaZ21aY1hUZ2x3Q3ExODdBOWpKSkVlUlM1WjdSRjVfSGc5Tw?oc=5\" target=\"_blank\">Hundreds of flood warnings issued across UK as heavy rain sweeps country</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">facebook.com</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
     }
 ]
