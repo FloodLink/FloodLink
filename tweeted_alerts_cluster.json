@@ -3734,38 +3734,6 @@
     "tweet_id": "2015491327098790320",
     "resolved": false
   },
-  "11.6388,124.8417": {
-    "country": "Philippines",
-    "name": "Zumarraga",
-    "risk_level": "Low",
-    "tweeted_level": "Low",
-    "latitude": 11.6388,
-    "longitude": 124.8417,
-    "rain_mm": 3.56,
-    "soil_moisture": 1.0,
-    "raw_dynamic_score": 0.681,
-    "last_updated": "2026-02-10T19:00:36.779685Z",
-    "last_tweeted_at": "2026-02-10T19:00:36.779685Z",
-    "tweet_id": "2021298823327277404",
-    "resolved": true,
-    "resolved_at": "2026-02-10T19:00:36.779685Z"
-  },
-  "11.7753,124.8861": {
-    "country": "Philippines",
-    "name": "Catbalogan",
-    "risk_level": "Low",
-    "tweeted_level": "Low",
-    "latitude": 11.77528,
-    "longitude": 124.88611,
-    "rain_mm": 2.5,
-    "soil_moisture": 0.617,
-    "raw_dynamic_score": 0.392,
-    "last_updated": "2026-02-10T19:00:36.779685Z",
-    "last_tweeted_at": "2026-02-10T19:00:36.779685Z",
-    "tweet_id": "2021298823327277404",
-    "resolved": true,
-    "resolved_at": "2026-02-10T19:00:36.779685Z"
-  },
   "26.2483,60.7525": {
     "country": "Islamic Republic of Iran",
     "name": "Qaşr-e Qand",
