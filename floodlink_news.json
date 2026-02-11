@@ -10674,5 +10674,42 @@
         "score": 0,
         "status": "skipped",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNMkF0YjBuSDlkc3BqdTI4YXdKd0tsZXBCeHpNZ2xCU1BJQUlha1p1ei03anZYdkdUamhZc2hfOGdXNkRjcE8yVnVycDM1R3pGOWZjQ0c2UGhGYUJZY3pEVVF6SEhCUTNMTUYwMlpDQktqRFkxV3V2ZWRZMVp0djFwMUtWQW5QME12LUMzaw?oc=5",
+        "date": "2026-02-11",
+        "title": "Fast-moving storm floods SoCal freeways, triggers flash flood warning in burn scar - Los Angeles Times",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNMkF0YjBuSDlkc3BqdTI4YXdKd0tsZXBCeHpNZ2xCU1BJQUlha1p1ei03anZYdkdUamhZc2hfOGdXNkRjcE8yVnVycDM1R3pGOWZjQ0c2UGhGYUJZY3pEVVF6SEhCUTNMTUYwMlpDQktqRFkxV3V2ZWRZMVp0djFwMUtWQW5QME12LUMzaw?oc=5\" target=\"_blank\">Fast-moving storm floods SoCal freeways, triggers flash flood warning in burn scar</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Los Angeles Times</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": null,
+        "tweet_id": "2021611217912053962",
+        "geo": {
+            "country": "United States",
+            "name": "Southern California",
+            "latitude": 34.0522,
+            "longitude": -118.2437,
+            "confidence": 0.85
+        }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNMkF0YjBuSDlkc3BqdTI4YXdKd0tsZXBCeHpNZ2xCU1BJQUlha1p1ei03anZYdkdUamhZc2hfOGdXNkRjcE8yVnVycDM1R3pGOWZjQ0c2UGhGYUJZY3pEVVF6SEhCUTNMTUYwMlpDQktqRFkxV3V2ZWRZMVp0djFwMUtWQW5QME12LUMzaw?oc=5",
+        "date": "2026-02-11",
+        "title": "Fast-moving storm floods SoCal freeways, triggers flash flood warning in burn scar - Los Angeles Times",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNMkF0YjBuSDlkc3BqdTI4YXdKd0tsZXBCeHpNZ2xCU1BJQUlha1p1ei03anZYdkdUamhZc2hfOGdXNkRjcE8yVnVycDM1R3pGOWZjQ0c2UGhGYUJZY3pEVVF6SEhCUTNMTUYwMlpDQktqRFkxV3V2ZWRZMVp0djFwMUtWQW5QME12LUMzaw?oc=5\" target=\"_blank\">Fast-moving storm floods SoCal freeways, triggers flash flood warning in burn scar</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Los Angeles Times</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 FORECAST Southern California: Fast-moving storm floods freeways and triggers flash flood warning in burn scar areas.",
+        "type": "news",
+        "tweet_id": "2021611217912053962",
+        "geo": {
+            "country": "United States",
+            "name": "Southern California",
+            "latitude": 34.0522,
+            "longitude": -118.2437,
+            "confidence": 0.85
+        }
     }
 ]
