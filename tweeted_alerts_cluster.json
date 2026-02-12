@@ -1569,7 +1569,7 @@
     "rain_mm": 43.88,
     "soil_moisture": 0.607,
     "raw_dynamic_score": 6.836,
-    "last_updated": "2026-01-18T21:15:24.318709Z",
+    "last_updated": "2026-02-12T01:27:32.922681Z",
     "last_tweeted_at": "2026-01-18T18:21:59.743343Z",
     "tweet_id": "2012953677368062256",
     "resolved": false
@@ -6438,6 +6438,21 @@
     "last_updated": "2026-02-11T16:25:28.105411Z",
     "last_tweeted_at": "2026-02-11T12:54:59.233666Z",
     "tweet_id": "2021569197512556581",
+    "resolved": false
+  },
+  "-12.7371,-56.5136": {
+    "country": "Brazil",
+    "name": "Tapurah",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": -12.73714,
+    "longitude": -56.5136,
+    "rain_mm": 48.25,
+    "soil_moisture": 0.727,
+    "raw_dynamic_score": 8.038,
+    "last_updated": "2026-02-12T01:27:32.922681Z",
+    "last_tweeted_at": "2026-02-12T01:27:32.922681Z",
+    "tweet_id": "2021758078014624192",
     "resolved": false
   }
 }
