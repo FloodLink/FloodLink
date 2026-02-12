@@ -3144,7 +3144,7 @@
     "rain_mm": 52.75,
     "soil_moisture": 0.694,
     "raw_dynamic_score": 8.633,
-    "last_updated": "2026-02-06T18:42:45.935687Z",
+    "last_updated": "2026-02-12T06:57:35.314039Z",
     "last_tweeted_at": "2026-01-22T12:35:39.754575Z",
     "tweet_id": "2014316573394096504",
     "resolved": false
@@ -6031,22 +6031,6 @@
     "tweet_id": "2021039813474844822",
     "resolved": false
   },
-  "11.7365,124.0420": {
-    "country": "Philippines",
-    "name": "Esperanza",
-    "risk_level": "Low",
-    "tweeted_level": "Low",
-    "latitude": 11.7365,
-    "longitude": 124.042,
-    "rain_mm": 0.56,
-    "soil_moisture": 1.0,
-    "raw_dynamic_score": 0.108,
-    "last_updated": "2026-02-11T05:02:04.336830Z",
-    "last_tweeted_at": "2026-02-11T05:02:04.336830Z",
-    "tweet_id": "2021449669944148267",
-    "resolved": true,
-    "resolved_at": "2026-02-11T05:02:04.336830Z"
-  },
   "-6.2222,-57.7528": {
     "country": "Brazil",
     "name": "Jacareacanga",
@@ -6374,7 +6358,7 @@
     "rain_mm": 42.62,
     "soil_moisture": 0.719,
     "raw_dynamic_score": 7.072,
-    "last_updated": "2026-02-11T16:25:28.105411Z",
+    "last_updated": "2026-02-12T06:57:35.314039Z",
     "last_tweeted_at": "2026-02-11T09:48:48.524885Z",
     "tweet_id": "2021521829769142673",
     "resolved": false
