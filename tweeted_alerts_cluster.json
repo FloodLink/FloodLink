@@ -1569,7 +1569,7 @@
     "rain_mm": 43.88,
     "soil_moisture": 0.607,
     "raw_dynamic_score": 6.836,
-    "last_updated": "2026-02-12T01:27:32.922681Z",
+    "last_updated": "2026-02-12T04:57:36.116544Z",
     "last_tweeted_at": "2026-01-18T18:21:59.743343Z",
     "tweet_id": "2012953677368062256",
     "resolved": false
@@ -5954,22 +5954,6 @@
     "tweet_id": "2020975385958285527",
     "resolved": false
   },
-  "12.4989,124.6377": {
-    "country": "Philippines",
-    "name": "Catarman",
-    "risk_level": "Low",
-    "tweeted_level": "Low",
-    "latitude": 12.4989,
-    "longitude": 124.6377,
-    "rain_mm": 8.19,
-    "soil_moisture": 1.0,
-    "raw_dynamic_score": 1.566,
-    "last_updated": "2026-02-11T01:34:47.427354Z",
-    "last_tweeted_at": "2026-02-11T01:34:47.427354Z",
-    "tweet_id": "2021398271529193945",
-    "resolved": true,
-    "resolved_at": "2026-02-11T01:34:47.427354Z"
-  },
   "11.1575,124.9908": {
     "country": "Philippines",
     "name": "Palo",
@@ -6450,9 +6434,24 @@
     "rain_mm": 48.25,
     "soil_moisture": 0.727,
     "raw_dynamic_score": 8.038,
-    "last_updated": "2026-02-12T01:27:32.922681Z",
+    "last_updated": "2026-02-12T04:57:36.116544Z",
     "last_tweeted_at": "2026-02-12T01:27:32.922681Z",
     "tweet_id": "2021758078014624192",
+    "resolved": false
+  },
+  "-7.9135,113.8214": {
+    "country": "Indonesia",
+    "name": "Bondowoso",
+    "risk_level": "High",
+    "tweeted_level": "High",
+    "latitude": -7.91346,
+    "longitude": 113.82145,
+    "rain_mm": 95.38,
+    "soil_moisture": 0.713,
+    "raw_dynamic_score": 15.769,
+    "last_updated": "2026-02-12T04:57:36.116544Z",
+    "last_tweeted_at": "2026-02-12T04:57:36.116544Z",
+    "tweet_id": "2021810921622983077",
     "resolved": false
   }
 }
