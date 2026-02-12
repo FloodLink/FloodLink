@@ -10631,5 +10631,13 @@
         "score": 2,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-02-12",
+        "status": "posted",
+        "tweet": "\ud83c\uddf3\ud83c\uddf1 As of 2026, the Netherlands' flood defense system spans 26,000 km of dikes, levees, and dunes, protecting 60% of its land area and 9 million residents from sea-level rise and river flooding.",
+        "type": "infrastructure",
+        "tweet_id": "2022004526669267070"
     }
 ]
