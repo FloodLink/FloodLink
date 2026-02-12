@@ -10706,5 +10706,35 @@
             "longitude": null,
             "confidence": 0.0
         }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPbHZ0OUVrcWppVDN4d0N4YlFjSkxNOGxsQXRaREFqN2hocl9zVkh2eHVCb2xfTXJDV3pQWWlIdFB4b1IzZWF2aTdiVDlvUjlnUk5kcEcwWWVpZVdJcHdDVG1kVjduMi12ZWRQcGZwSU9uYU5FcW9Pc0RqZ1FFRjZkTXdJcllJcDZuRmVIcnBYcDRwd0FwZzdpTllWSDE2M0xCcnlGd3U3RUpzOW9mZWplSkJaM3dYcXVPU0RwLQ?oc=5",
+        "date": "2026-02-12",
+        "title": "Camp Mystic parents seek stronger camp regulations in other states - Los Angeles Times",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxPbHZ0OUVrcWppVDN4d0N4YlFjSkxNOGxsQXRaREFqN2hocl9zVkh2eHVCb2xfTXJDV3pQWWlIdFB4b1IzZWF2aTdiVDlvUjlnUk5kcEcwWWVpZVdJcHdDVG1kVjduMi12ZWRQcGZwSU9uYU5FcW9Pc0RqZ1FFRjZkTXdJcllJcDZuRmVIcnBYcDRwd0FwZzdpTllWSDE2M0xCcnlGd3U3RUpzOW9mZWplSkJaM3dYcXVPU0RwLQ?oc=5\" target=\"_blank\">Camp Mystic parents seek stronger camp regulations in other states</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Los Angeles Times</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNV3NOeU82aU1YZl82TFBLR3FYVDVua1daUC13X0pfZEJmbTlpczJ1RENZdU9FTzA3MnNwSlhGZVlaMUpkUkxmZmN6THRxOVA5T2VhdmxoNHRtYjNkSy15eWs0T1EwUFZYdTUyRG5nZE9lRjFYbUFadVJmRU45R0VBd1RQa2gyUVdPN243WFVlWk9lTlE5cDhrZDNLelphLUVWbUlZNzB1T3I?oc=5",
+        "date": "2026-02-12",
+        "title": "Deluge forecast for Queensland could cause 'dangerous' flash flooding - Australian Broadcasting Corporation",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNV3NOeU82aU1YZl82TFBLR3FYVDVua1daUC13X0pfZEJmbTlpczJ1RENZdU9FTzA3MnNwSlhGZVlaMUpkUkxmZmN6THRxOVA5T2VhdmxoNHRtYjNkSy15eWs0T1EwUFZYdTUyRG5nZE9lRjFYbUFadVJmRU45R0VBd1RQa2gyUVdPN243WFVlWk9lTlE5cDhrZDNLelphLUVWbUlZNzB1T3I?oc=5\" target=\"_blank\">Deluge forecast for Queensland could cause 'dangerous' flash flooding</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Australian Broadcasting Corporation</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNd1dscERtclJPQ2liRWlHYlBZV0JiR3Y3eFNwOG9KeEN5bFROODdEUnI4ZjB4QnhIMDZfVmJpMWhjNXMtME4xQWlMVVZsdHhJY3RTTFhVa0V4SnJfSkFjUWdTc2NsZ1FyeUFBYWlUV0tPeTBlLU5UcFB5X1J5LUZDM1ExTEd5YzE5cG5ZNU50MHlVdTBfeTluWFZxRWZWR1pxdXc?oc=5",
+        "date": "2026-02-12",
+        "title": "Live updates: 1 flood warnings for Nottinghamshire \u2013 and 10 flood alerts - West Bridgford Wire",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNd1dscERtclJPQ2liRWlHYlBZV0JiR3Y3eFNwOG9KeEN5bFROODdEUnI4ZjB4QnhIMDZfVmJpMWhjNXMtME4xQWlMVVZsdHhJY3RTTFhVa0V4SnJfSkFjUWdTc2NsZ1FyeUFBYWlUV0tPeTBlLU5UcFB5X1J5LUZDM1ExTEd5YzE5cG5ZNU50MHlVdTBfeTluWFZxRWZWR1pxdXc?oc=5\" target=\"_blank\">Live updates: 1 flood warnings for Nottinghamshire \u2013 and 10 flood alerts</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">West Bridgford Wire</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
     }
 ]
