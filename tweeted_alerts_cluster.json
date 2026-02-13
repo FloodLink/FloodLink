@@ -7134,9 +7134,39 @@
     "rain_mm": 38.69,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 7.399,
-    "last_updated": "2026-02-13T12:44:42.816243Z",
+    "last_updated": "2026-02-13T15:42:28.262904Z",
     "last_tweeted_at": "2026-02-13T12:44:42.816243Z",
     "tweet_id": "2022290879487349188",
+    "resolved": false
+  },
+  "-27.4144,-49.6025": {
+    "country": "Brazil",
+    "name": "Ituporanga",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": -27.41444,
+    "longitude": -49.6025,
+    "rain_mm": 56.88,
+    "soil_moisture": 0.511,
+    "raw_dynamic_score": 8.368,
+    "last_updated": "2026-02-13T15:42:28.262904Z",
+    "last_tweeted_at": "2026-02-13T15:42:28.262904Z",
+    "tweet_id": "2022335609889587501",
+    "resolved": false
+  },
+  "3.8620,113.7152": {
+    "country": "Malaysia",
+    "name": "Niah",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 3.86203,
+    "longitude": 113.71521,
+    "rain_mm": 43.06,
+    "soil_moisture": 0.726,
+    "raw_dynamic_score": 7.172,
+    "last_updated": "2026-02-13T15:42:28.262904Z",
+    "last_tweeted_at": "2026-02-13T15:42:28.262904Z",
+    "tweet_id": "2022335862785102043",
     "resolved": false
   }
 }
