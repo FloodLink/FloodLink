@@ -10575,5 +10575,14 @@
         "score": 8,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-02-13",
+        "status": "posted",
+        "tweet": "By 2030, extreme rainfall could expose 1.8 billion people in dense urban areas worldwide to pluvial flash flooding\u2014up 50% from 2020 levels, per UN projections. Megacities like Mumbai \ud83c\uddee\ud83c\uddf3 and Lagos \ud83c\uddf3\ud83c\uddec face the highest risks.",
+        "type": "statistical",
+        "category": "pluvial (surface) flooding in dense cities",
+        "tweet_id": "2022307526922924524"
     }
 ]
