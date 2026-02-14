@@ -3105,38 +3105,6 @@
     "tweet_id": "2014223474676420682",
     "resolved": false
   },
-  "-7.6051,111.9035": {
-    "country": "Indonesia",
-    "name": "Nganjuk",
-    "risk_level": "Low",
-    "tweeted_level": "Low",
-    "latitude": -7.6051,
-    "longitude": 111.9035,
-    "rain_mm": 0.06,
-    "soil_moisture": 0.681,
-    "raw_dynamic_score": 0.01,
-    "last_updated": "2026-02-13T12:44:42.816243Z",
-    "last_tweeted_at": "2026-02-13T12:44:42.816243Z",
-    "tweet_id": "2022291384674496776",
-    "resolved": true,
-    "resolved_at": "2026-02-13T12:44:42.816243Z"
-  },
-  "-7.5833,112.1000": {
-    "country": "Indonesia",
-    "name": "Kertosono",
-    "risk_level": "Low",
-    "tweeted_level": "Low",
-    "latitude": -7.58333,
-    "longitude": 112.1,
-    "rain_mm": 0.06,
-    "soil_moisture": 0.681,
-    "raw_dynamic_score": 0.01,
-    "last_updated": "2026-02-13T12:44:42.816243Z",
-    "last_tweeted_at": "2026-02-13T12:44:42.816243Z",
-    "tweet_id": "2022291384674496776",
-    "resolved": true,
-    "resolved_at": "2026-02-13T12:44:42.816243Z"
-  },
   "36.5978,30.5606": {
     "country": "Türkiye",
     "name": "Kemer",
@@ -3342,7 +3310,7 @@
     "rain_mm": 54.62,
     "soil_moisture": 0.584,
     "raw_dynamic_score": 8.397,
-    "last_updated": "2026-01-24T09:17:45.242886Z",
+    "last_updated": "2026-02-14T15:23:14.147727Z",
     "last_tweeted_at": "2026-01-24T04:00:31.257046Z",
     "tweet_id": "2014911453120364597",
     "resolved": false
@@ -3732,7 +3700,7 @@
     "rain_mm": 58.38,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 11.164,
-    "last_updated": "2026-02-14T12:34:52.679670Z",
+    "last_updated": "2026-02-14T15:23:14.147727Z",
     "last_tweeted_at": "2026-01-25T18:23:43.351938Z",
     "tweet_id": "2015491327098790320",
     "resolved": false
@@ -6092,7 +6060,7 @@
     "rain_mm": 62.0,
     "soil_moisture": 0.722,
     "raw_dynamic_score": 10.302,
-    "last_updated": "2026-02-14T12:34:52.679670Z",
+    "last_updated": "2026-02-14T15:23:14.147727Z",
     "last_tweeted_at": "2026-02-14T12:34:52.679670Z",
     "tweet_id": "2022650796182245458",
     "resolved": false
@@ -6351,22 +6319,6 @@
     "last_tweeted_at": "2026-02-12T01:27:32.922681Z",
     "tweet_id": "2021758078014624192",
     "resolved": false
-  },
-  "-7.9135,113.8214": {
-    "country": "Indonesia",
-    "name": "Bondowoso",
-    "risk_level": "Low",
-    "tweeted_level": "Low",
-    "latitude": -7.91346,
-    "longitude": 113.82145,
-    "rain_mm": 2.06,
-    "soil_moisture": 0.65,
-    "raw_dynamic_score": 0.329,
-    "last_updated": "2026-02-13T12:44:42.816243Z",
-    "last_tweeted_at": "2026-02-13T12:44:42.816243Z",
-    "tweet_id": "2022291384674496776",
-    "resolved": true,
-    "resolved_at": "2026-02-13T12:44:42.816243Z"
   },
   "-14.7203,-56.3275": {
     "country": "Brazil",
