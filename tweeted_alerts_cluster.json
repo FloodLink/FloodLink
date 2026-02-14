@@ -7579,9 +7579,39 @@
     "rain_mm": 40.19,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 7.686,
-    "last_updated": "2026-02-14T06:39:55.080630Z",
+    "last_updated": "2026-02-14T09:28:05.427702Z",
     "last_tweeted_at": "2026-02-14T01:23:09.178121Z",
     "tweet_id": "2022482511306330439",
+    "resolved": false
+  },
+  "-20.7252,139.4973": {
+    "country": "Australia",
+    "name": "Mount Isa",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": -20.72523,
+    "longitude": 139.49727,
+    "rain_mm": 70.88,
+    "soil_moisture": 0.603,
+    "raw_dynamic_score": 11.012,
+    "last_updated": "2026-02-14T09:28:05.427702Z",
+    "last_tweeted_at": "2026-02-14T09:28:05.427702Z",
+    "tweet_id": "2022603782912135559",
+    "resolved": false
+  },
+  "31.2667,130.3167": {
+    "country": "Japan",
+    "name": "Makurazaki",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 31.26667,
+    "longitude": 130.31667,
+    "rain_mm": 38.06,
+    "soil_moisture": 1.0,
+    "raw_dynamic_score": 7.279,
+    "last_updated": "2026-02-14T09:28:05.427702Z",
+    "last_tweeted_at": "2026-02-14T09:28:05.427702Z",
+    "tweet_id": "2022604035316986113",
     "resolved": false
   }
 }
