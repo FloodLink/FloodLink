@@ -10470,5 +10470,14 @@
         "score": 7,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-02-14",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 New York storm surge risk: 2.5M exposed in 2023, projected 3.8M by 2026 (52% rise).  \n\ud83c\uddee\ud83c\uddf3 Mumbai extreme rainfall: 4M at flash flood risk in 2024, vs 2.1M in 2020 (90% increase).",
+        "type": "statistical",
+        "category": "extreme rainfall trends in major cities",
+        "tweet_id": "2022732567603040275"
     }
 ]
