@@ -10421,5 +10421,14 @@
         "score": 6,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-02-14",
+        "status": "posted",
+        "tweet": "Top 5 urban areas by pop. exposed to river flooding (2025 proj., 1-in-100-yr event):\n\n1. \ud83c\uddee\ud83c\uddf3 Mumbai: 18M\n2. \ud83c\udde7\ud83c\udde9 Dhaka: 16M\n3. \ud83c\udde8\ud83c\uddf3 Shanghai: 14M\n4. \ud83c\uddfa\ud83c\uddf8 New Orleans: 1.2M\n5. \ud83c\uddf3\ud83c\uddf1 Rotterdam: 0.8M",
+        "type": "statistical",
+        "category": "urban areas exposed to river flooding",
+        "tweet_id": "2022572692369789406"
     }
 ]
