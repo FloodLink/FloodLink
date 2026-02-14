@@ -10307,5 +10307,89 @@
         "score": 0,
         "status": "skipped",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNX2F5b09UNG4xYjFqZXAtNE10SlB6SXFCcTZTQS1NVE5ZV3A5SHFReGxPVEhhbDh2a3kwUnNXbmpjZTBqRm56QTRBZGV4OV9tNEZnRW1WeUkwNU9hREZRc3RjMkhHU3ZnY3ByWF9mWE0xLWpnY3VWUGRFSXJBVk9qTGhpT21BMkhBcUgySlVSbkhUWWUxejdRd1RhdmM4NU9ZOWM0VEhaekh0ZnFmYUVsdmdpa0lkRFd0V2lTNGx1VEN2ZWJFOFM5cjRxNzRVakt0dkpfcWpqVUp4b1pXMV9pbGpScDRNY1BpemhWbVE3TUE?oc=5",
+        "date": "2026-02-14",
+        "title": "Four killed, hundreds displaced in \"once in 500 years\" flash flooding in TN Valley - Local 3 News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8AFBVV95cUxNX2F5b09UNG4xYjFqZXAtNE10SlB6SXFCcTZTQS1NVE5ZV3A5SHFReGxPVEhhbDh2a3kwUnNXbmpjZTBqRm56QTRBZGV4OV9tNEZnRW1WeUkwNU9hREZRc3RjMkhHU3ZnY3ByWF9mWE0xLWpnY3VWUGRFSXJBVk9qTGhpT21BMkhBcUgySlVSbkhUWWUxejdRd1RhdmM4NU9ZOWM0VEhaekh0ZnFmYUVsdmdpa0lkRFd0V2lTNGx1VEN2ZWJFOFM5cjRxNzRVakt0dkpfcWpqVUp4b1pXMV9pbGpScDRNY1BpemhWbVE3TUE?oc=5\" target=\"_blank\">Four killed, hundreds displaced in \"once in 500 years\" flash flooding in TN Valley</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Local 3 News</font>",
+        "similarity_excluded": "No",
+        "score": 10,
+        "status": "processed",
+        "tweet": null,
+        "tweet_id": "2022510616620281861",
+        "geo": {
+            "country": "United States",
+            "name": "Tennessee Valley",
+            "latitude": 35.0456,
+            "longitude": -85.3097,
+            "confidence": 0.9
+        }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRWZLMzJ1eWcwQW5SbllPNnI0bTU0cTNXWDJXUWx5ZnJvTkpneHdvMVByUEt6cENWeWc1T2lCb0hxYU5hYzRQUDhTUjJkT0t2Mm5NV1A3cmlzbHdyOFBNU0swV2FBRmxsT1pITl9XRlVzV2gtdXpjUFFCVEUtVTVnU1k2V01hQVVmNk4xblNDRG1Hem5ETXdUZk1kWnJOT0J3VW5RbW5vRkY3UdIBrwFBVV95cUxOLXhpTm9sMVRyWVk3OEc4M1B2T24wRm1jQlF3VlpCUDFtN2hFMW5RakdIbW1sVElhcUVHN2RST1JsQy1pekRydlJyWGt0dklWXzJXeVhqZnJGTV9aQzlJZ1RrUkp0RzgyYnhfX19LNnVURDhtQ0x2TmY3Q0duazBLbXJmSHFPMWNCVmpIb09LWkNsRDZuNlJaTFpmZGVuQlF3RkZJY3NfSWdTZlI0c21r?oc=5",
+        "date": "2026-02-14",
+        "title": "Flash flood warning remains after Gold Coast smashed by 200mm of rain - 7NEWS",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRWZLMzJ1eWcwQW5SbllPNnI0bTU0cTNXWDJXUWx5ZnJvTkpneHdvMVByUEt6cENWeWc1T2lCb0hxYU5hYzRQUDhTUjJkT0t2Mm5NV1A3cmlzbHdyOFBNU0swV2FBRmxsT1pITl9XRlVzV2gtdXpjUFFCVEUtVTVnU1k2V01hQVVmNk4xblNDRG1Hem5ETXdUZk1kWnJOT0J3VW5RbW5vRkY3UdIBrwFBVV95cUxOLXhpTm9sMVRyWVk3OEc4M1B2T24wRm1jQlF3VlpCUDFtN2hFMW5RakdIbW1sVElhcUVHN2RST1JsQy1pekRydlJyWGt0dklWXzJXeVhqZnJGTV9aQzlJZ1RrUkp0RzgyYnhfX19LNnVURDhtQ0x2TmY3Q0duazBLbXJmSHFPMWNCVmpIb09LWkNsRDZuNlJaTFpmZGVuQlF3RkZJY3NfSWdTZlI0c21r?oc=5\" target=\"_blank\">Flash flood warning remains after Gold Coast smashed by 200mm of rain</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">7NEWS</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": null,
+        "tweet_id": "2022511132414783663",
+        "geo": {
+            "country": "Australia",
+            "name": "Gold Coast",
+            "latitude": -28.0167,
+            "longitude": 153.4,
+            "confidence": 1.0
+        }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOc09OcWs2UVZucDFDUndGRG44dXJRNFI1bGJDalRDd3hYSmo4Tm0tZHhPa2l4am5WaFh3UFJTT2J0LTZickNYZkhJZHRVWi1IY3p3Q1p4aDFfQUJyd3E2dl9jMm5JSlpNQmx6ZWZ6OGYtOWtiSGhybDVEQWhYYVBDT19rZXY1NlpPLUtLQ0xPRVZ4ME8xU01Eb25qU0xYMDlRYUZRT0JuNA?oc=5",
+        "date": "2026-02-14",
+        "title": "Flood clean-up begins in Alice Springs after weather warnings cancelled - Australian Broadcasting Corporation",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxOc09OcWs2UVZucDFDUndGRG44dXJRNFI1bGJDalRDd3hYSmo4Tm0tZHhPa2l4am5WaFh3UFJTT2J0LTZickNYZkhJZHRVWi1IY3p3Q1p4aDFfQUJyd3E2dl9jMm5JSlpNQmx6ZWZ6OGYtOWtiSGhybDVEQWhYYVBDT19rZXY1NlpPLUtLQ0xPRVZ4ME8xU01Eb25qU0xYMDlRYUZRT0JuNA?oc=5\" target=\"_blank\">Flood clean-up begins in Alice Springs after weather warnings cancelled</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Australian Broadcasting Corporation</font>",
+        "similarity_excluded": "No",
+        "score": 6,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNX2F5b09UNG4xYjFqZXAtNE10SlB6SXFCcTZTQS1NVE5ZV3A5SHFReGxPVEhhbDh2a3kwUnNXbmpjZTBqRm56QTRBZGV4OV9tNEZnRW1WeUkwNU9hREZRc3RjMkhHU3ZnY3ByWF9mWE0xLWpnY3VWUGRFSXJBVk9qTGhpT21BMkhBcUgySlVSbkhUWWUxejdRd1RhdmM4NU9ZOWM0VEhaekh0ZnFmYUVsdmdpa0lkRFd0V2lTNGx1VEN2ZWJFOFM5cjRxNzRVakt0dkpfcWpqVUp4b1pXMV9pbGpScDRNY1BpemhWbVE3TUE?oc=5",
+        "date": "2026-02-14",
+        "title": "Four killed, hundreds displaced in \"once in 500 years\" flash flooding in TN Valley - Local 3 News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8AFBVV95cUxNX2F5b09UNG4xYjFqZXAtNE10SlB6SXFCcTZTQS1NVE5ZV3A5SHFReGxPVEhhbDh2a3kwUnNXbmpjZTBqRm56QTRBZGV4OV9tNEZnRW1WeUkwNU9hREZRc3RjMkhHU3ZnY3ByWF9mWE0xLWpnY3VWUGRFSXJBVk9qTGhpT21BMkhBcUgySlVSbkhUWWUxejdRd1RhdmM4NU9ZOWM0VEhaekh0ZnFmYUVsdmdpa0lkRFd0V2lTNGx1VEN2ZWJFOFM5cjRxNzRVakt0dkpfcWpqVUp4b1pXMV9pbGpScDRNY1BpemhWbVE3TUE?oc=5\" target=\"_blank\">Four killed, hundreds displaced in \"once in 500 years\" flash flooding in TN Valley</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Local 3 News</font>",
+        "similarity_excluded": "No",
+        "score": 10,
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 POST-EVENT TN Valley: Four killed and hundreds displaced by once-in-500-years flash flooding. (Local 3 News)",
+        "type": "news",
+        "tweet_id": "2022510616620281861",
+        "geo": {
+            "country": "United States",
+            "name": "Tennessee Valley",
+            "latitude": 35.0456,
+            "longitude": -85.3097,
+            "confidence": 0.9
+        }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRWZLMzJ1eWcwQW5SbllPNnI0bTU0cTNXWDJXUWx5ZnJvTkpneHdvMVByUEt6cENWeWc1T2lCb0hxYU5hYzRQUDhTUjJkT0t2Mm5NV1A3cmlzbHdyOFBNU0swV2FBRmxsT1pITl9XRlVzV2gtdXpjUFFCVEUtVTVnU1k2V01hQVVmNk4xblNDRG1Hem5ETXdUZk1kWnJOT0J3VW5RbW5vRkY3UdIBrwFBVV95cUxOLXhpTm9sMVRyWVk3OEc4M1B2T24wRm1jQlF3VlpCUDFtN2hFMW5RakdIbW1sVElhcUVHN2RST1JsQy1pekRydlJyWGt0dklWXzJXeVhqZnJGTV9aQzlJZ1RrUkp0RzgyYnhfX19LNnVURDhtQ0x2TmY3Q0duazBLbXJmSHFPMWNCVmpIb09LWkNsRDZuNlJaTFpmZGVuQlF3RkZJY3NfSWdTZlI0c21r?oc=5",
+        "date": "2026-02-14",
+        "title": "Flash flood warning remains after Gold Coast smashed by 200mm of rain - 7NEWS",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRWZLMzJ1eWcwQW5SbllPNnI0bTU0cTNXWDJXUWx5ZnJvTkpneHdvMVByUEt6cENWeWc1T2lCb0hxYU5hYzRQUDhTUjJkT0t2Mm5NV1A3cmlzbHdyOFBNU0swV2FBRmxsT1pITl9XRlVzV2gtdXpjUFFCVEUtVTVnU1k2V01hQVVmNk4xblNDRG1Hem5ETXdUZk1kWnJOT0J3VW5RbW5vRkY3UdIBrwFBVV95cUxOLXhpTm9sMVRyWVk3OEc4M1B2T24wRm1jQlF3VlpCUDFtN2hFMW5RakdIbW1sVElhcUVHN2RST1JsQy1pekRydlJyWGt0dklWXzJXeVhqZnJGTV9aQzlJZ1RrUkp0RzgyYnhfX19LNnVURDhtQ0x2TmY3Q0duazBLbXJmSHFPMWNCVmpIb09LWkNsRDZuNlJaTFpmZGVuQlF3RkZJY3NfSWdTZlI0c21r?oc=5\" target=\"_blank\">Flash flood warning remains after Gold Coast smashed by 200mm of rain</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">7NEWS</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "posted",
+        "tweet": "\ud83c\udde6\ud83c\uddfa FORECAST Gold Coast: Flash flood warning remains after 200mm rain caused widespread impacts; ongoing risk of flash flooding. (7NEWS)",
+        "type": "news",
+        "tweet_id": "2022511132414783663",
+        "geo": {
+            "country": "Australia",
+            "name": "Gold Coast",
+            "latitude": -28.0167,
+            "longitude": 153.4,
+            "confidence": 1.0
+        }
     }
 ]
