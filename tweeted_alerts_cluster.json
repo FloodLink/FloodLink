@@ -3310,7 +3310,7 @@
     "rain_mm": 54.62,
     "soil_moisture": 0.584,
     "raw_dynamic_score": 8.397,
-    "last_updated": "2026-02-14T15:23:14.147727Z",
+    "last_updated": "2026-02-14T18:28:24.149022Z",
     "last_tweeted_at": "2026-01-24T04:00:31.257046Z",
     "tweet_id": "2014911453120364597",
     "resolved": false
@@ -7589,6 +7589,36 @@
     "last_updated": "2026-02-14T12:34:52.679670Z",
     "last_tweeted_at": "2026-02-14T12:34:52.679670Z",
     "tweet_id": "2022650796182245458",
+    "resolved": false
+  },
+  "-16.9237,145.7661": {
+    "country": "Australia",
+    "name": "Cairns",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": -16.92366,
+    "longitude": 145.76613,
+    "rain_mm": 43.5,
+    "soil_moisture": 0.614,
+    "raw_dynamic_score": 6.803,
+    "last_updated": "2026-02-14T18:28:24.149022Z",
+    "last_tweeted_at": "2026-02-14T18:28:24.149022Z",
+    "tweet_id": "2022739759270109665",
+    "resolved": false
+  },
+  "41.1850,16.6705": {
+    "country": "Italy",
+    "name": "Giovinazzo",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 41.185,
+    "longitude": 16.67054,
+    "rain_mm": 36.25,
+    "soil_moisture": 1.0,
+    "raw_dynamic_score": 6.933,
+    "last_updated": "2026-02-14T18:28:24.149022Z",
+    "last_tweeted_at": "2026-02-14T18:28:24.149022Z",
+    "tweet_id": "2022740011737882823",
     "resolved": false
   }
 }
