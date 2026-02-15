@@ -10381,5 +10381,25 @@
             "longitude": 176.0,
             "confidence": 1.0
         }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWmpuT2F3Sy16YXFTazVDZXl4Z2ZXT1FnLWQwSG1pQ1lnYXpUby16dmx0d3gxWGFKUlNWRFV4SVdlbndpdkVGREFuT2dJdVNFTHRvRENkaG9nMkxkSHZ6dDgxOGpQZjNjeVZON0wtYTVXWXlUc1VTMWduYXBZeGtIUjk4MndxMy1vdzNRclpZcmZPbmpENHZyc0tBaFAyQUhmVGpLNVNZd3huY3YxLWc?oc=5",
+        "date": "2026-02-15",
+        "title": "Met Office issues yellow weather warning as snow and rain to hit UK - The Independent",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPWmpuT2F3Sy16YXFTazVDZXl4Z2ZXT1FnLWQwSG1pQ1lnYXpUby16dmx0d3gxWGFKUlNWRFV4SVdlbndpdkVGREFuT2dJdVNFTHRvRENkaG9nMkxkSHZ6dDgxOGpQZjNjeVZON0wtYTVXWXlUc1VTMWduYXBZeGtIUjk4MndxMy1vdzNRclpZcmZPbmpENHZyc0tBaFAyQUhmVGpLNVNZd3huY3YxLWc?oc=5\" target=\"_blank\">Met Office issues yellow weather warning as snow and rain to hit UK</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Independent</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPMXdjOENJUUtCd2FIZW10bnBqRDlnazdtZUV2RGxDUTRraTJPWGd3dmdlN3c0d21ld0pjMFpsb3NoZ1Z6cUYzQzJRQXZ3ZFE5Zy00aWpycEFYcFB1bWU5LXFoS0JOd0lrdlJvbjFnU21EOFYyRjQtVEw2TndSc3psMkt0QmJHNExNTTZXNm1UUFJIdU9jRkF5UEVXbw?oc=5",
+        "date": "2026-02-15",
+        "title": "Met Office issues yellow weather warning for MORE snow as Arctic blast hits UK with flooding expected in over 70 areas - The Sun",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPMXdjOENJUUtCd2FIZW10bnBqRDlnazdtZUV2RGxDUTRraTJPWGd3dmdlN3c0d21ld0pjMFpsb3NoZ1Z6cUYzQzJRQXZ3ZFE5Zy00aWpycEFYcFB1bWU5LXFoS0JOd0lrdlJvbjFnU21EOFYyRjQtVEw2TndSc3psMkt0QmJHNExNTTZXNm1UUFJIdU9jRkF5UEVXbw?oc=5\" target=\"_blank\">Met Office issues yellow weather warning for MORE snow as Arctic blast hits UK with flooding expected in over 70 areas</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Sun</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
     }
 ]
