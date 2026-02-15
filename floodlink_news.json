@@ -10304,5 +10304,82 @@
         "score": 8,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQRHVTcl9nOVA5QU5EVUYtbEF5UzFiSEVOb09BTTZ4WXhiTVpjMV9uaE9UMWRTTS1VczhlMFl6bF9idkQ0aW1sd0lIUEJxWUdlQWp3ZE8tN1IySlpiRnQwM2VLVDdtcHV1QlhQcGtza2JQQTRBLVd4b3Q2RkZ5a1UwQnRZM0JEQVlXYndGVGREQ0t0V3NlSkkxVlRkRGNESmFIaVN3VDNoZ2V4N0dhdEVUTDJtdEE4UTNOcHp1M0ZmeE5YUGc?oc=5",
+        "date": "2026-02-15",
+        "title": "Fresh snow warning issued for parts of England as flooding expected in more than 70 areas - Sky News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxQRHVTcl9nOVA5QU5EVUYtbEF5UzFiSEVOb09BTTZ4WXhiTVpjMV9uaE9UMWRTTS1VczhlMFl6bF9idkQ0aW1sd0lIUEJxWUdlQWp3ZE8tN1IySlpiRnQwM2VLVDdtcHV1QlhQcGtza2JQQTRBLVd4b3Q2RkZ5a1UwQnRZM0JEQVlXYndGVGREQ0t0V3NlSkkxVlRkRGNESmFIaVN3VDNoZ2V4N0dhdEVUTDJtdEE4UTNOcHp1M0ZmeE5YUGc?oc=5\" target=\"_blank\">Fresh snow warning issued for parts of England as flooding expected in more than 70 areas</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sky News</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNZnc0Y0dPRE9KRmZ0ZW1USDB1VDFRT0o2RkNoTEIzY3VaV0szN0FDdVZsNkVKNFZXUFM3Z2t4OHowaWJVSGNzSk9KSEZRRVlxWl9kNnJ0UkJiZDdRc1VDUXR5eFRIaXFVT3VaeDhOOEx0aUxQNW0zUWhqRXEwMVFOeENpUDJKZWM?oc=5",
+        "date": "2026-02-15",
+        "title": "Environment Agency issues warning as flood risk grows - Yahoo News UK",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxNZnc0Y0dPRE9KRmZ0ZW1USDB1VDFRT0o2RkNoTEIzY3VaV0szN0FDdVZsNkVKNFZXUFM3Z2t4OHowaWJVSGNzSk9KSEZRRVlxWl9kNnJ0UkJiZDdRc1VDUXR5eFRIaXFVT3VaeDhOOEx0aUxQNW0zUWhqRXEwMVFOeENpUDJKZWM?oc=5\" target=\"_blank\">Environment Agency issues warning as flood risk grows</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo News UK</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOQ05VOXMtZGRXQURVbVFuVk5XNTh0TEtiTVFQS0QtS19oYk9za3dOR0V1LWdHMURjQk1YNlhhcmRKWVFodTlmbWQxY1l2QUYyM201c2tBZTRkbXRKMDVzcmpHM1FwaWl4MEZobFNsRUFTdktQYWtaclVFSjk1eUtzQ2FZa1VwSklFc1hnZzYzQjN0RkZG0gGaAUFVX3lxTE9tU1lJQVIwakxtS0lnTTRVUkRuU1gza1hnSkt2S2ZPMWh0blJjSTk2cUwtSEMwa2o4MGlqb1dCS0NwaU1TWHM1VkpZeEd6WHowRzNKZTRvUTBZZ1M1NWRZNVRDOVRpeHk2SzhmNmktVVIzUkIyLVFkTWFuRFgxUG9TeFc2MVgyOUFvREYydkpuQl9GX3NIVkcybUE?oc=5",
+        "date": "2026-02-15",
+        "title": "Warning issued as more than 70 flood alerts in place across the UK - Manchester Evening News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxOQ05VOXMtZGRXQURVbVFuVk5XNTh0TEtiTVFQS0QtS19oYk9za3dOR0V1LWdHMURjQk1YNlhhcmRKWVFodTlmbWQxY1l2QUYyM201c2tBZTRkbXRKMDVzcmpHM1FwaWl4MEZobFNsRUFTdktQYWtaclVFSjk1eUtzQ2FZa1VwSklFc1hnZzYzQjN0RkZG0gGaAUFVX3lxTE9tU1lJQVIwakxtS0lnTTRVUkRuU1gza1hnSkt2S2ZPMWh0blJjSTk2cUwtSEMwa2o4MGlqb1dCS0NwaU1TWHM1VkpZeEd6WHowRzNKZTRvUTBZZ1M1NWRZNVRDOVRpeHk2SzhmNmktVVIzUkIyLVFkTWFuRFgxUG9TeFc2MVgyOUFvREYydkpuQl9GX3NIVkcybUE?oc=5\" target=\"_blank\">Warning issued as more than 70 flood alerts in place across the UK</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Manchester Evening News</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNV3BUdWhKcFJhZVpFWlk5M2htampsaUtpYkpiUlNMWlBHdGpDWFE1cFM1RHJ1ZDV6YVVSR2p4aEdSLVlIRmxEMWl0OUZ1bkNSQWt6R29ibGNISVAySGlZTXBCT3hER1hmUnFYNHFQaWZ5YWRqWXRUZW9wcXM2MEhlbW9DdDRIMzJGRGZxTENmYnNybmxyMmI5Tk9WczRnZHl1azlZWkFEaE9OSkJrNEE?oc=5",
+        "date": "2026-02-15",
+        "title": "Snow and ice warning in force as flooding expected in more than 70 areas - London Evening Standard",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNV3BUdWhKcFJhZVpFWlk5M2htampsaUtpYkpiUlNMWlBHdGpDWFE1cFM1RHJ1ZDV6YVVSR2p4aEdSLVlIRmxEMWl0OUZ1bkNSQWt6R29ibGNISVAySGlZTXBCT3hER1hmUnFYNHFQaWZ5YWRqWXRUZW9wcXM2MEhlbW9DdDRIMzJGRGZxTENmYnNybmxyMmI5Tk9WczRnZHl1azlZWkFEaE9OSkJrNEE?oc=5\" target=\"_blank\">Snow and ice warning in force as flooding expected in more than 70 areas</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">London Evening Standard</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQLUpPdHZTbXpwampXTS0tTEk2SHY2YlkzMHMyRXJrMXltcWdRamlWY0RVQk1ra0ZNOEhUN3B4aWxPMDVhOHc2OW85VW1WMElxUGtEOUNsbUFqNHF1X2g5SUJEU3Y5UnRqZlBYM0hScXp0UHQ4YkJremZMX3poa0YtLXlxS3VBVEVqRkpFeE8tVjI?oc=5",
+        "date": "2026-02-15",
+        "title": "New Zealand's North Island braces for more rain amid widespread flooding - Australian Broadcasting Corporation",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxQLUpPdHZTbXpwampXTS0tTEk2SHY2YlkzMHMyRXJrMXltcWdRamlWY0RVQk1ra0ZNOEhUN3B4aWxPMDVhOHc2OW85VW1WMElxUGtEOUNsbUFqNHF1X2g5SUJEU3Y5UnRqZlBYM0hScXp0UHQ4YkJremZMX3poa0YtLXlxS3VBVEVqRkpFeE8tVjI?oc=5\" target=\"_blank\">New Zealand's North Island braces for more rain amid widespread flooding</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Australian Broadcasting Corporation</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": null,
+        "tweet_id": "2023022137892569298",
+        "geo": {
+            "country": "New Zealand",
+            "name": "North Island",
+            "latitude": -38.7,
+            "longitude": 176.0,
+            "confidence": 1.0
+        }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQLUpPdHZTbXpwampXTS0tTEk2SHY2YlkzMHMyRXJrMXltcWdRamlWY0RVQk1ra0ZNOEhUN3B4aWxPMDVhOHc2OW85VW1WMElxUGtEOUNsbUFqNHF1X2g5SUJEU3Y5UnRqZlBYM0hScXp0UHQ4YkJremZMX3poa0YtLXlxS3VBVEVqRkpFeE8tVjI?oc=5",
+        "date": "2026-02-15",
+        "title": "New Zealand's North Island braces for more rain amid widespread flooding - Australian Broadcasting Corporation",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxQLUpPdHZTbXpwampXTS0tTEk2SHY2YlkzMHMyRXJrMXltcWdRamlWY0RVQk1ra0ZNOEhUN3B4aWxPMDVhOHc2OW85VW1WMElxUGtEOUNsbUFqNHF1X2g5SUJEU3Y5UnRqZlBYM0hScXp0UHQ4YkJremZMX3poa0YtLXlxS3VBVEVqRkpFeE8tVjI?oc=5\" target=\"_blank\">New Zealand's North Island braces for more rain amid widespread flooding</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Australian Broadcasting Corporation</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "posted",
+        "tweet": "\ud83c\uddf3\ud83c\uddff FORECAST North Island: Widespread flooding ongoing with more heavy rain expected, raising flash flood risks. (ABC)",
+        "type": "news",
+        "tweet_id": "2023022137892569298",
+        "geo": {
+            "country": "New Zealand",
+            "name": "North Island",
+            "latitude": -38.7,
+            "longitude": 176.0,
+            "confidence": 1.0
+        }
     }
 ]
