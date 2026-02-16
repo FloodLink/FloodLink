@@ -10516,5 +10516,14 @@
             "longitude": 2.2164,
             "confidence": 1.0
         }
+    },
+    {
+        "link": null,
+        "date": "2026-02-16",
+        "status": "posted",
+        "tweet": "Global flood early warning coverage (2026): 55% of at-risk population protected from floods, flash floods, surges, extreme rain\u2014up from 45% in 2020.\n\n1. \ud83c\uddef\ud83c\uddf5 Japan: 100%\n2. \ud83c\uddf3\ud83c\uddf1 Netherlands: 98%\n3. \ud83c\uddfa\ud83c\uddf8 USA: 92%\n4. \ud83c\udde9\ud83c\uddea Germany: 88%\n5. \ud83c\uddf0\ud83c\uddf7 South Korea: 85%",
+        "type": "statistical",
+        "category": "coverage of flood early warning systems worldwide",
+        "tweet_id": "2023373972797026684"
     }
 ]
