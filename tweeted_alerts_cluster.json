@@ -7334,7 +7334,7 @@
     "rain_mm": 71.5,
     "soil_moisture": 0.68,
     "raw_dynamic_score": 11.606,
-    "last_updated": "2026-02-16T12:48:03.243624Z",
+    "last_updated": "2026-02-16T18:38:01.636147Z",
     "last_tweeted_at": "2026-02-16T12:48:03.243624Z",
     "tweet_id": "2023378883261747661",
     "resolved": false
@@ -7593,7 +7593,7 @@
     "rain_mm": 39.69,
     "soil_moisture": 0.724,
     "raw_dynamic_score": 6.602,
-    "last_updated": "2026-02-16T15:39:35.684710Z",
+    "last_updated": "2026-02-16T18:38:01.636147Z",
     "last_tweeted_at": "2026-02-16T15:39:35.684710Z",
     "tweet_id": "2023422060379148564",
     "resolved": false
@@ -7608,9 +7608,39 @@
     "rain_mm": 45.25,
     "soil_moisture": 0.592,
     "raw_dynamic_score": 6.985,
-    "last_updated": "2026-02-16T15:39:35.684710Z",
+    "last_updated": "2026-02-16T18:38:01.636147Z",
     "last_tweeted_at": "2026-02-16T15:39:35.684710Z",
     "tweet_id": "2023422313027276893",
+    "resolved": false
+  },
+  "-29.1399,-59.2634": {
+    "country": "Argentina",
+    "name": "Goya",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": -29.13995,
+    "longitude": -59.26343,
+    "rain_mm": 44.88,
+    "soil_moisture": 0.566,
+    "raw_dynamic_score": 6.825,
+    "last_updated": "2026-02-16T18:38:01.636147Z",
+    "last_tweeted_at": "2026-02-16T18:38:01.636147Z",
+    "tweet_id": "2023466960194068765",
+    "resolved": false
+  },
+  "-11.8036,-61.8033": {
+    "country": "Brazil",
+    "name": "Rolim de Moura",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": -11.80361,
+    "longitude": -61.80333,
+    "rain_mm": 68.62,
+    "soil_moisture": 0.715,
+    "raw_dynamic_score": 11.358,
+    "last_updated": "2026-02-16T18:38:01.636147Z",
+    "last_tweeted_at": "2026-02-16T18:38:01.636147Z",
+    "tweet_id": "2023467212733116902",
     "resolved": false
   }
 }
