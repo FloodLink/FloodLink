@@ -10341,5 +10341,35 @@
         "type": "statistical",
         "category": "coastal cities at risk from sea-level rise and storm surge",
         "tweet_id": "2023185987447201851"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBmNllCS2l4aTVwbEJzUHhMVW5aSVN6NXJUdzl3WWY0ald2dkRyTnFKZ2I0bWwtYl9mME13bmVDMGkyXy14c2JYZmNXTnZhLXZpMk9yeGJPdHRhdw?oc=5",
+        "date": "2026-02-16",
+        "title": "Ice and flood warnings for parts of northern UK as cool weather continues - BBC",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTFBmNllCS2l4aTVwbEJzUHhMVW5aSVN6NXJUdzl3WWY0ald2dkRyTnFKZ2I0bWwtYl9mME13bmVDMGkyXy14c2JYZmNXTnZhLXZpMk9yeGJPdHRhdw?oc=5\" target=\"_blank\">Ice and flood warnings for parts of northern UK as cool weather continues</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTlY4X1hJa1NYbm5MTzNDT0ZGakRuckdGcXJqTkY4VDQ3TWJsZXozY3Q4VmhtN2RsdFZxSTZ5dHJOMVZXcGFUYzZkVElRdE1hVlR1dFNkc0ZBclkwYndodkJ5bzUyWG9acmV0LTk4anlxMHRmM0swZERrSUJOSmJaVlFmRkJURUlwSE15SlRDRXJvS3RCRXdmU3FjZTY1LW5DWXpHM0FsMXE?oc=5",
+        "date": "2026-02-16",
+        "title": "Major Storm Forecast for Santa Barbara County, February 15-20, 2026 - The Santa Barbara Independent",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTlY4X1hJa1NYbm5MTzNDT0ZGakRuckdGcXJqTkY4VDQ3TWJsZXozY3Q4VmhtN2RsdFZxSTZ5dHJOMVZXcGFUYzZkVElRdE1hVlR1dFNkc0ZBclkwYndodkJ5bzUyWG9acmV0LTk4anlxMHRmM0swZERrSUJOSmJaVlFmRkJURUlwSE15SlRDRXJvS3RCRXdmU3FjZTY1LW5DWXpHM0FsMXE?oc=5\" target=\"_blank\">Major Storm Forecast for Santa Barbara County, February 15-20, 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Santa Barbara Independent</font>",
+        "similarity_excluded": "No",
+        "score": 3,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWi12N3VoTm44bkxzWUw2dkpHOW1HNTJsSTY2WXJ2OXdVX0FLSUNjX3dWQ05CY0s3cGdreFBWUzFEZGhGb0V5ZVMxZnZOZHpjZ3M4M25DUk1selZtbmNiWVN0YXlnR0tRbU9YUUJjUUY1SFFwdi1GSWZWcmRiNHVWamhiLWVMMGotTUI2ZzdZeFJzbGRvaFFCcE1ORUJkTVRkWk5sZDVwNFo5bnctSzJ4eWxXYnk?oc=5",
+        "date": "2026-02-16",
+        "title": "Severe weather triggers landslides, flooding across Greece - news.cgtn.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxOWi12N3VoTm44bkxzWUw2dkpHOW1HNTJsSTY2WXJ2OXdVX0FLSUNjX3dWQ05CY0s3cGdreFBWUzFEZGhGb0V5ZVMxZnZOZHpjZ3M4M25DUk1selZtbmNiWVN0YXlnR0tRbU9YUUJjUUY1SFFwdi1GSWZWcmRiNHVWamhiLWVMMGotTUI2ZzdZeFJzbGRvaFFCcE1ORUJkTVRkWk5sZDVwNFo5bnctSzJ4eWxXYnk?oc=5\" target=\"_blank\">Severe weather triggers landslides, flooding across Greece</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">news.cgtn.com</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
     }
 ]
