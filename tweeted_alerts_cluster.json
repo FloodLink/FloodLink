@@ -7370,5 +7370,20 @@
     "last_tweeted_at": "2026-02-15T12:36:55.753270Z",
     "tweet_id": "2023013694653731103",
     "resolved": false
+  },
+  "-4.8278,-42.1686": {
+    "country": "Brazil",
+    "name": "Campo Maior",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": -4.82778,
+    "longitude": -42.16861,
+    "rain_mm": 45.25,
+    "soil_moisture": 0.577,
+    "raw_dynamic_score": 6.924,
+    "last_updated": "2026-02-16T01:27:00.089569Z",
+    "last_tweeted_at": "2026-02-16T01:27:00.089569Z",
+    "tweet_id": "2023207490574274865",
+    "resolved": false
   }
 }
