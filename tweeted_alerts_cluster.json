@@ -7037,17 +7037,18 @@
   "-7.9135,113.8214": {
     "country": "Indonesia",
     "name": "Bondowoso",
-    "risk_level": "Medium",
-    "tweeted_level": "Medium",
+    "risk_level": "Low",
+    "tweeted_level": "High",
     "latitude": -7.91346,
     "longitude": 113.82145,
-    "rain_mm": 58.69,
+    "rain_mm": 16.81,
     "soil_moisture": 0.683,
-    "raw_dynamic_score": 9.543,
-    "last_updated": "2026-02-16T04:58:48.877242Z",
-    "last_tweeted_at": "2026-02-15T04:56:34.036176Z",
-    "tweet_id": "2022898344604111222",
-    "resolved": false
+    "raw_dynamic_score": 2.735,
+    "last_updated": "2026-02-16T06:59:32.019989Z",
+    "last_tweeted_at": "2026-02-16T06:59:32.019989Z",
+    "tweet_id": "2023291177009615055",
+    "resolved": true,
+    "resolved_at": "2026-02-16T06:59:32.019989Z"
   },
   "-40.9597,175.6575": {
     "country": "New Zealand",
@@ -7092,6 +7093,51 @@
     "last_updated": "2026-02-16T04:58:48.877242Z",
     "last_tweeted_at": "2026-02-16T01:27:00.089569Z",
     "tweet_id": "2023207490574274865",
+    "resolved": false
+  },
+  "-8.3167,114.2333": {
+    "country": "Indonesia",
+    "name": "Singojuruh",
+    "risk_level": "High",
+    "tweeted_level": "High",
+    "latitude": -8.31667,
+    "longitude": 114.23333,
+    "rain_mm": 77.94,
+    "soil_moisture": 0.602,
+    "raw_dynamic_score": 12.104,
+    "last_updated": "2026-02-16T06:59:32.019989Z",
+    "last_tweeted_at": "2026-02-16T06:59:32.019989Z",
+    "tweet_id": "2023291177009615055",
+    "resolved": false
+  },
+  "-8.3667,114.1500": {
+    "country": "Indonesia",
+    "name": "Genteng",
+    "risk_level": "High",
+    "tweeted_level": "High",
+    "latitude": -8.36667,
+    "longitude": 114.15,
+    "rain_mm": 77.94,
+    "soil_moisture": 0.602,
+    "raw_dynamic_score": 12.104,
+    "last_updated": "2026-02-16T06:59:32.019989Z",
+    "last_tweeted_at": "2026-02-16T06:59:32.019989Z",
+    "tweet_id": "2023291177009615055",
+    "resolved": false
+  },
+  "-8.2325,114.3576": {
+    "country": "Indonesia",
+    "name": "Banyuwangi",
+    "risk_level": "High",
+    "tweeted_level": "High",
+    "latitude": -8.2325,
+    "longitude": 114.35755,
+    "rain_mm": 77.94,
+    "soil_moisture": 0.602,
+    "raw_dynamic_score": 12.104,
+    "last_updated": "2026-02-16T06:59:32.019989Z",
+    "last_tweeted_at": "2026-02-16T06:59:32.019989Z",
+    "tweet_id": "2023291177009615055",
     "resolved": false
   }
 }
