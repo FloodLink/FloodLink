@@ -10379,5 +10379,65 @@
         "tweet": "\ud83c\uddf3\ud83c\uddf1 The Netherlands' flood defense network spans 26,000 km of dikes, levees, and dunes, protecting 9 million residents\u2014over 50% of the population\u2014from sea level rise and river flooding.",
         "type": "infrastructure",
         "tweet_id": "2023313962163667235"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQcVRlb0pqbXhhZlM0M3llaXlQQXA0WHJ2c0VOQ1ZwWFgzWGpYT0JOX0stQ3VmNThvMGhFem1aWG5rQms3a0l4bWhjWml2cVE3NXdNQkRYbUZuNVJmR2M2X09QQm9POWxFQ1c3VFd3MHcteHJ6TUU4Y0FQYjlNQWVoYW5heFdoejNYWkJmWHlzYkx0MHRnQllWOUxFM2dSUU42WVhlcWVDc3ItcmxndHZyM1BkbF9DdkdYWGRqUzVNa3V5VmdTVEhYM0JpOWNwd1lOczlrTThtQzY1UU9RY0c0NUxuaE9jblREbFJn?oc=5",
+        "date": "2026-02-16",
+        "title": "Flood Watch issued for much of Southern California beginning Monday morning - ABC7 Los Angeles",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxQcVRlb0pqbXhhZlM0M3llaXlQQXA0WHJ2c0VOQ1ZwWFgzWGpYT0JOX0stQ3VmNThvMGhFem1aWG5rQms3a0l4bWhjWml2cVE3NXdNQkRYbUZuNVJmR2M2X09QQm9POWxFQ1c3VFd3MHcteHJ6TUU4Y0FQYjlNQWVoYW5heFdoejNYWkJmWHlzYkx0MHRnQllWOUxFM2dSUU42WVhlcWVDc3ItcmxndHZyM1BkbF9DdkdYWGRqUzVNa3V5VmdTVEhYM0JpOWNwd1lOczlrTThtQzY1UU9RY0c0NUxuaE9jblREbFJn?oc=5\" target=\"_blank\">Flood Watch issued for much of Southern California beginning Monday morning</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ABC7 Los Angeles</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOQzlHaHQta3dqTGtjQnVhcEh0THNZWUNFSFlPYVdfU1dtaTFVc3VzU0Q4dnJ0Y1RIVVVwNkU3ekNNWEpRQy1xcllRTGdLbjZmR2VHdXFJaXEyaFRoSmI3R0toNlpHYlQ4M3dHMUVyY3JKdkFmX0xMaTJqcWFtRUQzR2dKajBkU2FVRXRMNFhuM1g?oc=5",
+        "date": "2026-02-16",
+        "title": "Dozens of flood and ice warnings in place across UK - Sky News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxOQzlHaHQta3dqTGtjQnVhcEh0THNZWUNFSFlPYVdfU1dtaTFVc3VzU0Q4dnJ0Y1RIVVVwNkU3ekNNWEpRQy1xcllRTGdLbjZmR2VHdXFJaXEyaFRoSmI3R0toNlpHYlQ4M3dHMUVyY3JKdkFmX0xMaTJqcWFtRUQzR2dKajBkU2FVRXRMNFhuM1g?oc=5\" target=\"_blank\">Dozens of flood and ice warnings in place across UK</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sky News</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQUlQZkRfTV9ObWQtMXJPczB6a3JQRkQ2ZDVXeldxNTFwdzBsOUJRUHRTbXk3T3d6X3JpZEVvWWNSVl9EaGFaUVV2Y3ZMSXpRODc1SUszcUx5dVNoSnZ3NV9WdTExVVp6N29HODZrb19yWnR2b3h5VzluVXZZeFBSck1FNDF5V3ZHUHFtaDItblM4VTdPeklrTVpxdGFHVnY3NkpaZ000Qllja2c1c0p4Njdn?oc=5",
+        "date": "2026-02-16",
+        "title": "Snow melt raising flood risk in parts of southern Ontario - FlamboroughToday.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPQUlQZkRfTV9ObWQtMXJPczB6a3JQRkQ2ZDVXeldxNTFwdzBsOUJRUHRTbXk3T3d6X3JpZEVvWWNSVl9EaGFaUVV2Y3ZMSXpRODc1SUszcUx5dVNoSnZ3NV9WdTExVVp6N29HODZrb19yWnR2b3h5VzluVXZZeFBSck1FNDF5V3ZHUHFtaDItblM4VTdPeklrTVpxdGFHVnY3NkpaZ000Qllja2c1c0p4Njdn?oc=5\" target=\"_blank\">Snow melt raising flood risk in parts of southern Ontario</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FlamboroughToday.com</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOM3VtNy1Gb0VqY0EtVHhYUU9LZ0FsS3JZdkJqeFJYN0RuZFQ0bHFqdXFySFpiYXhZcU94TS1mODRlTHJ2SHU5ekJZX0hUMUJ5X1VvUks3TkZpMDZIODJFRHdVanJqTGJKdEtOYmtDRUpTZmVaRnc2WHR6eU9EY3FGM3BxTHZyS1BXdi02MmtCTnhxa0k?oc=5",
+        "date": "2026-02-16",
+        "title": "Parts of Great Northern Highway cut off after heavy rainfall - Australian Broadcasting Corporation",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxOM3VtNy1Gb0VqY0EtVHhYUU9LZ0FsS3JZdkJqeFJYN0RuZFQ0bHFqdXFySFpiYXhZcU94TS1mODRlTHJ2SHU5ekJZX0hUMUJ5X1VvUks3TkZpMDZIODJFRHdVanJqTGJKdEtOYmtDRUpTZmVaRnc2WHR6eU9EY3FGM3BxTHZyS1BXdi02MmtCTnhxa0k?oc=5\" target=\"_blank\">Parts of Great Northern Highway cut off after heavy rainfall</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Australian Broadcasting Corporation</font>",
+        "similarity_excluded": "No",
+        "score": 6,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUGJQVlE5WkcybGJjMDVHRkVuclV2M29BVEVTMERwYS1HV2FKN0tuLUJjZ2hsMXhHcU5HbzRBV2h4dDZqb0hlQWxqRkNQTEluYWU2cXZLM3FtLWhJVXEweWNUWmpkR3dmZjNYVHh5emUzMVFwTUlPcjQ1aF83dmtDbWFwSzk5NnBCX2JmQk44dURfMUZ4YWgzbzZpeUQ2SVJLSkhsb2pXdml0cXdE?oc=5",
+        "date": "2026-02-16",
+        "title": "Severe flooding hits central Spain as major river overflows after violent storm - Myanmar International TV",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNUGJQVlE5WkcybGJjMDVHRkVuclV2M29BVEVTMERwYS1HV2FKN0tuLUJjZ2hsMXhHcU5HbzRBV2h4dDZqb0hlQWxqRkNQTEluYWU2cXZLM3FtLWhJVXEweWNUWmpkR3dmZjNYVHh5emUzMVFwTUlPcjQ1aF83dmtDbWFwSzk5NnBCX2JmQk44dURfMUZ4YWgzbzZpeUQ2SVJLSkhsb2pXdml0cXdE?oc=5\" target=\"_blank\">Severe flooding hits central Spain as major river overflows after violent storm</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Myanmar International TV</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNUzVCY041WHl0aEp0Z2w5SW9sU2d6QklUd3dlVG5vaVU1X0dMOUswcVY4VEdMVjNXSEdSSXUtRUxsYU9ibE1OVGpJSTVhckRWX2hCVVdZZGw5MW9CdHJ3aWFxOExFaFFObXk2R3dMMzY0WXU1UHo3ZEpTeTFDWjJadEFFY3VDVGRLZlBLMHNrYXRwNGhOMVY0bTVSaklHR3BtUkNKSW5TQQ?oc=5",
+        "date": "2026-02-16",
+        "title": "Residents near MCC decry decade-long civic issues, plan stir - newskarnataka.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNUzVCY041WHl0aEp0Z2w5SW9sU2d6QklUd3dlVG5vaVU1X0dMOUswcVY4VEdMVjNXSEdSSXUtRUxsYU9ibE1OVGpJSTVhckRWX2hCVVdZZGw5MW9CdHJ3aWFxOExFaFFObXk2R3dMMzY0WXU1UHo3ZEpTeTFDWjJadEFFY3VDVGRLZlBLMHNrYXRwNGhOMVY0bTVSaklHR3BtUkNKSW5TQQ?oc=5\" target=\"_blank\">Residents near MCC decry decade-long civic issues, plan stir</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">newskarnataka.com</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
     }
 ]
