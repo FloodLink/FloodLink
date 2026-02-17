@@ -9,7 +9,7 @@
     "rain_mm": 34.94,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 6.682,
-    "last_updated": "2026-02-16T21:26:20.615880Z",
+    "last_updated": "2026-02-17T01:40:49.694444Z",
     "last_tweeted_at": "2026-01-05T14:28:15.949495Z",
     "tweet_id": "2008183811104735281",
     "resolved": false
@@ -3684,7 +3684,7 @@
     "rain_mm": 58.38,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 11.164,
-    "last_updated": "2026-02-16T21:26:20.615880Z",
+    "last_updated": "2026-02-17T01:40:49.694444Z",
     "last_tweeted_at": "2026-01-25T18:23:43.351938Z",
     "tweet_id": "2015491327098790320",
     "resolved": false
@@ -6699,7 +6699,7 @@
     "rain_mm": 88.12,
     "soil_moisture": 0.731,
     "raw_dynamic_score": 14.712,
-    "last_updated": "2026-02-14T01:23:09.178121Z",
+    "last_updated": "2026-02-17T01:40:49.694444Z",
     "last_tweeted_at": "2026-02-14T01:23:09.178121Z",
     "tweet_id": "2022481753517232420",
     "resolved": false
@@ -7327,17 +7327,18 @@
   "2.6620,97.8827": {
     "country": "Indonesia",
     "name": "Subulussalam",
-    "risk_level": "Medium",
-    "tweeted_level": "Medium",
+    "risk_level": "Low",
+    "tweeted_level": "High",
     "latitude": 2.662,
     "longitude": 97.8827,
-    "rain_mm": 71.5,
-    "soil_moisture": 0.68,
-    "raw_dynamic_score": 11.606,
-    "last_updated": "2026-02-16T21:26:20.615880Z",
-    "last_tweeted_at": "2026-02-16T12:48:03.243624Z",
-    "tweet_id": "2023378883261747661",
-    "resolved": false
+    "rain_mm": 17.0,
+    "soil_moisture": 0.668,
+    "raw_dynamic_score": 2.742,
+    "last_updated": "2026-02-17T01:40:49.694444Z",
+    "last_tweeted_at": "2026-02-17T01:40:49.694444Z",
+    "tweet_id": "2023573360547111367",
+    "resolved": true,
+    "resolved_at": "2026-02-17T01:40:49.694444Z"
   },
   "3.0851,101.5328": {
     "country": "Malaysia",
@@ -7638,7 +7639,7 @@
     "rain_mm": 68.62,
     "soil_moisture": 0.715,
     "raw_dynamic_score": 11.358,
-    "last_updated": "2026-02-16T18:38:01.636147Z",
+    "last_updated": "2026-02-17T01:40:49.694444Z",
     "last_tweeted_at": "2026-02-16T18:38:01.636147Z",
     "tweet_id": "2023467212733116902",
     "resolved": false
@@ -7653,7 +7654,7 @@
     "rain_mm": 63.5,
     "soil_moisture": 0.722,
     "raw_dynamic_score": 10.55,
-    "last_updated": "2026-02-16T21:26:20.615880Z",
+    "last_updated": "2026-02-17T01:40:49.694444Z",
     "last_tweeted_at": "2026-02-16T21:26:20.615880Z",
     "tweet_id": "2023509317001904329",
     "resolved": false
@@ -7731,6 +7732,21 @@
     "last_updated": "2026-02-16T21:26:20.615880Z",
     "last_tweeted_at": "2026-02-16T21:26:20.615880Z",
     "tweet_id": "2023509821744447843",
+    "resolved": false
+  },
+  "5.3848,95.9609": {
+    "country": "Indonesia",
+    "name": "Sigli",
+    "risk_level": "High",
+    "tweeted_level": "High",
+    "latitude": 5.3848,
+    "longitude": 95.9609,
+    "rain_mm": 66.06,
+    "soil_moisture": 1.0,
+    "raw_dynamic_score": 12.634,
+    "last_updated": "2026-02-17T01:40:49.694444Z",
+    "last_tweeted_at": "2026-02-17T01:40:49.694444Z",
+    "tweet_id": "2023573360547111367",
     "resolved": false
   }
 }
