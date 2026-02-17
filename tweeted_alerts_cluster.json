@@ -6692,17 +6692,18 @@
   "-4.4497,-47.5256": {
     "country": "Brazil",
     "name": "Itinga do Maranhão",
-    "risk_level": "High",
-    "tweeted_level": "High",
+    "risk_level": "Low",
+    "tweeted_level": "Low",
     "latitude": -4.44972,
     "longitude": -47.52556,
-    "rain_mm": 88.12,
-    "soil_moisture": 0.731,
-    "raw_dynamic_score": 14.712,
-    "last_updated": "2026-02-17T01:40:49.694444Z",
-    "last_tweeted_at": "2026-02-14T01:23:09.178121Z",
-    "tweet_id": "2022481753517232420",
-    "resolved": false
+    "rain_mm": 5.44,
+    "soil_moisture": 0.656,
+    "raw_dynamic_score": 0.871,
+    "last_updated": "2026-02-17T04:52:28.575803Z",
+    "last_tweeted_at": "2026-02-17T04:52:28.575803Z",
+    "tweet_id": "2023621578366329253",
+    "resolved": true,
+    "resolved_at": "2026-02-17T04:52:28.575803Z"
   },
   "-23.8597,35.3472": {
     "country": "Mozambique",
@@ -7669,7 +7670,7 @@
     "rain_mm": 59.88,
     "soil_moisture": 0.614,
     "raw_dynamic_score": 9.363,
-    "last_updated": "2026-02-16T21:26:20.615880Z",
+    "last_updated": "2026-02-17T04:52:28.575803Z",
     "last_tweeted_at": "2026-02-16T21:26:20.615880Z",
     "tweet_id": "2023509569356394925",
     "resolved": false
@@ -7714,7 +7715,7 @@
     "rain_mm": 75.31,
     "soil_moisture": 0.547,
     "raw_dynamic_score": 11.324,
-    "last_updated": "2026-02-16T21:26:20.615880Z",
+    "last_updated": "2026-02-17T04:52:28.575803Z",
     "last_tweeted_at": "2026-02-16T21:26:20.615880Z",
     "tweet_id": "2023509821744447843",
     "resolved": false
@@ -7744,9 +7745,24 @@
     "rain_mm": 66.06,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 12.634,
-    "last_updated": "2026-02-17T01:40:49.694444Z",
+    "last_updated": "2026-02-17T04:52:28.575803Z",
     "last_tweeted_at": "2026-02-17T01:40:49.694444Z",
     "tweet_id": "2023573360547111367",
+    "resolved": false
+  },
+  "1.0001,103.4219": {
+    "country": "Indonesia",
+    "name": "Tanjung Balai",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 1.00005,
+    "longitude": 103.42186,
+    "rain_mm": 48.62,
+    "soil_moisture": 1.0,
+    "raw_dynamic_score": 9.3,
+    "last_updated": "2026-02-17T04:52:28.575803Z",
+    "last_tweeted_at": "2026-02-17T04:52:28.575803Z",
+    "tweet_id": "2023621831215726787",
     "resolved": false
   }
 }
