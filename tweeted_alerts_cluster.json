@@ -4509,7 +4509,7 @@
     "rain_mm": 35.44,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 6.777,
-    "last_updated": "2026-02-01T12:35:28.380346Z",
+    "last_updated": "2026-02-17T12:47:53.415999Z",
     "last_tweeted_at": "2026-02-01T05:01:05.241309Z",
     "tweet_id": "2017827310163173839",
     "resolved": false
@@ -7090,7 +7090,7 @@
     "rain_mm": 59.81,
     "soil_moisture": 0.644,
     "raw_dynamic_score": 9.518,
-    "last_updated": "2026-02-17T09:45:22.628115Z",
+    "last_updated": "2026-02-17T12:47:53.415999Z",
     "last_tweeted_at": "2026-02-17T09:45:22.628115Z",
     "tweet_id": "2023696049924125038",
     "resolved": false
@@ -7763,7 +7763,7 @@
     "rain_mm": 42.44,
     "soil_moisture": 0.641,
     "raw_dynamic_score": 6.741,
-    "last_updated": "2026-02-17T09:45:22.628115Z",
+    "last_updated": "2026-02-17T12:47:53.415999Z",
     "last_tweeted_at": "2026-02-17T09:45:22.628115Z",
     "tweet_id": "2023695291900104745",
     "resolved": false
@@ -7778,7 +7778,7 @@
     "rain_mm": 62.38,
     "soil_moisture": 0.644,
     "raw_dynamic_score": 9.926,
-    "last_updated": "2026-02-17T09:45:22.628115Z",
+    "last_updated": "2026-02-17T12:47:53.415999Z",
     "last_tweeted_at": "2026-02-17T09:45:22.628115Z",
     "tweet_id": "2023695544825029113",
     "resolved": false
@@ -7793,9 +7793,24 @@
     "rain_mm": 45.5,
     "soil_moisture": 0.731,
     "raw_dynamic_score": 7.595,
-    "last_updated": "2026-02-17T09:45:22.628115Z",
+    "last_updated": "2026-02-17T12:47:53.415999Z",
     "last_tweeted_at": "2026-02-17T09:45:22.628115Z",
     "tweet_id": "2023695797502496887",
+    "resolved": false
+  },
+  "-6.4783,16.8174": {
+    "country": "The Democratic Republic of the Congo",
+    "name": "Kasongo-Lunda",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": -6.47833,
+    "longitude": 16.81735,
+    "rain_mm": 43.06,
+    "soil_moisture": 0.57,
+    "raw_dynamic_score": 6.563,
+    "last_updated": "2026-02-17T12:47:53.415999Z",
+    "last_tweeted_at": "2026-02-17T12:47:53.415999Z",
+    "tweet_id": "2023741235106853357",
     "resolved": false
   }
 }
