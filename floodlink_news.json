@@ -10873,5 +10873,42 @@
             "longitude": -92.33,
             "confidence": 0.95
         }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNDlyblFVN0hsbEFqczUwYjVidTBlQmNjVnpuSUZfRnVwQ1lubUFtUVpQaDJSZFZZXzdnSEF0QkFiQWV3X082d21fTlEwQUNHT1REREpfeEhjYVlXM29IWWc2VnRQblYwQkctRHBRNmxtU1BsY01UOVh4ajg0VDRRUjdtM2N2U01pV3puMmdPb01LUVN5YnlrWkZyREhtamFxWjFpWnBoVEFnc1VYcXp5cm9Ndw?oc=5",
+        "date": "2026-02-18",
+        "title": "Southern Africa: Heavy Rains and Floods Flash Update No. 3 (17 February 2026) - ReliefWeb",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNNDlyblFVN0hsbEFqczUwYjVidTBlQmNjVnpuSUZfRnVwQ1lubUFtUVpQaDJSZFZZXzdnSEF0QkFiQWV3X082d21fTlEwQUNHT1REREpfeEhjYVlXM29IWWc2VnRQblYwQkctRHBRNmxtU1BsY01UOVh4ajg0VDRRUjdtM2N2U01pV3puMmdPb01LUVN5YnlrWkZyREhtamFxWjFpWnBoVEFnc1VYcXp5cm9Ndw?oc=5\" target=\"_blank\">Southern Africa: Heavy Rains and Floods Flash Update No. 3 (17 February 2026)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ReliefWeb</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": null,
+        "tweet_id": "2024012223442493537",
+        "geo": {
+            "country": null,
+            "name": "Southern Africa",
+            "latitude": -25.0,
+            "longitude": 25.0,
+            "confidence": 0.9
+        }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNDlyblFVN0hsbEFqczUwYjVidTBlQmNjVnpuSUZfRnVwQ1lubUFtUVpQaDJSZFZZXzdnSEF0QkFiQWV3X082d21fTlEwQUNHT1REREpfeEhjYVlXM29IWWc2VnRQblYwQkctRHBRNmxtU1BsY01UOVh4ajg0VDRRUjdtM2N2U01pV3puMmdPb01LUVN5YnlrWkZyREhtamFxWjFpWnBoVEFnc1VYcXp5cm9Ndw?oc=5",
+        "date": "2026-02-18",
+        "title": "Southern Africa: Heavy Rains and Floods Flash Update No. 3 (17 February 2026) - ReliefWeb",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNNDlyblFVN0hsbEFqczUwYjVidTBlQmNjVnpuSUZfRnVwQ1lubUFtUVpQaDJSZFZZXzdnSEF0QkFiQWV3X082d21fTlEwQUNHT1REREpfeEhjYVlXM29IWWc2VnRQblYwQkctRHBRNmxtU1BsY01UOVh4ajg0VDRRUjdtM2N2U01pV3puMmdPb01LUVN5YnlrWkZyREhtamFxWjFpWnBoVEFnc1VYcXp5cm9Ndw?oc=5\" target=\"_blank\">Southern Africa: Heavy Rains and Floods Flash Update No. 3 (17 February 2026)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ReliefWeb</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "posted",
+        "tweet": "POST-EVENT Southern Africa: Heavy rains trigger widespread floods, with ongoing assessments of damage and humanitarian needs. (ReliefWeb)",
+        "type": "news",
+        "tweet_id": "2024012223442493537",
+        "geo": {
+            "country": null,
+            "name": "Southern Africa",
+            "latitude": -25.0,
+            "longitude": 25.0,
+            "confidence": 0.9
+        }
     }
 ]
