@@ -4179,7 +4179,7 @@
     "rain_mm": 62.19,
     "soil_moisture": 0.729,
     "raw_dynamic_score": 10.372,
-    "last_updated": "2026-01-30T09:35:01.399752Z",
+    "last_updated": "2026-02-18T12:47:28.095225Z",
     "last_tweeted_at": "2026-01-30T06:41:39.045368Z",
     "tweet_id": "2017126337908265016",
     "resolved": false
@@ -4209,7 +4209,7 @@
     "rain_mm": 62.19,
     "soil_moisture": 0.729,
     "raw_dynamic_score": 10.372,
-    "last_updated": "2026-01-30T09:35:01.399752Z",
+    "last_updated": "2026-02-18T12:47:28.095225Z",
     "last_tweeted_at": "2026-01-30T06:41:39.045368Z",
     "tweet_id": "2017126590363439321",
     "resolved": false
@@ -7973,7 +7973,7 @@
     "rain_mm": 43.81,
     "soil_moisture": 0.669,
     "raw_dynamic_score": 7.07,
-    "last_updated": "2026-02-18T09:43:54.682779Z",
+    "last_updated": "2026-02-18T12:47:28.095225Z",
     "last_tweeted_at": "2026-02-18T01:29:28.045752Z",
     "tweet_id": "2023932881974821356",
     "resolved": false
@@ -8229,7 +8229,7 @@
     "rain_mm": 71.5,
     "soil_moisture": 0.645,
     "raw_dynamic_score": 11.382,
-    "last_updated": "2026-02-18T04:53:22.930288Z",
+    "last_updated": "2026-02-18T12:47:28.095225Z",
     "last_tweeted_at": "2026-02-18T04:53:22.930288Z",
     "tweet_id": "2023984197551948252",
     "resolved": false
@@ -8244,7 +8244,7 @@
     "rain_mm": 59.44,
     "soil_moisture": 0.737,
     "raw_dynamic_score": 9.957,
-    "last_updated": "2026-02-18T09:43:54.682779Z",
+    "last_updated": "2026-02-18T12:47:28.095225Z",
     "last_tweeted_at": "2026-02-18T09:43:54.682779Z",
     "tweet_id": "2024058319774814519",
     "resolved": false
@@ -8551,6 +8551,21 @@
     "last_updated": "2026-02-18T09:43:54.682779Z",
     "last_tweeted_at": "2026-02-18T09:43:54.682779Z",
     "tweet_id": "2024058319774814519",
+    "resolved": false
+  },
+  "5.2167,96.2833": {
+    "country": "Indonesia",
+    "name": "Reuleuet",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 5.21667,
+    "longitude": 96.28333,
+    "rain_mm": 39.62,
+    "soil_moisture": 0.701,
+    "raw_dynamic_score": 6.507,
+    "last_updated": "2026-02-18T12:47:28.095225Z",
+    "last_tweeted_at": "2026-02-18T12:47:28.095225Z",
+    "tweet_id": "2024103511110369387",
     "resolved": false
   }
 }
