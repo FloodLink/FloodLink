@@ -10920,5 +10920,13 @@
         "score": 5,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-02-18",
+        "status": "posted",
+        "tweet": "\ud83c\uddf3\ud83c\uddf1 The Netherlands' Delta Programme has expanded to 27,500 km of dikes and levees by 2026, shielding 10 million residents\u2014over 55% of the population\u2014from coastal and river flooding.",
+        "type": "infrastructure",
+        "tweet_id": "2024068797435711701"
     }
 ]
