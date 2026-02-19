@@ -11120,5 +11120,25 @@
             "longitude": null,
             "confidence": 0.7
         }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdi11OXlMSXVjcXlsWXpiaGVzVmpkeG5GckQ5b3BWSFh3YjVkV2tjcXFoN2JvZDJTU05MOXJaRTJwWEFRNUpVaG5zTGtLQ1pEb1dHVzU5OVFJMjE5YlVURktxQ2I2NWJMd211OV8xd2hGTG5WVkgyX21HM1JYdGNEYk1MeTN6Uk1uak9scjlnRG9zY1l5ZTNNSXR2V0ZwRzB4N3N4c2d3LS12R2pJU3ZVS3lLcEpjMVMzQTZxMEF6b3U?oc=5",
+        "date": "2026-02-19",
+        "title": "Flood watch issued for South Central Pa. until Friday afternoon - lehighvalleylive",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdi11OXlMSXVjcXlsWXpiaGVzVmpkeG5GckQ5b3BWSFh3YjVkV2tjcXFoN2JvZDJTU05MOXJaRTJwWEFRNUpVaG5zTGtLQ1pEb1dHVzU5OVFJMjE5YlVURktxQ2I2NWJMd211OV8xd2hGTG5WVkgyX21HM1JYdGNEYk1MeTN6Uk1uak9scjlnRG9zY1l5ZTNNSXR2V0ZwRzB4N3N4c2d3LS12R2pJU3ZVS3lLcEpjMVMzQTZxMEF6b3U?oc=5\" target=\"_blank\">Flood watch issued for South Central Pa. until Friday afternoon</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">lehighvalleylive</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNcXZNbHE3MEoyWWlhRVAzZFNTMnZLWUhSLUQtZDRNSnRORm84SkpRM250M1JSbTY0QjBHR2IzOGw1LXh0QUtKOUVlOTdodWpfV0YtNUJaOGJuTEVkRWJxZkVvenZSQlJqNzlYbkdjUC1zT2RKWThDVWVkeVFad2h5SkZQdFl3aHhWQ1VVd0hKU3k5cGJmcVRoWWtGdnJGNlpFb2dFUzJxb2pmdDNZLWppbUVXZ1MzdzFvTVhSTFZR?oc=5",
+        "date": "2026-02-19",
+        "title": "Flood watch in place for part of Pennsylvania until Friday afternoon - PennLive.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxNcXZNbHE3MEoyWWlhRVAzZFNTMnZLWUhSLUQtZDRNSnRORm84SkpRM250M1JSbTY0QjBHR2IzOGw1LXh0QUtKOUVlOTdodWpfV0YtNUJaOGJuTEVkRWJxZkVvenZSQlJqNzlYbkdjUC1zT2RKWThDVWVkeVFad2h5SkZQdFl3aHhWQ1VVd0hKU3k5cGJmcVRoWWtGdnJGNlpFb2dFUzJxb2pmdDNZLWppbUVXZ1MzdzFvTVhSTFZR?oc=5\" target=\"_blank\">Flood watch in place for part of Pennsylvania until Friday afternoon</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PennLive.com</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
     }
 ]
