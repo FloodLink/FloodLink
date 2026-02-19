@@ -10985,5 +10985,14 @@
             "longitude": 69.3451,
             "confidence": 0.95
         }
+    },
+    {
+        "link": null,
+        "date": "2026-02-19",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 In the US, 43 million people (13%) live in 100-year floodplains (2023).\n\n\ud83c\udde8\ud83c\uddf3 In China, 194 million (14%) are exposed to river floods and storm surges (2025 projection).",
+        "type": "statistical",
+        "category": "population living in floodplains",
+        "tweet_id": "2024400521046741072"
     }
 ]
