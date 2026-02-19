@@ -10938,5 +10938,15 @@
         "score": 3,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQT1gzeDloeUFqVjVEckFCeXNwbGEyTFNmOTFWOVJnMmJMT1ltbDRaVGdJX0ItRkpkaW9faVZqWHpGR2hYTFhpQ3J1cjVMZkNjbUdaZHllZUFKYTF5UU5RWVRMek91a3BJaDVzTWNKbWNUaFcwcFZtd1VwR2Z1Q21HS2hFUnRjemNRUEdfT2ZweXVfUjdfSThWNk1PTktUY0VQcHlwZE5aOVVRS0VJ?oc=5",
+        "date": "2026-02-19",
+        "title": "55-year-old man swept away by flash flood in Cajon Pass found dead - CBS News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQT1gzeDloeUFqVjVEckFCeXNwbGEyTFNmOTFWOVJnMmJMT1ltbDRaVGdJX0ItRkpkaW9faVZqWHpGR2hYTFhpQ3J1cjVMZkNjbUdaZHllZUFKYTF5UU5RWVRMek91a3BJaDVzTWNKbWNUaFcwcFZtd1VwR2Z1Q21HS2hFUnRjemNRUEdfT2ZweXVfUjdfSThWNk1PTktUY0VQcHlwZE5aOVVRS0VJ?oc=5\" target=\"_blank\">55-year-old man swept away by flash flood in Cajon Pass found dead</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CBS News</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
     }
 ]
