@@ -10948,5 +10948,42 @@
         "score": 0,
         "status": "skipped",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRVVEYVJVYmlMeEtWMUFWZWc1Uy0zWkMwdWt4MFVyT2lLVkl1Q2VsSm5ZSnpNbVFvSjZMZ1F1RGFYY1Q3UjdTWENUNkpFMmczQlZ1M3V0QjE3OU9vbHVlYXM5YnBTczJsR0N3aHlhcGE0d3M2MHE4bWFqQ3VlZkZpcmw2ZXV2YWVFaXhURV9qYmNxZzNmQ1hEZTF2a3lERWc4aHNoOGpUTG9jOTB2NXdQbjRSelA5bWFiVlo2TnJ1QXJWZw?oc=5",
+        "date": "2026-02-19",
+        "title": "UN monitor warns 7.5m Pakistanis face acute food insecurity amid floods, drought, violence - Geo News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRVVEYVJVYmlMeEtWMUFWZWc1Uy0zWkMwdWt4MFVyT2lLVkl1Q2VsSm5ZSnpNbVFvSjZMZ1F1RGFYY1Q3UjdTWENUNkpFMmczQlZ1M3V0QjE3OU9vbHVlYXM5YnBTczJsR0N3aHlhcGE0d3M2MHE4bWFqQ3VlZkZpcmw2ZXV2YWVFaXhURV9qYmNxZzNmQ1hEZTF2a3lERWc4aHNoOGpUTG9jOTB2NXdQbjRSelA5bWFiVlo2TnJ1QXJWZw?oc=5\" target=\"_blank\">UN monitor warns 7.5m Pakistanis face acute food insecurity amid floods, drought, violence</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Geo News</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": null,
+        "tweet_id": "2024388555624071626",
+        "geo": {
+            "country": "Pakistan",
+            "name": null,
+            "latitude": 30.3753,
+            "longitude": 69.3451,
+            "confidence": 0.95
+        }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRVVEYVJVYmlMeEtWMUFWZWc1Uy0zWkMwdWt4MFVyT2lLVkl1Q2VsSm5ZSnpNbVFvSjZMZ1F1RGFYY1Q3UjdTWENUNkpFMmczQlZ1M3V0QjE3OU9vbHVlYXM5YnBTczJsR0N3aHlhcGE0d3M2MHE4bWFqQ3VlZkZpcmw2ZXV2YWVFaXhURV9qYmNxZzNmQ1hEZTF2a3lERWc4aHNoOGpUTG9jOTB2NXdQbjRSelA5bWFiVlo2TnJ1QXJWZw?oc=5",
+        "date": "2026-02-19",
+        "title": "UN monitor warns 7.5m Pakistanis face acute food insecurity amid floods, drought, violence - Geo News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRVVEYVJVYmlMeEtWMUFWZWc1Uy0zWkMwdWt4MFVyT2lLVkl1Q2VsSm5ZSnpNbVFvSjZMZ1F1RGFYY1Q3UjdTWENUNkpFMmczQlZ1M3V0QjE3OU9vbHVlYXM5YnBTczJsR0N3aHlhcGE0d3M2MHE4bWFqQ3VlZkZpcmw2ZXV2YWVFaXhURV9qYmNxZzNmQ1hEZTF2a3lERWc4aHNoOGpUTG9jOTB2NXdQbjRSelA5bWFiVlo2TnJ1QXJWZw?oc=5\" target=\"_blank\">UN monitor warns 7.5m Pakistanis face acute food insecurity amid floods, drought, violence</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Geo News</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "posted",
+        "tweet": "\ud83c\uddf5\ud83c\uddf0 POST-EVENT Pakistan: Floods contribute to acute food insecurity affecting 7.5 million people amid drought and violence. (Geo News)",
+        "type": "news",
+        "tweet_id": "2024388555624071626",
+        "geo": {
+            "country": "Pakistan",
+            "name": null,
+            "latitude": 30.3753,
+            "longitude": 69.3451,
+            "confidence": 0.95
+        }
     }
 ]
