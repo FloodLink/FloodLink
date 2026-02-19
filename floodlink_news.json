@@ -11140,5 +11140,65 @@
         "score": 7,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQTVNaQjlyQmd5OTBTclhuRi1OaFBHc2tmNFdLVmVsbWVfS1NrUy1wSldSUDhpWHlIdnhJdlZFdDJqa1o5djc4T0FSaUpsUzE5MlJQVVBRWUswblBLU3FvdEwxZlU2aE9tc01DWDljLWgyalRUR0JIeVF0ZkhmQ3p2MWk1RW93bDl5QkVMZlNSMkJhWXYzMGlQeUE4SkFxNVFPUHJjVkVEcHVHbzJnVmhTRTVXdktTUHRDdk9NWkFSbzV6TVZRbUtqTGtVdXA?oc=5",
+        "date": "2026-02-19",
+        "title": "West Industries gets nod for flood warning system - dailytimes.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxQTVNaQjlyQmd5OTBTclhuRi1OaFBHc2tmNFdLVmVsbWVfS1NrUy1wSldSUDhpWHlIdnhJdlZFdDJqa1o5djc4T0FSaUpsUzE5MlJQVVBRWUswblBLU3FvdEwxZlU2aE9tc01DWDljLWgyalRUR0JIeVF0ZkhmQ3p2MWk1RW93bDl5QkVMZlNSMkJhWXYzMGlQeUE4SkFxNVFPUHJjVkVEcHVHbzJnVmhTRTVXdktTUHRDdk9NWkFSbzV6TVZRbUtqTGtVdXA?oc=5\" target=\"_blank\">West Industries gets nod for flood warning system</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">dailytimes.com</font>",
+        "similarity_excluded": "No",
+        "score": 6,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQcTVHYlNMbGVPbWp0dGljam42dTBaSXR5MGhGd3lnT09pQkJkcG5HLWVoMXV6RDIzM0pPUllyTkpUZklndUhQOU1QZzk4TG51LWNzc2Frcm5tU3VKU1FUT19tQ3llcGZYYWdpX3RpTldkVkIzMlNDNGpORGpUMnhPajh6MFc0TTVhb2RnUm1vYkt2V21JYjhMcnpDdUhybklDVjRnRGhhbXN3ckxCYkdGU09VX08?oc=5",
+        "date": "2026-02-19",
+        "title": "Flood watch affecting South Central Pa. until Friday afternoon - PennLive.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQcTVHYlNMbGVPbWp0dGljam42dTBaSXR5MGhGd3lnT09pQkJkcG5HLWVoMXV6RDIzM0pPUllyTkpUZklndUhQOU1QZzk4TG51LWNzc2Frcm5tU3VKU1FUT19tQ3llcGZYYWdpX3RpTldkVkIzMlNDNGpORGpUMnhPajh6MFc0TTVhb2RnUm1vYkt2V21JYjhMcnpDdUhybklDVjRnRGhhbXN3ckxCYkdGU09VX08?oc=5\" target=\"_blank\">Flood watch affecting South Central Pa. until Friday afternoon</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PennLive.com</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPdV83QWNDajUyM0JxbGl6Vzc0THBMTVpGUjJWS2JwUjdVZ3BHQzRid0hpYjZSZ1NxS1hyWkxnX1lMTFlYLTM1dFJZdnFReVVFN0Vfb3FneWFwcUs5VEJtQ3pIMDJIejBhbnV4YWFjUUVXTk5BZlVfRWw2NkNjSmxXeg?oc=5",
+        "date": "2026-02-19",
+        "title": "Pennsylvania braces for dangerous ice jam floods - Rolling Out",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPdV83QWNDajUyM0JxbGl6Vzc0THBMTVpGUjJWS2JwUjdVZ3BHQzRid0hpYjZSZ1NxS1hyWkxnX1lMTFlYLTM1dFJZdnFReVVFN0Vfb3FneWFwcUs5VEJtQ3pIMDJIejBhbnV4YWFjUUVXTk5BZlVfRWw2NkNjSmxXeg?oc=5\" target=\"_blank\">Pennsylvania braces for dangerous ice jam floods</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Rolling Out</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE05amJjY1lYNWkxcko0QzNWRTY2R0d0UWtOOE12aW5WZDR2LTNSZDZteF9OWEVqNjdGZVY0ekNULVB6YWg3eGJtaUhXd0xWc1hCM0k1Y2dweEdUcVA3NmIxbDlLU0oydHNMZWQzOGhuVmpRQnFI0gF0QVVfeXFMTTlqYmNjWVg1aTFySjRDM1ZFNjZHR3RRa044TXZpblZkNHYtM1JkNm14X05YRWo2N0ZlVjR6Q1QtUHphaDd4Ym1pSFd3TFZzWEIzSTVjZ3B4R1RxUDc2YjFsOUtTSjJ0c0xlZDM4aG5WalFCcUg?oc=5",
+        "date": "2026-02-19",
+        "title": "Flood Warning in the Adriatic Sea Basin - Sarajevo Times",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE05amJjY1lYNWkxcko0QzNWRTY2R0d0UWtOOE12aW5WZDR2LTNSZDZteF9OWEVqNjdGZVY0ekNULVB6YWg3eGJtaUhXd0xWc1hCM0k1Y2dweEdUcVA3NmIxbDlLU0oydHNMZWQzOGhuVmpRQnFI0gF0QVVfeXFMTTlqYmNjWVg1aTFySjRDM1ZFNjZHR3RRa044TXZpblZkNHYtM1JkNm14X05YRWo2N0ZlVjR6Q1QtUHphaDd4Ym1pSFd3TFZzWEIzSTVjZ3B4R1RxUDc2YjFsOUtTSjJ0c0xlZDM4aG5WalFCcUg?oc=5\" target=\"_blank\">Flood Warning in the Adriatic Sea Basin</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sarajevo Times</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPaGlxSXZNTnlkekhLZHhVS0hISXM2TVVNTFlrcl9iaV9yT24wajNZWUVrcDVOVTVDcWdMa2hFNWVhQnpkMC1Vc3FhTTlaSmV1c1Azdm1mQkMxdk9GMzlMTDR5dUgtRWt6ZXRLMmdVSGRMUzlXbG1KNlltSHhMU0dFRjRNSy1uTUJ6T3Q0OHJiY05IZTVTbzdfTTBYTHJKQ2owVDNncktnZEZEU3JETnRmX29fTTFubWhRSzhRMVVmalUxNEd6Wjh1SzEtc3hRQ1FmT3U2MS16eFV4b19IcG1MSFI4Q0p6OVVNdFdiZU1rRW1QdlczUFE?oc=5",
+        "date": "2026-02-19",
+        "title": "Flooding of the Seine in Paris: Quays closed off \u2014 traffic restrictions in place this Thursday - Sortir \u00e0 Paris",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9gFBVV95cUxPaGlxSXZNTnlkekhLZHhVS0hISXM2TVVNTFlrcl9iaV9yT24wajNZWUVrcDVOVTVDcWdMa2hFNWVhQnpkMC1Vc3FhTTlaSmV1c1Azdm1mQkMxdk9GMzlMTDR5dUgtRWt6ZXRLMmdVSGRMUzlXbG1KNlltSHhMU0dFRjRNSy1uTUJ6T3Q0OHJiY05IZTVTbzdfTTBYTHJKQ2owVDNncktnZEZEU3JETnRmX29fTTFubWhRSzhRMVVmalUxNEd6Wjh1SzEtc3hRQ1FmT3U2MS16eFV4b19IcG1MSFI4Q0p6OVVNdFdiZU1rRW1QdlczUFE?oc=5\" target=\"_blank\">Flooding of the Seine in Paris: Quays closed off \u2014 traffic restrictions in place this Thursday</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sortir \u00e0 Paris</font>",
+        "similarity_excluded": "No",
+        "score": 6,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQTGs2Zk9wTjBKeUszWHM2X0lXNVAzQUYwOFp6WE9Sci0ybGVEUFdsOTdZV1NEbnM5c2lSU2Q5ZEV6TVVaZ1RLMENCa3F1Z09yVHZNX3NNRTlLVWZCQ0U3X1ZveUFXRUpwNENRQkhZRFZjODZ5SHhndzdPckJnOVN0MjZlRjBsdVlZYXZRQzFuam9qcDI1ZG9nc21TUjZDNFFrbjUzREhhdDBBRTE1Q0pZNkNCbWdIRHlVWjF3UzFTTko4cW5VbmNYVlctYzZxR2RMeG5CSUNXMHpTckRHNWVOTWRycjRqWkpCeGkyQUdoclNWVHRSNjZveXMxWlFlQ2Rj0gGGAkFVX3lxTFBwYzRPSVM2S1lCVlRYWXdmci1aY2dVTEdWTHNZZTFKeTh3NkkwMW4tbEFGOWFwZzQxTENMUmxQOVlnWXlQOUhzS3Y3UXhnYlZ1TEtyeExPOS1WWlhkQTEzRTJ4UlFsZmQ3b3R3RkszbkY1ZlZMNk5sQng4QXRuTng0YVp1OWl3ZEZQd0h5ZV9zd2xvYWpieElBd0tsbTJPV2JEWTMwVWtvdkZrWm1UNHNkaEpMQWo5clFiWnJ2d1lxSkZJU2FwMVhzN1YzVkdCTDhuU2dZbDZ5OXd0OWZXNXdtb2FWaUppV2tqT0VpR0NXOEhaNnkzZ25RRjVfcjExMUZ4Z25yWUE?oc=5",
+        "date": "2026-02-19",
+        "title": "Deadly landslides in U\u2019khand Himalayas which killed1,516 over 150 yrs show \u201867% happened since 2000\u2019 - The Times of India",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAJBVV95cUxQTGs2Zk9wTjBKeUszWHM2X0lXNVAzQUYwOFp6WE9Sci0ybGVEUFdsOTdZV1NEbnM5c2lSU2Q5ZEV6TVVaZ1RLMENCa3F1Z09yVHZNX3NNRTlLVWZCQ0U3X1ZveUFXRUpwNENRQkhZRFZjODZ5SHhndzdPckJnOVN0MjZlRjBsdVlZYXZRQzFuam9qcDI1ZG9nc21TUjZDNFFrbjUzREhhdDBBRTE1Q0pZNkNCbWdIRHlVWjF3UzFTTko4cW5VbmNYVlctYzZxR2RMeG5CSUNXMHpTckRHNWVOTWRycjRqWkpCeGkyQUdoclNWVHRSNjZveXMxWlFlQ2Rj0gGGAkFVX3lxTFBwYzRPSVM2S1lCVlRYWXdmci1aY2dVTEdWTHNZZTFKeTh3NkkwMW4tbEFGOWFwZzQxTENMUmxQOVlnWXlQOUhzS3Y3UXhnYlZ1TEtyeExPOS1WWlhkQTEzRTJ4UlFsZmQ3b3R3RkszbkY1ZlZMNk5sQng4QXRuTng0YVp1OWl3ZEZQd0h5ZV9zd2xvYWpieElBd0tsbTJPV2JEWTMwVWtvdkZrWm1UNHNkaEpMQWo5clFiWnJ2d1lxSkZJU2FwMVhzN1YzVkdCTDhuU2dZbDZ5OXd0OWZXNXdtb2FWaUppV2tqT0VpR0NXOEhaNnkzZ25RRjVfcjExMUZ4Z25yWUE?oc=5\" target=\"_blank\">Deadly landslides in U\u2019khand Himalayas which killed1,516 over 150 yrs show \u201867% happened since 2000\u2019</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of India</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
     }
 ]
