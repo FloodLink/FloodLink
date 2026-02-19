@@ -11004,5 +11004,14 @@
         "score": 6,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-02-19",
+        "status": "posted",
+        "tweet": "From 2020 to 2050, chronic coastal flooding from sea-level rise is projected to expose 68M people globally to monthly risks\u2014tripling to 189M, driven by intensified storm surge and extreme rainfall.",
+        "type": "statistical",
+        "category": "coastal cities at risk from sea-level rise and storm surge",
+        "tweet_id": "2024431135024107630"
     }
 ]
