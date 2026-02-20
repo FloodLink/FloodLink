@@ -11068,5 +11068,42 @@
         "score": 7,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOQU1hcVF3eFF6VndBSVE4WlpPYWltWjlVWXhjdlU2b013cW9YY2dTR1VkaHFLeHF2MHBWWmEybTVzREZDUEZya0swQi1xaGk2MV8xYXpIcXhsU20xbTYxN1FrZk9KVWNibjl5RkJyMlJmcXBwNEJSQ0FDbGVqSUdhMEYxQ00zVVFYVjRfN1ltNHZqTFlRS0h4ejdhTU5SbGJvSS1ZVmxPeEN0ejZyUXdyNi1paDMxNnNQYklPNDg5cFhRdFp5UGxTN3kxZ1J5MUVzT19pckQ2QVYybENmYmdv?oc=5",
+        "date": "2026-02-20",
+        "title": "7 DEAD IN DAVAO ORIENTAL, DAVAO DE ORO LANDSLIDES Seven people were reported dead following separate landslides in Davao Oriental and Davao de Oro amid continuous rains caused by the shearline. In Barangay Salazar, Mati City, four member - facebook.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxOQU1hcVF3eFF6VndBSVE4WlpPYWltWjlVWXhjdlU2b013cW9YY2dTR1VkaHFLeHF2MHBWWmEybTVzREZDUEZya0swQi1xaGk2MV8xYXpIcXhsU20xbTYxN1FrZk9KVWNibjl5RkJyMlJmcXBwNEJSQ0FDbGVqSUdhMEYxQ00zVVFYVjRfN1ltNHZqTFlRS0h4ejdhTU5SbGJvSS1ZVmxPeEN0ejZyUXdyNi1paDMxNnNQYklPNDg5cFhRdFp5UGxTN3kxZ1J5MUVzT19pckQ2QVYybENmYmdv?oc=5\" target=\"_blank\">7 DEAD IN DAVAO ORIENTAL, DAVAO DE ORO LANDSLIDES Seven people were reported dead following separate landslides in Davao Oriental and Davao de Oro amid continuous rains caused by the shearline. In Barangay Salazar, Mati City, four member</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">facebook.com</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": null,
+        "tweet_id": "2024750579910599008",
+        "geo": {
+            "country": "Philippines",
+            "name": "Mati City",
+            "latitude": 6.9486,
+            "longitude": 126.2425,
+            "confidence": 0.95
+        }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOQU1hcVF3eFF6VndBSVE4WlpPYWltWjlVWXhjdlU2b013cW9YY2dTR1VkaHFLeHF2MHBWWmEybTVzREZDUEZya0swQi1xaGk2MV8xYXpIcXhsU20xbTYxN1FrZk9KVWNibjl5RkJyMlJmcXBwNEJSQ0FDbGVqSUdhMEYxQ00zVVFYVjRfN1ltNHZqTFlRS0h4ejdhTU5SbGJvSS1ZVmxPeEN0ejZyUXdyNi1paDMxNnNQYklPNDg5cFhRdFp5UGxTN3kxZ1J5MUVzT19pckQ2QVYybENmYmdv?oc=5",
+        "date": "2026-02-20",
+        "title": "7 DEAD IN DAVAO ORIENTAL, DAVAO DE ORO LANDSLIDES Seven people were reported dead following separate landslides in Davao Oriental and Davao de Oro amid continuous rains caused by the shearline. In Barangay Salazar, Mati City, four member - facebook.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxOQU1hcVF3eFF6VndBSVE4WlpPYWltWjlVWXhjdlU2b013cW9YY2dTR1VkaHFLeHF2MHBWWmEybTVzREZDUEZya0swQi1xaGk2MV8xYXpIcXhsU20xbTYxN1FrZk9KVWNibjl5RkJyMlJmcXBwNEJSQ0FDbGVqSUdhMEYxQ00zVVFYVjRfN1ltNHZqTFlRS0h4ejdhTU5SbGJvSS1ZVmxPeEN0ejZyUXdyNi1paDMxNnNQYklPNDg5cFhRdFp5UGxTN3kxZ1J5MUVzT19pckQ2QVYybENmYmdv?oc=5\" target=\"_blank\">7 DEAD IN DAVAO ORIENTAL, DAVAO DE ORO LANDSLIDES Seven people were reported dead following separate landslides in Davao Oriental and Davao de Oro amid continuous rains caused by the shearline. In Barangay Salazar, Mati City, four member</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">facebook.com</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "posted",
+        "tweet": "\ud83c\uddf5\ud83c\udded POST-EVENT Davao Oriental & Davao de Oro: 7 dead in separate landslides from continuous rains caused by shearline. (facebook.com)",
+        "type": "news",
+        "tweet_id": "2024750579910599008",
+        "geo": {
+            "country": "Philippines",
+            "name": "Mati City",
+            "latitude": 6.9486,
+            "longitude": 126.2425,
+            "confidence": 0.95
+        }
     }
 ]
