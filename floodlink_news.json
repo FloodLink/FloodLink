@@ -11105,5 +11105,14 @@
             "longitude": 126.2425,
             "confidence": 0.95
         }
+    },
+    {
+        "link": null,
+        "date": "2026-02-20",
+        "status": "posted",
+        "tweet": "Rising extreme rainfall events in major cities: projected % increase in flood-exposed populations by 2030 (based on 2020-2026 trends).\n\n\ud83c\uddfa\ud83c\uddf8 Miami: 45%  \n\ud83c\uddee\ud83c\uddf3 Mumbai: 38%  \n\ud83c\udde8\ud83c\uddf3 Shanghai: 32%  \n\ud83c\udde7\ud83c\uddf7 Rio de Janeiro: 28%  \n\ud83c\uddf3\ud83c\uddf1 Amsterdam: 25%",
+        "type": "statistical",
+        "category": "extreme rainfall trends in major cities",
+        "tweet_id": "2024762405473980810"
     }
 ]
