@@ -11430,5 +11430,25 @@
         "score": 7,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE12V00tLXhqcHhnQ09Xek9lMXdWa0FuQl9OZ1A4RjRYWFVEaFl5cDg4LVg2VDA2VkZMYlFkSHQzMDdEOFNKOW90TFFvSFZfM3h6ekkwaFJR?oc=5",
+        "date": "2026-02-20",
+        "title": "Flood warning in effect for parts of Armstrong County - TribLIVE.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE12V00tLXhqcHhnQ09Xek9lMXdWa0FuQl9OZ1A4RjRYWFVEaFl5cDg4LVg2VDA2VkZMYlFkSHQzMDdEOFNKOW90TFFvSFZfM3h6ekkwaFJR?oc=5\" target=\"_blank\">Flood warning in effect for parts of Armstrong County</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TribLIVE.com</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNRVdZdnIxZ3hpS3g1Wm9kQVdoZzBXOUdCMjJOczU3QTZSNjRmVnAxV3RRQzdmakN3ZjZFUnhCelNXWEtNZWxfQXVqdE9PaTg0eUNJcUI2c203SHM5R1o5TktwMkpTZnpuN2RYNkZaOVNRa01vbDJjTGc3QVFVT1lqc2lPeXhoemNGY1RXNDBJbEVzV3pjRjItM3J5Yk1XZ0ZUQnM3M1BrM1NuVC1RSEkwTVVpVVNtUEhhY3J2RHphZUtIaC00WFU0bWJoOVl3S2xzY2RRcWNmUjIyZVZiYXRJ?oc=5",
+        "date": "2026-02-20",
+        "title": "Queenslanders have been issued with several severe flood warnings as heavy rain continues to soak the state this weekend. - facebook.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxNRVdZdnIxZ3hpS3g1Wm9kQVdoZzBXOUdCMjJOczU3QTZSNjRmVnAxV3RRQzdmakN3ZjZFUnhCelNXWEtNZWxfQXVqdE9PaTg0eUNJcUI2c203SHM5R1o5TktwMkpTZnpuN2RYNkZaOVNRa01vbDJjTGc3QVFVT1lqc2lPeXhoemNGY1RXNDBJbEVzV3pjRjItM3J5Yk1XZ0ZUQnM3M1BrM1NuVC1RSEkwTVVpVVNtUEhhY3J2RHphZUtIaC00WFU0bWJoOVl3S2xzY2RRcWNmUjIyZVZiYXRJ?oc=5\" target=\"_blank\">Queenslanders have been issued with several severe flood warnings as heavy rain continues to soak the state this weekend.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">facebook.com</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": null
     }
 ]
