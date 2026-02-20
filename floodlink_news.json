@@ -11410,5 +11410,25 @@
         "score": 0,
         "status": "skipped",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNSUZLdWlWWG5HV1hGaGRlNzFQS1puOFBUOTJpNkMzTnBoZ3d4TWRtQ1dOMHpFaWh0MXpuby1sclVhMURNWGM4TDhUWUxUODhLTXAzRlNKMWw2eUNzbjVhd1M3U3BhMzVQNnBNdlJOZl9QNEtOZ0lkOHRFM1RkbjZLbWJjMzJnOWRMN3VSRENHTGVQSlgwMWg3dmZaWk50S01rR1dTeFZPVFNLMkdDdWROekNoNHlVUGZaR1QtYkE0alNxNkk5?oc=5",
+        "date": "2026-02-20",
+        "title": "Flood advisory in place for Allegheny County until Sunday morning - LehighValleyLive.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxNSUZLdWlWWG5HV1hGaGRlNzFQS1puOFBUOTJpNkMzTnBoZ3d4TWRtQ1dOMHpFaWh0MXpuby1sclVhMURNWGM4TDhUWUxUODhLTXAzRlNKMWw2eUNzbjVhd1M3U3BhMzVQNnBNdlJOZl9QNEtOZ0lkOHRFM1RkbjZLbWJjMzJnOWRMN3VSRENHTGVQSlgwMWg3dmZaWk50S01rR1dTeFZPVFNLMkdDdWROekNoNHlVUGZaR1QtYkE0alNxNkk5?oc=5\" target=\"_blank\">Flood advisory in place for Allegheny County until Sunday morning</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">LehighValleyLive.com</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPamxKbnVERkYydU44Mk1YUHQxWDRLeHhtQVNwRl9Gb0pQZjh4ZmwyQjFjd25mMFN3REtvNjNFYS1EaEtobXo4cFZVX29YVVB0aHJLcVhKSUVZQ3RUanJVU09XWF9QTkZxYWdvUWN6X3kyalJ6eUNwZ19UR0ZOekhGaEtOU3ZYT1BIVXprZ2lJMjlBaVZ1UVlZaGNjWnpfRGNOVEJwbmxzUm9NUGlYSFAwZWpMRHNBV3J1b1E?oc=5",
+        "date": "2026-02-20",
+        "title": "Flood advisory in place for Allegheny County until Sunday morning - PennLive.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPamxKbnVERkYydU44Mk1YUHQxWDRLeHhtQVNwRl9Gb0pQZjh4ZmwyQjFjd25mMFN3REtvNjNFYS1EaEtobXo4cFZVX29YVVB0aHJLcVhKSUVZQ3RUanJVU09XWF9QTkZxYWdvUWN6X3kyalJ6eUNwZ19UR0ZOekhGaEtOU3ZYT1BIVXprZ2lJMjlBaVZ1UVlZaGNjWnpfRGNOVEJwbmxzUm9NUGlYSFAwZWpMRHNBV3J1b1E?oc=5\" target=\"_blank\">Flood advisory in place for Allegheny County until Sunday morning</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PennLive.com</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
     }
 ]
