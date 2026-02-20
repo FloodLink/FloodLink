@@ -11240,5 +11240,85 @@
             "longitude": null,
             "confidence": 0.9
         }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNSWRvS1VEM1lwU1RjZHd0WWhxUFBiVG50cThxZnRmanRnMVJSWldjaXlZM1Q1Yk5hQklVRjg2NHRCNDVzNWQ5azI2NldZTks1QzRNenJROEVVcmxuUUJYckhGNG1yVjBFZWhUOHBOM29XUDFMdGRuTEZGTWpyUUZBUVFR?oc=5",
+        "date": "2026-02-20",
+        "title": "Flash Flood Warning issued in Western Pennsylvania due to dangerous ice jams - WTAE",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxNSWRvS1VEM1lwU1RjZHd0WWhxUFBiVG50cThxZnRmanRnMVJSWldjaXlZM1Q1Yk5hQklVRjg2NHRCNDVzNWQ5azI2NldZTks1QzRNenJROEVVcmxuUUJYckhGNG1yVjBFZWhUOHBOM29XUDFMdGRuTEZGTWpyUUZBUVFR?oc=5\" target=\"_blank\">Flash Flood Warning issued in Western Pennsylvania due to dangerous ice jams</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WTAE</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPbGxJTkk4MEREdTBoMnE2UUFncGhRZHRhdzJqYi1PcGlJa2haX1BpenFHQktnS0k1WGs1Y0pJWmV5WUxndnRSTGx2Tk9Va295all4Um5CNk5saEJQems2NU1HYmFKOU0yeWg5ZW1IMGxhRzNacU1qTmQ0REJaTGFkTllybUN2T0hqcHZvODg5NWNpemNQcHZfanp6OEdGcEhWNkdQenJhYkFIUGNqTF85cUkyY3RsRXdsUWsyTGZ4R1BMNDVBZ0hF?oc=5",
+        "date": "2026-02-20",
+        "title": "Flash flood warning issued north of Pittsburgh as 'potentially dangerous' ice jam snarls Allegheny River - Pittsburgh Post-Gazette",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxPbGxJTkk4MEREdTBoMnE2UUFncGhRZHRhdzJqYi1PcGlJa2haX1BpenFHQktnS0k1WGs1Y0pJWmV5WUxndnRSTGx2Tk9Va295all4Um5CNk5saEJQems2NU1HYmFKOU0yeWg5ZW1IMGxhRzNacU1qTmQ0REJaTGFkTllybUN2T0hqcHZvODg5NWNpemNQcHZfanp6OEdGcEhWNkdQenJhYkFIUGNqTF85cUkyY3RsRXdsUWsyTGZ4R1BMNDVBZ0hF?oc=5\" target=\"_blank\">Flash flood warning issued north of Pittsburgh as 'potentially dangerous' ice jam snarls Allegheny River</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Pittsburgh Post-Gazette</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPM2xvSGladjJGTmZ3RV9jd01IRTg4ZWx4d2M1U1lSQmIzSW5ZSFJZckpPSmJ5VmRKNVdjNk9HaVl5NjcySTRjSERvcXE3eFVfcTFrRlJUcUtwamZ4elVfVVBJQ04tVThUTTFNbG4wblUxNGxCOUx6UHJuRjlUU2RpX2dUekNkcU0wUWMwX3plbldrREswRGlFaUhkMGxNS1JHeDc1Q0JtdTdQUjJBME8tLThrSDhVTTRRNmw4RVR3ZjRSbU94YkRINTJrSDE?oc=5",
+        "date": "2026-02-20",
+        "title": "Flash flood warning issued for part of Pennsylvania until Friday midday - lehighvalleylive",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxPM2xvSGladjJGTmZ3RV9jd01IRTg4ZWx4d2M1U1lSQmIzSW5ZSFJZckpPSmJ5VmRKNVdjNk9HaVl5NjcySTRjSERvcXE3eFVfcTFrRlJUcUtwamZ4elVfVVBJQ04tVThUTTFNbG4wblUxNGxCOUx6UHJuRjlUU2RpX2dUekNkcU0wUWMwX3plbldrREswRGlFaUhkMGxNS1JHeDc1Q0JtdTdQUjJBME8tLThrSDhVTTRRNmw4RVR3ZjRSbU94YkRINTJrSDE?oc=5\" target=\"_blank\">Flash flood warning issued for part of Pennsylvania until Friday midday</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">lehighvalleylive</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPaTNLVjhaSE1wOHBJOW03R2w4aFY4V2pGUUdtQVVhVU1PekhOdXdUTXJJQ0lDZ1RQb0lfaHB1SEZqTFNLVVpYX0E1QXNzdzdlb1RLRzdOazNraGJ3WUJ3ckR6VjFMVWZYWXdGdEZyeDdLMzN2ZHlQRXk0WVp3OWtVLXd4dVVOTDRhVUx0UDA0TXZRWmZwdkRBMURLNFVKWExfM0ptWlZST0oxczR4aWx2VmNsOA?oc=5",
+        "date": "2026-02-20",
+        "title": "Flood watch issued for Kaua\u02bbi and Ni\u02bbihau through Saturday morning - Kauai Now",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPaTNLVjhaSE1wOHBJOW03R2w4aFY4V2pGUUdtQVVhVU1PekhOdXdUTXJJQ0lDZ1RQb0lfaHB1SEZqTFNLVVpYX0E1QXNzdzdlb1RLRzdOazNraGJ3WUJ3ckR6VjFMVWZYWXdGdEZyeDdLMzN2ZHlQRXk0WVp3OWtVLXd4dVVOTDRhVUx0UDA0TXZRWmZwdkRBMURLNFVKWExfM0ptWlZST0oxczR4aWx2VmNsOA?oc=5\" target=\"_blank\">Flood watch issued for Kaua\u02bbi and Ni\u02bbihau through Saturday morning</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Kauai Now</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPTGR0WmlTeFJMRWYydlVSSm14YjgyS2JDc2ZPT01LSDFaeV8yZTBGdGhaMFg2alktQzdTblpDOGk3VUFEcHduSGI0dUdKa19OQjdfRlFKMFhQREpGTWdtY1g0OUVHbnZFWG85LW5aNElZWThmV3d5akUwU2J5MVZvT19sOHExWXFmSTVVRDhGQ2JfZnNiY1VfU3ViUmdOU3hGU2pxT1VPYmxpWkxLaTk1ZFFnV1hLd3dKTjBiMjZsdjg4WjVn?oc=5",
+        "date": "2026-02-20",
+        "title": "Flash flood warning in place for part of Pennsylvania until Friday midday - PennLive.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxPTGR0WmlTeFJMRWYydlVSSm14YjgyS2JDc2ZPT01LSDFaeV8yZTBGdGhaMFg2alktQzdTblpDOGk3VUFEcHduSGI0dUdKa19OQjdfRlFKMFhQREpGTWdtY1g0OUVHbnZFWG85LW5aNElZWThmV3d5akUwU2J5MVZvT19sOHExWXFmSTVVRDhGQ2JfZnNiY1VfU3ViUmdOU3hGU2pxT1VPYmxpWkxLaTk1ZFFnV1hLd3dKTjBiMjZsdjg4WjVn?oc=5\" target=\"_blank\">Flash flood warning in place for part of Pennsylvania until Friday midday</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PennLive.com</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxObFRSRm05NzlTTFFjQnVzXzQ5a19teE0xb2ZpcGsyN0xKRmdqb1VDcEFyWktWbldVWHc1NXhpMzUzQXNqMWkxclVtUVhfN2hlRndRTkNzN1BsWkRMTHo5d21sTlpBN2NNY3BWdDlPWW9zaFVjYUpfQmFET2Mzd2tuLUc2UQ?oc=5",
+        "date": "2026-02-20",
+        "title": "Multiple Pittsburgh-area counties under flood watch as ice jams and rain cause concern - CBS News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxObFRSRm05NzlTTFFjQnVzXzQ5a19teE0xb2ZpcGsyN0xKRmdqb1VDcEFyWktWbldVWHc1NXhpMzUzQXNqMWkxclVtUVhfN2hlRndRTkNzN1BsWkRMTHo5d21sTlpBN2NNY3BWdDlPWW9zaFVjYUpfQmFET2Mzd2tuLUc2UQ?oc=5\" target=\"_blank\">Multiple Pittsburgh-area counties under flood watch as ice jams and rain cause concern</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CBS News</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPT0hZcHZ0dnVsN1RTcW1ZMzJwd0d2WVd5OTJmRW9xb0xQVUdObDlwQ3VOcnFGRExWbHgyMnUyeHBuLW1EOUlPUzI2VDRIRENDNUc4T1lkV2piVndDdk44Q2F4SHhER0hzeTV6OXhETWdVNm1yU0JTTk5ndHFYOHNVYzJscFViVjVWTzJvQzlyd3dZSVVUVG9MdzNTQWk2dDhRMFA0ZjR0THpLT3pSNEpNYjZDZXFFR2NHZXduOGR4SlZpdElLbTh1ZVJzNGNrR0lNS0x1YXlIWmkzNGJPUnF3?oc=5",
+        "date": "2026-02-20",
+        "title": "AT LEAST seven people died in landslides as heavy rain from a shear line pummeled Davao Region on Friday, February 20, 2026, forcing widespread class suspensions, evacuations, and emergency responses, disaster officials said. - facebook.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxPT0hZcHZ0dnVsN1RTcW1ZMzJwd0d2WVd5OTJmRW9xb0xQVUdObDlwQ3VOcnFGRExWbHgyMnUyeHBuLW1EOUlPUzI2VDRIRENDNUc4T1lkV2piVndDdk44Q2F4SHhER0hzeTV6OXhETWdVNm1yU0JTTk5ndHFYOHNVYzJscFViVjVWTzJvQzlyd3dZSVVUVG9MdzNTQWk2dDhRMFA0ZjR0THpLT3pSNEpNYjZDZXFFR2NHZXduOGR4SlZpdElLbTh1ZVJzNGNrR0lNS0x1YXlIWmkzNGJPUnF3?oc=5\" target=\"_blank\">AT LEAST seven people died in landslides as heavy rain from a shear line pummeled Davao Region on Friday, February 20, 2026, forcing widespread class suspensions, evacuations, and emergency responses, disaster officials said.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">facebook.com</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNWURKVHpPNE9CY3BNVHR0QTZETDNwc2VfcG5OV3JmMGVkYkRxY1hqdUtkU2ROSlBEMHNHRzMwemZBcHAyMHg0UXJMNWRtQWdWRXhUY2MzLWNDSGVGRFNsT0NXZElVa240ZXRRQXlCOVpPcHlNNW5TeVBLYVdXaFhaRm15YUwtandkRnVGb3VxRmo?oc=5",
+        "date": "2026-02-20",
+        "title": "Landslides kill 7 in S. Philippines amid heavy rains - Az\u0259rtac",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNWURKVHpPNE9CY3BNVHR0QTZETDNwc2VfcG5OV3JmMGVkYkRxY1hqdUtkU2ROSlBEMHNHRzMwemZBcHAyMHg0UXJMNWRtQWdWRXhUY2MzLWNDSGVGRFNsT0NXZElVa240ZXRRQXlCOVpPcHlNNW5TeVBLYVdXaFhaRm15YUwtandkRnVGb3VxRmo?oc=5\" target=\"_blank\">Landslides kill 7 in S. Philippines amid heavy rains</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Az\u0259rtac</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
     }
 ]
