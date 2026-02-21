@@ -11604,5 +11604,14 @@
         "score": 0,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-02-21",
+        "status": "posted",
+        "tweet": "By 2030, extreme rainfall could double flood risks for 1.8 billion people globally, making dams, levees & reservoirs essential for control\u2014yet only 40% of at-risk areas are protected.",
+        "type": "statistical",
+        "category": "dams, levees and reservoirs used for flood control",
+        "tweet_id": "2025338445342671225"
     }
 ]
