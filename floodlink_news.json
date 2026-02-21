@@ -11485,5 +11485,14 @@
         "score": 8,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-02-21",
+        "status": "posted",
+        "tweet": "\ud83c\udde6\ud83c\uddf8 vs \ud83c\uddea\ud83c\uddfa: 2020-2023 flood fatalities totaled 12,000 in Asia (flash floods & extreme rainfall dominant) vs 800 in Europe.  \nBy 2025, Asia's toll surged 25% to 15,000 amid climate trends, while Europe's held steady at ~1,000.  \nGlobal projection: 20% rise by 2026.",
+        "type": "statistical",
+        "category": "global flood fatalities and trends",
+        "tweet_id": "2025314684161982551"
     }
 ]
