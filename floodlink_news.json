@@ -11295,5 +11295,25 @@
             "longitude": 153.0251,
             "confidence": 0.9
         }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPb1RUT2ZsZTlPZU41OEFLVmU4Uy1lcHdpbDV3LTVHV1lJVGMwOVJRR29nLVo4SUtzR1c1RkdtNWZOMW5nU0Z4Y0V2aGp1UWpMWHduTUlsX3liMjVvNWVKd1BWcW1zVU9sVEEycDBlQWplZTJhOUZ6elNfWEJSLWdJRDVDbXZGQWhRTUNPdG5KRzd1UjNSWUd0X3lpRVhYZXRyUHpOTkhrYXJJYUNLQUJVSDYyaw?oc=5",
+        "date": "2026-02-21",
+        "title": "UPDATE: K\u016bhi\u014d Highway near Hanalei Bridge closed because of flooding - Kauai Now",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPb1RUT2ZsZTlPZU41OEFLVmU4Uy1lcHdpbDV3LTVHV1lJVGMwOVJRR29nLVo4SUtzR1c1RkdtNWZOMW5nU0Z4Y0V2aGp1UWpMWHduTUlsX3liMjVvNWVKd1BWcW1zVU9sVEEycDBlQWplZTJhOUZ6elNfWEJSLWdJRDVDbXZGQWhRTUNPdG5KRzd1UjNSWUd0X3lpRVhYZXRyUHpOTkhrYXJJYUNLQUJVSDYyaw?oc=5\" target=\"_blank\">UPDATE: K\u016bhi\u014d Highway near Hanalei Bridge closed because of flooding</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Kauai Now</font>",
+        "similarity_excluded": "No",
+        "score": 6,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1KMjZGLUJyZHgtZlEwcU9MdmhVZjh5UkZyVW5vS2dwQVh2dVVBV2NlQlBUM3VwYVhTSHB3amFzbDI1dDV3LWRiUXNjX3ZHbGt0Tk1Ud1dmSWQyTlQxNDlHOHVzTFd1azVnNU1XLUQ1aVYzRS13X09pVGRB?oc=5",
+        "date": "2026-02-21",
+        "title": "Man swept away by river Loire as floods hit France - AOL.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE1KMjZGLUJyZHgtZlEwcU9MdmhVZjh5UkZyVW5vS2dwQVh2dVVBV2NlQlBUM3VwYVhTSHB3amFzbDI1dDV3LWRiUXNjX3ZHbGt0Tk1Ud1dmSWQyTlQxNDlHOHVzTFd1azVnNU1XLUQ1aVYzRS13X09pVGRB?oc=5\" target=\"_blank\">Man swept away by river Loire as floods hit France</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AOL.com</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
     }
 ]
