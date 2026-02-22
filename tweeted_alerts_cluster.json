@@ -4689,7 +4689,7 @@
     "rain_mm": 36.56,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 6.993,
-    "last_updated": "2026-02-03T12:44:15.833778Z",
+    "last_updated": "2026-02-22T12:37:10.446743Z",
     "last_tweeted_at": "2026-02-03T09:37:36.679670Z",
     "tweet_id": "2018620410858819828",
     "resolved": false
@@ -7316,7 +7316,7 @@
     "rain_mm": 42.44,
     "soil_moisture": 0.641,
     "raw_dynamic_score": 6.741,
-    "last_updated": "2026-02-22T06:42:47.441877Z",
+    "last_updated": "2026-02-22T12:37:10.446743Z",
     "last_tweeted_at": "2026-02-17T09:45:22.628115Z",
     "tweet_id": "2023695291900104745",
     "resolved": false
@@ -8562,6 +8562,36 @@
     "last_updated": "2026-02-22T09:28:29.299490Z",
     "last_tweeted_at": "2026-02-22T09:28:29.299490Z",
     "tweet_id": "2025502993169125527",
+    "resolved": false
+  },
+  "-13.1167,-60.5417": {
+    "country": "Brazil",
+    "name": "Colorado do Oeste",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": -13.11667,
+    "longitude": -60.54167,
+    "rain_mm": 45.38,
+    "soil_moisture": 0.589,
+    "raw_dynamic_score": 6.994,
+    "last_updated": "2026-02-22T12:37:10.446743Z",
+    "last_tweeted_at": "2026-02-22T12:37:10.446743Z",
+    "tweet_id": "2025550474045264344",
+    "resolved": false
+  },
+  "6.7713,-76.1332": {
+    "country": "Colombia",
+    "name": "Frontino",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 6.77133,
+    "longitude": -76.13324,
+    "rain_mm": 41.44,
+    "soil_moisture": 0.697,
+    "raw_dynamic_score": 6.79,
+    "last_updated": "2026-02-22T12:37:10.446743Z",
+    "last_tweeted_at": "2026-02-22T12:37:10.446743Z",
+    "tweet_id": "2025550726504534034",
     "resolved": false
   }
 }
