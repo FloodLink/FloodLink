@@ -4689,7 +4689,7 @@
     "rain_mm": 36.56,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 6.993,
-    "last_updated": "2026-02-22T12:37:10.446743Z",
+    "last_updated": "2026-02-22T21:22:25.887891Z",
     "last_tweeted_at": "2026-02-03T09:37:36.679670Z",
     "tweet_id": "2018620410858819828",
     "resolved": false
@@ -5936,7 +5936,7 @@
     "rain_mm": 62.0,
     "soil_moisture": 0.722,
     "raw_dynamic_score": 10.302,
-    "last_updated": "2026-02-22T15:24:34.268752Z",
+    "last_updated": "2026-02-22T21:22:25.887891Z",
     "last_tweeted_at": "2026-02-14T12:34:52.679670Z",
     "tweet_id": "2022650796182245458",
     "resolved": false
@@ -6491,7 +6491,7 @@
     "rain_mm": 34.12,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 6.526,
-    "last_updated": "2026-02-22T15:24:34.268752Z",
+    "last_updated": "2026-02-22T21:22:25.887891Z",
     "last_tweeted_at": "2026-02-13T01:31:02.257633Z",
     "tweet_id": "2022122093232423245",
     "resolved": false
@@ -8592,6 +8592,51 @@
     "last_updated": "2026-02-22T15:24:34.268752Z",
     "last_tweeted_at": "2026-02-22T12:37:10.446743Z",
     "tweet_id": "2025550726504534034",
+    "resolved": false
+  },
+  "-0.4819,15.8999": {
+    "country": "Congo",
+    "name": "Owando",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": -0.48193,
+    "longitude": 15.89988,
+    "rain_mm": 65.75,
+    "soil_moisture": 0.629,
+    "raw_dynamic_score": 10.371,
+    "last_updated": "2026-02-22T21:22:25.887891Z",
+    "last_tweeted_at": "2026-02-22T21:22:25.887891Z",
+    "tweet_id": "2025682660992204954",
+    "resolved": false
+  },
+  "-3.6802,-79.6817": {
+    "country": "Ecuador",
+    "name": "Piñas",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": -3.68017,
+    "longitude": -79.68169,
+    "rain_mm": 46.81,
+    "soil_moisture": 0.699,
+    "raw_dynamic_score": 7.681,
+    "last_updated": "2026-02-22T21:22:25.887891Z",
+    "last_tweeted_at": "2026-02-22T21:22:25.887891Z",
+    "tweet_id": "2025682913397010480",
+    "resolved": false
+  },
+  "-2.2781,37.8187": {
+    "country": "Kenya",
+    "name": "Makindu",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": -2.27808,
+    "longitude": 37.81867,
+    "rain_mm": 51.5,
+    "soil_moisture": 0.626,
+    "raw_dynamic_score": 8.112,
+    "last_updated": "2026-02-22T21:22:25.887891Z",
+    "last_tweeted_at": "2026-02-22T21:22:25.887891Z",
+    "tweet_id": "2025683165675970822",
     "resolved": false
   }
 }
