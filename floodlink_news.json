@@ -11639,5 +11639,25 @@
         "score": 0,
         "status": "skipped",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQVkFUaExCa3pvd01vNkdFZTlFNW5GZHFUdjhHYjhTekU0Z0F2RlBWU1J0UDJmSWZac1hoTEt3bFpIQzVoTkNBTVlhcHFJaENNR1ppc1ltT1FscWR3LUZNSVhOVDVobkNmVzNscUFvTEp2amRaWnRNcjlDWGNHX3VWdnlqSEpGOWRCdldKaUducDVabXZMSHpkMy15Z2RwMW9CMzB4WnlKLURUSHFERXN4cUtHU0g4aWw4VWQ1b1RaZDZRZHdsTENuNnZmYw?oc=5",
+        "date": "2026-02-22",
+        "title": "NY weather: Flood advisory issued for part of New York until early Monday morning - SILive.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxQVkFUaExCa3pvd01vNkdFZTlFNW5GZHFUdjhHYjhTekU0Z0F2RlBWU1J0UDJmSWZac1hoTEt3bFpIQzVoTkNBTVlhcHFJaENNR1ppc1ltT1FscWR3LUZNSVhOVDVobkNmVzNscUFvTEp2amRaWnRNcjlDWGNHX3VWdnlqSEpGOWRCdldKaUducDVabXZMSHpkMy15Z2RwMW9CMzB4WnlKLURUSHFERXN4cUtHU0g4aWw4VWQ1b1RaZDZRZHdsTENuNnZmYw?oc=5\" target=\"_blank\">NY weather: Flood advisory issued for part of New York until early Monday morning</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SILive.com</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZlpJMlhKd2VFeFJoU01jXzdKaVY5QzNhZnlKSm8zejNPSk1faDJ3X2ZvVG5fREpHY0o4MHAyQTZpWEVuRi02RGdySTh2T2F6UjdzaEIxS2tTT2dLTFpYUU9PdkQyeS1meVMwR0xhTTY1d3VWcVVsQzRjcENYT3V4NmU2UlVQdUpYdFZXSVZIaTE2czd0WWdDa0ZLcDRBeHhNcEZDRnF0bHNQNk9BSU1YLWhVZjVESTdmZFE?oc=5",
+        "date": "2026-02-22",
+        "title": "Flood advisory affecting Hudson Valley until early Monday morning - Syracuse.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxOZlpJMlhKd2VFeFJoU01jXzdKaVY5QzNhZnlKSm8zejNPSk1faDJ3X2ZvVG5fREpHY0o4MHAyQTZpWEVuRi02RGdySTh2T2F6UjdzaEIxS2tTT2dLTFpYUU9PdkQyeS1meVMwR0xhTTY1d3VWcVVsQzRjcENYT3V4NmU2UlVQdUpYdFZXSVZIaTE2czd0WWdDa0ZLcDRBeHhNcEZDRnF0bHNQNk9BSU1YLWhVZjVESTdmZFE?oc=5\" target=\"_blank\">Flood advisory affecting Hudson Valley until early Monday morning</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Syracuse.com</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
     }
 ]
