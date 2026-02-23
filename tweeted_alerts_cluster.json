@@ -7974,7 +7974,7 @@
     "rain_mm": 33.25,
     "soil_moisture": 0.728,
     "raw_dynamic_score": 5.542,
-    "last_updated": "2026-02-23T01:27:01.936151Z",
+    "last_updated": "2026-02-23T07:00:43.197534Z",
     "last_tweeted_at": "2026-02-23T01:27:01.936151Z",
     "tweet_id": "2025744466242417090",
     "resolved": true,
@@ -8568,10 +8568,14 @@
     "rain_mm": 74.0,
     "soil_moisture": 0.744,
     "raw_dynamic_score": 12.445,
-    "last_updated": "2026-02-23T04:58:50.974820Z",
+    "last_updated": "2026-02-23T07:00:43.197534Z",
     "last_tweeted_at": "2026-02-23T04:58:50.974820Z",
     "tweet_id": "2025797510929760552",
-    "resolved": false
+    "resolved": false,
+    "pending_downgrade": true,
+    "pending_target_level": "Low",
+    "pending_set_at": "2026-02-23T07:00:43.197534Z",
+    "pending_is_region": true
   },
   "-1.9607,-79.7257": {
     "country": "Ecuador",
@@ -8583,7 +8587,7 @@
     "rain_mm": 74.0,
     "soil_moisture": 0.744,
     "raw_dynamic_score": 12.445,
-    "last_updated": "2026-02-23T04:58:50.974820Z",
+    "last_updated": "2026-02-23T07:00:43.197534Z",
     "last_tweeted_at": "2026-02-23T04:58:50.974820Z",
     "tweet_id": "2025797510929760552",
     "resolved": false
@@ -8598,7 +8602,7 @@
     "rain_mm": 17.25,
     "soil_moisture": 0.719,
     "raw_dynamic_score": 2.862,
-    "last_updated": "2026-02-23T04:58:50.974820Z",
+    "last_updated": "2026-02-23T07:00:43.197534Z",
     "last_tweeted_at": "2026-02-23T04:58:50.974820Z",
     "tweet_id": "2025797510929760552",
     "resolved": true,
@@ -8614,7 +8618,7 @@
     "rain_mm": 47.81,
     "soil_moisture": 0.738,
     "raw_dynamic_score": 8.013,
-    "last_updated": "2026-02-23T04:58:50.974820Z",
+    "last_updated": "2026-02-23T07:00:43.197534Z",
     "last_tweeted_at": "2026-02-23T04:58:50.974820Z",
     "tweet_id": "2025797510929760552",
     "resolved": false
@@ -8629,7 +8633,7 @@
     "rain_mm": 28.88,
     "soil_moisture": 0.733,
     "raw_dynamic_score": 4.827,
-    "last_updated": "2026-02-23T04:58:50.974820Z",
+    "last_updated": "2026-02-23T07:00:43.197534Z",
     "last_tweeted_at": "2026-02-23T04:58:50.974820Z",
     "tweet_id": "2025797510929760552",
     "resolved": true,
@@ -8645,10 +8649,14 @@
     "rain_mm": 78.31,
     "soil_moisture": 0.71,
     "raw_dynamic_score": 12.926,
-    "last_updated": "2026-02-23T04:58:50.974820Z",
+    "last_updated": "2026-02-23T07:00:43.197534Z",
     "last_tweeted_at": "2026-02-23T01:27:01.936151Z",
     "tweet_id": "2025744466242417090",
-    "resolved": false
+    "resolved": false,
+    "pending_downgrade": true,
+    "pending_target_level": "Medium",
+    "pending_set_at": "2026-02-23T07:00:43.197534Z",
+    "pending_is_region": true
   },
   "-1.8049,-79.5249": {
     "country": "Ecuador",
@@ -8660,7 +8668,7 @@
     "rain_mm": 80.69,
     "soil_moisture": 0.724,
     "raw_dynamic_score": 13.423,
-    "last_updated": "2026-02-23T01:27:01.936151Z",
+    "last_updated": "2026-02-23T07:00:43.197534Z",
     "last_tweeted_at": "2026-02-23T01:27:01.936151Z",
     "tweet_id": "2025744466242417090",
     "resolved": false
@@ -8675,7 +8683,7 @@
     "rain_mm": 49.88,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 9.539,
-    "last_updated": "2026-02-23T01:27:01.936151Z",
+    "last_updated": "2026-02-23T07:00:43.197534Z",
     "last_tweeted_at": "2026-02-23T01:27:01.936151Z",
     "tweet_id": "2025744718949142930",
     "resolved": false
@@ -8690,7 +8698,7 @@
     "rain_mm": 58.88,
     "soil_moisture": 0.699,
     "raw_dynamic_score": 9.662,
-    "last_updated": "2026-02-23T04:58:50.974820Z",
+    "last_updated": "2026-02-23T07:00:43.197534Z",
     "last_tweeted_at": "2026-02-23T04:58:50.974820Z",
     "tweet_id": "2025797510929760552",
     "resolved": false
@@ -8705,7 +8713,7 @@
     "rain_mm": 58.88,
     "soil_moisture": 0.699,
     "raw_dynamic_score": 9.662,
-    "last_updated": "2026-02-23T04:58:50.974820Z",
+    "last_updated": "2026-02-23T07:00:43.197534Z",
     "last_tweeted_at": "2026-02-23T04:58:50.974820Z",
     "tweet_id": "2025797510929760552",
     "resolved": false
@@ -8720,7 +8728,7 @@
     "rain_mm": 60.75,
     "soil_moisture": 0.749,
     "raw_dynamic_score": 10.244,
-    "last_updated": "2026-02-23T04:58:50.974820Z",
+    "last_updated": "2026-02-23T07:00:43.197534Z",
     "last_tweeted_at": "2026-02-23T04:58:50.974820Z",
     "tweet_id": "2025797510929760552",
     "resolved": false
@@ -8735,7 +8743,7 @@
     "rain_mm": 64.19,
     "soil_moisture": 0.747,
     "raw_dynamic_score": 10.811,
-    "last_updated": "2026-02-23T04:58:50.974820Z",
+    "last_updated": "2026-02-23T07:00:43.197534Z",
     "last_tweeted_at": "2026-02-23T04:58:50.974820Z",
     "tweet_id": "2025797510929760552",
     "resolved": false
@@ -8765,7 +8773,7 @@
     "rain_mm": 60.31,
     "soil_moisture": 0.513,
     "raw_dynamic_score": 8.884,
-    "last_updated": "2026-02-23T04:58:50.974820Z",
+    "last_updated": "2026-02-23T07:00:43.197534Z",
     "last_tweeted_at": "2026-02-23T04:58:50.974820Z",
     "tweet_id": "2025798015861117369",
     "resolved": false
@@ -8783,6 +8791,21 @@
     "last_updated": "2026-02-23T04:58:50.974820Z",
     "last_tweeted_at": "2026-02-23T04:58:50.974820Z",
     "tweet_id": "2025798015861117369",
+    "resolved": false
+  },
+  "6.2248,124.7104": {
+    "country": "Philippines",
+    "name": "Lake Sebu",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 6.22482,
+    "longitude": 124.71042,
+    "rain_mm": 48.31,
+    "soil_moisture": 0.642,
+    "raw_dynamic_score": 7.679,
+    "last_updated": "2026-02-23T07:00:43.197534Z",
+    "last_tweeted_at": "2026-02-23T07:00:43.197534Z",
+    "tweet_id": "2025828188803187125",
     "resolved": false
   }
 }
