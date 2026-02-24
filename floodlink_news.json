@@ -11262,5 +11262,14 @@
         "tweet": "\ud83c\uddf3\ud83c\uddf1 The Netherlands' flood defense network spans 26,000 km of dikes and levees, protecting 9 million people\u201460% of the population\u2014from rising sea levels and river floods in 2026.",
         "type": "infrastructure",
         "tweet_id": "2026229987225870819"
+    },
+    {
+        "link": null,
+        "date": "2026-02-24",
+        "status": "posted",
+        "tweet": "By 2030, 2.6 billion people worldwide will live in river floodplains at risk from extreme rainfall and flash floods, up 44% from 2020 levels due to urbanization.",
+        "type": "statistical",
+        "category": "population living in floodplains",
+        "tweet_id": "2026244095245472077"
     }
 ]
