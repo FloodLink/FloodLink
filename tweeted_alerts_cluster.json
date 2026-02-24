@@ -7995,7 +7995,7 @@
     "rain_mm": 40.5,
     "soil_moisture": 0.733,
     "raw_dynamic_score": 6.768,
-    "last_updated": "2026-02-21T21:20:42.529898Z",
+    "last_updated": "2026-02-24T01:26:17.974222Z",
     "last_tweeted_at": "2026-02-21T01:21:57.257347Z",
     "tweet_id": "2025025937520169111",
     "resolved": false
@@ -8652,7 +8652,7 @@
     "rain_mm": 86.88,
     "soil_moisture": 0.741,
     "raw_dynamic_score": 14.581,
-    "last_updated": "2026-02-23T21:42:47.873580Z",
+    "last_updated": "2026-02-24T01:26:17.974222Z",
     "last_tweeted_at": "2026-02-23T21:42:47.873580Z",
     "tweet_id": "2026087945346642318",
     "resolved": false
@@ -8730,6 +8730,21 @@
     "last_updated": "2026-02-23T21:42:47.873580Z",
     "last_tweeted_at": "2026-02-23T21:42:47.873580Z",
     "tweet_id": "2026087945346642318",
+    "resolved": false
+  },
+  "-8.7449,116.8532": {
+    "country": "Indonesia",
+    "name": "Taliwang",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": -8.7449,
+    "longitude": 116.8532,
+    "rain_mm": 47.75,
+    "soil_moisture": 1.0,
+    "raw_dynamic_score": 9.132,
+    "last_updated": "2026-02-24T01:26:17.974222Z",
+    "last_tweeted_at": "2026-02-24T01:26:17.974222Z",
+    "tweet_id": "2026106416285831532",
     "resolved": false
   }
 }
