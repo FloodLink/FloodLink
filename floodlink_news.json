@@ -11410,5 +11410,52 @@
         "score": 0,
         "status": "skipped",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9iUjZUYW45bjVZdUtMUTcxQWM0TEdLdlNZc1Rka0M3V29lUFZNQ19QbXd4LU1kclF6anplUmlmTXZTSjdZbUZqeVhrVlpxSTFoV25jb2hkZUxzdzZSTHlEN21WRTJtT0ViT0diUl9mS0FSTGlzQ0FGVA?oc=5",
+        "date": "2026-02-24",
+        "title": "UPDATE: Flood warning issued for Humboldt County until Tuesday afternoon - San Luis Obispo Tribune",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE9iUjZUYW45bjVZdUtMUTcxQWM0TEdLdlNZc1Rka0M3V29lUFZNQ19QbXd4LU1kclF6anplUmlmTXZTSjdZbUZqeVhrVlpxSTFoV25jb2hkZUxzdzZSTHlEN21WRTJtT0ViT0diUl9mS0FSTGlzQ0FGVA?oc=5\" target=\"_blank\">UPDATE: Flood warning issued for Humboldt County until Tuesday afternoon</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">San Luis Obispo Tribune</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOQ3hkQzZLWjFqemdlSWZQbGxlbzdyNGFqdXpVYkRiaXJ0MG13eS1xWkJQU0hOT2YyYWN1TGpKdFRZQmFVRUg4MGM0cUV6cHU0MW5ZR1RtRGNVWmFqQXRKcmV4ZC0tYy0zX2tZUHZyanFfTFRoRlcyN3U4MmlwVUJhY0VJNlJ3YTlQMjk3YnZBdkhVaFNDWS1Ea0NvbS14bGNfVFhwc242b3BIbDNFN2d2ZS15T29BclJkUEZFSTc5d1FEdVps?oc=5",
+        "date": "2026-02-24",
+        "title": "At least 22 dead after record rainfall triggers floods and landslides in Minas Gerais, Brazil - The Watchers - Watching the world evolve and transform",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxOQ3hkQzZLWjFqemdlSWZQbGxlbzdyNGFqdXpVYkRiaXJ0MG13eS1xWkJQU0hOT2YyYWN1TGpKdFRZQmFVRUg4MGM0cUV6cHU0MW5ZR1RtRGNVWmFqQXRKcmV4ZC0tYy0zX2tZUHZyanFfTFRoRlcyN3U4MmlwVUJhY0VJNlJ3YTlQMjk3YnZBdkhVaFNDWS1Ea0NvbS14bGNfVFhwc242b3BIbDNFN2d2ZS15T29BclJkUEZFSTc5d1FEdVps?oc=5\" target=\"_blank\">At least 22 dead after record rainfall triggers floods and landslides in Minas Gerais, Brazil</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Watchers - Watching the world evolve and transform</font>",
+        "similarity_excluded": "No",
+        "score": 10,
+        "status": "processed",
+        "tweet": null,
+        "tweet_id": "2026381945366630843",
+        "geo": {
+            "country": "Brazil",
+            "name": "Minas Gerais",
+            "latitude": -19.9167,
+            "longitude": -43.9345,
+            "confidence": 1.0
+        }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOQ3hkQzZLWjFqemdlSWZQbGxlbzdyNGFqdXpVYkRiaXJ0MG13eS1xWkJQU0hOT2YyYWN1TGpKdFRZQmFVRUg4MGM0cUV6cHU0MW5ZR1RtRGNVWmFqQXRKcmV4ZC0tYy0zX2tZUHZyanFfTFRoRlcyN3U4MmlwVUJhY0VJNlJ3YTlQMjk3YnZBdkhVaFNDWS1Ea0NvbS14bGNfVFhwc242b3BIbDNFN2d2ZS15T29BclJkUEZFSTc5d1FEdVps?oc=5",
+        "date": "2026-02-24",
+        "title": "At least 22 dead after record rainfall triggers floods and landslides in Minas Gerais, Brazil - The Watchers - Watching the world evolve and transform",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxOQ3hkQzZLWjFqemdlSWZQbGxlbzdyNGFqdXpVYkRiaXJ0MG13eS1xWkJQU0hOT2YyYWN1TGpKdFRZQmFVRUg4MGM0cUV6cHU0MW5ZR1RtRGNVWmFqQXRKcmV4ZC0tYy0zX2tZUHZyanFfTFRoRlcyN3U4MmlwVUJhY0VJNlJ3YTlQMjk3YnZBdkhVaFNDWS1Ea0NvbS14bGNfVFhwc242b3BIbDNFN2d2ZS15T29BclJkUEZFSTc5d1FEdVps?oc=5\" target=\"_blank\">At least 22 dead after record rainfall triggers floods and landslides in Minas Gerais, Brazil</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Watchers - Watching the world evolve and transform</font>",
+        "similarity_excluded": "No",
+        "score": 10,
+        "status": "posted",
+        "tweet": "\ud83c\udde7\ud83c\uddf7 POST-EVENT Minas Gerais: At least 22 dead from floods and landslides triggered by record rainfall. (The Watchers)",
+        "type": "news",
+        "tweet_id": "2026381945366630843",
+        "geo": {
+            "country": "Brazil",
+            "name": "Minas Gerais",
+            "latitude": -19.9167,
+            "longitude": -43.9345,
+            "confidence": 1.0
+        }
     }
 ]
