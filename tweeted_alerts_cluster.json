@@ -4224,14 +4224,18 @@
     "rain_mm": 72.31,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 13.83,
-    "last_updated": "2026-02-24T16:01:21.135974Z",
+    "last_updated": "2026-02-24T18:57:28.090997Z",
     "last_tweeted_at": "2026-02-24T12:49:50.585703Z",
     "tweet_id": "2026278690863067223",
     "resolved": false,
     "pending_downgrade": true,
-    "pending_target_level": "Medium",
-    "pending_set_at": "2026-02-24T16:01:21.135974Z",
-    "pending_is_region": true
+    "pending_target_level": "Low",
+    "pending_set_at": "2026-02-24T18:57:28.090997Z",
+    "pending_is_region": false,
+    "pending_observed_level": "Low",
+    "pending_observed_rain_mm": 5.06,
+    "pending_observed_soil_moisture": 1.0,
+    "pending_observed_raw_dynamic_score": 0.968
   },
   "11.6081,125.4319": {
     "country": "Philippines",
@@ -6704,7 +6708,7 @@
     "rain_mm": 38.06,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 7.279,
-    "last_updated": "2026-02-24T16:01:21.135974Z",
+    "last_updated": "2026-02-24T18:57:28.090997Z",
     "last_tweeted_at": "2026-02-14T09:28:05.427702Z",
     "tweet_id": "2022604035316986113",
     "resolved": false
@@ -8962,7 +8966,7 @@
     "rain_mm": 57.12,
     "soil_moisture": 0.741,
     "raw_dynamic_score": 9.588,
-    "last_updated": "2026-02-24T12:49:50.585703Z",
+    "last_updated": "2026-02-24T18:57:28.090997Z",
     "last_tweeted_at": "2026-02-24T12:49:50.585703Z",
     "tweet_id": "2026278943628640276",
     "resolved": false
@@ -8980,6 +8984,21 @@
     "last_updated": "2026-02-24T16:01:21.135974Z",
     "last_tweeted_at": "2026-02-24T12:49:50.585703Z",
     "tweet_id": "2026279196188721469",
+    "resolved": false
+  },
+  "-14.2091,-39.5264": {
+    "country": "Brazil",
+    "name": "Ubatã",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": -14.20906,
+    "longitude": -39.52641,
+    "rain_mm": 57.94,
+    "soil_moisture": 0.555,
+    "raw_dynamic_score": 8.754,
+    "last_updated": "2026-02-24T18:57:28.090997Z",
+    "last_tweeted_at": "2026-02-24T18:57:28.090997Z",
+    "tweet_id": "2026370951626240068",
     "resolved": false
   }
 }
