@@ -11514,5 +11514,35 @@
             "longitude": null,
             "confidence": 0.8
         }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9YU3NyZHNPYlNyTk03Vi0tN3ZnQUFkaHp1bkVTUy1rdUR1YXFXbmlFZ1ZDNk1PN0JVSXRfNjE0UXVrYmVOaHlwbGhPb3BrLXhfd3ZpSWRhU3ZoZE9mTHBUdjRSZzVQUEhOTDNtb2s2RzFQVzA?oc=5",
+        "date": "2026-02-24",
+        "title": "UPDATE: Flood warning in place for Humboldt County Tuesday afternoon caused by intense rain - Fresno Bee",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE9YU3NyZHNPYlNyTk03Vi0tN3ZnQUFkaHp1bkVTUy1rdUR1YXFXbmlFZ1ZDNk1PN0JVSXRfNjE0UXVrYmVOaHlwbGhPb3BrLXhfd3ZpSWRhU3ZoZE9mTHBUdjRSZzVQUEhOTDNtb2s2RzFQVzA?oc=5\" target=\"_blank\">UPDATE: Flood warning in place for Humboldt County Tuesday afternoon caused by intense rain</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fresno Bee</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQektWd09PRWNDMl9oQWVFd3V2Q3dxRVFvUWJEV2dzaTByN3pTNHpuLW9GRHNwVGdUTnNaclVpSEZGQ1VLVWhkTXdydUJsVTFuWkt6RFB0aWZTYVBNZGJ5SGQyX0dVUDV2d3FGZDVrYUQ0aC1SX1kwMHMwNERiMTFZVGJxbHVZY19tSTRqT3UzTC0zR2lHaGthODkzT0lrSHhsbUk2TnBWemxFRk01UWkxUk1FaGJVYWc?oc=5",
+        "date": "2026-02-24",
+        "title": "Eel River expected to flood, warning issued for low lying areas - KRCR",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQektWd09PRWNDMl9oQWVFd3V2Q3dxRVFvUWJEV2dzaTByN3pTNHpuLW9GRHNwVGdUTnNaclVpSEZGQ1VLVWhkTXdydUJsVTFuWkt6RFB0aWZTYVBNZGJ5SGQyX0dVUDV2d3FGZDVrYUQ0aC1SX1kwMHMwNERiMTFZVGJxbHVZY19tSTRqT3UzTC0zR2lHaGthODkzT0lrSHhsbUk2TnBWemxFRk01UWkxUk1FaGJVYWc?oc=5\" target=\"_blank\">Eel River expected to flood, warning issued for low lying areas</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KRCR</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5kOEhBVW1kRTdobjZtOHpVQ3d2UHlxSm1xQ0RlOUVFUTZqcC1DOGZYZk1iNUxKTWFDcE1MV2pFdEFOYlM0b01MNDBVblBMTWoyMkFwQmRicksyOXpUdUlwWjRwM21XMUxvamtnc2phRQ?oc=5",
+        "date": "2026-02-24",
+        "title": "Flood warning in place for Mendocino County until early Wednesday morning - Modesto Bee",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE5kOEhBVW1kRTdobjZtOHpVQ3d2UHlxSm1xQ0RlOUVFUTZqcC1DOGZYZk1iNUxKTWFDcE1MV2pFdEFOYlM0b01MNDBVblBMTWoyMkFwQmRicksyOXpUdUlwWjRwM21XMUxvamtnc2phRQ?oc=5\" target=\"_blank\">Flood warning in place for Mendocino County until early Wednesday morning</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Modesto Bee</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": null
     }
 ]
