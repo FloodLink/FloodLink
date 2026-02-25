@@ -11284,5 +11284,35 @@
             "longitude": -45.0,
             "confidence": 0.6
         }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9fdjRPdVlDaW5YbS16RXdmdGQ3Z1pReVpSems5TDBhSUtJT2lVZlNLYV9uNk5xVDlWN3hiRGN2enFCTHlMWGhVemZUazFPM3BBTnE2emlmN3Y3R3pmUEhPa2ZGX1JvSlR6OHhXck9qQQ?oc=5",
+        "date": "2026-02-25",
+        "title": "Butte and Glenn counties placed under a flood warning until Thursday evening - Modesto Bee",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE9fdjRPdVlDaW5YbS16RXdmdGQ3Z1pReVpSems5TDBhSUtJT2lVZlNLYV9uNk5xVDlWN3hiRGN2enFCTHlMWGhVemZUazFPM3BBTnE2emlmN3Y3R3pmUEhPa2ZGX1JvSlR6OHhXck9qQQ?oc=5\" target=\"_blank\">Butte and Glenn counties placed under a flood warning until Thursday evening</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Modesto Bee</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVnloSHlHTVZFZ3pSVW5JdDF2OHEwM0k1dE03Wl8yWHRlSmwtVHlVQWFIN3QtaGJYZ1U5SVVaR0xScnlISzdfeDlSd3FkMGtPN1hFVFJ6Q293eHhKSEMtQjZZNGUzN1JKMm5raXM2MFFNdGVjNGJ5ZEhobHZlRm5sUU0tTlNpcmRrQ1FzQWZRTE43TW9FSDZOSktSUElSaHgzY3ZpNklXUC1maHB2dGdDZg?oc=5",
+        "date": "2026-02-25",
+        "title": "Tourists Must Cooperate With Authorities During Evacuations As Extreme Weather Persists - The Bali Sun",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPVnloSHlHTVZFZ3pSVW5JdDF2OHEwM0k1dE03Wl8yWHRlSmwtVHlVQWFIN3QtaGJYZ1U5SVVaR0xScnlISzdfeDlSd3FkMGtPN1hFVFJ6Q293eHhKSEMtQjZZNGUzN1JKMm5raXM2MFFNdGVjNGJ5ZEhobHZlRm5sUU0tTlNpcmRrQ1FzQWZRTE43TW9FSDZOSktSUElSaHgzY3ZpNklXUC1maHB2dGdDZg?oc=5\" target=\"_blank\">Tourists Must Cooperate With Authorities During Evacuations As Extreme Weather Persists</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Bali Sun</font>",
+        "similarity_excluded": "No",
+        "score": 6,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5FTGdsT1pUOFJVZ3lHWG5tdFZ2MzNTZDNZaG8welB4YVZrN0s4bkJMN1JjekhBRWZzYnpkckY4elVDbHl4YjBIcTNXU0cxUXlIOEFGMzBYRGJXUTdPMmRHaHZXdjRYamVpRGtFOTZYYzBGdUlkZ1E?oc=5",
+        "date": "2026-02-25",
+        "title": "Colombia Rain Emergency 2026 - Latina Republic",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE5FTGdsT1pUOFJVZ3lHWG5tdFZ2MzNTZDNZaG8welB4YVZrN0s4bkJMN1JjekhBRWZzYnpkckY4elVDbHl4YjBIcTNXU0cxUXlIOEFGMzBYRGJXUTdPMmRHaHZXdjRYamVpRGtFOTZYYzBGdUlkZ1E?oc=5\" target=\"_blank\">Colombia Rain Emergency 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Latina Republic</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
     }
 ]
