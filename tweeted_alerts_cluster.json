@@ -8156,38 +8156,6 @@
     "resolved": true,
     "resolved_at": "2026-02-24T06:56:36.321897Z"
   },
-  "-1.5564,-79.7525": {
-    "country": "Ecuador",
-    "name": "Vinces",
-    "risk_level": "Low",
-    "tweeted_level": "Low",
-    "latitude": -1.55637,
-    "longitude": -79.75249,
-    "rain_mm": 8.69,
-    "soil_moisture": 0.678,
-    "raw_dynamic_score": 1.409,
-    "last_updated": "2026-02-24T04:52:41.564412Z",
-    "last_tweeted_at": "2026-02-24T04:52:41.564412Z",
-    "tweet_id": "2026158602113704149",
-    "resolved": true,
-    "resolved_at": "2026-02-24T04:52:41.564412Z"
-  },
-  "-1.8049,-79.5249": {
-    "country": "Ecuador",
-    "name": "Babahoyo",
-    "risk_level": "Low",
-    "tweeted_level": "Low",
-    "latitude": -1.80493,
-    "longitude": -79.52492,
-    "rain_mm": 8.81,
-    "soil_moisture": 0.687,
-    "raw_dynamic_score": 1.436,
-    "last_updated": "2026-02-24T04:52:41.564412Z",
-    "last_tweeted_at": "2026-02-24T04:52:41.564412Z",
-    "tweet_id": "2026158602113704149",
-    "resolved": true,
-    "resolved_at": "2026-02-24T04:52:41.564412Z"
-  },
   "-1.5000,33.8000": {
     "country": "United Republic of Tanzania",
     "name": "Musoma",
@@ -8948,7 +8916,7 @@
     "rain_mm": 41.38,
     "soil_moisture": 0.651,
     "raw_dynamic_score": 6.61,
-    "last_updated": "2026-02-25T01:29:54.195282Z",
+    "last_updated": "2026-02-25T04:53:16.435852Z",
     "last_tweeted_at": "2026-02-25T01:29:54.195282Z",
     "tweet_id": "2026469963515490389",
     "resolved": false
@@ -8963,7 +8931,7 @@
     "rain_mm": 39.75,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 7.602,
-    "last_updated": "2026-02-25T01:29:54.195282Z",
+    "last_updated": "2026-02-25T04:53:16.435852Z",
     "last_tweeted_at": "2026-02-25T01:29:54.195282Z",
     "tweet_id": "2026470215911956718",
     "resolved": false
@@ -8996,6 +8964,21 @@
     "last_updated": "2026-02-25T01:29:54.195282Z",
     "last_tweeted_at": "2026-02-25T01:29:54.195282Z",
     "tweet_id": "2026470215911956718",
+    "resolved": false
+  },
+  "-1.4916,-78.0034": {
+    "country": "Ecuador",
+    "name": "Puyo",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": -1.49156,
+    "longitude": -78.00337,
+    "rain_mm": 45.12,
+    "soil_moisture": 0.687,
+    "raw_dynamic_score": 7.354,
+    "last_updated": "2026-02-25T04:53:16.435852Z",
+    "last_tweeted_at": "2026-02-25T04:53:16.435852Z",
+    "tweet_id": "2026520880948387980",
     "resolved": false
   }
 }
