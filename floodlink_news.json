@@ -1,558 +1,5 @@
 [
     {
-        "link": null,
-        "date": "2026-01-26",
-        "status": "posted",
-        "tweet": "In 2026, the Netherlands' flood defenses span 26,200 km of dikes, dunes, and levees, protecting 60% of its 18 million residents from sea-level rise and river overflows.",
-        "type": "infrastructure",
-        "tweet_id": "2015613129837957462"
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNQms2aDY2NzhaUFVCZjRsZ05zc3F2bTlEWG02Nkl2VWk4T1VKOHRqdlR2V05xd1J4Z2ludDYtRGJzYXh3X2ZYdWU3RUFUenRxWXdockc0QmpJbGE5RVUwWHhidXlVRExxdG5DYnRic3JOUHc2VEdOSUNXRlk5UE5Mb29sRlJVUll0bXc?oc=5",
-        "date": "2026-01-26",
-        "title": "Flood warning issued for West Alabama - tuscaloosanews.com",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxNQms2aDY2NzhaUFVCZjRsZ05zc3F2bTlEWG02Nkl2VWk4T1VKOHRqdlR2V05xd1J4Z2ludDYtRGJzYXh3X2ZYdWU3RUFUenRxWXdockc0QmpJbGE5RVUwWHhidXlVRExxdG5DYnRic3JOUHc2VEdOSUNXRlk5UE5Mb29sRlJVUll0bXc?oc=5\" target=\"_blank\">Flood warning issued for West Alabama</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">tuscaloosanews.com</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOSGpXSGxyQU15ckV2ZFV1MzRoYXFCR0dZc3EtNzVaX1h1WmhXem9abHJ1eEJzeHRPSXQzVUpVVm5KQmlxYklvSW45cURoWUtDUHhMdF9LZjdTZUJDMENabTY4UDY0djVpMjhlclp5dTJkQkJhSE1uRXBpSmFnUHU3eTlINU5BVGczWnhjOWs0bFZOTWlJaWpHZEU3LVFhSHNQY1J0cUJndkRodDVKNnBLMmdVSExia0p1MXRBbkhBbG9mdTZiRWdrdEVZWS1ZWWpaTFd4eWl0MmpWRlRC?oc=5",
-        "date": "2026-01-26",
-        "title": "Update: Flood warning affecting West Central Alabama from Tuesday to Friday \u2013 minor flooding is predicted - al.com",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxOSGpXSGxyQU15ckV2ZFV1MzRoYXFCR0dZc3EtNzVaX1h1WmhXem9abHJ1eEJzeHRPSXQzVUpVVm5KQmlxYklvSW45cURoWUtDUHhMdF9LZjdTZUJDMENabTY4UDY0djVpMjhlclp5dTJkQkJhSE1uRXBpSmFnUHU3eTlINU5BVGczWnhjOWs0bFZOTWlJaWpHZEU3LVFhSHNQY1J0cUJndkRodDVKNnBLMmdVSExia0p1MXRBbkhBbG9mdTZiRWdrdEVZWS1ZWWpaTFd4eWl0MmpWRlRC?oc=5\" target=\"_blank\">Update: Flood warning affecting West Central Alabama from Tuesday to Friday \u2013 minor flooding is predicted</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">al.com</font>",
-        "similarity_excluded": "No",
-        "score": 6,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOS2E0WGtHN1N2Q3dUT0VKRjVjSWo1V293bGZPRDZzWmdEUUc5ZHdBdzRsRUZ2Z2pRaDJOeld1eV9oazJ0QWZ6bVJrcVBFRzQ1OHlmamt0cFNaYkZBTy1yZjJ4NVo0aF9rMFUwVEtBQmNpa2xUQlJkVmhPenVHMDRpZHkweU00akYzWF9RUkp6SmpjTVR6TVZlNGNiNHBKMU5XOWVRNmRVN0dRUmJRTy1oMGpVSFRKRE9kT0dNdXh6OC1QOGt4?oc=5",
-        "date": "2026-01-26",
-        "title": "NYC weather: Coastal flood statement for Staten Island and Queens for Monday - silive.com",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxOS2E0WGtHN1N2Q3dUT0VKRjVjSWo1V293bGZPRDZzWmdEUUc5ZHdBdzRsRUZ2Z2pRaDJOeld1eV9oazJ0QWZ6bVJrcVBFRzQ1OHlmamt0cFNaYkZBTy1yZjJ4NVo0aF9rMFUwVEtBQmNpa2xUQlJkVmhPenVHMDRpZHkweU00akYzWF9RUkp6SmpjTVR6TVZlNGNiNHBKMU5XOWVRNmRVN0dRUmJRTy1oMGpVSFRKRE9kT0dNdXh6OC1QOGt4?oc=5\" target=\"_blank\">NYC weather: Coastal flood statement for Staten Island and Queens for Monday</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">silive.com</font>",
-        "similarity_excluded": "No",
-        "score": 8,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOTnJyOXhzUVNJMjVkNTBxT2ZDbXN1S3d6ZWNGNjJSQ1N2Z0EyWksyOE16aUF0RTltUGhDQ0plcGptNTRYV1NyNkpHaEVKZWxpZzZ3YkttSUh1ZTc1N1hSbTktSl9BdTBkUldXQ3djeDM1S3dZZE5xdm1OSnpubkQ0eXZiaEJaUWZIeDZ2dHRONXdqM3hzdUlZNWV2SEY5RVhRR01QM1ZSZi1abmhhQXFxVF9mRlFLVWZCelVSZDl6UjZmM1RyZDdCY21JbU1zY0lIR1hkT0F0MmFLWGJBbW82Tw?oc=5",
-        "date": "2026-01-26",
-        "title": "West Central Alabama placed under a flood warning from Monday to Wednesday \u2013 minor flooding is projected - al.com",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxOTnJyOXhzUVNJMjVkNTBxT2ZDbXN1S3d6ZWNGNjJSQ1N2Z0EyWksyOE16aUF0RTltUGhDQ0plcGptNTRYV1NyNkpHaEVKZWxpZzZ3YkttSUh1ZTc1N1hSbTktSl9BdTBkUldXQ3djeDM1S3dZZE5xdm1OSnpubkQ0eXZiaEJaUWZIeDZ2dHRONXdqM3hzdUlZNWV2SEY5RVhRR01QM1ZSZi1abmhhQXFxVF9mRlFLVWZCelVSZDl6UjZmM1RyZDdCY21JbU1zY0lIR1hkT0F0MmFLWGJBbW82Tw?oc=5\" target=\"_blank\">West Central Alabama placed under a flood warning from Monday to Wednesday \u2013 minor flooding is projected</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">al.com</font>",
-        "similarity_excluded": "No",
-        "score": 6,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPa0hybkFLVzFrWU9OT0ZYUF9wMmxGeW52SW5ycFZRNkNpaW9kZEJrU2JUdG5oaWhiNTJ4VzktVXhYdUU2Q1ptazB4Z1hTeWE4aEpkYWRLTFNTT3M2T1l6d0xleERCTDY2SE84NEprRWh5VlROWjg5YWs5WWNIcE1DcDE3VE00TE9QLXpQclFXMDktbmd3alNYSlZFZHBRTlJKNjRrbzVCaDNPZ2VNNWs5d2pUTVJlcGZOeE8xSGVjbW43cGtONW81c2RabmlIMzRmTl9RcU5nZ3dfNDNMdE54NlM5bTJDTkM0cmNzQ3pR?oc=5",
-        "date": "2026-01-26",
-        "title": "Ice blankets Nashville, Tennessee, coating trees and causing massive power outages - waaytv.com",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7gFBVV95cUxPa0hybkFLVzFrWU9OT0ZYUF9wMmxGeW52SW5ycFZRNkNpaW9kZEJrU2JUdG5oaWhiNTJ4VzktVXhYdUU2Q1ptazB4Z1hTeWE4aEpkYWRLTFNTT3M2T1l6d0xleERCTDY2SE84NEprRWh5VlROWjg5YWs5WWNIcE1DcDE3VE00TE9QLXpQclFXMDktbmd3alNYSlZFZHBRTlJKNjRrbzVCaDNPZ2VNNWs5d2pUTVJlcGZOeE8xSGVjbW43cGtONW81c2RabmlIMzRmTl9RcU5nZ3dfNDNMdE54NlM5bTJDTkM0cmNzQ3pR?oc=5\" target=\"_blank\">Ice blankets Nashville, Tennessee, coating trees and causing massive power outages</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">waaytv.com</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNG16ek8tS0J1dF9lcnBjWXFYSFJzaUtoS2JEbkw5RVJwenRCaUdWc2JGSzZydHdpYjkyZHQtTHd1RTc3alVoNmhGQXN3YlhvekZCUlRmTUlxVEdkeHo0bHJmcFp3MWlEaGJqUW1uOUdNQ1hYcFE0anRUM0tnSWZOR1I0bmM1aW44TVdBa3NLUDB3OWVyVWF5YQ?oc=5",
-        "date": "2026-01-26",
-        "title": "BPBD: All Floodwaters in Jakarta Receded as of Monday Morning - Tempo.co English",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPNG16ek8tS0J1dF9lcnBjWXFYSFJzaUtoS2JEbkw5RVJwenRCaUdWc2JGSzZydHdpYjkyZHQtTHd1RTc3alVoNmhGQXN3YlhvekZCUlRmTUlxVEdkeHo0bHJmcFp3MWlEaGJqUW1uOUdNQ1hYcFE0anRUM0tnSWZOR1I0bmM1aW44TVdBa3NLUDB3OWVyVWF5YQ?oc=5\" target=\"_blank\">BPBD: All Floodwaters in Jakarta Receded as of Monday Morning</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tempo.co English</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAwNzFrb3VEWmxsM0M0SXhKSWVlUlhOdVRhUVBwU25sSXVheHBBOEpIdGx0bmJ0VkpFa21ab0t3U1FVNW5fbWNReEY4TlFzWjNuVWtnUXhTYw?oc=5",
-        "date": "2026-01-26",
-        "title": "Indonesia landslide death toll rises to 17 - Bangladesh Sangbad Sangstha (BSS)",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTFAwNzFrb3VEWmxsM0M0SXhKSWVlUlhOdVRhUVBwU25sSXVheHBBOEpIdGx0bmJ0VkpFa21ab0t3U1FVNW5fbWNReEY4TlFzWjNuVWtnUXhTYw?oc=5\" target=\"_blank\">Indonesia landslide death toll rises to 17</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bangladesh Sangbad Sangstha (BSS)</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWkFMZ3F1Y2VTRy1UVnhDTFZEUXBwZDhOQnkxRTFwQVBfQ0dZMjVoNTBKVkpkbm9fRDQ1d0FFcWtQZDBJbmNTR1JUM3I0aTcwV09xRkQ4VWQ0bkxlN2VZaGdES3hKTWI3RTFhOGNOUnlrSVRJd3NKM2pTRUUtdG0yV0x3NjlOU1pTVktFTkUwRVRZVFZTdzZLT2hTQmx3UlpnbUdsS0VDU21QN09nQXU4TXJwaG1NR3ZBVjdIVEtfUmfSAcYBQVVfeXFMTTF3ZEVKY1UwMldJWXRBVGFlYk81eHJjc3gxQVUwZXpJOU0yeWlaTmRKU0ZIMFdFOV8xb253MkVhbTZWVEh6UjRHTVNaZzdpMjc1SUg5ajBWc2twdXJJU0phSXp3QnRrZjhjY3RvWktFR2dlOVBBX2dsZmY1NGdUUzVfdGgtazRZbGNvOXg0ZnY0VEZpR0dzaWE2bXZRTTU4d0Z5Yjhzc1h0SUxrZk1oYW44bTQtVjRYVWUxNV9nZVZDMEd2Z3V3?oc=5",
-        "date": "2026-01-26",
-        "title": "Tragedy in West Java: Landslide Leaves Community Devastated - Devdiscourse",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWkFMZ3F1Y2VTRy1UVnhDTFZEUXBwZDhOQnkxRTFwQVBfQ0dZMjVoNTBKVkpkbm9fRDQ1d0FFcWtQZDBJbmNTR1JUM3I0aTcwV09xRkQ4VWQ0bkxlN2VZaGdES3hKTWI3RTFhOGNOUnlrSVRJd3NKM2pTRUUtdG0yV0x3NjlOU1pTVktFTkUwRVRZVFZTdzZLT2hTQmx3UlpnbUdsS0VDU21QN09nQXU4TXJwaG1NR3ZBVjdIVEtfUmfSAcYBQVVfeXFMTTF3ZEVKY1UwMldJWXRBVGFlYk81eHJjc3gxQVUwZXpJOU0yeWlaTmRKU0ZIMFdFOV8xb253MkVhbTZWVEh6UjRHTVNaZzdpMjc1SUg5ajBWc2twdXJJU0phSXp3QnRrZjhjY3RvWktFR2dlOVBBX2dsZmY1NGdUUzVfdGgtazRZbGNvOXg0ZnY0VEZpR0dzaWE2bXZRTTU4d0Z5Yjhzc1h0SUxrZk1oYW44bTQtVjRYVWUxNV9nZVZDMEd2Z3V3?oc=5\" target=\"_blank\">Tragedy in West Java: Landslide Leaves Community Devastated</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Devdiscourse</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQ0JzcEcwY1pYb2ZNVkdhTGJEQTZ4eXFfV3JuY3JBN1JmSUU5RWVJUFpSLWNxcTJPbGhId184UzdlR1UyMUpXaWJlY0F1eEctR09ianBTbC1BcFU3Q3Q3MWJMcVZocklDOVlNOGVfWGVnUE8yeU1tOERHTlY1QWVmSUlTNlBBZG1WTWxSQkhUSVVxNU5IVVNMLUxMYWx1YUlSWEdEOHhTOHQ2aTdsaVF4Mw?oc=5",
-        "date": "2026-01-26",
-        "title": "New Zealand resumes victim recovery efforts after fatal landslide in North Island - The Straits Times",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPQ0JzcEcwY1pYb2ZNVkdhTGJEQTZ4eXFfV3JuY3JBN1JmSUU5RWVJUFpSLWNxcTJPbGhId184UzdlR1UyMUpXaWJlY0F1eEctR09ianBTbC1BcFU3Q3Q3MWJMcVZocklDOVlNOGVfWGVnUE8yeU1tOERHTlY1QWVmSUlTNlBBZG1WTWxSQkhUSVVxNU5IVVNMLUxMYWx1YUlSWEdEOHhTOHQ2aTdsaVF4Mw?oc=5\" target=\"_blank\">New Zealand resumes victim recovery efforts after fatal landslide in North Island</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Straits Times</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNelNaOXZ6SllDYy1EMHBlY3BYMVFMQ3lHQ0VFN3NRWGdsaUtmMGswdGpxUFdxOERGMTR3aXk5MWRXOUJtZG1JYkJuYUM1V3g5N2dZSjktbnZpdkNCSHBvR2FtQ0FIb0paSXp3N2VFTTFIWGd0cDNiVF9yVE5vWld1endWd2hIZ2N6M3FMNk52LWQ3OGU2dkFYUi10bUM5X2w5VHVqR0FTNkY?oc=5",
-        "date": "2026-01-26",
-        "title": "ITB Geologist: Collapsed Natural Dam Caused Deadly West Bandung Landslide - Tempo.co English",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNelNaOXZ6SllDYy1EMHBlY3BYMVFMQ3lHQ0VFN3NRWGdsaUtmMGswdGpxUFdxOERGMTR3aXk5MWRXOUJtZG1JYkJuYUM1V3g5N2dZSjktbnZpdkNCSHBvR2FtQ0FIb0paSXp3N2VFTTFIWGd0cDNiVF9yVE5vWld1endWd2hIZ2N6M3FMNk52LWQ3OGU2dkFYUi10bUM5X2w5VHVqR0FTNkY?oc=5\" target=\"_blank\">ITB Geologist: Collapsed Natural Dam Caused Deadly West Bandung Landslide</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tempo.co English</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE55UXRQdXoxQVkxTXFOUjJJeDhvM2lObXFMZlhTVzZKME8zQVpvYXduN0R4cHNXOFRSY1BHWmFkNWNzOXo5LUZqbkQzVWZudl9YRHdOdnNVb05lVU55RUFrRV9FVmFndU5YcnVRLVdRdw?oc=5",
-        "date": "2026-01-26",
-        "title": "River Flood Warning (Severe) - wdef.com",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE55UXRQdXoxQVkxTXFOUjJJeDhvM2lObXFMZlhTVzZKME8zQVpvYXduN0R4cHNXOFRSY1BHWmFkNWNzOXo5LUZqbkQzVWZudl9YRHdOdnNVb05lVU55RUFrRV9FVmFndU5YcnVRLVdRdw?oc=5\" target=\"_blank\">River Flood Warning (Severe)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">wdef.com</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1wYXpwN0pWbmRfYnRDWWswYmxGZUY0OVdFWGdIcHBIUVZ6Rnc3dXlLazFad3l3ekpQS3p4OUZiQVlwSTdQMU1rZ0lXZ2pPZTJoY2Jz?oc=5",
-        "date": "2026-01-26",
-        "title": "Gangneung's Seomseokcheon Stream, which was repeatedly flooded due to flooding every time of torrent.. - \ub9e4\uc77c\uacbd\uc81c",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE1wYXpwN0pWbmRfYnRDWWswYmxGZUY0OVdFWGdIcHBIUVZ6Rnc3dXlLazFad3l3ekpQS3p4OUZiQVlwSTdQMU1rZ0lXZ2pPZTJoY2Jz?oc=5\" target=\"_blank\">Gangneung's Seomseokcheon Stream, which was repeatedly flooded due to flooding every time of torrent..</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">\ub9e4\uc77c\uacbd\uc81c</font>",
-        "similarity_excluded": "No",
-        "score": 6,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORExIY3hIakttQTZ6MEdXVnEtb2tsS3BfM3pnbEtiQ3lPUFRpemJ6NXVuR1hOT05iS1k0UVg4dFBtaC1IMDlscDJUclV2ZTNVaHp0bFJIb1RIaTM0SXRCTnZIN3R2SkFPRUNYV1BiVWVKVjNmcGxILWFWM09RMDRfallZaWswZjg1d1ZiVk0tVmNybHRhYTg3cWh5dWFNUnJucEE?oc=5",
-        "date": "2026-01-26",
-        "title": "23 Indonesian Marines Buried in West Java Landslide, Four Confirmed Dead - jakartaglobe.id",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxORExIY3hIakttQTZ6MEdXVnEtb2tsS3BfM3pnbEtiQ3lPUFRpemJ6NXVuR1hOT05iS1k0UVg4dFBtaC1IMDlscDJUclV2ZTNVaHp0bFJIb1RIaTM0SXRCTnZIN3R2SkFPRUNYV1BiVWVKVjNmcGxILWFWM09RMDRfallZaWswZjg1d1ZiVk0tVmNybHRhYTg3cWh5dWFNUnJucEE?oc=5\" target=\"_blank\">23 Indonesian Marines Buried in West Java Landslide, Four Confirmed Dead</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">jakartaglobe.id</font>",
-        "similarity_excluded": "No",
-        "score": 9,
-        "status": "processed",
-        "tweet": null,
-        "tweet_id": "2015707955090362760",
-        "geo": {
-            "country": "Indonesia",
-            "name": "West Java",
-            "latitude": -6.9175,
-            "longitude": 107.6191,
-            "confidence": 0.95
-        }
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWFdZVFFCeEhCV1lpZXk5X1ktR3RFWkFPbTRyNmd1M0RvSlhXd1lRS0dZenE5YTFMWkxManh3THdtRmVmLVV5Q2NHX245S3hiLVRuVXB0V0U1cGxWd1RrT0s0QTBjMXM2WngyTlFVUXhEOEJ1WGF0MVhKMzdUc2IwaHpGbHlfX1BmNWdCWUl3R1dKS2RrY215dVBZMlpFRktKOGFrT3d6TTHSAa4BQVVfeXFMUENWdVRLS0NfM0RvbEhXa1hfazAyRm95VEJHUWEtMUU5OXpkTHZBOXZleXVqLWtZUTRWVlRzTUl5cEozRU5ZenkzWjlGaWFvaUJLX3NTTmEwMndzMEYwdDF1d2N2ZjB0aVB5QVVRaDcwbnVTcGtJaUp5Ym5jSWpDYTRMWkkzUzNKRlRGV0N6MlFTbW0zb3VVbVZXcXYwTmdxVWJJQTU2cW1UMjJzeDBn?oc=5",
-        "date": "2026-01-26",
-        "title": "Collapsed natural dam triggered deadly mudflows in W Java: geologist - ANTARA News",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWFdZVFFCeEhCV1lpZXk5X1ktR3RFWkFPbTRyNmd1M0RvSlhXd1lRS0dZenE5YTFMWkxManh3THdtRmVmLVV5Q2NHX245S3hiLVRuVXB0V0U1cGxWd1RrT0s0QTBjMXM2WngyTlFVUXhEOEJ1WGF0MVhKMzdUc2IwaHpGbHlfX1BmNWdCWUl3R1dKS2RrY215dVBZMlpFRktKOGFrT3d6TTHSAa4BQVVfeXFMUENWdVRLS0NfM0RvbEhXa1hfazAyRm95VEJHUWEtMUU5OXpkTHZBOXZleXVqLWtZUTRWVlRzTUl5cEozRU5ZenkzWjlGaWFvaUJLX3NTTmEwMndzMEYwdDF1d2N2ZjB0aVB5QVVRaDcwbnVTcGtJaUp5Ym5jSWpDYTRMWkkzUzNKRlRGV0N6MlFTbW0zb3VVbVZXcXYwTmdxVWJJQTU2cW1UMjJzeDBn?oc=5\" target=\"_blank\">Collapsed natural dam triggered deadly mudflows in W Java: geologist</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ANTARA News</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTFhTRjhTZ1NnR2ZHYnUwUlluc0RBcGRJdm5CX2EzdzJ1NDNmNkkyaUZkYTRQbFZPOVB0Z2I2V0dwS0x0VVVuMzhfNDlrZExBUVJNTWI4SVdQakhzUUNjaHJRVHFrX2VUR1RLa0dmalA1UWpPMWxYZkk2V0xJSURuNXJlZHZmWWphOXhr?oc=5",
-        "date": "2026-01-26",
-        "title": "Indonesia landslide death toll rises to 17 - Gulf Today",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTFhTRjhTZ1NnR2ZHYnUwUlluc0RBcGRJdm5CX2EzdzJ1NDNmNkkyaUZkYTRQbFZPOVB0Z2I2V0dwS0x0VVVuMzhfNDlrZExBUVJNTWI4SVdQakhzUUNjaHJRVHFrX2VUR1RLa0dmalA1UWpPMWxYZkk2V0xJSURuNXJlZHZmWWphOXhr?oc=5\" target=\"_blank\">Indonesia landslide death toll rises to 17</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Gulf Today</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPLTh6bHNINjZqXzJvQ0ZpajZ0U3gxa0QzMndWb2lnX1N3UXdkekFWTklvOFAxZWhIeU9nYTJqY1kyV2NGMVVsbjBoanQxcVdROHQ4dUZQbk5TT0RuNUZtVDhxN3ZxeFJudmtVR1pNRFRUSFpPdWJSZ09tTTJDZ0Z6WjZmMzBqTEIyWGJ4YWpEOVdxNVd2T1NqMU03Q25DQkhvSkZkbS1IYW5VMUw0czl1Q1E2bVFFY1hGRjhCWXpDOTM2bFBjLXpJXzlR?oc=5",
-        "date": "2026-01-26",
-        "title": "Soil movement from heavy rain triggers Jln Batu Kitang landslide, pipe burst; repairs may exceed three weeks - dayakdaily.com",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxPLTh6bHNINjZqXzJvQ0ZpajZ0U3gxa0QzMndWb2lnX1N3UXdkekFWTklvOFAxZWhIeU9nYTJqY1kyV2NGMVVsbjBoanQxcVdROHQ4dUZQbk5TT0RuNUZtVDhxN3ZxeFJudmtVR1pNRFRUSFpPdWJSZ09tTTJDZ0Z6WjZmMzBqTEIyWGJ4YWpEOVdxNVd2T1NqMU03Q25DQkhvSkZkbS1IYW5VMUw0czl1Q1E2bVFFY1hGRjhCWXpDOTM2bFBjLXpJXzlR?oc=5\" target=\"_blank\">Soil movement from heavy rain triggers Jln Batu Kitang landslide, pipe burst; repairs may exceed three weeks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">dayakdaily.com</font>",
-        "similarity_excluded": "No",
-        "score": 5,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORExIY3hIakttQTZ6MEdXVnEtb2tsS3BfM3pnbEtiQ3lPUFRpemJ6NXVuR1hOT05iS1k0UVg4dFBtaC1IMDlscDJUclV2ZTNVaHp0bFJIb1RIaTM0SXRCTnZIN3R2SkFPRUNYV1BiVWVKVjNmcGxILWFWM09RMDRfallZaWswZjg1d1ZiVk0tVmNybHRhYTg3cWh5dWFNUnJucEE?oc=5",
-        "date": "2026-01-26",
-        "title": "23 Indonesian Marines Buried in West Java Landslide, Four Confirmed Dead - jakartaglobe.id",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxORExIY3hIakttQTZ6MEdXVnEtb2tsS3BfM3pnbEtiQ3lPUFRpemJ6NXVuR1hOT05iS1k0UVg4dFBtaC1IMDlscDJUclV2ZTNVaHp0bFJIb1RIaTM0SXRCTnZIN3R2SkFPRUNYV1BiVWVKVjNmcGxILWFWM09RMDRfallZaWswZjg1d1ZiVk0tVmNybHRhYTg3cWh5dWFNUnJucEE?oc=5\" target=\"_blank\">23 Indonesian Marines Buried in West Java Landslide, Four Confirmed Dead</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">jakartaglobe.id</font>",
-        "similarity_excluded": "No",
-        "score": 9,
-        "status": "posted",
-        "tweet": "\ud83c\uddee\ud83c\udde9 POST-EVENT West Java: 23 marines buried in rain-triggered landslide, four confirmed dead. (jakartaglobe.id)",
-        "type": "news",
-        "tweet_id": "2015707955090362760",
-        "geo": {
-            "country": "Indonesia",
-            "name": "West Java",
-            "latitude": -6.9175,
-            "longitude": 107.6191,
-            "confidence": 0.95
-        }
-    },
-    {
-        "link": null,
-        "date": "2026-01-26",
-        "status": "posted",
-        "tweet": "\ud83c\uddee\ud83c\uddf3 In 2025, 180 million urban residents in India faced river flooding exposure, vs. 45 million in the \ud83c\uddfa\ud83c\uddf8 US\u2014a 4x regional disparity amid rising extreme rainfall (World Bank data). Projections to 2030: +20% globally.",
-        "type": "statistical",
-        "category": "urban areas exposed to river flooding",
-        "tweet_id": "2015716366934802738"
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1zZ1FjR01iVUloaHhYNlVpRXJGV3B2SVVMWVRHWktMazdnNXZ5bkZWQm9pMUduRWNpUWQzV29XWjRIajBqSTdCYWYyeTlFNDk5aEVvd3E0Q2xnQdIBX0FVX3lxTE1La193S3JfRU9uY0dVU3NKRnZDdG00bkZPNkN6MjdlbEtIcWJTd1lWTlRmLVhTTG9wLTFaVk5tOEtqeDRQWFlkWmhTaGd6SDhOOE85R21HMGZxZFBScThn?oc=5",
-        "date": "2026-01-26",
-        "title": "Flood warning as heavy rain to bring travel disruption to Wales - BBC",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE1zZ1FjR01iVUloaHhYNlVpRXJGV3B2SVVMWVRHWktMazdnNXZ5bkZWQm9pMUduRWNpUWQzV29XWjRIajBqSTdCYWYyeTlFNDk5aEVvd3E0Q2xnQdIBX0FVX3lxTE1La193S3JfRU9uY0dVU3NKRnZDdG00bkZPNkN6MjdlbEtIcWJTd1lWTlRmLVhTTG9wLTFaVk5tOEtqeDRQWFlkWmhTaGd6SDhOOE85R21HMGZxZFBScThn?oc=5\" target=\"_blank\">Flood warning as heavy rain to bring travel disruption to Wales</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
-        "similarity_excluded": "No",
-        "score": 8,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxORzN1czZjNlE1U2FpSUVhS09qamsyVkU1ZkdHdE5JNUloUy04aGFxd0J2V0NFejI4SVRrb1g5aDk3NmdTeFZvaFoyV0VfWXRSRFJLZWFvSWNuQzVXQlJjR1VLSUpRdmhWWFBqVU9LbW1NWkdLSkVySnhwYWhDY0szb01GSFZUU3RhWWJobHhYXy1aOF9JRnVHVlRjUXJqSk5xaVVUVQ?oc=5",
-        "date": "2026-01-26",
-        "title": "Death toll rises to 25 after landslide in Indonesia's West Java - Az\u0259rtac",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxORzN1czZjNlE1U2FpSUVhS09qamsyVkU1ZkdHdE5JNUloUy04aGFxd0J2V0NFejI4SVRrb1g5aDk3NmdTeFZvaFoyV0VfWXRSRFJLZWFvSWNuQzVXQlJjR1VLSUpRdmhWWFBqVU9LbW1NWkdLSkVySnhwYWhDY0szb01GSFZUU3RhWWJobHhYXy1aOF9JRnVHVlRjUXJqSk5xaVVUVQ?oc=5\" target=\"_blank\">Death toll rises to 25 after landslide in Indonesia's West Java</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Az\u0259rtac</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQWFBiZS04RHFOU0FwMmNEQm54NktzWE5ab25JLUNGcVh4bFFTTEpKRW82V0JwNzJoRW1Qbmh3NFU1RW5TUDI0LXlJeWxGY3hEa1ZaeTZ4SThlR0QtdzdkUW5xOXVHakhxNFpmYkhHNEZWdXJXTnhRWDIyT2pkVUxoZUhyYUhUWkNSUHNtXy1SS1BRYlREdTMtSmVkaGVVSkUxczliSE1KenlSODNuQVdBVURQTTHSAeMBQVVfeXFMTlJnZVhjZktNVDIyZ3FKOXlmQXhUaWZwdFFPbWpUN3h6OEV1NmZTVnNBWHZCMnRmVDQ2WWRQSzFXQzh2TUkyMkxVdy1XZHItdlpPa001WmRUeXRuc0RlQ2VKN0JxVzBMRmdTN0pSZGpLVFBmMWMwTExOdUpweWcyUktuaHJmRHlFbksyLTdFRlpNNlNLRFBpdk9TX0UzLXNia1NpYnJrUVB0aVhqWFd1dUREa1RZbmRzRGxlSmtqX0d0c2xQSnNZUXA1ak1NR1VxQWxFX01HM2dIbVNyc0NfYUtQN2s?oc=5",
-        "date": "2026-01-26",
-        "title": "LI Weather Monday: Possible Snow, Frosty Temps; Coastal Flood Warning Could Lead To Some Beach Erosion - Patch",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQWFBiZS04RHFOU0FwMmNEQm54NktzWE5ab25JLUNGcVh4bFFTTEpKRW82V0JwNzJoRW1Qbmh3NFU1RW5TUDI0LXlJeWxGY3hEa1ZaeTZ4SThlR0QtdzdkUW5xOXVHakhxNFpmYkhHNEZWdXJXTnhRWDIyT2pkVUxoZUhyYUhUWkNSUHNtXy1SS1BRYlREdTMtSmVkaGVVSkUxczliSE1KenlSODNuQVdBVURQTTHSAeMBQVVfeXFMTlJnZVhjZktNVDIyZ3FKOXlmQXhUaWZwdFFPbWpUN3h6OEV1NmZTVnNBWHZCMnRmVDQ2WWRQSzFXQzh2TUkyMkxVdy1XZHItdlpPa001WmRUeXRuc0RlQ2VKN0JxVzBMRmdTN0pSZGpLVFBmMWMwTExOdUpweWcyUktuaHJmRHlFbksyLTdFRlpNNlNLRFBpdk9TX0UzLXNia1NpYnJrUVB0aVhqWFd1dUREa1RZbmRzRGxlSmtqX0d0c2xQSnNZUXA1ak1NR1VxQWxFX01HM2dIbVNyc0NfYUtQN2s?oc=5\" target=\"_blank\">LI Weather Monday: Possible Snow, Frosty Temps; Coastal Flood Warning Could Lead To Some Beach Erosion</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Patch</font>",
-        "similarity_excluded": "No",
-        "score": 6,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9UcEZmRlpwd3lmdTdadkEzSDJTNWszZ1pveFBlUXVnWkQxbmQzRzBjWXkwTDllWUZsdW1rRE9WMmk1SG5iUENLcFh4MGVTWEZGTW5yc0pYZURxUQ?oc=5",
-        "date": "2026-01-26",
-        "title": "NI weather: Yellow weather warning in place for Northern Ireland - BBC",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE9UcEZmRlpwd3lmdTdadkEzSDJTNWszZ1pveFBlUXVnWkQxbmQzRzBjWXkwTDllWUZsdW1rRE9WMmk1SG5iUENLcFh4MGVTWEZGTW5yc0pYZURxUQ?oc=5\" target=\"_blank\">NI weather: Yellow weather warning in place for Northern Ireland</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
-        "similarity_excluded": "No",
-        "score": 6,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9MZm1JbkFHZHpycmlKSFNpV2t2SnVaT0Y4TmV1WjFhQW42VnpzcUJvNzJ2Sk9lMlVBMHUzVks5ZWVFNzBYOFZ4VGxpVVlzWEQ1ZU5YVmFoam1qRVRnc19lSl9LZWMwV3ZfY09PSnZFRzViTGN6RVJFczR4eGNGZw?oc=5",
-        "date": "2026-01-26",
-        "title": "Wind and flood warning as heavy rain set to fall on Northern Ireland - AOL.com",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE9MZm1JbkFHZHpycmlKSFNpV2t2SnVaT0Y4TmV1WjFhQW42VnpzcUJvNzJ2Sk9lMlVBMHUzVks5ZWVFNzBYOFZ4VGxpVVlzWEQ1ZU5YVmFoam1qRVRnc19lSl9LZWMwV3ZfY09PSnZFRzViTGN6RVJFczR4eGNGZw?oc=5\" target=\"_blank\">Wind and flood warning as heavy rain set to fall on Northern Ireland</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AOL.com</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBpLVk0MWRkazFfakYxWWpmcXZuTGJsSkVNaDVuZnFxVDRfTDU2MnpTWE5GQjAzLThYZXR3UUJOcEN4aGVUTk51Q0lpbXZhOVlVVUZIYWVQVktJZ2NNcGtEQlI1dS1Sd1RkbU9LeEREMA?oc=5",
-        "date": "2026-01-26",
-        "title": "River Flood Warning (Severe) - wdef.com",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTFBpLVk0MWRkazFfakYxWWpmcXZuTGJsSkVNaDVuZnFxVDRfTDU2MnpTWE5GQjAzLThYZXR3UUJOcEN4aGVUTk51Q0lpbXZhOVlVVUZIYWVQVktJZ2NNcGtEQlI1dS1Sd1RkbU9LeEREMA?oc=5\" target=\"_blank\">River Flood Warning (Severe)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">wdef.com</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPOFhlTVZuQ20zWkJ6T0lHbHNYN2FtZDVfSnE0REgteFFvS3Q1cWtFQnUtLWhTZ1RqS29FVUhmTnlOaFFUdlJuOWxBS3RldHVmOUNPSVRKaGNFaEFtclk5ZGhHalJRbFFLeVFIa3ZlSnVqSUw5OGZnLVpMQW5Fc2hQVmV2R3l2aEFpMXhKYjhZOU5oUQ?oc=5",
-        "date": "2026-01-26",
-        "title": "Warning: rivers now posing flood risk in multiple areas - portugalresident.com",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPOFhlTVZuQ20zWkJ6T0lHbHNYN2FtZDVfSnE0REgteFFvS3Q1cWtFQnUtLWhTZ1RqS29FVUhmTnlOaFFUdlJuOWxBS3RldHVmOUNPSVRKaGNFaEFtclk5ZGhHalJRbFFLeVFIa3ZlSnVqSUw5OGZnLVpMQW5Fc2hQVmV2R3l2aEFpMXhKYjhZOU5oUQ?oc=5\" target=\"_blank\">Warning: rivers now posing flood risk in multiple areas</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">portugalresident.com</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPTzFYSTl0YWZabGo0RlNKTGw3RThyMUpDN1R4ZlBzSFY3MV9TRXJfOFd1al96cHpIMlhYU3FhMTVmUDI1TnVtbW5rNlpTOGFLWW5tcWMxcVp0MHV3Vy1xOVAwbVpiODFfWGdqVmZHTF9mMm5OaU1Qa0pkaUQ1Uzc2aXVZelZMY1hoMkM5Qi1Hek5VLUZkQVE0RkR5cFRheWJtQ0s0NWk0U05wNlVDRlVyaGZmSdIBuAFBVV95cUxPN3FqNWxUOGJKOVNiM0hWYjd0X0xFQzd6akZNVml0cU5ESFRrZmFnbTJDdlFfS19sWl8zREZKbHJydzFlNnkxUHc3amcyMzZkVVo1QVlaNzhhZ2tWMDlCdXlJTkxpMmZFdlZqN2gxbGNwbHZMNUxyRzBZT0h2VTExd1dnaUpNZnRwUVk2ZTQ3alZHaVNzZWxweERnWmN4Zm8zaGhiRTVxNkdmejJIdGx2dGJJT0xpWmhM?oc=5",
-        "date": "2026-01-26",
-        "title": "Indonesian marines among 80 missing in deadly West Java landslide - ABC News",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPTzFYSTl0YWZabGo0RlNKTGw3RThyMUpDN1R4ZlBzSFY3MV9TRXJfOFd1al96cHpIMlhYU3FhMTVmUDI1TnVtbW5rNlpTOGFLWW5tcWMxcVp0MHV3Vy1xOVAwbVpiODFfWGdqVmZHTF9mMm5OaU1Qa0pkaUQ1Uzc2aXVZelZMY1hoMkM5Qi1Hek5VLUZkQVE0RkR5cFRheWJtQ0s0NWk0U05wNlVDRlVyaGZmSdIBuAFBVV95cUxPN3FqNWxUOGJKOVNiM0hWYjd0X0xFQzd6akZNVml0cU5ESFRrZmFnbTJDdlFfS19sWl8zREZKbHJydzFlNnkxUHc3amcyMzZkVVo1QVlaNzhhZ2tWMDlCdXlJTkxpMmZFdlZqN2gxbGNwbHZMNUxyRzBZT0h2VTExd1dnaUpNZnRwUVk2ZTQ3alZHaVNzZWxweERnWmN4Zm8zaGhiRTVxNkdmejJIdGx2dGJJT0xpWmhM?oc=5\" target=\"_blank\">Indonesian marines among 80 missing in deadly West Java landslide</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ABC News</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOX1pjUXRxeTBacmlpQVo3UkttN2p6Yng1bFZZMUVmb0MxT0hQSEpxeHhxT3MtRmtRUlV0ZmlmVlRPLWJWMXc0MS1QQ3pyQjdHN0lnV1lKS1F3d1JINEppOUhhY0tEUjljQkVPNzhXM0VoVmRMT2F4YjBCaG9vTTF0c29JTVVyZnp1Z0hQY3F5V3VDeWNUTEhLclVfQkNIa2tyNGdaSk5B?oc=5",
-        "date": "2026-01-26",
-        "title": "Collapsed natural dam triggered deadly mudflows in W Java: geologist - Az\u0259rtac",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxOX1pjUXRxeTBacmlpQVo3UkttN2p6Yng1bFZZMUVmb0MxT0hQSEpxeHhxT3MtRmtRUlV0ZmlmVlRPLWJWMXc0MS1QQ3pyQjdHN0lnV1lKS1F3d1JINEppOUhhY0tEUjljQkVPNzhXM0VoVmRMT2F4YjBCaG9vTTF0c29JTVVyZnp1Z0hQY3F5V3VDeWNUTEhLclVfQkNIa2tyNGdaSk5B?oc=5\" target=\"_blank\">Collapsed natural dam triggered deadly mudflows in W Java: geologist</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Az\u0259rtac</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNbVh6VTRqVTROWHVPSEp3Q05iMWR3bmhhMUZSQl9iSng4Mk5IbE9qdE9GNzIzck0zemtDNmdub0dwYWk3YmwzejVKenVqVzdvcHNhZ19UbTlGQkZTYVc1dHktTEpMNGlqS0JCSmR4em4xRTRMdVZWbXN2dEZldzNLNW9kM3pXMmhhWWxKbGNZYjEzS3hpa0MtM0VUWkRLYUNv0gGmAUFVX3lxTE5VeVNHMXNlRzZvYmFOVlp6ZTRha0pENTQzeldKT0U1V2RNWU41MDAyTzVsTTBqcjVTMU1YbjFqNTgxRUhjRFV1VGxQLXhUTUM0OFhaUE84VHh1aDRpLXJyQjNFdzNRSGQzYTM1TDJvNnF6TVhPWHdwSzVkVDZRc3NFQUZvU1loOFBFc1ZMdmR1S3BEN0JERHJfbjdUalRNbl96N01Sa2c?oc=5",
-        "date": "2026-01-26",
-        "title": "Navy Chief says 23 Marines among victims of Cisarua landslide - ANTARA News",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNbVh6VTRqVTROWHVPSEp3Q05iMWR3bmhhMUZSQl9iSng4Mk5IbE9qdE9GNzIzck0zemtDNmdub0dwYWk3YmwzejVKenVqVzdvcHNhZ19UbTlGQkZTYVc1dHktTEpMNGlqS0JCSmR4em4xRTRMdVZWbXN2dEZldzNLNW9kM3pXMmhhWWxKbGNZYjEzS3hpa0MtM0VUWkRLYUNv0gGmAUFVX3lxTE5VeVNHMXNlRzZvYmFOVlp6ZTRha0pENTQzeldKT0U1V2RNWU41MDAyTzVsTTBqcjVTMU1YbjFqNTgxRUhjRFV1VGxQLXhUTUM0OFhaUE84VHh1aDRpLXJyQjNFdzNRSGQzYTM1TDJvNnF6TVhPWHdwSzVkVDZRc3NFQUZvU1loOFBFc1ZMdmR1S3BEN0JERHJfbjdUalRNbl96N01Sa2c?oc=5\" target=\"_blank\">Navy Chief says 23 Marines among victims of Cisarua landslide</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ANTARA News</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": null,
-        "date": "2026-01-26",
-        "status": "posted",
-        "tweet": "By 2030, extreme rainfall could double annual global flood losses to $500B without upgraded dams & reservoirs\u2014exposing 1B+ people. (World Bank projection, 2023)",
-        "type": "statistical",
-        "category": "dams, levees and reservoirs used for flood control",
-        "tweet_id": "2015772740234695116"
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNbFQ1M0lZWE13cjdLakNZVW1QWU5LMTNEUDhXRGoyYlVCcVRrYjVUaTdRSGpfaE9NQ1VUbGlHNjBOVTk0akRIWHJTT1dVcklhWXQxZmVNRGJGVldWc3JzUnNxOXg4TEdhLW5wS0NUS2s4amJ2X1N0LVJxSFc2dHFST0VSZU9pV1k?oc=5",
-        "date": "2026-01-26",
-        "title": "Wind and flood warning as heavy rain set to fall on Northern Ireland - Yahoo",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxNbFQ1M0lZWE13cjdLakNZVW1QWU5LMTNEUDhXRGoyYlVCcVRrYjVUaTdRSGpfaE9NQ1VUbGlHNjBOVTk0akRIWHJTT1dVcklhWXQxZmVNRGJGVldWc3JzUnNxOXg4TEdhLW5wS0NUS2s4amJ2X1N0LVJxSFc2dHFST0VSZU9pV1k?oc=5\" target=\"_blank\">Wind and flood warning as heavy rain set to fall on Northern Ireland</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOQmZWd3dmNlBIMGlHSWVlZm1Yd2hkT0JaZm9tYjdrRlVjclEzQTRwamN1d3NhM1loNDQyZHNqLWdPbkRRUk1qX2wwcEVtZTNWWnQ0SXE3SjY2RGdISVJ3QWYwVkdTd0JveElKVlVqX1I4YVp2ZUtQalVyZUpoY3Z5QTg4cEZPUQ?oc=5",
-        "date": "2026-01-26",
-        "title": "Storm Chandra: \u2018More flooding expected' - University of Reading",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxOQmZWd3dmNlBIMGlHSWVlZm1Yd2hkT0JaZm9tYjdrRlVjclEzQTRwamN1d3NhM1loNDQyZHNqLWdPbkRRUk1qX2wwcEVtZTNWWnQ0SXE3SjY2RGdISVJ3QWYwVkdTd0JveElKVlVqX1I4YVp2ZUtQalVyZUpoY3Z5QTg4cEZPUQ?oc=5\" target=\"_blank\">Storm Chandra: \u2018More flooding expected'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">University of Reading</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA0QUg2VFk1bGU1d1JlZUlVVEJKWFBfbC1YVWpRMHdPbG1UaEJPMjJabmlBeHF2cUl3VWRTWTJTT3V3RlVxTFlicHBEbExXTG9NOThTa3p2Uzh6dXZmdlR1QTVUN3doZHNkY1d2c2xTd1B1RFFieU93VTB1V3Q2MkXSAYQBQVVfeXFMTVpmZGxjQ0JzRnFmWjR3b1dGZW83ZkduWnNFMkItUURFN2t0MHZTdnpxelJGTlpPaDA3ZHlRRXEyWnFiMUhvNHVKTDdKVWp6dWlYaVQwbWJtVDlxM2dDZGMtSy1mUXVFQVpQblBqRXNDVnZHdnk4a1ZoSzdpdlg2UW9NV0ZO?oc=5",
-        "date": "2026-01-26",
-        "title": "UK flood alerts mapped as huge parts of country under Met Office weather warnings - The Mirror",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFA0QUg2VFk1bGU1d1JlZUlVVEJKWFBfbC1YVWpRMHdPbG1UaEJPMjJabmlBeHF2cUl3VWRTWTJTT3V3RlVxTFlicHBEbExXTG9NOThTa3p2Uzh6dXZmdlR1QTVUN3doZHNkY1d2c2xTd1B1RFFieU93VTB1V3Q2MkXSAYQBQVVfeXFMTVpmZGxjQ0JzRnFmWjR3b1dGZW83ZkduWnNFMkItUURFN2t0MHZTdnpxelJGTlpPaDA3ZHlRRXEyWnFiMUhvNHVKTDdKVWp6dWlYaVQwbWJtVDlxM2dDZGMtSy1mUXVFQVpQblBqRXNDVnZHdnk4a1ZoSzdpdlg2UW9NV0ZO?oc=5\" target=\"_blank\">UK flood alerts mapped as huge parts of country under Met Office weather warnings</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Mirror</font>",
-        "similarity_excluded": "No",
-        "score": 8,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPZlN4eUZWNEg1WC1DLWFyUlhIb1FRTFVNRWZRMks5U0RBQldCRzg3dmV0M1QyZ3h6aFEtVGVxWHcwMDlOMFcxQUdTSi1pNm8tRW1TeGxtbWI4Mko3ZHFETTUwWTJfUzZJRUxuM0ZwYkRjTE5pdGhKZTllV3IzLWdqSDV4eXVCQQ?oc=5",
-        "date": "2026-01-26",
-        "title": "Landslide death toll in Indonesia's West Java climbs to 34 - Latest news from Azerbaijan",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxPZlN4eUZWNEg1WC1DLWFyUlhIb1FRTFVNRWZRMks5U0RBQldCRzg3dmV0M1QyZ3h6aFEtVGVxWHcwMDlOMFcxQUdTSi1pNm8tRW1TeGxtbWI4Mko3ZHFETTUwWTJfUzZJRUxuM0ZwYkRjTE5pdGhKZTllV3IzLWdqSDV4eXVCQQ?oc=5\" target=\"_blank\">Landslide death toll in Indonesia's West Java climbs to 34</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Latest news from Azerbaijan</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOTVFOQVNfQVJtOENuOHc2MDNFVHFZRGs1eWtTWXFULVRObmc2TVNENkc2VlJJa3BYVUkyeGEwTzFzSldRMnRBVmFrOEp5RlpTRENhSDE3RmxQLWVaQnd0UGUwYW1CakFKTnR0OEZVTm45RklxaFA0dXZxcDNDazd2MjV4aFdsbkJvM1EtQnVZTnpkUHdIbXBuYkIxWHVfUU5pSTFUWmZJT0MyNjZPVlRld2pPM1VJSlZZNEthc3ZXNXM1NUxGTDN30gHMAUFVX3lxTE0xaWJQMUtuN3V3MUx3dXl2RFJyRFZtczVoS3Jmd0hyVE5PZUp1cGFicHFvRHJybTBRYkh0a1NjTk9zWEFybjY0SnM3Y01KeXdHcW14UUY4dmhod3BpWUxJTW5DNjZHVUNxR2dVZ3F4QUVQNEhOZTZQM1lERW5wS0lsUUg5NU44YUVNMG9kSDhSZmpOMFVJd1BuYlEzTEFJaUZxOHNFRjZmT3dkUDlDellMNjhQRmhTb2pMSU5tWWNTRjZCdjBHNnNoMHBkUQ?oc=5",
-        "date": "2026-01-26",
-        "title": "At least 17 dead after landslide hits Indonesia's West Java. What was the cause? - theweek.in",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxOTVFOQVNfQVJtOENuOHc2MDNFVHFZRGs1eWtTWXFULVRObmc2TVNENkc2VlJJa3BYVUkyeGEwTzFzSldRMnRBVmFrOEp5RlpTRENhSDE3RmxQLWVaQnd0UGUwYW1CakFKTnR0OEZVTm45RklxaFA0dXZxcDNDazd2MjV4aFdsbkJvM1EtQnVZTnpkUHdIbXBuYkIxWHVfUU5pSTFUWmZJT0MyNjZPVlRld2pPM1VJSlZZNEthc3ZXNXM1NUxGTDN30gHMAUFVX3lxTE0xaWJQMUtuN3V3MUx3dXl2RFJyRFZtczVoS3Jmd0hyVE5PZUp1cGFicHFvRHJybTBRYkh0a1NjTk9zWEFybjY0SnM3Y01KeXdHcW14UUY4dmhod3BpWUxJTW5DNjZHVUNxR2dVZ3F4QUVQNEhOZTZQM1lERW5wS0lsUUg5NU44YUVNMG9kSDhSZmpOMFVJd1BuYlEzTEFJaUZxOHNFRjZmT3dkUDlDellMNjhQRmhTb2pMSU5tWWNTRjZCdjBHNnNoMHBkUQ?oc=5\" target=\"_blank\">At least 17 dead after landslide hits Indonesia's West Java. What was the cause?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">theweek.in</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdWpOYjdUZWl6bThLM2FTMVVJUWNJUXBwTk54WWlGd3NPVmVGLUtmM28zaGdybHFFUXprbjl3bDRqUTF3VFJ4V3NFMTh5RmgtYzhtOVpqdnhHeTJnaGtMU01mdXNOdXJxQ1dEY21rTjZDRzhzTGUzTjhhbkgtMkEwUGxoLXNHU3lCLXc?oc=5",
-        "date": "2026-01-26",
-        "title": "Flood warning issued for West Alabama - tuscaloosanews.com",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxOdWpOYjdUZWl6bThLM2FTMVVJUWNJUXBwTk54WWlGd3NPVmVGLUtmM28zaGdybHFFUXprbjl3bDRqUTF3VFJ4V3NFMTh5RmgtYzhtOVpqdnhHeTJnaGtMU01mdXNOdXJxQ1dEY21rTjZDRzhzTGUzTjhhbkgtMkEwUGxoLXNHU3lCLXc?oc=5\" target=\"_blank\">Flood warning issued for West Alabama</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">tuscaloosanews.com</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1KZEY3Zml3OWxSd3ktX24tUnpSUjhPeEFHcUFEV3NEM0NoYXZRTU9mam12UnJNN29wX3puM0lEV0ROT1RpUjdDbFVxeXFEQ21sR243YzlCaEhVUQ?oc=5",
-        "date": "2026-01-26",
-        "title": "Amber warning for rain as Storm Chandra approaches - BBC",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE1KZEY3Zml3OWxSd3ktX24tUnpSUjhPeEFHcUFEV3NEM0NoYXZRTU9mam12UnJNN29wX3puM0lEV0ROT1RpUjdDbFVxeXFEQ21sR243YzlCaEhVUQ?oc=5\" target=\"_blank\">Amber warning for rain as Storm Chandra approaches</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
-        "similarity_excluded": "No",
-        "score": 8,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNFVvNWt0QlZXZzJFUkRsOGJFbUZxaVBlc2F0aF92QnIwdW56UXE1dkZoX0JOY0E0QmVTZTl3LU1fNDdGTWo3MGIxMnN0X1NZc3ZVaEFRVHBpdDQ3RDVGbjhlVGxic2JRbkVtUmc5ZlBtYUdfdmF5SzB4UHdDOE1ZNEI1WGNZemUwWnRCRHdIRk41NzZIbDFUWHIzNkpfM1dqa3QxNW41UjFqalN2R0hxSGdVQQ?oc=5",
-        "date": "2026-01-26",
-        "title": "Dangerously cold temperatures today - waaytv.com",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQNFVvNWt0QlZXZzJFUkRsOGJFbUZxaVBlc2F0aF92QnIwdW56UXE1dkZoX0JOY0E0QmVTZTl3LU1fNDdGTWo3MGIxMnN0X1NZc3ZVaEFRVHBpdDQ3RDVGbjhlVGxic2JRbkVtUmc5ZlBtYUdfdmF5SzB4UHdDOE1ZNEI1WGNZemUwWnRCRHdIRk41NzZIbDFUWHIzNkpfM1dqa3QxNW41UjFqalN2R0hxSGdVQQ?oc=5\" target=\"_blank\">Dangerously cold temperatures today</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">waaytv.com</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQT0dQNk40ZTFvT1kxQjNOQ0dPSFlQVkJ1dzBQbEx5eTFOWmVidGJRX1E4Z3dCU0w2TkpMTUdzeF9SVzVpM05RMzlTNnlHOGt0ZVJ4R3poY3RyZ2JaNWNMSEp1TGNjTUtNdHVELVoyVHBnNXVCVGtKeGJKNHVKaTdBN1ViakprOVMzUm1na3I0X0hxZ2FzVVBRNW54bkYtbXhxMlhrODZpZWRCaTdPTm80ZzFabw?oc=5",
-        "date": "2026-01-26",
-        "title": "Flood warnings issued across Somerset with Amber warning for rain - ITVX",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQT0dQNk40ZTFvT1kxQjNOQ0dPSFlQVkJ1dzBQbEx5eTFOWmVidGJRX1E4Z3dCU0w2TkpMTUdzeF9SVzVpM05RMzlTNnlHOGt0ZVJ4R3poY3RyZ2JaNWNMSEp1TGNjTUtNdHVELVoyVHBnNXVCVGtKeGJKNHVKaTdBN1ViakprOVMzUm1na3I0X0hxZ2FzVVBRNW54bkYtbXhxMlhrODZpZWRCaTdPTm80ZzFabw?oc=5\" target=\"_blank\">Flood warnings issued across Somerset with Amber warning for rain</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ITVX</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNc05TLWhKcF9YXzBxakpZSnV4Tk1CeG5NQ19iZDRTM2VyWFZmYmJBVFo1WThMQXk1OUVwcnhOY1ZOdU5ybDRFYjdvalpmcmo4UHRLM0IxcGxCQkh0LUVNYnhHTWdWNHkzUzRpUFZxLWFJbDVHNklySkZYb2ZPanhWVlFVWGdxcFU3U3ZnR1FXNVZWR1JrVjRjSVhicmRUYU9hOVpCUGRKWV92QQ?oc=5",
-        "date": "2026-01-26",
-        "title": "West Java Launches Weather Modification as Cisarua Landslide Death Toll Rises - jakartaglobe.id",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNc05TLWhKcF9YXzBxakpZSnV4Tk1CeG5NQ19iZDRTM2VyWFZmYmJBVFo1WThMQXk1OUVwcnhOY1ZOdU5ybDRFYjdvalpmcmo4UHRLM0IxcGxCQkh0LUVNYnhHTWdWNHkzUzRpUFZxLWFJbDVHNklySkZYb2ZPanhWVlFVWGdxcFU3U3ZnR1FXNVZWR1JrVjRjSVhicmRUYU9hOVpCUGRKWV92QQ?oc=5\" target=\"_blank\">West Java Launches Weather Modification as Cisarua Landslide Death Toll Rises</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">jakartaglobe.id</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBmYnFJdzNkTWUxWi1ISzlLRXhTWC1HN1F6WEZGTHN1ZlZ3SlcxZkJJMU9MN3dZVVZ6WmtfWElBLXpVTG1ZOEo5RldWSFRIcUZkT09NdE5YQmJhblBiTkxMX3oxWlJmdXZ2UXBHcWFQaFctemFTcVhvZU93?oc=5",
-        "date": "2026-01-26",
-        "title": "Wind and flood warning as heavy rain set to fall on Northern Ireland - Yahoo News Canada",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTFBmYnFJdzNkTWUxWi1ISzlLRXhTWC1HN1F6WEZGTHN1ZlZ3SlcxZkJJMU9MN3dZVVZ6WmtfWElBLXpVTG1ZOEo5RldWSFRIcUZkT09NdE5YQmJhblBiTkxMX3oxWlJmdXZ2UXBHcWFQaFctemFTcVhvZU93?oc=5\" target=\"_blank\">Wind and flood warning as heavy rain set to fall on Northern Ireland</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo News Canada</font>",
-        "similarity_excluded": "No",
-        "score": 8,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZkNYXzN1Z0p2Ni15aldob1VDdlVRc084M1VHMmtfTU5UXzYyVXg5Qk4wMWFnenhtTzYzYnhXaGVXODREUjJHQjVNTERLNDNybkxzTzVYQ2xxLVF5VkdoLXlaNE1vamI3akYyZk1hM0Z6T1NFNWFnZ2RIU2p3cHd2S0RfdEl0VVNBVHRoOWlVWGs3Q3oxNW8ydFVIVjdOYmJCeVAwRTd5LXRiUEJRVGxF?oc=5",
-        "date": "2026-01-26",
-        "title": "Indonesian marines among 42 missing after deadly West Java landslide - edp24.co.uk",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQZkNYXzN1Z0p2Ni15aldob1VDdlVRc084M1VHMmtfTU5UXzYyVXg5Qk4wMWFnenhtTzYzYnhXaGVXODREUjJHQjVNTERLNDNybkxzTzVYQ2xxLVF5VkdoLXlaNE1vamI3akYyZk1hM0Z6T1NFNWFnZ2RIU2p3cHd2S0RfdEl0VVNBVHRoOWlVWGs3Q3oxNW8ydFVIVjdOYmJCeVAwRTd5LXRiUEJRVGxF?oc=5\" target=\"_blank\">Indonesian marines among 42 missing after deadly West Java landslide</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">edp24.co.uk</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPRnZXQUxKVVdiZ1VqZHdRTEFZa1hnelI0MHhNY2Z2Vm5tbmJlNXFfVU5yOGpXNTdYVFB5dFpFaWJ6bWhQWW5jNlNRNnBqQzlCMnJwLUswY1EyYV9IUFFFRHFhSHRFc2NCVlFzNzJ6WURBbEd3bG5kYTZvZU52azZOSmNOaFRJREQxTkd5Nm9CMUc1a3dnR0w1TTMwdzhOM1M5YlN4S3BEYU9XUmJGcU4zRFFqM0VsaDE1czItRUhrNDNneEswNVNpQlFRRksyM3RLZGlMaGVSZExkZ0NPXy1GWFlLbDRJUGJMUmo4NDBSWFNBSlEwVmdxVg?oc=5",
-        "date": "2026-01-26",
-        "title": "Officials report flooding on County Road 150 in Big Nance Creek area of Lawrence County - waaytv.com",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi-AFBVV95cUxPRnZXQUxKVVdiZ1VqZHdRTEFZa1hnelI0MHhNY2Z2Vm5tbmJlNXFfVU5yOGpXNTdYVFB5dFpFaWJ6bWhQWW5jNlNRNnBqQzlCMnJwLUswY1EyYV9IUFFFRHFhSHRFc2NCVlFzNzJ6WURBbEd3bG5kYTZvZU52azZOSmNOaFRJREQxTkd5Nm9CMUc1a3dnR0w1TTMwdzhOM1M5YlN4S3BEYU9XUmJGcU4zRFFqM0VsaDE1czItRUhrNDNneEswNVNpQlFRRksyM3RLZGlMaGVSZExkZ0NPXy1GWFlLbDRJUGJMUmo4NDBSWFNBSlEwVmdxVg?oc=5\" target=\"_blank\">Officials report flooding on County Road 150 in Big Nance Creek area of Lawrence County</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">waaytv.com</font>",
-        "similarity_excluded": "No",
-        "score": 5,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOdDJzYWl1cWxwcE1td3pSSTUyTGpCbHBVU28wWmxPSDBRYmtHclFnMkJtWWFOci0tOEhrSjMwMjhLVjcwSUJ4VWp3ZkNkQW00QUZtN0dBMnJHU1ZoX3dMNy1wYWJuVEpQem1BOTRCZVhsZXVUNTl0eHJRNG1MSlRVVDlJSnpSYVNnMERMYldlTFVNWV84MFJ3ckRVVHpWSUc3UjI0Z0dXT2RGcDV6SEgzaFVDc3QzSXJmbDMwdnZpamJOS2FuZkZF?oc=5",
-        "date": "2026-01-26",
-        "title": "Bitter cold conditions follow us into the work week - waaytv.com",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxOdDJzYWl1cWxwcE1td3pSSTUyTGpCbHBVU28wWmxPSDBRYmtHclFnMkJtWWFOci0tOEhrSjMwMjhLVjcwSUJ4VWp3ZkNkQW00QUZtN0dBMnJHU1ZoX3dMNy1wYWJuVEpQem1BOTRCZVhsZXVUNTl0eHJRNG1MSlRVVDlJSnpSYVNnMERMYldlTFVNWV84MFJ3ckRVVHpWSUc3UjI0Z0dXT2RGcDV6SEgzaFVDc3QzSXJmbDMwdnZpamJOS2FuZkZF?oc=5\" target=\"_blank\">Bitter cold conditions follow us into the work week</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">waaytv.com</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQQ29VbklhalVnMmVfZnNuc3E4a0s0OVhSWHFLemJ0MWdwbEx5NWRMb0duaml6MWxTLVFFYW1SajVqbDV1TE1DeFJUREsxbFI4QjhycldRdlVfUVhkWVRkQXZWM2haZW03UkJLVG12NXhjSVNzWmo5cDhlcmwzSTE0TDV1Rkl5RHU1YWk1bXJfa1RjSTNJSkRzLW9Ual9iX0hYZWFyaGdBalQ2YzJCSmxkbF9KNmZZZURzREJNM1BfY2VXOE1pbGc5bnJUZVh2cjVZOElDOU5sTXd5aVJod0FWT1JOaU03T1BWS0k3ZDJQUUxONUVYclNmSHFMMA?oc=5",
-        "date": "2026-01-26",
-        "title": "Some North Alabama schools announce closures, delays Tuesday due to winter weather - waaytv.com",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi-wFBVV95cUxQQ29VbklhalVnMmVfZnNuc3E4a0s0OVhSWHFLemJ0MWdwbEx5NWRMb0duaml6MWxTLVFFYW1SajVqbDV1TE1DeFJUREsxbFI4QjhycldRdlVfUVhkWVRkQXZWM2haZW03UkJLVG12NXhjSVNzWmo5cDhlcmwzSTE0TDV1Rkl5RHU1YWk1bXJfa1RjSTNJSkRzLW9Ual9iX0hYZWFyaGdBalQ2YzJCSmxkbF9KNmZZZURzREJNM1BfY2VXOE1pbGc5bnJUZVh2cjVZOElDOU5sTXd5aVJod0FWT1JOaU03T1BWS0k3ZDJQUUxONUVYclNmSHFMMA?oc=5\" target=\"_blank\">Some North Alabama schools announce closures, delays Tuesday due to winter weather</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">waaytv.com</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPU2FsYWpVekRNZGVDVjExRzB4dnZRaktBUXVBamxnclNfQzhvTXNrWUMxVDFFMm85WU9DTnVFdjA5ZU43cHZtUm00dmpnaG5JZnUxZXJkMWt2aHZIWWwzR2dQdmRLMFdRcnduLVdGYmJaVWV1eFIzS0FlQzdJN01ZTGZ2MmJ1U0h2TE1OVWptT3hyWHpza1JVbWNvZzU5Wl9PQzR3ZFNaMVpscFVSUXZPaDViTHFRNjhEdk9uYw?oc=5",
-        "date": "2026-01-26",
-        "title": "Video | Indonesian Marines Among 80 Missing In Deadly West Java Landslide As Search Continues - NDTV",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxPU2FsYWpVekRNZGVDVjExRzB4dnZRaktBUXVBamxnclNfQzhvTXNrWUMxVDFFMm85WU9DTnVFdjA5ZU43cHZtUm00dmpnaG5JZnUxZXJkMWt2aHZIWWwzR2dQdmRLMFdRcnduLVdGYmJaVWV1eFIzS0FlQzdJN01ZTGZ2MmJ1U0h2TE1OVWptT3hyWHpza1JVbWNvZzU5Wl9PQzR3ZFNaMVpscFVSUXZPaDViTHFRNjhEdk9uYw?oc=5\" target=\"_blank\">Video | Indonesian Marines Among 80 Missing In Deadly West Java Landslide As Search Continues</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NDTV</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOMHowN3RLYVlfZ3JGb3U0enBtWEttMkpuV0pMekdnMTh2c3lndjJQeVA1OEYxWHhYdGdNQ3BlYjFUcWgwSm5ISFliYUdwRFlqNFNNbzdmejBERU1raUpjc0RrMldsc1JmanFSLXdJMFlxWTFZV3ZmZUhpUHJSNmRybkdJZ0pQNDQ1emR2U1RXLXY?oc=5",
-        "date": "2026-01-26",
-        "title": "Yellow Weather Warning in place as flooding expected through Tuesday - rdg.today",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxOMHowN3RLYVlfZ3JGb3U0enBtWEttMkpuV0pMekdnMTh2c3lndjJQeVA1OEYxWHhYdGdNQ3BlYjFUcWgwSm5ISFliYUdwRFlqNFNNbzdmejBERU1raUpjc0RrMldsc1JmanFSLXdJMFlxWTFZV3ZmZUhpUHJSNmRybkdJZ0pQNDQ1emR2U1RXLXY?oc=5\" target=\"_blank\">Yellow Weather Warning in place as flooding expected through Tuesday</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">rdg.today</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWGg1LUg3MkJYamZIV3JhR2Q3WmtackRfWExKbm5QdUlmRXNCN3F2aGEzT0R5dmpNNk5RS0RDcGphX3pjX2JqTkxOZ3FvWWlrTnFaN3BTd3FUbkNqZEpnOWNNWXNKdk5JSDBhSlVtb3ZRQXF1ZWhDd3puMG1fcmFGcmNIdmlYN3JiT0JUVHpGQ1RQbjJaOVZGamhBNDJSNWMwYzdZYXFiVGE?oc=5",
-        "date": "2026-01-26",
-        "title": "Flood advisory for Newaygo County until Tuesday evening - mlive.com",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWGg1LUg3MkJYamZIV3JhR2Q3WmtackRfWExKbm5QdUlmRXNCN3F2aGEzT0R5dmpNNk5RS0RDcGphX3pjX2JqTkxOZ3FvWWlrTnFaN3BTd3FUbkNqZEpnOWNNWXNKdk5JSDBhSlVtb3ZRQXF1ZWhDd3puMG1fcmFGcmNIdmlYN3JiT0JUVHpGQ1RQbjJaOVZGamhBNDJSNWMwYzdZYXFiVGE?oc=5\" target=\"_blank\">Flood advisory for Newaygo County until Tuesday evening</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">mlive.com</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOVmR0cUx6d3luQzRBZEgxSV80WU9adEdOODhWQmhEc1NUS256X1FlYko4djFXeWFpV0I2R2FzWTBua0E3d2gyZ3BiUmxUYVNLTzRBVzEwMlpfQjFyYk1ISTJ4cDZNb1B3OXMtTHJSREVMdmpBNW1XOUVnc1dKbHFRbm9Iako5dE0?oc=5",
-        "date": "2026-01-26",
-        "title": "Road flooded near County Rd. 150 in Lawrence County - waff.com",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxOVmR0cUx6d3luQzRBZEgxSV80WU9adEdOODhWQmhEc1NUS256X1FlYko4djFXeWFpV0I2R2FzWTBua0E3d2gyZ3BiUmxUYVNLTzRBVzEwMlpfQjFyYk1ISTJ4cDZNb1B3OXMtTHJSREVMdmpBNW1XOUVnc1dKbHFRbm9Iako5dE0?oc=5\" target=\"_blank\">Road flooded near County Rd. 150 in Lawrence County</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">waff.com</font>",
-        "similarity_excluded": "No",
-        "score": 5,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPak00YTU5dDlpRFFpUmdXUGJEVV9ZWTNsUm5ZVjVqSGo0dVJGc0lsWW85WmdQei1mUnVNZWMzN0NTdVhpTVZJWXRCRnIteWxTcTdZc3VyUm5lRHFsZ0taSkFXRUpGVnM5UElod3F3eWJKZkF6a0FjVktvY2g4RG1aUzU1UG1qaW5GYkJxMWhfTjJSOWJmREh5TnVYTDFrcUxSRWVNX2hqVGcxMVM2UFE?oc=5",
-        "date": "2026-01-26",
-        "title": "Ice covers roads in Dallas, Texas - waaytv.com",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPak00YTU5dDlpRFFpUmdXUGJEVV9ZWTNsUm5ZVjVqSGo0dVJGc0lsWW85WmdQei1mUnVNZWMzN0NTdVhpTVZJWXRCRnIteWxTcTdZc3VyUm5lRHFsZ0taSkFXRUpGVnM5UElod3F3eWJKZkF6a0FjVktvY2g4RG1aUzU1UG1qaW5GYkJxMWhfTjJSOWJmREh5TnVYTDFrcUxSRWVNX2hqVGcxMVM2UFE?oc=5\" target=\"_blank\">Ice covers roads in Dallas, Texas</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">waaytv.com</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPMFlZRlJncUcwVXl3YW1lYWlJUjJyQ1dBazM2MDN0NmRlV05WdlZkbEw0bHpNWHhIaHpjbmFLNExiZU16MHpEMzVuRzRZWU1kam1FVGI2eEFXSXAtSWM1cUU2WTYwM00yTmw0Z3RtbU83dDlzNkUweDVKUkNpMi1EeHMyZDN5WEN4SXpNdnM2V2RxbUNwTHltWjBuQ3BVUE1RMEN3WjE5ZmZucUZJSFk5TGFLNk1vQXpKMFFpYnd1a19yTTFaSXl6aVl3Q0Y0dlNDdUhQX1JPR2FncG1ZWUgtUTUwcnk1SkFucmo5aFJtUVExZDVxa3ZRM1FUSkt6Y2FVbExsbEw3SWVpZw?oc=5",
-        "date": "2026-01-26",
-        "title": "Flash Flood becomes Illinois' first major Smash Bros. tournament with a 256 player bracket - videtteonline.com",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigJBVV95cUxPMFlZRlJncUcwVXl3YW1lYWlJUjJyQ1dBazM2MDN0NmRlV05WdlZkbEw0bHpNWHhIaHpjbmFLNExiZU16MHpEMzVuRzRZWU1kam1FVGI2eEFXSXAtSWM1cUU2WTYwM00yTmw0Z3RtbU83dDlzNkUweDVKUkNpMi1EeHMyZDN5WEN4SXpNdnM2V2RxbUNwTHltWjBuQ3BVUE1RMEN3WjE5ZmZucUZJSFk5TGFLNk1vQXpKMFFpYnd1a19yTTFaSXl6aVl3Q0Y0dlNDdUhQX1JPR2FncG1ZWUgtUTUwcnk1SkFucmo5aFJtUVExZDVxa3ZRM1FUSkt6Y2FVbExsbEw3SWVpZw?oc=5\" target=\"_blank\">Flash Flood becomes Illinois' first major Smash Bros. tournament with a 256 player bracket</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">videtteonline.com</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPM2FZQm5hQ0QyMnBhQWpubjVvMHQ5QkROSXUtMC1aUTY3N193dWhpOXlaWkxTZE44aWN1NG5oWjlVMGh5a0dRZUdXMUx0R19tWTJuX3BSVnVaeWlxQ1NmajV1RHkwT0wtWnB0Q3ItVURYU25GTDdqQ3BjTGNudEMybVBiVDRVTTB3S1pEaDhKd281YzBsOG1COERhWmF5eEpEZkhMQTRFVnV2MFdxYzBmaWZwRm53aXUyZE1fR1piLUtJTXkxTzJOdjZqVzZmYTBGZnRVQUVEVjFHVC15R0M1T2liMTZaMjhIcVFpUTJR?oc=5",
-        "date": "2026-01-26",
-        "title": "POLITICO\u2019s California Playbook | Federal Flood Insurance Set to Expire | Everywhere Science Flash Film Challenge - capradio.org",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7gFBVV95cUxPM2FZQm5hQ0QyMnBhQWpubjVvMHQ5QkROSXUtMC1aUTY3N193dWhpOXlaWkxTZE44aWN1NG5oWjlVMGh5a0dRZUdXMUx0R19tWTJuX3BSVnVaeWlxQ1NmajV1RHkwT0wtWnB0Q3ItVURYU25GTDdqQ3BjTGNudEMybVBiVDRVTTB3S1pEaDhKd281YzBsOG1COERhWmF5eEpEZkhMQTRFVnV2MFdxYzBmaWZwRm53aXUyZE1fR1piLUtJTXkxTzJOdjZqVzZmYTBGZnRVQUVEVjFHVC15R0M1T2liMTZaMjhIcVFpUTJR?oc=5\" target=\"_blank\">POLITICO\u2019s California Playbook | Federal Flood Insurance Set to Expire | Everywhere Science Flash Film Challenge</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">capradio.org</font>",
-        "similarity_excluded": "No",
-        "score": 6,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQYW51X3k1cnI1S1JxazVXVjBITm9FZmtUcHRPNVotQUpCUmh4OHJJTlNEYUo1T2t4RmNmQmhVb1lKNmlZUmVEaVExaDBTT0ZobEpfZmVRZXNud01Nak4zazQ2S0ZvVGNBVTZJdkZfU1NUdnhjOG4wR0xJS21iUnhwc0V1R1BBWER1bjI5SVA1eXpGSGl3aWNYRFNmWEtKeVlhVE1wcldLY2lFOU1ZZnYxYU1YS2pXbVlMV1BYUElmaklfdlV5MFZWN2JCVGRYYVA2VmFqbDRTM1VRa1A4aWZaZnFHSExKZUd3TFM0TlFRSEVUMXdwQzgya3FjTnhvcW1VSmZzTFJBRm91c00?oc=5",
-        "date": "2026-01-26",
-        "title": "Celebrities like Pedro Pascal and Billie Eilish begin to condemn deadly shootings in Minneapolis amid ICE surge - waaytv.com",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwJBVV95cUxQYW51X3k1cnI1S1JxazVXVjBITm9FZmtUcHRPNVotQUpCUmh4OHJJTlNEYUo1T2t4RmNmQmhVb1lKNmlZUmVEaVExaDBTT0ZobEpfZmVRZXNud01Nak4zazQ2S0ZvVGNBVTZJdkZfU1NUdnhjOG4wR0xJS21iUnhwc0V1R1BBWER1bjI5SVA1eXpGSGl3aWNYRFNmWEtKeVlhVE1wcldLY2lFOU1ZZnYxYU1YS2pXbVlMV1BYUElmaklfdlV5MFZWN2JCVGRYYVA2VmFqbDRTM1VRa1A4aWZaZnFHSExKZUd3TFM0TlFRSEVUMXdwQzgya3FjTnhvcW1VSmZzTFJBRm91c00?oc=5\" target=\"_blank\">Celebrities like Pedro Pascal and Billie Eilish begin to condemn deadly shootings in Minneapolis amid ICE surge</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">waaytv.com</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNc3hfd0ZwZTlBS29OT3pEQlRRVDEwVGJDaWpoWXk3aEd6Z0xNbXpJLXlydGpQMzI3VktJcE1UbWNBRTFLdXVialRtRHN0RE1iN3pMY3V2X2pPeFRadnk2TTBWS290NE9ITkViR1ZVU3dFZFZCclBSMklCVl9DTmQ5ZjNVU3VHWWpLaXJ3ZVNMZnNnemxCNkN0bTBzYkZwVms1NFlhOTB6bzVRZm9lb3NsUEt6SHZFck0zVlpQUkhoNHh3ZDRveUpLZU4xY2tSY3NEQVNwSjUtektwbTZqc2tIR2ZVZmtLYmYzcWhqcDlyWUNRekFkazdsUjFqVWxHNm8?oc=5",
-        "date": "2026-01-26",
-        "title": "Karoline Leavitt: Shooting of Alex Pretti a 'result of deliberate and hostile' resistance by Dem leaders - waaytv.com",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_wFBVV95cUxNc3hfd0ZwZTlBS29OT3pEQlRRVDEwVGJDaWpoWXk3aEd6Z0xNbXpJLXlydGpQMzI3VktJcE1UbWNBRTFLdXVialRtRHN0RE1iN3pMY3V2X2pPeFRadnk2TTBWS290NE9ITkViR1ZVU3dFZFZCclBSMklCVl9DTmQ5ZjNVU3VHWWpLaXJ3ZVNMZnNnemxCNkN0bTBzYkZwVms1NFlhOTB6bzVRZm9lb3NsUEt6SHZFck0zVlpQUkhoNHh3ZDRveUpLZU4xY2tSY3NEQVNwSjUtektwbTZqc2tIR2ZVZmtLYmYzcWhqcDlyWUNRekFkazdsUjFqVWxHNm8?oc=5\" target=\"_blank\">Karoline Leavitt: Shooting of Alex Pretti a 'result of deliberate and hostile' resistance by Dem leaders</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">waaytv.com</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
         "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQblluTzdoVjc2MTV0dDAwYzlJUkhTMXlKWGNBMmpMWFZndkF3VnJzbmlYTS1pUlRzNWNIcGQtSzVmSWtCckpVQW5vSVZBWEdTZ0QxNW9aRDRZQ2MyOHZVcmhoNGpDcEtnemxJOFVqejJGa0FpYzhCeC0tRWtWY05Cb3FSbkZPekI2YWJ3UzYzLXZXQjhfUWtNRUN0WjVKeHNaMnVrTzVidy1NWmY1LXBSdUg0NElpYjl1S2d5dXpZeTlfMUFkOElnQ3ZkMm9VZVBLcVBsNGFwYWFScENtYkFOQllEZkxXVE0?oc=5",
         "date": "2026-01-27",
         "title": "Karoline Leavitt: Donald Trump has simple path to 'restore order' in Minnesota - waaytv.com",
@@ -11543,6 +10990,66 @@
         "similarity_excluded": "No",
         "score": 9,
         "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5xUld5b3E0ak83V2plUUxkNlVUU2pNWGxSZDk4R0RzSExpajg2SmhxY3ZLYmt0VG5wU3VoOHhnVVlfa2lkWjVydlhFSU5EY0l5c2VwVnVnc1NSZ0VweWdvSHBhSmhPOGtTVTFFSG01VGMtbmM?oc=5",
+        "date": "2026-02-25",
+        "title": "UPDATE: Flood warning for Mendocino County Tuesday evening, says the NWS - Fresno Bee",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE5xUld5b3E0ak83V2plUUxkNlVUU2pNWGxSZDk4R0RzSExpajg2SmhxY3ZLYmt0VG5wU3VoOHhnVVlfa2lkWjVydlhFSU5EY0l5c2VwVnVnc1NSZ0VweWdvSHBhSmhPOGtTVTFFSG01VGMtbmM?oc=5\" target=\"_blank\">UPDATE: Flood warning for Mendocino County Tuesday evening, says the NWS</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fresno Bee</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1FMXppcmtHa1QweVM1MzFndF9FM2ppa1FFeU1NYXlJMDd2NU1yV0xkN3pwelpIdW9IaU9VYzVKako2ZlZxd1hNTERyanJfeFlQdFdQMWdEZ2JEM1pxNFB2MkYwRDFnOGxUbWo1TWhvNA?oc=5",
+        "date": "2026-02-25",
+        "title": "UPDATE: Flood warning in place for Humboldt County Tuesday afternoon caused by intense rain - Modesto Bee",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE1FMXppcmtHa1QweVM1MzFndF9FM2ppa1FFeU1NYXlJMDd2NU1yV0xkN3pwelpIdW9IaU9VYzVKako2ZlZxd1hNTERyanJfeFlQdFdQMWdEZ2JEM1pxNFB2MkYwRDFnOGxUbWo1TWhvNA?oc=5\" target=\"_blank\">UPDATE: Flood warning in place for Humboldt County Tuesday afternoon caused by intense rain</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Modesto Bee</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZ1BELWxsM1NUMjRhenVVLXdGN0JYZXNlYktWWThuczA4SWpkX1RZMFp2bDVXWVh5eUI0NUxpRVNFOWFKaEtLbWMtSHhoNTFkRkZQWm5pbWtoanUxQUNaVHBwTExieEJFY29qZHJmQVhEaEZia0cxZEszbkVZV1hEXzBFeERIVGl0LVY3RWVrSlZGbXhEaFE?oc=5",
+        "date": "2026-02-25",
+        "title": "Flood warning issued for Eel River at Fernbridge - Times-Standard",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPZ1BELWxsM1NUMjRhenVVLXdGN0JYZXNlYktWWThuczA4SWpkX1RZMFp2bDVXWVh5eUI0NUxpRVNFOWFKaEtLbWMtSHhoNTFkRkZQWm5pbWtoanUxQUNaVHBwTExieEJFY29qZHJmQVhEaEZia0cxZEszbkVZV1hEXzBFeERIVGl0LVY3RWVrSlZGbXhEaFE?oc=5\" target=\"_blank\">Flood warning issued for Eel River at Fernbridge</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Times-Standard</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4zdDVaMGdaSXhyeVJCRE9oTlFVOFczN0dXenVNTDd0Z25BLUdEc1lQWk1OTkx3eXJWUFJHTnpvVUcyRy1xWWctMTdhbG1SUWtrQjhSZGJFeG1XTnV6MWwwblVqUnpVLWJIZHlVTk5GMA?oc=5",
+        "date": "2026-02-25",
+        "title": "UPDATE: Flood warning affecting Humboldt County until Wednesday midday - Sacramento Bee",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE4zdDVaMGdaSXhyeVJCRE9oTlFVOFczN0dXenVNTDd0Z25BLUdEc1lQWk1OTkx3eXJWUFJHTnpvVUcyRy1xWWctMTdhbG1SUWtrQjhSZGJFeG1XTnV6MWwwblVqUnpVLWJIZHlVTk5GMA?oc=5\" target=\"_blank\">UPDATE: Flood warning affecting Humboldt County until Wednesday midday</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sacramento Bee</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOdEJ4RGswUnpOR1RPc05MQXZIcE9GQk92ZDhDMHRXVTNZcnY1YU56Y2JaUlBPLU8wUF9VZG9PSXR3RGtNSkhBZkFkSGtlOUExaThKVDIzMjVieFNmYVJfY3JWc2d2Wk4ycmVoTmwyUndyZTJ6VHFNSThZTEpESGJFQzQ4NnRSRW1CZWU0OWhDOHQySTVmTnJvRGlVWlpLR1N0aTBHWmN0S2Q2OWFvYnhQS2hkaXNnTmJ2bVE?oc=5",
+        "date": "2026-02-25",
+        "title": "Heavy Rain Pushes Rivers Toward Flood Stage, Roads Impacted Across Northwest California - Redheaded Blackbelt",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxOdEJ4RGswUnpOR1RPc05MQXZIcE9GQk92ZDhDMHRXVTNZcnY1YU56Y2JaUlBPLU8wUF9VZG9PSXR3RGtNSkhBZkFkSGtlOUExaThKVDIzMjVieFNmYVJfY3JWc2d2Wk4ycmVoTmwyUndyZTJ6VHFNSThZTEpESGJFQzQ4NnRSRW1CZWU0OWhDOHQySTVmTnJvRGlVWlpLR1N0aTBHWmN0S2Q2OWFvYnhQS2hkaXNnTmJ2bVE?oc=5\" target=\"_blank\">Heavy Rain Pushes Rivers Toward Flood Stage, Roads Impacted Across Northwest California</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Redheaded Blackbelt</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWkNVR3NFYWNxZXRjenhiVlJKcWFSVHlIbE81WGlBWm1MN21QR3dNS19qWHc2dnBtRUdGQnNHbE5yOHlBQzBnZ0t6MC1DQ1h1WkdmU2xxYjE3SGhZZVdycFZiNVJ0UjROOElxOHdrMi1GTkhkV0RvcG9SU20wbXZkMUVzb09NUVB1NFZLaEQ4WVBjUGpBSnF5M3U3cWlSM2FNLVBXTVg2cTY?oc=5",
+        "date": "2026-02-25",
+        "title": "Flood warning issued for Eel River at Fernbridge - MSN",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWkNVR3NFYWNxZXRjenhiVlJKcWFSVHlIbE81WGlBWm1MN21QR3dNS19qWHc2dnBtRUdGQnNHbE5yOHlBQzBnZ0t6MC1DQ1h1WkdmU2xxYjE3SGhZZVdycFZiNVJ0UjROOElxOHdrMi1GTkhkV0RvcG9SU20wbXZkMUVzb09NUVB1NFZLaEQ4WVBjUGpBSnF5M3U3cWlSM2FNLVBXTVg2cTY?oc=5\" target=\"_blank\">Flood warning issued for Eel River at Fernbridge</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
         "tweet": null
     }
 ]
