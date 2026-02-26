@@ -8763,10 +8763,14 @@
     "rain_mm": 91.81,
     "soil_moisture": 0.733,
     "raw_dynamic_score": 15.346,
-    "last_updated": "2026-02-26T06:56:02.996223Z",
+    "last_updated": "2026-02-26T09:46:15.675986Z",
     "last_tweeted_at": "2026-02-25T09:49:51.790456Z",
     "tweet_id": "2026595773505319130",
-    "resolved": false
+    "resolved": false,
+    "pending_downgrade": true,
+    "pending_target_level": "Medium",
+    "pending_set_at": "2026-02-26T09:46:15.675986Z",
+    "pending_is_region": true
   },
   "-24.5094,-48.8425": {
     "country": "Brazil",
