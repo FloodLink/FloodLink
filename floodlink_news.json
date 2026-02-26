@@ -11141,5 +11141,14 @@
             "longitude": -82.56,
             "confidence": 0.9
         }
+    },
+    {
+        "link": null,
+        "date": "2026-02-26",
+        "status": "posted",
+        "tweet": "Global economic losses from floods, flash floods, and extreme rainfall are projected to hit $400B in 2026\u2014up 60% from 2020 levels due to intensifying climate impacts.",
+        "type": "statistical",
+        "category": "economic losses from floods and flash floods",
+        "tweet_id": "2027160949602345332"
     }
 ]
