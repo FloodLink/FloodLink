@@ -11028,5 +11028,15 @@
         "score": 10,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBuQjZhY1hNbmVxZDBBc0ctLXpKaHNwcVlWdmhmMEtFZTU4ZDFHaWpGYm84NE1xV1VRUHpWRFViOFM3WEpiektRT2M0ei1IVDN4Zkt4RDJ4ZHpicXBucFV5ZkFCUi1kSjU1Z0t3RlRlWG5lcmlVMjhnbg?oc=5",
+        "date": "2026-02-26",
+        "title": "Flood warning active for Butte and Glenn counties until Thursday night - San Luis Obispo Tribune",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFBuQjZhY1hNbmVxZDBBc0ctLXpKaHNwcVlWdmhmMEtFZTU4ZDFHaWpGYm84NE1xV1VRUHpWRFViOFM3WEpiektRT2M0ei1IVDN4Zkt4RDJ4ZHpicXBucFV5ZkFCUi1kSjU1Z0t3RlRlWG5lcmlVMjhnbg?oc=5\" target=\"_blank\">Flood warning active for Butte and Glenn counties until Thursday night</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">San Luis Obispo Tribune</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
     }
 ]
