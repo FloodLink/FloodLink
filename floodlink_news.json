@@ -10995,5 +10995,62 @@
         "score": 0,
         "status": "skipped",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNcnNGSWhuZ2hOTkJPd1luWjVwQ29KMkx3cTdzZFlMT29KSjRtaUhrVlJ6cFczMmV6akphb09JOFV3cUhkSWpYS2NNaG91c2o4SUxlTkRHZzJMTnFTMWtGNmZiN3dMak9Vb21ieFBEZUI5X0ZnN2dPTjJ5UWlpRXRocDJiZThlZVUyNlMxLWZUUQ?oc=5",
+        "date": "2026-02-27",
+        "title": "Flash Flood Warning For Metro Atlanta Counties Through 6:30 AM - Hoodline",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxNcnNGSWhuZ2hOTkJPd1luWjVwQ29KMkx3cTdzZFlMT29KSjRtaUhrVlJ6cFczMmV6akphb09JOFV3cUhkSWpYS2NNaG91c2o4SUxlTkRHZzJMTnFTMWtGNmZiN3dMak9Vb21ieFBEZUI5X0ZnN2dPTjJ5UWlpRXRocDJiZThlZVUyNlMxLWZUUQ?oc=5\" target=\"_blank\">Flash Flood Warning For Metro Atlanta Counties Through 6:30 AM</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Hoodline</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQdHY5Y3ZPU2UxZ1NLazl0RU1zTmczNVhIMGtMSjJ1TUw1ZmRqaXg2WlZNNnlXRzFXTFhkSk1FNHctZFlfRW41VTg0dDU3S0hsR1F1M0REOFFaRkc0MnNHYl9YbEg3SExwRTc4WWptSG85QkYyb3NrcndtTVhLcTIxblJfelZGSmRBM2xSdzJmd05qTWZVU01KeEdxZU1lSmxNcFJjNA?oc=5",
+        "date": "2026-02-27",
+        "title": "Latin America & The Caribbean Weekly Situation Update as of 27 February 2026 - ReliefWeb",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQdHY5Y3ZPU2UxZ1NLazl0RU1zTmczNVhIMGtMSjJ1TUw1ZmRqaXg2WlZNNnlXRzFXTFhkSk1FNHctZFlfRW41VTg0dDU3S0hsR1F1M0REOFFaRkc0MnNHYl9YbEg3SExwRTc4WWptSG85QkYyb3NrcndtTVhLcTIxblJfelZGSmRBM2xSdzJmd05qTWZVU01KeEdxZU1lSmxNcFJjNA?oc=5\" target=\"_blank\">Latin America & The Caribbean Weekly Situation Update as of 27 February 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ReliefWeb</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPRUlkaG5Yb0pyU2NBbGZPQUlyX0FWdWxCNlhjTU1vWVZndjYzYmhSUHVnZHdpQ1RUajNkR25BajYySG92U0ZaY2FZakRqVUFjdVFjUDB4NmNrUGktVG8zakNSRVJXcnEtOU41VWRMd3d6SndNNEQtYVVZN1JONDJCRW90b09oRzBkRXZOQjNCT2pYY0x3S29SRHVfT1VvZHhwQW1NbWhCc0VpLXhmNTc0NDlKazZtZmNYSzhiVzJYamhzeVBIM1B3?oc=5",
+        "date": "2026-02-27",
+        "title": "Search for Brazil flood survivors continues as death toll rises to 64 - The Washington Post",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxPRUlkaG5Yb0pyU2NBbGZPQUlyX0FWdWxCNlhjTU1vWVZndjYzYmhSUHVnZHdpQ1RUajNkR25BajYySG92U0ZaY2FZakRqVUFjdVFjUDB4NmNrUGktVG8zakNSRVJXcnEtOU41VWRMd3d6SndNNEQtYVVZN1JONDJCRW90b09oRzBkRXZOQjNCT2pYY0x3S29SRHVfT1VvZHhwQW1NbWhCc0VpLXhmNTc0NDlKazZtZmNYSzhiVzJYamhzeVBIM1B3?oc=5\" target=\"_blank\">Search for Brazil flood survivors continues as death toll rises to 64</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Washington Post</font>",
+        "similarity_excluded": "No",
+        "score": 10,
+        "status": "processed",
+        "tweet": null,
+        "tweet_id": "2027492574735356366",
+        "geo": {
+            "country": "Brazil",
+            "name": "Porto Alegre, Rio Grande do Sul",
+            "latitude": -30.0331,
+            "longitude": -51.23,
+            "confidence": 0.95
+        }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPRUlkaG5Yb0pyU2NBbGZPQUlyX0FWdWxCNlhjTU1vWVZndjYzYmhSUHVnZHdpQ1RUajNkR25BajYySG92U0ZaY2FZakRqVUFjdVFjUDB4NmNrUGktVG8zakNSRVJXcnEtOU41VWRMd3d6SndNNEQtYVVZN1JONDJCRW90b09oRzBkRXZOQjNCT2pYY0x3S29SRHVfT1VvZHhwQW1NbWhCc0VpLXhmNTc0NDlKazZtZmNYSzhiVzJYamhzeVBIM1B3?oc=5",
+        "date": "2026-02-27",
+        "title": "Search for Brazil flood survivors continues as death toll rises to 64 - The Washington Post",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxPRUlkaG5Yb0pyU2NBbGZPQUlyX0FWdWxCNlhjTU1vWVZndjYzYmhSUHVnZHdpQ1RUajNkR25BajYySG92U0ZaY2FZakRqVUFjdVFjUDB4NmNrUGktVG8zakNSRVJXcnEtOU41VWRMd3d6SndNNEQtYVVZN1JONDJCRW90b09oRzBkRXZOQjNCT2pYY0x3S29SRHVfT1VvZHhwQW1NbWhCc0VpLXhmNTc0NDlKazZtZmNYSzhiVzJYamhzeVBIM1B3?oc=5\" target=\"_blank\">Search for Brazil flood survivors continues as death toll rises to 64</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Washington Post</font>",
+        "similarity_excluded": "No",
+        "score": 10,
+        "status": "posted",
+        "tweet": "\ud83c\udde7\ud83c\uddf7 POST-EVENT Southern Brazil: Search for flood survivors continues as death toll rises to 64. (Washington Post)",
+        "type": "news",
+        "tweet_id": "2027492574735356366",
+        "geo": {
+            "country": "Brazil",
+            "name": "Porto Alegre, Rio Grande do Sul",
+            "latitude": -30.0331,
+            "longitude": -51.23,
+            "confidence": 0.95
+        }
     }
 ]
