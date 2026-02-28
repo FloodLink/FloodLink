@@ -10615,5 +10615,14 @@
             "longitude": 138.6007,
             "confidence": 0.95
         }
+    },
+    {
+        "link": null,
+        "date": "2026-02-28",
+        "status": "posted",
+        "tweet": "By 2026, annual global economic losses from floods, flash floods, and storm surges are projected to exceed $150 billion, up 50% from 2020 levels due to intensifying climate extremes.",
+        "type": "statistical",
+        "category": "economic losses from floods and flash floods",
+        "tweet_id": "2027597171638329855"
     }
 ]
