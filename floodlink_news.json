@@ -10681,5 +10681,14 @@
             "longitude": 177.45,
             "confidence": 0.95
         }
+    },
+    {
+        "link": null,
+        "date": "2026-02-28",
+        "status": "posted",
+        "tweet": "By 2030, an estimated 2.6 billion people worldwide will live in floodplains at risk from river floods, flash floods, and extreme rainfall\u2014up from 1.8B in 2020. (UN & World Bank projections)",
+        "type": "statistical",
+        "category": "population living in floodplains",
+        "tweet_id": "2027665264041476434"
     }
 ]
