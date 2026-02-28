@@ -8229,7 +8229,7 @@
     "rain_mm": 57.94,
     "soil_moisture": 0.555,
     "raw_dynamic_score": 8.754,
-    "last_updated": "2026-02-28T04:18:19.243468Z",
+    "last_updated": "2026-02-28T06:33:39.894003Z",
     "last_tweeted_at": "2026-02-24T18:57:28.090997Z",
     "tweet_id": "2026370951626240068",
     "resolved": false
@@ -8826,7 +8826,7 @@
     "rain_mm": 77.12,
     "soil_moisture": 0.685,
     "raw_dynamic_score": 12.554,
-    "last_updated": "2026-02-28T04:18:19.243468Z",
+    "last_updated": "2026-02-28T06:33:39.894003Z",
     "last_tweeted_at": "2026-02-28T04:18:19.243468Z",
     "tweet_id": "2027599253137137721",
     "resolved": false
@@ -8954,16 +8954,16 @@
   "-6.8354,-40.6130": {
     "country": "Brazil",
     "name": "Pio IX",
-    "risk_level": "Medium",
-    "tweeted_level": "Medium",
+    "risk_level": "High",
+    "tweeted_level": "High",
     "latitude": -6.83535,
     "longitude": -40.61297,
-    "rain_mm": 58.38,
-    "soil_moisture": 0.527,
-    "raw_dynamic_score": 8.669,
-    "last_updated": "2026-02-28T04:18:19.243468Z",
-    "last_tweeted_at": "2026-02-28T04:18:19.243468Z",
-    "tweet_id": "2027599506112438353",
+    "rain_mm": 94.56,
+    "soil_moisture": 0.604,
+    "raw_dynamic_score": 14.707,
+    "last_updated": "2026-02-28T06:33:39.894003Z",
+    "last_tweeted_at": "2026-02-28T06:33:39.894003Z",
+    "tweet_id": "2027633319009996831",
     "resolved": false
   },
   "-7.2134,-40.1370": {
@@ -8976,7 +8976,7 @@
     "rain_mm": 57.19,
     "soil_moisture": 0.523,
     "raw_dynamic_score": 8.472,
-    "last_updated": "2026-02-28T04:18:19.243468Z",
+    "last_updated": "2026-02-28T06:33:39.894003Z",
     "last_tweeted_at": "2026-02-28T04:18:19.243468Z",
     "tweet_id": "2027599758781509862",
     "resolved": false
@@ -8991,9 +8991,24 @@
     "rain_mm": 46.75,
     "soil_moisture": 0.731,
     "raw_dynamic_score": 7.804,
-    "last_updated": "2026-02-28T04:18:19.243468Z",
+    "last_updated": "2026-02-28T06:33:39.894003Z",
     "last_tweeted_at": "2026-02-28T04:18:19.243468Z",
     "tweet_id": "2027600011278639245",
+    "resolved": false
+  },
+  "-17.0822,-40.9358": {
+    "country": "Brazil",
+    "name": "Águas Formosas",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": -17.08222,
+    "longitude": -40.93583,
+    "rain_mm": 49.56,
+    "soil_moisture": 0.699,
+    "raw_dynamic_score": 8.13,
+    "last_updated": "2026-02-28T06:33:39.894003Z",
+    "last_tweeted_at": "2026-02-28T06:33:39.894003Z",
+    "tweet_id": "2027633572044025989",
     "resolved": false
   }
 }
