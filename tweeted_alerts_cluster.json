@@ -8339,26 +8339,6 @@
     "tweet_id": "2026595520936816780",
     "resolved": false
   },
-  "-6.6447,-51.9950": {
-    "country": "Brazil",
-    "name": "São Félix do Xingu",
-    "risk_level": "Low",
-    "tweeted_level": "High",
-    "latitude": -6.64472,
-    "longitude": -51.995,
-    "rain_mm": 7.0,
-    "soil_moisture": 0.713,
-    "raw_dynamic_score": 1.157,
-    "last_updated": "2026-02-28T04:18:19.243468Z",
-    "last_tweeted_at": "2026-02-27T12:44:36.834013Z",
-    "tweet_id": "2027364285471490544",
-    "resolved": true,
-    "resolved_at": "2026-02-27T12:44:36.834013Z",
-    "pending_downgrade": true,
-    "pending_target_level": "Low",
-    "pending_set_at": "2026-02-28T04:18:19.243468Z",
-    "pending_is_region": true
-  },
   "-24.5094,-48.8425": {
     "country": "Brazil",
     "name": "Apiaí",
@@ -8826,7 +8806,7 @@
     "rain_mm": 77.12,
     "soil_moisture": 0.685,
     "raw_dynamic_score": 12.554,
-    "last_updated": "2026-02-28T12:34:48.435918Z",
+    "last_updated": "2026-02-28T15:20:14.908202Z",
     "last_tweeted_at": "2026-02-28T04:18:19.243468Z",
     "tweet_id": "2027599253137137721",
     "resolved": false
@@ -9014,7 +8994,7 @@
     "rain_mm": 49.56,
     "soil_moisture": 0.699,
     "raw_dynamic_score": 8.13,
-    "last_updated": "2026-02-28T09:24:24.153412Z",
+    "last_updated": "2026-02-28T15:20:14.908202Z",
     "last_tweeted_at": "2026-02-28T06:33:39.894003Z",
     "tweet_id": "2027633572044025989",
     "resolved": false
