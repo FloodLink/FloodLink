@@ -10316,5 +10316,62 @@
         "score": 0,
         "status": "skipped",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWjVNWUVtTDJtRDVZdUFoMWg5MWRPck9faDNGVmNHV05SVmFkSVhhLWlKSlpKdF96TmhPWW0tdmZxQ3BWNk9tTnk4OG1OS0lPYWhUTzBiYWxObnRZNDFWdmtCTkRXdUVPYUJMd1QzSk1pWmZrSVRXSUVrUkE0SlJRcTQycnFSbHc5ZE11NERyRlBKWWYtTE9pSm9CWi1WdWdEOExWVWpBZ0xZWGFfZEh1YS1GRi1qd3pk0gG-AUFVX3lxTFBBbEliRWR4RWRFdTZUZUlidFdGVkRvUW1PcTBaVW9PWGh3dXF3RWNCOFhvRFhtd1cyVE1GNGpFbkx2YnZ3MU9sSFJySzNIYlhuVmpiTF9hVmEyNFBOWUdvMkZqendKVEE4aFNUT1pTUy1CRXFiOFp6SHVEdUZKcmxoeWRldHY5VXcwRkkwUUdYXzVydVlFOXYxSVFHT0d6NGRVR0U1YVFPUlNfMUxBVG1XSVJYRWdOb3pudjdKRHc?oc=5",
+        "date": "2026-03-01",
+        "title": "Parade of storms to ease Mississippi Valley drought, though flash flooding concerns persist - FOX Weather",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWjVNWUVtTDJtRDVZdUFoMWg5MWRPck9faDNGVmNHV05SVmFkSVhhLWlKSlpKdF96TmhPWW0tdmZxQ3BWNk9tTnk4OG1OS0lPYWhUTzBiYWxObnRZNDFWdmtCTkRXdUVPYUJMd1QzSk1pWmZrSVRXSUVrUkE0SlJRcTQycnFSbHc5ZE11NERyRlBKWWYtTE9pSm9CWi1WdWdEOExWVWpBZ0xZWGFfZEh1YS1GRi1qd3pk0gG-AUFVX3lxTFBBbEliRWR4RWRFdTZUZUlidFdGVkRvUW1PcTBaVW9PWGh3dXF3RWNCOFhvRFhtd1cyVE1GNGpFbkx2YnZ3MU9sSFJySzNIYlhuVmpiTF9hVmEyNFBOWUdvMkZqendKVEE4aFNUT1pTUy1CRXFiOFp6SHVEdUZKcmxoeWRldHY5VXcwRkkwUUdYXzVydVlFOXYxSVFHT0d6NGRVR0U1YVFPUlNfMUxBVG1XSVJYRWdOb3pudjdKRHc?oc=5\" target=\"_blank\">Parade of storms to ease Mississippi Valley drought, though flash flooding concerns persist</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FOX Weather</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOOE9RT29uSlNqTHcyQXJsNkhpU2FHUmY1aTJkSGJkRmpVV2IyWTVKMFIxa25jUDF2VFpqc3B0emJ5TlF3NE1tQm16NHdUaThmRzEtRWdyUFFYVUl0YU9iTHJBcFZ6U2FtUExSQ083WWV4U0JaYU42MlNlWnB2TGluU3ZwU245MDVIOUc0dkxCUGtvdWppNzBoMVY2QzZFdjhlcXIyVDZHaHQ4V3Bw?oc=5",
+        "date": "2026-03-01",
+        "title": "Flash flooding hits Mildura after 100mm of rain in 24 hours - Australian Broadcasting Corporation",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxOOE9RT29uSlNqTHcyQXJsNkhpU2FHUmY1aTJkSGJkRmpVV2IyWTVKMFIxa25jUDF2VFpqc3B0emJ5TlF3NE1tQm16NHdUaThmRzEtRWdyUFFYVUl0YU9iTHJBcFZ6U2FtUExSQ083WWV4U0JaYU42MlNlWnB2TGluU3ZwU245MDVIOUc0dkxCUGtvdWppNzBoMVY2QzZFdjhlcXIyVDZHaHQ4V3Bw?oc=5\" target=\"_blank\">Flash flooding hits Mildura after 100mm of rain in 24 hours</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Australian Broadcasting Corporation</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": null,
+        "tweet_id": "2028244095655907556",
+        "geo": {
+            "country": "Australia",
+            "name": "Mildura",
+            "latitude": -34.24,
+            "longitude": 142.09,
+            "confidence": 1.0
+        }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTUttV0tLOVczYlZBQTNfenRPSEFwaUFURzlyWUsxV19FTnd6SVJjWDJKVFdGMVY5UkowYUFFdndIdm1RaUtFUGotTXAzckYxQlpHOXQ1MDFYM2lxYnNLLXhWQklWWFRRVmZabi1Bc3lEN3BLcGE2dGp3cGtfVk9ZbWJqd296RG5fXzVXc25JaGQ5SDQtLTl4NE1IZFllY0FENVJJOVhnQlJya05wa3h1ZHl3?oc=5",
+        "date": "2026-03-01",
+        "title": "Qld on cyclone watch as rain drenches parts of state - Australian Broadcasting Corporation",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQTUttV0tLOVczYlZBQTNfenRPSEFwaUFURzlyWUsxV19FTnd6SVJjWDJKVFdGMVY5UkowYUFFdndIdm1RaUtFUGotTXAzckYxQlpHOXQ1MDFYM2lxYnNLLXhWQklWWFRRVmZabi1Bc3lEN3BLcGE2dGp3cGtfVk9ZbWJqd296RG5fXzVXc25JaGQ5SDQtLTl4NE1IZFllY0FENVJJOVhnQlJya05wa3h1ZHl3?oc=5\" target=\"_blank\">Qld on cyclone watch as rain drenches parts of state</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Australian Broadcasting Corporation</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOOE9RT29uSlNqTHcyQXJsNkhpU2FHUmY1aTJkSGJkRmpVV2IyWTVKMFIxa25jUDF2VFpqc3B0emJ5TlF3NE1tQm16NHdUaThmRzEtRWdyUFFYVUl0YU9iTHJBcFZ6U2FtUExSQ083WWV4U0JaYU42MlNlWnB2TGluU3ZwU245MDVIOUc0dkxCUGtvdWppNzBoMVY2QzZFdjhlcXIyVDZHaHQ4V3Bw?oc=5",
+        "date": "2026-03-01",
+        "title": "Flash flooding hits Mildura after 100mm of rain in 24 hours - Australian Broadcasting Corporation",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxOOE9RT29uSlNqTHcyQXJsNkhpU2FHUmY1aTJkSGJkRmpVV2IyWTVKMFIxa25jUDF2VFpqc3B0emJ5TlF3NE1tQm16NHdUaThmRzEtRWdyUFFYVUl0YU9iTHJBcFZ6U2FtUExSQ083WWV4U0JaYU42MlNlWnB2TGluU3ZwU245MDVIOUc0dkxCUGtvdWppNzBoMVY2QzZFdjhlcXIyVDZHaHQ4V3Bw?oc=5\" target=\"_blank\">Flash flooding hits Mildura after 100mm of rain in 24 hours</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Australian Broadcasting Corporation</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "posted",
+        "tweet": "\ud83c\udde6\ud83c\uddfa POST-EVENT Mildura: Flash flooding after 100mm of rain in 24 hours. (ABC)",
+        "type": "news",
+        "tweet_id": "2028244095655907556",
+        "geo": {
+            "country": "Australia",
+            "name": "Mildura",
+            "latitude": -34.24,
+            "longitude": 142.09,
+            "confidence": 1.0
+        }
     }
 ]
