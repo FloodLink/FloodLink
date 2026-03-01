@@ -8229,7 +8229,7 @@
     "rain_mm": 57.94,
     "soil_moisture": 0.555,
     "raw_dynamic_score": 8.754,
-    "last_updated": "2026-02-28T18:27:44.446456Z",
+    "last_updated": "2026-03-01T04:54:44.276711Z",
     "last_tweeted_at": "2026-02-24T18:57:28.090997Z",
     "tweet_id": "2026370951626240068",
     "resolved": false
@@ -8399,22 +8399,6 @@
     "tweet_id": "2027049025615126724",
     "resolved": false
   },
-  "-3.1287,-58.1550": {
-    "country": "Brazil",
-    "name": "Urucurituba",
-    "risk_level": "Low",
-    "tweeted_level": "Low",
-    "latitude": -3.12873,
-    "longitude": -58.15501,
-    "rain_mm": 0.25,
-    "soil_moisture": 0.666,
-    "raw_dynamic_score": 0.04,
-    "last_updated": "2026-02-28T04:18:19.243468Z",
-    "last_tweeted_at": "2026-02-28T04:18:19.243468Z",
-    "tweet_id": "2027600264216121772",
-    "resolved": true,
-    "resolved_at": "2026-02-28T04:18:19.243468Z"
-  },
   "-3.3836,-57.7186": {
     "country": "Brazil",
     "name": "Maués",
@@ -8580,22 +8564,6 @@
     "tweet_id": "2027193246489678004",
     "resolved": false
   },
-  "-6.0258,-44.2492": {
-    "country": "Brazil",
-    "name": "Colinas",
-    "risk_level": "Low",
-    "tweeted_level": "High",
-    "latitude": -6.02583,
-    "longitude": -44.24917,
-    "rain_mm": 2.31,
-    "soil_moisture": 0.521,
-    "raw_dynamic_score": 0.342,
-    "last_updated": "2026-02-28T04:18:19.243468Z",
-    "last_tweeted_at": "2026-02-28T04:18:19.243468Z",
-    "tweet_id": "2027599253137137721",
-    "resolved": true,
-    "resolved_at": "2026-02-28T04:18:19.243468Z"
-  },
   "-20.7756,-41.6794": {
     "country": "Brazil",
     "name": "Guaçuí",
@@ -8640,22 +8608,6 @@
     "last_tweeted_at": "2026-02-27T04:47:37.320316Z",
     "tweet_id": "2027244992725684395",
     "resolved": false
-  },
-  "-6.1797,-43.7836": {
-    "country": "Brazil",
-    "name": "Passagem Franca",
-    "risk_level": "Low",
-    "tweeted_level": "High",
-    "latitude": -6.17972,
-    "longitude": -43.78361,
-    "rain_mm": 1.56,
-    "soil_moisture": 0.514,
-    "raw_dynamic_score": 0.23,
-    "last_updated": "2026-02-28T04:18:19.243468Z",
-    "last_tweeted_at": "2026-02-28T04:18:19.243468Z",
-    "tweet_id": "2027599253137137721",
-    "resolved": true,
-    "resolved_at": "2026-02-28T04:18:19.243468Z"
   },
   "-4.2761,-55.9836": {
     "country": "Brazil",
@@ -8742,7 +8694,7 @@
     "rain_mm": 77.12,
     "soil_moisture": 0.685,
     "raw_dynamic_score": 12.554,
-    "last_updated": "2026-03-01T01:33:50.796105Z",
+    "last_updated": "2026-03-01T04:54:44.276711Z",
     "last_tweeted_at": "2026-02-28T04:18:19.243468Z",
     "tweet_id": "2027599253137137721",
     "resolved": false
@@ -8930,7 +8882,7 @@
     "rain_mm": 49.56,
     "soil_moisture": 0.699,
     "raw_dynamic_score": 8.13,
-    "last_updated": "2026-02-28T15:20:14.908202Z",
+    "last_updated": "2026-03-01T04:54:44.276711Z",
     "last_tweeted_at": "2026-02-28T06:33:39.894003Z",
     "tweet_id": "2027633572044025989",
     "resolved": false
