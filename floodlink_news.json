@@ -10296,5 +10296,15 @@
         "score": 3,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVTlVVUlkUDkyWHJtdy1Fejc3Q0dZTHFfd05PSTVkR1BRQjJSYXd0M3NxWU9mT0djZG9uMnNraTRUd1RWYnctQ0JDZmpMQmo3bzJDbGpiUDVLMlV0RGdWaF9FS29pZVBwSDBMbzg3YkptZnhBLUJySmpKS0hpQ3dacnAzS3M5U1FvakJ6aS1kR0FrZWJDcXQxTzZuNFdHcGVN?oc=5",
+        "date": "2026-03-01",
+        "title": "Urmil causes flooding, power outages in Fiji - RNZ",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNVTlVVUlkUDkyWHJtdy1Fejc3Q0dZTHFfd05PSTVkR1BRQjJSYXd0M3NxWU9mT0djZG9uMnNraTRUd1RWYnctQ0JDZmpMQmo3bzJDbGpiUDVLMlV0RGdWaF9FS29pZVBwSDBMbzg3YkptZnhBLUJySmpKS0hpQ3dacnAzS3M5U1FvakJ6aS1kR0FrZWJDcXQxTzZuNFdHcGVN?oc=5\" target=\"_blank\">Urmil causes flooding, power outages in Fiji</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">RNZ</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
     }
 ]
