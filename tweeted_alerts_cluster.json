@@ -6362,17 +6362,18 @@
   "-23.8650,35.3833": {
     "country": "Mozambique",
     "name": "Inhambane",
-    "risk_level": "High",
-    "tweeted_level": "High",
+    "risk_level": "Low",
+    "tweeted_level": "Low",
     "latitude": -23.865,
     "longitude": 35.38333,
-    "rain_mm": 66.5,
+    "rain_mm": 0.19,
     "soil_moisture": 1.0,
-    "raw_dynamic_score": 12.718,
-    "last_updated": "2026-03-02T12:44:34.363369Z",
-    "last_tweeted_at": "2026-02-13T18:40:27.979617Z",
-    "tweet_id": "2022380915553353803",
-    "resolved": false
+    "raw_dynamic_score": 0.036,
+    "last_updated": "2026-03-02T20:25:06.804705Z",
+    "last_tweeted_at": "2026-03-02T20:25:06.804705Z",
+    "tweet_id": "2028567336228405599",
+    "resolved": true,
+    "resolved_at": "2026-03-02T20:25:06.804705Z"
   },
   "-23.8597,35.3472": {
     "country": "Mozambique",
@@ -8964,7 +8965,7 @@
     "rain_mm": 45.12,
     "soil_moisture": 0.499,
     "raw_dynamic_score": 6.587,
-    "last_updated": "2026-03-02T15:40:37.595320Z",
+    "last_updated": "2026-03-02T20:25:06.804705Z",
     "last_tweeted_at": "2026-03-02T15:40:37.595320Z",
     "tweet_id": "2028495737966022693",
     "resolved": false
@@ -8979,7 +8980,7 @@
     "rain_mm": 46.69,
     "soil_moisture": 0.446,
     "raw_dynamic_score": 6.595,
-    "last_updated": "2026-03-02T15:40:37.595320Z",
+    "last_updated": "2026-03-02T20:25:06.804705Z",
     "last_tweeted_at": "2026-03-02T15:40:37.595320Z",
     "tweet_id": "2028495990626611381",
     "resolved": false
