@@ -9867,5 +9867,14 @@
         "score": 9,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-03-02",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 US Gulf Coast: Storm surge exposed 8M people in 2020; projected 9.5M by 2030 (19% rise).  \n\ud83c\uddea\ud83c\uddfa North Sea coasts: 4M exposed in 2020, rising to 4.6M (15% increase).  \nSea-level rise drives intensified floods. (NOAA/EU data, 2023 proj.)",
+        "type": "statistical",
+        "category": "coastal cities at risk from sea-level rise and storm surge",
+        "tweet_id": "2028345056659431775"
     }
 ]
