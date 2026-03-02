@@ -917,16 +917,16 @@
   "-17.6169,177.4505": {
     "country": "Fiji",
     "name": "Lautoka",
-    "risk_level": "Medium",
-    "tweeted_level": "Medium",
+    "risk_level": "High",
+    "tweeted_level": "High",
     "latitude": -17.61686,
     "longitude": 177.45049,
-    "rain_mm": 41.38,
-    "soil_moisture": 0.663,
-    "raw_dynamic_score": 6.653,
-    "last_updated": "2026-03-01T21:21:15.729542Z",
-    "last_tweeted_at": "2026-01-12T18:25:24.266918Z",
-    "tweet_id": "2010780202935239091",
+    "rain_mm": 73.62,
+    "soil_moisture": 0.742,
+    "raw_dynamic_score": 12.367,
+    "last_updated": "2026-03-02T04:49:57.400677Z",
+    "last_tweeted_at": "2026-03-02T04:49:57.400677Z",
+    "tweet_id": "2028332237620687172",
     "resolved": false
   },
   "35.9975,45.8853": {
@@ -8229,7 +8229,7 @@
     "rain_mm": 57.94,
     "soil_moisture": 0.555,
     "raw_dynamic_score": 8.754,
-    "last_updated": "2026-03-02T01:35:51.296066Z",
+    "last_updated": "2026-03-02T04:49:57.400677Z",
     "last_tweeted_at": "2026-02-24T18:57:28.090997Z",
     "tweet_id": "2026370951626240068",
     "resolved": false
@@ -8924,6 +8924,21 @@
     "last_updated": "2026-03-01T21:21:15.729542Z",
     "last_tweeted_at": "2026-03-01T15:21:56.120247Z",
     "tweet_id": "2028128652207255605",
+    "resolved": false
+  },
+  "-1.9333,-79.9667": {
+    "country": "Ecuador",
+    "name": "El Triunfo",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": -1.93333,
+    "longitude": -79.96667,
+    "rain_mm": 42.44,
+    "soil_moisture": 0.747,
+    "raw_dynamic_score": 7.146,
+    "last_updated": "2026-03-02T04:49:57.400677Z",
+    "last_tweeted_at": "2026-03-02T04:49:57.400677Z",
+    "tweet_id": "2028331984884584454",
     "resolved": false
   }
 }
