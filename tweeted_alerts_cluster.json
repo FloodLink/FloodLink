@@ -8229,7 +8229,7 @@
     "rain_mm": 57.94,
     "soil_moisture": 0.555,
     "raw_dynamic_score": 8.754,
-    "last_updated": "2026-03-02T04:49:57.400677Z",
+    "last_updated": "2026-03-02T06:52:10.618304Z",
     "last_tweeted_at": "2026-02-24T18:57:28.090997Z",
     "tweet_id": "2026370951626240068",
     "resolved": false
@@ -8939,6 +8939,36 @@
     "last_updated": "2026-03-02T04:49:57.400677Z",
     "last_tweeted_at": "2026-03-02T04:49:57.400677Z",
     "tweet_id": "2028331984884584454",
+    "resolved": false
+  },
+  "-1.8162,-80.2343": {
+    "country": "Ecuador",
+    "name": "Pedro Carbo",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": -1.81619,
+    "longitude": -80.23431,
+    "rain_mm": 53.81,
+    "soil_moisture": 0.712,
+    "raw_dynamic_score": 8.894,
+    "last_updated": "2026-03-02T06:52:10.618304Z",
+    "last_tweeted_at": "2026-03-02T06:52:10.618304Z",
+    "tweet_id": "2028362755326283801",
+    "resolved": false
+  },
+  "-17.8031,177.4162": {
+    "country": "Fiji",
+    "name": "Nadi",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": -17.80309,
+    "longitude": 177.41617,
+    "rain_mm": 45.19,
+    "soil_moisture": 0.736,
+    "raw_dynamic_score": 7.563,
+    "last_updated": "2026-03-02T06:52:10.618304Z",
+    "last_tweeted_at": "2026-03-02T06:52:10.618304Z",
+    "tweet_id": "2028363007840203135",
     "resolved": false
   }
 }
