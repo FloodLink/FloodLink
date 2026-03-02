@@ -8951,7 +8951,7 @@
     "rain_mm": 53.81,
     "soil_moisture": 0.712,
     "raw_dynamic_score": 8.894,
-    "last_updated": "2026-03-02T06:52:10.618304Z",
+    "last_updated": "2026-03-02T09:45:37.781487Z",
     "last_tweeted_at": "2026-03-02T06:52:10.618304Z",
     "tweet_id": "2028362755326283801",
     "resolved": false
@@ -8966,9 +8966,24 @@
     "rain_mm": 45.19,
     "soil_moisture": 0.736,
     "raw_dynamic_score": 7.563,
-    "last_updated": "2026-03-02T06:52:10.618304Z",
+    "last_updated": "2026-03-02T09:45:37.781487Z",
     "last_tweeted_at": "2026-03-02T06:52:10.618304Z",
     "tweet_id": "2028363007840203135",
+    "resolved": false
+  },
+  "-23.3292,35.3814": {
+    "country": "Mozambique",
+    "name": "Massinga",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": -23.32917,
+    "longitude": 35.38139,
+    "rain_mm": 40.31,
+    "soil_moisture": 1.0,
+    "raw_dynamic_score": 7.71,
+    "last_updated": "2026-03-02T09:45:37.781487Z",
+    "last_tweeted_at": "2026-03-02T09:45:37.781487Z",
+    "tweet_id": "2028406398485135399",
     "resolved": false
   }
 }
