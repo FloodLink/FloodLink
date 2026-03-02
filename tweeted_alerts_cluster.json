@@ -8949,9 +8949,39 @@
     "rain_mm": 40.31,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 7.71,
-    "last_updated": "2026-03-02T09:45:37.781487Z",
+    "last_updated": "2026-03-02T15:40:37.595320Z",
     "last_tweeted_at": "2026-03-02T09:45:37.781487Z",
     "tweet_id": "2028406398485135399",
+    "resolved": false
+  },
+  "6.7297,-3.4964": {
+    "country": "Côte d'Ivoire",
+    "name": "Abengourou",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 6.72972,
+    "longitude": -3.49639,
+    "rain_mm": 45.12,
+    "soil_moisture": 0.499,
+    "raw_dynamic_score": 6.587,
+    "last_updated": "2026-03-02T15:40:37.595320Z",
+    "last_tweeted_at": "2026-03-02T15:40:37.595320Z",
+    "tweet_id": "2028495737966022693",
+    "resolved": false
+  },
+  "-18.6756,34.0728": {
+    "country": "Mozambique",
+    "name": "Gorongosa",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": -18.67556,
+    "longitude": 34.07278,
+    "rain_mm": 46.69,
+    "soil_moisture": 0.446,
+    "raw_dynamic_score": 6.595,
+    "last_updated": "2026-03-02T15:40:37.595320Z",
+    "last_tweeted_at": "2026-03-02T15:40:37.595320Z",
+    "tweet_id": "2028495990626611381",
     "resolved": false
   }
 }
