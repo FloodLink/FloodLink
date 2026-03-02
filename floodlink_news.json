@@ -9925,5 +9925,52 @@
         "type": "statistical",
         "category": "coastal cities at risk from sea-level rise and storm surge",
         "tweet_id": "2028417978740428944"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNNUhlRTdiQWMtNmZPSXkyaHlfRnVWVGpoRmduRXFiLUszOVJOdzhlN080TFVfRV90c3RoWnE1WmxHd1dTSW5FTVpybFFJTk5tR1hrZ1NpTUR4WV9MYjBDZzlPUE5sT1dfenhoVzBabS03WXpLZDlreWZrZ29xYkV4X01pQ2NBaXB4VzBXQlhtSXk0ZElweDRFdzlsX1p5bjk2?oc=5",
+        "date": "2026-03-02",
+        "title": "Flood warning: the risks of the great wealth transfer - Apollo \u2013 The International Art Magazine",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNNUhlRTdiQWMtNmZPSXkyaHlfRnVWVGpoRmduRXFiLUszOVJOdzhlN080TFVfRV90c3RoWnE1WmxHd1dTSW5FTVpybFFJTk5tR1hrZ1NpTUR4WV9MYjBDZzlPUE5sT1dfenhoVzBabS03WXpLZDlreWZrZ29xYkV4X01pQ2NBaXB4VzBXQlhtSXk0ZElweDRFdzlsX1p5bjk2?oc=5\" target=\"_blank\">Flood warning: the risks of the great wealth transfer</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Apollo \u2013 The International Art Magazine</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQU044RjhRQ0l2cjJqTmh5T2RFYXlRR0NZMUpsQzNpSFZRVkd5UzFrYmxjSjRCcFgtSU1KR3pwTElpcW03WE1tRm43YVk1RVMtcWhHekloYjl6Yy1yYi04cm41V244MTRKMjhwN1F0d3ROMUl6akFxNUZBSU41cmRrcDZGZzQzaFVjNEFScmZsalhPSXdkaElSTFVycXdFS2FSN1hnMHFPNFJpdw?oc=5",
+        "date": "2026-03-02",
+        "title": "Live updates: 3 flood warnings for Nottinghamshire \u2013 and 8 flood alerts - West Bridgford Wire",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQU044RjhRQ0l2cjJqTmh5T2RFYXlRR0NZMUpsQzNpSFZRVkd5UzFrYmxjSjRCcFgtSU1KR3pwTElpcW03WE1tRm43YVk1RVMtcWhHekloYjl6Yy1yYi04cm41V244MTRKMjhwN1F0d3ROMUl6akFxNUZBSU41cmRrcDZGZzQzaFVjNEFScmZsalhPSXdkaElSTFVycXdFS2FSN1hnMHFPNFJpdw?oc=5\" target=\"_blank\">Live updates: 3 flood warnings for Nottinghamshire \u2013 and 8 flood alerts</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">West Bridgford Wire</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": null,
+        "tweet_id": "2028431166504620292",
+        "geo": {
+            "country": "United Kingdom",
+            "name": "Nottinghamshire",
+            "latitude": 52.9548,
+            "longitude": -1.1582,
+            "confidence": 0.95
+        }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQU044RjhRQ0l2cjJqTmh5T2RFYXlRR0NZMUpsQzNpSFZRVkd5UzFrYmxjSjRCcFgtSU1KR3pwTElpcW03WE1tRm43YVk1RVMtcWhHekloYjl6Yy1yYi04cm41V244MTRKMjhwN1F0d3ROMUl6akFxNUZBSU41cmRrcDZGZzQzaFVjNEFScmZsalhPSXdkaElSTFVycXdFS2FSN1hnMHFPNFJpdw?oc=5",
+        "date": "2026-03-02",
+        "title": "Live updates: 3 flood warnings for Nottinghamshire \u2013 and 8 flood alerts - West Bridgford Wire",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQU044RjhRQ0l2cjJqTmh5T2RFYXlRR0NZMUpsQzNpSFZRVkd5UzFrYmxjSjRCcFgtSU1KR3pwTElpcW03WE1tRm43YVk1RVMtcWhHekloYjl6Yy1yYi04cm41V244MTRKMjhwN1F0d3ROMUl6akFxNUZBSU41cmRrcDZGZzQzaFVjNEFScmZsalhPSXdkaElSTFVycXdFS2FSN1hnMHFPNFJpdw?oc=5\" target=\"_blank\">Live updates: 3 flood warnings for Nottinghamshire \u2013 and 8 flood alerts</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">West Bridgford Wire</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "posted",
+        "tweet": "\ud83c\uddec\ud83c\udde7 FORECAST Nottinghamshire: 3 flood warnings and 8 flood alerts issued for potential flooding from heavy rain. West Bridgford Wire",
+        "type": "news",
+        "tweet_id": "2028431166504620292",
+        "geo": {
+            "country": "United Kingdom",
+            "name": "Nottinghamshire",
+            "latitude": 52.9548,
+            "longitude": -1.1582,
+            "confidence": 0.95
+        }
     }
 ]
