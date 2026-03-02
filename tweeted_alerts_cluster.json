@@ -6369,7 +6369,7 @@
     "rain_mm": 66.5,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 12.718,
-    "last_updated": "2026-02-13T18:40:27.979617Z",
+    "last_updated": "2026-03-02T12:44:34.363369Z",
     "last_tweeted_at": "2026-02-13T18:40:27.979617Z",
     "tweet_id": "2022380915553353803",
     "resolved": false
@@ -8789,22 +8789,6 @@
     "tweet_id": "2027599253137137721",
     "resolved": false
   },
-  "-1.5282,-45.0786": {
-    "country": "Brazil",
-    "name": "Apicum-Açu",
-    "risk_level": "Low",
-    "tweeted_level": "Low",
-    "latitude": -1.52823,
-    "longitude": -45.07862,
-    "rain_mm": 30.06,
-    "soil_moisture": 1.0,
-    "raw_dynamic_score": 5.749,
-    "last_updated": "2026-03-01T12:36:50.583304Z",
-    "last_tweeted_at": "2026-03-01T12:36:50.583304Z",
-    "tweet_id": "2028087106258559010",
-    "resolved": true,
-    "resolved_at": "2026-03-01T12:36:50.583304Z"
-  },
   "-4.3212,-46.4547": {
     "country": "Brazil",
     "name": "Buriticupu",
@@ -8819,22 +8803,6 @@
     "last_tweeted_at": "2026-02-28T04:18:19.243468Z",
     "tweet_id": "2027599253137137721",
     "resolved": false
-  },
-  "-6.8354,-40.6130": {
-    "country": "Brazil",
-    "name": "Pio IX",
-    "risk_level": "Low",
-    "tweeted_level": "Low",
-    "latitude": -6.83535,
-    "longitude": -40.61297,
-    "rain_mm": 0.19,
-    "soil_moisture": 0.464,
-    "raw_dynamic_score": 0.027,
-    "last_updated": "2026-03-01T12:36:50.583304Z",
-    "last_tweeted_at": "2026-03-01T12:36:50.583304Z",
-    "tweet_id": "2028087864630661327",
-    "resolved": true,
-    "resolved_at": "2026-03-01T12:36:50.583304Z"
   },
   "-7.2134,-40.1370": {
     "country": "Brazil",
@@ -8936,7 +8904,7 @@
     "rain_mm": 42.44,
     "soil_moisture": 0.747,
     "raw_dynamic_score": 7.146,
-    "last_updated": "2026-03-02T04:49:57.400677Z",
+    "last_updated": "2026-03-02T12:44:34.363369Z",
     "last_tweeted_at": "2026-03-02T04:49:57.400677Z",
     "tweet_id": "2028331984884584454",
     "resolved": false
