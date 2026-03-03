@@ -10039,5 +10039,25 @@
         "tweet": "\ud83c\uddf3\ud83c\uddf1 In 2026, the Netherlands maintains 26,774 km of dikes and levees, protecting 60% of its land area from flooding.",
         "type": "infrastructure",
         "tweet_id": "2028886173641523511"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQaHpqUGJSSVVfaG9sVTJJX1FmZV80TmpxSXpLY1lJaUhFUUpZM1VrNVBDMHdHTVJyUm9JczQ1aDVaVE9yVUl6dXdULW9jSDFISHN1LTBvc2ZZdm1veEVQMGZGNFR5XzRIelc3c3FPX1hvZmZvSFVYUV9KektJQzQwQWNkUGNyTWlwVVVrdXlRYXdvUW9DLUcteDhQMjgxeTZfLWdHOW43dXhnN2J1THktU3h2MDNaNHVJRFdscmNwRDZKMGdfUnZ2cS1qTVBob0NSRzRVdS0tZEUwQWZDTHJUMjlEZ0RURmFET0w3YmowT1o5cmE3azJtM1lEakM0a0JRczlV?oc=5",
+        "date": "2026-03-03",
+        "title": "AccuWeather warns of flash flooding risk for West Virginia as spring storm season begins - WV News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwJBVV95cUxQaHpqUGJSSVVfaG9sVTJJX1FmZV80TmpxSXpLY1lJaUhFUUpZM1VrNVBDMHdHTVJyUm9JczQ1aDVaVE9yVUl6dXdULW9jSDFISHN1LTBvc2ZZdm1veEVQMGZGNFR5XzRIelc3c3FPX1hvZmZvSFVYUV9KektJQzQwQWNkUGNyTWlwVVVrdXlRYXdvUW9DLUcteDhQMjgxeTZfLWdHOW43dXhnN2J1THktU3h2MDNaNHVJRFdscmNwRDZKMGdfUnZ2cS1qTVBob0NSRzRVdS0tZEUwQWZDTHJUMjlEZ0RURmFET0w3YmowT1o5cmE3azJtM1lEakM0a0JRczlV?oc=5\" target=\"_blank\">AccuWeather warns of flash flooding risk for West Virginia as spring storm season begins</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WV News</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPZHV6V2R2ZE5iMmhBajNCVnZzUFRQMV9IZEJpWDFSODk4X0hYT3pHS245ZTY0RVYzc3dsakgweG9faHh1bzNhUk9nbEc0YlpLM25mUFc5WTRsYmp2OVNxLUcwajctN1N0OGQ2SERvUkxPdldoMTMzTUpicW1veEtqQXRSZGFpZw?oc=5",
+        "date": "2026-03-03",
+        "title": "Flash Flood Warning cancelled for Fiji - Fijivillage",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxPZHV6V2R2ZE5iMmhBajNCVnZzUFRQMV9IZEJpWDFSODk4X0hYT3pHS245ZTY0RVYzc3dsakgweG9faHh1bzNhUk9nbEc0YlpLM25mUFc5WTRsYmp2OVNxLUcwajctN1N0OGQ2SERvUkxPdldoMTMzTUpicW1veEtqQXRSZGFpZw?oc=5\" target=\"_blank\">Flash Flood Warning cancelled for Fiji</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fijivillage</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
     }
 ]
