@@ -10031,5 +10031,13 @@
         "score": 2,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-03-03",
+        "status": "posted",
+        "tweet": "\ud83c\uddf3\ud83c\uddf1 In 2026, the Netherlands maintains 26,774 km of dikes and levees, protecting 60% of its land area from flooding.",
+        "type": "infrastructure",
+        "tweet_id": "2028886173641523511"
     }
 ]
