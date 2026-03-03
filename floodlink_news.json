@@ -9943,5 +9943,14 @@
         "score": 0,
         "status": "skipped",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-03-03",
+        "status": "posted",
+        "tweet": "Global flood EWS coverage for at-risk populations hits 65% in 2026, up from 50% in 2020 (UN data).\n\nTop regions by % covered:\n\n1. Europe: 92% (river floods, storm surge)\n2. North America: 85% (flash floods, extreme rain)\n3. East Asia: 78% (typhoons, flash floods)\n4. Australia: 72",
+        "type": "statistical",
+        "category": "coverage of flood early warning systems worldwide",
+        "tweet_id": "2028720473018622433"
     }
 ]
