@@ -8984,5 +8984,35 @@
     "last_tweeted_at": "2026-03-02T15:40:37.595320Z",
     "tweet_id": "2028495990626611381",
     "resolved": false
+  },
+  "35.9654,140.6447": {
+    "country": "Japan",
+    "name": "Kashima-shi",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 35.96536,
+    "longitude": 140.64474,
+    "rain_mm": 42.12,
+    "soil_moisture": 1.0,
+    "raw_dynamic_score": 8.056,
+    "last_updated": "2026-03-03T15:46:24.188120Z",
+    "last_tweeted_at": "2026-03-03T15:46:24.188120Z",
+    "tweet_id": "2028859574401511651",
+    "resolved": false
+  },
+  "35.8969,140.6667": {
+    "country": "Japan",
+    "name": "Kamisu",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 35.89685,
+    "longitude": 140.66666,
+    "rain_mm": 42.12,
+    "soil_moisture": 1.0,
+    "raw_dynamic_score": 8.056,
+    "last_updated": "2026-03-03T15:46:24.188120Z",
+    "last_tweeted_at": "2026-03-03T15:46:24.188120Z",
+    "tweet_id": "2028859574401511651",
+    "resolved": false
   }
 }
