@@ -1554,7 +1554,7 @@
     "rain_mm": 42.5,
     "soil_moisture": 0.605,
     "raw_dynamic_score": 6.611,
-    "last_updated": "2026-01-19T04:11:13.007698Z",
+    "last_updated": "2026-03-03T21:34:30.489751Z",
     "last_tweeted_at": "2026-01-19T01:14:37.994119Z",
     "tweet_id": "2013057771688624564",
     "resolved": false
@@ -6359,22 +6359,6 @@
     "tweet_id": "2022380410190053531",
     "resolved": false
   },
-  "-23.8650,35.3833": {
-    "country": "Mozambique",
-    "name": "Inhambane",
-    "risk_level": "Low",
-    "tweeted_level": "Low",
-    "latitude": -23.865,
-    "longitude": 35.38333,
-    "rain_mm": 0.19,
-    "soil_moisture": 1.0,
-    "raw_dynamic_score": 0.036,
-    "last_updated": "2026-03-02T20:25:06.804705Z",
-    "last_tweeted_at": "2026-03-02T20:25:06.804705Z",
-    "tweet_id": "2028567336228405599",
-    "resolved": true,
-    "resolved_at": "2026-03-02T20:25:06.804705Z"
-  },
   "-23.8597,35.3472": {
     "country": "Mozambique",
     "name": "Maxixe",
@@ -9025,7 +9009,7 @@
     "rain_mm": 55.69,
     "soil_moisture": 0.546,
     "raw_dynamic_score": 8.366,
-    "last_updated": "2026-03-03T18:43:18.638170Z",
+    "last_updated": "2026-03-03T21:34:30.489751Z",
     "last_tweeted_at": "2026-03-03T18:43:18.638170Z",
     "tweet_id": "2028904104844525778",
     "resolved": false
