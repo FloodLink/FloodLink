@@ -8995,7 +8995,7 @@
     "rain_mm": 42.12,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 8.056,
-    "last_updated": "2026-03-03T15:46:24.188120Z",
+    "last_updated": "2026-03-03T18:43:18.638170Z",
     "last_tweeted_at": "2026-03-03T15:46:24.188120Z",
     "tweet_id": "2028859574401511651",
     "resolved": false
@@ -9013,6 +9013,21 @@
     "last_updated": "2026-03-03T15:46:24.188120Z",
     "last_tweeted_at": "2026-03-03T15:46:24.188120Z",
     "tweet_id": "2028859574401511651",
+    "resolved": false
+  },
+  "-24.2313,-64.8661": {
+    "country": "Argentina",
+    "name": "San Pedro de Jujuy",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": -24.23127,
+    "longitude": -64.86614,
+    "rain_mm": 55.69,
+    "soil_moisture": 0.546,
+    "raw_dynamic_score": 8.366,
+    "last_updated": "2026-03-03T18:43:18.638170Z",
+    "last_tweeted_at": "2026-03-03T18:43:18.638170Z",
+    "tweet_id": "2028904104844525778",
     "resolved": false
   }
 }
