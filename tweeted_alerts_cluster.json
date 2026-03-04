@@ -6924,7 +6924,7 @@
     "rain_mm": 59.88,
     "soil_moisture": 0.614,
     "raw_dynamic_score": 9.363,
-    "last_updated": "2026-03-04T12:43:28.893469Z",
+    "last_updated": "2026-03-04T15:38:40.748079Z",
     "last_tweeted_at": "2026-02-16T21:26:20.615880Z",
     "tweet_id": "2023509569356394925",
     "resolved": false
@@ -9084,7 +9084,7 @@
     "rain_mm": 52.44,
     "soil_moisture": 0.731,
     "raw_dynamic_score": 8.753,
-    "last_updated": "2026-03-04T12:43:28.893469Z",
+    "last_updated": "2026-03-04T15:38:40.748079Z",
     "last_tweeted_at": "2026-03-04T09:38:59.846773Z",
     "tweet_id": "2029129502182322636",
     "resolved": false
@@ -9114,7 +9114,7 @@
     "rain_mm": 45.38,
     "soil_moisture": 0.549,
     "raw_dynamic_score": 6.83,
-    "last_updated": "2026-03-04T09:38:59.846773Z",
+    "last_updated": "2026-03-04T15:38:40.748079Z",
     "last_tweeted_at": "2026-03-04T09:38:59.846773Z",
     "tweet_id": "2029130007365255187",
     "resolved": false
@@ -9129,10 +9129,18 @@
     "rain_mm": 101.81,
     "soil_moisture": 0.631,
     "raw_dynamic_score": 16.075,
-    "last_updated": "2026-03-04T12:43:28.893469Z",
+    "last_updated": "2026-03-04T15:38:40.748079Z",
     "last_tweeted_at": "2026-03-04T12:43:28.893469Z",
     "tweet_id": "2029176443641409956",
-    "resolved": false
+    "resolved": false,
+    "pending_downgrade": true,
+    "pending_target_level": "Low",
+    "pending_set_at": "2026-03-04T15:38:40.748079Z",
+    "pending_is_region": false,
+    "pending_observed_level": "Low",
+    "pending_observed_rain_mm": 9.19,
+    "pending_observed_soil_moisture": 0.559,
+    "pending_observed_raw_dynamic_score": 1.391
   },
   "-0.1131,31.8539": {
     "country": "Uganda",
@@ -9144,7 +9152,7 @@
     "rain_mm": 50.06,
     "soil_moisture": 0.579,
     "raw_dynamic_score": 7.673,
-    "last_updated": "2026-03-04T12:43:28.893469Z",
+    "last_updated": "2026-03-04T15:38:40.748079Z",
     "last_tweeted_at": "2026-03-04T12:43:28.893469Z",
     "tweet_id": "2029175938357862566",
     "resolved": false
@@ -9159,9 +9167,24 @@
     "rain_mm": 50.31,
     "soil_moisture": 0.587,
     "raw_dynamic_score": 7.745,
-    "last_updated": "2026-03-04T12:43:28.893469Z",
+    "last_updated": "2026-03-04T15:38:40.748079Z",
     "last_tweeted_at": "2026-03-04T12:43:28.893469Z",
     "tweet_id": "2029176190833983624",
+    "resolved": false
+  },
+  "-17.3932,15.8911": {
+    "country": "",
+    "name": "Helao Nafidi",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": -17.39321,
+    "longitude": 15.89107,
+    "rain_mm": 59.69,
+    "soil_moisture": 0.604,
+    "raw_dynamic_score": 9.283,
+    "last_updated": "2026-03-04T15:38:40.748079Z",
+    "last_tweeted_at": "2026-03-04T15:38:40.748079Z",
+    "tweet_id": "2029220020337664024",
     "resolved": false
   }
 }
