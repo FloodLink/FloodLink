@@ -9024,7 +9024,7 @@
     "rain_mm": 34.62,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 6.622,
-    "last_updated": "2026-03-04T04:31:38.382602Z",
+    "last_updated": "2026-03-04T06:42:46.895036Z",
     "last_tweeted_at": "2026-03-04T04:31:38.382602Z",
     "tweet_id": "2029052154053374378",
     "resolved": false
@@ -9039,7 +9039,7 @@
     "rain_mm": 34.62,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 6.622,
-    "last_updated": "2026-03-04T04:31:38.382602Z",
+    "last_updated": "2026-03-04T06:42:46.895036Z",
     "last_tweeted_at": "2026-03-04T04:31:38.382602Z",
     "tweet_id": "2029052406588117062",
     "resolved": false
@@ -9054,9 +9054,24 @@
     "rain_mm": 40.88,
     "soil_moisture": 0.692,
     "raw_dynamic_score": 6.68,
-    "last_updated": "2026-03-04T04:31:38.382602Z",
+    "last_updated": "2026-03-04T06:42:46.895036Z",
     "last_tweeted_at": "2026-03-04T04:31:38.382602Z",
     "tweet_id": "2029052658984603758",
+    "resolved": false
+  },
+  "-8.3569,114.6169": {
+    "country": "Indonesia",
+    "name": "Negara",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": -8.35694,
+    "longitude": 114.61694,
+    "rain_mm": 40.38,
+    "soil_moisture": 0.701,
+    "raw_dynamic_score": 6.63,
+    "last_updated": "2026-03-04T06:42:46.895036Z",
+    "last_tweeted_at": "2026-03-04T06:42:46.895036Z",
+    "tweet_id": "2029085167692947746",
     "resolved": false
   }
 }
