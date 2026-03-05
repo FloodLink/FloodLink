@@ -9857,5 +9857,52 @@
         "score": 3,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPWWRHRks2SDJka1liLTRDYkVOaUlGWTFsbFJzdE1jOVd6NmxLdFUzbDJGM1JZeWEtM0taUHhKNmxoQmdNOHJUTFJpd21JZTVoQVZzc0JkWEtxNGpNclV3UjlQZ0t3X3B5Yzk1ei1uXzVodkRXTEEydDc5R3UyY0lHMHI2QXgwbl9jeHZXTXkzbVhoRm4wWE9GOHJUd2M3TG1jTXFPYTZfV3RWbGgyUHFBYkVhZTl6c3Q1LUZaYWFIVTZremM?oc=5",
+        "date": "2026-03-05",
+        "title": "Flood watch, warnings in effect for Bartholomew County as more rain forecast to arrive - The Republic News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxPWWRHRks2SDJka1liLTRDYkVOaUlGWTFsbFJzdE1jOVd6NmxLdFUzbDJGM1JZeWEtM0taUHhKNmxoQmdNOHJUTFJpd21JZTVoQVZzc0JkWEtxNGpNclV3UjlQZ0t3X3B5Yzk1ei1uXzVodkRXTEEydDc5R3UyY0lHMHI2QXgwbl9jeHZXTXkzbVhoRm4wWE9GOHJUd2M3TG1jTXFPYTZfV3RWbGgyUHFBYkVhZTl6c3Q1LUZaYWFIVTZremM?oc=5\" target=\"_blank\">Flood watch, warnings in effect for Bartholomew County as more rain forecast to arrive</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Republic News</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPZkJvUE5PcjRNZDhWbjBrS3ZDRkNLa0J3TjdRVW1iWFU4S3pJTkFkdUo2Q2lFNHRhYVl6WWhtMG5MMldsdGVCWVA5N1dnUWpVemo2eDhvQWpOejJPR05wSkFyRHJkbG5WOUZBOEMwME1YWkRZblhlcllhLVZzYlFDQmVkSnEzQXo1cWZzQS1RdFdQX0dDelY5S1V3RWpTZk1RZEg2NVVDcldPV05uc1FiY3hRY3U4dWdKOEJnU3BvS1pDc1luc1RKQng5SUNYNk1SYndPOW5JTG9fZUk?oc=5",
+        "date": "2026-03-05",
+        "title": "A new scientific study has found that the devastating floods during Typhoon Tino were caused by record-breaking rainfall and \"soaked\" ground, rather than a single land development. Read more in the Sun Star chat room. - facebook.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxPZkJvUE5PcjRNZDhWbjBrS3ZDRkNLa0J3TjdRVW1iWFU4S3pJTkFkdUo2Q2lFNHRhYVl6WWhtMG5MMldsdGVCWVA5N1dnUWpVemo2eDhvQWpOejJPR05wSkFyRHJkbG5WOUZBOEMwME1YWkRZblhlcllhLVZzYlFDQmVkSnEzQXo1cWZzQS1RdFdQX0dDelY5S1V3RWpTZk1RZEg2NVVDcldPV05uc1FiY3hRY3U4dWdKOEJnU3BvS1pDc1luc1RKQng5SUNYNk1SYndPOW5JTG9fZUk?oc=5\" target=\"_blank\">A new scientific study has found that the devastating floods during Typhoon Tino were caused by record-breaking rainfall and \"soaked\" ground, rather than a single land development. Read more in the Sun Star chat room.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">facebook.com</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": null,
+        "tweet_id": "2029472990120034613",
+        "geo": {
+            "country": "Philippines",
+            "name": "Luzon",
+            "latitude": 15.0,
+            "longitude": 121.0,
+            "confidence": 0.9
+        }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPZkJvUE5PcjRNZDhWbjBrS3ZDRkNLa0J3TjdRVW1iWFU4S3pJTkFkdUo2Q2lFNHRhYVl6WWhtMG5MMldsdGVCWVA5N1dnUWpVemo2eDhvQWpOejJPR05wSkFyRHJkbG5WOUZBOEMwME1YWkRZblhlcllhLVZzYlFDQmVkSnEzQXo1cWZzQS1RdFdQX0dDelY5S1V3RWpTZk1RZEg2NVVDcldPV05uc1FiY3hRY3U4dWdKOEJnU3BvS1pDc1luc1RKQng5SUNYNk1SYndPOW5JTG9fZUk?oc=5",
+        "date": "2026-03-05",
+        "title": "A new scientific study has found that the devastating floods during Typhoon Tino were caused by record-breaking rainfall and \"soaked\" ground, rather than a single land development. Read more in the Sun Star chat room. - facebook.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxPZkJvUE5PcjRNZDhWbjBrS3ZDRkNLa0J3TjdRVW1iWFU4S3pJTkFkdUo2Q2lFNHRhYVl6WWhtMG5MMldsdGVCWVA5N1dnUWpVemo2eDhvQWpOejJPR05wSkFyRHJkbG5WOUZBOEMwME1YWkRZblhlcllhLVZzYlFDQmVkSnEzQXo1cWZzQS1RdFdQX0dDelY5S1V3RWpTZk1RZEg2NVVDcldPV05uc1FiY3hRY3U4dWdKOEJnU3BvS1pDc1luc1RKQng5SUNYNk1SYndPOW5JTG9fZUk?oc=5\" target=\"_blank\">A new scientific study has found that the devastating floods during Typhoon Tino were caused by record-breaking rainfall and \"soaked\" ground, rather than a single land development. Read more in the Sun Star chat room.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">facebook.com</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "posted",
+        "tweet": "\ud83c\uddf5\ud83c\udded POST-EVENT Philippines: Devastating floods during Typhoon Tino caused by record-breaking rainfall and soaked ground, rather than single land development. (Sun Star)",
+        "type": "news",
+        "tweet_id": "2029472990120034613",
+        "geo": {
+            "country": "Philippines",
+            "name": "Luzon",
+            "latitude": 15.0,
+            "longitude": 121.0,
+            "confidence": 0.9
+        }
     }
 ]
