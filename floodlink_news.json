@@ -10116,5 +10116,14 @@
             "longitude": 123.8854,
             "confidence": 1.0
         }
+    },
+    {
+        "link": null,
+        "date": "2026-03-05",
+        "status": "posted",
+        "tweet": "Global flood fatalities 2020-2025: ~48,000 deaths from floods, flash floods, storm surge & extreme rainfall, up 25% vs prior decade.\n\nTop 5 countries by deaths:\n1. \ud83c\uddee\ud83c\uddf3 India: 13,200\n2. \ud83c\udde8\ud83c\uddf3 China: 9,100\n3. \ud83c\uddf5\ud83c\uddf0 Pakistan: 6,400\n4. \ud83c\udde7\ud83c\udde9 Bangladesh: 5,300\n5. \ud83c\udde7\ud83c\uddf7 Brazil: 3,500",
+        "type": "statistical",
+        "category": "global flood fatalities and trends",
+        "tweet_id": "2029615491572977984"
     }
 ]
