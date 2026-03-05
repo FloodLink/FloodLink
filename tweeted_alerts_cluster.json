@@ -3204,7 +3204,7 @@
     "rain_mm": 54.62,
     "soil_moisture": 0.584,
     "raw_dynamic_score": 8.397,
-    "last_updated": "2026-02-15T01:31:30.606082Z",
+    "last_updated": "2026-03-05T01:25:56.948230Z",
     "last_tweeted_at": "2026-01-24T04:00:31.257046Z",
     "tweet_id": "2014911453120364597",
     "resolved": false
@@ -6474,7 +6474,7 @@
     "rain_mm": 43.5,
     "soil_moisture": 0.614,
     "raw_dynamic_score": 6.803,
-    "last_updated": "2026-03-04T21:33:02.037352Z",
+    "last_updated": "2026-03-05T01:25:56.948230Z",
     "last_tweeted_at": "2026-02-14T18:28:24.149022Z",
     "tweet_id": "2022739759270109665",
     "resolved": false
@@ -9197,7 +9197,7 @@
     "rain_mm": 45.88,
     "soil_moisture": 0.684,
     "raw_dynamic_score": 7.464,
-    "last_updated": "2026-03-04T18:43:17.501256Z",
+    "last_updated": "2026-03-05T01:25:56.948230Z",
     "last_tweeted_at": "2026-03-04T18:43:17.501256Z",
     "tweet_id": "2029266487404638535",
     "resolved": false
@@ -9212,9 +9212,24 @@
     "rain_mm": 61.0,
     "soil_moisture": 0.593,
     "raw_dynamic_score": 9.426,
-    "last_updated": "2026-03-04T21:33:02.037352Z",
+    "last_updated": "2026-03-05T01:25:56.948230Z",
     "last_tweeted_at": "2026-03-04T21:33:02.037352Z",
     "tweet_id": "2029309207351054823",
+    "resolved": false
+  },
+  "-4.4470,-49.1156": {
+    "country": "Brazil",
+    "name": "Jacundá",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": -4.44696,
+    "longitude": -49.11556,
+    "rain_mm": 48.25,
+    "soil_moisture": 0.742,
+    "raw_dynamic_score": 8.105,
+    "last_updated": "2026-03-05T01:25:56.948230Z",
+    "last_tweeted_at": "2026-03-05T01:25:56.948230Z",
+    "tweet_id": "2029367818936815842",
     "resolved": false
   }
 }
