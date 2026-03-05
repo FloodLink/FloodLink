@@ -9904,5 +9904,13 @@
             "longitude": 121.0,
             "confidence": 0.9
         }
+    },
+    {
+        "link": null,
+        "date": "2026-03-05",
+        "status": "posted",
+        "tweet": "\ud83c\uddf3\ud83c\uddf1 The Netherlands' 26,000 km of dikes and levees shield 60% of its land and 17 million residents from floods, with ongoing reinforcements against rising seas.",
+        "type": "infrastructure",
+        "tweet_id": "2029489354465333489"
     }
 ]
