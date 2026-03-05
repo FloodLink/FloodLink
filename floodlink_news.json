@@ -10125,5 +10125,179 @@
         "type": "statistical",
         "category": "global flood fatalities and trends",
         "tweet_id": "2029615491572977984"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZERYSTRCTkZsU3NHUjJSMWZGTFZNNmhmTDN1UExvRjd2a1JJV3RZNVo4LUlHT1Y4d3MwZUN3eWpMYUxoam5zWFpUU0RYam9WVDlWZXdZUjRVaVRIWkh6RHprMnN0UTc4cGpNOElYeFlRYy1tSW52aUI1OUlXREFDYUY1dGtOdmhNU0ZKSmoxMlZMSi1UN1E?oc=5",
+        "date": "2026-03-05",
+        "title": "Thunderstorms Bring Flash Flooding to Eastern Missouri - Yahoo",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPZERYSTRCTkZsU3NHUjJSMWZGTFZNNmhmTDN1UExvRjd2a1JJV3RZNVo4LUlHT1Y4d3MwZUN3eWpMYUxoam5zWFpUU0RYam9WVDlWZXdZUjRVaVRIWkh6RHprMnN0UTc4cGpNOElYeFlRYy1tSW52aUI1OUlXREFDYUY1dGtOdmhNU0ZKSmoxMlZMSi1UN1E?oc=5\" target=\"_blank\">Thunderstorms Bring Flash Flooding to Eastern Missouri</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNcEdCY1F0dUFVNmpOXzlCX0hiTElDNUtPS1VQQkhxbVlYNHFBYXB6aVNwMW03RndtUmF5Ylg1aWVYckJKTXA4U3hNTU1QRjZBTE1rOHZ2d1VfdzNWYWNOWmR1T3ctdExHbFN3VVduMllkU2d3ZHFkRUp1MS12NnZScUk3YmhxLWlFU29TM1VDM2RyN2tRSnVLSFJPQXg2OEliWTRPOFBpc2pPYXhqbXZPWTZJUnZqOG5SS2tDY1lVUQ?oc=5",
+        "date": "2026-03-05",
+        "title": "Flood safety: What to do if you find yourself in too deep - Dayton Daily News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxNcEdCY1F0dUFVNmpOXzlCX0hiTElDNUtPS1VQQkhxbVlYNHFBYXB6aVNwMW03RndtUmF5Ylg1aWVYckJKTXA4U3hNTU1QRjZBTE1rOHZ2d1VfdzNWYWNOWmR1T3ctdExHbFN3VVduMllkU2d3ZHFkRUp1MS12NnZScUk3YmhxLWlFU29TM1VDM2RyN2tRSnVLSFJPQXg2OEliWTRPOFBpc2pPYXhqbXZPWTZJUnZqOG5SS2tDY1lVUQ?oc=5\" target=\"_blank\">Flood safety: What to do if you find yourself in too deep</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Dayton Daily News</font>",
+        "similarity_excluded": "No",
+        "score": 4,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOR3lBVDZnY3VjRTBkSGJWM2ZDMldhRWk1S2htVXZtLUpERWhKcGhFM2JlU2NtUTE4OE1meXNQZE5CRWdkX3lJaXl2eFdQejNjTm1JTVRXT21DdnlHQ0wwMHp5cFEzbDFUOGhOY1JvTkVrc3BwMlNycGcxQnBiX1VCckYzSXhlTHY4cm95LVF6QjZFY2xuTzNz?oc=5",
+        "date": "2026-03-05",
+        "title": "Major Flood Sparks Evacuation Concerns as River Levels Surge to 19 Feet - Newsweek",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOR3lBVDZnY3VjRTBkSGJWM2ZDMldhRWk1S2htVXZtLUpERWhKcGhFM2JlU2NtUTE4OE1meXNQZE5CRWdkX3lJaXl2eFdQejNjTm1JTVRXT21DdnlHQ0wwMHp5cFEzbDFUOGhOY1JvTkVrc3BwMlNycGcxQnBiX1VCckYzSXhlTHY4cm95LVF6QjZFY2xuTzNz?oc=5\" target=\"_blank\">Major Flood Sparks Evacuation Concerns as River Levels Surge to 19 Feet</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Newsweek</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": null,
+        "tweet_id": "2029668332476252498",
+        "geo": {
+            "country": null,
+            "name": null,
+            "latitude": null,
+            "longitude": null,
+            "confidence": 0.0
+        }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPaTk0bHBDcU5mdHZuMTU2QTBoQWNYbkhYakNKVmt6VDZRSDFGbzFVZXk1NFZyQmRtQXVJeDluRDdnVGV4WUdXTWg0cmY4VE9halg3MmxZLVZ5cGhfLVZUS2VCVEl6RDVDSWpucDZ2UXJYWlpneVJBalRza1VBSWxXMjBJMGJBYVdRa3JxOV8wSjNsYUlTX2JNTXBqRXUyQkQ2UzF3RG5YMURzYVBhX2FOZ3VDWUxRa2tXVnZTcm1zSjh3T0xDWUg0TUlWdkhLemczUkdoQUlvWFhFLUk0M2Nz?oc=5",
+        "date": "2026-03-05",
+        "title": "Several weather warnings are in place across Australia heading into the weekend as millions brace for heavy rain, flash flooding and severe thunderstorms. - facebook.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxPaTk0bHBDcU5mdHZuMTU2QTBoQWNYbkhYakNKVmt6VDZRSDFGbzFVZXk1NFZyQmRtQXVJeDluRDdnVGV4WUdXTWg0cmY4VE9halg3MmxZLVZ5cGhfLVZUS2VCVEl6RDVDSWpucDZ2UXJYWlpneVJBalRza1VBSWxXMjBJMGJBYVdRa3JxOV8wSjNsYUlTX2JNTXBqRXUyQkQ2UzF3RG5YMURzYVBhX2FOZ3VDWUxRa2tXVnZTcm1zSjh3T0xDWUg0TUlWdkhLemczUkdoQUlvWFhFLUk0M2Nz?oc=5\" target=\"_blank\">Several weather warnings are in place across Australia heading into the weekend as millions brace for heavy rain, flash flooding and severe thunderstorms.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">facebook.com</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": null,
+        "tweet_id": "2029668871024853203",
+        "geo": {
+            "country": "Australia",
+            "name": null,
+            "latitude": null,
+            "longitude": null,
+            "confidence": 0.9
+        }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOeE85cE81YVhmYllpZDZvLU5Bc1cxMEtaMkhNemZyTjVBWF9tcGpUOEZGN1d0a09ELUdscG5iMkJwSHh3ZFhzYThzOFNVOUJhN3loZDNSVU84azBRcTVCbEhrY2p6Z21TOHFhb0dBVFRqMnpoUTVZLWNjLVhleXB6T2tFb3FLeTI3eFVEUVRBcGFId1FFX1dLRlpEemYtYlVGRkdKd0NKQk1PLVNoTlBIREFxX2lmTk9BTGxLVmRGTjgzUQ?oc=5",
+        "date": "2026-03-05",
+        "title": "Flood threat to grow, expand as more storms track from Texas to Midwest - AccuWeather",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxOeE85cE81YVhmYllpZDZvLU5Bc1cxMEtaMkhNemZyTjVBWF9tcGpUOEZGN1d0a09ELUdscG5iMkJwSHh3ZFhzYThzOFNVOUJhN3loZDNSVU84azBRcTVCbEhrY2p6Z21TOHFhb0dBVFRqMnpoUTVZLWNjLVhleXB6T2tFb3FLeTI3eFVEUVRBcGFId1FFX1dLRlpEemYtYlVGRkdKd0NKQk1PLVNoTlBIREFxX2lmTk9BTGxLVmRGTjgzUQ?oc=5\" target=\"_blank\">Flood threat to grow, expand as more storms track from Texas to Midwest</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AccuWeather</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQQkpkcjNCSEM2dHRRalU4RzRyOURYOVhMSU9zTnVDeWVCdmo4blZmQ0lyVm5hNlRMdS1RY3hRQ3B1QTZhU0YtSVo1eFZJVlg1WElWdkw2SFJEcGdYbUppRUllZDdtVlRkODR4WXNYY3JhaHVHbTN2Nkk2MjRjZkw1M0REMFRtMG9rRmhpN2Jvb1l0bTMxMXBLTXhueG9JOU1LNUt3dTlJUzZiaGFMcEpONE9KWG1yR2pjQkxRQkVoSEpPZXdOdDFEc0lVa25mQQ?oc=5",
+        "date": "2026-03-05",
+        "title": "Flood advisory, warning issued as rain continues in southwest Ohio - Dayton Daily News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxQQkpkcjNCSEM2dHRRalU4RzRyOURYOVhMSU9zTnVDeWVCdmo4blZmQ0lyVm5hNlRMdS1RY3hRQ3B1QTZhU0YtSVo1eFZJVlg1WElWdkw2SFJEcGdYbUppRUllZDdtVlRkODR4WXNYY3JhaHVHbTN2Nkk2MjRjZkw1M0REMFRtMG9rRmhpN2Jvb1l0bTMxMXBLTXhueG9JOU1LNUt3dTlJUzZiaGFMcEpONE9KWG1yR2pjQkxRQkVoSEpPZXdOdDFEc0lVa25mQQ?oc=5\" target=\"_blank\">Flood advisory, warning issued as rain continues in southwest Ohio</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Dayton Daily News</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQcktJbVQwQWhZMjVGeDJTQ3EyblFma2I0VDVXcjBEblowQVFwcExjeHJHRzVfWlQyOXpkZkczLWQtVGNzYkp5M1RVeW12UlEwLUxOOWNVQl9RcnhoWkRERTY4NXZ2ZndKc1kyVzgtSUdQaHhuVDBhVEx4dnFoRm9wR3FJSFBjOTg3UUp2bXlESUJwMUY2VHpEQ21Td256aE1Ubmsyay1Tc19qNGR0Rkw0aTJHY1FCRVRPLVU1VGVXRWtsUWZQY1doOUYwX2k3TXVoZDVGYzF5aXZYWFVqWHc?oc=5",
+        "date": "2026-03-05",
+        "title": "Bartholomew County dealing with intense flooding - WTHR",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxQcktJbVQwQWhZMjVGeDJTQ3EyblFma2I0VDVXcjBEblowQVFwcExjeHJHRzVfWlQyOXpkZkczLWQtVGNzYkp5M1RVeW12UlEwLUxOOWNVQl9RcnhoWkRERTY4NXZ2ZndKc1kyVzgtSUdQaHhuVDBhVEx4dnFoRm9wR3FJSFBjOTg3UUp2bXlESUJwMUY2VHpEQ21Td256aE1Ubmsyay1Tc19qNGR0Rkw0aTJHY1FCRVRPLVU1VGVXRWtsUWZQY1doOUYwX2k3TXVoZDVGYzF5aXZYWFVqWHc?oc=5\" target=\"_blank\">Bartholomew County dealing with intense flooding</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WTHR</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNMmlWbWhZSG1nVjkzUUl2VjVfQ3JzWmEzTEpuN1ZycUZVdmgxazFPcFFOMHJ2SllpbVVIVjl0ME5sZjluQzBhN05EQ2VjQUlJVERFN0JhZnRtNXROSWIxSVZBWlprYzAtclkyX2hsUE9icmszcjFhZ3RPcDVYdnFlMlB0aFctT2ppeTU5Y0g4SWlxZ1FMRkRQRklfYVdCZ1E3dDNFLQ?oc=5",
+        "date": "2026-03-05",
+        "title": "Major flood warning issued for Katherine after 100mm of rain hits region - Australian Broadcasting Corporation",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNMmlWbWhZSG1nVjkzUUl2VjVfQ3JzWmEzTEpuN1ZycUZVdmgxazFPcFFOMHJ2SllpbVVIVjl0ME5sZjluQzBhN05EQ2VjQUlJVERFN0JhZnRtNXROSWIxSVZBWlprYzAtclkyX2hsUE9icmszcjFhZ3RPcDVYdnFlMlB0aFctT2ppeTU5Y0g4SWlxZ1FMRkRQRklfYVdCZ1E3dDNFLQ?oc=5\" target=\"_blank\">Major flood warning issued for Katherine after 100mm of rain hits region</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Australian Broadcasting Corporation</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQUTI5STUtVHNXYkVJUDNnVWdQTmdlVFdSY1EyLVlUdnFMMkp3QjZZczZIQUVaZGRCSlNId0wwanZCM19sRDdKV3EweDh0MUM0OXpKc3Uzbl96djRXcDhuU0I3V3V4blQ4dEVhQnQ4RlExZ1RPV0p6ZTN5bHJONVNFWnhpWDFzWHNsNjlvd0otQTlnVzdlVzQ2bWQ0aGlkNjFOUGZXZzVwQnM5YXlDaWNmZ1JWMmJONTlCblgxNU5n?oc=5",
+        "date": "2026-03-05",
+        "title": "Severe Storms and Flash Flooding Disrupt Road and Air Travel Across Dallas Area - FTN news",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxQUTI5STUtVHNXYkVJUDNnVWdQTmdlVFdSY1EyLVlUdnFMMkp3QjZZczZIQUVaZGRCSlNId0wwanZCM19sRDdKV3EweDh0MUM0OXpKc3Uzbl96djRXcDhuU0I3V3V4blQ4dEVhQnQ4RlExZ1RPV0p6ZTN5bHJONVNFWnhpWDFzWHNsNjlvd0otQTlnVzdlVzQ2bWQ0aGlkNjFOUGZXZzVwQnM5YXlDaWNmZ1JWMmJONTlCblgxNU5n?oc=5\" target=\"_blank\">Severe Storms and Flash Flooding Disrupt Road and Air Travel Across Dallas Area</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FTN news</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1VSXJ6V0x1SXhkeTRGaG9LamcySGItMEhvVVNZdFVRNWdIamRYeldvTW5WdTBIWkltX01nS1dHbnp3Z0g0MHNKM0ljQjNkQWdOcUhN?oc=5",
+        "date": "2026-03-05",
+        "title": "More Flooding Woes - WRBI Radio",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE1VSXJ6V0x1SXhkeTRGaG9LamcySGItMEhvVVNZdFVRNWdIamRYeldvTW5WdTBIWkltX01nS1dHbnp3Z0g0MHNKM0ljQjNkQWdOcUhN?oc=5\" target=\"_blank\">More Flooding Woes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WRBI Radio</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOLURFTXNGcG5XSEhfWGZucDZveDR0amI0LUJyclF3Y2xRRUhMMWZHeDNnU2htVmUwelBoWTRJeDVHX2Y1aktlb3lSRTUxVVpMM2pJdGxMUDhucG94bVNNWGdUZDR0SExSb3lkTnJBcXlHbTd4MHJwZ2Y5Q1JXTTV6YWdPRWRXQmxvTnZzRXZn?oc=5",
+        "date": "2026-03-05",
+        "title": "Erbil deploys flood early warning devices across city - \u0634\u0641\u0642 \u0646\u064a\u0648\u0632",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOLURFTXNGcG5XSEhfWGZucDZveDR0amI0LUJyclF3Y2xRRUhMMWZHeDNnU2htVmUwelBoWTRJeDVHX2Y1aktlb3lSRTUxVVpMM2pJdGxMUDhucG94bVNNWGdUZDR0SExSb3lkTnJBcXlHbTd4MHJwZ2Y5Q1JXTTV6YWdPRWRXQmxvTnZzRXZn?oc=5\" target=\"_blank\">Erbil deploys flood early warning devices across city</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">\u0634\u0641\u0642 \u0646\u064a\u0648\u0632</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOVEFHQkZFUk5kZlU5WjF0YVRPSF83THI4MmFDYXFFdkxObXl0ZFJuNzhBU1RIOTI0d2FyTGMwSk9YMTN6ZGlBejMxOXdmX2hvbWlyOTlMTDZtbDNsd2NWS1NDODlUQm5nci1DdzRnTXJsTktvWXp1QlBGUGp5MUZmVG9TdS1ST3lQU2VaLTBLOE1aRzk5ZVRWRkZB?oc=5",
+        "date": "2026-03-05",
+        "title": "Tropical low expected to bring flooding to sodden northern Queensland - Australian Broadcasting Corporation",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxOVEFHQkZFUk5kZlU5WjF0YVRPSF83THI4MmFDYXFFdkxObXl0ZFJuNzhBU1RIOTI0d2FyTGMwSk9YMTN6ZGlBejMxOXdmX2hvbWlyOTlMTDZtbDNsd2NWS1NDODlUQm5nci1DdzRnTXJsTktvWXp1QlBGUGp5MUZmVG9TdS1ST3lQU2VaLTBLOE1aRzk5ZVRWRkZB?oc=5\" target=\"_blank\">Tropical low expected to bring flooding to sodden northern Queensland</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Australian Broadcasting Corporation</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOR3lBVDZnY3VjRTBkSGJWM2ZDMldhRWk1S2htVXZtLUpERWhKcGhFM2JlU2NtUTE4OE1meXNQZE5CRWdkX3lJaXl2eFdQejNjTm1JTVRXT21DdnlHQ0wwMHp5cFEzbDFUOGhOY1JvTkVrc3BwMlNycGcxQnBiX1VCckYzSXhlTHY4cm95LVF6QjZFY2xuTzNz?oc=5",
+        "date": "2026-03-05",
+        "title": "Major Flood Sparks Evacuation Concerns as River Levels Surge to 19 Feet - Newsweek",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOR3lBVDZnY3VjRTBkSGJWM2ZDMldhRWk1S2htVXZtLUpERWhKcGhFM2JlU2NtUTE4OE1meXNQZE5CRWdkX3lJaXl2eFdQejNjTm1JTVRXT21DdnlHQ0wwMHp5cFEzbDFUOGhOY1JvTkVrc3BwMlNycGcxQnBiX1VCckYzSXhlTHY4cm95LVF6QjZFY2xuTzNz?oc=5\" target=\"_blank\">Major Flood Sparks Evacuation Concerns as River Levels Surge to 19 Feet</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Newsweek</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 FORECAST US: Major river flood with levels surging to 19 feet, sparking evacuation concerns. (Newsweek)",
+        "type": "news",
+        "tweet_id": "2029668332476252498",
+        "geo": {
+            "country": null,
+            "name": null,
+            "latitude": null,
+            "longitude": null,
+            "confidence": 0.0
+        }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPaTk0bHBDcU5mdHZuMTU2QTBoQWNYbkhYakNKVmt6VDZRSDFGbzFVZXk1NFZyQmRtQXVJeDluRDdnVGV4WUdXTWg0cmY4VE9halg3MmxZLVZ5cGhfLVZUS2VCVEl6RDVDSWpucDZ2UXJYWlpneVJBalRza1VBSWxXMjBJMGJBYVdRa3JxOV8wSjNsYUlTX2JNTXBqRXUyQkQ2UzF3RG5YMURzYVBhX2FOZ3VDWUxRa2tXVnZTcm1zSjh3T0xDWUg0TUlWdkhLemczUkdoQUlvWFhFLUk0M2Nz?oc=5",
+        "date": "2026-03-05",
+        "title": "Several weather warnings are in place across Australia heading into the weekend as millions brace for heavy rain, flash flooding and severe thunderstorms. - facebook.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxPaTk0bHBDcU5mdHZuMTU2QTBoQWNYbkhYakNKVmt6VDZRSDFGbzFVZXk1NFZyQmRtQXVJeDluRDdnVGV4WUdXTWg0cmY4VE9halg3MmxZLVZ5cGhfLVZUS2VCVEl6RDVDSWpucDZ2UXJYWlpneVJBalRza1VBSWxXMjBJMGJBYVdRa3JxOV8wSjNsYUlTX2JNTXBqRXUyQkQ2UzF3RG5YMURzYVBhX2FOZ3VDWUxRa2tXVnZTcm1zSjh3T0xDWUg0TUlWdkhLemczUkdoQUlvWFhFLUk0M2Nz?oc=5\" target=\"_blank\">Several weather warnings are in place across Australia heading into the weekend as millions brace for heavy rain, flash flooding and severe thunderstorms.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">facebook.com</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "posted",
+        "tweet": "\ud83c\udde6\ud83c\uddfa FORECAST Australia: Heavy rain, flash flooding and severe thunderstorms expected across the country this weekend; millions brace for impacts. (via Facebook)",
+        "type": "news",
+        "tweet_id": "2029668871024853203",
+        "geo": {
+            "country": "Australia",
+            "name": null,
+            "latitude": null,
+            "longitude": null,
+            "confidence": 0.9
+        }
     }
 ]
