@@ -9484,7 +9484,7 @@
     "rain_mm": 47.12,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 9.013,
-    "last_updated": "2026-03-06T12:42:31.912125Z",
+    "last_updated": "2026-03-06T18:39:51.333648Z",
     "last_tweeted_at": "2026-03-06T06:54:57.601149Z",
     "tweet_id": "2029813011175596521",
     "resolved": false
@@ -9544,7 +9544,7 @@
     "rain_mm": 34.12,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 6.526,
-    "last_updated": "2026-03-06T15:35:40.484568Z",
+    "last_updated": "2026-03-06T18:39:51.333648Z",
     "last_tweeted_at": "2026-03-06T15:35:40.484568Z",
     "tweet_id": "2029944043409445335",
     "resolved": false
@@ -9559,7 +9559,7 @@
     "rain_mm": 45.69,
     "soil_moisture": 0.716,
     "raw_dynamic_score": 7.564,
-    "last_updated": "2026-03-06T15:35:40.484568Z",
+    "last_updated": "2026-03-06T18:39:51.333648Z",
     "last_tweeted_at": "2026-03-06T15:35:40.484568Z",
     "tweet_id": "2029944295889711383",
     "resolved": false
@@ -9604,9 +9604,24 @@
     "rain_mm": 46.56,
     "soil_moisture": 0.471,
     "raw_dynamic_score": 6.682,
-    "last_updated": "2026-03-06T15:35:40.484568Z",
+    "last_updated": "2026-03-06T18:39:51.333648Z",
     "last_tweeted_at": "2026-03-06T15:35:40.484568Z",
     "tweet_id": "2029944548927889412",
+    "resolved": false
+  },
+  "4.1833,114.3167": {
+    "country": "Malaysia",
+    "name": "Marudi",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 4.18333,
+    "longitude": 114.31667,
+    "rain_mm": 54.81,
+    "soil_moisture": 0.657,
+    "raw_dynamic_score": 8.783,
+    "last_updated": "2026-03-06T18:39:51.333648Z",
+    "last_tweeted_at": "2026-03-06T18:39:51.333648Z",
+    "tweet_id": "2029990402661490787",
     "resolved": false
   }
 }
