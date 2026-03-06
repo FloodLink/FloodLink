@@ -10282,5 +10282,13 @@
             "longitude": -99.3439,
             "confidence": 0.95
         }
+    },
+    {
+        "link": null,
+        "date": "2026-03-06",
+        "status": "posted",
+        "tweet": "\ud83c\uddf3\ud83c\uddf1 The Netherlands protects 9 million residents\u2014over half its population\u2014with 26,000 km of dikes and levees against sea-level rise and river floods.",
+        "type": "infrastructure",
+        "tweet_id": "2029786952862498886"
     }
 ]
