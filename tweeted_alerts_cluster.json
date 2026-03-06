@@ -7892,16 +7892,16 @@
   "-0.2537,-79.1763": {
     "country": "Ecuador",
     "name": "Santo Domingo de los Colorados",
-    "risk_level": "Medium",
-    "tweeted_level": "Medium",
+    "risk_level": "High",
+    "tweeted_level": "High",
     "latitude": -0.25368,
     "longitude": -79.17628,
-    "rain_mm": 44.12,
-    "soil_moisture": 0.665,
-    "raw_dynamic_score": 7.103,
-    "last_updated": "2026-03-04T09:38:59.846773Z",
-    "last_tweeted_at": "2026-02-23T09:50:21.584824Z",
-    "tweet_id": "2025871379594125680",
+    "rain_mm": 86.5,
+    "soil_moisture": 0.677,
+    "raw_dynamic_score": 14.024,
+    "last_updated": "2026-03-06T04:46:21.011295Z",
+    "last_tweeted_at": "2026-03-06T04:46:21.011295Z",
+    "tweet_id": "2029780889463574775",
     "resolved": false
   },
   "-3.4752,-80.2308": {
@@ -8387,17 +8387,18 @@
   "-3.3836,-57.7186": {
     "country": "Brazil",
     "name": "Maués",
-    "risk_level": "High",
-    "tweeted_level": "High",
+    "risk_level": "Low",
+    "tweeted_level": "Low",
     "latitude": -3.38361,
     "longitude": -57.71861,
-    "rain_mm": 91.69,
-    "soil_moisture": 0.754,
-    "raw_dynamic_score": 15.497,
-    "last_updated": "2026-03-06T01:29:30.672609Z",
-    "last_tweeted_at": "2026-02-27T01:22:57.167671Z",
-    "tweet_id": "2027192741302525984",
-    "resolved": false
+    "rain_mm": 10.75,
+    "soil_moisture": 0.691,
+    "raw_dynamic_score": 1.756,
+    "last_updated": "2026-03-06T04:46:21.011295Z",
+    "last_tweeted_at": "2026-03-06T04:46:21.011295Z",
+    "tweet_id": "2029780636739981444",
+    "resolved": true,
+    "resolved_at": "2026-03-06T04:46:21.011295Z"
   },
   "-21.1200,-42.9428": {
     "country": "Brazil",
@@ -9519,6 +9520,21 @@
     "last_updated": "2026-03-05T19:16:26.523479Z",
     "last_tweeted_at": "2026-03-05T19:16:26.523479Z",
     "tweet_id": "2029637723837857959",
+    "resolved": false
+  },
+  "-8.4592,-76.4633": {
+    "country": "Peru",
+    "name": "Uchiza",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": -8.45917,
+    "longitude": -76.46333,
+    "rain_mm": 45.44,
+    "soil_moisture": 0.634,
+    "raw_dynamic_score": 7.188,
+    "last_updated": "2026-03-06T04:46:21.011295Z",
+    "last_tweeted_at": "2026-03-06T04:46:21.011295Z",
+    "tweet_id": "2029781142141042954",
     "resolved": false
   }
 }
