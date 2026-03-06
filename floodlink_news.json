@@ -10377,5 +10377,14 @@
             "longitude": 132.263,
             "confidence": 0.95
         }
+    },
+    {
+        "link": null,
+        "date": "2026-03-06",
+        "status": "posted",
+        "tweet": "By 2026, global flood early warning systems are projected to cover 70% of people exposed to river floods, flash floods, and storm surges\u2014up from 40% in 2020\u2014but 600M remain unprotected.",
+        "type": "statistical",
+        "category": "coverage of flood early warning systems worldwide",
+        "tweet_id": "2029850542210494956"
     }
 ]
