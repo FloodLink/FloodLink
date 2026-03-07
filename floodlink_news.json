@@ -10672,5 +10672,15 @@
         "score": 7,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPMUk2NjFpVVFadzlEOS1McGljei1SVHRzM2FLQ3hWVUVOSWpzRUt3UzNSbDJqZHZJOGJaLXFSWFVIYWJsYU5MZUhHSzBfcm9XTUpaMEl6Y0pVOUNjNlRWT05Wc0NQbDdIVjMybUJMWkJJendBZUVaUVV3YUNnUm1ZbmdQaXBuQjFyb01jc2lVOTZYQWR6WHlUX25CZXdlOGpZaUtoSGlDT3lDMXFSTkwtR1BuTDJFOThaeXExMTBmSQ?oc=5",
+        "date": "2026-03-07",
+        "title": "Flood warning issued for Ayr, flood watch remains in effect for Brantford - Brantford Expositor",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxPMUk2NjFpVVFadzlEOS1McGljei1SVHRzM2FLQ3hWVUVOSWpzRUt3UzNSbDJqZHZJOGJaLXFSWFVIYWJsYU5MZUhHSzBfcm9XTUpaMEl6Y0pVOUNjNlRWT05Wc0NQbDdIVjMybUJMWkJJendBZUVaUVV3YUNnUm1ZbmdQaXBuQjFyb01jc2lVOTZYQWR6WHlUX25CZXdlOGpZaUtoSGlDT3lDMXFSTkwtR1BuTDJFOThaeXExMTBmSQ?oc=5\" target=\"_blank\">Flood warning issued for Ayr, flood watch remains in effect for Brantford</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Brantford Expositor</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
     }
 ]
