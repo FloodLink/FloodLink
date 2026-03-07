@@ -10401,5 +10401,15 @@
         "score": 1,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNRS1acWNYZDlDVUF0Rk5DLVJPMi1Ob3ByRFl5Wm8yaGNzYXQ3QkZPSGFiRlhBRkNhV1pQa21jTWxGc1ZwT2JWdGljaWtRLVJXWXJhdWhTSVpTX09uYzF4SUwzMllUZVVjRkVCYWRQajR2QU5wOG5LU2N6TlhtYXlMVHVDeUF5YjIySFdCaHVhNmE3MkV4Tkp1TlgwNWEySVN0X3NUcm1xZl9VNWVxcWJaTGV6RFlPdE9lR0pZMlZZYTZBbllzb3FENXF2WFBROUstSWc?oc=5",
+        "date": "2026-03-07",
+        "title": "Flood warning issued for Ingham County - Lansing State Journal",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxNRS1acWNYZDlDVUF0Rk5DLVJPMi1Ob3ByRFl5Wm8yaGNzYXQ3QkZPSGFiRlhBRkNhV1pQa21jTWxGc1ZwT2JWdGljaWtRLVJXWXJhdWhTSVpTX09uYzF4SUwzMllUZVVjRkVCYWRQajR2QU5wOG5LU2N6TlhtYXlMVHVDeUF5YjIySFdCaHVhNmE3MkV4Tkp1TlgwNWEySVN0X3NUcm1xZl9VNWVxcWJaTGV6RFlPdE9lR0pZMlZZYTZBbllzb3FENXF2WFBROUstSWc?oc=5\" target=\"_blank\">Flood warning issued for Ingham County</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Lansing State Journal</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
     }
 ]
