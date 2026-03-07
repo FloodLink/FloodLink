@@ -10322,5 +10322,25 @@
         "score": 4,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNa1NxRDRVMExMdGlRckhrS2N0ZTRzLWh0V3RjSGVVby1QVjdGUWRTMkpFdFBpOFdYZVlkd1NqRWN0LVlOR2xoV1c0eTBEbGI3NTFYTDVNbF9na2RuVkM0VGtGWnNlQlc3OEcyY25jQkVyR1hvNlF1bmJpZy1CTklnXzU4WHNJSklBNk5sU2JBNzRXNXdfOG9wNG5BSXJBTDBuQ1RXVWJNdXJYX3Vk?oc=5",
+        "date": "2026-03-07",
+        "title": "Ingham County under a flood warning until 2 a.m. EST Monday - MLive.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNa1NxRDRVMExMdGlRckhrS2N0ZTRzLWh0V3RjSGVVby1QVjdGUWRTMkpFdFBpOFdYZVlkd1NqRWN0LVlOR2xoV1c0eTBEbGI3NTFYTDVNbF9na2RuVkM0VGtGWnNlQlc3OEcyY25jQkVyR1hvNlF1bmJpZy1CTklnXzU4WHNJSklBNk5sU2JBNzRXNXdfOG9wNG5BSXJBTDBuQ1RXVWJNdXJYX3Vk?oc=5\" target=\"_blank\">Ingham County under a flood warning until 2 a.m. EST Monday</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MLive.com</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOekpDVnF0VFBEZG41OFo5Q3otd05SZ0I0SndndmM0V2VlOFNYMHA0UFhqZ29jVGgyTGYyd2p6T3FPVGVaQnQxUXBBbDE0SnJ4VGwwYmhiUmlSLVpVSGI4Skpsc0JWUGNkbzEyOFg3T0kyS0lkTl8xbFotNXQ4NVk2Y3JSTkZnQWcxX3paRjF5b3NlQ0R5am1SdWZoNA?oc=5",
+        "date": "2026-03-07",
+        "title": "Riverlink project affecting Hutt River water quality - RNZ",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOekpDVnF0VFBEZG41OFo5Q3otd05SZ0I0SndndmM0V2VlOFNYMHA0UFhqZ29jVGgyTGYyd2p6T3FPVGVaQnQxUXBBbDE0SnJ4VGwwYmhiUmlSLVpVSGI4Skpsc0JWUGNkbzEyOFg3T0kyS0lkTl8xbFotNXQ4NVk2Y3JSTkZnQWcxX3paRjF5b3NlQ0R5am1SdWZoNA?oc=5\" target=\"_blank\">Riverlink project affecting Hutt River water quality</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">RNZ</font>",
+        "similarity_excluded": "No",
+        "score": 1,
+        "status": "processed",
+        "tweet": null
     }
 ]
