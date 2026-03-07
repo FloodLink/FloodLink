@@ -1329,10 +1329,18 @@
     "rain_mm": 78.06,
     "soil_moisture": 0.605,
     "raw_dynamic_score": 12.145,
-    "last_updated": "2026-03-07T15:22:07.739040Z",
+    "last_updated": "2026-03-07T18:29:05.075970Z",
     "last_tweeted_at": "2026-03-07T15:22:07.739040Z",
     "tweet_id": "2030303032601464979",
-    "resolved": false
+    "resolved": false,
+    "pending_downgrade": true,
+    "pending_target_level": "Low",
+    "pending_set_at": "2026-03-07T18:29:05.075970Z",
+    "pending_is_region": false,
+    "pending_observed_level": "Low",
+    "pending_observed_rain_mm": 11.12,
+    "pending_observed_soil_moisture": 0.614,
+    "pending_observed_raw_dynamic_score": 1.74
   },
   "-25.7495,-56.4352": {
     "country": "Paraguay",
@@ -3429,7 +3437,7 @@
     "rain_mm": 37.0,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 7.076,
-    "last_updated": "2026-01-28T18:31:52.385393Z",
+    "last_updated": "2026-03-07T18:29:05.075970Z",
     "last_tweeted_at": "2026-01-25T12:31:19.665673Z",
     "tweet_id": "2015402395141022099",
     "resolved": false
@@ -9565,7 +9573,7 @@
     "rain_mm": 0.19,
     "soil_moisture": 0.405,
     "raw_dynamic_score": 0.026,
-    "last_updated": "2026-03-07T15:22:07.739040Z",
+    "last_updated": "2026-03-07T18:29:05.075970Z",
     "last_tweeted_at": "2026-03-07T15:22:07.739040Z",
     "tweet_id": "2030303285354365217",
     "resolved": true,
@@ -9641,10 +9649,14 @@
     "rain_mm": 60.0,
     "soil_moisture": 0.614,
     "raw_dynamic_score": 9.386,
-    "last_updated": "2026-03-07T15:22:07.739040Z",
+    "last_updated": "2026-03-07T18:29:05.075970Z",
     "last_tweeted_at": "2026-03-07T15:22:07.739040Z",
     "tweet_id": "2030303285354365217",
-    "resolved": false
+    "resolved": false,
+    "pending_downgrade": true,
+    "pending_target_level": "Low",
+    "pending_set_at": "2026-03-07T18:29:05.075970Z",
+    "pending_is_region": true
   },
   "-25.7087,31.5102": {
     "country": "South Africa",
@@ -9656,7 +9668,7 @@
     "rain_mm": 49.5,
     "soil_moisture": 0.556,
     "raw_dynamic_score": 7.484,
-    "last_updated": "2026-03-07T15:22:07.739040Z",
+    "last_updated": "2026-03-07T18:29:05.075970Z",
     "last_tweeted_at": "2026-03-07T15:22:07.739040Z",
     "tweet_id": "2030303285354365217",
     "resolved": false
@@ -9671,7 +9683,7 @@
     "rain_mm": 78.06,
     "soil_moisture": 0.605,
     "raw_dynamic_score": 12.145,
-    "last_updated": "2026-03-07T15:22:07.739040Z",
+    "last_updated": "2026-03-07T18:29:05.075970Z",
     "last_tweeted_at": "2026-03-07T15:22:07.739040Z",
     "tweet_id": "2030303285354365217",
     "resolved": false
@@ -9686,7 +9698,7 @@
     "rain_mm": 49.5,
     "soil_moisture": 0.556,
     "raw_dynamic_score": 7.484,
-    "last_updated": "2026-03-07T15:22:07.739040Z",
+    "last_updated": "2026-03-07T18:29:05.075970Z",
     "last_tweeted_at": "2026-03-07T15:22:07.739040Z",
     "tweet_id": "2030303285354365217",
     "resolved": false
@@ -9701,7 +9713,7 @@
     "rain_mm": 82.69,
     "soil_moisture": 0.564,
     "raw_dynamic_score": 12.555,
-    "last_updated": "2026-03-07T15:22:07.739040Z",
+    "last_updated": "2026-03-07T18:29:05.075970Z",
     "last_tweeted_at": "2026-03-07T15:22:07.739040Z",
     "tweet_id": "2030303285354365217",
     "resolved": false
@@ -9716,7 +9728,7 @@
     "rain_mm": 82.69,
     "soil_moisture": 0.564,
     "raw_dynamic_score": 12.555,
-    "last_updated": "2026-03-07T15:22:07.739040Z",
+    "last_updated": "2026-03-07T18:29:05.075970Z",
     "last_tweeted_at": "2026-03-07T15:22:07.739040Z",
     "tweet_id": "2030303285354365217",
     "resolved": false
@@ -9731,7 +9743,7 @@
     "rain_mm": 82.69,
     "soil_moisture": 0.564,
     "raw_dynamic_score": 12.555,
-    "last_updated": "2026-03-07T15:22:07.739040Z",
+    "last_updated": "2026-03-07T18:29:05.075970Z",
     "last_tweeted_at": "2026-03-07T15:22:07.739040Z",
     "tweet_id": "2030303285354365217",
     "resolved": false
@@ -9746,7 +9758,7 @@
     "rain_mm": 107.38,
     "soil_moisture": 0.652,
     "raw_dynamic_score": 17.16,
-    "last_updated": "2026-03-07T15:22:07.739040Z",
+    "last_updated": "2026-03-07T18:29:05.075970Z",
     "last_tweeted_at": "2026-03-07T15:22:07.739040Z",
     "tweet_id": "2030303285354365217",
     "resolved": false
