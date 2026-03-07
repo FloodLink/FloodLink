@@ -10342,5 +10342,14 @@
         "score": 1,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-03-07",
+        "status": "posted",
+        "tweet": "In 2026, an estimated 2.4 billion people\u2014nearly 30% of the global population\u2014live in river floodplains exposed to floods, flash floods, and extreme rainfall.",
+        "type": "statistical",
+        "category": "population living in floodplains",
+        "tweet_id": "2030210467390525823"
     }
 ]
