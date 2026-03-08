@@ -3434,17 +3434,18 @@
   "-15.4353,49.7379": {
     "country": "Madagascar",
     "name": "Maroantsetra",
-    "risk_level": "Medium",
-    "tweeted_level": "Medium",
+    "risk_level": "Low",
+    "tweeted_level": "High",
     "latitude": -15.43527,
     "longitude": 49.73794,
-    "rain_mm": 37.0,
+    "rain_mm": 3.56,
     "soil_moisture": 1.0,
-    "raw_dynamic_score": 7.076,
-    "last_updated": "2026-03-07T18:29:05.075970Z",
-    "last_tweeted_at": "2026-01-25T12:31:19.665673Z",
-    "tweet_id": "2015402395141022099",
-    "resolved": false
+    "raw_dynamic_score": 0.681,
+    "last_updated": "2026-03-08T04:36:36.090214Z",
+    "last_tweeted_at": "2026-03-08T04:36:36.090214Z",
+    "tweet_id": "2030502957792555103",
+    "resolved": true,
+    "resolved_at": "2026-03-08T04:36:36.090214Z"
   },
   "-19.4000,46.9500": {
     "country": "Madagascar",
@@ -5759,16 +5760,16 @@
   "-17.3809,49.4083": {
     "country": "Madagascar",
     "name": "Fenoarivo Atsinanana",
-    "risk_level": "Medium",
-    "tweeted_level": "Medium",
+    "risk_level": "High",
+    "tweeted_level": "High",
     "latitude": -17.38095,
     "longitude": 49.40826,
-    "rain_mm": 60.31,
-    "soil_moisture": 0.545,
-    "raw_dynamic_score": 9.058,
-    "last_updated": "2026-03-08T01:27:17.008583Z",
-    "last_tweeted_at": "2026-02-10T12:59:42.065293Z",
-    "tweet_id": "2021207488343965714",
+    "rain_mm": 84.25,
+    "soil_moisture": 0.651,
+    "raw_dynamic_score": 13.456,
+    "last_updated": "2026-03-08T04:36:36.090214Z",
+    "last_tweeted_at": "2026-03-08T04:36:36.090214Z",
+    "tweet_id": "2030502957792555103",
     "resolved": false
   },
   "4.7548,115.0101": {
@@ -9608,7 +9609,7 @@
     "rain_mm": 48.06,
     "soil_moisture": 0.54,
     "raw_dynamic_score": 7.194,
-    "last_updated": "2026-03-07T04:24:10.336206Z",
+    "last_updated": "2026-03-08T04:36:36.090214Z",
     "last_tweeted_at": "2026-03-07T01:21:18.171702Z",
     "tweet_id": "2030091428513337737",
     "resolved": false
@@ -9777,7 +9778,7 @@
     "rain_mm": 60.38,
     "soil_moisture": 0.706,
     "raw_dynamic_score": 9.946,
-    "last_updated": "2026-03-07T21:20:13.372825Z",
+    "last_updated": "2026-03-08T04:36:36.090214Z",
     "last_tweeted_at": "2026-03-07T21:20:13.372825Z",
     "tweet_id": "2030393145792381317",
     "resolved": false
@@ -9852,9 +9853,24 @@
     "rain_mm": 55.56,
     "soil_moisture": 0.57,
     "raw_dynamic_score": 8.47,
-    "last_updated": "2026-03-08T01:27:17.008583Z",
+    "last_updated": "2026-03-08T04:36:36.090214Z",
     "last_tweeted_at": "2026-03-08T01:27:17.008583Z",
     "tweet_id": "2030455322918166817",
+    "resolved": false
+  },
+  "-17.4667,49.2000": {
+    "country": "Madagascar",
+    "name": "Vavatenina",
+    "risk_level": "Medium",
+    "tweeted_level": "High",
+    "latitude": -17.46667,
+    "longitude": 49.2,
+    "rain_mm": 49.62,
+    "soil_moisture": 0.597,
+    "raw_dynamic_score": 7.686,
+    "last_updated": "2026-03-08T04:36:36.090214Z",
+    "last_tweeted_at": "2026-03-08T04:36:36.090214Z",
+    "tweet_id": "2030502957792555103",
     "resolved": false
   }
 }
