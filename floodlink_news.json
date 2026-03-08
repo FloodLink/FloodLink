@@ -10650,5 +10650,82 @@
             "longitude": -78.8784,
             "confidence": 1.0
         }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPc0I3Y0ZaV0ZKUVRscGhxeUw2RDVsYjFJVHRoSHF4dTRFTy1DeDNjb2REWHFma3lXQXA0ZzVBUDRQLWZuYVRxQ0U2a2NGSjd2RnRoMXV6bngxenNWQWpkUGlucnJPSmRUeGY2SkZ0UFlmaGlMZ2lDZ1dObGpNck5iYTVJNFhlWFJEVXlDZFRR?oc=5",
+        "date": "2026-03-08",
+        "title": "Mad River ice triggers flood warning - Waterbury Roundabout",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPc0I3Y0ZaV0ZKUVRscGhxeUw2RDVsYjFJVHRoSHF4dTRFTy1DeDNjb2REWHFma3lXQXA0ZzVBUDRQLWZuYVRxQ0U2a2NGSjd2RnRoMXV6bngxenNWQWpkUGlucnJPSmRUeGY2SkZ0UFlmaGlMZ2lDZ1dObGpNck5iYTVJNFhlWFJEVXlDZFRR?oc=5\" target=\"_blank\">Mad River ice triggers flood warning</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Waterbury Roundabout</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUVFVS1EwV1p5OGVxRlo1bXFUNFFkdG5sX3QxdjdOYlJ5c1ZncG9jVHZpOGpLUm1BV1RoWTd1eFg1MHlFbkQ3Z0ZHMmJpMXNzYlQtdVoyMlRGMEhDWVFsUkp0RUt0VHUzMTNfU3l2ZUlRclJLLVhrTTV3WHFLdV9IcTRuc0tZeFo3U19kZkxMMHVBVm1xelduVjRaRTY3NHhna1E?oc=5",
+        "date": "2026-03-08",
+        "title": "Stehekin Flood Warning Threatens Chelan County Roads - Hoodline",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNUVFVS1EwV1p5OGVxRlo1bXFUNFFkdG5sX3QxdjdOYlJ5c1ZncG9jVHZpOGpLUm1BV1RoWTd1eFg1MHlFbkQ3Z0ZHMmJpMXNzYlQtdVoyMlRGMEhDWVFsUkp0RUt0VHUzMTNfU3l2ZUlRclJLLVhrTTV3WHFLdV9IcTRuc0tZeFo3U19kZkxMMHVBVm1xelduVjRaRTY3NHhna1E?oc=5\" target=\"_blank\">Stehekin Flood Warning Threatens Chelan County Roads</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Hoodline</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPSEZYZF96blNfYW5YenF1ZXB3eVRibzc5cVBqbEhiUVVHcmd0blNQZjBJYlBuSG5JaVVYdmtfcEhTdzJobV9FTXk5am9VTW9CMl9DcmVEeThEODRBZ05kbHJjc2l3Y0hFMGZld3JlT09HOHlyQ2pCNkFGNkk5ZURtQXladkRhMlNpb1N3TkxJOGMyU05uTC0tVVluNTlOSGFfcURyc2ZhczE0RFBzWC05eHFsX1BVNDhRdDdCOQ?oc=5",
+        "date": "2026-03-08",
+        "title": "Kenya flood toll rises to 42 as government pledges support for affected families - Anadolu Ajans\u0131",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxPSEZYZF96blNfYW5YenF1ZXB3eVRibzc5cVBqbEhiUVVHcmd0blNQZjBJYlBuSG5JaVVYdmtfcEhTdzJobV9FTXk5am9VTW9CMl9DcmVEeThEODRBZ05kbHJjc2l3Y0hFMGZld3JlT09HOHlyQ2pCNkFGNkk5ZURtQXladkRhMlNpb1N3TkxJOGMyU05uTC0tVVluNTlOSGFfcURyc2ZhczE0RFBzWC05eHFsX1BVNDhRdDdCOQ?oc=5\" target=\"_blank\">Kenya flood toll rises to 42 as government pledges support for affected families</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Anadolu Ajans\u0131</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": null,
+        "tweet_id": "2030717656181981453",
+        "geo": {
+            "country": "Kenya",
+            "name": null,
+            "latitude": null,
+            "longitude": null,
+            "confidence": 1.0
+        }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQYkxYY3h2OGtIeDdBRXpjWkxFSVFDbDZOMEtfY3pUVExROGdiVTRSNXlTeFp3eHF2UWlrb29VVDBFendlOUMzbVZkcTVqMm56T0ZTNlRFbjh4VGN4RzI0a1pYMTB0ZjJldEk1am9CM1lvU2tHS3I2NHhOOFhGaWhMSk1iX29NblRrRlpYTnl2bzlVOXV4UW1OYk1QQ1pTNF9DWF9HZk5xSnlHS1hrbFlZ?oc=5",
+        "date": "2026-03-08",
+        "title": "MLA inspects civic works, directs officials to prepare for monsoon - newskarnataka.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQYkxYY3h2OGtIeDdBRXpjWkxFSVFDbDZOMEtfY3pUVExROGdiVTRSNXlTeFp3eHF2UWlrb29VVDBFendlOUMzbVZkcTVqMm56T0ZTNlRFbjh4VGN4RzI0a1pYMTB0ZjJldEk1am9CM1lvU2tHS3I2NHhOOFhGaWhMSk1iX29NblRrRlpYTnl2bzlVOXV4UW1OYk1QQ1pTNF9DWF9HZk5xSnlHS1hrbFlZ?oc=5\" target=\"_blank\">MLA inspects civic works, directs officials to prepare for monsoon</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">newskarnataka.com</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxOQWJyc0oxRnRORTZwa3ZjcE9MM2h1WVJpeDBlZV95YmZWUWJXNWxJUXlINzBKWWJSWmhibW5FdFpfRU5PWXFEN1h4ZUMzVVVtVG9uWklIVmtna3hKVktTRkEydHpwN0oyZktLNTZMVlViWkYzQWZpX3R5YUN3YmVCb3NJdjBoUEZIOExTc2I5aGpTaHowVElzNVY2Nk9kNktCSXN6OWpzeEx4TXdiODRyelpmZnZ4bndxbEdQRV9jUjNDZVp6QUtQYlYxYV9ybDdFX0k0QUcwV1pzekRQbWx2eGRPMlZkX3BBMW1SYzdXVmNaZmd1cXBmSEtYWW9qWkRtVF85NmJzQmYzRTZYNlhWQlNJS1ktOHhDVUZNUjhRdWFIcVlkS2I0MHBKY9IBsAJBVV95cUxPdFdKM3UxR3MydzJDRWJKOUZHZ0lzTE1UN09vaUQwM2YzYldjYVJXVUpab3BmWjQxMndaYUhXWk93Ti1aSTMyMm44ZXNJVE9CWGE5OXVMMkZoN2lrRWQ5NUJWNmdRS2pKSTRPRG0xdW42MU1TZ2x2UzlGeDdzWG1sdlhoU3Z6TDNQcEFYRy1nNFVYaFp3WXpUeWV1U3hhMVFFOGcxUjczMHFITmxpVE8wcnpaUW5EMTNyWlAxeGw4a3h2ZnpvaFIta1RBcVQ3LWx3dG5sbTRyRU1ZS2E1eldReWdKLWFzNUlxWE9pTW9YbmswT1hpMUxGU1hWVUNrNHMtX0JIN0lsS245VzdBNmhtWjRlVFJrN1ExMnRRZlNsRG05T2dYVjJHU2tZRHVNTUpP?oc=5",
+        "date": "2026-03-08",
+        "title": "Fresh flood threat for Queensland as rain lashes east coast - Sky News Australia",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwJBVV95cUxOQWJyc0oxRnRORTZwa3ZjcE9MM2h1WVJpeDBlZV95YmZWUWJXNWxJUXlINzBKWWJSWmhibW5FdFpfRU5PWXFEN1h4ZUMzVVVtVG9uWklIVmtna3hKVktTRkEydHpwN0oyZktLNTZMVlViWkYzQWZpX3R5YUN3YmVCb3NJdjBoUEZIOExTc2I5aGpTaHowVElzNVY2Nk9kNktCSXN6OWpzeEx4TXdiODRyelpmZnZ4bndxbEdQRV9jUjNDZVp6QUtQYlYxYV9ybDdFX0k0QUcwV1pzekRQbWx2eGRPMlZkX3BBMW1SYzdXVmNaZmd1cXBmSEtYWW9qWkRtVF85NmJzQmYzRTZYNlhWQlNJS1ktOHhDVUZNUjhRdWFIcVlkS2I0MHBKY9IBsAJBVV95cUxPdFdKM3UxR3MydzJDRWJKOUZHZ0lzTE1UN09vaUQwM2YzYldjYVJXVUpab3BmWjQxMndaYUhXWk93Ti1aSTMyMm44ZXNJVE9CWGE5OXVMMkZoN2lrRWQ5NUJWNmdRS2pKSTRPRG0xdW42MU1TZ2x2UzlGeDdzWG1sdlhoU3Z6TDNQcEFYRy1nNFVYaFp3WXpUeWV1U3hhMVFFOGcxUjczMHFITmxpVE8wcnpaUW5EMTNyWlAxeGw4a3h2ZnpvaFIta1RBcVQ3LWx3dG5sbTRyRU1ZS2E1eldReWdKLWFzNUlxWE9pTW9YbmswT1hpMUxGU1hWVUNrNHMtX0JIN0lsS245VzdBNmhtWjRlVFJrN1ExMnRRZlNsRG05T2dYVjJHU2tZRHVNTUpP?oc=5\" target=\"_blank\">Fresh flood threat for Queensland as rain lashes east coast</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sky News Australia</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPSEZYZF96blNfYW5YenF1ZXB3eVRibzc5cVBqbEhiUVVHcmd0blNQZjBJYlBuSG5JaVVYdmtfcEhTdzJobV9FTXk5am9VTW9CMl9DcmVEeThEODRBZ05kbHJjc2l3Y0hFMGZld3JlT09HOHlyQ2pCNkFGNkk5ZURtQXladkRhMlNpb1N3TkxJOGMyU05uTC0tVVluNTlOSGFfcURyc2ZhczE0RFBzWC05eHFsX1BVNDhRdDdCOQ?oc=5",
+        "date": "2026-03-08",
+        "title": "Kenya flood toll rises to 42 as government pledges support for affected families - Anadolu Ajans\u0131",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxPSEZYZF96blNfYW5YenF1ZXB3eVRibzc5cVBqbEhiUVVHcmd0blNQZjBJYlBuSG5JaVVYdmtfcEhTdzJobV9FTXk5am9VTW9CMl9DcmVEeThEODRBZ05kbHJjc2l3Y0hFMGZld3JlT09HOHlyQ2pCNkFGNkk5ZURtQXladkRhMlNpb1N3TkxJOGMyU05uTC0tVVluNTlOSGFfcURyc2ZhczE0RFBzWC05eHFsX1BVNDhRdDdCOQ?oc=5\" target=\"_blank\">Kenya flood toll rises to 42 as government pledges support for affected families</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Anadolu Ajans\u0131</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "posted",
+        "tweet": "\ud83c\uddf0\ud83c\uddea POST-EVENT Kenya: Flood death toll rises to 42 as government pledges support for affected families. (Anadolu Ajans\u0131)",
+        "type": "news",
+        "tweet_id": "2030717656181981453",
+        "geo": {
+            "country": "Kenya",
+            "name": null,
+            "latitude": null,
+            "longitude": null,
+            "confidence": 1.0
+        }
     }
 ]
