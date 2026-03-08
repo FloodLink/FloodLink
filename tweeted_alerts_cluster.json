@@ -7902,22 +7902,6 @@
     "tweet_id": "2025871126862131710",
     "resolved": false
   },
-  "-0.2537,-79.1763": {
-    "country": "Ecuador",
-    "name": "Santo Domingo de los Colorados",
-    "risk_level": "Low",
-    "tweeted_level": "Low",
-    "latitude": -0.25368,
-    "longitude": -79.17628,
-    "rain_mm": 15.44,
-    "soil_moisture": 0.636,
-    "raw_dynamic_score": 2.445,
-    "last_updated": "2026-03-07T06:35:46.857306Z",
-    "last_tweeted_at": "2026-03-07T06:35:46.857306Z",
-    "tweet_id": "2030170571766415423",
-    "resolved": true,
-    "resolved_at": "2026-03-07T06:35:46.857306Z"
-  },
   "-3.4752,-80.2308": {
     "country": "Ecuador",
     "name": "Huaquillas",
@@ -9609,7 +9593,7 @@
     "rain_mm": 48.06,
     "soil_moisture": 0.54,
     "raw_dynamic_score": 7.194,
-    "last_updated": "2026-03-08T04:36:36.090214Z",
+    "last_updated": "2026-03-08T06:39:35.495890Z",
     "last_tweeted_at": "2026-03-07T01:21:18.171702Z",
     "tweet_id": "2030091428513337737",
     "resolved": false
