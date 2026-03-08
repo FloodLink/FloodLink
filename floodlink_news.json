@@ -10391,5 +10391,42 @@
         "score": 0,
         "status": "skipped",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9mMWQ1M0d1Ny1lM255QjlxcGwtRmRKWFozUVBQTkl3SXMtblRYcXRhUGhWT1BzZEtuSGo5a3ZrQl9jaF9ZU3hyd2ZsWUJZZTZZaHphV0pINk1OUWxidURvdEloYk52ZjJxSTNHOXhWcjBHbklMRTl0REZPZXA?oc=5",
+        "date": "2026-03-08",
+        "title": "Flood warning affecting Chelan County until Sunday night - Bellingham Herald",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE9mMWQ1M0d1Ny1lM255QjlxcGwtRmRKWFozUVBQTkl3SXMtblRYcXRhUGhWT1BzZEtuSGo5a3ZrQl9jaF9ZU3hyd2ZsWUJZZTZZaHphV0pINk1OUWxidURvdEloYk52ZjJxSTNHOXhWcjBHbklMRTl0REZPZXA?oc=5\" target=\"_blank\">Flood warning affecting Chelan County until Sunday night</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bellingham Herald</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": null,
+        "tweet_id": "2030572889288716494",
+        "geo": {
+            "country": "United States",
+            "name": "Chelan County, Washington",
+            "latitude": 47.85,
+            "longitude": -120.65,
+            "confidence": 1.0
+        }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9mMWQ1M0d1Ny1lM255QjlxcGwtRmRKWFozUVBQTkl3SXMtblRYcXRhUGhWT1BzZEtuSGo5a3ZrQl9jaF9ZU3hyd2ZsWUJZZTZZaHphV0pINk1OUWxidURvdEloYk52ZjJxSTNHOXhWcjBHbklMRTl0REZPZXA?oc=5",
+        "date": "2026-03-08",
+        "title": "Flood warning affecting Chelan County until Sunday night - Bellingham Herald",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE9mMWQ1M0d1Ny1lM255QjlxcGwtRmRKWFozUVBQTkl3SXMtblRYcXRhUGhWT1BzZEtuSGo5a3ZrQl9jaF9ZU3hyd2ZsWUJZZTZZaHphV0pINk1OUWxidURvdEloYk52ZjJxSTNHOXhWcjBHbklMRTl0REZPZXA?oc=5\" target=\"_blank\">Flood warning affecting Chelan County until Sunday night</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bellingham Herald</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 FORECAST Chelan County, WA: Flood warning in effect until Sunday night.",
+        "type": "news",
+        "tweet_id": "2030572889288716494",
+        "geo": {
+            "country": "United States",
+            "name": "Chelan County, Washington",
+            "latitude": 47.85,
+            "longitude": -120.65,
+            "confidence": 1.0
+        }
     }
 ]
