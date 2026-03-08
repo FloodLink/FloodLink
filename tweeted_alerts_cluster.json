@@ -1547,10 +1547,14 @@
     "rain_mm": 59.31,
     "soil_moisture": 0.659,
     "raw_dynamic_score": 9.516,
-    "last_updated": "2026-03-07T21:20:13.372825Z",
+    "last_updated": "2026-03-08T01:27:17.008583Z",
     "last_tweeted_at": "2026-03-07T21:20:13.372825Z",
     "tweet_id": "2030393398440378564",
-    "resolved": false
+    "resolved": false,
+    "pending_downgrade": true,
+    "pending_target_level": "Low",
+    "pending_set_at": "2026-03-08T01:27:17.008583Z",
+    "pending_is_region": true
   },
   "-22.7321,-64.3372": {
     "country": "Plurinational State of Bolivia",
@@ -5762,7 +5766,7 @@
     "rain_mm": 60.31,
     "soil_moisture": 0.545,
     "raw_dynamic_score": 9.058,
-    "last_updated": "2026-02-10T16:04:31.374639Z",
+    "last_updated": "2026-03-08T01:27:17.008583Z",
     "last_tweeted_at": "2026-02-10T12:59:42.065293Z",
     "tweet_id": "2021207488343965714",
     "resolved": false
@@ -9788,7 +9792,7 @@
     "rain_mm": 68.56,
     "soil_moisture": 0.679,
     "raw_dynamic_score": 11.126,
-    "last_updated": "2026-03-07T21:20:13.372825Z",
+    "last_updated": "2026-03-08T01:27:17.008583Z",
     "last_tweeted_at": "2026-03-07T21:20:13.372825Z",
     "tweet_id": "2030393398440378564",
     "resolved": false
@@ -9803,7 +9807,7 @@
     "rain_mm": 55.56,
     "soil_moisture": 0.64,
     "raw_dynamic_score": 8.818,
-    "last_updated": "2026-03-07T21:20:13.372825Z",
+    "last_updated": "2026-03-08T01:27:17.008583Z",
     "last_tweeted_at": "2026-03-07T21:20:13.372825Z",
     "tweet_id": "2030393398440378564",
     "resolved": false
@@ -9818,7 +9822,7 @@
     "rain_mm": 50.69,
     "soil_moisture": 0.659,
     "raw_dynamic_score": 8.132,
-    "last_updated": "2026-03-07T21:20:13.372825Z",
+    "last_updated": "2026-03-08T01:27:17.008583Z",
     "last_tweeted_at": "2026-03-07T21:20:13.372825Z",
     "tweet_id": "2030393398440378564",
     "resolved": false
@@ -9833,9 +9837,24 @@
     "rain_mm": 80.0,
     "soil_moisture": 0.641,
     "raw_dynamic_score": 12.703,
-    "last_updated": "2026-03-07T21:20:13.372825Z",
+    "last_updated": "2026-03-08T01:27:17.008583Z",
     "last_tweeted_at": "2026-03-07T21:20:13.372825Z",
     "tweet_id": "2030393398440378564",
+    "resolved": false
+  },
+  "32.3643,-88.7037": {
+    "country": "United States",
+    "name": "Meridian",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 32.36431,
+    "longitude": -88.70366,
+    "rain_mm": 55.56,
+    "soil_moisture": 0.57,
+    "raw_dynamic_score": 8.47,
+    "last_updated": "2026-03-08T01:27:17.008583Z",
+    "last_tweeted_at": "2026-03-08T01:27:17.008583Z",
+    "tweet_id": "2030455322918166817",
     "resolved": false
   }
 }
