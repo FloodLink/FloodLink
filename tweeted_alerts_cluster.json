@@ -1615,7 +1615,7 @@
     "rain_mm": 36.81,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 7.04,
-    "last_updated": "2026-03-09T15:57:10.910954Z",
+    "last_updated": "2026-03-09T18:47:06.071690Z",
     "last_tweeted_at": "2026-01-19T21:24:13.838655Z",
     "tweet_id": "2013363186079277465",
     "resolved": false
@@ -9742,7 +9742,7 @@
     "rain_mm": 48.5,
     "soil_moisture": 0.608,
     "raw_dynamic_score": 7.56,
-    "last_updated": "2026-03-09T15:57:10.910954Z",
+    "last_updated": "2026-03-09T18:47:06.071690Z",
     "last_tweeted_at": "2026-03-08T18:28:47.280668Z",
     "tweet_id": "2030712393010135113",
     "resolved": false
@@ -10054,7 +10054,7 @@
     "rain_mm": 55.06,
     "soil_moisture": 0.4,
     "raw_dynamic_score": 7.547,
-    "last_updated": "2026-03-09T15:57:10.910954Z",
+    "last_updated": "2026-03-09T18:47:06.071690Z",
     "last_tweeted_at": "2026-03-09T15:57:10.910954Z",
     "tweet_id": "2031036614982455444",
     "resolved": false
@@ -10072,6 +10072,21 @@
     "last_updated": "2026-03-09T15:57:10.910954Z",
     "last_tweeted_at": "2026-03-09T15:57:10.910954Z",
     "tweet_id": "2031036614982455444",
+    "resolved": false
+  },
+  "-3.6844,-42.7503": {
+    "country": "Brazil",
+    "name": "Brejo",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": -3.68444,
+    "longitude": -42.75028,
+    "rain_mm": 43.38,
+    "soil_moisture": 0.578,
+    "raw_dynamic_score": 6.644,
+    "last_updated": "2026-03-09T18:47:06.071690Z",
+    "last_tweeted_at": "2026-03-09T18:47:06.071690Z",
+    "tweet_id": "2031079387156693118",
     "resolved": false
   }
 }
