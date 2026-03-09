@@ -10641,5 +10641,14 @@
         "score": 0,
         "status": "skipped",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-03-09",
+        "status": "posted",
+        "tweet": "Global economic losses from floods and flash floods hit $52 billion in 2022, per Swiss Re\u2014up 20% from 2020 amid intensifying climate-driven extreme rainfall. Projections show $100B+ annually by 2030.",
+        "type": "statistical",
+        "category": "economic losses from floods and flash floods",
+        "tweet_id": "2030886169526099981"
     }
 ]
