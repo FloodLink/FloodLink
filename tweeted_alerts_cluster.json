@@ -10010,9 +10010,32 @@
     "rain_mm": 128.88,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 24.647,
-    "last_updated": "2026-03-10T12:47:09.834179Z",
+    "last_updated": "2026-03-10T16:00:24.653002Z",
     "last_tweeted_at": "2026-03-10T12:47:09.834179Z",
     "tweet_id": "2031351201435103631",
+    "resolved": false,
+    "pending_downgrade": true,
+    "pending_target_level": "Medium",
+    "pending_set_at": "2026-03-10T16:00:24.653002Z",
+    "pending_is_region": false,
+    "pending_observed_level": "Medium",
+    "pending_observed_rain_mm": 45.88,
+    "pending_observed_soil_moisture": 1.0,
+    "pending_observed_raw_dynamic_score": 8.774
+  },
+  "-6.8052,13.3302": {
+    "country": "Angola",
+    "name": "Tombôco",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": -6.80517,
+    "longitude": 13.33017,
+    "rain_mm": 49.5,
+    "soil_moisture": 0.523,
+    "raw_dynamic_score": 7.335,
+    "last_updated": "2026-03-10T16:00:24.653002Z",
+    "last_tweeted_at": "2026-03-10T16:00:24.653002Z",
+    "tweet_id": "2031399819101544762",
     "resolved": false
   }
 }
