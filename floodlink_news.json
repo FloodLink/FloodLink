@@ -11019,5 +11019,14 @@
             "longitude": 149.13,
             "confidence": 0.95
         }
+    },
+    {
+        "link": null,
+        "date": "2026-03-10",
+        "status": "posted",
+        "tweet": "By 2026, pluvial flooding in dense cities from extreme rainfall could expose 1B+ globally.\n\n1. \ud83c\uddee\ud83c\uddf3 Mumbai: 12M people (60% urban pop) at flash flood risk\n2. \ud83c\udde7\ud83c\udde9 Dhaka: $10B annual economic losses projected\n3. \ud83c\uddfa\ud83c\uddf8 New York: 40% of area prone to surface flooding\n4. \ud83c\udde8\ud83c\uddf3 Shanghai: 18M ex",
+        "type": "statistical",
+        "category": "pluvial (surface) flooding in dense cities",
+        "tweet_id": "2031243001784086849"
     }
 ]
