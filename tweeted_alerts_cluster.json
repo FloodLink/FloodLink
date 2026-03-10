@@ -5619,7 +5619,7 @@
     "rain_mm": 62.0,
     "soil_moisture": 0.722,
     "raw_dynamic_score": 10.302,
-    "last_updated": "2026-03-10T06:44:54.170707Z",
+    "last_updated": "2026-03-10T09:42:18.911836Z",
     "last_tweeted_at": "2026-02-14T12:34:52.679670Z",
     "tweet_id": "2022650796182245458",
     "resolved": false
@@ -10015,10 +10015,18 @@
     "rain_mm": 85.19,
     "soil_moisture": 0.728,
     "raw_dynamic_score": 14.198,
-    "last_updated": "2026-03-10T04:33:44.737049Z",
+    "last_updated": "2026-03-10T09:42:18.911836Z",
     "last_tweeted_at": "2026-03-10T04:33:44.737049Z",
     "tweet_id": "2031227264441135316",
-    "resolved": false
+    "resolved": false,
+    "pending_downgrade": true,
+    "pending_target_level": "Low",
+    "pending_set_at": "2026-03-10T09:42:18.911836Z",
+    "pending_is_region": false,
+    "pending_observed_level": "Low",
+    "pending_observed_rain_mm": 21.0,
+    "pending_observed_soil_moisture": 0.694,
+    "pending_observed_raw_dynamic_score": 3.436
   },
   "-14.7500,50.2167": {
     "country": "Madagascar",
@@ -10030,9 +10038,24 @@
     "rain_mm": 55.94,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 10.698,
-    "last_updated": "2026-03-10T04:33:44.737049Z",
+    "last_updated": "2026-03-10T09:42:18.911836Z",
     "last_tweeted_at": "2026-03-10T04:33:44.737049Z",
     "tweet_id": "2031227517110202467",
+    "resolved": false
+  },
+  "15.2123,145.7545": {
+    "country": "Northern Mariana Islands",
+    "name": "Saipan",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 15.21233,
+    "longitude": 145.7545,
+    "rain_mm": 36.19,
+    "soil_moisture": 1.0,
+    "raw_dynamic_score": 6.921,
+    "last_updated": "2026-03-10T09:42:18.911836Z",
+    "last_tweeted_at": "2026-03-10T09:42:18.911836Z",
+    "tweet_id": "2031304663027290554",
     "resolved": false
   }
 }
