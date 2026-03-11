@@ -11492,5 +11492,14 @@
             "longitude": -86.1349,
             "confidence": 0.95
         }
+    },
+    {
+        "link": null,
+        "date": "2026-03-11",
+        "status": "posted",
+        "tweet": "Asia's monsoon floods: Top 4 countries by pop. exposed to extreme rainfall/flash floods (2020-2026 proj.)\n\n\ud83c\uddee\ud83c\uddf3 India: 250M annually\n\ud83c\udde7\ud83c\udde9 Bangladesh: 45M at risk\n\ud83c\uddf5\ud83c\uddf0 Pakistan: 35M (2022 peak)\n\ud83c\uddfb\ud83c\uddf3 Vietnam: 25M coastal surge",
+        "type": "statistical",
+        "category": "monsoon flood patterns in Asia",
+        "tweet_id": "2031605821306438111"
     }
 ]
