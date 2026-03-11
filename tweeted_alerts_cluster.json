@@ -1539,7 +1539,7 @@
     "rain_mm": 48.94,
     "soil_moisture": 0.614,
     "raw_dynamic_score": 7.652,
-    "last_updated": "2026-03-11T04:34:19.506867Z",
+    "last_updated": "2026-03-11T09:41:24.950684Z",
     "last_tweeted_at": "2026-01-19T06:31:27.606598Z",
     "tweet_id": "2013137252373643459",
     "resolved": false
@@ -9504,18 +9504,18 @@
     "rain_mm": 71.06,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 13.591,
-    "last_updated": "2026-03-11T06:47:44.481394Z",
+    "last_updated": "2026-03-11T09:41:24.950684Z",
     "last_tweeted_at": "2026-03-11T04:34:19.506867Z",
     "tweet_id": "2031590048819261481",
     "resolved": false,
     "pending_downgrade": true,
-    "pending_target_level": "Medium",
-    "pending_set_at": "2026-03-11T06:47:44.481394Z",
+    "pending_target_level": "Low",
+    "pending_set_at": "2026-03-11T09:41:24.950684Z",
     "pending_is_region": false,
-    "pending_observed_level": "Medium",
-    "pending_observed_rain_mm": 42.31,
+    "pending_observed_level": "Low",
+    "pending_observed_rain_mm": 0.62,
     "pending_observed_soil_moisture": 1.0,
-    "pending_observed_raw_dynamic_score": 8.092
+    "pending_observed_raw_dynamic_score": 0.12
   },
   "-9.2978,14.9116": {
     "country": "Angola",
@@ -9866,7 +9866,7 @@
     "rain_mm": 48.06,
     "soil_moisture": 0.732,
     "raw_dynamic_score": 8.031,
-    "last_updated": "2026-03-11T04:34:19.506867Z",
+    "last_updated": "2026-03-11T09:41:24.950684Z",
     "last_tweeted_at": "2026-03-11T04:34:19.506867Z",
     "tweet_id": "2031589796380807222",
     "resolved": false
