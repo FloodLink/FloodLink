@@ -6354,7 +6354,7 @@
     "rain_mm": 51.44,
     "soil_moisture": 0.672,
     "raw_dynamic_score": 8.315,
-    "last_updated": "2026-02-15T04:56:34.036176Z",
+    "last_updated": "2026-03-11T15:48:01.892367Z",
     "last_tweeted_at": "2026-02-15T01:31:30.606082Z",
     "tweet_id": "2022846237133676845",
     "resolved": false
@@ -9862,6 +9862,36 @@
     "last_updated": "2026-03-11T09:41:24.950684Z",
     "last_tweeted_at": "2026-03-11T04:34:19.506867Z",
     "tweet_id": "2031589796380807222",
+    "resolved": false
+  },
+  "33.2076,-92.6663": {
+    "country": "United States",
+    "name": "El Dorado",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 33.20763,
+    "longitude": -92.66627,
+    "rain_mm": 45.25,
+    "soil_moisture": 0.595,
+    "raw_dynamic_score": 7.0,
+    "last_updated": "2026-03-11T15:48:01.892367Z",
+    "last_tweeted_at": "2026-03-11T15:48:01.892367Z",
+    "tweet_id": "2031759087432822856",
+    "resolved": false
+  },
+  "31.6035,-94.6555": {
+    "country": "United States",
+    "name": "Nacogdoches",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 31.60351,
+    "longitude": -94.65549,
+    "rain_mm": 45.31,
+    "soil_moisture": 0.566,
+    "raw_dynamic_score": 6.888,
+    "last_updated": "2026-03-11T15:48:01.892367Z",
+    "last_tweeted_at": "2026-03-11T15:48:01.892367Z",
+    "tweet_id": "2031759339934175573",
     "resolved": false
   }
 }
