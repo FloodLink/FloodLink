@@ -9893,5 +9893,20 @@
     "last_tweeted_at": "2026-03-11T15:48:01.892367Z",
     "tweet_id": "2031759339934175573",
     "resolved": false
+  },
+  "34.2001,-90.5709": {
+    "country": "United States",
+    "name": "Clarksdale",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 34.20011,
+    "longitude": -90.57093,
+    "rain_mm": 51.88,
+    "soil_moisture": 0.681,
+    "raw_dynamic_score": 8.425,
+    "last_updated": "2026-03-11T18:50:20.929562Z",
+    "last_tweeted_at": "2026-03-11T18:50:20.929562Z",
+    "tweet_id": "2031804973961396627",
+    "resolved": false
   }
 }
