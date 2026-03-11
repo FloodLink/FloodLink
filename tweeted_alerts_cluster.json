@@ -6354,7 +6354,7 @@
     "rain_mm": 51.44,
     "soil_moisture": 0.672,
     "raw_dynamic_score": 8.315,
-    "last_updated": "2026-03-11T15:48:01.892367Z",
+    "last_updated": "2026-03-11T21:31:57.857175Z",
     "last_tweeted_at": "2026-02-15T01:31:30.606082Z",
     "tweet_id": "2022846237133676845",
     "resolved": false
@@ -9874,7 +9874,7 @@
     "rain_mm": 45.25,
     "soil_moisture": 0.595,
     "raw_dynamic_score": 7.0,
-    "last_updated": "2026-03-11T15:48:01.892367Z",
+    "last_updated": "2026-03-11T21:31:57.857175Z",
     "last_tweeted_at": "2026-03-11T15:48:01.892367Z",
     "tweet_id": "2031759087432822856",
     "resolved": false
@@ -9889,7 +9889,7 @@
     "rain_mm": 45.31,
     "soil_moisture": 0.566,
     "raw_dynamic_score": 6.888,
-    "last_updated": "2026-03-11T15:48:01.892367Z",
+    "last_updated": "2026-03-11T21:31:57.857175Z",
     "last_tweeted_at": "2026-03-11T15:48:01.892367Z",
     "tweet_id": "2031759339934175573",
     "resolved": false
@@ -9907,6 +9907,21 @@
     "last_updated": "2026-03-11T18:50:20.929562Z",
     "last_tweeted_at": "2026-03-11T18:50:20.929562Z",
     "tweet_id": "2031804973961396627",
+    "resolved": false
+  },
+  "33.4090,-91.0598": {
+    "country": "United States",
+    "name": "Greenville",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 33.40898,
+    "longitude": -91.05978,
+    "rain_mm": 44.25,
+    "soil_moisture": 0.672,
+    "raw_dynamic_score": 7.151,
+    "last_updated": "2026-03-11T21:31:57.857175Z",
+    "last_tweeted_at": "2026-03-11T21:31:57.857175Z",
+    "tweet_id": "2031845910703948184",
     "resolved": false
   }
 }
