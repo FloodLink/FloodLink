@@ -10064,7 +10064,7 @@
     "rain_mm": 68.44,
     "soil_moisture": 0.618,
     "raw_dynamic_score": 10.73,
-    "last_updated": "2026-03-12T15:57:52.288633Z",
+    "last_updated": "2026-03-12T19:30:50.450759Z",
     "last_tweeted_at": "2026-03-12T15:57:52.288633Z",
     "tweet_id": "2032123954538954769",
     "resolved": false
@@ -10079,9 +10079,24 @@
     "rain_mm": 45.88,
     "soil_moisture": 0.461,
     "raw_dynamic_score": 6.541,
-    "last_updated": "2026-03-12T15:57:52.288633Z",
+    "last_updated": "2026-03-12T19:30:50.450759Z",
     "last_tweeted_at": "2026-03-12T15:57:52.288633Z",
     "tweet_id": "2032124207556116824",
+    "resolved": false
+  },
+  "-7.6087,15.0613": {
+    "country": "Angola",
+    "name": "Uíge",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": -7.60874,
+    "longitude": 15.06131,
+    "rain_mm": 44.31,
+    "soil_moisture": 0.59,
+    "raw_dynamic_score": 6.835,
+    "last_updated": "2026-03-12T19:30:50.450759Z",
+    "last_tweeted_at": "2026-03-12T19:30:50.450759Z",
+    "tweet_id": "2032177561363689605",
     "resolved": false
   }
 }
