@@ -11906,5 +11906,14 @@
         "score": 4,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-03-12",
+        "status": "posted",
+        "tweet": "Global flood fatalities 2020-2025: ~48,000 deaths, 18% rise from 2010s due to extreme rainfall.\n\n1. Deadliest year: 2022 - 18,500 deaths\n2. Asia share: 75% of total\n3. Top nation: India - 12,000 fatalities \ud83c\uddee\ud83c\uddf3\n4. Projection 2026: +22% increase\n5. Pop. exposed: 1.9B globally",
+        "type": "statistical",
+        "category": "global flood fatalities and trends",
+        "tweet_id": "2032092070580457532"
     }
 ]
