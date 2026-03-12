@@ -11742,5 +11742,72 @@
         "score": 6,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9zaHgxT0trWVVSS3BiTlUxSEhFN0pvSktFRlJ0RVU4dnBXWjFVUlhxSmJycmc1YlN6MXRKb1BvZ0pra0t0VkEwZXd0RWp5U25qU29iNGRrTXdfWWJjQlRKenFqX2Q3MWFSeWtEWlhiNU9kb0ZJc0RkTzdhUVo?oc=5",
+        "date": "2026-03-12",
+        "title": "Flood warning in place for Wahkiakum County until early Saturday, says the NWS - Bellingham Herald",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE9zaHgxT0trWVVSS3BiTlUxSEhFN0pvSktFRlJ0RVU4dnBXWjFVUlhxSmJycmc1YlN6MXRKb1BvZ0pra0t0VkEwZXd0RWp5U25qU29iNGRrTXdfWWJjQlRKenFqX2Q3MWFSeWtEWlhiNU9kb0ZJc0RkTzdhUVo?oc=5\" target=\"_blank\">Flood warning in place for Wahkiakum County until early Saturday, says the NWS</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bellingham Herald</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB4bFViRHlVbFdBQ2NOUm1HWE9QQkZvb1NQWl85X3dWVmkwX0JjTk51eHFUYklTVUNBNWVSb3lWWnZNX2ItUVpZclJmVEdWM243V1haUkI1Z3AtWXFLSDFTUHNqdkZxWUIycjZRRy1QUDhtM1NnVEJNWTlFXzc?oc=5",
+        "date": "2026-03-12",
+        "title": "Flood warning for Mason County until further notice, says the NWS - Bellingham Herald",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTFB4bFViRHlVbFdBQ2NOUm1HWE9QQkZvb1NQWl85X3dWVmkwX0JjTk51eHFUYklTVUNBNWVSb3lWWnZNX2ItUVpZclJmVEdWM243V1haUkI1Z3AtWXFLSDFTUHNqdkZxWUIycjZRRy1QUDhtM1NnVEJNWTlFXzc?oc=5\" target=\"_blank\">Flood warning for Mason County until further notice, says the NWS</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bellingham Herald</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": null,
+        "tweet_id": "2032026284851687721",
+        "geo": {
+            "country": "United States",
+            "name": "Mason County, Washington",
+            "latitude": 47.2162,
+            "longitude": -123.0443,
+            "confidence": 1.0
+        }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQc1p3bGxzcGMya2hGaG1tZXE5QUxCQWpGeEF0UDR4ZGtYVEF5RDlSaGVoMGF2QVF3UkktMW8zemFoNTRCQzBDSUVOTFFQcmtDYkpoR19ETnNtWDNwWnVnMUhUaFQ0XzhHN1lPNWthdnZnUmtMV3lfS2ZFVXlwMjA5N2NpOV9uV1BnQXdj?oc=5",
+        "date": "2026-03-12",
+        "title": "NWS ALERT: Flood Warning Thursday for Black River - Flack Broadcasting",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxQc1p3bGxzcGMya2hGaG1tZXE5QUxCQWpGeEF0UDR4ZGtYVEF5RDlSaGVoMGF2QVF3UkktMW8zemFoNTRCQzBDSUVOTFFQcmtDYkpoR19ETnNtWDNwWnVnMUhUaFQ0XzhHN1lPNWthdnZnUmtMV3lfS2ZFVXlwMjA5N2NpOV9uV1BnQXdj?oc=5\" target=\"_blank\">NWS ALERT: Flood Warning Thursday for Black River</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Flack Broadcasting</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNQVhScEFpOUd1cnMtMDZvYllSYVp1amhtaVp3bzBpbGxINllTajZxdTRiM2t0RWFTdzBBNzI4Qk02ejRuRkxBWng1X1NDUHctcTB0b3l2MnpuRjl2YndPeDVzcnl6Z0dtOHFhUWsxYTEtX3ZVWmljZ0NET1BzMVhsR0N3?oc=5",
+        "date": "2026-03-12",
+        "title": "Ottawa County Officials Issue Flooding Concerns - WHTC",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxNQVhScEFpOUd1cnMtMDZvYllSYVp1amhtaVp3bzBpbGxINllTajZxdTRiM2t0RWFTdzBBNzI4Qk02ejRuRkxBWng1X1NDUHctcTB0b3l2MnpuRjl2YndPeDVzcnl6Z0dtOHFhUWsxYTEtX3ZVWmljZ0NET1BzMVhsR0N3?oc=5\" target=\"_blank\">Ottawa County Officials Issue Flooding Concerns</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WHTC</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB4bFViRHlVbFdBQ2NOUm1HWE9QQkZvb1NQWl85X3dWVmkwX0JjTk51eHFUYklTVUNBNWVSb3lWWnZNX2ItUVpZclJmVEdWM243V1haUkI1Z3AtWXFLSDFTUHNqdkZxWUIycjZRRy1QUDhtM1NnVEJNWTlFXzc?oc=5",
+        "date": "2026-03-12",
+        "title": "Flood warning for Mason County until further notice, says the NWS - Bellingham Herald",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTFB4bFViRHlVbFdBQ2NOUm1HWE9QQkZvb1NQWl85X3dWVmkwX0JjTk51eHFUYklTVUNBNWVSb3lWWnZNX2ItUVpZclJmVEdWM243V1haUkI1Z3AtWXFLSDFTUHNqdkZxWUIycjZRRy1QUDhtM1NnVEJNWTlFXzc?oc=5\" target=\"_blank\">Flood warning for Mason County until further notice, says the NWS</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bellingham Herald</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 FORECAST Mason County, WA: Flood warning until further notice, per NWS.",
+        "type": "news",
+        "tweet_id": "2032026284851687721",
+        "geo": {
+            "country": "United States",
+            "name": "Mason County, Washington",
+            "latitude": 47.2162,
+            "longitude": -123.0443,
+            "confidence": 1.0
+        }
     }
 ]
