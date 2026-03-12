@@ -8695,7 +8695,7 @@
     "rain_mm": 52.44,
     "soil_moisture": 0.731,
     "raw_dynamic_score": 8.753,
-    "last_updated": "2026-03-12T06:50:23.929479Z",
+    "last_updated": "2026-03-12T09:57:53.978353Z",
     "last_tweeted_at": "2026-03-04T09:38:59.846773Z",
     "tweet_id": "2029129502182322636",
     "resolved": false
@@ -9928,10 +9928,14 @@
     "rain_mm": 75.75,
     "soil_moisture": 0.676,
     "raw_dynamic_score": 12.273,
-    "last_updated": "2026-03-12T06:50:23.929479Z",
+    "last_updated": "2026-03-12T09:57:53.978353Z",
     "last_tweeted_at": "2026-03-12T06:50:23.929479Z",
     "tweet_id": "2031986444231991447",
-    "resolved": false
+    "resolved": false,
+    "pending_downgrade": true,
+    "pending_target_level": "Medium",
+    "pending_set_at": "2026-03-12T09:57:53.978353Z",
+    "pending_is_region": true
   },
   "-1.5564,-79.7525": {
     "country": "Ecuador",
@@ -9943,10 +9947,18 @@
     "rain_mm": 86.0,
     "soil_moisture": 0.719,
     "raw_dynamic_score": 14.264,
-    "last_updated": "2026-03-12T04:49:50.039623Z",
+    "last_updated": "2026-03-12T09:57:53.978353Z",
     "last_tweeted_at": "2026-03-12T04:49:50.039623Z",
     "tweet_id": "2031956339652526088",
-    "resolved": false
+    "resolved": false,
+    "pending_downgrade": true,
+    "pending_target_level": "Low",
+    "pending_set_at": "2026-03-12T09:57:53.978353Z",
+    "pending_is_region": false,
+    "pending_observed_level": "Low",
+    "pending_observed_rain_mm": 4.06,
+    "pending_observed_soil_moisture": 0.677,
+    "pending_observed_raw_dynamic_score": 0.659
   },
   "-1.4428,-79.4627": {
     "country": "Ecuador",
@@ -9996,7 +10008,7 @@
     "rain_mm": 54.12,
     "soil_moisture": 0.601,
     "raw_dynamic_score": 8.403,
-    "last_updated": "2026-03-12T06:50:23.929479Z",
+    "last_updated": "2026-03-12T09:57:53.978353Z",
     "last_tweeted_at": "2026-03-12T06:50:23.929479Z",
     "tweet_id": "2031986444231991447",
     "resolved": false
@@ -10011,9 +10023,39 @@
     "rain_mm": 54.12,
     "soil_moisture": 0.601,
     "raw_dynamic_score": 8.403,
-    "last_updated": "2026-03-12T06:50:23.929479Z",
+    "last_updated": "2026-03-12T09:57:53.978353Z",
     "last_tweeted_at": "2026-03-12T06:50:23.929479Z",
     "tweet_id": "2031986444231991447",
+    "resolved": false
+  },
+  "-24.7081,-47.5553": {
+    "country": "Brazil",
+    "name": "Iguape",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": -24.70806,
+    "longitude": -47.55528,
+    "rain_mm": 36.88,
+    "soil_moisture": 1.0,
+    "raw_dynamic_score": 7.052,
+    "last_updated": "2026-03-12T09:57:53.978353Z",
+    "last_tweeted_at": "2026-03-12T09:57:53.978353Z",
+    "tweet_id": "2032033360563093562",
+    "resolved": false
+  },
+  "-3.8425,-49.0969": {
+    "country": "Brazil",
+    "name": "Goianésia do Pará",
+    "risk_level": "High",
+    "tweeted_level": "High",
+    "latitude": -3.8425,
+    "longitude": -49.09694,
+    "rain_mm": 86.12,
+    "soil_moisture": 0.73,
+    "raw_dynamic_score": 14.373,
+    "last_updated": "2026-03-12T09:57:53.978353Z",
+    "last_tweeted_at": "2026-03-12T09:57:53.978353Z",
+    "tweet_id": "2032033613034946753",
     "resolved": false
   }
 }
