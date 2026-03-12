@@ -8875,7 +8875,7 @@
     "rain_mm": 69.25,
     "soil_moisture": 0.749,
     "raw_dynamic_score": 11.675,
-    "last_updated": "2026-03-06T01:29:30.672609Z",
+    "last_updated": "2026-03-12T12:58:16.829368Z",
     "last_tweeted_at": "2026-03-05T12:47:21.738116Z",
     "tweet_id": "2029539296835731552",
     "resolved": false
@@ -8890,7 +8890,7 @@
     "rain_mm": 75.94,
     "soil_moisture": 0.717,
     "raw_dynamic_score": 12.584,
-    "last_updated": "2026-03-05T12:47:21.738116Z",
+    "last_updated": "2026-03-12T12:58:16.829368Z",
     "last_tweeted_at": "2026-03-05T12:47:21.738116Z",
     "tweet_id": "2029539296835731552",
     "resolved": false
@@ -8905,7 +8905,7 @@
     "rain_mm": 40.5,
     "soil_moisture": 0.687,
     "raw_dynamic_score": 6.601,
-    "last_updated": "2026-03-05T12:47:21.738116Z",
+    "last_updated": "2026-03-12T12:58:16.829368Z",
     "last_tweeted_at": "2026-03-05T12:47:21.738116Z",
     "tweet_id": "2029539296835731552",
     "resolved": false
@@ -8920,7 +8920,7 @@
     "rain_mm": 69.25,
     "soil_moisture": 0.749,
     "raw_dynamic_score": 11.675,
-    "last_updated": "2026-03-05T12:47:21.738116Z",
+    "last_updated": "2026-03-12T12:58:16.829368Z",
     "last_tweeted_at": "2026-03-05T12:47:21.738116Z",
     "tweet_id": "2029539296835731552",
     "resolved": false
@@ -8935,7 +8935,7 @@
     "rain_mm": 42.81,
     "soil_moisture": 0.734,
     "raw_dynamic_score": 7.158,
-    "last_updated": "2026-03-05T12:47:21.738116Z",
+    "last_updated": "2026-03-12T12:58:16.829368Z",
     "last_tweeted_at": "2026-03-05T12:47:21.738116Z",
     "tweet_id": "2029539296835731552",
     "resolved": false
@@ -8950,7 +8950,7 @@
     "rain_mm": 82.0,
     "soil_moisture": 0.719,
     "raw_dynamic_score": 13.599,
-    "last_updated": "2026-03-05T12:47:21.738116Z",
+    "last_updated": "2026-03-12T12:58:16.829368Z",
     "last_tweeted_at": "2026-03-05T12:47:21.738116Z",
     "tweet_id": "2029539296835731552",
     "resolved": false
@@ -8965,7 +8965,7 @@
     "rain_mm": 54.0,
     "soil_moisture": 0.704,
     "raw_dynamic_score": 8.886,
-    "last_updated": "2026-03-05T12:47:21.738116Z",
+    "last_updated": "2026-03-12T12:58:16.829368Z",
     "last_tweeted_at": "2026-03-05T12:47:21.738116Z",
     "tweet_id": "2029539296835731552",
     "resolved": false
@@ -8980,7 +8980,7 @@
     "rain_mm": 79.19,
     "soil_moisture": 0.69,
     "raw_dynamic_score": 12.928,
-    "last_updated": "2026-03-05T12:47:21.738116Z",
+    "last_updated": "2026-03-12T12:58:16.829368Z",
     "last_tweeted_at": "2026-03-05T12:47:21.738116Z",
     "tweet_id": "2029539296835731552",
     "resolved": false
@@ -8995,7 +8995,7 @@
     "rain_mm": 71.88,
     "soil_moisture": 0.733,
     "raw_dynamic_score": 12.011,
-    "last_updated": "2026-03-05T12:47:21.738116Z",
+    "last_updated": "2026-03-12T12:58:16.829368Z",
     "last_tweeted_at": "2026-03-05T12:47:21.738116Z",
     "tweet_id": "2029539296835731552",
     "resolved": false
@@ -9100,7 +9100,7 @@
     "rain_mm": 49.25,
     "soil_moisture": 0.74,
     "raw_dynamic_score": 8.264,
-    "last_updated": "2026-03-06T09:36:20.129271Z",
+    "last_updated": "2026-03-12T12:58:16.829368Z",
     "last_tweeted_at": "2026-03-06T06:54:57.601149Z",
     "tweet_id": "2029813264113131702",
     "resolved": false
@@ -9767,22 +9767,6 @@
     "tweet_id": "2031227517110202467",
     "resolved": false
   },
-  "15.2123,145.7545": {
-    "country": "Northern Mariana Islands",
-    "name": "Saipan",
-    "risk_level": "Low",
-    "tweeted_level": "Low",
-    "latitude": 15.21233,
-    "longitude": 145.7545,
-    "rain_mm": 9.44,
-    "soil_moisture": 1.0,
-    "raw_dynamic_score": 1.805,
-    "last_updated": "2026-03-11T12:47:20.735616Z",
-    "last_tweeted_at": "2026-03-11T12:47:20.735616Z",
-    "tweet_id": "2031713625962869048",
-    "resolved": true,
-    "resolved_at": "2026-03-11T12:47:20.735616Z"
-  },
   "-6.8052,13.3302": {
     "country": "Angola",
     "name": "Tombôco",
@@ -9913,7 +9897,7 @@
     "rain_mm": 50.81,
     "soil_moisture": 0.715,
     "raw_dynamic_score": 8.409,
-    "last_updated": "2026-03-12T04:49:50.039623Z",
+    "last_updated": "2026-03-12T12:58:16.829368Z",
     "last_tweeted_at": "2026-03-12T04:49:50.039623Z",
     "tweet_id": "2031955834578567248",
     "resolved": false
@@ -9928,14 +9912,18 @@
     "rain_mm": 75.75,
     "soil_moisture": 0.676,
     "raw_dynamic_score": 12.273,
-    "last_updated": "2026-03-12T09:57:53.978353Z",
+    "last_updated": "2026-03-12T12:58:16.829368Z",
     "last_tweeted_at": "2026-03-12T06:50:23.929479Z",
     "tweet_id": "2031986444231991447",
     "resolved": false,
     "pending_downgrade": true,
-    "pending_target_level": "Medium",
-    "pending_set_at": "2026-03-12T09:57:53.978353Z",
-    "pending_is_region": true
+    "pending_target_level": "Low",
+    "pending_set_at": "2026-03-12T12:58:16.829368Z",
+    "pending_is_region": false,
+    "pending_observed_level": "Low",
+    "pending_observed_rain_mm": 12.81,
+    "pending_observed_soil_moisture": 0.646,
+    "pending_observed_raw_dynamic_score": 2.041
   },
   "-1.5564,-79.7525": {
     "country": "Ecuador",
@@ -9993,7 +9981,7 @@
     "rain_mm": 76.56,
     "soil_moisture": 0.705,
     "raw_dynamic_score": 12.601,
-    "last_updated": "2026-03-12T06:50:23.929479Z",
+    "last_updated": "2026-03-12T12:58:16.829368Z",
     "last_tweeted_at": "2026-03-12T06:50:23.929479Z",
     "tweet_id": "2031986191739076710",
     "resolved": false
@@ -10038,7 +10026,7 @@
     "rain_mm": 36.88,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 7.052,
-    "last_updated": "2026-03-12T09:57:53.978353Z",
+    "last_updated": "2026-03-12T12:58:16.829368Z",
     "last_tweeted_at": "2026-03-12T09:57:53.978353Z",
     "tweet_id": "2032033360563093562",
     "resolved": false
@@ -10053,9 +10041,13 @@
     "rain_mm": 86.12,
     "soil_moisture": 0.73,
     "raw_dynamic_score": 14.373,
-    "last_updated": "2026-03-12T09:57:53.978353Z",
+    "last_updated": "2026-03-12T12:58:16.829368Z",
     "last_tweeted_at": "2026-03-12T09:57:53.978353Z",
     "tweet_id": "2032033613034946753",
-    "resolved": false
+    "resolved": false,
+    "pending_downgrade": true,
+    "pending_target_level": "Medium",
+    "pending_set_at": "2026-03-12T12:58:16.829368Z",
+    "pending_is_region": true
   }
 }
