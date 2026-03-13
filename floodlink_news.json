@@ -12207,5 +12207,25 @@
             "longitude": -75.625,
             "confidence": 0.95
         }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQ1RZeVFlaW1vakdTRkVNd091U2NPNmhsS2ZtUXdFeFZrVUV4NFlPNVdrRHhkd1FhdHBVSWxYTHdvSnVvZWdpS0dwWUluRHk5b2RsY0RXZWRLMjdRWUM0dG5MWFhqSVItV0hibHhPUktaWm5uM0dxUVhLSzhMR2F1VDJ2NUEtYjhOcjJROE5EVXFnbW5fdWp4TWNLVUFzcFE?oc=5",
+        "date": "2026-03-13",
+        "title": "Hawaii Forecast: Flooding, Snow And Wind - The Weather Channel",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNQ1RZeVFlaW1vakdTRkVNd091U2NPNmhsS2ZtUXdFeFZrVUV4NFlPNVdrRHhkd1FhdHBVSWxYTHdvSnVvZWdpS0dwWUluRHk5b2RsY0RXZWRLMjdRWUM0dG5MWFhqSVItV0hibHhPUktaWm5uM0dxUVhLSzhMR2F1VDJ2NUEtYjhOcjJROE5EVXFnbW5fdWp4TWNLVUFzcFE?oc=5\" target=\"_blank\">Hawaii Forecast: Flooding, Snow And Wind</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Weather Channel</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPM20xZzlSNmNoSElXSHZSdlN6SjViTTFmdXZqNG9Xd2FUREFqV3lGbE1wdkdPUG5YYTdxMnZjbFpQSWtUeVdIRTNjN1JaWlpyeVpZYVdscmNpTnRYY0ZIUWFUajQzdnlwRlVrVm9ubENZaHlfaDBVOFduRFRDZUplRF9NVQ?oc=5",
+        "date": "2026-03-13",
+        "title": "Storm warning calls for snow, floods - Moscow-Pullman Daily News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxPM20xZzlSNmNoSElXSHZSdlN6SjViTTFmdXZqNG9Xd2FUREFqV3lGbE1wdkdPUG5YYTdxMnZjbFpQSWtUeVdIRTNjN1JaWlpyeVpZYVdscmNpTnRYY0ZIUWFUajQzdnlwRlVrVm9ubENZaHlfaDBVOFduRFRDZUplRF9NVQ?oc=5\" target=\"_blank\">Storm warning calls for snow, floods</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Moscow-Pullman Daily News</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
     }
 ]
