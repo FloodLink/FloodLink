@@ -12438,5 +12438,14 @@
             "longitude": 37.55,
             "confidence": 0.95
         }
+    },
+    {
+        "link": null,
+        "date": "2026-03-13",
+        "status": "posted",
+        "tweet": "Pluvial flood risks in dense cities by 2030 (projections):\n\n1. \ud83c\uddee\ud83c\uddf3 Mumbai: 15M exposed\n2. \ud83c\udde7\ud83c\udde9 Dhaka: 12M at risk\n3. \ud83c\uddf3\ud83c\uddec Lagos: 10M vulnerable\n4. \ud83c\uddfa\ud83c\uddf8 New York: 5M threatened\n5. \ud83c\uddef\ud83c\uddf5 Tokyo: $200B potential losses",
+        "type": "statistical",
+        "category": "pluvial (surface) flooding in dense cities",
+        "tweet_id": "2032537763895992738"
     }
 ]
