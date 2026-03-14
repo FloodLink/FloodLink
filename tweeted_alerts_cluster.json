@@ -10297,7 +10297,7 @@
     "rain_mm": 35.62,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 6.813,
-    "last_updated": "2026-03-14T18:33:37.310691Z",
+    "last_updated": "2026-03-14T21:25:46.309304Z",
     "last_tweeted_at": "2026-03-14T18:33:37.310691Z",
     "tweet_id": "2032887937465983171",
     "resolved": false
@@ -10357,9 +10357,39 @@
     "rain_mm": 45.56,
     "soil_moisture": 0.524,
     "raw_dynamic_score": 6.754,
-    "last_updated": "2026-03-14T18:33:37.310691Z",
+    "last_updated": "2026-03-14T21:25:46.309304Z",
     "last_tweeted_at": "2026-03-14T18:33:37.310691Z",
     "tweet_id": "2032888442539983048",
+    "resolved": false
+  },
+  "4.4516,7.1707": {
+    "country": "Nigeria",
+    "name": "Bonny",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 4.4516,
+    "longitude": 7.17074,
+    "rain_mm": 37.81,
+    "soil_moisture": 1.0,
+    "raw_dynamic_score": 7.232,
+    "last_updated": "2026-03-14T21:25:46.309304Z",
+    "last_tweeted_at": "2026-03-14T21:25:46.309304Z",
+    "tweet_id": "2032931258599354826",
+    "resolved": false
+  },
+  "37.0097,37.7942": {
+    "country": "Türkiye",
+    "name": "Nizip",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 37.00972,
+    "longitude": 37.79417,
+    "rain_mm": 40.94,
+    "soil_moisture": 0.719,
+    "raw_dynamic_score": 6.792,
+    "last_updated": "2026-03-14T21:25:46.309304Z",
+    "last_tweeted_at": "2026-03-14T21:25:46.309304Z",
+    "tweet_id": "2032931510995792233",
     "resolved": false
   }
 }
