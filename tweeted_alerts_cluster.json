@@ -144,7 +144,7 @@
     "rain_mm": 49.31,
     "soil_moisture": 0.724,
     "raw_dynamic_score": 8.201,
-    "last_updated": "2026-03-14T12:42:42.523314Z",
+    "last_updated": "2026-03-14T15:27:21.096473Z",
     "last_tweeted_at": "2026-01-08T09:24:03.626267Z",
     "tweet_id": "2009194423184445824",
     "resolved": false
@@ -9966,7 +9966,7 @@
     "rain_mm": 45.88,
     "soil_moisture": 0.461,
     "raw_dynamic_score": 6.541,
-    "last_updated": "2026-03-12T19:30:50.450759Z",
+    "last_updated": "2026-03-14T15:27:21.096473Z",
     "last_tweeted_at": "2026-03-12T15:57:52.288633Z",
     "tweet_id": "2032124207556116824",
     "resolved": false
@@ -10132,7 +10132,7 @@
     "rain_mm": 46.38,
     "soil_moisture": 0.632,
     "raw_dynamic_score": 7.329,
-    "last_updated": "2026-03-14T12:42:42.523314Z",
+    "last_updated": "2026-03-14T15:27:21.096473Z",
     "last_tweeted_at": "2026-03-14T12:42:42.523314Z",
     "tweet_id": "2032799880628912543",
     "resolved": false
@@ -10192,7 +10192,7 @@
     "rain_mm": 51.38,
     "soil_moisture": 0.44,
     "raw_dynamic_score": 7.227,
-    "last_updated": "2026-03-14T12:42:42.523314Z",
+    "last_updated": "2026-03-14T15:27:21.096473Z",
     "last_tweeted_at": "2026-03-14T12:42:42.523314Z",
     "tweet_id": "2032800385836978276",
     "resolved": false
@@ -10225,6 +10225,66 @@
     "last_updated": "2026-03-14T12:42:42.523314Z",
     "last_tweeted_at": "2026-03-14T12:42:42.523314Z",
     "tweet_id": "2032800385836978276",
+    "resolved": false
+  },
+  "-41.7734,-73.1305": {
+    "country": "Chile",
+    "name": "Calbuco",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": -41.77338,
+    "longitude": -73.13049,
+    "rain_mm": 46.69,
+    "soil_moisture": 1.0,
+    "raw_dynamic_score": 8.929,
+    "last_updated": "2026-03-14T15:27:21.096473Z",
+    "last_tweeted_at": "2026-03-14T15:27:21.096473Z",
+    "tweet_id": "2032841056098615632",
+    "resolved": false
+  },
+  "-41.8707,-73.8162": {
+    "country": "Chile",
+    "name": "Ancud",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": -41.8707,
+    "longitude": -73.81622,
+    "rain_mm": 44.06,
+    "soil_moisture": 1.0,
+    "raw_dynamic_score": 8.427,
+    "last_updated": "2026-03-14T15:27:21.096473Z",
+    "last_tweeted_at": "2026-03-14T15:27:21.096473Z",
+    "tweet_id": "2032841056098615632",
+    "resolved": false
+  },
+  "4.9667,10.7000": {
+    "country": "Cameroon",
+    "name": "Tonga",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 4.96667,
+    "longitude": 10.7,
+    "rain_mm": 65.44,
+    "soil_moisture": 0.341,
+    "raw_dynamic_score": 8.619,
+    "last_updated": "2026-03-14T15:27:21.096473Z",
+    "last_tweeted_at": "2026-03-14T15:27:21.096473Z",
+    "tweet_id": "2032841308637716982",
+    "resolved": false
+  },
+  "7.5623,6.6550": {
+    "country": "Nigeria",
+    "name": "Ajaokuta",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 7.56229,
+    "longitude": 6.65497,
+    "rain_mm": 48.75,
+    "soil_moisture": 0.359,
+    "raw_dynamic_score": 6.502,
+    "last_updated": "2026-03-14T15:27:21.096473Z",
+    "last_tweeted_at": "2026-03-14T15:27:21.096473Z",
+    "tweet_id": "2032841561080226112",
     "resolved": false
   }
 }
