@@ -3789,7 +3789,7 @@
     "rain_mm": 47.38,
     "soil_moisture": 0.565,
     "raw_dynamic_score": 7.2,
-    "last_updated": "2026-03-14T04:35:13.262882Z",
+    "last_updated": "2026-03-14T09:31:41.642882Z",
     "last_tweeted_at": "2026-01-28T21:29:37.245277Z",
     "tweet_id": "2016625277825437910",
     "resolved": false
@@ -9859,7 +9859,7 @@
     "rain_mm": 71.5,
     "soil_moisture": 0.737,
     "raw_dynamic_score": 11.979,
-    "last_updated": "2026-03-14T04:35:13.262882Z",
+    "last_updated": "2026-03-14T09:31:41.642882Z",
     "last_tweeted_at": "2026-03-14T04:35:13.262882Z",
     "tweet_id": "2032676927991881898",
     "resolved": false
@@ -9879,38 +9879,6 @@
     "tweet_id": "2032390797153214831",
     "resolved": true,
     "resolved_at": "2026-03-13T09:38:12.957051Z"
-  },
-  "-1.5564,-79.7525": {
-    "country": "Ecuador",
-    "name": "Vinces",
-    "risk_level": "Low",
-    "tweeted_level": "Low",
-    "latitude": -1.55637,
-    "longitude": -79.75249,
-    "rain_mm": 0.38,
-    "soil_moisture": 0.647,
-    "raw_dynamic_score": 0.06,
-    "last_updated": "2026-03-13T06:47:42.294306Z",
-    "last_tweeted_at": "2026-03-13T06:47:42.294306Z",
-    "tweet_id": "2032348147549188356",
-    "resolved": true,
-    "resolved_at": "2026-03-13T06:47:42.294306Z"
-  },
-  "-1.4428,-79.4627": {
-    "country": "Ecuador",
-    "name": "Ventanas",
-    "risk_level": "Low",
-    "tweeted_level": "Low",
-    "latitude": -1.44285,
-    "longitude": -79.46274,
-    "rain_mm": 0.31,
-    "soil_moisture": 0.685,
-    "raw_dynamic_score": 0.051,
-    "last_updated": "2026-03-13T06:47:42.294306Z",
-    "last_tweeted_at": "2026-03-13T06:47:42.294306Z",
-    "tweet_id": "2032348400306335950",
-    "resolved": true,
-    "resolved_at": "2026-03-13T06:47:42.294306Z"
   },
   "-2.1861,-56.7131": {
     "country": "Brazil",
