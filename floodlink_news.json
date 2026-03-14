@@ -12529,5 +12529,13 @@
             "longitude": -84.512,
             "confidence": 0.95
         }
+    },
+    {
+        "link": null,
+        "date": "2026-03-14",
+        "status": "posted",
+        "tweet": "\ud83c\uddf3\ud83c\uddf1 As of 2026, the Netherlands' flood defense network spans 26,200 km of dikes and levees, shielding 9 million residents in low-lying polders from sea surges and river overflows.",
+        "type": "infrastructure",
+        "tweet_id": "2032774368086876468"
     }
 ]
