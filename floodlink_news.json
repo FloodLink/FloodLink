@@ -12405,5 +12405,129 @@
             "longitude": null,
             "confidence": 0.8
         }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxORFpZc3ZGck80TzdxNXptS2NnNEc2TEVqOW1NTlNnLWtubWJGemFrUWlTQkMyTDl1SVVGS0tTZ1RJODhYNkZvaVZIbGtMazhqckxZUl9IMW85MHBhcU1JS2VHdnlJYnNNYm5BWVcwcmpfQVBqWWl3Z1FhTHZoZzBxZzdzckNiR1lnQWZaQ2NlcEh2dw?oc=5",
+        "date": "2026-03-14",
+        "title": "Otake Camp in Waialua ordered to evacuate - Hawaii News Now",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxORFpZc3ZGck80TzdxNXptS2NnNEc2TEVqOW1NTlNnLWtubWJGemFrUWlTQkMyTDl1SVVGS0tTZ1RJODhYNkZvaVZIbGtMazhqckxZUl9IMW85MHBhcU1JS2VHdnlJYnNNYm5BWVcwcmpfQVBqWWl3Z1FhTHZoZzBxZzdzckNiR1lnQWZaQ2NlcEh2dw?oc=5\" target=\"_blank\">Otake Camp in Waialua ordered to evacuate</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Hawaii News Now</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": null,
+        "tweet_id": "2032657006297751590",
+        "geo": {
+            "country": "United States",
+            "name": "Otake Camp, Waialua",
+            "latitude": 21.5769,
+            "longitude": -158.2211,
+            "confidence": 0.95
+        }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPaXlMVUQ2cUE5QUt3WVdJV180N0d5dGFkV2hpek93RDB3R3dCZjRhV3JjWnpoMkd3UzYtNWNKRTlJMHRBZVhGX2ZBc0VvUXYzQmFFTURfU3BialpXanl4RUhPaVpoSHNjazZEbkpNMUhiUHVieTlfMUhiSDFGLWw2VS1kdXQxS2RjRDRJaERMc0FESTFXZXFjOF9xWUNQN1lncHBoWW1pY1hPV1RDTGdYNUdYVGYyUnpWdEV5dW40UG9TZkxScVRfOUtvNV96UzBnV3lfRzlVMVNMVnc5aU1TeElGeUhHMkpZRWQ4?oc=5",
+        "date": "2026-03-14",
+        "title": "Evacuation order in effect for Otake Camp area in Waialua due to flash flooding - KITV",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxPaXlMVUQ2cUE5QUt3WVdJV180N0d5dGFkV2hpek93RDB3R3dCZjRhV3JjWnpoMkd3UzYtNWNKRTlJMHRBZVhGX2ZBc0VvUXYzQmFFTURfU3BialpXanl4RUhPaVpoSHNjazZEbkpNMUhiUHVieTlfMUhiSDFGLWw2VS1kdXQxS2RjRDRJaERMc0FESTFXZXFjOF9xWUNQN1lncHBoWW1pY1hPV1RDTGdYNUdYVGYyUnpWdEV5dW40UG9TZkxScVRfOUtvNV96UzBnV3lfRzlVMVNMVnc5aU1TeElGeUhHMkpZRWQ4?oc=5\" target=\"_blank\">Evacuation order in effect for Otake Camp area in Waialua due to flash flooding</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KITV</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPOUpyZVZMN1J4LTBiN01wa2JNaHVXWjBsZG80NlIxV21JMG9FMUR6SFV1TWdjbHU2SVZ2Q1VpaGYzUnhLa0JnaFNkWW45ZlVvREJ2OTZTazk5ZVJESXNnMGNleGtoU2lvc1p4a1ZtSHE3aC1yRzFsR19IVkxUa0NUei1WaVh2b2hkLUhoV1k2c1RZV2hsdGdTTWs3SXUzZnR5XzQ5a2xSc25melpWZGctUU9Vamc0QzB1QnB5bHl1ZWpXNjZRaHd0NDlCYW01OXU5QWdVMWlXUk9aa3RjdDRZTlp2UVV3YktVQlNqVWd3?oc=5",
+        "date": "2026-03-14",
+        "title": "Severe Kona low storm impacts Hawaii with school closures, shelters, and more - KITV",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7gFBVV95cUxPOUpyZVZMN1J4LTBiN01wa2JNaHVXWjBsZG80NlIxV21JMG9FMUR6SFV1TWdjbHU2SVZ2Q1VpaGYzUnhLa0JnaFNkWW45ZlVvREJ2OTZTazk5ZVJESXNnMGNleGtoU2lvc1p4a1ZtSHE3aC1yRzFsR19IVkxUa0NUei1WaVh2b2hkLUhoV1k2c1RZV2hsdGdTTWs3SXUzZnR5XzQ5a2xSc25melpWZGctUU9Vamc0QzB1QnB5bHl1ZWpXNjZRaHd0NDlCYW01OXU5QWdVMWlXUk9aa3RjdDRZTlp2UVV3YktVQlNqVWd3?oc=5\" target=\"_blank\">Severe Kona low storm impacts Hawaii with school closures, shelters, and more</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KITV</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNEtSSEV0aldzbTdmLW5GUFBxeUloZXdEOW1PWjR4SWhHYUcwak0xbVNGVDFpc1BCdFhhWVBkUkVsc1g0YXhMRTRtTVYwMkZPbC1lTzNmbVFjN1lWLVV2bDdxUU91SjN2UGdJMTBMdGdhTG9aaUFXQk9haHlianJsSFFWRlowU3dPeWFv?oc=5",
+        "date": "2026-03-14",
+        "title": "Otake Camp in Waialua ordered to evacuate - Hawaii News Now",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNEtSSEV0aldzbTdmLW5GUFBxeUloZXdEOW1PWjR4SWhHYUcwak0xbVNGVDFpc1BCdFhhWVBkUkVsc1g0YXhMRTRtTVYwMkZPbC1lTzNmbVFjN1lWLVV2bDdxUU91SjN2UGdJMTBMdGdhTG9aaUFXQk9haHlianJsSFFWRlowU3dPeWFv?oc=5\" target=\"_blank\">Otake Camp in Waialua ordered to evacuate</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Hawaii News Now</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxOLTlYYkNleXJUdVZ0WjlOZVVDWExHbTk5XzAzUWhxclhPbXU5OGVvd3M0RWhleUlHcFV1dkRmY3VUWVNDTFlBdlNmTTVOaFVUUjI4TjQ3VGF2clZUdkswTzR0TlhNdHBncXRhVVZVclp1UEZaQTc2eU52WlQ2eHYtTGxsOVMtdTdsX2dOaFdmdFZhRm1hV1lzQkFWTlFuUWVKZTRFa0lXTnRrTVhWWVlQNWR2d3M3WmJnQUxJa29sOXVjVUstaTlQcXd1SW1DRGw0NGM2WjNhdE1yYkdNQU5rSWttYXZQanNHcmlKWngwZGt4QWpWX0ZTMXRlVG9VLXF3UFQyN2txZkJIOVBxbHdYdjFGaDZUU0d6OXlzR3JDbjVLcXl1MjQ1QTBIUmo2Y2tvREpJbGdwWHJjcDFxcXVpOGNXc25PM3JqZk93U0E5ME43VUlIeFA0WVN0RE1aQQ?oc=5",
+        "date": "2026-03-14",
+        "title": "Good Samaritans help Greater Cincinnati flood victims rebuild after severe flash flooding - WKRC",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3gJBVV95cUxOLTlYYkNleXJUdVZ0WjlOZVVDWExHbTk5XzAzUWhxclhPbXU5OGVvd3M0RWhleUlHcFV1dkRmY3VUWVNDTFlBdlNmTTVOaFVUUjI4TjQ3VGF2clZUdkswTzR0TlhNdHBncXRhVVZVclp1UEZaQTc2eU52WlQ2eHYtTGxsOVMtdTdsX2dOaFdmdFZhRm1hV1lzQkFWTlFuUWVKZTRFa0lXTnRrTVhWWVlQNWR2d3M3WmJnQUxJa29sOXVjVUstaTlQcXd1SW1DRGw0NGM2WjNhdE1yYkdNQU5rSWttYXZQanNHcmlKWngwZGt4QWpWX0ZTMXRlVG9VLXF3UFQyN2txZkJIOVBxbHdYdjFGaDZUU0d6OXlzR3JDbjVLcXl1MjQ1QTBIUmo2Y2tvREpJbGdwWHJjcDFxcXVpOGNXc25PM3JqZk93U0E5ME43VUlIeFA0WVN0RE1aQQ?oc=5\" target=\"_blank\">Good Samaritans help Greater Cincinnati flood victims rebuild after severe flash flooding</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WKRC</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": null,
+        "tweet_id": "2032657521689702662",
+        "geo": {
+            "country": "United States",
+            "name": "Greater Cincinnati",
+            "latitude": 39.1031,
+            "longitude": -84.512,
+            "confidence": 0.95
+        }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxONmtJZ2hqOGxxbWlrTXZCSlBpWldFNl82Qzh4a2tDM1pQbzdxdW1pRWRnWkNGdGFDVXMxSHZXNHFHS3p2ZGFmZzd5V0V3endUMUtaZWZiM3RidTFQcTI5V1pjNUc5MnVyQ2xRc2VGUktVd0ZDUkxudklsTVBEcUpZRUZRcGxvbzBPNFBpZDJHcjNvNnhqX3E3YnNaZkJEV1drWmRkdm1VeVAyYzRobHpJWlpOdTY2am9zbTJPMG9sNDdla09zY2ZxUTR2eHdhRkF5QmRIOFg2YnlWMms3Y1pDdkkzallnVnhXRUVhRlFPRHRqMEYzbS00ckhycTU4dzdtaUVVTmw1Uk1qWDBsRHB4dlRZSHh1MkhkeFJYbUN5aUFyTHoySmJwWFlvaDBQaG5PZU9Jdl9admY3cVlINmVUa3dKbGZSOEUyMmZUZGc3TDdUNTlRSlFmV3pJaUVNOUJmX1ZfeDZSeGw?oc=5",
+        "date": "2026-03-14",
+        "title": "Good Samaritans help Greater Cincinnati flood victims rebuild after severe flash flooding - WKRC",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6AJBVV95cUxONmtJZ2hqOGxxbWlrTXZCSlBpWldFNl82Qzh4a2tDM1pQbzdxdW1pRWRnWkNGdGFDVXMxSHZXNHFHS3p2ZGFmZzd5V0V3endUMUtaZWZiM3RidTFQcTI5V1pjNUc5MnVyQ2xRc2VGUktVd0ZDUkxudklsTVBEcUpZRUZRcGxvbzBPNFBpZDJHcjNvNnhqX3E3YnNaZkJEV1drWmRkdm1VeVAyYzRobHpJWlpOdTY2am9zbTJPMG9sNDdla09zY2ZxUTR2eHdhRkF5QmRIOFg2YnlWMms3Y1pDdkkzallnVnhXRUVhRlFPRHRqMEYzbS00ckhycTU4dzdtaUVVTmw1Uk1qWDBsRHB4dlRZSHh1MkhkeFJYbUN5aUFyTHoySmJwWFlvaDBQaG5PZU9Jdl9admY3cVlINmVUa3dKbGZSOEUyMmZUZGc3TDdUNTlRSlFmV3pJaUVNOUJmX1ZfeDZSeGw?oc=5\" target=\"_blank\">Good Samaritans help Greater Cincinnati flood victims rebuild after severe flash flooding</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WKRC</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdWdZZmpXSTFVb0NUU0d5Vzh3VDNlZ25hdVZIRWF6bGhVb0JIM1dIeW43U19XNFZPX0lkWURVZF9fa1czSGc2QmptSW5haXlLbTNINnlyamtoTVoxQnNkc1dYTDliUmpXU1V1c0dFaGczMWFfWk5uRDJQQUQyb0V0MVNIQXVHMHUzOWFnaA?oc=5",
+        "date": "2026-03-14",
+        "title": "At least 80 killed by huge landslides in Ethiopia as three days of mourning declared & desperate search efforts continue - The US Sun",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNdWdZZmpXSTFVb0NUU0d5Vzh3VDNlZ25hdVZIRWF6bGhVb0JIM1dIeW43U19XNFZPX0lkWURVZF9fa1czSGc2QmptSW5haXlLbTNINnlyamtoTVoxQnNkc1dYTDliUmpXU1V1c0dFaGczMWFfWk5uRDJQQUQyb0V0MVNIQXVHMHUzOWFnaA?oc=5\" target=\"_blank\">At least 80 killed by huge landslides in Ethiopia as three days of mourning declared & desperate search efforts continue</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The US Sun</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxORFpZc3ZGck80TzdxNXptS2NnNEc2TEVqOW1NTlNnLWtubWJGemFrUWlTQkMyTDl1SVVGS0tTZ1RJODhYNkZvaVZIbGtMazhqckxZUl9IMW85MHBhcU1JS2VHdnlJYnNNYm5BWVcwcmpfQVBqWWl3Z1FhTHZoZzBxZzdzckNiR1lnQWZaQ2NlcEh2dw?oc=5",
+        "date": "2026-03-14",
+        "title": "Otake Camp in Waialua ordered to evacuate - Hawaii News Now",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxORFpZc3ZGck80TzdxNXptS2NnNEc2TEVqOW1NTlNnLWtubWJGemFrUWlTQkMyTDl1SVVGS0tTZ1RJODhYNkZvaVZIbGtMazhqckxZUl9IMW85MHBhcU1JS2VHdnlJYnNNYm5BWVcwcmpfQVBqWWl3Z1FhTHZoZzBxZzdzckNiR1lnQWZaQ2NlcEh2dw?oc=5\" target=\"_blank\">Otake Camp in Waialua ordered to evacuate</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Hawaii News Now</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 FORECAST Waialua, Hawaii: Evacuation ordered for Otake Camp due to flood risk. (Hawaii News Now)",
+        "type": "news",
+        "tweet_id": "2032657006297751590",
+        "geo": {
+            "country": "United States",
+            "name": "Otake Camp, Waialua",
+            "latitude": 21.5769,
+            "longitude": -158.2211,
+            "confidence": 0.95
+        }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxOLTlYYkNleXJUdVZ0WjlOZVVDWExHbTk5XzAzUWhxclhPbXU5OGVvd3M0RWhleUlHcFV1dkRmY3VUWVNDTFlBdlNmTTVOaFVUUjI4TjQ3VGF2clZUdkswTzR0TlhNdHBncXRhVVZVclp1UEZaQTc2eU52WlQ2eHYtTGxsOVMtdTdsX2dOaFdmdFZhRm1hV1lzQkFWTlFuUWVKZTRFa0lXTnRrTVhWWVlQNWR2d3M3WmJnQUxJa29sOXVjVUstaTlQcXd1SW1DRGw0NGM2WjNhdE1yYkdNQU5rSWttYXZQanNHcmlKWngwZGt4QWpWX0ZTMXRlVG9VLXF3UFQyN2txZkJIOVBxbHdYdjFGaDZUU0d6OXlzR3JDbjVLcXl1MjQ1QTBIUmo2Y2tvREpJbGdwWHJjcDFxcXVpOGNXc25PM3JqZk93U0E5ME43VUlIeFA0WVN0RE1aQQ?oc=5",
+        "date": "2026-03-14",
+        "title": "Good Samaritans help Greater Cincinnati flood victims rebuild after severe flash flooding - WKRC",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3gJBVV95cUxOLTlYYkNleXJUdVZ0WjlOZVVDWExHbTk5XzAzUWhxclhPbXU5OGVvd3M0RWhleUlHcFV1dkRmY3VUWVNDTFlBdlNmTTVOaFVUUjI4TjQ3VGF2clZUdkswTzR0TlhNdHBncXRhVVZVclp1UEZaQTc2eU52WlQ2eHYtTGxsOVMtdTdsX2dOaFdmdFZhRm1hV1lzQkFWTlFuUWVKZTRFa0lXTnRrTVhWWVlQNWR2d3M3WmJnQUxJa29sOXVjVUstaTlQcXd1SW1DRGw0NGM2WjNhdE1yYkdNQU5rSWttYXZQanNHcmlKWngwZGt4QWpWX0ZTMXRlVG9VLXF3UFQyN2txZkJIOVBxbHdYdjFGaDZUU0d6OXlzR3JDbjVLcXl1MjQ1QTBIUmo2Y2tvREpJbGdwWHJjcDFxcXVpOGNXc25PM3JqZk93U0E5ME43VUlIeFA0WVN0RE1aQQ?oc=5\" target=\"_blank\">Good Samaritans help Greater Cincinnati flood victims rebuild after severe flash flooding</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WKRC</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 POST-EVENT Greater Cincinnati: Severe flash flooding caused damage; good Samaritans helping victims rebuild homes. (WKRC)",
+        "type": "news",
+        "tweet_id": "2032657521689702662",
+        "geo": {
+            "country": "United States",
+            "name": "Greater Cincinnati",
+            "latitude": 39.1031,
+            "longitude": -84.512,
+            "confidence": 0.95
+        }
     }
 ]
