@@ -6444,7 +6444,7 @@
     "rain_mm": 59.81,
     "soil_moisture": 0.644,
     "raw_dynamic_score": 9.518,
-    "last_updated": "2026-02-20T21:22:21.690269Z",
+    "last_updated": "2026-03-15T12:41:42.909806Z",
     "last_tweeted_at": "2026-02-17T09:45:22.628115Z",
     "tweet_id": "2023696049924125038",
     "resolved": false
@@ -10254,7 +10254,7 @@
     "rain_mm": 44.12,
     "soil_moisture": 0.634,
     "raw_dynamic_score": 6.979,
-    "last_updated": "2026-03-15T06:53:13.803923Z",
+    "last_updated": "2026-03-15T12:41:42.909806Z",
     "last_tweeted_at": "2026-03-15T05:07:21.119309Z",
     "tweet_id": "2033047668822520256",
     "resolved": false
@@ -10272,6 +10272,21 @@
     "last_updated": "2026-03-15T09:33:04.003003Z",
     "last_tweeted_at": "2026-03-15T05:07:21.119309Z",
     "tweet_id": "2033047668822520256",
+    "resolved": false
+  },
+  "5.7077,6.4340": {
+    "country": "Nigeria",
+    "name": "Kwale",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 5.70773,
+    "longitude": 6.43402,
+    "rain_mm": 50.69,
+    "soil_moisture": 0.449,
+    "raw_dynamic_score": 7.171,
+    "last_updated": "2026-03-15T12:41:42.909806Z",
+    "last_tweeted_at": "2026-03-15T12:41:42.909806Z",
+    "tweet_id": "2033161762174853350",
     "resolved": false
   }
 }
