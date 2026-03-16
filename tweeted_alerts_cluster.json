@@ -10817,5 +10817,20 @@
     "last_tweeted_at": "2026-03-16T05:16:05.293415Z",
     "tweet_id": "2033411995890856248",
     "resolved": false
+  },
+  "-2.5537,120.3279": {
+    "country": "Indonesia",
+    "name": "Masamba",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": -2.5537,
+    "longitude": 120.3279,
+    "rain_mm": 44.5,
+    "soil_moisture": 0.688,
+    "raw_dynamic_score": 7.258,
+    "last_updated": "2026-03-16T07:13:43.331529Z",
+    "last_tweeted_at": "2026-03-16T07:13:43.331529Z",
+    "tweet_id": "2033441609648419134",
+    "resolved": false
   }
 }
