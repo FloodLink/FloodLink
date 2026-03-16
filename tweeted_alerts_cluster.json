@@ -324,7 +324,7 @@
     "rain_mm": 34.06,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 6.514,
-    "last_updated": "2026-03-16T01:36:32.852299Z",
+    "last_updated": "2026-03-16T05:16:05.293415Z",
     "last_tweeted_at": "2026-01-09T01:09:58.108905Z",
     "tweet_id": "2009432468462391605",
     "resolved": false
@@ -10775,7 +10775,7 @@
     "rain_mm": 43.62,
     "soil_moisture": 0.646,
     "raw_dynamic_score": 6.95,
-    "last_updated": "2026-03-16T01:36:32.852299Z",
+    "last_updated": "2026-03-16T05:16:05.293415Z",
     "last_tweeted_at": "2026-03-15T21:27:49.165102Z",
     "tweet_id": "2033294413389242552",
     "resolved": false
@@ -10790,9 +10790,32 @@
     "rain_mm": 105.31,
     "soil_moisture": 0.622,
     "raw_dynamic_score": 16.551,
-    "last_updated": "2026-03-16T01:36:32.852299Z",
+    "last_updated": "2026-03-16T05:16:05.293415Z",
     "last_tweeted_at": "2026-03-16T01:36:32.852299Z",
     "tweet_id": "2033356754210234546",
+    "resolved": false,
+    "pending_downgrade": true,
+    "pending_target_level": "Low",
+    "pending_set_at": "2026-03-16T05:16:05.293415Z",
+    "pending_is_region": false,
+    "pending_observed_level": "Low",
+    "pending_observed_rain_mm": 23.75,
+    "pending_observed_soil_moisture": 0.577,
+    "pending_observed_raw_dynamic_score": 3.635
+  },
+  "-3.7147,137.9853": {
+    "country": "Indonesia",
+    "name": "Mulia",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": -3.71472,
+    "longitude": 137.98528,
+    "rain_mm": 46.88,
+    "soil_moisture": 0.649,
+    "raw_dynamic_score": 7.481,
+    "last_updated": "2026-03-16T05:16:05.293415Z",
+    "last_tweeted_at": "2026-03-16T05:16:05.293415Z",
+    "tweet_id": "2033411995890856248",
     "resolved": false
   }
 }
