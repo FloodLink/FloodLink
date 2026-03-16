@@ -12460,5 +12460,13 @@
             "longitude": -157.8583,
             "confidence": 1.0
         }
+    },
+    {
+        "link": null,
+        "date": "2026-03-16",
+        "status": "posted",
+        "tweet": "\ud83c\uddf3\ud83c\uddf1 The Netherlands maintains 26,200 km of dikes and levees, shielding 60% of its 17.8 million population from river and coastal floods.",
+        "type": "infrastructure",
+        "tweet_id": "2033470649679921643"
     }
 ]
