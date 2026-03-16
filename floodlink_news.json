@@ -12790,5 +12790,142 @@
         "type": "statistical",
         "category": "extreme rainfall trends in major cities",
         "tweet_id": "2033640147187863955"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE92TjR0ZXozd2RaOFFlNHROUjA0Z3AzeDRoZXFLOFBiZ25GU0MzaW1IOFpHRmwxZ0NCTXl4cjdsenRPOHo4ZlQ3MkxKb080MEtYdXJDcF83UjFXSFE0V3JFU2dGbmlQTUVxXzQwMlNjRlgxYXZIS3Bj?oc=5",
+        "date": "2026-03-16",
+        "title": "Flash flood warning in place for Eastern North Carolina until Monday evening - News & Observer",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE92TjR0ZXozd2RaOFFlNHROUjA0Z3AzeDRoZXFLOFBiZ25GU0MzaW1IOFpHRmwxZ0NCTXl4cjdsenRPOHo4ZlQ3MkxKb080MEtYdXJDcF83UjFXSFE0V3JFU2dGbmlQTUVxXzQwMlNjRlgxYXZIS3Bj?oc=5\" target=\"_blank\">Flash flood warning in place for Eastern North Carolina until Monday evening</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">News & Observer</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": null,
+        "tweet_id": "2033669593072373826",
+        "geo": {
+            "country": "United States",
+            "name": "Eastern North Carolina",
+            "latitude": 35.6127,
+            "longitude": -77.3663,
+            "confidence": 0.95
+        }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOb2xzWWtWa1A4NnhmLWRkY0VRSlc0aDA3SHFSQ1pnM0otMWVEemtzWGlqV3ljay04WnJuZmJsRW4tNHQ0ZE1OMWZYTkpMaEVfWUcxUVM2MHBZNUdnREFENEVBdkVZR01kSE9XQmpwNVFjSDFUZzZTOUxqT250aC12Z3dSU2ZaZw?oc=5",
+        "date": "2026-03-16",
+        "title": "A Meteorologist's Tips To Prepare For And Survive A Flood - The Weather Channel",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxOb2xzWWtWa1A4NnhmLWRkY0VRSlc0aDA3SHFSQ1pnM0otMWVEemtzWGlqV3ljay04WnJuZmJsRW4tNHQ0ZE1OMWZYTkpMaEVfWUcxUVM2MHBZNUdnREFENEVBdkVZR01kSE9XQmpwNVFjSDFUZzZTOUxqT250aC12Z3dSU2ZaZw?oc=5\" target=\"_blank\">A Meteorologist's Tips To Prepare For And Survive A Flood</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Weather Channel</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUmpSRG9hSlJEVlVQNENiaW52M0JfUHhWX1lnU1NrVWZPSkJrbkt5NmZ2UDlDZVVrY0FVemREQlFSQzR4cXRMeFJ3ZWZBNHZBYlNGMXUtTnJ4eUJOOU1BNzBGQ2dHLWNKVWx1ZEluMGZYWjN4YjhZV3dXRkgxTEhHQVgtTDJMZ3IyN2phZWc0dUpqUkppOVVLMFBDamFWSWpQYTdvNXpZWWzSAbABQVVfeXFMUDRJeHc2aE5WbTNfOXFhcTVEUjI3eUl3UVdiTV9hRnBqaVlUVHFOb1NlZ2YxRGY5VnZNRlN2cFBXQXVDVzJmaS1RWEs1QlpvOXN4V3l1OEdMVE1KOGp5SFptYTZ1ZzBkOG9PZkRoNlhJWXZuckx1WmozREp1cmIweUVDUXN4cnVmUVVILVFaZFpBdV9fX3FuRUI0am5hYVVaVjlzaXFuWTlTM3NYdkZ5YUE?oc=5",
+        "date": "2026-03-16",
+        "title": "First Alert: Powerful storm brings heavy downpours, high winds, flood danger - NBC Boston",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUmpSRG9hSlJEVlVQNENiaW52M0JfUHhWX1lnU1NrVWZPSkJrbkt5NmZ2UDlDZVVrY0FVemREQlFSQzR4cXRMeFJ3ZWZBNHZBYlNGMXUtTnJ4eUJOOU1BNzBGQ2dHLWNKVWx1ZEluMGZYWjN4YjhZV3dXRkgxTEhHQVgtTDJMZ3IyN2phZWc0dUpqUkppOVVLMFBDamFWSWpQYTdvNXpZWWzSAbABQVVfeXFMUDRJeHc2aE5WbTNfOXFhcTVEUjI3eUl3UVdiTV9hRnBqaVlUVHFOb1NlZ2YxRGY5VnZNRlN2cFBXQXVDVzJmaS1RWEs1QlpvOXN4V3l1OEdMVE1KOGp5SFptYTZ1ZzBkOG9PZkRoNlhJWXZuckx1WmozREp1cmIweUVDUXN4cnVmUVVILVFaZFpBdV9fX3FuRUI0am5hYVVaVjlzaXFuWTlTM3NYdkZ5YUE?oc=5\" target=\"_blank\">First Alert: Powerful storm brings heavy downpours, high winds, flood danger</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NBC Boston</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA2TlRDUTE4RU12MkViaGYwWW9JdFBPSVRUTzc5SWw0cWxYYXd5TUNfYlU3dGRtREU0VDdJY3cxLTBNYk1KUmdsYXpVMXJPWGNESHVQTXZYY2pJV3BTdnhzdk9xTnNOV2FwelQ0cXRKRFVXcUEwZ3A2SjdB?oc=5",
+        "date": "2026-03-16",
+        "title": "Flood warning affecting Chelan County until Sunday night - Tacoma News Tribune",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTFA2TlRDUTE4RU12MkViaGYwWW9JdFBPSVRUTzc5SWw0cWxYYXd5TUNfYlU3dGRtREU0VDdJY3cxLTBNYk1KUmdsYXpVMXJPWGNESHVQTXZYY2pJV3BTdnhzdk9xTnNOV2FwelQ0cXRKRFVXcUEwZ3A2SjdB?oc=5\" target=\"_blank\">Flood warning affecting Chelan County until Sunday night</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tacoma News Tribune</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxObmsyQmJpY05tYk9sOUhnQ0NhMDVkSnVfYUNVMVliWDAwNGoxN25qcnhpSHBlSjRBZmxIc3lmaUY0bXZqZ0NHcGIxUlhaS1B1T004VnBnaHVod2I3NGRiRDg1OWwyaEdGZFdhT2JuVUdTMnUwZy1VN0RieUJGTVROdG9ZOTZjN1BqYkFLM2xOYkxpVndUaFVHZkc4ZEtCRzNPN3ZqeWx5cUIyYV8yMnd4MzlnZ2I3M2NkUFBneGxYcUplTmtFSzIwVTEzMEFpaFk?oc=5",
+        "date": "2026-03-16",
+        "title": "Flood watch and high wind warning in effect in Brockton. What to know - Enterprise News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxObmsyQmJpY05tYk9sOUhnQ0NhMDVkSnVfYUNVMVliWDAwNGoxN25qcnhpSHBlSjRBZmxIc3lmaUY0bXZqZ0NHcGIxUlhaS1B1T004VnBnaHVod2I3NGRiRDg1OWwyaEdGZFdhT2JuVUdTMnUwZy1VN0RieUJGTVROdG9ZOTZjN1BqYkFLM2xOYkxpVndUaFVHZkc4ZEtCRzNPN3ZqeWx5cUIyYV8yMnd4MzlnZ2I3M2NkUFBneGxYcUplTmtFSzIwVTEzMEFpaFk?oc=5\" target=\"_blank\">Flood watch and high wind warning in effect in Brockton. What to know</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Enterprise News</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1YZV83ck1IODNvUkluZl9yTWc3NDhhX0VHUWd3YWNQU0NiNlVOMFJqYnpGaHAwSFVlaFBLYXdHTW5CWThEVkdnZU9UcUhPbkFUVk01UGVxWk9fVG16NW5fRTN3SDFQOHdnbjlYRDhjcEFKM2VaRkE?oc=5",
+        "date": "2026-03-16",
+        "title": "Flood warning issued for Bethesda, Potomac, Rockville areas as Monday storm brings high waters to county - Bethesda Magazine",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE1YZV83ck1IODNvUkluZl9yTWc3NDhhX0VHUWd3YWNQU0NiNlVOMFJqYnpGaHAwSFVlaFBLYXdHTW5CWThEVkdnZU9UcUhPbkFUVk01UGVxWk9fVG16NW5fRTN3SDFQOHdnbjlYRDhjcEFKM2VaRkE?oc=5\" target=\"_blank\">Flood warning issued for Bethesda, Potomac, Rockville areas as Monday storm brings high waters to county</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bethesda Magazine</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNYlA2QTNTVGp2NHQxcE9QWElFdHVGVW9GSk9COHB5Yk9ya3A3RTd3N2J4NmZJX1VNRTdyd2Qzekh2Wng1ZkRRUGp4WUd6b2NCZGlTOTl2M25qaU92Rk14OU9ZcmtOOWZiOGJ4aDd6ZTlHS2NOa0ZpSmFNSnVNNEIzZmN6RFI2YzJDdnZmbVF0Y0Z5RFJQWFRjUmZ0OU9MSDdEX3JXcGhVdS1DSWUwdEtTMnlTaHZscDNTMlN3c1RaLUdjbUdSYkpmN0dnRFFHdVJjWmhTYVpIb3FRR2tHM3d3ejRuSklJSFU?oc=5",
+        "date": "2026-03-16",
+        "title": "Flash flood warnings in place for parts of Hampton Roads - 13newsnow.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxNYlA2QTNTVGp2NHQxcE9QWElFdHVGVW9GSk9COHB5Yk9ya3A3RTd3N2J4NmZJX1VNRTdyd2Qzekh2Wng1ZkRRUGp4WUd6b2NCZGlTOTl2M25qaU92Rk14OU9ZcmtOOWZiOGJ4aDd6ZTlHS2NOa0ZpSmFNSnVNNEIzZmN6RFI2YzJDdnZmbVF0Y0Z5RFJQWFRjUmZ0OU9MSDdEX3JXcGhVdS1DSWUwdEtTMnlTaHZscDNTMlN3c1RaLUdjbUdSYkpmN0dnRFFHdVJjWmhTYVpIb3FRR2tHM3d3ejRuSklJSFU?oc=5\" target=\"_blank\">Flash flood warnings in place for parts of Hampton Roads</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">13newsnow.com</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPeW9zQmJZai1mZl9WVEhNdENZNHB5NU1HQmRKV2ZTcFIwYTU1UmtkcEszVzFpYWFzQjJpOFBSUXhDRmFxMDZlQnJCQlJxVjBnQjh0YjEtM0ZmSjNMam83NDB3dDJoNjVDWkhDWG1BcGZRWkhHM0tBUEVYTFQxSmRJVlNmZktWc2tsaFdlN3M3bVBhU0lrQnFPcElDeDVfRnpSYmN2dnVLejNVQUNDcm10ODFNUE1FOHFnRWxQekdB?oc=5",
+        "date": "2026-03-16",
+        "title": "More strong winds coming to DC region after earlier severe storms cause flooding - WTOP",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxPeW9zQmJZai1mZl9WVEhNdENZNHB5NU1HQmRKV2ZTcFIwYTU1UmtkcEszVzFpYWFzQjJpOFBSUXhDRmFxMDZlQnJCQlJxVjBnQjh0YjEtM0ZmSjNMam83NDB3dDJoNjVDWkhDWG1BcGZRWkhHM0tBUEVYTFQxSmRJVlNmZktWc2tsaFdlN3M3bVBhU0lrQnFPcElDeDVfRnpSYmN2dnVLejNVQUNDcm10ODFNUE1FOHFnRWxQekdB?oc=5\" target=\"_blank\">More strong winds coming to DC region after earlier severe storms cause flooding</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WTOP</font>",
+        "similarity_excluded": "No",
+        "score": 6,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOQm80aVB4QzhLV21SQ3E2cXkzUVVsQk1RM19wYUlPYllSc1RIUWI0VzdSN3FqQ09FOVJWcVR6aWR1dXpKSmJHMTdWTnhLQUN0OGdzSXcyZlhGck1zQmVJV1VDdVhwSTVHZThRSU5sUGppWnFGVk94ZjBkdVdhLWlTOXBzdXgyUWNtNWF0dVo0d1BOaEJZRjQ4?oc=5",
+        "date": "2026-03-16",
+        "title": "Flood Watch For Hawai\u02bbi Island Cancelled - Big Island Video News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOQm80aVB4QzhLV21SQ3E2cXkzUVVsQk1RM19wYUlPYllSc1RIUWI0VzdSN3FqQ09FOVJWcVR6aWR1dXpKSmJHMTdWTnhLQUN0OGdzSXcyZlhGck1zQmVJV1VDdVhwSTVHZThRSU5sUGppWnFGVk94ZjBkdVdhLWlTOXBzdXgyUWNtNWF0dVo0d1BOaEJZRjQ4?oc=5\" target=\"_blank\">Flood Watch For Hawai\u02bbi Island Cancelled</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Big Island Video News</font>",
+        "similarity_excluded": "No",
+        "score": 6,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNLW82WUFuLWJ5amhjTktWUzhoNkV5SGRkc28tV2dhbmdPX0tRZVVTZlY4em1RMnhvWjVOMDFKVG9WSVppaThlVkpyQjlMR0xmQzUyb0NURVlIY2NSc0xUUC1Lb2lXUURpQ3I3QmU4bkdPU2FaVG92M2lENW5EMVpyVWNNZUYtWWR1WmY5d3paT3A?oc=5",
+        "date": "2026-03-16",
+        "title": "Baltimore closes flood-prone roads as more severe storms loom - Baltimore Sun",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNLW82WUFuLWJ5amhjTktWUzhoNkV5SGRkc28tV2dhbmdPX0tRZVVTZlY4em1RMnhvWjVOMDFKVG9WSVppaThlVkpyQjlMR0xmQzUyb0NURVlIY2NSc0xUUC1Lb2lXUURpQ3I3QmU4bkdPU2FaVG92M2lENW5EMVpyVWNNZUYtWWR1WmY5d3paT3A?oc=5\" target=\"_blank\">Baltimore closes flood-prone roads as more severe storms loom</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Baltimore Sun</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVU0xeVJ1eWNlLWZkMFhHdUdFWTBaNGhVV1JnNl9vNmgwNkw0Tjc1cGhIQ2FzbXM1TVdZSVZxWnF0ZlRXUGY2MXVha2llQUtFdWMwWkNRTWJwLWdnVkNYTVNBcHVJSjBfZjdad0YtSlB1X2ZjUkVuSFNnbjNyQUVEQVpTR1B1TXBHUHNYSENMMllUN0xPWTJyREtwNXZwdw?oc=5",
+        "date": "2026-03-16",
+        "title": "Bangor closes parking by Kenduskeag Stream over flood risk - Bangor Daily News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPVU0xeVJ1eWNlLWZkMFhHdUdFWTBaNGhVV1JnNl9vNmgwNkw0Tjc1cGhIQ2FzbXM1TVdZSVZxWnF0ZlRXUGY2MXVha2llQUtFdWMwWkNRTWJwLWdnVkNYTVNBcHVJSjBfZjdad0YtSlB1X2ZjUkVuSFNnbjNyQUVEQVpTR1B1TXBHUHNYSENMMllUN0xPWTJyREtwNXZwdw?oc=5\" target=\"_blank\">Bangor closes parking by Kenduskeag Stream over flood risk</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bangor Daily News</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE92TjR0ZXozd2RaOFFlNHROUjA0Z3AzeDRoZXFLOFBiZ25GU0MzaW1IOFpHRmwxZ0NCTXl4cjdsenRPOHo4ZlQ3MkxKb080MEtYdXJDcF83UjFXSFE0V3JFU2dGbmlQTUVxXzQwMlNjRlgxYXZIS3Bj?oc=5",
+        "date": "2026-03-16",
+        "title": "Flash flood warning in place for Eastern North Carolina until Monday evening - News & Observer",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE92TjR0ZXozd2RaOFFlNHROUjA0Z3AzeDRoZXFLOFBiZ25GU0MzaW1IOFpHRmwxZ0NCTXl4cjdsenRPOHo4ZlQ3MkxKb080MEtYdXJDcF83UjFXSFE0V3JFU2dGbmlQTUVxXzQwMlNjRlgxYXZIS3Bj?oc=5\" target=\"_blank\">Flash flood warning in place for Eastern North Carolina until Monday evening</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">News & Observer</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 FORECAST Eastern North Carolina: Flash flood warning in place until Monday evening, with risks of sudden heavy rain and localized flooding. (News & Observer)",
+        "type": "news",
+        "tweet_id": "2033669593072373826",
+        "geo": {
+            "country": "United States",
+            "name": "Eastern North Carolina",
+            "latitude": 35.6127,
+            "longitude": -77.3663,
+            "confidence": 0.95
+        }
     }
 ]
