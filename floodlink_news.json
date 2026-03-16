@@ -12772,5 +12772,14 @@
             "longitude": 93.6167,
             "confidence": 1.0
         }
+    },
+    {
+        "link": null,
+        "date": "2026-03-16",
+        "status": "posted",
+        "tweet": "Global flood early warning coverage (2026): % of population protected vs. floods, flash floods, storm surges, extreme rainfall.\n\n1. \ud83c\uddf3\ud83c\uddf1 Netherlands: 100%\n2. \ud83c\uddef\ud83c\uddf5 Japan: 98%\n3. \ud83c\udde9\ud83c\uddea Germany: 95%\n4. \ud83c\uddfa\ud83c\uddf8 USA: 85%\n5. Global avg: 62%",
+        "type": "statistical",
+        "category": "coverage of flood early warning systems worldwide",
+        "tweet_id": "2033601149631099380"
     }
 ]
