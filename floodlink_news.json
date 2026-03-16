@@ -12927,5 +12927,25 @@
             "longitude": -77.3663,
             "confidence": 0.95
         }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE12NERjRUFJUDRwVlNuaWQxR1ppQ0VaZGtvbm1EeUlLN1d3VDY3cWszdWVMQWowZDRLUllPeUhsbm04djhBQ05tQWpadFRTVUtsN2Z5bUFwWi13eGlQSUh3VHdZY0hTelNnenFadjU1NGZ0ZUF3Z3BKbENB0gF_QVVfeXFMTVZLU05fY1VJcjE3UkFVazM5V0JmNVVVMWhub0M0ai03LXpKQUtoQ2JVcVVpWS1aMENIengzclpiOVpwT1AyYlNaNUUzUXY2d3kzSllZSTIwRE1mbkpoM2g5c3h6QUktQy10Z0s1dUVGdzNCbnBtV3JGQnlvN2tmdw?oc=5",
+        "date": "2026-03-16",
+        "title": "Delays on American Legion Bridge due to flooding - FOX 5 DC",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE12NERjRUFJUDRwVlNuaWQxR1ppQ0VaZGtvbm1EeUlLN1d3VDY3cWszdWVMQWowZDRLUllPeUhsbm04djhBQ05tQWpadFRTVUtsN2Z5bUFwWi13eGlQSUh3VHdZY0hTelNnenFadjU1NGZ0ZUF3Z3BKbENB0gF_QVVfeXFMTVZLU05fY1VJcjE3UkFVazM5V0JmNVVVMWhub0M0ai03LXpKQUtoQ2JVcVVpWS1aMENIengzclpiOVpwT1AyYlNaNUUzUXY2d3kzSllZSTIwRE1mbkpoM2g5c3h6QUktQy10Z0s1dUVGdzNCbnBtV3JGQnlvN2tmdw?oc=5\" target=\"_blank\">Delays on American Legion Bridge due to flooding</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FOX 5 DC</font>",
+        "similarity_excluded": "No",
+        "score": 6,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQRUlhTDEyVnJUeEJzWUZJdnMxQ1dmczlOOXhxWk9GNVZacTQyWnpRal9qeV9tVFh0Rk5kcUpXX2dJTUNaaW9mczA3Y1FaejUtQnBXcWNNTlZTOUhON00zNEFqd0VjQ3B5dVgyaHM0NjZFa1NnQmlXMkt1cC1aanhUUC1EYmZnUXRwczVvb3puSFFMMl9raGhUTVJ6OHhROEVaZnQ0SUFvX2U4NGFVMG15Q3pYUGV3OXc?oc=5",
+        "date": "2026-03-16",
+        "title": "Flood watch issued for parts of Vancouver Island as atmospheric river brings heavy rain - CHEK News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQRUlhTDEyVnJUeEJzWUZJdnMxQ1dmczlOOXhxWk9GNVZacTQyWnpRal9qeV9tVFh0Rk5kcUpXX2dJTUNaaW9mczA3Y1FaejUtQnBXcWNNTlZTOUhON00zNEFqd0VjQ3B5dVgyaHM0NjZFa1NnQmlXMkt1cC1aanhUUC1EYmZnUXRwczVvb3puSFFMMl9raGhUTVJ6OHhROEVaZnQ0SUFvX2U4NGFVMG15Q3pYUGV3OXc?oc=5\" target=\"_blank\">Flood watch issued for parts of Vancouver Island as atmospheric river brings heavy rain</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CHEK News</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
     }
 ]
