@@ -10904,7 +10904,7 @@
     "rain_mm": 44.31,
     "soil_moisture": 0.695,
     "raw_dynamic_score": 7.253,
-    "last_updated": "2026-03-16T18:58:00.944470Z",
+    "last_updated": "2026-03-17T01:28:14.347417Z",
     "last_tweeted_at": "2026-03-16T18:58:00.944470Z",
     "tweet_id": "2033619354957299899",
     "resolved": false
@@ -10937,6 +10937,36 @@
     "last_updated": "2026-03-16T21:39:37.394318Z",
     "last_tweeted_at": "2026-03-16T21:39:37.394318Z",
     "tweet_id": "2033659504315842926",
+    "resolved": false
+  },
+  "-15.7569,-49.3344": {
+    "country": "Brazil",
+    "name": "Jaraguá",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": -15.75694,
+    "longitude": -49.33444,
+    "rain_mm": 58.25,
+    "soil_moisture": 0.729,
+    "raw_dynamic_score": 9.713,
+    "last_updated": "2026-03-17T01:28:14.347417Z",
+    "last_tweeted_at": "2026-03-17T01:28:14.347417Z",
+    "tweet_id": "2033717054268670316",
+    "resolved": false
+  },
+  "-16.8099,29.6925": {
+    "country": "Zimbabwe",
+    "name": "Karoi",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": -16.80993,
+    "longitude": 29.69247,
+    "rain_mm": 55.44,
+    "soil_moisture": 0.608,
+    "raw_dynamic_score": 8.639,
+    "last_updated": "2026-03-17T01:28:14.347417Z",
+    "last_tweeted_at": "2026-03-17T01:28:14.347417Z",
+    "tweet_id": "2033717306900070603",
     "resolved": false
   }
 }
