@@ -10980,16 +10980,16 @@
   "17.8590,-93.1538": {
     "country": "Mexico",
     "name": "Reforma",
-    "risk_level": "Medium",
-    "tweeted_level": "Medium",
+    "risk_level": "High",
+    "tweeted_level": "High",
     "latitude": 17.85904,
     "longitude": -93.15381,
-    "rain_mm": 67.81,
-    "soil_moisture": 0.619,
-    "raw_dynamic_score": 10.633,
-    "last_updated": "2026-03-17T07:01:15.429343Z",
-    "last_tweeted_at": "2026-03-17T07:01:15.429343Z",
-    "tweet_id": "2033801110251622868",
+    "rain_mm": 81.69,
+    "soil_moisture": 0.631,
+    "raw_dynamic_score": 12.901,
+    "last_updated": "2026-03-17T09:55:05.244025Z",
+    "last_tweeted_at": "2026-03-17T09:55:05.244025Z",
+    "tweet_id": "2033844846734287251",
     "resolved": false
   },
   "17.7605,-92.5954": {
@@ -11002,7 +11002,7 @@
     "rain_mm": 60.56,
     "soil_moisture": 0.59,
     "raw_dynamic_score": 9.34,
-    "last_updated": "2026-03-17T07:01:15.429343Z",
+    "last_updated": "2026-03-17T09:55:05.244025Z",
     "last_tweeted_at": "2026-03-17T07:01:15.429343Z",
     "tweet_id": "2033801362513793114",
     "resolved": false
@@ -11035,6 +11035,36 @@
     "last_updated": "2026-03-17T07:01:15.429343Z",
     "last_tweeted_at": "2026-03-17T07:01:15.429343Z",
     "tweet_id": "2033801362513793114",
+    "resolved": false
+  },
+  "-2.7933,-57.0700": {
+    "country": "Brazil",
+    "name": "Barreirinha",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": -2.79333,
+    "longitude": -57.07,
+    "rain_mm": 60.5,
+    "soil_moisture": 0.721,
+    "raw_dynamic_score": 10.044,
+    "last_updated": "2026-03-17T09:55:05.244025Z",
+    "last_tweeted_at": "2026-03-17T09:55:05.244025Z",
+    "tweet_id": "2033844594249728118",
+    "resolved": false
+  },
+  "-6.7233,146.9961": {
+    "country": "Papua New Guinea",
+    "name": "Lae",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": -6.72333,
+    "longitude": 146.99611,
+    "rain_mm": 42.75,
+    "soil_moisture": 0.582,
+    "raw_dynamic_score": 6.563,
+    "last_updated": "2026-03-17T09:55:05.244025Z",
+    "last_tweeted_at": "2026-03-17T09:55:05.244025Z",
+    "tweet_id": "2033845099327852634",
     "resolved": false
   }
 }
