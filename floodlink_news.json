@@ -12838,5 +12838,14 @@
         "score": 0,
         "status": "skipped",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-03-18",
+        "status": "posted",
+        "tweet": "By 2030, 2.8 billion people \u2013 over 30% of the global population \u2013 will live in river and coastal floodplains exposed to floods, flash floods, storm surges, and extreme rainfall, up 25% from 2020.",
+        "type": "statistical",
+        "category": "population living in floodplains",
+        "tweet_id": "2034231874600550531"
     }
 ]
