@@ -12847,5 +12847,42 @@
         "type": "statistical",
         "category": "population living in floodplains",
         "tweet_id": "2034231874600550531"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWExoYnd2NU9nUTg2Qy14ZENxNHdreUJ1dkZQSl9WMEowVjl6Z0xzWUZsZHZHNHVXMm44RjI4LVBoZDUwM0pTV1E1UDVrbVo3ZVpESC05Rll6eW1scFhHb3RjeFlXendRYXlQUkRZdjRMYlVGXzE2MkwzbWhFcThpVVlvX21DV0JjeVhpaEdBbDhXUHgxYXZ4VkpWV3hyMHJTakpuNk9EakNndw?oc=5",
+        "date": "2026-03-18",
+        "title": "'Biggest in living memory': Monster cyclone set to hit northern Australia - 1News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWExoYnd2NU9nUTg2Qy14ZENxNHdreUJ1dkZQSl9WMEowVjl6Z0xzWUZsZHZHNHVXMm44RjI4LVBoZDUwM0pTV1E1UDVrbVo3ZVpESC05Rll6eW1scFhHb3RjeFlXendRYXlQUkRZdjRMYlVGXzE2MkwzbWhFcThpVVlvX21DV0JjeVhpaEdBbDhXUHgxYXZ4VkpWV3hyMHJTakpuNk9EakNndw?oc=5\" target=\"_blank\">'Biggest in living memory': Monster cyclone set to hit northern Australia</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">1News</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": null,
+        "tweet_id": "2034271191574466779",
+        "geo": {
+            "country": "Australia",
+            "name": "Northern Australia",
+            "latitude": -15.0,
+            "longitude": 135.0,
+            "confidence": 0.9
+        }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWExoYnd2NU9nUTg2Qy14ZENxNHdreUJ1dkZQSl9WMEowVjl6Z0xzWUZsZHZHNHVXMm44RjI4LVBoZDUwM0pTV1E1UDVrbVo3ZVpESC05Rll6eW1scFhHb3RjeFlXendRYXlQUkRZdjRMYlVGXzE2MkwzbWhFcThpVVlvX21DV0JjeVhpaEdBbDhXUHgxYXZ4VkpWV3hyMHJTakpuNk9EakNndw?oc=5",
+        "date": "2026-03-18",
+        "title": "'Biggest in living memory': Monster cyclone set to hit northern Australia - 1News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWExoYnd2NU9nUTg2Qy14ZENxNHdreUJ1dkZQSl9WMEowVjl6Z0xzWUZsZHZHNHVXMm44RjI4LVBoZDUwM0pTV1E1UDVrbVo3ZVpESC05Rll6eW1scFhHb3RjeFlXendRYXlQUkRZdjRMYlVGXzE2MkwzbWhFcThpVVlvX21DV0JjeVhpaEdBbDhXUHgxYXZ4VkpWV3hyMHJTakpuNk9EakNndw?oc=5\" target=\"_blank\">'Biggest in living memory': Monster cyclone set to hit northern Australia</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">1News</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "posted",
+        "tweet": "\ud83c\udde6\ud83c\uddfa FORECAST Northern Australia: Monster cyclone set to hit, bringing severe flooding and storm surges. Described as biggest in living memory. (1News)",
+        "type": "news",
+        "tweet_id": "2034271191574466779",
+        "geo": {
+            "country": "Australia",
+            "name": "Northern Australia",
+            "latitude": -15.0,
+            "longitude": 135.0,
+            "confidence": 0.9
+        }
     }
 ]
