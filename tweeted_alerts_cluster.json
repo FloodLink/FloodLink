@@ -4284,7 +4284,7 @@
     "rain_mm": 63.62,
     "soil_moisture": 0.718,
     "raw_dynamic_score": 10.55,
-    "last_updated": "2026-03-18T06:59:54.970376Z",
+    "last_updated": "2026-03-18T09:50:52.197259Z",
     "last_tweeted_at": "2026-02-01T21:20:35.585454Z",
     "tweet_id": "2018072049713914265",
     "resolved": false
@@ -10678,6 +10678,36 @@
     "last_updated": "2026-03-18T01:32:34.470084Z",
     "last_tweeted_at": "2026-03-17T21:41:25.194896Z",
     "tweet_id": "2034022352451997772",
+    "resolved": false
+  },
+  "23.9360,91.8544": {
+    "country": "India",
+    "name": "Āmbāsa",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 23.936,
+    "longitude": 91.85436,
+    "rain_mm": 52.69,
+    "soil_moisture": 0.565,
+    "raw_dynamic_score": 8.007,
+    "last_updated": "2026-03-18T09:50:52.197259Z",
+    "last_tweeted_at": "2026-03-18T09:50:52.197259Z",
+    "tweet_id": "2034205923258798429",
+    "resolved": false
+  },
+  "-3.0833,34.1500": {
+    "country": "United Republic of Tanzania",
+    "name": "Kisesa",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": -3.08333,
+    "longitude": 34.15,
+    "rain_mm": 45.88,
+    "soil_moisture": 0.53,
+    "raw_dynamic_score": 6.827,
+    "last_updated": "2026-03-18T09:50:52.197259Z",
+    "last_tweeted_at": "2026-03-18T09:50:52.197259Z",
+    "tweet_id": "2034206175827222919",
     "resolved": false
   }
 }
