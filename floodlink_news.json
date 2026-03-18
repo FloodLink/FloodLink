@@ -1,467 +1,6 @@
 [
     {
         "link": null,
-        "date": "2026-02-16",
-        "status": "posted",
-        "tweet": "By 2050, sea-level rise and intensified storm surges could expose up to 1 billion people in low-elevation coastal zones to chronic flooding\u2014double the 2020 figure of 500 million.",
-        "type": "statistical",
-        "category": "coastal cities at risk from sea-level rise and storm surge",
-        "tweet_id": "2023185987447201851"
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBmNllCS2l4aTVwbEJzUHhMVW5aSVN6NXJUdzl3WWY0ald2dkRyTnFKZ2I0bWwtYl9mME13bmVDMGkyXy14c2JYZmNXTnZhLXZpMk9yeGJPdHRhdw?oc=5",
-        "date": "2026-02-16",
-        "title": "Ice and flood warnings for parts of northern UK as cool weather continues - BBC",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTFBmNllCS2l4aTVwbEJzUHhMVW5aSVN6NXJUdzl3WWY0ald2dkRyTnFKZ2I0bWwtYl9mME13bmVDMGkyXy14c2JYZmNXTnZhLXZpMk9yeGJPdHRhdw?oc=5\" target=\"_blank\">Ice and flood warnings for parts of northern UK as cool weather continues</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
-        "similarity_excluded": "No",
-        "score": 7,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTlY4X1hJa1NYbm5MTzNDT0ZGakRuckdGcXJqTkY4VDQ3TWJsZXozY3Q4VmhtN2RsdFZxSTZ5dHJOMVZXcGFUYzZkVElRdE1hVlR1dFNkc0ZBclkwYndodkJ5bzUyWG9acmV0LTk4anlxMHRmM0swZERrSUJOSmJaVlFmRkJURUlwSE15SlRDRXJvS3RCRXdmU3FjZTY1LW5DWXpHM0FsMXE?oc=5",
-        "date": "2026-02-16",
-        "title": "Major Storm Forecast for Santa Barbara County, February 15-20, 2026 - The Santa Barbara Independent",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTlY4X1hJa1NYbm5MTzNDT0ZGakRuckdGcXJqTkY4VDQ3TWJsZXozY3Q4VmhtN2RsdFZxSTZ5dHJOMVZXcGFUYzZkVElRdE1hVlR1dFNkc0ZBclkwYndodkJ5bzUyWG9acmV0LTk4anlxMHRmM0swZERrSUJOSmJaVlFmRkJURUlwSE15SlRDRXJvS3RCRXdmU3FjZTY1LW5DWXpHM0FsMXE?oc=5\" target=\"_blank\">Major Storm Forecast for Santa Barbara County, February 15-20, 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Santa Barbara Independent</font>",
-        "similarity_excluded": "No",
-        "score": 3,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWi12N3VoTm44bkxzWUw2dkpHOW1HNTJsSTY2WXJ2OXdVX0FLSUNjX3dWQ05CY0s3cGdreFBWUzFEZGhGb0V5ZVMxZnZOZHpjZ3M4M25DUk1selZtbmNiWVN0YXlnR0tRbU9YUUJjUUY1SFFwdi1GSWZWcmRiNHVWamhiLWVMMGotTUI2ZzdZeFJzbGRvaFFCcE1ORUJkTVRkWk5sZDVwNFo5bnctSzJ4eWxXYnk?oc=5",
-        "date": "2026-02-16",
-        "title": "Severe weather triggers landslides, flooding across Greece - news.cgtn.com",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxOWi12N3VoTm44bkxzWUw2dkpHOW1HNTJsSTY2WXJ2OXdVX0FLSUNjX3dWQ05CY0s3cGdreFBWUzFEZGhGb0V5ZVMxZnZOZHpjZ3M4M25DUk1selZtbmNiWVN0YXlnR0tRbU9YUUJjUUY1SFFwdi1GSWZWcmRiNHVWamhiLWVMMGotTUI2ZzdZeFJzbGRvaFFCcE1ORUJkTVRkWk5sZDVwNFo5bnctSzJ4eWxXYnk?oc=5\" target=\"_blank\">Severe weather triggers landslides, flooding across Greece</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">news.cgtn.com</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": null,
-        "date": "2026-02-16",
-        "status": "posted",
-        "tweet": "\ud83c\uddf3\ud83c\uddf1 The Netherlands' flood defense network spans 26,000 km of dikes, levees, and dunes, protecting 9 million residents\u2014over 50% of the population\u2014from sea level rise and river flooding.",
-        "type": "infrastructure",
-        "tweet_id": "2023313962163667235"
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQcVRlb0pqbXhhZlM0M3llaXlQQXA0WHJ2c0VOQ1ZwWFgzWGpYT0JOX0stQ3VmNThvMGhFem1aWG5rQms3a0l4bWhjWml2cVE3NXdNQkRYbUZuNVJmR2M2X09QQm9POWxFQ1c3VFd3MHcteHJ6TUU4Y0FQYjlNQWVoYW5heFdoejNYWkJmWHlzYkx0MHRnQllWOUxFM2dSUU42WVhlcWVDc3ItcmxndHZyM1BkbF9DdkdYWGRqUzVNa3V5VmdTVEhYM0JpOWNwd1lOczlrTThtQzY1UU9RY0c0NUxuaE9jblREbFJn?oc=5",
-        "date": "2026-02-16",
-        "title": "Flood Watch issued for much of Southern California beginning Monday morning - ABC7 Los Angeles",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxQcVRlb0pqbXhhZlM0M3llaXlQQXA0WHJ2c0VOQ1ZwWFgzWGpYT0JOX0stQ3VmNThvMGhFem1aWG5rQms3a0l4bWhjWml2cVE3NXdNQkRYbUZuNVJmR2M2X09QQm9POWxFQ1c3VFd3MHcteHJ6TUU4Y0FQYjlNQWVoYW5heFdoejNYWkJmWHlzYkx0MHRnQllWOUxFM2dSUU42WVhlcWVDc3ItcmxndHZyM1BkbF9DdkdYWGRqUzVNa3V5VmdTVEhYM0JpOWNwd1lOczlrTThtQzY1UU9RY0c0NUxuaE9jblREbFJn?oc=5\" target=\"_blank\">Flood Watch issued for much of Southern California beginning Monday morning</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ABC7 Los Angeles</font>",
-        "similarity_excluded": "No",
-        "score": 8,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOQzlHaHQta3dqTGtjQnVhcEh0THNZWUNFSFlPYVdfU1dtaTFVc3VzU0Q4dnJ0Y1RIVVVwNkU3ekNNWEpRQy1xcllRTGdLbjZmR2VHdXFJaXEyaFRoSmI3R0toNlpHYlQ4M3dHMUVyY3JKdkFmX0xMaTJqcWFtRUQzR2dKajBkU2FVRXRMNFhuM1g?oc=5",
-        "date": "2026-02-16",
-        "title": "Dozens of flood and ice warnings in place across UK - Sky News",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxOQzlHaHQta3dqTGtjQnVhcEh0THNZWUNFSFlPYVdfU1dtaTFVc3VzU0Q4dnJ0Y1RIVVVwNkU3ekNNWEpRQy1xcllRTGdLbjZmR2VHdXFJaXEyaFRoSmI3R0toNlpHYlQ4M3dHMUVyY3JKdkFmX0xMaTJqcWFtRUQzR2dKajBkU2FVRXRMNFhuM1g?oc=5\" target=\"_blank\">Dozens of flood and ice warnings in place across UK</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sky News</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQUlQZkRfTV9ObWQtMXJPczB6a3JQRkQ2ZDVXeldxNTFwdzBsOUJRUHRTbXk3T3d6X3JpZEVvWWNSVl9EaGFaUVV2Y3ZMSXpRODc1SUszcUx5dVNoSnZ3NV9WdTExVVp6N29HODZrb19yWnR2b3h5VzluVXZZeFBSck1FNDF5V3ZHUHFtaDItblM4VTdPeklrTVpxdGFHVnY3NkpaZ000Qllja2c1c0p4Njdn?oc=5",
-        "date": "2026-02-16",
-        "title": "Snow melt raising flood risk in parts of southern Ontario - FlamboroughToday.com",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPQUlQZkRfTV9ObWQtMXJPczB6a3JQRkQ2ZDVXeldxNTFwdzBsOUJRUHRTbXk3T3d6X3JpZEVvWWNSVl9EaGFaUVV2Y3ZMSXpRODc1SUszcUx5dVNoSnZ3NV9WdTExVVp6N29HODZrb19yWnR2b3h5VzluVXZZeFBSck1FNDF5V3ZHUHFtaDItblM4VTdPeklrTVpxdGFHVnY3NkpaZ000Qllja2c1c0p4Njdn?oc=5\" target=\"_blank\">Snow melt raising flood risk in parts of southern Ontario</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FlamboroughToday.com</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOM3VtNy1Gb0VqY0EtVHhYUU9LZ0FsS3JZdkJqeFJYN0RuZFQ0bHFqdXFySFpiYXhZcU94TS1mODRlTHJ2SHU5ekJZX0hUMUJ5X1VvUks3TkZpMDZIODJFRHdVanJqTGJKdEtOYmtDRUpTZmVaRnc2WHR6eU9EY3FGM3BxTHZyS1BXdi02MmtCTnhxa0k?oc=5",
-        "date": "2026-02-16",
-        "title": "Parts of Great Northern Highway cut off after heavy rainfall - Australian Broadcasting Corporation",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxOM3VtNy1Gb0VqY0EtVHhYUU9LZ0FsS3JZdkJqeFJYN0RuZFQ0bHFqdXFySFpiYXhZcU94TS1mODRlTHJ2SHU5ekJZX0hUMUJ5X1VvUks3TkZpMDZIODJFRHdVanJqTGJKdEtOYmtDRUpTZmVaRnc2WHR6eU9EY3FGM3BxTHZyS1BXdi02MmtCTnhxa0k?oc=5\" target=\"_blank\">Parts of Great Northern Highway cut off after heavy rainfall</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Australian Broadcasting Corporation</font>",
-        "similarity_excluded": "No",
-        "score": 6,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUGJQVlE5WkcybGJjMDVHRkVuclV2M29BVEVTMERwYS1HV2FKN0tuLUJjZ2hsMXhHcU5HbzRBV2h4dDZqb0hlQWxqRkNQTEluYWU2cXZLM3FtLWhJVXEweWNUWmpkR3dmZjNYVHh5emUzMVFwTUlPcjQ1aF83dmtDbWFwSzk5NnBCX2JmQk44dURfMUZ4YWgzbzZpeUQ2SVJLSkhsb2pXdml0cXdE?oc=5",
-        "date": "2026-02-16",
-        "title": "Severe flooding hits central Spain as major river overflows after violent storm - Myanmar International TV",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNUGJQVlE5WkcybGJjMDVHRkVuclV2M29BVEVTMERwYS1HV2FKN0tuLUJjZ2hsMXhHcU5HbzRBV2h4dDZqb0hlQWxqRkNQTEluYWU2cXZLM3FtLWhJVXEweWNUWmpkR3dmZjNYVHh5emUzMVFwTUlPcjQ1aF83dmtDbWFwSzk5NnBCX2JmQk44dURfMUZ4YWgzbzZpeUQ2SVJLSkhsb2pXdml0cXdE?oc=5\" target=\"_blank\">Severe flooding hits central Spain as major river overflows after violent storm</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Myanmar International TV</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNUzVCY041WHl0aEp0Z2w5SW9sU2d6QklUd3dlVG5vaVU1X0dMOUswcVY4VEdMVjNXSEdSSXUtRUxsYU9ibE1OVGpJSTVhckRWX2hCVVdZZGw5MW9CdHJ3aWFxOExFaFFObXk2R3dMMzY0WXU1UHo3ZEpTeTFDWjJadEFFY3VDVGRLZlBLMHNrYXRwNGhOMVY0bTVSaklHR3BtUkNKSW5TQQ?oc=5",
-        "date": "2026-02-16",
-        "title": "Residents near MCC decry decade-long civic issues, plan stir - newskarnataka.com",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNUzVCY041WHl0aEp0Z2w5SW9sU2d6QklUd3dlVG5vaVU1X0dMOUswcVY4VEdMVjNXSEdSSXUtRUxsYU9ibE1OVGpJSTVhckRWX2hCVVdZZGw5MW9CdHJ3aWFxOExFaFFObXk2R3dMMzY0WXU1UHo3ZEpTeTFDWjJadEFFY3VDVGRLZlBLMHNrYXRwNGhOMVY0bTVSaklHR3BtUkNKSW5TQQ?oc=5\" target=\"_blank\">Residents near MCC decry decade-long civic issues, plan stir</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">newskarnataka.com</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOXzg2S0kyMjN4ZmpXMFc0Q3JfbERaY1M1bE9SYmYtTnZfSkYtVzh1MkNVdzc1TlJaRW9QLVRNejhDTHVFUVVNemF6enNOaGh6ZEtmS3oxN01uYVlUcmJibVJVb2NtNFFvOWZKMGdMa25TVlRJaDQ2OVluVHFMUDc5OTVkN3JhOFNyMGZnV3V4eU5mU25jMlQ5WFpXN044NmdHMllPejgxeHd0REtHRlBtLUxkbmlBeFVpVnJBODZXcnNqSHJCVThjeHpDTS0?oc=5",
-        "date": "2026-02-16",
-        "title": "Los Angeles County under a flood watch until Monday night triggered by intense rainfall - Pasadena Star News",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxOXzg2S0kyMjN4ZmpXMFc0Q3JfbERaY1M1bE9SYmYtTnZfSkYtVzh1MkNVdzc1TlJaRW9QLVRNejhDTHVFUVVNemF6enNOaGh6ZEtmS3oxN01uYVlUcmJibVJVb2NtNFFvOWZKMGdMa25TVlRJaDQ2OVluVHFMUDc5OTVkN3JhOFNyMGZnV3V4eU5mU25jMlQ5WFpXN044NmdHMllPejgxeHd0REtHRlBtLUxkbmlBeFVpVnJBODZXcnNqSHJCVThjeHpDTS0?oc=5\" target=\"_blank\">Los Angeles County under a flood watch until Monday night triggered by intense rainfall</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Pasadena Star News</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQZXU5UFBNN3I5TFYzdm1zZEY5TV9lMUdKOGl3TkdFb04wZzBVVVdOb05sMmdIYU5yRko5SWVzNm9ucUhrUmlESVMzSjM1N1d3QkRNUEJRMUtYSzdDLXVnUU03MXU3cVdrOTA2aEtHWm5MME9tMjR4c2Jmall0TGs0bXVYZ2w2Y3p3cEN1MW5NSHhob280V1p0OUxXS3VuY2FjTzJDYklVTTEyVVBRTlRwejEtOGNOMWdtSkhrWEN3ME1QWV9vNDFtVExMUlBuRXJY?oc=5",
-        "date": "2026-02-16",
-        "title": "Flood watch issued for 5 Freeway north of LA until Monday night triggered by excessive rain - pressenterprise.com",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxQZXU5UFBNN3I5TFYzdm1zZEY5TV9lMUdKOGl3TkdFb04wZzBVVVdOb05sMmdIYU5yRko5SWVzNm9ucUhrUmlESVMzSjM1N1d3QkRNUEJRMUtYSzdDLXVnUU03MXU3cVdrOTA2aEtHWm5MME9tMjR4c2Jmall0TGs0bXVYZ2w2Y3p3cEN1MW5NSHhob280V1p0OUxXS3VuY2FjTzJDYklVTTEyVVBRTlRwejEtOGNOMWdtSkhrWEN3ME1QWV9vNDFtVExMUlBuRXJY?oc=5\" target=\"_blank\">Flood watch issued for 5 Freeway north of LA until Monday night triggered by excessive rain</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">pressenterprise.com</font>",
-        "similarity_excluded": "No",
-        "score": 8,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUDA5QVpVRkN3c1ZLQi1vbnRpWE1xWVRINTRBSkZ0VDFoeG9EVjAzN25iT1lWRThzTnd6TXdhRHViTnZCM2ktbTB3dUNvSE1tYk5WQmFsWnJ4aHJtYk1kLXB5eHNVTEVDSzJ5ZEo1Z3hrYnIzZHV6ZDNCZTNOOU9VZm56c2E4RWdRXzhrcHI1ZFNSd2VQNDFKanJzcERWV2dDR2N4YlZlZDBVZw?oc=5",
-        "date": "2026-02-16",
-        "title": "Live updates: 2 flood warnings for Nottinghamshire \u2013 and 7 flood alerts - West Bridgford Wire",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUDA5QVpVRkN3c1ZLQi1vbnRpWE1xWVRINTRBSkZ0VDFoeG9EVjAzN25iT1lWRThzTnd6TXdhRHViTnZCM2ktbTB3dUNvSE1tYk5WQmFsWnJ4aHJtYk1kLXB5eHNVTEVDSzJ5ZEo1Z3hrYnIzZHV6ZDNCZTNOOU9VZm56c2E4RWdRXzhrcHI1ZFNSd2VQNDFKanJzcERWV2dDR2N4YlZlZDBVZw?oc=5\" target=\"_blank\">Live updates: 2 flood warnings for Nottinghamshire \u2013 and 7 flood alerts</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">West Bridgford Wire</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxObXE1MVRic1k2UHA1UW1oZ3JKXzlmTEpWRWp0VU1odHZrQ05uajlLenFDSFJRN01GU3JJQWFhdVNpMEVDMXRHb2oxUEJiVDVPNnBnSXJkZU1DdnNXV09xSjJGZE05elgxTWc2cFF4UkJ5RUR1OGdFX1Y2RnVKcGR1dWFLOFdBeDFyLWJDMHlsSzBqN1p5bEY2NzBmZHNwVEhBeWJZWA?oc=5",
-        "date": "2026-02-16",
-        "title": "Record flooding across France as storms fall on saturated ground - RFI",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxObXE1MVRic1k2UHA1UW1oZ3JKXzlmTEpWRWp0VU1odHZrQ05uajlLenFDSFJRN01GU3JJQWFhdVNpMEVDMXRHb2oxUEJiVDVPNnBnSXJkZU1DdnNXV09xSjJGZE05elgxTWc2cFF4UkJ5RUR1OGdFX1Y2RnVKcGR1dWFLOFdBeDFyLWJDMHlsSzBqN1p5bEY2NzBmZHNwVEhBeWJZWA?oc=5\" target=\"_blank\">Record flooding across France as storms fall on saturated ground</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">RFI</font>",
-        "similarity_excluded": "No",
-        "score": 10,
-        "status": "processed",
-        "tweet": null,
-        "tweet_id": "2023359219509166463",
-        "geo": {
-            "country": "France",
-            "name": "France",
-            "latitude": 46.0811,
-            "longitude": 2.2164,
-            "confidence": 1.0
-        }
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZllybTR4dFV5VUtqTFRZUXJvc2NIS3FpSjFIZURGRTVXWHZ1ZWhnU2FUZGVpbkZ5NHhaN2hyNVFGLTQ4NTNBLXlsWURGbzF6SVRpU0hjQTV5UEdEcUtBdFN1aHhmeHFiY2dsWVVFNTctNnVSVHF3QUNBZnpXbzl4NkZyaS1nbW9qakgzeTl6TVVhWEFad3l3d2JoMHpwanM4ZkdqTDRTczZMdU1yMC1ma0xR?oc=5",
-        "date": "2026-02-16",
-        "title": "Red flood alerts continue in south-west - and more heavy rain expected - The Connexion",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNZllybTR4dFV5VUtqTFRZUXJvc2NIS3FpSjFIZURGRTVXWHZ1ZWhnU2FUZGVpbkZ5NHhaN2hyNVFGLTQ4NTNBLXlsWURGbzF6SVRpU0hjQTV5UEdEcUtBdFN1aHhmeHFiY2dsWVVFNTctNnVSVHF3QUNBZnpXbzl4NkZyaS1nbW9qakgzeTl6TVVhWEFad3l3d2JoMHpwanM4ZkdqTDRTczZMdU1yMC1ma0xR?oc=5\" target=\"_blank\">Red flood alerts continue in south-west - and more heavy rain expected</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Connexion</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxObXE1MVRic1k2UHA1UW1oZ3JKXzlmTEpWRWp0VU1odHZrQ05uajlLenFDSFJRN01GU3JJQWFhdVNpMEVDMXRHb2oxUEJiVDVPNnBnSXJkZU1DdnNXV09xSjJGZE05elgxTWc2cFF4UkJ5RUR1OGdFX1Y2RnVKcGR1dWFLOFdBeDFyLWJDMHlsSzBqN1p5bEY2NzBmZHNwVEhBeWJZWA?oc=5",
-        "date": "2026-02-16",
-        "title": "Record flooding across France as storms fall on saturated ground - RFI",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxObXE1MVRic1k2UHA1UW1oZ3JKXzlmTEpWRWp0VU1odHZrQ05uajlLenFDSFJRN01GU3JJQWFhdVNpMEVDMXRHb2oxUEJiVDVPNnBnSXJkZU1DdnNXV09xSjJGZE05elgxTWc2cFF4UkJ5RUR1OGdFX1Y2RnVKcGR1dWFLOFdBeDFyLWJDMHlsSzBqN1p5bEY2NzBmZHNwVEhBeWJZWA?oc=5\" target=\"_blank\">Record flooding across France as storms fall on saturated ground</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">RFI</font>",
-        "similarity_excluded": "No",
-        "score": 10,
-        "status": "posted",
-        "tweet": "\ud83c\uddeb\ud83c\uddf7 POST-EVENT France: Record flooding from storms on saturated ground, affecting multiple regions. (RFI)",
-        "type": "news",
-        "tweet_id": "2023359219509166463",
-        "geo": {
-            "country": "France",
-            "name": "France",
-            "latitude": 46.0811,
-            "longitude": 2.2164,
-            "confidence": 1.0
-        }
-    },
-    {
-        "link": null,
-        "date": "2026-02-16",
-        "status": "posted",
-        "tweet": "Global flood early warning coverage (2026): 55% of at-risk population protected from floods, flash floods, surges, extreme rain\u2014up from 45% in 2020.\n\n1. \ud83c\uddef\ud83c\uddf5 Japan: 100%\n2. \ud83c\uddf3\ud83c\uddf1 Netherlands: 98%\n3. \ud83c\uddfa\ud83c\uddf8 USA: 92%\n4. \ud83c\udde9\ud83c\uddea Germany: 88%\n5. \ud83c\uddf0\ud83c\uddf7 South Korea: 85%",
-        "type": "statistical",
-        "category": "coverage of flood early warning systems worldwide",
-        "tweet_id": "2023373972797026684"
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQbE9oQ0Q1TmJPZmhObmVmS013d1pMV1lzek9NelhpU3B4bmYxRkplZFJ5QVpYV1FYU0gyNFdYVUVqWU91Zkt0MFoweUpfOHNDc2UyN3RsVVlvZW9ZMUR0M3FvaXBXMXY0OXIxOVJqOTV0b0VnUzNMUGROenRaRWxsbi1pdlVYME4wQXk2ZUd5eGNSc284WGfSAZ4BQVVfeXFMTUNhMjY4NndjLTV3MGFlTDZpb29GQVpSN2xWOXZzRjEzQzg3TTNXZjdSdTgxZFFxeVJCcHpjSlRnM011bUtxZmctR25EcWNvQl8tcEE5QWFJVWFyeVVFRURXRkp4Sy1GNzRVaXJGTUREVHJTel9tZXNURUhJOEhKZDV2V0hMU2JUOFlDc3ItUHJYSlpVYjlTQTFONm1uZFE?oc=5",
-        "date": "2026-02-16",
-        "title": "Cold storm brings rain and threat of flooding. See the rainfall timeline - NBC Los Angeles",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxQbE9oQ0Q1TmJPZmhObmVmS013d1pMV1lzek9NelhpU3B4bmYxRkplZFJ5QVpYV1FYU0gyNFdYVUVqWU91Zkt0MFoweUpfOHNDc2UyN3RsVVlvZW9ZMUR0M3FvaXBXMXY0OXIxOVJqOTV0b0VnUzNMUGROenRaRWxsbi1pdlVYME4wQXk2ZUd5eGNSc284WGfSAZ4BQVVfeXFMTUNhMjY4NndjLTV3MGFlTDZpb29GQVpSN2xWOXZzRjEzQzg3TTNXZjdSdTgxZFFxeVJCcHpjSlRnM011bUtxZmctR25EcWNvQl8tcEE5QWFJVWFyeVVFRURXRkp4Sy1GNzRVaXJGTUREVHJTel9tZXNURUhJOEhKZDV2V0hMU2JUOFlDc3ItUHJYSlpVYjlTQTFONm1uZFE?oc=5\" target=\"_blank\">Cold storm brings rain and threat of flooding. See the rainfall timeline</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NBC Los Angeles</font>",
-        "similarity_excluded": "No",
-        "score": 7,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQXy1UUDNMQWRIVkVfSzJEV2phcUlHdy1OZnJVcHI0bkotY3NRTVFPNy1rVFVOTVFRSHdYQy1CMmpsazRWYmJVenhTeVJSaVdfM1FPRERsM2N5VGhOenJUWllCNldHaGRKX2FFdXloVnpOOTllUnFLRlZYcG9ZZ194MVp0TTJvcmZRdTMtUEw3dG5uSFBncVZGR0N2Uk5wSzE5bWlFZmdWRHYxbm5zSkY3S3RWMGppU3RqUEhnNnY1VDFYcGFIMUo3UVVPMXV2QQ?oc=5",
-        "date": "2026-02-16",
-        "title": "Flood watch issued for 5 Freeway north of LA until Monday night triggered by excessive rain - Daily Bulletin",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxQXy1UUDNMQWRIVkVfSzJEV2phcUlHdy1OZnJVcHI0bkotY3NRTVFPNy1rVFVOTVFRSHdYQy1CMmpsazRWYmJVenhTeVJSaVdfM1FPRERsM2N5VGhOenJUWllCNldHaGRKX2FFdXloVnpOOTllUnFLRlZYcG9ZZ194MVp0TTJvcmZRdTMtUEw3dG5uSFBncVZGR0N2Uk5wSzE5bWlFZmdWRHYxbm5zSkY3S3RWMGppU3RqUEhnNnY1VDFYcGFIMUo3UVVPMXV2QQ?oc=5\" target=\"_blank\">Flood watch issued for 5 Freeway north of LA until Monday night triggered by excessive rain</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Daily Bulletin</font>",
-        "similarity_excluded": "No",
-        "score": 8,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOM2psQ3JrRkIzRGE2LVllWGl2QW8wRUpqY05fQTZlSDJ0ck9ad3dEWUFHamRxZ3MtSlZGemtUbjFoVmlIREdTVkhWSUwzSEU4MDFnTzRzZk9LTHNNdEFtaWhUQU5CVUpLLWRidThKblZwRzRZbjZDaTJianNmM0RlcVBZbUJHelZTMXJsSm9uMzFoUnd0WnZESW1Kd0FjSlllZ3pEbEFGYU1lWG1oUDJ4MUpjR3JaZEhrUFBkdGdXN1cteDlVaUNCclpn0gHPAUFVX3lxTE81c010OUZzYV9uZzBzV081VFg4UGxpSWJNMXUzZUlhSkhPc1phREpENDkwNzk3NTc0U0FxR2wzTWlQcnhXWlZJSzVKYV9YQzAzcEJWeEd1VmdfOC1XR19tTXJCNVFtcE81MXlLdFI0VHFQNGwxT2JHTjA0SnM3OXBEZ0NPZUd2RlBVNW5pNDZYVVB6NXdRb19HNVQ4bHBaWEZfSi1xWWMtRVF5OGJTdVA3MmN1c1E2bjZWRnd5THdhQTFCeFJjUDhVcUxLNEN3OA?oc=5",
-        "date": "2026-02-16",
-        "title": "Live updates: California slammed by 'dangerous' storm, 8 feet of snow and life-threatening floods - FOX Weather",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxOM2psQ3JrRkIzRGE2LVllWGl2QW8wRUpqY05fQTZlSDJ0ck9ad3dEWUFHamRxZ3MtSlZGemtUbjFoVmlIREdTVkhWSUwzSEU4MDFnTzRzZk9LTHNNdEFtaWhUQU5CVUpLLWRidThKblZwRzRZbjZDaTJianNmM0RlcVBZbUJHelZTMXJsSm9uMzFoUnd0WnZESW1Kd0FjSlllZ3pEbEFGYU1lWG1oUDJ4MUpjR3JaZEhrUFBkdGdXN1cteDlVaUNCclpn0gHPAUFVX3lxTE81c010OUZzYV9uZzBzV081VFg4UGxpSWJNMXUzZUlhSkhPc1phREpENDkwNzk3NTc0U0FxR2wzTWlQcnhXWlZJSzVKYV9YQzAzcEJWeEd1VmdfOC1XR19tTXJCNVFtcE81MXlLdFI0VHFQNGwxT2JHTjA0SnM3OXBEZ0NPZUd2RlBVNW5pNDZYVVB6NXdRb19HNVQ4bHBaWEZfSi1xWWMtRVF5OGJTdVA3MmN1c1E2bjZWRnd5THdhQTFCeFJjUDhVcUxLNEN3OA?oc=5\" target=\"_blank\">Live updates: California slammed by 'dangerous' storm, 8 feet of snow and life-threatening floods</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FOX Weather</font>",
-        "similarity_excluded": "No",
-        "score": 9,
-        "status": "processed",
-        "tweet": null,
-        "tweet_id": "2023463542322852212",
-        "geo": {
-            "country": "United States",
-            "name": "California",
-            "latitude": 36.7783,
-            "longitude": -119.4179,
-            "confidence": 1.0
-        }
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNcG83dkxidmtsV3ZxNXhNZTNPZGZTaThHd3BGbFhqTnd3NmlETHhydms1OTl1ZmN0Mkl5Wks4ejczWmVHNmhncVJhWmtMR1R0OE5GUkdkX1hsc0dpV1RPX29RNkpMTDRLUkh0VDdnUTZSandRckhrRjR2SWJyVm5RWEpPZTExcDVGX1ZZY0VBOGNJU0lPTXZFNHZzTHgyR3YycXRTYTNHN2ZHQ1pH?oc=5",
-        "date": "2026-02-16",
-        "title": "New flood warning for seven counties amid more heavy rain - The Independent",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNcG83dkxidmtsV3ZxNXhNZTNPZGZTaThHd3BGbFhqTnd3NmlETHhydms1OTl1ZmN0Mkl5Wks4ejczWmVHNmhncVJhWmtMR1R0OE5GUkdkX1hsc0dpV1RPX29RNkpMTDRLUkh0VDdnUTZSandRckhrRjR2SWJyVm5RWEpPZTExcDVGX1ZZY0VBOGNJU0lPTXZFNHZzTHgyR3YycXRTYTNHN2ZHQ1pH?oc=5\" target=\"_blank\">New flood warning for seven counties amid more heavy rain</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Independent</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE90QlpTZXdfZGt5T1lhd1JtMGZVZUVWaXZvV3VDXzhERWx3eFB2dTdlMlpZaWdVOUgybU92QUlsNzc5RG95NEtXYnhSOWNOSFMzLVF1Y3ZYY3pQWDN5ZnBXcmJfQzRvNGduRnNaeTA0a3JldTQ?oc=5",
-        "date": "2026-02-16",
-        "title": "Snow melt raising flood risk in parts of southern Ontario - Global News",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE90QlpTZXdfZGt5T1lhd1JtMGZVZUVWaXZvV3VDXzhERWx3eFB2dTdlMlpZaWdVOUgybU92QUlsNzc5RG95NEtXYnhSOWNOSFMzLVF1Y3ZYY3pQWDN5ZnBXcmJfQzRvNGduRnNaeTA0a3JldTQ?oc=5\" target=\"_blank\">Snow melt raising flood risk in parts of southern Ontario</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Global News</font>",
-        "similarity_excluded": "No",
-        "score": 8,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPamVZcUF6RTJJenA4ZzJNRmFSdWV1dW80bVlVeDItbTB6ZzlQRXlXZlVfTE5TeFI2aUVWUXVsSnFRblkyVjNicjdXMUhxT0F1UHVzQWVSSjV0cEZXMnU5TGdrSC0yeldyVFFMX0dKVVViZk14UDZ4ZHFjWjdnbmZyMVFGeUFXM29TME9PMUUzWVljWlN1RE1LMG1aSG1ZMHlaZjRSY09xaGhxMHpDQnZtU3k4QUhKZw?oc=5",
-        "date": "2026-02-16",
-        "title": "Weather tracker: New Zealand hit by storms and widespread floods - The Guardian",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPamVZcUF6RTJJenA4ZzJNRmFSdWV1dW80bVlVeDItbTB6ZzlQRXlXZlVfTE5TeFI2aUVWUXVsSnFRblkyVjNicjdXMUhxT0F1UHVzQWVSSjV0cEZXMnU5TGdrSC0yeldyVFFMX0dKVVViZk14UDZ4ZHFjWjdnbmZyMVFGeUFXM29TME9PMUUzWVljWlN1RE1LMG1aSG1ZMHlaZjRSY09xaGhxMHpDQnZtU3k4QUhKZw?oc=5\" target=\"_blank\">Weather tracker: New Zealand hit by storms and widespread floods</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRzhBeDZqX0RCRnAtTFJBM1dtWjF6elRYa25vR0VFcVJaWGptUmJBdVNGSVpvNGEwYy00Q01DMl9xZXFRbmh0bTJUbE5DVER4MmVZTTV3Z3F1NlRSeGxBbllrUmNKdGE3Y2RHOW9HbDZkRjVIb1RUWFpxdHBWUzhKMGRPLUFSUm1aMDRGb25sV1lQMXpDVGxycUtZVW41WHBjMnFQQ3g0NVRTVUVOb3Vv?oc=5",
-        "date": "2026-02-16",
-        "title": "Central Tapanuli Hit by Flash Floods and Landslides Again After November Disaster - Jakarta Globe",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPRzhBeDZqX0RCRnAtTFJBM1dtWjF6elRYa25vR0VFcVJaWGptUmJBdVNGSVpvNGEwYy00Q01DMl9xZXFRbmh0bTJUbE5DVER4MmVZTTV3Z3F1NlRSeGxBbllrUmNKdGE3Y2RHOW9HbDZkRjVIb1RUWFpxdHBWUzhKMGRPLUFSUm1aMDRGb25sV1lQMXpDVGxycUtZVW41WHBjMnFQQ3g0NVRTVUVOb3Vv?oc=5\" target=\"_blank\">Central Tapanuli Hit by Flash Floods and Landslides Again After November Disaster</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Jakarta Globe</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRHVXdkNMRi1WZkJGYk40dGJrSW1KTnVsRVppRkFxQVc4NEl4eTJaeURfWElzenZYaGJTX3N2WXB0anRBa3Nfa3VlSWtoNzZ1dHZzZ1l2bWxHMU9FeUswQ2p4eXFzMHZzVjViaUtZMXRFZDNVb1hWNUQzZnplV2ZBLVJWMmdrQ2NxU0FmdDF6RThJTU41bUstS9IBlwFBVV95cUxNTlJHYnN0ZU5aaE9Mb2xuNFdjSUMtVFRLTVBXaTRNaGQydTVqNFFZMlF3R0stbjJLbG9pc3hsOEJwRy1taGZodndyV0g2bVA4Z3F2WnFhalRxaGROdHdUQm10c0lwaU1ZX3FrTGJJdVVjMUZxYVliMnE3T09TNGFWWm5nQ0J4d05RdlpBMnRFSEJ6VWxGZnVZ?oc=5",
-        "date": "2026-02-16",
-        "title": "Record flooding across France as storms fall on saturated ground - Modern Ghana",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPRHVXdkNMRi1WZkJGYk40dGJrSW1KTnVsRVppRkFxQVc4NEl4eTJaeURfWElzenZYaGJTX3N2WXB0anRBa3Nfa3VlSWtoNzZ1dHZzZ1l2bWxHMU9FeUswQ2p4eXFzMHZzVjViaUtZMXRFZDNVb1hWNUQzZnplV2ZBLVJWMmdrQ2NxU0FmdDF6RThJTU41bUstS9IBlwFBVV95cUxNTlJHYnN0ZU5aaE9Mb2xuNFdjSUMtVFRLTVBXaTRNaGQydTVqNFFZMlF3R0stbjJLbG9pc3hsOEJwRy1taGZodndyV0g2bVA4Z3F2WnFhalRxaGROdHdUQm10c0lwaU1ZX3FrTGJJdVVjMUZxYVliMnE3T09TNGFWWm5nQ0J4d05RdlpBMnRFSEJ6VWxGZnVZ?oc=5\" target=\"_blank\">Record flooding across France as storms fall on saturated ground</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Modern Ghana</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOM2psQ3JrRkIzRGE2LVllWGl2QW8wRUpqY05fQTZlSDJ0ck9ad3dEWUFHamRxZ3MtSlZGemtUbjFoVmlIREdTVkhWSUwzSEU4MDFnTzRzZk9LTHNNdEFtaWhUQU5CVUpLLWRidThKblZwRzRZbjZDaTJianNmM0RlcVBZbUJHelZTMXJsSm9uMzFoUnd0WnZESW1Kd0FjSlllZ3pEbEFGYU1lWG1oUDJ4MUpjR3JaZEhrUFBkdGdXN1cteDlVaUNCclpn0gHPAUFVX3lxTE81c010OUZzYV9uZzBzV081VFg4UGxpSWJNMXUzZUlhSkhPc1phREpENDkwNzk3NTc0U0FxR2wzTWlQcnhXWlZJSzVKYV9YQzAzcEJWeEd1VmdfOC1XR19tTXJCNVFtcE81MXlLdFI0VHFQNGwxT2JHTjA0SnM3OXBEZ0NPZUd2RlBVNW5pNDZYVVB6NXdRb19HNVQ4bHBaWEZfSi1xWWMtRVF5OGJTdVA3MmN1c1E2bjZWRnd5THdhQTFCeFJjUDhVcUxLNEN3OA?oc=5",
-        "date": "2026-02-16",
-        "title": "Live updates: California slammed by 'dangerous' storm, 8 feet of snow and life-threatening floods - FOX Weather",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxOM2psQ3JrRkIzRGE2LVllWGl2QW8wRUpqY05fQTZlSDJ0ck9ad3dEWUFHamRxZ3MtSlZGemtUbjFoVmlIREdTVkhWSUwzSEU4MDFnTzRzZk9LTHNNdEFtaWhUQU5CVUpLLWRidThKblZwRzRZbjZDaTJianNmM0RlcVBZbUJHelZTMXJsSm9uMzFoUnd0WnZESW1Kd0FjSlllZ3pEbEFGYU1lWG1oUDJ4MUpjR3JaZEhrUFBkdGdXN1cteDlVaUNCclpn0gHPAUFVX3lxTE81c010OUZzYV9uZzBzV081VFg4UGxpSWJNMXUzZUlhSkhPc1phREpENDkwNzk3NTc0U0FxR2wzTWlQcnhXWlZJSzVKYV9YQzAzcEJWeEd1VmdfOC1XR19tTXJCNVFtcE81MXlLdFI0VHFQNGwxT2JHTjA0SnM3OXBEZ0NPZUd2RlBVNW5pNDZYVVB6NXdRb19HNVQ4bHBaWEZfSi1xWWMtRVF5OGJTdVA3MmN1c1E2bjZWRnd5THdhQTFCeFJjUDhVcUxLNEN3OA?oc=5\" target=\"_blank\">Live updates: California slammed by 'dangerous' storm, 8 feet of snow and life-threatening floods</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FOX Weather</font>",
-        "similarity_excluded": "No",
-        "score": 9,
-        "status": "posted",
-        "tweet": "\ud83c\uddfa\ud83c\uddf8 FORECAST California: Dangerous storm causing life-threatening floods and up to 8 feet of snow. (FOX Weather)",
-        "type": "news",
-        "tweet_id": "2023463542322852212",
-        "geo": {
-            "country": "United States",
-            "name": "California",
-            "latitude": 36.7783,
-            "longitude": -119.4179,
-            "confidence": 1.0
-        }
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1ib1owejNGWk0ydmdqRlFrXzBCV215NDZrUGhuZTdrZXBxc0VXcUVVUjJJMmpPNGx4dE8tckNrd0tnMzl4Ty1WTXZGbGZQNk1YRzhaYUxaNHR1R3M0UXp0aVQ2bUwtd3l5X0c0d1hZOA?oc=5",
-        "date": "2026-02-16",
-        "title": "Flash flood warning for Los Angeles until Monday afternoon caused by substantial rain - Sacramento Bee",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE1ib1owejNGWk0ydmdqRlFrXzBCV215NDZrUGhuZTdrZXBxc0VXcUVVUjJJMmpPNGx4dE8tckNrd0tnMzl4Ty1WTXZGbGZQNk1YRzhaYUxaNHR1R3M0UXp0aVQ2bUwtd3l5X0c0d1hZOA?oc=5\" target=\"_blank\">Flash flood warning for Los Angeles until Monday afternoon caused by substantial rain</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sacramento Bee</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQSThhazlIbEJmeVZ2MEZScGstaDd1M3Q5MWtKRUFQNzRVelR2Y0ZaYWZ3ZGU4U1dUbEJjeFdUVGVFZk1ZNHNpSXJTVW4xYk0xRGJvZHVXWlk1Rnh1VjN0X3VmaDV5OWZzdDIyNnQzY2Rtd2NQZkVyWTctOTgyX0dDQUtNVWprLUJlNEJJdzdsQ0dwVklFZWc0ZVU0aENkUGRMNjJYVlhyT1JQVHFKdmlIWjhqVmlkM0dYMUszenlOTVRzdDNLUVBOY2gxZXRMMWxtWGNYTXQ3Rlg2QlZrbmFJaEdGa0htZw?oc=5",
-        "date": "2026-02-16",
-        "title": "\u26a0\ufe0fVERY HAZARDOUS weather conditions for Los Angeles County from 11 AM to 2 PM today\u26a0\ufe0f We are closely monitoring potential for: - Flash flooding over roads - Debris flow for recent burn scars (Palisades and Eaton) - Damaging winds (including weak t - facebook.com",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxQSThhazlIbEJmeVZ2MEZScGstaDd1M3Q5MWtKRUFQNzRVelR2Y0ZaYWZ3ZGU4U1dUbEJjeFdUVGVFZk1ZNHNpSXJTVW4xYk0xRGJvZHVXWlk1Rnh1VjN0X3VmaDV5OWZzdDIyNnQzY2Rtd2NQZkVyWTctOTgyX0dDQUtNVWprLUJlNEJJdzdsQ0dwVklFZWc0ZVU0aENkUGRMNjJYVlhyT1JQVHFKdmlIWjhqVmlkM0dYMUszenlOTVRzdDNLUVBOY2gxZXRMMWxtWGNYTXQ3Rlg2QlZrbmFJaEdGa0htZw?oc=5\" target=\"_blank\">\u26a0\ufe0fVERY HAZARDOUS weather conditions for Los Angeles County from 11 AM to 2 PM today\u26a0\ufe0f We are closely monitoring potential for: - Flash flooding over roads - Debris flow for recent burn scars (Palisades and Eaton) - Damaging winds (including weak t</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">facebook.com</font>",
-        "similarity_excluded": "No",
-        "score": 8,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQM05QQS1tdVBxSFhuSDQ0amZwZ1RrYUI4OGdHMGdEaUZZdGZnZWY3d2dEd01ZaVRHNzNLZmRUVkxnVFcwSlNoQlpoQVN4dXVma1FxNTJTbVhjdEdQM05NaWk0Y3paaWZ5dDFxT2JqY1ZOSUdMdk8yM1k5VElqc0htMENZblRjdmVVMnlqRmx4Um14WVk4UmM0NTA2em1WYTdLS2llb2xOZkVIekhkWVlUb1FUZlFES0RFMTZ1YU5rNkwxbTJqWnlMbGw1YWZQQ3UyUDcwR0xlUEF5blZ4dkc4czVkc2RtSnMwbXhsWlFB0gHzAUFVX3lxTE9WYnhZb2licFR6U3BJcm51UEJ2WkdNaVNqb29Xb1VMdUxidW15eDhZT3dheFdoV0xjSFRscmpyYk1SU2VpamRRbHQ4V1ktVS02TTU2ZVhQVTRNN2J3WjFsTlY2a0Uwdjk2WVBnUmZwR1c2cXQ2VWRCUXplTWJFdGhlRlNqeWhHRF83SHFha1N3QXMteUlFVTk1OHJBVTZvWnZCR2w4OXBkM0NyQlUzc25CRW82NS1ZVGM2VFZCZ19xMXRPbHRwZ2ZKb1Z4MW9CZWQwVkpLTHlpWDkyUmVVU1p0eXJEZldyZWR6Qk5KWE1vMnlfYw?oc=5",
-        "date": "2026-02-16",
-        "title": "Los Angeles Flash Flood Warning Map: Santa Monica, West Hollywood, and Beverly Hills Under Alert - Times Now",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7gFBVV95cUxQM05QQS1tdVBxSFhuSDQ0amZwZ1RrYUI4OGdHMGdEaUZZdGZnZWY3d2dEd01ZaVRHNzNLZmRUVkxnVFcwSlNoQlpoQVN4dXVma1FxNTJTbVhjdEdQM05NaWk0Y3paaWZ5dDFxT2JqY1ZOSUdMdk8yM1k5VElqc0htMENZblRjdmVVMnlqRmx4Um14WVk4UmM0NTA2em1WYTdLS2llb2xOZkVIekhkWVlUb1FUZlFES0RFMTZ1YU5rNkwxbTJqWnlMbGw1YWZQQ3UyUDcwR0xlUEF5blZ4dkc4czVkc2RtSnMwbXhsWlFB0gHzAUFVX3lxTE9WYnhZb2licFR6U3BJcm51UEJ2WkdNaVNqb29Xb1VMdUxidW15eDhZT3dheFdoV0xjSFRscmpyYk1SU2VpamRRbHQ4V1ktVS02TTU2ZVhQVTRNN2J3WjFsTlY2a0Uwdjk2WVBnUmZwR1c2cXQ2VWRCUXplTWJFdGhlRlNqeWhHRF83SHFha1N3QXMteUlFVTk1OHJBVTZvWnZCR2w4OXBkM0NyQlUzc25CRW82NS1ZVGM2VFZCZ19xMXRPbHRwZ2ZKb1Z4MW9CZWQwVkpLTHlpWDkyUmVVU1p0eXJEZldyZWR6Qk5KWE1vMnlfYw?oc=5\" target=\"_blank\">Los Angeles Flash Flood Warning Map: Santa Monica, West Hollywood, and Beverly Hills Under Alert</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Times Now</font>",
-        "similarity_excluded": "No",
-        "score": 9,
-        "status": "processed",
-        "tweet": null,
-        "tweet_id": "2023488749733028270",
-        "geo": {
-            "country": "United States",
-            "name": "Los Angeles",
-            "latitude": 34.0522,
-            "longitude": -118.2437,
-            "confidence": 1.0
-        }
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOa2pRRThJc1JDZGdGWUdQbWJ3enVRRFI4M3lUS1hyVl80anR0Q1QyNTBta29SVmxmekJuVmljcW1lZ0RRUzF0cnJkWTlTanMzSHZYc2ZlV2xOWEZZMG9lcDlabi00ZlVLSFpqVHRwZmFZNTFsY3JOZHRMeWE0eWJCa21WeHh4cjJlU1UzU1B2aUhnQ3RQWEhZVktlY0pYdw?oc=5",
-        "date": "2026-02-16",
-        "title": "11 million under flood watch as storms bring heavy rain and snow to California - NBC News",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOa2pRRThJc1JDZGdGWUdQbWJ3enVRRFI4M3lUS1hyVl80anR0Q1QyNTBta29SVmxmekJuVmljcW1lZ0RRUzF0cnJkWTlTanMzSHZYc2ZlV2xOWEZZMG9lcDlabi00ZlVLSFpqVHRwZmFZNTFsY3JOZHRMeWE0eWJCa21WeHh4cjJlU1UzU1B2aUhnQ3RQWEhZVktlY0pYdw?oc=5\" target=\"_blank\">11 million under flood watch as storms bring heavy rain and snow to California</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NBC News</font>",
-        "similarity_excluded": "No",
-        "score": 9,
-        "status": "processed",
-        "tweet": null,
-        "tweet_id": "2023489283877666920",
-        "geo": {
-            "country": "United States",
-            "name": "California",
-            "latitude": 37.0,
-            "longitude": -119.5,
-            "confidence": 1.0
-        }
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcFJmek8xc0JrdDN1NlFyUXpYOC1zbFJoSGNOd0p3VGdBNG5rU2M3b1hCRkZPUlFmZXJDcDdCTERVQlhEYjlMbkV1dHk1WFBSYnN3aVk2RjJhcTBHMEdsNjhabmhNcTNaTUp6N2x6aThYMnZHWW1nZVBlRnNUc2JwZ3pXcDBlX1RKcmd4MHVB?oc=5",
-        "date": "2026-02-16",
-        "title": "Severe Weather Awareness Week: Flood safety in Tennessee - WSMV",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOcFJmek8xc0JrdDN1NlFyUXpYOC1zbFJoSGNOd0p3VGdBNG5rU2M3b1hCRkZPUlFmZXJDcDdCTERVQlhEYjlMbkV1dHk1WFBSYnN3aVk2RjJhcTBHMEdsNjhabmhNcTNaTUp6N2x6aThYMnZHWW1nZVBlRnNUc2JwZ3pXcDBlX1RKcmd4MHVB?oc=5\" target=\"_blank\">Severe Weather Awareness Week: Flood safety in Tennessee</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSMV</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUW4xSjNQTnVOcnp2QnNuSjY2ZEVBUXlaM3Q5clRnZDB5dW9JUzJGb2pfUGFEaVhJS2hPckhUakNtNDMxTkNXekh4aWk0OV8xWE1RaGZ1YjdfX1prVHhRMFlud1RqRDhZd0gzSmc3aW9uMm9PNl85LXlkN1JUTDVfOQ?oc=5",
-        "date": "2026-02-16",
-        "title": "Urgent flash flood warning issued for Los Angeles area - Rolling Out",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxOUW4xSjNQTnVOcnp2QnNuSjY2ZEVBUXlaM3Q5clRnZDB5dW9JUzJGb2pfUGFEaVhJS2hPckhUakNtNDMxTkNXekh4aWk0OV8xWE1RaGZ1YjdfX1prVHhRMFlud1RqRDhZd0gzSmc3aW9uMm9PNl85LXlkN1JUTDVfOQ?oc=5\" target=\"_blank\">Urgent flash flood warning issued for Los Angeles area</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Rolling Out</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPM21BZV9YUVFNb3QzS0syOEY1WDdNbDFaT29EQmhRS0FzNkswTnJrM2FKeWtiOXBSeTVsU1FNRjdBRzJJVlNweWMxaWxTRDVsNThiV0NYUTdVQ0g2QUVOUUNyZzRjeFR1Zk9TUDR5RUpjaFJLM0RHeW8tMUdrSzFUOVNsQVRsdW9CcHJueF9wdHp4UTBlYXFWVDJOR0hEbDBocGduX0haWThScjY3VERMaGNvMmg0SDFNSVBicm9sVGFZUDhaNUhqcjVtV01WUzZBYUhrLVBvRVdzVkR6eEdxOG1ybzRQM1Y2eXFlTWVvQ250UzRqSDE2cFRhV1dxNFhfblNqb1E4TdIBjAJBVV95cUxOTnZ6cG9CZWNxVXM0dS1RdHMwaFI1YmdQdk1hNmNkTWx6YjJ0Rm9mR2F5ajRNQ0kxNU01U3V1d0VLejZiTTNhcDVPTk92YXBfalVBQkF3RW1tWkNOc1FVUGdzaHg5M3BGODZhUG9uOThIRHpJRnlLR2tiUjVUYzZEdjI3eUhjMlRmOS00eU1DWU9jOEJNdmxWcDBfU2szc2lJeHkzM0trUU40X01LbmJrNlN2QmxNbmpaZm1DNThEX2xTbXlYM0VINEVzSl85aXBFeU1fMTdhSk15OGVodWNleXN2bW1GbjVYaTBJckdhdkQ5dFF6d1dKNERzVU1NRF80bDBueVNhR2dLRG1f?oc=5",
-        "date": "2026-02-16",
-        "title": "Los Angeles Weather: Severe Thunderstorm & Flash Flood Warning Issued, Evacuation Order Affecting Millions In - Times Now",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwJBVV95cUxPM21BZV9YUVFNb3QzS0syOEY1WDdNbDFaT29EQmhRS0FzNkswTnJrM2FKeWtiOXBSeTVsU1FNRjdBRzJJVlNweWMxaWxTRDVsNThiV0NYUTdVQ0g2QUVOUUNyZzRjeFR1Zk9TUDR5RUpjaFJLM0RHeW8tMUdrSzFUOVNsQVRsdW9CcHJueF9wdHp4UTBlYXFWVDJOR0hEbDBocGduX0haWThScjY3VERMaGNvMmg0SDFNSVBicm9sVGFZUDhaNUhqcjVtV01WUzZBYUhrLVBvRVdzVkR6eEdxOG1ybzRQM1Y2eXFlTWVvQ250UzRqSDE2cFRhV1dxNFhfblNqb1E4TdIBjAJBVV95cUxOTnZ6cG9CZWNxVXM0dS1RdHMwaFI1YmdQdk1hNmNkTWx6YjJ0Rm9mR2F5ajRNQ0kxNU01U3V1d0VLejZiTTNhcDVPTk92YXBfalVBQkF3RW1tWkNOc1FVUGdzaHg5M3BGODZhUG9uOThIRHpJRnlLR2tiUjVUYzZEdjI3eUhjMlRmOS00eU1DWU9jOEJNdmxWcDBfU2szc2lJeHkzM0trUU40X01LbmJrNlN2QmxNbmpaZm1DNThEX2xTbXlYM0VINEVzSl85aXBFeU1fMTdhSk15OGVodWNleXN2bW1GbjVYaTBJckdhdkQ5dFF6d1dKNERzVU1NRF80bDBueVNhR2dLRG1f?oc=5\" target=\"_blank\">Los Angeles Weather: Severe Thunderstorm & Flash Flood Warning Issued, Evacuation Order Affecting Millions In</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Times Now</font>",
-        "similarity_excluded": "No",
-        "score": 10,
-        "status": "processed",
-        "tweet": null,
-        "tweet_id": "2023488222756487636",
-        "geo": {
-            "country": "United States",
-            "name": "Los Angeles",
-            "latitude": 34.0522,
-            "longitude": -118.2437,
-            "confidence": 1.0
-        }
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQ3FyWWE1dHZZc0VvUmhoVnFNelk3Vm5EM21Vb3VJaW9GMmN6cmtZV0xJaGNIdFFuVmRVT0RCdm5BNlgwdjNkQU43NzRZYnlqR3NteUdVWjVOLVFjSHdlWEJjdFZRYnNaV1RVVWdmX212bXVkQWFFaVdJQU9yRWpWRjBjN2tMM1A0TnpxTERuN19YT3Vnb1ZhX2JVeHV1SkE?oc=5",
-        "date": "2026-02-16",
-        "title": "Flash flood warning for Los Angeles as powerful storm hits California - New York Post",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxOQ3FyWWE1dHZZc0VvUmhoVnFNelk3Vm5EM21Vb3VJaW9GMmN6cmtZV0xJaGNIdFFuVmRVT0RCdm5BNlgwdjNkQU43NzRZYnlqR3NteUdVWjVOLVFjSHdlWEJjdFZRYnNaV1RVVWdmX212bXVkQWFFaVdJQU9yRWpWRjBjN2tMM1A0TnpxTERuN19YT3Vnb1ZhX2JVeHV1SkE?oc=5\" target=\"_blank\">Flash flood warning for Los Angeles as powerful storm hits California</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">New York Post</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPM21BZV9YUVFNb3QzS0syOEY1WDdNbDFaT29EQmhRS0FzNkswTnJrM2FKeWtiOXBSeTVsU1FNRjdBRzJJVlNweWMxaWxTRDVsNThiV0NYUTdVQ0g2QUVOUUNyZzRjeFR1Zk9TUDR5RUpjaFJLM0RHeW8tMUdrSzFUOVNsQVRsdW9CcHJueF9wdHp4UTBlYXFWVDJOR0hEbDBocGduX0haWThScjY3VERMaGNvMmg0SDFNSVBicm9sVGFZUDhaNUhqcjVtV01WUzZBYUhrLVBvRVdzVkR6eEdxOG1ybzRQM1Y2eXFlTWVvQ250UzRqSDE2cFRhV1dxNFhfblNqb1E4TdIBjAJBVV95cUxOTnZ6cG9CZWNxVXM0dS1RdHMwaFI1YmdQdk1hNmNkTWx6YjJ0Rm9mR2F5ajRNQ0kxNU01U3V1d0VLejZiTTNhcDVPTk92YXBfalVBQkF3RW1tWkNOc1FVUGdzaHg5M3BGODZhUG9uOThIRHpJRnlLR2tiUjVUYzZEdjI3eUhjMlRmOS00eU1DWU9jOEJNdmxWcDBfU2szc2lJeHkzM0trUU40X01LbmJrNlN2QmxNbmpaZm1DNThEX2xTbXlYM0VINEVzSl85aXBFeU1fMTdhSk15OGVodWNleXN2bW1GbjVYaTBJckdhdkQ5dFF6d1dKNERzVU1NRF80bDBueVNhR2dLRG1f?oc=5",
-        "date": "2026-02-16",
-        "title": "Los Angeles Weather: Severe Thunderstorm & Flash Flood Warning Issued, Evacuation Order Affecting Millions In - Times Now",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwJBVV95cUxPM21BZV9YUVFNb3QzS0syOEY1WDdNbDFaT29EQmhRS0FzNkswTnJrM2FKeWtiOXBSeTVsU1FNRjdBRzJJVlNweWMxaWxTRDVsNThiV0NYUTdVQ0g2QUVOUUNyZzRjeFR1Zk9TUDR5RUpjaFJLM0RHeW8tMUdrSzFUOVNsQVRsdW9CcHJueF9wdHp4UTBlYXFWVDJOR0hEbDBocGduX0haWThScjY3VERMaGNvMmg0SDFNSVBicm9sVGFZUDhaNUhqcjVtV01WUzZBYUhrLVBvRVdzVkR6eEdxOG1ybzRQM1Y2eXFlTWVvQ250UzRqSDE2cFRhV1dxNFhfblNqb1E4TdIBjAJBVV95cUxOTnZ6cG9CZWNxVXM0dS1RdHMwaFI1YmdQdk1hNmNkTWx6YjJ0Rm9mR2F5ajRNQ0kxNU01U3V1d0VLejZiTTNhcDVPTk92YXBfalVBQkF3RW1tWkNOc1FVUGdzaHg5M3BGODZhUG9uOThIRHpJRnlLR2tiUjVUYzZEdjI3eUhjMlRmOS00eU1DWU9jOEJNdmxWcDBfU2szc2lJeHkzM0trUU40X01LbmJrNlN2QmxNbmpaZm1DNThEX2xTbXlYM0VINEVzSl85aXBFeU1fMTdhSk15OGVodWNleXN2bW1GbjVYaTBJckdhdkQ5dFF6d1dKNERzVU1NRF80bDBueVNhR2dLRG1f?oc=5\" target=\"_blank\">Los Angeles Weather: Severe Thunderstorm & Flash Flood Warning Issued, Evacuation Order Affecting Millions In</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Times Now</font>",
-        "similarity_excluded": "No",
-        "score": 10,
-        "status": "posted",
-        "tweet": "\ud83c\uddfa\ud83c\uddf8 FORECAST Los Angeles: Flash flood warning from severe thunderstorm; evacuation order affecting millions. (Times Now)",
-        "type": "news",
-        "tweet_id": "2023488222756487636",
-        "geo": {
-            "country": "United States",
-            "name": "Los Angeles",
-            "latitude": 34.0522,
-            "longitude": -118.2437,
-            "confidence": 1.0
-        }
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQM05QQS1tdVBxSFhuSDQ0amZwZ1RrYUI4OGdHMGdEaUZZdGZnZWY3d2dEd01ZaVRHNzNLZmRUVkxnVFcwSlNoQlpoQVN4dXVma1FxNTJTbVhjdEdQM05NaWk0Y3paaWZ5dDFxT2JqY1ZOSUdMdk8yM1k5VElqc0htMENZblRjdmVVMnlqRmx4Um14WVk4UmM0NTA2em1WYTdLS2llb2xOZkVIekhkWVlUb1FUZlFES0RFMTZ1YU5rNkwxbTJqWnlMbGw1YWZQQ3UyUDcwR0xlUEF5blZ4dkc4czVkc2RtSnMwbXhsWlFB0gHzAUFVX3lxTE9WYnhZb2licFR6U3BJcm51UEJ2WkdNaVNqb29Xb1VMdUxidW15eDhZT3dheFdoV0xjSFRscmpyYk1SU2VpamRRbHQ4V1ktVS02TTU2ZVhQVTRNN2J3WjFsTlY2a0Uwdjk2WVBnUmZwR1c2cXQ2VWRCUXplTWJFdGhlRlNqeWhHRF83SHFha1N3QXMteUlFVTk1OHJBVTZvWnZCR2w4OXBkM0NyQlUzc25CRW82NS1ZVGM2VFZCZ19xMXRPbHRwZ2ZKb1Z4MW9CZWQwVkpLTHlpWDkyUmVVU1p0eXJEZldyZWR6Qk5KWE1vMnlfYw?oc=5",
-        "date": "2026-02-16",
-        "title": "Los Angeles Flash Flood Warning Map: Santa Monica, West Hollywood, and Beverly Hills Under Alert - Times Now",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7gFBVV95cUxQM05QQS1tdVBxSFhuSDQ0amZwZ1RrYUI4OGdHMGdEaUZZdGZnZWY3d2dEd01ZaVRHNzNLZmRUVkxnVFcwSlNoQlpoQVN4dXVma1FxNTJTbVhjdEdQM05NaWk0Y3paaWZ5dDFxT2JqY1ZOSUdMdk8yM1k5VElqc0htMENZblRjdmVVMnlqRmx4Um14WVk4UmM0NTA2em1WYTdLS2llb2xOZkVIekhkWVlUb1FUZlFES0RFMTZ1YU5rNkwxbTJqWnlMbGw1YWZQQ3UyUDcwR0xlUEF5blZ4dkc4czVkc2RtSnMwbXhsWlFB0gHzAUFVX3lxTE9WYnhZb2licFR6U3BJcm51UEJ2WkdNaVNqb29Xb1VMdUxidW15eDhZT3dheFdoV0xjSFRscmpyYk1SU2VpamRRbHQ4V1ktVS02TTU2ZVhQVTRNN2J3WjFsTlY2a0Uwdjk2WVBnUmZwR1c2cXQ2VWRCUXplTWJFdGhlRlNqeWhHRF83SHFha1N3QXMteUlFVTk1OHJBVTZvWnZCR2w4OXBkM0NyQlUzc25CRW82NS1ZVGM2VFZCZ19xMXRPbHRwZ2ZKb1Z4MW9CZWQwVkpLTHlpWDkyUmVVU1p0eXJEZldyZWR6Qk5KWE1vMnlfYw?oc=5\" target=\"_blank\">Los Angeles Flash Flood Warning Map: Santa Monica, West Hollywood, and Beverly Hills Under Alert</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Times Now</font>",
-        "similarity_excluded": "No",
-        "score": 9,
-        "status": "posted",
-        "tweet": "\ud83c\uddfa\ud83c\uddf8 FORECAST Los Angeles: Flash flood warning issued for Santa Monica, West Hollywood, and Beverly Hills, with areas under alert via Times Now.",
-        "type": "news",
-        "tweet_id": "2023488749733028270",
-        "geo": {
-            "country": "United States",
-            "name": "Los Angeles",
-            "latitude": 34.0522,
-            "longitude": -118.2437,
-            "confidence": 1.0
-        }
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOa2pRRThJc1JDZGdGWUdQbWJ3enVRRFI4M3lUS1hyVl80anR0Q1QyNTBta29SVmxmekJuVmljcW1lZ0RRUzF0cnJkWTlTanMzSHZYc2ZlV2xOWEZZMG9lcDlabi00ZlVLSFpqVHRwZmFZNTFsY3JOZHRMeWE0eWJCa21WeHh4cjJlU1UzU1B2aUhnQ3RQWEhZVktlY0pYdw?oc=5",
-        "date": "2026-02-16",
-        "title": "11 million under flood watch as storms bring heavy rain and snow to California - NBC News",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOa2pRRThJc1JDZGdGWUdQbWJ3enVRRFI4M3lUS1hyVl80anR0Q1QyNTBta29SVmxmekJuVmljcW1lZ0RRUzF0cnJkWTlTanMzSHZYc2ZlV2xOWEZZMG9lcDlabi00ZlVLSFpqVHRwZmFZNTFsY3JOZHRMeWE0eWJCa21WeHh4cjJlU1UzU1B2aUhnQ3RQWEhZVktlY0pYdw?oc=5\" target=\"_blank\">11 million under flood watch as storms bring heavy rain and snow to California</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NBC News</font>",
-        "similarity_excluded": "No",
-        "score": 9,
-        "status": "posted",
-        "tweet": "\ud83c\uddfa\ud83c\uddf8 FORECAST California: 11 million under flood watch due to heavy rain from storms.",
-        "type": "news",
-        "tweet_id": "2023489283877666920",
-        "geo": {
-            "country": "United States",
-            "name": "California",
-            "latitude": 37.0,
-            "longitude": -119.5,
-            "confidence": 1.0
-        }
-    },
-    {
-        "link": null,
         "date": "2026-02-17",
         "status": "posted",
         "tweet": "Global flood early warning coverage (2026 proj.): 65% of at-risk pop protected from floods/flash floods/storm surge/extreme rain.\n\n1. \ud83c\uddf3\ud83c\uddf1 Netherlands: 100%\n2. \ud83c\uddef\ud83c\uddf5 Japan: 98%\n3. \ud83c\uddfa\ud83c\uddf8 USA: 92%\n4. \ud83c\udde9\ud83c\uddea Germany: 90%\n5. \ud83c\udde8\ud83c\uddf3 China: 85%",
@@ -13005,5 +12544,212 @@
         "tweet": "\ud83c\uddf3\ud83c\uddf1 By 2026, the Netherlands maintains 26,774 km of dikes and levees, forming a continuous barrier that protects 60% of the country's land from flooding.",
         "type": "infrastructure",
         "tweet_id": "2034046709429399742"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPYWc1Y2RSZnRCRlhKdkNSdm5oaVQ4Sm90WVNRSFRmcmtUWUZkNE9HZDl6TGtySzRJQjJhOW8zZ0t0NXlUOU1sVjE4NDdBdGlrNFZYeU5tcFR1dlZFOWF1ekpjTm9Zd1A2R05pUWI2N1V1VWJUTWxyb3NiSThuOTRmb21NdEROVlB3ZDBN?oc=5",
+        "date": "2026-03-18",
+        "title": "Flash flood destroys Maui couple's dream home - WALB",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxPYWc1Y2RSZnRCRlhKdkNSdm5oaVQ4Sm90WVNRSFRmcmtUWUZkNE9HZDl6TGtySzRJQjJhOW8zZ0t0NXlUOU1sVjE4NDdBdGlrNFZYeU5tcFR1dlZFOWF1ekpjTm9Zd1A2R05pUWI2N1V1VWJUTWxyb3NiSThuOTRmb21NdEROVlB3ZDBN?oc=5\" target=\"_blank\">Flash flood destroys Maui couple's dream home</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WALB</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMHBKX2tnWTdqUTRFcS1ELUxKa2hBTkVBd3l3YTBqUnFnVVVmYTdvX0RwdkdCTmV2OFZVcjZXbElQRHI0amtWdUhnUmNVN0lZdWtXcHVFNDVVY25YbnB2bFl6OUFTUW5YVWJNamlUQm0yWjR2RkplVVN3TTdGRldCS0VFbjVacTdaRl9TTmV2VFZjOFZSMTZRUlc1S1BXMVpqenfSAbYBQVVfeXFMT0M5dnpJTXlXajBBMmZVQU5TZnR1VEtDdUZZeE9GcHc4WGNvOGJaY0pCTFpWM0RGazBqdjFhVlEta05KaWVYUmlkTTRvUldkRzRFYzNGcWJJNTNkcjl2QWpUSFFGMDBjX1dDSzF5T3FrSHh6cEpaUmduRDB5ZnBueXpKbi1BeGVVTGhuclluZ1U2NHdjcGpaY05wOXFVSEx6YUhSd3Axck5Xby1MXzVKcDVneUs5ckE?oc=5",
+        "date": "2026-03-18",
+        "title": "\u2018Mother Nature wins\u2019: Couple\u2019s Maui dream home destroyed by flash flood - KSWO 7News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxOMHBKX2tnWTdqUTRFcS1ELUxKa2hBTkVBd3l3YTBqUnFnVVVmYTdvX0RwdkdCTmV2OFZVcjZXbElQRHI0amtWdUhnUmNVN0lZdWtXcHVFNDVVY25YbnB2bFl6OUFTUW5YVWJNamlUQm0yWjR2RkplVVN3TTdGRldCS0VFbjVacTdaRl9TTmV2VFZjOFZSMTZRUlc1S1BXMVpqenfSAbYBQVVfeXFMT0M5dnpJTXlXajBBMmZVQU5TZnR1VEtDdUZZeE9GcHc4WGNvOGJaY0pCTFpWM0RGazBqdjFhVlEta05KaWVYUmlkTTRvUldkRzRFYzNGcWJJNTNkcjl2QWpUSFFGMDBjX1dDSzF5T3FrSHh6cEpaUmduRDB5ZnBueXpKbi1BeGVVTGhuclluZ1U2NHdjcGpaY05wOXFVSEx6YUhSd3Axck5Xby1MXzVKcDVneUs5ckE?oc=5\" target=\"_blank\">\u2018Mother Nature wins\u2019: Couple\u2019s Maui dream home destroyed by flash flood</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KSWO 7News</font>",
+        "similarity_excluded": "No",
+        "score": 6,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZExhdEZveDVmT3IxSHdWTGxoc1NuMlhHc0Z1cmdVdjlkczR6ZnRYcU44VnhxOUUwZzFrd0ViYTVJMzJLVVVBRDZiUkdSRktlc3pvTzhDSEpDdmxTc01paG9lU01zRGd2cDV5UTA5d3hTVEFQTzVOUS1pQ0ZKV3FSM1dqY2NqOEUwN0c4?oc=5",
+        "date": "2026-03-18",
+        "title": "Flash flood destroys Maui couple's dream home - KALB",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZExhdEZveDVmT3IxSHdWTGxoc1NuMlhHc0Z1cmdVdjlkczR6ZnRYcU44VnhxOUUwZzFrd0ViYTVJMzJLVVVBRDZiUkdSRktlc3pvTzhDSEpDdmxTc01paG9lU01zRGd2cDV5UTA5d3hTVEFQTzVOUS1pQ0ZKV3FSM1dqY2NqOEUwN0c4?oc=5\" target=\"_blank\">Flash flood destroys Maui couple's dream home</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KALB</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPVVpSSUFrWjVSbVZWRjc0cjVPS29XNGpDOV93clJ2YjBCRm12QXNCRVBkQldkQXFPWUhzUk5ZUTdKMm4ySkNndjhoSWl3eUhDZzk1MzRuQnhuRUJpUDF3UmlXalZiUWNHRlpUdERkN3NWcF9IOU9jemZvZHBpZ2hoRWRZY2pyblhjVTE0?oc=5",
+        "date": "2026-03-18",
+        "title": "Flash flood destroys Maui couple's dream home - WSAZ",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxPVVpSSUFrWjVSbVZWRjc0cjVPS29XNGpDOV93clJ2YjBCRm12QXNCRVBkQldkQXFPWUhzUk5ZUTdKMm4ySkNndjhoSWl3eUhDZzk1MzRuQnhuRUJpUDF3UmlXalZiUWNHRlpUdERkN3NWcF9IOU9jemZvZHBpZ2hoRWRZY2pyblhjVTE0?oc=5\" target=\"_blank\">Flash flood destroys Maui couple's dream home</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSAZ</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQY044NXR2bnpPZlNONmNPZ1hvR19ZdENNRzhjelh5N0F3eU1OMDhBWFo0SDM3SGg4Y0Y0bVgtb3FLREV3b21MUG92dGdFX1V2XzE2UWRNQnJrZ2tzX0cwR3A0TE9RVjdhNTF4XzlYYUxOVEE5d1NSRVFLdF82S3d3U2h2OE5tcll0VHF2c2xsRjN6dmc?oc=5",
+        "date": "2026-03-18",
+        "title": "Flash flood destroys Maui couple's dream home - ABC7 WWSB",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQY044NXR2bnpPZlNONmNPZ1hvR19ZdENNRzhjelh5N0F3eU1OMDhBWFo0SDM3SGg4Y0Y0bVgtb3FLREV3b21MUG92dGdFX1V2XzE2UWRNQnJrZ2tzX0cwR3A0TE9RVjdhNTF4XzlYYUxOVEE5d1NSRVFLdF82S3d3U2h2OE5tcll0VHF2c2xsRjN6dmc?oc=5\" target=\"_blank\">Flash flood destroys Maui couple's dream home</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ABC7 WWSB</font>",
+        "similarity_excluded": "No",
+        "score": 6,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQYjRySTBjems2N1R1clFoSHVGMV9xV0pZNFU3QkVxY1VMVm1UUFhHMGgyLVo3TlYxYkRyTWtOaVo1aGNIdGlKdVRUc1FyMVpLSERULS15ODBjbzJJWVdiQUdkc1BiTjlqT0QxaEhWYWZDTHFxS0dqV3o3Zl9Mbmp2MzFhS2RNT2lGWngw?oc=5",
+        "date": "2026-03-18",
+        "title": "Flash flood destroys Maui couple's dream home - WTVY",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxQYjRySTBjems2N1R1clFoSHVGMV9xV0pZNFU3QkVxY1VMVm1UUFhHMGgyLVo3TlYxYkRyTWtOaVo1aGNIdGlKdVRUc1FyMVpLSERULS15ODBjbzJJWVdiQUdkc1BiTjlqT0QxaEhWYWZDTHFxS0dqV3o3Zl9Mbmp2MzFhS2RNT2lGWngw?oc=5\" target=\"_blank\">Flash flood destroys Maui couple's dream home</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WTVY</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOc0U5WW0ta0EwTmhqaXVlNldieEZORjZkYjdrbGJrMG45SEE4SXA2R3FrRE1zanMwbGxORXFFeGZqdjlpdGpwTkgyZVhQdHRMOE1JejJYc2lFTGVHd1BTaVZ1V3F2M2NvdFNHM01nbkt4ZF9LOW1lY3VBb2RNdnpBNWNSVnM2YXdzRG9fNQ?oc=5",
+        "date": "2026-03-18",
+        "title": "Flash flood destroys Maui couple's dream home - KCTV",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxOc0U5WW0ta0EwTmhqaXVlNldieEZORjZkYjdrbGJrMG45SEE4SXA2R3FrRE1zanMwbGxORXFFeGZqdjlpdGpwTkgyZVhQdHRMOE1JejJYc2lFTGVHd1BTaVZ1V3F2M2NvdFNHM01nbkt4ZF9LOW1lY3VBb2RNdnpBNWNSVnM2YXdzRG9fNQ?oc=5\" target=\"_blank\">Flash flood destroys Maui couple's dream home</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KCTV</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNd1czS3plMUNvdXBXX2F6THhtWnhLUkVrQUdSYkNDYk43NXFySHk2M1ktZ0JBNGZPMmVZQ0ZIdjJ3YlBITjNFR0JOVi1ndkRnM1lUZWFPbGJfSEhBYTJiV0N2NVFGUEhNTzlIZGxDMnhfNUFRcTI1QnV6OENGUEhkRFdCUjk3VHZHd1g5Ylh3?oc=5",
+        "date": "2026-03-18",
+        "title": "Flash flood destroys Maui couple's dream home - WFIE | 14 News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNd1czS3plMUNvdXBXX2F6THhtWnhLUkVrQUdSYkNDYk43NXFySHk2M1ktZ0JBNGZPMmVZQ0ZIdjJ3YlBITjNFR0JOVi1ndkRnM1lUZWFPbGJfSEhBYTJiV0N2NVFGUEhNTzlIZGxDMnhfNUFRcTI1QnV6OENGUEhkRFdCUjk3VHZHd1g5Ylh3?oc=5\" target=\"_blank\">Flash flood destroys Maui couple's dream home</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WFIE | 14 News</font>",
+        "similarity_excluded": "No",
+        "score": 6,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUHpJSE1iTXgzNlgyUTFvdk52cGJYQ2JRd0pzN2UwdkVzanVEdC1kZTIwVVRWakN6MUEzeG5DRXNjT3JiQmxwb2E0QnRpUnQ4cUk2cV9nX0NKbndOTHllOTBOcUNoQ1pqRDQ0aUVuaUFLV0tGSU9OcVBtczlZZDJzS0laYUN0Sm8yVUVn?oc=5",
+        "date": "2026-03-18",
+        "title": "Flash flood destroys Maui couple's dream home - WHSV",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUHpJSE1iTXgzNlgyUTFvdk52cGJYQ2JRd0pzN2UwdkVzanVEdC1kZTIwVVRWakN6MUEzeG5DRXNjT3JiQmxwb2E0QnRpUnQ4cUk2cV9nX0NKbndOTHllOTBOcUNoQ1pqRDQ0aUVuaUFLV0tGSU9OcVBtczlZZDJzS0laYUN0Sm8yVUVn?oc=5\" target=\"_blank\">Flash flood destroys Maui couple's dream home</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WHSV</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUGF1UkxVMjFjV1BMSGdRQ1pxcVlER0FQcWhXNnVTTDZEWGpGd1lxcHN5SnhyTlFmRXJPSDRoN2dQTHFkeTE0enplMFpxUzM3S1gxQ3dKVUhQNVJxenpEQlhXTUdEWnFqemlwTUNvY1phRnJzQjBfbGpuMGtiSzc2S0xJSjJJV1B5eWNJ?oc=5",
+        "date": "2026-03-18",
+        "title": "Flash flood destroys Maui couple's dream home - WDTV 5",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUGF1UkxVMjFjV1BMSGdRQ1pxcVlER0FQcWhXNnVTTDZEWGpGd1lxcHN5SnhyTlFmRXJPSDRoN2dQTHFkeTE0enplMFpxUzM3S1gxQ3dKVUhQNVJxenpEQlhXTUdEWnFqemlwTUNvY1phRnJzQjBfbGpuMGtiSzc2S0xJSjJJV1B5eWNJ?oc=5\" target=\"_blank\">Flash flood destroys Maui couple's dream home</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WDTV 5</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNOEs3VHhqVHpNa201M0t1cnBRcXh4VmtOYWIyUWJOQjV5MTdzU0NVLTgtVnAza052M0pMYzFHN2p5Y2QwTHBSR0ctbnp1UG5aMlJvR05pSVpJTVMyMnAwVlVUMllZOGxlQnJrOS1Rc1hhTDRfdjFOR1FTcFdTNmF3eDIwTzNPeElGclBweTZBTnB6ZWE0NFoyT9IBngFBVV95cUxPdVk4eUlLWk5NYjZ3UDNCb1BxUmJxakFWM0VkcENBLU5wYU5GSmsxTnFvbFpFZFlVeFZETDkwYlpYYVc0cGJmb1JjMU4ybTQ3cGtoWlhQNklOTHRUel9FekpBdFFDMjFYR0wtZkZvRTVaYkhYUHJCRDhRaU56WkU5aUwxdHlFOG9ERVl0Tlg1bTY3cGhLLUF3NjBjdjJFUQ?oc=5",
+        "date": "2026-03-18",
+        "title": "Another Kona Low targets Hawaii after getting nearly 50 inches of rainfall and hurricane-force winds - FOX Weather",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNOEs3VHhqVHpNa201M0t1cnBRcXh4VmtOYWIyUWJOQjV5MTdzU0NVLTgtVnAza052M0pMYzFHN2p5Y2QwTHBSR0ctbnp1UG5aMlJvR05pSVpJTVMyMnAwVlVUMllZOGxlQnJrOS1Rc1hhTDRfdjFOR1FTcFdTNmF3eDIwTzNPeElGclBweTZBTnB6ZWE0NFoyT9IBngFBVV95cUxPdVk4eUlLWk5NYjZ3UDNCb1BxUmJxakFWM0VkcENBLU5wYU5GSmsxTnFvbFpFZFlVeFZETDkwYlpYYVc0cGJmb1JjMU4ybTQ3cGtoWlhQNklOTHRUel9FekpBdFFDMjFYR0wtZkZvRTVaYkhYUHJCRDhRaU56WkU5aUwxdHlFOG9ERVl0Tlg1bTY3cGhLLUF3NjBjdjJFUQ?oc=5\" target=\"_blank\">Another Kona Low targets Hawaii after getting nearly 50 inches of rainfall and hurricane-force winds</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FOX Weather</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": null,
+        "tweet_id": "2034072080959083000",
+        "geo": {
+            "country": "United States",
+            "name": "Hawaii",
+            "latitude": 21.3,
+            "longitude": -157.8,
+            "confidence": 1.0
+        }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNS3NlanM4cnowVzJZTFVMNXh3VHNmdWJlYm5vTnhUZkdwT0dDTndXdDBXN0VWbjNld25wNFNNblZvRHpHMnNnbjlBN2ZTQWJDWkV3N0QxendXNE5DcEVBSVlOcnlXXzRFazkwelVfVV9OR1VXWEgwQTNRZzdOQzhNTlp0elpDUlRBUUE?oc=5",
+        "date": "2026-03-18",
+        "title": "Flash flood destroys Maui couple's dream home - KY3",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxNS3NlanM4cnowVzJZTFVMNXh3VHNmdWJlYm5vTnhUZkdwT0dDTndXdDBXN0VWbjNld25wNFNNblZvRHpHMnNnbjlBN2ZTQWJDWkV3N0QxendXNE5DcEVBSVlOcnlXXzRFazkwelVfVV9OR1VXWEgwQTNRZzdOQzhNTlp0elpDUlRBUUE?oc=5\" target=\"_blank\">Flash flood destroys Maui couple's dream home</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KY3</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOOHhucnppZHh4eVlWZ21ZOXAtR21UTlJodU1telQ1Zi1vZ1dqZkk4dG5zb01EcmJpSXZTSTNINnRJbEVZSmhrUVZic2tnbXVzR2Juc2R0U2JqaXYwUkg5ejVFdWRYLWRHZFF3VmRaNWg4a0xZUDdGSXVsbE1ObnMtZlFDTVdUM2ZSZkxZ?oc=5",
+        "date": "2026-03-18",
+        "title": "Flash flood destroys Maui couple's dream home - KTRE",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxOOHhucnppZHh4eVlWZ21ZOXAtR21UTlJodU1telQ1Zi1vZ1dqZkk4dG5zb01EcmJpSXZTSTNINnRJbEVZSmhrUVZic2tnbXVzR2Juc2R0U2JqaXYwUkg5ejVFdWRYLWRHZFF3VmRaNWg4a0xZUDdGSXVsbE1ObnMtZlFDTVdUM2ZSZkxZ?oc=5\" target=\"_blank\">Flash flood destroys Maui couple's dream home</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KTRE</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQNnRnNEg0Z2M2ek9pSllEWjZ2TEZpTF9yVmFrWHU2ME0tMmtJd0JEX0U1bkV6ODlXbVpFRnFqTDRmT3M3bldGYVRkUFBRYlVTU28ySVlHbW9udzFSRmdaeVJMeWNDckh5c0ZkVWo2c3RhVHNMeHlWUW9iaENtNkhqbjZJb2hDWXFwZFE?oc=5",
+        "date": "2026-03-18",
+        "title": "Flash flood destroys Maui couple's dream home - WVLT",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxQNnRnNEg0Z2M2ek9pSllEWjZ2TEZpTF9yVmFrWHU2ME0tMmtJd0JEX0U1bkV6ODlXbVpFRnFqTDRmT3M3bldGYVRkUFBRYlVTU28ySVlHbW9udzFSRmdaeVJMeWNDckh5c0ZkVWo2c3RhVHNMeHlWUW9iaENtNkhqbjZJb2hDWXFwZFE?oc=5\" target=\"_blank\">Flash flood destroys Maui couple's dream home</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WVLT</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxObjFVN2lDWTZlOWN0blFjb2VSeGR0M2hOMTJoR0tkMG1jajVuUnhsam5DQXlOeHNXaUcwWVQxbkhpdnFKTjRoTmtfTVFUSV9nSzk3T1hVaWVjZU5IVFB1NU1TcFR5UU5RS3RUN20wVEt6SG1mekpRR0thQkVtNmpSOHpKakZOUlFYZFZj?oc=5",
+        "date": "2026-03-18",
+        "title": "Flash flood destroys Maui couple's dream home - KSLA",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxObjFVN2lDWTZlOWN0blFjb2VSeGR0M2hOMTJoR0tkMG1jajVuUnhsam5DQXlOeHNXaUcwWVQxbkhpdnFKTjRoTmtfTVFUSV9nSzk3T1hVaWVjZU5IVFB1NU1TcFR5UU5RS3RUN20wVEt6SG1mekpRR0thQkVtNmpSOHpKakZOUlFYZFZj?oc=5\" target=\"_blank\">Flash flood destroys Maui couple's dream home</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KSLA</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQSzB5dVdRZm9iUEcwYjZPLURCTVhrSk96RjFEaTZidnA2LVFRYWVyNjY2ODduSkJoUlVyZmw0LUJJTmdzLW9DeW9Nb2FER3NTWDhKclZKWUdVdDVLQXlfdV93dHVfRTltYVFyNkxJTThvR3I2dnBXTVdKak1MVTNVcUQ3eDd4UGdBR21n?oc=5",
+        "date": "2026-03-18",
+        "title": "Flash flood destroys Maui couple's dream home - WYMT",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxQSzB5dVdRZm9iUEcwYjZPLURCTVhrSk96RjFEaTZidnA2LVFRYWVyNjY2ODduSkJoUlVyZmw0LUJJTmdzLW9DeW9Nb2FER3NTWDhKclZKWUdVdDVLQXlfdV93dHVfRTltYVFyNkxJTThvR3I2dnBXTVdKak1MVTNVcUQ3eDd4UGdBR21n?oc=5\" target=\"_blank\">Flash flood destroys Maui couple's dream home</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WYMT</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZlN1LWNaV2M5UVBndDZ2cldyTVM0VjRINS0xajg0eEdmeElXMThQbldldmIxakJ1NEdLQ3YwX2lSdFNLakRJbk42UEhreUctN1UxSnFfRjd3VE5UQ0hfTWFGNktjZ3E0QzFuTFVsS252MklTWS1TTVpLQ3F2TkFPa1RvX3RGOGZhQWFxa19R?oc=5",
+        "date": "2026-03-18",
+        "title": "Flash flood destroys Maui couple's dream home - WWNY",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPZlN1LWNaV2M5UVBndDZ2cldyTVM0VjRINS0xajg0eEdmeElXMThQbldldmIxakJ1NEdLQ3YwX2lSdFNLakRJbk42UEhreUctN1UxSnFfRjd3VE5UQ0hfTWFGNktjZ3E0QzFuTFVsS252MklTWS1TTVpLQ3F2TkFPa1RvX3RGOGZhQWFxa19R?oc=5\" target=\"_blank\">Flash flood destroys Maui couple's dream home</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WWNY</font>",
+        "similarity_excluded": "No",
+        "score": 6,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxObXhfbjNUQ3VkajctZ3ZBNnJTb2lBaWp0RENRM2NrZm5Lck5qdWhJVVo1RXlQRGlOR0ctV20yUFlDeHBReGdQUUdsRFpIOFU1SHRQcExUMXNVNUFxX2ppTTFsRTkyMHRWWS1vUW1CZzVURjAyVjRObDVyOXp2VVRlQTNXWXpSb0w4?oc=5",
+        "date": "2026-03-18",
+        "title": "Raging river rips through home, destroys it - KALB",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxObXhfbjNUQ3VkajctZ3ZBNnJTb2lBaWp0RENRM2NrZm5Lck5qdWhJVVo1RXlQRGlOR0ctV20yUFlDeHBReGdQUUdsRFpIOFU1SHRQcExUMXNVNUFxX2ppTTFsRTkyMHRWWS1vUW1CZzVURjAyVjRObDVyOXp2VVRlQTNXWXpSb0w4?oc=5\" target=\"_blank\">Raging river rips through home, destroys it</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KALB</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNOEs3VHhqVHpNa201M0t1cnBRcXh4VmtOYWIyUWJOQjV5MTdzU0NVLTgtVnAza052M0pMYzFHN2p5Y2QwTHBSR0ctbnp1UG5aMlJvR05pSVpJTVMyMnAwVlVUMllZOGxlQnJrOS1Rc1hhTDRfdjFOR1FTcFdTNmF3eDIwTzNPeElGclBweTZBTnB6ZWE0NFoyT9IBngFBVV95cUxPdVk4eUlLWk5NYjZ3UDNCb1BxUmJxakFWM0VkcENBLU5wYU5GSmsxTnFvbFpFZFlVeFZETDkwYlpYYVc0cGJmb1JjMU4ybTQ3cGtoWlhQNklOTHRUel9FekpBdFFDMjFYR0wtZkZvRTVaYkhYUHJCRDhRaU56WkU5aUwxdHlFOG9ERVl0Tlg1bTY3cGhLLUF3NjBjdjJFUQ?oc=5",
+        "date": "2026-03-18",
+        "title": "Another Kona Low targets Hawaii after getting nearly 50 inches of rainfall and hurricane-force winds - FOX Weather",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNOEs3VHhqVHpNa201M0t1cnBRcXh4VmtOYWIyUWJOQjV5MTdzU0NVLTgtVnAza052M0pMYzFHN2p5Y2QwTHBSR0ctbnp1UG5aMlJvR05pSVpJTVMyMnAwVlVUMllZOGxlQnJrOS1Rc1hhTDRfdjFOR1FTcFdTNmF3eDIwTzNPeElGclBweTZBTnB6ZWE0NFoyT9IBngFBVV95cUxPdVk4eUlLWk5NYjZ3UDNCb1BxUmJxakFWM0VkcENBLU5wYU5GSmsxTnFvbFpFZFlVeFZETDkwYlpYYVc0cGJmb1JjMU4ybTQ3cGtoWlhQNklOTHRUel9FekpBdFFDMjFYR0wtZkZvRTVaYkhYUHJCRDhRaU56WkU5aUwxdHlFOG9ERVl0Tlg1bTY3cGhLLUF3NjBjdjJFUQ?oc=5\" target=\"_blank\">Another Kona Low targets Hawaii after getting nearly 50 inches of rainfall and hurricane-force winds</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FOX Weather</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 FORECAST Hawaii: Another Kona Low targeting islands with risk of heavy rainfall and flash flooding after recent 50 inches of rain and hurricane-force winds. (FOX Weather)",
+        "type": "news",
+        "tweet_id": "2034072080959083000",
+        "geo": {
+            "country": "United States",
+            "name": "Hawaii",
+            "latitude": 21.3,
+            "longitude": -157.8,
+            "confidence": 1.0
+        }
     }
 ]
