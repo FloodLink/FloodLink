@@ -12809,5 +12809,14 @@
         "score": 7,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-03-18",
+        "status": "posted",
+        "tweet": "Top flood economic losses (2020-2025):\n\n\ud83c\uddf5\ud83c\uddf0 Pakistan: $30B (2022 Indus floods)  \n\ud83c\uddfa\ud83c\uddf8 USA: $25B (2023 flash floods & storm surge)  \n\ud83c\udde8\ud83c\uddf3 China: $18B (2021 Yangtze extreme rainfall)  \n\ud83c\uddee\ud83c\uddf3 India: $15B (2024 monsoon flash floods)  \n\ud83c\udde9\ud83c\uddea Germany: $5B (2021 Ahr Valley floods)",
+        "type": "statistical",
+        "category": "economic losses from floods and flash floods",
+        "tweet_id": "2034159010128269632"
     }
 ]
