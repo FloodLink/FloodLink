@@ -4284,7 +4284,7 @@
     "rain_mm": 63.62,
     "soil_moisture": 0.718,
     "raw_dynamic_score": 10.55,
-    "last_updated": "2026-02-02T01:26:05.138749Z",
+    "last_updated": "2026-03-18T04:58:05.372330Z",
     "last_tweeted_at": "2026-02-01T21:20:35.585454Z",
     "tweet_id": "2018072049713914265",
     "resolved": false
@@ -10318,22 +10318,6 @@
     "last_tweeted_at": "2026-03-15T21:27:49.165102Z",
     "tweet_id": "2033294413389242552",
     "resolved": false
-  },
-  "-4.1587,19.8619": {
-    "country": "The Democratic Republic of the Congo",
-    "name": "Dibaya-Lubwe",
-    "risk_level": "None",
-    "tweeted_level": "None",
-    "latitude": -4.15869,
-    "longitude": 19.8619,
-    "rain_mm": 0.0,
-    "soil_moisture": 0.453,
-    "raw_dynamic_score": 0.0,
-    "last_updated": "2026-03-17T04:55:55.060806Z",
-    "last_tweeted_at": "2026-03-17T04:55:55.060806Z",
-    "tweet_id": "2033769304727212295",
-    "resolved": true,
-    "resolved_at": "2026-03-17T04:55:55.060806Z"
   },
   "-3.7147,137.9853": {
     "country": "Indonesia",
