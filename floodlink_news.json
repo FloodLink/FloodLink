@@ -12993,5 +12993,14 @@
             "longitude": -100.0,
             "confidence": 0.95
         }
+    },
+    {
+        "link": null,
+        "date": "2026-03-19",
+        "status": "posted",
+        "tweet": "Global flood EWS coverage reaches 68% (5.4B people) in 2026, per UN projections, reducing losses by 30% vs. 2020.\n\n1. \ud83c\uddef\ud83c\uddf5 Japan: 100% pop. covered, averting 500+ deaths/yr.\n2. \ud83c\uddf3\ud83c\uddf1 Netherlands: 99%, protecting \u20ac50B in assets.\n3. \ud83c\udde9\ud83c\uddea Germany: 95%, 80M people shielded from surges.\n4. \ud83c\uddfa",
+        "type": "statistical",
+        "category": "coverage of flood early warning systems worldwide",
+        "tweet_id": "2034770858552828166"
     }
 ]
