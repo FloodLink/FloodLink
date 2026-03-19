@@ -10419,7 +10419,7 @@
     "rain_mm": 41.19,
     "soil_moisture": 0.636,
     "raw_dynamic_score": 6.525,
-    "last_updated": "2026-03-19T01:32:21.757175Z",
+    "last_updated": "2026-03-19T04:56:34.724087Z",
     "last_tweeted_at": "2026-03-16T18:58:00.944470Z",
     "tweet_id": "2033619102640570873",
     "resolved": false
@@ -10781,7 +10781,7 @@
     "rain_mm": 55.56,
     "soil_moisture": 0.679,
     "raw_dynamic_score": 9.016,
-    "last_updated": "2026-03-19T01:32:21.757175Z",
+    "last_updated": "2026-03-19T04:56:34.724087Z",
     "last_tweeted_at": "2026-03-19T01:32:21.757175Z",
     "tweet_id": "2034442854643191969",
     "resolved": false
@@ -10829,6 +10829,21 @@
     "last_updated": "2026-03-19T01:32:21.757175Z",
     "last_tweeted_at": "2026-03-19T01:32:21.757175Z",
     "tweet_id": "2034443359620669671",
+    "resolved": false
+  },
+  "34.9221,33.6279": {
+    "country": "Cyprus",
+    "name": "Larnaca",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 34.9221,
+    "longitude": 33.62794,
+    "rain_mm": 52.0,
+    "soil_moisture": 1.0,
+    "raw_dynamic_score": 9.945,
+    "last_updated": "2026-03-19T04:56:34.724087Z",
+    "last_tweeted_at": "2026-03-19T04:56:34.724087Z",
+    "tweet_id": "2034494249736298518",
     "resolved": false
   }
 }
