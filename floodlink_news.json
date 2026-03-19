@@ -12879,5 +12879,42 @@
             "longitude": 100.4678,
             "confidence": 1.0
         }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5yb0dFR1g1ZnhVUTY5THNVLVJrWEhSeEFPTFkxeXlXVlMtX3BUcDdidEhCcEpTb2F6U2p5ZUNBM1BmY194NGFmV2YwaHFsT3U3UDRXQUN6bEZaVXFCbVV1MW1iaXcyRFVRRURaMVlvcUpOSTB1Q2s3c29oSnQ?oc=5",
+        "date": "2026-03-19",
+        "title": "UPDATE: Snohomish County placed under a flood warning until Sunday midday - Bellingham Herald",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE5yb0dFR1g1ZnhVUTY5THNVLVJrWEhSeEFPTFkxeXlXVlMtX3BUcDdidEhCcEpTb2F6U2p5ZUNBM1BmY194NGFmV2YwaHFsT3U3UDRXQUN6bEZaVXFCbVV1MW1iaXcyRFVRRURaMVlvcUpOSTB1Q2s3c29oSnQ?oc=5\" target=\"_blank\">UPDATE: Snohomish County placed under a flood warning until Sunday midday</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bellingham Herald</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": null,
+        "tweet_id": "2034577226490954191",
+        "geo": {
+            "country": "United States",
+            "name": "Snohomish County",
+            "latitude": 47.9789848,
+            "longitude": -122.2020817,
+            "confidence": 1.0
+        }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5yb0dFR1g1ZnhVUTY5THNVLVJrWEhSeEFPTFkxeXlXVlMtX3BUcDdidEhCcEpTb2F6U2p5ZUNBM1BmY194NGFmV2YwaHFsT3U3UDRXQUN6bEZaVXFCbVV1MW1iaXcyRFVRRURaMVlvcUpOSTB1Q2s3c29oSnQ?oc=5",
+        "date": "2026-03-19",
+        "title": "UPDATE: Snohomish County placed under a flood warning until Sunday midday - Bellingham Herald",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE5yb0dFR1g1ZnhVUTY5THNVLVJrWEhSeEFPTFkxeXlXVlMtX3BUcDdidEhCcEpTb2F6U2p5ZUNBM1BmY194NGFmV2YwaHFsT3U3UDRXQUN6bEZaVXFCbVV1MW1iaXcyRFVRRURaMVlvcUpOSTB1Q2s3c29oSnQ?oc=5\" target=\"_blank\">UPDATE: Snohomish County placed under a flood warning until Sunday midday</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bellingham Herald</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 FORECAST Snohomish County: Flood warning in effect until Sunday midday, with risks of river overflows and localized flooding. (Bellingham Herald)",
+        "type": "news",
+        "tweet_id": "2034577226490954191",
+        "geo": {
+            "country": "United States",
+            "name": "Snohomish County",
+            "latitude": 47.9789848,
+            "longitude": -122.2020817,
+            "confidence": 1.0
+        }
     }
 ]
