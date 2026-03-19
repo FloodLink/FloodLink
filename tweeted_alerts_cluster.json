@@ -10529,22 +10529,6 @@
     "tweet_id": "2033800857683210427",
     "resolved": false
   },
-  "17.8590,-93.1538": {
-    "country": "Mexico",
-    "name": "Reforma",
-    "risk_level": "Low",
-    "tweeted_level": "Low",
-    "latitude": 17.85904,
-    "longitude": -93.15381,
-    "rain_mm": 2.44,
-    "soil_moisture": 0.519,
-    "raw_dynamic_score": 0.36,
-    "last_updated": "2026-03-18T12:58:52.563432Z",
-    "last_tweeted_at": "2026-03-18T12:58:52.563432Z",
-    "tweet_id": "2034253747791257651",
-    "resolved": true,
-    "resolved_at": "2026-03-18T12:58:52.563432Z"
-  },
   "17.7605,-92.5954": {
     "country": "Mexico",
     "name": "Macuspana",
@@ -10901,9 +10885,39 @@
     "rain_mm": 48.88,
     "soil_moisture": 0.512,
     "raw_dynamic_score": 7.192,
-    "last_updated": "2026-03-19T09:43:08.490449Z",
+    "last_updated": "2026-03-19T16:32:06.772345Z",
     "last_tweeted_at": "2026-03-19T09:43:08.490449Z",
     "tweet_id": "2034566358512365734",
+    "resolved": false
+  },
+  "-2.1861,-56.7131": {
+    "country": "Brazil",
+    "name": "Nhamundá",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": -2.18611,
+    "longitude": -56.71306,
+    "rain_mm": 44.38,
+    "soil_moisture": 0.706,
+    "raw_dynamic_score": 7.309,
+    "last_updated": "2026-03-19T16:32:06.772345Z",
+    "last_tweeted_at": "2026-03-19T16:32:06.772345Z",
+    "tweet_id": "2034669293019824421",
+    "resolved": false
+  },
+  "-20.3903,-40.4961": {
+    "country": "Brazil",
+    "name": "Viana",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": -20.39028,
+    "longitude": -40.49611,
+    "rain_mm": 59.44,
+    "soil_moisture": 0.592,
+    "raw_dynamic_score": 9.176,
+    "last_updated": "2026-03-19T16:32:06.772345Z",
+    "last_tweeted_at": "2026-03-19T16:32:06.772345Z",
+    "tweet_id": "2034669545797943812",
     "resolved": false
   }
 }
