@@ -12926,5 +12926,72 @@
         "score": 6,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOQXM3RnJlR1pjQnZsYTZ2RWJoMElaaEJxNDI0dVJkTzRaOWk2SlMxUWQ5MVFBaVNMSFdTSzhNOFRsNEVFLTBxbHdxTDVtenZTem5OQ0E0dDFvTTNMSkJFV0R2WkwxQ3lsc0VaR3AwNmxlVXJPck9yM1dtbkhNOHZBTkNBSzJfaU9sSUJxTDJ5ZmdWbWZPWXg5YzhGT1pleUwwekc0MzAwai1XUDVHcmd1SUNYZEZ1UWM1SG1qWTl1cERSUUpDM29rRTA0RGtGMUpHeU1r?oc=5",
+        "date": "2026-03-19",
+        "title": "AccuWeather rolls out camp weather alert system after deadly Texas flood - USA Today",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxOQXM3RnJlR1pjQnZsYTZ2RWJoMElaaEJxNDI0dVJkTzRaOWk2SlMxUWQ5MVFBaVNMSFdTSzhNOFRsNEVFLTBxbHdxTDVtenZTem5OQ0E0dDFvTTNMSkJFV0R2WkwxQ3lsc0VaR3AwNmxlVXJPck9yM1dtbkhNOHZBTkNBSzJfaU9sSUJxTDJ5ZmdWbWZPWXg5YzhGT1pleUwwekc0MzAwai1XUDVHcmd1SUNYZEZ1UWM1SG1qWTl1cERSUUpDM29rRTA0RGtGMUpHeU1r?oc=5\" target=\"_blank\">AccuWeather rolls out camp weather alert system after deadly Texas flood</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">USA Today</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": null,
+        "tweet_id": "2034742179130650868",
+        "geo": {
+            "country": "United States",
+            "name": "Texas",
+            "latitude": 31.0,
+            "longitude": -100.0,
+            "confidence": 0.95
+        }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNQ0JMX2hpOEpESVhTZFBHTlVkLUZfbElFZWgwcEh6VmotVm16Q1EzaUJHN0FTVEMwSHoyX0ppanN4Z1hsOFF3eDVtTm1PU2Z2U1ZvbmF1ZWdsdHc2SmQ4WG5Ud1IzZndfVGVlT2oxRE9uSmprX1prUVlfTDhQaFV6RHB4OTEwVnppczIySzdlbE5UazN3b1RmWF9BZzY?oc=5",
+        "date": "2026-03-19",
+        "title": "Kona low brings the risk for more flooding - Spectrum News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNQ0JMX2hpOEpESVhTZFBHTlVkLUZfbElFZWgwcEh6VmotVm16Q1EzaUJHN0FTVEMwSHoyX0ppanN4Z1hsOFF3eDVtTm1PU2Z2U1ZvbmF1ZWdsdHc2SmQ4WG5Ud1IzZndfVGVlT2oxRE9uSmprX1prUVlfTDhQaFV6RHB4OTEwVnppczIySzdlbE5UazN3b1RmWF9BZzY?oc=5\" target=\"_blank\">Kona low brings the risk for more flooding</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Spectrum News</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQTE5HbmxONS1iS2ZZVENsM3Y0MDJaSXNLV0gzSGtSRXlpYXVBSXlZQlh1czUzeWpnMHU1bTFvSzQzcmFSNmszVG83WXR0R1lrVFN0cVg5LUo5bVBVOExqbXdPQnN3YnZEeUNnY1RLSlhPS3B2NE1BcGlFa0dvN25zWWlJY2VYWlpxX3lGOVg4VlNrdEFWckhVTlU3WW4yNTRySk5vSFNFTm5BWm9RTEtqMXVDMGRjVmFYU1VLRG9jVWFqNElp?oc=5",
+        "date": "2026-03-19",
+        "title": "Flood watch for most islands tonight as another Kona storm approaches - Honolulu Star-Advertiser",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQTE5HbmxONS1iS2ZZVENsM3Y0MDJaSXNLV0gzSGtSRXlpYXVBSXlZQlh1czUzeWpnMHU1bTFvSzQzcmFSNmszVG83WXR0R1lrVFN0cVg5LUo5bVBVOExqbXdPQnN3YnZEeUNnY1RLSlhPS3B2NE1BcGlFa0dvN25zWWlJY2VYWlpxX3lGOVg4VlNrdEFWckhVTlU3WW4yNTRySk5vSFNFTm5BWm9RTEtqMXVDMGRjVmFYU1VLRG9jVWFqNElp?oc=5\" target=\"_blank\">Flood watch for most islands tonight as another Kona storm approaches</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Honolulu Star-Advertiser</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxONFEyTk5Ib2pLX0tqZ0dXNWhTVkp5aXVodnBRN1JHMmdOU0NRREZaUDdRcG9yc0dtWlR1b2dWc1NFeDV5NlQtc2pQVGRYMmoxQUN2WkFpMUFGUk93dzd6Ql9PTER6MURqWFUtVERGbnFCWEppT0FMRWxMdl92LVZiZHVUR0Zwdm11eUVVd1FITGx2Y0E?oc=5",
+        "date": "2026-03-19",
+        "title": "Snohomish County Flood Warning After River Reaches 15.0 Ft - Hoodline",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxONFEyTk5Ib2pLX0tqZ0dXNWhTVkp5aXVodnBRN1JHMmdOU0NRREZaUDdRcG9yc0dtWlR1b2dWc1NFeDV5NlQtc2pQVGRYMmoxQUN2WkFpMUFGUk93dzd6Ql9PTER6MURqWFUtVERGbnFCWEppT0FMRWxMdl92LVZiZHVUR0Zwdm11eUVVd1FITGx2Y0E?oc=5\" target=\"_blank\">Snohomish County Flood Warning After River Reaches 15.0 Ft</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Hoodline</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOQXM3RnJlR1pjQnZsYTZ2RWJoMElaaEJxNDI0dVJkTzRaOWk2SlMxUWQ5MVFBaVNMSFdTSzhNOFRsNEVFLTBxbHdxTDVtenZTem5OQ0E0dDFvTTNMSkJFV0R2WkwxQ3lsc0VaR3AwNmxlVXJPck9yM1dtbkhNOHZBTkNBSzJfaU9sSUJxTDJ5ZmdWbWZPWXg5YzhGT1pleUwwekc0MzAwai1XUDVHcmd1SUNYZEZ1UWM1SG1qWTl1cERSUUpDM29rRTA0RGtGMUpHeU1r?oc=5",
+        "date": "2026-03-19",
+        "title": "AccuWeather rolls out camp weather alert system after deadly Texas flood - USA Today",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxOQXM3RnJlR1pjQnZsYTZ2RWJoMElaaEJxNDI0dVJkTzRaOWk2SlMxUWQ5MVFBaVNMSFdTSzhNOFRsNEVFLTBxbHdxTDVtenZTem5OQ0E0dDFvTTNMSkJFV0R2WkwxQ3lsc0VaR3AwNmxlVXJPck9yM1dtbkhNOHZBTkNBSzJfaU9sSUJxTDJ5ZmdWbWZPWXg5YzhGT1pleUwwekc0MzAwai1XUDVHcmd1SUNYZEZ1UWM1SG1qWTl1cERSUUpDM29rRTA0RGtGMUpHeU1r?oc=5\" target=\"_blank\">AccuWeather rolls out camp weather alert system after deadly Texas flood</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">USA Today</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 POST-EVENT Texas: Deadly flood leads to AccuWeathers new camp weather alert system. (USA Today)",
+        "type": "news",
+        "tweet_id": "2034742179130650868",
+        "geo": {
+            "country": "United States",
+            "name": "Texas",
+            "latitude": 31.0,
+            "longitude": -100.0,
+            "confidence": 0.95
+        }
     }
 ]
