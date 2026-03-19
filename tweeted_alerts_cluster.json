@@ -2229,7 +2229,7 @@
     "rain_mm": 46.12,
     "soil_moisture": 0.69,
     "raw_dynamic_score": 7.53,
-    "last_updated": "2026-01-28T09:31:22.099406Z",
+    "last_updated": "2026-03-19T06:54:50.406866Z",
     "last_tweeted_at": "2026-01-20T06:28:45.244775Z",
     "tweet_id": "2013499209996214716",
     "resolved": false
@@ -10149,7 +10149,7 @@
     "rain_mm": 44.69,
     "soil_moisture": 0.613,
     "raw_dynamic_score": 6.985,
-    "last_updated": "2026-03-15T05:07:21.119309Z",
+    "last_updated": "2026-03-19T06:54:50.406866Z",
     "last_tweeted_at": "2026-03-15T01:49:41.491325Z",
     "tweet_id": "2032997677928239276",
     "resolved": false
@@ -10796,7 +10796,7 @@
     "rain_mm": 54.19,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 10.363,
-    "last_updated": "2026-03-19T01:32:21.757175Z",
+    "last_updated": "2026-03-19T06:54:50.406866Z",
     "last_tweeted_at": "2026-03-19T01:32:21.757175Z",
     "tweet_id": "2034443107270332920",
     "resolved": false
@@ -10811,7 +10811,7 @@
     "rain_mm": 54.19,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 10.363,
-    "last_updated": "2026-03-19T01:32:21.757175Z",
+    "last_updated": "2026-03-19T06:54:50.406866Z",
     "last_tweeted_at": "2026-03-19T01:32:21.757175Z",
     "tweet_id": "2034443359620669671",
     "resolved": false
@@ -10841,9 +10841,54 @@
     "rain_mm": 52.0,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 9.945,
-    "last_updated": "2026-03-19T04:56:34.724087Z",
+    "last_updated": "2026-03-19T06:54:50.406866Z",
     "last_tweeted_at": "2026-03-19T04:56:34.724087Z",
     "tweet_id": "2034494249736298518",
+    "resolved": false
+  },
+  "36.4994,36.3576": {
+    "country": "Türkiye",
+    "name": "Kırıkhan",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 36.49939,
+    "longitude": 36.35755,
+    "rain_mm": 44.62,
+    "soil_moisture": 0.687,
+    "raw_dynamic_score": 7.273,
+    "last_updated": "2026-03-19T06:54:50.406866Z",
+    "last_tweeted_at": "2026-03-19T06:54:50.406866Z",
+    "tweet_id": "2034524020402786647",
+    "resolved": false
+  },
+  "36.5872,36.1735": {
+    "country": "Türkiye",
+    "name": "İskenderun",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 36.58718,
+    "longitude": 36.17347,
+    "rain_mm": 44.62,
+    "soil_moisture": 0.687,
+    "raw_dynamic_score": 7.273,
+    "last_updated": "2026-03-19T06:54:50.406866Z",
+    "last_tweeted_at": "2026-03-19T06:54:50.406866Z",
+    "tweet_id": "2034524020402786647",
+    "resolved": false
+  },
+  "36.4887,36.1949": {
+    "country": "Türkiye",
+    "name": "Belen",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 36.48866,
+    "longitude": 36.19489,
+    "rain_mm": 44.62,
+    "soil_moisture": 0.687,
+    "raw_dynamic_score": 7.273,
+    "last_updated": "2026-03-19T06:54:50.406866Z",
+    "last_tweeted_at": "2026-03-19T06:54:50.406866Z",
+    "tweet_id": "2034524020402786647",
     "resolved": false
   }
 }
