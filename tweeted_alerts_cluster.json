@@ -10584,7 +10584,7 @@
     "rain_mm": 60.5,
     "soil_moisture": 0.721,
     "raw_dynamic_score": 10.044,
-    "last_updated": "2026-03-17T16:03:58.675858Z",
+    "last_updated": "2026-03-19T18:52:07.284849Z",
     "last_tweeted_at": "2026-03-17T09:55:05.244025Z",
     "tweet_id": "2033844594249728118",
     "resolved": false
@@ -10603,22 +10603,6 @@
     "last_tweeted_at": "2026-03-17T09:55:05.244025Z",
     "tweet_id": "2033845099327852634",
     "resolved": false
-  },
-  "-14.9475,37.4159": {
-    "country": "Mozambique",
-    "name": "Malema",
-    "risk_level": "Low",
-    "tweeted_level": "Low",
-    "latitude": -14.94747,
-    "longitude": 37.41591,
-    "rain_mm": 1.62,
-    "soil_moisture": 0.625,
-    "raw_dynamic_score": 0.256,
-    "last_updated": "2026-03-18T17:57:03.178511Z",
-    "last_tweeted_at": "2026-03-18T17:57:03.178511Z",
-    "tweet_id": "2034328524849647743",
-    "resolved": true,
-    "resolved_at": "2026-03-18T17:57:03.178511Z"
   },
   "-13.1256,38.9997": {
     "country": "Mozambique",
@@ -10918,6 +10902,36 @@
     "last_updated": "2026-03-19T16:32:06.772345Z",
     "last_tweeted_at": "2026-03-19T16:32:06.772345Z",
     "tweet_id": "2034669545797943812",
+    "resolved": false
+  },
+  "-0.9083,119.8708": {
+    "country": "Indonesia",
+    "name": "Palu",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": -0.90833,
+    "longitude": 119.87083,
+    "rain_mm": 50.06,
+    "soil_moisture": 0.659,
+    "raw_dynamic_score": 8.031,
+    "last_updated": "2026-03-19T18:52:07.284849Z",
+    "last_tweeted_at": "2026-03-19T18:52:07.284849Z",
+    "tweet_id": "2034704528050733466",
+    "resolved": false
+  },
+  "36.2709,43.3776": {
+    "country": "Iraq",
+    "name": "Al-Hamdaniya",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 36.27093,
+    "longitude": 43.37758,
+    "rain_mm": 39.94,
+    "soil_moisture": 0.691,
+    "raw_dynamic_score": 6.523,
+    "last_updated": "2026-03-19T18:52:07.284849Z",
+    "last_tweeted_at": "2026-03-19T18:52:07.284849Z",
+    "tweet_id": "2034704780585529475",
     "resolved": false
   }
 }
