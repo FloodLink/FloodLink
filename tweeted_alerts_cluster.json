@@ -2229,7 +2229,7 @@
     "rain_mm": 46.12,
     "soil_moisture": 0.69,
     "raw_dynamic_score": 7.53,
-    "last_updated": "2026-03-19T06:54:50.406866Z",
+    "last_updated": "2026-03-19T09:43:08.490449Z",
     "last_tweeted_at": "2026-01-20T06:28:45.244775Z",
     "tweet_id": "2013499209996214716",
     "resolved": false
@@ -10856,7 +10856,7 @@
     "rain_mm": 44.62,
     "soil_moisture": 0.687,
     "raw_dynamic_score": 7.273,
-    "last_updated": "2026-03-19T06:54:50.406866Z",
+    "last_updated": "2026-03-19T09:43:08.490449Z",
     "last_tweeted_at": "2026-03-19T06:54:50.406866Z",
     "tweet_id": "2034524020402786647",
     "resolved": false
@@ -10889,6 +10889,21 @@
     "last_updated": "2026-03-19T06:54:50.406866Z",
     "last_tweeted_at": "2026-03-19T06:54:50.406866Z",
     "tweet_id": "2034524020402786647",
+    "resolved": false
+  },
+  "15.6833,-86.0000": {
+    "country": "Honduras",
+    "name": "Tocoa",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 15.68333,
+    "longitude": -86.0,
+    "rain_mm": 48.88,
+    "soil_moisture": 0.512,
+    "raw_dynamic_score": 7.192,
+    "last_updated": "2026-03-19T09:43:08.490449Z",
+    "last_tweeted_at": "2026-03-19T09:43:08.490449Z",
+    "tweet_id": "2034566358512365734",
     "resolved": false
   }
 }
