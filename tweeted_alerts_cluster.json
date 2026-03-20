@@ -10959,10 +10959,18 @@
     "rain_mm": 73.94,
     "soil_moisture": 0.736,
     "raw_dynamic_score": 12.378,
-    "last_updated": "2026-03-19T21:35:47.738417Z",
+    "last_updated": "2026-03-20T01:27:40.638310Z",
     "last_tweeted_at": "2026-03-19T21:35:47.738417Z",
     "tweet_id": "2034745954813775966",
-    "resolved": false
+    "resolved": false,
+    "pending_downgrade": true,
+    "pending_target_level": "Low",
+    "pending_set_at": "2026-03-20T01:27:40.638310Z",
+    "pending_is_region": false,
+    "pending_observed_level": "Low",
+    "pending_observed_rain_mm": 22.56,
+    "pending_observed_soil_moisture": 0.72,
+    "pending_observed_raw_dynamic_score": 3.745
   },
   "-11.4656,34.0207": {
     "country": "Malawi",
@@ -10989,7 +10997,7 @@
     "rain_mm": 68.44,
     "soil_moisture": 0.716,
     "raw_dynamic_score": 11.332,
-    "last_updated": "2026-03-19T21:35:47.738417Z",
+    "last_updated": "2026-03-20T01:27:40.638310Z",
     "last_tweeted_at": "2026-03-19T21:35:47.738417Z",
     "tweet_id": "2034746207461908857",
     "resolved": false
