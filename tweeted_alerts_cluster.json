@@ -8814,7 +8814,7 @@
     "rain_mm": 49.81,
     "soil_moisture": 0.66,
     "raw_dynamic_score": 7.996,
-    "last_updated": "2026-03-05T19:16:26.523479Z",
+    "last_updated": "2026-03-20T12:46:30.264221Z",
     "last_tweeted_at": "2026-03-05T06:46:20.334366Z",
     "tweet_id": "2029448448144232777",
     "resolved": false
@@ -10886,7 +10886,7 @@
     "rain_mm": 0.44,
     "soil_moisture": 0.638,
     "raw_dynamic_score": 0.069,
-    "last_updated": "2026-03-20T09:40:40.186933Z",
+    "last_updated": "2026-03-20T12:46:30.264221Z",
     "last_tweeted_at": "2026-03-20T04:49:16.736955Z",
     "tweet_id": "2034854797791183226",
     "resolved": true,
@@ -11068,7 +11068,7 @@
     "rain_mm": 42.75,
     "soil_moisture": 0.568,
     "raw_dynamic_score": 6.508,
-    "last_updated": "2026-03-20T09:40:40.186933Z",
+    "last_updated": "2026-03-20T12:46:30.264221Z",
     "last_tweeted_at": "2026-03-20T09:40:40.186933Z",
     "tweet_id": "2034928127869386781",
     "resolved": false
@@ -11098,9 +11098,24 @@
     "rain_mm": 53.25,
     "soil_moisture": 0.445,
     "raw_dynamic_score": 7.516,
-    "last_updated": "2026-03-20T09:40:40.186933Z",
+    "last_updated": "2026-03-20T12:46:30.264221Z",
     "last_tweeted_at": "2026-03-20T09:40:40.186933Z",
     "tweet_id": "2034928380525912295",
+    "resolved": false
+  },
+  "2.7746,32.2990": {
+    "country": "Uganda",
+    "name": "Gulu",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 2.77457,
+    "longitude": 32.29899,
+    "rain_mm": 46.12,
+    "soil_moisture": 0.556,
+    "raw_dynamic_score": 6.971,
+    "last_updated": "2026-03-20T12:46:30.264221Z",
+    "last_tweeted_at": "2026-03-20T12:46:30.264221Z",
+    "tweet_id": "2034974904395891128",
     "resolved": false
   }
 }
