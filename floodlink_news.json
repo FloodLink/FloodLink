@@ -12907,5 +12907,52 @@
         "tweet": "\ud83c\uddf3\ud83c\uddf1 As of 2026, the Netherlands' primary flood defense system spans 3,500 km of dikes and dunes, protecting 60% of its population\u2014over 10 million people\u2014from coastal and river flooding.",
         "type": "infrastructure",
         "tweet_id": "2034896928886890922"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOQ1JnSjVHcGFKbktDSEFuVkJFWmtiSmFZSXY1M0t0Y3FhQ2ZERmJTV3VtbkFKT0dNbmgyOGprNDdYS3ZKUWdaeUVLaUowRDNVYlh3V3J4Tmpobm5GTWRjdUg0a2NzVXBqUFZMWDlRWFZjdmtwSmVtXzZkdXVQSENvYlB6V3hWSEo5X3lVbUZ5UlV1cXMtMjJVSUtQTzA4X3QzbDh3ampqSmdvcm80Wnd5UzNkUm96V0ZhcThTbzJrNUVwd0lRNG1qVnlHU1dmVFhDVUxReHJkTFI4ZlhYbHR2a1M1cXM?oc=5",
+        "date": "2026-03-20",
+        "title": "Aerial footage shows flooding in far north Queensland from Tropical Cyclone Narelle \u2013 video - The Guardian",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxOQ1JnSjVHcGFKbktDSEFuVkJFWmtiSmFZSXY1M0t0Y3FhQ2ZERmJTV3VtbkFKT0dNbmgyOGprNDdYS3ZKUWdaeUVLaUowRDNVYlh3V3J4Tmpobm5GTWRjdUg0a2NzVXBqUFZMWDlRWFZjdmtwSmVtXzZkdXVQSENvYlB6V3hWSEo5X3lVbUZ5UlV1cXMtMjJVSUtQTzA4X3QzbDh3ampqSmdvcm80Wnd5UzNkUm96V0ZhcThTbzJrNUVwd0lRNG1qVnlHU1dmVFhDVUxReHJkTFI4ZlhYbHR2a1M1cXM?oc=5\" target=\"_blank\">Aerial footage shows flooding in far north Queensland from Tropical Cyclone Narelle \u2013 video</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": null,
+        "tweet_id": "2034909078829293637",
+        "geo": {
+            "country": "Australia",
+            "name": "Far North Queensland",
+            "latitude": -16.92,
+            "longitude": 145.78,
+            "confidence": 0.95
+        }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbFJka2ZQbVozWm43RGNBQW52SDl5dW90UjVoZndROEZKak5tWUJhcXZmdjh5dnRBUFAwTk9IRGxsdFVSWEsyXzdtLXhYT0pORE5SMW1NdldXSW45Y2hHRHpWc2FGVnpzaTdUeG1NZ2lSM1psdnpHaEp3M05ZWi1UUE9QLVFfSEQ5d2t4aUxGSGpTYTFEc0lDanpMRTdERVZjWno0N2N2NA?oc=5",
+        "date": "2026-03-20",
+        "title": "Northern Territory next in line for Tropical Cyclone Narelle - Weatherzone",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNbFJka2ZQbVozWm43RGNBQW52SDl5dW90UjVoZndROEZKak5tWUJhcXZmdjh5dnRBUFAwTk9IRGxsdFVSWEsyXzdtLXhYT0pORE5SMW1NdldXSW45Y2hHRHpWc2FGVnpzaTdUeG1NZ2lSM1psdnpHaEp3M05ZWi1UUE9QLVFfSEQ5d2t4aUxGSGpTYTFEc0lDanpMRTdERVZjWno0N2N2NA?oc=5\" target=\"_blank\">Northern Territory next in line for Tropical Cyclone Narelle</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Weatherzone</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOQ1JnSjVHcGFKbktDSEFuVkJFWmtiSmFZSXY1M0t0Y3FhQ2ZERmJTV3VtbkFKT0dNbmgyOGprNDdYS3ZKUWdaeUVLaUowRDNVYlh3V3J4Tmpobm5GTWRjdUg0a2NzVXBqUFZMWDlRWFZjdmtwSmVtXzZkdXVQSENvYlB6V3hWSEo5X3lVbUZ5UlV1cXMtMjJVSUtQTzA4X3QzbDh3ampqSmdvcm80Wnd5UzNkUm96V0ZhcThTbzJrNUVwd0lRNG1qVnlHU1dmVFhDVUxReHJkTFI4ZlhYbHR2a1M1cXM?oc=5",
+        "date": "2026-03-20",
+        "title": "Aerial footage shows flooding in far north Queensland from Tropical Cyclone Narelle \u2013 video - The Guardian",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxOQ1JnSjVHcGFKbktDSEFuVkJFWmtiSmFZSXY1M0t0Y3FhQ2ZERmJTV3VtbkFKT0dNbmgyOGprNDdYS3ZKUWdaeUVLaUowRDNVYlh3V3J4Tmpobm5GTWRjdUg0a2NzVXBqUFZMWDlRWFZjdmtwSmVtXzZkdXVQSENvYlB6V3hWSEo5X3lVbUZ5UlV1cXMtMjJVSUtQTzA4X3QzbDh3ampqSmdvcm80Wnd5UzNkUm96V0ZhcThTbzJrNUVwd0lRNG1qVnlHU1dmVFhDVUxReHJkTFI4ZlhYbHR2a1M1cXM?oc=5\" target=\"_blank\">Aerial footage shows flooding in far north Queensland from Tropical Cyclone Narelle \u2013 video</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "posted",
+        "tweet": "\ud83c\udde6\ud83c\uddfa POST-EVENT Far North Queensland: Flooding from Tropical Cyclone Narelle, aerial footage reveals widespread inundation. (The Guardian)",
+        "type": "news",
+        "tweet_id": "2034909078829293637",
+        "geo": {
+            "country": "Australia",
+            "name": "Far North Queensland",
+            "latitude": -16.92,
+            "longitude": 145.78,
+            "confidence": 0.95
+        }
     }
 ]
