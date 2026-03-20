@@ -10888,7 +10888,7 @@
     "rain_mm": 0.44,
     "soil_moisture": 0.638,
     "raw_dynamic_score": 0.069,
-    "last_updated": "2026-03-20T18:43:22.271220Z",
+    "last_updated": "2026-03-20T21:29:54.959509Z",
     "last_tweeted_at": "2026-03-20T04:49:16.736955Z",
     "tweet_id": "2034854797791183226",
     "resolved": true,
@@ -11130,7 +11130,7 @@
     "rain_mm": 51.56,
     "soil_moisture": 0.486,
     "raw_dynamic_score": 7.466,
-    "last_updated": "2026-03-20T18:43:22.271220Z",
+    "last_updated": "2026-03-20T21:29:54.959509Z",
     "last_tweeted_at": "2026-03-20T15:42:39.973197Z",
     "tweet_id": "2035019485988466830",
     "resolved": false
@@ -11145,9 +11145,24 @@
     "rain_mm": 47.44,
     "soil_moisture": 0.466,
     "raw_dynamic_score": 6.784,
-    "last_updated": "2026-03-20T15:42:39.973197Z",
+    "last_updated": "2026-03-20T21:29:54.959509Z",
     "last_tweeted_at": "2026-03-20T15:42:39.973197Z",
     "tweet_id": "2035019738607177931",
+    "resolved": false
+  },
+  "-1.3670,38.0106": {
+    "country": "Kenya",
+    "name": "Kitui",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": -1.36696,
+    "longitude": 38.01055,
+    "rain_mm": 43.06,
+    "soil_moisture": 0.58,
+    "raw_dynamic_score": 6.603,
+    "last_updated": "2026-03-20T21:29:54.959509Z",
+    "last_tweeted_at": "2026-03-20T21:29:54.959509Z",
+    "tweet_id": "2035106635929342386",
     "resolved": false
   }
 }
