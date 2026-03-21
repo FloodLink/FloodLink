@@ -339,7 +339,7 @@
     "rain_mm": 57.44,
     "soil_moisture": 0.656,
     "raw_dynamic_score": 9.201,
-    "last_updated": "2026-03-21T04:30:23.660382Z",
+    "last_updated": "2026-03-21T06:40:54.542492Z",
     "last_tweeted_at": "2026-01-09T06:25:29.497246Z",
     "tweet_id": "2009513611895394556",
     "resolved": false
@@ -5904,7 +5904,7 @@
     "rain_mm": 43.5,
     "soil_moisture": 0.733,
     "raw_dynamic_score": 7.271,
-    "last_updated": "2026-03-21T04:30:23.660382Z",
+    "last_updated": "2026-03-21T06:40:54.542492Z",
     "last_tweeted_at": "2026-02-12T12:49:51.721567Z",
     "tweet_id": "2021930040519217350",
     "resolved": false
@@ -7599,7 +7599,7 @@
     "rain_mm": 49.88,
     "soil_moisture": 0.547,
     "raw_dynamic_score": 7.5,
-    "last_updated": "2026-03-21T04:30:23.660382Z",
+    "last_updated": "2026-03-21T06:40:54.542492Z",
     "last_tweeted_at": "2026-03-21T04:30:23.660382Z",
     "tweet_id": "2035212686129074602",
     "resolved": false
@@ -7614,7 +7614,7 @@
     "rain_mm": 74.0,
     "soil_moisture": 0.648,
     "raw_dynamic_score": 11.8,
-    "last_updated": "2026-03-21T04:30:23.660382Z",
+    "last_updated": "2026-03-21T06:40:54.542492Z",
     "last_tweeted_at": "2026-03-21T04:30:23.660382Z",
     "tweet_id": "2035212686129074602",
     "resolved": false
@@ -9646,22 +9646,6 @@
     "tweet_id": "2031845910703948184",
     "resolved": false
   },
-  "-4.4470,-49.1156": {
-    "country": "Brazil",
-    "name": "Jacundá",
-    "risk_level": "Low",
-    "tweeted_level": "High",
-    "latitude": -4.44696,
-    "longitude": -49.11556,
-    "rain_mm": 0.81,
-    "soil_moisture": 0.662,
-    "raw_dynamic_score": 0.131,
-    "last_updated": "2026-03-21T04:30:23.660382Z",
-    "last_tweeted_at": "2026-03-20T04:49:16.736955Z",
-    "tweet_id": "2034854797791183226",
-    "resolved": true,
-    "resolved_at": "2026-03-20T04:49:16.736955Z"
-  },
   "-25.4769,-48.8344": {
     "country": "Brazil",
     "name": "Morretes",
@@ -10742,22 +10726,6 @@
     "tweet_id": "2034343840300093562",
     "resolved": false
   },
-  "-5.0514,-48.6089": {
-    "country": "Brazil",
-    "name": "Bom Jesus do Tocantins",
-    "risk_level": "Low",
-    "tweeted_level": "High",
-    "latitude": -5.05139,
-    "longitude": -48.60889,
-    "rain_mm": 2.12,
-    "soil_moisture": 0.584,
-    "raw_dynamic_score": 0.327,
-    "last_updated": "2026-03-21T04:30:23.660382Z",
-    "last_tweeted_at": "2026-03-20T04:49:16.736955Z",
-    "tweet_id": "2034854797791183226",
-    "resolved": true,
-    "resolved_at": "2026-03-20T04:49:16.736955Z"
-  },
   "35.0125,34.0583": {
     "country": "Cyprus",
     "name": "Protaras",
@@ -10877,26 +10845,6 @@
     "last_tweeted_at": "2026-03-19T09:43:08.490449Z",
     "tweet_id": "2034566358512365734",
     "resolved": false
-  },
-  "-2.1861,-56.7131": {
-    "country": "Brazil",
-    "name": "Nhamundá",
-    "risk_level": "Low",
-    "tweeted_level": "High",
-    "latitude": -2.18611,
-    "longitude": -56.71306,
-    "rain_mm": 0.44,
-    "soil_moisture": 0.638,
-    "raw_dynamic_score": 0.069,
-    "last_updated": "2026-03-21T04:30:23.660382Z",
-    "last_tweeted_at": "2026-03-20T04:49:16.736955Z",
-    "tweet_id": "2034854797791183226",
-    "resolved": true,
-    "resolved_at": "2026-03-20T04:49:16.736955Z",
-    "pending_downgrade": true,
-    "pending_target_level": "Low",
-    "pending_set_at": "2026-03-21T04:30:23.660382Z",
-    "pending_is_region": true
   },
   "-20.3903,-40.4961": {
     "country": "Brazil",
@@ -11165,7 +11113,7 @@
     "rain_mm": 57.19,
     "soil_moisture": 0.58,
     "raw_dynamic_score": 8.768,
-    "last_updated": "2026-03-21T04:30:23.660382Z",
+    "last_updated": "2026-03-21T06:40:54.542492Z",
     "last_tweeted_at": "2026-03-21T01:22:45.570565Z",
     "tweet_id": "2035165222550335754",
     "resolved": false
@@ -11180,7 +11128,7 @@
     "rain_mm": 57.19,
     "soil_moisture": 0.58,
     "raw_dynamic_score": 8.768,
-    "last_updated": "2026-03-21T04:30:23.660382Z",
+    "last_updated": "2026-03-21T06:40:54.542492Z",
     "last_tweeted_at": "2026-03-21T01:22:45.570565Z",
     "tweet_id": "2035165475261276659",
     "resolved": false
@@ -11195,7 +11143,7 @@
     "rain_mm": 43.06,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 8.236,
-    "last_updated": "2026-03-21T04:30:23.660382Z",
+    "last_updated": "2026-03-21T06:40:54.542492Z",
     "last_tweeted_at": "2026-03-21T04:30:23.660382Z",
     "tweet_id": "2035212433548103855",
     "resolved": false
@@ -11315,10 +11263,14 @@
     "rain_mm": 79.81,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 15.264,
-    "last_updated": "2026-03-21T04:30:23.660382Z",
+    "last_updated": "2026-03-21T06:40:54.542492Z",
     "last_tweeted_at": "2026-03-21T04:30:23.660382Z",
     "tweet_id": "2035212686129074602",
-    "resolved": false
+    "resolved": false,
+    "pending_downgrade": true,
+    "pending_target_level": "Medium",
+    "pending_set_at": "2026-03-21T06:40:54.542492Z",
+    "pending_is_region": true
   },
   "-3.9643,39.5498": {
     "country": "Kenya",
@@ -11330,7 +11282,7 @@
     "rain_mm": 63.06,
     "soil_moisture": 0.653,
     "raw_dynamic_score": 10.082,
-    "last_updated": "2026-03-21T04:30:23.660382Z",
+    "last_updated": "2026-03-21T06:40:54.542492Z",
     "last_tweeted_at": "2026-03-21T04:30:23.660382Z",
     "tweet_id": "2035212686129074602",
     "resolved": false
@@ -11345,9 +11297,24 @@
     "rain_mm": 79.81,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 15.264,
-    "last_updated": "2026-03-21T04:30:23.660382Z",
+    "last_updated": "2026-03-21T06:40:54.542492Z",
     "last_tweeted_at": "2026-03-21T04:30:23.660382Z",
     "tweet_id": "2035212686129074602",
+    "resolved": false
+  },
+  "-34.4626,-57.8398": {
+    "country": "Uruguay",
+    "name": "Colonia del Sacramento",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": -34.46262,
+    "longitude": -57.83976,
+    "rain_mm": 40.44,
+    "soil_moisture": 1.0,
+    "raw_dynamic_score": 7.734,
+    "last_updated": "2026-03-21T06:40:54.542492Z",
+    "last_tweeted_at": "2026-03-21T06:40:54.542492Z",
+    "tweet_id": "2035245292996432060",
     "resolved": false
   }
 }
