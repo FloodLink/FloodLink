@@ -8804,38 +8804,6 @@
     "tweet_id": "2029415722078638309",
     "resolved": false
   },
-  "-0.0382,-51.1748": {
-    "country": "Brazil",
-    "name": "Santana",
-    "risk_level": "Low",
-    "tweeted_level": "Low",
-    "latitude": -0.03816,
-    "longitude": -51.17476,
-    "rain_mm": 29.0,
-    "soil_moisture": 0.642,
-    "raw_dynamic_score": 4.609,
-    "last_updated": "2026-03-20T15:42:39.973197Z",
-    "last_tweeted_at": "2026-03-20T15:42:39.973197Z",
-    "tweet_id": "2035019233197801577",
-    "resolved": true,
-    "resolved_at": "2026-03-20T15:42:39.973197Z"
-  },
-  "-0.1150,-51.2894": {
-    "country": "Brazil",
-    "name": "Mazagão",
-    "risk_level": "Low",
-    "tweeted_level": "Low",
-    "latitude": -0.115,
-    "longitude": -51.28944,
-    "rain_mm": 29.0,
-    "soil_moisture": 0.642,
-    "raw_dynamic_score": 4.609,
-    "last_updated": "2026-03-20T15:42:39.973197Z",
-    "last_tweeted_at": "2026-03-20T15:42:39.973197Z",
-    "tweet_id": "2035019233197801577",
-    "resolved": true,
-    "resolved_at": "2026-03-20T15:42:39.973197Z"
-  },
   "38.3914,-86.9311": {
     "country": "United States",
     "name": "Jasper",
@@ -11315,6 +11283,36 @@
     "last_updated": "2026-03-21T09:31:25.819544Z",
     "last_tweeted_at": "2026-03-21T06:40:54.542492Z",
     "tweet_id": "2035245292996432060",
+    "resolved": false
+  },
+  "-26.3674,28.9189": {
+    "country": "South Africa",
+    "name": "Leslie",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": -26.36737,
+    "longitude": 28.9189,
+    "rain_mm": 44.19,
+    "soil_moisture": 0.638,
+    "raw_dynamic_score": 7.005,
+    "last_updated": "2026-03-21T18:33:50.598762Z",
+    "last_tweeted_at": "2026-03-21T18:33:50.598762Z",
+    "tweet_id": "2035424708859183474",
+    "resolved": false
+  },
+  "-26.0020,29.0340": {
+    "country": "South Africa",
+    "name": "Phola",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": -26.002,
+    "longitude": 29.034,
+    "rain_mm": 62.06,
+    "soil_moisture": 0.559,
+    "raw_dynamic_score": 9.397,
+    "last_updated": "2026-03-21T18:33:50.598762Z",
+    "last_tweeted_at": "2026-03-21T18:33:50.598762Z",
+    "tweet_id": "2035424708859183474",
     "resolved": false
   }
 }
