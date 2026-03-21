@@ -12987,5 +12987,14 @@
             "longitude": -157.99,
             "confidence": 0.95
         }
+    },
+    {
+        "link": null,
+        "date": "2026-03-21",
+        "status": "posted",
+        "tweet": "By 2030, extreme rainfall events in major cities like \ud83c\uddfa\ud83c\uddf8Miami and \ud83c\udde7\ud83c\uddf7Rio could double compared to 2020 levels, exposing 300M+ residents to flash flood risks.",
+        "type": "statistical",
+        "category": "extreme rainfall trends in major cities",
+        "tweet_id": "2035192570863919579"
     }
 ]
