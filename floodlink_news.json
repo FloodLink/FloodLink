@@ -13138,5 +13138,14 @@
             "longitude": -157.8583,
             "confidence": 1.0
         }
+    },
+    {
+        "link": null,
+        "date": "2026-03-22",
+        "status": "posted",
+        "tweet": "By 2030, extreme rainfall could expose 1.8 billion urban dwellers to floods in major cities like Mumbai, Shanghai, and New York\u2014up 45% from 2020 levels. (WRI projection)",
+        "type": "statistical",
+        "category": "extreme rainfall trends in major cities",
+        "tweet_id": "2035560321553781104"
     }
 ]
