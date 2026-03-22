@@ -624,7 +624,7 @@
     "rain_mm": 62.06,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 11.869,
-    "last_updated": "2026-03-08T21:21:58.168431Z",
+    "last_updated": "2026-03-22T12:39:59.445876Z",
     "last_tweeted_at": "2026-01-10T15:15:41.544290Z",
     "tweet_id": "2010023063841095741",
     "resolved": false
@@ -11342,6 +11342,51 @@
     "last_updated": "2026-03-22T09:31:54.551847Z",
     "last_tweeted_at": "2026-03-22T04:54:59.692010Z",
     "tweet_id": "2035581010960605628",
+    "resolved": false
+  },
+  "-7.3664,20.8156": {
+    "country": "Angola",
+    "name": "Dundo",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": -7.36643,
+    "longitude": 20.81557,
+    "rain_mm": 58.69,
+    "soil_moisture": 0.521,
+    "raw_dynamic_score": 8.686,
+    "last_updated": "2026-03-22T12:39:59.445876Z",
+    "last_tweeted_at": "2026-03-22T12:39:59.445876Z",
+    "tweet_id": "2035698044423831974",
+    "resolved": false
+  },
+  "-7.3000,20.7333": {
+    "country": "Angola",
+    "name": "Chitato",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": -7.3,
+    "longitude": 20.73333,
+    "rain_mm": 58.69,
+    "soil_moisture": 0.521,
+    "raw_dynamic_score": 8.686,
+    "last_updated": "2026-03-22T12:39:59.445876Z",
+    "last_tweeted_at": "2026-03-22T12:39:59.445876Z",
+    "tweet_id": "2035698044423831974",
+    "resolved": false
+  },
+  "-1.0808,35.8711": {
+    "country": "Kenya",
+    "name": "Narok",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": -1.08083,
+    "longitude": 35.87111,
+    "rain_mm": 44.19,
+    "soil_moisture": 0.629,
+    "raw_dynamic_score": 6.97,
+    "last_updated": "2026-03-22T12:39:59.445876Z",
+    "last_tweeted_at": "2026-03-22T12:39:59.445876Z",
+    "tweet_id": "2035698297180917979",
     "resolved": false
   }
 }
