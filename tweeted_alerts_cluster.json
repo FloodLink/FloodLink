@@ -11354,7 +11354,7 @@
     "rain_mm": 58.69,
     "soil_moisture": 0.521,
     "raw_dynamic_score": 8.686,
-    "last_updated": "2026-03-22T12:39:59.445876Z",
+    "last_updated": "2026-03-22T18:33:02.286643Z",
     "last_tweeted_at": "2026-03-22T12:39:59.445876Z",
     "tweet_id": "2035698044423831974",
     "resolved": false
@@ -11387,6 +11387,36 @@
     "last_updated": "2026-03-22T15:25:37.214545Z",
     "last_tweeted_at": "2026-03-22T12:39:59.445876Z",
     "tweet_id": "2035698297180917979",
+    "resolved": false
+  },
+  "-3.5667,36.9500": {
+    "country": "United Republic of Tanzania",
+    "name": "Mbuguni",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": -3.56667,
+    "longitude": 36.95,
+    "rain_mm": 56.31,
+    "soil_moisture": 0.616,
+    "raw_dynamic_score": 8.819,
+    "last_updated": "2026-03-22T18:33:02.286643Z",
+    "last_tweeted_at": "2026-03-22T18:33:02.286643Z",
+    "tweet_id": "2035786892709699988",
+    "resolved": false
+  },
+  "-3.5618,36.9789": {
+    "country": "United Republic of Tanzania",
+    "name": "Merelani",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": -3.56182,
+    "longitude": 36.97895,
+    "rain_mm": 56.31,
+    "soil_moisture": 0.616,
+    "raw_dynamic_score": 8.819,
+    "last_updated": "2026-03-22T18:33:02.286643Z",
+    "last_tweeted_at": "2026-03-22T18:33:02.286643Z",
+    "tweet_id": "2035787145194180798",
     "resolved": false
   }
 }
