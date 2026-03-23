@@ -7589,38 +7589,6 @@
     "tweet_id": "2025797763594654064",
     "resolved": false
   },
-  "-3.8626,39.4746": {
-    "country": "Kenya",
-    "name": "Mariakani",
-    "risk_level": "Low",
-    "tweeted_level": "Low",
-    "latitude": -3.86261,
-    "longitude": 39.47458,
-    "rain_mm": 2.75,
-    "soil_moisture": 0.479,
-    "raw_dynamic_score": 0.397,
-    "last_updated": "2026-03-22T04:54:59.692010Z",
-    "last_tweeted_at": "2026-03-22T04:54:59.692010Z",
-    "tweet_id": "2035581263591993556",
-    "resolved": true,
-    "resolved_at": "2026-03-22T04:54:59.692010Z"
-  },
-  "-3.6305,39.8499": {
-    "country": "Kenya",
-    "name": "Kilifi",
-    "risk_level": "Low",
-    "tweeted_level": "Low",
-    "latitude": -3.63045,
-    "longitude": 39.84992,
-    "rain_mm": 12.31,
-    "soil_moisture": 0.585,
-    "raw_dynamic_score": 1.894,
-    "last_updated": "2026-03-22T04:54:59.692010Z",
-    "last_tweeted_at": "2026-03-22T04:54:59.692010Z",
-    "tweet_id": "2035581263591993556",
-    "resolved": true,
-    "resolved_at": "2026-03-22T04:54:59.692010Z"
-  },
   "6.2248,124.7104": {
     "country": "Philippines",
     "name": "Lake Sebu",
@@ -11191,54 +11159,6 @@
     "tweet_id": "2035212433548103855",
     "resolved": false
   },
-  "-4.0547,39.6636": {
-    "country": "Kenya",
-    "name": "Mombasa",
-    "risk_level": "Low",
-    "tweeted_level": "Low",
-    "latitude": -4.05466,
-    "longitude": 39.66359,
-    "rain_mm": 13.44,
-    "soil_moisture": 1.0,
-    "raw_dynamic_score": 2.57,
-    "last_updated": "2026-03-22T09:31:54.551847Z",
-    "last_tweeted_at": "2026-03-22T04:54:59.692010Z",
-    "tweet_id": "2035581263591993556",
-    "resolved": true,
-    "resolved_at": "2026-03-22T04:54:59.692010Z"
-  },
-  "-3.9643,39.5498": {
-    "country": "Kenya",
-    "name": "Mazeras",
-    "risk_level": "Low",
-    "tweeted_level": "Low",
-    "latitude": -3.96426,
-    "longitude": 39.5498,
-    "rain_mm": 3.12,
-    "soil_moisture": 0.481,
-    "raw_dynamic_score": 0.451,
-    "last_updated": "2026-03-22T04:54:59.692010Z",
-    "last_tweeted_at": "2026-03-22T04:54:59.692010Z",
-    "tweet_id": "2035581263591993556",
-    "resolved": true,
-    "resolved_at": "2026-03-22T04:54:59.692010Z"
-  },
-  "-3.9394,39.7488": {
-    "country": "Kenya",
-    "name": "Mtwapa",
-    "risk_level": "Low",
-    "tweeted_level": "Low",
-    "latitude": -3.93938,
-    "longitude": 39.74877,
-    "rain_mm": 13.44,
-    "soil_moisture": 1.0,
-    "raw_dynamic_score": 2.57,
-    "last_updated": "2026-03-22T04:54:59.692010Z",
-    "last_tweeted_at": "2026-03-22T04:54:59.692010Z",
-    "tweet_id": "2035581263591993556",
-    "resolved": true,
-    "resolved_at": "2026-03-22T04:54:59.692010Z"
-  },
   "-34.4626,-57.8398": {
     "country": "Uruguay",
     "name": "Colonia del Sacramento",
@@ -11399,7 +11319,7 @@
     "rain_mm": 56.31,
     "soil_moisture": 0.616,
     "raw_dynamic_score": 8.819,
-    "last_updated": "2026-03-23T01:32:38.517459Z",
+    "last_updated": "2026-03-23T05:05:14.387005Z",
     "last_tweeted_at": "2026-03-22T18:33:02.286643Z",
     "tweet_id": "2035786892709699988",
     "resolved": false
@@ -11444,10 +11364,14 @@
     "rain_mm": 65.38,
     "soil_moisture": 0.667,
     "raw_dynamic_score": 10.537,
-    "last_updated": "2026-03-23T01:32:38.517459Z",
+    "last_updated": "2026-03-23T05:05:14.387005Z",
     "last_tweeted_at": "2026-03-23T01:32:38.517459Z",
     "tweet_id": "2035892740681347445",
-    "resolved": false
+    "resolved": false,
+    "pending_downgrade": true,
+    "pending_target_level": "Low",
+    "pending_set_at": "2026-03-23T05:05:14.387005Z",
+    "pending_is_region": true
   },
   "-4.9333,38.9333": {
     "country": "United Republic of Tanzania",
@@ -11459,7 +11383,7 @@
     "rain_mm": 65.38,
     "soil_moisture": 0.667,
     "raw_dynamic_score": 10.537,
-    "last_updated": "2026-03-23T01:32:38.517459Z",
+    "last_updated": "2026-03-23T05:05:14.387005Z",
     "last_tweeted_at": "2026-03-23T01:32:38.517459Z",
     "tweet_id": "2035892740681347445",
     "resolved": false
@@ -11489,7 +11413,7 @@
     "rain_mm": 45.44,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 8.69,
-    "last_updated": "2026-03-23T01:32:38.517459Z",
+    "last_updated": "2026-03-23T05:05:14.387005Z",
     "last_tweeted_at": "2026-03-23T01:32:38.517459Z",
     "tweet_id": "2035892488117071885",
     "resolved": false
@@ -11504,7 +11428,7 @@
     "rain_mm": 84.56,
     "soil_moisture": 0.747,
     "raw_dynamic_score": 14.242,
-    "last_updated": "2026-03-23T01:32:38.517459Z",
+    "last_updated": "2026-03-23T05:05:14.387005Z",
     "last_tweeted_at": "2026-03-23T01:32:38.517459Z",
     "tweet_id": "2035892740681347445",
     "resolved": false
@@ -11519,7 +11443,7 @@
     "rain_mm": 46.56,
     "soil_moisture": 0.692,
     "raw_dynamic_score": 7.608,
-    "last_updated": "2026-03-23T01:32:38.517459Z",
+    "last_updated": "2026-03-23T05:05:14.387005Z",
     "last_tweeted_at": "2026-03-23T01:32:38.517459Z",
     "tweet_id": "2035892740681347445",
     "resolved": false
@@ -11534,10 +11458,14 @@
     "rain_mm": 75.38,
     "soil_moisture": 0.677,
     "raw_dynamic_score": 12.214,
-    "last_updated": "2026-03-23T01:32:38.517459Z",
+    "last_updated": "2026-03-23T05:05:14.387005Z",
     "last_tweeted_at": "2026-03-23T01:32:38.517459Z",
     "tweet_id": "2035892993157452040",
-    "resolved": false
+    "resolved": false,
+    "pending_downgrade": true,
+    "pending_target_level": "Low",
+    "pending_set_at": "2026-03-23T05:05:14.387005Z",
+    "pending_is_region": true
   },
   "-6.8235,39.2695": {
     "country": "United Republic of Tanzania",
@@ -11549,7 +11477,7 @@
     "rain_mm": 75.38,
     "soil_moisture": 0.677,
     "raw_dynamic_score": 12.214,
-    "last_updated": "2026-03-23T01:32:38.517459Z",
+    "last_updated": "2026-03-23T05:05:14.387005Z",
     "last_tweeted_at": "2026-03-23T01:32:38.517459Z",
     "tweet_id": "2035892993157452040",
     "resolved": false
@@ -11564,9 +11492,24 @@
     "rain_mm": 51.44,
     "soil_moisture": 0.626,
     "raw_dynamic_score": 8.101,
-    "last_updated": "2026-03-23T01:32:38.517459Z",
+    "last_updated": "2026-03-23T05:05:14.387005Z",
     "last_tweeted_at": "2026-03-23T01:32:38.517459Z",
     "tweet_id": "2035893245826478580",
+    "resolved": false
+  },
+  "-6.2298,155.5660": {
+    "country": "Papua New Guinea",
+    "name": "Arawa",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": -6.22977,
+    "longitude": 155.56598,
+    "rain_mm": 50.31,
+    "soil_moisture": 0.647,
+    "raw_dynamic_score": 8.021,
+    "last_updated": "2026-03-23T05:05:14.387005Z",
+    "last_tweeted_at": "2026-03-23T05:05:14.387005Z",
+    "tweet_id": "2035945978621268257",
     "resolved": false
   }
 }
