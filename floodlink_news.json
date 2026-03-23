@@ -13310,5 +13310,35 @@
             "longitude": -157.8583,
             "confidence": 1.0
         }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9nVzBGN1EzVks1c2RDWnlIclBDRGRJNjFWNGlRR0dnVXJHVk9Fbk9mS0pHZnEzZkpkbmpWTHBlT29LMXNQS0pkWGpqUTZPMmxRYi14bGIwZ3dmZWw5OTFYSThwNnJ4VUtVaXpaRTllcDlYZHFGT3VyejRGeXQzZw?oc=5",
+        "date": "2026-03-23",
+        "title": "Hawaii assesses damage left by worst flooding in more than 20 years - The Guardian",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE9nVzBGN1EzVks1c2RDWnlIclBDRGRJNjFWNGlRR0dnVXJHVk9Fbk9mS0pHZnEzZkpkbmpWTHBlT29LMXNQS0pkWGpqUTZPMmxRYi14bGIwZ3dmZWw5OTFYSThwNnJ4VUtVaXpaRTllcDlYZHFGT3VyejRGeXQzZw?oc=5\" target=\"_blank\">Hawaii assesses damage left by worst flooding in more than 20 years</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUlFWVWg3X1o5ZnVZX0h5cjNrQVF5N1dSSURBLXAteVRYQkZvMUhrRkZmUHVyVzRTWkwza0pnQm43Mjd4QUdwQ1QwZ2NYOE1MSVlmVXFRRm5ZVGNidGFkR3IxVnprNnZFOTVFcEdVY0ZCcENYLWUxaWR0MkNHRjFZU0JvRjlkN0NUVHhabUpndlNSSXVST1ppV1BGOFVwRk9ZSW9IQTVrQkNZMlBNWGp0UHJKUQ?oc=5",
+        "date": "2026-03-23",
+        "title": "\u2018Kona Low 2: The Sequel\u2019: Heavy rain, thunderstorms still possible for Big Island - Big Island Now",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOUlFWVWg3X1o5ZnVZX0h5cjNrQVF5N1dSSURBLXAteVRYQkZvMUhrRkZmUHVyVzRTWkwza0pnQm43Mjd4QUdwQ1QwZ2NYOE1MSVlmVXFRRm5ZVGNidGFkR3IxVnprNnZFOTVFcEdVY0ZCcENYLWUxaWR0MkNHRjFZU0JvRjlkN0NUVHhabUpndlNSSXVST1ppV1BGOFVwRk9ZSW9IQTVrQkNZMlBNWGp0UHJKUQ?oc=5\" target=\"_blank\">\u2018Kona Low 2: The Sequel\u2019: Heavy rain, thunderstorms still possible for Big Island</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Big Island Now</font>",
+        "similarity_excluded": "No",
+        "score": 6,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOb1k3WktPS2s2MGtxU2RYSDJONEpkVGd3U1lMZVN0bzk5ZkJpSHE0ZGh1Q1pMU3h5cWtiRG53WGQ3LVFDWV9QazlaTUVISHpQTzQzNnI0R2RtRnJtOUo3cnFZaHEta1E4VVNRREdQRWlKT01SejJVWlFkQnl3cEpuclNRQTUzbFFnc25DUnFn?oc=5",
+        "date": "2026-03-23",
+        "title": "Flood alert: River Nyando overflows, cuts off Ahero Bridge route - the-star.co.ke",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOb1k3WktPS2s2MGtxU2RYSDJONEpkVGd3U1lMZVN0bzk5ZkJpSHE0ZGh1Q1pMU3h5cWtiRG53WGQ3LVFDWV9QazlaTUVISHpQTzQzNnI0R2RtRnJtOUo3cnFZaHEta1E4VVNRREdQRWlKT01SejJVWlFkQnl3cEpuclNRQTUzbFFnc25DUnFn?oc=5\" target=\"_blank\">Flood alert: River Nyando overflows, cuts off Ahero Bridge route</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">the-star.co.ke</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
     }
 ]
