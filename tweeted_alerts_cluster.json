@@ -11507,9 +11507,24 @@
     "rain_mm": 50.31,
     "soil_moisture": 0.647,
     "raw_dynamic_score": 8.021,
-    "last_updated": "2026-03-23T05:05:14.387005Z",
+    "last_updated": "2026-03-23T07:07:58.660398Z",
     "last_tweeted_at": "2026-03-23T05:05:14.387005Z",
     "tweet_id": "2035945978621268257",
+    "resolved": false
+  },
+  "-33.2310,-54.3858": {
+    "country": "Uruguay",
+    "name": "Treinta y Tres",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": -33.231,
+    "longitude": -54.38577,
+    "rain_mm": 52.75,
+    "soil_moisture": 0.522,
+    "raw_dynamic_score": 7.811,
+    "last_updated": "2026-03-23T07:07:58.660398Z",
+    "last_tweeted_at": "2026-03-23T07:07:58.660398Z",
+    "tweet_id": "2035976874955063423",
     "resolved": false
   }
 }
