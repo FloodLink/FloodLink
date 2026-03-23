@@ -13117,5 +13117,14 @@
         "score": 0,
         "status": "skipped",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-03-23",
+        "status": "posted",
+        "tweet": "Global economic losses from floods, flash floods, and storm surges reached $145B in 2025\u2014 a 50% rise from 2020 levels, per UN estimates. Extreme rainfall events are accelerating the trend.",
+        "type": "statistical",
+        "category": "economic losses from floods and flash floods",
+        "tweet_id": "2036081614183088484"
     }
 ]
