@@ -5889,7 +5889,7 @@
     "rain_mm": 46.69,
     "soil_moisture": 0.533,
     "raw_dynamic_score": 6.961,
-    "last_updated": "2026-03-23T16:00:33.804806Z",
+    "last_updated": "2026-03-23T18:48:34.445287Z",
     "last_tweeted_at": "2026-02-12T12:49:51.721567Z",
     "tweet_id": "2021929788038910275",
     "resolved": false
@@ -11615,6 +11615,21 @@
     "last_updated": "2026-03-23T16:00:33.804806Z",
     "last_tweeted_at": "2026-03-23T16:00:33.804806Z",
     "tweet_id": "2036111156318752975",
+    "resolved": false
+  },
+  "6.9954,-9.4712": {
+    "country": "Liberia",
+    "name": "Gbarnga",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 6.99543,
+    "longitude": -9.47122,
+    "rain_mm": 45.38,
+    "soil_moisture": 0.531,
+    "raw_dynamic_score": 6.758,
+    "last_updated": "2026-03-23T18:48:34.445287Z",
+    "last_tweeted_at": "2026-03-23T18:48:34.445287Z",
+    "tweet_id": "2036153189897011637",
     "resolved": false
   }
 }
