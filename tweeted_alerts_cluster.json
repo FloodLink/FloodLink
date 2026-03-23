@@ -5889,7 +5889,7 @@
     "rain_mm": 46.69,
     "soil_moisture": 0.533,
     "raw_dynamic_score": 6.961,
-    "last_updated": "2026-03-23T12:53:49.634913Z",
+    "last_updated": "2026-03-23T16:00:33.804806Z",
     "last_tweeted_at": "2026-02-12T12:49:51.721567Z",
     "tweet_id": "2021929788038910275",
     "resolved": false
@@ -11537,7 +11537,7 @@
     "rain_mm": 49.5,
     "soil_moisture": 0.61,
     "raw_dynamic_score": 7.723,
-    "last_updated": "2026-03-23T10:02:57.634658Z",
+    "last_updated": "2026-03-23T16:00:33.804806Z",
     "last_tweeted_at": "2026-03-23T10:02:57.634658Z",
     "tweet_id": "2036020904090624359",
     "resolved": false
@@ -11552,7 +11552,7 @@
     "rain_mm": 45.44,
     "soil_moisture": 0.486,
     "raw_dynamic_score": 6.581,
-    "last_updated": "2026-03-23T10:02:57.634658Z",
+    "last_updated": "2026-03-23T16:00:33.804806Z",
     "last_tweeted_at": "2026-03-23T10:02:57.634658Z",
     "tweet_id": "2036021156554088906",
     "resolved": false
@@ -11567,7 +11567,7 @@
     "rain_mm": 55.44,
     "soil_moisture": 0.437,
     "raw_dynamic_score": 7.783,
-    "last_updated": "2026-03-23T10:02:57.634658Z",
+    "last_updated": "2026-03-23T16:00:33.804806Z",
     "last_tweeted_at": "2026-03-23T10:02:57.634658Z",
     "tweet_id": "2036021409068032304",
     "resolved": false
@@ -11582,9 +11582,39 @@
     "rain_mm": 65.25,
     "soil_moisture": 0.537,
     "raw_dynamic_score": 9.752,
-    "last_updated": "2026-03-23T10:02:57.634658Z",
+    "last_updated": "2026-03-23T16:00:33.804806Z",
     "last_tweeted_at": "2026-03-23T10:02:57.634658Z",
     "tweet_id": "2036021661539918304",
+    "resolved": false
+  },
+  "1.5995,11.5793": {
+    "country": "Gabon",
+    "name": "Oyem",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 1.5995,
+    "longitude": 11.57933,
+    "rain_mm": 73.56,
+    "soil_moisture": 0.605,
+    "raw_dynamic_score": 11.443,
+    "last_updated": "2026-03-23T16:00:33.804806Z",
+    "last_tweeted_at": "2026-03-23T16:00:33.804806Z",
+    "tweet_id": "2036110903653892178",
+    "resolved": false
+  },
+  "5.7012,-1.2866": {
+    "country": "Ghana",
+    "name": "Foso",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 5.70119,
+    "longitude": -1.28657,
+    "rain_mm": 47.38,
+    "soil_moisture": 0.501,
+    "raw_dynamic_score": 6.926,
+    "last_updated": "2026-03-23T16:00:33.804806Z",
+    "last_tweeted_at": "2026-03-23T16:00:33.804806Z",
+    "tweet_id": "2036111156318752975",
     "resolved": false
   }
 }
