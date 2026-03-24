@@ -11670,7 +11670,7 @@
     "rain_mm": 56.06,
     "soil_moisture": 0.728,
     "raw_dynamic_score": 9.346,
-    "last_updated": "2026-03-24T04:55:55.994075Z",
+    "last_updated": "2026-03-24T09:54:44.881877Z",
     "last_tweeted_at": "2026-03-24T04:55:55.994075Z",
     "tweet_id": "2036306025108713748",
     "resolved": false
@@ -11730,7 +11730,7 @@
     "rain_mm": 56.06,
     "soil_moisture": 0.728,
     "raw_dynamic_score": 9.346,
-    "last_updated": "2026-03-24T04:55:55.994075Z",
+    "last_updated": "2026-03-24T09:54:44.881877Z",
     "last_tweeted_at": "2026-03-24T04:55:55.994075Z",
     "tweet_id": "2036306277651865754",
     "resolved": false
@@ -11775,9 +11775,24 @@
     "rain_mm": 67.88,
     "soil_moisture": 0.688,
     "raw_dynamic_score": 11.069,
-    "last_updated": "2026-03-24T07:02:14.529401Z",
+    "last_updated": "2026-03-24T09:54:44.881877Z",
     "last_tweeted_at": "2026-03-24T07:02:14.529401Z",
     "tweet_id": "2036337818709143852",
+    "resolved": false
+  },
+  "-0.2537,-79.1763": {
+    "country": "Ecuador",
+    "name": "Santo Domingo de los Colorados",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": -0.25368,
+    "longitude": -79.17628,
+    "rain_mm": 46.75,
+    "soil_moisture": 0.655,
+    "raw_dynamic_score": 7.484,
+    "last_updated": "2026-03-24T09:54:44.881877Z",
+    "last_tweeted_at": "2026-03-24T09:54:44.881877Z",
+    "tweet_id": "2036381223421976994",
     "resolved": false
   }
 }
