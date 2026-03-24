@@ -11854,5 +11854,50 @@
     "last_tweeted_at": "2026-03-24T16:06:27.715614Z",
     "tweet_id": "2036475275265946108",
     "resolved": false
+  },
+  "-25.2131,-50.9778": {
+    "country": "Brazil",
+    "name": "Prudentópolis",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": -25.21306,
+    "longitude": -50.97778,
+    "rain_mm": 49.06,
+    "soil_moisture": 0.558,
+    "raw_dynamic_score": 7.425,
+    "last_updated": "2026-03-24T18:59:16.351117Z",
+    "last_tweeted_at": "2026-03-24T18:59:16.351117Z",
+    "tweet_id": "2036518265782976701",
+    "resolved": false
+  },
+  "-14.6122,-41.1356": {
+    "country": "Brazil",
+    "name": "Anagé",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": -14.61222,
+    "longitude": -41.13556,
+    "rain_mm": 48.12,
+    "soil_moisture": 0.502,
+    "raw_dynamic_score": 7.04,
+    "last_updated": "2026-03-24T18:59:16.351117Z",
+    "last_tweeted_at": "2026-03-24T18:59:16.351117Z",
+    "tweet_id": "2036518518355526114",
+    "resolved": false
+  },
+  "-4.8300,29.6581": {
+    "country": "United Republic of Tanzania",
+    "name": "Mwandiga",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": -4.83,
+    "longitude": 29.65806,
+    "rain_mm": 44.12,
+    "soil_moisture": 0.63,
+    "raw_dynamic_score": 6.966,
+    "last_updated": "2026-03-24T18:59:16.351117Z",
+    "last_tweeted_at": "2026-03-24T18:59:16.351117Z",
+    "tweet_id": "2036518770890400112",
+    "resolved": false
   }
 }
