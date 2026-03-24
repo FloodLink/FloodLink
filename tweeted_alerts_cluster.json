@@ -11764,5 +11764,20 @@
     "last_tweeted_at": "2026-03-24T04:55:55.994075Z",
     "tweet_id": "2036306277651865754",
     "resolved": false
+  },
+  "-1.0288,-79.4626": {
+    "country": "Ecuador",
+    "name": "Quevedo",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": -1.02881,
+    "longitude": -79.46264,
+    "rain_mm": 67.88,
+    "soil_moisture": 0.688,
+    "raw_dynamic_score": 11.069,
+    "last_updated": "2026-03-24T07:02:14.529401Z",
+    "last_tweeted_at": "2026-03-24T07:02:14.529401Z",
+    "tweet_id": "2036337818709143852",
+    "resolved": false
   }
 }
