@@ -13101,5 +13101,14 @@
             "longitude": -157.95,
             "confidence": 1.0
         }
+    },
+    {
+        "link": null,
+        "date": "2026-03-24",
+        "status": "posted",
+        "tweet": "By 2026, early warning systems for floods, flash floods, and storm surges are projected to cover 70% of the 2.3 billion people globally at risk\u2014up from 45% in 2020\u2014but 690 million remain unprotected.",
+        "type": "statistical",
+        "category": "coverage of flood early warning systems worldwide",
+        "tweet_id": "2036285759653650776"
     }
 ]
