@@ -11863,5 +11863,20 @@
     "last_tweeted_at": "2026-03-25T09:51:50.211250Z",
     "tweet_id": "2036742898725593215",
     "resolved": false
+  },
+  "3.4136,30.9599": {
+    "country": "Uganda",
+    "name": "Koboko",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 3.41364,
+    "longitude": 30.95994,
+    "rain_mm": 45.81,
+    "soil_moisture": 0.548,
+    "raw_dynamic_score": 6.893,
+    "last_updated": "2026-03-25T12:56:41.739513Z",
+    "last_tweeted_at": "2026-03-25T12:56:41.739513Z",
+    "tweet_id": "2036789408767332512",
+    "resolved": false
   }
 }
