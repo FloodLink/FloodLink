@@ -11899,5 +11899,35 @@
     "last_tweeted_at": "2026-03-24T18:59:16.351117Z",
     "tweet_id": "2036518770890400112",
     "resolved": false
+  },
+  "-2.9497,12.7042": {
+    "country": "Congo",
+    "name": "Mossendjo",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": -2.94968,
+    "longitude": 12.70423,
+    "rain_mm": 44.5,
+    "soil_moisture": 0.613,
+    "raw_dynamic_score": 6.957,
+    "last_updated": "2026-03-25T01:30:43.182855Z",
+    "last_tweeted_at": "2026-03-25T01:30:43.182855Z",
+    "tweet_id": "2036616782124081355",
+    "resolved": false
+  },
+  "32.9926,47.4198": {
+    "country": "Islamic Republic of Iran",
+    "name": "Ābdānān",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 32.9926,
+    "longitude": 47.4198,
+    "rain_mm": 41.88,
+    "soil_moisture": 0.639,
+    "raw_dynamic_score": 6.645,
+    "last_updated": "2026-03-25T01:30:43.182855Z",
+    "last_tweeted_at": "2026-03-25T01:30:43.182855Z",
+    "tweet_id": "2036617034658922948",
+    "resolved": false
   }
 }
