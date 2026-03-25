@@ -11848,5 +11848,20 @@
     "last_tweeted_at": "2026-03-25T04:56:07.830403Z",
     "tweet_id": "2036668465151447343",
     "resolved": false
+  },
+  "24.7426,56.4670": {
+    "country": "Oman",
+    "name": "Shināş",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 24.7426,
+    "longitude": 56.46698,
+    "rain_mm": 39.94,
+    "soil_moisture": 1.0,
+    "raw_dynamic_score": 7.638,
+    "last_updated": "2026-03-25T09:51:50.211250Z",
+    "last_tweeted_at": "2026-03-25T09:51:50.211250Z",
+    "tweet_id": "2036742898725593215",
+    "resolved": false
   }
 }
