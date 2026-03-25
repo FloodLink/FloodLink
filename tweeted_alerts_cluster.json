@@ -10254,7 +10254,7 @@
     "rain_mm": 46.88,
     "soil_moisture": 0.649,
     "raw_dynamic_score": 7.481,
-    "last_updated": "2026-03-16T10:04:02.250829Z",
+    "last_updated": "2026-03-25T18:52:09.662625Z",
     "last_tweeted_at": "2026-03-16T05:16:05.293415Z",
     "tweet_id": "2033411995890856248",
     "resolved": false
@@ -11907,6 +11907,51 @@
     "last_updated": "2026-03-25T16:10:24.319138Z",
     "last_tweeted_at": "2026-03-25T16:10:24.319138Z",
     "tweet_id": "2036838150836834490",
+    "resolved": false
+  },
+  "7.8153,126.0544": {
+    "country": "Philippines",
+    "name": "Monkayo",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 7.81528,
+    "longitude": 126.05444,
+    "rain_mm": 63.31,
+    "soil_moisture": 0.58,
+    "raw_dynamic_score": 9.705,
+    "last_updated": "2026-03-25T18:52:09.662625Z",
+    "last_tweeted_at": "2026-03-25T18:52:09.662625Z",
+    "tweet_id": "2036878864475889762",
+    "resolved": false
+  },
+  "7.6731,126.0889": {
+    "country": "Philippines",
+    "name": "Compostela",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 7.67306,
+    "longitude": 126.08889,
+    "rain_mm": 63.31,
+    "soil_moisture": 0.58,
+    "raw_dynamic_score": 9.705,
+    "last_updated": "2026-03-25T18:52:09.662625Z",
+    "last_tweeted_at": "2026-03-25T18:52:09.662625Z",
+    "tweet_id": "2036878864475889762",
+    "resolved": false
+  },
+  "25.2630,63.4692": {
+    "country": "Pakistan",
+    "name": "Pasni",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 25.26302,
+    "longitude": 63.46921,
+    "rain_mm": 34.44,
+    "soil_moisture": 1.0,
+    "raw_dynamic_score": 6.586,
+    "last_updated": "2026-03-25T18:52:09.662625Z",
+    "last_tweeted_at": "2026-03-25T18:52:09.662625Z",
+    "tweet_id": "2036879117035950448",
     "resolved": false
   }
 }
