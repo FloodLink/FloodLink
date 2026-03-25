@@ -13155,5 +13155,25 @@
         "score": 6,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNeVF0NHdzZ3daUUVoX0VCSXpSSXkxNEZEYnlMRzBlSzBRV2Rib2VmX1pxb08wcVlILUhvcFUxMFZLNHVLR1RLbXpaM2U4RXBKTFZiR3lYczR2QnJ2ZktraERNLW16UXNiNE9PbjBvX3MyNGp5TlJmNlFOZEk1NjA2Z1dFTmQzaERXeUhNR0QyY0R6YUJlU3d4LWpNc185TFp5NU1CcXlMZWtSUkJzN2xJajZqWXJMZnNqT2xhRVdfOENpSnFmVFFqWFFHNU52R1Zpc1lwWGR6UQ?oc=5",
+        "date": "2026-03-25",
+        "title": "Seven People, One Dog Rescued by Coast Guard and Navy Amid Oahu Flash Flooding - Homeland Security Today",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxNeVF0NHdzZ3daUUVoX0VCSXpSSXkxNEZEYnlMRzBlSzBRV2Rib2VmX1pxb08wcVlILUhvcFUxMFZLNHVLR1RLbXpaM2U4RXBKTFZiR3lYczR2QnJ2ZktraERNLW16UXNiNE9PbjBvX3MyNGp5TlJmNlFOZEk1NjA2Z1dFTmQzaERXeUhNR0QyY0R6YUJlU3d4LWpNc185TFp5NU1CcXlMZWtSUkJzN2xJajZqWXJMZnNqT2xhRVdfOENpSnFmVFFqWFFHNU52R1Zpc1lwWGR6UQ?oc=5\" target=\"_blank\">Seven People, One Dog Rescued by Coast Guard and Navy Amid Oahu Flash Flooding</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Homeland Security Today</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOVGkyZkdlNndNTjdINEl4czhVNUdGZlN4dWZsX0hma0NVZFNRaU1tUm9qU0s3TjU4YUxOS0wxVHB0SGdIWjdWeUdMYmRGRV9CS1dXVVh0M0FLRmZHRnQ4ZDBtYTJQLVlJaWdBV2Y3N3hWYXIxZmdRQTZBNTVBVE5TMUtfNlNkZTFSTHBLaEg3YlpZUWthd2c?oc=5",
+        "date": "2026-03-25",
+        "title": "Hawaii digs out from another round of flooding after a surprise downpour, in photos - AP News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxOVGkyZkdlNndNTjdINEl4czhVNUdGZlN4dWZsX0hma0NVZFNRaU1tUm9qU0s3TjU4YUxOS0wxVHB0SGdIWjdWeUdMYmRGRV9CS1dXVVh0M0FLRmZHRnQ4ZDBtYTJQLVlJaWdBV2Y3N3hWYXIxZmdRQTZBNTVBVE5TMUtfNlNkZTFSTHBLaEg3YlpZUWthd2c?oc=5\" target=\"_blank\">Hawaii digs out from another round of flooding after a surprise downpour, in photos</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AP News</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
     }
 ]
