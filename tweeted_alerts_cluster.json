@@ -11859,7 +11859,7 @@
     "rain_mm": 39.94,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 7.638,
-    "last_updated": "2026-03-25T09:51:50.211250Z",
+    "last_updated": "2026-03-25T16:10:24.319138Z",
     "last_tweeted_at": "2026-03-25T09:51:50.211250Z",
     "tweet_id": "2036742898725593215",
     "resolved": false
@@ -11874,9 +11874,39 @@
     "rain_mm": 45.81,
     "soil_moisture": 0.548,
     "raw_dynamic_score": 6.893,
-    "last_updated": "2026-03-25T12:56:41.739513Z",
+    "last_updated": "2026-03-25T16:10:24.319138Z",
     "last_tweeted_at": "2026-03-25T12:56:41.739513Z",
     "tweet_id": "2036789408767332512",
+    "resolved": false
+  },
+  "25.0485,61.7457": {
+    "country": "Pakistan",
+    "name": "Jiwani",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 25.04852,
+    "longitude": 61.74573,
+    "rain_mm": 46.44,
+    "soil_moisture": 1.0,
+    "raw_dynamic_score": 8.881,
+    "last_updated": "2026-03-25T16:10:24.319138Z",
+    "last_tweeted_at": "2026-03-25T16:10:24.319138Z",
+    "tweet_id": "2036838150836834490",
+    "resolved": false
+  },
+  "25.1216,62.3254": {
+    "country": "Pakistan",
+    "name": "Gwadar",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 25.12163,
+    "longitude": 62.32541,
+    "rain_mm": 42.88,
+    "soil_moisture": 1.0,
+    "raw_dynamic_score": 8.2,
+    "last_updated": "2026-03-25T16:10:24.319138Z",
+    "last_tweeted_at": "2026-03-25T16:10:24.319138Z",
+    "tweet_id": "2036838150836834490",
     "resolved": false
   }
 }
