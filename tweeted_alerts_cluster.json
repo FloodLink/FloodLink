@@ -4269,7 +4269,7 @@
     "rain_mm": 50.06,
     "soil_moisture": 0.689,
     "raw_dynamic_score": 8.169,
-    "last_updated": "2026-02-01T21:20:35.585454Z",
+    "last_updated": "2026-03-26T05:07:57.689619Z",
     "last_tweeted_at": "2026-02-01T18:28:07.945867Z",
     "tweet_id": "2018028649073541194",
     "resolved": false
@@ -4629,7 +4629,7 @@
     "rain_mm": 38.88,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 7.435,
-    "last_updated": "2026-03-26T01:35:46.383004Z",
+    "last_updated": "2026-03-26T05:07:57.689619Z",
     "last_tweeted_at": "2026-02-04T18:42:21.497810Z",
     "tweet_id": "2019119902410297832",
     "resolved": false
@@ -12092,7 +12092,7 @@
     "rain_mm": 40.69,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 7.781,
-    "last_updated": "2026-03-26T01:35:46.383004Z",
+    "last_updated": "2026-03-26T05:07:57.689619Z",
     "last_tweeted_at": "2026-03-26T01:35:46.383004Z",
     "tweet_id": "2036980442562285628",
     "resolved": false
@@ -12110,6 +12110,36 @@
     "last_updated": "2026-03-26T01:35:46.383004Z",
     "last_tweeted_at": "2026-03-26T01:35:46.383004Z",
     "tweet_id": "2036980442562285628",
+    "resolved": false
+  },
+  "-17.8167,-63.0500": {
+    "country": "Plurinational State of Bolivia",
+    "name": "Cotoca",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": -17.81667,
+    "longitude": -63.05,
+    "rain_mm": 50.75,
+    "soil_moisture": 0.456,
+    "raw_dynamic_score": 7.214,
+    "last_updated": "2026-03-26T05:07:57.689619Z",
+    "last_tweeted_at": "2026-03-26T05:07:57.689619Z",
+    "tweet_id": "2037033830163370185",
+    "resolved": false
+  },
+  "32.4619,46.6879": {
+    "country": "Iraq",
+    "name": "‘Alī al Gharbī",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 32.46186,
+    "longitude": 46.68794,
+    "rain_mm": 59.5,
+    "soil_moisture": 0.717,
+    "raw_dynamic_score": 9.858,
+    "last_updated": "2026-03-26T05:07:57.689619Z",
+    "last_tweeted_at": "2026-03-26T05:07:57.689619Z",
+    "tweet_id": "2037034082849247620",
     "resolved": false
   }
 }
