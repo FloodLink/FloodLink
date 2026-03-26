@@ -4629,7 +4629,7 @@
     "rain_mm": 38.88,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 7.435,
-    "last_updated": "2026-02-04T21:30:27.299566Z",
+    "last_updated": "2026-03-26T01:35:46.383004Z",
     "last_tweeted_at": "2026-02-04T18:42:21.497810Z",
     "tweet_id": "2019119902410297832",
     "resolved": false
@@ -9099,7 +9099,7 @@
     "rain_mm": 59.0,
     "soil_moisture": 0.665,
     "raw_dynamic_score": 9.499,
-    "last_updated": "2026-03-25T21:37:55.912987Z",
+    "last_updated": "2026-03-26T01:35:46.383004Z",
     "last_tweeted_at": "2026-03-08T21:21:58.168431Z",
     "tweet_id": "2030756485479961017",
     "resolved": false
@@ -9129,7 +9129,7 @@
     "rain_mm": 40.94,
     "soil_moisture": 0.671,
     "raw_dynamic_score": 6.611,
-    "last_updated": "2026-03-25T21:37:55.912987Z",
+    "last_updated": "2026-03-26T01:35:46.383004Z",
     "last_tweeted_at": "2026-03-09T04:53:04.388443Z",
     "tweet_id": "2030870246496653806",
     "resolved": false
@@ -11919,7 +11919,7 @@
     "rain_mm": 63.31,
     "soil_moisture": 0.58,
     "raw_dynamic_score": 9.705,
-    "last_updated": "2026-03-25T18:52:09.662625Z",
+    "last_updated": "2026-03-26T01:35:46.383004Z",
     "last_tweeted_at": "2026-03-25T18:52:09.662625Z",
     "tweet_id": "2036878864475889762",
     "resolved": false
@@ -11964,10 +11964,18 @@
     "rain_mm": 75.38,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 14.415,
-    "last_updated": "2026-03-25T21:37:55.912987Z",
+    "last_updated": "2026-03-26T01:35:46.383004Z",
     "last_tweeted_at": "2026-03-25T21:37:55.912987Z",
     "tweet_id": "2036920580361138231",
-    "resolved": false
+    "resolved": false,
+    "pending_downgrade": true,
+    "pending_target_level": "Low",
+    "pending_set_at": "2026-03-26T01:35:46.383004Z",
+    "pending_is_region": false,
+    "pending_observed_level": "Low",
+    "pending_observed_rain_mm": 33.75,
+    "pending_observed_soil_moisture": 1.0,
+    "pending_observed_raw_dynamic_score": 6.455
   },
   "45.2390,11.7498": {
     "country": "Italy",
@@ -11979,7 +11987,7 @@
     "rain_mm": 44.0,
     "soil_moisture": 0.679,
     "raw_dynamic_score": 7.141,
-    "last_updated": "2026-03-25T21:37:55.912987Z",
+    "last_updated": "2026-03-26T01:35:46.383004Z",
     "last_tweeted_at": "2026-03-25T21:37:55.912987Z",
     "tweet_id": "2036920832694636827",
     "resolved": false
@@ -12039,7 +12047,7 @@
     "rain_mm": 44.19,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 8.451,
-    "last_updated": "2026-03-25T21:37:55.912987Z",
+    "last_updated": "2026-03-26T01:35:46.383004Z",
     "last_tweeted_at": "2026-03-25T21:37:55.912987Z",
     "tweet_id": "2036921085380485355",
     "resolved": false
@@ -12054,7 +12062,7 @@
     "rain_mm": 40.62,
     "soil_moisture": 0.721,
     "raw_dynamic_score": 6.744,
-    "last_updated": "2026-03-25T21:37:55.912987Z",
+    "last_updated": "2026-03-26T01:35:46.383004Z",
     "last_tweeted_at": "2026-03-25T21:37:55.912987Z",
     "tweet_id": "2036921337919529461",
     "resolved": false
@@ -12069,9 +12077,39 @@
     "rain_mm": 70.94,
     "soil_moisture": 0.635,
     "raw_dynamic_score": 11.227,
-    "last_updated": "2026-03-25T21:37:55.912987Z",
+    "last_updated": "2026-03-26T01:35:46.383004Z",
     "last_tweeted_at": "2026-03-25T21:37:55.912987Z",
     "tweet_id": "2036921590580208086",
+    "resolved": false
+  },
+  "-9.3451,28.7340": {
+    "country": "Zambia",
+    "name": "Nchelenge",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": -9.34506,
+    "longitude": 28.73396,
+    "rain_mm": 40.69,
+    "soil_moisture": 1.0,
+    "raw_dynamic_score": 7.781,
+    "last_updated": "2026-03-26T01:35:46.383004Z",
+    "last_tweeted_at": "2026-03-26T01:35:46.383004Z",
+    "tweet_id": "2036980442562285628",
+    "resolved": false
+  },
+  "-8.6604,29.1614": {
+    "country": "Zambia",
+    "name": "Chiengi",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": -8.66043,
+    "longitude": 29.16142,
+    "rain_mm": 54.0,
+    "soil_moisture": 0.616,
+    "raw_dynamic_score": 8.457,
+    "last_updated": "2026-03-26T01:35:46.383004Z",
+    "last_tweeted_at": "2026-03-26T01:35:46.383004Z",
+    "tweet_id": "2036980442562285628",
     "resolved": false
   }
 }
