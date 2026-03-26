@@ -12690,5 +12690,13 @@
         "score": 8,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-03-26",
+        "status": "posted",
+        "tweet": "By 2026, \ud83c\uddf3\ud83c\uddf1 Netherlands' flood defenses span 26,200 km of dikes and levees, protecting low-lying areas from rising seas and river overflows.",
+        "type": "infrastructure",
+        "tweet_id": "2037047813297889666"
     }
 ]
