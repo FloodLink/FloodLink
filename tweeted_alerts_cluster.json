@@ -4269,7 +4269,7 @@
     "rain_mm": 50.06,
     "soil_moisture": 0.689,
     "raw_dynamic_score": 8.169,
-    "last_updated": "2026-03-26T05:07:57.689619Z",
+    "last_updated": "2026-03-26T07:06:21.826589Z",
     "last_tweeted_at": "2026-02-01T18:28:07.945867Z",
     "tweet_id": "2018028649073541194",
     "resolved": false
@@ -12107,7 +12107,7 @@
     "rain_mm": 54.0,
     "soil_moisture": 0.616,
     "raw_dynamic_score": 8.457,
-    "last_updated": "2026-03-26T01:35:46.383004Z",
+    "last_updated": "2026-03-26T07:06:21.826589Z",
     "last_tweeted_at": "2026-03-26T01:35:46.383004Z",
     "tweet_id": "2036980442562285628",
     "resolved": false
@@ -12130,16 +12130,16 @@
   "32.4619,46.6879": {
     "country": "Iraq",
     "name": "‘Alī al Gharbī",
-    "risk_level": "Medium",
-    "tweeted_level": "Medium",
+    "risk_level": "High",
+    "tweeted_level": "High",
     "latitude": 32.46186,
     "longitude": 46.68794,
-    "rain_mm": 59.5,
-    "soil_moisture": 0.717,
-    "raw_dynamic_score": 9.858,
-    "last_updated": "2026-03-26T05:07:57.689619Z",
-    "last_tweeted_at": "2026-03-26T05:07:57.689619Z",
-    "tweet_id": "2037034082849247620",
+    "rain_mm": 81.12,
+    "soil_moisture": 0.745,
+    "raw_dynamic_score": 13.649,
+    "last_updated": "2026-03-26T07:06:21.826589Z",
+    "last_tweeted_at": "2026-03-26T07:06:21.826589Z",
+    "tweet_id": "2037063632995881465",
     "resolved": false
   }
 }
