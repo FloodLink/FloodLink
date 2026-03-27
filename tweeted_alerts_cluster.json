@@ -13249,5 +13249,35 @@
     "last_tweeted_at": "2026-03-27T05:09:51.595964Z",
     "tweet_id": "2037396693373661575",
     "resolved": false
+  },
+  "40.3744,50.0853": {
+    "country": "Azerbaijan",
+    "name": "Hövsan",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 40.37444,
+    "longitude": 50.08528,
+    "rain_mm": 44.12,
+    "soil_moisture": 1.0,
+    "raw_dynamic_score": 8.439,
+    "last_updated": "2026-03-27T07:05:46.388611Z",
+    "last_tweeted_at": "2026-03-27T07:05:46.388611Z",
+    "tweet_id": "2037425877663793242",
+    "resolved": false
+  },
+  "7.2986,-61.5050": {
+    "country": "Bolivarian Republic of Venezuela",
+    "name": "Tumeremo",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 7.29861,
+    "longitude": -61.50497,
+    "rain_mm": 57.69,
+    "soil_moisture": 0.559,
+    "raw_dynamic_score": 8.733,
+    "last_updated": "2026-03-27T07:05:46.388611Z",
+    "last_tweeted_at": "2026-03-27T07:05:46.388611Z",
+    "tweet_id": "2037426130257363330",
+    "resolved": false
   }
 }
