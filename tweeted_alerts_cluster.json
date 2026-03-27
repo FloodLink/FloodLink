@@ -13272,5 +13272,20 @@
     "last_tweeted_at": "2026-03-27T07:05:46.388611Z",
     "tweet_id": "2037426130257363330",
     "resolved": false
+  },
+  "6.3381,5.6258": {
+    "country": "Nigeria",
+    "name": "Benin City",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 6.33815,
+    "longitude": 5.62575,
+    "rain_mm": 48.44,
+    "soil_moisture": 0.559,
+    "raw_dynamic_score": 7.336,
+    "last_updated": "2026-03-27T15:51:01.531368Z",
+    "last_tweeted_at": "2026-03-27T15:51:01.531368Z",
+    "tweet_id": "2037558041466266082",
+    "resolved": false
   }
 }
