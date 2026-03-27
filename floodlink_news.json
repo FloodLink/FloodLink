@@ -13005,5 +13005,15 @@
             "longitude": 37.5667,
             "confidence": 0.9
         }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQQmx5TEwta1dPZnJHY19fQ29FTk1kaXVheUxNaTNWRHVXc3ZRYTdnU0NSYUpodmhmOF9odjdKUGZ3TXktQ2FUMkJnWjE0YkxtWEYxYkZaWldjVjhjcGU1emRzRlJJVXh6MFQ2NU5kNFdKWkZVZ2t0c3NtUkxvUVhNZ1gwbUdGX0w5RWNoRVNyWWg2NFkwNmp5SDBPZzFZdE5JcnAzVjdYbTY0YmQxMDhKS1B5SUpUaGlkZ1BmTHFvOHMwQnN5UGc?oc=5",
+        "date": "2026-03-27",
+        "title": "National Weather Service issues flood warning for Licking River - The Columbus Dispatch",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxQQmx5TEwta1dPZnJHY19fQ29FTk1kaXVheUxNaTNWRHVXc3ZRYTdnU0NSYUpodmhmOF9odjdKUGZ3TXktQ2FUMkJnWjE0YkxtWEYxYkZaWldjVjhjcGU1emRzRlJJVXh6MFQ2NU5kNFdKWkZVZ2t0c3NtUkxvUVhNZ1gwbUdGX0w5RWNoRVNyWWg2NFkwNmp5SDBPZzFZdE5JcnAzVjdYbTY0YmQxMDhKS1B5SUpUaGlkZ1BmTHFvOHMwQnN5UGc?oc=5\" target=\"_blank\">National Weather Service issues flood warning for Licking River</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Columbus Dispatch</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
     }
 ]
