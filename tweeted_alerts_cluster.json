@@ -7584,7 +7584,7 @@
     "rain_mm": 63.88,
     "soil_moisture": 0.654,
     "raw_dynamic_score": 10.221,
-    "last_updated": "2026-03-27T01:36:32.194371Z",
+    "last_updated": "2026-03-27T05:09:51.595964Z",
     "last_tweeted_at": "2026-02-23T04:58:50.974820Z",
     "tweet_id": "2025797763594654064",
     "resolved": false
@@ -8784,7 +8784,7 @@
     "rain_mm": 44.75,
     "soil_moisture": 0.663,
     "raw_dynamic_score": 7.197,
-    "last_updated": "2026-03-27T01:36:32.194371Z",
+    "last_updated": "2026-03-27T05:09:51.595964Z",
     "last_tweeted_at": "2026-03-05T06:46:20.334366Z",
     "tweet_id": "2029448700830052576",
     "resolved": false
@@ -13035,7 +13035,7 @@
     "rain_mm": 53.69,
     "soil_moisture": 0.536,
     "raw_dynamic_score": 8.02,
-    "last_updated": "2026-03-26T21:32:09.448031Z",
+    "last_updated": "2026-03-27T05:09:51.595964Z",
     "last_tweeted_at": "2026-03-26T21:32:09.448031Z",
     "tweet_id": "2037281522944721110",
     "resolved": false
@@ -13200,7 +13200,7 @@
     "rain_mm": 51.0,
     "soil_moisture": 0.611,
     "raw_dynamic_score": 7.96,
-    "last_updated": "2026-03-27T01:36:32.194371Z",
+    "last_updated": "2026-03-27T05:09:51.595964Z",
     "last_tweeted_at": "2026-03-26T21:32:09.448031Z",
     "tweet_id": "2037282027645341972",
     "resolved": false
@@ -13230,9 +13230,24 @@
     "rain_mm": 47.44,
     "soil_moisture": 0.627,
     "raw_dynamic_score": 7.474,
-    "last_updated": "2026-03-27T01:36:32.194371Z",
+    "last_updated": "2026-03-27T05:09:51.595964Z",
     "last_tweeted_at": "2026-03-27T01:36:32.194371Z",
     "tweet_id": "2037343028663525473",
+    "resolved": false
+  },
+  "-1.5083,134.1708": {
+    "country": "Indonesia",
+    "name": "Ransiki",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": -1.5083,
+    "longitude": 134.1708,
+    "rain_mm": 46.56,
+    "soil_moisture": 1.0,
+    "raw_dynamic_score": 8.905,
+    "last_updated": "2026-03-27T05:09:51.595964Z",
+    "last_tweeted_at": "2026-03-27T05:09:51.595964Z",
+    "tweet_id": "2037396693373661575",
     "resolved": false
   }
 }
