@@ -654,7 +654,7 @@
     "rain_mm": 46.31,
     "soil_moisture": 0.635,
     "raw_dynamic_score": 7.331,
-    "last_updated": "2026-03-28T12:44:05.860806Z",
+    "last_updated": "2026-03-28T15:31:03.429178Z",
     "last_tweeted_at": "2026-01-11T01:16:31.985436Z",
     "tweet_id": "2010159400586289296",
     "resolved": false
@@ -4239,7 +4239,7 @@
     "rain_mm": 35.44,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 6.777,
-    "last_updated": "2026-03-28T12:44:05.860806Z",
+    "last_updated": "2026-03-28T15:31:03.429178Z",
     "last_tweeted_at": "2026-02-01T05:01:05.241309Z",
     "tweet_id": "2017827310163173839",
     "resolved": false
@@ -10629,7 +10629,7 @@
     "rain_mm": 51.06,
     "soil_moisture": 0.491,
     "raw_dynamic_score": 7.419,
-    "last_updated": "2026-03-18T17:57:03.178511Z",
+    "last_updated": "2026-03-28T15:31:03.429178Z",
     "last_tweeted_at": "2026-03-18T12:58:52.563432Z",
     "tweet_id": "2034253495071900145",
     "resolved": false
@@ -13295,18 +13295,18 @@
     "rain_mm": 87.69,
     "soil_moisture": 0.708,
     "raw_dynamic_score": 14.456,
-    "last_updated": "2026-03-28T12:44:05.860806Z",
+    "last_updated": "2026-03-28T15:31:03.429178Z",
     "last_tweeted_at": "2026-03-28T09:36:45.923974Z",
     "tweet_id": "2037826249091932180",
     "resolved": false,
     "pending_downgrade": true,
-    "pending_target_level": "Medium",
-    "pending_set_at": "2026-03-28T12:44:05.860806Z",
+    "pending_target_level": "Low",
+    "pending_set_at": "2026-03-28T15:31:03.429178Z",
     "pending_is_region": false,
-    "pending_observed_level": "Medium",
-    "pending_observed_rain_mm": 64.69,
-    "pending_observed_soil_moisture": 0.697,
-    "pending_observed_raw_dynamic_score": 10.601
+    "pending_observed_level": "Low",
+    "pending_observed_rain_mm": 3.06,
+    "pending_observed_soil_moisture": 0.657,
+    "pending_observed_raw_dynamic_score": 0.491
   },
   "-7.1502,111.8817": {
     "country": "Indonesia",
@@ -13336,6 +13336,36 @@
     "last_updated": "2026-03-28T12:44:05.860806Z",
     "last_tweeted_at": "2026-03-28T09:36:45.923974Z",
     "tweet_id": "2037826501651943932",
+    "resolved": false
+  },
+  "3.9833,11.6000": {
+    "country": "Cameroon",
+    "name": "Okoa",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 3.98333,
+    "longitude": 11.6,
+    "rain_mm": 52.12,
+    "soil_moisture": 0.389,
+    "raw_dynamic_score": 7.093,
+    "last_updated": "2026-03-28T15:31:03.429178Z",
+    "last_tweeted_at": "2026-03-28T15:31:03.429178Z",
+    "tweet_id": "2037915421664596399",
+    "resolved": false
+  },
+  "4.1667,11.5333": {
+    "country": "Cameroon",
+    "name": "Obala",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 4.16667,
+    "longitude": 11.53333,
+    "rain_mm": 58.5,
+    "soil_moisture": 0.311,
+    "raw_dynamic_score": 7.55,
+    "last_updated": "2026-03-28T15:31:03.429178Z",
+    "last_tweeted_at": "2026-03-28T15:31:03.429178Z",
+    "tweet_id": "2037915421664596399",
     "resolved": false
   }
 }
