@@ -144,7 +144,7 @@
     "rain_mm": 49.31,
     "soil_moisture": 0.724,
     "raw_dynamic_score": 8.201,
-    "last_updated": "2026-03-14T15:27:21.096473Z",
+    "last_updated": "2026-03-28T09:36:45.923974Z",
     "last_tweeted_at": "2026-01-08T09:24:03.626267Z",
     "tweet_id": "2009194423184445824",
     "resolved": false
@@ -6834,7 +6834,7 @@
     "rain_mm": 42.44,
     "soil_moisture": 0.641,
     "raw_dynamic_score": 6.741,
-    "last_updated": "2026-03-28T06:56:36.665506Z",
+    "last_updated": "2026-03-28T09:36:45.923974Z",
     "last_tweeted_at": "2026-02-17T09:45:22.628115Z",
     "tweet_id": "2023695291900104745",
     "resolved": false
@@ -13296,7 +13296,7 @@
     "rain_mm": 35.19,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 6.73,
-    "last_updated": "2026-03-28T06:56:36.665506Z",
+    "last_updated": "2026-03-28T09:36:45.923974Z",
     "last_tweeted_at": "2026-03-28T06:56:36.665506Z",
     "tweet_id": "2037785953394462907",
     "resolved": false
@@ -13304,16 +13304,16 @@
   "-7.2975,108.7642": {
     "country": "Indonesia",
     "name": "Majenang",
-    "risk_level": "Medium",
-    "tweeted_level": "Medium",
+    "risk_level": "High",
+    "tweeted_level": "High",
     "latitude": -7.2975,
     "longitude": 108.7642,
-    "rain_mm": 59.44,
-    "soil_moisture": 0.674,
-    "raw_dynamic_score": 9.617,
-    "last_updated": "2026-03-28T06:56:36.665506Z",
-    "last_tweeted_at": "2026-03-28T06:56:36.665506Z",
-    "tweet_id": "2037786205862146072",
+    "rain_mm": 87.69,
+    "soil_moisture": 0.708,
+    "raw_dynamic_score": 14.456,
+    "last_updated": "2026-03-28T09:36:45.923974Z",
+    "last_tweeted_at": "2026-03-28T09:36:45.923974Z",
+    "tweet_id": "2037826249091932180",
     "resolved": false
   },
   "-7.1502,111.8817": {
@@ -13326,9 +13326,24 @@
     "rain_mm": 53.25,
     "soil_moisture": 0.701,
     "raw_dynamic_score": 8.748,
-    "last_updated": "2026-03-28T06:56:36.665506Z",
+    "last_updated": "2026-03-28T09:36:45.923974Z",
     "last_tweeted_at": "2026-03-28T06:56:36.665506Z",
     "tweet_id": "2037786458245959697",
+    "resolved": false
+  },
+  "-12.6719,-69.3555": {
+    "country": "Peru",
+    "name": "Tambopata",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": -12.67191,
+    "longitude": -69.35547,
+    "rain_mm": 39.69,
+    "soil_moisture": 0.711,
+    "raw_dynamic_score": 6.555,
+    "last_updated": "2026-03-28T09:36:45.923974Z",
+    "last_tweeted_at": "2026-03-28T09:36:45.923974Z",
+    "tweet_id": "2037826501651943932",
     "resolved": false
   }
 }
