@@ -144,7 +144,7 @@
     "rain_mm": 49.31,
     "soil_moisture": 0.724,
     "raw_dynamic_score": 8.201,
-    "last_updated": "2026-03-28T09:36:45.923974Z",
+    "last_updated": "2026-03-28T12:44:05.860806Z",
     "last_tweeted_at": "2026-01-08T09:24:03.626267Z",
     "tweet_id": "2009194423184445824",
     "resolved": false
@@ -654,7 +654,7 @@
     "rain_mm": 46.31,
     "soil_moisture": 0.635,
     "raw_dynamic_score": 7.331,
-    "last_updated": "2026-02-01T18:28:07.945867Z",
+    "last_updated": "2026-03-28T12:44:05.860806Z",
     "last_tweeted_at": "2026-01-11T01:16:31.985436Z",
     "tweet_id": "2010159400586289296",
     "resolved": false
@@ -4239,7 +4239,7 @@
     "rain_mm": 35.44,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 6.777,
-    "last_updated": "2026-02-17T18:51:04.995415Z",
+    "last_updated": "2026-03-28T12:44:05.860806Z",
     "last_tweeted_at": "2026-02-01T05:01:05.241309Z",
     "tweet_id": "2017827310163173839",
     "resolved": false
@@ -12104,22 +12104,6 @@
     "tweet_id": "2037033830163370185",
     "resolved": false
   },
-  "32.4619,46.6879": {
-    "country": "Iraq",
-    "name": "‘Alī al Gharbī",
-    "risk_level": "Low",
-    "tweeted_level": "Low",
-    "latitude": 32.46186,
-    "longitude": 46.68794,
-    "rain_mm": 0.75,
-    "soil_moisture": 0.631,
-    "raw_dynamic_score": 0.118,
-    "last_updated": "2026-03-27T09:54:00.078530Z",
-    "last_tweeted_at": "2026-03-27T09:54:00.078530Z",
-    "tweet_id": "2037468198598328820",
-    "resolved": true,
-    "resolved_at": "2026-03-27T09:54:00.078530Z"
-  },
   "33.9786,44.9369": {
     "country": "Iraq",
     "name": "Al Miqdādīyah",
@@ -13311,10 +13295,18 @@
     "rain_mm": 87.69,
     "soil_moisture": 0.708,
     "raw_dynamic_score": 14.456,
-    "last_updated": "2026-03-28T09:36:45.923974Z",
+    "last_updated": "2026-03-28T12:44:05.860806Z",
     "last_tweeted_at": "2026-03-28T09:36:45.923974Z",
     "tweet_id": "2037826249091932180",
-    "resolved": false
+    "resolved": false,
+    "pending_downgrade": true,
+    "pending_target_level": "Medium",
+    "pending_set_at": "2026-03-28T12:44:05.860806Z",
+    "pending_is_region": false,
+    "pending_observed_level": "Medium",
+    "pending_observed_rain_mm": 64.69,
+    "pending_observed_soil_moisture": 0.697,
+    "pending_observed_raw_dynamic_score": 10.601
   },
   "-7.1502,111.8817": {
     "country": "Indonesia",
@@ -13326,7 +13318,7 @@
     "rain_mm": 53.25,
     "soil_moisture": 0.701,
     "raw_dynamic_score": 8.748,
-    "last_updated": "2026-03-28T09:36:45.923974Z",
+    "last_updated": "2026-03-28T12:44:05.860806Z",
     "last_tweeted_at": "2026-03-28T06:56:36.665506Z",
     "tweet_id": "2037786458245959697",
     "resolved": false
@@ -13341,7 +13333,7 @@
     "rain_mm": 39.69,
     "soil_moisture": 0.711,
     "raw_dynamic_score": 6.555,
-    "last_updated": "2026-03-28T09:36:45.923974Z",
+    "last_updated": "2026-03-28T12:44:05.860806Z",
     "last_tweeted_at": "2026-03-28T09:36:45.923974Z",
     "tweet_id": "2037826501651943932",
     "resolved": false
