@@ -6834,7 +6834,7 @@
     "rain_mm": 42.44,
     "soil_moisture": 0.641,
     "raw_dynamic_score": 6.741,
-    "last_updated": "2026-03-28T04:55:38.294031Z",
+    "last_updated": "2026-03-28T06:56:36.665506Z",
     "last_tweeted_at": "2026-02-17T09:45:22.628115Z",
     "tweet_id": "2023695291900104745",
     "resolved": false
@@ -13284,6 +13284,51 @@
     "last_updated": "2026-03-27T18:52:39.931635Z",
     "last_tweeted_at": "2026-03-27T15:51:01.531368Z",
     "tweet_id": "2037558041466266082",
+    "resolved": false
+  },
+  "22.6876,90.6440": {
+    "country": "Bangladesh",
+    "name": "Bhola",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 22.68759,
+    "longitude": 90.64403,
+    "rain_mm": 35.19,
+    "soil_moisture": 1.0,
+    "raw_dynamic_score": 6.73,
+    "last_updated": "2026-03-28T06:56:36.665506Z",
+    "last_tweeted_at": "2026-03-28T06:56:36.665506Z",
+    "tweet_id": "2037785953394462907",
+    "resolved": false
+  },
+  "-7.2975,108.7642": {
+    "country": "Indonesia",
+    "name": "Majenang",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": -7.2975,
+    "longitude": 108.7642,
+    "rain_mm": 59.44,
+    "soil_moisture": 0.674,
+    "raw_dynamic_score": 9.617,
+    "last_updated": "2026-03-28T06:56:36.665506Z",
+    "last_tweeted_at": "2026-03-28T06:56:36.665506Z",
+    "tweet_id": "2037786205862146072",
+    "resolved": false
+  },
+  "-7.1502,111.8817": {
+    "country": "Indonesia",
+    "name": "Bojonegoro",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": -7.1502,
+    "longitude": 111.8817,
+    "rain_mm": 53.25,
+    "soil_moisture": 0.701,
+    "raw_dynamic_score": 8.748,
+    "last_updated": "2026-03-28T06:56:36.665506Z",
+    "last_tweeted_at": "2026-03-28T06:56:36.665506Z",
+    "tweet_id": "2037786458245959697",
     "resolved": false
   }
 }
