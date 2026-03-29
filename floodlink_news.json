@@ -12720,5 +12720,25 @@
             "longitude": null,
             "confidence": 0.8
         }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1ESE5LTHQ3OFZZdjI5anM1Sm1Wck9uTm5WZl9sRGhVRWtZUm94em93TVlOaHNPV3c3REc5bC1QM0JRR2NmVzNmZXFjbVFza2h3cnFsLVg2d21jN2dCUmZZeEtJYVFwY21wVXpTWklCMmt4NzhqdmlUemR3?oc=5",
+        "date": "2026-03-29",
+        "title": "Flood warning active for Chelan County until further notice - thenewstribune.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE1ESE5LTHQ3OFZZdjI5anM1Sm1Wck9uTm5WZl9sRGhVRWtZUm94em93TVlOaHNPV3c3REc5bC1QM0JRR2NmVzNmZXFjbVFza2h3cnFsLVg2d21jN2dCUmZZeEtJYVFwY21wVXpTWklCMmt4NzhqdmlUemR3?oc=5\" target=\"_blank\">Flood warning active for Chelan County until further notice</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">thenewstribune.com</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNSHZnTGczcTRHTUtTc08wWkJPMk1pcTd0QWlNUVEtSFl6OXlfRnMxMV9LejhOZy04Ni1WbXE0dlEyUV9FZGhZUEVlZkREZlpJMHNkaVdMaHRsZGgtbERrU2RtVGRWejVSWGV0Y0ZNRDlLUnVWcTRLeXdBR0tXbnRaLUt30gGKAUFVX3lxTE9uUGF3MFVSeDgxZ2NFMGljQ0J3eXBVeFJOQ09leVEzYTMwdmJJc2pRTHVELW4zSnBnaWR5ME14dlRnUm9taHA5cl8zeHF1S2dGcDhDbXhJMklLVWdCNGFwcW9tdzdQaUxEbkFBWkJFUUJwcWZwdUtWMDJBdUJzYTlETnNWTEtkelkzQQ?oc=5",
+        "date": "2026-03-29",
+        "title": "Govt to release funds for Leh desilting - The Express Tribune",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxNSHZnTGczcTRHTUtTc08wWkJPMk1pcTd0QWlNUVEtSFl6OXlfRnMxMV9LejhOZy04Ni1WbXE0dlEyUV9FZGhZUEVlZkREZlpJMHNkaVdMaHRsZGgtbERrU2RtVGRWejVSWGV0Y0ZNRDlLUnVWcTRLeXdBR0tXbnRaLUt30gGKAUFVX3lxTE9uUGF3MFVSeDgxZ2NFMGljQ0J3eXBVeFJOQ09leVEzYTMwdmJJc2pRTHVELW4zSnBnaWR5ME14dlRnUm9taHA5cl8zeHF1S2dGcDhDbXhJMklLVWdCNGFwcW9tdzdQaUxEbkFBWkJFUUJwcWZwdUtWMDJBdUJzYTlETnNWTEtkelkzQQ?oc=5\" target=\"_blank\">Govt to release funds for Leh desilting</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Express Tribune</font>",
+        "similarity_excluded": "No",
+        "score": 6,
+        "status": "processed",
+        "tweet": null
     }
 ]
