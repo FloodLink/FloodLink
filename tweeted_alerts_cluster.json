@@ -12906,38 +12906,6 @@
     "tweet_id": "2037826501651943932",
     "resolved": false
   },
-  "3.5167,11.5000": {
-    "country": "Cameroon",
-    "name": "Mbalmayo",
-    "risk_level": "Low",
-    "tweeted_level": "Low",
-    "latitude": 3.51667,
-    "longitude": 11.5,
-    "rain_mm": 1.0,
-    "soil_moisture": 0.47,
-    "raw_dynamic_score": 0.143,
-    "last_updated": "2026-03-29T18:38:37.628894Z",
-    "last_tweeted_at": "2026-03-29T18:38:37.628894Z",
-    "tweet_id": "2038325012567068778",
-    "resolved": true,
-    "resolved_at": "2026-03-29T18:38:37.628894Z"
-  },
-  "3.6500,10.7667": {
-    "country": "Cameroon",
-    "name": "Eséka",
-    "risk_level": "Low",
-    "tweeted_level": "Low",
-    "latitude": 3.65,
-    "longitude": 10.76667,
-    "rain_mm": 3.0,
-    "soil_moisture": 0.503,
-    "raw_dynamic_score": 0.439,
-    "last_updated": "2026-03-29T18:38:37.628894Z",
-    "last_tweeted_at": "2026-03-29T18:38:37.628894Z",
-    "tweet_id": "2038325265529798722",
-    "resolved": true,
-    "resolved_at": "2026-03-29T18:38:37.628894Z"
-  },
   "36.6404,29.1276": {
     "country": "Türkiye",
     "name": "Fethiye",
@@ -13308,7 +13276,7 @@
     "rain_mm": 48.44,
     "soil_moisture": 0.369,
     "raw_dynamic_score": 6.504,
-    "last_updated": "2026-03-30T10:16:24.103677Z",
+    "last_updated": "2026-03-30T18:57:40.655596Z",
     "last_tweeted_at": "2026-03-30T10:16:24.103677Z",
     "tweet_id": "2038562521611735545",
     "resolved": false
@@ -13338,10 +13306,14 @@
     "rain_mm": 77.19,
     "soil_moisture": 0.625,
     "raw_dynamic_score": 12.15,
-    "last_updated": "2026-03-30T16:09:20.170319Z",
+    "last_updated": "2026-03-30T18:57:40.655596Z",
     "last_tweeted_at": "2026-03-30T16:09:20.170319Z",
     "tweet_id": "2038650069281288418",
-    "resolved": false
+    "resolved": false,
+    "pending_downgrade": true,
+    "pending_target_level": "Low",
+    "pending_set_at": "2026-03-30T18:57:40.655596Z",
+    "pending_is_region": true
   },
   "6.2800,10.2830": {
     "country": "Cameroon",
@@ -13353,7 +13325,7 @@
     "rain_mm": 51.19,
     "soil_moisture": 0.571,
     "raw_dynamic_score": 7.807,
-    "last_updated": "2026-03-30T16:09:20.170319Z",
+    "last_updated": "2026-03-30T18:57:40.655596Z",
     "last_tweeted_at": "2026-03-30T16:09:20.170319Z",
     "tweet_id": "2038650069281288418",
     "resolved": false
@@ -13383,7 +13355,7 @@
     "rain_mm": 57.38,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 10.973,
-    "last_updated": "2026-03-30T16:09:20.170319Z",
+    "last_updated": "2026-03-30T18:57:40.655596Z",
     "last_tweeted_at": "2026-03-30T13:07:22.709955Z",
     "tweet_id": "2038604539087949845",
     "resolved": false
@@ -13548,7 +13520,7 @@
     "rain_mm": 61.94,
     "soil_moisture": 0.58,
     "raw_dynamic_score": 9.495,
-    "last_updated": "2026-03-30T16:09:20.170319Z",
+    "last_updated": "2026-03-30T18:57:40.655596Z",
     "last_tweeted_at": "2026-03-30T16:09:20.170319Z",
     "tweet_id": "2038650069281288418",
     "resolved": false
@@ -13563,7 +13535,7 @@
     "rain_mm": 44.56,
     "soil_moisture": 0.574,
     "raw_dynamic_score": 6.81,
-    "last_updated": "2026-03-30T16:09:20.170319Z",
+    "last_updated": "2026-03-30T18:57:40.655596Z",
     "last_tweeted_at": "2026-03-30T16:09:20.170319Z",
     "tweet_id": "2038650069281288418",
     "resolved": false
@@ -13593,7 +13565,7 @@
     "rain_mm": 44.0,
     "soil_moisture": 0.664,
     "raw_dynamic_score": 7.078,
-    "last_updated": "2026-03-30T16:09:20.170319Z",
+    "last_updated": "2026-03-30T18:57:40.655596Z",
     "last_tweeted_at": "2026-03-30T16:09:20.170319Z",
     "tweet_id": "2038650574514553063",
     "resolved": false
@@ -13713,7 +13685,7 @@
     "rain_mm": 41.69,
     "soil_moisture": 0.643,
     "raw_dynamic_score": 6.63,
-    "last_updated": "2026-03-30T16:09:20.170319Z",
+    "last_updated": "2026-03-30T18:57:40.655596Z",
     "last_tweeted_at": "2026-03-30T16:09:20.170319Z",
     "tweet_id": "2038650827078836273",
     "resolved": false
@@ -13911,6 +13883,36 @@
     "last_updated": "2026-03-30T16:09:20.170319Z",
     "last_tweeted_at": "2026-03-30T16:09:20.170319Z",
     "tweet_id": "2038650827078836273",
+    "resolved": false
+  },
+  "4.7500,11.2333": {
+    "country": "Cameroon",
+    "name": "Bafia",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 4.75,
+    "longitude": 11.23333,
+    "rain_mm": 56.56,
+    "soil_moisture": 0.537,
+    "raw_dynamic_score": 8.451,
+    "last_updated": "2026-03-30T18:57:40.655596Z",
+    "last_tweeted_at": "2026-03-30T18:57:40.655596Z",
+    "tweet_id": "2038692193167446061",
+    "resolved": false
+  },
+  "33.7333,135.9833": {
+    "country": "Japan",
+    "name": "Shingū",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 33.73333,
+    "longitude": 135.98333,
+    "rain_mm": 49.44,
+    "soil_moisture": 0.727,
+    "raw_dynamic_score": 8.235,
+    "last_updated": "2026-03-30T18:57:40.655596Z",
+    "last_tweeted_at": "2026-03-30T18:57:40.655596Z",
+    "tweet_id": "2038692445563826491",
     "resolved": false
   }
 }
