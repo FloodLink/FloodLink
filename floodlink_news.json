@@ -12683,5 +12683,14 @@
             "longitude": 62.1997,
             "confidence": 0.95
         }
+    },
+    {
+        "link": null,
+        "date": "2026-03-30",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 Major cities saw extreme rainfall events rise 45% from 2020 (180 incidents) to 2025 (260), exposing 25 million more residents to flash floods and costing $60B in losses vs. $35B earlier. Projections for 2026: +15% more exposure.",
+        "type": "statistical",
+        "category": "extreme rainfall trends in major cities",
+        "tweet_id": "2038597821025173662"
     }
 ]
