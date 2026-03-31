@@ -12855,5 +12855,45 @@
         "score": 2,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNSFM4MW9DRWQ2NWQ4MDFWdzVNSHluZnFFT28xZUdFMVlfa3hMSEt5bmRJQWg5ejhyN2p2SklrSXRKSksxUlNzRkhBS1pDZ3pJVzJhRktwZTJiUlZIYkhuWFBhSU93WE9QMGdQU1RzVXZzWUpVRGMxSGRFMnFEcmQ1endkeHE0Rk5FNmQtcXhLV254bDFHOTF2Tm9pMVVxYXVrN0p6c2ZNVXlqOWVLZkNRTkpFcGxuUXpocjZQWUtCdVdZXzBfd3ptSHRncmlVNUk3NlZXQUk1cFdTcFNoMnc?oc=5",
+        "date": "2026-03-31",
+        "title": "NY weather: part of New York under a flood advisory until Tuesday morning due to prolonged rain - SILive.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxNSFM4MW9DRWQ2NWQ4MDFWdzVNSHluZnFFT28xZUdFMVlfa3hMSEt5bmRJQWg5ejhyN2p2SklrSXRKSksxUlNzRkhBS1pDZ3pJVzJhRktwZTJiUlZIYkhuWFBhSU93WE9QMGdQU1RzVXZzWUpVRGMxSGRFMnFEcmQ1endkeHE0Rk5FNmQtcXhLV254bDFHOTF2Tm9pMVVxYXVrN0p6c2ZNVXlqOWVLZkNRTkpFcGxuUXpocjZQWUtCdVdZXzBfd3ptSHRncmlVNUk3NlZXQUk1cFdTcFNoMnc?oc=5\" target=\"_blank\">NY weather: part of New York under a flood advisory until Tuesday morning due to prolonged rain</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SILive.com</font>",
+        "similarity_excluded": "No",
+        "score": 6,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdnZsVU5ja2dMcTd3ajRPZUxDcEEzSXNaQWMwcEJyMEM2c3lncnYwSmVGTEhzalVHb1EtOTFiY3AxWlZkYU9TVVJqUHNYQjVHalJxZHh4Z05lMUZLWlUyc3pudmJWRFV2dTAwMjFCOFFqdW9mZHA5WUxrVW5TTEsxUUR2OTh2ckNvN2lRVG9GMUlBN2J3WGJPQ1JHX0w4SVNVSTl4UWpn0gGrAUFVX3lxTE5OaVByWkRFNDYwODRhdXFuR09tNjlBZFU0OGliVnVBVFdKemxuWFVnSC1IM0o5RkZFT1B6RHZFV1YtUUd1WkZnU21CV2owM29yM1g2cDNmQ0IwZHhxZnFqR0pEQlJ1bDNqcGZZTnJsdVhzdFZUM1dfbklJT3ItN0pDb2JMdTFoTllTTHJrTzJTWHhETjJfZ0F4NWlRcUVUM0MyNi1maTZ5WV9IYw?oc=5",
+        "date": "2026-03-31",
+        "title": "LCRA prepares for flooding during severe weather season - KXAN Austin",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPdnZsVU5ja2dMcTd3ajRPZUxDcEEzSXNaQWMwcEJyMEM2c3lncnYwSmVGTEhzalVHb1EtOTFiY3AxWlZkYU9TVVJqUHNYQjVHalJxZHh4Z05lMUZLWlUyc3pudmJWRFV2dTAwMjFCOFFqdW9mZHA5WUxrVW5TTEsxUUR2OTh2ckNvN2lRVG9GMUlBN2J3WGJPQ1JHX0w4SVNVSTl4UWpn0gGrAUFVX3lxTE5OaVByWkRFNDYwODRhdXFuR09tNjlBZFU0OGliVnVBVFdKemxuWFVnSC1IM0o5RkZFT1B6RHZFV1YtUUd1WkZnU21CV2owM29yM1g2cDNmQ0IwZHhxZnFqR0pEQlJ1bDNqcGZZTnJsdVhzdFZUM1dfbklJT3ItN0pDb2JMdTFoTllTTHJrTzJTWHhETjJfZ0F4NWlRcUVUM0MyNi1maTZ5WV9IYw?oc=5\" target=\"_blank\">LCRA prepares for flooding during severe weather season</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KXAN Austin</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPQV9MWlloRXFmaUNfc3A4eUpNSndaUnNJdm5DUTZKSTJaNTVLX2hvSW54TnBoYVhWWG5UM0FXbnJIYUhCVUlBUWllTnhMc3E1bWdIb1VWR2xYa0pwUWtCa1BMM1VXN3QtVldaaVo5WENvUzZwT3lKaG5CcGVIMmlMZzhjLTNfZXZyQWJJZDNHTmdNNmNhRFo0OVB5Zy1yZDh0eUhWSEFWblYzeUxMWE5ubmlqSjJRNGJRbGRNWnhVQlZpdlZMWkRaT2lqVW5pX2hNT1A0akJveXlxWDljN1VmUjNBTzl3dkdm?oc=5",
+        "date": "2026-03-31",
+        "title": "North Country, Mohawk Valley placed under a flood advisory until Tuesday morning triggered by prolonged downpours - Syracuse.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxPQV9MWlloRXFmaUNfc3A4eUpNSndaUnNJdm5DUTZKSTJaNTVLX2hvSW54TnBoYVhWWG5UM0FXbnJIYUhCVUlBUWllTnhMc3E1bWdIb1VWR2xYa0pwUWtCa1BMM1VXN3QtVldaaVo5WENvUzZwT3lKaG5CcGVIMmlMZzhjLTNfZXZyQWJJZDNHTmdNNmNhRFo0OVB5Zy1yZDh0eUhWSEFWblYzeUxMWE5ubmlqSjJRNGJRbGRNWnhVQlZpdlZMWkRaT2lqVW5pX2hNT1A0akJveXlxWDljN1VmUjNBTzl3dkdm?oc=5\" target=\"_blank\">North Country, Mohawk Valley placed under a flood advisory until Tuesday morning triggered by prolonged downpours</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Syracuse.com</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOLXU4VzlJWnQ4NW9qTVlsNnlqaDlZby1MYUlubFZBREx6S21BUTlZLU9tQWFvdFlXeWd6Vm1HZVNOOWN6WEpURzNYODNIN0ZuRUM0d3N0LVpZUkZLRXU0MnZPcnNIT0UxdzJTQjF0ZkZ5cTF0QU5wQTZ2T0R2ZjQ1eWwySGNNZDdWS0pJM0NQTlpra3paeGQ2ZTZHV1R5SFo2eGstMV9TU1RBT2JHbXU4ZXFIdjhJMlp5ZmVFN1J3?oc=5",
+        "date": "2026-03-31",
+        "title": "Srinagar-Jammu highway shut after landslide; Hundreds stranded amid heavy rainfall - Kashmir Media Service",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxOLXU4VzlJWnQ4NW9qTVlsNnlqaDlZby1MYUlubFZBREx6S21BUTlZLU9tQWFvdFlXeWd6Vm1HZVNOOWN6WEpURzNYODNIN0ZuRUM0d3N0LVpZUkZLRXU0MnZPcnNIT0UxdzJTQjF0ZkZ5cTF0QU5wQTZ2T0R2ZjQ1eWwySGNNZDdWS0pJM0NQTlpra3paeGQ2ZTZHV1R5SFo2eGstMV9TU1RBT2JHbXU4ZXFIdjhJMlp5ZmVFN1J3?oc=5\" target=\"_blank\">Srinagar-Jammu highway shut after landslide; Hundreds stranded amid heavy rainfall</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Kashmir Media Service</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
     }
 ]
