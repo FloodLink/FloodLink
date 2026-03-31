@@ -11237,7 +11237,7 @@
     "rain_mm": 41.44,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 7.925,
-    "last_updated": "2026-03-30T10:16:24.103677Z",
+    "last_updated": "2026-03-31T21:39:08.343028Z",
     "last_tweeted_at": "2026-03-22T04:54:59.692010Z",
     "tweet_id": "2035581010960605628",
     "resolved": false
@@ -14359,13 +14359,13 @@
     "rain_mm": 58.31,
     "soil_moisture": 0.449,
     "raw_dynamic_score": 8.248,
-    "last_updated": "2026-03-31T18:58:05.783311Z",
+    "last_updated": "2026-03-31T21:39:08.343028Z",
     "last_tweeted_at": "2026-03-31T13:05:49.792685Z",
     "tweet_id": "2038966793725788467",
     "resolved": false,
     "pending_downgrade": true,
-    "pending_target_level": "Medium",
-    "pending_set_at": "2026-03-31T18:58:05.783311Z",
+    "pending_target_level": "Low",
+    "pending_set_at": "2026-03-31T21:39:08.343028Z",
     "pending_is_region": true
   },
   "7.9478,4.7884": {
@@ -14378,7 +14378,7 @@
     "rain_mm": 58.31,
     "soil_moisture": 0.449,
     "raw_dynamic_score": 8.248,
-    "last_updated": "2026-03-31T18:58:05.783311Z",
+    "last_updated": "2026-03-31T21:39:08.343028Z",
     "last_tweeted_at": "2026-03-31T13:05:49.792685Z",
     "tweet_id": "2038966793725788467",
     "resolved": false
@@ -14393,7 +14393,7 @@
     "rain_mm": 67.94,
     "soil_moisture": 0.553,
     "raw_dynamic_score": 10.249,
-    "last_updated": "2026-03-31T18:58:05.783311Z",
+    "last_updated": "2026-03-31T21:39:08.343028Z",
     "last_tweeted_at": "2026-03-31T13:05:49.792685Z",
     "tweet_id": "2038966793725788467",
     "resolved": false
@@ -14408,7 +14408,7 @@
     "rain_mm": 68.69,
     "soil_moisture": 0.554,
     "raw_dynamic_score": 10.371,
-    "last_updated": "2026-03-31T18:58:05.783311Z",
+    "last_updated": "2026-03-31T21:39:08.343028Z",
     "last_tweeted_at": "2026-03-31T13:05:49.792685Z",
     "tweet_id": "2038966793725788467",
     "resolved": false
@@ -14423,7 +14423,7 @@
     "rain_mm": 67.94,
     "soil_moisture": 0.553,
     "raw_dynamic_score": 10.249,
-    "last_updated": "2026-03-31T18:58:05.783311Z",
+    "last_updated": "2026-03-31T21:39:08.343028Z",
     "last_tweeted_at": "2026-03-31T13:05:49.792685Z",
     "tweet_id": "2038966793725788467",
     "resolved": false
@@ -14438,7 +14438,7 @@
     "rain_mm": 81.25,
     "soil_moisture": 0.558,
     "raw_dynamic_score": 12.298,
-    "last_updated": "2026-03-31T18:58:05.783311Z",
+    "last_updated": "2026-03-31T21:39:08.343028Z",
     "last_tweeted_at": "2026-03-31T13:05:49.792685Z",
     "tweet_id": "2038966793725788467",
     "resolved": false
@@ -14453,7 +14453,7 @@
     "rain_mm": 68.69,
     "soil_moisture": 0.554,
     "raw_dynamic_score": 10.371,
-    "last_updated": "2026-03-31T18:58:05.783311Z",
+    "last_updated": "2026-03-31T21:39:08.343028Z",
     "last_tweeted_at": "2026-03-31T13:05:49.792685Z",
     "tweet_id": "2038966793725788467",
     "resolved": false
@@ -14468,7 +14468,7 @@
     "rain_mm": 58.31,
     "soil_moisture": 0.449,
     "raw_dynamic_score": 8.248,
-    "last_updated": "2026-03-31T18:58:05.783311Z",
+    "last_updated": "2026-03-31T21:39:08.343028Z",
     "last_tweeted_at": "2026-03-31T13:05:49.792685Z",
     "tweet_id": "2038966793725788467",
     "resolved": false
@@ -14483,7 +14483,7 @@
     "rain_mm": 81.25,
     "soil_moisture": 0.558,
     "raw_dynamic_score": 12.298,
-    "last_updated": "2026-03-31T18:58:05.783311Z",
+    "last_updated": "2026-03-31T21:39:08.343028Z",
     "last_tweeted_at": "2026-03-31T13:05:49.792685Z",
     "tweet_id": "2038966793725788467",
     "resolved": false
@@ -14498,7 +14498,7 @@
     "rain_mm": 57.5,
     "soil_moisture": 0.571,
     "raw_dynamic_score": 8.77,
-    "last_updated": "2026-03-31T18:58:05.783311Z",
+    "last_updated": "2026-03-31T21:39:08.343028Z",
     "last_tweeted_at": "2026-03-31T13:05:49.792685Z",
     "tweet_id": "2038966793725788467",
     "resolved": false
@@ -14513,7 +14513,7 @@
     "rain_mm": 54.56,
     "soil_moisture": 0.464,
     "raw_dynamic_score": 7.792,
-    "last_updated": "2026-03-31T16:08:10.399240Z",
+    "last_updated": "2026-03-31T21:39:08.343028Z",
     "last_tweeted_at": "2026-03-31T16:08:10.399240Z",
     "tweet_id": "2039011906925523177",
     "resolved": false
@@ -14607,7 +14607,7 @@
     "rain_mm": 57.44,
     "soil_moisture": 0.381,
     "raw_dynamic_score": 7.776,
-    "last_updated": "2026-03-31T16:08:10.399240Z",
+    "last_updated": "2026-03-31T21:39:08.343028Z",
     "last_tweeted_at": "2026-03-31T16:08:10.399240Z",
     "tweet_id": "2039012665075318914",
     "resolved": false
@@ -14697,10 +14697,14 @@
     "rain_mm": 71.38,
     "soil_moisture": 0.387,
     "raw_dynamic_score": 9.7,
-    "last_updated": "2026-03-31T18:58:05.783311Z",
+    "last_updated": "2026-03-31T21:39:08.343028Z",
     "last_tweeted_at": "2026-03-31T16:08:10.399240Z",
     "tweet_id": "2039013170010812571",
-    "resolved": false
+    "resolved": false,
+    "pending_downgrade": true,
+    "pending_target_level": "Low",
+    "pending_set_at": "2026-03-31T21:39:08.343028Z",
+    "pending_is_region": true
   },
   "7.1557,3.3451": {
     "country": "Nigeria",
@@ -14712,7 +14716,7 @@
     "rain_mm": 125.81,
     "soil_moisture": 0.472,
     "raw_dynamic_score": 18.058,
-    "last_updated": "2026-03-31T16:08:10.399240Z",
+    "last_updated": "2026-03-31T21:39:08.343028Z",
     "last_tweeted_at": "2026-03-31T16:08:10.399240Z",
     "tweet_id": "2039013170010812571",
     "resolved": false
@@ -14727,9 +14731,54 @@
     "rain_mm": 54.5,
     "soil_moisture": 0.593,
     "raw_dynamic_score": 8.419,
-    "last_updated": "2026-03-31T18:58:05.783311Z",
+    "last_updated": "2026-03-31T21:39:08.343028Z",
     "last_tweeted_at": "2026-03-31T18:58:05.783311Z",
     "tweet_id": "2039054690818687456",
+    "resolved": false
+  },
+  "-20.0247,-48.9406": {
+    "country": "Brazil",
+    "name": "Frutal",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": -20.02472,
+    "longitude": -48.94056,
+    "rain_mm": 44.38,
+    "soil_moisture": 0.577,
+    "raw_dynamic_score": 6.79,
+    "last_updated": "2026-03-31T21:39:08.343028Z",
+    "last_tweeted_at": "2026-03-31T21:39:08.343028Z",
+    "tweet_id": "2039095207854235731",
+    "resolved": false
+  },
+  "-3.8983,-61.3731": {
+    "country": "Brazil",
+    "name": "Beruri",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": -3.89833,
+    "longitude": -61.37306,
+    "rain_mm": 65.44,
+    "soil_moisture": 0.679,
+    "raw_dynamic_score": 10.616,
+    "last_updated": "2026-03-31T21:39:08.343028Z",
+    "last_tweeted_at": "2026-03-31T21:39:08.343028Z",
+    "tweet_id": "2039095460624015804",
+    "resolved": false
+  },
+  "39.8403,-88.9548": {
+    "country": "United States",
+    "name": "Decatur",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 39.84031,
+    "longitude": -88.9548,
+    "rain_mm": 46.44,
+    "soil_moisture": 0.572,
+    "raw_dynamic_score": 7.085,
+    "last_updated": "2026-03-31T21:39:08.343028Z",
+    "last_tweeted_at": "2026-03-31T21:39:08.343028Z",
+    "tweet_id": "2039095713335046330",
     "resolved": false
   }
 }
