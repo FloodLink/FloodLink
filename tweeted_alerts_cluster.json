@@ -12602,7 +12602,7 @@
     "rain_mm": 47.31,
     "soil_moisture": 0.618,
     "raw_dynamic_score": 7.414,
-    "last_updated": "2026-04-01T01:59:10.272214Z",
+    "last_updated": "2026-04-01T05:26:10.848519Z",
     "last_tweeted_at": "2026-03-26T21:32:09.448031Z",
     "tweet_id": "2037281775265665224",
     "resolved": false
@@ -12737,7 +12737,7 @@
     "rain_mm": 51.0,
     "soil_moisture": 0.611,
     "raw_dynamic_score": 7.96,
-    "last_updated": "2026-04-01T01:59:10.272214Z",
+    "last_updated": "2026-04-01T05:26:10.848519Z",
     "last_tweeted_at": "2026-03-26T21:32:09.448031Z",
     "tweet_id": "2037282027645341972",
     "resolved": false
@@ -14776,9 +14776,39 @@
     "rain_mm": 46.44,
     "soil_moisture": 0.572,
     "raw_dynamic_score": 7.085,
-    "last_updated": "2026-03-31T21:39:08.343028Z",
+    "last_updated": "2026-04-01T05:26:10.848519Z",
     "last_tweeted_at": "2026-03-31T21:39:08.343028Z",
     "tweet_id": "2039095713335046330",
+    "resolved": false
+  },
+  "3.5679,98.9560": {
+    "country": "Indonesia",
+    "name": "Perbaungan",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 3.5679,
+    "longitude": 98.956,
+    "rain_mm": 49.0,
+    "soil_moisture": 0.626,
+    "raw_dynamic_score": 7.718,
+    "last_updated": "2026-04-01T05:26:10.848519Z",
+    "last_tweeted_at": "2026-04-01T05:26:10.848519Z",
+    "tweet_id": "2039212734500291073",
+    "resolved": false
+  },
+  "41.5595,14.6674": {
+    "country": "Italy",
+    "name": "Campobasso",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 41.55947,
+    "longitude": 14.66737,
+    "rain_mm": 40.19,
+    "soil_moisture": 0.681,
+    "raw_dynamic_score": 6.528,
+    "last_updated": "2026-04-01T05:26:10.848519Z",
+    "last_tweeted_at": "2026-04-01T05:26:10.848519Z",
+    "tweet_id": "2039212987001471438",
     "resolved": false
   }
 }
