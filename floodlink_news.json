@@ -13090,5 +13090,14 @@
             "longitude": -76.5,
             "confidence": 0.95
         }
+    },
+    {
+        "link": null,
+        "date": "2026-04-01",
+        "status": "posted",
+        "tweet": "Top coastal cities by projected population exposed to annual storm surge flooding by 2050 (Climate Central, 2023 data).\n\n\ud83c\udde8\ud83c\uddf3 Guangzhou: 8.2M people  \n\ud83c\uddee\ud83c\uddf3 Mumbai: 5.7M  \n\ud83c\uddfa\ud83c\uddf8 Miami: 2.4M  \n\ud83c\udde7\ud83c\udde9 Dhaka: 2.1M  \n\ud83c\uddfb\ud83c\uddf3 Ho Chi Minh City: 1.9M",
+        "type": "statistical",
+        "category": "coastal cities at risk from sea-level rise and storm surge",
+        "tweet_id": "2039225839200661983"
     }
 ]
