@@ -6812,7 +6812,7 @@
     "rain_mm": 42.44,
     "soil_moisture": 0.641,
     "raw_dynamic_score": 6.741,
-    "last_updated": "2026-04-02T10:01:36.182441Z",
+    "last_updated": "2026-04-02T13:02:33.152897Z",
     "last_tweeted_at": "2026-02-17T09:45:22.628115Z",
     "tweet_id": "2023695291900104745",
     "resolved": false
@@ -8837,7 +8837,7 @@
     "rain_mm": 54.81,
     "soil_moisture": 0.657,
     "raw_dynamic_score": 8.783,
-    "last_updated": "2026-03-07T01:21:18.171702Z",
+    "last_updated": "2026-04-02T13:02:33.152897Z",
     "last_tweeted_at": "2026-03-06T18:39:51.333648Z",
     "tweet_id": "2029990402661490787",
     "resolved": false
@@ -14395,21 +14395,18 @@
   "-3.7851,103.5428": {
     "country": "Indonesia",
     "name": "Lahat",
-    "risk_level": "High",
-    "tweeted_level": "High",
+    "risk_level": "Low",
+    "tweeted_level": "Low",
     "latitude": -3.78514,
     "longitude": 103.54279,
-    "rain_mm": 73.94,
-    "soil_moisture": 0.716,
-    "raw_dynamic_score": 12.245,
-    "last_updated": "2026-04-01T16:10:54.803428Z",
-    "last_tweeted_at": "2026-04-01T10:08:08.944318Z",
-    "tweet_id": "2039283702220324976",
-    "resolved": false,
-    "pending_downgrade": true,
-    "pending_target_level": "Medium",
-    "pending_set_at": "2026-04-01T16:10:54.803428Z",
-    "pending_is_region": true
+    "rain_mm": 0.12,
+    "soil_moisture": 0.632,
+    "raw_dynamic_score": 0.02,
+    "last_updated": "2026-04-02T13:02:33.152897Z",
+    "last_tweeted_at": "2026-04-02T13:02:33.152897Z",
+    "tweet_id": "2039690233726320921",
+    "resolved": true,
+    "resolved_at": "2026-04-02T13:02:33.152897Z"
   },
   "-2.5364,-57.7600": {
     "country": "Brazil",
@@ -14436,7 +14433,7 @@
     "rain_mm": 0.0,
     "soil_moisture": 0.636,
     "raw_dynamic_score": 0.0,
-    "last_updated": "2026-04-02T05:05:08.357989Z",
+    "last_updated": "2026-04-02T13:02:33.152897Z",
     "last_tweeted_at": "2026-04-02T01:35:13.959942Z",
     "tweet_id": "2039517021847552101",
     "resolved": true,
@@ -14666,7 +14663,7 @@
     "rain_mm": 81.38,
     "soil_moisture": 0.618,
     "raw_dynamic_score": 12.754,
-    "last_updated": "2026-04-02T10:01:36.182441Z",
+    "last_updated": "2026-04-02T13:02:33.152897Z",
     "last_tweeted_at": "2026-04-01T21:42:35.473952Z",
     "tweet_id": "2039458717226487870",
     "resolved": false
@@ -14771,7 +14768,7 @@
     "rain_mm": 46.06,
     "soil_moisture": 0.696,
     "raw_dynamic_score": 7.546,
-    "last_updated": "2026-04-02T05:05:08.357989Z",
+    "last_updated": "2026-04-02T13:02:33.152897Z",
     "last_tweeted_at": "2026-04-02T05:05:08.357989Z",
     "tweet_id": "2039569831511446002",
     "resolved": false
@@ -14789,6 +14786,21 @@
     "last_updated": "2026-04-02T07:10:42.759788Z",
     "last_tweeted_at": "2026-04-02T05:05:08.357989Z",
     "tweet_id": "2039570084100776110",
+    "resolved": false
+  },
+  "7.0932,4.8353": {
+    "country": "Nigeria",
+    "name": "Ondo",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 7.09316,
+    "longitude": 4.83528,
+    "rain_mm": 48.94,
+    "soil_moisture": 0.513,
+    "raw_dynamic_score": 7.207,
+    "last_updated": "2026-04-02T13:02:33.152897Z",
+    "last_tweeted_at": "2026-04-02T13:02:33.152897Z",
+    "tweet_id": "2039689981266936267",
     "resolved": false
   }
 }
