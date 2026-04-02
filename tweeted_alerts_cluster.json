@@ -1509,10 +1509,18 @@
     "rain_mm": 81.38,
     "soil_moisture": 0.618,
     "raw_dynamic_score": 12.754,
-    "last_updated": "2026-04-01T21:42:35.473952Z",
+    "last_updated": "2026-04-02T01:35:13.959942Z",
     "last_tweeted_at": "2026-04-01T21:42:35.473952Z",
     "tweet_id": "2039458464217584011",
-    "resolved": false
+    "resolved": false,
+    "pending_downgrade": true,
+    "pending_target_level": "Medium",
+    "pending_set_at": "2026-04-02T01:35:13.959942Z",
+    "pending_is_region": false,
+    "pending_observed_level": "Medium",
+    "pending_observed_rain_mm": 69.75,
+    "pending_observed_soil_moisture": 0.665,
+    "pending_observed_raw_dynamic_score": 11.231
   },
   "-22.7321,-64.3372": {
     "country": "Plurinational State of Bolivia",
@@ -2994,7 +3002,7 @@
     "rain_mm": 52.75,
     "soil_moisture": 0.694,
     "raw_dynamic_score": 8.633,
-    "last_updated": "2026-04-01T21:42:35.473952Z",
+    "last_updated": "2026-04-02T01:35:13.959942Z",
     "last_tweeted_at": "2026-01-22T12:35:39.754575Z",
     "tweet_id": "2014316573394096504",
     "resolved": false
@@ -9850,7 +9858,7 @@
     "rain_mm": 65.44,
     "soil_moisture": 0.341,
     "raw_dynamic_score": 8.619,
-    "last_updated": "2026-03-14T18:33:37.310691Z",
+    "last_updated": "2026-04-02T01:35:13.959942Z",
     "last_tweeted_at": "2026-03-14T15:27:21.096473Z",
     "tweet_id": "2032841308637716982",
     "resolved": false
@@ -14453,17 +14461,18 @@
   "-2.1861,-56.7131": {
     "country": "Brazil",
     "name": "Nhamundá",
-    "risk_level": "Medium",
-    "tweeted_level": "Medium",
+    "risk_level": "None",
+    "tweeted_level": "High",
     "latitude": -2.18611,
     "longitude": -56.71306,
-    "rain_mm": 47.75,
-    "soil_moisture": 0.714,
-    "raw_dynamic_score": 7.9,
-    "last_updated": "2026-04-01T21:42:35.473952Z",
-    "last_tweeted_at": "2026-04-01T13:07:41.360354Z",
-    "tweet_id": "2039329145839288561",
-    "resolved": false
+    "rain_mm": 0.0,
+    "soil_moisture": 0.636,
+    "raw_dynamic_score": 0.0,
+    "last_updated": "2026-04-02T01:35:13.959942Z",
+    "last_tweeted_at": "2026-04-02T01:35:13.959942Z",
+    "tweet_id": "2039517021847552101",
+    "resolved": true,
+    "resolved_at": "2026-04-02T01:35:13.959942Z"
   },
   "5.7513,9.3137": {
     "country": "Cameroon",
@@ -14685,7 +14694,7 @@
     "rain_mm": 81.38,
     "soil_moisture": 0.618,
     "raw_dynamic_score": 12.754,
-    "last_updated": "2026-04-01T21:42:35.473952Z",
+    "last_updated": "2026-04-02T01:35:13.959942Z",
     "last_tweeted_at": "2026-04-01T21:42:35.473952Z",
     "tweet_id": "2039458717226487870",
     "resolved": false
@@ -14700,7 +14709,7 @@
     "rain_mm": 46.5,
     "soil_moisture": 0.456,
     "raw_dynamic_score": 6.608,
-    "last_updated": "2026-04-01T21:42:35.473952Z",
+    "last_updated": "2026-04-02T01:35:13.959942Z",
     "last_tweeted_at": "2026-04-01T21:42:35.473952Z",
     "tweet_id": "2039458969803223447",
     "resolved": false
@@ -14715,7 +14724,7 @@
     "rain_mm": 44.81,
     "soil_moisture": 0.58,
     "raw_dynamic_score": 6.869,
-    "last_updated": "2026-04-01T21:42:35.473952Z",
+    "last_updated": "2026-04-02T01:35:13.959942Z",
     "last_tweeted_at": "2026-04-01T21:42:35.473952Z",
     "tweet_id": "2039459222342267314",
     "resolved": false
@@ -14733,6 +14742,51 @@
     "last_updated": "2026-04-01T21:42:35.473952Z",
     "last_tweeted_at": "2026-04-01T21:42:35.473952Z",
     "tweet_id": "2039459474944282644",
+    "resolved": false
+  },
+  "-4.2850,-47.5050": {
+    "country": "Brazil",
+    "name": "Dom Eliseu",
+    "risk_level": "Medium",
+    "tweeted_level": "High",
+    "latitude": -4.285,
+    "longitude": -47.505,
+    "rain_mm": 52.5,
+    "soil_moisture": 0.726,
+    "raw_dynamic_score": 8.743,
+    "last_updated": "2026-04-02T01:35:13.959942Z",
+    "last_tweeted_at": "2026-04-02T01:35:13.959942Z",
+    "tweet_id": "2039517021847552101",
+    "resolved": false
+  },
+  "-4.7761,-48.0672": {
+    "country": "Brazil",
+    "name": "Rondon do Pará",
+    "risk_level": "Medium",
+    "tweeted_level": "High",
+    "latitude": -4.77611,
+    "longitude": -48.06722,
+    "rain_mm": 66.0,
+    "soil_moisture": 0.713,
+    "raw_dynamic_score": 10.91,
+    "last_updated": "2026-04-02T01:35:13.959942Z",
+    "last_tweeted_at": "2026-04-02T01:35:13.959942Z",
+    "tweet_id": "2039517021847552101",
+    "resolved": false
+  },
+  "-6.7475,-51.1611": {
+    "country": "Brazil",
+    "name": "Tucumã",
+    "risk_level": "High",
+    "tweeted_level": "High",
+    "latitude": -6.7475,
+    "longitude": -51.16111,
+    "rain_mm": 76.12,
+    "soil_moisture": 0.718,
+    "raw_dynamic_score": 12.622,
+    "last_updated": "2026-04-02T01:35:13.959942Z",
+    "last_tweeted_at": "2026-04-02T01:35:13.959942Z",
+    "tweet_id": "2039517021847552101",
     "resolved": false
   }
 }
