@@ -3712,22 +3712,6 @@
     "tweet_id": "2016318856248369563",
     "resolved": false
   },
-  "-2.9701,119.8978": {
-    "country": "Indonesia",
-    "name": "Rantepao",
-    "risk_level": "Low",
-    "tweeted_level": "Low",
-    "latitude": -2.9701,
-    "longitude": 119.8978,
-    "rain_mm": 2.62,
-    "soil_moisture": 0.649,
-    "raw_dynamic_score": 0.419,
-    "last_updated": "2026-04-01T07:17:38.398064Z",
-    "last_tweeted_at": "2026-04-01T07:17:38.398064Z",
-    "tweet_id": "2039240798567383243",
-    "resolved": true,
-    "resolved_at": "2026-04-01T07:17:38.398064Z"
-  },
   "-7.7625,110.4317": {
     "country": "Indonesia",
     "name": "Depok",
@@ -6828,7 +6812,7 @@
     "rain_mm": 42.44,
     "soil_moisture": 0.641,
     "raw_dynamic_score": 6.741,
-    "last_updated": "2026-04-02T07:10:42.759788Z",
+    "last_updated": "2026-04-02T10:01:36.182441Z",
     "last_tweeted_at": "2026-02-17T09:45:22.628115Z",
     "tweet_id": "2023695291900104745",
     "resolved": false
@@ -6843,7 +6827,7 @@
     "rain_mm": 62.38,
     "soil_moisture": 0.644,
     "raw_dynamic_score": 9.926,
-    "last_updated": "2026-04-02T05:05:08.357989Z",
+    "last_updated": "2026-04-02T10:01:36.182441Z",
     "last_tweeted_at": "2026-02-17T09:45:22.628115Z",
     "tweet_id": "2023695544825029113",
     "resolved": false
@@ -10038,7 +10022,7 @@
     "rain_mm": 40.81,
     "soil_moisture": 0.719,
     "raw_dynamic_score": 6.768,
-    "last_updated": "2026-04-02T05:05:08.357989Z",
+    "last_updated": "2026-04-02T10:01:36.182441Z",
     "last_tweeted_at": "2026-03-15T05:07:21.119309Z",
     "tweet_id": "2033047416438755560",
     "resolved": false
@@ -10162,22 +10146,6 @@
     "last_tweeted_at": "2026-03-16T05:16:05.293415Z",
     "tweet_id": "2033411995890856248",
     "resolved": false
-  },
-  "-2.5537,120.3279": {
-    "country": "Indonesia",
-    "name": "Masamba",
-    "risk_level": "Low",
-    "tweeted_level": "Low",
-    "latitude": -2.5537,
-    "longitude": 120.3279,
-    "rain_mm": 2.19,
-    "soil_moisture": 0.638,
-    "raw_dynamic_score": 0.347,
-    "last_updated": "2026-04-01T07:17:38.398064Z",
-    "last_tweeted_at": "2026-04-01T07:17:38.398064Z",
-    "tweet_id": "2039241051509084506",
-    "resolved": true,
-    "resolved_at": "2026-04-01T07:17:38.398064Z"
   },
   "23.1006,90.8499": {
     "country": "Bangladesh",
@@ -14698,7 +14666,7 @@
     "rain_mm": 81.38,
     "soil_moisture": 0.618,
     "raw_dynamic_score": 12.754,
-    "last_updated": "2026-04-02T07:10:42.759788Z",
+    "last_updated": "2026-04-02T10:01:36.182441Z",
     "last_tweeted_at": "2026-04-01T21:42:35.473952Z",
     "tweet_id": "2039458717226487870",
     "resolved": false
