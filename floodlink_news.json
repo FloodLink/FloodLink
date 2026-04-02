@@ -13444,5 +13444,14 @@
         "score": 8,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-04-02",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 New York: 2020-2023 extreme rainfall exposed 1.8M to flash floods.\n\n\ud83c\uddec\ud83c\udde7 London: Same period saw 1.2M exposed.\n\n2024-2026 projections: 40% rise in both, with 2.5M and 1.7M at risk respectively.",
+        "type": "statistical",
+        "category": "extreme rainfall trends in major cities",
+        "tweet_id": "2039653726693024248"
     }
 ]
