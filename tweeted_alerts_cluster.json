@@ -14569,7 +14569,7 @@
     "rain_mm": 40.44,
     "soil_moisture": 0.709,
     "raw_dynamic_score": 6.672,
-    "last_updated": "2026-04-02T18:54:00.629148Z",
+    "last_updated": "2026-04-02T21:37:15.197532Z",
     "last_tweeted_at": "2026-04-02T16:02:08.456846Z",
     "tweet_id": "2039735175874306555",
     "resolved": false
@@ -14746,5 +14746,35 @@
     "pending_observed_rain_mm": 39.69,
     "pending_observed_soil_moisture": 0.582,
     "pending_observed_raw_dynamic_score": 6.091
+  },
+  "28.6840,115.8531": {
+    "country": "China",
+    "name": "Nanchang",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 28.68396,
+    "longitude": 115.85306,
+    "rain_mm": 46.06,
+    "soil_moisture": 0.721,
+    "raw_dynamic_score": 7.648,
+    "last_updated": "2026-04-02T21:37:15.197532Z",
+    "last_tweeted_at": "2026-04-02T21:37:15.197532Z",
+    "tweet_id": "2039819509519798548",
+    "resolved": false
+  },
+  "28.7000,115.8167": {
+    "country": "China",
+    "name": "Changleng",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 28.7,
+    "longitude": 115.81667,
+    "rain_mm": 46.06,
+    "soil_moisture": 0.721,
+    "raw_dynamic_score": 7.648,
+    "last_updated": "2026-04-02T21:37:15.197532Z",
+    "last_tweeted_at": "2026-04-02T21:37:15.197532Z",
+    "tweet_id": "2039819509519798548",
+    "resolved": false
   }
 }
