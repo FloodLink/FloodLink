@@ -1608,7 +1608,7 @@
     "rain_mm": 36.81,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 7.04,
-    "last_updated": "2026-04-03T15:41:39.665893Z",
+    "last_updated": "2026-04-03T18:43:47.887474Z",
     "last_tweeted_at": "2026-01-19T21:24:13.838655Z",
     "tweet_id": "2013363186079277465",
     "resolved": false
@@ -13025,7 +13025,7 @@
     "rain_mm": 37.31,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 7.136,
-    "last_updated": "2026-04-03T15:41:39.665893Z",
+    "last_updated": "2026-04-03T18:43:47.887474Z",
     "last_tweeted_at": "2026-03-30T10:16:24.103677Z",
     "tweet_id": "2038562269034922028",
     "resolved": false
@@ -14704,25 +14704,18 @@
   "7.1127,5.1159": {
     "country": "Nigeria",
     "name": "Idanre",
-    "risk_level": "High",
-    "tweeted_level": "High",
+    "risk_level": "None",
+    "tweeted_level": "None",
     "latitude": 7.1127,
     "longitude": 5.1159,
-    "rain_mm": 85.94,
-    "soil_moisture": 0.607,
-    "raw_dynamic_score": 13.387,
-    "last_updated": "2026-04-02T18:54:00.629148Z",
-    "last_tweeted_at": "2026-04-02T16:02:08.456846Z",
-    "tweet_id": "2039735428463665450",
-    "resolved": false,
-    "pending_downgrade": true,
-    "pending_target_level": "Low",
-    "pending_set_at": "2026-04-02T18:54:00.629148Z",
-    "pending_is_region": false,
-    "pending_observed_level": "Low",
-    "pending_observed_rain_mm": 39.69,
-    "pending_observed_soil_moisture": 0.582,
-    "pending_observed_raw_dynamic_score": 6.091
+    "rain_mm": 0.0,
+    "soil_moisture": 0.473,
+    "raw_dynamic_score": 0.0,
+    "last_updated": "2026-04-03T18:43:47.887474Z",
+    "last_tweeted_at": "2026-04-03T18:43:47.887474Z",
+    "tweet_id": "2040138506345853330",
+    "resolved": true,
+    "resolved_at": "2026-04-03T18:43:47.887474Z"
   },
   "28.6840,115.8531": {
     "country": "China",
@@ -14907,7 +14900,7 @@
     "rain_mm": 50.38,
     "soil_moisture": 0.609,
     "raw_dynamic_score": 7.855,
-    "last_updated": "2026-04-03T15:41:39.665893Z",
+    "last_updated": "2026-04-03T18:43:47.887474Z",
     "last_tweeted_at": "2026-04-03T15:41:39.665893Z",
     "tweet_id": "2040092403021799722",
     "resolved": false
@@ -14997,7 +14990,7 @@
     "rain_mm": 42.81,
     "soil_moisture": 0.63,
     "raw_dynamic_score": 6.758,
-    "last_updated": "2026-04-03T15:41:39.665893Z",
+    "last_updated": "2026-04-03T18:43:47.887474Z",
     "last_tweeted_at": "2026-04-03T15:41:39.665893Z",
     "tweet_id": "2040092655665680745",
     "resolved": false
@@ -15012,9 +15005,24 @@
     "rain_mm": 45.62,
     "soil_moisture": 0.606,
     "raw_dynamic_score": 7.102,
-    "last_updated": "2026-04-03T15:41:39.665893Z",
+    "last_updated": "2026-04-03T18:43:47.887474Z",
     "last_tweeted_at": "2026-04-03T15:41:39.665893Z",
     "tweet_id": "2040092908443795538",
+    "resolved": false
+  },
+  "35.1017,129.0300": {
+    "country": "Republic of Korea",
+    "name": "Busan",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 35.10168,
+    "longitude": 129.03004,
+    "rain_mm": 38.25,
+    "soil_moisture": 1.0,
+    "raw_dynamic_score": 7.315,
+    "last_updated": "2026-04-03T18:43:47.887474Z",
+    "last_tweeted_at": "2026-04-03T18:43:47.887474Z",
+    "tweet_id": "2040138253739659270",
     "resolved": false
   }
 }
