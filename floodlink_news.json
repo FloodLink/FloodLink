@@ -14032,5 +14032,25 @@
         "score": 0,
         "status": "skipped",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZFNRLXJDR0J1NFFFcE85TWk3N3pFN0pvM3JOMkRlLXFNZjFzRWdVOXB3WFpfNnFuSkVWM19icjM3eTZ0VVFHTnBQcU5MVmtKd2s4R2dBcElyX2RDYldVc2d5aWd5a0o2WUlQNTJYY1hVV2syLXZlekxFMTFOQU1uQWExMExaYzZNYWJCcVp5dkxOVFQ2M0E3TjRxUkdVOFFhVmZPQUxTcks2SEk?oc=5",
+        "date": "2026-04-03",
+        "title": "Flood warning still affects Hinckley Reservoir area as waters recede - Utica Observer Dispatch",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZFNRLXJDR0J1NFFFcE85TWk3N3pFN0pvM3JOMkRlLXFNZjFzRWdVOXB3WFpfNnFuSkVWM19icjM3eTZ0VVFHTnBQcU5MVmtKd2s4R2dBcElyX2RDYldVc2d5aWd5a0o2WUlQNTJYY1hVV2syLXZlekxFMTFOQU1uQWExMExaYzZNYWJCcVp5dkxOVFQ2M0E3TjRxUkdVOFFhVmZPQUxTcks2SEk?oc=5\" target=\"_blank\">Flood warning still affects Hinckley Reservoir area as waters recede</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Utica Observer Dispatch</font>",
+        "similarity_excluded": "No",
+        "score": 6,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQVk9SQ3ZKZzR5UlNpRDhGUGgzSWhNVVpQSVJ3d0pKQnZONWtydjJVUkliUDRZQmNacGdaNmtOZmxZQmUxYkRuZjBONnRWbWVkeE1HX0ZBMGNkT25LVjFPYkxsUlJKR1RaTjgtaEtTMFRKSkJKVkV1ZGhpQzFzLV91RVY2Vi1oaVFTclE?oc=5",
+        "date": "2026-04-03",
+        "title": "Utah hikers rescued after flash flood sweeps through slot canyon - Yahoo",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxQVk9SQ3ZKZzR5UlNpRDhGUGgzSWhNVVpQSVJ3d0pKQnZONWtydjJVUkliUDRZQmNacGdaNmtOZmxZQmUxYkRuZjBONnRWbWVkeE1HX0ZBMGNkT25LVjFPYkxsUlJKR1RaTjgtaEtTMFRKSkJKVkV1ZGhpQzFzLV91RVY2Vi1oaVFTclE?oc=5\" target=\"_blank\">Utah hikers rescued after flash flood sweeps through slot canyon</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
     }
 ]
