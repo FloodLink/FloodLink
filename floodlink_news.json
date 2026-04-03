@@ -13932,5 +13932,25 @@
         "type": "statistical",
         "category": "coastal cities at risk from sea-level rise and storm surge",
         "tweet_id": "2040005915345125888"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNaG1Qd3VwYW9Sa0YzdmJJdnp0ZmhKVlZSTkJCRDlsaDNVQVVjX2dLdDdreEs1aVdacmtxZG5SQmxlT2dQaV9udmxxaVJPZ2FLcHBQM3lOTVBFY2ZiRzI1SEM3WXZrazZOUjE2QVRVcllHQ0x6bFpJTFZkcjdJT0l5NTN5b2d0YmY3NWRZVUpfMFFVczRE?oc=5",
+        "date": "2026-04-03",
+        "title": "National Weather Service issues flood warning for Pulaski County - wkvi.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNaG1Qd3VwYW9Sa0YzdmJJdnp0ZmhKVlZSTkJCRDlsaDNVQVVjX2dLdDdreEs1aVdacmtxZG5SQmxlT2dQaV9udmxxaVJPZ2FLcHBQM3lOTVBFY2ZiRzI1SEM3WXZrazZOUjE2QVRVcllHQ0x6bFpJTFZkcjdJT0l5NTN5b2d0YmY3NWRZVUpfMFFVczRE?oc=5\" target=\"_blank\">National Weather Service issues flood warning for Pulaski County</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">wkvi.com</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQUlBDcFUyOWZQbDI5ZmtkbEVrakFwdW9WaFBmcndQRGdMbWxhOWNTcDRuY0tiTEJOVjdxZjZ6UWRDWVhLcXptZjBCNFRWLWVhVkpzN0ZJTnhybmhnSjAySzV3WkJkdVplZlNXWHFCbmJCSTgtNkdSUkJEU0xMWlR4RGpXN0dhOHd2VS1GR3VMSGN5eVFrVXo2Q0kyYTNsMk1tMVJaS3l4cnJoQlVEa2hOUDdCVTB3dllqcmc?oc=5",
+        "date": "2026-04-03",
+        "title": "NWS ALERT: Flood Warning re-instated for Black River in Jefferson and Lewis Counties - flackbroadcasting.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQUlBDcFUyOWZQbDI5ZmtkbEVrakFwdW9WaFBmcndQRGdMbWxhOWNTcDRuY0tiTEJOVjdxZjZ6UWRDWVhLcXptZjBCNFRWLWVhVkpzN0ZJTnhybmhnSjAySzV3WkJkdVplZlNXWHFCbmJCSTgtNkdSUkJEU0xMWlR4RGpXN0dhOHd2VS1GR3VMSGN5eVFrVXo2Q0kyYTNsMk1tMVJaS3l4cnJoQlVEa2hOUDdCVTB3dllqcmc?oc=5\" target=\"_blank\">NWS ALERT: Flood Warning re-instated for Black River in Jefferson and Lewis Counties</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">flackbroadcasting.com</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
     }
 ]
