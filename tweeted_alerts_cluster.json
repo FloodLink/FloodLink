@@ -14734,7 +14734,7 @@
     "rain_mm": 46.06,
     "soil_moisture": 0.721,
     "raw_dynamic_score": 7.648,
-    "last_updated": "2026-04-03T01:36:42.845499Z",
+    "last_updated": "2026-04-03T05:06:35.875671Z",
     "last_tweeted_at": "2026-04-02T21:37:15.197532Z",
     "tweet_id": "2039819509519798548",
     "resolved": false
@@ -14752,6 +14752,36 @@
     "last_updated": "2026-04-02T21:37:15.197532Z",
     "last_tweeted_at": "2026-04-02T21:37:15.197532Z",
     "tweet_id": "2039819509519798548",
+    "resolved": false
+  },
+  "25.6674,116.7543": {
+    "country": "China",
+    "name": "Wenheng",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 25.66742,
+    "longitude": 116.75429,
+    "rain_mm": 60.5,
+    "soil_moisture": 0.71,
+    "raw_dynamic_score": 9.986,
+    "last_updated": "2026-04-03T05:06:35.875671Z",
+    "last_tweeted_at": "2026-04-03T05:06:35.875671Z",
+    "tweet_id": "2039932589293625483",
+    "resolved": false
+  },
+  "25.7183,116.7489": {
+    "country": "China",
+    "name": "Liancheng",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 25.71826,
+    "longitude": 116.74892,
+    "rain_mm": 60.5,
+    "soil_moisture": 0.71,
+    "raw_dynamic_score": 9.986,
+    "last_updated": "2026-04-03T05:06:35.875671Z",
+    "last_tweeted_at": "2026-04-03T05:06:35.875671Z",
+    "tweet_id": "2039932589293625483",
     "resolved": false
   }
 }
