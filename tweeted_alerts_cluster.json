@@ -14783,5 +14783,35 @@
     "last_tweeted_at": "2026-04-03T05:06:35.875671Z",
     "tweet_id": "2039932589293625483",
     "resolved": false
+  },
+  "-8.1614,-70.7656": {
+    "country": "Brazil",
+    "name": "Tarauacá",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": -8.16139,
+    "longitude": -70.76556,
+    "rain_mm": 68.06,
+    "soil_moisture": 0.725,
+    "raw_dynamic_score": 11.325,
+    "last_updated": "2026-04-03T07:06:42.230159Z",
+    "last_tweeted_at": "2026-04-03T07:06:42.230159Z",
+    "tweet_id": "2039962820448600301",
+    "resolved": false
+  },
+  "25.0749,117.0178": {
+    "country": "China",
+    "name": "Longyan",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 25.07485,
+    "longitude": 117.01775,
+    "rain_mm": 41.19,
+    "soil_moisture": 0.662,
+    "raw_dynamic_score": 6.621,
+    "last_updated": "2026-04-03T07:06:42.230159Z",
+    "last_tweeted_at": "2026-04-03T07:06:42.230159Z",
+    "tweet_id": "2039963072991793620",
+    "resolved": false
   }
 }
