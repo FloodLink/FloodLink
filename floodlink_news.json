@@ -14325,5 +14325,14 @@
         "score": 0,
         "status": "skipped",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-04-04",
+        "status": "posted",
+        "tweet": "By 2026, 65% of the global population\u20145.2B people\u2014now covered by early warning systems for floods, flash floods, & storm surges, up from 45% in 2020. Yet 2.8B remain exposed.",
+        "type": "statistical",
+        "category": "coverage of flood early warning systems worldwide",
+        "tweet_id": "2040463795919663315"
     }
 ]
