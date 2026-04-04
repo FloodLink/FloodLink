@@ -3130,7 +3130,7 @@
     "rain_mm": 44.81,
     "soil_moisture": 0.62,
     "raw_dynamic_score": 7.034,
-    "last_updated": "2026-04-04T18:38:02.298117Z",
+    "last_updated": "2026-04-04T21:31:47.177700Z",
     "last_tweeted_at": "2026-04-04T18:38:02.298117Z",
     "tweet_id": "2040499193828016402",
     "resolved": false
@@ -14622,22 +14622,6 @@
     "tweet_id": "2039735175874306555",
     "resolved": false
   },
-  "7.1127,5.1159": {
-    "country": "Nigeria",
-    "name": "Idanre",
-    "risk_level": "None",
-    "tweeted_level": "None",
-    "latitude": 7.1127,
-    "longitude": 5.1159,
-    "rain_mm": 0.0,
-    "soil_moisture": 0.473,
-    "raw_dynamic_score": 0.0,
-    "last_updated": "2026-04-03T18:43:47.887474Z",
-    "last_tweeted_at": "2026-04-03T18:43:47.887474Z",
-    "tweet_id": "2040138506345853330",
-    "resolved": true,
-    "resolved_at": "2026-04-03T18:43:47.887474Z"
-  },
   "28.6840,115.8531": {
     "country": "China",
     "name": "Nanchang",
@@ -16214,7 +16198,7 @@
     "rain_mm": 51.31,
     "soil_moisture": 0.697,
     "raw_dynamic_score": 8.409,
-    "last_updated": "2026-04-04T15:32:02.218519Z",
+    "last_updated": "2026-04-04T21:31:47.177700Z",
     "last_tweeted_at": "2026-04-04T15:32:02.218519Z",
     "tweet_id": "2040452383214342163",
     "resolved": false
@@ -16244,7 +16228,7 @@
     "rain_mm": 47.44,
     "soil_moisture": 0.662,
     "raw_dynamic_score": 7.625,
-    "last_updated": "2026-04-04T15:32:02.218519Z",
+    "last_updated": "2026-04-04T21:31:47.177700Z",
     "last_tweeted_at": "2026-04-04T15:32:02.218519Z",
     "tweet_id": "2040452888057496048",
     "resolved": false
@@ -16259,10 +16243,14 @@
     "rain_mm": 87.38,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 16.71,
-    "last_updated": "2026-04-04T18:38:02.298117Z",
+    "last_updated": "2026-04-04T21:31:47.177700Z",
     "last_tweeted_at": "2026-04-04T18:38:02.298117Z",
     "tweet_id": "2040499193828016402",
-    "resolved": false
+    "resolved": false,
+    "pending_downgrade": true,
+    "pending_target_level": "Medium",
+    "pending_set_at": "2026-04-04T21:31:47.177700Z",
+    "pending_is_region": true
   },
   "-12.4300,13.5468": {
     "country": "Angola",
@@ -16274,7 +16262,7 @@
     "rain_mm": 50.12,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 9.586,
-    "last_updated": "2026-04-04T18:38:02.298117Z",
+    "last_updated": "2026-04-04T21:31:47.177700Z",
     "last_tweeted_at": "2026-04-04T18:38:02.298117Z",
     "tweet_id": "2040499193828016402",
     "resolved": false
@@ -16289,7 +16277,7 @@
     "rain_mm": 50.12,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 9.586,
-    "last_updated": "2026-04-04T18:38:02.298117Z",
+    "last_updated": "2026-04-04T21:31:47.177700Z",
     "last_tweeted_at": "2026-04-04T18:38:02.298117Z",
     "tweet_id": "2040499193828016402",
     "resolved": false
@@ -16304,7 +16292,7 @@
     "rain_mm": 51.69,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 9.885,
-    "last_updated": "2026-04-04T18:38:02.298117Z",
+    "last_updated": "2026-04-04T21:31:47.177700Z",
     "last_tweeted_at": "2026-04-04T18:38:02.298117Z",
     "tweet_id": "2040499193828016402",
     "resolved": false
@@ -16349,9 +16337,39 @@
     "rain_mm": 51.19,
     "soil_moisture": 0.591,
     "raw_dynamic_score": 7.898,
-    "last_updated": "2026-04-04T18:38:02.298117Z",
+    "last_updated": "2026-04-04T21:31:47.177700Z",
     "last_tweeted_at": "2026-04-04T18:38:02.298117Z",
     "tweet_id": "2040499951575142468",
+    "resolved": false
+  },
+  "-10.7325,13.7684": {
+    "country": "Angola",
+    "name": "Porto Amboim",
+    "risk_level": "High",
+    "tweeted_level": "High",
+    "latitude": -10.73251,
+    "longitude": 13.76844,
+    "rain_mm": 108.31,
+    "soil_moisture": 1.0,
+    "raw_dynamic_score": 20.715,
+    "last_updated": "2026-04-04T21:31:47.177700Z",
+    "last_tweeted_at": "2026-04-04T21:31:47.177700Z",
+    "tweet_id": "2040542915802579009",
+    "resolved": false
+  },
+  "-10.9830,26.7384": {
+    "country": "The Democratic Republic of the Congo",
+    "name": "Likasi",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": -10.98303,
+    "longitude": 26.7384,
+    "rain_mm": 54.06,
+    "soil_moisture": 0.731,
+    "raw_dynamic_score": 9.027,
+    "last_updated": "2026-04-04T21:31:47.177700Z",
+    "last_tweeted_at": "2026-04-04T21:31:47.177700Z",
+    "tweet_id": "2040543168161276229",
     "resolved": false
   }
 }
