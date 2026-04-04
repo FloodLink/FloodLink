@@ -13944,5 +13944,25 @@
             "longitude": -81.6944,
             "confidence": 0.9
         }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNX2g4a2V1UkJLSklWY0VzOHM0SUZiSjg0cFFVbVBPSzVjY3hZWmVGMUV3eW51RDBOcVZLNHpidkxMX1J0cy1mNG1NNjFiZVVZU0dtV05NVngxX0F0SGdPZElIaE81Y1FWWHRZeXRIN29Nd0pobTE0b1F0OEpJMzU3dEJ0b0hJWl8yRk1TeHlLRDlhWVZnRGV0dXdSNlA1QUwtajFsMUdVc0pMTkJ5cE8zQ1l2ajc4aEFHYVVOT0lvUWY3dw?oc=5",
+        "date": "2026-04-04",
+        "title": "National Weather Service issues Flash Flood Warning for Richland, Ashland, Knox, Morrow counties - Richland Source",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxNX2g4a2V1UkJLSklWY0VzOHM0SUZiSjg0cFFVbVBPSzVjY3hZWmVGMUV3eW51RDBOcVZLNHpidkxMX1J0cy1mNG1NNjFiZVVZU0dtV05NVngxX0F0SGdPZElIaE81Y1FWWHRZeXRIN29Nd0pobTE0b1F0OEpJMzU3dEJ0b0hJWl8yRk1TeHlLRDlhWVZnRGV0dXdSNlA1QUwtajFsMUdVc0pMTkJ5cE8zQ1l2ajc4aEFHYVVOT0lvUWY3dw?oc=5\" target=\"_blank\">National Weather Service issues Flash Flood Warning for Richland, Ashland, Knox, Morrow counties</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Richland Source</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMizwJBVV95cUxQVVE5Zmd5eHpkNHhvMTJ5d2JQU1dBOEJQT04xTHJnRk9va3NMeVBUd0I2ZWVscmhQOG9VZWt3RV90ZjduUHlBZVhMU2FHQ0dmMzQ5eV9SZ0hsR0FYZ0ZLaGlESEY3WkR4NXVoblVYc1J3R1J5eU9RN3VFX0xsaTBNWFNJMGpPT2ZVOERlOFlRbEVyeFpYenN3blBsbE5fT0E5MWNPTjVuOExaTEM3ek5BQ1paSVRxbG5uaHVrMzczMDRiT210cUgtbUtJS3lyVnJrcmhVSnhrOWNUS0ZMSlcxWm1aajdmU0VUQVZORjNXbWxTODFvOXVESTZ5RnpJUDRBbURpZGJGUTlKbUhFMFR3dzByRnVUTWF3RS0xZTdFY3l4ZFp0bUExM0R3TDVUeFRfTnEyQS1UOGcwcENkOGxfWlJ3bmdHcXBQdzhhanR6QQ?oc=5",
+        "date": "2026-04-04",
+        "title": "Taiwan Rail and Air Services Disrupted by Heavy Rain in Western Taiwan, Official Weather Impact, Transport Challenges, and What Travellers Need to Know About Delays and Safety Measures - Travel And Tour World",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwJBVV95cUxQVVE5Zmd5eHpkNHhvMTJ5d2JQU1dBOEJQT04xTHJnRk9va3NMeVBUd0I2ZWVscmhQOG9VZWt3RV90ZjduUHlBZVhMU2FHQ0dmMzQ5eV9SZ0hsR0FYZ0ZLaGlESEY3WkR4NXVoblVYc1J3R1J5eU9RN3VFX0xsaTBNWFNJMGpPT2ZVOERlOFlRbEVyeFpYenN3blBsbE5fT0E5MWNPTjVuOExaTEM3ek5BQ1paSVRxbG5uaHVrMzczMDRiT210cUgtbUtJS3lyVnJrcmhVSnhrOWNUS0ZMSlcxWm1aajdmU0VUQVZORjNXbWxTODFvOXVESTZ5RnpJUDRBbURpZGJGUTlKbUhFMFR3dzByRnVUTWF3RS0xZTdFY3l4ZFp0bUExM0R3TDVUeFRfTnEyQS1UOGcwcENkOGxfWlJ3bmdHcXBQdzhhanR6QQ?oc=5\" target=\"_blank\">Taiwan Rail and Air Services Disrupted by Heavy Rain in Western Taiwan, Official Weather Impact, Transport Challenges, and What Travellers Need to Know About Delays and Safety Measures</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Travel And Tour World</font>",
+        "similarity_excluded": "No",
+        "score": 3,
+        "status": "processed",
+        "tweet": null
     }
 ]
