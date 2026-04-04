@@ -13964,5 +13964,14 @@
         "score": 3,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-04-04",
+        "status": "posted",
+        "tweet": "By 2030, climate-amplified extreme rainfall and storm surges could expose 250 million more people to floods globally, but upgraded dams, levees, and reservoirs might avert $500B in annual damages.",
+        "type": "statistical",
+        "category": "dams, levees and reservoirs used for flood control",
+        "tweet_id": "2040359784608665896"
     }
 ]
