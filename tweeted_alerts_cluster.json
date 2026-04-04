@@ -10048,16 +10048,16 @@
   "-11.4124,14.3066": {
     "country": "Angola",
     "name": "Ucu Seles",
-    "risk_level": "Medium",
-    "tweeted_level": "Medium",
+    "risk_level": "High",
+    "tweeted_level": "High",
     "latitude": -11.41237,
     "longitude": 14.30663,
-    "rain_mm": 60.69,
-    "soil_moisture": 0.523,
-    "raw_dynamic_score": 8.994,
-    "last_updated": "2026-03-15T21:27:49.165102Z",
-    "last_tweeted_at": "2026-03-15T18:34:01.655916Z",
-    "tweet_id": "2033250426276196453",
+    "rain_mm": 89.81,
+    "soil_moisture": 0.601,
+    "raw_dynamic_score": 13.941,
+    "last_updated": "2026-04-04T12:43:57.300417Z",
+    "last_tweeted_at": "2026-04-04T12:43:57.300417Z",
+    "tweet_id": "2040410082622439623",
     "resolved": false
   },
   "-11.1333,14.4667": {
@@ -13733,7 +13733,7 @@
     "rain_mm": 40.19,
     "soil_moisture": 0.718,
     "raw_dynamic_score": 6.664,
-    "last_updated": "2026-04-04T09:37:27.793976Z",
+    "last_updated": "2026-04-04T12:43:57.300417Z",
     "last_tweeted_at": "2026-03-30T21:42:41.534230Z",
     "tweet_id": "2038734475354411191",
     "resolved": false
@@ -14189,7 +14189,7 @@
     "rain_mm": 34.56,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 6.61,
-    "last_updated": "2026-04-04T09:37:27.793976Z",
+    "last_updated": "2026-04-04T12:43:57.300417Z",
     "last_tweeted_at": "2026-04-01T13:07:41.360354Z",
     "tweet_id": "2039329650644775290",
     "resolved": false
@@ -16104,7 +16104,7 @@
     "rain_mm": 96.69,
     "soil_moisture": 0.682,
     "raw_dynamic_score": 15.719,
-    "last_updated": "2026-04-04T09:37:27.793976Z",
+    "last_updated": "2026-04-04T12:43:57.300417Z",
     "last_tweeted_at": "2026-04-04T04:53:00.324591Z",
     "tweet_id": "2040292058858930600",
     "resolved": false
@@ -16209,7 +16209,7 @@
     "rain_mm": 42.0,
     "soil_moisture": 0.717,
     "raw_dynamic_score": 6.959,
-    "last_updated": "2026-04-04T09:37:27.793976Z",
+    "last_updated": "2026-04-04T12:43:57.300417Z",
     "last_tweeted_at": "2026-04-04T09:37:27.793976Z",
     "tweet_id": "2040363139552956800",
     "resolved": false
@@ -16269,7 +16269,7 @@
     "rain_mm": 41.81,
     "soil_moisture": 0.624,
     "raw_dynamic_score": 6.576,
-    "last_updated": "2026-04-04T09:37:27.793976Z",
+    "last_updated": "2026-04-04T12:43:57.300417Z",
     "last_tweeted_at": "2026-04-04T09:37:27.793976Z",
     "tweet_id": "2040363644186406982",
     "resolved": false
