@@ -16344,5 +16344,35 @@
     "last_tweeted_at": "2026-04-04T21:31:47.177700Z",
     "tweet_id": "2040543168161276229",
     "resolved": false
+  },
+  "6.6974,-73.5112": {
+    "country": "Colombia",
+    "name": "El Carmen de Chucurí",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 6.69736,
+    "longitude": -73.51117,
+    "rain_mm": 45.0,
+    "soil_moisture": 0.718,
+    "raw_dynamic_score": 7.462,
+    "last_updated": "2026-04-05T09:39:25.402015Z",
+    "last_tweeted_at": "2026-04-05T09:39:25.402015Z",
+    "tweet_id": "2040726022732288110",
+    "resolved": false
+  },
+  "23.7406,-99.1436": {
+    "country": "Mexico",
+    "name": "Ciudad Victoria",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 23.74061,
+    "longitude": -99.14364,
+    "rain_mm": 45.94,
+    "soil_moisture": 0.527,
+    "raw_dynamic_score": 6.824,
+    "last_updated": "2026-04-05T09:39:25.402015Z",
+    "last_tweeted_at": "2026-04-05T09:39:25.402015Z",
+    "tweet_id": "2040726275153895547",
+    "resolved": false
   }
 }
