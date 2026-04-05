@@ -16393,9 +16393,24 @@
     "rain_mm": 49.88,
     "soil_moisture": 0.652,
     "raw_dynamic_score": 7.971,
-    "last_updated": "2026-04-05T12:47:08.653884Z",
+    "last_updated": "2026-04-05T15:31:48.100105Z",
     "last_tweeted_at": "2026-04-05T12:47:08.653884Z",
     "tweet_id": "2040773520041422935",
+    "resolved": false
+  },
+  "-31.4496,-60.9315": {
+    "country": "Argentina",
+    "name": "Esperanza",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": -31.44957,
+    "longitude": -60.93153,
+    "rain_mm": 41.69,
+    "soil_moisture": 0.674,
+    "raw_dynamic_score": 6.746,
+    "last_updated": "2026-04-05T15:31:48.100105Z",
+    "last_tweeted_at": "2026-04-05T15:31:48.100105Z",
+    "tweet_id": "2040814712095445415",
     "resolved": false
   }
 }
