@@ -14534,5 +14534,25 @@
             "longitude": -84.2475,
             "confidence": 1.0
         }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOT2J0cldzbjBOQjBTOUZTdFpxQS1lVnNUVnVaUDdnTmdCb2ZRU2JVSi1FQlhLQlRTeFBVbW1CT2pSc25acHhyWDVlV1UzQzZKMUtrSlZxTjFvX2lGcmI1VnJHT2E5cV9hRFR2YmFuNjM1Um1LeGExYk1tVnVMLUJIZHRoZVpTMTNoaHRZ?oc=5",
+        "date": "2026-04-05",
+        "title": "Bexar County secures funds for flood warning sirens. Is it enough? - San Antonio Report",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxOT2J0cldzbjBOQjBTOUZTdFpxQS1lVnNUVnVaUDdnTmdCb2ZRU2JVSi1FQlhLQlRTeFBVbW1CT2pSc25acHhyWDVlV1UzQzZKMUtrSlZxTjFvX2lGcmI1VnJHT2E5cV9hRFR2YmFuNjM1Um1LeGExYk1tVnVMLUJIZHRoZVpTMTNoaHRZ?oc=5\" target=\"_blank\">Bexar County secures funds for flood warning sirens. Is it enough?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">San Antonio Report</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUW1RQjhZSXBBeXhiLWJ1ZG04VmtuRGp4ZldROFJhcWJQRXFwRGlDWEJxZWhMazlfNDFwQWtNZ1VxbU5ja0w4SWN1VlNVWENaNjdMelpJd1Z1WF9LM3hERFhFdUxEUTBpbTBWbnlJM3ZHMTVUd2ZIMlNTVW1rYjljb0c5YjRuUElVWkNfbF9CeGQ1V3NDcWRLZWtsOUdWdEp6UmVra1RtWWFmZG1DekY0?oc=5",
+        "date": "2026-04-05",
+        "title": "Tropical depression north of Fiji continues to develop - RNZ",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQUW1RQjhZSXBBeXhiLWJ1ZG04VmtuRGp4ZldROFJhcWJQRXFwRGlDWEJxZWhMazlfNDFwQWtNZ1VxbU5ja0w4SWN1VlNVWENaNjdMelpJd1Z1WF9LM3hERFhFdUxEUTBpbTBWbnlJM3ZHMTVUd2ZIMlNTVW1rYjljb0c5YjRuUElVWkNfbF9CeGQ1V3NDcWRLZWtsOUdWdEp6UmVra1RtWWFmZG1DekY0?oc=5\" target=\"_blank\">Tropical depression north of Fiji continues to develop</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">RNZ</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
     }
 ]
