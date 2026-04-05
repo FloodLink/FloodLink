@@ -14731,5 +14731,14 @@
         "score": 0,
         "status": "skipped",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-04-05",
+        "status": "posted",
+        "tweet": "Asia's 2026 monsoon flood projections: Top countries by population exposed to extreme rainfall & flash floods (UN data).\n\n\ud83c\uddee\ud83c\uddf3 India: 250M at risk, $15B losses\n\ud83c\uddf5\ud83c\uddf0 Pakistan: 45M exposed, 30% crop damage\n\ud83c\udde7\ud83c\udde9 Bangladesh: 35M vulnerable, 20% urban flooding\n\ud83c\udde8\ud83c\uddf3 China: 20M in Yangtze basin",
+        "type": "statistical",
+        "category": "monsoon flood patterns in Asia",
+        "tweet_id": "2040901663347625986"
     }
 ]
