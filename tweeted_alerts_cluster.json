@@ -6504,7 +6504,7 @@
     "rain_mm": 44.88,
     "soil_moisture": 0.566,
     "raw_dynamic_score": 6.825,
-    "last_updated": "2026-02-16T21:26:20.615880Z",
+    "last_updated": "2026-04-06T21:39:25.292833Z",
     "last_tweeted_at": "2026-02-16T18:38:01.636147Z",
     "tweet_id": "2023466960194068765",
     "resolved": false
@@ -6954,7 +6954,7 @@
     "rain_mm": 70.56,
     "soil_moisture": 0.53,
     "raw_dynamic_score": 10.498,
-    "last_updated": "2026-04-06T18:53:06.713572Z",
+    "last_updated": "2026-04-06T21:39:25.292833Z",
     "last_tweeted_at": "2026-02-19T06:56:21.631221Z",
     "tweet_id": "2024377792213725210",
     "resolved": false
@@ -13809,7 +13809,7 @@
     "rain_mm": 54.5,
     "soil_moisture": 0.593,
     "raw_dynamic_score": 8.419,
-    "last_updated": "2026-04-06T15:46:33.743236Z",
+    "last_updated": "2026-04-06T21:39:25.292833Z",
     "last_tweeted_at": "2026-03-31T18:58:05.783311Z",
     "tweet_id": "2039054690818687456",
     "resolved": false
@@ -15389,22 +15389,6 @@
     "tweet_id": "2040499699006783787",
     "resolved": false
   },
-  "-10.7325,13.7684": {
-    "country": "Angola",
-    "name": "Porto Amboim",
-    "risk_level": "None",
-    "tweeted_level": "None",
-    "latitude": -10.73251,
-    "longitude": 13.76844,
-    "rain_mm": 0.0,
-    "soil_moisture": 1.0,
-    "raw_dynamic_score": 0.0,
-    "last_updated": "2026-04-05T21:31:51.094971Z",
-    "last_tweeted_at": "2026-04-05T21:31:51.094971Z",
-    "tweet_id": "2040906090171298144",
-    "resolved": true,
-    "resolved_at": "2026-04-05T21:31:51.094971Z"
-  },
   "-10.9830,26.7384": {
     "country": "The Democratic Republic of the Congo",
     "name": "Likasi",
@@ -15716,7 +15700,7 @@
     "rain_mm": 79.88,
     "soil_moisture": 0.689,
     "raw_dynamic_score": 13.03,
-    "last_updated": "2026-04-06T18:53:06.713572Z",
+    "last_updated": "2026-04-06T21:39:25.292833Z",
     "last_tweeted_at": "2026-04-06T15:46:33.743236Z",
     "tweet_id": "2041180805305614794",
     "resolved": false,
@@ -15735,7 +15719,7 @@
     "rain_mm": 47.06,
     "soil_moisture": 0.734,
     "raw_dynamic_score": 7.871,
-    "last_updated": "2026-04-06T15:46:33.743236Z",
+    "last_updated": "2026-04-06T21:39:25.292833Z",
     "last_tweeted_at": "2026-04-06T15:46:33.743236Z",
     "tweet_id": "2041181057987354933",
     "resolved": false
@@ -15750,7 +15734,7 @@
     "rain_mm": 39.94,
     "soil_moisture": 0.716,
     "raw_dynamic_score": 6.614,
-    "last_updated": "2026-04-06T18:53:06.713572Z",
+    "last_updated": "2026-04-06T21:39:25.292833Z",
     "last_tweeted_at": "2026-04-06T18:53:06.713572Z",
     "tweet_id": "2041227764418650433",
     "resolved": false
