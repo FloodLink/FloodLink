@@ -14608,5 +14608,202 @@
         "score": 6,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQek5LdVFOOE1NeldTZ1ZGU2JBX3hPekNjbWFEdlZaRThXU2lpYmFXMjRkNTdUQlFnTktRMjF2RDdicFFoSk9mVC1nUnVsNC1wVk9XcTQ3N3p4ZmdHQUN3R1FyZjRfQnVOTzB1TElFZUFXdVdNejB3azR1ZjhzTDZBM0txTC1jbzFyWndJWFhkN3pEUFNCYXVIM3M5bjlWcHdQOEZNc1YyakU?oc=5",
+        "date": "2026-04-06",
+        "title": "Flood warning issued for Oconto County - Green Bay Press-Gazette",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxQek5LdVFOOE1NeldTZ1ZGU2JBX3hPekNjbWFEdlZaRThXU2lpYmFXMjRkNTdUQlFnTktRMjF2RDdicFFoSk9mVC1nUnVsNC1wVk9XcTQ3N3p4ZmdHQUN3R1FyZjRfQnVOTzB1TElFZUFXdVdNejB3azR1ZjhzTDZBM0txTC1jbzFyWndJWFhkN3pEUFNCYXVIM3M5bjlWcHdQOEZNc1YyakU?oc=5\" target=\"_blank\">Flood warning issued for Oconto County</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Green Bay Press-Gazette</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE14ZFJPRGZ0c081SUFicVQ1eTNZZFR0QVNkWkpZQ0sxUnZtYzM5VjE4eENVZVIxbWt0Zm5MZDYxa19kOHlVMnFXOC1DNjJrVlZVb1VEU2pJSTNxc2NYT2s5bm5PR054SnRsS2pFWkRYeHpfeWs2UlF5RGtR?oc=5",
+        "date": "2026-04-06",
+        "title": "Chelan County placed under a flood warning until early Tuesday evening - Tacoma News Tribune",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE14ZFJPRGZ0c081SUFicVQ1eTNZZFR0QVNkWkpZQ0sxUnZtYzM5VjE4eENVZVIxbWt0Zm5MZDYxa19kOHlVMnFXOC1DNjJrVlZVb1VEU2pJSTNxc2NYT2s5bm5PR054SnRsS2pFWkRYeHpfeWs2UlF5RGtR?oc=5\" target=\"_blank\">Chelan County placed under a flood warning until early Tuesday evening</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tacoma News Tribune</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": null,
+        "tweet_id": "2041279968303312958",
+        "geo": {
+            "country": "United States",
+            "name": "Chelan County, Washington",
+            "latitude": 47.423,
+            "longitude": -120.325,
+            "confidence": 0.95
+        }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB2bGNkYXVocERKd1Zjd3BFTG1ZNTNQd1B6M3plbHVsa3p2RzBaQ0l4Ty1HVjhKaXJnREdCLThSM25mX21HNm1PR2FCdW4zUXJ1VUV1cXlPNmxYeFNtcjZRZmtlNFRBZ2hacWhV0gFwQVVfeXFMTUo5WG1ESGlRdzRJWlRIakNwTW96X0tqeUcwcUFYVDlhd3VSNmRZcF9keW1nNmRMWXZ6WUZEcWxibDdWZVd2aHlBbHI4bFV3Z0NRVzNZbzhHWmdiNGJhTURIYXBXd0NuS1E0R2xXN0hyWQ?oc=5",
+        "date": "2026-04-06",
+        "title": "Incoming storm could bring another round of floods to Hawai\u02bbi - KHON2",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTFB2bGNkYXVocERKd1Zjd3BFTG1ZNTNQd1B6M3plbHVsa3p2RzBaQ0l4Ty1HVjhKaXJnREdCLThSM25mX21HNm1PR2FCdW4zUXJ1VUV1cXlPNmxYeFNtcjZRZmtlNFRBZ2hacWhV0gFwQVVfeXFMTUo5WG1ESGlRdzRJWlRIakNwTW96X0tqeUcwcUFYVDlhd3VSNmRZcF9keW1nNmRMWXZ6WUZEcWxibDdWZVd2aHlBbHI4bFV3Z0NRVzNZbzhHWmdiNGJhTURIYXBXd0NuS1E0R2xXN0hyWQ?oc=5\" target=\"_blank\">Incoming storm could bring another round of floods to Hawai\u02bbi</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KHON2</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE93cUpTQkJEWDRLUDA4a1hVb0dobEtUTVFSU3VhRFc2RWkzSlV5U3VvdWpGQjRsT2lucWxydVlCaDJ5M1lVY0tYZ2xKcTBtWTd3eHRXa1pHV2NKbUd2MXdGejNrTXhJXzVfQ2kzYnZtQTc?oc=5",
+        "date": "2026-04-06",
+        "title": "Flooding reported in Tompkins - fingerlakesdailynews.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE93cUpTQkJEWDRLUDA4a1hVb0dobEtUTVFSU3VhRFc2RWkzSlV5U3VvdWpGQjRsT2lucWxydVlCaDJ5M1lVY0tYZ2xKcTBtWTd3eHRXa1pHV2NKbUd2MXdGejNrTXhJXzVfQ2kzYnZtQTc?oc=5\" target=\"_blank\">Flooding reported in Tompkins</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">fingerlakesdailynews.com</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNXzVZNVBjTXRaZXNkc3lfS1lwMnk3clFBcVlBbmtFWGNIZjdBLVhVOHcwNU5rNXpuT0E4T0ZuajNhVXN0MHNqNDEyNG9vZ2lSZmkwMl9FaFFQVzlBVzJtYUtrUWVJR1VkRnFleUpaLU9VV3d6c0p4dlFmX0hZTVZFajE4NHdtQy1rUXA5VHdFY3hfNFV4N25OYTZmamNrU3ItdzM3ajdUMndyQkhoMzNF?oc=5",
+        "date": "2026-04-06",
+        "title": "Flooding closes part of Outagamie County highway - The Post-Crescent",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxNXzVZNVBjTXRaZXNkc3lfS1lwMnk3clFBcVlBbmtFWGNIZjdBLVhVOHcwNU5rNXpuT0E4T0ZuajNhVXN0MHNqNDEyNG9vZ2lSZmkwMl9FaFFQVzlBVzJtYUtrUWVJR1VkRnFleUpaLU9VV3d6c0p4dlFmX0hZTVZFajE4NHdtQy1rUXA5VHdFY3hfNFV4N25OYTZmamNrU3ItdzM3ajdUMndyQkhoMzNF?oc=5\" target=\"_blank\">Flooding closes part of Outagamie County highway</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Post-Crescent</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQdGJUT1FYakdkUWI0cFJSR1VQeHotZ0F2LWNYaVFiVjBaQll5eS0xakkyRUl1M0JRV2ptS0w3QWR0RGxMWlVjdlhEMlBpMFIwVmt3QWU2YzJqcm9oSGpldU02amc2bGpESTJjYTVJUE9vc3RmU284RnhfZUQyS3E5emNiWE9xdHA2bXFoNENlLUFlRy11QkhUOGc2bWtpMnpYWkljRk5MTUtwbVdtcGRnUnJEWDExbTl0TE0xV3NOQU9pZ2hrLTc2VFBaTl9JcWNiZW5VQg?oc=5",
+        "date": "2026-04-06",
+        "title": "National Weather Service cancels Flood Warning for Yellow River; road closures remain - giant.fm",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxQdGJUT1FYakdkUWI0cFJSR1VQeHotZ0F2LWNYaVFiVjBaQll5eS0xakkyRUl1M0JRV2ptS0w3QWR0RGxMWlVjdlhEMlBpMFIwVmt3QWU2YzJqcm9oSGpldU02amc2bGpESTJjYTVJUE9vc3RmU284RnhfZUQyS3E5emNiWE9xdHA2bXFoNENlLUFlRy11QkhUOGc2bWtpMnpYWkljRk5MTUtwbVdtcGRnUnJEWDExbTl0TE0xV3NOQU9pZ2hrLTc2VFBaTl9JcWNiZW5VQg?oc=5\" target=\"_blank\">National Weather Service cancels Flood Warning for Yellow River; road closures remain</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">giant.fm</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNVC16ZUc0dU12bkZqVTZrWlVuRFJBb1hYaHl5UURkalFxNFljOWtRbmNTTkdxWFE1cEJ5NWlZbjdldnJrOVQ2THFWT005TlFRODZ1cHYzOTBvQlRFN2dkRkpiYzRGMWlRNllkZGhLV3p0anhmRktyREdKaWU1WEVuWnNGV1hGQXFpR0Q1aEhB?oc=5",
+        "date": "2026-04-06",
+        "title": "Seasonal flooding in Evart exacerbated by snowmelt - Big Rapids Pioneer",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNVC16ZUc0dU12bkZqVTZrWlVuRFJBb1hYaHl5UURkalFxNFljOWtRbmNTTkdxWFE1cEJ5NWlZbjdldnJrOVQ2THFWT005TlFRODZ1cHYzOTBvQlRFN2dkRkpiYzRGMWlRNllkZGhLV3p0anhmRktyREdKaWU1WEVuWnNGV1hGQXFpR0Q1aEhB?oc=5\" target=\"_blank\">Seasonal flooding in Evart exacerbated by snowmelt</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Big Rapids Pioneer</font>",
+        "similarity_excluded": "No",
+        "score": 6,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPRTZEb084NTYtbHRsdXAxaS1tTk81dkJjRzlIZFFwQkVWUXVHRGhrTHUtYjY1bkdnRW0teG1xamZJWWlGeFFPRlp5azI1M0Jld0lfV0tBSWl4TVRfa1JOYWxWOGk0STRjdEY1NWlfRDFKYnM2em0tVjN5d05nRTJKWWRHaUd2QjNqOE9Ccmd3WGVmRm5TZHFJbUozTUhheXZLYndkTjdSNW9MTmwzeE14dkVra212ZlFxRzdqaw?oc=5",
+        "date": "2026-04-06",
+        "title": "Here's a look at the upcoming week's forecast - WTHI-TV",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxPRTZEb084NTYtbHRsdXAxaS1tTk81dkJjRzlIZFFwQkVWUXVHRGhrTHUtYjY1bkdnRW0teG1xamZJWWlGeFFPRlp5azI1M0Jld0lfV0tBSWl4TVRfa1JOYWxWOGk0STRjdEY1NWlfRDFKYnM2em0tVjN5d05nRTJKWWRHaUd2QjNqOE9Ccmd3WGVmRm5TZHFJbUozTUhheXZLYndkTjdSNW9MTmwzeE14dkVra212ZlFxRzdqaw?oc=5\" target=\"_blank\">Here's a look at the upcoming week's forecast</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WTHI-TV</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNNmQxYkIwbjR5MVppYm1nNFVYcmdLc1BYTDIxWmx6YkRGYnB5NkRfRHNmOF82RWkzUG1kUmVHT0xpdFBGMVNKVVFvUFFFM3FPUFUzczZZUTlIa2t3YVVSTm9ZNlNqMEZoMURZN21vNk1nZWNIN0pkbFE4R1BxeXhMUGdzV3dwQVZJY1NCUzBjZXRSOGs5bnB6ZXh4ekp1cUdxV0pjRlhmNi0yejhJS3EwejhHN2JwUTZMbDkwT2RpVk9fRlVEV2NXZFo5cTZKTVQ5UWpFVQ?oc=5",
+        "date": "2026-04-06",
+        "title": "Cold Tonight and Tomorrow Before Midweek Warm-up - WTHI-TV",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxNNmQxYkIwbjR5MVppYm1nNFVYcmdLc1BYTDIxWmx6YkRGYnB5NkRfRHNmOF82RWkzUG1kUmVHT0xpdFBGMVNKVVFvUFFFM3FPUFUzczZZUTlIa2t3YVVSTm9ZNlNqMEZoMURZN21vNk1nZWNIN0pkbFE4R1BxeXhMUGdzV3dwQVZJY1NCUzBjZXRSOGs5bnB6ZXh4ekp1cUdxV0pjRlhmNi0yejhJS3EwejhHN2JwUTZMbDkwT2RpVk9fRlVEV2NXZFo5cTZKTVQ5UWpFVQ?oc=5\" target=\"_blank\">Cold Tonight and Tomorrow Before Midweek Warm-up</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WTHI-TV</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPRHFlcUl3UTlEQ1d2OGRXWTVDQjc4ZHJaZEdXSWZjcGg5V1gtd3d0eWNMbGdhTldKVWtOSTROaGExc2QzUVhkMmQ3a2NGLTJyZlJ6SGhlYlEyd3VlSl9jakZXc3h0V3FTUmtiRlZ3Q1h5QmpBc3JFSVNRWTdIQVBmUXBvT2hJMHA4UzlnZG4takJONXk4NzBBSXNmU2Y2TE00TlJJZklHWnF3UnlSZzBYQmV3eGtFcDdUbXpiLTd4LWNQWldJckVleElJZDA2alAxbWFNVnhFTzZzRy1x?oc=5",
+        "date": "2026-04-06",
+        "title": "Brief tornado damages trees near Cecil Harden Lake in Parke County - WTHI-TV",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxPRHFlcUl3UTlEQ1d2OGRXWTVDQjc4ZHJaZEdXSWZjcGg5V1gtd3d0eWNMbGdhTldKVWtOSTROaGExc2QzUVhkMmQ3a2NGLTJyZlJ6SGhlYlEyd3VlSl9jakZXc3h0V3FTUmtiRlZ3Q1h5QmpBc3JFSVNRWTdIQVBmUXBvT2hJMHA4UzlnZG4takJONXk4NzBBSXNmU2Y2TE00TlJJZklHWnF3UnlSZzBYQmV3eGtFcDdUbXpiLTd4LWNQWldJckVleElJZDA2alAxbWFNVnhFTzZzRy1x?oc=5\" target=\"_blank\">Brief tornado damages trees near Cecil Harden Lake in Parke County</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WTHI-TV</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPYjBReTlFY1luRHE3eGxhc1RpVXJlVmdJNlEzZDNWYm5SeEVGTXRnNzVMRFVSTkJzMnd3VHJRTEIzQ0plVzQ1dXg4Y3J6akJNQnNfeGo2VjEyTC1wUV9UZEgyLVhPQWpab2lDRjZZOElkUU5JT09UVnotYWROOFFXd05BRUNuSUF1OGNONXF0aksxdVJZZXh6TzJrTDFEQ2VPUzFzX3VmWTM3Sl9XWnhVNXRTNm9yVWFMOU5tTnlxMll3Q20tQURuTEFLOUxEOTRuSl8xNEdRS01HSWlTaWUwRE1xSTdQM0lRaElMZV9kdw?oc=5",
+        "date": "2026-04-06",
+        "title": "Crawford County Development Association secures 123 acres for future development - WTHI-TV",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxPYjBReTlFY1luRHE3eGxhc1RpVXJlVmdJNlEzZDNWYm5SeEVGTXRnNzVMRFVSTkJzMnd3VHJRTEIzQ0plVzQ1dXg4Y3J6akJNQnNfeGo2VjEyTC1wUV9UZEgyLVhPQWpab2lDRjZZOElkUU5JT09UVnotYWROOFFXd05BRUNuSUF1OGNONXF0aksxdVJZZXh6TzJrTDFEQ2VPUzFzX3VmWTM3Sl9XWnhVNXRTNm9yVWFMOU5tTnlxMll3Q20tQURuTEFLOUxEOTRuSl8xNEdRS01HSWlTaWUwRE1xSTdQM0lRaElMZV9kdw?oc=5\" target=\"_blank\">Crawford County Development Association secures 123 acres for future development</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WTHI-TV</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNMW1SN0RZUlk1UGt4TFBaQWdMTEhIU3FQRk9Da0RQcFFlX1MxOUdVUDRaZS1lRU9ESVh3QU52OWhKX3VfYlVrR0dCT1ltOW9raExGbXV3bXEwWDZ1cTdSMUFPWHJ2NkpHRlVOZ2JnWk9OV2xNbUZSOGlac0xoZ3VfT21BTWw2bUl2elJSX1laZU5VeEhLQXRjSGN3MlAwdFVHOE5rSkVyckVWTlN0SGRoM3hKMlpGOXg1UmpwVkdVenA0ZUpXcWk5cEpPLUYwV0J4Q1dPdV9HZWZLR2ZhRndRZGs1UW5vSkVHOTgzWUJPdHpHWkxNTjNnUk1YUXVIWkpp?oc=5",
+        "date": "2026-04-06",
+        "title": "City of Terre Haute, Terre Haute Fire Department, and Vigo County Central Dispatch Announce New 911 \"Crosswalk to Care\" Program - WTHI-TV",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAJBVV95cUxNMW1SN0RZUlk1UGt4TFBaQWdMTEhIU3FQRk9Da0RQcFFlX1MxOUdVUDRaZS1lRU9ESVh3QU52OWhKX3VfYlVrR0dCT1ltOW9raExGbXV3bXEwWDZ1cTdSMUFPWHJ2NkpHRlVOZ2JnWk9OV2xNbUZSOGlac0xoZ3VfT21BTWw2bUl2elJSX1laZU5VeEhLQXRjSGN3MlAwdFVHOE5rSkVyckVWTlN0SGRoM3hKMlpGOXg1UmpwVkdVenA0ZUpXcWk5cEpPLUYwV0J4Q1dPdV9HZWZLR2ZhRndRZGs1UW5vSkVHOTgzWUJPdHpHWkxNTjNnUk1YUXVIWkpp?oc=5\" target=\"_blank\">City of Terre Haute, Terre Haute Fire Department, and Vigo County Central Dispatch Announce New 911 \"Crosswalk to Care\" Program</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WTHI-TV</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNSDd6aGNqNE9MVVMwTkY1ck9MbFlmQkZ2Nm9BN213QV94d3REa0I0M3FpQi1vMjVWODlRbWV0SktEZVprdnFEVUdEMGp1MVNUZW9xalJlbnZDaFhHZlpWSWVaaEw3cHdUNU1CUGdIN29sZU9GSzZQRUhRcndWbk54b0F6RjNJbWdYYjQ2S002RmZ2ZE9hSGlUcDlUdjdtbGt2Z1dpM1VuNlpJMGdjaVNsWmQ3SkMtUEpUcVRFSVNBQnN1VFgzZVBfczhncFhxWVk?oc=5",
+        "date": "2026-04-06",
+        "title": "2 people recovering after smoke inhalation in Paris fire - WTHI-TV",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxNSDd6aGNqNE9MVVMwTkY1ck9MbFlmQkZ2Nm9BN213QV94d3REa0I0M3FpQi1vMjVWODlRbWV0SktEZVprdnFEVUdEMGp1MVNUZW9xalJlbnZDaFhHZlpWSWVaaEw3cHdUNU1CUGdIN29sZU9GSzZQRUhRcndWbk54b0F6RjNJbWdYYjQ2S002RmZ2ZE9hSGlUcDlUdjdtbGt2Z1dpM1VuNlpJMGdjaVNsWmQ3SkMtUEpUcVRFSVNBQnN1VFgzZVBfczhncFhxWVk?oc=5\" target=\"_blank\">2 people recovering after smoke inhalation in Paris fire</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WTHI-TV</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPMHNEeFRPeFlHZlpTRXAyMnRTZ2tzVk1WWWE3M3NCY0h1NENWbWhJQzZfSUtQZGhCTkVKY0JraUV0NkRabTNCNjNKWHRXZWl6WWJmU0ZOYk14MEhNU01tTHl3ZDFfWkRxeEE1VVVHOHRvSUZZQVhISERJelpoRXFyWkZhNk5qN3ROclBzdUhtb1J4UTJPTFN2R3B4OVNKRjBGb1htd0ZrbHh4VFEtd1Jib3JqSzdCeC1EVVp3QS1sTnlPX2FsYXFNOGNTc0t1TjF2TkQwVHRwRQ?oc=5",
+        "date": "2026-04-06",
+        "title": "Vincennes University receives $300,000 gift on Blazers Give Day - WTHI-TV",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxPMHNEeFRPeFlHZlpTRXAyMnRTZ2tzVk1WWWE3M3NCY0h1NENWbWhJQzZfSUtQZGhCTkVKY0JraUV0NkRabTNCNjNKWHRXZWl6WWJmU0ZOYk14MEhNU01tTHl3ZDFfWkRxeEE1VVVHOHRvSUZZQVhISERJelpoRXFyWkZhNk5qN3ROclBzdUhtb1J4UTJPTFN2R3B4OVNKRjBGb1htd0ZrbHh4VFEtd1Jib3JqSzdCeC1EVVp3QS1sTnlPX2FsYXFNOGNTc0t1TjF2TkQwVHRwRQ?oc=5\" target=\"_blank\">Vincennes University receives $300,000 gift on Blazers Give Day</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WTHI-TV</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNNktRRHlWX2ViRHkyR2dQRzhEWVJRU3NNdEVDZ2kyQU5uc19lNG93WXRENjMydjNrX3lob1F2X0lPaGFrSGNZUExsSlV3cDBqUDVsamxYYzdyQmVlb2hKR2h4ZnVmWXBpQ1dEREswUF9wSi1mbkhaejhuUmVNQTg3UHNROFk2VEF2YmdvQzlDbHZQRElUcFlwMWdLUFd5RlZvY0xOQmVvVlVIWXRBdlg5X3BmdDY5X2NmMlpoWXVPY3BPNXpLTWZOcHF5VXlvZw?oc=5",
+        "date": "2026-04-06",
+        "title": "Casey seeks hotel developers near I-70 for tourist boom - WTHI-TV",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxNNktRRHlWX2ViRHkyR2dQRzhEWVJRU3NNdEVDZ2kyQU5uc19lNG93WXRENjMydjNrX3lob1F2X0lPaGFrSGNZUExsSlV3cDBqUDVsamxYYzdyQmVlb2hKR2h4ZnVmWXBpQ1dEREswUF9wSi1mbkhaejhuUmVNQTg3UHNROFk2VEF2YmdvQzlDbHZQRElUcFlwMWdLUFd5RlZvY0xOQmVvVlVIWXRBdlg5X3BmdDY5X2NmMlpoWXVPY3BPNXpLTWZOcHF5VXlvZw?oc=5\" target=\"_blank\">Casey seeks hotel developers near I-70 for tourist boom</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WTHI-TV</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOSUNRcGQzMUZJWGJhQUk4cjF4OUlwZHdSMmJaeVJ1aS1pTHVUaUhkWUFGQmtnZ0xSdHVpcE1sWXdESWEwejdZQk93QmNhRG1KbVdzOEUydFlmM0kxa1FzeGFwTi13MmhHOFBRQlo2ZEdObFIzc0ZVWVNWZ09xNEZuLWFEZUFGV3FqTlp4bXhqek81emJQWWZheUR5ak9rVEVTNTh0cF83Wl9ENkNjMndCOFk3MnBXSXFSc2J1NzgzbGJsLWw1OFNlMVV4RVBRZjJydXc?oc=5",
+        "date": "2026-04-06",
+        "title": "Weather: Orange heavy rain warning for Northland, MetService monitoring tropical cyclone Vaianu - RNZ",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxOSUNRcGQzMUZJWGJhQUk4cjF4OUlwZHdSMmJaeVJ1aS1pTHVUaUhkWUFGQmtnZ0xSdHVpcE1sWXdESWEwejdZQk93QmNhRG1KbVdzOEUydFlmM0kxa1FzeGFwTi13MmhHOFBRQlo2ZEdObFIzc0ZVWVNWZ09xNEZuLWFEZUFGV3FqTlp4bXhqek81emJQWWZheUR5ak9rVEVTNTh0cF83Wl9ENkNjMndCOFk3MnBXSXFSc2J1NzgzbGJsLWw1OFNlMVV4RVBRZjJydXc?oc=5\" target=\"_blank\">Weather: Orange heavy rain warning for Northland, MetService monitoring tropical cyclone Vaianu</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">RNZ</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWHhGcTZrZnRyc1NCZmJ3WldrVVk1YU1ZWXNnaEk0eXNiaE9xMFYyZFJCWmVlNzNKU2oxRl9tTkZQUE45TFNRbHNnVS1sR3VBNFhEcFljM2ZKdElFY2RSRTNybjlxR3RoVXpvZVdUVjhfS0gzSnFmdHU3aU1PMzlwYTZ4al9NZ3lEV3Z1THJHbGhnel9jU2lBWjd1RDQ4TXc?oc=5",
+        "date": "2026-04-06",
+        "title": "Cyclone Vaianu triggers heavy rain and flood warnings across Fiji - fbcnews.com.fj",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPWHhGcTZrZnRyc1NCZmJ3WldrVVk1YU1ZWXNnaEk0eXNiaE9xMFYyZFJCWmVlNzNKU2oxRl9tTkZQUE45TFNRbHNnVS1sR3VBNFhEcFljM2ZKdElFY2RSRTNybjlxR3RoVXpvZVdUVjhfS0gzSnFmdHU3aU1PMzlwYTZ4al9NZ3lEV3Z1THJHbGhnel9jU2lBWjd1RDQ4TXc?oc=5\" target=\"_blank\">Cyclone Vaianu triggers heavy rain and flood warnings across Fiji</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">fbcnews.com.fj</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE14ZFJPRGZ0c081SUFicVQ1eTNZZFR0QVNkWkpZQ0sxUnZtYzM5VjE4eENVZVIxbWt0Zm5MZDYxa19kOHlVMnFXOC1DNjJrVlZVb1VEU2pJSTNxc2NYT2s5bm5PR054SnRsS2pFWkRYeHpfeWs2UlF5RGtR?oc=5",
+        "date": "2026-04-06",
+        "title": "Chelan County placed under a flood warning until early Tuesday evening - Tacoma News Tribune",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE14ZFJPRGZ0c081SUFicVQ1eTNZZFR0QVNkWkpZQ0sxUnZtYzM5VjE4eENVZVIxbWt0Zm5MZDYxa19kOHlVMnFXOC1DNjJrVlZVb1VEU2pJSTNxc2NYT2s5bm5PR054SnRsS2pFWkRYeHpfeWs2UlF5RGtR?oc=5\" target=\"_blank\">Chelan County placed under a flood warning until early Tuesday evening</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tacoma News Tribune</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 FORECAST Chelan County: Flood warning in effect until early Tuesday evening, with risks of river and stream overflows from recent rains. (Tacoma News Tribune)",
+        "type": "news",
+        "tweet_id": "2041279968303312958",
+        "geo": {
+            "country": "United States",
+            "name": "Chelan County, Washington",
+            "latitude": 47.423,
+            "longitude": -120.325,
+            "confidence": 0.95
+        }
     }
 ]
