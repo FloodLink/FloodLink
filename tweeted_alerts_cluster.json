@@ -369,7 +369,7 @@
     "rain_mm": 44.75,
     "soil_moisture": 0.633,
     "raw_dynamic_score": 7.075,
-    "last_updated": "2026-01-09T21:17:21.524448Z",
+    "last_updated": "2026-04-06T18:53:06.713572Z",
     "last_tweeted_at": "2026-01-09T09:24:00.183552Z",
     "tweet_id": "2009556796235710828",
     "resolved": false
@@ -3103,22 +3103,6 @@
     "last_tweeted_at": "2026-01-23T04:05:05.430575Z",
     "tweet_id": "2014550213201895572",
     "resolved": false
-  },
-  "-13.0387,14.2455": {
-    "country": "Angola",
-    "name": "Cubal",
-    "risk_level": "Low",
-    "tweeted_level": "Low",
-    "latitude": -13.03865,
-    "longitude": 14.2455,
-    "rain_mm": 0.31,
-    "soil_moisture": 0.514,
-    "raw_dynamic_score": 0.046,
-    "last_updated": "2026-04-05T18:39:27.937522Z",
-    "last_tweeted_at": "2026-04-05T18:39:27.937522Z",
-    "tweet_id": "2040862443035939233",
-    "resolved": true,
-    "resolved_at": "2026-04-05T18:39:27.937522Z"
   },
   "-18.0575,33.1736": {
     "country": "Mozambique",
@@ -6970,7 +6954,7 @@
     "rain_mm": 70.56,
     "soil_moisture": 0.53,
     "raw_dynamic_score": 10.498,
-    "last_updated": "2026-02-19T06:56:21.631221Z",
+    "last_updated": "2026-04-06T18:53:06.713572Z",
     "last_tweeted_at": "2026-02-19T06:56:21.631221Z",
     "tweet_id": "2024377792213725210",
     "resolved": false
@@ -6985,7 +6969,7 @@
     "rain_mm": 73.69,
     "soil_moisture": 0.666,
     "raw_dynamic_score": 11.867,
-    "last_updated": "2026-02-19T12:49:16.705147Z",
+    "last_updated": "2026-04-06T18:53:06.713572Z",
     "last_tweeted_at": "2026-02-19T09:42:02.919727Z",
     "tweet_id": "2024419232809963929",
     "resolved": false
@@ -10615,7 +10599,7 @@
     "rain_mm": 57.19,
     "soil_moisture": 0.58,
     "raw_dynamic_score": 8.768,
-    "last_updated": "2026-03-21T12:38:08.071273Z",
+    "last_updated": "2026-04-06T18:53:06.713572Z",
     "last_tweeted_at": "2026-03-21T01:22:45.570565Z",
     "tweet_id": "2035165222550335754",
     "resolved": false
@@ -14245,7 +14229,7 @@
     "rain_mm": 48.94,
     "soil_moisture": 0.513,
     "raw_dynamic_score": 7.207,
-    "last_updated": "2026-04-06T13:00:06.827479Z",
+    "last_updated": "2026-04-06T18:53:06.713572Z",
     "last_tweeted_at": "2026-04-02T13:02:33.152897Z",
     "tweet_id": "2039689981266936267",
     "resolved": false
@@ -15375,70 +15359,6 @@
     "tweet_id": "2040452635610747156",
     "resolved": false
   },
-  "-12.3644,13.5360": {
-    "country": "Angola",
-    "name": "Lobito",
-    "risk_level": "Low",
-    "tweeted_level": "Low",
-    "latitude": -12.3644,
-    "longitude": 13.53601,
-    "rain_mm": 0.31,
-    "soil_moisture": 1.0,
-    "raw_dynamic_score": 0.06,
-    "last_updated": "2026-04-05T18:39:27.937522Z",
-    "last_tweeted_at": "2026-04-05T18:39:27.937522Z",
-    "tweet_id": "2040862443035939233",
-    "resolved": true,
-    "resolved_at": "2026-04-05T18:39:27.937522Z"
-  },
-  "-12.4300,13.5468": {
-    "country": "Angola",
-    "name": "Catumbela",
-    "risk_level": "Low",
-    "tweeted_level": "Low",
-    "latitude": -12.43002,
-    "longitude": 13.54677,
-    "rain_mm": 0.12,
-    "soil_moisture": 1.0,
-    "raw_dynamic_score": 0.024,
-    "last_updated": "2026-04-05T18:39:27.937522Z",
-    "last_tweeted_at": "2026-04-05T18:39:27.937522Z",
-    "tweet_id": "2040862443035939233",
-    "resolved": true,
-    "resolved_at": "2026-04-05T18:39:27.937522Z"
-  },
-  "-12.5767,13.4027": {
-    "country": "Angola",
-    "name": "Benguela",
-    "risk_level": "Low",
-    "tweeted_level": "Low",
-    "latitude": -12.57674,
-    "longitude": 13.40268,
-    "rain_mm": 0.12,
-    "soil_moisture": 1.0,
-    "raw_dynamic_score": 0.024,
-    "last_updated": "2026-04-05T18:39:27.937522Z",
-    "last_tweeted_at": "2026-04-05T18:39:27.937522Z",
-    "tweet_id": "2040862443035939233",
-    "resolved": true,
-    "resolved_at": "2026-04-05T18:39:27.937522Z"
-  },
-  "-12.6042,13.1967": {
-    "country": "Angola",
-    "name": "Baía Farta",
-    "risk_level": "Low",
-    "tweeted_level": "Low",
-    "latitude": -12.60417,
-    "longitude": 13.19667,
-    "rain_mm": 0.94,
-    "soil_moisture": 1.0,
-    "raw_dynamic_score": 0.179,
-    "last_updated": "2026-04-05T18:39:27.937522Z",
-    "last_tweeted_at": "2026-04-05T18:39:27.937522Z",
-    "tweet_id": "2040862443035939233",
-    "resolved": true,
-    "resolved_at": "2026-04-05T18:39:27.937522Z"
-  },
   "-14.1167,13.2500": {
     "country": "Angola",
     "name": "Camucuio",
@@ -15766,7 +15686,7 @@
     "rain_mm": 40.81,
     "soil_moisture": 0.672,
     "raw_dynamic_score": 6.596,
-    "last_updated": "2026-04-06T13:00:06.827479Z",
+    "last_updated": "2026-04-06T18:53:06.713572Z",
     "last_tweeted_at": "2026-04-06T13:00:06.827479Z",
     "tweet_id": "2041138923565359494",
     "resolved": false
@@ -15796,10 +15716,14 @@
     "rain_mm": 79.88,
     "soil_moisture": 0.689,
     "raw_dynamic_score": 13.03,
-    "last_updated": "2026-04-06T15:46:33.743236Z",
+    "last_updated": "2026-04-06T18:53:06.713572Z",
     "last_tweeted_at": "2026-04-06T15:46:33.743236Z",
     "tweet_id": "2041180805305614794",
-    "resolved": false
+    "resolved": false,
+    "pending_downgrade": true,
+    "pending_target_level": "Medium",
+    "pending_set_at": "2026-04-06T18:53:06.713572Z",
+    "pending_is_region": true
   },
   "28.3667,129.4833": {
     "country": "Japan",
@@ -15814,6 +15738,36 @@
     "last_updated": "2026-04-06T15:46:33.743236Z",
     "last_tweeted_at": "2026-04-06T15:46:33.743236Z",
     "tweet_id": "2041181057987354933",
+    "resolved": false
+  },
+  "-1.4558,-48.5044": {
+    "country": "Brazil",
+    "name": "Belém",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": -1.45583,
+    "longitude": -48.50444,
+    "rain_mm": 39.94,
+    "soil_moisture": 0.716,
+    "raw_dynamic_score": 6.614,
+    "last_updated": "2026-04-06T18:53:06.713572Z",
+    "last_tweeted_at": "2026-04-06T18:53:06.713572Z",
+    "tweet_id": "2041227764418650433",
+    "resolved": false
+  },
+  "-33.1165,-58.3107": {
+    "country": "Uruguay",
+    "name": "Fray Bentos",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": -33.11651,
+    "longitude": -58.31067,
+    "rain_mm": 56.81,
+    "soil_moisture": 0.56,
+    "raw_dynamic_score": 8.606,
+    "last_updated": "2026-04-06T18:53:06.713572Z",
+    "last_tweeted_at": "2026-04-06T18:53:06.713572Z",
+    "tweet_id": "2041228017205186851",
     "resolved": false
   }
 }
