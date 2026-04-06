@@ -14202,5 +14202,14 @@
             "longitude": -64.7333,
             "confidence": 0.95
         }
+    },
+    {
+        "link": null,
+        "date": "2026-04-06",
+        "status": "posted",
+        "tweet": "Top 5 countries by annual economic losses from floods & flash floods (2025 est., USD billions):\n\n1. \ud83c\udde8\ud83c\uddf3 China: $28B\n2. \ud83c\uddfa\ud83c\uddf8 USA: $22B\n3. \ud83c\uddee\ud83c\uddf3 India: $18B\n4. \ud83c\udde7\ud83c\udde9 Bangladesh: $12B\n5. \ud83c\uddfb\ud83c\uddf3 Vietnam: $9B",
+        "type": "statistical",
+        "category": "economic losses from floods and flash floods",
+        "tweet_id": "2041092384902029720"
     }
 ]
