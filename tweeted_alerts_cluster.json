@@ -6925,7 +6925,7 @@
     "rain_mm": 39.62,
     "soil_moisture": 0.701,
     "raw_dynamic_score": 6.507,
-    "last_updated": "2026-04-06T10:09:09.843721Z",
+    "last_updated": "2026-04-06T15:46:33.743236Z",
     "last_tweeted_at": "2026-02-18T12:47:28.095225Z",
     "tweet_id": "2024103511110369387",
     "resolved": false
@@ -13825,7 +13825,7 @@
     "rain_mm": 54.5,
     "soil_moisture": 0.593,
     "raw_dynamic_score": 8.419,
-    "last_updated": "2026-03-31T21:39:08.343028Z",
+    "last_updated": "2026-04-06T15:46:33.743236Z",
     "last_tweeted_at": "2026-03-31T18:58:05.783311Z",
     "tweet_id": "2039054690818687456",
     "resolved": false
@@ -15728,7 +15728,7 @@
     "rain_mm": 90.56,
     "soil_moisture": 0.692,
     "raw_dynamic_score": 14.801,
-    "last_updated": "2026-04-06T05:24:43.639185Z",
+    "last_updated": "2026-04-06T15:46:33.743236Z",
     "last_tweeted_at": "2026-04-06T01:55:39.252359Z",
     "tweet_id": "2040971711449874838",
     "resolved": false,
@@ -15781,9 +15781,39 @@
     "rain_mm": 41.0,
     "soil_moisture": 0.661,
     "raw_dynamic_score": 6.586,
-    "last_updated": "2026-04-06T13:00:06.827479Z",
+    "last_updated": "2026-04-06T15:46:33.743236Z",
     "last_tweeted_at": "2026-04-06T13:00:06.827479Z",
     "tweet_id": "2041139176150573531",
+    "resolved": false
+  },
+  "-32.3937,-59.7895": {
+    "country": "Argentina",
+    "name": "Nogoyá",
+    "risk_level": "High",
+    "tweeted_level": "High",
+    "latitude": -32.39375,
+    "longitude": -59.78955,
+    "rain_mm": 79.88,
+    "soil_moisture": 0.689,
+    "raw_dynamic_score": 13.03,
+    "last_updated": "2026-04-06T15:46:33.743236Z",
+    "last_tweeted_at": "2026-04-06T15:46:33.743236Z",
+    "tweet_id": "2041180805305614794",
+    "resolved": false
+  },
+  "28.3667,129.4833": {
+    "country": "Japan",
+    "name": "Naze",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 28.36667,
+    "longitude": 129.48333,
+    "rain_mm": 47.06,
+    "soil_moisture": 0.734,
+    "raw_dynamic_score": 7.871,
+    "last_updated": "2026-04-06T15:46:33.743236Z",
+    "last_tweeted_at": "2026-04-06T15:46:33.743236Z",
+    "tweet_id": "2041181057987354933",
     "resolved": false
   }
 }
