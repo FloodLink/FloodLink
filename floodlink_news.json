@@ -14621,5 +14621,14 @@
             "longitude": null,
             "confidence": 0.9
         }
+    },
+    {
+        "link": null,
+        "date": "2026-04-07",
+        "status": "posted",
+        "tweet": "Cities with fastest-rising extreme rainfall events (2020-2026 projections)\n\n1. Mumbai \ud83c\uddee\ud83c\uddf3: Flash floods up 150%, 18M exposed\n2. Houston \ud83c\uddfa\ud83c\uddf8: Extreme rain doubled, $15B losses\n3. Shanghai \ud83c\udde8\ud83c\uddf3: Storm surges +80%, 22M at risk\n4. New York \ud83c\uddfa\ud83c\uddf8: Floods increased 120%, 8M affected",
+        "type": "statistical",
+        "category": "extreme rainfall trends in major cities",
+        "tweet_id": "2041470709432459590"
     }
 ]
