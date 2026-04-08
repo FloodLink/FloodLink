@@ -12537,7 +12537,7 @@
     "rain_mm": 49.81,
     "soil_moisture": 0.601,
     "raw_dynamic_score": 7.73,
-    "last_updated": "2026-04-07T21:44:01.135856Z",
+    "last_updated": "2026-04-08T05:14:11.887294Z",
     "last_tweeted_at": "2026-03-28T21:30:50.345292Z",
     "tweet_id": "2038006468746555739",
     "resolved": false
@@ -15512,22 +15512,6 @@
     "tweet_id": "2040862190484296052",
     "resolved": false
   },
-  "-0.9492,100.3543": {
-    "country": "Indonesia",
-    "name": "Padang",
-    "risk_level": "Low",
-    "tweeted_level": "Low",
-    "latitude": -0.94924,
-    "longitude": 100.35427,
-    "rain_mm": 0.81,
-    "soil_moisture": 1.0,
-    "raw_dynamic_score": 0.155,
-    "last_updated": "2026-04-07T05:11:41.509168Z",
-    "last_tweeted_at": "2026-04-07T05:11:41.509168Z",
-    "tweet_id": "2041384177564618941",
-    "resolved": true,
-    "resolved_at": "2026-04-07T05:11:41.509168Z"
-  },
   "23.7094,120.5433": {
     "country": "Province of China Taiwan",
     "name": "Douliu",
@@ -15617,22 +15601,6 @@
     "last_tweeted_at": "2026-04-05T21:31:51.094971Z",
     "tweet_id": "2040905837229613471",
     "resolved": false
-  },
-  "-2.9472,-48.9531": {
-    "country": "Brazil",
-    "name": "Tailândia",
-    "risk_level": "None",
-    "tweeted_level": "None",
-    "latitude": -2.94722,
-    "longitude": -48.95306,
-    "rain_mm": 0.0,
-    "soil_moisture": 0.562,
-    "raw_dynamic_score": 0.0,
-    "last_updated": "2026-04-07T05:11:41.509168Z",
-    "last_tweeted_at": "2026-04-07T05:11:41.509168Z",
-    "tweet_id": "2041384430401462440",
-    "resolved": true,
-    "resolved_at": "2026-04-07T05:11:41.509168Z"
   },
   "-2.3074,-78.1203": {
     "country": "Ecuador",
