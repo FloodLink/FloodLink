@@ -16075,7 +16075,7 @@
     "rain_mm": 42.38,
     "soil_moisture": 0.697,
     "raw_dynamic_score": 6.947,
-    "last_updated": "2026-04-08T16:18:18.041520Z",
+    "last_updated": "2026-04-08T19:13:34.907046Z",
     "last_tweeted_at": "2026-04-08T13:11:29.348260Z",
     "tweet_id": "2041866563607794013",
     "resolved": false
@@ -16135,7 +16135,7 @@
     "rain_mm": 45.75,
     "soil_moisture": 0.608,
     "raw_dynamic_score": 7.13,
-    "last_updated": "2026-04-08T16:18:18.041520Z",
+    "last_updated": "2026-04-08T19:13:34.907046Z",
     "last_tweeted_at": "2026-04-08T16:18:18.041520Z",
     "tweet_id": "2041913558414340363",
     "resolved": false
@@ -16180,9 +16180,39 @@
     "rain_mm": 45.0,
     "soil_moisture": 0.551,
     "raw_dynamic_score": 6.782,
-    "last_updated": "2026-04-08T16:18:18.041520Z",
+    "last_updated": "2026-04-08T19:13:34.907046Z",
     "last_tweeted_at": "2026-04-08T16:18:18.041520Z",
     "tweet_id": "2041913811033075949",
+    "resolved": false
+  },
+  "-7.4789,-37.2744": {
+    "country": "Brazil",
+    "name": "São José do Egito",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": -7.47889,
+    "longitude": -37.27444,
+    "rain_mm": 42.19,
+    "soil_moisture": 0.647,
+    "raw_dynamic_score": 6.723,
+    "last_updated": "2026-04-08T19:13:34.907046Z",
+    "last_tweeted_at": "2026-04-08T19:13:34.907046Z",
+    "tweet_id": "2041957687282249850",
+    "resolved": false
+  },
+  "6.5580,-5.0177": {
+    "country": "Côte d'Ivoire",
+    "name": "Toumodi",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 6.55799,
+    "longitude": -5.01769,
+    "rain_mm": 56.56,
+    "soil_moisture": 0.56,
+    "raw_dynamic_score": 8.569,
+    "last_updated": "2026-04-08T19:13:34.907046Z",
+    "last_tweeted_at": "2026-04-08T19:13:34.907046Z",
+    "tweet_id": "2041957940962177153",
     "resolved": false
   }
 }
