@@ -15873,5 +15873,50 @@
     "last_tweeted_at": "2026-04-07T16:13:51.538057Z",
     "tweet_id": "2041550066565992933",
     "resolved": false
+  },
+  "29.2140,78.9569": {
+    "country": "India",
+    "name": "Kashipur",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 29.21399,
+    "longitude": 78.95693,
+    "rain_mm": 44.62,
+    "soil_moisture": 0.534,
+    "raw_dynamic_score": 6.658,
+    "last_updated": "2026-04-08T07:17:09.459377Z",
+    "last_tweeted_at": "2026-04-08T07:17:09.459377Z",
+    "tweet_id": "2041777395242561812",
+    "resolved": false
+  },
+  "29.1530,79.1081": {
+    "country": "India",
+    "name": "Bāzpur",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 29.15299,
+    "longitude": 79.10814,
+    "rain_mm": 44.62,
+    "soil_moisture": 0.534,
+    "raw_dynamic_score": 6.658,
+    "last_updated": "2026-04-08T07:17:09.459377Z",
+    "last_tweeted_at": "2026-04-08T07:17:09.459377Z",
+    "tweet_id": "2041777395242561812",
+    "resolved": false
+  },
+  "-7.9145,39.6620": {
+    "country": "United Republic of Tanzania",
+    "name": "Kilindoni",
+    "risk_level": "High",
+    "tweeted_level": "High",
+    "latitude": -7.91446,
+    "longitude": 39.66204,
+    "rain_mm": 81.0,
+    "soil_moisture": 1.0,
+    "raw_dynamic_score": 15.491,
+    "last_updated": "2026-04-08T07:17:09.459377Z",
+    "last_tweeted_at": "2026-04-08T07:17:09.459377Z",
+    "tweet_id": "2041777647928397916",
+    "resolved": false
   }
 }
