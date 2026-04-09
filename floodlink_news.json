@@ -1,606 +1,5 @@
 [
     {
-        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOUWRKWlhYZWtFNEdNdDZ5OGhWMnhjRmZQZ0sxWkQtVzhKc1YwVXRLNTJ6WjlUQ1FRVVpzTms1WFlJZ2lCWWw4d3BYc1lOZXZiLWpqTjdneEl6aktCb0ZDblFZY0R6bUJ6ejdhdDhGNGJOaGRPUFhnTE5QMTJZSXJkQjZycW5iYVZSMldkSmI4cWZyMzBZejY0aUVxaF9PZGlnNXBGeTNrazg2SGFPUC1idmtybVN6RVNkVDNUY1dETm1vYU5NOW85U3Q1RTQ2WjFRWnQxVmplYWE?oc=5",
-        "date": "2026-03-10",
-        "title": "Flash flood warning issued for Franklin County until Monday evening triggered by thunderstorms - AL.com",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxOUWRKWlhYZWtFNEdNdDZ5OGhWMnhjRmZQZ0sxWkQtVzhKc1YwVXRLNTJ6WjlUQ1FRVVpzTms1WFlJZ2lCWWw4d3BYc1lOZXZiLWpqTjdneEl6aktCb0ZDblFZY0R6bUJ6ejdhdDhGNGJOaGRPUFhnTE5QMTJZSXJkQjZycW5iYVZSMldkSmI4cWZyMzBZejY0aUVxaF9PZGlnNXBGeTNrazg2SGFPUC1idmtybVN6RVNkVDNUY1dETm1vYU5NOW85U3Q1RTQ2WjFRWnQxVmplYWE?oc=5\" target=\"_blank\">Flash flood warning issued for Franklin County until Monday evening triggered by thunderstorms</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AL.com</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRDdMMW1VcHFObDRqOGhjSTY2cjV3TEN3bjJvVnVfVEU4SUthOC1lTnZEMWJjOEhZNUNRSHY3MVRpU2ItOG56eEZSYXdDRkRnMXJ5eUZtRzFFOENDQU5qeElQQmV5VW1OM1pnc1RONmZ0NG1HcXhJeU13amw4eTFXeVk3SXJ5RkI3Vms5dmdmLUwzekFwSmM2b2QwVGw?oc=5",
-        "date": "2026-03-10",
-        "title": "Flash flooding possible across Hawaii - Spectrum News",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNRDdMMW1VcHFObDRqOGhjSTY2cjV3TEN3bjJvVnVfVEU4SUthOC1lTnZEMWJjOEhZNUNRSHY3MVRpU2ItOG56eEZSYXdDRkRnMXJ5eUZtRzFFOENDQU5qeElQQmV5VW1OM1pnc1RONmZ0NG1HcXhJeU13amw4eTFXeVk3SXJ5RkI3Vms5dmdmLUwzekFwSmM2b2QwVGw?oc=5\" target=\"_blank\">Flash flooding possible across Hawaii</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Spectrum News</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPTy1pamJzcXN2R21VU25ZWlQwUWpXd21pcDgwUlZIS2pzLThFV2pfUl9mRXczdFJRMHp2TDNob3k4b2s1T3NCY09RYTl0UGJvczZHdkk5N1VseUtfbEtxWUdVb3ItTkdUS3NEOGwwRkQ0YWtJdFladm9seGtPMGtCeTdWT2c5ZGlOdjFOem1KSHQ5alBmSWxuSVFn?oc=5",
-        "date": "2026-03-10",
-        "title": "Flood warning: Mohawk River ice jam causes road closures - NEWS10 ABC",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPTy1pamJzcXN2R21VU25ZWlQwUWpXd21pcDgwUlZIS2pzLThFV2pfUl9mRXczdFJRMHp2TDNob3k4b2s1T3NCY09RYTl0UGJvczZHdkk5N1VseUtfbEtxWUdVb3ItTkdUS3NEOGwwRkQ0YWtJdFladm9seGtPMGtCeTdWT2c5ZGlOdjFOem1KSHQ5alBmSWxuSVFn?oc=5\" target=\"_blank\">Flood warning: Mohawk River ice jam causes road closures</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NEWS10 ABC</font>",
-        "similarity_excluded": "No",
-        "score": 7,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQTTZWai1qcjBzeDhfV1Q4cHJpb0JmYlllMjZHdk5hSGJ2dnFnVFNtU29sV0JLZDBBT2cwUlR6VWx2eWVQc0J5SDdQR1MxTFFGUWJUMzItVUNRVEhzekRLSDI4bkg4Y2V4LUw5R0x6bjFXZ2tITjc0dS10MWtrZmVoY3EwY3lHV2pXVDJGQ1lrdm5BYTUtYjc4STlObVlOZHRELUo5ZGdNZ1l3VjFtaUtFRlpHelpkUEdVemxMRjlsRm56YjdSc3lJeTQ3T3hUdFdhM0QxYV9YTHhma0o0akJkTw?oc=5",
-        "date": "2026-03-10",
-        "title": "WATCH LIVE - Tracking severe weather Monday afternoon and evening - WTVA",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxQTTZWai1qcjBzeDhfV1Q4cHJpb0JmYlllMjZHdk5hSGJ2dnFnVFNtU29sV0JLZDBBT2cwUlR6VWx2eWVQc0J5SDdQR1MxTFFGUWJUMzItVUNRVEhzekRLSDI4bkg4Y2V4LUw5R0x6bjFXZ2tITjc0dS10MWtrZmVoY3EwY3lHV2pXVDJGQ1lrdm5BYTUtYjc4STlObVlOZHRELUo5ZGdNZ1l3VjFtaUtFRlpHelpkUEdVemxMRjlsRm56YjdSc3lJeTQ3T3hUdFdhM0QxYV9YTHhma0o0akJkTw?oc=5\" target=\"_blank\">WATCH LIVE - Tracking severe weather Monday afternoon and evening</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WTVA</font>",
-        "similarity_excluded": "No",
-        "score": 1,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQWGQydkxsRm5TUlBCWVJzeXNoU285ajJEbGJFdmJyNnUtTktRNWZrU2p5S25YM20tNlVPclN2MnA3R1FObTR2dE9yOGNVVFkzWkdfTnY1alFMVlFUWVd1Z3NDVlY4NjF1bVdmaEd0d04tZ1BPMndPcWZhOHlMNTd5SURsNEVRaVV4TjZic1pFQ3NRQzVzWi1qX1VFN19oSUQtX3ZIaksxc2F2dmZ6MmU0WHNhRllzc3oxb3ZydFUtaUxTYVA4dkx4N1NmRHR3aURRRlhGb3pR0gHbAUFVX3lxTFBtT3B2elFuN09rZ1dRMlRkbmJyVzFSMnpaWklvS0IyUlJwZDE2dEg0dE03NmpTb21PX1Z5WXZ5SEhZTVlobkk1U201WG9WemN4T1YxZENCZU9vZzlfVndhMlM0VkxGOG9scThYVlgwNk5za280eXFVNFVBbFQwbkJWNTd3b0VZSVdobk5MVVVBQ2xuMWRxdjdLbEsxUHJDY3N0a1VqVEM1Qk1CYzNSRE9Oby04a09BZTkwSjJZRmlCM2FzWWRhNUFFQnZIY3RpcEFvVWt4cGNUU3l6TQ?oc=5",
-        "date": "2026-03-10",
-        "title": "Full list: Latest flood warning alerts from across Qld - The Courier Mail",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxQWGQydkxsRm5TUlBCWVJzeXNoU285ajJEbGJFdmJyNnUtTktRNWZrU2p5S25YM20tNlVPclN2MnA3R1FObTR2dE9yOGNVVFkzWkdfTnY1alFMVlFUWVd1Z3NDVlY4NjF1bVdmaEd0d04tZ1BPMndPcWZhOHlMNTd5SURsNEVRaVV4TjZic1pFQ3NRQzVzWi1qX1VFN19oSUQtX3ZIaksxc2F2dmZ6MmU0WHNhRllzc3oxb3ZydFUtaUxTYVA4dkx4N1NmRHR3aURRRlhGb3pR0gHbAUFVX3lxTFBtT3B2elFuN09rZ1dRMlRkbmJyVzFSMnpaWklvS0IyUlJwZDE2dEg0dE03NmpTb21PX1Z5WXZ5SEhZTVlobkk1U201WG9WemN4T1YxZENCZU9vZzlfVndhMlM0VkxGOG9scThYVlgwNk5za280eXFVNFVBbFQwbkJWNTd3b0VZSVdobk5MVVVBQ2xuMWRxdjdLbEsxUHJDY3N0a1VqVEM1Qk1CYzNSRE9Oby04a09BZTkwSjJZRmlCM2FzWWRhNUFFQnZIY3RpcEFvVWt4cGNUU3l6TQ?oc=5\" target=\"_blank\">Full list: Latest flood warning alerts from across Qld</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Courier Mail</font>",
-        "similarity_excluded": "No",
-        "score": 9,
-        "status": "processed",
-        "tweet": null,
-        "tweet_id": "2031158185239654665",
-        "geo": {
-            "country": "Australia",
-            "name": "Queensland",
-            "latitude": -27.4698,
-            "longitude": 153.0251,
-            "confidence": 1.0
-        }
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQWGQydkxsRm5TUlBCWVJzeXNoU285ajJEbGJFdmJyNnUtTktRNWZrU2p5S25YM20tNlVPclN2MnA3R1FObTR2dE9yOGNVVFkzWkdfTnY1alFMVlFUWVd1Z3NDVlY4NjF1bVdmaEd0d04tZ1BPMndPcWZhOHlMNTd5SURsNEVRaVV4TjZic1pFQ3NRQzVzWi1qX1VFN19oSUQtX3ZIaksxc2F2dmZ6MmU0WHNhRllzc3oxb3ZydFUtaUxTYVA4dkx4N1NmRHR3aURRRlhGb3pR0gHbAUFVX3lxTFBtT3B2elFuN09rZ1dRMlRkbmJyVzFSMnpaWklvS0IyUlJwZDE2dEg0dE03NmpTb21PX1Z5WXZ5SEhZTVlobkk1U201WG9WemN4T1YxZENCZU9vZzlfVndhMlM0VkxGOG9scThYVlgwNk5za280eXFVNFVBbFQwbkJWNTd3b0VZSVdobk5MVVVBQ2xuMWRxdjdLbEsxUHJDY3N0a1VqVEM1Qk1CYzNSRE9Oby04a09BZTkwSjJZRmlCM2FzWWRhNUFFQnZIY3RpcEFvVWt4cGNUU3l6TQ?oc=5",
-        "date": "2026-03-10",
-        "title": "Full list: Latest flood warning alerts from across Qld - The Courier Mail",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxQWGQydkxsRm5TUlBCWVJzeXNoU285ajJEbGJFdmJyNnUtTktRNWZrU2p5S25YM20tNlVPclN2MnA3R1FObTR2dE9yOGNVVFkzWkdfTnY1alFMVlFUWVd1Z3NDVlY4NjF1bVdmaEd0d04tZ1BPMndPcWZhOHlMNTd5SURsNEVRaVV4TjZic1pFQ3NRQzVzWi1qX1VFN19oSUQtX3ZIaksxc2F2dmZ6MmU0WHNhRllzc3oxb3ZydFUtaUxTYVA4dkx4N1NmRHR3aURRRlhGb3pR0gHbAUFVX3lxTFBtT3B2elFuN09rZ1dRMlRkbmJyVzFSMnpaWklvS0IyUlJwZDE2dEg0dE03NmpTb21PX1Z5WXZ5SEhZTVlobkk1U201WG9WemN4T1YxZENCZU9vZzlfVndhMlM0VkxGOG9scThYVlgwNk5za280eXFVNFVBbFQwbkJWNTd3b0VZSVdobk5MVVVBQ2xuMWRxdjdLbEsxUHJDY3N0a1VqVEM1Qk1CYzNSRE9Oby04a09BZTkwSjJZRmlCM2FzWWRhNUFFQnZIY3RpcEFvVWt4cGNUU3l6TQ?oc=5\" target=\"_blank\">Full list: Latest flood warning alerts from across Qld</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Courier Mail</font>",
-        "similarity_excluded": "No",
-        "score": 9,
-        "status": "posted",
-        "tweet": "\ud83c\udde6\ud83c\uddfa FORECAST Queensland: Flood warnings issued across the state due to heavy rain risks. (The Courier Mail)",
-        "type": "news",
-        "tweet_id": "2031158185239654665",
-        "geo": {
-            "country": "Australia",
-            "name": "Queensland",
-            "latitude": -27.4698,
-            "longitude": 153.0251,
-            "confidence": 1.0
-        }
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQM09xUGc2SXFhMmx0anVJaGF1VWJmOHBYZDFOdHVKSHJWXzdVMnlOVG5RdTZsV1NkMk11eEt6eXpHQVU0end0TmdDbjJnVWVlNVhVSlgzQVU4eXV4ZkRJbFp5N1VTUUpKeVJjWkRETkc4ZGU5VTY1NzhEY2NCOE9tUDVVMzJ2QzBrZVFlaW9USzQ1OTJOZ0xUVTF2Qll1cF92X081bndodVZseEE5VlV4NXpKNU1fal93S0ZuYm9rY1RPcTVQUUJLNUpkU1Vmb2F6?oc=5",
-        "date": "2026-03-10",
-        "title": "Flash flood warning affecting Central Alabama until Monday night caused by thunderstorms - AL.com",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxQM09xUGc2SXFhMmx0anVJaGF1VWJmOHBYZDFOdHVKSHJWXzdVMnlOVG5RdTZsV1NkMk11eEt6eXpHQVU0end0TmdDbjJnVWVlNVhVSlgzQVU4eXV4ZkRJbFp5N1VTUUpKeVJjWkRETkc4ZGU5VTY1NzhEY2NCOE9tUDVVMzJ2QzBrZVFlaW9USzQ1OTJOZ0xUVTF2Qll1cF92X081bndodVZseEE5VlV4NXpKNU1fal93S0ZuYm9rY1RPcTVQUUJLNUpkU1Vmb2F6?oc=5\" target=\"_blank\">Flash flood warning affecting Central Alabama until Monday night caused by thunderstorms</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AL.com</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVUJIR092UWt0UmJZTDRtdVhYMDUxUEhuMUlhRVZBcndiQ2JUS0oyOGpmWmRZZk52ZjZwOEIzZ0V1MjRfY0R5RUdDVlZRZXBBa3FkSDBqLS1RZUhTOWk0QXlDcmxUUmh0VjdZUFl2a0U5YWpuLUlQME45UlVvbnhxcjZfMC1hU2QwRG9MN3F6dklTVXRMMGw3NTQ2RDN6NkJS0gG0AUFVX3lxTE13S3VDTVB5THBhZlBnV25mQ3J0RU5hN0dBWTZGbWJQNGJ4WmplNnFrSDc4M0RDaUhiQ1RQM0V6OTFfZHBTUVJXMDdFaV9xdHhCZXRsT2k0Zm5GSmg4MllsWE1oNHVCdXVVR2padzBKalRrODliN0h5dk9uTnZPTFp1MlpiLXJrdjA3ckQ1UHBxdkpFX3dPQS14M21hNXVJZDJlUGRTOElJSkJIbGYwUjdoa0FxdA?oc=5",
-        "date": "2026-03-10",
-        "title": "HOUR BY HOUR: What to expect as a powerful storm approaches Hawaii - Hawaii News Now",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOVUJIR092UWt0UmJZTDRtdVhYMDUxUEhuMUlhRVZBcndiQ2JUS0oyOGpmWmRZZk52ZjZwOEIzZ0V1MjRfY0R5RUdDVlZRZXBBa3FkSDBqLS1RZUhTOWk0QXlDcmxUUmh0VjdZUFl2a0U5YWpuLUlQME45UlVvbnhxcjZfMC1hU2QwRG9MN3F6dklTVXRMMGw3NTQ2RDN6NkJS0gG0AUFVX3lxTE13S3VDTVB5THBhZlBnV25mQ3J0RU5hN0dBWTZGbWJQNGJ4WmplNnFrSDc4M0RDaUhiQ1RQM0V6OTFfZHBTUVJXMDdFaV9xdHhCZXRsT2k0Zm5GSmg4MllsWE1oNHVCdXVVR2padzBKalRrODliN0h5dk9uTnZPTFp1MlpiLXJrdjA3ckQ1UHBxdkpFX3dPQS14M21hNXVJZDJlUGRTOElJSkJIbGYwUjdoa0FxdA?oc=5\" target=\"_blank\">HOUR BY HOUR: What to expect as a powerful storm approaches Hawaii</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Hawaii News Now</font>",
-        "similarity_excluded": "No",
-        "score": 7,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQVnFTRnRHSzQwdjU1N19iaEEwTU1TQVRkZXNILURJNVJYMFF3QjdRNDRYczdLWkY3Ni1CRzdKb3l6TmJJWjI0em1nY3R2WlprTzY3U1JsVlB2TXJwWHpqY01QM2JSR3dSVGpENjd0VXBtRDBoaE02amh6S2x0bGttZXZpdklKMG9Cc3g4d1ZrZy1xMDhaejJ2WlY3U1hhMmMyZG9MeGxqMEFrYWthZVRZTkxPZEVEUC1aMlNZRl9KSnJjV0FELXZMaldwSnBoZkZzTnkxNThVZw?oc=5",
-        "date": "2026-03-10",
-        "title": "Flood warning in place for Madison County until early Tuesday triggered by prolonged rainfall - AL.com",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxQVnFTRnRHSzQwdjU1N19iaEEwTU1TQVRkZXNILURJNVJYMFF3QjdRNDRYczdLWkY3Ni1CRzdKb3l6TmJJWjI0em1nY3R2WlprTzY3U1JsVlB2TXJwWHpqY01QM2JSR3dSVGpENjd0VXBtRDBoaE02amh6S2x0bGttZXZpdklKMG9Cc3g4d1ZrZy1xMDhaejJ2WlY3U1hhMmMyZG9MeGxqMEFrYWthZVRZTkxPZEVEUC1aMlNZRl9KSnJjV0FELXZMaldwSnBoZkZzTnkxNThVZw?oc=5\" target=\"_blank\">Flood warning in place for Madison County until early Tuesday triggered by prolonged rainfall</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AL.com</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQm9iWU9nQmVSOHlCMVdfeWp5clR3ZVJacEJjcWtyOEk5d2YyOUhnd2RLUV9abGdMdS1zbDlqZ2xnUWU1VFR0QVBTOXJEUnpEa0J2b21UYU5Ya3V3eGJGbTNINWxNdU9LX01wWHphcVh1Q09iR01tRVdZQTV4Ul94SlltY05qakgtdFRMN2p1VDJKRFNpb2lEMVExZlU2M1JvOXRMLXBBRC1Sa2RLaTBfVVA0RWwxSVczWm5PNlRpd1JnbUE?oc=5",
-        "date": "2026-03-10",
-        "title": "Flood advisory issued for Alabama until Monday night due to excessive rainfall - AL.com",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQm9iWU9nQmVSOHlCMVdfeWp5clR3ZVJacEJjcWtyOEk5d2YyOUhnd2RLUV9abGdMdS1zbDlqZ2xnUWU1VFR0QVBTOXJEUnpEa0J2b21UYU5Ya3V3eGJGbTNINWxNdU9LX01wWHphcVh1Q09iR01tRVdZQTV4Ul94SlltY05qakgtdFRMN2p1VDJKRFNpb2lEMVExZlU2M1JvOXRMLXBBRC1Sa2RLaTBfVVA0RWwxSVczWm5PNlRpd1JnbUE?oc=5\" target=\"_blank\">Flood advisory issued for Alabama until Monday night due to excessive rainfall</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AL.com</font>",
-        "similarity_excluded": "No",
-        "score": 7,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRkxqVkR6Vlk4STRuN3ZGTVlqYXpETW5ObjNxalk2V0dnRlpvUjB0ZVpLODRfVHdqYUJ4aTd1M2pVNE0yNHRSWWkxNWUxYTA5cUNRcG1zNGJlZmViYlF4WWY1cDhSOE5oaEZsd1l5M2lrQnpzakl3bEdxUVc5WmtiLWdPMFNFc0QtZ2FqaVg2R2I3MHliNkc1LUZ5Y0J5Q2NCNDZMWFdGMlZ4allWOUpqdlU2TXcwQkdyX21j?oc=5",
-        "date": "2026-03-10",
-        "title": "Update: Flood advisory for Alabama Monday night caused by prolonged rain - AL.com",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRkxqVkR6Vlk4STRuN3ZGTVlqYXpETW5ObjNxalk2V0dnRlpvUjB0ZVpLODRfVHdqYUJ4aTd1M2pVNE0yNHRSWWkxNWUxYTA5cUNRcG1zNGJlZmViYlF4WWY1cDhSOE5oaEZsd1l5M2lrQnpzakl3bEdxUVc5WmtiLWdPMFNFc0QtZ2FqaVg2R2I3MHliNkc1LUZ5Y0J5Q2NCNDZMWFdGMlZ4allWOUpqdlU2TXcwQkdyX21j?oc=5\" target=\"_blank\">Update: Flood advisory for Alabama Monday night caused by prolonged rain</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AL.com</font>",
-        "similarity_excluded": "No",
-        "score": 7,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAzVi12R2UwUVVrc09aNDJsNFhMWS1ZQlZqaTBJdl9sZWRZUUlrcUJvNlpnVHJaRVExV0tzZDE3dUM3NGhZMzNUVUM2Zlo0MGsxWFE2NFB2bkhjdkxEV0s3SlExMDhQdmRPa25xZWZXVGw4SFpHdmk5MXlmOHdEWVk?oc=5",
-        "date": "2026-03-10",
-        "title": "Hawaii to see \u2018potentially life-threatening weather\u2019 with torrential rain, flooding - San Francisco Chronicle",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFAzVi12R2UwUVVrc09aNDJsNFhMWS1ZQlZqaTBJdl9sZWRZUUlrcUJvNlpnVHJaRVExV0tzZDE3dUM3NGhZMzNUVUM2Zlo0MGsxWFE2NFB2bkhjdkxEV0s3SlExMDhQdmRPa25xZWZXVGw4SFpHdmk5MXlmOHdEWVk?oc=5\" target=\"_blank\">Hawaii to see \u2018potentially life-threatening weather\u2019 with torrential rain, flooding</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">San Francisco Chronicle</font>",
-        "similarity_excluded": "No",
-        "score": 8,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQOEhfUzJsenh6anpHSV83YUNvaFFXVFVVT1R5Q1dScDQzaWtDUEdXcGNQT084clRRbGNYbFFfNnBrVzhIOWc4WVVvT1ZVcndQaTB0VVdmNUZvLUpvb3R4TXJFMnBFRXpzT184eVlvdnR3Qy1ybThwQkFyaWVjaUpnYjgxRUZrTVk2aE45MzQ0OTlpNkpIWHl0Tm5aSHdnYjN2bG1UT2E0TnRWbXpMZlE?oc=5",
-        "date": "2026-03-10",
-        "title": "Warming up and tracking storms - wevv.com",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQOEhfUzJsenh6anpHSV83YUNvaFFXVFVVT1R5Q1dScDQzaWtDUEdXcGNQT084clRRbGNYbFFfNnBrVzhIOWc4WVVvT1ZVcndQaTB0VVdmNUZvLUpvb3R4TXJFMnBFRXpzT184eVlvdnR3Qy1ybThwQkFyaWVjaUpnYjgxRUZrTVk2aE45MzQ0OTlpNkpIWHl0Tm5aSHdnYjN2bG1UT2E0TnRWbXpMZlE?oc=5\" target=\"_blank\">Warming up and tracking storms</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">wevv.com</font>",
-        "similarity_excluded": "No",
-        "score": 2,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQQWJHekc5YW9OX2hua19IbjFGZ2w5SHc3YUQteElJUTROZy1ZT0hrZE51X2d4aFR3dGhPYjdXMG5PcC1MZVBsVHRhaE5OM0RiLV9SanhBR3FTLUotSGxfUk5vUjk5eW1US1pxZzBSZ0o5cmNYcGk0cmJBSWN6aXVCTGdqeFJYQTIybmxuenhNTlNmYVRSNlUySFpycXhCOV8zNWc5QklBTHkzQzFGa3l6VlplSXRxTXZpT3MwNGV2dnk?oc=5",
-        "date": "2026-03-10",
-        "title": "Shoals man makes it to Top 20 on \"American Idol\" - WAAY 31 News",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxQQWJHekc5YW9OX2hua19IbjFGZ2w5SHc3YUQteElJUTROZy1ZT0hrZE51X2d4aFR3dGhPYjdXMG5PcC1MZVBsVHRhaE5OM0RiLV9SanhBR3FTLUotSGxfUk5vUjk5eW1US1pxZzBSZ0o5cmNYcGk0cmJBSWN6aXVCTGdqeFJYQTIybmxuenhNTlNmYVRSNlUySFpycXhCOV8zNWc5QklBTHkzQzFGa3l6VlplSXRxTXZpT3MwNGV2dnk?oc=5\" target=\"_blank\">Shoals man makes it to Top 20 on \"American Idol\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WAAY 31 News</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRGZDcTdVeUYwbzBzdFF6aTNsUnFjX0VwRkhxek5kZDUxV3h3VGJ4TUkwLUxZNDhRZ3BCdHB0Yl9HYm1RUUhxZ3pBYy1pR1E3anZoSXdBWklyS3ZzTVRFOWtTSXBRYy1wcXZiVUo3VERDNHE1RV9kdnJoUm9rdWw5dzJNQnFnMVNpZG1mWE4wWndaeWMyb0FheVB2LWUwa015Z0cwa1JlR0Q?oc=5",
-        "date": "2026-03-10",
-        "title": "Heavy rain causes flooding and stream overflows across S\u00e3o Paulo, Brazil - The Watchers - Watching the world evolve and transform",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRGZDcTdVeUYwbzBzdFF6aTNsUnFjX0VwRkhxek5kZDUxV3h3VGJ4TUkwLUxZNDhRZ3BCdHB0Yl9HYm1RUUhxZ3pBYy1pR1E3anZoSXdBWklyS3ZzTVRFOWtTSXBRYy1wcXZiVUo3VERDNHE1RV9kdnJoUm9rdWw5dzJNQnFnMVNpZG1mWE4wWndaeWMyb0FheVB2LWUwa015Z0cwa1JlR0Q?oc=5\" target=\"_blank\">Heavy rain causes flooding and stream overflows across S\u00e3o Paulo, Brazil</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Watchers - Watching the world evolve and transform</font>",
-        "similarity_excluded": "No",
-        "score": 8,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPYXNoSGtlQllLdklqMmFlalh2SDRtOE9DRXotMGJaTHIzT1Q1RWNNWDNHdzhKVUNoUEkxOVFGTFhSSUZWRXlkNDFNWDh5amxnWDBEUjBOME5odjZDN3V0SU1WZnVRWHUySXkycllGZ1JLMHpVTmJLNHZIWFlKMTVLaGhMdWJhNnlxREdkejlMTzRJN2doUW4zNGNmemttUDIxVVRjZHE4M3hTWjBsQy1LNzBQLXhETDBhUzkzbkhTMnlrWF9pWDVSc2dZXzhISTNqekRUaGI0SlRQOUYzdDJn?oc=5",
-        "date": "2026-03-10",
-        "title": "Darwin residents warned to decrease water use as main dam overflows after severe flooding across Northern Territory - facebook.com",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxPYXNoSGtlQllLdklqMmFlalh2SDRtOE9DRXotMGJaTHIzT1Q1RWNNWDNHdzhKVUNoUEkxOVFGTFhSSUZWRXlkNDFNWDh5amxnWDBEUjBOME5odjZDN3V0SU1WZnVRWHUySXkycllGZ1JLMHpVTmJLNHZIWFlKMTVLaGhMdWJhNnlxREdkejlMTzRJN2doUW4zNGNmemttUDIxVVRjZHE4M3hTWjBsQy1LNzBQLXhETDBhUzkzbkhTMnlrWF9pWDVSc2dZXzhISTNqekRUaGI0SlRQOUYzdDJn?oc=5\" target=\"_blank\">Darwin residents warned to decrease water use as main dam overflows after severe flooding across Northern Territory</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">facebook.com</font>",
-        "similarity_excluded": "No",
-        "score": 9,
-        "status": "processed",
-        "tweet": null,
-        "tweet_id": "2031224836643529035",
-        "geo": {
-            "country": "Australia",
-            "name": "Darwin",
-            "latitude": -12.4634,
-            "longitude": 130.841,
-            "confidence": 0.95
-        }
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiswJBVV95cUxNZFU0ZENaWm5wcm5KNGlxSGxFWVF4Z2FIN3hER18tYTFEM1lFNEhWQmMwc2hoaldqTnBHMWYtSVF0X2dqN0d4V3hsQkRlSjZodlZid045bTFRUjBoZ1E3VDdGdll2VWlWbVo2TnhkZEE2Z2g2Mjl1RTRJeEhMcEplbVpGTmQ0c1FnalhmMVBIQmFVVFRwVTZhdGtxU3FUd0o4X3FUUlhocExJaEgzTG12RENCWkdyYjBILURBbzRHd0Y2blplVDFsR3c5cFEwN3hXbkloNU5Ub3Q3Ry05dS1LWHFZOHR6Y3N1TEhDUGNKYk9ocEZxWTdUZUtRY3dCMEZhN1B2VFNLUEZnR3h0anJDWE9VUE9FNlEzS2pKV3lNXzFycWI4dVY0U2cyV1dxaGpUZ2M40gG4AkFVX3lxTE9wSVljMm84UTZSTGNuWFp0Qkhpa1BmUGItUEoxdTRkUENiUkVYNElfc3hnWWdVbmRpcTRzT2dKNW9CT3l0OGw0b1NNM0hiUXp2VHMzT3JaV1JwNERMNlV2dU1CZHNuVDhTbW85RWhKQmkwdWhmZXlpeXUweE96aHVadlFDalVEVWNKMXpnWHdPemEwTHczZHhzMElUTkc3aklxeG0wVjE3S0dMV1JHWEVraUpacDBxQXpDRTR6eUw3d3RBSGIwRFlFejZOWHNLUElJa3gxa2JDc3hXVjFTYUtfRXhuU0J0cTlHTE9qczc5TDJlc28xZ3haeU1fcV8zQmU5UHRvYUZUZG1QMk0wdXpQUUt2ZVFpcHEyX3RyUWtXLV90RjB3U0tKUVlVQ0RLb05DeEo5M3kzVg?oc=5",
-        "date": "2026-03-10",
-        "title": "Capital city set to face unprecedented water restrictions after flash flooding - Sky News Australia",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswJBVV95cUxNZFU0ZENaWm5wcm5KNGlxSGxFWVF4Z2FIN3hER18tYTFEM1lFNEhWQmMwc2hoaldqTnBHMWYtSVF0X2dqN0d4V3hsQkRlSjZodlZid045bTFRUjBoZ1E3VDdGdll2VWlWbVo2TnhkZEE2Z2g2Mjl1RTRJeEhMcEplbVpGTmQ0c1FnalhmMVBIQmFVVFRwVTZhdGtxU3FUd0o4X3FUUlhocExJaEgzTG12RENCWkdyYjBILURBbzRHd0Y2blplVDFsR3c5cFEwN3hXbkloNU5Ub3Q3Ry05dS1LWHFZOHR6Y3N1TEhDUGNKYk9ocEZxWTdUZUtRY3dCMEZhN1B2VFNLUEZnR3h0anJDWE9VUE9FNlEzS2pKV3lNXzFycWI4dVY0U2cyV1dxaGpUZ2M40gG4AkFVX3lxTE9wSVljMm84UTZSTGNuWFp0Qkhpa1BmUGItUEoxdTRkUENiUkVYNElfc3hnWWdVbmRpcTRzT2dKNW9CT3l0OGw0b1NNM0hiUXp2VHMzT3JaV1JwNERMNlV2dU1CZHNuVDhTbW85RWhKQmkwdWhmZXlpeXUweE96aHVadlFDalVEVWNKMXpnWHdPemEwTHczZHhzMElUTkc3aklxeG0wVjE3S0dMV1JHWEVraUpacDBxQXpDRTR6eUw3d3RBSGIwRFlFejZOWHNLUElJa3gxa2JDc3hXVjFTYUtfRXhuU0J0cTlHTE9qczc5TDJlc28xZ3haeU1fcV8zQmU5UHRvYUZUZG1QMk0wdXpQUUt2ZVFpcHEyX3RyUWtXLV90RjB3U0tKUVlVQ0RLb05DeEo5M3kzVg?oc=5\" target=\"_blank\">Capital city set to face unprecedented water restrictions after flash flooding</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sky News Australia</font>",
-        "similarity_excluded": "No",
-        "score": 9,
-        "status": "processed",
-        "tweet": null,
-        "tweet_id": "2031225361728425994",
-        "geo": {
-            "country": "Australia",
-            "name": "Canberra",
-            "latitude": -35.2809,
-            "longitude": 149.13,
-            "confidence": 0.95
-        }
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPYXNoSGtlQllLdklqMmFlalh2SDRtOE9DRXotMGJaTHIzT1Q1RWNNWDNHdzhKVUNoUEkxOVFGTFhSSUZWRXlkNDFNWDh5amxnWDBEUjBOME5odjZDN3V0SU1WZnVRWHUySXkycllGZ1JLMHpVTmJLNHZIWFlKMTVLaGhMdWJhNnlxREdkejlMTzRJN2doUW4zNGNmemttUDIxVVRjZHE4M3hTWjBsQy1LNzBQLXhETDBhUzkzbkhTMnlrWF9pWDVSc2dZXzhISTNqekRUaGI0SlRQOUYzdDJn?oc=5",
-        "date": "2026-03-10",
-        "title": "Darwin residents warned to decrease water use as main dam overflows after severe flooding across Northern Territory - facebook.com",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxPYXNoSGtlQllLdklqMmFlalh2SDRtOE9DRXotMGJaTHIzT1Q1RWNNWDNHdzhKVUNoUEkxOVFGTFhSSUZWRXlkNDFNWDh5amxnWDBEUjBOME5odjZDN3V0SU1WZnVRWHUySXkycllGZ1JLMHpVTmJLNHZIWFlKMTVLaGhMdWJhNnlxREdkejlMTzRJN2doUW4zNGNmemttUDIxVVRjZHE4M3hTWjBsQy1LNzBQLXhETDBhUzkzbkhTMnlrWF9pWDVSc2dZXzhISTNqekRUaGI0SlRQOUYzdDJn?oc=5\" target=\"_blank\">Darwin residents warned to decrease water use as main dam overflows after severe flooding across Northern Territory</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">facebook.com</font>",
-        "similarity_excluded": "No",
-        "score": 9,
-        "status": "posted",
-        "tweet": "\ud83c\udde6\ud83c\uddfa POST-EVENT Northern Territory: Severe flooding causes main dam to overflow; Darwin residents warned to decrease water use. (facebook.com)",
-        "type": "news",
-        "tweet_id": "2031224836643529035",
-        "geo": {
-            "country": "Australia",
-            "name": "Darwin",
-            "latitude": -12.4634,
-            "longitude": 130.841,
-            "confidence": 0.95
-        }
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiswJBVV95cUxNZFU0ZENaWm5wcm5KNGlxSGxFWVF4Z2FIN3hER18tYTFEM1lFNEhWQmMwc2hoaldqTnBHMWYtSVF0X2dqN0d4V3hsQkRlSjZodlZid045bTFRUjBoZ1E3VDdGdll2VWlWbVo2TnhkZEE2Z2g2Mjl1RTRJeEhMcEplbVpGTmQ0c1FnalhmMVBIQmFVVFRwVTZhdGtxU3FUd0o4X3FUUlhocExJaEgzTG12RENCWkdyYjBILURBbzRHd0Y2blplVDFsR3c5cFEwN3hXbkloNU5Ub3Q3Ry05dS1LWHFZOHR6Y3N1TEhDUGNKYk9ocEZxWTdUZUtRY3dCMEZhN1B2VFNLUEZnR3h0anJDWE9VUE9FNlEzS2pKV3lNXzFycWI4dVY0U2cyV1dxaGpUZ2M40gG4AkFVX3lxTE9wSVljMm84UTZSTGNuWFp0Qkhpa1BmUGItUEoxdTRkUENiUkVYNElfc3hnWWdVbmRpcTRzT2dKNW9CT3l0OGw0b1NNM0hiUXp2VHMzT3JaV1JwNERMNlV2dU1CZHNuVDhTbW85RWhKQmkwdWhmZXlpeXUweE96aHVadlFDalVEVWNKMXpnWHdPemEwTHczZHhzMElUTkc3aklxeG0wVjE3S0dMV1JHWEVraUpacDBxQXpDRTR6eUw3d3RBSGIwRFlFejZOWHNLUElJa3gxa2JDc3hXVjFTYUtfRXhuU0J0cTlHTE9qczc5TDJlc28xZ3haeU1fcV8zQmU5UHRvYUZUZG1QMk0wdXpQUUt2ZVFpcHEyX3RyUWtXLV90RjB3U0tKUVlVQ0RLb05DeEo5M3kzVg?oc=5",
-        "date": "2026-03-10",
-        "title": "Capital city set to face unprecedented water restrictions after flash flooding - Sky News Australia",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswJBVV95cUxNZFU0ZENaWm5wcm5KNGlxSGxFWVF4Z2FIN3hER18tYTFEM1lFNEhWQmMwc2hoaldqTnBHMWYtSVF0X2dqN0d4V3hsQkRlSjZodlZid045bTFRUjBoZ1E3VDdGdll2VWlWbVo2TnhkZEE2Z2g2Mjl1RTRJeEhMcEplbVpGTmQ0c1FnalhmMVBIQmFVVFRwVTZhdGtxU3FUd0o4X3FUUlhocExJaEgzTG12RENCWkdyYjBILURBbzRHd0Y2blplVDFsR3c5cFEwN3hXbkloNU5Ub3Q3Ry05dS1LWHFZOHR6Y3N1TEhDUGNKYk9ocEZxWTdUZUtRY3dCMEZhN1B2VFNLUEZnR3h0anJDWE9VUE9FNlEzS2pKV3lNXzFycWI4dVY0U2cyV1dxaGpUZ2M40gG4AkFVX3lxTE9wSVljMm84UTZSTGNuWFp0Qkhpa1BmUGItUEoxdTRkUENiUkVYNElfc3hnWWdVbmRpcTRzT2dKNW9CT3l0OGw0b1NNM0hiUXp2VHMzT3JaV1JwNERMNlV2dU1CZHNuVDhTbW85RWhKQmkwdWhmZXlpeXUweE96aHVadlFDalVEVWNKMXpnWHdPemEwTHczZHhzMElUTkc3aklxeG0wVjE3S0dMV1JHWEVraUpacDBxQXpDRTR6eUw3d3RBSGIwRFlFejZOWHNLUElJa3gxa2JDc3hXVjFTYUtfRXhuU0J0cTlHTE9qczc5TDJlc28xZ3haeU1fcV8zQmU5UHRvYUZUZG1QMk0wdXpQUUt2ZVFpcHEyX3RyUWtXLV90RjB3U0tKUVlVQ0RLb05DeEo5M3kzVg?oc=5\" target=\"_blank\">Capital city set to face unprecedented water restrictions after flash flooding</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sky News Australia</font>",
-        "similarity_excluded": "No",
-        "score": 9,
-        "status": "posted",
-        "tweet": "\ud83c\udde6\ud83c\uddfa POST-EVENT Canberra: Flash flooding causes unprecedented water restrictions ahead. (Sky News Australia)",
-        "type": "news",
-        "tweet_id": "2031225361728425994",
-        "geo": {
-            "country": "Australia",
-            "name": "Canberra",
-            "latitude": -35.2809,
-            "longitude": 149.13,
-            "confidence": 0.95
-        }
-    },
-    {
-        "link": null,
-        "date": "2026-03-10",
-        "status": "posted",
-        "tweet": "By 2026, pluvial flooding in dense cities from extreme rainfall could expose 1B+ globally.\n\n1. \ud83c\uddee\ud83c\uddf3 Mumbai: 12M people (60% urban pop) at flash flood risk\n2. \ud83c\udde7\ud83c\udde9 Dhaka: $10B annual economic losses projected\n3. \ud83c\uddfa\ud83c\uddf8 New York: 40% of area prone to surface flooding\n4. \ud83c\udde8\ud83c\uddf3 Shanghai: 18M ex",
-        "type": "statistical",
-        "category": "pluvial (surface) flooding in dense cities",
-        "tweet_id": "2031243001784086849"
-    },
-    {
-        "link": null,
-        "date": "2026-03-10",
-        "status": "posted",
-        "tweet": "\ud83c\uddef\ud83c\uddf5 Tokyo's G-Cans underground flood control system stores up to 670,000 cubic meters of stormwater, shielding over 13 million residents from inundation in a city prone to typhoons. Capacity unchanged as of 2026.",
-        "type": "infrastructure",
-        "tweet_id": "2031256683096244520"
-    },
-    {
-        "link": null,
-        "date": "2026-03-10",
-        "status": "posted",
-        "tweet": "Since 2020, floods, flash floods, and extreme rainfall have killed over 25,000 people worldwide\u2014a 40% rise from the prior decade, driven by climate change. Projections: 50,000+ by 2030.",
-        "type": "statistical",
-        "category": "global flood fatalities and trends",
-        "tweet_id": "2031284866948423701"
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOeWg4LWl6Q1lSVVRlSGpFLVFwSEN6eVBQaEh3MDZEMmd1aU91ZmlWbVE5NnJhYmNFMl85QWtMazQzeVpRRnljZE04STJDSmYtUVpMT3ZCNVEzbGY4Zk9jcTZBWWRvRTUyNGJ3YzhqSUF4cHljZEVYMERRR3d6Z3hEUFh4YXR1Y2tSYW9CSG5YdkZCY0ZFOC1LaENhdUFpQlFHbTc4Vk9KYUdYSG1OQzZ1Qk9iWkN6MnhXcGVsYzh4YS02cGxJajgtbkx3UHMwc2ZvS1d0MjhGdHRpYmJO?oc=5",
-        "date": "2026-03-10",
-        "title": "Flash flood warning active for Clinton County until Tuesday afternoon \u2014 urgent action advised - Syracuse.com",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxOeWg4LWl6Q1lSVVRlSGpFLVFwSEN6eVBQaEh3MDZEMmd1aU91ZmlWbVE5NnJhYmNFMl85QWtMazQzeVpRRnljZE04STJDSmYtUVpMT3ZCNVEzbGY4Zk9jcTZBWWRvRTUyNGJ3YzhqSUF4cHljZEVYMERRR3d6Z3hEUFh4YXR1Y2tSYW9CSG5YdkZCY0ZFOC1LaENhdUFpQlFHbTc4Vk9KYUdYSG1OQzZ1Qk9iWkN6MnhXcGVsYzh4YS02cGxJajgtbkx3UHMwc2ZvS1d0MjhGdHRpYmJO?oc=5\" target=\"_blank\">Flash flood warning active for Clinton County until Tuesday afternoon \u2014 urgent action advised</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Syracuse.com</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQdEdNOF9GMnBxMWFBSWJ1bnlOTUlNcGNvck10WVdUUHFsbHU0WmhRNEtJZWkzaHlEMTlFT2t3cmt3SE1SVG0zSW9vMXlhZEJsZGxzZ3NkRExrWXhIMTdMUXRmOW9DSGl1V0lfV3NCN0Q5Y1Q2SGdUZkdqXzBLZExWeldpdldlSk1fUURKTmZadmhXeFJwWFNnMG9fNkJiOTgzbzd5REZzN1dZVmwzelhMZ0VpQ00wNkp4QzNoVUhiVWhOOUw3S0ViOHVvOXRxZw?oc=5",
-        "date": "2026-03-10",
-        "title": "NY weather: Jefferson and Lewis counties under a flood watch Wednesday and Thursday - SILive.com",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxQdEdNOF9GMnBxMWFBSWJ1bnlOTUlNcGNvck10WVdUUHFsbHU0WmhRNEtJZWkzaHlEMTlFT2t3cmt3SE1SVG0zSW9vMXlhZEJsZGxzZ3NkRExrWXhIMTdMUXRmOW9DSGl1V0lfV3NCN0Q5Y1Q2SGdUZkdqXzBLZExWeldpdldlSk1fUURKTmZadmhXeFJwWFNnMG9fNkJiOTgzbzd5REZzN1dZVmwzelhMZ0VpQ00wNkp4QzNoVUhiVWhOOUw3S0ViOHVvOXRxZw?oc=5\" target=\"_blank\">NY weather: Jefferson and Lewis counties under a flood watch Wednesday and Thursday</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SILive.com</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPMnI3SEJuMHp2MjBBdnJMa2JrekNScnR1ZkhyWmFYb25BVVBGTjZjZjlkcmpvcDNOSGZZYVBHVG85eEZUaEtyNnVXQjhHeHlEbGNCYWNhZ2lONUVTMVpuMGNUZDBCQkwtc2dwYnJUTHpscEVhYmxoOEFwOFFvcUt4QWdBWldnQWRiOFBKa3lHYVRnYVJZQ2x5cmNSc3Q5Y1V5eTFiTFgxTUhvZ1BxM1BQRjlxams1SG4zaDI4Mzc3LVR1UQ?oc=5",
-        "date": "2026-03-10",
-        "title": "Flood watch for Jefferson and Lewis counties for Wednesday and Thursday - Syracuse.com",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxPMnI3SEJuMHp2MjBBdnJMa2JrekNScnR1ZkhyWmFYb25BVVBGTjZjZjlkcmpvcDNOSGZZYVBHVG85eEZUaEtyNnVXQjhHeHlEbGNCYWNhZ2lONUVTMVpuMGNUZDBCQkwtc2dwYnJUTHpscEVhYmxoOEFwOFFvcUt4QWdBWldnQWRiOFBKa3lHYVRnYVJZQ2x5cmNSc3Q5Y1V5eTFiTFgxTUhvZ1BxM1BQRjlxams1SG4zaDI4Mzc3LVR1UQ?oc=5\" target=\"_blank\">Flood watch for Jefferson and Lewis counties for Wednesday and Thursday</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Syracuse.com</font>",
-        "similarity_excluded": "No",
-        "score": 8,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNTEhEZE8xclFXTjRPR19fdUFldGJUSnVya2dIaGZTQzNWVl90dTdGY0U1QWk0YjZYYWlZZXEzZ2hScG02aWJhTEVGeHU2TGc3eUJiRmhyalBHSUFGY0ZJcEdYVWQzY0JKR2puZkZteEg2X05fOW44NVdlcTliTDhrdkhxb1dRWkJLUDZESm5Vbkg1enJkcUhjNXB5eXQ1TzlxT0NuSW5MVXowOFVMSjBCWDUzeVJoeVVJX0FjdTdTTdIB0wFBVV95cUxOQlJDWjQ3RXhWSVFERjRWZVdMc2pzY1UtWmtndGU5T2xtUHl4bnJDb3oyM1djb0pSU3lDSmJHRjQ3dWFuRGVZZHVCWXJKU2JhT2lrUTRpeF84a2RoODhRSkxDcVJmamFBd2g3cnlGSFduTUd5UXAybVp1TXBjaFUyMjFlV2tEMUx1MHFNeGxYbnNmUlR2WEQ0ZGIwS2ZiZVNIbjBRanFfOFlsVHYwMXFsR09Tb294bVdla09JZjFLSVVHUThnLTlzTk5rbHV2YTZSYjFr?oc=5",
-        "date": "2026-03-10",
-        "title": "Kauai officials warn of possible highway closures, outages as powerful storm approaches - Hawaii News Now",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxNTEhEZE8xclFXTjRPR19fdUFldGJUSnVya2dIaGZTQzNWVl90dTdGY0U1QWk0YjZYYWlZZXEzZ2hScG02aWJhTEVGeHU2TGc3eUJiRmhyalBHSUFGY0ZJcEdYVWQzY0JKR2puZkZteEg2X05fOW44NVdlcTliTDhrdkhxb1dRWkJLUDZESm5Vbkg1enJkcUhjNXB5eXQ1TzlxT0NuSW5MVXowOFVMSjBCWDUzeVJoeVVJX0FjdTdTTdIB0wFBVV95cUxOQlJDWjQ3RXhWSVFERjRWZVdMc2pzY1UtWmtndGU5T2xtUHl4bnJDb3oyM1djb0pSU3lDSmJHRjQ3dWFuRGVZZHVCWXJKU2JhT2lrUTRpeF84a2RoODhRSkxDcVJmamFBd2g3cnlGSFduTUd5UXAybVp1TXBjaFUyMjFlV2tEMUx1MHFNeGxYbnNmUlR2WEQ0ZGIwS2ZiZVNIbjBRanFfOFlsVHYwMXFsR09Tb294bVdla09JZjFLSVVHUThnLTlzTk5rbHV2YTZSYjFr?oc=5\" target=\"_blank\">Kauai officials warn of possible highway closures, outages as powerful storm approaches</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Hawaii News Now</font>",
-        "similarity_excluded": "No",
-        "score": 7,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPS1NmVlpFVUx3RVU5b1ZLS29OWC1EcUtoY2dFckJpc0lPUEs4RFo1YlJUZkZER1lvTjBxQmZqRE5GZmtLQVJ3UUtfYVl4Y3JrcHpWZ0hlemltVGRCT0xfZFljRWktNjNUd2o1dm83Rzh6dUZmdDIzSVM2Z0loU3o2ZzhrLTJxUm4wRW1rWFhMekhyMlN4YzB1N0R2SGlLb3d3Y1BqOWRQQQ?oc=5",
-        "date": "2026-03-10",
-        "title": "Heavy rains flood Peru homes as river overflows - MSN",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPS1NmVlpFVUx3RVU5b1ZLS29OWC1EcUtoY2dFckJpc0lPUEs4RFo1YlJUZkZER1lvTjBxQmZqRE5GZmtLQVJ3UUtfYVl4Y3JrcHpWZ0hlemltVGRCT0xfZFljRWktNjNUd2o1dm83Rzh6dUZmdDIzSVM2Z0loU3o2ZzhrLTJxUm4wRW1rWFhMekhyMlN4YzB1N0R2SGlLb3d3Y1BqOWRQQQ?oc=5\" target=\"_blank\">Heavy rains flood Peru homes as river overflows</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
-        "similarity_excluded": "No",
-        "score": 7,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOb1hsZWN6UnNaZWlCelpsRkZwQTFMQmkwcjloWXZYWVp3TzFUd3A5cHc4dm45a09IQm1UZmlJTGsxbXk3cUJTLXM2dXZ5dl9LZzVfZkJGU2tiNzc5dFJUM3o0S2IybmFiemhaaWVhZzlTWVpkdmVZWWNvXzRzV1lra1pLR2hvSXpOVXVtMnN4cG01WjQwem5ray10UmQwZmc2X2ZPTTJRR2RsVmw1alk2Skc1Q08zUdIBeEFVX3lxTE9Zd0EwdFluMXcxOGYyakgzVzRWTU5xOTNnMm5ZbTNWYmhFRDd2MEc5N3VWZEt6ejFlWFd1aF9Lcmw5TTlBbTBiTVZHMlZfeHBvN2dIU0tIYUlBajJ1aHBLY2RXVzJvcTB6M0ZJMGtCLWpNWHY3cVlveA?oc=5",
-        "date": "2026-03-10",
-        "title": "Darwin residents urged to boil drinking water as dam reaches record capacity - 9News",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxOb1hsZWN6UnNaZWlCelpsRkZwQTFMQmkwcjloWXZYWVp3TzFUd3A5cHc4dm45a09IQm1UZmlJTGsxbXk3cUJTLXM2dXZ5dl9LZzVfZkJGU2tiNzc5dFJUM3o0S2IybmFiemhaaWVhZzlTWVpkdmVZWWNvXzRzV1lra1pLR2hvSXpOVXVtMnN4cG01WjQwem5ray10UmQwZmc2X2ZPTTJRR2RsVmw1alk2Skc1Q08zUdIBeEFVX3lxTE9Zd0EwdFluMXcxOGYyakgzVzRWTU5xOTNnMm5ZbTNWYmhFRDd2MEc5N3VWZEt6ejFlWFd1aF9Lcmw5TTlBbTBiTVZHMlZfeHBvN2dIU0tIYUlBajJ1aHBLY2RXVzJvcTB6M0ZJMGtCLWpNWHY3cVlveA?oc=5\" target=\"_blank\">Darwin residents urged to boil drinking water as dam reaches record capacity</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">9News</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPMVp3eFEtUzlWNkRwYXlSWGRrRkFsYjNydnc3MERFWkJuNGJPVGlYZ2xvNng0RkdWM1AtTnNBU0tzd0czaWJtMXlBdjBET2UtMGNlRUFFdERicjRMZFNEMzI2Rk1NVGUwQ0xGQmVJT09seW9WREpoSnB3SHBnUGdHdjZxa3RVamlXenp6T1Z5QjQ2UzV4Y3ZUb2V0NWJ1UnVHMnIwb1kyWnc2dy1QUWllMTlrU0ZLNHYtUEF6cElOanlOblg4ckRXOTJWa3QyNURwMVF6X0dxY3hkWXN3bmpCbmFlVklVMW5KdmNFcW0yR0ZmZTdtLXpiZlREcTZfd3fSAYQCQVVfeXFMT2RPam1vOTRzV3dsanpRMnYtMG9PSHQwSDdrMU1mZDhROU9nNnkxM0NDQ2lPS2N6SFBlWm9XTmZsNHhJZmIydTAyYzMzOW9QSkt5b19wLWJWcnpLWUlxdUlDdXJnUTJYOXlZVGRDelVPUnhvTHdiTGFYT2M3YjVzNWFiaERsMnBMNFJybTNFV24yTHd5Z0RFaFJmZTE5SkpvdThOZDlYR3RONlV5QjdzbHpKMm5lNzNYa3E1UWE5VlNSNUcwR2t2S2FNdVVDMy1nRUZ2UDhla2dER3dNNUtTbzg4RjNQSllnTU1acGdRVklKdmhacVU4Zm1ac0xwbmM5SmpfNjg?oc=5",
-        "date": "2026-03-10",
-        "title": "\u2018Leave immediately\u2019: 10k cut off, 400 homes hit as city bridges closed in flood disaster - The Courier Mail",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_wFBVV95cUxPMVp3eFEtUzlWNkRwYXlSWGRrRkFsYjNydnc3MERFWkJuNGJPVGlYZ2xvNng0RkdWM1AtTnNBU0tzd0czaWJtMXlBdjBET2UtMGNlRUFFdERicjRMZFNEMzI2Rk1NVGUwQ0xGQmVJT09seW9WREpoSnB3SHBnUGdHdjZxa3RVamlXenp6T1Z5QjQ2UzV4Y3ZUb2V0NWJ1UnVHMnIwb1kyWnc2dy1QUWllMTlrU0ZLNHYtUEF6cElOanlOblg4ckRXOTJWa3QyNURwMVF6X0dxY3hkWXN3bmpCbmFlVklVMW5KdmNFcW0yR0ZmZTdtLXpiZlREcTZfd3fSAYQCQVVfeXFMT2RPam1vOTRzV3dsanpRMnYtMG9PSHQwSDdrMU1mZDhROU9nNnkxM0NDQ2lPS2N6SFBlWm9XTmZsNHhJZmIydTAyYzMzOW9QSkt5b19wLWJWcnpLWUlxdUlDdXJnUTJYOXlZVGRDelVPUnhvTHdiTGFYT2M3YjVzNWFiaERsMnBMNFJybTNFV24yTHd5Z0RFaFJmZTE5SkpvdThOZDlYR3RONlV5QjdzbHpKMm5lNzNYa3E1UWE5VlNSNUcwR2t2S2FNdVVDMy1nRUZ2UDhla2dER3dNNUtTbzg4RjNQSllnTU1acGdRVklKdmhacVU4Zm1ac0xwbmM5SmpfNjg?oc=5\" target=\"_blank\">\u2018Leave immediately\u2019: 10k cut off, 400 homes hit as city bridges closed in flood disaster</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Courier Mail</font>",
-        "similarity_excluded": "No",
-        "score": 10,
-        "status": "processed",
-        "tweet": null,
-        "tweet_id": "2031329897205887176",
-        "geo": {
-            "country": "Australia",
-            "name": "Maryborough, Queensland",
-            "latitude": -25.5372,
-            "longitude": 152.7047,
-            "confidence": 0.95
-        }
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdnlFMVhFZF9ZMUZOZ0U2REFtaVUwMkJXaVRfSVdhQlk4cEI1WW9JSmJrNVNEaWp1MFlCZ0F3blpJZDFuN0drWHB4eHV4WHJZVkl1b01IamFsRnllS2Njd3hYdjZTNk9TbWtfQXBKcURqdHJtVFlRaUViTFZWSTQ1OGJaTEJoMXVkcUQyU1dsMHlIS2s5LTI5bVhhWQ?oc=5",
-        "date": "2026-03-10",
-        "title": "Heavy rains flood Peru homes as river overflows - Bangkok Post",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOdnlFMVhFZF9ZMUZOZ0U2REFtaVUwMkJXaVRfSVdhQlk4cEI1WW9JSmJrNVNEaWp1MFlCZ0F3blpJZDFuN0drWHB4eHV4WHJZVkl1b01IamFsRnllS2Njd3hYdjZTNk9TbWtfQXBKcURqdHJtVFlRaUViTFZWSTQ1OGJaTEJoMXVkcUQyU1dsMHlIS2s5LTI5bVhhWQ?oc=5\" target=\"_blank\">Heavy rains flood Peru homes as river overflows</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bangkok Post</font>",
-        "similarity_excluded": "No",
-        "score": 6,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQOFE4V0VaQVI2OUtXWjg1Y0YtWXd5M2dkTFc4cWRHd3ZzSnN4aU5iVV9YaC1uLXdPcU1uZlg4UEJHMmNZcG5mbW9GNEk3U3pwaHVaOWh0eEd1XzVnWWFHMkEyQUVpS2FHa29MVFFsVXZIWjNqZk9HQ3RJYkp3dF94dEdTRnl3dEFXT1JQT08tMDIyWHNtRldodTUwQWxycTlYUVhqUVZn0gGrAUFVX3lxTE5wLUduVHdYb2ZkX3VrNXlzSGRNdWFndUpudFVJZ2x4akJPc01BbHctSHFweWZCZ29rLVlEcDROSVZlQmJpMFdlWnY3Y1kxMWZ5MWxETW5FZVpLcEc2QTAwUEpBVmNxU0swU3d4NU1TdmdSZE15TDRrTTJFYzg4SFF0bXo3d0pwM2diaTNUeWdEeUI0enRTc0k2TjhndUlTQzRhcXRWWXJrLTI1WQ?oc=5",
-        "date": "2026-03-10",
-        "title": "Islamabad Moves to Clear Encroachments Along Nullahs Before Monsoon - ProPakistani",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQOFE4V0VaQVI2OUtXWjg1Y0YtWXd5M2dkTFc4cWRHd3ZzSnN4aU5iVV9YaC1uLXdPcU1uZlg4UEJHMmNZcG5mbW9GNEk3U3pwaHVaOWh0eEd1XzVnWWFHMkEyQUVpS2FHa29MVFFsVXZIWjNqZk9HQ3RJYkp3dF94dEdTRnl3dEFXT1JQT08tMDIyWHNtRldodTUwQWxycTlYUVhqUVZn0gGrAUFVX3lxTE5wLUduVHdYb2ZkX3VrNXlzSGRNdWFndUpudFVJZ2x4akJPc01BbHctSHFweWZCZ29rLVlEcDROSVZlQmJpMFdlWnY3Y1kxMWZ5MWxETW5FZVpLcEc2QTAwUEpBVmNxU0swU3d4NU1TdmdSZE15TDRrTTJFYzg4SFF0bXo3d0pwM2diaTNUeWdEeUI0enRTc0k2TjhndUlTQzRhcXRWWXJrLTI1WQ?oc=5\" target=\"_blank\">Islamabad Moves to Clear Encroachments Along Nullahs Before Monsoon</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ProPakistani</font>",
-        "similarity_excluded": "No",
-        "score": 7,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPQmdUZEgzLWZhUG1LZmswWjUwZzI1dWQzbVVtR2NhUWhNYzdNRFo1MzFEc1VWQTB1Nk5QdzF5RjFRRTM1ZmJFYUVCbE1xdC1QcWdwM1RFWTVrYklMckFHWlV2TlJBTk9KTTQ0dlZCYVQyNWdkOTZmc3lLUUxzTDFMZTZqeW1ZQm1UeDNOcnlUVXUwZjVNY0hoLTd1MWJpM1djZ3FzX3R4RUROWUtrcTJwc3pIVzllY3BsTFU0V1Q5NHBIaFI2c09hNzI4dzVOQQ?oc=5",
-        "date": "2026-03-10",
-        "title": "CDA to remove encroachments along Islamabad storm drains - Pakistan Today",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxPQmdUZEgzLWZhUG1LZmswWjUwZzI1dWQzbVVtR2NhUWhNYzdNRFo1MzFEc1VWQTB1Nk5QdzF5RjFRRTM1ZmJFYUVCbE1xdC1QcWdwM1RFWTVrYklMckFHWlV2TlJBTk9KTTQ0dlZCYVQyNWdkOTZmc3lLUUxzTDFMZTZqeW1ZQm1UeDNOcnlUVXUwZjVNY0hoLTd1MWJpM1djZ3FzX3R4RUROWUtrcTJwc3pIVzllY3BsTFU0V1Q5NHBIaFI2c09hNzI4dzVOQQ?oc=5\" target=\"_blank\">CDA to remove encroachments along Islamabad storm drains</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Pakistan Today</font>",
-        "similarity_excluded": "No",
-        "score": 6,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVmFtdmhxNTRjY1dqWUlBbGdNQzlqd3JZZTdhUG1zTncta0ZpR0thVmNhN3IyWGoyak1nMXE3TUh4aTExUVZ5eTRGY3R3ZVl6cGZwaTRPbUZ1Mzdzb093dW1wMDFKN3RTMG1FWDVzRGFLaHZWTl9WRklxanFNdXRPUGdxczVrTjBhbzhlQ0s2dFpJcWlBbWdnTjNtU2xGQ094YjJQMHFoR19HaWfSAbABQVVfeXFMUEUwcDd1bFdGd2JKZzhRMkV0Tjh4VF9iMDY3Zmo2a1NzZjEwQnpaZzJZQW11V3lYNFNuZG5QSTgyZ0VkUHVqbTdlZXAwWEs2Z1cyeHN0eUlRQ2FyUlBrMmxmTkVFRmZkN2Vtb1NhOERwWXVUanpnbVR5LWNoV09OcW1UbmpSS0JOeGxaTXBXUmdHd2gydktfNnY2ajZLRVpsM1IzZWlSWGVwMndTSkNIbHA?oc=5",
-        "date": "2026-03-10",
-        "title": "Rains trigger flooding, landslide in Caraga; some roads barely passable - Inquirer.net",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVmFtdmhxNTRjY1dqWUlBbGdNQzlqd3JZZTdhUG1zTncta0ZpR0thVmNhN3IyWGoyak1nMXE3TUh4aTExUVZ5eTRGY3R3ZVl6cGZwaTRPbUZ1Mzdzb093dW1wMDFKN3RTMG1FWDVzRGFLaHZWTl9WRklxanFNdXRPUGdxczVrTjBhbzhlQ0s2dFpJcWlBbWdnTjNtU2xGQ094YjJQMHFoR19HaWfSAbABQVVfeXFMUEUwcDd1bFdGd2JKZzhRMkV0Tjh4VF9iMDY3Zmo2a1NzZjEwQnpaZzJZQW11V3lYNFNuZG5QSTgyZ0VkUHVqbTdlZXAwWEs2Z1cyeHN0eUlRQ2FyUlBrMmxmTkVFRmZkN2Vtb1NhOERwWXVUanpnbVR5LWNoV09OcW1UbmpSS0JOeGxaTXBXUmdHd2gydktfNnY2ajZLRVpsM1IzZWlSWGVwMndTSkNIbHA?oc=5\" target=\"_blank\">Rains trigger flooding, landslide in Caraga; some roads barely passable</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Inquirer.net</font>",
-        "similarity_excluded": "No",
-        "score": 6,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOSndxVngwZDN4WlA3bG05RkN2OTBxQXJoTU01bDJLdUJpV25ZeEZlY2RtQklnaWlOOWJyRUJEX0JRQUpraWFjd0hUR29xdHNIdUhVaXduQXJpemlReTB5UktVN3A0UUpkRDFFbXZ2XzdhOXN2TjNvU1ZtTm9mdnE4dUVuTy1Bck9RZ1k3U2RONmFDbkJ3UndKeEx4ZVlWeWc1ZzVDN1hFUXA3ektKbWM3clZGUVZQSGdOTFlIMjQ3RmlKSlFuNkNkcG5wdmZWTGs3WmxaRGdoUEwzLWc?oc=5",
-        "date": "2026-03-10",
-        "title": "Deadly landslide at Jakarta\u2019s main landfill kills seven, reigniting scrutiny of Indonesia\u2019s waste crisis - The Online Citizen",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxOSndxVngwZDN4WlA3bG05RkN2OTBxQXJoTU01bDJLdUJpV25ZeEZlY2RtQklnaWlOOWJyRUJEX0JRQUpraWFjd0hUR29xdHNIdUhVaXduQXJpemlReTB5UktVN3A0UUpkRDFFbXZ2XzdhOXN2TjNvU1ZtTm9mdnE4dUVuTy1Bck9RZ1k3U2RONmFDbkJ3UndKeEx4ZVlWeWc1ZzVDN1hFUXA3ektKbWM3clZGUVZQSGdOTFlIMjQ3RmlKSlFuNkNkcG5wdmZWTGs3WmxaRGdoUEwzLWc?oc=5\" target=\"_blank\">Deadly landslide at Jakarta\u2019s main landfill kills seven, reigniting scrutiny of Indonesia\u2019s waste crisis</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Online Citizen</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPMVp3eFEtUzlWNkRwYXlSWGRrRkFsYjNydnc3MERFWkJuNGJPVGlYZ2xvNng0RkdWM1AtTnNBU0tzd0czaWJtMXlBdjBET2UtMGNlRUFFdERicjRMZFNEMzI2Rk1NVGUwQ0xGQmVJT09seW9WREpoSnB3SHBnUGdHdjZxa3RVamlXenp6T1Z5QjQ2UzV4Y3ZUb2V0NWJ1UnVHMnIwb1kyWnc2dy1QUWllMTlrU0ZLNHYtUEF6cElOanlOblg4ckRXOTJWa3QyNURwMVF6X0dxY3hkWXN3bmpCbmFlVklVMW5KdmNFcW0yR0ZmZTdtLXpiZlREcTZfd3fSAYQCQVVfeXFMT2RPam1vOTRzV3dsanpRMnYtMG9PSHQwSDdrMU1mZDhROU9nNnkxM0NDQ2lPS2N6SFBlWm9XTmZsNHhJZmIydTAyYzMzOW9QSkt5b19wLWJWcnpLWUlxdUlDdXJnUTJYOXlZVGRDelVPUnhvTHdiTGFYT2M3YjVzNWFiaERsMnBMNFJybTNFV24yTHd5Z0RFaFJmZTE5SkpvdThOZDlYR3RONlV5QjdzbHpKMm5lNzNYa3E1UWE5VlNSNUcwR2t2S2FNdVVDMy1nRUZ2UDhla2dER3dNNUtTbzg4RjNQSllnTU1acGdRVklKdmhacVU4Zm1ac0xwbmM5SmpfNjg?oc=5",
-        "date": "2026-03-10",
-        "title": "\u2018Leave immediately\u2019: 10k cut off, 400 homes hit as city bridges closed in flood disaster - The Courier Mail",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_wFBVV95cUxPMVp3eFEtUzlWNkRwYXlSWGRrRkFsYjNydnc3MERFWkJuNGJPVGlYZ2xvNng0RkdWM1AtTnNBU0tzd0czaWJtMXlBdjBET2UtMGNlRUFFdERicjRMZFNEMzI2Rk1NVGUwQ0xGQmVJT09seW9WREpoSnB3SHBnUGdHdjZxa3RVamlXenp6T1Z5QjQ2UzV4Y3ZUb2V0NWJ1UnVHMnIwb1kyWnc2dy1QUWllMTlrU0ZLNHYtUEF6cElOanlOblg4ckRXOTJWa3QyNURwMVF6X0dxY3hkWXN3bmpCbmFlVklVMW5KdmNFcW0yR0ZmZTdtLXpiZlREcTZfd3fSAYQCQVVfeXFMT2RPam1vOTRzV3dsanpRMnYtMG9PSHQwSDdrMU1mZDhROU9nNnkxM0NDQ2lPS2N6SFBlWm9XTmZsNHhJZmIydTAyYzMzOW9QSkt5b19wLWJWcnpLWUlxdUlDdXJnUTJYOXlZVGRDelVPUnhvTHdiTGFYT2M3YjVzNWFiaERsMnBMNFJybTNFV24yTHd5Z0RFaFJmZTE5SkpvdThOZDlYR3RONlV5QjdzbHpKMm5lNzNYa3E1UWE5VlNSNUcwR2t2S2FNdVVDMy1nRUZ2UDhla2dER3dNNUtTbzg4RjNQSllnTU1acGdRVklKdmhacVU4Zm1ac0xwbmM5SmpfNjg?oc=5\" target=\"_blank\">\u2018Leave immediately\u2019: 10k cut off, 400 homes hit as city bridges closed in flood disaster</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Courier Mail</font>",
-        "similarity_excluded": "No",
-        "score": 10,
-        "status": "posted",
-        "tweet": "\ud83c\udde6\ud83c\uddfa POST-EVENT Queensland: Flood isolates 10k residents, hits 400 homes, closes city bridges. Evacuation urged immediately. (The Courier Mail)",
-        "type": "news",
-        "tweet_id": "2031329897205887176",
-        "geo": {
-            "country": "Australia",
-            "name": "Maryborough, Queensland",
-            "latitude": -25.5372,
-            "longitude": 152.7047,
-            "confidence": 0.95
-        }
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQUkpGS1pGd0dZeVZRY0N1cXg1Q3cxMXlqRlRWSTJqeDBOMThXM1BMTmloeTlUbUpfRm03U2NDM1VXZVNQb3pCaEtGVXF6MlhvN1JRS0Q0UjR1d0I5Qlc5c0Z6Q01JSjRJNFhzX2pVem9FcXdnRElRX19Xa05vOC1BeHdURGgyTzd5MDdoamM0a2lMS2dKbmc?oc=5",
-        "date": "2026-03-10",
-        "title": "Several homes evacuated in Morrisonville due to ice jam on Saranac River - WPTZ",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxQUkpGS1pGd0dZeVZRY0N1cXg1Q3cxMXlqRlRWSTJqeDBOMThXM1BMTmloeTlUbUpfRm03U2NDM1VXZVNQb3pCaEtGVXF6MlhvN1JRS0Q0UjR1d0I5Qlc5c0Z6Q01JSjRJNFhzX2pVem9FcXdnRElRX19Xa05vOC1BeHdURGgyTzd5MDdoamM0a2lMS2dKbmc?oc=5\" target=\"_blank\">Several homes evacuated in Morrisonville due to ice jam on Saranac River</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WPTZ</font>",
-        "similarity_excluded": "No",
-        "score": 6,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOSnFLcmZQdjN3SW1oUF9DV3YzcmI4MUdVZ3BqVlpKVkhld3VDRFBpWEJtQjhNM011TWtJMWtTQnB0YTBXY0FnX3NvN0xzaXo3UFU2NTdfTWM0RDJDZ1ItMkR5b1pfbTI4a1Y3dTN6ODFwUU1oRUFxOEk3RG9oTWJJUWRoYnV5cUk2d2hTWjI3a0c2eXRNZnZJc3NJdXNqN0pjVVHSAbYBQVVfeXFMT1hpU3lFTS1sMnFFT3JBWE1zVTNkRzVOU21VYy1OTG9UeG9BX1ZHVDFWSFdIWHF1SlRIbHN1Umo1Z3FnOF9YcUFXOXVBNWNIU0Y2ekFVbVJrWkFFeUVIOG9sZU8wZ0VCbm5oWG5QMHBENlZ5Q0RsSFNLNGNWa01jVTRXMmhheWV5dFowRU8zMHMtWVEzVjNnZmJkM2gwZ1A5WUNnRk1COTRkRkFNanJKZjNuSElCNlE?oc=5",
-        "date": "2026-03-10",
-        "title": "Flash Flood Warning: Ice Jam Threatens Northern New York Communities - WCAX",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxOSnFLcmZQdjN3SW1oUF9DV3YzcmI4MUdVZ3BqVlpKVkhld3VDRFBpWEJtQjhNM011TWtJMWtTQnB0YTBXY0FnX3NvN0xzaXo3UFU2NTdfTWM0RDJDZ1ItMkR5b1pfbTI4a1Y3dTN6ODFwUU1oRUFxOEk3RG9oTWJJUWRoYnV5cUk2d2hTWjI3a0c2eXRNZnZJc3NJdXNqN0pjVVHSAbYBQVVfeXFMT1hpU3lFTS1sMnFFT3JBWE1zVTNkRzVOU21VYy1OTG9UeG9BX1ZHVDFWSFdIWHF1SlRIbHN1Umo1Z3FnOF9YcUFXOXVBNWNIU0Y2ekFVbVJrWkFFeUVIOG9sZU8wZ0VCbm5oWG5QMHBENlZ5Q0RsSFNLNGNWa01jVTRXMmhheWV5dFowRU8zMHMtWVEzVjNnZmJkM2gwZ1A5WUNnRk1COTRkRkFNanJKZjNuSElCNlE?oc=5\" target=\"_blank\">Flash Flood Warning: Ice Jam Threatens Northern New York Communities</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WCAX</font>",
-        "similarity_excluded": "No",
-        "score": 9,
-        "status": "processed",
-        "tweet": null,
-        "tweet_id": "2031400320417296711",
-        "geo": {
-            "country": "United States",
-            "name": "Northern New York",
-            "latitude": 44.0,
-            "longitude": -75.0,
-            "confidence": 0.9
-        }
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQb0Jfblg0RThDMGNSR1p6MWVCMXJ3S3JqWnUtTmJ3YXZ5cDFvNEpubWtsWFItdmRtemtXZW9xWUJQYXFtUFcyeU1ucldCZFoyUnd5X0RIRVVTU2VkS1RxMGxmN3dFRGV0T05xSThtTEVZcjBRVmNtVWZId0hIU1BWQ2RzSVMtU3J3Y3N4V0RzXzBTeUFuUEdVNzBlU1BJSzRPUlR4Mm9KOUZKWHpNZUdEalNvb2F3VnlWQUU0MGRGWFV5WXNEOXZpQWhXRzNBUklQdmpQMVI2ZDBSdGREdThkRzR1M3U?oc=5",
-        "date": "2026-03-10",
-        "title": "NY weather: Flash flood warning in place for Clinton County until Tuesday afternoon \u2013 take precautions now - SILive.com",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxQb0Jfblg0RThDMGNSR1p6MWVCMXJ3S3JqWnUtTmJ3YXZ5cDFvNEpubWtsWFItdmRtemtXZW9xWUJQYXFtUFcyeU1ucldCZFoyUnd5X0RIRVVTU2VkS1RxMGxmN3dFRGV0T05xSThtTEVZcjBRVmNtVWZId0hIU1BWQ2RzSVMtU3J3Y3N4V0RzXzBTeUFuUEdVNzBlU1BJSzRPUlR4Mm9KOUZKWHpNZUdEalNvb2F3VnlWQUU0MGRGWFV5WXNEOXZpQWhXRzNBUklQdmpQMVI2ZDBSdGREdThkRzR1M3U?oc=5\" target=\"_blank\">NY weather: Flash flood warning in place for Clinton County until Tuesday afternoon \u2013 take precautions now</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SILive.com</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNam52SWE4a0U1OXUwOXhsQm52RnpfVG1CWG1qOU1sWnZxdHdaR3poUDNlX2p0Yk1rbF93c2cwd1h3Mk11MkpEMHo1ODJMc2p4bVZlNXhvX0Zta2VpN3lJU1RFRHFaU1Z6Sm05cDNhRW9xOGQ5ZV9CcmNJYndBeE1PMVc3QlFBMmwyak03ZHA2VzdlQkhZdXF0cUQ4U2lwZFJTVWF6M3QyYkJ6M0czSEdZZzJqa255Unh4?oc=5",
-        "date": "2026-03-10",
-        "title": "Powerful 'kona storm' threatens Hawaii with flash floods, gusty winds - USA Today",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxNam52SWE4a0U1OXUwOXhsQm52RnpfVG1CWG1qOU1sWnZxdHdaR3poUDNlX2p0Yk1rbF93c2cwd1h3Mk11MkpEMHo1ODJMc2p4bVZlNXhvX0Zta2VpN3lJU1RFRHFaU1Z6Sm05cDNhRW9xOGQ5ZV9CcmNJYndBeE1PMVc3QlFBMmwyak03ZHA2VzdlQkhZdXF0cUQ4U2lwZFJTVWF6M3QyYkJ6M0czSEdZZzJqa255Unh4?oc=5\" target=\"_blank\">Powerful 'kona storm' threatens Hawaii with flash floods, gusty winds</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">USA Today</font>",
-        "similarity_excluded": "No",
-        "score": 8,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQM01Ud0s2WXBqZXhpekhBTVlzRHVFellMcllHa3ZscE9md2N6OHhYRHFuWDNtbnFUc3RRalZkRjJoUzRqQWJkMmRKMDdYWU45OEZ6SmF4YV9TUEF5SXNrekRhWUF6RGh0d0xJUDRKb3JUc0RBT0VsTjdOcWhxRlVwUzkxOGVKNmRHUjJJamdOS01UMEZQR2h1ZERyUVVDMlZKZ1B0dVNEcXByUQ?oc=5",
-        "date": "2026-03-10",
-        "title": "Flash Flood Warning: Ice Jam Threatens Northern New York Communities - WCAX",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQM01Ud0s2WXBqZXhpekhBTVlzRHVFellMcllHa3ZscE9md2N6OHhYRHFuWDNtbnFUc3RRalZkRjJoUzRqQWJkMmRKMDdYWU45OEZ6SmF4YV9TUEF5SXNrekRhWUF6RGh0d0xJUDRKb3JUc0RBT0VsTjdOcWhxRlVwUzkxOGVKNmRHUjJJamdOS01UMEZQR2h1ZERyUVVDMlZKZ1B0dVNEcXByUQ?oc=5\" target=\"_blank\">Flash Flood Warning: Ice Jam Threatens Northern New York Communities</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WCAX</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQVzdzSWNuQW5WUDQzWTZ2RjZydGhqbE1zTldJTUpNZmRBS29Vd09EN21nbDhjdDVBd3lMZ29DN3R2dUo1T2tNSmNrRU54NnNIWTFCQVNaYnlzSTd5VFhTUmlMVENDYW1aRWVLd0VOaURoT1NVcmwteDhITGg3OU9OUTZ4QVBuMUJzTDBwV0pJUmQ0UHV0NkJKZEpoMURQMmc0THhRMEppVEExN2Fjb3FfZTFTNUdZUjFXUzJIaTV4UQ?oc=5",
-        "date": "2026-03-10",
-        "title": "Flood warning continues along East Fork White River; Additional rain could prolong impacts - WBIW",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQVzdzSWNuQW5WUDQzWTZ2RjZydGhqbE1zTldJTUpNZmRBS29Vd09EN21nbDhjdDVBd3lMZ29DN3R2dUo1T2tNSmNrRU54NnNIWTFCQVNaYnlzSTd5VFhTUmlMVENDYW1aRWVLd0VOaURoT1NVcmwteDhITGg3OU9OUTZ4QVBuMUJzTDBwV0pJUmQ0UHV0NkJKZEpoMURQMmc0THhRMEppVEExN2Fjb3FfZTFTNUdZUjFXUzJIaTV4UQ?oc=5\" target=\"_blank\">Flood warning continues along East Fork White River; Additional rain could prolong impacts</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WBIW</font>",
-        "similarity_excluded": "No",
-        "score": 8,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNWmRrWHZCY2w2N0x0cTZIaDRkY2l4akJWQVJhQnpfRmJUcFJHRzdybFVyUjN1SVVzNXMzREJ6V01QdWdyNjdiaW5naVBER1pQNkZTa3lWbFlWVjFWTDMzYnFZQURGZDlId2Nkc0hZRTdUOFhCY2ZGUVZWb2pZeWZVY2ZRbV9JQ2xGZnhyQzliT3ZLRXZtTmRuREJ1bEw4UDFhT3MxR0pvTW5NbnFyOGtzaERkLXUzX2tkX1huYXNPNjN2WnRY?oc=5",
-        "date": "2026-03-10",
-        "title": "Governor issues emergency proclamation as county officials prepare for storm - mauinews.com",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxNWmRrWHZCY2w2N0x0cTZIaDRkY2l4akJWQVJhQnpfRmJUcFJHRzdybFVyUjN1SVVzNXMzREJ6V01QdWdyNjdiaW5naVBER1pQNkZTa3lWbFlWVjFWTDMzYnFZQURGZDlId2Nkc0hZRTdUOFhCY2ZGUVZWb2pZeWZVY2ZRbV9JQ2xGZnhyQzliT3ZLRXZtTmRuREJ1bEw4UDFhT3MxR0pvTW5NbnFyOGtzaERkLXUzX2tkX1huYXNPNjN2WnRY?oc=5\" target=\"_blank\">Governor issues emergency proclamation as county officials prepare for storm</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">mauinews.com</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPLUc5dXFVdWlUUVp2UnlvUl9QbVB6SnFqZkQzeTl1OUdpbzRLREJIVnBuaVR5aFNPTEZrMWp0Vkt4eVlYSFRxNHMyei05dllUSGlVSWVyMjRjTlRRczVjX3YyX2NnUDlrNVhxZmlIWGlfVG1uczNmT3RPcGRjQjlBUHJIeXl3YVJFUWdJbDJpRmVoYjA?oc=5",
-        "date": "2026-03-10",
-        "title": "New York Flash Floods: Evacuations Ordered - Newsweek",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPLUc5dXFVdWlUUVp2UnlvUl9QbVB6SnFqZkQzeTl1OUdpbzRLREJIVnBuaVR5aFNPTEZrMWp0Vkt4eVlYSFRxNHMyei05dllUSGlVSWVyMjRjTlRRczVjX3YyX2NnUDlrNVhxZmlIWGlfVG1uczNmT3RPcGRjQjlBUHJIeXl3YVJFUWdJbDJpRmVoYjA?oc=5\" target=\"_blank\">New York Flash Floods: Evacuations Ordered</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Newsweek</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPWG9KWmhZTnR3UDBWWDRoakNyM2pFWFIzQ1hvSWJlOEUzNjV3UGxONGE1NXpfODY0a1NkQURYVHFvekNmX0tMU1VrZ19neWVRRWNaOWZNdGlFb2dZQm1vTm9LN2tXMGg5Yi0xRktSUmF6VWVOdnBfRS00Ymg3dmZSMFNpNjFXemRFU2p4OXpXZk5mUEhkdGZaNEVPUXk3Zm5tYkhkLTJ0SGoteTc1aDFGZ3EySnREeWxzdVh2ZHRtaFFqdTl1QkE?oc=5",
-        "date": "2026-03-10",
-        "title": "More Michigan storms forecast, including potential for tornadoes - Detroit Free Press",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxPWG9KWmhZTnR3UDBWWDRoakNyM2pFWFIzQ1hvSWJlOEUzNjV3UGxONGE1NXpfODY0a1NkQURYVHFvekNmX0tMU1VrZ19neWVRRWNaOWZNdGlFb2dZQm1vTm9LN2tXMGg5Yi0xRktSUmF6VWVOdnBfRS00Ymg3dmZSMFNpNjFXemRFU2p4OXpXZk5mUEhkdGZaNEVPUXk3Zm5tYkhkLTJ0SGoteTc1aDFGZ3EySnREeWxzdVh2ZHRtaFFqdTl1QkE?oc=5\" target=\"_blank\">More Michigan storms forecast, including potential for tornadoes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Detroit Free Press</font>",
-        "similarity_excluded": "No",
-        "score": 2,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPX29Md0Y3N2J1SjJLcWx4UVF4S2ZVMVFBMzNnNVRCYTdGaWxyWXlTaGNNT0V1SjduX25neUt4VHVYajRGa1VMUEhFOGtVRi1JY1FqTFR0Ym1LbnlXTDI3cWR4cTJmTlNWaElFRlhtWWRYOGU3MDJDMWQzOXpMdnlnT3BuWTRORjF6TXBlMGg5dnNOd3liV2NoWlJGaGtvWXFRUXhSbVU3SkRHTEtsMGc?oc=5",
-        "date": "2026-03-10",
-        "title": "Flash flooding from kona storm may impact Big Island beginning Wednesday - Big Island Now",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPX29Md0Y3N2J1SjJLcWx4UVF4S2ZVMVFBMzNnNVRCYTdGaWxyWXlTaGNNT0V1SjduX25neUt4VHVYajRGa1VMUEhFOGtVRi1JY1FqTFR0Ym1LbnlXTDI3cWR4cTJmTlNWaElFRlhtWWRYOGU3MDJDMWQzOXpMdnlnT3BuWTRORjF6TXBlMGg5dnNOd3liV2NoWlJGaGtvWXFRUXhSbVU3SkRHTEtsMGc?oc=5\" target=\"_blank\">Flash flooding from kona storm may impact Big Island beginning Wednesday</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Big Island Now</font>",
-        "similarity_excluded": "No",
-        "score": 8,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPa0ZKSXlBX0ZDQzhTaHFnd3RQSUwtcS10dVI5cklob2NiWEhGTzVMZ29NSkFnNTNMMnZucWVybUJqNFduaEljd1M4S29SZ043UUdzOXE1TTJlRXVCZmF2UjZUQXRoX2xmaHBlRExjTWpsVC05YkNrQ2R2YmdyYUgxS05kNzJfRXl1MGVUSHdTRGRrbWE3OTNzbmpsWk15NGpzSEh2SEJ1am15YzdHR0JwcFhOV3BMaWNyOVVib1F2V050dTJBVGc?oc=5",
-        "date": "2026-03-10",
-        "title": "GRCA issues flood warnings for Cambridge and Six Nations as river levels rise - CambridgeToday.ca",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxPa0ZKSXlBX0ZDQzhTaHFnd3RQSUwtcS10dVI5cklob2NiWEhGTzVMZ29NSkFnNTNMMnZucWVybUJqNFduaEljd1M4S29SZ043UUdzOXE1TTJlRXVCZmF2UjZUQXRoX2xmaHBlRExjTWpsVC05YkNrQ2R2YmdyYUgxS05kNzJfRXl1MGVUSHdTRGRrbWE3OTNzbmpsWk15NGpzSEh2SEJ1am15YzdHR0JwcFhOV3BMaWNyOVVib1F2V050dTJBVGc?oc=5\" target=\"_blank\">GRCA issues flood warnings for Cambridge and Six Nations as river levels rise</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CambridgeToday.ca</font>",
-        "similarity_excluded": "No",
-        "score": 8,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOek0xOXZqTzRMU01FSGJ2VUZXeEpiRnp0bkFtblR4ME5fVFh1ZmlYVDRJM09MV2lmQTZMX0JXc1lYa29hYVktTW1Id19qNEpUMkdCNDVzSTliYWF0djJUcndhTzhoaDdRbHRSZWFSUHhzdWZMakRkNXRZU2hhemJQYXphcDFzUVpXOEczNFJfWUtWekxJNFB3T2ItLWRibTNPalFON2xVWHd5cXVqaHRYeC1FNkh2LTd4?oc=5",
-        "date": "2026-03-10",
-        "title": "New flood warnings issued for Cambridge and Six Nations with more rain in forecast - CBC",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxOek0xOXZqTzRMU01FSGJ2VUZXeEpiRnp0bkFtblR4ME5fVFh1ZmlYVDRJM09MV2lmQTZMX0JXc1lYa29hYVktTW1Id19qNEpUMkdCNDVzSTliYWF0djJUcndhTzhoaDdRbHRSZWFSUHhzdWZMakRkNXRZU2hhemJQYXphcDFzUVpXOEczNFJfWUtWekxJNFB3T2ItLWRibTNPalFON2xVWHd5cXVqaHRYeC1FNkh2LTd4?oc=5\" target=\"_blank\">New flood warnings issued for Cambridge and Six Nations with more rain in forecast</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CBC</font>",
-        "similarity_excluded": "No",
-        "score": 8,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQdzBjcHBNOEFRQjZqR2NMdUdDNml5Y0ZVMkR2UFp3aXp5b2Mwbi1xdVRSbXBIamhyREw1Z2czX2NGLTZ4SkhNQm5nY0t3bEhZTEI3bldyOXJDT2V1WXVGZEN6YVg4VDF5TGI2OTZkc2xndDR6dGhSVmF6cC04LW5jRWxZTzk2QUt2LXhjZk01NVhqcVI3d19ieHV0NFZ1SE1WTGJmNi1nMy1LOUF3U0o0R2ZtY0YwY0QzcTRnTnBOSmlIMUszdXRWWE5ydXhyblNaZ2lGazRON3NRWEU?oc=5",
-        "date": "2026-03-10",
-        "title": "Bluey\u2019s Big Play returning to Old National Events Plaza this August - wevv.com",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxQdzBjcHBNOEFRQjZqR2NMdUdDNml5Y0ZVMkR2UFp3aXp5b2Mwbi1xdVRSbXBIamhyREw1Z2czX2NGLTZ4SkhNQm5nY0t3bEhZTEI3bldyOXJDT2V1WXVGZEN6YVg4VDF5TGI2OTZkc2xndDR6dGhSVmF6cC04LW5jRWxZTzk2QUt2LXhjZk01NVhqcVI3d19ieHV0NFZ1SE1WTGJmNi1nMy1LOUF3U0o0R2ZtY0YwY0QzcTRnTnBOSmlIMUszdXRWWE5ydXhyblNaZ2lGazRON3NRWEU?oc=5\" target=\"_blank\">Bluey\u2019s Big Play returning to Old National Events Plaza this August</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">wevv.com</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNR3MyTXM3RE54T0ZZTzJ0Q0tlM2hxWjhENnlHd0Z2cU44WGh1Z2g0TjJjUG55cldVa19fUmhEb1RFUGE4SkxyWWtOOE1LLVhURlExd1RScFRPTmwzVnNteEdzS2l6YjJIbGVGTXZXamF0YWlFX2U5cHZTZVpSd1g1blFmTmxVTFY2QWVXZ2cwOGFQVXo0TGdYQVJMTjhoN04zQXdLR3lZTGJXc3lOTk9fdUVxand2RDl1LVdqSVhGNXktVC1sSDdkSkRRdGRyczBBTnUzVnJvTklpUWZLU3lVbw?oc=5",
-        "date": "2026-03-10",
-        "title": "Heavy rain triggers floods, landslides and wind damage across parts of Java, leaving 7 dead and 4 missing, Indonesia - The Watchers - Watching the world evolve and transform",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxNR3MyTXM3RE54T0ZZTzJ0Q0tlM2hxWjhENnlHd0Z2cU44WGh1Z2g0TjJjUG55cldVa19fUmhEb1RFUGE4SkxyWWtOOE1LLVhURlExd1RScFRPTmwzVnNteEdzS2l6YjJIbGVGTXZXamF0YWlFX2U5cHZTZVpSd1g1blFmTmxVTFY2QWVXZ2cwOGFQVXo0TGdYQVJMTjhoN04zQXdLR3lZTGJXc3lOTk9fdUVxand2RDl1LVdqSVhGNXktVC1sSDdkSkRRdGRyczBBTnUzVnJvTklpUWZLU3lVbw?oc=5\" target=\"_blank\">Heavy rain triggers floods, landslides and wind damage across parts of Java, leaving 7 dead and 4 missing, Indonesia</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Watchers - Watching the world evolve and transform</font>",
-        "similarity_excluded": "No",
-        "score": 9,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOeXFEbVhqT01HaHlwRXF2ak9oaGRmNnFhVHJnQ3Bqb1pEQXgyaVBJOGJxWW5RNFh6bkd6bWV6Wjlsd0h4T1l2Q3YxQ0thNE12eFZaR0EwT0Q0b21MeUhXWE9XVGRWOXRtb3Jrc0hud3RJNWhIY2RDc3JJYklBNWdOVmlGaXh6ejA?oc=5",
-        "date": "2026-03-10",
-        "title": "\u2018A proper sign\u2019 should be installed to warn of Camac overflow - Echo.ie",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxOeXFEbVhqT01HaHlwRXF2ak9oaGRmNnFhVHJnQ3Bqb1pEQXgyaVBJOGJxWW5RNFh6bkd6bWV6Wjlsd0h4T1l2Q3YxQ0thNE12eFZaR0EwT0Q0b21MeUhXWE9XVGRWOXRtb3Jrc0hud3RJNWhIY2RDc3JJYklBNWdOVmlGaXh6ejA?oc=5\" target=\"_blank\">\u2018A proper sign\u2019 should be installed to warn of Camac overflow</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Echo.ie</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1EZm1MRzhQanRpcVFaTW9hcGVINzJVdmcxVkNycGZDY2JkdmhSay1TMEZBNFlwNHBvUkJNVGoxTXYwRFdodERZcNIBqwFBVV95cUxOcC1HblR3WG9mZF91azV5c0hkTXVhZ3VKbnRVSWdseGpCT3NNQWx3LUhxcHlmQmdvay1ZRHA0TklWZUJiaTBXZVp2N2NZMTFmeTFsRE1uRWVaS3BHNkEwMFBKQVZjcVNLMFN3eDVNU3ZnUmRNeUw0a00yRWM4OEhRdG16N3dKcDNnYmkzVHlnRHlCNHp0U3NJNk44Z3VJU0M0YXF0Vllyay0yNVk?oc=5",
-        "date": "2026-03-10",
-        "title": "Islamabad Moves to Clear Encroachments Along Nullahs Before Monsoon - ProPakistani",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTE1EZm1MRzhQanRpcVFaTW9hcGVINzJVdmcxVkNycGZDY2JkdmhSay1TMEZBNFlwNHBvUkJNVGoxTXYwRFdodERZcNIBqwFBVV95cUxOcC1HblR3WG9mZF91azV5c0hkTXVhZ3VKbnRVSWdseGpCT3NNQWx3LUhxcHlmQmdvay1ZRHA0TklWZUJiaTBXZVp2N2NZMTFmeTFsRE1uRWVaS3BHNkEwMFBKQVZjcVNLMFN3eDVNU3ZnUmRNeUw0a00yRWM4OEhRdG16N3dKcDNnYmkzVHlnRHlCNHp0U3NJNk44Z3VJU0M0YXF0Vllyay0yNVk?oc=5\" target=\"_blank\">Islamabad Moves to Clear Encroachments Along Nullahs Before Monsoon</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ProPakistani</font>",
-        "similarity_excluded": "No",
-        "score": 8,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOSnFLcmZQdjN3SW1oUF9DV3YzcmI4MUdVZ3BqVlpKVkhld3VDRFBpWEJtQjhNM011TWtJMWtTQnB0YTBXY0FnX3NvN0xzaXo3UFU2NTdfTWM0RDJDZ1ItMkR5b1pfbTI4a1Y3dTN6ODFwUU1oRUFxOEk3RG9oTWJJUWRoYnV5cUk2d2hTWjI3a0c2eXRNZnZJc3NJdXNqN0pjVVHSAbYBQVVfeXFMT1hpU3lFTS1sMnFFT3JBWE1zVTNkRzVOU21VYy1OTG9UeG9BX1ZHVDFWSFdIWHF1SlRIbHN1Umo1Z3FnOF9YcUFXOXVBNWNIU0Y2ekFVbVJrWkFFeUVIOG9sZU8wZ0VCbm5oWG5QMHBENlZ5Q0RsSFNLNGNWa01jVTRXMmhheWV5dFowRU8zMHMtWVEzVjNnZmJkM2gwZ1A5WUNnRk1COTRkRkFNanJKZjNuSElCNlE?oc=5",
-        "date": "2026-03-10",
-        "title": "Flash Flood Warning: Ice Jam Threatens Northern New York Communities - WCAX",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxOSnFLcmZQdjN3SW1oUF9DV3YzcmI4MUdVZ3BqVlpKVkhld3VDRFBpWEJtQjhNM011TWtJMWtTQnB0YTBXY0FnX3NvN0xzaXo3UFU2NTdfTWM0RDJDZ1ItMkR5b1pfbTI4a1Y3dTN6ODFwUU1oRUFxOEk3RG9oTWJJUWRoYnV5cUk2d2hTWjI3a0c2eXRNZnZJc3NJdXNqN0pjVVHSAbYBQVVfeXFMT1hpU3lFTS1sMnFFT3JBWE1zVTNkRzVOU21VYy1OTG9UeG9BX1ZHVDFWSFdIWHF1SlRIbHN1Umo1Z3FnOF9YcUFXOXVBNWNIU0Y2ekFVbVJrWkFFeUVIOG9sZU8wZ0VCbm5oWG5QMHBENlZ5Q0RsSFNLNGNWa01jVTRXMmhheWV5dFowRU8zMHMtWVEzVjNnZmJkM2gwZ1A5WUNnRk1COTRkRkFNanJKZjNuSElCNlE?oc=5\" target=\"_blank\">Flash Flood Warning: Ice Jam Threatens Northern New York Communities</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WCAX</font>",
-        "similarity_excluded": "No",
-        "score": 9,
-        "status": "posted",
-        "tweet": "\ud83c\uddfa\ud83c\uddf8 FORECAST Northern New York: Flash flood warning issued for ice jam threatening communities. (WCAX)",
-        "type": "news",
-        "tweet_id": "2031400320417296711",
-        "geo": {
-            "country": "United States",
-            "name": "Northern New York",
-            "latitude": 44.0,
-            "longitude": -75.0,
-            "confidence": 0.9
-        }
-    },
-    {
         "link": null,
         "date": "2026-03-11",
         "status": "posted",
@@ -14754,6 +14153,106 @@
         "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQOGlrQTVYVlV3RHA1dS03bWZmLWJ1aUFpeWtoU3VRajRUVVMtdWhfbGxxYlF1X3hYVk5sQmFHc0tvaG1OR29CQnZSYjh3dFMwbE9JYkVrb2dUdHBjWFRLSVp1SWM2UXNib1ZpVkY1eW81UVFIMVM1VFNPb19ZMmxTZ2FxYkhsNFNaVVBUS2hqakt6Z1ppeDd2b3JudUV1N25kUU5ZZGdGS2FUajBD0gGyAUFVX3lxTE5rVG52Zi1ELXNVVlpHaEpNMUxDMmhkTzlVQjVZcDllRG16RlNFNlF3THg4bW5uTl9ldEpQNy04d3dBSVc1WnJ3eHpQSVk2QWNpZ1JnUXV5ZGxibkt0OXJDaHRCdUR3YlhaUm1ab05GNWZxbWtJdnljYTFCOTdtd05WNGVtTGd5NnFsZ25LYjZDams5aUxGUWVyalp5OVo0NFdsaHJnSy1IbDlzaXJqc3h2Z2c?oc=5\" target=\"_blank\">Murree Residents Warn of Landslide Risk at Jhika Gali Remodeling Project</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ProPakistani</font>",
         "similarity_excluded": "No",
         "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOeUo3OWRWZzFHVURqY1lKZDJnbFRrTm1XdGl6VUpfWGlBMzBQeEp2dzNKMDlaSUtwS1AxTmdlS0ZScV9BNTlETXM1UUdOU2g2LXVWblNYRzVTeGxkSlZ6TElvSEtTd3NQcWRkQ2tCcXFrLThlMXgyQWItOF9ERWx1eGxKMjlQYV9sTlF0WE80SEFhM2hkZW45Z2M4RjQ4ZkE?oc=5",
+        "date": "2026-04-09",
+        "title": "Flash flood warning canceled for Big Island, state under flood watch - Honolulu Star-Advertiser",
+        "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxOeUo3OWRWZzFHVURqY1lKZDJnbFRrTm1XdGl6VUpfWGlBMzBQeEp2dzNKMDlaSUtwS1AxTmdlS0ZScV9BNTlETXM1UUdOU2g2LXVWblNYRzVTeGxkSlZ6TElvSEtTd3NQcWRkQ2tCcXFrLThlMXgyQWItOF9ERWx1eGxKMjlQYV9sTlF0WE80SEFhM2hkZW45Z2M4RjQ4ZkE?oc=5\" target=\"_blank\">Flash flood warning canceled for Big Island, state under flood watch</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Honolulu Star-Advertiser</font></li><li><a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNUTcxSmNJSmNzN2lSRkpHVDRNS0ZVTF9DcVRNYW1zQ1JacEduRGl2cnRwQ2RkUmRaWVcwQWthOUV6YmZ6NEFqR1JpeHpudE5tS2k5YUd1WU1SeEJUTk15YXlFUDhKQlpZcFBrYVVkNVRTNGVPQ3p0YVR4Z096Qllkd0VlRlFIYkRGWWdzeGdpNXF3cHd0MUo2b2cyUDJQck9ERTRHTDNSbG1DMzVPSTh0RQ?oc=5\" target=\"_blank\">Flash flood warning issued for east Maui as storm hits state</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Honolulu Star-Advertiser</font></li><li><a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQMmdGYmJ1aDRSTElobmRvMXdjbm1vVEEzUGJTYUR0Z0lVSUUxRG51RFl6ckJsb19jZVdvVG8tSnhhTnMySWJGUVlTc3hRUUdnT2Jjc3NzdFJrdklGUjZXdklSUVNXNnFGOHJ6MWVJX1otN1k0LVgwSFR6eHJCZThoZE1hOHllYjR5RDZuOENaSUNNUVk1bTkwQnZvXzZvOFZONFBweWNHa9IBrAFBVV95cUxQNUlqbzAxcFZ3eWlMMld6SVFnQkhEdmtIZzBDQng4Ui1QSnRRNWQ5NGtNdFN5MnMzVlNwNzhmMEFpTXAxbzJvRmdyanI5aVJkaHJHN0psMHB0dmVneWltaFp1VFdkbXJfSkhTWXA2dVptT05xeF9DZEdxdVN1NmFkcXB6Y0dxSThkWmVDT1QzcmZJb1BqdVhYX05qbVMyeU5OUGE4U3lJcFVYeEJw?oc=5\" target=\"_blank\">UPDATE: Flash flood warning for Hawaii Island canceled</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Hawaii Tribune-Herald</font></li><li><a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQcEpYSjlOM0VBNjU3R1dpUkhWOHRVWkhzQ0xFN1pnVE1KMFJBUGt4VVcwVi1OYlZhdjMyLTVleUxqNTZ6OG9QVnJ1cXN0c0hfanVJaWFTOVRXeGFFT3pzUjlINTlNdWVLU0Z1OWJmVnBjaElUSDh6cEFYemhqVjNqaFFvZG5nSDJXVV93THllc0lsM1pjclNVV2VBRlBxM1MzOUt1Wi1QWlhYY29HSVlObzRtbHlnVnY5QzhlRExENmhQaXFX0gHKAUFVX3lxTE9uRVhsajhPNzlUYjU2M0RJYVVJdmcySkc0d012SXRHQ3FqZW9KeTZFa3dQTnhCVHg5QllKell4b056Y0dsXzFpcWU0Q0FNeWE5V29lTWxiV0dFTm5aTXc5ZDdEZkc4c3hrd3NXTEozcDJWUF9fc0psemxDWW02Z3RnWDlRQTYyWTdudVh0WEZHYldaMXlsd0N6RXFtdGdUWW9JWnZnbVEtUHF0M1FJWmFtSXdUazJrRGxORWhobHUtMEh5Vnh6TGRGQlE?oc=5\" target=\"_blank\">Hawaii braces for flash flooding as third Kona Low in a month begins to soak islands in torrential rains</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FOX Weather</font></li><li><a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxOWDZTTXpuckZaaEY0em00aXNRdzdVRmo1RGplLS1ZVzNxSTRjZXVHRy1lU3J0Z3ljSGttZHFDT3pBZGN1X3JBRFJQTGpvYmxXZXliZ2xSNjRjT3Q4c0FZU19URFpHQVNxbUV2SGtTS2xRNnpwMV95X2JYbk1FRDZOTGFJY1UxNE9KVjhmVlBsWGdCdlJqVjFsX1dmVi1aT1hrVGlqMS1sVQ?oc=5\" target=\"_blank\">Wednesday weather updates: Flash flood warning for Hawai\u2018i Island canceled, watch remains</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Big Island Now</font></li><li><a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQc0FMMDZzYlROOC1yWExYX2o4akRsZ3BQZ1Z5MWdyQ3B2UHlwcU04YldiR04tbGpCbUpzT3h6QWJiS0xhUWQwZ1lqMTVzLTdVMGV5Y0xCRUozbTh2Rml2Ti1PNmZwSEFsbUVfSUNhOUtjQjdHOFhGaXNoMkNiS1lMOU5NMUZtWHlkcTNjbUJyMTlFaFB2RXFUX1JscWtvOEd0eTR4RlRCYw?oc=5\" target=\"_blank\">Heavy rain and flooding potential expected late Tuesday into the weekend</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Maui Now</font></li><li><a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxPTGMwcUpSdDY2UTdPZmZjUjdWcENxQTBEVktrVUh4Z1pRNkRpVWlKR096REVhLTVIbnUwVHpyVHdrMXlfVmUtbm5oNDl0TVNDZFlLQjA0WFUyaS01d3BOWHBQS3Ixc2RNb0tqT2x6dHlpd1M0LTJFUGdZM05fV19ySFBRbk9kQks5eWNqak9HNy1yaXFOSDVFWXlEOV9aUGFtZjFHQ3pHb09FSS1sdnlHM0FLdmYxRmFXU1RWSFFSQQ?oc=5\" target=\"_blank\">Flash Flood Warning, High Surf Advisory Added To Hawai\u02bbi Weather Alerts</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Big Island Video News</font></li><li><a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMzkxS2htZHFhOEQzQm5NZDk0TmViN0Jhci1iR0dMeVl4TG5lczZuV2ctZmNseU1RWUxjS2ZSNGVMTVFDN3RhWHlDUDgtcWNFVkxVYTdjUVlYZDdTd1JPbXNfcmIxZ1NRRkc3SExTaWtYZWZ6UXhxT3U4UUplbVRsVlU5N0dGRnJKNi1JdC1pNC1NZmlySVVpaGdVQ2theUc5VWpOeHZGNVpadw?oc=5\" target=\"_blank\">Flash flooding possible on Kaua\u02bbi as heavy rain moves in midweek</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Kauai Now</font></li><li><a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQS1pWZFhzTHpBM2xQajI1UWV0b2VQZ3lfVHBxemN6Q1Y2REtaYm5wMlNnMWxFemM4V25YVFh4V2FUQ3ZRMVlndG5wR3p0MERMam55ZGlsbGE4TnNHaTI3elFwdnB5M0pwUWYyd2FEMGQ5OGJld3BxeERGc2F0Yy1kdU40WjJkRHFjUEVGYVBR?oc=5\" target=\"_blank\">Incoming storm could bring another round of floods to Hawai\u02bbi</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo</font></li></ol>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOV0wtbFA3LVdTZjV3dmYxb2lVOUxyQVByYkhvSGl0MkwxNzN1dlhqS2xwVU9pODdvZUVRNElwZ3hjLXlrbWtiRF96dFhiVk5Yc2E4dWpwYWh4cVVZd3ZiSUZRTi1wcHd1ZEd2dFl3UFNtaHJLZWtmWVg0YkR0ZDdNZnVpRHBPMFY4ZTZONDBJdl9wSTVEUzdmVkR4ZnY1bEd3cmhZM0NqSWViTnhjb1lHbF9fdllTekNPbDVXVTktQjR2R0ozWlRGSnlOVWE0NEppR1IyazhvYlVhS2lq?oc=5",
+        "date": "2026-04-09",
+        "title": "Lansing-area floodwater recede, but more rain on way. What to know - Lansing State Journal",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxOV0wtbFA3LVdTZjV3dmYxb2lVOUxyQVByYkhvSGl0MkwxNzN1dlhqS2xwVU9pODdvZUVRNElwZ3hjLXlrbWtiRF96dFhiVk5Yc2E4dWpwYWh4cVVZd3ZiSUZRTi1wcHd1ZEd2dFl3UFNtaHJLZWtmWVg0YkR0ZDdNZnVpRHBPMFY4ZTZONDBJdl9wSTVEUzdmVkR4ZnY1bEd3cmhZM0NqSWViTnhjb1lHbF9fdllTekNPbDVXVTktQjR2R0ozWlRGSnlOVWE0NEppR1IyazhvYlVhS2lq?oc=5\" target=\"_blank\">Lansing-area floodwater recede, but more rain on way. What to know</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Lansing State Journal</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ZdUxIVGlmd3VPMFhsNXR2VlB3Q2tVcnhTWUd6N2Q3RmpURXI3M09xYXpRRllpMzJmU3FYLVoybnhTWWJiQUYxaURFM2tZYkxwQmlGWnhTdkd3QVhkNE1FcUtkdkk1Ri11TUptRTlROGJiMVlVQ2hDMHpSNzNMZknSAZMBQVVfeXFMTlM3blhkZ2hOWEpKQlNtdzgzYWZCNUl4bldmQU15aU5uaV9yQXcwSm5meWJNS2cwMlZBUzNlZTVLM2MxVUFQcjhWQVNtbGJhWWZNLVhyQTFBcHVWWENGNjM2UjFTbTlZcWVnZ0VnelIyUjc3OWtuVmI0R18tZ2tFWHdpdUE1dEhBXzRIekVrWS1JcVVN?oc=5",
+        "date": "2026-04-09",
+        "title": "A new way to track flood and drought risk in Missouri - WGEM",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE9ZdUxIVGlmd3VPMFhsNXR2VlB3Q2tVcnhTWUd6N2Q3RmpURXI3M09xYXpRRllpMzJmU3FYLVoybnhTWWJiQUYxaURFM2tZYkxwQmlGWnhTdkd3QVhkNE1FcUtkdkk1Ri11TUptRTlROGJiMVlVQ2hDMHpSNzNMZknSAZMBQVVfeXFMTlM3blhkZ2hOWEpKQlNtdzgzYWZCNUl4bldmQU15aU5uaV9yQXcwSm5meWJNS2cwMlZBUzNlZTVLM2MxVUFQcjhWQVNtbGJhWWZNLVhyQTFBcHVWWENGNjM2UjFTbTlZcWVnZ0VnelIyUjc3OWtuVmI0R18tZ2tFWHdpdUE1dEhBXzRIekVrWS1JcVVN?oc=5\" target=\"_blank\">A new way to track flood and drought risk in Missouri</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WGEM</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQbkxTTWlkbkJlLUlpOURmc3VpVVJOcGs5OWlWSFpOdVlYT3V6QXdUZUNHSW0tNklrMGJwSGZhVkR0T1ZhbmRHbDRrRWtqX1dOSXktNHdVLWQ5VzdNSndUTUZoQ1JxZk1sUHNhY1Rab2gzWE4tNThhUUFPY24xX3FnX09PVWU?oc=5",
+        "date": "2026-04-09",
+        "title": "Hawaii braces for flash flooding as third Kona Low in a month begins to soak islands in torrential rains - AOL.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxQbkxTTWlkbkJlLUlpOURmc3VpVVJOcGs5OWlWSFpOdVlYT3V6QXdUZUNHSW0tNklrMGJwSGZhVkR0T1ZhbmRHbDRrRWtqX1dOSXktNHdVLWQ5VzdNSndUTUZoQ1JxZk1sUHNhY1Rab2gzWE4tNThhUUFPY24xX3FnX09PVWU?oc=5\" target=\"_blank\">Hawaii braces for flash flooding as third Kona Low in a month begins to soak islands in torrential rains</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AOL.com</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPeEQ5cGRncFVRRV9pTmhDSkpmRjlfWGd4VUd1bGw3aGMzUW45ZnBQRkVIbHh3VWlFUERGY0N4YjY4OXYzdFBLWnBfaktVbFZ2NV96WHNnR2kxQTJPOVdod0tCU2NsZHNfQ2VUM21yMGNka0hGb0JQbGZMV3hRckRramRpdUlrRWktSktiaHRpWU9MbWFrd0k5aXdPYlZDbERYSmtTcEFJY2YtUlh6TWNFWjVneDVORkh6VEM3cEp2M1hGUQ?oc=5",
+        "date": "2026-04-09",
+        "title": "Warmer weather is here, but will it stick around? - WTHI-TV",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxPeEQ5cGRncFVRRV9pTmhDSkpmRjlfWGd4VUd1bGw3aGMzUW45ZnBQRkVIbHh3VWlFUERGY0N4YjY4OXYzdFBLWnBfaktVbFZ2NV96WHNnR2kxQTJPOVdod0tCU2NsZHNfQ2VUM21yMGNka0hGb0JQbGZMV3hRckRramRpdUlrRWktSktiaHRpWU9MbWFrd0k5aXdPYlZDbERYSmtTcEFJY2YtUlh6TWNFWjVneDVORkh6VEM3cEp2M1hGUQ?oc=5\" target=\"_blank\">Warmer weather is here, but will it stick around?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WTHI-TV</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNRnVNQ09ZR0JrUHZXTVpYcmxFcDdiXzE5UThTOGtpbW5iUTBJeFlLR3dOVDliWnVtc1c3Qm8zT1p1ajdIS3NLWkJVWi1IUndDNEVZemNJaWw4czRkTmZzYm80eGFlNEZ2WllKMExLMHVGaENYUEZuRlJjeFhLUVpWYkx4UW00MkNocktFLTBtaGFueUx6clNRbXJhLXFLRXljU0syMzhJVkpsRFRJcUxjTVZEc2M1YTE1NXZGWk5QbHV5VHJyQVZfcnp3QQ?oc=5",
+        "date": "2026-04-09",
+        "title": "Terre Haute hosting citywide clean-up Saturday morning - WTHI-TV",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxNRnVNQ09ZR0JrUHZXTVpYcmxFcDdiXzE5UThTOGtpbW5iUTBJeFlLR3dOVDliWnVtc1c3Qm8zT1p1ajdIS3NLWkJVWi1IUndDNEVZemNJaWw4czRkTmZzYm80eGFlNEZ2WllKMExLMHVGaENYUEZuRlJjeFhLUVpWYkx4UW00MkNocktFLTBtaGFueUx6clNRbXJhLXFLRXljU0syMzhJVkpsRFRJcUxjTVZEc2M1YTE1NXZGWk5QbHV5VHJyQVZfcnp3QQ?oc=5\" target=\"_blank\">Terre Haute hosting citywide clean-up Saturday morning</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WTHI-TV</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOdzdJSmt6RW9CTkItOERnWC10X2w0bkJOTnVzVHdyb3ZDalI1MmdEelpQa0FydmVUVVNpamo4dUhTMWxDd0ItVXNka0lUTzVyS2JZaFFXTHVKM3pVWUtZVEItNEZZcHNlQjlaY3J6REhueVUyXzRrS24wSmpla3huc1NreU5SbTZQdnJfenZPWWZNSXg5QzF1VzhYSW5Jb2tpb1FTeEFjZUdmZ0VOMjlicWN1dzZyckVVSk4xUVZ0ZnEydjNINm1jZnhHQ1lCelg1ZUZqODVkQQ?oc=5",
+        "date": "2026-04-09",
+        "title": "Union Health honors nurses at annual excellence awards ceremony - WTHI-TV",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxOdzdJSmt6RW9CTkItOERnWC10X2w0bkJOTnVzVHdyb3ZDalI1MmdEelpQa0FydmVUVVNpamo4dUhTMWxDd0ItVXNka0lUTzVyS2JZaFFXTHVKM3pVWUtZVEItNEZZcHNlQjlaY3J6REhueVUyXzRrS24wSmpla3huc1NreU5SbTZQdnJfenZPWWZNSXg5QzF1VzhYSW5Jb2tpb1FTeEFjZUdmZ0VOMjlicWN1dzZyckVVSk4xUVZ0ZnEydjNINm1jZnhHQ1lCelg1ZUZqODVkQQ?oc=5\" target=\"_blank\">Union Health honors nurses at annual excellence awards ceremony</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WTHI-TV</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQbEpza0g1UmNKcVlyVFp2X29xbkZxMUxLbElGWTdzTXFqUVpMRFBiMTl5RlAydUpFS2dWS0lLMDFEM0luRnhpak9oWmRTZ2xhTmthTmJSVnlvZEVOXzRIc21kVVB0SWtwQTRGZUt6Q21NMFBWS0ZaWGdmRXVQeUZkYUtkSDVLaDBNY25VMXdud2lqcE5Fam8tcVpMZW8zMzkwdWQtcy1zc3lsZkNBektqYy1JZzNsOVVRUEIyaUxhVDFXYzd4ZmNISm95RjVKc2xK?oc=5",
+        "date": "2026-04-09",
+        "title": "New Vincennes restaurant combines dining, games, and drinks - WTHI-TV",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxQbEpza0g1UmNKcVlyVFp2X29xbkZxMUxLbElGWTdzTXFqUVpMRFBiMTl5RlAydUpFS2dWS0lLMDFEM0luRnhpak9oWmRTZ2xhTmthTmJSVnlvZEVOXzRIc21kVVB0SWtwQTRGZUt6Q21NMFBWS0ZaWGdmRXVQeUZkYUtkSDVLaDBNY25VMXdud2lqcE5Fam8tcVpMZW8zMzkwdWQtcy1zc3lsZkNBektqYy1JZzNsOVVRUEIyaUxhVDFXYzd4ZmNISm95RjVKc2xK?oc=5\" target=\"_blank\">New Vincennes restaurant combines dining, games, and drinks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WTHI-TV</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNbTZqd0xScDR1V3VXSHJYVXo3VFZjNnJ4TlBBa0xuOTZmQWUxRERSUWFLN2M2R2s0N1NGbDUtREw0aDhfbTZCUHR1bHlsbGwtekViV2hyNFRPcWlGYXczRzNUX19MdFJPdzlfeHBmbmR3OWRDSkJlSzZQd2hQN0h4dUJZbWdWeDAtX25SYVB0UkU3Y2xDZHduRFJ4MVp5Zl9ONE5tSnN2N1dhWW0tazJ1Nmx3U0ZuUFE4UVdHV25VX1A?oc=5",
+        "date": "2026-04-09",
+        "title": "Warmer Weather Returns, Rain Looming - WLFI News 18",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNbTZqd0xScDR1V3VXSHJYVXo3VFZjNnJ4TlBBa0xuOTZmQWUxRERSUWFLN2M2R2s0N1NGbDUtREw0aDhfbTZCUHR1bHlsbGwtekViV2hyNFRPcWlGYXczRzNUX19MdFJPdzlfeHBmbmR3OWRDSkJlSzZQd2hQN0h4dUJZbWdWeDAtX25SYVB0UkU3Y2xDZHduRFJ4MVp5Zl9ONE5tSnN2N1dhWW0tazJ1Nmx3U0ZuUFE4UVdHV25VX1A?oc=5\" target=\"_blank\">Warmer Weather Returns, Rain Looming</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WLFI News 18</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQSUdOUXdKaFhSdGxydUlOb3o3UENUaGJxLVpzbURlRFpWaTJmU29RZFVOai1ZaFFWNnl0MVZBMGEyTnhoVE5YbWNpb08wLUNfQjhRdWF2UXd0N0NWZFpQOHJaTldDNXI1dUh2ckdrVF9teFV6NXJNR2FrXzRRUTV5Q25n?oc=5",
+        "date": "2026-04-09",
+        "title": "Keeping roads and train lines open during India\u2019s monsoon floods - Northeastern Global News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxQSUdOUXdKaFhSdGxydUlOb3o3UENUaGJxLVpzbURlRFpWaTJmU29RZFVOai1ZaFFWNnl0MVZBMGEyTnhoVE5YbWNpb08wLUNfQjhRdWF2UXd0N0NWZFpQOHJaTldDNXI1dUh2ckdrVF9teFV6NXJNR2FrXzRRUTV5Q25n?oc=5\" target=\"_blank\">Keeping roads and train lines open during India\u2019s monsoon floods</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Northeastern Global News</font>",
+        "similarity_excluded": "No",
+        "score": 8,
         "status": "processed",
         "tweet": null
     }
