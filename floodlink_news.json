@@ -14542,5 +14542,14 @@
         "score": 8,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-04-09",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 US East Coast vs \ud83c\uddfa\ud83c\uddf8 Gulf Coast: In 2020, 11M people exposed to 1-in-100yr storm surge; by 2030 projections, East Coast risks rise to 15M (36% increase), Gulf to 18M (45% higher) due to sea-level rise.",
+        "type": "statistical",
+        "category": "coastal cities at risk from sea-level rise and storm surge",
+        "tweet_id": "2042330208318210410"
     }
 ]
