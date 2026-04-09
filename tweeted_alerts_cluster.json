@@ -12718,7 +12718,7 @@
     "rain_mm": 64.62,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 12.36,
-    "last_updated": "2026-04-09T05:14:56.751515Z",
+    "last_updated": "2026-04-09T07:20:51.766392Z",
     "last_tweeted_at": "2026-04-09T05:14:56.751515Z",
     "tweet_id": "2042109263242207335",
     "resolved": false
@@ -14518,7 +14518,7 @@
     "rain_mm": 50.38,
     "soil_moisture": 0.609,
     "raw_dynamic_score": 7.855,
-    "last_updated": "2026-04-09T05:14:56.751515Z",
+    "last_updated": "2026-04-09T07:20:51.766392Z",
     "last_tweeted_at": "2026-04-03T15:41:39.665893Z",
     "tweet_id": "2040092403021799722",
     "resolved": false
@@ -16240,10 +16240,14 @@
     "rain_mm": 69.5,
     "soil_moisture": 0.72,
     "raw_dynamic_score": 11.534,
-    "last_updated": "2026-04-09T05:14:56.751515Z",
+    "last_updated": "2026-04-09T07:20:51.766392Z",
     "last_tweeted_at": "2026-04-09T05:14:56.751515Z",
     "tweet_id": "2042109263242207335",
-    "resolved": false
+    "resolved": false,
+    "pending_downgrade": true,
+    "pending_target_level": "Medium",
+    "pending_set_at": "2026-04-09T07:20:51.766392Z",
+    "pending_is_region": true
   },
   "34.9763,128.3236": {
     "country": "Republic of Korea",
@@ -16255,7 +16259,7 @@
     "rain_mm": 78.88,
     "soil_moisture": 0.693,
     "raw_dynamic_score": 12.894,
-    "last_updated": "2026-04-09T05:14:56.751515Z",
+    "last_updated": "2026-04-09T07:20:51.766392Z",
     "last_tweeted_at": "2026-04-09T05:14:56.751515Z",
     "tweet_id": "2042109263242207335",
     "resolved": false
@@ -16270,7 +16274,7 @@
     "rain_mm": 69.5,
     "soil_moisture": 0.72,
     "raw_dynamic_score": 11.534,
-    "last_updated": "2026-04-09T05:14:56.751515Z",
+    "last_updated": "2026-04-09T07:20:51.766392Z",
     "last_tweeted_at": "2026-04-09T05:14:56.751515Z",
     "tweet_id": "2042109263242207335",
     "resolved": false
@@ -16285,7 +16289,7 @@
     "rain_mm": 45.94,
     "soil_moisture": 0.664,
     "raw_dynamic_score": 7.392,
-    "last_updated": "2026-04-09T05:14:56.751515Z",
+    "last_updated": "2026-04-09T07:20:51.766392Z",
     "last_tweeted_at": "2026-04-09T05:14:56.751515Z",
     "tweet_id": "2042109263242207335",
     "resolved": false
@@ -16300,7 +16304,7 @@
     "rain_mm": 71.0,
     "soil_moisture": 0.728,
     "raw_dynamic_score": 11.837,
-    "last_updated": "2026-04-09T05:14:56.751515Z",
+    "last_updated": "2026-04-09T07:20:51.766392Z",
     "last_tweeted_at": "2026-04-09T05:14:56.751515Z",
     "tweet_id": "2042109263242207335",
     "resolved": false
@@ -16315,7 +16319,7 @@
     "rain_mm": 64.31,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 12.3,
-    "last_updated": "2026-04-09T05:14:56.751515Z",
+    "last_updated": "2026-04-09T07:20:51.766392Z",
     "last_tweeted_at": "2026-04-09T05:14:56.751515Z",
     "tweet_id": "2042109263242207335",
     "resolved": false
@@ -16330,7 +16334,7 @@
     "rain_mm": 61.0,
     "soil_moisture": 0.672,
     "raw_dynamic_score": 9.859,
-    "last_updated": "2026-04-09T05:14:56.751515Z",
+    "last_updated": "2026-04-09T07:20:51.766392Z",
     "last_tweeted_at": "2026-04-09T05:14:56.751515Z",
     "tweet_id": "2042109263242207335",
     "resolved": false
@@ -16345,9 +16349,54 @@
     "rain_mm": 67.12,
     "soil_moisture": 0.699,
     "raw_dynamic_score": 11.011,
-    "last_updated": "2026-04-09T05:14:56.751515Z",
+    "last_updated": "2026-04-09T07:20:51.766392Z",
     "last_tweeted_at": "2026-04-09T05:14:56.751515Z",
     "tweet_id": "2042109263242207335",
+    "resolved": false
+  },
+  "29.8988,116.5457": {
+    "country": "China",
+    "name": "Pengze",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 29.89885,
+    "longitude": 116.54572,
+    "rain_mm": 37.75,
+    "soil_moisture": 1.0,
+    "raw_dynamic_score": 7.22,
+    "last_updated": "2026-04-09T07:20:51.766392Z",
+    "last_tweeted_at": "2026-04-09T07:20:51.766392Z",
+    "tweet_id": "2042140711848702177",
+    "resolved": false
+  },
+  "-7.3589,109.9031": {
+    "country": "Indonesia",
+    "name": "Wonosobo",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": -7.35889,
+    "longitude": 109.90306,
+    "rain_mm": 61.06,
+    "soil_moisture": 0.693,
+    "raw_dynamic_score": 9.985,
+    "last_updated": "2026-04-09T07:20:51.766392Z",
+    "last_tweeted_at": "2026-04-09T07:20:51.766392Z",
+    "tweet_id": "2042140964266111037",
+    "resolved": false
+  },
+  "5.7000,101.8333": {
+    "country": "Malaysia",
+    "name": "Kampung Jeli",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 5.7,
+    "longitude": 101.83333,
+    "rain_mm": 72.69,
+    "soil_moisture": 0.663,
+    "raw_dynamic_score": 11.688,
+    "last_updated": "2026-04-09T07:20:51.766392Z",
+    "last_tweeted_at": "2026-04-09T07:20:51.766392Z",
+    "tweet_id": "2042141216641577298",
     "resolved": false
   }
 }
