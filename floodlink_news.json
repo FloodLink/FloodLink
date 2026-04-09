@@ -14315,5 +14315,25 @@
         "score": 0,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQdGplakZfQ05mS1A0WUVvUjc1WlhvNng4N0VESm1FUGtqRkV6alg1anpkUE9JZnZYMGpwdy1sTlZVY09ZSUh6VUVzTmtwT0xuYXhtYlk5Z2hVckF6bG12TzBvWjlURThkOVg3OUNYM3Bfd09LcnJHbm5qUkpSS3NvY2N1X2dFc0RfdkM3SzdTQTUwekJRdDRZcndETU9yVVh2cHJIdmtyVjFNNEZCMWtuOHlNYldzMDdjV3c2UktMbVBDX2RGelNQczR1LTlCUFhnaXZybXhMbGo?oc=5",
+        "date": "2026-04-09",
+        "title": "Union Health honors nurses at annual excellence awards ceremony - WTHI-TV",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxQdGplakZfQ05mS1A0WUVvUjc1WlhvNng4N0VESm1FUGtqRkV6alg1anpkUE9JZnZYMGpwdy1sTlZVY09ZSUh6VUVzTmtwT0xuYXhtYlk5Z2hVckF6bG12TzBvWjlURThkOVg3OUNYM3Bfd09LcnJHbm5qUkpSS3NvY2N1X2dFc0RfdkM3SzdTQTUwekJRdDRZcndETU9yVVh2cHJIdmtyVjFNNEZCMWtuOHlNYldzMDdjV3c2UktMbVBDX2RGelNQczR1LTlCUFhnaXZybXhMbGo?oc=5\" target=\"_blank\">Union Health honors nurses at annual excellence awards ceremony</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WTHI-TV</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZkpBbEZ1aTJycDRGbnNTdl9PN2xNclFkMmRwN1paT25oRUhmUlY4OEswRnlkOENBMTNkZkJqdGV2eVlUX1gxaHpFZjNUTk5WQ2dzczdNemFlcXNURFFRYlJhMy1UODFhZ1pfNGREY25uZF94TlYwTEtVeHVNTGNNZHhiV2lIMnFWOFkyLWdhZHpxN2I3TWMzWmloVS0zalU3a0tV?oc=5",
+        "date": "2026-04-09",
+        "title": "Record-setting Tropical Cyclone Maila heads for flood-weary Australian region - SBS Australia",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPZkpBbEZ1aTJycDRGbnNTdl9PN2xNclFkMmRwN1paT25oRUhmUlY4OEswRnlkOENBMTNkZkJqdGV2eVlUX1gxaHpFZjNUTk5WQ2dzczdNemFlcXNURFFRYlJhMy1UODFhZ1pfNGREY25uZF94TlYwTEtVeHVNTGNNZHhiV2lIMnFWOFkyLWdhZHpxN2I3TWMzWmloVS0zalU3a0tV?oc=5\" target=\"_blank\">Record-setting Tropical Cyclone Maila heads for flood-weary Australian region</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SBS Australia</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
     }
 ]
