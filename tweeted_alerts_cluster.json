@@ -15765,22 +15765,6 @@
     "tweet_id": "2041777395242561812",
     "resolved": false
   },
-  "-7.9145,39.6620": {
-    "country": "United Republic of Tanzania",
-    "name": "Kilindoni",
-    "risk_level": "Low",
-    "tweeted_level": "Low",
-    "latitude": -7.91446,
-    "longitude": 39.66204,
-    "rain_mm": 1.31,
-    "soil_moisture": 1.0,
-    "raw_dynamic_score": 0.251,
-    "last_updated": "2026-04-09T10:13:45.027258Z",
-    "last_tweeted_at": "2026-04-09T10:13:45.027258Z",
-    "tweet_id": "2042185472706015627",
-    "resolved": true,
-    "resolved_at": "2026-04-09T10:13:45.027258Z"
-  },
   "-8.0657,111.9025": {
     "country": "Indonesia",
     "name": "Tulungagung",
@@ -17144,7 +17128,7 @@
     "rain_mm": 40.56,
     "soil_moisture": 0.682,
     "raw_dynamic_score": 6.594,
-    "last_updated": "2026-04-10T07:24:58.206027Z",
+    "last_updated": "2026-04-10T13:00:35.899982Z",
     "last_tweeted_at": "2026-04-10T07:24:58.206027Z",
     "tweet_id": "2042504138085286368",
     "resolved": false
@@ -17192,6 +17176,21 @@
     "last_updated": "2026-04-10T10:10:16.609740Z",
     "last_tweeted_at": "2026-04-10T07:24:58.206027Z",
     "tweet_id": "2042504643037557221",
+    "resolved": false
+  },
+  "1.8639,9.7658": {
+    "country": "Equatorial Guinea",
+    "name": "Bata",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 1.86391,
+    "longitude": 9.76582,
+    "rain_mm": 48.69,
+    "soil_moisture": 0.558,
+    "raw_dynamic_score": 7.367,
+    "last_updated": "2026-04-10T13:00:35.899982Z",
+    "last_tweeted_at": "2026-04-10T13:00:35.899982Z",
+    "tweet_id": "2042588598243840481",
     "resolved": false
   }
 }
