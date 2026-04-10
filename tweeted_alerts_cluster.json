@@ -7359,7 +7359,7 @@
     "rain_mm": 42.06,
     "soil_moisture": 0.697,
     "raw_dynamic_score": 6.892,
-    "last_updated": "2026-02-23T12:49:08.406464Z",
+    "last_updated": "2026-04-10T21:38:38.073797Z",
     "last_tweeted_at": "2026-02-23T09:50:21.584824Z",
     "tweet_id": "2025871126862131710",
     "resolved": false
@@ -13780,7 +13780,7 @@
     "rain_mm": 66.5,
     "soil_moisture": 0.525,
     "raw_dynamic_score": 9.864,
-    "last_updated": "2026-04-10T18:49:21.727600Z",
+    "last_updated": "2026-04-10T21:38:38.073797Z",
     "last_tweeted_at": "2026-04-01T13:07:41.360354Z",
     "tweet_id": "2039329398319628461",
     "resolved": false
@@ -16148,7 +16148,7 @@
     "rain_mm": 40.81,
     "soil_moisture": 0.684,
     "raw_dynamic_score": 6.639,
-    "last_updated": "2026-04-10T15:50:35.785827Z",
+    "last_updated": "2026-04-10T21:38:38.073797Z",
     "last_tweeted_at": "2026-04-09T05:14:56.751515Z",
     "tweet_id": "2042109010753491322",
     "resolved": false
@@ -17189,7 +17189,7 @@
     "rain_mm": 48.69,
     "soil_moisture": 0.558,
     "raw_dynamic_score": 7.367,
-    "last_updated": "2026-04-10T13:00:35.899982Z",
+    "last_updated": "2026-04-10T21:38:38.073797Z",
     "last_tweeted_at": "2026-04-10T13:00:35.899982Z",
     "tweet_id": "2042588598243840481",
     "resolved": false
@@ -17249,9 +17249,24 @@
     "rain_mm": 45.69,
     "soil_moisture": 0.543,
     "raw_dynamic_score": 6.851,
-    "last_updated": "2026-04-10T18:49:21.727600Z",
+    "last_updated": "2026-04-10T21:38:38.073797Z",
     "last_tweeted_at": "2026-04-10T18:49:21.727600Z",
     "tweet_id": "2042676369050808495",
+    "resolved": false
+  },
+  "19.2203,-70.5310": {
+    "country": "Dominican Republic",
+    "name": "La Vega",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 19.22031,
+    "longitude": -70.53101,
+    "rain_mm": 62.69,
+    "soil_moisture": 0.596,
+    "raw_dynamic_score": 9.704,
+    "last_updated": "2026-04-10T21:38:38.073797Z",
+    "last_tweeted_at": "2026-04-10T21:38:38.073797Z",
+    "tweet_id": "2042718957661229109",
     "resolved": false
   }
 }
