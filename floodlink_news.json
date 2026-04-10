@@ -14464,5 +14464,14 @@
         "score": 0,
         "status": "skipped",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-04-10",
+        "status": "posted",
+        "tweet": "2026 projections: Dams, levees & reservoirs mitigate flood risks for 1.2B people globally from extreme rainfall & storm surge.\n\n1. \ud83c\udde8\ud83c\uddf3 China: 98,000+ structures protect 500M from Yangtze floods, averting $50B annual losses.\n2. \ud83c\uddfa\ud83c\uddf8 USA: 92,000 dams/levees shield 120M in Mississippi ",
+        "type": "statistical",
+        "category": "dams, levees and reservoirs used for flood control",
+        "tweet_id": "2042658077359354096"
     }
 ]
