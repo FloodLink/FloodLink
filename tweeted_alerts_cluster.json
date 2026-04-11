@@ -4164,7 +4164,7 @@
     "rain_mm": 52.69,
     "soil_moisture": 0.639,
     "raw_dynamic_score": 8.361,
-    "last_updated": "2026-04-11T09:41:02.201493Z",
+    "last_updated": "2026-04-11T12:47:00.724913Z",
     "last_tweeted_at": "2026-04-11T07:00:53.261502Z",
     "tweet_id": "2042860454951747878",
     "resolved": false,
@@ -7627,17 +7627,18 @@
   "5.0393,116.4274": {
     "country": "Malaysia",
     "name": "Bandar Nabawan",
-    "risk_level": "Medium",
-    "tweeted_level": "High",
+    "risk_level": "Low",
+    "tweeted_level": "Low",
     "latitude": 5.0393,
     "longitude": 116.4274,
-    "rain_mm": 57.19,
-    "soil_moisture": 0.731,
-    "raw_dynamic_score": 9.547,
-    "last_updated": "2026-04-11T09:41:02.201493Z",
-    "last_tweeted_at": "2026-02-24T12:49:50.585703Z",
-    "tweet_id": "2026278690863067223",
-    "resolved": false
+    "rain_mm": 2.0,
+    "soil_moisture": 0.671,
+    "raw_dynamic_score": 0.323,
+    "last_updated": "2026-04-11T12:47:00.724913Z",
+    "last_tweeted_at": "2026-04-11T12:47:00.724913Z",
+    "tweet_id": "2042947565289889869",
+    "resolved": true,
+    "resolved_at": "2026-04-11T12:47:00.724913Z"
   },
   "4.8604,115.4090": {
     "country": "Malaysia",
@@ -16995,6 +16996,21 @@
     "last_updated": "2026-04-11T09:41:02.201493Z",
     "last_tweeted_at": "2026-04-11T07:00:53.261502Z",
     "tweet_id": "2042860454951747878",
+    "resolved": false
+  },
+  "-6.1639,39.1979": {
+    "country": "United Republic of Tanzania",
+    "name": "Zanzibar",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": -6.16394,
+    "longitude": 39.19793,
+    "rain_mm": 47.94,
+    "soil_moisture": 0.632,
+    "raw_dynamic_score": 7.573,
+    "last_updated": "2026-04-11T12:47:00.724913Z",
+    "last_tweeted_at": "2026-04-11T12:47:00.724913Z",
+    "tweet_id": "2042947817837334890",
     "resolved": false
   }
 }
