@@ -14261,5 +14261,25 @@
         "type": "statistical",
         "category": "dams, levees and reservoirs used for flood control",
         "tweet_id": "2042882101372993661"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdHFPd3owQ3lEYVhTTWNOZThNbmJUVkdSbkw0bW40Qy1JSTk0S1JFMEVXallLQmFVTzBfS3phYmcyZ2VNZVBQNklSU2FHVVpmWEpwNjRRMkliWWVWc1dJQjZYYloycXU1WUI5bUozcVQzdnJIeGpZS2U2RVZDWWUzbDFEa0k0S0UxOVJFMGJyM0FGZWotTHREeGs5cEp1ZXh6cDZrZE4zWQ?oc=5",
+        "date": "2026-04-11",
+        "title": "How Central Texas floods inspired the 'Turn Around Don't Drown' safety slogan - Austin American-Statesman",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxOdHFPd3owQ3lEYVhTTWNOZThNbmJUVkdSbkw0bW40Qy1JSTk0S1JFMEVXallLQmFVTzBfS3phYmcyZ2VNZVBQNklSU2FHVVpmWEpwNjRRMkliWWVWc1dJQjZYYloycXU1WUI5bUozcVQzdnJIeGpZS2U2RVZDWWUzbDFEa0k0S0UxOVJFMGJyM0FGZWotTHREeGs5cEp1ZXh6cDZrZE4zWQ?oc=5\" target=\"_blank\">How Central Texas floods inspired the 'Turn Around Don't Drown' safety slogan</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Austin American-Statesman</font>",
+        "similarity_excluded": "No",
+        "score": 6,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNWk5ma21GLUM5VUhPWEl6Ql9OLW51TkFaTk9nQmxkRWlCTjJPNWZhbW00eTVaTDVTV0ZMQzhFSnJndUJCZzFwZlprMGRVMll0cjBENXB3TzJ0RHZmSlpSWWRLYTJkeXZEWGx5bHlqOEszSTlubWRHMTlmeFF1Y01sMV9Da3VYdw?oc=5",
+        "date": "2026-04-11",
+        "title": "Flood Warnings Extended for Area Counties - KCII Radio",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxNWk5ma21GLUM5VUhPWEl6Ql9OLW51TkFaTk9nQmxkRWlCTjJPNWZhbW00eTVaTDVTV0ZMQzhFSnJndUJCZzFwZlprMGRVMll0cjBENXB3TzJ0RHZmSlpSWWRLYTJkeXZEWGx5bHlqOEszSTlubWRHMTlmeFF1Y01sMV9Da3VYdw?oc=5\" target=\"_blank\">Flood Warnings Extended for Area Counties</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KCII Radio</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
     }
 ]
