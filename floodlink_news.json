@@ -14252,5 +14252,14 @@
         "score": 8,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-04-11",
+        "status": "posted",
+        "tweet": "Top 5 nations by population protected from floods/storm surge via dams, levees & reservoirs (2026 est.):\n\n1. \ud83c\udde8\ud83c\uddf3 China: 400M (Yangtze system)\n2. \ud83c\uddee\ud83c\uddf3 India: 250M (monsoon dams)\n3. \ud83c\uddfa\ud83c\uddf8 USA: 75M (Mississippi levees)\n4. \ud83c\uddf3\ud83c\uddf1 Netherlands: 17M (Delta Works)\n5. \ud83c\udde7\ud83c\udde9 Bangladesh: 100M (Ganges re",
+        "type": "statistical",
+        "category": "dams, levees and reservoirs used for flood control",
+        "tweet_id": "2042882101372993661"
     }
 ]
