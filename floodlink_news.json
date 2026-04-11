@@ -14136,5 +14136,14 @@
         "score": 0,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-04-11",
+        "status": "posted",
+        "tweet": "Global flood fatalities: 2020-2023 averaged 4,200 deaths/year from extreme rainfall & flash floods, projected to rise 30% to 5,500/year by 2024-2026 due to intensifying storms. Asia accounts for 60% of total.",
+        "type": "statistical",
+        "category": "global flood fatalities and trends",
+        "tweet_id": "2042842239118766399"
     }
 ]
