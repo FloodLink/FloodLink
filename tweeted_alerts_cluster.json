@@ -16181,22 +16181,6 @@
     "tweet_id": "2042229627691950401",
     "resolved": false
   },
-  "5.9667,8.7063": {
-    "country": "Nigeria",
-    "name": "Ikom",
-    "risk_level": "None",
-    "tweeted_level": "None",
-    "latitude": 5.96669,
-    "longitude": 8.70632,
-    "rain_mm": 0.0,
-    "soil_moisture": 0.48,
-    "raw_dynamic_score": 0.0,
-    "last_updated": "2026-04-10T15:50:35.785827Z",
-    "last_tweeted_at": "2026-04-10T15:50:35.785827Z",
-    "tweet_id": "2042632134842605838",
-    "resolved": true,
-    "resolved_at": "2026-04-10T15:50:35.785827Z"
-  },
   "-15.7270,12.9496": {
     "country": "Angola",
     "name": "Virei",
@@ -17011,6 +16995,21 @@
     "last_updated": "2026-04-11T15:34:14.741669Z",
     "last_tweeted_at": "2026-04-11T12:47:00.724913Z",
     "tweet_id": "2042947817837334890",
+    "resolved": false
+  },
+  "2.3833,11.2833": {
+    "country": "Cameroon",
+    "name": "Ambam",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 2.38333,
+    "longitude": 11.28333,
+    "rain_mm": 55.31,
+    "soil_moisture": 0.589,
+    "raw_dynamic_score": 8.523,
+    "last_updated": "2026-04-11T18:40:52.243588Z",
+    "last_tweeted_at": "2026-04-11T18:40:52.243588Z",
+    "tweet_id": "2043036620711170048",
     "resolved": false
   }
 }
