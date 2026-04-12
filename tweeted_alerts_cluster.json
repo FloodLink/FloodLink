@@ -16928,7 +16928,7 @@
     "rain_mm": 51.44,
     "soil_moisture": 0.536,
     "raw_dynamic_score": 7.684,
-    "last_updated": "2026-04-12T07:12:47.657905Z",
+    "last_updated": "2026-04-12T09:47:13.502912Z",
     "last_tweeted_at": "2026-04-12T05:25:09.377240Z",
     "tweet_id": "2043198751872090445",
     "resolved": false
@@ -16943,7 +16943,7 @@
     "rain_mm": 56.19,
     "soil_moisture": 0.519,
     "raw_dynamic_score": 8.307,
-    "last_updated": "2026-04-12T05:25:09.377240Z",
+    "last_updated": "2026-04-12T09:47:13.502912Z",
     "last_tweeted_at": "2026-04-12T05:25:09.377240Z",
     "tweet_id": "2043199004222349345",
     "resolved": false
@@ -16961,6 +16961,21 @@
     "last_updated": "2026-04-12T07:12:47.657905Z",
     "last_tweeted_at": "2026-04-12T07:12:47.657905Z",
     "tweet_id": "2043225850061926430",
+    "resolved": false
+  },
+  "-0.9473,114.8962": {
+    "country": "Indonesia",
+    "name": "Muara Teweh",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": -0.94734,
+    "longitude": 114.8962,
+    "rain_mm": 43.19,
+    "soil_moisture": 0.696,
+    "raw_dynamic_score": 7.073,
+    "last_updated": "2026-04-12T09:47:13.502912Z",
+    "last_tweeted_at": "2026-04-12T09:47:13.502912Z",
+    "tweet_id": "2043264691804189115",
     "resolved": false
   }
 }
