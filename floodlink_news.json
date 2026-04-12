@@ -14140,5 +14140,15 @@
             "longitude": null,
             "confidence": 0.9
         }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPRHlUZi1YcmxUeW42THNldlVCa3dJLXpRYTV1dVhyRFMyUUdxLWt3RS0zQ3lfcjZkbm9QdGdMWjVGOWtjZmM3TDh2WUZ3WldJWDZuU2xva2tEMDhiWU9pZlM1ZDJlYjVTeGZ5elpvNmhNaW9DVE5GR2pfWUNSa05meS1BT3dEbWxRWjBCaFZra0ZSX2ZzR2YzVmJWb2Y5N0dyZ214b3FJLUlLNDlQN0xWak5ibnd2ZGNRT2dPQUhB?oc=5",
+        "date": "2026-04-12",
+        "title": "Two Wisconsin counties are under a flood warning until April 16, NWS says - Milwaukee Journal Sentinel",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxPRHlUZi1YcmxUeW42THNldlVCa3dJLXpRYTV1dVhyRFMyUUdxLWt3RS0zQ3lfcjZkbm9QdGdMWjVGOWtjZmM3TDh2WUZ3WldJWDZuU2xva2tEMDhiWU9pZlM1ZDJlYjVTeGZ5elpvNmhNaW9DVE5GR2pfWUNSa05meS1BT3dEbWxRWjBCaFZra0ZSX2ZzR2YzVmJWb2Y5N0dyZ214b3FJLUlLNDlQN0xWak5ibnd2ZGNRT2dPQUhB?oc=5\" target=\"_blank\">Two Wisconsin counties are under a flood warning until April 16, NWS says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Milwaukee Journal Sentinel</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
     }
 ]
