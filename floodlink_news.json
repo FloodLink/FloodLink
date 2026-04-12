@@ -13988,5 +13988,82 @@
         "tweet": "\ud83c\uddf3\ud83c\uddf1 The Netherlands maintains 26,000 km of dikes and levees, safeguarding 9 million people\u201460% of its population\u2014from North Sea floods, with ongoing reinforcements for climate resilience by 2026.",
         "type": "infrastructure",
         "tweet_id": "2043235938336153823"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBmVzVMUmdHRzFLcFB1eFJyemtHa0NCb2oybUxOdjVUaEEzQ18xWTRIam9kd3BNZS1wM0JpcXczMnNzeFhZTFdFcTFpNXFuWVA2M2p5VXQ3OHVUZUs2aHNDLUFoWXVpMmJjRVp2cVFyQQ?oc=5",
+        "date": "2026-04-12",
+        "title": "UPDATE: Northern California under a flood advisory until early Sunday - Sacramento Bee",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTFBmVzVMUmdHRzFLcFB1eFJyemtHa0NCb2oybUxOdjVUaEEzQ18xWTRIam9kd3BNZS1wM0JpcXczMnNzeFhZTFdFcTFpNXFuWVA2M2p5VXQ3OHVUZUs2aHNDLUFoWXVpMmJjRVp2cVFyQQ?oc=5\" target=\"_blank\">UPDATE: Northern California under a flood advisory until early Sunday</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sacramento Bee</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQT25YRkNhR0Y2Ml9COU5CYmthVDlNWEozRXZONGg3TllRc2tzQnQ5YVJNUU1LTFNoYWxOTUdoUkdlT0Z5T1hJWmJ1Z0ZBUUtjbXMxUC1tOTBVM0ZtWW13M0tNX0JyU256aXhrVXVGZnFYcE91THhOdHQxazhSS1Y2VkEyWlFaMjV4NVBfZ21QZ2ppTFJScFEydER0bVlIX3NYVEVBcG5qcWhsMzhPcTlkNGVsQl9pSkhWZGRkRFppWlhMRzhZM19nU1ZYSTRwOXI3UUxQZnJmZ2FEX00zZlh5ZlBudlBmcWZXckYzUXcyb0xtaXJ0TGhRQW5xSzVkWHUwanRiN1lxYXVXMGZFTGZ3eg?oc=5",
+        "date": "2026-04-12",
+        "title": "Flash Flood Warning issued for Del Rio, Rocksprings and Lake View, Texas | Weather Impact Alert - kens5.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAJBVV95cUxQT25YRkNhR0Y2Ml9COU5CYmthVDlNWEozRXZONGg3TllRc2tzQnQ5YVJNUU1LTFNoYWxOTUdoUkdlT0Z5T1hJWmJ1Z0ZBUUtjbXMxUC1tOTBVM0ZtWW13M0tNX0JyU256aXhrVXVGZnFYcE91THhOdHQxazhSS1Y2VkEyWlFaMjV4NVBfZ21QZ2ppTFJScFEydER0bVlIX3NYVEVBcG5qcWhsMzhPcTlkNGVsQl9pSkhWZGRkRFppWlhMRzhZM19nU1ZYSTRwOXI3UUxQZnJmZ2FEX00zZlh5ZlBudlBmcWZXckYzUXcyb0xtaXJ0TGhRQW5xSzVkWHUwanRiN1lxYXVXMGZFTGZ3eg?oc=5\" target=\"_blank\">Flash Flood Warning issued for Del Rio, Rocksprings and Lake View, Texas | Weather Impact Alert</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">kens5.com</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": null,
+        "tweet_id": "2043251198589866364",
+        "geo": {
+            "country": "United States",
+            "name": "Del Rio, Texas",
+            "latitude": 29.3625,
+            "longitude": -100.8968,
+            "confidence": 0.95
+        }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdi1PLWNqaHoxLVlmcENMdnFVZWFIVWhwckpMajR3Nkd2MndJeWpHZGNnNU8xMmgwbnFxUXppRzhwOUZWbzlCeUEyZmQwam5ZQ0tsQUVjUmRmRGR3aUdYdzBQRU53ekRSN3lTNTB0MGp0LXNuUWMwY2kxaWlWdm53ZXJOZFZnUEdfUjR4S2FnR1pxejdmSW9Ga01qdzkzOGMwQTBtYW0yOFFpQVZibVlsdVBWUQ?oc=5",
+        "date": "2026-04-12",
+        "title": "One lane of Kamehameha Highway at Waimea opens but repairs to last months - Honolulu Star-Advertiser",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOdi1PLWNqaHoxLVlmcENMdnFVZWFIVWhwckpMajR3Nkd2MndJeWpHZGNnNU8xMmgwbnFxUXppRzhwOUZWbzlCeUEyZmQwam5ZQ0tsQUVjUmRmRGR3aUdYdzBQRU53ekRSN3lTNTB0MGp0LXNuUWMwY2kxaWlWdm53ZXJOZFZnUEdfUjR4S2FnR1pxejdmSW9Ga01qdzkzOGMwQTBtYW0yOFFpQVZibVlsdVBWUQ?oc=5\" target=\"_blank\">One lane of Kamehameha Highway at Waimea opens but repairs to last months</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Honolulu Star-Advertiser</font>",
+        "similarity_excluded": "No",
+        "score": 2,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNVms5anlJbUhoenluUzRxSEpsUnBHOUN5VVhVWjROSnViUlBIVjNVTFV2eTFRa1pFR0paWVlZdnFRVzVfZUZqUWtjekxfOUQ0MWsxXzJqUmVVblUxZ0xQcTdTSE5WNHd6c1dIMldPTHI0c0RCM0JzRXdmalhVSHZ6elJMLUFxRFJBOFh4X2ZZWW4wNWNRWXVjV2dhX00yZUhKSVItTVpva3ZIRTRZWDJBNlpDR2J1RnJrbEk4TWhkMndwbDJXd2M3VjMzZF84VDBSRkZ0bkU2Smp5ejJlMHB4ZC1vRVU0aDQ?oc=5",
+        "date": "2026-04-12",
+        "title": "Saturday Kaua\u2018i severe weather updates: Showers, isolated thunderstorms to spread over western half of state overnight - Kauai Now",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxNVms5anlJbUhoenluUzRxSEpsUnBHOUN5VVhVWjROSnViUlBIVjNVTFV2eTFRa1pFR0paWVlZdnFRVzVfZUZqUWtjekxfOUQ0MWsxXzJqUmVVblUxZ0xQcTdTSE5WNHd6c1dIMldPTHI0c0RCM0JzRXdmalhVSHZ6elJMLUFxRFJBOFh4X2ZZWW4wNWNRWXVjV2dhX00yZUhKSVItTVpva3ZIRTRZWDJBNlpDR2J1RnJrbEk4TWhkMndwbDJXd2M3VjMzZF84VDBSRkZ0bkU2Smp5ejJlMHB4ZC1vRVU0aDQ?oc=5\" target=\"_blank\">Saturday Kaua\u2018i severe weather updates: Showers, isolated thunderstorms to spread over western half of state overnight</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Kauai Now</font>",
+        "similarity_excluded": "No",
+        "score": 2,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNaktoMndNb3h2cHdFM3dRYmVIMWpEa1JELTlWc0hrTW1uRklmYW1UUk1iUEtwcHdsVWRsRE13bWw0SEtSNFBCbGNGX2dMZTYxVjUwLXg0ZXVhU0RhalZlRFZCTVUzZ1VfbWVHaWhld3RaS01NRmZtalJnSmR4Mk4tZXB1TE1odWQtY04yNmRVekJ6YmZvTnhnWW9PUERFTW5EeDItZDBJTW0wMWvSAbABQVVfeXFMUHotZVBBYnZxNDlKM1lBUnBZRDE3R0t5ajZQcGw0ckRlU3VzMnJyU0JkY3hzTUotVE5HQlhYLUFfVm9XUFNEZFdZc2F1UXN5Tkcwd3FSdnZJOTgzUEFFTEQwX3Fjcjgyb2RIakZBQzQxT2VnaDJ5Zk9La3ozeVVYQVVMaFpkcm1DTmxnSmZmaGdPNjRHSno1UkNVSW5DSjl5a3pZTEJGRnRZbzF0Tzh3blQ?oc=5",
+        "date": "2026-04-12",
+        "title": "CMC accelerates desilting works ahead of monsoon - The Hans India",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNaktoMndNb3h2cHdFM3dRYmVIMWpEa1JELTlWc0hrTW1uRklmYW1UUk1iUEtwcHdsVWRsRE13bWw0SEtSNFBCbGNGX2dMZTYxVjUwLXg0ZXVhU0RhalZlRFZCTVUzZ1VfbWVHaWhld3RaS01NRmZtalJnSmR4Mk4tZXB1TE1odWQtY04yNmRVekJ6YmZvTnhnWW9PUERFTW5EeDItZDBJTW0wMWvSAbABQVVfeXFMUHotZVBBYnZxNDlKM1lBUnBZRDE3R0t5ajZQcGw0ckRlU3VzMnJyU0JkY3hzTUotVE5HQlhYLUFfVm9XUFNEZFdZc2F1UXN5Tkcwd3FSdnZJOTgzUEFFTEQwX3Fjcjgyb2RIakZBQzQxT2VnaDJ5Zk9La3ozeVVYQVVMaFpkcm1DTmxnSmZmaGdPNjRHSno1UkNVSW5DSjl5a3pZTEJGRnRZbzF0Tzh3blQ?oc=5\" target=\"_blank\">CMC accelerates desilting works ahead of monsoon</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Hans India</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQT25YRkNhR0Y2Ml9COU5CYmthVDlNWEozRXZONGg3TllRc2tzQnQ5YVJNUU1LTFNoYWxOTUdoUkdlT0Z5T1hJWmJ1Z0ZBUUtjbXMxUC1tOTBVM0ZtWW13M0tNX0JyU256aXhrVXVGZnFYcE91THhOdHQxazhSS1Y2VkEyWlFaMjV4NVBfZ21QZ2ppTFJScFEydER0bVlIX3NYVEVBcG5qcWhsMzhPcTlkNGVsQl9pSkhWZGRkRFppWlhMRzhZM19nU1ZYSTRwOXI3UUxQZnJmZ2FEX00zZlh5ZlBudlBmcWZXckYzUXcyb0xtaXJ0TGhRQW5xSzVkWHUwanRiN1lxYXVXMGZFTGZ3eg?oc=5",
+        "date": "2026-04-12",
+        "title": "Flash Flood Warning issued for Del Rio, Rocksprings and Lake View, Texas | Weather Impact Alert - kens5.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAJBVV95cUxQT25YRkNhR0Y2Ml9COU5CYmthVDlNWEozRXZONGg3TllRc2tzQnQ5YVJNUU1LTFNoYWxOTUdoUkdlT0Z5T1hJWmJ1Z0ZBUUtjbXMxUC1tOTBVM0ZtWW13M0tNX0JyU256aXhrVXVGZnFYcE91THhOdHQxazhSS1Y2VkEyWlFaMjV4NVBfZ21QZ2ppTFJScFEydER0bVlIX3NYVEVBcG5qcWhsMzhPcTlkNGVsQl9pSkhWZGRkRFppWlhMRzhZM19nU1ZYSTRwOXI3UUxQZnJmZ2FEX00zZlh5ZlBudlBmcWZXckYzUXcyb0xtaXJ0TGhRQW5xSzVkWHUwanRiN1lxYXVXMGZFTGZ3eg?oc=5\" target=\"_blank\">Flash Flood Warning issued for Del Rio, Rocksprings and Lake View, Texas | Weather Impact Alert</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">kens5.com</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 FORECAST Del Rio, TX: Flash flood warning issued for Del Rio, Rocksprings, and Lake View; imminent flash flooding risk. (kens5.com)",
+        "type": "news",
+        "tweet_id": "2043251198589866364",
+        "geo": {
+            "country": "United States",
+            "name": "Del Rio, Texas",
+            "latitude": 29.3625,
+            "longitude": -100.8968,
+            "confidence": 0.95
+        }
     }
 ]
