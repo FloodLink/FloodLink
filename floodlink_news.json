@@ -14065,5 +14065,14 @@
             "longitude": -100.8968,
             "confidence": 0.95
         }
+    },
+    {
+        "link": null,
+        "date": "2026-04-12",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 US: Dams & levees shielded 12M people from 2023 flash floods, averting $25B losses.\n\n\ud83c\udde8\ud83c\uddf3 China: Reservoirs protected 150M from 2024 Yangtze extreme rainfall, averting $60B\u201412x more lives safeguarded.",
+        "type": "statistical",
+        "category": "dams, levees and reservoirs used for flood control",
+        "tweet_id": "2043265161272979794"
     }
 ]
