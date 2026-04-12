@@ -7230,7 +7230,7 @@
     "rain_mm": 41.44,
     "soil_moisture": 0.697,
     "raw_dynamic_score": 6.79,
-    "last_updated": "2026-02-22T15:24:34.268752Z",
+    "last_updated": "2026-04-12T21:34:35.737327Z",
     "last_tweeted_at": "2026-02-22T12:37:10.446743Z",
     "tweet_id": "2025550726504534034",
     "resolved": false
@@ -15285,7 +15285,7 @@
     "rain_mm": 45.94,
     "soil_moisture": 0.527,
     "raw_dynamic_score": 6.824,
-    "last_updated": "2026-04-05T12:47:08.653884Z",
+    "last_updated": "2026-04-12T21:34:35.737327Z",
     "last_tweeted_at": "2026-04-05T09:39:25.402015Z",
     "tweet_id": "2040726275153895547",
     "resolved": false
@@ -16960,6 +16960,51 @@
     "last_updated": "2026-04-12T15:37:51.068044Z",
     "last_tweeted_at": "2026-04-12T09:47:13.502912Z",
     "tweet_id": "2043264691804189115",
+    "resolved": false
+  },
+  "-6.7546,-35.6645": {
+    "country": "Brazil",
+    "name": "Solânea",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": -6.75459,
+    "longitude": -35.66449,
+    "rain_mm": 45.06,
+    "soil_moisture": 0.541,
+    "raw_dynamic_score": 6.75,
+    "last_updated": "2026-04-12T21:34:35.737327Z",
+    "last_tweeted_at": "2026-04-12T21:34:35.737327Z",
+    "tweet_id": "2043442731024781687",
+    "resolved": false
+  },
+  "-6.6417,-35.7900": {
+    "country": "Brazil",
+    "name": "Cacimba de Dentro",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": -6.64167,
+    "longitude": -35.79,
+    "rain_mm": 45.06,
+    "soil_moisture": 0.541,
+    "raw_dynamic_score": 6.75,
+    "last_updated": "2026-04-12T21:34:35.737327Z",
+    "last_tweeted_at": "2026-04-12T21:34:35.737327Z",
+    "tweet_id": "2043442731024781687",
+    "resolved": false
+  },
+  "-6.7500,-35.6333": {
+    "country": "Brazil",
+    "name": "Bananeiras",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": -6.75,
+    "longitude": -35.63333,
+    "rain_mm": 45.06,
+    "soil_moisture": 0.541,
+    "raw_dynamic_score": 6.75,
+    "last_updated": "2026-04-12T21:34:35.737327Z",
+    "last_tweeted_at": "2026-04-12T21:34:35.737327Z",
+    "tweet_id": "2043442731024781687",
     "resolved": false
   }
 }
