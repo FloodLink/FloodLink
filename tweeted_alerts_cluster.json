@@ -7610,22 +7610,6 @@
     "tweet_id": "2026278438277976470",
     "resolved": false
   },
-  "5.0393,116.4274": {
-    "country": "Malaysia",
-    "name": "Bandar Nabawan",
-    "risk_level": "Low",
-    "tweeted_level": "Low",
-    "latitude": 5.0393,
-    "longitude": 116.4274,
-    "rain_mm": 2.0,
-    "soil_moisture": 0.671,
-    "raw_dynamic_score": 0.323,
-    "last_updated": "2026-04-11T12:47:00.724913Z",
-    "last_tweeted_at": "2026-04-11T12:47:00.724913Z",
-    "tweet_id": "2042947565289889869",
-    "resolved": true,
-    "resolved_at": "2026-04-11T12:47:00.724913Z"
-  },
   "4.8604,115.4090": {
     "country": "Malaysia",
     "name": "Lawas",
@@ -12706,7 +12690,7 @@
     "rain_mm": 46.44,
     "soil_moisture": 0.542,
     "raw_dynamic_score": 6.959,
-    "last_updated": "2026-03-30T21:42:41.534230Z",
+    "last_updated": "2026-04-12T12:50:31.397470Z",
     "last_tweeted_at": "2026-03-30T16:09:20.170319Z",
     "tweet_id": "2038649816784253116",
     "resolved": false
@@ -16958,7 +16942,7 @@
     "rain_mm": 50.81,
     "soil_moisture": 0.655,
     "raw_dynamic_score": 8.136,
-    "last_updated": "2026-04-12T07:12:47.657905Z",
+    "last_updated": "2026-04-12T12:50:31.397470Z",
     "last_tweeted_at": "2026-04-12T07:12:47.657905Z",
     "tweet_id": "2043225850061926430",
     "resolved": false
