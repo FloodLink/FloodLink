@@ -4089,7 +4089,7 @@
     "rain_mm": 45.25,
     "soil_moisture": 0.649,
     "raw_dynamic_score": 7.218,
-    "last_updated": "2026-02-23T09:50:21.584824Z",
+    "last_updated": "2026-04-13T10:36:23.148282Z",
     "last_tweeted_at": "2026-02-01T12:35:28.380346Z",
     "tweet_id": "2017939897873473582",
     "resolved": false
@@ -16948,9 +16948,39 @@
     "rain_mm": 51.69,
     "soil_moisture": 0.713,
     "raw_dynamic_score": 8.546,
-    "last_updated": "2026-04-13T07:58:20.200470Z",
+    "last_updated": "2026-04-13T10:36:23.148282Z",
     "last_tweeted_at": "2026-04-13T07:58:20.200470Z",
     "tweet_id": "2043599693138047128",
+    "resolved": false
+  },
+  "0.6073,9.3293": {
+    "country": "Gabon",
+    "name": "Akanda",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 0.60732,
+    "longitude": 9.32933,
+    "rain_mm": 35.19,
+    "soil_moisture": 1.0,
+    "raw_dynamic_score": 6.73,
+    "last_updated": "2026-04-13T10:36:23.148282Z",
+    "last_tweeted_at": "2026-04-13T10:36:23.148282Z",
+    "tweet_id": "2043639449909694716",
+    "resolved": false
+  },
+  "-4.3432,152.2687": {
+    "country": "Papua New Guinea",
+    "name": "Kokopo",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": -4.3432,
+    "longitude": 152.26867,
+    "rain_mm": 36.69,
+    "soil_moisture": 1.0,
+    "raw_dynamic_score": 7.016,
+    "last_updated": "2026-04-13T10:36:23.148282Z",
+    "last_tweeted_at": "2026-04-13T10:36:23.148282Z",
+    "tweet_id": "2043639702238925196",
     "resolved": false
   }
 }
