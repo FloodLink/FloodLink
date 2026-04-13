@@ -4375,7 +4375,7 @@
     "rain_mm": 42.5,
     "soil_moisture": 0.624,
     "raw_dynamic_score": 6.687,
-    "last_updated": "2026-02-04T15:39:51.736005Z",
+    "last_updated": "2026-04-13T19:11:59.818509Z",
     "last_tweeted_at": "2026-02-04T12:44:26.311021Z",
     "tweet_id": "2019029317435490520",
     "resolved": false
@@ -13405,7 +13405,7 @@
     "rain_mm": 44.44,
     "soil_moisture": 0.547,
     "raw_dynamic_score": 6.679,
-    "last_updated": "2026-04-13T16:15:44.948285Z",
+    "last_updated": "2026-04-13T19:11:59.818509Z",
     "last_tweeted_at": "2026-03-31T13:05:49.792685Z",
     "tweet_id": "2038966288949641546",
     "resolved": false
@@ -16964,10 +16964,14 @@
     "rain_mm": 84.44,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 16.149,
-    "last_updated": "2026-04-13T16:15:44.948285Z",
+    "last_updated": "2026-04-13T19:11:59.818509Z",
     "last_tweeted_at": "2026-04-13T13:13:42.662087Z",
     "tweet_id": "2043679826649792808",
-    "resolved": false
+    "resolved": false,
+    "pending_downgrade": true,
+    "pending_target_level": "Low",
+    "pending_set_at": "2026-04-13T19:11:59.818509Z",
+    "pending_is_region": true
   },
   "-4.3432,152.2687": {
     "country": "Papua New Guinea",
@@ -17087,6 +17091,51 @@
     "last_updated": "2026-04-13T16:15:44.948285Z",
     "last_tweeted_at": "2026-04-13T16:15:44.948285Z",
     "tweet_id": "2043725106828988897",
+    "resolved": false
+  },
+  "36.1165,6.3543": {
+    "country": "Algeria",
+    "name": "Telerghma",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 36.11653,
+    "longitude": 6.35434,
+    "rain_mm": 45.38,
+    "soil_moisture": 0.579,
+    "raw_dynamic_score": 6.953,
+    "last_updated": "2026-04-13T19:11:59.818509Z",
+    "last_tweeted_at": "2026-04-13T19:11:59.818509Z",
+    "tweet_id": "2043769232693850221",
+    "resolved": false
+  },
+  "36.0369,6.5722": {
+    "country": "Algeria",
+    "name": "Aïn M’Lila",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 36.03687,
+    "longitude": 6.57219,
+    "rain_mm": 75.75,
+    "soil_moisture": 0.593,
+    "raw_dynamic_score": 11.705,
+    "last_updated": "2026-04-13T19:11:59.818509Z",
+    "last_tweeted_at": "2026-04-13T19:11:59.818509Z",
+    "tweet_id": "2043769485186703552",
+    "resolved": false
+  },
+  "6.4520,-2.3163": {
+    "country": "Ghana",
+    "name": "Bibiani",
+    "risk_level": "High",
+    "tweeted_level": "High",
+    "latitude": 6.45196,
+    "longitude": -2.31635,
+    "rain_mm": 93.81,
+    "soil_moisture": 0.564,
+    "raw_dynamic_score": 14.249,
+    "last_updated": "2026-04-13T19:11:59.818509Z",
+    "last_tweeted_at": "2026-04-13T19:11:59.818509Z",
+    "tweet_id": "2043769737859965039",
     "resolved": false
   }
 }
