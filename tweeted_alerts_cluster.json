@@ -13405,7 +13405,7 @@
     "rain_mm": 44.44,
     "soil_moisture": 0.547,
     "raw_dynamic_score": 6.679,
-    "last_updated": "2026-04-13T13:13:42.662087Z",
+    "last_updated": "2026-04-13T16:15:44.948285Z",
     "last_tweeted_at": "2026-03-31T13:05:49.792685Z",
     "tweet_id": "2038966288949641546",
     "resolved": false
@@ -16964,7 +16964,7 @@
     "rain_mm": 84.44,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 16.149,
-    "last_updated": "2026-04-13T13:13:42.662087Z",
+    "last_updated": "2026-04-13T16:15:44.948285Z",
     "last_tweeted_at": "2026-04-13T13:13:42.662087Z",
     "tweet_id": "2043679826649792808",
     "resolved": false
@@ -16994,7 +16994,7 @@
     "rain_mm": 43.06,
     "soil_moisture": 0.634,
     "raw_dynamic_score": 6.813,
-    "last_updated": "2026-04-13T13:13:42.662087Z",
+    "last_updated": "2026-04-13T16:15:44.948285Z",
     "last_tweeted_at": "2026-04-13T13:13:42.662087Z",
     "tweet_id": "2043679321324134633",
     "resolved": false
@@ -17039,9 +17039,54 @@
     "rain_mm": 43.31,
     "soil_moisture": 0.692,
     "raw_dynamic_score": 7.079,
-    "last_updated": "2026-04-13T13:13:42.662087Z",
+    "last_updated": "2026-04-13T16:15:44.948285Z",
     "last_tweeted_at": "2026-04-13T13:13:42.662087Z",
     "tweet_id": "2043679573997494607",
+    "resolved": false
+  },
+  "6.9041,-2.5611": {
+    "country": "Ghana",
+    "name": "Mim",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 6.90412,
+    "longitude": -2.56114,
+    "rain_mm": 51.31,
+    "soil_moisture": 0.448,
+    "raw_dynamic_score": 7.254,
+    "last_updated": "2026-04-13T16:15:44.948285Z",
+    "last_tweeted_at": "2026-04-13T16:15:44.948285Z",
+    "tweet_id": "2043724854457716946",
+    "resolved": false
+  },
+  "6.8036,-2.5172": {
+    "country": "Ghana",
+    "name": "Goaso",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 6.80355,
+    "longitude": -2.5172,
+    "rain_mm": 62.56,
+    "soil_moisture": 0.5,
+    "raw_dynamic_score": 9.138,
+    "last_updated": "2026-04-13T16:15:44.948285Z",
+    "last_tweeted_at": "2026-04-13T16:15:44.948285Z",
+    "tweet_id": "2043724854457716946",
+    "resolved": false
+  },
+  "13.5360,144.8886": {
+    "country": "Guam",
+    "name": "Yigo Village",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 13.53605,
+    "longitude": 144.88855,
+    "rain_mm": 40.56,
+    "soil_moisture": 1.0,
+    "raw_dynamic_score": 7.758,
+    "last_updated": "2026-04-13T16:15:44.948285Z",
+    "last_tweeted_at": "2026-04-13T16:15:44.948285Z",
+    "tweet_id": "2043725106828988897",
     "resolved": false
   }
 }
