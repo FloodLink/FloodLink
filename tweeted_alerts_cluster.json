@@ -16587,7 +16587,7 @@
     "rain_mm": 55.44,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 10.602,
-    "last_updated": "2026-04-13T02:05:29.049303Z",
+    "last_updated": "2026-04-13T05:42:42.725017Z",
     "last_tweeted_at": "2026-04-10T15:50:35.785827Z",
     "tweet_id": "2042631629403799603",
     "resolved": false
@@ -16969,7 +16969,7 @@
     "rain_mm": 40.75,
     "soil_moisture": 0.655,
     "raw_dynamic_score": 6.525,
-    "last_updated": "2026-04-13T02:05:29.049303Z",
+    "last_updated": "2026-04-13T05:42:42.725017Z",
     "last_tweeted_at": "2026-04-13T02:05:29.049303Z",
     "tweet_id": "2043510897289646251",
     "resolved": false
@@ -16987,6 +16987,51 @@
     "last_updated": "2026-04-13T02:05:29.049303Z",
     "last_tweeted_at": "2026-04-13T02:05:29.049303Z",
     "tweet_id": "2043511149979648039",
+    "resolved": false
+  },
+  "36.5108,1.3081": {
+    "country": "Algeria",
+    "name": "Ténès",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 36.51076,
+    "longitude": 1.30809,
+    "rain_mm": 43.69,
+    "soil_moisture": 0.598,
+    "raw_dynamic_score": 6.769,
+    "last_updated": "2026-04-13T05:42:42.725017Z",
+    "last_tweeted_at": "2026-04-13T05:42:42.725017Z",
+    "tweet_id": "2043565553437041132",
+    "resolved": false
+  },
+  "36.4647,1.3026": {
+    "country": "Algeria",
+    "name": "Sidi Akkacha",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 36.46472,
+    "longitude": 1.30258,
+    "rain_mm": 43.69,
+    "soil_moisture": 0.598,
+    "raw_dynamic_score": 6.769,
+    "last_updated": "2026-04-13T05:42:42.725017Z",
+    "last_tweeted_at": "2026-04-13T05:42:42.725017Z",
+    "tweet_id": "2043565553437041132",
+    "resolved": false
+  },
+  "36.4166,1.1962": {
+    "country": "Algeria",
+    "name": "Abou el Hassan",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 36.41657,
+    "longitude": 1.19616,
+    "rain_mm": 43.69,
+    "soil_moisture": 0.598,
+    "raw_dynamic_score": 6.769,
+    "last_updated": "2026-04-13T05:42:42.725017Z",
+    "last_tweeted_at": "2026-04-13T05:42:42.725017Z",
+    "tweet_id": "2043565553437041132",
     "resolved": false
   }
 }
