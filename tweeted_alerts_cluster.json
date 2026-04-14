@@ -15985,7 +15985,7 @@
     "rain_mm": 41.06,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 7.853,
-    "last_updated": "2026-04-14T05:23:57.046227Z",
+    "last_updated": "2026-04-14T07:28:09.414766Z",
     "last_tweeted_at": "2026-04-09T16:21:38.585281Z",
     "tweet_id": "2042277052930236733",
     "resolved": false
@@ -17024,7 +17024,7 @@
     "rain_mm": 40.56,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 7.758,
-    "last_updated": "2026-04-14T01:58:42.155435Z",
+    "last_updated": "2026-04-14T07:28:09.414766Z",
     "last_tweeted_at": "2026-04-13T16:15:44.948285Z",
     "tweet_id": "2043725106828988897",
     "resolved": false
@@ -17137,10 +17137,18 @@
     "rain_mm": 133.81,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 25.592,
-    "last_updated": "2026-04-14T05:23:57.046227Z",
+    "last_updated": "2026-04-14T07:28:09.414766Z",
     "last_tweeted_at": "2026-04-14T05:23:57.046227Z",
     "tweet_id": "2043923473211257150",
-    "resolved": false
+    "resolved": false,
+    "pending_downgrade": true,
+    "pending_target_level": "High",
+    "pending_set_at": "2026-04-14T07:28:09.414766Z",
+    "pending_is_region": false,
+    "pending_observed_level": "High",
+    "pending_observed_rain_mm": 101.06,
+    "pending_observed_soil_moisture": 1.0,
+    "pending_observed_raw_dynamic_score": 19.328
   },
   "-1.9175,-55.5181": {
     "country": "Brazil",
@@ -17152,7 +17160,7 @@
     "rain_mm": 54.06,
     "soil_moisture": 0.728,
     "raw_dynamic_score": 9.013,
-    "last_updated": "2026-04-14T05:23:57.046227Z",
+    "last_updated": "2026-04-14T07:28:09.414766Z",
     "last_tweeted_at": "2026-04-14T05:23:57.046227Z",
     "tweet_id": "2043923220558991699",
     "resolved": false
