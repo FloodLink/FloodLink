@@ -14617,5 +14617,14 @@
             "longitude": -99.3422,
             "confidence": 0.95
         }
+    },
+    {
+        "link": null,
+        "date": "2026-04-14",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 US urban areas: 28M people exposed to river flooding (2023 est.), up 12% from 2020.  \n\ud83c\uddea\ud83c\uddfa EU: 18M exposed, with storm surge risks adding 5M in coastal cities. Projections show 30% rise by 2030 from extreme rainfall.",
+        "type": "statistical",
+        "category": "urban areas exposed to river flooding",
+        "tweet_id": "2044019033968660737"
     }
 ]
