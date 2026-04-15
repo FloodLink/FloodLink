@@ -14563,5 +14563,469 @@
         "score": 8,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQR3U1T3FEREZZWFpiQjVfZmE2a2FfclVxY0Y5RzBybjkyQjFMNFdsQXp2RmN5alFWVFp4OE4xVDRHaVo3Mk44dXFGWllfRmd3SldHNGs1T2JISXBjc0JqSkt2OHJjaHluNm9FLTVQZHRUNDQwSmhFMVhiTEt0a0hBV3lhUEhDTndSYUM0SHJtcWl0ZGY0WHJYQTNtR0NiYnRiMDh4WmFBc1pPOTBrdDEwb1pCMWVRQ0QybjEzS24tZ3E5Rk8xOVRwRDZsUG9JNVdFY0tEWENNbWdDTDExTXVJbQ?oc=5",
+        "date": "2026-04-15",
+        "title": "Update: Flood warning affecting Kent County from Thursday to Wednesday \u2013 minor flooding is predicted - MLive.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxQR3U1T3FEREZZWFpiQjVfZmE2a2FfclVxY0Y5RzBybjkyQjFMNFdsQXp2RmN5alFWVFp4OE4xVDRHaVo3Mk44dXFGWllfRmd3SldHNGs1T2JISXBjc0JqSkt2OHJjaHluNm9FLTVQZHRUNDQwSmhFMVhiTEt0a0hBV3lhUEhDTndSYUM0SHJtcWl0ZGY0WHJYQTNtR0NiYnRiMDh4WmFBc1pPOTBrdDEwb1pCMWVRQ0QybjEzS24tZ3E5Rk8xOVRwRDZsUG9JNVdFY0tEWENNbWdDTDExTXVJbQ?oc=5\" target=\"_blank\">Update: Flood warning affecting Kent County from Thursday to Wednesday \u2013 minor flooding is predicted</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MLive.com</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNLU9oQ09HbDd5UERici05QVpnV2VENVhYdUdDYk5RaDJhZWpIbHl5blJIYzB1MldRTmZNaVBxa25WWk1IcEFtUURiTXFuY0xJbVgyeGhPaC1TOFpKbmUtZEE2Um1YLUEtNjBtRjFEYjhnU0VmRC04T19FVG1ua01hUzVKclEyRmNxcHA4VDdBQXduTDROSkxVcUZuRGJEN1ROTldRQjJveUxzSzFWeEFxLWloYWViTFZ1clJjdlBKNWRXUVU?oc=5",
+        "date": "2026-04-15",
+        "title": "Widespread flood warnings continue in Wisconsin on April 15 - Milwaukee Journal Sentinel",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxNLU9oQ09HbDd5UERici05QVpnV2VENVhYdUdDYk5RaDJhZWpIbHl5blJIYzB1MldRTmZNaVBxa25WWk1IcEFtUURiTXFuY0xJbVgyeGhPaC1TOFpKbmUtZEE2Um1YLUEtNjBtRjFEYjhnU0VmRC04T19FVG1ua01hUzVKclEyRmNxcHA4VDdBQXduTDROSkxVcUZuRGJEN1ROTldRQjJveUxzSzFWeEFxLWloYWViTFZ1clJjdlBKNWRXUVU?oc=5\" target=\"_blank\">Widespread flood warnings continue in Wisconsin on April 15</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Milwaukee Journal Sentinel</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": null,
+        "tweet_id": "2044489889211617351",
+        "geo": {
+            "country": "United States",
+            "name": "Wisconsin",
+            "latitude": 44.5,
+            "longitude": -90.0,
+            "confidence": 1.0
+        }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMjlaZmhxNUFrTV8tME9DODg1ZHJaMThodjB5QjROcjU1MkRUOVZTWVdiUXNsVFY3RXJabEMzQ1JKdmlsd2FDa290b0dJTjhNbWMzWGg3czd1UFpFY3hLcEZjU3VxUzNKNXE1VkZqNTJiQlY4MTlNLWh2U09FTkRNT3IxZWFicTF4VHJBRFdsZEEydDFJaUJYTUxDUWVFTm9Qa214RVVCUlc?oc=5",
+        "date": "2026-04-15",
+        "title": "Northern Michigan now has 5 days of flood warnings in store - Manistee News Advocate",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMjlaZmhxNUFrTV8tME9DODg1ZHJaMThodjB5QjROcjU1MkRUOVZTWVdiUXNsVFY3RXJabEMzQ1JKdmlsd2FDa290b0dJTjhNbWMzWGg3czd1UFpFY3hLcEZjU3VxUzNKNXE1VkZqNTJiQlY4MTlNLWh2U09FTkRNT3IxZWFicTF4VHJBRFdsZEEydDFJaUJYTUxDUWVFTm9Qa214RVVCUlc?oc=5\" target=\"_blank\">Northern Michigan now has 5 days of flood warnings in store</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Manistee News Advocate</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPeFZlbUgwM3ZYbmtwNGtLQ2ZLREdmR2taWTRYTzdacmp6MzVOMF9VY0c3VlNLM0VQZE5DdUwwbEJuMDFsRWN0dVdRbjFmOUhyUWZVTHN4a2Z5SnNiSXNjbFRITTBHRGtCWnl6azlIQXpXM2tTTDE4RUp0eFhpZW5xMTVfb1BuVjZaSU1uR0diQU93bWpHOWh1T0pjUGxMT0tFZE1ES1NlM3UxNUIwY2piXzBqTlNJX0pud2tTcVlNOGMxNzNGMFFxeHF4U2tUQ3hiUTloa2l5S0gtRjdqT25J?oc=5",
+        "date": "2026-04-15",
+        "title": "A flood watch is in effect for the entire state Wednesday, April 15, and some areas are under both flash flood and flood warnings as rivers and dams overflow because of snowmelt and heavy rain. \ud83d\udcf7 by Mandi Wright, Detroit Free Press - facebook.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxPeFZlbUgwM3ZYbmtwNGtLQ2ZLREdmR2taWTRYTzdacmp6MzVOMF9VY0c3VlNLM0VQZE5DdUwwbEJuMDFsRWN0dVdRbjFmOUhyUWZVTHN4a2Z5SnNiSXNjbFRITTBHRGtCWnl6azlIQXpXM2tTTDE4RUp0eFhpZW5xMTVfb1BuVjZaSU1uR0diQU93bWpHOWh1T0pjUGxMT0tFZE1ES1NlM3UxNUIwY2piXzBqTlNJX0pud2tTcVlNOGMxNzNGMFFxeHF4U2tUQ3hiUTloa2l5S0gtRjdqT25J?oc=5\" target=\"_blank\">A flood watch is in effect for the entire state Wednesday, April 15, and some areas are under both flash flood and flood warnings as rivers and dams overflow because of snowmelt and heavy rain. \ud83d\udcf7 by Mandi Wright, Detroit Free Press</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">facebook.com</font>",
+        "similarity_excluded": "No",
+        "score": 10,
+        "status": "processed",
+        "tweet": null,
+        "tweet_id": "2044489367960388083",
+        "geo": {
+            "country": "United States",
+            "name": "Michigan",
+            "latitude": 44.1927,
+            "longitude": -85.1064,
+            "confidence": 0.95
+        }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBLVHRaRE10cHl4SUpxODh0S1JPbHRzRlhvWXJqZWNIOGxSTzUtZWlYa0dFWU5QdllaSEwyeUk0Z0RFUWNUemlNb2tENzFiOExlNTVmVTJWVmN3Q1ZQRExNQllZVWZCN1ZLTWJyRUh4TUJwSERieXc?oc=5",
+        "date": "2026-04-15",
+        "title": "Flood warning issued along Wisconsin River - Point/Plover Metro Wire",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTFBLVHRaRE10cHl4SUpxODh0S1JPbHRzRlhvWXJqZWNIOGxSTzUtZWlYa0dFWU5QdllaSEwyeUk0Z0RFUWNUemlNb2tENzFiOExlNTVmVTJWVmN3Q1ZQRExNQllZVWZCN1ZLTWJyRUh4TUJwSERieXc?oc=5\" target=\"_blank\">Flood warning issued along Wisconsin River</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Point/Plover Metro Wire</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQME5wbDNPZXBCRk5XdVdQN3ROZEgwaUlIYUZuM0NqZDhFMG1NM2prMTZXb1RmUGRhWTdzT1hIQzhab2J4Z3V4eS1xcGd5OENBSXhLdjBJS1VQcVlIUDFVSjJOeVdfdEJsby14ajJyTkRDckNLaE4weXh5bHU3b0FIZnByU3RDUEhaMWpCUjNJdHRQbURZTUxwREFNWWZPV1JqM0RzdEwtMXJLdnBYZk1Oc1hRVWY2aVY4TU1fSzN5U3FKU0MwVW1uRk9JV3lHVXlvN0Vz?oc=5",
+        "date": "2026-04-15",
+        "title": "Flood warning issued for Kent County until Thursday evening \u2013 minor flooding is happening - MLive.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxQME5wbDNPZXBCRk5XdVdQN3ROZEgwaUlIYUZuM0NqZDhFMG1NM2prMTZXb1RmUGRhWTdzT1hIQzhab2J4Z3V4eS1xcGd5OENBSXhLdjBJS1VQcVlIUDFVSjJOeVdfdEJsby14ajJyTkRDckNLaE4weXh5bHU3b0FIZnByU3RDUEhaMWpCUjNJdHRQbURZTUxwREFNWWZPV1JqM0RzdEwtMXJLdnBYZk1Oc1hRVWY2aVY4TU1fSzN5U3FKU0MwVW1uRk9JV3lHVXlvN0Vz?oc=5\" target=\"_blank\">Flood warning issued for Kent County until Thursday evening \u2013 minor flooding is happening</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MLive.com</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOMVQ3dE9Fa21KSXl4YXVLcG4wS090RE5pQlV5aWtrb0VUN3pYWjV1ekNPRUxfNUMxQmFxRVNPUVlFSmJWd19WSktzd0l1Mk5FLVZOSFNpckp2QV9xU3ctZmpZVkhjejYyMnFrakZXeUxYUDZmT3VHRk0zMWVmUDBTdlBkNm1DeDQydWpxSVBITi00TW1fbVdBRGtSWmVNMDU3OFF4TktkTjNWbjQ0bGRhREJJLTMyVHZOYkxxZndEUm5rTUNqcHJhQm1JMA?oc=5",
+        "date": "2026-04-15",
+        "title": "Michigan flood watch, warnings issued. Where water is rising - Detroit Free Press",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxOMVQ3dE9Fa21KSXl4YXVLcG4wS090RE5pQlV5aWtrb0VUN3pYWjV1ekNPRUxfNUMxQmFxRVNPUVlFSmJWd19WSktzd0l1Mk5FLVZOSFNpckp2QV9xU3ctZmpZVkhjejYyMnFrakZXeUxYUDZmT3VHRk0zMWVmUDBTdlBkNm1DeDQydWpxSVBITi00TW1fbVdBRGtSWmVNMDU3OFF4TktkTjNWbjQ0bGRhREJJLTMyVHZOYkxxZndEUm5rTUNqcHJhQm1JMA?oc=5\" target=\"_blank\">Michigan flood watch, warnings issued. Where water is rising</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Detroit Free Press</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPY01VVUVydGJWdXF0Z0tHem1fcUQ4MDJfa196bGc1MFduYXJfMGItSnRsUzhjWTA4QldTdVZIWFBZZHBhSkgySlpFdlhBNGNvWmRvd3lydW4tb3NrbjhYSktZa3YxaWpPUEtIMEVzNE4xeFRpSGIxazBMNUNiUXgyNWxPdnBLRjRobm41dXNPLWZwOHdU0gGaAUFVX3lxTFA3VW9TOUNXaDMzeXdqelhhZGdmNW9GdDNSNlVFTDhCMERWcWZMNk4teHgzckZuWlhSRG1ZYWw0cmJlYTY3OHNnYXZmemZQNjVvVTNTaUU1U3hybGlLejNnczVTZmY2TFdMdTNFY2lMM1UxZDRydWRRa1ZCZW1pRXFBM2RqU01aSS1DYndFQ0VjUF9fM3dXZEx5Rnc?oc=5",
+        "date": "2026-04-15",
+        "title": "Flash floods submerge vehicles, Milwaukee Fire Department responds - FOX6 News Milwaukee",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxPY01VVUVydGJWdXF0Z0tHem1fcUQ4MDJfa196bGc1MFduYXJfMGItSnRsUzhjWTA4QldTdVZIWFBZZHBhSkgySlpFdlhBNGNvWmRvd3lydW4tb3NrbjhYSktZa3YxaWpPUEtIMEVzNE4xeFRpSGIxazBMNUNiUXgyNWxPdnBLRjRobm41dXNPLWZwOHdU0gGaAUFVX3lxTFA3VW9TOUNXaDMzeXdqelhhZGdmNW9GdDNSNlVFTDhCMERWcWZMNk4teHgzckZuWlhSRG1ZYWw0cmJlYTY3OHNnYXZmemZQNjVvVTNTaUU1U3hybGlLejNnczVTZmY2TFdMdTNFY2lMM1UxZDRydWRRa1ZCZW1pRXFBM2RqU01aSS1DYndFQ0VjUF9fM3dXZEx5Rnc?oc=5\" target=\"_blank\">Flash floods submerge vehicles, Milwaukee Fire Department responds</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FOX6 News Milwaukee</font>",
+        "similarity_excluded": "No",
+        "score": 6,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPanRkbWZEVFpuVkU5RjM5TEZjaEFBMjI0RkJyZTRaNS1xVVFUdWcxS1QtMm05aTdkOTZwQ2tpdkNaYnBtcnpFWXpwRGZMdDRpYWc0LTlIWUpKc3NOdkRteEVzSnpGMEtaYzhETnNtdHZUTS1nMFo2amFxRENiczVZQk0xa0djeFUycl92ekpEa2EyTGdzR1pCNXdjbE9VeW1QQm1hUVhfbjQ4VGtUc0d5MWdIUElsdjBvaDJ2NG9adUdnNWtNSFluTE44YTdnX3VJc1VTZWVWcw?oc=5",
+        "date": "2026-04-15",
+        "title": "Ionia County under a flood warning from Thursday to Tuesday \u2013 moderate flooding is predicted - MLive.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxPanRkbWZEVFpuVkU5RjM5TEZjaEFBMjI0RkJyZTRaNS1xVVFUdWcxS1QtMm05aTdkOTZwQ2tpdkNaYnBtcnpFWXpwRGZMdDRpYWc0LTlIWUpKc3NOdkRteEVzSnpGMEtaYzhETnNtdHZUTS1nMFo2amFxRENiczVZQk0xa0djeFUycl92ekpEa2EyTGdzR1pCNXdjbE9VeW1QQm1hUVhfbjQ4VGtUc0d5MWdIUElsdjBvaDJ2NG9adUdnNWtNSFluTE44YTdnX3VJc1VTZWVWcw?oc=5\" target=\"_blank\">Ionia County under a flood warning from Thursday to Tuesday \u2013 moderate flooding is predicted</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MLive.com</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNWF9FRlNTZVlERTNOQl9IaGUtamNpYXhlc2huYWJ3dHEzUDZqMnYwRDN1bEJROGdBYnVOaFBaUnpTYlBxTDN3UTgxQ0VWTW9KWThQcEhqaVN4ck56eE1KNmVIcVo4aXRWUVd2V25TX0FGRVlLdV93RWhLZFBKTFpJeDFVNWNndmVqWENlbTVEanBBTmpUYzd0M29nUWM5bl82MWs0Qno3TUo3ajhEQmFLVmNueXgzWFdBdkREc3dLeDFIZnRJQy1ILW1tZWxQR2MxOWJEaVFaS0h0WWdpY2c?oc=5",
+        "date": "2026-04-15",
+        "title": "Ingham County placed under a flood warning from Thursday to Tuesday \u2013 minor flooding is predicted - MLive.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxNWF9FRlNTZVlERTNOQl9IaGUtamNpYXhlc2huYWJ3dHEzUDZqMnYwRDN1bEJROGdBYnVOaFBaUnpTYlBxTDN3UTgxQ0VWTW9KWThQcEhqaVN4ck56eE1KNmVIcVo4aXRWUVd2V25TX0FGRVlLdV93RWhLZFBKTFpJeDFVNWNndmVqWENlbTVEanBBTmpUYzd0M29nUWM5bl82MWs0Qno3TUo3ajhEQmFLVmNueXgzWFdBdkREc3dLeDFIZnRJQy1ILW1tZWxQR2MxOWJEaVFaS0h0WWdpY2c?oc=5\" target=\"_blank\">Ingham County placed under a flood warning from Thursday to Tuesday \u2013 minor flooding is predicted</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MLive.com</font>",
+        "similarity_excluded": "No",
+        "score": 5,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNS09ZRG1mbXVEWnJZNVQtVFUwQlI0eENzaW1qYzJCRHZnOXVTZmZ6YjVLT2ZIZjgtLWp1aGpWXzZmZFU2ZXFOVUdPUGwzYVA2U2VKaGQtdnVhdlFjaUhFMy0wcjhfdjZteXhOSE1zazBxY2o2Q2JMY2tXTEZUSEVMb0xDdWZPXzJrVzBCcE5yZkJ3bDMxSkNFOTJKYTgtTWhVSDRhV245TEc3ZjlqRDZ1R0llUVpFc2tZLVYyUlFGVnFTaTN5czhsemJXNEhTTF9CcGJnVG51aTg?oc=5",
+        "date": "2026-04-15",
+        "title": "Ingham County under a flood warning until Saturday afternoon \u2013 moderate flooding is predicted - MLive.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxNS09ZRG1mbXVEWnJZNVQtVFUwQlI0eENzaW1qYzJCRHZnOXVTZmZ6YjVLT2ZIZjgtLWp1aGpWXzZmZFU2ZXFOVUdPUGwzYVA2U2VKaGQtdnVhdlFjaUhFMy0wcjhfdjZteXhOSE1zazBxY2o2Q2JMY2tXTEZUSEVMb0xDdWZPXzJrVzBCcE5yZkJ3bDMxSkNFOTJKYTgtTWhVSDRhV245TEc3ZjlqRDZ1R0llUVpFc2tZLVYyUlFGVnFTaTN5czhsemJXNEhTTF9CcGJnVG51aTg?oc=5\" target=\"_blank\">Ingham County under a flood warning until Saturday afternoon \u2013 moderate flooding is predicted</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MLive.com</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOcjhGMXpXa3dxa0FEOTBiNjM1Rk5YNXV2RGJsbUdVRGI2eDRhTkNIbm1fWVdmUHVVUEJlUXZzNjlkclJ3em5YcFRkUXkwOXU0T0R1TzVLX1NSMHgtaTRnSmZndVMwU0stUGUxOGtzZC1FYW85X1BMSjR4dklnd2lwdTJ4LWZsbjFNbURJMXhzeFVDVEV1YzNoNzJTRm1MSjg1b0ZuRUNBM280YTRYemlUYlpUUmducEFrWmhjZ0IySFB1NTRpN0l3MGJMbWNiZEtF?oc=5",
+        "date": "2026-04-15",
+        "title": "Bay and Saginaw counties under a flood warning from Thursday and until further notice - MLive.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxOcjhGMXpXa3dxa0FEOTBiNjM1Rk5YNXV2RGJsbUdVRGI2eDRhTkNIbm1fWVdmUHVVUEJlUXZzNjlkclJ3em5YcFRkUXkwOXU0T0R1TzVLX1NSMHgtaTRnSmZndVMwU0stUGUxOGtzZC1FYW85X1BMSjR4dklnd2lwdTJ4LWZsbjFNbURJMXhzeFVDVEV1YzNoNzJTRm1MSjg1b0ZuRUNBM280YTRYemlUYlpUUmducEFrWmhjZ0IySFB1NTRpN0l3MGJMbWNiZEtF?oc=5\" target=\"_blank\">Bay and Saginaw counties under a flood warning from Thursday and until further notice</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MLive.com</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNVDRxWlBpeUVZMG9fSTBGVTFNVVowQUtmV2VibnFRWkh3ZUFXUHpfbmtJWGVLeUFySVl0N0V6eHp0MlhqLVM1b3A5MXhqMGVDdVVPZ014TGdwcllsNFF0VDVvLUNIUG9vbXRCa2NxaTVuRXNFMzl0eG9RZ0RzMHVoOHExQ1VzZzF1bE96VlFsMUpWbk45OTNScFplbHQ0dU5jRDZWTGNqVDZCWXQ1UzViR3lvczJFV3NfdTJNZXRMZ0Rxd01TSWtLQ3FWeF95OWlXemQ2ekdSYlNXeFE?oc=5",
+        "date": "2026-04-15",
+        "title": "Flood warning issued for Ingham County from Thursday to Tuesday \u2013 minor flooding is anticipated - MLive.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxNVDRxWlBpeUVZMG9fSTBGVTFNVVowQUtmV2VibnFRWkh3ZUFXUHpfbmtJWGVLeUFySVl0N0V6eHp0MlhqLVM1b3A5MXhqMGVDdVVPZ014TGdwcllsNFF0VDVvLUNIUG9vbXRCa2NxaTVuRXNFMzl0eG9RZ0RzMHVoOHExQ1VzZzF1bE96VlFsMUpWbk45OTNScFplbHQ0dU5jRDZWTGNqVDZCWXQ1UzViR3lvczJFV3NfdTJNZXRMZ0Rxd01TSWtLQ3FWeF95OWlXemQ2ekdSYlNXeFE?oc=5\" target=\"_blank\">Flood warning issued for Ingham County from Thursday to Tuesday \u2013 minor flooding is anticipated</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MLive.com</font>",
+        "similarity_excluded": "No",
+        "score": 6,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQY09rS3EtQkxHMWNxTEx3Wm4xRFM5NUJtdmc2M3lSVzdqMm9Qck9lbG5YbzJUaDJCMEE4THFyUnJDNG8yd2ljZlhpbnA3akxBNE42QVVtRVlIXzg4LUxnTFV6SHo3VVo5LThoUzJFMGRiM1l2UTA4aV9wU3BXcnBSQ3ZEUTFlQVBaM0ZTTk9KY3dqZlJablZ0X2FQYXUtU1R2TjFnM1lxOXUtU2VzRGwxTm84ME1tNGZpNy1DZVRqUldlSjd0RGRpNUJsRFUxbU5DQ3lHdlRR?oc=5",
+        "date": "2026-04-15",
+        "title": "Flood warning affecting Kalamazoo County until further notice \u2013 minor flooding is predicted - MLive.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxQY09rS3EtQkxHMWNxTEx3Wm4xRFM5NUJtdmc2M3lSVzdqMm9Qck9lbG5YbzJUaDJCMEE4THFyUnJDNG8yd2ljZlhpbnA3akxBNE42QVVtRVlIXzg4LUxnTFV6SHo3VVo5LThoUzJFMGRiM1l2UTA4aV9wU3BXcnBSQ3ZEUTFlQVBaM0ZTTk9KY3dqZlJablZ0X2FQYXUtU1R2TjFnM1lxOXUtU2VzRGwxTm84ME1tNGZpNy1DZVRqUldlSjd0RGRpNUJsRFUxbU5DQ3lHdlRR?oc=5\" target=\"_blank\">Flood warning affecting Kalamazoo County until further notice \u2013 minor flooding is predicted</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MLive.com</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQdG05dXRnRzV0VjRnR0duU0VSdXVqdklsTmFNenlqZWU2ODgwREE0eG9KS0wybC1BajNZLWJrdHNnVVMxMWtNanJPU3BqeDByNWRYNktRM0pTYkVDdXFydDRIbzVBUW9mUVZmcHA1dTNGVlR6dzVXQ0pKSjM4bnBNWWswS1hDdlhvazFOWUpHcXVkazNpenlfZ25OT0J1OFlTMERheHBibHRXcmExWW9tOFB2Nk1rMDhqMXJ2ZUJHeUNuZ1plRGwwMmYtb19YRERKY2JOd3FLaDhVY1h5NU54ag?oc=5",
+        "date": "2026-04-15",
+        "title": "Flood warning for Barry County from Thursday and until further notice \u2013 minor flooding is predicted - MLive.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxQdG05dXRnRzV0VjRnR0duU0VSdXVqdklsTmFNenlqZWU2ODgwREE0eG9KS0wybC1BajNZLWJrdHNnVVMxMWtNanJPU3BqeDByNWRYNktRM0pTYkVDdXFydDRIbzVBUW9mUVZmcHA1dTNGVlR6dzVXQ0pKSjM4bnBNWWswS1hDdlhvazFOWUpHcXVkazNpenlfZ25OT0J1OFlTMERheHBibHRXcmExWW9tOFB2Nk1rMDhqMXJ2ZUJHeUNuZ1plRGwwMmYtb19YRERKY2JOd3FLaDhVY1h5NU54ag?oc=5\" target=\"_blank\">Flood warning for Barry County from Thursday and until further notice \u2013 minor flooding is predicted</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MLive.com</font>",
+        "similarity_excluded": "No",
+        "score": 5,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNWXl5a01uMFF4a1kwUEpCcnBnam1adWhscVAwcXl4Vm5ZSWRQNFdBYjBsV3BYa3hoQjBnOW1wNUpaakZ5eW8xb2J4RXRyMkxFY1dEZ05pNlNqSEJxdmtPd3JXVlFmVkRUTDl5MDhWYW9jV0FhckhyWm9hTXZHWmJySkZscENWV0M1MzhyYWdIZmkwVHBSYXE1LXduQmhtNF90T2lNQkYzOFN6UHk1bzVjNkhpb09LY2RHTnh6YzB0NHZoVFptM2U1WVVHaXZzRVlEZHQ1em1WYw?oc=5",
+        "date": "2026-04-15",
+        "title": "Flood warning active for Osceola County until further notice \u2013 significant flooding expected - MLive.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxNWXl5a01uMFF4a1kwUEpCcnBnam1adWhscVAwcXl4Vm5ZSWRQNFdBYjBsV3BYa3hoQjBnOW1wNUpaakZ5eW8xb2J4RXRyMkxFY1dEZ05pNlNqSEJxdmtPd3JXVlFmVkRUTDl5MDhWYW9jV0FhckhyWm9hTXZHWmJySkZscENWV0M1MzhyYWdIZmkwVHBSYXE1LXduQmhtNF90T2lNQkYzOFN6UHk1bzVjNkhpb09LY2RHTnh6YzB0NHZoVFptM2U1WVVHaXZzRVlEZHQ1em1WYw?oc=5\" target=\"_blank\">Flood warning active for Osceola County until further notice \u2013 significant flooding expected</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MLive.com</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQSW9CVlQ2SEtvY1ZuNFloeGZKd0pqc0JyZ0NYMXUyeGhIZDNBc2pHUHdjQW9qNHdjOVZ1NFR3bzlFdklxeGlMUXF1bmtrcE93M1k0WmttLWtOZEZROUQyQTNxcy03OUV6RVpMQ1hvZ3pva05sbHZPbkJqTzN4eTdHY0M2dGVJdkxRZGQtVGJqb0TSAaQBQVVfeXFMTmlUSFI4MUdaWVJEc2NRMHRnNjhvdlN2YlBCdzFycVJjT1Y0OGFfQzhFSVhMZ1pDVlotWkF0UWI2M09UMXhabFgwTzBLdmpaSV84MWkwQVhua3dVZkJ1SWVYMEhYYmhjV1ZlNS1sYzhZQ2ZmVWJJXzNtTXpZTDJlSERZSmNaQWQxMlVTb2JqZGdBUUxaSGNqZVJFUFVKS2lFdW5Ea20?oc=5",
+        "date": "2026-04-15",
+        "title": "Severe Weather Awareness Week focuses on flooding dangers - WSAW",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxQSW9CVlQ2SEtvY1ZuNFloeGZKd0pqc0JyZ0NYMXUyeGhIZDNBc2pHUHdjQW9qNHdjOVZ1NFR3bzlFdklxeGlMUXF1bmtrcE93M1k0WmttLWtOZEZROUQyQTNxcy03OUV6RVpMQ1hvZ3pva05sbHZPbkJqTzN4eTdHY0M2dGVJdkxRZGQtVGJqb0TSAaQBQVVfeXFMTmlUSFI4MUdaWVJEc2NRMHRnNjhvdlN2YlBCdzFycVJjT1Y0OGFfQzhFSVhMZ1pDVlotWkF0UWI2M09UMXhabFgwTzBLdmpaSV84MWkwQVhua3dVZkJ1SWVYMEhYYmhjV1ZlNS1sYzhZQ2ZmVWJJXzNtTXpZTDJlSERZSmNaQWQxMlVTb2JqZGdBUUxaSGNqZVJFUFVKS2lFdW5Ea20?oc=5\" target=\"_blank\">Severe Weather Awareness Week focuses on flooding dangers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSAW</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPVS1XR21idjdOeTA1TXVnXzBHTTFPMVB4VUl1SHRJaFdYVmpfelI5NjFyb0U0cFFoYWZNc3JqTlB0VlFpYUphVURiaE5FUUNIM1NrM1h0V0NQeG9HcUoyTWNoY3BkV2d6ck1FLThWSVZwUkNrZWNRckhqM3NleXlCdklkZ2dGWTJUX0h0U21WV0p5RkhlWTZIbFgwWGpmWmkzenRjSDJoV0Q2dTV6cW05eG5HbDlpQ01QSE5zcmZtaEdncUFBdm9NaXgzZ2hvREdfZWw2bEtNQ0VzT2E0akE?oc=5",
+        "date": "2026-04-15",
+        "title": "Flood warning issued for Saginaw and Shiawassee counties from Thursday and until further notice - MLive.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxPVS1XR21idjdOeTA1TXVnXzBHTTFPMVB4VUl1SHRJaFdYVmpfelI5NjFyb0U0cFFoYWZNc3JqTlB0VlFpYUphVURiaE5FUUNIM1NrM1h0V0NQeG9HcUoyTWNoY3BkV2d6ck1FLThWSVZwUkNrZWNRckhqM3NleXlCdklkZ2dGWTJUX0h0U21WV0p5RkhlWTZIbFgwWGpmWmkzenRjSDJoV0Q2dTV6cW05eG5HbDlpQ01QSE5zcmZtaEdncUFBdm9NaXgzZ2hvREdfZWw2bEtNQ0VzT2E0akE?oc=5\" target=\"_blank\">Flood warning issued for Saginaw and Shiawassee counties from Thursday and until further notice</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MLive.com</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQcDIzSXh6Z1B2ZWVZek9DM2hIUkQwLWUzUGQzQjY4Uk1LeHYzQ1YzM0pJdEZLbmJLNTM3OXNhRDNXczB1ZGUxN0lpYV8zdGZsM2dXVGpXSDRoVVZnWWVaS3NBNll2ZVJMcjhvaWdyRXZLRGpkeWl0WXhyeWdva0lNVERBeUtFQ1ZLR0NrTU9R?oc=5",
+        "date": "2026-04-15",
+        "title": "ALERT: 9 Mile Road, 80th Ave. flooded in Mecosta County - Big Rapids Pioneer",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQcDIzSXh6Z1B2ZWVZek9DM2hIUkQwLWUzUGQzQjY4Uk1LeHYzQ1YzM0pJdEZLbmJLNTM3OXNhRDNXczB1ZGUxN0lpYV8zdGZsM2dXVGpXSDRoVVZnWWVaS3NBNll2ZVJMcjhvaWdyRXZLRGpkeWl0WXhyeWdva0lNVERBeUtFQ1ZLR0NrTU9R?oc=5\" target=\"_blank\">ALERT: 9 Mile Road, 80th Ave. flooded in Mecosta County</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Big Rapids Pioneer</font>",
+        "similarity_excluded": "No",
+        "score": 5,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQR09CNEhfNWVveHZsODdBSFlRTnljS1hfMHd5UnM1T0hHMWhwR1Y3LTVDZmpvSTFQNlJib1p5MEFwdjVHTXpPWlZwRG8zblFGc1NCY3hoTjFjX0hueEZEUWpaUlJ0czVzWDlyTmdjTFZBT2NVa0FXdnN2Z2JKUVY3M3AyRHFBMHNZRC1jUG42RlhPaGJBYWQ3dVJRcnVGWlU0Yjd0LXA0UkFYMEFJeXgta0VQc1hnNUhhY255WWJsWGRWcTR0Z21ueDdKY2VJR3RYV216blBVX2Fud2k2TTJYcklB?oc=5",
+        "date": "2026-04-15",
+        "title": "Flood warning for Midland and Saginaw counties until further notice \u2013 moderate flooding is predicted - MLive.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxQR09CNEhfNWVveHZsODdBSFlRTnljS1hfMHd5UnM1T0hHMWhwR1Y3LTVDZmpvSTFQNlJib1p5MEFwdjVHTXpPWlZwRG8zblFGc1NCY3hoTjFjX0hueEZEUWpaUlJ0czVzWDlyTmdjTFZBT2NVa0FXdnN2Z2JKUVY3M3AyRHFBMHNZRC1jUG42RlhPaGJBYWQ3dVJRcnVGWlU0Yjd0LXA0UkFYMEFJeXgta0VQc1hnNUhhY255WWJsWGRWcTR0Z21ueDdKY2VJR3RYV216blBVX2Fud2k2TTJYcklB?oc=5\" target=\"_blank\">Flood warning for Midland and Saginaw counties until further notice \u2013 moderate flooding is predicted</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MLive.com</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPeFF4R0tzOEhkczlITkZOVGxmUlN3ZWluR3RyUzE4WUhlLWZRSlJMQllmY05IbzB4V3gwbHpwSTlNQ3BWSHNZSGNnNTYxOFF1UXYxSENIa1d1eGRnNW0wZ2swNFBMMGRtVjJtTWlyTU0xSEN4dkszbTBNX0JwV0hfelQyaFJWa2ZaZ29UQXFDQkZid0NDSVhkZjVVXzRKT1A2eFM0Rl9yYnJFU2Znd0V1Y3hCUFFPcXF3YlJpX3dQZXBFZ3FPVXhQUTJHOTk5djVwc3E3N2M2YU83YmFQS1gxcnExNA?oc=5",
+        "date": "2026-04-15",
+        "title": "Flood warning for Saginaw County from Thursday and until further notice \u2013 minor flooding is projected - MLive.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxPeFF4R0tzOEhkczlITkZOVGxmUlN3ZWluR3RyUzE4WUhlLWZRSlJMQllmY05IbzB4V3gwbHpwSTlNQ3BWSHNZSGNnNTYxOFF1UXYxSENIa1d1eGRnNW0wZ2swNFBMMGRtVjJtTWlyTU0xSEN4dkszbTBNX0JwV0hfelQyaFJWa2ZaZ29UQXFDQkZid0NDSVhkZjVVXzRKT1A2eFM0Rl9yYnJFU2Znd0V1Y3hCUFFPcXF3YlJpX3dQZXBFZ3FPVXhQUTJHOTk5djVwc3E3N2M2YU83YmFQS1gxcnExNA?oc=5\" target=\"_blank\">Flood warning for Saginaw County from Thursday and until further notice \u2013 minor flooding is projected</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MLive.com</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQNy01MjhxUFRjTkNCLV9pVFpsb0ZOR2l6cF91d3hBWnV0ZEJpdmlEaGFQTnhfYjNmU1V4NGkyQUdtZlc5aFI2UnhpRlFHUGVoazlqUXNRaVU4VDRoRzlMeWpXcEFIbl9BYnpVSHd3c3R6d0NUNmwtVGozQTk2RlcxckRLOWdNM2pETUdRampGSHlzVEh6YlcyWV9DbVB2TmNVTWhuTDI1SVBCdVdfUGVMOHM4RjBSWi1tZElXVVlDWFdGUQ?oc=5",
+        "date": "2026-04-15",
+        "title": "Portion of suburbs under flash flood warning as more thunderstorms expected today - Daily Herald",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxQNy01MjhxUFRjTkNCLV9pVFpsb0ZOR2l6cF91d3hBWnV0ZEJpdmlEaGFQTnhfYjNmU1V4NGkyQUdtZlc5aFI2UnhpRlFHUGVoazlqUXNRaVU4VDRoRzlMeWpXcEFIbl9BYnpVSHd3c3R6d0NUNmwtVGozQTk2RlcxckRLOWdNM2pETUdRampGSHlzVEh6YlcyWV9DbVB2TmNVTWhuTDI1SVBCdVdfUGVMOHM4RjBSWi1tZElXVVlDWFdGUQ?oc=5\" target=\"_blank\">Portion of suburbs under flash flood warning as more thunderstorms expected today</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Daily Herald</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQNWpadGFPcUFwbUFuaEs1Tnp3TWZVeWxhOE5VelVoY19qazlhb2phSkxBVXZ6bktIb2l1YTFtc0FaY3I0N1hrTHpTN0pXTGdqc09ES0hHaWphZWdMbk9HRjVELU5WVU9ObmpNcC1pSWhmVTkwLUw5WlE5elBZeGdoQ3NOeGdkX1M5cHM1cE5lX1RMQklFZWJMdVVVZG52dTU3MjU1M28wQ0xXX3lwZjd2YmdXUEt3TzJtQ1BKc2FCdzBZU3FhUjhWc25hVWU5U1BIbEZuM1FB?oc=5",
+        "date": "2026-04-15",
+        "title": "Flood watch issued for 12 Michigan counties until 2 a.m. EDT Friday due to heavy downpours - MLive.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxQNWpadGFPcUFwbUFuaEs1Tnp3TWZVeWxhOE5VelVoY19qazlhb2phSkxBVXZ6bktIb2l1YTFtc0FaY3I0N1hrTHpTN0pXTGdqc09ES0hHaWphZWdMbk9HRjVELU5WVU9ObmpNcC1pSWhmVTkwLUw5WlE5elBZeGdoQ3NOeGdkX1M5cHM1cE5lX1RMQklFZWJMdVVVZG52dTU3MjU1M28wQ0xXX3lwZjd2YmdXUEt3TzJtQ1BKc2FCdzBZU3FhUjhWc25hVWU5U1BIbEZuM1FB?oc=5\" target=\"_blank\">Flood watch issued for 12 Michigan counties until 2 a.m. EDT Friday due to heavy downpours</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MLive.com</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNZWZOZTN6OXltRElzSG9Jb21la2xMNjZTSS0yNGNRclJxOFNlcktLckgySVdrUGo0dEF5OUJsQk5xc2FTeTJqVHJZMXZuOHhwTVhmZnJUbndFSjNNS0V2aDZ6clMtTWZtVTJnZkhGZl8xS09jSW1BcHc0UXpGNXRDaEY2aTRRcW9aVG1uWGUzMncyU2x3djlTWDI1Zk1OVndDVl9ja1RZZFNnNjhFeXJacXBhV0ZMbWxid09sbDNqbXlmd2Z4M0VDMV93bnlNZU9vWHVkYnJ3?oc=5",
+        "date": "2026-04-15",
+        "title": "Flash flooding issued in Illinois after overnight storms. See warnings - Peoria Journal Star",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxNZWZOZTN6OXltRElzSG9Jb21la2xMNjZTSS0yNGNRclJxOFNlcktLckgySVdrUGo0dEF5OUJsQk5xc2FTeTJqVHJZMXZuOHhwTVhmZnJUbndFSjNNS0V2aDZ6clMtTWZtVTJnZkhGZl8xS09jSW1BcHc0UXpGNXRDaEY2aTRRcW9aVG1uWGUzMncyU2x3djlTWDI1Zk1OVndDVl9ja1RZZFNnNjhFeXJacXBhV0ZMbWxid09sbDNqbXlmd2Z4M0VDMV93bnlNZU9vWHVkYnJ3?oc=5\" target=\"_blank\">Flash flooding issued in Illinois after overnight storms. See warnings</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Peoria Journal Star</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQSXpmdDVNMGhmZXV5MzdNSFRlWjZsV0VHeFk4WjBldmszTWkxT193TFljMW0yNmlBakl6S3hUX2YwcUVCMVVCNGg2eGF6TjJBcmVVcDh6NW53a05YSUtnZ0lta2xYZzlPUkxNTGdTdDhZUDZxY0hDcDZRdXNPd0pYNTNyTmtILXVoTWMyRE1xUmtzZDIzQ1FkZkl3YTgzQ09adzNuN28tVnRCWVRDUTJ3VHg2RVVrd0pNaWw0bjBRUldRSWwwRThLX1lBSC1sWGJDTEJvNl8ydWttSHJyZURhdFEwRU0?oc=5",
+        "date": "2026-04-15",
+        "title": "Flood watch in place for 11 Michigan counties until 2 a.m. EDT Friday triggered by substantial downpours - MLive.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxQSXpmdDVNMGhmZXV5MzdNSFRlWjZsV0VHeFk4WjBldmszTWkxT193TFljMW0yNmlBakl6S3hUX2YwcUVCMVVCNGg2eGF6TjJBcmVVcDh6NW53a05YSUtnZ0lta2xYZzlPUkxNTGdTdDhZUDZxY0hDcDZRdXNPd0pYNTNyTmtILXVoTWMyRE1xUmtzZDIzQ1FkZkl3YTgzQ09adzNuN28tVnRCWVRDUTJ3VHg2RVVrd0pNaWw0bjBRUldRSWwwRThLX1lBSC1sWGJDTEJvNl8ydWttSHJyZURhdFEwRU0?oc=5\" target=\"_blank\">Flood watch in place for 11 Michigan counties until 2 a.m. EDT Friday triggered by substantial downpours</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MLive.com</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1rZDd2bUhQczF6Uk03eHpsZlhMVHAwNjI0cDdUYlVMbFUwcHBiT3lfWDVzenU5M0FmWTRDNW9FZHlVSjVOdldwMGRiZ0VYRm5yU3Q0QjlTM09vTUttbXhKaGRNOA?oc=5",
+        "date": "2026-04-15",
+        "title": "Snowmelt and rain create flood risk across Great Lakes with widespread flash flood alerts in place - FOX Weather",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE1rZDd2bUhQczF6Uk03eHpsZlhMVHAwNjI0cDdUYlVMbFUwcHBiT3lfWDVzenU5M0FmWTRDNW9FZHlVSjVOdldwMGRiZ0VYRm5yU3Q0QjlTM09vTUttbXhKaGRNOA?oc=5\" target=\"_blank\">Snowmelt and rain create flood risk across Great Lakes with widespread flash flood alerts in place</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FOX Weather</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQS00zOXlDcUNWbUFZOVhQYmk1dXhfT0NnUy1Qdk9yZ2Z1eWpFMUNhbEo0RjVuN1pwdXV0YXA4SjVIV1JZbjhjMHhHYUtmS1NjVzlmMVcyYi1zZVRqYW1QZnFBOGtSOEMtVTd5NDNKSmF3N0x2Q2RaUUxDajl2RU1leHRQUlBSM1RpX2RFVGI5MjFnT0Zq?oc=5",
+        "date": "2026-04-15",
+        "title": "Camp Mystic official says she still hasn\u2019t reported flood deaths to Texas agency - The Guardian",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQS00zOXlDcUNWbUFZOVhQYmk1dXhfT0NnUy1Qdk9yZ2Z1eWpFMUNhbEo0RjVuN1pwdXV0YXA4SjVIV1JZbjhjMHhHYUtmS1NjVzlmMVcyYi1zZVRqYW1QZnFBOGtSOEMtVTd5NDNKSmF3N0x2Q2RaUUxDajl2RU1leHRQUlBSM1RpX2RFVGI5MjFnT0Zq?oc=5\" target=\"_blank\">Camp Mystic official says she still hasn\u2019t reported flood deaths to Texas agency</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNR1VoTWR3alVIUHNENWZQZ0p2MEdYZlh5dUxjb2RqT29BZEhDOXZhRVQzN3VGek1vWWFuY3BQT21qYlVDTThxUkd1NWtCSmZsOF83S1VETWp5TlBzcXFuWHZlcDIzd3J5M1hzR2VkSGVaSzVtb2Rlb3ZvQURuVXU4dk9HOEFIdFdnYWRLcXE0N0dIRWN2dGppRDFKeWlJbW9NV0dVbVhYNGFucHZsS21Z0gHKAUFVX3lxTE11STBIWlJBN3R5MEgxOXR2d3g3ZlVFSWkyR2lJMk1ibnpzckdnb3Bqek4tQ0YxaGN3b3ZBd0QySkdTdVNrTzRsaG5XYXYxQTdxTXFablVraUo3QXczTWxCd1F2VTg1YWZVaTNMeU9kdUpOZVItVlMxME5ZVG1JaUdCRC1nWEU0THVDLU1KX0NDc3lFYTgzNWxJcHBwU1lxVFFjOTJUeHU2cFM5RHhsbU8yM0owZ0h3RGh3U0M0M0Zoank2dy1kQXpENFE?oc=5",
+        "date": "2026-04-15",
+        "title": "Flood Warning In Effect For Lincolnshire, Des Plaines: National Weather Service - Patch",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxNR1VoTWR3alVIUHNENWZQZ0p2MEdYZlh5dUxjb2RqT29BZEhDOXZhRVQzN3VGek1vWWFuY3BQT21qYlVDTThxUkd1NWtCSmZsOF83S1VETWp5TlBzcXFuWHZlcDIzd3J5M1hzR2VkSGVaSzVtb2Rlb3ZvQURuVXU4dk9HOEFIdFdnYWRLcXE0N0dIRWN2dGppRDFKeWlJbW9NV0dVbVhYNGFucHZsS21Z0gHKAUFVX3lxTE11STBIWlJBN3R5MEgxOXR2d3g3ZlVFSWkyR2lJMk1ibnpzckdnb3Bqek4tQ0YxaGN3b3ZBd0QySkdTdVNrTzRsaG5XYXYxQTdxTXFablVraUo3QXczTWxCd1F2VTg1YWZVaTNMeU9kdUpOZVItVlMxME5ZVG1JaUdCRC1nWEU0THVDLU1KX0NDc3lFYTgzNWxJcHBwU1lxVFFjOTJUeHU2cFM5RHhsbU8yM0owZ0h3RGh3U0M0M0Zoank2dy1kQXpENFE?oc=5\" target=\"_blank\">Flood Warning In Effect For Lincolnshire, Des Plaines: National Weather Service</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Patch</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQ3VjZ3JXb1l0WXBTMm9jaGY0Nzd6Q05FYXl2NVdtLVQ3S3hfSk1keE1Ralp6V0R6MnBreVRVZkNSZDV2c3BYZXJscDRsenUxZ1RQZ2lDOUVQTkU4LXRvc050SHBFeHQ2RkVTX2xaY0ptQ1JYLW1uZXNLVjNCSkhNeXlWLVk5RnIzYUM5WkxFVEY2ck5sY2FxRQ?oc=5",
+        "date": "2026-04-15",
+        "title": "Summer Camp Official Claims He Didn't See Warnings Before Flood Killed 27 Campers and Staff - People.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPQ3VjZ3JXb1l0WXBTMm9jaGY0Nzd6Q05FYXl2NVdtLVQ3S3hfSk1keE1Ralp6V0R6MnBreVRVZkNSZDV2c3BYZXJscDRsenUxZ1RQZ2lDOUVQTkU4LXRvc050SHBFeHQ2RkVTX2xaY0ptQ1JYLW1uZXNLVjNCSkhNeXlWLVk5RnIzYUM5WkxFVEY2ck5sY2FxRQ?oc=5\" target=\"_blank\">Summer Camp Official Claims He Didn't See Warnings Before Flood Killed 27 Campers and Staff</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">People.com</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVWJ3ZFBxNjFGalJrMHozNVpGRkhTVjVCYzA0TlZvZ18wMXRxeGotZ25RSE5CWjI1cnRUZkZYOVJHdHRLM1p1VmotZGtRTFpiZ3AzMGtqREpVZTRtYkstZkk4YTZtLUQxRDByWV9uSk5Ga24wMHpNeXhXaURNQzF2T0UzdFpnVTZmX3ZFNWNNY0Nxdjg3Z0c0WHBqWlhaVktLdXc?oc=5",
+        "date": "2026-04-15",
+        "title": "County approves contract renewal for flood warning system - Wimberley View",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQVWJ3ZFBxNjFGalJrMHozNVpGRkhTVjVCYzA0TlZvZ18wMXRxeGotZ25RSE5CWjI1cnRUZkZYOVJHdHRLM1p1VmotZGtRTFpiZ3AzMGtqREpVZTRtYkstZkk4YTZtLUQxRDByWV9uSk5Ga24wMHpNeXhXaURNQzF2T0UzdFpnVTZmX3ZFNWNNY0Nxdjg3Z0c0WHBqWlhaVktLdXc?oc=5\" target=\"_blank\">County approves contract renewal for flood warning system</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Wimberley View</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9MQk5FSkZPWWNaa3RRbEdNYi1lLVZtOEdEbmUxRE0yWno1blhvczF0cmVvRUVVX05uSGdkTFNrXzItUEtLSW5ZM2xKMFNmWDVvSS04QWFSUzctYkNBaC1MbnFqeXREX0tLUGZDRTdZYVhLdllydzRTNl93MS1kREE?oc=5",
+        "date": "2026-04-15",
+        "title": "'Am I going to die today?' Finish inquiries before Camp Mystic reopens - San Antonio Express-News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE9MQk5FSkZPWWNaa3RRbEdNYi1lLVZtOEdEbmUxRE0yWno1blhvczF0cmVvRUVVX05uSGdkTFNrXzItUEtLSW5ZM2xKMFNmWDVvSS04QWFSUzctYkNBaC1MbnFqeXREX0tLUGZDRTdZYVhLdllydzRTNl93MS1kREE?oc=5\" target=\"_blank\">'Am I going to die today?' Finish inquiries before Camp Mystic reopens</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">San Antonio Express-News</font>",
+        "similarity_excluded": "No",
+        "score": 4,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPUXVualVtVnBGSV9qU185VS1rcEZwWGNBWTQ5RkhfWGw3cVZlbkIweWQ3NXZHSHN2dUlvSWVENVc3VXB3aDMzX1d2N25uMTlQWUF2bGdlXy03VUo2eWtyVllnc2JnN082Y1pobFdubk5RZ01HT3JwWWhEcURpZHlwb3FMOUdPQnA3OEo3U0RfVDd1R2RHU3I4QjYxdHZFdkhuZ1FHNHpYU1JReHpLWHNEalpJRWlBNjh4ZzBaNTFhWmRmSXh4LThtXzN3VVlFUzN6bEFON2d1dkx1Q1FXRzRRbg?oc=5",
+        "date": "2026-04-15",
+        "title": "Heavy rain prompts flood warning for Kitchener and will remain in place until next week - CBC",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxPUXVualVtVnBGSV9qU185VS1rcEZwWGNBWTQ5RkhfWGw3cVZlbkIweWQ3NXZHSHN2dUlvSWVENVc3VXB3aDMzX1d2N25uMTlQWUF2bGdlXy03VUo2eWtyVllnc2JnN082Y1pobFdubk5RZ01HT3JwWWhEcURpZHlwb3FMOUdPQnA3OEo3U0RfVDd1R2RHU3I4QjYxdHZFdkhuZ1FHNHpYU1JReHpLWHNEalpJRWlBNjh4ZzBaNTFhWmRmSXh4LThtXzN3VVlFUzN6bEFON2d1dkx1Q1FXRzRRbg?oc=5\" target=\"_blank\">Heavy rain prompts flood warning for Kitchener and will remain in place until next week</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CBC</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPOVBtRnRwRnhoU2N4ZTR5SmlwUkFaR2liWUN3NXZfMGQzUUhrQXgxc09TWWRTT3lkWFlvMEZTa0hzRWJqX0VrRmMyd1R5YjBBbERZb3dsMGVwY1pOVFJrTkxlWnR0dWNUYlI0Y3dOUVkyU1RpRWJUeGxXREd0VjlQOExXYmdndw?oc=5",
+        "date": "2026-04-15",
+        "title": "Here's the latest about Appleton-area flooding - AOL.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxPOVBtRnRwRnhoU2N4ZTR5SmlwUkFaR2liWUN3NXZfMGQzUUhrQXgxc09TWWRTT3lkWFlvMEZTa0hzRWJqX0VrRmMyd1R5YjBBbERZb3dsMGVwY1pOVFJrTkxlWnR0dWNUYlI0Y3dOUVkyU1RpRWJUeGxXREd0VjlQOExXYmdndw?oc=5\" target=\"_blank\">Here's the latest about Appleton-area flooding</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AOL.com</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORVNoUlp5WHBPUXhDeXJpVmZBRDlTMXFfVkhjZkdjMlhIYUs0TU1YT1VyRzhUaDkyR0dUMDF1YXZiVmd6czRWYkFnb1pvc25OWFQtMDN1VFRDVGpsVXRGMkRkVDB3Z2J1UW9Gb1dNZ1BhZXo2MmhLeWU2TGNiWjZvWE54VlJHZ05YaG5N?oc=5",
+        "date": "2026-04-15",
+        "title": "Flash Flood Watch for Shawano County\u2019s Balsam Row Road Dam ends, dam continues to stabilize - Yahoo",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxORVNoUlp5WHBPUXhDeXJpVmZBRDlTMXFfVkhjZkdjMlhIYUs0TU1YT1VyRzhUaDkyR0dUMDF1YXZiVmd6czRWYkFnb1pvc25OWFQtMDN1VFRDVGpsVXRGMkRkVDB3Z2J1UW9Gb1dNZ1BhZXo2MmhLeWU2TGNiWjZvWE54VlJHZ05YaG5N?oc=5\" target=\"_blank\">Flash Flood Watch for Shawano County\u2019s Balsam Row Road Dam ends, dam continues to stabilize</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo</font>",
+        "similarity_excluded": "No",
+        "score": 6,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVlFTRWFtTEU5bDNCcFNjOUJZaW9HMzBiTmc4VWdKblJqMUJaeVNWSUNGaV8tb3NTMmNXY2d4Qk55R3lDd1RwTEpvbUZsYlhoTVVCOFhVNTM4WDhOZWNTX3Mzc0ZDQzBfQ1E4SkN4S2dCZ2VBdWxReVlkVHpBTHVQMlB2andlTl9sc0RaeWNMUFlVaGt5OXc?oc=5",
+        "date": "2026-04-15",
+        "title": "Tittabawassee River nearing flood stage, expect road closures - Midland Daily News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxQVlFTRWFtTEU5bDNCcFNjOUJZaW9HMzBiTmc4VWdKblJqMUJaeVNWSUNGaV8tb3NTMmNXY2d4Qk55R3lDd1RwTEpvbUZsYlhoTVVCOFhVNTM4WDhOZWNTX3Mzc0ZDQzBfQ1E4SkN4S2dCZ2VBdWxReVlkVHpBTHVQMlB2andlTl9sc0RaeWNMUFlVaGt5OXc?oc=5\" target=\"_blank\">Tittabawassee River nearing flood stage, expect road closures</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Midland Daily News</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONldQS05iYUdEeFFSaExldEJtOU90d200Qm9qLXVpbUN6MzlBWm02ZndHVTlnUnB4Q2NZS213cTFrWnVhV0NOOWNTLWFJSEtaNk5PYm1VbnRxbi1BNUE0TlBuQ2s0SEhPenphdVRjalQzNXhhUU1FdHBzRWxWTGlxXzdmcTU4RnBrUlpoVA?oc=5",
+        "date": "2026-04-15",
+        "title": "Cheboygan Dam Failure Could Imperil Thousands in Northern Michigan - The New York Times",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxONldQS05iYUdEeFFSaExldEJtOU90d200Qm9qLXVpbUN6MzlBWm02ZndHVTlnUnB4Q2NZS213cTFrWnVhV0NOOWNTLWFJSEtaNk5PYm1VbnRxbi1BNUE0TlBuQ2s0SEhPenphdVRjalQzNXhhUU1FdHBzRWxWTGlxXzdmcTU4RnBrUlpoVA?oc=5\" target=\"_blank\">Cheboygan Dam Failure Could Imperil Thousands in Northern Michigan</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOcEx1cGZzbG02VXJuX1Z3emRVS0tOZWxCT2xmejhBWlRnbTkxNjVLY05FX1A3c3FHMWYtNmtuRGVvcmlxTHlOZ0xQUFhuTkxjWmhJdk93UW01LWgyNDI1VU13YkRoNFFTVm9DYy0wenhKdDVCRnVFNGtlNG1hY2NmeHplLXNRT1lFUmI4b19NM21BV1BsLXhaUjYwc0oya2pVTW5oTDVDS01NWWlu?oc=5",
+        "date": "2026-04-15",
+        "title": "Michigan flood watch: Waters rise in Cheboygan; bridge washes out near Traverse City - Bridge Michigan",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxOcEx1cGZzbG02VXJuX1Z3emRVS0tOZWxCT2xmejhBWlRnbTkxNjVLY05FX1A3c3FHMWYtNmtuRGVvcmlxTHlOZ0xQUFhuTkxjWmhJdk93UW01LWgyNDI1VU13YkRoNFFTVm9DYy0wenhKdDVCRnVFNGtlNG1hY2NmeHplLXNRT1lFUmI4b19NM21BV1BsLXhaUjYwc0oya2pVTW5oTDVDS01NWWlu?oc=5\" target=\"_blank\">Michigan flood watch: Waters rise in Cheboygan; bridge washes out near Traverse City</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bridge Michigan</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQcDN3ZTdxRDlnNFBYNUEySVNTN1JST3dEb3VLaVBCMkJpMDM0NUlIMi1LNGlYa05uMEg5VkdiY19jQ2E3ZndVQjJxTS1nbHF4WUh4NU1nNlBIR2hERXJMNTYzTWk3clRHUS0tQTN3aTN4aVB0dGpDLVlvVHljeUZ4b3gtTDEzTmRhRWFRY2xVamLSAZYBQVVfeXFMT0tVVERVc1ZTNlVtUFlvY25ZZEV6Z1hiSmh6a28ySzdob1lZN0Y4NkYtQ1NJNGRaYmc1Q25vQlc2NHJITkRxOURab0pQcEtxOS1UbU5hQl95Wnl3M3hOTzFOX2xrUmNMUld5NzdBczA5V0J1ZGllTE5EMEREN3dkWV94d0prRFh5SUVfZVVPSkxtaVdMRVl3?oc=5",
+        "date": "2026-04-15",
+        "title": "Second Michigan dam nearing failure levels - WOODTV.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxQcDN3ZTdxRDlnNFBYNUEySVNTN1JST3dEb3VLaVBCMkJpMDM0NUlIMi1LNGlYa05uMEg5VkdiY19jQ2E3ZndVQjJxTS1nbHF4WUh4NU1nNlBIR2hERXJMNTYzTWk3clRHUS0tQTN3aTN4aVB0dGpDLVlvVHljeUZ4b3gtTDEzTmRhRWFRY2xVamLSAZYBQVVfeXFMT0tVVERVc1ZTNlVtUFlvY25ZZEV6Z1hiSmh6a28ySzdob1lZN0Y4NkYtQ1NJNGRaYmc1Q25vQlc2NHJITkRxOURab0pQcEtxOS1UbU5hQl95Wnl3M3hOTzFOX2xrUmNMUld5NzdBczA5V0J1ZGllTE5EMEREN3dkWV94d0prRFh5SUVfZVVPSkxtaVdMRVl3?oc=5\" target=\"_blank\">Second Michigan dam nearing failure levels</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WOODTV.com</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPc3V5QWdmZXpxWGdUUERKT3FOXzdvcFVvOXphZFp5ek1xYkJ2N3MzUFhBc0oyUGx4cTltUHUzVm9pRzU3d3VJWFpmY1dqandvcVpnTVpUemhFMXRVRWVmYXU1ZFBCcU9kS25kU0stRGdOWGFkYkN1aldpN1ZMMVIxcnZzTE1KOWpsS1labF9SdGRVSnM5Ui1tdFM5Y0ZLRU9oOTRSOHM0azNfaVcyemxiazhR?oc=5",
+        "date": "2026-04-15",
+        "title": "Where there is flooding in Michigan and latest Cheboygan dam updates - The Detroit News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPc3V5QWdmZXpxWGdUUERKT3FOXzdvcFVvOXphZFp5ek1xYkJ2N3MzUFhBc0oyUGx4cTltUHUzVm9pRzU3d3VJWFpmY1dqandvcVpnTVpUemhFMXRVRWVmYXU1ZFBCcU9kS25kU0stRGdOWGFkYkN1aldpN1ZMMVIxcnZzTE1KOWpsS1labF9SdGRVSnM5Ui1tdFM5Y0ZLRU9oOTRSOHM0azNfaVcyemxiazhR?oc=5\" target=\"_blank\">Where there is flooding in Michigan and latest Cheboygan dam updates</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Detroit News</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONldLT0l5TWhLSWZKOVhqZVc1SW80Q09zZDBVLTM4Q0RibHpKM1dpTUJaTURqZUZMa28zQWZWdldHb3pBV2xPd2lhcHZCckdtekxXMnoxcFdubGU2ak1wMHpVQlVMQjZrM3VkRlY2RGMyaENLNmVGMjd2UG00eExMdElZSEExVmZjYmM4WFZPZ09xMjJmU2YyN01DeXBnSW5ZYnh3enByNGpWOHFOV1BLTW9R?oc=5",
+        "date": "2026-04-15",
+        "title": "Viet Nam Monsoon Flood 2025 - DREF Operational Update (MDRVN025), 15 April 2026 - ReliefWeb",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxONldLT0l5TWhLSWZKOVhqZVc1SW80Q09zZDBVLTM4Q0RibHpKM1dpTUJaTURqZUZMa28zQWZWdldHb3pBV2xPd2lhcHZCckdtekxXMnoxcFdubGU2ak1wMHpVQlVMQjZrM3VkRlY2RGMyaENLNmVGMjd2UG00eExMdElZSEExVmZjYmM4WFZPZ09xMjJmU2YyN01DeXBnSW5ZYnh3enByNGpWOHFOV1BLTW9R?oc=5\" target=\"_blank\">Viet Nam Monsoon Flood 2025 - DREF Operational Update (MDRVN025), 15 April 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ReliefWeb</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTFJHSjY5bk9VellNckJtOXhoZzBtcDdjb1JqRjdPRFhvcGwwYk1NWjNuX0J1UVJXdlZic3AtSW14OGVjeXNfX0dMRXl0aHRWSjc3ZFJlQ1IzUGc5MzEwMjkxOWdZZVJlOTdycVN5M2xsVXpNZ2tsUXF5Nk9FRmVBOGVnZWRPUV85VVVTUGo2dDI1bG1zRTVBYlVVdkVMWlZTdGwzdm5wdEJLZEF6MVE?oc=5",
+        "date": "2026-04-15",
+        "title": "Floods and landslides leave 15 dead and damage over 28 000 homes in Ecuador - The Watchers - Watching the world evolve and transform",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQTFJHSjY5bk9VellNckJtOXhoZzBtcDdjb1JqRjdPRFhvcGwwYk1NWjNuX0J1UVJXdlZic3AtSW14OGVjeXNfX0dMRXl0aHRWSjc3ZFJlQ1IzUGc5MzEwMjkxOWdZZVJlOTdycVN5M2xsVXpNZ2tsUXF5Nk9FRmVBOGVnZWRPUV85VVVTUGo2dDI1bG1zRTVBYlVVdkVMWlZTdGwzdm5wdEJLZEF6MVE?oc=5\" target=\"_blank\">Floods and landslides leave 15 dead and damage over 28 000 homes in Ecuador</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Watchers - Watching the world evolve and transform</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPeFZlbUgwM3ZYbmtwNGtLQ2ZLREdmR2taWTRYTzdacmp6MzVOMF9VY0c3VlNLM0VQZE5DdUwwbEJuMDFsRWN0dVdRbjFmOUhyUWZVTHN4a2Z5SnNiSXNjbFRITTBHRGtCWnl6azlIQXpXM2tTTDE4RUp0eFhpZW5xMTVfb1BuVjZaSU1uR0diQU93bWpHOWh1T0pjUGxMT0tFZE1ES1NlM3UxNUIwY2piXzBqTlNJX0pud2tTcVlNOGMxNzNGMFFxeHF4U2tUQ3hiUTloa2l5S0gtRjdqT25J?oc=5",
+        "date": "2026-04-15",
+        "title": "A flood watch is in effect for the entire state Wednesday, April 15, and some areas are under both flash flood and flood warnings as rivers and dams overflow because of snowmelt and heavy rain. \ud83d\udcf7 by Mandi Wright, Detroit Free Press - facebook.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxPeFZlbUgwM3ZYbmtwNGtLQ2ZLREdmR2taWTRYTzdacmp6MzVOMF9VY0c3VlNLM0VQZE5DdUwwbEJuMDFsRWN0dVdRbjFmOUhyUWZVTHN4a2Z5SnNiSXNjbFRITTBHRGtCWnl6azlIQXpXM2tTTDE4RUp0eFhpZW5xMTVfb1BuVjZaSU1uR0diQU93bWpHOWh1T0pjUGxMT0tFZE1ES1NlM3UxNUIwY2piXzBqTlNJX0pud2tTcVlNOGMxNzNGMFFxeHF4U2tUQ3hiUTloa2l5S0gtRjdqT25J?oc=5\" target=\"_blank\">A flood watch is in effect for the entire state Wednesday, April 15, and some areas are under both flash flood and flood warnings as rivers and dams overflow because of snowmelt and heavy rain. \ud83d\udcf7 by Mandi Wright, Detroit Free Press</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">facebook.com</font>",
+        "similarity_excluded": "No",
+        "score": 10,
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 FORECAST Michigan: Flood watch for entire state on April 15; flash flood and flood warnings in some areas as rivers and dams overflow from snowmelt and heavy rain. (Detroit Free Press)",
+        "type": "news",
+        "tweet_id": "2044489367960388083",
+        "geo": {
+            "country": "United States",
+            "name": "Michigan",
+            "latitude": 44.1927,
+            "longitude": -85.1064,
+            "confidence": 0.95
+        }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNLU9oQ09HbDd5UERici05QVpnV2VENVhYdUdDYk5RaDJhZWpIbHl5blJIYzB1MldRTmZNaVBxa25WWk1IcEFtUURiTXFuY0xJbVgyeGhPaC1TOFpKbmUtZEE2Um1YLUEtNjBtRjFEYjhnU0VmRC04T19FVG1ua01hUzVKclEyRmNxcHA4VDdBQXduTDROSkxVcUZuRGJEN1ROTldRQjJveUxzSzFWeEFxLWloYWViTFZ1clJjdlBKNWRXUVU?oc=5",
+        "date": "2026-04-15",
+        "title": "Widespread flood warnings continue in Wisconsin on April 15 - Milwaukee Journal Sentinel",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxNLU9oQ09HbDd5UERici05QVpnV2VENVhYdUdDYk5RaDJhZWpIbHl5blJIYzB1MldRTmZNaVBxa25WWk1IcEFtUURiTXFuY0xJbVgyeGhPaC1TOFpKbmUtZEE2Um1YLUEtNjBtRjFEYjhnU0VmRC04T19FVG1ua01hUzVKclEyRmNxcHA4VDdBQXduTDROSkxVcUZuRGJEN1ROTldRQjJveUxzSzFWeEFxLWloYWViTFZ1clJjdlBKNWRXUVU?oc=5\" target=\"_blank\">Widespread flood warnings continue in Wisconsin on April 15</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Milwaukee Journal Sentinel</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 FORECAST Wisconsin: Widespread flood warnings continue on April 15, with risks of river and flash flooding across the state. (Milwaukee Journal Sentinel)",
+        "type": "news",
+        "tweet_id": "2044489889211617351",
+        "geo": {
+            "country": "United States",
+            "name": "Wisconsin",
+            "latitude": 44.5,
+            "longitude": -90.0,
+            "confidence": 1.0
+        }
     }
 ]
