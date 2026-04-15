@@ -7201,7 +7201,7 @@
     "rain_mm": 63.88,
     "soil_moisture": 0.654,
     "raw_dynamic_score": 10.221,
-    "last_updated": "2026-04-15T05:25:00.580990Z",
+    "last_updated": "2026-04-15T07:28:53.757073Z",
     "last_tweeted_at": "2026-02-23T04:58:50.974820Z",
     "tweet_id": "2025797763594654064",
     "resolved": false
@@ -11027,7 +11027,7 @@
     "rain_mm": 4.75,
     "soil_moisture": 0.576,
     "raw_dynamic_score": 0.727,
-    "last_updated": "2026-04-15T01:55:22.609950Z",
+    "last_updated": "2026-04-15T07:28:53.757073Z",
     "last_tweeted_at": "2026-04-15T01:55:22.609950Z",
     "tweet_id": "2044233381110743244",
     "resolved": true,
@@ -12138,7 +12138,7 @@
     "rain_mm": 7.81,
     "soil_moisture": 0.582,
     "raw_dynamic_score": 1.199,
-    "last_updated": "2026-04-15T01:55:22.609950Z",
+    "last_updated": "2026-04-15T07:28:53.757073Z",
     "last_tweeted_at": "2026-04-15T01:55:22.609950Z",
     "tweet_id": "2044233381110743244",
     "resolved": true,
@@ -17531,10 +17531,18 @@
     "rain_mm": 47.62,
     "soil_moisture": 0.67,
     "raw_dynamic_score": 7.688,
-    "last_updated": "2026-04-14T19:09:10.184793Z",
+    "last_updated": "2026-04-15T07:28:53.757073Z",
     "last_tweeted_at": "2026-04-14T19:09:10.184793Z",
     "tweet_id": "2044131155893514359",
-    "resolved": false
+    "resolved": false,
+    "pending_downgrade": true,
+    "pending_target_level": "Low",
+    "pending_set_at": "2026-04-15T07:28:53.757073Z",
+    "pending_is_region": false,
+    "pending_observed_level": "Low",
+    "pending_observed_rain_mm": 29.94,
+    "pending_observed_soil_moisture": 0.709,
+    "pending_observed_raw_dynamic_score": 4.938
   },
   "7.8769,-11.1903": {
     "country": "Sierra Leone",
@@ -17636,7 +17644,7 @@
     "rain_mm": 122.12,
     "soil_moisture": 0.725,
     "raw_dynamic_score": 20.326,
-    "last_updated": "2026-04-15T01:55:22.609950Z",
+    "last_updated": "2026-04-15T07:28:53.757073Z",
     "last_tweeted_at": "2026-04-15T01:55:22.609950Z",
     "tweet_id": "2044233381110743244",
     "resolved": false
@@ -17696,10 +17704,14 @@
     "rain_mm": 43.12,
     "soil_moisture": 0.722,
     "raw_dynamic_score": 7.166,
-    "last_updated": "2026-04-15T05:25:00.580990Z",
+    "last_updated": "2026-04-15T07:28:53.757073Z",
     "last_tweeted_at": "2026-04-15T01:55:22.609950Z",
     "tweet_id": "2044233381110743244",
-    "resolved": false
+    "resolved": false,
+    "pending_downgrade": true,
+    "pending_target_level": "Low",
+    "pending_set_at": "2026-04-15T07:28:53.757073Z",
+    "pending_is_region": true
   },
   "-1.7901,-79.2876": {
     "country": "Ecuador",
@@ -17711,7 +17723,7 @@
     "rain_mm": 45.19,
     "soil_moisture": 0.628,
     "raw_dynamic_score": 7.124,
-    "last_updated": "2026-04-15T01:55:22.609950Z",
+    "last_updated": "2026-04-15T07:28:53.757073Z",
     "last_tweeted_at": "2026-04-15T01:55:22.609950Z",
     "tweet_id": "2044233381110743244",
     "resolved": false
@@ -17741,9 +17753,24 @@
     "rain_mm": 42.38,
     "soil_moisture": 0.668,
     "raw_dynamic_score": 6.835,
-    "last_updated": "2026-04-15T05:25:00.580990Z",
+    "last_updated": "2026-04-15T07:28:53.757073Z",
     "last_tweeted_at": "2026-04-15T05:25:00.580990Z",
     "tweet_id": "2044285881591181352",
+    "resolved": false
+  },
+  "-32.3171,-58.0807": {
+    "country": "Uruguay",
+    "name": "Paysandú",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": -32.3171,
+    "longitude": -58.08072,
+    "rain_mm": 43.75,
+    "soil_moisture": 0.574,
+    "raw_dynamic_score": 6.685,
+    "last_updated": "2026-04-15T07:28:53.757073Z",
+    "last_tweeted_at": "2026-04-15T07:28:53.757073Z",
+    "tweet_id": "2044317052811329818",
     "resolved": false
   }
 }
