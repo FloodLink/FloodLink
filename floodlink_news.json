@@ -14202,5 +14202,276 @@
         "tweet": "\ud83c\uddf3\ud83c\uddf1 The Netherlands maintains 26,774 km of dikes and dunes, safeguarding 17 million people from North Sea floods as of 2026.",
         "type": "infrastructure",
         "tweet_id": "2044329455120752946"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPVWpJTDNock1IN1JYS0tPYmlVVEIyQ21mU1lkSTh2aFBxMEpVMWQ2bGVrY2dDWTBEOHFLQ2M1eV85Rml2V3YteHRrYUdiZ2g0cTc2dEhCYXd0LS0waVFmaWZTdEp2Q3dOWWN0SGYxUXlqYm14WkpxVTVXWlV2REdsTXVMazdJY1lndlRLUUctQ3o?oc=5",
+        "date": "2026-04-15",
+        "title": "Tornado, flash flood warnings canceled in southeast Wisconsin - WISN",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPVWpJTDNock1IN1JYS0tPYmlVVEIyQ21mU1lkSTh2aFBxMEpVMWQ2bGVrY2dDWTBEOHFLQ2M1eV85Rml2V3YteHRrYUdiZ2g0cTc2dEhCYXd0LS0waVFmaWZTdEp2Q3dOWWN0SGYxUXlqYm14WkpxVTVXWlV2REdsTXVMazdJY1lndlRLUUctQ3o?oc=5\" target=\"_blank\">Tornado, flash flood warnings canceled in southeast Wisconsin</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WISN</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQc3pKVHlJT3FJdGhib0E2NTNsczBhUUFsOFpUaElBcFlrX2lWSmR5WlFBOHpDRTdRbnBOT3dqN2E5aF9wcU5ndjlUZDE5QnA0b212eWJqNDFmVXQyVTBhd1pUYm0xRENkSU91c3JSckhNY3RBM09hZllGZWJSdTFLZVc1NUhpTF9tRWZwS1o0aUpXUFV6RExOeEZvZ3VnczdyWTVvUEF5aF9keXZiTWdCN1cwQWtzaVdYM0NzLVMtLXpqTGlGOGRKNkt6SDRqTGtu?oc=5",
+        "date": "2026-04-15",
+        "title": "Wisconsin weather updates, tornado warnings, flash flood, thunderstorm - Milwaukee Journal Sentinel",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxQc3pKVHlJT3FJdGhib0E2NTNsczBhUUFsOFpUaElBcFlrX2lWSmR5WlFBOHpDRTdRbnBOT3dqN2E5aF9wcU5ndjlUZDE5QnA0b212eWJqNDFmVXQyVTBhd1pUYm0xRENkSU91c3JSckhNY3RBM09hZllGZWJSdTFLZVc1NUhpTF9tRWZwS1o0aUpXUFV6RExOeEZvZ3VnczdyWTVvUEF5aF9keXZiTWdCN1cwQWtzaVdYM0NzLVMtLXpqTGlGOGRKNkt6SDRqTGtu?oc=5\" target=\"_blank\">Wisconsin weather updates, tornado warnings, flash flood, thunderstorm</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Milwaukee Journal Sentinel</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOdjFsX2RnV1NMa09YRzZjMTBGZ0V3N1N0cllmU2RMejhwOUJaYVdzV2RUeUNCb2c5UlppY0FyeTk5cU1wdDhFeVJUVThwUTBXejJFc05zcW01WmI0UjV3V0s0UkVMY3ZubTdyNVdaTHlhVVZqeTN6T2RaSmdoLS1HeWNiYXBqdnk2a2JFQXlYNGMwQ2gyekFDbERFMVktUQ?oc=5",
+        "date": "2026-04-15",
+        "title": "Flash Flood Warning from TUE 11:54 PM CDT until WED 3:00 AM CDT - The Beatrice Daily Sun",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOdjFsX2RnV1NMa09YRzZjMTBGZ0V3N1N0cllmU2RMejhwOUJaYVdzV2RUeUNCb2c5UlppY0FyeTk5cU1wdDhFeVJUVThwUTBXejJFc05zcW01WmI0UjV3V0s0UkVMY3ZubTdyNVdaTHlhVVZqeTN6T2RaSmdoLS1HeWNiYXBqdnk2a2JFQXlYNGMwQ2gyekFDbERFMVktUQ?oc=5\" target=\"_blank\">Flash Flood Warning from TUE 11:54 PM CDT until WED 3:00 AM CDT</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Beatrice Daily Sun</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": null,
+        "tweet_id": "2044356478681616659",
+        "geo": {
+            "country": "United States",
+            "name": "Beatrice, Nebraska",
+            "latitude": 40.2659,
+            "longitude": -96.7467,
+            "confidence": 0.95
+        }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVGpMd3JoNzRLbFdBQnNJRVk1YVZiNnRxYjV1a0dlei12ZnBwYmUyTDBzNDlOT3l3OGZWOUlqNlVmOWx0NWwzSTdWTmw5bnIxYzJXQkJGYzhHVXdzSnoyTU02ZVZfdzB0NUptaWxOd3RKcmhnZGZWNnkyRGJwLU1reHlDYzZJVlpzZWNEblBn?oc=5",
+        "date": "2026-04-15",
+        "title": "2026 Severe Weather Awareness Week (Part 3) Floods & Flash Flooding - KRWC 1360 AM",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOVGpMd3JoNzRLbFdBQnNJRVk1YVZiNnRxYjV1a0dlei12ZnBwYmUyTDBzNDlOT3l3OGZWOUlqNlVmOWx0NWwzSTdWTmw5bnIxYzJXQkJGYzhHVXdzSnoyTU02ZVZfdzB0NUptaWxOd3RKcmhnZGZWNnkyRGJwLU1reHlDYzZJVlpzZWNEblBn?oc=5\" target=\"_blank\">2026 Severe Weather Awareness Week (Part 3) Floods & Flash Flooding</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KRWC 1360 AM</font>",
+        "similarity_excluded": "No",
+        "score": 6,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNUXc4akdlUjROTnJjTXRVdDU2R2FpdHMtVzNraWNwLUotNkoydWYta0FwdjR4SkJ5akk1Y2UxWG1odXRScm5GTklMRkp4Q00yVU0xU0pZenpjQ3h5cXFkbnhmVjJjb29LSTZVdUdIXzVQUUNveUg2M2J2ZUlJdDh4N1VOb083N05lT2o5Vw?oc=5",
+        "date": "2026-04-15",
+        "title": "Live updates: Southeast Wisconsin severe storms - WISN",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNUXc4akdlUjROTnJjTXRVdDU2R2FpdHMtVzNraWNwLUotNkoydWYta0FwdjR4SkJ5akk1Y2UxWG1odXRScm5GTklMRkp4Q00yVU0xU0pZenpjQ3h5cXFkbnhmVjJjb29LSTZVdUdIXzVQUUNveUg2M2J2ZUlJdDh4N1VOb083N05lT2o5Vw?oc=5\" target=\"_blank\">Live updates: Southeast Wisconsin severe storms</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WISN</font>",
+        "similarity_excluded": "No",
+        "score": 2,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNR0ZpNXdJcG9xSWR3cERBdXZnSC1rVy1DOHFwWXVkNVR1U3l0NE5wdWNDWDlsYUhDanlkUkduZUpqTGNpV3BocEREZC1yR0JvTUhiV3c3Z0lnNW9Yd2ZzZU1yUi1QbmgtQ1dLY1NKSFVTUnhBQ3RsTWtoaFA3aHVTRjA5Nkp2cEh2QW1rc0xsZ24yVTAwaWlycVRRVlVQczJkaS1Iem1LMjlkdWk0UVZLNXQ5VGFzZFhnNG1LVmFHVElNeWhhZlhQWEFXQUpLeWtaN2h2Sk53?oc=5",
+        "date": "2026-04-15",
+        "title": "Update: Flood advisory affecting 4 Michigan counties until Wednesday morning due to prolonged rain - MLive.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxNR0ZpNXdJcG9xSWR3cERBdXZnSC1rVy1DOHFwWXVkNVR1U3l0NE5wdWNDWDlsYUhDanlkUkduZUpqTGNpV3BocEREZC1yR0JvTUhiV3c3Z0lnNW9Yd2ZzZU1yUi1QbmgtQ1dLY1NKSFVTUnhBQ3RsTWtoaFA3aHVTRjA5Nkp2cEh2QW1rc0xsZ24yVTAwaWlycVRRVlVQczJkaS1Iem1LMjlkdWk0UVZLNXQ5VGFzZFhnNG1LVmFHVElNeWhhZlhQWEFXQUpLeWtaN2h2Sk53?oc=5\" target=\"_blank\">Update: Flood advisory affecting 4 Michigan counties until Wednesday morning due to prolonged rain</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MLive.com</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPSFlnbUY0QXdkSm9YclZsdllDX0VFck5yYkFaZlhQNG5HVG5OQy1maHpKWWNsWWowZVdqRjB2ZVFQR3cxamVoN084TmpBWW9Jb0NROFI0Z05nSnR1enV5ajQwWGU1VnhpVzJ4ZE96ZnA5cE12RFFmWmV0MlpJQTdwNEdpUG85TnZ1MzQ0RGVhaXVUZnJhTkk5eVhGNFNmaC1Nb1V3Q0lWZUlNZUF3TWxuTDVnaFp3M2E5T1VycFpDaXdGTW1tY0gyWHBkXzhzdTNo?oc=5",
+        "date": "2026-04-15",
+        "title": "Update: Flood advisory for Southeast Michigan early Wednesday morning due to heavy rain - MLive.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxPSFlnbUY0QXdkSm9YclZsdllDX0VFck5yYkFaZlhQNG5HVG5OQy1maHpKWWNsWWowZVdqRjB2ZVFQR3cxamVoN084TmpBWW9Jb0NROFI0Z05nSnR1enV5ajQwWGU1VnhpVzJ4ZE96ZnA5cE12RFFmWmV0MlpJQTdwNEdpUG85TnZ1MzQ0RGVhaXVUZnJhTkk5eVhGNFNmaC1Nb1V3Q0lWZUlNZUF3TWxuTDVnaFp3M2E5T1VycFpDaXdGTW1tY0gyWHBkXzhzdTNo?oc=5\" target=\"_blank\">Update: Flood advisory for Southeast Michigan early Wednesday morning due to heavy rain</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MLive.com</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOSjdHcWRLUnJZSG9OcV9xX0xHZ3VfMnZCQnJCNC0xYW1xVVppbzNOX0xXeHIxNjQ3b0VjUVhpZXNta1kzU09OLWRqTmxlMGtaSXRWR3Zyc2ppTDFRRFQwVHV6dnRlT2lISnZNZEotUG5IUkZNUnplcEcyZWI4MWlUdi03ZEVPM01ZUExOQ0dmVVR3aHJLMlA0Z21xU1QwZlFWc01sdHh4SUxZLVpuOUNiSllFdzdKLUlJYlNCejdhYkN2TFZxY1dDTW1FclEzV0xQcHJXX0tUb3ItWG5RWGRPUmdybUw?oc=5",
+        "date": "2026-04-15",
+        "title": "Update: Flood advisory for Berrien and Cass counties until Wednesday morning triggered by substantial rainfall - MLive.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxOSjdHcWRLUnJZSG9OcV9xX0xHZ3VfMnZCQnJCNC0xYW1xVVppbzNOX0xXeHIxNjQ3b0VjUVhpZXNta1kzU09OLWRqTmxlMGtaSXRWR3Zyc2ppTDFRRFQwVHV6dnRlT2lISnZNZEotUG5IUkZNUnplcEcyZWI4MWlUdi03ZEVPM01ZUExOQ0dmVVR3aHJLMlA0Z21xU1QwZlFWc01sdHh4SUxZLVpuOUNiSllFdzdKLUlJYlNCejdhYkN2TFZxY1dDTW1FclEzV0xQcHJXX0tUb3ItWG5RWGRPUmdybUw?oc=5\" target=\"_blank\">Update: Flood advisory for Berrien and Cass counties until Wednesday morning triggered by substantial rainfall</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MLive.com</font>",
+        "similarity_excluded": "No",
+        "score": 6,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNaGp5SVctdHE5aXJKTWlUczVaQnFPTkY3Rl9fTjlERVh1UERFRGtlVE04Rl85RzI4QUU3OHpRdlVVNkVMeUNXcVFOUGo3ZV9XR20yb0NDVFZtODk4QWo2b05IV2pNSnNGNlhfT3pBMWlJT0tNaG1EN2ZOZjl1c3VtUlhTeW5TX1dkRXpJR0xLb3p0Mm1fM1BCa1hMekVqZmpBMXVLRGZiekdhYzNMcUxSQnBTZWpOTlFXbEdlMEhfa0RMa0YyVkVPd0pFRnYxY3F2SDJWUmZqM0ZWOEc5TWM1MGJB?oc=5",
+        "date": "2026-04-15",
+        "title": "Flood advisory for Eaton and Ingham counties until Wednesday morning triggered by intense rainfall - MLive.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxNaGp5SVctdHE5aXJKTWlUczVaQnFPTkY3Rl9fTjlERVh1UERFRGtlVE04Rl85RzI4QUU3OHpRdlVVNkVMeUNXcVFOUGo3ZV9XR20yb0NDVFZtODk4QWo2b05IV2pNSnNGNlhfT3pBMWlJT0tNaG1EN2ZOZjl1c3VtUlhTeW5TX1dkRXpJR0xLb3p0Mm1fM1BCa1hMekVqZmpBMXVLRGZiekdhYzNMcUxSQnBTZWpOTlFXbEdlMEhfa0RMa0YyVkVPd0pFRnYxY3F2SDJWUmZqM0ZWOEc5TWM1MGJB?oc=5\" target=\"_blank\">Flood advisory for Eaton and Ingham counties until Wednesday morning triggered by intense rainfall</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MLive.com</font>",
+        "similarity_excluded": "No",
+        "score": 6,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPdjhRMjVleHJBTDdpLTBBQ0txVkk0aTNHczdFQzZySmphUFpIWDZPSzJtaHpLQWhOSl9xTmd2TVYtVGlobFI1cEVmbktCUjkxSmhRM1lZNklCb0xwWURHU3hYdjFCMS1SVU0ya2YzS0wwVzhKOEhFMGJYbDdQX1ZoR0gzbUxfMWZrUG5rMTRxR3N5VllodHQ3c20wWVdWcTVJcXJKTEJUODF3OGYzUUJpOFprVklIMW5OYUlNM0hvWTJiblMwN0pWNE9QVnhxUGFVZGY2OG9QRGRZaDlDVTNzSFdVTng?oc=5",
+        "date": "2026-04-15",
+        "title": "Flood advisory affecting Genesee and Saginaw counties until 3 a.m. EDT Wednesday due to persistent downpours - MLive.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxPdjhRMjVleHJBTDdpLTBBQ0txVkk0aTNHczdFQzZySmphUFpIWDZPSzJtaHpLQWhOSl9xTmd2TVYtVGlobFI1cEVmbktCUjkxSmhRM1lZNklCb0xwWURHU3hYdjFCMS1SVU0ya2YzS0wwVzhKOEhFMGJYbDdQX1ZoR0gzbUxfMWZrUG5rMTRxR3N5VllodHQ3c20wWVdWcTVJcXJKTEJUODF3OGYzUUJpOFprVklIMW5OYUlNM0hvWTJiblMwN0pWNE9QVnhxUGFVZGY2OG9QRGRZaDlDVTNzSFdVTng?oc=5\" target=\"_blank\">Flood advisory affecting Genesee and Saginaw counties until 3 a.m. EDT Wednesday due to persistent downpours</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MLive.com</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOR3hIOGU2YUk1RUpwYzBWZTc5WWVCQnJFZmdaelFwajA4RERTS1dhMjV3MGh6d1ZhYUtZcEtlWWZxaVZtTGpCR1FHRmpqZnlYR0ZkQWZnM0p6eHpTMXZvY1Zvdy1kYThFaC1WRERpRjQ5MVpOYlB4S2szUzJMTHNOVUYwa1l6dXNnUlZZZ05GMzV2V3JIWXJRdXln?oc=5",
+        "date": "2026-04-15",
+        "title": "Marquette County under flood watch - miningjournal.net",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxOR3hIOGU2YUk1RUpwYzBWZTc5WWVCQnJFZmdaelFwajA4RERTS1dhMjV3MGh6d1ZhYUtZcEtlWWZxaVZtTGpCR1FHRmpqZnlYR0ZkQWZnM0p6eHpTMXZvY1Zvdy1kYThFaC1WRERpRjQ5MVpOYlB4S2szUzJMTHNOVUYwa1l6dXNnUlZZZ05GMzV2V3JIWXJRdXln?oc=5\" target=\"_blank\">Marquette County under flood watch</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">miningjournal.net</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPT2pwWFF0VmF5dDZfelBPeHQzLXhWUnRLRkNuZmxGdWVMcHBlTENJclBXYldKMHB6RGFQWFlHd3RMZDdudGNqak9Ld1RodGhUbEZwVVRkVXZJTGc5bENyZWRUeEZPRGx2UFJiX2JnSW9DeWVzWnQ2NVU4TUw4UDhpdnNyNEdKZTd2b2dzLWdTWjQ1M2F0WW16dDcxeG15bWpLM2syRENwNVluMC0yclhuZXpKNWQ?oc=5",
+        "date": "2026-04-15",
+        "title": "Record-setting flooding expected along Muskegon River - FOX 17 West Michigan News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPT2pwWFF0VmF5dDZfelBPeHQzLXhWUnRLRkNuZmxGdWVMcHBlTENJclBXYldKMHB6RGFQWFlHd3RMZDdudGNqak9Ld1RodGhUbEZwVVRkVXZJTGc5bENyZWRUeEZPRGx2UFJiX2JnSW9DeWVzWnQ2NVU4TUw4UDhpdnNyNEdKZTd2b2dzLWdTWjQ1M2F0WW16dDcxeG15bWpLM2syRENwNVluMC0yclhuZXpKNWQ?oc=5\" target=\"_blank\">Record-setting flooding expected along Muskegon River</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FOX 17 West Michigan News</font>",
+        "similarity_excluded": "No",
+        "score": 10,
+        "status": "processed",
+        "tweet": null,
+        "tweet_id": "2044355964569014360",
+        "geo": {
+            "country": "United States",
+            "name": "Muskegon River, Michigan",
+            "latitude": 43.2342,
+            "longitude": -86.2484,
+            "confidence": 0.95
+        }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQRkNxY182OVRMTHc2WUZCRU1fa0V2NGY1VTVBN19tWFdTdkM3Q1dTd2NXSWVPQzhpZWVBa1dWZFhEVGloYUhoWTBuaV9qMWotMkQ4QVlPMUJud3FDWWl4YWR4MGJQa2hmdUJIQXc4OXRDZzd6Z0I4Q1UwMHRlNjdTZzdjX19UX2lvRklXbndZeGRIRmh1TzdtTGpOQ2FzMjBnckU4?oc=5",
+        "date": "2026-04-15",
+        "title": "LIVE UPDATES: Severe weather moving across Michigan - Big Rapids Pioneer",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQRkNxY182OVRMTHc2WUZCRU1fa0V2NGY1VTVBN19tWFdTdkM3Q1dTd2NXSWVPQzhpZWVBa1dWZFhEVGloYUhoWTBuaV9qMWotMkQ4QVlPMUJud3FDWWl4YWR4MGJQa2hmdUJIQXc4OXRDZzd6Z0I4Q1UwMHRlNjdTZzdjX19UX2lvRklXbndZeGRIRmh1TzdtTGpOQ2FzMjBnckU4?oc=5\" target=\"_blank\">LIVE UPDATES: Severe weather moving across Michigan</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Big Rapids Pioneer</font>",
+        "similarity_excluded": "No",
+        "score": 2,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNNDFQdWtSNC1feXFaLW5vNVM0Q1NzTGplUU9DcnM2VmpDc25zbGdZanM0N3ZzSlJuTGdDQml2alBNS3p4YkhZSl9aNHV4SlA4TVNVUmJybEJCc2xkN0hVOTBRM2s4LTJYLTQzNnNLX0RsUWQyZVdjVVVucWZOQjNQckRaaXVzUkxXOFRpNzN0b1NWSm5jeXpYWjhEMjZDS3BxSjBxUkgzWEZZakg5M0p4UDBlS0RCVkdfa0V1dnZyZDlmSkt0?oc=5",
+        "date": "2026-04-15",
+        "title": "Menominee River flood warnings continue on both sides of border - ironmountaindailynews.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxNNDFQdWtSNC1feXFaLW5vNVM0Q1NzTGplUU9DcnM2VmpDc25zbGdZanM0N3ZzSlJuTGdDQml2alBNS3p4YkhZSl9aNHV4SlA4TVNVUmJybEJCc2xkN0hVOTBRM2s4LTJYLTQzNnNLX0RsUWQyZVdjVVVucWZOQjNQckRaaXVzUkxXOFRpNzN0b1NWSm5jeXpYWjhEMjZDS3BxSjBxUkgzWEZZakg5M0p4UDBlS0RCVkdfa0V1dnZyZDlmSkt0?oc=5\" target=\"_blank\">Menominee River flood warnings continue on both sides of border</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ironmountaindailynews.com</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNbUszbUtoaldnelB5bE5DcE1pLTJ2eG9SRU0wai1GLW1ueS1jUmFPUDNxTFJMc3ZmVUt4SEd0Rk5sbHNCSUpENnAyV2FsNmNXWHBibFdNVzRXODZJVHV4MjNYbzBQZWFYTDJZXzdyOHdna1JIc2pzQjA0YXBVd1BTUXdPVnNMLS1GOEhLazFkcDg0bDdjZ3RLaWhwN2FsVkE?oc=5",
+        "date": "2026-04-15",
+        "title": "More storm chances expected Wednesday in southeast Wisconsin - WISN",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNbUszbUtoaldnelB5bE5DcE1pLTJ2eG9SRU0wai1GLW1ueS1jUmFPUDNxTFJMc3ZmVUt4SEd0Rk5sbHNCSUpENnAyV2FsNmNXWHBibFdNVzRXODZJVHV4MjNYbzBQZWFYTDJZXzdyOHdna1JIc2pzQjA0YXBVd1BTUXdPVnNMLS1GOEhLazFkcDg0bDdjZ3RLaWhwN2FsVkE?oc=5\" target=\"_blank\">More storm chances expected Wednesday in southeast Wisconsin</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WISN</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPUVN0aFhWOXBWM0JFVUxHcl9MTV8xc0tZdE5YMzN6OXZhZklaOUMyYkoyN2NpU204VVAyNERHdnhqREhvYkFVZzFPQ1hud0xQT1p6QU9oTGM0Q1FUaDkySy0xOVFpZkRsU093Z3k5RmtiMFJuaDNXV01SbHNWcDFKMUNTcGlSako0VkJFTU1xU1N2VGFhV1U1LXgya2xhU0l3ZGEtZ1JUb01zWXdBRVJ2T2ZKbTZzSUlTRGdTS21hZ2xIZDZNX0V3WEI3bnc0b2JscE9NQzBndk9iOE5sNXZ3?oc=5",
+        "date": "2026-04-15",
+        "title": "A look at flooded homes along Sturgeon River on April 14, 2026 in Indian River of Michigan's northern Lower Peninsula. - facebook.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxPUVN0aFhWOXBWM0JFVUxHcl9MTV8xc0tZdE5YMzN6OXZhZklaOUMyYkoyN2NpU204VVAyNERHdnhqREhvYkFVZzFPQ1hud0xQT1p6QU9oTGM0Q1FUaDkySy0xOVFpZkRsU093Z3k5RmtiMFJuaDNXV01SbHNWcDFKMUNTcGlSako0VkJFTU1xU1N2VGFhV1U1LXgya2xhU0l3ZGEtZ1JUb01zWXdBRVJ2T2ZKbTZzSUlTRGdTS21hZ2xIZDZNX0V3WEI3bnc0b2JscE9NQzBndk9iOE5sNXZ3?oc=5\" target=\"_blank\">A look at flooded homes along Sturgeon River on April 14, 2026 in Indian River of Michigan's northern Lower Peninsula.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">facebook.com</font>",
+        "similarity_excluded": "No",
+        "score": 6,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5VZ2FSa2FxMV9GVnUtTnJoWmZ1S2g1NXZCeWhESDZDZzE0NnA0Rm1LYmEzaDFXdFU3TFd3emsxRmdxMGZUVkptZjVrLU5HR0NjSmlJN2VPdUt0UXZyQVJEMXZiV012WTJ5WnNZN2t2OTI?oc=5",
+        "date": "2026-04-15",
+        "title": "Flooding reported in Tompkins - Finger Lakes Daily News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE5VZ2FSa2FxMV9GVnUtTnJoWmZ1S2g1NXZCeWhESDZDZzE0NnA0Rm1LYmEzaDFXdFU3TFd3emsxRmdxMGZUVkptZjVrLU5HR0NjSmlJN2VPdUt0UXZyQVJEMXZiV012WTJ5WnNZN2t2OTI?oc=5\" target=\"_blank\">Flooding reported in Tompkins</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Finger Lakes Daily News</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPd1RRTE9ZX1FJMjVjWHF1aFhCWHVITUY3R1I0WVJzdllCd25rR1d5cjNzTjJoa3o2VWdQSDZDREUybkRha2pJZnN0MmwzcTJ2SDJ3alllbnZycHY1OEdWZWFnZ1IwODUxclJDd0lUV2lvcFZ3eWFpTjJGX0dleEtWT1ZOeDQ3VXZhbER5VzF5NDcxdm5u?oc=5",
+        "date": "2026-04-15",
+        "title": "Belize Launches Coastal Inundation Project to Tackle Storm Surge Risks - Love FM Belize",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxPd1RRTE9ZX1FJMjVjWHF1aFhCWHVITUY3R1I0WVJzdllCd25rR1d5cjNzTjJoa3o2VWdQSDZDREUybkRha2pJZnN0MmwzcTJ2SDJ3alllbnZycHY1OEdWZWFnZ1IwODUxclJDd0lUV2lvcFZ3eWFpTjJGX0dleEtWT1ZOeDQ3VXZhbER5VzF5NDcxdm5u?oc=5\" target=\"_blank\">Belize Launches Coastal Inundation Project to Tackle Storm Surge Risks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Love FM Belize</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1vT2twODhCNlFDYjVWOEpXemxYdGFtdGFNcnZwRlNTenBNc05NNDNYZ2Z3SGFLa2pqQTd4TFVKcWM1SF93cFlDRXVEYmZ1UHVwaWFJcEJNWlNYQnA4MFhKblNxb2J2bUh0VUFQNmplZUpWZngyR2c?oc=5",
+        "date": "2026-04-15",
+        "title": "Landslides leave Ilam reeling after deadly October rains - Onlinekhabar English",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE1vT2twODhCNlFDYjVWOEpXemxYdGFtdGFNcnZwRlNTenBNc05NNDNYZ2Z3SGFLa2pqQTd4TFVKcWM1SF93cFlDRXVEYmZ1UHVwaWFJcEJNWlNYQnA4MFhKblNxb2J2bUh0VUFQNmplZUpWZngyR2c?oc=5\" target=\"_blank\">Landslides leave Ilam reeling after deadly October rains</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Onlinekhabar English</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": null,
+        "tweet_id": "2044356997961679213",
+        "geo": {
+            "country": "Nepal",
+            "name": "Ilam",
+            "latitude": 26.9167,
+            "longitude": 87.9167,
+            "confidence": 0.95
+        }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPT2pwWFF0VmF5dDZfelBPeHQzLXhWUnRLRkNuZmxGdWVMcHBlTENJclBXYldKMHB6RGFQWFlHd3RMZDdudGNqak9Ld1RodGhUbEZwVVRkVXZJTGc5bENyZWRUeEZPRGx2UFJiX2JnSW9DeWVzWnQ2NVU4TUw4UDhpdnNyNEdKZTd2b2dzLWdTWjQ1M2F0WW16dDcxeG15bWpLM2syRENwNVluMC0yclhuZXpKNWQ?oc=5",
+        "date": "2026-04-15",
+        "title": "Record-setting flooding expected along Muskegon River - FOX 17 West Michigan News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPT2pwWFF0VmF5dDZfelBPeHQzLXhWUnRLRkNuZmxGdWVMcHBlTENJclBXYldKMHB6RGFQWFlHd3RMZDdudGNqak9Ld1RodGhUbEZwVVRkVXZJTGc5bENyZWRUeEZPRGx2UFJiX2JnSW9DeWVzWnQ2NVU4TUw4UDhpdnNyNEdKZTd2b2dzLWdTWjQ1M2F0WW16dDcxeG15bWpLM2syRENwNVluMC0yclhuZXpKNWQ?oc=5\" target=\"_blank\">Record-setting flooding expected along Muskegon River</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FOX 17 West Michigan News</font>",
+        "similarity_excluded": "No",
+        "score": 10,
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 FORECAST Muskegon River: Record-setting flooding expected from heavy rains, with potential for major impacts along the river in West Michigan. (FOX 17)",
+        "type": "news",
+        "tweet_id": "2044355964569014360",
+        "geo": {
+            "country": "United States",
+            "name": "Muskegon River, Michigan",
+            "latitude": 43.2342,
+            "longitude": -86.2484,
+            "confidence": 0.95
+        }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOdjFsX2RnV1NMa09YRzZjMTBGZ0V3N1N0cllmU2RMejhwOUJaYVdzV2RUeUNCb2c5UlppY0FyeTk5cU1wdDhFeVJUVThwUTBXejJFc05zcW01WmI0UjV3V0s0UkVMY3ZubTdyNVdaTHlhVVZqeTN6T2RaSmdoLS1HeWNiYXBqdnk2a2JFQXlYNGMwQ2gyekFDbERFMVktUQ?oc=5",
+        "date": "2026-04-15",
+        "title": "Flash Flood Warning from TUE 11:54 PM CDT until WED 3:00 AM CDT - The Beatrice Daily Sun",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOdjFsX2RnV1NMa09YRzZjMTBGZ0V3N1N0cllmU2RMejhwOUJaYVdzV2RUeUNCb2c5UlppY0FyeTk5cU1wdDhFeVJUVThwUTBXejJFc05zcW01WmI0UjV3V0s0UkVMY3ZubTdyNVdaTHlhVVZqeTN6T2RaSmdoLS1HeWNiYXBqdnk2a2JFQXlYNGMwQ2gyekFDbERFMVktUQ?oc=5\" target=\"_blank\">Flash Flood Warning from TUE 11:54 PM CDT until WED 3:00 AM CDT</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Beatrice Daily Sun</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 FORECAST Beatrice, NE: Flash flood warning from Tue 11:54 PM CDT until Wed 3:00 AM CDT; imminent risk of flash flooding. (Beatrice Daily Sun)",
+        "type": "news",
+        "tweet_id": "2044356478681616659",
+        "geo": {
+            "country": "United States",
+            "name": "Beatrice, Nebraska",
+            "latitude": 40.2659,
+            "longitude": -96.7467,
+            "confidence": 0.95
+        }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1vT2twODhCNlFDYjVWOEpXemxYdGFtdGFNcnZwRlNTenBNc05NNDNYZ2Z3SGFLa2pqQTd4TFVKcWM1SF93cFlDRXVEYmZ1UHVwaWFJcEJNWlNYQnA4MFhKblNxb2J2bUh0VUFQNmplZUpWZngyR2c?oc=5",
+        "date": "2026-04-15",
+        "title": "Landslides leave Ilam reeling after deadly October rains - Onlinekhabar English",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE1vT2twODhCNlFDYjVWOEpXemxYdGFtdGFNcnZwRlNTenBNc05NNDNYZ2Z3SGFLa2pqQTd4TFVKcWM1SF93cFlDRXVEYmZ1UHVwaWFJcEJNWlNYQnA4MFhKblNxb2J2bUh0VUFQNmplZUpWZngyR2c?oc=5\" target=\"_blank\">Landslides leave Ilam reeling after deadly October rains</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Onlinekhabar English</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "posted",
+        "tweet": "\ud83c\uddf3\ud83c\uddf5 POST-EVENT Ilam: Landslides from deadly October rains cause widespread damage and leave district reeling. (Onlinekhabar English)",
+        "type": "news",
+        "tweet_id": "2044356997961679213",
+        "geo": {
+            "country": "Nepal",
+            "name": "Ilam",
+            "latitude": 26.9167,
+            "longitude": 87.9167,
+            "confidence": 0.95
+        }
     }
 ]
