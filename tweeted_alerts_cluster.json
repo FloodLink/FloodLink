@@ -17625,5 +17625,20 @@
     "last_tweeted_at": "2026-04-16T16:25:34.618008Z",
     "tweet_id": "2044814503158731077",
     "resolved": false
+  },
+  "-2.5842,-49.5072": {
+    "country": "Brazil",
+    "name": "Mocajuba",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": -2.58417,
+    "longitude": -49.50722,
+    "rain_mm": 39.88,
+    "soil_moisture": 0.719,
+    "raw_dynamic_score": 6.613,
+    "last_updated": "2026-04-16T21:44:32.517759Z",
+    "last_tweeted_at": "2026-04-16T21:44:32.517759Z",
+    "tweet_id": "2044894774839173201",
+    "resolved": false
   }
 }
