@@ -17816,5 +17816,20 @@
     "last_tweeted_at": "2026-04-16T05:33:26.246730Z",
     "tweet_id": "2044650379519074714",
     "resolved": false
+  },
+  "-8.8097,-63.6956": {
+    "country": "Brazil",
+    "name": "Candeias do Jamari",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": -8.80972,
+    "longitude": -63.69556,
+    "rain_mm": 42.69,
+    "soil_moisture": 0.632,
+    "raw_dynamic_score": 6.745,
+    "last_updated": "2026-04-16T07:29:37.135364Z",
+    "last_tweeted_at": "2026-04-16T07:29:37.135364Z",
+    "tweet_id": "2044679624035021160",
+    "resolved": false
   }
 }
