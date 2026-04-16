@@ -15672,5 +15672,14 @@
         "score": 5,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-04-16",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 US cities (NYC, Miami) vs. \ud83c\uddea\ud83c\uddfa EU cities (London, Paris): Extreme rainfall events up 35% from 2020-2023 avg (12/year) to 2024-2026 proj (16/year), exposing 25M more to flash floods & $120B in losses.",
+        "type": "statistical",
+        "category": "extreme rainfall trends in major cities",
+        "tweet_id": "2044920727737127281"
     }
 ]
