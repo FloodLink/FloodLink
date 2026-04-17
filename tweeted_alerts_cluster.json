@@ -99,18 +99,18 @@
     "rain_mm": 97.56,
     "soil_moisture": 0.754,
     "raw_dynamic_score": 16.49,
-    "last_updated": "2026-04-17T13:08:27.835955Z",
+    "last_updated": "2026-04-17T16:01:50.458998Z",
     "last_tweeted_at": "2026-04-17T10:15:17.641759Z",
     "tweet_id": "2045083707120238956",
     "resolved": false,
     "pending_downgrade": true,
-    "pending_target_level": "Medium",
-    "pending_set_at": "2026-04-17T13:08:27.835955Z",
+    "pending_target_level": "Low",
+    "pending_set_at": "2026-04-17T16:01:50.458998Z",
     "pending_is_region": false,
-    "pending_observed_level": "Medium",
-    "pending_observed_rain_mm": 49.31,
-    "pending_observed_soil_moisture": 0.739,
-    "pending_observed_raw_dynamic_score": 8.271
+    "pending_observed_level": "Low",
+    "pending_observed_rain_mm": 7.38,
+    "pending_observed_soil_moisture": 0.707,
+    "pending_observed_raw_dynamic_score": 1.215
   },
   "-19.4333,46.7500": {
     "country": "Madagascar",
@@ -17419,7 +17419,7 @@
     "rain_mm": 63.88,
     "soil_moisture": 0.509,
     "raw_dynamic_score": 9.386,
-    "last_updated": "2026-04-17T10:15:17.641759Z",
+    "last_updated": "2026-04-17T16:01:50.458998Z",
     "last_tweeted_at": "2026-04-17T10:15:17.641759Z",
     "tweet_id": "2045083959952912738",
     "resolved": false
@@ -17434,7 +17434,7 @@
     "rain_mm": 56.25,
     "soil_moisture": 0.513,
     "raw_dynamic_score": 8.281,
-    "last_updated": "2026-04-17T10:15:17.641759Z",
+    "last_updated": "2026-04-17T16:01:50.458998Z",
     "last_tweeted_at": "2026-04-17T10:15:17.641759Z",
     "tweet_id": "2045084212592533688",
     "resolved": false
@@ -17464,9 +17464,24 @@
     "rain_mm": 45.31,
     "soil_moisture": 0.555,
     "raw_dynamic_score": 6.844,
-    "last_updated": "2026-04-17T13:08:27.835955Z",
+    "last_updated": "2026-04-17T16:01:50.458998Z",
     "last_tweeted_at": "2026-04-17T13:08:27.835955Z",
     "tweet_id": "2045127553799651543",
+    "resolved": false
+  },
+  "5.4896,6.0041": {
+    "country": "Nigeria",
+    "name": "Ughelli",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 5.48956,
+    "longitude": 6.00407,
+    "rain_mm": 66.81,
+    "soil_moisture": 0.614,
+    "raw_dynamic_score": 10.448,
+    "last_updated": "2026-04-17T16:01:50.458998Z",
+    "last_tweeted_at": "2026-04-17T16:01:50.458998Z",
+    "tweet_id": "2045170917580607853",
     "resolved": false
   }
 }
