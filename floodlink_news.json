@@ -15398,5 +15398,14 @@
             "longitude": -83.3333,
             "confidence": 0.95
         }
+    },
+    {
+        "link": null,
+        "date": "2026-04-17",
+        "status": "posted",
+        "tweet": "By 2030, 2.4 billion urban residents worldwide will be exposed to river flooding risks\u2014up 33% from 1.8 billion in 2020.",
+        "type": "statistical",
+        "category": "urban areas exposed to river flooding",
+        "tweet_id": "2045080061561196675"
     }
 ]
