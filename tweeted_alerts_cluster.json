@@ -302,7 +302,7 @@
     "rain_mm": 40.19,
     "soil_moisture": 0.793,
     "raw_dynamic_score": 6.936,
-    "last_updated": "2026-01-09T01:09:58.108905Z",
+    "last_updated": "2026-04-17T18:54:35.541881Z",
     "last_tweeted_at": "2026-01-08T21:17:16.922304Z",
     "tweet_id": "2009373911532601358",
     "resolved": false
@@ -9728,22 +9728,6 @@
     "tweet_id": "2033801362513793114",
     "resolved": false
   },
-  "-6.7233,146.9961": {
-    "country": "Papua New Guinea",
-    "name": "Lae",
-    "risk_level": "Low",
-    "tweeted_level": "Low",
-    "latitude": -6.72333,
-    "longitude": 146.99611,
-    "rain_mm": 0.31,
-    "soil_moisture": 0.525,
-    "raw_dynamic_score": 0.046,
-    "last_updated": "2026-04-16T16:25:34.618008Z",
-    "last_tweeted_at": "2026-04-16T16:25:34.618008Z",
-    "tweet_id": "2044814755962007667",
-    "resolved": true,
-    "resolved_at": "2026-04-16T16:25:34.618008Z"
-  },
   "-13.1256,38.9997": {
     "country": "Mozambique",
     "name": "Montepuez",
@@ -17065,22 +17049,6 @@
     "tweet_id": "2044404290677014706",
     "resolved": false
   },
-  "-7.2036,146.6401": {
-    "country": "Papua New Guinea",
-    "name": "Bulolo",
-    "risk_level": "Low",
-    "tweeted_level": "Low",
-    "latitude": -7.2036,
-    "longitude": 146.64014,
-    "rain_mm": 0.12,
-    "soil_moisture": 0.604,
-    "raw_dynamic_score": 0.019,
-    "last_updated": "2026-04-16T16:25:34.618008Z",
-    "last_tweeted_at": "2026-04-16T16:25:34.618008Z",
-    "tweet_id": "2044815008920379665",
-    "resolved": true,
-    "resolved_at": "2026-04-16T16:25:34.618008Z"
-  },
   "-2.2678,-46.9675": {
     "country": "Brazil",
     "name": "Nova Esperança do Piriá",
@@ -17479,7 +17447,7 @@
     "rain_mm": 66.81,
     "soil_moisture": 0.614,
     "raw_dynamic_score": 10.448,
-    "last_updated": "2026-04-17T16:01:50.458998Z",
+    "last_updated": "2026-04-17T18:54:35.541881Z",
     "last_tweeted_at": "2026-04-17T16:01:50.458998Z",
     "tweet_id": "2045170917580607853",
     "resolved": false
