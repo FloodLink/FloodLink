@@ -15444,5 +15444,14 @@
             "longitude": -85.87,
             "confidence": 0.95
         }
+    },
+    {
+        "link": null,
+        "date": "2026-04-17",
+        "status": "posted",
+        "tweet": "By 2030, 90% of major coastal cities like New York \ud83c\uddfa\ud83c\uddf8, Mumbai \ud83c\uddee\ud83c\uddf3, and Shanghai \ud83c\udde8\ud83c\uddf3 will see 1-in-50-year extreme rainfall events twice as often as in 2020, exposing 250 million to flash floods (IPCC projections).",
+        "type": "statistical",
+        "category": "extreme rainfall trends in major cities",
+        "tweet_id": "2045121419986497933"
     }
 ]
