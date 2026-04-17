@@ -92,16 +92,16 @@
   "1.6155,-75.6041": {
     "country": "Colombia",
     "name": "Florencia",
-    "risk_level": "Medium",
-    "tweeted_level": "Medium",
+    "risk_level": "High",
+    "tweeted_level": "High",
     "latitude": 1.61549,
     "longitude": -75.60412,
-    "rain_mm": 47.81,
-    "soil_moisture": 0.714,
-    "raw_dynamic_score": 7.907,
-    "last_updated": "2026-01-06T15:17:54.497808Z",
-    "last_tweeted_at": "2026-01-06T12:32:21.839138Z",
-    "tweet_id": "2008517031763603540",
+    "rain_mm": 97.56,
+    "soil_moisture": 0.754,
+    "raw_dynamic_score": 16.49,
+    "last_updated": "2026-04-17T10:15:17.641759Z",
+    "last_tweeted_at": "2026-04-17T10:15:17.641759Z",
+    "tweet_id": "2045083707120238956",
     "resolved": false
   },
   "-19.4333,46.7500": {
@@ -17255,7 +17255,7 @@
     "rain_mm": 1.31,
     "soil_moisture": 0.587,
     "raw_dynamic_score": 0.202,
-    "last_updated": "2026-04-17T05:29:46.876258Z",
+    "last_updated": "2026-04-17T10:15:17.641759Z",
     "last_tweeted_at": "2026-04-17T05:29:46.876258Z",
     "tweet_id": "2045011856801063312",
     "resolved": true,
@@ -17395,10 +17395,14 @@
     "rain_mm": 82.88,
     "soil_moisture": 0.589,
     "raw_dynamic_score": 12.775,
-    "last_updated": "2026-04-17T05:29:46.876258Z",
+    "last_updated": "2026-04-17T10:15:17.641759Z",
     "last_tweeted_at": "2026-04-17T05:29:46.876258Z",
     "tweet_id": "2045011856801063312",
-    "resolved": false
+    "resolved": false,
+    "pending_downgrade": true,
+    "pending_target_level": "Low",
+    "pending_set_at": "2026-04-17T10:15:17.641759Z",
+    "pending_is_region": true
   },
   "22.7072,110.3492": {
     "country": "China",
@@ -17410,7 +17414,7 @@
     "rain_mm": 82.88,
     "soil_moisture": 0.589,
     "raw_dynamic_score": 12.775,
-    "last_updated": "2026-04-17T05:29:46.876258Z",
+    "last_updated": "2026-04-17T10:15:17.641759Z",
     "last_tweeted_at": "2026-04-17T05:29:46.876258Z",
     "tweet_id": "2045011856801063312",
     "resolved": false
@@ -17428,6 +17432,36 @@
     "last_updated": "2026-04-17T07:30:37.568239Z",
     "last_tweeted_at": "2026-04-17T05:29:46.876258Z",
     "tweet_id": "2045012109407223894",
+    "resolved": false
+  },
+  "0.5714,33.7417": {
+    "country": "Uganda",
+    "name": "Bugiri",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 0.57139,
+    "longitude": 33.74167,
+    "rain_mm": 63.88,
+    "soil_moisture": 0.509,
+    "raw_dynamic_score": 9.386,
+    "last_updated": "2026-04-17T10:15:17.641759Z",
+    "last_tweeted_at": "2026-04-17T10:15:17.641759Z",
+    "tweet_id": "2045083959952912738",
+    "resolved": false
+  },
+  "0.3640,33.8176": {
+    "country": "Uganda",
+    "name": "Namavundu",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 0.36402,
+    "longitude": 33.81759,
+    "rain_mm": 56.25,
+    "soil_moisture": 0.513,
+    "raw_dynamic_score": 8.281,
+    "last_updated": "2026-04-17T10:15:17.641759Z",
+    "last_tweeted_at": "2026-04-17T10:15:17.641759Z",
+    "tweet_id": "2045084212592533688",
     "resolved": false
   }
 }
