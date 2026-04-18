@@ -17563,9 +17563,24 @@
     "rain_mm": 37.5,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 7.172,
-    "last_updated": "2026-04-18T07:06:23.563585Z",
+    "last_updated": "2026-04-18T09:49:00.940607Z",
     "last_tweeted_at": "2026-04-18T07:06:23.563585Z",
     "tweet_id": "2045398568438030417",
+    "resolved": false
+  },
+  "2.6620,97.8827": {
+    "country": "Indonesia",
+    "name": "Subulussalam",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 2.662,
+    "longitude": 97.8827,
+    "rain_mm": 57.75,
+    "soil_moisture": 0.659,
+    "raw_dynamic_score": 9.264,
+    "last_updated": "2026-04-18T09:49:00.940607Z",
+    "last_tweeted_at": "2026-04-18T09:49:00.940607Z",
+    "tweet_id": "2045439468711104925",
     "resolved": false
   }
 }
