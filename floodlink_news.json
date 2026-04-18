@@ -15658,5 +15658,25 @@
         "score": 7,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQdGZfQ3c0bHZPOVdDQTh5a3NQZHpkT3Z6WmI4RjhFdnNoRkZfTTkySE4zR0J5T2ZTYzNfNUF5czhZM21uQUJYMU8yUXBIMlgyb3JIZjdSX3ZBMW9UcjNvSGxfcEw2UEZNeGFyZXBxSUM2VUthVVprWERVTWRRTGVXbHl1QWRyU00?oc=5",
+        "date": "2026-04-18",
+        "title": "Flooding concerns across Illinois after heavy rain, storms overnight - CBS News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxQdGZfQ3c0bHZPOVdDQTh5a3NQZHpkT3Z6WmI4RjhFdnNoRkZfTTkySE4zR0J5T2ZTYzNfNUF5czhZM21uQUJYMU8yUXBIMlgyb3JIZjdSX3ZBMW9UcjNvSGxfcEw2UEZNeGFyZXBxSUM2VUthVVprWERVTWRRTGVXbHl1QWRyU00?oc=5\" target=\"_blank\">Flooding concerns across Illinois after heavy rain, storms overnight</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CBS News</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOSFZYdlo4X0JOS0RUOUhBQmRmRXlrN3RoU3hTRm5QMDV6N1V1QnQydFcxMklVYmpyYzlZQmlXYlA3RmZTOTQ0TzNIbk5YN3paNUFSdHU3WExib3Q5bE9CaC02TmZvaFIwNUg0dE9SUndJWGk0WUV4T0N2cldEVi0temdPU3RwQXRjWFNYYUJQQ2F4Zw?oc=5",
+        "date": "2026-04-18",
+        "title": "Flood warning issued for Rock and Mississippi rivers, rains erase local drought conditions - The Quad-City Times",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxOSFZYdlo4X0JOS0RUOUhBQmRmRXlrN3RoU3hTRm5QMDV6N1V1QnQydFcxMklVYmpyYzlZQmlXYlA3RmZTOTQ0TzNIbk5YN3paNUFSdHU3WExib3Q5bE9CaC02TmZvaFIwNUg0dE9SUndJWGk0WUV4T0N2cldEVi0temdPU3RwQXRjWFNYYUJQQ2F4Zw?oc=5\" target=\"_blank\">Flood warning issued for Rock and Mississippi rivers, rains erase local drought conditions</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Quad-City Times</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
     }
 ]
