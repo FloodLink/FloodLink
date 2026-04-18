@@ -15221,5 +15221,242 @@
         "type": "statistical",
         "category": "dams, levees and reservoirs used for flood control",
         "tweet_id": "2045356210333905199"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQU1JLZGwzRmMwY3pEeGg4UHJBVElZMm5ab1BtSm1uZFZPb1hXa1ZqeXNhb3VZNEJPLU9Vd3FhQV9pX2RYU0h0M0RhaXdQaElVUElmcWprd2ZmZGtLYUk1R2tjX1pWZjAxMzhEUXhHcjh4ZWdiZmRYWnJyTkNCUUtNbFhZRmZJbFhKQnVrNFNfdXFaWWN3eEFFWmxHTWowRVQwTC04?oc=5",
+        "date": "2026-04-18",
+        "title": "Severe storms, flooding his southeast Wisconsin again - WISN",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQU1JLZGwzRmMwY3pEeGg4UHJBVElZMm5ab1BtSm1uZFZPb1hXa1ZqeXNhb3VZNEJPLU9Vd3FhQV9pX2RYU0h0M0RhaXdQaElVUElmcWprd2ZmZGtLYUk1R2tjX1pWZjAxMzhEUXhHcjh4ZWdiZmRYWnJyTkNCUUtNbFhZRmZJbFhKQnVrNFNfdXFaWWN3eEFFWmxHTWowRVQwTC04?oc=5\" target=\"_blank\">Severe storms, flooding his southeast Wisconsin again</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WISN</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONTViV0dSZVhPQWRaYjZibzhSRm5sdHNXRURlWmdjRlNlbkNLb0tNejhKanpkMjRtdHVHdjdaM2xQNjVXR2Z4WVMybUg3c3duWTdjNzlJRlg4OU9ZRjllTjdUSzQtbzlOQ3p1bXFnbl9sWDQ3cG43WjlBM01NNWY3UG8wWGdqSmJ3LVgxdDN1d1ZZWHFrV3FscFlQV2lPaTRqYVRQNlZB?oc=5",
+        "date": "2026-04-18",
+        "title": "Flood warning to continue into next week - ironmountaindailynews.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxONTViV0dSZVhPQWRaYjZibzhSRm5sdHNXRURlWmdjRlNlbkNLb0tNejhKanpkMjRtdHVHdjdaM2xQNjVXR2Z4WVMybUg3c3duWTdjNzlJRlg4OU9ZRjllTjdUSzQtbzlOQ3p1bXFnbl9sWDQ3cG43WjlBM01NNWY3UG8wWGdqSmJ3LVgxdDN1d1ZZWHFrV3FscFlQV2lPaTRqYVRQNlZB?oc=5\" target=\"_blank\">Flood warning to continue into next week</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ironmountaindailynews.com</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbWRuUURmSHpIcWszaXVMNWg4dUJJZ1owcm9KZk5iZVljRmJkdXpSYTFHRXpsbFFkMnIwWko5VmJjTVZNdU56OF9FeGRFUnAweVBmdEtPaGpVVXRjT29nV1lWaU5Pb0lNaDQ4Wmc0dnlHclR0eWNpeUNFaE5abDlkZmVya1RsNmRkTHV2S3J6c0VUSHFPVHZZNkxBcndZNWtkQkk0ejBNLVUyMUU?oc=5",
+        "date": "2026-04-18",
+        "title": "Flood advisory affecting Iron County until further notice - MLive.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbWRuUURmSHpIcWszaXVMNWg4dUJJZ1owcm9KZk5iZVljRmJkdXpSYTFHRXpsbFFkMnIwWko5VmJjTVZNdU56OF9FeGRFUnAweVBmdEtPaGpVVXRjT29nV1lWaU5Pb0lNaDQ4Wmc0dnlHclR0eWNpeUNFaE5abDlkZmVya1RsNmRkTHV2S3J6c0VUSHFPVHZZNkxBcndZNWtkQkk0ejBNLVUyMUU?oc=5\" target=\"_blank\">Flood advisory affecting Iron County until further notice</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MLive.com</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNM3dGY3JyVzVDcGVHRUREOW9RQVJERUMzZlNkN3pEUGlTbUFPUnNzUlVyVVBTTFFZclBPTHZOVmM4UzhIcVZLREtfek9rR29XbEpMenhWTlUwZ1pUX2MyeENEazNsVmRNQ01MMXp3WG9ZczV4ZS02WllHUVlBaXlWeHZBcWdJalFveEs3QzBBZXNubnpsLVNUaFVrZmVkOTVjN2FRMEFxMG1rX3pBUm1Z?oc=5",
+        "date": "2026-04-18",
+        "title": "Flood advisory in place for Luce County until further notice - MLive.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxNM3dGY3JyVzVDcGVHRUREOW9RQVJERUMzZlNkN3pEUGlTbUFPUnNzUlVyVVBTTFFZclBPTHZOVmM4UzhIcVZLREtfek9rR29XbEpMenhWTlUwZ1pUX2MyeENEazNsVmRNQ01MMXp3WG9ZczV4ZS02WllHUVlBaXlWeHZBcWdJalFveEs3QzBBZXNubnpsLVNUaFVrZmVkOTVjN2FRMEFxMG1rX3pBUm1Z?oc=5\" target=\"_blank\">Flood advisory in place for Luce County until further notice</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MLive.com</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQaE9LQ3Q5bXJESTJvN0pkXzdaZXJNekI2MFY2dHBWcXdJUTV3RjVuaDA2c21lUHNiRzcyUlRRNzQ0OU5FdUxRYjJDY2hBbVZVbDhUc1lNZWM4VEU1bDd2STkwYWtOX3VUcV9uTmE4ZWpDLWd0RWt1VVBXWDhBQm01VlRfQ243TW9WSjBTUlRIWGtwMkNxVzF6WTlubC0wdjRqNzVLVFlaR2JKS0gzRTF2NDlMWHNyS0lLRC1JTEZUVUxXbktvZUtQNUxvS2pfcWlX?oc=5",
+        "date": "2026-04-18",
+        "title": "NY weather update: Coastal flood statement issued for Suffolk County for Saturday and Sunday - SILive.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxQaE9LQ3Q5bXJESTJvN0pkXzdaZXJNekI2MFY2dHBWcXdJUTV3RjVuaDA2c21lUHNiRzcyUlRRNzQ0OU5FdUxRYjJDY2hBbVZVbDhUc1lNZWM4VEU1bDd2STkwYWtOX3VUcV9uTmE4ZWpDLWd0RWt1VVBXWDhBQm01VlRfQ243TW9WSjBTUlRIWGtwMkNxVzF6WTlubC0wdjRqNzVLVFlaR2JKS0gzRTF2NDlMWHNyS0lLRC1JTEZUVUxXbktvZUtQNUxvS2pfcWlX?oc=5\" target=\"_blank\">NY weather update: Coastal flood statement issued for Suffolk County for Saturday and Sunday</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SILive.com</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPaGpyLVNBT00wZFlkSndfRmZfdjVNUEhoaWxzSWZLazJ1S19ZcFpWRmc5MjZYcHNrRXdUTVBCT0t5dXEyWFFZRE1RVWhPeW9PNXB0Vm9lVGtiT2RRZmtlNzVwQm9ab01mcDZxN3hxbXZzbGV2UVROZGJKNGZPYXpOeXYyTDVGelBFUDVOVEZaTkttV1VCYXowZ1I2REM4R2g0djdIX0dkSmRfdDNkdUZ2WTJoNHBXU19CR1dUbERON0JHUTVKbE9XMWdEQQ?oc=5",
+        "date": "2026-04-18",
+        "title": "NY weather: Coastal flood advisory affecting part of New York Saturday and Sunday - SILive.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxPaGpyLVNBT00wZFlkSndfRmZfdjVNUEhoaWxzSWZLazJ1S19ZcFpWRmc5MjZYcHNrRXdUTVBCT0t5dXEyWFFZRE1RVWhPeW9PNXB0Vm9lVGtiT2RRZmtlNzVwQm9ab01mcDZxN3hxbXZzbGV2UVROZGJKNGZPYXpOeXYyTDVGelBFUDVOVEZaTkttV1VCYXowZ1I2REM4R2g0djdIX0dkSmRfdDNkdUZ2WTJoNHBXU19CR1dUbERON0JHUTVKbE9XMWdEQQ?oc=5\" target=\"_blank\">NY weather: Coastal flood advisory affecting part of New York Saturday and Sunday</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SILive.com</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPblZWd2hkWFRWb1RVUy1QNUtnYlhyRk42NW9aSTRQLW1wY3lVSUhIQ0M3VW1yaFN0dU1selBDRjVjel9iLV9HZ2RMR0RwT04zZ2c1Q2ltYkZWV0VjbDNiMVhrQzlZNHZNUVpKTEZ0Sm4teXh6R0xrMzlDLWUzVEVQdHh2OTM0NndVcWhDTlQ5Q2NLbTlQWlZmaHZyN0dEWXlZa3pDOWs5d3NqLWdQQVE0ell6dnhsSm5GbVBQcURCbHdZdXZWbkRhYm1XVUl6R0poeVZQcw?oc=5",
+        "date": "2026-04-18",
+        "title": "NY weather: Coastal flood advisory issued for Westchester County for Saturday and Sunday - SILive.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxPblZWd2hkWFRWb1RVUy1QNUtnYlhyRk42NW9aSTRQLW1wY3lVSUhIQ0M3VW1yaFN0dU1selBDRjVjel9iLV9HZ2RMR0RwT04zZ2c1Q2ltYkZWV0VjbDNiMVhrQzlZNHZNUVpKTEZ0Sm4teXh6R0xrMzlDLWUzVEVQdHh2OTM0NndVcWhDTlQ5Q2NLbTlQWlZmaHZyN0dEWXlZa3pDOWs5d3NqLWdQQVE0ell6dnhsSm5GbVBQcURCbHdZdXZWbkRhYm1XVUl6R0poeVZQcw?oc=5\" target=\"_blank\">NY weather: Coastal flood advisory issued for Westchester County for Saturday and Sunday</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SILive.com</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQd21KUWRzbmJHamxtdjBSU0pEWExoaGJWbHlKRXpwekVfQzNSMVh6V0hZc09kNjl5N29kM3kwXzZFMWtya2RkYlo2Y2pKQVU4MVlaVDE1eVZnNTdyQTQwd3R6bi1JN2tGY2t3djJrenJoZVZmNFpvWktXQVFoX0lIcFBDMGU4OEFTaWNLYnJLd2dzeW8wRUVCTDZDMXZPcy1VM0RhTlBqMUZlLXlkNXl6NjJQRVE?oc=5",
+        "date": "2026-04-18",
+        "title": "NYC weather: Coastal flood statement affecting Brooklyn Saturday - SILive.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQd21KUWRzbmJHamxtdjBSU0pEWExoaGJWbHlKRXpwekVfQzNSMVh6V0hZc09kNjl5N29kM3kwXzZFMWtya2RkYlo2Y2pKQVU4MVlaVDE1eVZnNTdyQTQwd3R6bi1JN2tGY2t3djJrenJoZVZmNFpvWktXQVFoX0lIcFBDMGU4OEFTaWNLYnJLd2dzeW8wRUVCTDZDMXZPcy1VM0RhTlBqMUZlLXlkNXl6NjJQRVE?oc=5\" target=\"_blank\">NYC weather: Coastal flood statement affecting Brooklyn Saturday</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SILive.com</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNSHVNalRqVjVFN2pMbFZxdFl0b3NrREdFSGZ3Mlh6ZS1OY3pnOHR4Q2tIZXZQRHZfVUFBeDRhcWVlLVZuTUhHTUNmUEJlZThnSGRoOVAwUUJ2Wk5Pc2F6ZjUwa2tkd3BscWFSYkZQRzVhcWRRN2c1eUU3cW41SVZjSTNLTE93WUl4TmtxMzYteDRJTFI0dktlU3hqbVhieDBDRUZIZDFWMVVCOGFsdEQ2QTV6UWVyMFlqaWw2YThjRGpZTjh1UWMzUlZHX3hNMFJKdlJaSmxGSHVpeEk?oc=5",
+        "date": "2026-04-18",
+        "title": "NYC weather update: Coastal flood advisory in place for Staten Island for Saturday and Sunday - SILive.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxNSHVNalRqVjVFN2pMbFZxdFl0b3NrREdFSGZ3Mlh6ZS1OY3pnOHR4Q2tIZXZQRHZfVUFBeDRhcWVlLVZuTUhHTUNmUEJlZThnSGRoOVAwUUJ2Wk5Pc2F6ZjUwa2tkd3BscWFSYkZQRzVhcWRRN2c1eUU3cW41SVZjSTNLTE93WUl4TmtxMzYteDRJTFI0dktlU3hqbVhieDBDRUZIZDFWMVVCOGFsdEQ2QTV6UWVyMFlqaWw2YThjRGpZTjh1UWMzUlZHX3hNMFJKdlJaSmxGSHVpeEk?oc=5\" target=\"_blank\">NYC weather update: Coastal flood advisory in place for Staten Island for Saturday and Sunday</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SILive.com</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWE1NTVdwWVo0OHJJRFZlNEhaTDFlU1ZXTG43amFjX0lMNXNSSmRVMTJGRTkySzlWSnFiUlRoaXlWT1R3ZWo4d2REVHpNcFB3TFJLSFpVenV5RWJWRGRqZlU3TVZHcTRZOWY5WG1NNi1xMVU1RU94MjZGYWg3V2pDcU1KQnhVQUlBckJvSUpOUG91dGE3ZkVGQlpLdHd1SXBWMTFScGtnTHlSOHVFZjV4RVVn?oc=5",
+        "date": "2026-04-18",
+        "title": "Coastal flood advisory for 3 N.J. counties for Saturday and Sunday - NJ.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNWE1NTVdwWVo0OHJJRFZlNEhaTDFlU1ZXTG43amFjX0lMNXNSSmRVMTJGRTkySzlWSnFiUlRoaXlWT1R3ZWo4d2REVHpNcFB3TFJLSFpVenV5RWJWRGRqZlU3TVZHcTRZOWY5WG1NNi1xMVU1RU94MjZGYWg3V2pDcU1KQnhVQUlBckJvSUpOUG91dGE3ZkVGQlpLdHd1SXBWMTFScGtnTHlSOHVFZjV4RVVn?oc=5\" target=\"_blank\">Coastal flood advisory for 3 N.J. counties for Saturday and Sunday</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NJ.com</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPR0NRRDFITjdUSmFOTzFOVWJsNVZXWE9McmdqSXRrR25OMDVHVUpWazQzNzlrYW5pWjdvbzZOeG1JRGFxZC02bnl2ckdhZVFMbWp1dTVkblBsYVE0a251QmVXU1hXTUtqSlhobHZtWVlNMVota1FlbmIwRk1NbndNMVdVZWJNZnVpSXM2MTdhRUNDWkF6azhXazhIMEdhTUk2dmMwM0dVd1hyV1k3SDBTcVM4UVVaeGlXbllBbEVrZTdmVEhLSkQ3TlhBRndNWTVBbXpN?oc=5",
+        "date": "2026-04-18",
+        "title": "NY weather update: Coastal flood statement issued for Suffolk County for Saturday and Sunday - SILive.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxPR0NRRDFITjdUSmFOTzFOVWJsNVZXWE9McmdqSXRrR25OMDVHVUpWazQzNzlrYW5pWjdvbzZOeG1JRGFxZC02bnl2ckdhZVFMbWp1dTVkblBsYVE0a251QmVXU1hXTUtqSlhobHZtWVlNMVota1FlbmIwRk1NbndNMVdVZWJNZnVpSXM2MTdhRUNDWkF6azhXazhIMEdhTUk2dmMwM0dVd1hyV1k3SDBTcVM4UVVaeGlXbllBbEVrZTdmVEhLSkQ3TlhBRndNWTVBbXpN?oc=5\" target=\"_blank\">NY weather update: Coastal flood statement issued for Suffolk County for Saturday and Sunday</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SILive.com</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPT0F3OEFDbU53YzdiY2VQMFFoM3dFWWFWLUstaGI4Rmp5aWppMmJmVURuNEVlZTZOTWdHQ1dGaHQ0d0tBbVlfR1pGMDFUVFNLSEVhTHY3eVhqaUZMeVJVRWZEV3RwWmRoTDI5NE9KOFdKVm04R0NxR3AtT284QkVmSWtoVlBDVTk0WHlHTGtNZklFcGpKZ0kzcG1BY29jOXR5VE02dGxxaDdjMERtZ1VoRHdJenNFNk1KRFYwYzBwM0ZJMXk0ejNFckI1Y2NPdFYtdF9CVVVfODhJVmpSY0EyYkRvMm5SeHJBUWxfalU5UEdVbV9jdG1fYXVpSDNfWnFGZFd1TEFzVXptT18zT1E?oc=5",
+        "date": "2026-04-18",
+        "title": "Town of Caledonia flooding forces families from homes as heavy rain pushes river to dangerous heights - WKOW",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgJBVV95cUxPT0F3OEFDbU53YzdiY2VQMFFoM3dFWWFWLUstaGI4Rmp5aWppMmJmVURuNEVlZTZOTWdHQ1dGaHQ0d0tBbVlfR1pGMDFUVFNLSEVhTHY3eVhqaUZMeVJVRWZEV3RwWmRoTDI5NE9KOFdKVm04R0NxR3AtT284QkVmSWtoVlBDVTk0WHlHTGtNZklFcGpKZ0kzcG1BY29jOXR5VE02dGxxaDdjMERtZ1VoRHdJenNFNk1KRFYwYzBwM0ZJMXk0ejNFckI1Y2NPdFYtdF9CVVVfODhJVmpSY0EyYkRvMm5SeHJBUWxfalU5UEdVbV9jdG1fYXVpSDNfWnFGZFd1TEFzVXptT18zT1E?oc=5\" target=\"_blank\">Town of Caledonia flooding forces families from homes as heavy rain pushes river to dangerous heights</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WKOW</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": null,
+        "tweet_id": "2045409256716075019",
+        "geo": {
+            "country": "United States",
+            "name": "Caledonia, Wisconsin",
+            "latitude": 42.8025,
+            "longitude": -87.9256,
+            "confidence": 0.95
+        }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQYW5PZzJvYVRYM1FxbnFETUhJQVFFb3dEelZWWkdLWjd5dG80OGc3bEpmRnpacENmdTd1UldXNWZ1LWpBUWFwaHp2ODNHNXp0T2Q2ay0wNVgwRmI5NlJwOUhZdl9LZ2s2cGxtc1NVekVXUkl2S25BT1YxakFoekRhZG0xaGFQdGJxWGlaTWw3WHdoZU9FbmpXOExtZVNtaXNMMDUyREMtRzRfRWFOSHE2c2VPWWM4RmdOcHJncVBUQi1Udzl2NlJxeTN3c2tNRTZjTUE0?oc=5",
+        "date": "2026-04-18",
+        "title": "NY weather update: Coastal flood advisory for Queens and Nassau County for Saturday and Sunday - SILive.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxQYW5PZzJvYVRYM1FxbnFETUhJQVFFb3dEelZWWkdLWjd5dG80OGc3bEpmRnpacENmdTd1UldXNWZ1LWpBUWFwaHp2ODNHNXp0T2Q2ay0wNVgwRmI5NlJwOUhZdl9LZ2s2cGxtc1NVekVXUkl2S25BT1YxakFoekRhZG0xaGFQdGJxWGlaTWw3WHdoZU9FbmpXOExtZVNtaXNMMDUyREMtRzRfRWFOSHE2c2VPWWM4RmdOcHJncVBUQi1Udzl2NlJxeTN3c2tNRTZjTUE0?oc=5\" target=\"_blank\">NY weather update: Coastal flood advisory for Queens and Nassau County for Saturday and Sunday</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SILive.com</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNSkpPT3o4SE9TWndqOXpmcE5VLWxNRG5FS05uVE96LTVhclNLWmVBdnF1MGt5ZjVIZXA1OG5FaktHSlZDakdqT3hKMzRFajhQZWFWZzM1VllEWXAtbEVzWDlIX0JVT0I1VmkydTE2c1RySHhwZ0FneUM5cWctLWhRTEh1dFZ5UWQyeVUxNFUxUGYwVGJWR0h1S3VUaGc4TkU4ZDBsNFFsYVpNVFUtWFlmLVhXNFctR20yWkIzTWZTOGJObUJNTmIxYzl0cXRJT2x3QkVoN2hibmNsY1FwUlZiSW8zOEFtUQ?oc=5",
+        "date": "2026-04-18",
+        "title": "Damage reports roll in after severe weather in mid-Missouri - KOMU 8",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxNSkpPT3o4SE9TWndqOXpmcE5VLWxNRG5FS05uVE96LTVhclNLWmVBdnF1MGt5ZjVIZXA1OG5FaktHSlZDakdqT3hKMzRFajhQZWFWZzM1VllEWXAtbEVzWDlIX0JVT0I1VmkydTE2c1RySHhwZ0FneUM5cWctLWhRTEh1dFZ5UWQyeVUxNFUxUGYwVGJWR0h1S3VUaGc4TkU4ZDBsNFFsYVpNVFUtWFlmLVhXNFctR20yWkIzTWZTOGJObUJNTmIxYzl0cXRJT2x3QkVoN2hibmNsY1FwUlZiSW8zOEFtUQ?oc=5\" target=\"_blank\">Damage reports roll in after severe weather in mid-Missouri</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KOMU 8</font>",
+        "similarity_excluded": "No",
+        "score": 2,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPR0dHUHI1RVhsSFprcTN3NlhHZ1I3TGktZHBUWWpfMUJkQ3B4dlkxeGNPdXUyRjhmMkMtcElXY0p6VVVhczBaTHkxYWVqdVNmaTJiV2o4RGZ5cWNjNWRyS1dOZFczZUJyRUREZlNhRjlvZE1ka1E3b1pURndTeDFic0JiQXZwTFJhRVl0amVzWmJhTzJ3dVlGUE0yejJLWW40VnE0?oc=5",
+        "date": "2026-04-18",
+        "title": "Severe Weather Possible For One More Day In The Great Lakes, Appalachians - The Weather Channel",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPR0dHUHI1RVhsSFprcTN3NlhHZ1I3TGktZHBUWWpfMUJkQ3B4dlkxeGNPdXUyRjhmMkMtcElXY0p6VVVhczBaTHkxYWVqdVNmaTJiV2o4RGZ5cWNjNWRyS1dOZFczZUJyRUREZlNhRjlvZE1ka1E3b1pURndTeDFic0JiQXZwTFJhRVl0amVzWmJhTzJ3dVlGUE0yejJLWW40VnE0?oc=5\" target=\"_blank\">Severe Weather Possible For One More Day In The Great Lakes, Appalachians</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Weather Channel</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTS1jRklqVGxlSlo3YWQ1TDhUclhOY2tCUExOelRDRDFNWmZrbzRmdVdYMUtFRk9CcVdsWEFVcE9lTDhiNTE2ckRqOTlsTFI2VWhJRExiN2NwemlfZHNzaG5uV0YtdkNjLTJWcHlWcUNBX0FWWjN6LVVVUFpBMjJ1V1c5cUxpemMya193Um5ZRThwTXZ1OENSOFBxWUxzNDVmMDZuZDc3QXFBSEU?oc=5",
+        "date": "2026-04-18",
+        "title": "Flood watch remains in effect into Saturday morning - Shaw Local",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTS1jRklqVGxlSlo3YWQ1TDhUclhOY2tCUExOelRDRDFNWmZrbzRmdVdYMUtFRk9CcVdsWEFVcE9lTDhiNTE2ckRqOTlsTFI2VWhJRExiN2NwemlfZHNzaG5uV0YtdkNjLTJWcHlWcUNBX0FWWjN6LVVVUFpBMjJ1V1c5cUxpemMya193Um5ZRThwTXZ1OENSOFBxWUxzNDVmMDZuZDc3QXFBSEU?oc=5\" target=\"_blank\">Flood watch remains in effect into Saturday morning</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Shaw Local</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNbUZCNlQ2RWk2S2VPUUdLMDNIREZOTEpJWHpCQnhjUTJBcnBDck1tdzBrMjZOSkR3TWIySUJaMFZjWWZfSTlIVWFSRlRaQ3hNNnR1RlNKY0hYRTluWTR1WnptbjUzNm85cVdNUkQ1MHNIWHZiazJMX3BsMVp2LXhXMHBCUEJ1VXdsSmxHRjZaT3VHZ3ZjMXpFRzN4TQ?oc=5",
+        "date": "2026-04-18",
+        "title": "Flood Warning until SAT 1:30 AM CDT - Lake Geneva News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNbUZCNlQ2RWk2S2VPUUdLMDNIREZOTEpJWHpCQnhjUTJBcnBDck1tdzBrMjZOSkR3TWIySUJaMFZjWWZfSTlIVWFSRlRaQ3hNNnR1RlNKY0hYRTluWTR1WnptbjUzNm85cVdNUkQ1MHNIWHZiazJMX3BsMVp2LXhXMHBCUEJ1VXdsSmxHRjZaT3VHZ3ZjMXpFRzN4TQ?oc=5\" target=\"_blank\">Flood Warning until SAT 1:30 AM CDT</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Lake Geneva News</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOWVJ0VkU2c2twYTN3XzB4LTk4bXkxZHItQ3J5SVV5R1JnTG80SjMxXzZrLV9neVl5dG5NdVc4ajRfcDRFNG5jSi1sckJfU3JzNUxsM3ZjajByZzJpWjJQMkVfdC1DemtUaFIySlRhWnkzLXMzRDZYaWg0YTVnSk1pSzl0ZS01Qnc5WWlvWkVEUmFwR3pWWW1FNE1ObDhrU3NUcDNyYg?oc=5",
+        "date": "2026-04-18",
+        "title": "Milwaukee deploys barricades at flood-prone areas ahead of storm - WISN",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxOWVJ0VkU2c2twYTN3XzB4LTk4bXkxZHItQ3J5SVV5R1JnTG80SjMxXzZrLV9neVl5dG5NdVc4ajRfcDRFNG5jSi1sckJfU3JzNUxsM3ZjajByZzJpWjJQMkVfdC1DemtUaFIySlRhWnkzLXMzRDZYaWg0YTVnSk1pSzl0ZS01Qnc5WWlvWkVEUmFwR3pWWW1FNE1ObDhrU3NUcDNyYg?oc=5\" target=\"_blank\">Milwaukee deploys barricades at flood-prone areas ahead of storm</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WISN</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPNWg2cU9ZY0NtSG12d2NiUmNiR21lRjF4VHp5R05scm5UbWJORW0xV3BWVFh1NGw0RnFaTUx2ZEd6S1VpVVhGUlIta0tDRHNBekxhVUw3UG45dGRXS29XUFRvQnk5YVRPLTBEMk5QNmRPLUx4TnluampNWnlXRjc5cDlSSHdCdXFzLWZDMkRzdTdKaGVDR1Q4c2NRQnI?oc=5",
+        "date": "2026-04-18",
+        "title": "FLood Watch - starvedrock.media",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPNWg2cU9ZY0NtSG12d2NiUmNiR21lRjF4VHp5R05scm5UbWJORW0xV3BWVFh1NGw0RnFaTUx2ZEd6S1VpVVhGUlIta0tDRHNBekxhVUw3UG45dGRXS29XUFRvQnk5YVRPLTBEMk5QNmRPLUx4TnluampNWnlXRjc5cDlSSHdCdXFzLWZDMkRzdTdKaGVDR1Q4c2NRQnI?oc=5\" target=\"_blank\">FLood Watch</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">starvedrock.media</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNRXhPU1Nfc0pXeUFEZ1pqeGZTanhUc2VsaWlwMFlpTU85VW1VUVRDZTN1QldzSWxuQzVrVjBsWGRLcEladjVNdGtwY3pZLVB6UWwxVmJMTXhteGRKSEswZzd4LU1WQzRKaTd3aXJ2SklJdzEzNGpBRE9nQnBvUzZrdzFRTHRZVU0wYXc1bktHREoxaWZFb0ZwQWlUaw?oc=5",
+        "date": "2026-04-18",
+        "title": "Fox River overflows in Racine County, thousands lose power - WISN",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNRXhPU1Nfc0pXeUFEZ1pqeGZTanhUc2VsaWlwMFlpTU85VW1VUVRDZTN1QldzSWxuQzVrVjBsWGRLcEladjVNdGtwY3pZLVB6UWwxVmJMTXhteGRKSEswZzd4LU1WQzRKaTd3aXJ2SklJdzEzNGpBRE9nQnBvUzZrdzFRTHRZVU0wYXc1bktHREoxaWZFb0ZwQWlUaw?oc=5\" target=\"_blank\">Fox River overflows in Racine County, thousands lose power</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WISN</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOV0RDdE1UVHNxY2VSc1BLS3ZOdkl6MGI2WXlWWW5nMFJWUTZVU3NMZlA0R0dMMjlkZHg1b3FmdktBbDlvWUE2c2pHcURQWVhzMU1fQXVhQndueVZYcGxSU3lPUE9RTjdwRGxhT0pVZFhPdFlnMTAwekZpRWhPVjh6U091MTZsdkF0S053MXV2Q3g4M0dMZkVBNDhpS0dOZ2szcTJvTGd4TDFnSGpMZS05OXV6U2tRa256ckx0ZTN3Ym5mZU9pMnd5bTF2ckpIS2JGYlI0?oc=5",
+        "date": "2026-04-18",
+        "title": "South Goa Monsoon Preparedness: Collector Egna Cleetus Directs Flood Risk Survey, Sets May 10 Deadline - heraldgoa.in",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxOV0RDdE1UVHNxY2VSc1BLS3ZOdkl6MGI2WXlWWW5nMFJWUTZVU3NMZlA0R0dMMjlkZHg1b3FmdktBbDlvWUE2c2pHcURQWVhzMU1fQXVhQndueVZYcGxSU3lPUE9RTjdwRGxhT0pVZFhPdFlnMTAwekZpRWhPVjh6U091MTZsdkF0S053MXV2Q3g4M0dMZkVBNDhpS0dOZ2szcTJvTGd4TDFnSGpMZS05OXV6U2tRa256ckx0ZTN3Ym5mZU9pMnd5bTF2ckpIS2JGYlI0?oc=5\" target=\"_blank\">South Goa Monsoon Preparedness: Collector Egna Cleetus Directs Flood Risk Survey, Sets May 10 Deadline</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">heraldgoa.in</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPT0F3OEFDbU53YzdiY2VQMFFoM3dFWWFWLUstaGI4Rmp5aWppMmJmVURuNEVlZTZOTWdHQ1dGaHQ0d0tBbVlfR1pGMDFUVFNLSEVhTHY3eVhqaUZMeVJVRWZEV3RwWmRoTDI5NE9KOFdKVm04R0NxR3AtT284QkVmSWtoVlBDVTk0WHlHTGtNZklFcGpKZ0kzcG1BY29jOXR5VE02dGxxaDdjMERtZ1VoRHdJenNFNk1KRFYwYzBwM0ZJMXk0ejNFckI1Y2NPdFYtdF9CVVVfODhJVmpSY0EyYkRvMm5SeHJBUWxfalU5UEdVbV9jdG1fYXVpSDNfWnFGZFd1TEFzVXptT18zT1E?oc=5",
+        "date": "2026-04-18",
+        "title": "Town of Caledonia flooding forces families from homes as heavy rain pushes river to dangerous heights - WKOW",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgJBVV95cUxPT0F3OEFDbU53YzdiY2VQMFFoM3dFWWFWLUstaGI4Rmp5aWppMmJmVURuNEVlZTZOTWdHQ1dGaHQ0d0tBbVlfR1pGMDFUVFNLSEVhTHY3eVhqaUZMeVJVRWZEV3RwWmRoTDI5NE9KOFdKVm04R0NxR3AtT284QkVmSWtoVlBDVTk0WHlHTGtNZklFcGpKZ0kzcG1BY29jOXR5VE02dGxxaDdjMERtZ1VoRHdJenNFNk1KRFYwYzBwM0ZJMXk0ejNFckI1Y2NPdFYtdF9CVVVfODhJVmpSY0EyYkRvMm5SeHJBUWxfalU5UEdVbV9jdG1fYXVpSDNfWnFGZFd1TEFzVXptT18zT1E?oc=5\" target=\"_blank\">Town of Caledonia flooding forces families from homes as heavy rain pushes river to dangerous heights</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WKOW</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 POST-EVENT Caledonia: Flooding from heavy rain pushes river to dangerous heights, forcing families from homes. (WKOW)",
+        "type": "news",
+        "tweet_id": "2045409256716075019",
+        "geo": {
+            "country": "United States",
+            "name": "Caledonia, Wisconsin",
+            "latitude": 42.8025,
+            "longitude": -87.9256,
+            "confidence": 0.95
+        }
     }
 ]
