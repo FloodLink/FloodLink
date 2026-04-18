@@ -13302,7 +13302,7 @@
     "rain_mm": 66.5,
     "soil_moisture": 0.525,
     "raw_dynamic_score": 9.864,
-    "last_updated": "2026-04-10T21:38:38.073797Z",
+    "last_updated": "2026-04-18T15:39:43.431511Z",
     "last_tweeted_at": "2026-04-01T13:07:41.360354Z",
     "tweet_id": "2039329398319628461",
     "resolved": false
@@ -16002,7 +16002,7 @@
     "rain_mm": 68.19,
     "soil_moisture": 0.639,
     "raw_dynamic_score": 10.82,
-    "last_updated": "2026-04-10T05:26:06.811922Z",
+    "last_updated": "2026-04-18T15:39:43.431511Z",
     "last_tweeted_at": "2026-04-10T01:56:44.904559Z",
     "tweet_id": "2042421541451780500",
     "resolved": false
@@ -17087,54 +17087,6 @@
     "tweet_id": "2044679624035021160",
     "resolved": false
   },
-  "23.4096,89.1380": {
-    "country": "Bangladesh",
-    "name": "Kālīganj",
-    "risk_level": "None",
-    "tweeted_level": "None",
-    "latitude": 23.40964,
-    "longitude": 89.13801,
-    "rain_mm": 0.0,
-    "soil_moisture": 0.479,
-    "raw_dynamic_score": 0.0,
-    "last_updated": "2026-04-17T13:08:27.835955Z",
-    "last_tweeted_at": "2026-04-17T13:08:27.835955Z",
-    "tweet_id": "2045127806321861118",
-    "resolved": true,
-    "resolved_at": "2026-04-17T13:08:27.835955Z"
-  },
-  "23.1551,89.4951": {
-    "country": "Bangladesh",
-    "name": "Narail",
-    "risk_level": "None",
-    "tweeted_level": "None",
-    "latitude": 23.15509,
-    "longitude": 89.49515,
-    "rain_mm": 0.0,
-    "soil_moisture": 0.462,
-    "raw_dynamic_score": 0.0,
-    "last_updated": "2026-04-17T13:08:27.835955Z",
-    "last_tweeted_at": "2026-04-17T13:08:27.835955Z",
-    "tweet_id": "2045127806321861118",
-    "resolved": true,
-    "resolved_at": "2026-04-17T13:08:27.835955Z"
-  },
-  "23.1697,89.2137": {
-    "country": "Bangladesh",
-    "name": "Jessore",
-    "risk_level": "None",
-    "tweeted_level": "None",
-    "latitude": 23.16971,
-    "longitude": 89.21371,
-    "rain_mm": 0.0,
-    "soil_moisture": 0.458,
-    "raw_dynamic_score": 0.0,
-    "last_updated": "2026-04-17T13:08:27.835955Z",
-    "last_tweeted_at": "2026-04-17T13:08:27.835955Z",
-    "tweet_id": "2045127806321861118",
-    "resolved": true,
-    "resolved_at": "2026-04-17T13:08:27.835955Z"
-  },
   "-15.8340,-67.5659": {
     "country": "Plurinational State of Bolivia",
     "name": "Caranavi",
@@ -17586,9 +17538,24 @@
     "rain_mm": 46.0,
     "soil_moisture": 0.616,
     "raw_dynamic_score": 7.2,
-    "last_updated": "2026-04-18T12:51:37.540602Z",
+    "last_updated": "2026-04-18T15:39:43.431511Z",
     "last_tweeted_at": "2026-04-18T12:51:37.540602Z",
     "tweet_id": "2045485433727959242",
+    "resolved": false
+  },
+  "38.1371,41.0082": {
+    "country": "Türkiye",
+    "name": "Silvan",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 38.13708,
+    "longitude": 41.00817,
+    "rain_mm": 43.25,
+    "soil_moisture": 0.632,
+    "raw_dynamic_score": 6.834,
+    "last_updated": "2026-04-18T15:39:43.431511Z",
+    "last_tweeted_at": "2026-04-18T15:39:43.431511Z",
+    "tweet_id": "2045527728107950555",
     "resolved": false
   }
 }
