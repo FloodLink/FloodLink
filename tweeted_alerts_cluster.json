@@ -17640,9 +17640,39 @@
     "rain_mm": 41.12,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 7.865,
-    "last_updated": "2026-04-19T07:17:03.233894Z",
+    "last_updated": "2026-04-19T09:48:19.996372Z",
     "last_tweeted_at": "2026-04-19T07:17:03.233894Z",
     "tweet_id": "2045763885915934968",
+    "resolved": false
+  },
+  "-3.4394,-39.1483": {
+    "country": "Brazil",
+    "name": "Paraipaba",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": -3.43944,
+    "longitude": -39.14833,
+    "rain_mm": 55.69,
+    "soil_moisture": 0.661,
+    "raw_dynamic_score": 8.943,
+    "last_updated": "2026-04-19T09:48:19.996372Z",
+    "last_tweeted_at": "2026-04-19T09:48:19.996372Z",
+    "tweet_id": "2045801692541735266",
+    "resolved": false
+  },
+  "28.8903,105.4257": {
+    "country": "China",
+    "name": "Luzhou",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 28.8903,
+    "longitude": 105.42575,
+    "rain_mm": 44.5,
+    "soil_moisture": 0.663,
+    "raw_dynamic_score": 7.158,
+    "last_updated": "2026-04-19T09:48:19.996372Z",
+    "last_tweeted_at": "2026-04-19T09:48:19.996372Z",
+    "tweet_id": "2045801945273606520",
     "resolved": false
   }
 }
