@@ -89,22 +89,6 @@
     "tweet_id": "2008363763112480824",
     "resolved": false
   },
-  "1.6155,-75.6041": {
-    "country": "Colombia",
-    "name": "Florencia",
-    "risk_level": "Low",
-    "tweeted_level": "Low",
-    "latitude": 1.61549,
-    "longitude": -75.60412,
-    "rain_mm": 1.44,
-    "soil_moisture": 0.646,
-    "raw_dynamic_score": 0.229,
-    "last_updated": "2026-04-18T12:51:37.540602Z",
-    "last_tweeted_at": "2026-04-18T12:51:37.540602Z",
-    "tweet_id": "2045485686560596449",
-    "resolved": true,
-    "resolved_at": "2026-04-18T12:51:37.540602Z"
-  },
   "-19.4333,46.7500": {
     "country": "Madagascar",
     "name": "Miandrarivo",
@@ -16094,7 +16078,7 @@
     "rain_mm": 55.44,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 10.602,
-    "last_updated": "2026-04-13T05:42:42.725017Z",
+    "last_updated": "2026-04-19T15:39:19.610287Z",
     "last_tweeted_at": "2026-04-10T15:50:35.785827Z",
     "tweet_id": "2042631629403799603",
     "resolved": false
@@ -17177,7 +17161,7 @@
     "rain_mm": 3.56,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 0.681,
-    "last_updated": "2026-04-19T07:17:03.233894Z",
+    "last_updated": "2026-04-19T15:39:19.610287Z",
     "last_tweeted_at": "2026-04-18T21:35:59.139212Z",
     "tweet_id": "2045617388947976216",
     "resolved": true,
@@ -17670,9 +17654,39 @@
     "rain_mm": 44.5,
     "soil_moisture": 0.663,
     "raw_dynamic_score": 7.158,
-    "last_updated": "2026-04-19T09:48:19.996372Z",
+    "last_updated": "2026-04-19T15:39:19.610287Z",
     "last_tweeted_at": "2026-04-19T09:48:19.996372Z",
     "tweet_id": "2045801945273606520",
+    "resolved": false
+  },
+  "31.6000,131.3667": {
+    "country": "Japan",
+    "name": "Nichinan",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 31.6,
+    "longitude": 131.36667,
+    "rain_mm": 63.75,
+    "soil_moisture": 0.62,
+    "raw_dynamic_score": 10.003,
+    "last_updated": "2026-04-19T15:39:19.610287Z",
+    "last_tweeted_at": "2026-04-19T15:39:19.610287Z",
+    "tweet_id": "2045890025154564241",
+    "resolved": false
+  },
+  "31.4862,131.2421": {
+    "country": "Japan",
+    "name": "Kushima",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 31.48621,
+    "longitude": 131.2421,
+    "rain_mm": 63.75,
+    "soil_moisture": 0.62,
+    "raw_dynamic_score": 10.003,
+    "last_updated": "2026-04-19T15:39:19.610287Z",
+    "last_tweeted_at": "2026-04-19T15:39:19.610287Z",
+    "tweet_id": "2045890025154564241",
     "resolved": false
   }
 }
