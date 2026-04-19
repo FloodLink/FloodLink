@@ -15272,5 +15272,159 @@
         "type": "statistical",
         "category": "dams, levees and reservoirs used for flood control",
         "tweet_id": "2045862186925371849"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOQ0dNZnFsbTJqN2NrWWxsU2ZSdExuVk55bldlTXJJd01icU1sV3RpcDNyTGpGZGdhWDRYY3NWRU5XcVBFcmJ2bmt5bXdvb2ZJaURuOGpITG9tN0NPVEFwekpYa0hJZUw2SG5oUWRDNEdmci1UQ0dwSjlUcGtyRzhoaWlMdkJISGxCZWxNU3plLV8zQlF5T0tyai00Z2FacFlqLWdiZUdRWENMUWlRcUJLWVJNQ3BZaS03alBuYzNLcE00VUE?oc=5",
+        "date": "2026-04-19",
+        "title": "Flood warning issued for Cheboygan and Emmet counties until Tuesday evening - MLive.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxOQ0dNZnFsbTJqN2NrWWxsU2ZSdExuVk55bldlTXJJd01icU1sV3RpcDNyTGpGZGdhWDRYY3NWRU5XcVBFcmJ2bmt5bXdvb2ZJaURuOGpITG9tN0NPVEFwekpYa0hJZUw2SG5oUWRDNEdmci1UQ0dwSjlUcGtyRzhoaWlMdkJISGxCZWxNU3plLV8zQlF5T0tyai00Z2FacFlqLWdiZUdRWENMUWlRcUJLWVJNQ3BZaS03alBuYzNLcE00VUE?oc=5\" target=\"_blank\">Flood warning issued for Cheboygan and Emmet counties until Tuesday evening</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MLive.com</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": null,
+        "tweet_id": "2045901479832137734",
+        "geo": {
+            "country": "United States",
+            "name": "Cheboygan and Emmet counties, Michigan",
+            "latitude": 45.43,
+            "longitude": -84.7,
+            "confidence": 0.95
+        }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOMHRWekpyb1EtQl9JbDB1ZVNGQ3hxcWVZNWZwTlRLRkxxMzBuWFJkU0FEZFI5WlVOck1USHZINHhrandsVDdzRzVadGRxalVhWTVBMG9sbHczb2ZHOU5SX09MUk9WRENSUlNxRklVclkyeW9mZ3NKOG54cnFVMk03N1VDbEU5c1o4ek1oOWpaTzBhX2Jxam02cXJybzVrS0dOdjFObVdyd2FBWnNFa0tZbS1GTnAzV0NJNy0xUjd3?oc=5",
+        "date": "2026-04-19",
+        "title": "Flood warning for Alpena and Presque Isle counties until Monday evening - MLive.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxOMHRWekpyb1EtQl9JbDB1ZVNGQ3hxcWVZNWZwTlRLRkxxMzBuWFJkU0FEZFI5WlVOck1USHZINHhrandsVDdzRzVadGRxalVhWTVBMG9sbHczb2ZHOU5SX09MUk9WRENSUlNxRklVclkyeW9mZ3NKOG54cnFVMk03N1VDbEU5c1o4ek1oOWpaTzBhX2Jxam02cXJybzVrS0dOdjFObVdyd2FBWnNFa0tZbS1GTnAzV0NJNy0xUjd3?oc=5\" target=\"_blank\">Flood warning for Alpena and Presque Isle counties until Monday evening</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MLive.com</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPN3JWc0pzcHkzV2lJZkVMdmxpa1oxeDVzcFBzWTJWSEJGZjJfel82bmc0MlIzclk4cHFMa0VQQWZSLUs1bzVnaG5vUUo4SkFoV016SGlRbnFrVXI0d1lCWU5qZGRXWTcwR19oZVQteWZ5bzcyMTNEUmk0OG5oSV9BZ3JJdE95R3ZUd0kxcktEOFhpV2lVMXg2ZUF1RXh3TUUyZjVOODhrajhCdF9rQzVBVw?oc=5",
+        "date": "2026-04-19",
+        "title": "Flood warnings remain in effect for suburban rivers with no rain currently forecast this coming week - Chicago Sun-Times",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPN3JWc0pzcHkzV2lJZkVMdmxpa1oxeDVzcFBzWTJWSEJGZjJfel82bmc0MlIzclk4cHFMa0VQQWZSLUs1bzVnaG5vUUo4SkFoV016SGlRbnFrVXI0d1lCWU5qZGRXWTcwR19oZVQteWZ5bzcyMTNEUmk0OG5oSV9BZ3JJdE95R3ZUd0kxcktEOFhpV2lVMXg2ZUF1RXh3TUUyZjVOODhrajhCdF9rQzVBVw?oc=5\" target=\"_blank\">Flood warnings remain in effect for suburban rivers with no rain currently forecast this coming week</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Chicago Sun-Times</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5OT2o3NUZaSVMwcVRzUHNRVGZlM0xZbTdBREY1MnNCaXA5T1FZWjRxWkVXX281S2oyaXFpbUY4d0liZjFVdW01bnNfRV9YelI4UThpMU8tYlBsVER5eDhBTUhmcw?oc=5",
+        "date": "2026-04-19",
+        "title": "Widespread rain offers drought relief but triggers flash flood concerns for Southeast Texas - FOX Weather",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE5OT2o3NUZaSVMwcVRzUHNRVGZlM0xZbTdBREY1MnNCaXA5T1FZWjRxWkVXX281S2oyaXFpbUY4d0liZjFVdW01bnNfRV9YelI4UThpMU8tYlBsVER5eDhBTUhmcw?oc=5\" target=\"_blank\">Widespread rain offers drought relief but triggers flash flood concerns for Southeast Texas</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FOX Weather</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQU3BFV1pjR1VMa3o4U3kwMEZWQUV0dklWTnVpM2pKcmFQcVFuUW16T3VCSk5BMi01RFA3VUV3Wi14ZF94SXI5ZTFvNnlJLS1PNlBRb3Vvb1lBb2NYeG1ibzdBVmlSSlhoQUJJM2xMNVJmM0V1YzVrNzNCdldwT0RkZXFIZWxmSmlvSG1ZRWNoNDdfNkV4VjkxMXBLSGhzdm9XQ1JRcW9qclB2NnAzM2pEQm1hZUt1VkZB?oc=5",
+        "date": "2026-04-19",
+        "title": "Northern Michigan placed under a flood warning until Monday evening - MLive.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxQU3BFV1pjR1VMa3o4U3kwMEZWQUV0dklWTnVpM2pKcmFQcVFuUW16T3VCSk5BMi01RFA3VUV3Wi14ZF94SXI5ZTFvNnlJLS1PNlBRb3Vvb1lBb2NYeG1ibzdBVmlSSlhoQUJJM2xMNVJmM0V1YzVrNzNCdldwT0RkZXFIZWxmSmlvSG1ZRWNoNDdfNkV4VjkxMXBLSGhzdm9XQ1JRcW9qclB2NnAzM2pEQm1hZUt1VkZB?oc=5\" target=\"_blank\">Northern Michigan placed under a flood warning until Monday evening</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MLive.com</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVHk0MjE1ZUhxNGhpZEhCVkdyVElXaVhyWlduY3V5SnE0RDlsUDZRenE3MXp0ai1Hc0ZkZFA5cmZzbGdBa0JFLWR1eG5nVGFOekpMM2FCZVRZYlRQbEZVcmpseU9tRFpoWmU4YkNSUzc3T3daWm1iU2JhbjlzOEZVUnZiSHpyb3NTTWcxcDBKOUVNZGZkSS1lVHlTN2k2TzNXeGVKWjNoTjVZbzBseDU0Uw?oc=5",
+        "date": "2026-04-19",
+        "title": "Update: Northwest Michigan under a flood warning until Tuesday evening - MLive.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNVHk0MjE1ZUhxNGhpZEhCVkdyVElXaVhyWlduY3V5SnE0RDlsUDZRenE3MXp0ai1Hc0ZkZFA5cmZzbGdBa0JFLWR1eG5nVGFOekpMM2FCZVRZYlRQbEZVcmpseU9tRFpoWmU4YkNSUzc3T3daWm1iU2JhbjlzOEZVUnZiSHpyb3NTTWcxcDBKOUVNZGZkSS1lVHlTN2k2TzNXeGVKWjNoTjVZbzBseDU0Uw?oc=5\" target=\"_blank\">Update: Northwest Michigan under a flood warning until Tuesday evening</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MLive.com</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9SSmV4ak94cVRKa0ZKWEg4d0V4Q1dUclFSNHFKMEllMFVreWJIVnN3NTNlaFh4Sm9Ua3BZMmRwNVl1SnFheEdHMzFzaklYTkhuOEFYSWFJOE1RaURYMjJ0VmRKUTBKd1VBVFFpWlBRMlM0VW9P?oc=5",
+        "date": "2026-04-19",
+        "title": "Torrential rain triggers dangerous flash flooding in Hawaii, forcing thousands of evacuations - AOL.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE9SSmV4ak94cVRKa0ZKWEg4d0V4Q1dUclFSNHFKMEllMFVreWJIVnN3NTNlaFh4Sm9Ua3BZMmRwNVl1SnFheEdHMzFzaklYTkhuOEFYSWFJOE1RaURYMjJ0VmRKUTBKd1VBVFFpWlBRMlM0VW9P?oc=5\" target=\"_blank\">Torrential rain triggers dangerous flash flooding in Hawaii, forcing thousands of evacuations</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AOL.com</font>",
+        "similarity_excluded": "No",
+        "score": 10,
+        "status": "processed",
+        "tweet": null,
+        "tweet_id": "2045900953048486391",
+        "geo": {
+            "country": "United States",
+            "name": "Hawaii",
+            "latitude": 21.3069,
+            "longitude": -157.8583,
+            "confidence": 0.95
+        }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1WMXd3c2diN0ljMWRMUlBsSUhZV0dGdU02TEtOTVl6Y0NnMTZSQlZtNFd3TnhiSTRYcHNiOFlFVFZ5RGxEMXFyeNIBTkFVX3lxTE9vTEUwQlUwcW5IX1FieHQzb0NVRTNPdkdGSmE3M2N0QnVoUmxrN1NkQkJTb1JyaE5fNDBDdzFZRDFnYTNyZVMxQS1iVkI1dw?oc=5",
+        "date": "2026-04-19",
+        "title": "Traffic restored on Karakoram Highway following landslide as heavy rainfall lashes GB - - DAWN.COM",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTE1WMXd3c2diN0ljMWRMUlBsSUhZV0dGdU02TEtOTVl6Y0NnMTZSQlZtNFd3TnhiSTRYcHNiOFlFVFZ5RGxEMXFyeNIBTkFVX3lxTE9vTEUwQlUwcW5IX1FieHQzb0NVRTNPdkdGSmE3M2N0QnVoUmxrN1NkQkJTb1JyaE5fNDBDdzFZRDFnYTNyZVMxQS1iVkI1dw?oc=5\" target=\"_blank\">Traffic restored on Karakoram Highway following landslide as heavy rainfall lashes GB</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">- DAWN.COM</font>",
+        "similarity_excluded": "No",
+        "score": 5,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNV1hUTDJzbUpmbzJXR2NpdzJoQm5KU1VuemRuckVTX2d2RkpRU3VVUUtPa1JuOU9ybkZWemp3RlktV1plREVLREhzbkhIS1FKOUpIMkJ2Nl9tdlo3UjdVcHhNNG5YLW1OV2M2SkU2LTZ0c0ZtT00yUWtXNmpmM292d3N6bkdwR0N3Tkp4MTEyYm9ZeVZQWDJNRW5qWGJaUUc2dDMxWURyU2xPeUxfZWhKLVduRjdzWXls?oc=5",
+        "date": "2026-04-19",
+        "title": "KKH reopened after landslide in Gilgit-Baltistan - Pakistan Today",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxNV1hUTDJzbUpmbzJXR2NpdzJoQm5KU1VuemRuckVTX2d2RkpRU3VVUUtPa1JuOU9ybkZWemp3RlktV1plREVLREhzbkhIS1FKOUpIMkJ2Nl9tdlo3UjdVcHhNNG5YLW1OV2M2SkU2LTZ0c0ZtT00yUWtXNmpmM292d3N6bkdwR0N3Tkp4MTEyYm9ZeVZQWDJNRW5qWGJaUUc2dDMxWURyU2xPeUxfZWhKLVduRjdzWXls?oc=5\" target=\"_blank\">KKH reopened after landslide in Gilgit-Baltistan</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Pakistan Today</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQQldjN1djREdhRlN0Q2t4R29GTlNiWWZNcXEyakl0NmF1dExQUm5WRURtazhZU0NtWDBObDQycWtmZUttc1RwTVpTYUwwaGRaR2RqMzF1THA5NVJZUTZOVmpjSE0yeUJyV1NNem1fZGc5WC1kN1lVMTgyamVPZm5VdDNXVnc1ekNHSi1xbmNzX2tzaVQwM0pKelRwcHRXOUk0Vmw0amlFZmlBV1F5bWZ3WGlQX0d4WDVKUnRj0gHAAUFVX3lxTE1FaVF1VlMwTElYOThodXFDaW1pNWc2MTEzNm9CTkVhNi1tbE12T2VqS1hkajhiSm5tNXlSWnNPaFhVUC1LckVIX1ZCMGlBMzhOZDBxUFNKQllTVEtqcFFlLXVvTkdzSTJhZzg2SjNITXZyejhFem8wYlZnMmNKV3hhYnlIQU81MDVEZzByYk5NaTVYU19sVjJHbnIzUDNtMmJTamF0MTBkNUlNaHJHRVFlcWVEeWdDXzZnZUZrLUpJcQ?oc=5",
+        "date": "2026-04-19",
+        "title": "Kampung Ampang Indah residents fear second wave after two landslides during heavy rain - NST Online",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQQldjN1djREdhRlN0Q2t4R29GTlNiWWZNcXEyakl0NmF1dExQUm5WRURtazhZU0NtWDBObDQycWtmZUttc1RwTVpTYUwwaGRaR2RqMzF1THA5NVJZUTZOVmpjSE0yeUJyV1NNem1fZGc5WC1kN1lVMTgyamVPZm5VdDNXVnc1ekNHSi1xbmNzX2tzaVQwM0pKelRwcHRXOUk0Vmw0amlFZmlBV1F5bWZ3WGlQX0d4WDVKUnRj0gHAAUFVX3lxTE1FaVF1VlMwTElYOThodXFDaW1pNWc2MTEzNm9CTkVhNi1tbE12T2VqS1hkajhiSm5tNXlSWnNPaFhVUC1LckVIX1ZCMGlBMzhOZDBxUFNKQllTVEtqcFFlLXVvTkdzSTJhZzg2SjNITXZyejhFem8wYlZnMmNKV3hhYnlIQU81MDVEZzByYk5NaTVYU19sVjJHbnIzUDNtMmJTamF0MTBkNUlNaHJHRVFlcWVEeWdDXzZnZUZrLUpJcQ?oc=5\" target=\"_blank\">Kampung Ampang Indah residents fear second wave after two landslides during heavy rain</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NST Online</font>",
+        "similarity_excluded": "No",
+        "score": 6,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9SSmV4ak94cVRKa0ZKWEg4d0V4Q1dUclFSNHFKMEllMFVreWJIVnN3NTNlaFh4Sm9Ua3BZMmRwNVl1SnFheEdHMzFzaklYTkhuOEFYSWFJOE1RaURYMjJ0VmRKUTBKd1VBVFFpWlBRMlM0VW9P?oc=5",
+        "date": "2026-04-19",
+        "title": "Torrential rain triggers dangerous flash flooding in Hawaii, forcing thousands of evacuations - AOL.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE9SSmV4ak94cVRKa0ZKWEg4d0V4Q1dUclFSNHFKMEllMFVreWJIVnN3NTNlaFh4Sm9Ua3BZMmRwNVl1SnFheEdHMzFzaklYTkhuOEFYSWFJOE1RaURYMjJ0VmRKUTBKd1VBVFFpWlBRMlM0VW9P?oc=5\" target=\"_blank\">Torrential rain triggers dangerous flash flooding in Hawaii, forcing thousands of evacuations</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AOL.com</font>",
+        "similarity_excluded": "No",
+        "score": 10,
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 FORECAST Hawaii: Torrential rain triggers dangerous flash flooding, forcing thousands of evacuations (AOL.com)",
+        "type": "news",
+        "tweet_id": "2045900953048486391",
+        "geo": {
+            "country": "United States",
+            "name": "Hawaii",
+            "latitude": 21.3069,
+            "longitude": -157.8583,
+            "confidence": 0.95
+        }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOQ0dNZnFsbTJqN2NrWWxsU2ZSdExuVk55bldlTXJJd01icU1sV3RpcDNyTGpGZGdhWDRYY3NWRU5XcVBFcmJ2bmt5bXdvb2ZJaURuOGpITG9tN0NPVEFwekpYa0hJZUw2SG5oUWRDNEdmci1UQ0dwSjlUcGtyRzhoaWlMdkJISGxCZWxNU3plLV8zQlF5T0tyai00Z2FacFlqLWdiZUdRWENMUWlRcUJLWVJNQ3BZaS03alBuYzNLcE00VUE?oc=5",
+        "date": "2026-04-19",
+        "title": "Flood warning issued for Cheboygan and Emmet counties until Tuesday evening - MLive.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxOQ0dNZnFsbTJqN2NrWWxsU2ZSdExuVk55bldlTXJJd01icU1sV3RpcDNyTGpGZGdhWDRYY3NWRU5XcVBFcmJ2bmt5bXdvb2ZJaURuOGpITG9tN0NPVEFwekpYa0hJZUw2SG5oUWRDNEdmci1UQ0dwSjlUcGtyRzhoaWlMdkJISGxCZWxNU3plLV8zQlF5T0tyai00Z2FacFlqLWdiZUdRWENMUWlRcUJLWVJNQ3BZaS03alBuYzNLcE00VUE?oc=5\" target=\"_blank\">Flood warning issued for Cheboygan and Emmet counties until Tuesday evening</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MLive.com</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 FORECAST Cheboygan & Emmet counties, MI: Flood warning until Tuesday evening, risk of river flooding. (MLive.com)",
+        "type": "news",
+        "tweet_id": "2045901479832137734",
+        "geo": {
+            "country": "United States",
+            "name": "Cheboygan and Emmet counties, Michigan",
+            "latitude": 45.43,
+            "longitude": -84.7,
+            "confidence": 0.95
+        }
     }
 ]
