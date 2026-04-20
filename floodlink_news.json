@@ -15091,5 +15091,62 @@
         "score": 7,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPMExKc0JDS1lUTDREdXd0ZzhIRTFjeFVKdm40SERjYlQyRjV2RG5rRGVranhCMUp0aXNrbW5xeFJ5dC1pc2NtOE9YRGZqNG52c0hTNEhKZDdjUFNWeGt4RWZBNFNsNkNXd2hxZFhraFlDY1M2ZGxobnNldC1RSllPYmVZdjI1aXZUaGFfTHRQb3hGd3FGdjFtcllBX2tMNjVka1NuYW04TEExVGN1bzdyajV0MDBJNVlBdjlxRkN6bUxwSVBieVVKVzFn?oc=5",
+        "date": "2026-04-20",
+        "title": "Some residents in New Zealand's capital urged to evacuate due to further flood risk - Reuters",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxPMExKc0JDS1lUTDREdXd0ZzhIRTFjeFVKdm40SERjYlQyRjV2RG5rRGVranhCMUp0aXNrbW5xeFJ5dC1pc2NtOE9YRGZqNG52c0hTNEhKZDdjUFNWeGt4RWZBNFNsNkNXd2hxZFhraFlDY1M2ZGxobnNldC1RSllPYmVZdjI1aXZUaGFfTHRQb3hGd3FGdjFtcllBX2tMNjVka1NuYW04TEExVGN1bzdyajV0MDBJNVlBdjlxRkN6bUxwSVBieVVKVzFn?oc=5\" target=\"_blank\">Some residents in New Zealand's capital urged to evacuate due to further flood risk</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": null,
+        "tweet_id": "2046184079003967663",
+        "geo": {
+            "country": "New Zealand",
+            "name": "Wellington",
+            "latitude": -41.2865,
+            "longitude": 174.7762,
+            "confidence": 1.0
+        }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOeXFEbWxieEpaQ0l4dzZzeG8tckNkM2VwS3dKUUNTd2x3R3A5MW1KeTV4RW5idjJDODI2TUZNNVI0OTg4ajFpODZiMjhmdlBTNTJDMjNuaVhWMzZvUHRtNE9NS0RoMjJVU21GbUFQVXQ2Q3UwZFV3QWtFcXI4U0pVZmdpZWc0bFlXSFNwN3pQLW8xVUwzaENMU3UzR25GQVl6RWplS2Uwck1qU0pGaU5ka1U0a2hLS01Qc1E?oc=5",
+        "date": "2026-04-20",
+        "title": "Slater Young breaks silence, denies Monterrazas link to Cebu flooding - The Filipino Times",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxOeXFEbWxieEpaQ0l4dzZzeG8tckNkM2VwS3dKUUNTd2x3R3A5MW1KeTV4RW5idjJDODI2TUZNNVI0OTg4ajFpODZiMjhmdlBTNTJDMjNuaVhWMzZvUHRtNE9NS0RoMjJVU21GbUFQVXQ2Q3UwZFV3QWtFcXI4U0pVZmdpZWc0bFlXSFNwN3pQLW8xVUwzaENMU3UzR25GQVl6RWplS2Uwck1qU0pGaU5ka1U0a2hLS01Qc1E?oc=5\" target=\"_blank\">Slater Young breaks silence, denies Monterrazas link to Cebu flooding</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Filipino Times</font>",
+        "similarity_excluded": "No",
+        "score": 6,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTkhNd3lNVDk3Z3BMSkJKeFdxbElWSG5YM3JBNHZsU2hXZ3ctYmpGR2UwQzJodndwWWhyeVFSUUVnd0l6cnh2M1RoOU45ZmxURER3QmNKMnNuaGFFUlVfbERFcmNUdERsMTNFeUhiRFpzNlI2UmpfUDBUc1lsUDFmWEg5UUYwa2QtbzNNeC1fR0dYamZZTzZrekNNOGcxbEh3UjYtTldKbw?oc=5",
+        "date": "2026-04-20",
+        "title": "Punjab Cabinet Approves New Flood Prevention Policy Allowing Landowners to Desilt Rivers Ahead of Monsoon - Indian Masterminds",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQTkhNd3lNVDk3Z3BMSkJKeFdxbElWSG5YM3JBNHZsU2hXZ3ctYmpGR2UwQzJodndwWWhyeVFSUUVnd0l6cnh2M1RoOU45ZmxURER3QmNKMnNuaGFFUlVfbERFcmNUdERsMTNFeUhiRFpzNlI2UmpfUDBUc1lsUDFmWEg5UUYwa2QtbzNNeC1fR0dYamZZTzZrekNNOGcxbEh3UjYtTldKbw?oc=5\" target=\"_blank\">Punjab Cabinet Approves New Flood Prevention Policy Allowing Landowners to Desilt Rivers Ahead of Monsoon</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Indian Masterminds</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPMExKc0JDS1lUTDREdXd0ZzhIRTFjeFVKdm40SERjYlQyRjV2RG5rRGVranhCMUp0aXNrbW5xeFJ5dC1pc2NtOE9YRGZqNG52c0hTNEhKZDdjUFNWeGt4RWZBNFNsNkNXd2hxZFhraFlDY1M2ZGxobnNldC1RSllPYmVZdjI1aXZUaGFfTHRQb3hGd3FGdjFtcllBX2tMNjVka1NuYW04TEExVGN1bzdyajV0MDBJNVlBdjlxRkN6bUxwSVBieVVKVzFn?oc=5",
+        "date": "2026-04-20",
+        "title": "Some residents in New Zealand's capital urged to evacuate due to further flood risk - Reuters",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxPMExKc0JDS1lUTDREdXd0ZzhIRTFjeFVKdm40SERjYlQyRjV2RG5rRGVranhCMUp0aXNrbW5xeFJ5dC1pc2NtOE9YRGZqNG52c0hTNEhKZDdjUFNWeGt4RWZBNFNsNkNXd2hxZFhraFlDY1M2ZGxobnNldC1RSllPYmVZdjI1aXZUaGFfTHRQb3hGd3FGdjFtcllBX2tMNjVka1NuYW04TEExVGN1bzdyajV0MDBJNVlBdjlxRkN6bUxwSVBieVVKVzFn?oc=5\" target=\"_blank\">Some residents in New Zealand's capital urged to evacuate due to further flood risk</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "posted",
+        "tweet": "\ud83c\uddf3\ud83c\uddff FORECAST Wellington: Residents urged to evacuate due to further flood risk. (Reuters)",
+        "type": "news",
+        "tweet_id": "2046184079003967663",
+        "geo": {
+            "country": "New Zealand",
+            "name": "Wellington",
+            "latitude": -41.2865,
+            "longitude": 174.7762,
+            "confidence": 1.0
+        }
     }
 ]
