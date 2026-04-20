@@ -5972,7 +5972,7 @@
     "rain_mm": 46.56,
     "soil_moisture": 0.568,
     "raw_dynamic_score": 7.089,
-    "last_updated": "2026-02-15T09:29:09.213657Z",
+    "last_updated": "2026-04-20T08:02:16.662172Z",
     "last_tweeted_at": "2026-02-15T06:45:43.860061Z",
     "tweet_id": "2022925312980386304",
     "resolved": false
@@ -16157,7 +16157,7 @@
     "rain_mm": 51.75,
     "soil_moisture": 0.611,
     "raw_dynamic_score": 8.078,
-    "last_updated": "2026-04-20T05:41:39.925906Z",
+    "last_updated": "2026-04-20T08:02:16.662172Z",
     "last_tweeted_at": "2026-04-12T01:59:05.377434Z",
     "tweet_id": "2043147406552814068",
     "resolved": false
@@ -17534,7 +17534,7 @@
     "rain_mm": 43.38,
     "soil_moisture": 0.654,
     "raw_dynamic_score": 6.939,
-    "last_updated": "2026-04-20T05:41:39.925906Z",
+    "last_updated": "2026-04-20T08:02:16.662172Z",
     "last_tweeted_at": "2026-04-19T18:45:13.497742Z",
     "tweet_id": "2045937327994814710",
     "resolved": false
@@ -17612,6 +17612,36 @@
     "last_updated": "2026-04-20T02:04:59.431181Z",
     "last_tweeted_at": "2026-04-20T02:04:59.431181Z",
     "tweet_id": "2046047738778055144",
+    "resolved": false
+  },
+  "-29.1500,-59.6500": {
+    "country": "Argentina",
+    "name": "Reconquista",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": -29.15,
+    "longitude": -59.65,
+    "rain_mm": 46.19,
+    "soil_moisture": 0.664,
+    "raw_dynamic_score": 7.434,
+    "last_updated": "2026-04-20T08:02:16.662172Z",
+    "last_tweeted_at": "2026-04-20T08:02:16.662172Z",
+    "tweet_id": "2046137391769935935",
+    "resolved": false
+  },
+  "-29.1176,-59.6583": {
+    "country": "Argentina",
+    "name": "Avellaneda",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": -29.11761,
+    "longitude": -59.65834,
+    "rain_mm": 66.12,
+    "soil_moisture": 0.673,
+    "raw_dynamic_score": 10.696,
+    "last_updated": "2026-04-20T08:02:16.662172Z",
+    "last_tweeted_at": "2026-04-20T08:02:16.662172Z",
+    "tweet_id": "2046137391769935935",
     "resolved": false
   }
 }
