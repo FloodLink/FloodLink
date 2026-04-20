@@ -16712,7 +16712,7 @@
     "rain_mm": 58.31,
     "soil_moisture": 0.585,
     "raw_dynamic_score": 8.967,
-    "last_updated": "2026-04-15T05:25:00.580990Z",
+    "last_updated": "2026-04-20T13:19:44.701925Z",
     "last_tweeted_at": "2026-04-14T21:52:11.679993Z",
     "tweet_id": "2044172169924780130",
     "resolved": false
@@ -17642,6 +17642,36 @@
     "last_updated": "2026-04-20T08:02:16.662172Z",
     "last_tweeted_at": "2026-04-20T08:02:16.662172Z",
     "tweet_id": "2046137391769935935",
+    "resolved": false
+  },
+  "-28.4873,-59.3542": {
+    "country": "Argentina",
+    "name": "Villa Ocampo",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": -28.48726,
+    "longitude": -59.35421,
+    "rain_mm": 47.5,
+    "soil_moisture": 0.695,
+    "raw_dynamic_score": 7.776,
+    "last_updated": "2026-04-20T13:19:44.701925Z",
+    "last_tweeted_at": "2026-04-20T13:19:44.701925Z",
+    "tweet_id": "2046217299540009043",
+    "resolved": false
+  },
+  "-28.2550,-58.6239": {
+    "country": "Argentina",
+    "name": "Saladas",
+    "risk_level": "High",
+    "tweeted_level": "High",
+    "latitude": -28.25504,
+    "longitude": -58.62386,
+    "rain_mm": 78.0,
+    "soil_moisture": 0.711,
+    "raw_dynamic_score": 12.879,
+    "last_updated": "2026-04-20T13:19:44.701925Z",
+    "last_tweeted_at": "2026-04-20T13:19:44.701925Z",
+    "tweet_id": "2046217552301379958",
     "resolved": false
   }
 }
