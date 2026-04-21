@@ -1415,22 +1415,6 @@
     "tweet_id": "2013057771688624564",
     "resolved": false
   },
-  "-4.6141,136.6768": {
-    "country": "Indonesia",
-    "name": "Timika",
-    "risk_level": "None",
-    "tweeted_level": "None",
-    "latitude": -4.61407,
-    "longitude": 136.67679,
-    "rain_mm": 0.0,
-    "soil_moisture": 0.56,
-    "raw_dynamic_score": 0.0,
-    "last_updated": "2026-04-20T19:03:09.470508Z",
-    "last_tweeted_at": "2026-04-20T19:03:09.470508Z",
-    "tweet_id": "2046304478614228993",
-    "resolved": true,
-    "resolved_at": "2026-04-20T19:03:09.470508Z"
-  },
   "-11.6167,-38.8000": {
     "country": "Brazil",
     "name": "Biritinga",
@@ -16704,70 +16688,6 @@
     "tweet_id": "2044171917306015777",
     "resolved": false
   },
-  "-27.5768,-60.7111": {
-    "country": "Argentina",
-    "name": "Villa Ángela",
-    "risk_level": "Low",
-    "tweeted_level": "Low",
-    "latitude": -27.57679,
-    "longitude": -60.71114,
-    "rain_mm": 2.0,
-    "soil_moisture": 0.547,
-    "raw_dynamic_score": 0.301,
-    "last_updated": "2026-04-20T19:03:09.470508Z",
-    "last_tweeted_at": "2026-04-20T19:03:09.470508Z",
-    "tweet_id": "2046303720393093520",
-    "resolved": true,
-    "resolved_at": "2026-04-20T19:03:09.470508Z"
-  },
-  "-27.0882,-61.0822": {
-    "country": "Argentina",
-    "name": "Las Breñas",
-    "risk_level": "Low",
-    "tweeted_level": "Low",
-    "latitude": -27.08819,
-    "longitude": -61.08217,
-    "rain_mm": 0.44,
-    "soil_moisture": 0.509,
-    "raw_dynamic_score": 0.064,
-    "last_updated": "2026-04-20T19:03:09.470508Z",
-    "last_tweeted_at": "2026-04-20T19:03:09.470508Z",
-    "tweet_id": "2046303720393093520",
-    "resolved": true,
-    "resolved_at": "2026-04-20T19:03:09.470508Z"
-  },
-  "-27.3253,-61.2810": {
-    "country": "Argentina",
-    "name": "General Pinedo",
-    "risk_level": "Low",
-    "tweeted_level": "Low",
-    "latitude": -27.32534,
-    "longitude": -61.28101,
-    "rain_mm": 0.25,
-    "soil_moisture": 0.512,
-    "raw_dynamic_score": 0.037,
-    "last_updated": "2026-04-20T19:03:09.470508Z",
-    "last_tweeted_at": "2026-04-20T19:03:09.470508Z",
-    "tweet_id": "2046303720393093520",
-    "resolved": true,
-    "resolved_at": "2026-04-20T19:03:09.470508Z"
-  },
-  "-27.2179,-61.1874": {
-    "country": "Argentina",
-    "name": "Charata",
-    "risk_level": "Low",
-    "tweeted_level": "Low",
-    "latitude": -27.21787,
-    "longitude": -61.18738,
-    "rain_mm": 0.25,
-    "soil_moisture": 0.512,
-    "raw_dynamic_score": 0.037,
-    "last_updated": "2026-04-20T19:03:09.470508Z",
-    "last_tweeted_at": "2026-04-20T19:03:09.470508Z",
-    "tweet_id": "2046303720393093520",
-    "resolved": true,
-    "resolved_at": "2026-04-20T19:03:09.470508Z"
-  },
   "-0.9492,100.3543": {
     "country": "Indonesia",
     "name": "Padang",
@@ -17262,22 +17182,6 @@
     "last_tweeted_at": "2026-04-19T15:39:19.610287Z",
     "tweet_id": "2045890025154564241",
     "resolved": false
-  },
-  "-1.5282,-45.0786": {
-    "country": "Brazil",
-    "name": "Apicum-Açu",
-    "risk_level": "Low",
-    "tweeted_level": "Low",
-    "latitude": -1.52823,
-    "longitude": -45.07862,
-    "rain_mm": 3.44,
-    "soil_moisture": 1.0,
-    "raw_dynamic_score": 0.657,
-    "last_updated": "2026-04-20T19:03:09.470508Z",
-    "last_tweeted_at": "2026-04-20T19:03:09.470508Z",
-    "tweet_id": "2046304731518152834",
-    "resolved": true,
-    "resolved_at": "2026-04-20T19:03:09.470508Z"
   },
   "29.4548,107.3737": {
     "country": "China",
@@ -17977,7 +17881,7 @@
     "rain_mm": 41.94,
     "soil_moisture": 0.714,
     "raw_dynamic_score": 6.939,
-    "last_updated": "2026-04-21T16:14:02.255010Z",
+    "last_updated": "2026-04-21T19:09:26.640297Z",
     "last_tweeted_at": "2026-04-21T13:12:09.345959Z",
     "tweet_id": "2046577766879928750",
     "resolved": false
@@ -17992,7 +17896,7 @@
     "rain_mm": 41.19,
     "soil_moisture": 0.632,
     "raw_dynamic_score": 6.508,
-    "last_updated": "2026-04-21T16:14:02.255010Z",
+    "last_updated": "2026-04-21T19:09:26.640297Z",
     "last_tweeted_at": "2026-04-21T16:14:02.255010Z",
     "tweet_id": "2046623541987082611",
     "resolved": false
@@ -18085,6 +17989,21 @@
     "last_updated": "2026-04-21T16:14:02.255010Z",
     "last_tweeted_at": "2026-04-21T16:14:02.255010Z",
     "tweet_id": "2046623541987082611",
+    "resolved": false
+  },
+  "-38.0004,-57.5562": {
+    "country": "Argentina",
+    "name": "Mar del Plata",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": -38.00042,
+    "longitude": -57.5562,
+    "rain_mm": 43.5,
+    "soil_moisture": 1.0,
+    "raw_dynamic_score": 8.319,
+    "last_updated": "2026-04-21T19:09:26.640297Z",
+    "last_tweeted_at": "2026-04-21T19:09:26.640297Z",
+    "tweet_id": "2046667680321560584",
     "resolved": false
   }
 }
