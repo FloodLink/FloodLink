@@ -17682,7 +17682,7 @@
     "rain_mm": 56.69,
     "soil_moisture": 0.711,
     "raw_dynamic_score": 9.364,
-    "last_updated": "2026-04-21T10:21:48.576089Z",
+    "last_updated": "2026-04-21T13:12:09.345959Z",
     "last_tweeted_at": "2026-04-20T16:10:49.578655Z",
     "tweet_id": "2046261356328898963",
     "resolved": false
@@ -17956,9 +17956,32 @@
     "rain_mm": 118.5,
     "soil_moisture": 0.603,
     "raw_dynamic_score": 18.418,
-    "last_updated": "2026-04-21T10:21:48.576089Z",
+    "last_updated": "2026-04-21T13:12:09.345959Z",
     "last_tweeted_at": "2026-04-21T10:21:48.576089Z",
     "tweet_id": "2046535402337472696",
+    "resolved": false,
+    "pending_downgrade": true,
+    "pending_target_level": "Low",
+    "pending_set_at": "2026-04-21T13:12:09.345959Z",
+    "pending_is_region": false,
+    "pending_observed_level": "Low",
+    "pending_observed_rain_mm": 10.44,
+    "pending_observed_soil_moisture": 0.554,
+    "pending_observed_raw_dynamic_score": 1.576
+  },
+  "27.1100,109.9956": {
+    "country": "China",
+    "name": "Hongjiang",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 27.11,
+    "longitude": 109.99556,
+    "rain_mm": 41.94,
+    "soil_moisture": 0.714,
+    "raw_dynamic_score": 6.939,
+    "last_updated": "2026-04-21T13:12:09.345959Z",
+    "last_tweeted_at": "2026-04-21T13:12:09.345959Z",
+    "tweet_id": "2046577766879928750",
     "resolved": false
   }
 }
