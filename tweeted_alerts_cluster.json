@@ -17682,7 +17682,7 @@
     "rain_mm": 56.69,
     "soil_moisture": 0.711,
     "raw_dynamic_score": 9.364,
-    "last_updated": "2026-04-20T19:03:09.470508Z",
+    "last_updated": "2026-04-21T10:21:48.576089Z",
     "last_tweeted_at": "2026-04-20T16:10:49.578655Z",
     "tweet_id": "2046261356328898963",
     "resolved": false
@@ -17896,7 +17896,7 @@
     "rain_mm": 52.62,
     "soil_moisture": 0.565,
     "raw_dynamic_score": 7.998,
-    "last_updated": "2026-04-21T07:33:26.059085Z",
+    "last_updated": "2026-04-21T10:21:48.576089Z",
     "last_tweeted_at": "2026-04-21T07:33:26.059085Z",
     "tweet_id": "2046492530796007777",
     "resolved": false
@@ -17911,9 +17911,54 @@
     "rain_mm": 52.81,
     "soil_moisture": 0.634,
     "raw_dynamic_score": 8.354,
-    "last_updated": "2026-04-21T07:33:26.059085Z",
+    "last_updated": "2026-04-21T10:21:48.576089Z",
     "last_tweeted_at": "2026-04-21T07:33:26.059085Z",
     "tweet_id": "2046492783423152491",
+    "resolved": false
+  },
+  "27.7599,118.0307": {
+    "country": "China",
+    "name": "Wuyishan",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 27.75995,
+    "longitude": 118.03066,
+    "rain_mm": 43.88,
+    "soil_moisture": 0.72,
+    "raw_dynamic_score": 7.283,
+    "last_updated": "2026-04-21T10:21:48.576089Z",
+    "last_tweeted_at": "2026-04-21T10:21:48.576089Z",
+    "tweet_id": "2046534897548787764",
+    "resolved": false
+  },
+  "7.8600,80.6517": {
+    "country": "Sri Lanka",
+    "name": "Dambulla",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 7.86,
+    "longitude": 80.65167,
+    "rain_mm": 64.88,
+    "soil_moisture": 0.587,
+    "raw_dynamic_score": 9.989,
+    "last_updated": "2026-04-21T10:21:48.576089Z",
+    "last_tweeted_at": "2026-04-21T10:21:48.576089Z",
+    "tweet_id": "2046535149928505675",
+    "resolved": false
+  },
+  "8.3122,80.4131": {
+    "country": "Sri Lanka",
+    "name": "Anuradhapura",
+    "risk_level": "High",
+    "tweeted_level": "High",
+    "latitude": 8.31223,
+    "longitude": 80.41306,
+    "rain_mm": 118.5,
+    "soil_moisture": 0.603,
+    "raw_dynamic_score": 18.418,
+    "last_updated": "2026-04-21T10:21:48.576089Z",
+    "last_tweeted_at": "2026-04-21T10:21:48.576089Z",
+    "tweet_id": "2046535402337472696",
     "resolved": false
   }
 }
