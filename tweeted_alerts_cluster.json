@@ -17885,5 +17885,35 @@
     "last_tweeted_at": "2026-04-20T21:47:29.841500Z",
     "tweet_id": "2046345323002351975",
     "resolved": false
+  },
+  "6.6858,80.4036": {
+    "country": "Sri Lanka",
+    "name": "Ratnapura",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 6.6858,
+    "longitude": 80.4036,
+    "rain_mm": 52.62,
+    "soil_moisture": 0.565,
+    "raw_dynamic_score": 7.998,
+    "last_updated": "2026-04-21T07:33:26.059085Z",
+    "last_tweeted_at": "2026-04-21T07:33:26.059085Z",
+    "tweet_id": "2046492530796007777",
+    "resolved": false
+  },
+  "6.8916,80.5955": {
+    "country": "Sri Lanka",
+    "name": "Hatton",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 6.8916,
+    "longitude": 80.5955,
+    "rain_mm": 52.81,
+    "soil_moisture": 0.634,
+    "raw_dynamic_score": 8.354,
+    "last_updated": "2026-04-21T07:33:26.059085Z",
+    "last_tweeted_at": "2026-04-21T07:33:26.059085Z",
+    "tweet_id": "2046492783423152491",
+    "resolved": false
   }
 }
