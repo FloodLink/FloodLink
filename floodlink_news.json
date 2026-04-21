@@ -15890,5 +15890,14 @@
             "longitude": -99.3167,
             "confidence": 0.95
         }
+    },
+    {
+        "link": null,
+        "date": "2026-04-21",
+        "status": "posted",
+        "tweet": "NYC \ud83c\uddfa\ud83c\uddf8 pluvial flooding: 2021 extreme rainfall exposed 1.2M residents to flash floods, with $5B losses.  \nProjections for 2026 show 1.8M exposed \u2013 50% rise \u2013 and $8B losses amid denser urban heat.",
+        "type": "statistical",
+        "category": "pluvial (surface) flooding in dense cities",
+        "tweet_id": "2046717789180735705"
     }
 ]
