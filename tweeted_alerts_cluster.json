@@ -6149,22 +6149,6 @@
     "tweet_id": "2023422313027276893",
     "resolved": false
   },
-  "-29.1399,-59.2634": {
-    "country": "Argentina",
-    "name": "Goya",
-    "risk_level": "Low",
-    "tweeted_level": "Low",
-    "latitude": -29.13995,
-    "longitude": -59.26343,
-    "rain_mm": 1.88,
-    "soil_moisture": 0.591,
-    "raw_dynamic_score": 0.289,
-    "last_updated": "2026-04-21T16:14:02.255010Z",
-    "last_tweeted_at": "2026-04-21T16:14:02.255010Z",
-    "tweet_id": "2046623794467381324",
-    "resolved": true,
-    "resolved_at": "2026-04-21T16:14:02.255010Z"
-  },
   "-11.8036,-61.8033": {
     "country": "Brazil",
     "name": "Rolim de Moura",
@@ -17095,7 +17079,7 @@
     "rain_mm": 63.75,
     "soil_moisture": 0.62,
     "raw_dynamic_score": 10.003,
-    "last_updated": "2026-04-19T21:36:10.136676Z",
+    "last_updated": "2026-04-22T16:15:35.541798Z",
     "last_tweeted_at": "2026-04-19T15:39:19.610287Z",
     "tweet_id": "2045890025154564241",
     "resolved": false
@@ -17429,22 +17413,6 @@
     "last_tweeted_at": "2026-04-20T13:19:44.701925Z",
     "tweet_id": "2046217299540009043",
     "resolved": false
-  },
-  "-28.2550,-58.6239": {
-    "country": "Argentina",
-    "name": "Saladas",
-    "risk_level": "Low",
-    "tweeted_level": "Low",
-    "latitude": -28.25504,
-    "longitude": -58.62386,
-    "rain_mm": 0.12,
-    "soil_moisture": 0.567,
-    "raw_dynamic_score": 0.019,
-    "last_updated": "2026-04-21T16:14:02.255010Z",
-    "last_tweeted_at": "2026-04-21T16:14:02.255010Z",
-    "tweet_id": "2046623794467381324",
-    "resolved": true,
-    "resolved_at": "2026-04-21T16:14:02.255010Z"
   },
   "4.1263,27.3953": {
     "country": "The Democratic Republic of the Congo",
