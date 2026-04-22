@@ -15689,5 +15689,82 @@
         "tweet": "Netherlands \ud83c\uddf3\ud83c\uddf1 boasts 27,000 km of dikes and levees in 2026, shielding 9 million residents and vast farmlands from North Sea floods and rising waters.",
         "type": "infrastructure",
         "tweet_id": "2046809708976099703"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPclU1R1RwZ3p2cDF3UHl6cTgzaVVjallyZ0RqVTlEYnZHOURpS1Q1OFEzZFFWWjVqUm5NTnhCN3AtU0dmc21MdGhNREVhVnlBaGt0RWxMcmlSM09fZV80LUg0WEpIaC0zN3VXd3ZYU05kWnlfWjhOelQ4M3ZqRFBReWVPMGhSdzdVdXk3VVpNU2FMcEVqYW1OVW5vaHh5VGhXVTBNOTJGRUdReUhjR3czaGlBZm54SnhrNTZv?oc=5",
+        "date": "2026-04-22",
+        "title": "Williamson County Flooding: 20 families evacuated, 44 road closures, rising river levels - KEYE",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPclU1R1RwZ3p2cDF3UHl6cTgzaVVjallyZ0RqVTlEYnZHOURpS1Q1OFEzZFFWWjVqUm5NTnhCN3AtU0dmc21MdGhNREVhVnlBaGt0RWxMcmlSM09fZV80LUg0WEpIaC0zN3VXd3ZYU05kWnlfWjhOelQ4M3ZqRFBReWVPMGhSdzdVdXk3VVpNU2FMcEVqYW1OVW5vaHh5VGhXVTBNOTJGRUdReUhjR3czaGlBZm54SnhrNTZv?oc=5\" target=\"_blank\">Williamson County Flooding: 20 families evacuated, 44 road closures, rising river levels</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KEYE</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": null,
+        "tweet_id": "2046838039243079722",
+        "geo": {
+            "country": "United States",
+            "name": "Williamson County",
+            "latitude": 30.65,
+            "longitude": -97.65,
+            "confidence": 0.95
+        }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNQWh2Y0dUZkV0LUtqRGo3SHN6YTNFcjNUc3BQanIzRHBXU0tTRUtDa3J6RDU4REhldDJnNkFnSFRGaHBSSUNVSVJhcWxUZFJSdERpUlM1MHZjTkRaZHJPNl8yeHI0WVhvcm1qeUxGdVZoWW1CZElHUnBUNlY2d1h5TC1tenB0S2h4TmtYcE1TUzJEWlZ1S3RjSzEzamhHVFdkLTcwUU1n?oc=5",
+        "date": "2026-04-22",
+        "title": "Flash flooding prompts evacuations near two Williamson County RV parks - KEYE",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNQWh2Y0dUZkV0LUtqRGo3SHN6YTNFcjNUc3BQanIzRHBXU0tTRUtDa3J6RDU4REhldDJnNkFnSFRGaHBSSUNVSVJhcWxUZFJSdERpUlM1MHZjTkRaZHJPNl8yeHI0WVhvcm1qeUxGdVZoWW1CZElHUnBUNlY2d1h5TC1tenB0S2h4TmtYcE1TUzJEWlZ1S3RjSzEzamhHVFdkLTcwUU1n?oc=5\" target=\"_blank\">Flash flooding prompts evacuations near two Williamson County RV parks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KEYE</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPdmMwRGtYZXpsVDN2QTMxOWctVXh0UDVieGRmVFluaVBjcmJKdF9hWkZtVXNZbmd5ZzNDOEJLOWtHMWtFTzJlZVJBWlJPUVd2M2NRTXZPekZ4UkROVmN6b1Y1QWhwWXdrTjBseU5zMkc0cnFEVF9Fb0xzRHFBRzlTeEdzblY2LWlvUzJ6ekxjMVdSVmh1Vjc4MHVvcFdIcGlRMDJoVWkybElERDlETzhyUC1jOTRlZk8tNmtWOVIxTUxBUGtDajZsTEFIUWFrOHN2UDcwUGZjVVliM2l1bzdod0dRTHA4eXls?oc=5",
+        "date": "2026-04-22",
+        "title": "Williamson County RV parks evacuated due to flash floods - KVUE",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxPdmMwRGtYZXpsVDN2QTMxOWctVXh0UDVieGRmVFluaVBjcmJKdF9hWkZtVXNZbmd5ZzNDOEJLOWtHMWtFTzJlZVJBWlJPUVd2M2NRTXZPekZ4UkROVmN6b1Y1QWhwWXdrTjBseU5zMkc0cnFEVF9Fb0xzRHFBRzlTeEdzblY2LWlvUzJ6ekxjMVdSVmh1Vjc4MHVvcFdIcGlRMDJoVWkybElERDlETzhyUC1jOTRlZk8tNmtWOVIxTUxBUGtDajZsTEFIUWFrOHN2UDcwUGZjVVliM2l1bzdod0dRTHA4eXls?oc=5\" target=\"_blank\">Williamson County RV parks evacuated due to flash floods</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KVUE</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRWNueG9mVUJBV3BVX2pxeU1VcEE2UTI4RFBCSE5wQ0xTcHBFYjBoMXo1YXdobkpJdmI5Qlp3OThxRUthRzU2UjNaVFBmSmRZRlpEanBYYmZwQUZGS2dNWFlIRFlFRC1UM29tbTc0U2xGVFF1XzUyWjRpLWJzMmNTeUp3R3NsT0tPbTltZmltZHlJMjBxbzhPYlV0U3c5c1FPbVQzVFNB0gGzAUFVX3lxTE5SMFFDNEZQajNkWk8td25oSW5BNzlIa3UxZUJVWUVMdXNkTE1jM2pCYjNFNXE2ckF3dVU0T3phRF9Nd3VpcHB0V3ZWZVFqMlpVbjMyTUxWZ0hhaW1KMVQ3TDEyUldmZU1NRmRhbEhmRVZLRGgtY0JISjY4NWFSaFVEdURnT2ljdDJqaEJPX3J5MlVJMEdlNGtLa2NvaDViRWRNZVdCaXlYNUpPM19acEwzQVdr?oc=5",
+        "date": "2026-04-22",
+        "title": "VMC speeds up desilting ahead of monsoon - The New Indian Express",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPRWNueG9mVUJBV3BVX2pxeU1VcEE2UTI4RFBCSE5wQ0xTcHBFYjBoMXo1YXdobkpJdmI5Qlp3OThxRUthRzU2UjNaVFBmSmRZRlpEanBYYmZwQUZGS2dNWFlIRFlFRC1UM29tbTc0U2xGVFF1XzUyWjRpLWJzMmNTeUp3R3NsT0tPbTltZmltZHlJMjBxbzhPYlV0U3c5c1FPbVQzVFNB0gGzAUFVX3lxTE5SMFFDNEZQajNkWk8td25oSW5BNzlIa3UxZUJVWUVMdXNkTE1jM2pCYjNFNXE2ckF3dVU0T3phRF9Nd3VpcHB0V3ZWZVFqMlpVbjMyTUxWZ0hhaW1KMVQ3TDEyUldmZU1NRmRhbEhmRVZLRGgtY0JISjY4NWFSaFVEdURnT2ljdDJqaEJPX3J5MlVJMEdlNGtLa2NvaDViRWRNZVdCaXlYNUpPM19acEwzQVdr?oc=5\" target=\"_blank\">VMC speeds up desilting ahead of monsoon</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New Indian Express</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNaXhXWGJkUWxCLUkxMk1XTGFGWkc4OFpPb1lXQ3huaGJmSTNkRnRRdXFnNlc0ODhCRjJFSjdISmotTjJudEdLcGZHd3JySFdOODRIUlZSUGpSMHFXMjV4LXFoSzdQRGVaZ3ZEM3lPc0xRdVdTekVVcVRwT3FvX0tvOE1LejJDWDJJQnhIVktmWXM0bHVlTHY2MHFMT01ZQmtRMFhvWTdzOGZuS2Y2Q0lsUmxlYk1YZjk3M2J3WFBpNDQwNVhiQlZUREFiQTBiZnFiSVc5MDN5ODVVN09WMEhMakVIaw?oc=5",
+        "date": "2026-04-22",
+        "title": "Surat: Pre-monsoon cleaning campaign intensifies in Limbayat, concrete steps being taken to prevent flooding - Loktej English",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxNaXhXWGJkUWxCLUkxMk1XTGFGWkc4OFpPb1lXQ3huaGJmSTNkRnRRdXFnNlc0ODhCRjJFSjdISmotTjJudEdLcGZHd3JySFdOODRIUlZSUGpSMHFXMjV4LXFoSzdQRGVaZ3ZEM3lPc0xRdVdTekVVcVRwT3FvX0tvOE1LejJDWDJJQnhIVktmWXM0bHVlTHY2MHFMT01ZQmtRMFhvWTdzOGZuS2Y2Q0lsUmxlYk1YZjk3M2J3WFBpNDQwNVhiQlZUREFiQTBiZnFiSVc5MDN5ODVVN09WMEhMakVIaw?oc=5\" target=\"_blank\">Surat: Pre-monsoon cleaning campaign intensifies in Limbayat, concrete steps being taken to prevent flooding</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Loktej English</font>",
+        "similarity_excluded": "No",
+        "score": 6,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPclU1R1RwZ3p2cDF3UHl6cTgzaVVjallyZ0RqVTlEYnZHOURpS1Q1OFEzZFFWWjVqUm5NTnhCN3AtU0dmc21MdGhNREVhVnlBaGt0RWxMcmlSM09fZV80LUg0WEpIaC0zN3VXd3ZYU05kWnlfWjhOelQ4M3ZqRFBReWVPMGhSdzdVdXk3VVpNU2FMcEVqYW1OVW5vaHh5VGhXVTBNOTJGRUdReUhjR3czaGlBZm54SnhrNTZv?oc=5",
+        "date": "2026-04-22",
+        "title": "Williamson County Flooding: 20 families evacuated, 44 road closures, rising river levels - KEYE",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPclU1R1RwZ3p2cDF3UHl6cTgzaVVjallyZ0RqVTlEYnZHOURpS1Q1OFEzZFFWWjVqUm5NTnhCN3AtU0dmc21MdGhNREVhVnlBaGt0RWxMcmlSM09fZV80LUg0WEpIaC0zN3VXd3ZYU05kWnlfWjhOelQ4M3ZqRFBReWVPMGhSdzdVdXk3VVpNU2FMcEVqYW1OVW5vaHh5VGhXVTBNOTJGRUdReUhjR3czaGlBZm54SnhrNTZv?oc=5\" target=\"_blank\">Williamson County Flooding: 20 families evacuated, 44 road closures, rising river levels</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KEYE</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 POST-EVENT Williamson County: Flooding leads to 20 families evacuated, 44 road closures, and rising river levels. (KEYE)",
+        "type": "news",
+        "tweet_id": "2046838039243079722",
+        "geo": {
+            "country": "United States",
+            "name": "Williamson County",
+            "latitude": 30.65,
+            "longitude": -97.65,
+            "confidence": 0.95
+        }
     }
 ]
