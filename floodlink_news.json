@@ -15766,5 +15766,14 @@
             "longitude": -97.65,
             "confidence": 0.95
         }
+    },
+    {
+        "link": null,
+        "date": "2026-04-22",
+        "status": "posted",
+        "tweet": "By 2030, extreme rainfall could expose 1.7 billion people in the world's 100 densest cities to annual pluvial flash flooding\u2014up 40% from 2020 levels. Urban drainage fails under intensifying storms.",
+        "type": "statistical",
+        "category": "pluvial (surface) flooding in dense cities",
+        "tweet_id": "2046866868560904405"
     }
 ]
