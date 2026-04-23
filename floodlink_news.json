@@ -15779,5 +15779,25 @@
         "score": 0,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNNzBJemMyclU3X1RzV19FVFFtOVdYbG15a19Hc3h6N3oyZmNDSmQxa0N5T24xVEppOEZqYmp3c2g5WVFucy1xNGJjNHZHUF9paTdSU0E5c01pdTZNTk5qaUJFd3JfOWViQWQ0RnJWNFIyZnRhbGp0aEl2M1dqcmVBU2hwd1JWZlB3amM3WThDVXZjYmFOcXRLYm1yOXlyUnE1WDNkU196YXBzQW5nekIzNXNtLXppVE9VbFR5VkJBdXdTc1VtSEhNWA?oc=5",
+        "date": "2026-04-23",
+        "title": "Flood warning for Kent County until 2 a.m. EDT Sunday \u2013 minor flooding is reported - MLive.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxNNzBJemMyclU3X1RzV19FVFFtOVdYbG15a19Hc3h6N3oyZmNDSmQxa0N5T24xVEppOEZqYmp3c2g5WVFucy1xNGJjNHZHUF9paTdSU0E5c01pdTZNTk5qaUJFd3JfOWViQWQ0RnJWNFIyZnRhbGp0aEl2M1dqcmVBU2hwd1JWZlB3amM3WThDVXZjYmFOcXRLYm1yOXlyUnE1WDNkU196YXBzQW5nekIzNXNtLXppVE9VbFR5VkJBdXdTc1VtSEhNWA?oc=5\" target=\"_blank\">Flood warning for Kent County until 2 a.m. EDT Sunday \u2013 minor flooding is reported</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MLive.com</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5GNkRHaGYwUW1GY1JIWHNWT2RuY0lzT1BMVUczVVdGVUhBaExkR0IwejVoSE1BYWpSRmEtaW5icDVDUGFuQW1kZDJBc2kzNEFkb01QM3FyVnh3YkpiVENYbnpyOHBzVFZZcGJvNDBoMjQ?oc=5",
+        "date": "2026-04-23",
+        "title": "Flooding reported in Tompkins - Finger Lakes Daily News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE5GNkRHaGYwUW1GY1JIWHNWT2RuY0lzT1BMVUczVVdGVUhBaExkR0IwejVoSE1BYWpSRmEtaW5icDVDUGFuQW1kZDJBc2kzNEFkb01QM3FyVnh3YkpiVENYbnpyOHBzVFZZcGJvNDBoMjQ?oc=5\" target=\"_blank\">Flooding reported in Tompkins</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Finger Lakes Daily News</font>",
+        "similarity_excluded": "No",
+        "score": 5,
+        "status": "processed",
+        "tweet": null
     }
 ]
