@@ -17896,10 +17896,14 @@
     "rain_mm": 102.38,
     "soil_moisture": 0.693,
     "raw_dynamic_score": 16.739,
-    "last_updated": "2026-04-23T10:25:40.372404Z",
+    "last_updated": "2026-04-23T13:15:21.761331Z",
     "last_tweeted_at": "2026-04-23T05:32:17.264705Z",
     "tweet_id": "2047186805691167135",
-    "resolved": false
+    "resolved": false,
+    "pending_downgrade": true,
+    "pending_target_level": "Low",
+    "pending_set_at": "2026-04-23T13:15:21.761331Z",
+    "pending_is_region": true
   },
   "4.0500,18.1167": {
     "country": "Central African Republic",
@@ -17934,10 +17938,18 @@
     "rain_mm": 44.25,
     "soil_moisture": 0.717,
     "raw_dynamic_score": 7.333,
-    "last_updated": "2026-04-23T10:25:40.372404Z",
+    "last_updated": "2026-04-23T13:15:21.761331Z",
     "last_tweeted_at": "2026-04-23T10:25:40.372404Z",
     "tweet_id": "2047260641509941299",
-    "resolved": false
+    "resolved": false,
+    "pending_downgrade": true,
+    "pending_target_level": "Low",
+    "pending_set_at": "2026-04-23T13:15:21.761331Z",
+    "pending_is_region": false,
+    "pending_observed_level": "Low",
+    "pending_observed_rain_mm": 27.75,
+    "pending_observed_soil_moisture": 0.712,
+    "pending_observed_raw_dynamic_score": 4.585
   },
   "-3.3071,-52.5386": {
     "country": "Brazil",
@@ -17952,6 +17964,21 @@
     "last_updated": "2026-04-23T10:25:40.372404Z",
     "last_tweeted_at": "2026-04-23T10:25:40.372404Z",
     "tweet_id": "2047260641509941299",
+    "resolved": false
+  },
+  "3.8431,-51.8350": {
+    "country": "Brazil",
+    "name": "Oiapoque",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 3.84306,
+    "longitude": -51.835,
+    "rain_mm": 50.56,
+    "soil_moisture": 0.73,
+    "raw_dynamic_score": 8.436,
+    "last_updated": "2026-04-23T13:15:21.761331Z",
+    "last_tweeted_at": "2026-04-23T13:15:21.761331Z",
+    "tweet_id": "2047303355857264853",
     "resolved": false
   }
 }
