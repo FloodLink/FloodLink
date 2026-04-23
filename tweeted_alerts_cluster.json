@@ -12039,7 +12039,7 @@
     "rain_mm": 56.81,
     "soil_moisture": 0.737,
     "raw_dynamic_score": 9.516,
-    "last_updated": "2026-03-30T13:07:22.709955Z",
+    "last_updated": "2026-04-23T05:32:17.264705Z",
     "last_tweeted_at": "2026-03-30T10:16:24.103677Z",
     "tweet_id": "2038561258488701341",
     "resolved": false
@@ -12759,7 +12759,7 @@
     "rain_mm": 41.19,
     "soil_moisture": 0.729,
     "raw_dynamic_score": 6.87,
-    "last_updated": "2026-04-04T09:37:27.793976Z",
+    "last_updated": "2026-04-23T05:32:17.264705Z",
     "last_tweeted_at": "2026-03-30T21:42:41.534230Z",
     "tweet_id": "2038734223075319883",
     "resolved": false
@@ -17608,7 +17608,7 @@
     "rain_mm": 43.88,
     "soil_moisture": 0.72,
     "raw_dynamic_score": 7.283,
-    "last_updated": "2026-04-21T16:14:02.255010Z",
+    "last_updated": "2026-04-23T05:32:17.264705Z",
     "last_tweeted_at": "2026-04-21T10:21:48.576089Z",
     "tweet_id": "2046534897548787764",
     "resolved": false
@@ -17899,6 +17899,36 @@
     "last_updated": "2026-04-23T02:03:13.267038Z",
     "last_tweeted_at": "2026-04-22T21:52:22.819859Z",
     "tweet_id": "2047071327442313691",
+    "resolved": false
+  },
+  "3.6533,18.6357": {
+    "country": "The Democratic Republic of the Congo",
+    "name": "Libenge",
+    "risk_level": "High",
+    "tweeted_level": "High",
+    "latitude": 3.65332,
+    "longitude": 18.63566,
+    "rain_mm": 102.38,
+    "soil_moisture": 0.693,
+    "raw_dynamic_score": 16.739,
+    "last_updated": "2026-04-23T05:32:17.264705Z",
+    "last_tweeted_at": "2026-04-23T05:32:17.264705Z",
+    "tweet_id": "2047186805691167135",
+    "resolved": false
+  },
+  "4.0500,18.1167": {
+    "country": "Central African Republic",
+    "name": "Bobangui",
+    "risk_level": "High",
+    "tweeted_level": "High",
+    "latitude": 4.05,
+    "longitude": 18.11667,
+    "rain_mm": 86.0,
+    "soil_moisture": 0.594,
+    "raw_dynamic_score": 13.295,
+    "last_updated": "2026-04-23T05:32:17.264705Z",
+    "last_tweeted_at": "2026-04-23T05:32:17.264705Z",
+    "tweet_id": "2047187058330943731",
     "resolved": false
   }
 }
