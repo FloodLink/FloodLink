@@ -13709,54 +13709,6 @@
     "tweet_id": "2039963072991793620",
     "resolved": false
   },
-  "-4.2312,-69.9386": {
-    "country": "Brazil",
-    "name": "Tabatinga",
-    "risk_level": "None",
-    "tweeted_level": "High",
-    "latitude": -4.23116,
-    "longitude": -69.93858,
-    "rain_mm": 0.0,
-    "soil_moisture": 0.599,
-    "raw_dynamic_score": 0.0,
-    "last_updated": "2026-04-22T21:52:22.819859Z",
-    "last_tweeted_at": "2026-04-22T21:52:22.819859Z",
-    "tweet_id": "2047071074878189939",
-    "resolved": true,
-    "resolved_at": "2026-04-22T21:52:22.819859Z"
-  },
-  "-4.3755,-70.0318": {
-    "country": "Brazil",
-    "name": "Benjamin Constant",
-    "risk_level": "Low",
-    "tweeted_level": "High",
-    "latitude": -4.37555,
-    "longitude": -70.03179,
-    "rain_mm": 0.06,
-    "soil_moisture": 0.526,
-    "raw_dynamic_score": 0.009,
-    "last_updated": "2026-04-22T21:52:22.819859Z",
-    "last_tweeted_at": "2026-04-22T21:52:22.819859Z",
-    "tweet_id": "2047071074878189939",
-    "resolved": true,
-    "resolved_at": "2026-04-22T21:52:22.819859Z"
-  },
-  "-4.3665,-70.1919": {
-    "country": "Brazil",
-    "name": "Atalaia do Norte",
-    "risk_level": "Low",
-    "tweeted_level": "High",
-    "latitude": -4.36652,
-    "longitude": -70.19186,
-    "rain_mm": 0.12,
-    "soil_moisture": 0.558,
-    "raw_dynamic_score": 0.019,
-    "last_updated": "2026-04-22T21:52:22.819859Z",
-    "last_tweeted_at": "2026-04-22T21:52:22.819859Z",
-    "tweet_id": "2047071074878189939",
-    "resolved": true,
-    "resolved_at": "2026-04-22T21:52:22.819859Z"
-  },
   "33.2533,126.5618": {
     "country": "Republic of Korea",
     "name": "Seogwipo",
@@ -15797,22 +15749,6 @@
     "tweet_id": "2042317979132518722",
     "resolved": false
   },
-  "-7.2644,-64.7964": {
-    "country": "Brazil",
-    "name": "Lábrea",
-    "risk_level": "Low",
-    "tweeted_level": "High",
-    "latitude": -7.26435,
-    "longitude": -64.79638,
-    "rain_mm": 0.19,
-    "soil_moisture": 0.53,
-    "raw_dynamic_score": 0.028,
-    "last_updated": "2026-04-22T21:52:22.819859Z",
-    "last_tweeted_at": "2026-04-22T21:52:22.819859Z",
-    "tweet_id": "2047071074878189939",
-    "resolved": true,
-    "resolved_at": "2026-04-22T21:52:22.819859Z"
-  },
   "35.5196,137.8207": {
     "country": "Japan",
     "name": "Iida",
@@ -17764,22 +17700,6 @@
     "tweet_id": "2046667680321560584",
     "resolved": false
   },
-  "-5.6283,-63.1833": {
-    "country": "Brazil",
-    "name": "Tapauá",
-    "risk_level": "None",
-    "tweeted_level": "High",
-    "latitude": -5.62833,
-    "longitude": -63.18333,
-    "rain_mm": 0.0,
-    "soil_moisture": 0.66,
-    "raw_dynamic_score": 0.0,
-    "last_updated": "2026-04-23T02:03:13.267038Z",
-    "last_tweeted_at": "2026-04-22T21:52:22.819859Z",
-    "tweet_id": "2047071074878189939",
-    "resolved": true,
-    "resolved_at": "2026-04-22T21:52:22.819859Z"
-  },
   "-8.5586,125.5736": {
     "country": "Timor-Leste",
     "name": "Dili",
@@ -17795,22 +17715,6 @@
     "tweet_id": "2046897642177753480",
     "resolved": false
   },
-  "-5.1206,-60.3797": {
-    "country": "Brazil",
-    "name": "Novo Aripuanã",
-    "risk_level": "Low",
-    "tweeted_level": "High",
-    "latitude": -5.12056,
-    "longitude": -60.37972,
-    "rain_mm": 25.56,
-    "soil_moisture": 0.631,
-    "raw_dynamic_score": 4.037,
-    "last_updated": "2026-04-22T21:52:22.819859Z",
-    "last_tweeted_at": "2026-04-22T21:52:22.819859Z",
-    "tweet_id": "2047071074878189939",
-    "resolved": true,
-    "resolved_at": "2026-04-22T21:52:22.819859Z"
-  },
   "14.3351,-91.0234": {
     "country": "Guatemala",
     "name": "Santa Lucía Cotzumalguapa",
@@ -17821,7 +17725,7 @@
     "rain_mm": 50.94,
     "soil_moisture": 0.612,
     "raw_dynamic_score": 7.958,
-    "last_updated": "2026-04-23T21:47:16.309523Z",
+    "last_updated": "2026-04-24T02:03:54.424571Z",
     "last_tweeted_at": "2026-04-22T19:10:38.626681Z",
     "tweet_id": "2047030621512339792",
     "resolved": false
@@ -17938,18 +17842,10 @@
     "rain_mm": 44.25,
     "soil_moisture": 0.717,
     "raw_dynamic_score": 7.333,
-    "last_updated": "2026-04-23T21:47:16.309523Z",
+    "last_updated": "2026-04-24T02:03:54.424571Z",
     "last_tweeted_at": "2026-04-23T10:25:40.372404Z",
     "tweet_id": "2047260641509941299",
-    "resolved": false,
-    "pending_downgrade": true,
-    "pending_target_level": "Low",
-    "pending_set_at": "2026-04-23T13:15:21.761331Z",
-    "pending_is_region": false,
-    "pending_observed_level": "Low",
-    "pending_observed_rain_mm": 27.75,
-    "pending_observed_soil_moisture": 0.712,
-    "pending_observed_raw_dynamic_score": 4.585
+    "resolved": false
   },
   "-3.3071,-52.5386": {
     "country": "Brazil",
