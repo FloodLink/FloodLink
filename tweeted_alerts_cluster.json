@@ -17429,22 +17429,6 @@
     "tweet_id": "2046261356328898963",
     "resolved": false
   },
-  "-1.7597,-46.5450": {
-    "country": "Brazil",
-    "name": "Cachoeira do Piriá",
-    "risk_level": "Low",
-    "tweeted_level": "High",
-    "latitude": -1.75972,
-    "longitude": -46.545,
-    "rain_mm": 0.44,
-    "soil_moisture": 0.513,
-    "raw_dynamic_score": 0.064,
-    "last_updated": "2026-04-23T10:25:40.372404Z",
-    "last_tweeted_at": "2026-04-23T10:25:40.372404Z",
-    "tweet_id": "2047260641509941299",
-    "resolved": true,
-    "resolved_at": "2026-04-23T10:25:40.372404Z"
-  },
   "2.3500,102.1167": {
     "country": "Malaysia",
     "name": "Kampong Masjid Tanah",
@@ -17880,7 +17864,7 @@
     "rain_mm": 50.56,
     "soil_moisture": 0.73,
     "raw_dynamic_score": 8.436,
-    "last_updated": "2026-04-23T16:34:18.126232Z",
+    "last_updated": "2026-04-24T13:12:36.693081Z",
     "last_tweeted_at": "2026-04-23T13:15:21.761331Z",
     "tweet_id": "2047303355857264853",
     "resolved": false
