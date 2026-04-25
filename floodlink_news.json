@@ -15593,5 +15593,15 @@
         "score": 6,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPb2ZrYUZmRTJCb1lEaGR4bmUybFhrWXBwY0JqVUFsZnVIano2UFVMTFg5RmI5MjNmMUV4Ul9ONGFfYldlQXotbmliY3VEcVZvQjRoNTFFVFVUS04zU2NnX1hQbGtCeTZUeGNvOU1FcVMxM2E3bnk0REQzRGZXNml3TEhIRjRDemkzRlg5YlpvelBjYkJPWEw1ZkVWMWtfQ0pmU1dzbFVvVFZVUTFoYS1qOFJxc2t0cnEyVDlYLUVFVFprMF9mX2p3Q1k3RGF1NWU1?oc=5",
+        "date": "2026-04-25",
+        "title": "Flood warning for Kalamazoo County until further notice \u2013 minor flooding is anticipated - MLive.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxPb2ZrYUZmRTJCb1lEaGR4bmUybFhrWXBwY0JqVUFsZnVIano2UFVMTFg5RmI5MjNmMUV4Ul9ONGFfYldlQXotbmliY3VEcVZvQjRoNTFFVFVUS04zU2NnX1hQbGtCeTZUeGNvOU1FcVMxM2E3bnk0REQzRGZXNml3TEhIRjRDemkzRlg5YlpvelBjYkJPWEw1ZkVWMWtfQ0pmU1dzbFVvVFZVUTFoYS1qOFJxc2t0cnEyVDlYLUVFVFprMF9mX2p3Q1k3RGF1NWU1?oc=5\" target=\"_blank\">Flood warning for Kalamazoo County until further notice \u2013 minor flooding is anticipated</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MLive.com</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
     }
 ]
