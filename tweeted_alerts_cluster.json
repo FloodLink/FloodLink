@@ -9984,7 +9984,7 @@
     "rain_mm": 43.06,
     "soil_moisture": 0.58,
     "raw_dynamic_score": 6.603,
-    "last_updated": "2026-03-21T01:22:45.570565Z",
+    "last_updated": "2026-04-27T21:57:50.167753Z",
     "last_tweeted_at": "2026-03-20T21:29:54.959509Z",
     "tweet_id": "2035106635929342386",
     "resolved": false
@@ -10254,7 +10254,7 @@
     "rain_mm": 44.19,
     "soil_moisture": 0.629,
     "raw_dynamic_score": 6.97,
-    "last_updated": "2026-04-26T18:48:36.324410Z",
+    "last_updated": "2026-04-27T21:57:50.167753Z",
     "last_tweeted_at": "2026-03-22T12:39:59.445876Z",
     "tweet_id": "2035698297180917979",
     "resolved": false
@@ -17862,7 +17862,7 @@
     "rain_mm": 44.44,
     "soil_moisture": 0.625,
     "raw_dynamic_score": 6.994,
-    "last_updated": "2026-04-27T16:34:57.187407Z",
+    "last_updated": "2026-04-27T21:57:50.167753Z",
     "last_tweeted_at": "2026-04-27T13:29:52.827268Z",
     "tweet_id": "2048756566648578088",
     "resolved": false
@@ -17907,7 +17907,7 @@
     "rain_mm": 39.31,
     "soil_moisture": 0.736,
     "raw_dynamic_score": 6.581,
-    "last_updated": "2026-04-27T19:15:22.677777Z",
+    "last_updated": "2026-04-27T21:57:50.167753Z",
     "last_tweeted_at": "2026-04-27T19:15:22.677777Z",
     "tweet_id": "2048843498606973064",
     "resolved": false
@@ -17985,6 +17985,21 @@
     "last_updated": "2026-04-27T19:15:22.677777Z",
     "last_tweeted_at": "2026-04-27T19:15:22.677777Z",
     "tweet_id": "2048843498606973064",
+    "resolved": false
+  },
+  "40.7545,-86.3567": {
+    "country": "United States",
+    "name": "Logansport",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 40.75448,
+    "longitude": -86.35667,
+    "rain_mm": 45.44,
+    "soil_moisture": 0.639,
+    "raw_dynamic_score": 7.208,
+    "last_updated": "2026-04-27T21:57:50.167753Z",
+    "last_tweeted_at": "2026-04-27T21:57:50.167753Z",
+    "tweet_id": "2048884373244531072",
     "resolved": false
   }
 }
