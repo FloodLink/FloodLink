@@ -12069,7 +12069,7 @@
     "rain_mm": 53.75,
     "soil_moisture": 0.744,
     "raw_dynamic_score": 9.035,
-    "last_updated": "2026-04-27T11:03:41.937901Z",
+    "last_updated": "2026-04-27T16:34:57.187407Z",
     "last_tweeted_at": "2026-03-30T10:16:24.103677Z",
     "tweet_id": "2038561763776487782",
     "resolved": false
@@ -17862,9 +17862,39 @@
     "rain_mm": 44.44,
     "soil_moisture": 0.625,
     "raw_dynamic_score": 6.994,
-    "last_updated": "2026-04-27T13:29:52.827268Z",
+    "last_updated": "2026-04-27T16:34:57.187407Z",
     "last_tweeted_at": "2026-04-27T13:29:52.827268Z",
     "tweet_id": "2048756566648578088",
+    "resolved": false
+  },
+  "24.6928,108.0838": {
+    "country": "China",
+    "name": "Hechi",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 24.69285,
+    "longitude": 108.08376,
+    "rain_mm": 51.44,
+    "soil_moisture": 0.729,
+    "raw_dynamic_score": 8.577,
+    "last_updated": "2026-04-27T16:34:57.187407Z",
+    "last_tweeted_at": "2026-04-27T16:34:57.187407Z",
+    "tweet_id": "2048803127449845865",
+    "resolved": false
+  },
+  "8.7667,-8.6167": {
+    "country": "Guinea",
+    "name": "Moussadou",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 8.76667,
+    "longitude": -8.61667,
+    "rain_mm": 51.44,
+    "soil_moisture": 0.555,
+    "raw_dynamic_score": 7.769,
+    "last_updated": "2026-04-27T16:34:57.187407Z",
+    "last_tweeted_at": "2026-04-27T16:34:57.187407Z",
+    "tweet_id": "2048803379791729141",
     "resolved": false
   }
 }
