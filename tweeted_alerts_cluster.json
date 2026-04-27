@@ -15819,7 +15819,7 @@
     "rain_mm": 55.12,
     "soil_moisture": 0.677,
     "raw_dynamic_score": 8.933,
-    "last_updated": "2026-04-27T11:03:41.937901Z",
+    "last_updated": "2026-04-27T13:29:52.827268Z",
     "last_tweeted_at": "2026-04-10T07:24:58.206027Z",
     "tweet_id": "2042504643037557221",
     "resolved": false
@@ -17850,6 +17850,21 @@
     "last_updated": "2026-04-24T16:12:04.198178Z",
     "last_tweeted_at": "2026-04-23T13:15:21.761331Z",
     "tweet_id": "2047303355857264853",
+    "resolved": false
+  },
+  "25.8072,109.2125": {
+    "country": "China",
+    "name": "Long’e",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 25.80722,
+    "longitude": 109.2125,
+    "rain_mm": 44.44,
+    "soil_moisture": 0.625,
+    "raw_dynamic_score": 6.994,
+    "last_updated": "2026-04-27T13:29:52.827268Z",
+    "last_tweeted_at": "2026-04-27T13:29:52.827268Z",
+    "tweet_id": "2048756566648578088",
     "resolved": false
   }
 }
