@@ -15999,5 +15999,14 @@
         "score": 0,
         "status": "skipped",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-04-27",
+        "status": "posted",
+        "tweet": "Global flood fatalities rose 40% from 2020 (2,100 deaths) to 2025 (2,940), per EM-DAT projections\u2014driven by extreme rainfall events like Pakistan's 2022 deluge (1,739 lives) vs. Europe's milder 2020 toll (under 200). Climate trends amplify risks.",
+        "type": "statistical",
+        "category": "global flood fatalities and trends",
+        "tweet_id": "2048880210762662064"
     }
 ]
