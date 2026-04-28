@@ -9954,7 +9954,7 @@
     "rain_mm": 51.56,
     "soil_moisture": 0.486,
     "raw_dynamic_score": 7.466,
-    "last_updated": "2026-03-21T01:22:45.570565Z",
+    "last_updated": "2026-04-28T06:00:35.497477Z",
     "last_tweeted_at": "2026-03-20T15:42:39.973197Z",
     "tweet_id": "2035019485988466830",
     "resolved": false
@@ -11544,7 +11544,7 @@
     "rain_mm": 47.31,
     "soil_moisture": 0.618,
     "raw_dynamic_score": 7.414,
-    "last_updated": "2026-04-28T02:17:45.561681Z",
+    "last_updated": "2026-04-28T06:00:35.497477Z",
     "last_tweeted_at": "2026-03-26T21:32:09.448031Z",
     "tweet_id": "2037281775265665224",
     "resolved": false
@@ -17424,7 +17424,7 @@
     "rain_mm": 56.69,
     "soil_moisture": 0.711,
     "raw_dynamic_score": 9.364,
-    "last_updated": "2026-04-21T13:12:09.345959Z",
+    "last_updated": "2026-04-28T06:00:35.497477Z",
     "last_tweeted_at": "2026-04-20T16:10:49.578655Z",
     "tweet_id": "2046261356328898963",
     "resolved": false
@@ -17997,9 +17997,54 @@
     "rain_mm": 45.44,
     "soil_moisture": 0.639,
     "raw_dynamic_score": 7.208,
-    "last_updated": "2026-04-28T02:17:45.561681Z",
+    "last_updated": "2026-04-28T06:00:35.497477Z",
     "last_tweeted_at": "2026-04-27T21:57:50.167753Z",
     "tweet_id": "2048884373244531072",
+    "resolved": false
+  },
+  "25.8000,113.0333": {
+    "country": "China",
+    "name": "Chenzhou",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 25.8,
+    "longitude": 113.03333,
+    "rain_mm": 49.5,
+    "soil_moisture": 0.685,
+    "raw_dynamic_score": 8.059,
+    "last_updated": "2026-04-28T06:00:35.497477Z",
+    "last_tweeted_at": "2026-04-28T06:00:35.497477Z",
+    "tweet_id": "2049005879693918385",
+    "resolved": false
+  },
+  "24.2526,97.2336": {
+    "country": "Myanmar",
+    "name": "Bhamo",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 24.25256,
+    "longitude": 97.23357,
+    "rain_mm": 66.38,
+    "soil_moisture": 0.457,
+    "raw_dynamic_score": 9.437,
+    "last_updated": "2026-04-28T06:00:35.497477Z",
+    "last_tweeted_at": "2026-04-28T06:00:35.497477Z",
+    "tweet_id": "2049006132048298248",
+    "resolved": false
+  },
+  "17.6528,121.6910": {
+    "country": "Philippines",
+    "name": "Solana",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 17.6528,
+    "longitude": 121.691,
+    "rain_mm": 58.44,
+    "soil_moisture": 0.436,
+    "raw_dynamic_score": 8.199,
+    "last_updated": "2026-04-28T06:00:35.497477Z",
+    "last_tweeted_at": "2026-04-28T06:00:35.497477Z",
+    "tweet_id": "2049006384369357106",
     "resolved": false
   }
 }
