@@ -16880,5 +16880,312 @@
             "longitude": -89.4012,
             "confidence": 0.95
         }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxORDY1TGJCclFXNWZGc0pnbHVfVU1zWDRPZ3Q1bnYzN1JXdUZISnI4S0t0Y2ROWk5rYWJaZkdsYzRMb24wSkV1ZWxjNlltR2dRN1RtZzZNQ0tHdF9YSXJRR1pfa1JuaVBRdzhyMUJFSTdUVlZZaVBlYm5oeTNmXy0ybkxwVVY2Q0lEbndTNTRzVkhRNklMbkVEUHd2czJwVzhrYXVqZFMwX2ZET3AxYTJaX1JEYzNXWjNzNWRzbHpMdzUyWkN4dWRWd2F0SmlfcDlKamJobkI3dElUV2s1?oc=5",
+        "date": "2026-04-29",
+        "title": "Flood warning in place for Kalamazoo County until Sunday afternoon \u2013 minor flooding is occurring - MLive.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxORDY1TGJCclFXNWZGc0pnbHVfVU1zWDRPZ3Q1bnYzN1JXdUZISnI4S0t0Y2ROWk5rYWJaZkdsYzRMb24wSkV1ZWxjNlltR2dRN1RtZzZNQ0tHdF9YSXJRR1pfa1JuaVBRdzhyMUJFSTdUVlZZaVBlYm5oeTNmXy0ybkxwVVY2Q0lEbndTNTRzVkhRNklMbkVEUHd2czJwVzhrYXVqZFMwX2ZET3AxYTJaX1JEYzNXWjNzNWRzbHpMdzUyWkN4dWRWd2F0SmlfcDlKamJobkI3dElUV2s1?oc=5\" target=\"_blank\">Flood warning in place for Kalamazoo County until Sunday afternoon \u2013 minor flooding is occurring</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MLive.com</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOaGJDVE1vU1p6Z1Y0SUtSY1VjeXZFaGxrRjlDdWpIWkFNbW56NlUxVDdUaG1kOEh4cV8wX0QzZ21RYWZfekF1LTBoV0RaSFlVa1VOS1FRSHhDVmhZVnExRk1MLUU1ZUxEN09tWHFoY3FVSWhzRmlJdzI3UnQyelhEZk5lbzRqY2VpRzU2ZEZMY2xZU1dmWjhILTZ4RW1GamdTMTUwbkgxbFZUeWcybDF0QkRMTQ?oc=5",
+        "date": "2026-04-29",
+        "title": "Coastal flood advisory for Southeast Pa. for Thursday - LehighValleyLive.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOaGJDVE1vU1p6Z1Y0SUtSY1VjeXZFaGxrRjlDdWpIWkFNbW56NlUxVDdUaG1kOEh4cV8wX0QzZ21RYWZfekF1LTBoV0RaSFlVa1VOS1FRSHhDVmhZVnExRk1MLUU1ZUxEN09tWHFoY3FVSWhzRmlJdzI3UnQyelhEZk5lbzRqY2VpRzU2ZEZMY2xZU1dmWjhILTZ4RW1GamdTMTUwbkgxbFZUeWcybDF0QkRMTQ?oc=5\" target=\"_blank\">Coastal flood advisory for Southeast Pa. for Thursday</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">LehighValleyLive.com</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5OMXpjU0NGMFlMVllaN0pTWUJoSHRKcG15RXZCVFVmcktxQkQwV2hqVXZ6NHoxODRrYXQ3MFZRRnBBY2xIMGdqc0c1Mk9HYllUQzVwWGJtZFc1QzhQX04xREpiRk5VVVpHVDg4a0ZPSXpwYndPU3FXd0J3?oc=5",
+        "date": "2026-04-29",
+        "title": "Flood warning for Chelan County until further notice - minor flooding is reported - Tri-City Herald",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE5OMXpjU0NGMFlMVllaN0pTWUJoSHRKcG15RXZCVFVmcktxQkQwV2hqVXZ6NHoxODRrYXQ3MFZRRnBBY2xIMGdqc0c1Mk9HYllUQzVwWGJtZFc1QzhQX04xREpiRk5VVVpHVDg4a0ZPSXpwYndPU3FXd0J3?oc=5\" target=\"_blank\">Flood warning for Chelan County until further notice - minor flooding is reported</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tri-City Herald</font>",
+        "similarity_excluded": "No",
+        "score": 5,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQcGt1SnBSZE9CUWF2c0RtYnB1eDRjeVRSaWd2dVJIYXRiVEE1R19EWTNFMnlTTmw4UG83QUx6eS15Z212Q2dmSUttcGU3RGd6OTdMS2hzcks5Q3dad2VNYlA3YzExMFNOeEgwSXcxRkVtUU1LR2JXRjhIZ2kteDVmVVc4QlhVUnVGb21sc01WT0hLbzlZbmdrWDVQS1Z6X1hzMjE3ZV92ZGxpRzd3M1RVT0hn?oc=5",
+        "date": "2026-04-29",
+        "title": "Coastal flood advisory issued for Southeast Pa. for Thursday - PennLive.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQcGt1SnBSZE9CUWF2c0RtYnB1eDRjeVRSaWd2dVJIYXRiVEE1R19EWTNFMnlTTmw4UG83QUx6eS15Z212Q2dmSUttcGU3RGd6OTdMS2hzcks5Q3dad2VNYlA3YzExMFNOeEgwSXcxRkVtUU1LR2JXRjhIZ2kteDVmVVc4QlhVUnVGb21sc01WT0hLbzlZbmdrWDVQS1Z6X1hzMjE3ZV92ZGxpRzd3M1RVT0hn?oc=5\" target=\"_blank\">Coastal flood advisory issued for Southeast Pa. for Thursday</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PennLive.com</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBLTVA3djRRUHNQbEZTMU9pRk55VGJYQmNwMWFWQjZIdUlJTEpiZGx2bk5iU0c2X1NFSU56a2I5OG0tSXQzNWJVME5sZDdDcV8xNkFRUURSRGwwOWhMMFVMdzBydUNJb3IwcHlUQUd1WQ?oc=5",
+        "date": "2026-04-29",
+        "title": "News Flash \u2022 Flood Resource Centers to Open, May 1 and May 2 - Lake County (.gov)",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTFBLTVA3djRRUHNQbEZTMU9pRk55VGJYQmNwMWFWQjZIdUlJTEpiZGx2bk5iU0c2X1NFSU56a2I5OG0tSXQzNWJVME5sZDdDcV8xNkFRUURSRGwwOWhMMFVMdzBydUNJb3IwcHlUQUd1WQ?oc=5\" target=\"_blank\">News Flash \u2022 Flood Resource Centers to Open, May 1 and May 2</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Lake County (.gov)</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNnFlQ1RCbTFaWHBsaWdUR0xEZnBkcVkySFZncDQ2Zjc2eDd5VV9GVElNQkVNbmxoZGxtUkZ3aDBCbWg0Z2JHWUJxQk81YmJxTkFTeTZGMmlpTnp6ek5fTEkzRnJJeW4wQ3J0RmJBLXBNSnFmNnIyNWxOZGdvZ0xWR0FDemxyZnllbk1QcDZtamlidVBMWkNkeXAzdzh3a2hvTEFkMzFqR0o?oc=5",
+        "date": "2026-04-29",
+        "title": "Tracking your midweek forecast - WLFI News 18",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNnFlQ1RCbTFaWHBsaWdUR0xEZnBkcVkySFZncDQ2Zjc2eDd5VV9GVElNQkVNbmxoZGxtUkZ3aDBCbWg0Z2JHWUJxQk81YmJxTkFTeTZGMmlpTnp6ek5fTEkzRnJJeW4wQ3J0RmJBLXBNSnFmNnIyNWxOZGdvZ0xWR0FDemxyZnllbk1QcDZtamlidVBMWkNkeXAzdzh3a2hvTEFkMzFqR0o?oc=5\" target=\"_blank\">Tracking your midweek forecast</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WLFI News 18</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdmVGWWtMWGJoVnJ0LVd5MWk5dHl6aC1hd1l0Ym5WLUQ5ZkpPUjhwYm1uZXNic1oyME41WG5FQkFEUkVYYXBaRHpFTDlXdnlXNHY3RndJRHhiejJ3bEd6RmF3dVNLaWdDS052akZDbnVOeVZNWGpnTEY5REJTMWRsSWt5Z0pYakNhSkRvTWNPMXRna0hUS2JSbDA2TzVsUFhubW5KZTZabDRvZw?oc=5",
+        "date": "2026-04-29",
+        "title": "Minor Flood Warning Issued for Mississippi River at Alton and Grafton - RiverBender.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdmVGWWtMWGJoVnJ0LVd5MWk5dHl6aC1hd1l0Ym5WLUQ5ZkpPUjhwYm1uZXNic1oyME41WG5FQkFEUkVYYXBaRHpFTDlXdnlXNHY3RndJRHhiejJ3bEd6RmF3dVNLaWdDS052akZDbnVOeVZNWGpnTEY5REJTMWRsSWt5Z0pYakNhSkRvTWNPMXRna0hUS2JSbDA2TzVsUFhubW5KZTZabDRvZw?oc=5\" target=\"_blank\">Minor Flood Warning Issued for Mississippi River at Alton and Grafton</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">RiverBender.com</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPVHlXeE0xMkdNMUhqbUw4UV9xTC1LSmtySk01aVhzVS1Edl9rRmdKd3NVQ3FmTk94MUExdUFZU1JIV2ZfbWhFaXZDZnFPbFFxTWZkVDJmUzdPa3RGZEptd3k4TEprZlFRMjhxb2pBQlZBUXg5VjV0SkNNTFRHUXIyMjRlSXMwUQ?oc=5",
+        "date": "2026-04-29",
+        "title": "Camp Mystic director says \u2018we tried our hardest\u2019 in deadly flood: \u2018It wasn\u2019t enough to save your daughters\u2019 - The Guardian",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxPVHlXeE0xMkdNMUhqbUw4UV9xTC1LSmtySk01aVhzVS1Edl9rRmdKd3NVQ3FmTk94MUExdUFZU1JIV2ZfbWhFaXZDZnFPbFFxTWZkVDJmUzdPa3RGZEptd3k4TEprZlFRMjhxb2pBQlZBUXg5VjV0SkNNTFRHUXIyMjRlSXMwUQ?oc=5\" target=\"_blank\">Camp Mystic director says \u2018we tried our hardest\u2019 in deadly flood: \u2018It wasn\u2019t enough to save your daughters\u2019</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": null,
+        "tweet_id": "2049620290473472212",
+        "geo": {
+            "country": "United States",
+            "name": "Camp Mystic, Texas",
+            "latitude": 30.0836,
+            "longitude": -98.9503,
+            "confidence": 0.95
+        }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZlRfQjV6RlNsOWl2NFZoaEpMZzVuRW5oalFNWkFMZ0VPWkFfbzREaUNPRmpQZVFaMDdrU05YUXJLY0lEbThvVTR0UUZDdWZUZVpmTVdIYkk3T2FqQ2FHNlluTFZmMERZZW5PeFZuVGdKb1dOY2RvSmdLMFFEbWVVWWxyYjZTMkMxemM2eWxocVE1WlBWa2pOUUhmWFNrMlZWM2FXNElIbFg5V3Y3SmpRNTF4elN6M2RwR0E?oc=5",
+        "date": "2026-04-29",
+        "title": "Cool, Frost Risk, Rain Returns - WTHI-TV",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQZlRfQjV6RlNsOWl2NFZoaEpMZzVuRW5oalFNWkFMZ0VPWkFfbzREaUNPRmpQZVFaMDdrU05YUXJLY0lEbThvVTR0UUZDdWZUZVpmTVdIYkk3T2FqQ2FHNlluTFZmMERZZW5PeFZuVGdKb1dOY2RvSmdLMFFEbWVVWWxyYjZTMkMxemM2eWxocVE1WlBWa2pOUUhmWFNrMlZWM2FXNElIbFg5V3Y3SmpRNTF4elN6M2RwR0E?oc=5\" target=\"_blank\">Cool, Frost Risk, Rain Returns</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WTHI-TV</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVDdxY3FRRVEyLWtqdlp4b3J1dVBYeGV1eUk0NUF5Wl9zZVZpVV96NmUxODJCeHloT29paXRjLXlqUFVkU1ZlM0JKOVloQUtVMWx2OWNPVUdyMnM5eUhySnVsY0V1Y3NyeXBrY1k3ZEJoZkFYYmZoWFQ4UVNib1hiWU12UmZmV1p2NThjU1Z3WTdNclFkWE9maC1tZXJqNjA?oc=5",
+        "date": "2026-04-29",
+        "title": "Cool kickoff to May - WREX",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQVDdxY3FRRVEyLWtqdlp4b3J1dVBYeGV1eUk0NUF5Wl9zZVZpVV96NmUxODJCeHloT29paXRjLXlqUFVkU1ZlM0JKOVloQUtVMWx2OWNPVUdyMnM5eUhySnVsY0V1Y3NyeXBrY1k3ZEJoZkFYYmZoWFQ4UVNib1hiWU12UmZmV1p2NThjU1Z3WTdNclFkWE9maC1tZXJqNjA?oc=5\" target=\"_blank\">Cool kickoff to May</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WREX</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNa1Q1cU9XU2FuMWlBOWF6Wk15TGMzQ1ZFVzNYUVpOX085MjlvRVprSE1YU2NGLU9HUlNpYXJUZC1pQXkwcXRHampzSERQTHVuOWdQNGhyd1pWb1lSanNObkx6MnB2akZYUEZrUmV1UDkyaUR3cHN4aTJWTUktYnNfUy1OYjFiOFZuSzFWSUVoaFBlMXEwVVFDbHNmUk4wRDlUekQxejdhUGJkeV9KYnNCOFZFbUVLN3J4?oc=5",
+        "date": "2026-04-29",
+        "title": "Mescalero Apache teens are building wildfire and flood sensors to protect their community - New Mexico In Depth",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxNa1Q1cU9XU2FuMWlBOWF6Wk15TGMzQ1ZFVzNYUVpOX085MjlvRVprSE1YU2NGLU9HUlNpYXJUZC1pQXkwcXRHampzSERQTHVuOWdQNGhyd1pWb1lSanNObkx6MnB2akZYUEZrUmV1UDkyaUR3cHN4aTJWTUktYnNfUy1OYjFiOFZuSzFWSUVoaFBlMXEwVVFDbHNmUk4wRDlUekQxejdhUGJkeV9KYnNCOFZFbUVLN3J4?oc=5\" target=\"_blank\">Mescalero Apache teens are building wildfire and flood sensors to protect their community</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">New Mexico In Depth</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOa0NGRWpkdFhDS0ZTWG5sR2w2WHppMi1pU19jdmF3ZW5nSV91WkJ1NUtZSkZpSS1YTTVmaVF2R2tHenpXTUZySkpMc2VoSGdna0U4VHVrU3BmZnZvd3V6YXoxMzJQY3k4TEVRXzdxdE5qRkpYTGFpdU10b0VfQUxDY1ZKTWcyMDU5MndmczNJVGJfSFhsOUFCLUF6cHZ4OG9BelhiSFpvVTlMcFl6UDVVenFTTkV3MEtuRFhFbkJNYzhEaGhhREZ5ZWxscVBSbG9pa3N0OXg3LUhncUt5LUVKcWVPNnBkRjhQcWVNZEhVaV8?oc=5",
+        "date": "2026-04-29",
+        "title": "Camp Mystic owners apologize for deadly flood plan failures and push to reopen over Texas lawmakers\u2019 objections - KQ2",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8AFBVV95cUxOa0NGRWpkdFhDS0ZTWG5sR2w2WHppMi1pU19jdmF3ZW5nSV91WkJ1NUtZSkZpSS1YTTVmaVF2R2tHenpXTUZySkpMc2VoSGdna0U4VHVrU3BmZnZvd3V6YXoxMzJQY3k4TEVRXzdxdE5qRkpYTGFpdU10b0VfQUxDY1ZKTWcyMDU5MndmczNJVGJfSFhsOUFCLUF6cHZ4OG9BelhiSFpvVTlMcFl6UDVVenFTTkV3MEtuRFhFbkJNYzhEaGhhREZ5ZWxscVBSbG9pa3N0OXg3LUhncUt5LUVKcWVPNnBkRjhQcWVNZEhVaV8?oc=5\" target=\"_blank\">Camp Mystic owners apologize for deadly flood plan failures and push to reopen over Texas lawmakers\u2019 objections</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KQ2</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQY2pqQ21TMFRUdUdvZDVZUi13bmtsdmRiMEhtMG03MGJqTXlST1VnUlRmQ2sxazRzaDM0RndpSE1UTE1SWnY1XzdxNmxMdElrbklnelhLbUwzX2p0akgxMGtUMVgxVl93QklUWnRtQ0FucmZrSy1TREdiSF9JQ0Rpa0puZnVVZDl5bnBsT2R1blpBR0puNkxoeGctaS00RHFVMS1FOEtGTTk?oc=5",
+        "date": "2026-04-29",
+        "title": "Google rolls out AI tool to predict flash floods up to 24 hours ahead - KSN.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxQY2pqQ21TMFRUdUdvZDVZUi13bmtsdmRiMEhtMG03MGJqTXlST1VnUlRmQ2sxazRzaDM0RndpSE1UTE1SWnY1XzdxNmxMdElrbklnelhLbUwzX2p0akgxMGtUMVgxVl93QklUWnRtQ0FucmZrSy1TREdiSF9JQ0Rpa0puZnVVZDl5bnBsT2R1blpBR0puNkxoeGctaS00RHFVMS1FOEtGTTk?oc=5\" target=\"_blank\">Google rolls out AI tool to predict flash floods up to 24 hours ahead</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KSN.com</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQa0QxNzluNjVzUS04Q1NuRjN2SFBicGVzbXpUM2NCVzFleTVweVpuMkFtUUU1ZERqUkkyN3hxYTFWci1IZVd0bmJkNF9tM2lFWEdMYTdnY2JJazNTZ0YxSTlvRUdKNTVDUGt3Y3J5TTQtTmNpY3o4TzBxZXNfeklLNUt2Wno3VGVTXzMtWlU0UmR6ckVhX0doYVlBMFEyYkJJeVJZY2hDejlGMkI3UlF1TA?oc=5",
+        "date": "2026-04-29",
+        "title": "Cool days and chilly nights into May - WREX",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQa0QxNzluNjVzUS04Q1NuRjN2SFBicGVzbXpUM2NCVzFleTVweVpuMkFtUUU1ZERqUkkyN3hxYTFWci1IZVd0bmJkNF9tM2lFWEdMYTdnY2JJazNTZ0YxSTlvRUdKNTVDUGt3Y3J5TTQtTmNpY3o4TzBxZXNfeklLNUt2Wno3VGVTXzMtWlU0UmR6ckVhX0doYVlBMFEyYkJJeVJZY2hDejlGMkI3UlF1TA?oc=5\" target=\"_blank\">Cool days and chilly nights into May</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WREX</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPaldZOUVxT1FlWlZWOFRZb1ZPV2YzLWRIcmZhQ2ZBZ0dXeUswTU1aNDlvV2cyUmZCM3VoZmhGWnI2b2k5SmlBTzh2NmhSSEFYbHU2a01TaGtXMjI4MzVqS1hIRUZjVFBnbkxEMjJOX3NiRlJ2ZHR5X1dJd0V4Ty1JSWFfQTlGT2ZqZjc1dXJXdi05WGE0UU5KR285dGxlbWVQRW1ndDdmeHVIdw?oc=5",
+        "date": "2026-04-29",
+        "title": "Google rolls out AI tool to predict flash floods up to 24 hours ahead - WANE 15",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPaldZOUVxT1FlWlZWOFRZb1ZPV2YzLWRIcmZhQ2ZBZ0dXeUswTU1aNDlvV2cyUmZCM3VoZmhGWnI2b2k5SmlBTzh2NmhSSEFYbHU2a01TaGtXMjI4MzVqS1hIRUZjVFBnbkxEMjJOX3NiRlJ2ZHR5X1dJd0V4Ty1JSWFfQTlGT2ZqZjc1dXJXdi05WGE0UU5KR285dGxlbWVQRW1ndDdmeHVIdw?oc=5\" target=\"_blank\">Google rolls out AI tool to predict flash floods up to 24 hours ahead</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WANE 15</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPNWV3bGxWYVQ1c1VRVVR1NkRTQmxqQmI2Z3hsQVl3dkNsU25wcVo1S2FFNDNhSEV1cldPZVBfYkU2eWhmUXRCaE10UW51SWVPZG1BRE4tU2c0cHllY0hwdFdtU3VjSFY0c2F3SWx4NU1ycVd3V0Y2VkZIVk8zLVBUUE1HZzZnVkNfcmVzaXkzNzB1dGUyOTQ4YV82blptZmt6YTVSQ0d3aGlzMDRXZXZ0ZjNBUWdWaXRiX2ZRZW12RQ?oc=5",
+        "date": "2026-04-29",
+        "title": "Cooler Temperatures, Frost Possible - WLFI News 18",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxPNWV3bGxWYVQ1c1VRVVR1NkRTQmxqQmI2Z3hsQVl3dkNsU25wcVo1S2FFNDNhSEV1cldPZVBfYkU2eWhmUXRCaE10UW51SWVPZG1BRE4tU2c0cHllY0hwdFdtU3VjSFY0c2F3SWx4NU1ycVd3V0Y2VkZIVk8zLVBUUE1HZzZnVkNfcmVzaXkzNzB1dGUyOTQ4YV82blptZmt6YTVSQ0d3aGlzMDRXZXZ0ZjNBUWdWaXRiX2ZRZW12RQ?oc=5\" target=\"_blank\">Cooler Temperatures, Frost Possible</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WLFI News 18</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOOUZpOVpfNlgtYURyeUdSbVZwX3M0WWhwbEJqSHJFLWJPWFMtbkZ6RWx0TkV6TXZwWjdOQ1MwQWhRRUdmM3BmVGg0Q255VjN5X25fOVlZeVR3bDZ2VmVxUmUzNVQ0ZEFucnh0VlRMVnNSazU4VGptMGh4S2g4eHJUSzMzQWx6Uy1UX3Z4Rg?oc=5",
+        "date": "2026-04-29",
+        "title": "Fast-moving storm clusters heighten severe weather and flash flood threats across the South - Yahoo",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxOOUZpOVpfNlgtYURyeUdSbVZwX3M0WWhwbEJqSHJFLWJPWFMtbkZ6RWx0TkV6TXZwWjdOQ1MwQWhRRUdmM3BmVGg0Q255VjN5X25fOVlZeVR3bDZ2VmVxUmUzNVQ0ZEFucnh0VlRMVnNSazU4VGptMGh4S2g4eHJUSzMzQWx6Uy1UX3Z4Rg?oc=5\" target=\"_blank\">Fast-moving storm clusters heighten severe weather and flash flood threats across the South</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNenVDRnNsbXE4NE9VREd0T1ctYnVsVF9wXzYtZVh5dTRLaXl4LTFvaXNmUndNYjlJM1MzeExnWWdMTWNTVnJ2OTAzMUFPS18tQ3FnRTdleFdob0ZKOW9odWZpMTJ3V1B1QWdDNi01bGltY0N6ZDVDeWtEQnNMTlV3dWNha0xhcExrREs2dDNwOWVvaW8ydnFUZHVuSWFzUWU4?oc=5",
+        "date": "2026-04-29",
+        "title": "Flood watch, warning for Timmins waterways extended - TimminsToday.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNenVDRnNsbXE4NE9VREd0T1ctYnVsVF9wXzYtZVh5dTRLaXl4LTFvaXNmUndNYjlJM1MzeExnWWdMTWNTVnJ2OTAzMUFPS18tQ3FnRTdleFdob0ZKOW9odWZpMTJ3V1B1QWdDNi01bGltY0N6ZDVDeWtEQnNMTlV3dWNha0xhcExrREs2dDNwOWVvaW8ydnFUZHVuSWFzUWU4?oc=5\" target=\"_blank\">Flood watch, warning for Timmins waterways extended</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TimminsToday.com</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNbjUyOHV3VkhWa0tJZFo2ekxVZ3J2Wm1IZl94NU5ITlBZRXNkZHByY2ZNQk9ra1lBdzhXM2N2WjZtOUVCVGtIQU8tUWkxbW9yMi1TRnNVUDlYeEQ5cWxfbjM5Y2JTX3A4SFFXYjFNWFBCTlpUNHJITGlqbTJnTm53SzhqNUEtbV9TdG1qdXJPY1VEbUptVG41MUVzcnVyeHFMSlFTYzBHNzlhOXVCLWg4bEdzWTZCOFFmYzRTV0hpM0p0cUhUSmhxTV9JUEs1VWI1V28xeTZmZnNEUkllNzJ1V3JrdHA3UQ?oc=5",
+        "date": "2026-04-29",
+        "title": "Road work on multiple highways in Winnebago and Ogle Counties begins in May - WREX",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxNbjUyOHV3VkhWa0tJZFo2ekxVZ3J2Wm1IZl94NU5ITlBZRXNkZHByY2ZNQk9ra1lBdzhXM2N2WjZtOUVCVGtIQU8tUWkxbW9yMi1TRnNVUDlYeEQ5cWxfbjM5Y2JTX3A4SFFXYjFNWFBCTlpUNHJITGlqbTJnTm53SzhqNUEtbV9TdG1qdXJPY1VEbUptVG41MUVzcnVyeHFMSlFTYzBHNzlhOXVCLWg4bEdzWTZCOFFmYzRTV0hpM0p0cUhUSmhxTV9JUEs1VWI1V28xeTZmZnNEUkllNzJ1V3JrdHA3UQ?oc=5\" target=\"_blank\">Road work on multiple highways in Winnebago and Ogle Counties begins in May</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WREX</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQRHdUajUtYmY3eXg0cDRxYlQxbWhQdjRZVFcybTVNWnhPNzVQYXpYV3RlRXliQTk2Y0p5OWdqaWNtQVJ6RFBRUE15ajBBRDdSMWlFNDdfYjZwM0Y1YVpfTEcyYjFXR1RhSVRfZ2dFbkRISVlmOTNUR01PdG5kc285V05pbDFwVmgyMW9FRXJWODlvNVo2UDN3M0N5am9BRzVIU3dseGpZMUdqb2Foek55SzEtYXdjeXBvMmxRX09RbTRIVDJYVDF6UVZBNER0X19kVXlNelVqcWVvSFU1b1E?oc=5",
+        "date": "2026-04-29",
+        "title": "Honor Guard fundraiser aiming for every veteran to get a proper burial - WLFI News 18",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxQRHdUajUtYmY3eXg0cDRxYlQxbWhQdjRZVFcybTVNWnhPNzVQYXpYV3RlRXliQTk2Y0p5OWdqaWNtQVJ6RFBRUE15ajBBRDdSMWlFNDdfYjZwM0Y1YVpfTEcyYjFXR1RhSVRfZ2dFbkRISVlmOTNUR01PdG5kc285V05pbDFwVmgyMW9FRXJWODlvNVo2UDN3M0N5am9BRzVIU3dseGpZMUdqb2Foek55SzEtYXdjeXBvMmxRX09RbTRIVDJYVDF6UVZBNER0X19kVXlNelVqcWVvSFU1b1E?oc=5\" target=\"_blank\">Honor Guard fundraiser aiming for every veteran to get a proper burial</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WLFI News 18</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNbUw0b1dYNnZ0VVF2SnpISVQ2NWIxZ28zRVBTdnhyLVdyVnJNWjZnVkkwSTZmRVhuOWRkT2tsZHh5VUJrUEp5am5nT1lRdW50Y0JoRXJaZXlUbmptNzRvcFBYY0hZdE16Q0drYUd5bFZVMDFvaHljelhrWGZOVDR1SFZWOWwwckNjTl9HaHRQa21XTzVZTEFoejRwUmcxcEltejVERDFSOENxMTNWODl6amRuTW9WMnVnT1lURTRhUU0xeEhKQkl0YWVRTVVJdjJ2LTExU2pTTWxtZ1lVS3VpcC1hUHk5LVhhQmdMekdwVnZqdw?oc=5",
+        "date": "2026-04-29",
+        "title": "Lafayette Farmer's Market kicking off this weekend with record number of vendors - WLFI News 18",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8gFBVV95cUxNbUw0b1dYNnZ0VVF2SnpISVQ2NWIxZ28zRVBTdnhyLVdyVnJNWjZnVkkwSTZmRVhuOWRkT2tsZHh5VUJrUEp5am5nT1lRdW50Y0JoRXJaZXlUbmptNzRvcFBYY0hZdE16Q0drYUd5bFZVMDFvaHljelhrWGZOVDR1SFZWOWwwckNjTl9HaHRQa21XTzVZTEFoejRwUmcxcEltejVERDFSOENxMTNWODl6amRuTW9WMnVnT1lURTRhUU0xeEhKQkl0YWVRTVVJdjJ2LTExU2pTTWxtZ1lVS3VpcC1hUHk5LVhhQmdMekdwVnZqdw?oc=5\" target=\"_blank\">Lafayette Farmer's Market kicking off this weekend with record number of vendors</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WLFI News 18</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOYUptV0RBQUZ6aUM4SWZCOEpybHBaYmx3d2FIUlVsVGNmdGQxX3FtRTJxaDNBeG1MX1JLeGFoN3V4dkNPRGFXSVJEQ2dsaWxJU2E2ZkpfSTdWdjNUaWNpMk9TZEpEazRrX1Fra1lCUnFqZW5URFpIZ2szX0hRZW9zXzBkUUlrOXNfTXY4VGs1eEctb2MxWjBBT2ViNG03cURVSk93ZHZkWUJOa2FaYUUwaHc0SmpIOG16M043eS1odzdraVRqNmJOQ28tQ3NneGVvWTVyMVl4YmtzNU8xNDNRbTNETFJDeWxRd2F4ZDJiOHFnWWhZ?oc=5",
+        "date": "2026-04-29",
+        "title": "Indiana State University Police Chief: Extra patrols planned as graduation approaches - WTHI-TV",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxOYUptV0RBQUZ6aUM4SWZCOEpybHBaYmx3d2FIUlVsVGNmdGQxX3FtRTJxaDNBeG1MX1JLeGFoN3V4dkNPRGFXSVJEQ2dsaWxJU2E2ZkpfSTdWdjNUaWNpMk9TZEpEazRrX1Fra1lCUnFqZW5URFpIZ2szX0hRZW9zXzBkUUlrOXNfTXY4VGs1eEctb2MxWjBBT2ViNG03cURVSk93ZHZkWUJOa2FaYUUwaHc0SmpIOG16M043eS1odzdraVRqNmJOQ28tQ3NneGVvWTVyMVl4YmtzNU8xNDNRbTNETFJDeWxRd2F4ZDJiOHFnWWhZ?oc=5\" target=\"_blank\">Indiana State University Police Chief: Extra patrols planned as graduation approaches</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WTHI-TV</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQLWc5MjJyNk1kZmE5Qk1kSkRocV9vYlRzQzFoVTlsUVROMmd6TjlNM2N5TTJFSm1fcjRqTDY0T3d3QW0wUGpTak5oM3hKc1ZFRlREQmFjX05iWE9laUZmRFJhdl91WE00Tm1Lc25WX1RzMTdFQThDc0ZZN011WlhYVnppb05QUWYyVGYwQ2FZNTAwdzBpNjlXTktzNEVtQm14YXZVMXF0eWQtcE9EazMxak1mcmNLd09MRE5kb2FEalh4RUdOci1fSnMzNFFuU0ljbFBFUnl3?oc=5",
+        "date": "2026-04-29",
+        "title": "State parks offer free entry May 3 to kick off outdoor season - WTHI-TV",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxQLWc5MjJyNk1kZmE5Qk1kSkRocV9vYlRzQzFoVTlsUVROMmd6TjlNM2N5TTJFSm1fcjRqTDY0T3d3QW0wUGpTak5oM3hKc1ZFRlREQmFjX05iWE9laUZmRFJhdl91WE00Tm1Lc25WX1RzMTdFQThDc0ZZN011WlhYVnppb05QUWYyVGYwQ2FZNTAwdzBpNjlXTktzNEVtQm14YXZVMXF0eWQtcE9EazMxak1mcmNLd09MRE5kb2FEalh4RUdOci1fSnMzNFFuU0ljbFBFUnl3?oc=5\" target=\"_blank\">State parks offer free entry May 3 to kick off outdoor season</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WTHI-TV</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNbkRnU21WQWttOUpLeVNnYjQxR3I5WVRablpZaVpCZzFKM3J0ZTRDNkdpOGg0b1hscEpzSURRcHFBdkpUZGYzX2J0QVVISFlBcHhOMi1PbFBrMVZHOEllMm1VVDFnS3hZX3BkNnVGR3FmcVM1b08xdG53UnNZOHd6eWIxV01RS212bVdERlM2S0pSNEc3THZ1YmpXbWRCNGNVYW83RFRIUlJnS0pfQk1BM1NHWjhxTldZMHRRRXVzb0MtaGFoVXA1ZU81VG1TaHk0cXg3TExycw?oc=5",
+        "date": "2026-04-29",
+        "title": "Shoulder widening project to close multiple U.S. 52 intersections. - WLFI News 18",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxNbkRnU21WQWttOUpLeVNnYjQxR3I5WVRablpZaVpCZzFKM3J0ZTRDNkdpOGg0b1hscEpzSURRcHFBdkpUZGYzX2J0QVVISFlBcHhOMi1PbFBrMVZHOEllMm1VVDFnS3hZX3BkNnVGR3FmcVM1b08xdG53UnNZOHd6eWIxV01RS212bVdERlM2S0pSNEc3THZ1YmpXbWRCNGNVYW83RFRIUlJnS0pfQk1BM1NHWjhxTldZMHRRRXVzb0MtaGFoVXA1ZU81VG1TaHk0cXg3TExycw?oc=5\" target=\"_blank\">Shoulder widening project to close multiple U.S. 52 intersections.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WLFI News 18</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOdmhoMVJTb05MUklvMUg5ZVBlenJXd29RZTVZNUJzWnJuR2tpVHdGMW8zSElMMWNKSDRsZmM5RXJHZ2kxTHRhbjJJcmdOUWl4SUdzVmFoWnpvd0NlYUpDQ2VuQUNGZG8zRWFrOURzRDBCb0tnVkFIdlVKenMxSktqTURTa0lvSUU5TVd5aXpDT1gwNTdIcWRHLUJ2ODNiUmpNN2l0cG9XS19heTQ2Z3NKRENHYWxPV1g1Unpwc1VBOEI5TjB3M2F5MlVmZURYR3lxYXpWRlg4SjRQN3MtdGxkNTZCVG40QkUz?oc=5",
+        "date": "2026-04-29",
+        "title": "Tornado devastates Texas town on sixth straight day of severe storms - WREX",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxOdmhoMVJTb05MUklvMUg5ZVBlenJXd29RZTVZNUJzWnJuR2tpVHdGMW8zSElMMWNKSDRsZmM5RXJHZ2kxTHRhbjJJcmdOUWl4SUdzVmFoWnpvd0NlYUpDQ2VuQUNGZG8zRWFrOURzRDBCb0tnVkFIdlVKenMxSktqTURTa0lvSUU5TVd5aXpDT1gwNTdIcWRHLUJ2ODNiUmpNN2l0cG9XS19heTQ2Z3NKRENHYWxPV1g1Unpwc1VBOEI5TjB3M2F5MlVmZURYR3lxYXpWRlg4SjRQN3MtdGxkNTZCVG40QkUz?oc=5\" target=\"_blank\">Tornado devastates Texas town on sixth straight day of severe storms</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WREX</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPZDNTbXZMbFZGZzM3QzhDaE5JWkFiSERyVjd6WVJOX293MDB1OUUzYmVpanVxTUt0ZGFxdmdoSnZoMGFMOE9Bb0h6WGd0cEROMk4yQV93WlFHRHFkYjdYNHFnbnE4el81Q3FhNlZjX3otU0F5aUFDN2daeFVKa3AwOFZWVXhZT1Vldk9sRFpib3lMdzluVkZOWjdQMnZnRzdqYTJucjdFQkF5R0xmTGp3OHBfUFEwcTNiWUpmaktjd0JmZ3BSemVvUkZHZzBnZVk?oc=5",
+        "date": "2026-04-29",
+        "title": "School bus, SUV collide in rural Putnam County; 24 kids OK - WTHI-TV",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxPZDNTbXZMbFZGZzM3QzhDaE5JWkFiSERyVjd6WVJOX293MDB1OUUzYmVpanVxTUt0ZGFxdmdoSnZoMGFMOE9Bb0h6WGd0cEROMk4yQV93WlFHRHFkYjdYNHFnbnE4el81Q3FhNlZjX3otU0F5aUFDN2daeFVKa3AwOFZWVXhZT1Vldk9sRFpib3lMdzluVkZOWjdQMnZnRzdqYTJucjdFQkF5R0xmTGp3OHBfUFEwcTNiWUpmaktjd0JmZ3BSemVvUkZHZzBnZVk?oc=5\" target=\"_blank\">School bus, SUV collide in rural Putnam County; 24 kids OK</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WTHI-TV</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNaVpaS1hsZk9KaGxUZjA4R2sxM1VmYlVMUnNwQ0s5X3FJcGtKUlV4WVV4WW5KR09NejF6UHhVZ1U5RE1lYmw2cS1LMFZoQ0JoTzY3Mm92TEZDODItVUNfZ0NlSHE2ZlJSR3RFVUtvVHlXMzlIMlAzcEwwV1JnbUtzQ3l5Y0hoSHN4X1FrZkJNZm5qVk1ZMV9mTHV4TzNZQ1ltRXlQWWlfNVdfcjlYa3NBSEg1dkdVVk1RU3F2dzJRX0dVWnpvSy1fN0lHRGtIU2ZpcTU4V0xHbkJsNFE3VEM3TEZvZDFuS3E2?oc=5",
+        "date": "2026-04-29",
+        "title": "Johnson County Veteran Blythe Potter running for Indiana Secretary of State - WTHI-TV",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxNaVpaS1hsZk9KaGxUZjA4R2sxM1VmYlVMUnNwQ0s5X3FJcGtKUlV4WVV4WW5KR09NejF6UHhVZ1U5RE1lYmw2cS1LMFZoQ0JoTzY3Mm92TEZDODItVUNfZ0NlSHE2ZlJSR3RFVUtvVHlXMzlIMlAzcEwwV1JnbUtzQ3l5Y0hoSHN4X1FrZkJNZm5qVk1ZMV9mTHV4TzNZQ1ltRXlQWWlfNVdfcjlYa3NBSEg1dkdVVk1RU3F2dzJRX0dVWnpvSy1fN0lHRGtIU2ZpcTU4V0xHbkJsNFE3VEM3TEZvZDFuS3E2?oc=5\" target=\"_blank\">Johnson County Veteran Blythe Potter running for Indiana Secretary of State</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WTHI-TV</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9RSkY1ZzhpdHRBSlpodmtXRVhXbUpNT2g3QnBud1lLd0xDV1hwSjc1d2tPOHpMalQ2SlVJODJlUldDaXpLN0NfUlJ1UHdtYURYWHhmdmVn?oc=5",
+        "date": "2026-04-29",
+        "title": "Floods continue in Netrokona, Moulvibazar, while Habiganj, Sylhet, Sunamganj at risk - daily-sun.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE9RSkY1ZzhpdHRBSlpodmtXRVhXbUpNT2g3QnBud1lLd0xDV1hwSjc1d2tPOHpMalQ2SlVJODJlUldDaXpLN0NfUlJ1UHdtYURYWHhmdmVn?oc=5\" target=\"_blank\">Floods continue in Netrokona, Moulvibazar, while Habiganj, Sylhet, Sunamganj at risk</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">daily-sun.com</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPVHlXeE0xMkdNMUhqbUw4UV9xTC1LSmtySk01aVhzVS1Edl9rRmdKd3NVQ3FmTk94MUExdUFZU1JIV2ZfbWhFaXZDZnFPbFFxTWZkVDJmUzdPa3RGZEptd3k4TEprZlFRMjhxb2pBQlZBUXg5VjV0SkNNTFRHUXIyMjRlSXMwUQ?oc=5",
+        "date": "2026-04-29",
+        "title": "Camp Mystic director says \u2018we tried our hardest\u2019 in deadly flood: \u2018It wasn\u2019t enough to save your daughters\u2019 - The Guardian",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxPVHlXeE0xMkdNMUhqbUw4UV9xTC1LSmtySk01aVhzVS1Edl9rRmdKd3NVQ3FmTk94MUExdUFZU1JIV2ZfbWhFaXZDZnFPbFFxTWZkVDJmUzdPa3RGZEptd3k4TEprZlFRMjhxb2pBQlZBUXg5VjV0SkNNTFRHUXIyMjRlSXMwUQ?oc=5\" target=\"_blank\">Camp Mystic director says \u2018we tried our hardest\u2019 in deadly flood: \u2018It wasn\u2019t enough to save your daughters\u2019</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 POST-EVENT Texas: Deadly flash flood at Camp Mystic girls camp kills several young campers despite directors evacuation attempts. (Guardian)",
+        "type": "news",
+        "tweet_id": "2049620290473472212",
+        "geo": {
+            "country": "United States",
+            "name": "Camp Mystic, Texas",
+            "latitude": 30.0836,
+            "longitude": -98.9503,
+            "confidence": 0.95
+        }
     }
 ]
