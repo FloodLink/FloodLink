@@ -19110,7 +19110,7 @@
     "rain_mm": 59.06,
     "soil_moisture": 0.513,
     "raw_dynamic_score": 8.7,
-    "last_updated": "2026-04-29T22:02:33.998441Z",
+    "last_updated": "2026-04-30T02:18:15.029432Z",
     "last_tweeted_at": "2026-04-29T22:02:33.998441Z",
     "tweet_id": "2049610600691486832",
     "resolved": false
@@ -19125,9 +19125,24 @@
     "rain_mm": 56.12,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 10.734,
-    "last_updated": "2026-04-29T22:02:33.998441Z",
+    "last_updated": "2026-04-30T02:18:15.029432Z",
     "last_tweeted_at": "2026-04-29T22:02:33.998441Z",
     "tweet_id": "2049610853066965104",
+    "resolved": false
+  },
+  "22.5052,91.8134": {
+    "country": "Bangladesh",
+    "name": "Hāthazāri",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 22.50515,
+    "longitude": 91.81339,
+    "rain_mm": 46.0,
+    "soil_moisture": 0.541,
+    "raw_dynamic_score": 6.891,
+    "last_updated": "2026-04-30T02:18:15.029432Z",
+    "last_tweeted_at": "2026-04-30T02:18:15.029432Z",
+    "tweet_id": "2049674703300935857",
     "resolved": false
   }
 }
