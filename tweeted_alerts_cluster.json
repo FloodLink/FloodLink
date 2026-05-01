@@ -7254,7 +7254,7 @@
     "rain_mm": 45.12,
     "soil_moisture": 0.687,
     "raw_dynamic_score": 7.354,
-    "last_updated": "2026-02-25T06:59:08.616222Z",
+    "last_updated": "2026-05-01T13:09:31.501610Z",
     "last_tweeted_at": "2026-02-25T04:53:16.435852Z",
     "tweet_id": "2026520880948387980",
     "resolved": false
@@ -18517,7 +18517,7 @@
     "rain_mm": 45.19,
     "soil_moisture": 0.559,
     "raw_dynamic_score": 6.843,
-    "last_updated": "2026-05-01T10:27:34.382068Z",
+    "last_updated": "2026-05-01T13:09:31.501610Z",
     "last_tweeted_at": "2026-04-30T06:00:14.198215Z",
     "tweet_id": "2049730816477999301",
     "resolved": false
@@ -18532,7 +18532,7 @@
     "rain_mm": 44.81,
     "soil_moisture": 0.524,
     "raw_dynamic_score": 6.644,
-    "last_updated": "2026-05-01T10:27:34.382068Z",
+    "last_updated": "2026-05-01T13:09:31.501610Z",
     "last_tweeted_at": "2026-04-30T06:00:14.198215Z",
     "tweet_id": "2049731069184762062",
     "resolved": false
@@ -18862,7 +18862,7 @@
     "rain_mm": 70.19,
     "soil_moisture": 0.407,
     "raw_dynamic_score": 9.666,
-    "last_updated": "2026-05-01T06:18:06.858507Z",
+    "last_updated": "2026-05-01T13:09:31.501610Z",
     "last_tweeted_at": "2026-05-01T06:18:06.858507Z",
     "tweet_id": "2050097451579679217",
     "resolved": false
@@ -18892,7 +18892,7 @@
     "rain_mm": 42.44,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 8.116,
-    "last_updated": "2026-05-01T10:27:34.382068Z",
+    "last_updated": "2026-05-01T13:09:31.501610Z",
     "last_tweeted_at": "2026-05-01T06:18:06.858507Z",
     "tweet_id": "2050097703896371344",
     "resolved": false
@@ -18967,7 +18967,7 @@
     "rain_mm": 45.5,
     "soil_moisture": 0.534,
     "raw_dynamic_score": 6.787,
-    "last_updated": "2026-05-01T10:27:34.382068Z",
+    "last_updated": "2026-05-01T13:09:31.501610Z",
     "last_tweeted_at": "2026-05-01T06:18:06.858507Z",
     "tweet_id": "2050097956733202453",
     "resolved": false
@@ -18982,7 +18982,7 @@
     "rain_mm": 43.31,
     "soil_moisture": 0.586,
     "raw_dynamic_score": 6.665,
-    "last_updated": "2026-05-01T10:27:34.382068Z",
+    "last_updated": "2026-05-01T13:09:31.501610Z",
     "last_tweeted_at": "2026-05-01T10:27:34.382068Z",
     "tweet_id": "2050160222283440395",
     "resolved": false
@@ -19012,7 +19012,7 @@
     "rain_mm": 43.31,
     "soil_moisture": 0.586,
     "raw_dynamic_score": 6.665,
-    "last_updated": "2026-05-01T10:27:34.382068Z",
+    "last_updated": "2026-05-01T13:09:31.501610Z",
     "last_tweeted_at": "2026-05-01T10:27:34.382068Z",
     "tweet_id": "2050160727189496099",
     "resolved": false
@@ -19030,6 +19030,51 @@
     "last_updated": "2026-05-01T10:27:34.382068Z",
     "last_tweeted_at": "2026-05-01T10:27:34.382068Z",
     "tweet_id": "2050160727189496099",
+    "resolved": false
+  },
+  "-7.4706,-34.8086": {
+    "country": "Brazil",
+    "name": "Pitimbu",
+    "risk_level": "High",
+    "tweeted_level": "High",
+    "latitude": -7.47056,
+    "longitude": -34.80861,
+    "rain_mm": 103.31,
+    "soil_moisture": 0.528,
+    "raw_dynamic_score": 15.35,
+    "last_updated": "2026-05-01T13:09:31.501610Z",
+    "last_tweeted_at": "2026-05-01T13:09:31.501610Z",
+    "tweet_id": "2050200978658361626",
+    "resolved": false
+  },
+  "-7.7478,-34.8256": {
+    "country": "Brazil",
+    "name": "Ilha de Itamaracá",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": -7.74778,
+    "longitude": -34.82556,
+    "rain_mm": 65.44,
+    "soil_moisture": 0.613,
+    "raw_dynamic_score": 10.227,
+    "last_updated": "2026-05-01T13:09:31.501610Z",
+    "last_tweeted_at": "2026-05-01T13:09:31.501610Z",
+    "tweet_id": "2050201231025373692",
+    "resolved": false
+  },
+  "2.1484,27.9947": {
+    "country": "The Democratic Republic of the Congo",
+    "name": "Wamba",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 2.14838,
+    "longitude": 27.99466,
+    "rain_mm": 61.81,
+    "soil_moisture": 0.71,
+    "raw_dynamic_score": 10.204,
+    "last_updated": "2026-05-01T13:09:31.501610Z",
+    "last_tweeted_at": "2026-05-01T13:09:31.501610Z",
+    "tweet_id": "2050201483455467748",
     "resolved": false
   }
 }
