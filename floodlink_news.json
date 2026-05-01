@@ -16650,5 +16650,13 @@
         "score": 8,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-05-01",
+        "status": "posted",
+        "tweet": "\ud83c\uddf3\ud83c\uddf1 In 2026, the Netherlands relies on 26,000 km of dikes and levees to protect 60% of its land area from coastal and river flooding.",
+        "type": "infrastructure",
+        "tweet_id": "2050239270485623046"
     }
 ]
