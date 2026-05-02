@@ -16254,5 +16254,14 @@
         "score": 3,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-05-02",
+        "status": "posted",
+        "tweet": "In 2026, global flood early warning systems cover just 55% of people at risk from floods, flash floods, and storm surges\u2014leaving 900 million exposed, especially in Asia (\ud83c\uddee\ud83c\uddf3\ud83c\udde7\ud83c\udde9\ud83c\uddf5\ud83c\uddf0). Progress from 40% in 2020, but gaps persist.",
+        "type": "statistical",
+        "category": "coverage of flood early warning systems worldwide",
+        "tweet_id": "2050555392212520974"
     }
 ]
