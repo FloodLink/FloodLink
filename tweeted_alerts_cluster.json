@@ -11486,13 +11486,13 @@
     "rain_mm": 68.38,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 13.077,
-    "last_updated": "2026-05-02T15:48:00.571526Z",
+    "last_updated": "2026-05-02T18:53:47.872238Z",
     "last_tweeted_at": "2026-05-02T07:30:16.357109Z",
     "tweet_id": "2050478506962980878",
     "resolved": false,
     "pending_downgrade": true,
-    "pending_target_level": "Medium",
-    "pending_set_at": "2026-05-02T15:48:00.571526Z",
+    "pending_target_level": "Low",
+    "pending_set_at": "2026-05-02T18:53:47.872238Z",
     "pending_is_region": true
   },
   "-12.6719,-69.3555": {
@@ -16188,7 +16188,7 @@
     "rain_mm": 41.5,
     "soil_moisture": 0.727,
     "raw_dynamic_score": 6.915,
-    "last_updated": "2026-04-16T05:33:26.246730Z",
+    "last_updated": "2026-05-02T18:53:47.872238Z",
     "last_tweeted_at": "2026-04-16T02:03:40.938340Z",
     "tweet_id": "2044597861623751086",
     "resolved": false
@@ -16458,7 +16458,7 @@
     "rain_mm": 55.69,
     "soil_moisture": 0.661,
     "raw_dynamic_score": 8.943,
-    "last_updated": "2026-04-26T02:06:59.251143Z",
+    "last_updated": "2026-05-02T18:53:47.872238Z",
     "last_tweeted_at": "2026-04-19T09:48:19.996372Z",
     "tweet_id": "2045801692541735266",
     "resolved": false
@@ -17943,7 +17943,7 @@
     "rain_mm": 75.31,
     "soil_moisture": 0.504,
     "raw_dynamic_score": 11.033,
-    "last_updated": "2026-04-29T19:21:08.768150Z",
+    "last_updated": "2026-05-02T18:53:47.872238Z",
     "last_tweeted_at": "2026-04-29T13:35:46.535837Z",
     "tweet_id": "2049483073843081444",
     "resolved": false
@@ -18138,7 +18138,7 @@
     "rain_mm": 46.69,
     "soil_moisture": 0.534,
     "raw_dynamic_score": 6.966,
-    "last_updated": "2026-05-02T13:00:27.840561Z",
+    "last_updated": "2026-05-02T18:53:47.872238Z",
     "last_tweeted_at": "2026-04-29T16:33:13.908252Z",
     "tweet_id": "2049527723836498241",
     "resolved": false
@@ -19234,10 +19234,14 @@
     "rain_mm": 96.12,
     "soil_moisture": 0.701,
     "raw_dynamic_score": 15.787,
-    "last_updated": "2026-05-02T15:48:00.571526Z",
+    "last_updated": "2026-05-02T18:53:47.872238Z",
     "last_tweeted_at": "2026-05-02T13:00:27.840561Z",
     "tweet_id": "2050561355908878581",
-    "resolved": false
+    "resolved": false,
+    "pending_downgrade": true,
+    "pending_target_level": "Low",
+    "pending_set_at": "2026-05-02T18:53:47.872238Z",
+    "pending_is_region": true
   },
   "5.2833,-71.9667": {
     "country": "Colombia",
@@ -19249,7 +19253,7 @@
     "rain_mm": 49.69,
     "soil_moisture": 0.683,
     "raw_dynamic_score": 8.082,
-    "last_updated": "2026-05-02T13:00:27.840561Z",
+    "last_updated": "2026-05-02T18:53:47.872238Z",
     "last_tweeted_at": "2026-05-02T13:00:27.840561Z",
     "tweet_id": "2050561355908878581",
     "resolved": false
@@ -19264,7 +19268,7 @@
     "rain_mm": 74.38,
     "soil_moisture": 0.723,
     "raw_dynamic_score": 12.364,
-    "last_updated": "2026-05-02T13:00:27.840561Z",
+    "last_updated": "2026-05-02T18:53:47.872238Z",
     "last_tweeted_at": "2026-05-02T13:00:27.840561Z",
     "tweet_id": "2050561355908878581",
     "resolved": false
@@ -19279,9 +19283,54 @@
     "rain_mm": 96.12,
     "soil_moisture": 0.701,
     "raw_dynamic_score": 15.787,
-    "last_updated": "2026-05-02T13:00:27.840561Z",
+    "last_updated": "2026-05-02T18:53:47.872238Z",
     "last_tweeted_at": "2026-05-02T13:00:27.840561Z",
     "tweet_id": "2050561355908878581",
+    "resolved": false
+  },
+  "20.8583,92.2977": {
+    "country": "Bangladesh",
+    "name": "Teknāf",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 20.85829,
+    "longitude": 92.29773,
+    "rain_mm": 37.62,
+    "soil_moisture": 1.0,
+    "raw_dynamic_score": 7.196,
+    "last_updated": "2026-05-02T18:53:47.872238Z",
+    "last_tweeted_at": "2026-05-02T18:53:47.872238Z",
+    "tweet_id": "2050650015505289559",
+    "resolved": false
+  },
+  "7.9611,-6.6731": {
+    "country": "Côte d'Ivoire",
+    "name": "Séguéla",
+    "risk_level": "High",
+    "tweeted_level": "High",
+    "latitude": 7.96111,
+    "longitude": -6.67306,
+    "rain_mm": 95.31,
+    "soil_moisture": 0.58,
+    "raw_dynamic_score": 14.613,
+    "last_updated": "2026-05-02T18:53:47.872238Z",
+    "last_tweeted_at": "2026-05-02T18:53:47.872238Z",
+    "tweet_id": "2050650268027506828",
+    "resolved": false
+  },
+  "5.1328,-74.1598": {
+    "country": "Colombia",
+    "name": "Pacho",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 5.13278,
+    "longitude": -74.15977,
+    "rain_mm": 39.69,
+    "soil_moisture": 0.714,
+    "raw_dynamic_score": 6.565,
+    "last_updated": "2026-05-02T18:53:47.872238Z",
+    "last_tweeted_at": "2026-05-02T18:53:47.872238Z",
+    "tweet_id": "2050650520566550960",
     "resolved": false
   }
 }
