@@ -16348,5 +16348,45 @@
             "longitude": 21.5,
             "confidence": 0.95
         }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFByRkcyNjgzWkx0OF9EY2FsQmhoenRQUXNVWEo2Z2FUb0RWXzBfVmk5b0JwdDNLN042Q3l5Q08teS12WUE5SHFCUmh0UzFVcHR3bVJpSXk1cmEtUEN4cXVWbXZsQTNWeFFCdkpmNnpveEt2QkMyMlQ4NFlSNXpEQQ?oc=5",
+        "date": "2026-05-02",
+        "title": "Near-record high temps across South Florida ahead of rain chances to start the week, including Sunday flash flood chances - CBS News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTFByRkcyNjgzWkx0OF9EY2FsQmhoenRQUXNVWEo2Z2FUb0RWXzBfVmk5b0JwdDNLN042Q3l5Q08teS12WUE5SHFCUmh0UzFVcHR3bVJpSXk1cmEtUEN4cXVWbXZsQTNWeFFCdkpmNnpveEt2QkMyMlQ4NFlSNXpEQQ?oc=5\" target=\"_blank\">Near-record high temps across South Florida ahead of rain chances to start the week, including Sunday flash flood chances</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CBS News</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQeVlxVG90VUZ1bW9IMlRMVjRQOURJdE1qaFF1NTVNWXdueTlEckR6SDhHUHVneVZzcC10MVdnQlZwSnNQNjBwa2FsS3lVb0d2bDF5X0Nobk9BblNQQTlEYW5WZUVUZnlZVXpsd0dvTUhxZk1QZWVEQmtmbThfbEZyZFBiSFI1aS1CaFlSOF9IMjd2Smh1OFRLNmFKcVlEOFg3T1E0ak9xM2FqRlhvcUNoWWhwZWRsZG4ydS1jWmFQNllDaEtId0VWRkdrc2xUb29CYWdtdzZ1cGgxYUg0Wk5XSVg4UERSMDdHbkhNeG9laG1XMGJrU1N0V0RwWmY2QQ?oc=5",
+        "date": "2026-05-02",
+        "title": "Heavy Rains Flood San Antonio as Storms Sweep Central Texas Trigger Highway Chaos, Flash Flood Risk and Travel Disruption - Travel And Tour World",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_gFBVV95cUxQeVlxVG90VUZ1bW9IMlRMVjRQOURJdE1qaFF1NTVNWXdueTlEckR6SDhHUHVneVZzcC10MVdnQlZwSnNQNjBwa2FsS3lVb0d2bDF5X0Nobk9BblNQQTlEYW5WZUVUZnlZVXpsd0dvTUhxZk1QZWVEQmtmbThfbEZyZFBiSFI1aS1CaFlSOF9IMjd2Smh1OFRLNmFKcVlEOFg3T1E0ak9xM2FqRlhvcUNoWWhwZWRsZG4ydS1jWmFQNllDaEtId0VWRkdrc2xUb29CYWdtdzZ1cGgxYUg0Wk5XSVg4UERSMDdHbkhNeG9laG1XMGJrU1N0V0RwWmY2QQ?oc=5\" target=\"_blank\">Heavy Rains Flood San Antonio as Storms Sweep Central Texas Trigger Highway Chaos, Flash Flood Risk and Travel Disruption</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Travel And Tour World</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNTGdRcHQ1Mk5xdGVyNjlLMFc3NnlsRjQ1YmNGT1RxOGx6RjZqaVYyenJTOG83R0d6YXk4eFZVNm5KcDIzR1VlLUhFNzFrc09BZmVLZFgxMHZvTk90V01WZmFXVzVsUTVlYkQ3NlhTUFJpUFpSSU8xQ0doN1VlRHhrMl8yc21RQnpkeFF2c1VkN3Nqam9QX3RHT3A3U0NIYWoxcG1xd0NkR2xkcmYtNUdfYmNSNmx2U05pZksxd3lkMFJ5Wlk?oc=5",
+        "date": "2026-05-02",
+        "title": "Deadly flash flooding in Texas - MSN",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxNTGdRcHQ1Mk5xdGVyNjlLMFc3NnlsRjQ1YmNGT1RxOGx6RjZqaVYyenJTOG83R0d6YXk4eFZVNm5KcDIzR1VlLUhFNzFrc09BZmVLZFgxMHZvTk90V01WZmFXVzVsUTVlYkQ3NlhTUFJpUFpSSU8xQ0doN1VlRHhrMl8yc21RQnpkeFF2c1VkN3Nqam9QX3RHT3A3U0NIYWoxcG1xd0NkR2xkcmYtNUdfYmNSNmx2U05pZksxd3lkMFJ5Wlk?oc=5\" target=\"_blank\">Deadly flash flooding in Texas</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOdHpTYUtFTmhMM2ZtanBFc21WeTl1Qll1ZjMycnpxUEZwQ0ZCY1pWM0N2VnA5Y0kzY2RVT2wyeUpHUUFFOFMtNHpOaEJJeUQ5MnhvMEZyV1lvY2VEMzJhU3FBcTRsT1dXRjdMWUM1YWJWVGgyd1Z5Zks0S3p0WTVHdU9ta1hPaTdjY251dGZGTXJ0UlUzeWdJbkJ5aTlJSGlySENHeUkwU2hJb09pbzBwZ2RsejZ6dTJZRjIwMnNUMmh1V1ZycnI0WGFqT2RaTWg0aEVfM3FPLVlrZw?oc=5",
+        "date": "2026-05-02",
+        "title": "Indiana government, sports leaders kick off Indy 500 celebrations - WTHI-TV",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxOdHpTYUtFTmhMM2ZtanBFc21WeTl1Qll1ZjMycnpxUEZwQ0ZCY1pWM0N2VnA5Y0kzY2RVT2wyeUpHUUFFOFMtNHpOaEJJeUQ5MnhvMEZyV1lvY2VEMzJhU3FBcTRsT1dXRjdMWUM1YWJWVGgyd1Z5Zks0S3p0WTVHdU9ta1hPaTdjY251dGZGTXJ0UlUzeWdJbkJ5aTlJSGlySENHeUkwU2hJb09pbzBwZ2RsejZ6dTJZRjIwMnNUMmh1V1ZycnI0WGFqT2RaTWg0aEVfM3FPLVlrZw?oc=5\" target=\"_blank\">Indiana government, sports leaders kick off Indy 500 celebrations</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WTHI-TV</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
     }
 ]
