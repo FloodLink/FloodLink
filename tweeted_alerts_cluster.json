@@ -4044,7 +4044,7 @@
     "rain_mm": 36.56,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 6.993,
-    "last_updated": "2026-02-22T21:22:25.887891Z",
+    "last_updated": "2026-05-02T10:03:43.153783Z",
     "last_tweeted_at": "2026-02-03T09:37:36.679670Z",
     "tweet_id": "2018620410858819828",
     "resolved": false
@@ -4982,17 +4982,18 @@
   "11.2468,124.0146": {
     "country": "Philippines",
     "name": "Daanbantayan",
-    "risk_level": "High",
-    "tweeted_level": "High",
+    "risk_level": "Low",
+    "tweeted_level": "Low",
     "latitude": 11.24681,
     "longitude": 124.01462,
-    "rain_mm": 95.31,
+    "rain_mm": 0.06,
     "soil_moisture": 1.0,
-    "raw_dynamic_score": 18.229,
-    "last_updated": "2026-05-02T05:38:37.370955Z",
-    "last_tweeted_at": "2026-02-09T18:51:30.522011Z",
-    "tweet_id": "2020934139705278965",
-    "resolved": false
+    "raw_dynamic_score": 0.012,
+    "last_updated": "2026-05-02T10:03:43.153783Z",
+    "last_tweeted_at": "2026-05-02T10:03:43.153783Z",
+    "tweet_id": "2050516859875709236",
+    "resolved": true,
+    "resolved_at": "2026-05-02T10:03:43.153783Z"
   },
   "39.3790,22.9275": {
     "country": "Greece",
@@ -5012,17 +5013,18 @@
   "11.1683,123.7223": {
     "country": "Philippines",
     "name": "Bantayan",
-    "risk_level": "High",
-    "tweeted_level": "High",
+    "risk_level": "Low",
+    "tweeted_level": "Low",
     "latitude": 11.1683,
     "longitude": 123.7223,
-    "rain_mm": 98.81,
+    "rain_mm": 0.56,
     "soil_moisture": 1.0,
-    "raw_dynamic_score": 18.898,
-    "last_updated": "2026-02-10T05:03:13.731613Z",
-    "last_tweeted_at": "2026-02-09T18:51:30.522011Z",
-    "tweet_id": "2020934139705278965",
-    "resolved": false
+    "raw_dynamic_score": 0.108,
+    "last_updated": "2026-05-02T10:03:43.153783Z",
+    "last_tweeted_at": "2026-05-02T10:03:43.153783Z",
+    "tweet_id": "2050516859875709236",
+    "resolved": true,
+    "resolved_at": "2026-05-02T10:03:43.153783Z"
   },
   "39.3692,22.9477": {
     "country": "Greece",
@@ -6714,7 +6716,7 @@
     "rain_mm": 40.19,
     "soil_moisture": 0.727,
     "raw_dynamic_score": 6.696,
-    "last_updated": "2026-05-02T05:38:37.370955Z",
+    "last_updated": "2026-05-02T10:03:43.153783Z",
     "last_tweeted_at": "2026-02-22T09:28:29.299490Z",
     "tweet_id": "2025502993169125527",
     "resolved": false
@@ -11484,7 +11486,7 @@
     "rain_mm": 68.38,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 13.077,
-    "last_updated": "2026-05-02T07:30:16.357109Z",
+    "last_updated": "2026-05-02T10:03:43.153783Z",
     "last_tweeted_at": "2026-05-02T07:30:16.357109Z",
     "tweet_id": "2050478506962980878",
     "resolved": false
@@ -17919,7 +17921,7 @@
     "rain_mm": 53.75,
     "soil_moisture": 0.728,
     "raw_dynamic_score": 8.96,
-    "last_updated": "2026-05-02T05:38:37.370955Z",
+    "last_updated": "2026-05-02T10:03:43.153783Z",
     "last_tweeted_at": "2026-04-29T13:35:46.535837Z",
     "tweet_id": "2049482821501079656",
     "resolved": false
@@ -19138,7 +19140,7 @@
     "rain_mm": 45.94,
     "soil_moisture": 0.594,
     "raw_dynamic_score": 7.102,
-    "last_updated": "2026-05-02T07:30:16.357109Z",
+    "last_updated": "2026-05-02T10:03:43.153783Z",
     "last_tweeted_at": "2026-05-02T07:30:16.357109Z",
     "tweet_id": "2050478002203697611",
     "resolved": false
@@ -19153,7 +19155,7 @@
     "rain_mm": 51.5,
     "soil_moisture": 0.576,
     "raw_dynamic_score": 7.878,
-    "last_updated": "2026-05-02T07:30:16.357109Z",
+    "last_updated": "2026-05-02T10:03:43.153783Z",
     "last_tweeted_at": "2026-05-02T07:30:16.357109Z",
     "tweet_id": "2050478254507835548",
     "resolved": false
@@ -19168,9 +19170,39 @@
     "rain_mm": 50.12,
     "soil_moisture": 0.695,
     "raw_dynamic_score": 8.204,
-    "last_updated": "2026-05-02T07:30:16.357109Z",
+    "last_updated": "2026-05-02T10:03:43.153783Z",
     "last_tweeted_at": "2026-05-02T07:30:16.357109Z",
     "tweet_id": "2050478759413940406",
+    "resolved": false
+  },
+  "29.2947,117.2079": {
+    "country": "China",
+    "name": "Jingdezhen",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 29.2947,
+    "longitude": 117.20789,
+    "rain_mm": 51.19,
+    "soil_moisture": 0.71,
+    "raw_dynamic_score": 8.45,
+    "last_updated": "2026-05-02T10:03:43.153783Z",
+    "last_tweeted_at": "2026-05-02T10:03:43.153783Z",
+    "tweet_id": "2050516607319822675",
+    "resolved": false
+  },
+  "9.9361,43.1828": {
+    "country": "Somalia",
+    "name": "Borama",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 9.93611,
+    "longitude": 43.18278,
+    "rain_mm": 60.19,
+    "soil_moisture": 0.643,
+    "raw_dynamic_score": 9.569,
+    "last_updated": "2026-05-02T10:03:43.153783Z",
+    "last_tweeted_at": "2026-05-02T10:03:43.153783Z",
+    "tweet_id": "2050517112528019514",
     "resolved": false
   }
 }
