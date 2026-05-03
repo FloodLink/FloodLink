@@ -15719,5 +15719,14 @@
         "tweet": "\ud83c\uddf3\ud83c\uddf1 The Netherlands maintains 26,000 km of dikes and levees, protecting 17 million residents from coastal and river floods in 2026.",
         "type": "infrastructure",
         "tweet_id": "2050901002912514204"
+    },
+    {
+        "link": null,
+        "date": "2026-05-03",
+        "status": "posted",
+        "tweet": "By 2030, 1.3 billion people in urban areas worldwide will face heightened risks from river flooding and extreme rainfall, a 30% rise from 2020 due to urbanization and climate change.",
+        "type": "statistical",
+        "category": "urban areas exposed to river flooding",
+        "tweet_id": "2050939125583192429"
     }
 ]
