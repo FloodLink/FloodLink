@@ -15681,5 +15681,35 @@
         "score": 0,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQWU56dk5OV3ZwMmtKVzFKYlc5bEN5Z3c0M0FQRDVrQXZwQkRoVWc1UnZ5Zm4wak5YZFoxeUh4Nmt1UXJjSVVpWHU3OG9fODAxd2ZLUDNDaVVHejNoUlQ2SzEtVi02RnRieFdpMUZmY0VrVGJqZEZ5TmhvMVQ2allIZW1KZHpLNDVuYURsX01uZWtKWlBvYXhFNXVvcHp4eEhjQ2U4VVdzZjlTcXNpaExZME5EUkhxR3pQZ2NoeUJXOWpqYVBoT3Z6eEtmeUI2cEVEdUdBUw?oc=5",
+        "date": "2026-05-03",
+        "title": "Cheboygan and Emmet counties under a flood warning until Thursday evening caused by rain - MLive.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxQWU56dk5OV3ZwMmtKVzFKYlc5bEN5Z3c0M0FQRDVrQXZwQkRoVWc1UnZ5Zm4wak5YZFoxeUh4Nmt1UXJjSVVpWHU3OG9fODAxd2ZLUDNDaVVHejNoUlQ2SzEtVi02RnRieFdpMUZmY0VrVGJqZEZ5TmhvMVQ2allIZW1KZHpLNDVuYURsX01uZWtKWlBvYXhFNXVvcHp4eEhjQ2U4VVdzZjlTcXNpaExZME5EUkhxR3pQZ2NoeUJXOWpqYVBoT3Z6eEtmeUI2cEVEdUdBUw?oc=5\" target=\"_blank\">Cheboygan and Emmet counties under a flood warning until Thursday evening caused by rain</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MLive.com</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQTJFOFhGLWNsQWFzRW5MSGFBQ3BJNFNpNEdNcHJDS0JZR0tKSFcyM25VSGxBeUV1QWtocHNDODluUnJUVndFQlVIdDRoOGhxNUh4aDUxUnROazY5YnJiektIU3JQeDE4Y3p2d0ptUEdnVjZnZWNlelRhUl9vbW0wekN5NFpHRjJxU0EwTkhRdUU0T21aLUZCWXg0WDVHaXVQ?oc=5",
+        "date": "2026-05-03",
+        "title": "Flash flooding kills at least one person in Texas - NBC News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNQTJFOFhGLWNsQWFzRW5MSGFBQ3BJNFNpNEdNcHJDS0JZR0tKSFcyM25VSGxBeUV1QWtocHNDODluUnJUVndFQlVIdDRoOGhxNUh4aDUxUnROazY5YnJiektIU3JQeDE4Y3p2d0ptUEdnVjZnZWNlelRhUl9vbW0wekN5NFpHRjJxU0EwTkhRdUU0T21aLUZCWXg0WDVHaXVQ?oc=5\" target=\"_blank\">Flash flooding kills at least one person in Texas</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NBC News</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNFotSkdwWHlITWNRejh1T2NWOXRqRmg5eTREZ29KTlJScXE1V1kyYXR3MmVwZGpock1YQXg4VFcxZXlfWGpRWXJGM1NabG9QYUlOYUlhQlhQQmVkOXpzT3pteGRXanFKOGtPTDJtcVlNc0hGaXBaWFQxUDh4SHlJbWNlaW80LVdMS3ljd1d6NFpsMHlBQU1YUVhhQ3BuYVU5Q09TbWxCenU5cUU?oc=5",
+        "date": "2026-05-03",
+        "title": "Lower Kohistan on alert ahead of monsoon rains - Pakistan Today",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNFotSkdwWHlITWNRejh1T2NWOXRqRmg5eTREZ29KTlJScXE1V1kyYXR3MmVwZGpock1YQXg4VFcxZXlfWGpRWXJGM1NabG9QYUlOYUlhQlhQQmVkOXpzT3pteGRXanFKOGtPTDJtcVlNc0hGaXBaWFQxUDh4SHlJbWNlaW80LVdMS3ljd1d6NFpsMHlBQU1YUVhhQ3BuYVU5Q09TbWxCenU5cUU?oc=5\" target=\"_blank\">Lower Kohistan on alert ahead of monsoon rains</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Pakistan Today</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
     }
 ]
