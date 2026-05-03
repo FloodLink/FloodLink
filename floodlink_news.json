@@ -15815,5 +15815,14 @@
             "longitude": -34.88,
             "confidence": 0.95
         }
+    },
+    {
+        "link": null,
+        "date": "2026-05-03",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 In the US, 30 million people (9% of pop.) live in 100-year floodplains (2023 FEMA).  \n\ud83c\uddee\ud83c\uddf3 In India, 300 million (21% of pop.) face river flood & extreme rainfall risks (2024 World Bank est.).  \nUrban growth amplifies exposure in both by 2030.",
+        "type": "statistical",
+        "category": "population living in floodplains",
+        "tweet_id": "2051024652672114942"
     }
 ]
