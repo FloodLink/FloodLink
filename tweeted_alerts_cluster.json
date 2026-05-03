@@ -12253,7 +12253,7 @@
     "rain_mm": 42.88,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 8.2,
-    "last_updated": "2026-03-30T21:42:41.534230Z",
+    "last_updated": "2026-05-03T15:47:59.936370Z",
     "last_tweeted_at": "2026-03-30T21:42:41.534230Z",
     "tweet_id": "2038733969772957920",
     "resolved": false
@@ -12463,7 +12463,7 @@
     "rain_mm": 40.19,
     "soil_moisture": 0.718,
     "raw_dynamic_score": 6.664,
-    "last_updated": "2026-05-03T10:08:33.920866Z",
+    "last_updated": "2026-05-03T15:47:59.936370Z",
     "last_tweeted_at": "2026-03-30T21:42:41.534230Z",
     "tweet_id": "2038734475354411191",
     "resolved": false
@@ -15074,7 +15074,7 @@
     "rain_mm": 43.25,
     "soil_moisture": 0.721,
     "raw_dynamic_score": 7.183,
-    "last_updated": "2026-05-03T10:08:33.920866Z",
+    "last_updated": "2026-05-03T15:47:59.936370Z",
     "last_tweeted_at": "2026-04-09T16:21:38.585281Z",
     "tweet_id": "2042277558985601050",
     "resolved": false
@@ -16367,7 +16367,7 @@
     "rain_mm": 46.0,
     "soil_moisture": 0.616,
     "raw_dynamic_score": 7.2,
-    "last_updated": "2026-05-03T10:08:33.920866Z",
+    "last_updated": "2026-05-03T15:47:59.936370Z",
     "last_tweeted_at": "2026-04-18T12:51:37.540602Z",
     "tweet_id": "2045485433727959242",
     "resolved": false
@@ -17195,17 +17195,18 @@
   "-0.9736,-62.9269": {
     "country": "Brazil",
     "name": "Barcelos",
-    "risk_level": "High",
+    "risk_level": "Low",
     "tweeted_level": "High",
     "latitude": -0.97357,
     "longitude": -62.9269,
-    "rain_mm": 83.94,
-    "soil_moisture": 0.75,
-    "raw_dynamic_score": 14.158,
-    "last_updated": "2026-04-22T21:52:22.819859Z",
-    "last_tweeted_at": "2026-04-22T21:52:22.819859Z",
-    "tweet_id": "2047071074878189939",
-    "resolved": false
+    "rain_mm": 3.5,
+    "soil_moisture": 0.617,
+    "raw_dynamic_score": 0.548,
+    "last_updated": "2026-05-03T15:47:59.936370Z",
+    "last_tweeted_at": "2026-05-03T15:47:59.936370Z",
+    "tweet_id": "2050965637342560546",
+    "resolved": true,
+    "resolved_at": "2026-05-03T15:47:59.936370Z"
   },
   "33.2866,134.1683": {
     "country": "Japan",
@@ -19844,16 +19845,16 @@
   "-2.5364,-57.7600": {
     "country": "Brazil",
     "name": "Urucará",
-    "risk_level": "Medium",
-    "tweeted_level": "Medium",
+    "risk_level": "High",
+    "tweeted_level": "High",
     "latitude": -2.53639,
     "longitude": -57.76,
-    "rain_mm": 46.5,
-    "soil_moisture": 0.71,
-    "raw_dynamic_score": 7.676,
-    "last_updated": "2026-05-03T13:00:46.833562Z",
-    "last_tweeted_at": "2026-05-03T13:00:46.833562Z",
-    "tweet_id": "2050923563121525034",
+    "rain_mm": 102.56,
+    "soil_moisture": 0.738,
+    "raw_dynamic_score": 17.186,
+    "last_updated": "2026-05-03T15:47:59.936370Z",
+    "last_tweeted_at": "2026-05-03T15:47:59.936370Z",
+    "tweet_id": "2050965637342560546",
     "resolved": false
   },
   "-4.1289,104.1669": {
@@ -19866,7 +19867,7 @@
     "rain_mm": 40.88,
     "soil_moisture": 0.726,
     "raw_dynamic_score": 6.804,
-    "last_updated": "2026-05-03T13:00:46.833562Z",
+    "last_updated": "2026-05-03T15:47:59.936370Z",
     "last_tweeted_at": "2026-05-03T13:00:46.833562Z",
     "tweet_id": "2050923815568310572",
     "resolved": false
@@ -19881,7 +19882,7 @@
     "rain_mm": 44.31,
     "soil_moisture": 0.598,
     "raw_dynamic_score": 6.866,
-    "last_updated": "2026-05-03T13:00:46.833562Z",
+    "last_updated": "2026-05-03T15:47:59.936370Z",
     "last_tweeted_at": "2026-05-03T13:00:46.833562Z",
     "tweet_id": "2050924067822125474",
     "resolved": false
@@ -19941,7 +19942,7 @@
     "rain_mm": 44.31,
     "soil_moisture": 0.598,
     "raw_dynamic_score": 6.866,
-    "last_updated": "2026-05-03T13:00:46.833562Z",
+    "last_updated": "2026-05-03T15:47:59.936370Z",
     "last_tweeted_at": "2026-05-03T13:00:46.833562Z",
     "tweet_id": "2050924320147353819",
     "resolved": false
@@ -19971,7 +19972,7 @@
     "rain_mm": 46.69,
     "soil_moisture": 0.618,
     "raw_dynamic_score": 7.319,
-    "last_updated": "2026-05-03T13:00:46.833562Z",
+    "last_updated": "2026-05-03T15:47:59.936370Z",
     "last_tweeted_at": "2026-05-03T13:00:46.833562Z",
     "tweet_id": "2050924572417921461",
     "resolved": false
@@ -20001,7 +20002,7 @@
     "rain_mm": 44.31,
     "soil_moisture": 0.598,
     "raw_dynamic_score": 6.866,
-    "last_updated": "2026-05-03T13:00:46.833562Z",
+    "last_updated": "2026-05-03T15:47:59.936370Z",
     "last_tweeted_at": "2026-05-03T13:00:46.833562Z",
     "tweet_id": "2050924824743043499",
     "resolved": false
@@ -20031,7 +20032,7 @@
     "rain_mm": 46.69,
     "soil_moisture": 0.641,
     "raw_dynamic_score": 7.413,
-    "last_updated": "2026-05-03T13:00:46.833562Z",
+    "last_updated": "2026-05-03T15:47:59.936370Z",
     "last_tweeted_at": "2026-05-03T13:00:46.833562Z",
     "tweet_id": "2050925077042991236",
     "resolved": false
@@ -20049,6 +20050,36 @@
     "last_updated": "2026-05-03T13:00:46.833562Z",
     "last_tweeted_at": "2026-05-03T13:00:46.833562Z",
     "tweet_id": "2050925077042991236",
+    "resolved": false
+  },
+  "-2.0344,-60.0250": {
+    "country": "Brazil",
+    "name": "Presidente Figueiredo",
+    "risk_level": "Medium",
+    "tweeted_level": "High",
+    "latitude": -2.03444,
+    "longitude": -60.025,
+    "rain_mm": 44.38,
+    "soil_moisture": 0.69,
+    "raw_dynamic_score": 7.244,
+    "last_updated": "2026-05-03T15:47:59.936370Z",
+    "last_tweeted_at": "2026-05-03T15:47:59.936370Z",
+    "tweet_id": "2050965637342560546",
+    "resolved": false
+  },
+  "9.3500,42.8000": {
+    "country": "Ethiopia",
+    "name": "Jijiga",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 9.35,
+    "longitude": 42.8,
+    "rain_mm": 41.0,
+    "soil_moisture": 0.644,
+    "raw_dynamic_score": 6.522,
+    "last_updated": "2026-05-03T15:47:59.936370Z",
+    "last_tweeted_at": "2026-05-03T15:47:59.936370Z",
+    "tweet_id": "2050965890007536025",
     "resolved": false
   }
 }
