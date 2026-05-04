@@ -11399,22 +11399,6 @@
     "tweet_id": "2037558041466266082",
     "resolved": false
   },
-  "22.6876,90.6440": {
-    "country": "Bangladesh",
-    "name": "Bhola",
-    "risk_level": "Low",
-    "tweeted_level": "Low",
-    "latitude": 22.68759,
-    "longitude": 90.64403,
-    "rain_mm": 17.81,
-    "soil_moisture": 1.0,
-    "raw_dynamic_score": 3.407,
-    "last_updated": "2026-05-03T07:58:58.004230Z",
-    "last_tweeted_at": "2026-05-03T07:58:58.004230Z",
-    "tweet_id": "2050847609246392346",
-    "resolved": true,
-    "resolved_at": "2026-05-03T07:58:58.004230Z"
-  },
   "-12.6719,-69.3555": {
     "country": "Peru",
     "name": "Tambopata",
@@ -18194,7 +18178,7 @@
     "rain_mm": 48.94,
     "soil_moisture": 0.47,
     "raw_dynamic_score": 7.018,
-    "last_updated": "2026-04-30T13:33:12.022000Z",
+    "last_updated": "2026-05-04T08:30:45.881857Z",
     "last_tweeted_at": "2026-04-30T10:57:50.571012Z",
     "tweet_id": "2049805448933756962",
     "resolved": false
@@ -19888,7 +19872,7 @@
     "rain_mm": 38.12,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 7.291,
-    "last_updated": "2026-05-04T02:14:03.641540Z",
+    "last_updated": "2026-05-04T08:30:45.881857Z",
     "last_tweeted_at": "2026-05-04T02:14:03.641540Z",
     "tweet_id": "2051123451541250491",
     "resolved": false
@@ -19906,6 +19890,21 @@
     "last_updated": "2026-05-04T06:05:47.966274Z",
     "last_tweeted_at": "2026-05-04T06:05:47.966274Z",
     "tweet_id": "2051181515426422931",
+    "resolved": false
+  },
+  "8.5778,81.2289": {
+    "country": "Sri Lanka",
+    "name": "Trincomalee",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 8.5778,
+    "longitude": 81.2289,
+    "rain_mm": 37.62,
+    "soil_moisture": 1.0,
+    "raw_dynamic_score": 7.196,
+    "last_updated": "2026-05-04T08:30:45.881857Z",
+    "last_tweeted_at": "2026-05-04T08:30:45.881857Z",
+    "tweet_id": "2051217991636066541",
     "resolved": false
   }
 }
