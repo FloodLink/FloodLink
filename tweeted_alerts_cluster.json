@@ -17024,22 +17024,6 @@
     "tweet_id": "2047030621512339792",
     "resolved": false
   },
-  "-0.9736,-62.9269": {
-    "country": "Brazil",
-    "name": "Barcelos",
-    "risk_level": "Low",
-    "tweeted_level": "High",
-    "latitude": -0.97357,
-    "longitude": -62.9269,
-    "rain_mm": 3.5,
-    "soil_moisture": 0.617,
-    "raw_dynamic_score": 0.548,
-    "last_updated": "2026-05-03T15:47:59.936370Z",
-    "last_tweeted_at": "2026-05-03T15:47:59.936370Z",
-    "tweet_id": "2050965637342560546",
-    "resolved": true,
-    "resolved_at": "2026-05-03T15:47:59.936370Z"
-  },
   "33.2866,134.1683": {
     "country": "Japan",
     "name": "Muroto-misakicho",
@@ -17770,7 +17754,7 @@
     "rain_mm": 49.5,
     "soil_moisture": 0.435,
     "raw_dynamic_score": 6.941,
-    "last_updated": "2026-05-04T13:35:42.928593Z",
+    "last_updated": "2026-05-04T16:35:18.776737Z",
     "last_tweeted_at": "2026-04-29T13:35:46.535837Z",
     "tweet_id": "2049483578661011904",
     "resolved": false
@@ -18070,7 +18054,7 @@
     "rain_mm": 45.19,
     "soil_moisture": 0.559,
     "raw_dynamic_score": 6.843,
-    "last_updated": "2026-05-04T13:35:42.928593Z",
+    "last_updated": "2026-05-04T16:35:18.776737Z",
     "last_tweeted_at": "2026-04-30T06:00:14.198215Z",
     "tweet_id": "2049730816477999301",
     "resolved": false
@@ -19790,18 +19774,18 @@
     "rain_mm": 136.12,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 26.034,
-    "last_updated": "2026-05-04T13:35:42.928593Z",
+    "last_updated": "2026-05-04T16:35:18.776737Z",
     "last_tweeted_at": "2026-05-04T11:07:12.812571Z",
     "tweet_id": "2051257617952182776",
     "resolved": false,
     "pending_downgrade": true,
-    "pending_target_level": "High",
-    "pending_set_at": "2026-05-04T13:35:42.928593Z",
+    "pending_target_level": "None",
+    "pending_set_at": "2026-05-04T16:35:18.776737Z",
     "pending_is_region": false,
-    "pending_observed_level": "High",
-    "pending_observed_rain_mm": 103.19,
+    "pending_observed_level": "None",
+    "pending_observed_rain_mm": 0.0,
     "pending_observed_soil_moisture": 1.0,
-    "pending_observed_raw_dynamic_score": 19.735
+    "pending_observed_raw_dynamic_score": 0.0
   },
   "44.1249,4.0808": {
     "country": "France",
