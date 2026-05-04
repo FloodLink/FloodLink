@@ -19445,25 +19445,18 @@
   "-0.1934,-74.7819": {
     "country": "Colombia",
     "name": "Puerto Leguízamo",
-    "risk_level": "High",
-    "tweeted_level": "High",
+    "risk_level": "Low",
+    "tweeted_level": "Low",
     "latitude": -0.19337,
     "longitude": -74.78189,
-    "rain_mm": 87.75,
-    "soil_moisture": 0.719,
-    "raw_dynamic_score": 14.559,
-    "last_updated": "2026-05-03T10:08:33.920866Z",
-    "last_tweeted_at": "2026-05-03T06:00:06.798852Z",
-    "tweet_id": "2050817950009991556",
-    "resolved": false,
-    "pending_downgrade": true,
-    "pending_target_level": "Low",
-    "pending_set_at": "2026-05-03T10:08:33.920866Z",
-    "pending_is_region": false,
-    "pending_observed_level": "Low",
-    "pending_observed_rain_mm": 10.0,
-    "pending_observed_soil_moisture": 0.675,
-    "pending_observed_raw_dynamic_score": 1.619
+    "rain_mm": 0.25,
+    "soil_moisture": 0.621,
+    "raw_dynamic_score": 0.039,
+    "last_updated": "2026-05-04T06:05:47.966274Z",
+    "last_tweeted_at": "2026-05-04T06:05:47.966274Z",
+    "tweet_id": "2051181768229654871",
+    "resolved": true,
+    "resolved_at": "2026-05-04T06:05:47.966274Z"
   },
   "34.8904,135.8032": {
     "country": "Japan",
@@ -19625,7 +19618,7 @@
     "rain_mm": 102.56,
     "soil_moisture": 0.738,
     "raw_dynamic_score": 17.186,
-    "last_updated": "2026-05-04T02:14:03.641540Z",
+    "last_updated": "2026-05-04T06:05:47.966274Z",
     "last_tweeted_at": "2026-05-03T15:47:59.936370Z",
     "tweet_id": "2050965637342560546",
     "resolved": false
@@ -19880,7 +19873,7 @@
     "rain_mm": 49.19,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 9.407,
-    "last_updated": "2026-05-04T02:14:03.641540Z",
+    "last_updated": "2026-05-04T06:05:47.966274Z",
     "last_tweeted_at": "2026-05-04T02:14:03.641540Z",
     "tweet_id": "2051123199098638697",
     "resolved": false
@@ -19898,6 +19891,21 @@
     "last_updated": "2026-05-04T02:14:03.641540Z",
     "last_tweeted_at": "2026-05-04T02:14:03.641540Z",
     "tweet_id": "2051123451541250491",
+    "resolved": false
+  },
+  "10.1503,76.7354": {
+    "country": "India",
+    "name": "Kuttampuzha",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 10.15033,
+    "longitude": 76.73544,
+    "rain_mm": 44.38,
+    "soil_moisture": 0.541,
+    "raw_dynamic_score": 6.649,
+    "last_updated": "2026-05-04T06:05:47.966274Z",
+    "last_tweeted_at": "2026-05-04T06:05:47.966274Z",
+    "tweet_id": "2051181515426422931",
     "resolved": false
   }
 }
