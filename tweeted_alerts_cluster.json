@@ -4029,10 +4029,18 @@
     "rain_mm": 77.19,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 14.762,
-    "last_updated": "2026-05-04T11:07:12.812571Z",
+    "last_updated": "2026-05-04T19:25:48.109572Z",
     "last_tweeted_at": "2026-05-04T11:07:12.812571Z",
     "tweet_id": "2051257365182468526",
-    "resolved": false
+    "resolved": false,
+    "pending_downgrade": true,
+    "pending_target_level": "Medium",
+    "pending_set_at": "2026-05-04T19:25:48.109572Z",
+    "pending_is_region": false,
+    "pending_observed_level": "Medium",
+    "pending_observed_rain_mm": 39.38,
+    "pending_observed_soil_moisture": 1.0,
+    "pending_observed_raw_dynamic_score": 7.53
   },
   "6.5519,124.0511": {
     "country": "Philippines",
@@ -18946,22 +18954,6 @@
     "resolved": true,
     "resolved_at": "2026-05-03T21:43:27.079363Z"
   },
-  "7.9611,-6.6731": {
-    "country": "Côte d'Ivoire",
-    "name": "Séguéla",
-    "risk_level": "Low",
-    "tweeted_level": "Low",
-    "latitude": 7.96111,
-    "longitude": -6.67306,
-    "rain_mm": 2.94,
-    "soil_moisture": 0.509,
-    "raw_dynamic_score": 0.432,
-    "last_updated": "2026-05-03T18:55:18.088386Z",
-    "last_tweeted_at": "2026-05-03T18:55:18.088386Z",
-    "tweet_id": "2051013035574087805",
-    "resolved": true,
-    "resolved_at": "2026-05-03T18:55:18.088386Z"
-  },
   "5.1328,-74.1598": {
     "country": "Colombia",
     "name": "Pacho",
@@ -19797,9 +19789,24 @@
     "rain_mm": 42.31,
     "soil_moisture": 0.675,
     "raw_dynamic_score": 6.851,
-    "last_updated": "2026-05-04T13:35:42.928593Z",
+    "last_updated": "2026-05-04T19:25:48.109572Z",
     "last_tweeted_at": "2026-05-04T13:35:42.928593Z",
     "tweet_id": "2051294740558106720",
+    "resolved": false
+  },
+  "8.6844,-12.5350": {
+    "country": "Sierra Leone",
+    "name": "Lunsar",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 8.68439,
+    "longitude": -12.53499,
+    "rain_mm": 44.12,
+    "soil_moisture": 0.556,
+    "raw_dynamic_score": 6.67,
+    "last_updated": "2026-05-04T19:25:48.109572Z",
+    "last_tweeted_at": "2026-05-04T19:25:48.109572Z",
+    "tweet_id": "2051382847043231795",
     "resolved": false
   }
 }
