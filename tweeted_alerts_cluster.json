@@ -14170,7 +14170,7 @@
     "rain_mm": 47.06,
     "soil_moisture": 0.734,
     "raw_dynamic_score": 7.871,
-    "last_updated": "2026-04-25T12:52:33.006457Z",
+    "last_updated": "2026-05-05T19:17:14.439737Z",
     "last_tweeted_at": "2026-04-06T15:46:33.743236Z",
     "tweet_id": "2041181057987354933",
     "resolved": false
@@ -18346,7 +18346,7 @@
     "rain_mm": 8.56,
     "soil_moisture": 0.612,
     "raw_dynamic_score": 1.337,
-    "last_updated": "2026-05-05T10:38:12.720481Z",
+    "last_updated": "2026-05-05T19:17:14.439737Z",
     "last_tweeted_at": "2026-05-05T02:13:40.806146Z",
     "tweet_id": "2051485491220938908",
     "resolved": true,
@@ -19980,16 +19980,16 @@
   "-21.1368,-175.2011": {
     "country": "Tonga",
     "name": "Nuku‘alofa",
-    "risk_level": "Medium",
-    "tweeted_level": "Medium",
+    "risk_level": "High",
+    "tweeted_level": "High",
     "latitude": -21.13683,
     "longitude": -175.20114,
-    "rain_mm": 53.0,
+    "rain_mm": 120.0,
     "soil_moisture": 1.0,
-    "raw_dynamic_score": 10.136,
-    "last_updated": "2026-05-05T13:28:50.626129Z",
-    "last_tweeted_at": "2026-05-05T13:28:50.626129Z",
-    "tweet_id": "2051655645443535314",
+    "raw_dynamic_score": 22.95,
+    "last_updated": "2026-05-05T19:17:14.439737Z",
+    "last_tweeted_at": "2026-05-05T19:17:14.439737Z",
+    "tweet_id": "2051743082362638412",
     "resolved": false
   },
   "50.0796,12.3739": {
@@ -20002,7 +20002,7 @@
     "rain_mm": 43.12,
     "soil_moisture": 0.564,
     "raw_dynamic_score": 6.55,
-    "last_updated": "2026-05-05T16:38:10.978151Z",
+    "last_updated": "2026-05-05T19:17:14.439737Z",
     "last_tweeted_at": "2026-05-05T16:38:10.978151Z",
     "tweet_id": "2051703041049743551",
     "resolved": false
@@ -20017,7 +20017,7 @@
     "rain_mm": 53.88,
     "soil_moisture": 0.389,
     "raw_dynamic_score": 7.329,
-    "last_updated": "2026-05-05T16:38:10.978151Z",
+    "last_updated": "2026-05-05T19:17:14.439737Z",
     "last_tweeted_at": "2026-05-05T16:38:10.978151Z",
     "tweet_id": "2051703293748158505",
     "resolved": false
@@ -20032,7 +20032,7 @@
     "rain_mm": 45.06,
     "soil_moisture": 0.486,
     "raw_dynamic_score": 6.527,
-    "last_updated": "2026-05-05T16:38:10.978151Z",
+    "last_updated": "2026-05-05T19:17:14.439737Z",
     "last_tweeted_at": "2026-05-05T16:38:10.978151Z",
     "tweet_id": "2051703546110996991",
     "resolved": false
