@@ -14663,5 +14663,14 @@
             "longitude": 106.8456,
             "confidence": 1.0
         }
+    },
+    {
+        "link": null,
+        "date": "2026-05-05",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 US urban areas: 41 million people exposed to river flooding in 2020, projected to rise 25% to 51 million by 2030 due to extreme rainfall.\n\n\ud83c\uddea\ud83c\uddfa Europe: 25 million exposed in 2020, up 15% to 29 million by 2030.\n\n(From 2023 FEMA & EEA reports)",
+        "type": "statistical",
+        "category": "urban areas exposed to river flooding",
+        "tweet_id": "2051559603863761377"
     }
 ]
