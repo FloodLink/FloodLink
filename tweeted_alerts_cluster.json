@@ -18346,19 +18346,11 @@
     "rain_mm": 8.56,
     "soil_moisture": 0.612,
     "raw_dynamic_score": 1.337,
-    "last_updated": "2026-05-05T19:17:14.439737Z",
+    "last_updated": "2026-05-05T22:15:05.856715Z",
     "last_tweeted_at": "2026-05-05T02:13:40.806146Z",
     "tweet_id": "2051485491220938908",
     "resolved": true,
-    "resolved_at": "2026-05-05T02:13:40.806146Z",
-    "pending_downgrade": true,
-    "pending_target_level": "Low",
-    "pending_set_at": "2026-05-05T10:38:12.720481Z",
-    "pending_is_region": false,
-    "pending_observed_level": "Low",
-    "pending_observed_rain_mm": 14.56,
-    "pending_observed_soil_moisture": 0.611,
-    "pending_observed_raw_dynamic_score": 2.274
+    "resolved_at": "2026-05-05T02:13:40.806146Z"
   },
   "-1.6741,29.2284": {
     "country": "The Democratic Republic of the Congo",
@@ -19980,16 +19972,16 @@
   "-21.1368,-175.2011": {
     "country": "Tonga",
     "name": "Nuku‘alofa",
-    "risk_level": "High",
-    "tweeted_level": "High",
+    "risk_level": "Extreme",
+    "tweeted_level": "Extreme",
     "latitude": -21.13683,
     "longitude": -175.20114,
-    "rain_mm": 120.0,
+    "rain_mm": 137.44,
     "soil_moisture": 1.0,
-    "raw_dynamic_score": 22.95,
-    "last_updated": "2026-05-05T19:17:14.439737Z",
-    "last_tweeted_at": "2026-05-05T19:17:14.439737Z",
-    "tweet_id": "2051743082362638412",
+    "raw_dynamic_score": 26.285,
+    "last_updated": "2026-05-05T22:15:05.856715Z",
+    "last_tweeted_at": "2026-05-05T22:15:05.856715Z",
+    "tweet_id": "2051787830662422738",
     "resolved": false
   },
   "50.0796,12.3739": {
@@ -20035,6 +20027,36 @@
     "last_updated": "2026-05-05T19:17:14.439737Z",
     "last_tweeted_at": "2026-05-05T16:38:10.978151Z",
     "tweet_id": "2051703546110996991",
+    "resolved": false
+  },
+  "-34.0527,23.3716": {
+    "country": "South Africa",
+    "name": "Plettenberg Bay",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": -34.05274,
+    "longitude": 23.3716,
+    "rain_mm": 51.75,
+    "soil_moisture": 0.594,
+    "raw_dynamic_score": 8.002,
+    "last_updated": "2026-05-05T22:15:05.856715Z",
+    "last_tweeted_at": "2026-05-05T22:15:05.856715Z",
+    "tweet_id": "2051788083037966740",
+    "resolved": false
+  },
+  "-34.0363,23.0471": {
+    "country": "South Africa",
+    "name": "Knysna",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": -34.03627,
+    "longitude": 23.04713,
+    "rain_mm": 44.38,
+    "soil_moisture": 0.595,
+    "raw_dynamic_score": 6.863,
+    "last_updated": "2026-05-05T22:15:05.856715Z",
+    "last_tweeted_at": "2026-05-05T22:15:05.856715Z",
+    "tweet_id": "2051788083037966740",
     "resolved": false
   }
 }
