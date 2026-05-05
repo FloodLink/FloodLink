@@ -19919,10 +19919,18 @@
     "rain_mm": 85.56,
     "soil_moisture": 0.471,
     "raw_dynamic_score": 12.279,
-    "last_updated": "2026-05-05T13:28:50.626129Z",
+    "last_updated": "2026-05-05T16:38:10.978151Z",
     "last_tweeted_at": "2026-05-05T08:06:34.823840Z",
     "tweet_id": "2051574292698067351",
-    "resolved": false
+    "resolved": false,
+    "pending_downgrade": true,
+    "pending_target_level": "None",
+    "pending_set_at": "2026-05-05T16:38:10.978151Z",
+    "pending_is_region": false,
+    "pending_observed_level": "None",
+    "pending_observed_rain_mm": 0.0,
+    "pending_observed_soil_moisture": 0.512,
+    "pending_observed_raw_dynamic_score": 0.0
   },
   "11.4282,106.6354": {
     "country": "Viet Nam",
@@ -19949,7 +19957,7 @@
     "rain_mm": 65.31,
     "soil_moisture": 0.4,
     "raw_dynamic_score": 8.954,
-    "last_updated": "2026-05-05T13:28:50.626129Z",
+    "last_updated": "2026-05-05T16:38:10.978151Z",
     "last_tweeted_at": "2026-05-05T13:28:50.626129Z",
     "tweet_id": "2051655392971702421",
     "resolved": false
@@ -19982,6 +19990,51 @@
     "last_updated": "2026-05-05T13:28:50.626129Z",
     "last_tweeted_at": "2026-05-05T13:28:50.626129Z",
     "tweet_id": "2051655645443535314",
+    "resolved": false
+  },
+  "50.0796,12.3739": {
+    "country": "Czechia",
+    "name": "Cheb",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 50.07963,
+    "longitude": 12.37392,
+    "rain_mm": 43.12,
+    "soil_moisture": 0.564,
+    "raw_dynamic_score": 6.55,
+    "last_updated": "2026-05-05T16:38:10.978151Z",
+    "last_tweeted_at": "2026-05-05T16:38:10.978151Z",
+    "tweet_id": "2051703041049743551",
+    "resolved": false
+  },
+  "7.9702,3.5963": {
+    "country": "Nigeria",
+    "name": "Iseyin",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 7.97022,
+    "longitude": 3.59626,
+    "rain_mm": 53.88,
+    "soil_moisture": 0.389,
+    "raw_dynamic_score": 7.329,
+    "last_updated": "2026-05-05T16:38:10.978151Z",
+    "last_tweeted_at": "2026-05-05T16:38:10.978151Z",
+    "tweet_id": "2051703293748158505",
+    "resolved": false
+  },
+  "-32.2522,24.5308": {
+    "country": "South Africa",
+    "name": "Graaff Reinet",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": -32.25215,
+    "longitude": 24.53075,
+    "rain_mm": 45.06,
+    "soil_moisture": 0.486,
+    "raw_dynamic_score": 6.527,
+    "last_updated": "2026-05-05T16:38:10.978151Z",
+    "last_tweeted_at": "2026-05-05T16:38:10.978151Z",
+    "tweet_id": "2051703546110996991",
     "resolved": false
   }
 }
