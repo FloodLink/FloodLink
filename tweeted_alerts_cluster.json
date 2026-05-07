@@ -21430,7 +21430,7 @@
     "rain_mm": 45.0,
     "soil_moisture": 0.547,
     "raw_dynamic_score": 6.766,
-    "last_updated": "2026-05-07T11:11:39.272638Z",
+    "last_updated": "2026-05-07T13:54:40.484048Z",
     "last_tweeted_at": "2026-05-07T11:11:39.272638Z",
     "tweet_id": "2052345894519918853",
     "resolved": false
@@ -21460,9 +21460,39 @@
     "rain_mm": 43.31,
     "soil_moisture": 0.671,
     "raw_dynamic_score": 6.998,
-    "last_updated": "2026-05-07T11:11:39.272638Z",
+    "last_updated": "2026-05-07T13:54:40.484048Z",
     "last_tweeted_at": "2026-05-07T11:11:39.272638Z",
     "tweet_id": "2052346146983477715",
+    "resolved": false
+  },
+  "23.7000,113.0333": {
+    "country": "China",
+    "name": "Qingyuan",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 23.7,
+    "longitude": 113.03333,
+    "rain_mm": 43.5,
+    "soil_moisture": 0.589,
+    "raw_dynamic_score": 6.703,
+    "last_updated": "2026-05-07T13:54:40.484048Z",
+    "last_tweeted_at": "2026-05-07T13:54:40.484048Z",
+    "tweet_id": "2052386680041021636",
+    "resolved": false
+  },
+  "21.3996,105.2222": {
+    "country": "Viet Nam",
+    "name": "Phú Thọ",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 21.39963,
+    "longitude": 105.22221,
+    "rain_mm": 46.56,
+    "soil_moisture": 0.483,
+    "raw_dynamic_score": 6.732,
+    "last_updated": "2026-05-07T13:54:40.484048Z",
+    "last_tweeted_at": "2026-05-07T13:54:40.484048Z",
+    "tweet_id": "2052386932403920994",
     "resolved": false
   }
 }
