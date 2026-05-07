@@ -14623,5 +14623,72 @@
         "score": 7,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNeUphckdDa0R3MTVQRkVrYTZwZjU2ZE5yNW1ybmkyV0xTZ2o0NGlpUkxXX0Y5MFRTaHhuWlNZT1MyaFVxMzVFb01ZdTFuenoxNnozZkl6eWV0Y1NDTFc4THRTNDg2ME5HUEJnaEViRFlUcjdzajZUVElLLU1xaHpvSlJTRmNHTUxtZVA2WGl4cG5fSkdJRXpZU3BkRTdJZ01LaWtaeUItanhqZkxyQlBqSmRvam9sY1Yy?oc=5",
+        "date": "2026-05-07",
+        "title": "Flash Flood Warning: I-20, I-59 & I-65 Are the Southern Highways You Should Avoid Right Now - Autoblog",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxNeUphckdDa0R3MTVQRkVrYTZwZjU2ZE5yNW1ybmkyV0xTZ2o0NGlpUkxXX0Y5MFRTaHhuWlNZT1MyaFVxMzVFb01ZdTFuenoxNnozZkl6eWV0Y1NDTFc4THRTNDg2ME5HUEJnaEViRFlUcjdzajZUVElLLU1xaHpvSlJTRmNHTUxtZVA2WGl4cG5fSkdJRXpZU3BkRTdJZ01LaWtaeUItanhqZkxyQlBqSmRvam9sY1Yy?oc=5\" target=\"_blank\">Flash Flood Warning: I-20, I-59 & I-65 Are the Southern Highways You Should Avoid Right Now</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Autoblog</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": null,
+        "tweet_id": "2052491972015972729",
+        "geo": {
+            "country": "United States",
+            "name": "Birmingham, Alabama",
+            "latitude": 33.5189,
+            "longitude": -86.8104,
+            "confidence": 0.8
+        }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNWFd2cDhMaFdTRGplaV9aaGZ1Ym5WRkJ0a3JyM2lvajZDRWQ0X2VTM0ZBazlCUm9iV2xtc1M3OEl0Yl84cUlzUHFtbFJZMGNLNmRlMlBuZXRYWVZ2S29kYko1THlBeWN6TUJsbWx5aFRRUFFRRzZSUThnY0ZQSzV0VUZBZFRxeWxLQk9ZRQ?oc=5",
+        "date": "2026-05-07",
+        "title": "UGRA begins installation of new flood warning system - hccommunityjournal.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNWFd2cDhMaFdTRGplaV9aaGZ1Ym5WRkJ0a3JyM2lvajZDRWQ0X2VTM0ZBazlCUm9iV2xtc1M3OEl0Yl84cUlzUHFtbFJZMGNLNmRlMlBuZXRYWVZ2S29kYko1THlBeWN6TUJsbWx5aFRRUFFRRzZSUThnY0ZQSzV0VUZBZFRxeWxLQk9ZRQ?oc=5\" target=\"_blank\">UGRA begins installation of new flood warning system</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">hccommunityjournal.com</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNakFsQTRBNFNkdkJQSkhOSjJUbS1COGNUVk03eTZDUERCX21mMzFtcUpDcVppeHB5UEZ1amp2V21vNV80cjhYS0FlZ0g1Ri1DQWhwc3FTdzJ0WDhvOEpLdVBmNzItU3ZUN0VvSXJRYndRenlHb2prbENTRzEza1d2enliVXVFVmFEWi1ZeXlBNVJ6cGJpTUsxQ3BCWdIBoAFBVV95cUxNWmlyRTRFZFU3cG5BUlZSNUhSTTlDaDh4MWZ5U3NKdF9qaHlueFFzNlduc1BPNWc2dWc4djBkMUN5X3AwZXpsT1RxdUEyb3liRWlaa0F3S1luRk1pQkZsVm1uR1p5emxHMlgxNWJaX2VpM0JlTnpHRWwyOUYxcG1TWDdXZWJMczlhbmg1Tk5uMHJucXExZU5xcXJnYnU3b19n?oc=5",
+        "date": "2026-05-07",
+        "title": "Storms to soak drought-stricken Gulf Coast, Southeast through Mother's Day - FOX Weather",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNakFsQTRBNFNkdkJQSkhOSjJUbS1COGNUVk03eTZDUERCX21mMzFtcUpDcVppeHB5UEZ1amp2V21vNV80cjhYS0FlZ0g1Ri1DQWhwc3FTdzJ0WDhvOEpLdVBmNzItU3ZUN0VvSXJRYndRenlHb2prbENTRzEza1d2enliVXVFVmFEWi1ZeXlBNVJ6cGJpTUsxQ3BCWdIBoAFBVV95cUxNWmlyRTRFZFU3cG5BUlZSNUhSTTlDaDh4MWZ5U3NKdF9qaHlueFFzNlduc1BPNWc2dWc4djBkMUN5X3AwZXpsT1RxdUEyb3liRWlaa0F3S1luRk1pQkZsVm1uR1p5emxHMlgxNWJaX2VpM0JlTnpHRWwyOUYxcG1TWDdXZWJMczlhbmg1Tk5uMHJucXExZU5xcXJnYnU3b19n?oc=5\" target=\"_blank\">Storms to soak drought-stricken Gulf Coast, Southeast through Mother's Day</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FOX Weather</font>",
+        "similarity_excluded": "No",
+        "score": 5,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPY3VLQkc4YUhaT19uWXI2SG9TRmRfWjdGaDBSZDF0VURoQ2VicXVsWWVoVzF2MFg2ZVcxT2VISGRyVkRYTFBiSjhWZW1JUVB1MFZBYS1nSlp6MDh3dEg1Sm9ndTNGcG01VUFMZXA5eW92SHozRUVGbVJVWkRXcmtJeDdST3JBNk5wZFMtbXFsRmJKa29hZ20wQmk4Yw?oc=5",
+        "date": "2026-05-07",
+        "title": "I loved living in Florida. The natural disasters and constant flooding drove me out. - Business Insider",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPY3VLQkc4YUhaT19uWXI2SG9TRmRfWjdGaDBSZDF0VURoQ2VicXVsWWVoVzF2MFg2ZVcxT2VISGRyVkRYTFBiSjhWZW1JUVB1MFZBYS1nSlp6MDh3dEg1Sm9ndTNGcG01VUFMZXA5eW92SHozRUVGbVJVWkRXcmtJeDdST3JBNk5wZFMtbXFsRmJKa29hZ20wQmk4Yw?oc=5\" target=\"_blank\">I loved living in Florida. The natural disasters and constant flooding drove me out.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Insider</font>",
+        "similarity_excluded": "No",
+        "score": 3,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNeUphckdDa0R3MTVQRkVrYTZwZjU2ZE5yNW1ybmkyV0xTZ2o0NGlpUkxXX0Y5MFRTaHhuWlNZT1MyaFVxMzVFb01ZdTFuenoxNnozZkl6eWV0Y1NDTFc4THRTNDg2ME5HUEJnaEViRFlUcjdzajZUVElLLU1xaHpvSlJTRmNHTUxtZVA2WGl4cG5fSkdJRXpZU3BkRTdJZ01LaWtaeUItanhqZkxyQlBqSmRvam9sY1Yy?oc=5",
+        "date": "2026-05-07",
+        "title": "Flash Flood Warning: I-20, I-59 & I-65 Are the Southern Highways You Should Avoid Right Now - Autoblog",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxNeUphckdDa0R3MTVQRkVrYTZwZjU2ZE5yNW1ybmkyV0xTZ2o0NGlpUkxXX0Y5MFRTaHhuWlNZT1MyaFVxMzVFb01ZdTFuenoxNnozZkl6eWV0Y1NDTFc4THRTNDg2ME5HUEJnaEViRFlUcjdzajZUVElLLU1xaHpvSlJTRmNHTUxtZVA2WGl4cG5fSkdJRXpZU3BkRTdJZ01LaWtaeUItanhqZkxyQlBqSmRvam9sY1Yy?oc=5\" target=\"_blank\">Flash Flood Warning: I-20, I-59 & I-65 Are the Southern Highways You Should Avoid Right Now</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Autoblog</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 FORECAST Southern US: Flash flood warning on I-20, I-59, I-65; heavy rain causing hazardous road conditions, avoid travel immediately. (Autoblog)",
+        "type": "news",
+        "tweet_id": "2052491972015972729",
+        "geo": {
+            "country": "United States",
+            "name": "Birmingham, Alabama",
+            "latitude": 33.5189,
+            "longitude": -86.8104,
+            "confidence": 0.8
+        }
     }
 ]
