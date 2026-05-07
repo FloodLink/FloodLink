@@ -14496,5 +14496,122 @@
         "score": 0,
         "status": "skipped",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQRG5MUU80UERJNW9STEkwaVpxVXFCOUlneTN2cklnVEV4S3dydXJ0QlphdGVIY0JNdWJnVTdfdEc3M2wxcDNnTmdLTUJCNF9VX0NUUUYzc21jWkxNcFFQWGxIak1aM25fbkRjXzhTdC1LSWc4dVBNRkhnNEV2azZodTFPM00zc0pvdnFiLUVjZkZWRmFxVklZallmRE9VWndDMWlsUE1CdGloMFpoRDhMSWk1MldRbjNXYVZtcFNlb2x6cXpKU3M3cTdHclhoZHFscXo2cg?oc=5",
+        "date": "2026-05-07",
+        "title": "Flood warning for Big Creek in Alpharetta area after heavy rain - 11Alive.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxQRG5MUU80UERJNW9STEkwaVpxVXFCOUlneTN2cklnVEV4S3dydXJ0QlphdGVIY0JNdWJnVTdfdEc3M2wxcDNnTmdLTUJCNF9VX0NUUUYzc21jWkxNcFFQWGxIak1aM25fbkRjXzhTdC1LSWc4dVBNRkhnNEV2azZodTFPM00zc0pvdnFiLUVjZkZWRmFxVklZallmRE9VWndDMWlsUE1CdGloMFpoRDhMSWk1MldRbjNXYVZtcFNlb2x6cXpKU3M3cTdHclhoZHFscXo2cg?oc=5\" target=\"_blank\">Flood warning for Big Creek in Alpharetta area after heavy rain</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">11Alive.com</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNR1YtV3RJQk9MOWREVjBtRVVrSk1pckZEWGUzWEI4YWZKTV9PcmdTQ1RDSXBYdV9sbjc4RU9DZllRa1Q4b29CTWVmRjVSQTFjbVNHa1pNbm84aGpoM1JZbGsyc09OQksyZHZ3YWhBWmFVLW5PVF9YUDk0QlBvN0NYOE9JMTR4aEN4?oc=5",
+        "date": "2026-05-07",
+        "title": "Flash Flood Warnings Issued as 70 mph Winds, Large Hail Expected - Yahoo",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNR1YtV3RJQk9MOWREVjBtRVVrSk1pckZEWGUzWEI4YWZKTV9PcmdTQ1RDSXBYdV9sbjc4RU9DZllRa1Q4b29CTWVmRjVSQTFjbVNHa1pNbm84aGpoM1JZbGsyc09OQksyZHZ3YWhBWmFVLW5PVF9YUDk0QlBvN0NYOE9JMTR4aEN4?oc=5\" target=\"_blank\">Flash Flood Warnings Issued as 70 mph Winds, Large Hail Expected</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": null,
+        "tweet_id": "2052410795615715435",
+        "geo": {
+            "country": null,
+            "name": null,
+            "latitude": null,
+            "longitude": null,
+            "confidence": 0.0
+        }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOSkQzeHBWaEhaV1E2T2NDb2ZvNTFoOXY3YzdMa3V3WDhGbXFzTVN5YmE1ekJ1QVFWY0x3RnRoV3NUZ0l0YlQ2ZFVhS2ktZUNOaG5oZ2dubHZYY1hSTC1WY09aSjlJdW5qUWJKcDFfQzVlR3pDNjRBY1JRMkU1TFFFM1NaZ3ZzclN6TU5QY0pLbHZtb2NtNmdmcng0QUo0b0JrbDBxeHlPbXlZYk5LVWQxcGZYcGVQOWt1RlBoeTJqN3EwNXNOekx0c2dYVnpEM3BhWkx3bQ?oc=5",
+        "date": "2026-05-07",
+        "title": "Video of vehicles driving through storm-flooded Montgomery streets - Montgomery Advertiser",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxOSkQzeHBWaEhaV1E2T2NDb2ZvNTFoOXY3YzdMa3V3WDhGbXFzTVN5YmE1ekJ1QVFWY0x3RnRoV3NUZ0l0YlQ2ZFVhS2ktZUNOaG5oZ2dubHZYY1hSTC1WY09aSjlJdW5qUWJKcDFfQzVlR3pDNjRBY1JRMkU1TFFFM1NaZ3ZzclN6TU5QY0pLbHZtb2NtNmdmcng0QUo0b0JrbDBxeHlPbXlZYk5LVWQxcGZYcGVQOWt1RlBoeTJqN3EwNXNOekx0c2dYVnpEM3BhWkx3bQ?oc=5\" target=\"_blank\">Video of vehicles driving through storm-flooded Montgomery streets</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Montgomery Advertiser</font>",
+        "similarity_excluded": "No",
+        "score": 5,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQb2lmU0trb0pZZmFRZE9JTDU1V0xRTFp5SGV4dXBudl96aEctbXRENUpJUHBHZ25qN1pjMGE0aWtkZkhWajJ0RzhuQTFlaEI2eFF2VWZ4MUtqU0Q3b1h6TE5WTUpldUE1ME1mMWRSRlZPd082aTc0dC1UdjE5R1FHWkpwbHk5Ml9KZDNKVlRRSG0xdlcyY2lqSTdVQllNQnl1ZTljcW1ORkdHOWpyeUZnVnMzbXAxNDhhMzE4QjNiZjZNdE94WGdCcklyTTR6RkNweG4xVUZ1Z0ExUUhXcWxfWWlzeDE1QQ?oc=5",
+        "date": "2026-05-07",
+        "title": "Healthcare costs top of mind for voters as midterms approach, survey finds - WTHI-TV",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxQb2lmU0trb0pZZmFRZE9JTDU1V0xRTFp5SGV4dXBudl96aEctbXRENUpJUHBHZ25qN1pjMGE0aWtkZkhWajJ0RzhuQTFlaEI2eFF2VWZ4MUtqU0Q3b1h6TE5WTUpldUE1ME1mMWRSRlZPd082aTc0dC1UdjE5R1FHWkpwbHk5Ml9KZDNKVlRRSG0xdlcyY2lqSTdVQllNQnl1ZTljcW1ORkdHOWpyeUZnVnMzbXAxNDhhMzE4QjNiZjZNdE94WGdCcklyTTR6RkNweG4xVUZ1Z0ExUUhXcWxfWWlzeDE1QQ?oc=5\" target=\"_blank\">Healthcare costs top of mind for voters as midterms approach, survey finds</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WTHI-TV</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPN1Q1Y3lfa2xZLW80ZnZxTzVDRVJLbU1tWkdKX2RFQjNvdGVVVXFhN2VNVDRzYklIN0V3TWktcXdYMTVJRjNzZDhudm9KNXNOalRaeGdLWldmdmw4NDBMMlNzR0dNbU81ZEhEeHFUSDBQT19nS1ZDY3NpU1hmR3FKd19VVXkwczF2Qzg5MFlDcUN4QU8zdkhHQkxjenVrTDRTSUF0b21Iem9mN0tsc0FyZ1QxVHlqd05NbURIS1I0dENGN3UwNUowbzN0RXpCWUdMYXNhRHBZS1R2RVJHQ2thei1ocjVRYzFGWV92ZVhZUmhSeWs?oc=5",
+        "date": "2026-05-07",
+        "title": "Redistricting return, leadership questions loom after Indiana Senate primary shakeup - WTHI-TV",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8wFBVV95cUxPN1Q1Y3lfa2xZLW80ZnZxTzVDRVJLbU1tWkdKX2RFQjNvdGVVVXFhN2VNVDRzYklIN0V3TWktcXdYMTVJRjNzZDhudm9KNXNOalRaeGdLWldmdmw4NDBMMlNzR0dNbU81ZEhEeHFUSDBQT19nS1ZDY3NpU1hmR3FKd19VVXkwczF2Qzg5MFlDcUN4QU8zdkhHQkxjenVrTDRTSUF0b21Iem9mN0tsc0FyZ1QxVHlqd05NbURIS1I0dENGN3UwNUowbzN0RXpCWUdMYXNhRHBZS1R2RVJHQ2thei1ocjVRYzFGWV92ZVhZUmhSeWs?oc=5\" target=\"_blank\">Redistricting return, leadership questions loom after Indiana Senate primary shakeup</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WTHI-TV</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQbS1ZdEdNb2FRSzBXdXN1TVVyd1lDS1REdHZCQ1Z6MG1JSEk4cHlhRnA1SDJkNHUzNFNKcUFVdUptdlMzQ3VtcHJnQ3FZSGNzdzhBdVFpcmRYcndrMlR5TUc3VnpwbE9ZYk50SV9aODFuVnYzZUZkaTFXbGd5RlZYTUpjNHNpT3IzeGZHTmZlRWc3Rkd4NENMVjExMUl5Ym1qRms2Ym5ZZTN3LUFxb1ZsMFN1VGZ6UlhYZEZZLUNZdXZlZ3lFR2kzLWU4ZDlydnQtQW93bG1wOE5aS2lTdjVKNHBqWk5ITTN5SzJEZ1d5S0JORVlxeEVGMnJ3YjE?oc=5",
+        "date": "2026-05-07",
+        "title": "Hantavirus cruise ship heads for Spain\u2019s Canary Islands as officials race to trace victims\u2019 contacts - WTHI-TV",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_AFBVV95cUxQbS1ZdEdNb2FRSzBXdXN1TVVyd1lDS1REdHZCQ1Z6MG1JSEk4cHlhRnA1SDJkNHUzNFNKcUFVdUptdlMzQ3VtcHJnQ3FZSGNzdzhBdVFpcmRYcndrMlR5TUc3VnpwbE9ZYk50SV9aODFuVnYzZUZkaTFXbGd5RlZYTUpjNHNpT3IzeGZHTmZlRWc3Rkd4NENMVjExMUl5Ym1qRms2Ym5ZZTN3LUFxb1ZsMFN1VGZ6UlhYZEZZLUNZdXZlZ3lFR2kzLWU4ZDlydnQtQW93bG1wOE5aS2lTdjVKNHBqWk5ITTN5SzJEZ1d5S0JORVlxeEVGMnJ3YjE?oc=5\" target=\"_blank\">Hantavirus cruise ship heads for Spain\u2019s Canary Islands as officials race to trace victims\u2019 contacts</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WTHI-TV</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNekJWcThrdFZtOW4zMHo2NkhLUGltYUw3Zk1PTXR2WU9PRG9FaHB5cWZfNjBYUDVQbl81TlRPcGFzT2pBdUVyVHpBN1VENkcyS1lJTzBnRGxMMkNYdWpoUkNpZEFUODg1SjlYZWppNlZ3RXR5VHYwQ0xvM1N1R0UxODZJME1KMEstMjlOSzNvRmQzZ085UGNGN3FzaVB1TzU4Q1JUdU5Gb21pOUpfZnpqNTBSRTk1aEFSZGZvc1VIS2JQbEXSAcoBQVVfeXFMUEpHTmFCbW5EcHRYa3VidWRGUlM4cUptTTVHWHFhcEFQQkx5U2g0eVNwZzc4Z0gtSGxLMEFJRTBwd3FZMk5UQnlFZUJCVUNzc3ByM1dsVVFKSDE5NXlLSE1vZGdwN01Od1VHazJHQmpVSnNYUTJUc0ZDdHd1UXlOU0dTQTl3aU1PMXIzTHhqWjZjYW9xTldDZ2tHc3AwTG9wZ0VQNl9QWDA1VHM1RWdXV1BidnVSU1RrSFpsRU5KWjRGLWpuTUJkTXJpZw?oc=5",
+        "date": "2026-05-07",
+        "title": "Monsoon inspections expose cracks within Mahayuti in BMC - The Indian Express",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxNekJWcThrdFZtOW4zMHo2NkhLUGltYUw3Zk1PTXR2WU9PRG9FaHB5cWZfNjBYUDVQbl81TlRPcGFzT2pBdUVyVHpBN1VENkcyS1lJTzBnRGxMMkNYdWpoUkNpZEFUODg1SjlYZWppNlZ3RXR5VHYwQ0xvM1N1R0UxODZJME1KMEstMjlOSzNvRmQzZ085UGNGN3FzaVB1TzU4Q1JUdU5Gb21pOUpfZnpqNTBSRTk1aEFSZGZvc1VIS2JQbEXSAcoBQVVfeXFMUEpHTmFCbW5EcHRYa3VidWRGUlM4cUptTTVHWHFhcEFQQkx5U2g0eVNwZzc4Z0gtSGxLMEFJRTBwd3FZMk5UQnlFZUJCVUNzc3ByM1dsVVFKSDE5NXlLSE1vZGdwN01Od1VHazJHQmpVSnNYUTJUc0ZDdHd1UXlOU0dTQTl3aU1PMXIzTHhqWjZjYW9xTldDZ2tHc3AwTG9wZ0VQNl9QWDA1VHM1RWdXV1BidnVSU1RrSFpsRU5KWjRGLWpuTUJkTXJpZw?oc=5\" target=\"_blank\">Monsoon inspections expose cracks within Mahayuti in BMC</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Indian Express</font>",
+        "similarity_excluded": "No",
+        "score": 1,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNNWtmSmVPTDVSMkhtUUZDdHpCRGE3allERzdneVRDVjc5MnhrdXZhczVMSG9BTVhWRDFkRGpsYjBXemNDVGRsaGdwci16b0Rac0pfZm5UR1k4dnlBeEdiMUN0Q1NrelVXc2xYOFhINlc2WC1zUW5FRzBvNjkxWVlXTzM5VGp0UldHcFBjLTR2eFFUbHdLX1NZUG9KMGRkZ29yYWFEdUpxTDAtczliczRuWU9JM2ZyNzJhU2ZZTkpWWUJLVUJxaS1TdQ?oc=5",
+        "date": "2026-05-07",
+        "title": "Punjab prepares for upcoming monsoon season, gears up flood protection measures-INP - Independent News Pakistan",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxNNWtmSmVPTDVSMkhtUUZDdHpCRGE3allERzdneVRDVjc5MnhrdXZhczVMSG9BTVhWRDFkRGpsYjBXemNDVGRsaGdwci16b0Rac0pfZm5UR1k4dnlBeEdiMUN0Q1NrelVXc2xYOFhINlc2WC1zUW5FRzBvNjkxWVlXTzM5VGp0UldHcFBjLTR2eFFUbHdLX1NZUG9KMGRkZ29yYWFEdUpxTDAtczliczRuWU9JM2ZyNzJhU2ZZTkpWWUJLVUJxaS1TdQ?oc=5\" target=\"_blank\">Punjab prepares for upcoming monsoon season, gears up flood protection measures-INP</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Independent News Pakistan</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZ3ZCX0djU2dmVG16dkY5cDg4NTljSGNPTllmLW9xYmpaWXVkZHdMWFN1NVE0aGQ4bTFWVTRoamlYT0I2VjRsbWpkdnlYQmVwM1BjVERtbGs4UzhneWpJY0dZc21aOU9QaXFMQ3BBVzd2dHpSbHV2aW5fMEhSUmp3VS1TUzhsbGhnbC1VOE9EWQ?oc=5",
+        "date": "2026-05-07",
+        "title": "Meeting reviewed preparedness ahead of monsoon season - | Associated Press Of Pakistan",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxPZ3ZCX0djU2dmVG16dkY5cDg4NTljSGNPTllmLW9xYmpaWXVkZHdMWFN1NVE0aGQ4bTFWVTRoamlYT0I2VjRsbWpkdnlYQmVwM1BjVERtbGs4UzhneWpJY0dZc21aOU9QaXFMQ3BBVzd2dHpSbHV2aW5fMEhSUmp3VS1TUzhsbGhnbC1VOE9EWQ?oc=5\" target=\"_blank\">Meeting reviewed preparedness ahead of monsoon season</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">| Associated Press Of Pakistan</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNR1YtV3RJQk9MOWREVjBtRVVrSk1pckZEWGUzWEI4YWZKTV9PcmdTQ1RDSXBYdV9sbjc4RU9DZllRa1Q4b29CTWVmRjVSQTFjbVNHa1pNbm84aGpoM1JZbGsyc09OQksyZHZ3YWhBWmFVLW5PVF9YUDk0QlBvN0NYOE9JMTR4aEN4?oc=5",
+        "date": "2026-05-07",
+        "title": "Flash Flood Warnings Issued as 70 mph Winds, Large Hail Expected - Yahoo",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNR1YtV3RJQk9MOWREVjBtRVVrSk1pckZEWGUzWEI4YWZKTV9PcmdTQ1RDSXBYdV9sbjc4RU9DZllRa1Q4b29CTWVmRjVSQTFjbVNHa1pNbm84aGpoM1JZbGsyc09OQksyZHZ3YWhBWmFVLW5PVF9YUDk0QlBvN0NYOE9JMTR4aEN4?oc=5\" target=\"_blank\">Flash Flood Warnings Issued as 70 mph Winds, Large Hail Expected</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 FORECAST Central US: Flash flood warnings issued amid 70 mph winds and large hail expected.",
+        "type": "news",
+        "tweet_id": "2052410795615715435",
+        "geo": {
+            "country": null,
+            "name": null,
+            "latitude": null,
+            "longitude": null,
+            "confidence": 0.0
+        }
     }
 ]
