@@ -14186,5 +14186,25 @@
             "longitude": 37.1667,
             "confidence": 0.95
         }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWjdrNTAxb2tyM1Z4d2g5T2EtY05jWG5paEZPTmF6REFnZHNocEUydjVQSDVFVGROVFRSOHZpSEw4cDNBQkNzZ3lpM0NsRVB5WmxNUlZXUVBBY1pqeDZ2bDZESXA5STJJMjRvd3pUbkd0cG9QcWZkNnRiSjJzMWtHdnUyS3BaQ1ZUTHNnSDRXb3UyLUhiZjhuUQ?oc=5",
+        "date": "2026-05-08",
+        "title": "Hurricane Preparedness Week Day 6: Fresh water flooding - WECT | TV6",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPWjdrNTAxb2tyM1Z4d2g5T2EtY05jWG5paEZPTmF6REFnZHNocEUydjVQSDVFVGROVFRSOHZpSEw4cDNBQkNzZ3lpM0NsRVB5WmxNUlZXUVBBY1pqeDZ2bDZESXA5STJJMjRvd3pUbkd0cG9QcWZkNnRiSjJzMWtHdnUyS3BaQ1ZUTHNnSDRXb3UyLUhiZjhuUQ?oc=5\" target=\"_blank\">Hurricane Preparedness Week Day 6: Fresh water flooding</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WECT | TV6</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1lWExmVkJhYk5xUjhQZnctbk1MaEE3bXhaQ1ZTTkFiSFhycVBQbHJOUUZyQjBxVGREZmJ2aWRRVldlWjNldVlZYV9oUTU3QWh4SFNRX1dvRGtIYzhUcjBsSHpoemItTFViN3RpcTlCT0g1MThoZkJ0c2Vn?oc=5",
+        "date": "2026-05-08",
+        "title": "GHMC Intensifies Pre-Monsoon Works In Yousufguda - INDToday",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE1lWExmVkJhYk5xUjhQZnctbk1MaEE3bXhaQ1ZTTkFiSFhycVBQbHJOUUZyQjBxVGREZmJ2aWRRVldlWjNldVlZYV9oUTU3QWh4SFNRX1dvRGtIYzhUcjBsSHpoemItTFViN3RpcTlCT0g1MThoZkJ0c2Vn?oc=5\" target=\"_blank\">GHMC Intensifies Pre-Monsoon Works In Yousufguda</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">INDToday</font>",
+        "similarity_excluded": "No",
+        "score": 5,
+        "status": "processed",
+        "tweet": null
     }
 ]
