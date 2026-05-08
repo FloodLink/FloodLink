@@ -16687,17 +16687,18 @@
   "0.5729,97.8034": {
     "country": "Indonesia",
     "name": "Teluk Dalam",
-    "risk_level": "Medium",
-    "tweeted_level": "High",
+    "risk_level": "Low",
+    "tweeted_level": "Low",
     "latitude": 0.5729,
     "longitude": 97.8034,
-    "rain_mm": 34.94,
+    "rain_mm": 12.0,
     "soil_moisture": 1.0,
-    "raw_dynamic_score": 6.682,
-    "last_updated": "2026-05-08T02:22:12.172596Z",
-    "last_tweeted_at": "2026-04-20T21:47:29.841500Z",
-    "tweet_id": "2046345070417170444",
-    "resolved": false
+    "raw_dynamic_score": 2.295,
+    "last_updated": "2026-05-08T05:33:18.092994Z",
+    "last_tweeted_at": "2026-05-08T05:33:18.092994Z",
+    "tweet_id": "2052623128556097944",
+    "resolved": true,
+    "resolved_at": "2026-05-08T05:33:18.092994Z"
   },
   "1.3943,97.1675": {
     "country": "Indonesia",
@@ -21951,9 +21952,39 @@
     "rain_mm": 52.06,
     "soil_moisture": 0.702,
     "raw_dynamic_score": 8.556,
-    "last_updated": "2026-05-08T02:22:12.172596Z",
+    "last_updated": "2026-05-08T05:33:18.092994Z",
     "last_tweeted_at": "2026-05-08T02:22:12.172596Z",
     "tweet_id": "2052574800334229704",
+    "resolved": false
+  },
+  "-2.6214,-60.9442": {
+    "country": "Brazil",
+    "name": "Novo Airão",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": -2.62139,
+    "longitude": -60.94417,
+    "rain_mm": 43.94,
+    "soil_moisture": 0.69,
+    "raw_dynamic_score": 7.174,
+    "last_updated": "2026-05-08T05:33:18.092994Z",
+    "last_tweeted_at": "2026-05-08T05:33:18.092994Z",
+    "tweet_id": "2052622875794763828",
+    "resolved": false
+  },
+  "5.5417,95.3333": {
+    "country": "Indonesia",
+    "name": "Banda Aceh",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 5.54167,
+    "longitude": 95.33333,
+    "rain_mm": 49.0,
+    "soil_moisture": 0.639,
+    "raw_dynamic_score": 7.773,
+    "last_updated": "2026-05-08T05:33:18.092994Z",
+    "last_tweeted_at": "2026-05-08T05:33:18.092994Z",
+    "tweet_id": "2052623381153927512",
     "resolved": false
   }
 }
