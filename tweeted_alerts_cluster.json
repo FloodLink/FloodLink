@@ -6234,7 +6234,7 @@
     "rain_mm": 61.44,
     "soil_moisture": 0.708,
     "raw_dynamic_score": 10.132,
-    "last_updated": "2026-04-09T05:14:56.751515Z",
+    "last_updated": "2026-05-08T07:27:20.259676Z",
     "last_tweeted_at": "2026-02-18T09:43:54.682779Z",
     "tweet_id": "2024057562707238991",
     "resolved": false
@@ -21967,7 +21967,7 @@
     "rain_mm": 43.94,
     "soil_moisture": 0.69,
     "raw_dynamic_score": 7.174,
-    "last_updated": "2026-05-08T05:33:18.092994Z",
+    "last_updated": "2026-05-08T07:27:20.259676Z",
     "last_tweeted_at": "2026-05-08T05:33:18.092994Z",
     "tweet_id": "2052622875794763828",
     "resolved": false
@@ -21985,6 +21985,36 @@
     "last_updated": "2026-05-08T05:33:18.092994Z",
     "last_tweeted_at": "2026-05-08T05:33:18.092994Z",
     "tweet_id": "2052623381153927512",
+    "resolved": false
+  },
+  "6.4414,100.1986": {
+    "country": "Malaysia",
+    "name": "Kangar",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 6.4414,
+    "longitude": 100.19862,
+    "rain_mm": 46.0,
+    "soil_moisture": 0.606,
+    "raw_dynamic_score": 7.159,
+    "last_updated": "2026-05-08T07:27:20.259676Z",
+    "last_tweeted_at": "2026-05-08T07:27:20.259676Z",
+    "tweet_id": "2052651591342104715",
+    "resolved": false
+  },
+  "6.4294,100.2817": {
+    "country": "Malaysia",
+    "name": "Kampung Hutan Arau",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 6.42942,
+    "longitude": 100.28174,
+    "rain_mm": 46.0,
+    "soil_moisture": 0.606,
+    "raw_dynamic_score": 7.159,
+    "last_updated": "2026-05-08T07:27:20.259676Z",
+    "last_tweeted_at": "2026-05-08T07:27:20.259676Z",
+    "tweet_id": "2052651591342104715",
     "resolved": false
   }
 }
