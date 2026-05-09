@@ -14018,5 +14018,14 @@
         "score": 0,
         "status": "skipped",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-05-09",
+        "status": "posted",
+        "tweet": "By 2030, sea-level rise could expose 45M people in Asian coastal cities like Shanghai \ud83c\udde8\ud83c\uddf3 to annual storm surges\u20142.5x the 18M in US cities like Miami \ud83c\uddfa\ud83c\uddf8 (IPCC 2022 projections).",
+        "type": "statistical",
+        "category": "coastal cities at risk from sea-level rise and storm surge",
+        "tweet_id": "2053093424849731948"
     }
 ]
