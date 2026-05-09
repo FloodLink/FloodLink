@@ -12564,7 +12564,7 @@
     "rain_mm": 50.88,
     "soil_moisture": 0.64,
     "raw_dynamic_score": 8.077,
-    "last_updated": "2026-05-09T10:10:21.654915Z",
+    "last_updated": "2026-05-09T13:07:16.137304Z",
     "last_tweeted_at": "2026-03-31T16:08:10.399240Z",
     "tweet_id": "2039012159787544670",
     "resolved": false
@@ -19740,22 +19740,6 @@
     "tweet_id": "2052211490862530738",
     "resolved": false
   },
-  "24.7819,112.3712": {
-    "country": "China",
-    "name": "Lianzhou",
-    "risk_level": "Low",
-    "tweeted_level": "Low",
-    "latitude": 24.78186,
-    "longitude": 112.3712,
-    "rain_mm": 0.06,
-    "soil_moisture": 0.636,
-    "raw_dynamic_score": 0.01,
-    "last_updated": "2026-05-08T10:27:53.976911Z",
-    "last_tweeted_at": "2026-05-08T10:27:53.976911Z",
-    "tweet_id": "2052697768326562182",
-    "resolved": true,
-    "resolved_at": "2026-05-08T10:27:53.976911Z"
-  },
   "15.8229,98.2526": {
     "country": "Myanmar",
     "name": "Kyain Seikgyi Township",
@@ -20948,7 +20932,7 @@
     "rain_mm": 42.0,
     "soil_moisture": 0.65,
     "raw_dynamic_score": 6.705,
-    "last_updated": "2026-05-09T10:10:21.654915Z",
+    "last_updated": "2026-05-09T13:07:16.137304Z",
     "last_tweeted_at": "2026-05-09T10:10:21.654915Z",
     "tweet_id": "2053055248655057134",
     "resolved": false
@@ -20963,7 +20947,7 @@
     "rain_mm": 49.19,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 9.407,
-    "last_updated": "2026-05-09T10:10:21.654915Z",
+    "last_updated": "2026-05-09T13:07:16.137304Z",
     "last_tweeted_at": "2026-05-09T10:10:21.654915Z",
     "tweet_id": "2053055500971921656",
     "resolved": false
@@ -20978,7 +20962,7 @@
     "rain_mm": 39.81,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 7.614,
-    "last_updated": "2026-05-09T10:10:21.654915Z",
+    "last_updated": "2026-05-09T13:07:16.137304Z",
     "last_tweeted_at": "2026-05-09T10:10:21.654915Z",
     "tweet_id": "2053055753271771563",
     "resolved": false
