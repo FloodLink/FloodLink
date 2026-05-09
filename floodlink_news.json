@@ -14103,5 +14103,65 @@
             "longitude": -91.14,
             "confidence": 1.0
         }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQLVM2TUFFNFp6VkdSajNzazNuSlZMbXpkcG5LLTc1R2d3YXYzVXhrN0tYTjVDeTdEZ2RTdkluX0hkX0trM29wZVlrWlBmbmJ3UGVHMk5memFHVnpHZEZrN0NoWkpySGJUSzZFd2VRSG9pSmhEbjNJbWwwdUNNbXNqY0Y1dkRtVDVqcUMxMFRtVG41TjFzTmtSNmVDU3VSNVctb3hiN29Wdms3UUEtYjRkdmtYem9VT2lQelJJY2s4eGNtbGdKWXhJSDlzZWl4M3AyUFVpNmU1Z1FVZFNxY2ttai1iRlFMcU1uMS16QUZNUDdBTnB4TFdjOWZzUXVMTkd5OGRIS3NmLUN6Vmp1bDRR?oc=5",
+        "date": "2026-05-09",
+        "title": "Flash flood warning issued in several Acadiana parishes Saturday afternoon - The Advocate",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwJBVV95cUxQLVM2TUFFNFp6VkdSajNzazNuSlZMbXpkcG5LLTc1R2d3YXYzVXhrN0tYTjVDeTdEZ2RTdkluX0hkX0trM29wZVlrWlBmbmJ3UGVHMk5memFHVnpHZEZrN0NoWkpySGJUSzZFd2VRSG9pSmhEbjNJbWwwdUNNbXNqY0Y1dkRtVDVqcUMxMFRtVG41TjFzTmtSNmVDU3VSNVctb3hiN29Wdms3UUEtYjRkdmtYem9VT2lQelJJY2s4eGNtbGdKWXhJSDlzZWl4M3AyUFVpNmU1Z1FVZFNxY2ttai1iRlFMcU1uMS16QUZNUDdBTnB4TFdjOWZzUXVMTkd5OGRIS3NmLUN6Vmp1bDRR?oc=5\" target=\"_blank\">Flash flood warning issued in several Acadiana parishes Saturday afternoon</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Advocate</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5henRuYVRnZWNiQzJJNWxYRk1vNW5YNU5hMGVWMW4xZk1rdDhCU3htU2hIU2ZTNEx1UGFvQVY0ZnFqU1R6LUtVY1JQWVNJYkJMQkpIVXAzaFQ5dnBWSzd1OXpIcnM2N2RQNXhKTURJNTQwMkJTd21iQUJB?oc=5",
+        "date": "2026-05-09",
+        "title": "Flood warning for Chelan County until further notice, says the NWS - Tri-City Herald",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE5henRuYVRnZWNiQzJJNWxYRk1vNW5YNU5hMGVWMW4xZk1rdDhCU3htU2hIU2ZTNEx1UGFvQVY0ZnFqU1R6LUtVY1JQWVNJYkJMQkpIVXAzaFQ5dnBWSzd1OXpIcnM2N2RQNXhKTURJNTQwMkJTd21iQUJB?oc=5\" target=\"_blank\">Flood warning for Chelan County until further notice, says the NWS</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tri-City Herald</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1kdE1uMjR1RHJoSzhOQ2E3MUR5MEdadTdzYUxhUktGRFVqai1BS2dNYzJtd1M2YktsRE95WlItaDhXTVhpbVlpdTNWRjhxQzg4N20yLUpWdTYzbTN3ekxVaXlsZEM1bC1mbEI3UFh5WFdTVnhlT3lrS0FINEI?oc=5",
+        "date": "2026-05-09",
+        "title": "Philly's Eastwick neighborhood gets real-time flood monitoring to ease storm fears - WHYY",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE1kdE1uMjR1RHJoSzhOQ2E3MUR5MEdadTdzYUxhUktGRFVqai1BS2dNYzJtd1M2YktsRE95WlItaDhXTVhpbVlpdTNWRjhxQzg4N20yLUpWdTYzbTN3ekxVaXlsZEM1bC1mbEI3UFh5WFdTVnhlT3lrS0FINEI?oc=5\" target=\"_blank\">Philly's Eastwick neighborhood gets real-time flood monitoring to ease storm fears</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WHYY</font>",
+        "similarity_excluded": "No",
+        "score": 6,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPbzhOdG8ydmFNaGo2c2Z4a3hhT0R6c2h5VkkyUGdnRGY0aDZxOWh0OHg2a0ZCRy1YSm5ubExoT2E4U0duUmNBbTNic3R6MFBoLUgyR3Y0cmVWNFYwT0xFdnNtc2M0SlZLcWlWOFNVZmsyRUNkY21MbU44VTlLeVV6Z3hZUDZxX2ZjRFVlUnk2VmlURktNN0NPU2psYUJjTFZRX0w3WVctWVExcmZTYjdvRW5faWFPRnhEQ0ZHLU9LYUdyckNYeVNsbUtPdlUxeHV2Y05NUWNLQ1RXTmM0SU5QNHM1VEkzTmR0WkZwTFVOWFZXOEtf?oc=5",
+        "date": "2026-05-09",
+        "title": "Heart of Acadiana: Acadiana High senior honored for saving classmate's life with CPR - KADN News 15",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxPbzhOdG8ydmFNaGo2c2Z4a3hhT0R6c2h5VkkyUGdnRGY0aDZxOWh0OHg2a0ZCRy1YSm5ubExoT2E4U0duUmNBbTNic3R6MFBoLUgyR3Y0cmVWNFYwT0xFdnNtc2M0SlZLcWlWOFNVZmsyRUNkY21MbU44VTlLeVV6Z3hZUDZxX2ZjRFVlUnk2VmlURktNN0NPU2psYUJjTFZRX0w3WVctWVExcmZTYjdvRW5faWFPRnhEQ0ZHLU9LYUdyckNYeVNsbUtPdlUxeHV2Y05NUWNLQ1RXTmM0SU5QNHM1VEkzTmR0WkZwTFVOWFZXOEtf?oc=5\" target=\"_blank\">Heart of Acadiana: Acadiana High senior honored for saving classmate's life with CPR</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KADN News 15</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPNkZMZG10NFh5aE03cUlmSFVnelE2eG0wYURiQU1ULWc2QnAwNVFTNlRPMEdRM0tjR2Q3ZFhmZ1hFLUpqUUxPOTFaT1lOaVpOdDh4OF9ydExjUGNKZzlSVzNhTVNIbVhJMWZiV24yT3A3eGNsOTFzeEhnWFhxTDlrLThjMElTdDJXWWtGMThmMjJjalVvcFZlRW56MlpuTEFSVVVfMmZNWkNvX2dLTHRraFVzVUlQQTMydm5lQzVlZG9CSkdS0gHKAUFVX3lxTFBLZ0RMWXFDeUhSYzhMNFladVBEeWVpN25ubFhhZGg0SERJNVlrc0hQLVNzaHdnbmdBV1hneWVWWVMxNXhvZGE1NDMyRGpsS1l4WnFfcFB3X2UzNm5vcGd6b2ZTTDRoV1BrdE9Tb1ZHaXRBcFp2cERaSHY1TG9sMEt0Ry1iS0VPa21wazZkeEMzemFOOGVKN19zYmVRVG9DcnNtbFc2VnJzcGJlWm5OWmV1TEZKR1JGdzNMV3RYcXVvTU8zUmV3eGx3aWc?oc=5",
+        "date": "2026-05-09",
+        "title": "Ahead of monsoon, drains and gutters cleaned in Canacona - The Times of India",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxPNkZMZG10NFh5aE03cUlmSFVnelE2eG0wYURiQU1ULWc2QnAwNVFTNlRPMEdRM0tjR2Q3ZFhmZ1hFLUpqUUxPOTFaT1lOaVpOdDh4OF9ydExjUGNKZzlSVzNhTVNIbVhJMWZiV24yT3A3eGNsOTFzeEhnWFhxTDlrLThjMElTdDJXWWtGMThmMjJjalVvcFZlRW56MlpuTEFSVVVfMmZNWkNvX2dLTHRraFVzVUlQQTMydm5lQzVlZG9CSkdS0gHKAUFVX3lxTFBLZ0RMWXFDeUhSYzhMNFladVBEeWVpN25ubFhhZGg0SERJNVlrc0hQLVNzaHdnbmdBV1hneWVWWVMxNXhvZGE1NDMyRGpsS1l4WnFfcFB3X2UzNm5vcGd6b2ZTTDRoV1BrdE9Tb1ZHaXRBcFp2cERaSHY1TG9sMEt0Ry1iS0VPa21wazZkeEMzemFOOGVKN19zYmVRVG9DcnNtbFc2VnJzcGJlWm5OWmV1TEZKR1JGdzNMV3RYcXVvTU8zUmV3eGx3aWc?oc=5\" target=\"_blank\">Ahead of monsoon, drains and gutters cleaned in Canacona</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of India</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPbW1ZLURkeVpqaDdmMjAwT0FnOHNqNHFjMG5LTEVpcEsxQkdCeEk2UXV3T2l1VHZyVENJNDJxZUZIZElmRlpmNU9NZE9FVjlYVnZ1eFdwVWdlUGdqUVRRQVRPUTBNcEhhTXFiY3p4dk9hZVFtTG5yRzkwbVBwRHR5RXlCTXkzcFBraHdvLTFtT2lneXBCeVZTMXBYSlJqLXc4dDR4X0ROa05PRkZmZlBGYlNKdGxCSW41YkpOemV30gHDAUFVX3lxTE1LWjdsOHhUbXFNblh1Y29qNDJhaXBBbFI5Q3VGTWVaOWpTeXhBQTA2V3ZZbVdSelRJMGlFTjBHVUJfNzE3aEtiQ05XLTQtMHVfa2tORjRvM2FZaWlMd0gyOEt1c0NXMW1IM1k1NEJYZTRIcUpJR0dZc3lqWlh6RXJ3UnlXV216YzVUMF95S3JJWGJKbG4za0JnTnFGOTFSc19laE9zMER2YWNhU29lQ21OMUs3MkFzWlVkS0VwUU5kcnphUQ?oc=5",
+        "date": "2026-05-09",
+        "title": "Submersible pump to tackle waterlogging at Miramar - The Times of India",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxPbW1ZLURkeVpqaDdmMjAwT0FnOHNqNHFjMG5LTEVpcEsxQkdCeEk2UXV3T2l1VHZyVENJNDJxZUZIZElmRlpmNU9NZE9FVjlYVnZ1eFdwVWdlUGdqUVRRQVRPUTBNcEhhTXFiY3p4dk9hZVFtTG5yRzkwbVBwRHR5RXlCTXkzcFBraHdvLTFtT2lneXBCeVZTMXBYSlJqLXc4dDR4X0ROa05PRkZmZlBGYlNKdGxCSW41YkpOemV30gHDAUFVX3lxTE1LWjdsOHhUbXFNblh1Y29qNDJhaXBBbFI5Q3VGTWVaOWpTeXhBQTA2V3ZZbVdSelRJMGlFTjBHVUJfNzE3aEtiQ05XLTQtMHVfa2tORjRvM2FZaWlMd0gyOEt1c0NXMW1IM1k1NEJYZTRIcUpJR0dZc3lqWlh6RXJ3UnlXV216YzVUMF95S3JJWGJKbG4za0JnTnFGOTFSc19laE9zMER2YWNhU29lQ21OMUs3MkFzWlVkS0VwUU5kcnphUQ?oc=5\" target=\"_blank\">Submersible pump to tackle waterlogging at Miramar</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of India</font>",
+        "similarity_excluded": "No",
+        "score": 6,
+        "status": "processed",
+        "tweet": null
     }
 ]
