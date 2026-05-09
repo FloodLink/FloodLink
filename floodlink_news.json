@@ -14163,5 +14163,25 @@
         "score": 6,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPNDJILXQ2bmRYUHN0UTE0Vlp2Q21XYWtqVHMxQ1pCZUxVWnJSU0Fwc2t4WnBOSDVkTFBVblhPTTI4bzdLd1ltYW9FRVBnSGN6REZNZUJhQ0tpQmdRSFN0X3YwSGJQYUg5bm1Pam54UzRISE5PS2Q3UGotdlc3Z1Fka3d5ZTcwRUk1WU9DOUtPMjg?oc=5",
+        "date": "2026-05-09",
+        "title": "Over 4 inches of rain possible - WDSU",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPNDJILXQ2bmRYUHN0UTE0Vlp2Q21XYWtqVHMxQ1pCZUxVWnJSU0Fwc2t4WnBOSDVkTFBVblhPTTI4bzdLd1ltYW9FRVBnSGN6REZNZUJhQ0tpQmdRSFN0X3YwSGJQYUg5bm1Pam54UzRISE5PS2Q3UGotdlc3Z1Fka3d5ZTcwRUk1WU9DOUtPMjg?oc=5\" target=\"_blank\">Over 4 inches of rain possible</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WDSU</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQYVVhbjZ5ekRmLThVSTZkRXVaNFJtaS1waW44N3EtY0Y4eW1uQmhGXzZDV0J1UlJlY05QX25yWWthd0NzSTJpRDFYUzJidjNpNm1fbThwVm9lWjc4elZNUVFlRWxnMlZyVXpJb25yUEhkdDlHdW9xN0FKT0plRDlObnRLN0FBVUtBSVhKVWpLckJRZ3BwcHY4?oc=5",
+        "date": "2026-05-09",
+        "title": "Louisiana storm threat brings flooding, damage concerns - WDSU",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQYVVhbjZ5ekRmLThVSTZkRXVaNFJtaS1waW44N3EtY0Y4eW1uQmhGXzZDV0J1UlJlY05QX25yWWthd0NzSTJpRDFYUzJidjNpNm1fbThwVm9lWjc4elZNUVFlRWxnMlZyVXpJb25yUEhkdDlHdW9xN0FKT0plRDlObnRLN0FBVUtBSVhKVWpLckJRZ3BwcHY4?oc=5\" target=\"_blank\">Louisiana storm threat brings flooding, damage concerns</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WDSU</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
     }
 ]
