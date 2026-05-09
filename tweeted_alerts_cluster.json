@@ -20907,5 +20907,20 @@
     "last_tweeted_at": "2026-05-08T22:02:03.339396Z",
     "tweet_id": "2052871706557976971",
     "resolved": false
+  },
+  "17.5937,94.5800": {
+    "country": "Myanmar",
+    "name": "Gwa",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 17.59369,
+    "longitude": 94.57996,
+    "rain_mm": 34.31,
+    "soil_moisture": 1.0,
+    "raw_dynamic_score": 6.562,
+    "last_updated": "2026-05-09T07:55:01.448469Z",
+    "last_tweeted_at": "2026-05-09T07:55:01.448469Z",
+    "tweet_id": "2053020937797136466",
+    "resolved": false
   }
 }
