@@ -13713,5 +13713,52 @@
             "longitude": null,
             "confidence": 0.0
         }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE03RjNybFdFUlVENHl5c1VoNHVfYWQ3V0pERm5LVzZhcll1WVNwZEtQcWFrNG5fbktVaVVZbmk0aDVITU9wLTVEczc3enc0RU9wUVA0VWMtcEtTYzI4aU9sS0FqcmNkM2QyeEF3VnNMbF9wclctNmJJZWhn?oc=5",
+        "date": "2026-05-10",
+        "title": "Flood warning active for Chelan County until further notice, says the NWS - Tri-City Herald",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE03RjNybFdFUlVENHl5c1VoNHVfYWQ3V0pERm5LVzZhcll1WVNwZEtQcWFrNG5fbktVaVVZbmk0aDVITU9wLTVEczc3enc0RU9wUVA0VWMtcEtTYzI4aU9sS0FqcmNkM2QyeEF3VnNMbF9wclctNmJJZWhn?oc=5\" target=\"_blank\">Flood warning active for Chelan County until further notice, says the NWS</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tri-City Herald</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": null,
+        "tweet_id": "2053589720521728426",
+        "geo": {
+            "country": "United States",
+            "name": "Chelan County, Washington",
+            "latitude": 47.8,
+            "longitude": -120.7,
+            "confidence": 1.0
+        }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4waHQ2U1AxV21FdElxYUUxbWswd3hrUGFDZGhNMVV5LWE1TWtpLUQzMVhFUEhmV1NDZGozOUc5NURaUF9HaXhHOTQ5a1FwanBYa0RNY2xCSTlyQWVncVI4UVVXM3VINnFtSW1GOVRCU2hYcmFSaWN3OFoyVQ?oc=5",
+        "date": "2026-05-10",
+        "title": "Amit Shah\u2019s Zero-Casualty Mission: India Gears Up for Monsoon Mayhem & Scorching Heat Waves - pragativadi.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE4waHQ2U1AxV21FdElxYUUxbWswd3hrUGFDZGhNMVV5LWE1TWtpLUQzMVhFUEhmV1NDZGozOUc5NURaUF9HaXhHOTQ5a1FwanBYa0RNY2xCSTlyQWVncVI4UVVXM3VINnFtSW1GOVRCU2hYcmFSaWN3OFoyVQ?oc=5\" target=\"_blank\">Amit Shah\u2019s Zero-Casualty Mission: India Gears Up for Monsoon Mayhem & Scorching Heat Waves</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">pragativadi.com</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE03RjNybFdFUlVENHl5c1VoNHVfYWQ3V0pERm5LVzZhcll1WVNwZEtQcWFrNG5fbktVaVVZbmk0aDVITU9wLTVEczc3enc0RU9wUVA0VWMtcEtTYzI4aU9sS0FqcmNkM2QyeEF3VnNMbF9wclctNmJJZWhn?oc=5",
+        "date": "2026-05-10",
+        "title": "Flood warning active for Chelan County until further notice, says the NWS - Tri-City Herald",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE03RjNybFdFUlVENHl5c1VoNHVfYWQ3V0pERm5LVzZhcll1WVNwZEtQcWFrNG5fbktVaVVZbmk0aDVITU9wLTVEczc3enc0RU9wUVA0VWMtcEtTYzI4aU9sS0FqcmNkM2QyeEF3VnNMbF9wclctNmJJZWhn?oc=5\" target=\"_blank\">Flood warning active for Chelan County until further notice, says the NWS</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tri-City Herald</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 FORECAST Chelan County: Flood warning active until further notice.",
+        "type": "news",
+        "tweet_id": "2053589720521728426",
+        "geo": {
+            "country": "United States",
+            "name": "Chelan County, Washington",
+            "latitude": 47.8,
+            "longitude": -120.7,
+            "confidence": 1.0
+        }
     }
 ]
