@@ -20859,5 +20859,20 @@
     "last_tweeted_at": "2026-05-10T06:06:25.386816Z",
     "tweet_id": "2053356002376843610",
     "resolved": false
+  },
+  "17.7951,96.6698": {
+    "country": "Myanmar",
+    "name": "Daik-u",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 17.79506,
+    "longitude": 96.66983,
+    "rain_mm": 47.06,
+    "soil_moisture": 0.509,
+    "raw_dynamic_score": 6.912,
+    "last_updated": "2026-05-10T08:12:10.765497Z",
+    "last_tweeted_at": "2026-05-10T08:12:10.765497Z",
+    "tweet_id": "2053387642088161293",
+    "resolved": false
   }
 }
