@@ -20768,10 +20768,18 @@
     "rain_mm": 76.62,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 14.655,
-    "last_updated": "2026-05-10T02:17:23.012709Z",
+    "last_updated": "2026-05-10T06:06:25.386816Z",
     "last_tweeted_at": "2026-05-10T02:17:23.012709Z",
     "tweet_id": "2053298362506510581",
-    "resolved": false
+    "resolved": false,
+    "pending_downgrade": true,
+    "pending_target_level": "Low",
+    "pending_set_at": "2026-05-10T06:06:25.386816Z",
+    "pending_is_region": false,
+    "pending_observed_level": "Low",
+    "pending_observed_rain_mm": 21.19,
+    "pending_observed_soil_moisture": 1.0,
+    "pending_observed_raw_dynamic_score": 4.052
   },
   "18.0883,-96.1253": {
     "country": "Mexico",
@@ -20835,6 +20843,21 @@
     "last_updated": "2026-05-10T02:17:23.012709Z",
     "last_tweeted_at": "2026-05-09T21:45:26.817435Z",
     "tweet_id": "2053230687331959142",
+    "resolved": false
+  },
+  "-2.1580,16.2325": {
+    "country": "The Democratic Republic of the Congo",
+    "name": "Bolobo",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": -2.158,
+    "longitude": 16.23249,
+    "rain_mm": 47.56,
+    "soil_moisture": 0.596,
+    "raw_dynamic_score": 7.363,
+    "last_updated": "2026-05-10T06:06:25.386816Z",
+    "last_tweeted_at": "2026-05-10T06:06:25.386816Z",
+    "tweet_id": "2053356002376843610",
     "resolved": false
   }
 }
