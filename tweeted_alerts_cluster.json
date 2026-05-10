@@ -20855,7 +20855,7 @@
     "rain_mm": 47.56,
     "soil_moisture": 0.596,
     "raw_dynamic_score": 7.363,
-    "last_updated": "2026-05-10T06:06:25.386816Z",
+    "last_updated": "2026-05-10T10:15:49.086306Z",
     "last_tweeted_at": "2026-05-10T06:06:25.386816Z",
     "tweet_id": "2053356002376843610",
     "resolved": false
@@ -20870,9 +20870,39 @@
     "rain_mm": 47.06,
     "soil_moisture": 0.509,
     "raw_dynamic_score": 6.912,
-    "last_updated": "2026-05-10T08:12:10.765497Z",
+    "last_updated": "2026-05-10T10:15:49.086306Z",
     "last_tweeted_at": "2026-05-10T08:12:10.765497Z",
     "tweet_id": "2053387642088161293",
+    "resolved": false
+  },
+  "11.6305,104.8854": {
+    "country": "Cambodia",
+    "name": "Chrang Chamreh Muoy",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 11.63049,
+    "longitude": 104.88542,
+    "rain_mm": 50.62,
+    "soil_moisture": 0.404,
+    "raw_dynamic_score": 6.958,
+    "last_updated": "2026-05-10T10:15:49.086306Z",
+    "last_tweeted_at": "2026-05-10T10:15:49.086306Z",
+    "tweet_id": "2053418757616541832",
+    "resolved": false
+  },
+  "11.3841,106.2308": {
+    "country": "Viet Nam",
+    "name": "Dương Minh Châu",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 11.38414,
+    "longitude": 106.23078,
+    "rain_mm": 68.38,
+    "soil_moisture": 0.443,
+    "raw_dynamic_score": 9.639,
+    "last_updated": "2026-05-10T10:15:49.086306Z",
+    "last_tweeted_at": "2026-05-10T10:15:49.086306Z",
+    "tweet_id": "2053419009979334769",
     "resolved": false
   }
 }
