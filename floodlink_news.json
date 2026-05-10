@@ -13603,5 +13603,14 @@
         "score": 3,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-05-10",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 US: $145B in flood & storm surge losses from 2024 hurricanes.  \n\ud83c\uddea\ud83c\uddfa Europe: \u20ac120B from 2021 extreme rainfall & flash floods.  \n2026 projections show 30% rise in both regions due to intensifying events.",
+        "type": "statistical",
+        "category": "economic losses from floods and flash floods",
+        "tweet_id": "2053381986249777271"
     }
 ]
