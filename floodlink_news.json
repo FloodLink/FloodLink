@@ -13676,5 +13676,42 @@
             "longitude": 40.2833,
             "confidence": 0.95
         }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPNzhoMzZ3NGJ2bXVUTG5FeGRaZzBjMjJLQmVBYUJuYzlQSVZSeXdVc3hXdktvcUdRLThJQ2duTjNEWW52bWJsbWVhX0RkRFE2Y1FaVGVTYzB4ZEpkN0lxbmdxZm9LQkJwdFpuNld2UkotZ3kxSGxFMjVmUkNFSmFrazNabE9TSzFpdzFwMjJrR2xTdGhZM3JKTGw3MEl6NjZndWhRSkZ0cTBtbERrdFktY1VRMG80M0VIUkFsUlNkLVBuWHJ1Nm9B?oc=5",
+        "date": "2026-05-10",
+        "title": "A family\u2019s baby was battling a rare heart condition. Then the levee broke - The Seattle Times",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxPNzhoMzZ3NGJ2bXVUTG5FeGRaZzBjMjJLQmVBYUJuYzlQSVZSeXdVc3hXdktvcUdRLThJQ2duTjNEWW52bWJsbWVhX0RkRFE2Y1FaVGVTYzB4ZEpkN0lxbmdxZm9LQkJwdFpuNld2UkotZ3kxSGxFMjVmUkNFSmFrazNabE9TSzFpdzFwMjJrR2xTdGhZM3JKTGw3MEl6NjZndWhRSkZ0cTBtbERrdFktY1VRMG80M0VIUkFsUlNkLVBuWHJ1Nm9B?oc=5\" target=\"_blank\">A family\u2019s baby was battling a rare heart condition. Then the levee broke</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Seattle Times</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": null,
+        "tweet_id": "2053478121425211677",
+        "geo": {
+            "country": null,
+            "name": null,
+            "latitude": null,
+            "longitude": null,
+            "confidence": 0.0
+        }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPNzhoMzZ3NGJ2bXVUTG5FeGRaZzBjMjJLQmVBYUJuYzlQSVZSeXdVc3hXdktvcUdRLThJQ2duTjNEWW52bWJsbWVhX0RkRFE2Y1FaVGVTYzB4ZEpkN0lxbmdxZm9LQkJwdFpuNld2UkotZ3kxSGxFMjVmUkNFSmFrazNabE9TSzFpdzFwMjJrR2xTdGhZM3JKTGw3MEl6NjZndWhRSkZ0cTBtbERrdFktY1VRMG80M0VIUkFsUlNkLVBuWHJ1Nm9B?oc=5",
+        "date": "2026-05-10",
+        "title": "A family\u2019s baby was battling a rare heart condition. Then the levee broke - The Seattle Times",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxPNzhoMzZ3NGJ2bXVUTG5FeGRaZzBjMjJLQmVBYUJuYzlQSVZSeXdVc3hXdktvcUdRLThJQ2duTjNEWW52bWJsbWVhX0RkRFE2Y1FaVGVTYzB4ZEpkN0lxbmdxZm9LQkJwdFpuNld2UkotZ3kxSGxFMjVmUkNFSmFrazNabE9TSzFpdzFwMjJrR2xTdGhZM3JKTGw3MEl6NjZndWhRSkZ0cTBtbERrdFktY1VRMG80M0VIUkFsUlNkLVBuWHJ1Nm9B?oc=5\" target=\"_blank\">A family\u2019s baby was battling a rare heart condition. Then the levee broke</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Seattle Times</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 POST-EVENT Washington: Levee break causes flood, endangering family whose baby battles rare heart condition. (The Seattle Times)",
+        "type": "news",
+        "tweet_id": "2053478121425211677",
+        "geo": {
+            "country": null,
+            "name": null,
+            "latitude": null,
+            "longitude": null,
+            "confidence": 0.0
+        }
     }
 ]
