@@ -6924,7 +6924,7 @@
     "rain_mm": 46.88,
     "soil_moisture": 0.714,
     "raw_dynamic_score": 7.754,
-    "last_updated": "2026-03-30T16:09:20.170319Z",
+    "last_updated": "2026-05-11T17:41:13.195972Z",
     "last_tweeted_at": "2026-02-24T09:48:30.082552Z",
     "tweet_id": "2026232797497643488",
     "resolved": false
@@ -15404,7 +15404,7 @@
     "rain_mm": 68.62,
     "soil_moisture": 0.648,
     "raw_dynamic_score": 10.945,
-    "last_updated": "2026-04-13T07:58:20.200470Z",
+    "last_updated": "2026-05-11T17:41:13.195972Z",
     "last_tweeted_at": "2026-04-13T02:05:29.049303Z",
     "tweet_id": "2043511149979648039",
     "resolved": false
@@ -21065,9 +21065,54 @@
     "rain_mm": 48.06,
     "soil_moisture": 0.728,
     "raw_dynamic_score": 8.013,
-    "last_updated": "2026-05-11T15:05:28.302800Z",
+    "last_updated": "2026-05-11T17:41:13.195972Z",
     "last_tweeted_at": "2026-05-11T15:05:28.302800Z",
     "tweet_id": "2053854051997986928",
+    "resolved": false
+  },
+  "7.0002,-76.2691": {
+    "country": "Colombia",
+    "name": "Dabeiba",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 7.00017,
+    "longitude": -76.26915,
+    "rain_mm": 54.38,
+    "soil_moisture": 0.688,
+    "raw_dynamic_score": 8.865,
+    "last_updated": "2026-05-11T17:41:13.195972Z",
+    "last_tweeted_at": "2026-05-11T17:41:13.195972Z",
+    "tweet_id": "2053893232614945048",
+    "resolved": false
+  },
+  "7.0897,171.3803": {
+    "country": "Marshall Islands",
+    "name": "Majuro",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 7.08971,
+    "longitude": 171.38027,
+    "rain_mm": 39.62,
+    "soil_moisture": 1.0,
+    "raw_dynamic_score": 7.578,
+    "last_updated": "2026-05-11T17:41:13.195972Z",
+    "last_tweeted_at": "2026-05-11T17:41:13.195972Z",
+    "tweet_id": "2053893485279719892",
+    "resolved": false
+  },
+  "-33.3689,19.3109": {
+    "country": "South Africa",
+    "name": "Ceres",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": -33.36889,
+    "longitude": 19.31095,
+    "rain_mm": 54.12,
+    "soil_moisture": 0.636,
+    "raw_dynamic_score": 8.571,
+    "last_updated": "2026-05-11T17:41:13.195972Z",
+    "last_tweeted_at": "2026-05-11T17:41:13.195972Z",
+    "tweet_id": "2053893738070417861",
     "resolved": false
   }
 }
