@@ -19454,7 +19454,7 @@
     "rain_mm": 51.75,
     "soil_moisture": 0.594,
     "raw_dynamic_score": 8.002,
-    "last_updated": "2026-05-11T06:40:09.193280Z",
+    "last_updated": "2026-05-11T12:08:16.919009Z",
     "last_tweeted_at": "2026-05-05T22:15:05.856715Z",
     "tweet_id": "2051788083037966740",
     "resolved": false
@@ -21035,9 +21035,24 @@
     "rain_mm": 56.0,
     "soil_moisture": 0.525,
     "raw_dynamic_score": 8.308,
-    "last_updated": "2026-05-11T06:40:09.193280Z",
+    "last_updated": "2026-05-11T12:08:16.919009Z",
     "last_tweeted_at": "2026-05-11T06:40:09.193280Z",
     "tweet_id": "2053726877873836356",
+    "resolved": false
+  },
+  "2.5248,112.3254": {
+    "country": "Malaysia",
+    "name": "Selangau",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 2.52477,
+    "longitude": 112.32543,
+    "rain_mm": 40.19,
+    "soil_moisture": 0.7,
+    "raw_dynamic_score": 6.598,
+    "last_updated": "2026-05-11T12:08:16.919009Z",
+    "last_tweeted_at": "2026-05-11T12:08:16.919009Z",
+    "tweet_id": "2053809454924128345",
     "resolved": false
   }
 }
