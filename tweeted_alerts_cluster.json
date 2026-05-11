@@ -21050,9 +21050,24 @@
     "rain_mm": 40.19,
     "soil_moisture": 0.7,
     "raw_dynamic_score": 6.598,
-    "last_updated": "2026-05-11T12:08:16.919009Z",
+    "last_updated": "2026-05-11T15:05:28.302800Z",
     "last_tweeted_at": "2026-05-11T12:08:16.919009Z",
     "tweet_id": "2053809454924128345",
+    "resolved": false
+  },
+  "2.5680,-72.6397": {
+    "country": "Colombia",
+    "name": "San José del Guaviare",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 2.56799,
+    "longitude": -72.63972,
+    "rain_mm": 48.06,
+    "soil_moisture": 0.728,
+    "raw_dynamic_score": 8.013,
+    "last_updated": "2026-05-11T15:05:28.302800Z",
+    "last_tweeted_at": "2026-05-11T15:05:28.302800Z",
+    "tweet_id": "2053854051997986928",
     "resolved": false
   }
 }
