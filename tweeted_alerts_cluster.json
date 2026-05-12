@@ -15400,7 +15400,7 @@
     "rain_mm": 86.75,
     "soil_moisture": 0.665,
     "raw_dynamic_score": 13.969,
-    "last_updated": "2026-05-11T22:08:43.702860Z",
+    "last_updated": "2026-05-12T02:21:18.150216Z",
     "last_tweeted_at": "2026-05-11T19:38:31.240401Z",
     "tweet_id": "2053922757751054448",
     "resolved": false,
@@ -20681,18 +20681,17 @@
   "18.8561,94.2408": {
     "country": "Myanmar",
     "name": "Taungup",
-    "risk_level": "Low",
-    "tweeted_level": "Low",
+    "risk_level": "High",
+    "tweeted_level": "High",
     "latitude": 18.85609,
     "longitude": 94.24078,
-    "rain_mm": 26.0,
+    "rain_mm": 65.81,
     "soil_moisture": 1.0,
-    "raw_dynamic_score": 4.973,
-    "last_updated": "2026-05-11T02:35:47.789352Z",
-    "last_tweeted_at": "2026-05-11T02:35:47.789352Z",
-    "tweet_id": "2053666396433682675",
-    "resolved": true,
-    "resolved_at": "2026-05-11T02:35:47.789352Z"
+    "raw_dynamic_score": 12.587,
+    "last_updated": "2026-05-12T02:21:18.150216Z",
+    "last_tweeted_at": "2026-05-12T02:21:18.150216Z",
+    "tweet_id": "2054024130375082088",
+    "resolved": false
   },
   "18.2391,-96.1357": {
     "country": "Mexico",
@@ -20704,7 +20703,7 @@
     "rain_mm": 81.12,
     "soil_moisture": 0.361,
     "raw_dynamic_score": 10.834,
-    "last_updated": "2026-05-11T19:38:31.240401Z",
+    "last_updated": "2026-05-12T02:21:18.150216Z",
     "last_tweeted_at": "2026-05-09T21:45:26.817435Z",
     "tweet_id": "2053230434646155763",
     "resolved": false
@@ -21068,7 +21067,7 @@
     "rain_mm": 47.94,
     "soil_moisture": 0.655,
     "raw_dynamic_score": 7.674,
-    "last_updated": "2026-05-11T19:38:31.240401Z",
+    "last_updated": "2026-05-12T02:21:18.150216Z",
     "last_tweeted_at": "2026-05-11T19:38:31.240401Z",
     "tweet_id": "2053923010642362849",
     "resolved": false
@@ -21083,7 +21082,7 @@
     "rain_mm": 53.81,
     "soil_moisture": 0.733,
     "raw_dynamic_score": 8.993,
-    "last_updated": "2026-05-11T22:08:43.702860Z",
+    "last_updated": "2026-05-12T02:21:18.150216Z",
     "last_tweeted_at": "2026-05-11T22:08:43.702860Z",
     "tweet_id": "2053960551143764024",
     "resolved": false
@@ -21098,7 +21097,7 @@
     "rain_mm": 55.25,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 10.567,
-    "last_updated": "2026-05-11T22:08:43.702860Z",
+    "last_updated": "2026-05-12T02:21:18.150216Z",
     "last_tweeted_at": "2026-05-11T22:08:43.702860Z",
     "tweet_id": "2053961056309977449",
     "resolved": false
