@@ -2784,7 +2784,7 @@
     "rain_mm": 34.06,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 6.514,
-    "last_updated": "2026-05-11T02:35:47.789352Z",
+    "last_updated": "2026-05-12T06:08:56.091765Z",
     "last_tweeted_at": "2026-01-22T04:08:42.671537Z",
     "tweet_id": "2014188734409740474",
     "resolved": false
@@ -15400,18 +15400,18 @@
     "rain_mm": 86.75,
     "soil_moisture": 0.665,
     "raw_dynamic_score": 13.969,
-    "last_updated": "2026-05-12T02:21:18.150216Z",
+    "last_updated": "2026-05-12T06:08:56.091765Z",
     "last_tweeted_at": "2026-05-11T19:38:31.240401Z",
     "tweet_id": "2053922757751054448",
     "resolved": false,
     "pending_downgrade": true,
     "pending_target_level": "Low",
-    "pending_set_at": "2026-05-11T22:08:43.702860Z",
+    "pending_set_at": "2026-05-12T06:08:56.091765Z",
     "pending_is_region": false,
     "pending_observed_level": "Low",
-    "pending_observed_rain_mm": 38.88,
-    "pending_observed_soil_moisture": 0.664,
-    "pending_observed_raw_dynamic_score": 6.254
+    "pending_observed_rain_mm": 11.88,
+    "pending_observed_soil_moisture": 0.65,
+    "pending_observed_raw_dynamic_score": 1.895
   },
   "36.5108,1.3081": {
     "country": "Algeria",
@@ -20313,7 +20313,7 @@
     "rain_mm": 34.31,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 6.562,
-    "last_updated": "2026-05-09T10:10:21.654915Z",
+    "last_updated": "2026-05-12T06:08:56.091765Z",
     "last_tweeted_at": "2026-05-09T07:55:01.448469Z",
     "tweet_id": "2053020937797136466",
     "resolved": false
@@ -20688,10 +20688,14 @@
     "rain_mm": 65.81,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 12.587,
-    "last_updated": "2026-05-12T02:21:18.150216Z",
+    "last_updated": "2026-05-12T06:08:56.091765Z",
     "last_tweeted_at": "2026-05-12T02:21:18.150216Z",
     "tweet_id": "2054024130375082088",
-    "resolved": false
+    "resolved": false,
+    "pending_downgrade": true,
+    "pending_target_level": "Low",
+    "pending_set_at": "2026-05-12T06:08:56.091765Z",
+    "pending_is_region": true
   },
   "18.2391,-96.1357": {
     "country": "Mexico",
@@ -20947,7 +20951,7 @@
     "rain_mm": 73.19,
     "soil_moisture": 0.745,
     "raw_dynamic_score": 12.31,
-    "last_updated": "2026-05-11T22:08:43.702860Z",
+    "last_updated": "2026-05-12T06:08:56.091765Z",
     "last_tweeted_at": "2026-05-11T22:08:43.702860Z",
     "tweet_id": "2053960803850522924",
     "resolved": false
@@ -21115,6 +21119,51 @@
     "last_updated": "2026-05-11T22:08:43.702860Z",
     "last_tweeted_at": "2026-05-11T22:08:43.702860Z",
     "tweet_id": "2053961056309977449",
+    "resolved": false
+  },
+  "-3.8678,-54.2200": {
+    "country": "Brazil",
+    "name": "Placas",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": -3.86778,
+    "longitude": -54.22,
+    "rain_mm": 61.62,
+    "soil_moisture": 0.726,
+    "raw_dynamic_score": 10.26,
+    "last_updated": "2026-05-12T06:08:56.091765Z",
+    "last_tweeted_at": "2026-05-12T06:08:56.091765Z",
+    "tweet_id": "2054081401788543170",
+    "resolved": false
+  },
+  "9.9824,98.5503": {
+    "country": "Myanmar",
+    "name": "Kawthoung",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 9.98238,
+    "longitude": 98.55034,
+    "rain_mm": 35.56,
+    "soil_moisture": 1.0,
+    "raw_dynamic_score": 6.801,
+    "last_updated": "2026-05-12T06:08:56.091765Z",
+    "last_tweeted_at": "2026-05-12T06:08:56.091765Z",
+    "tweet_id": "2054081654184911249",
+    "resolved": false
+  },
+  "46.0511,14.5051": {
+    "country": "Slovenia",
+    "name": "Ljubljana",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 46.05108,
+    "longitude": 14.50513,
+    "rain_mm": 41.5,
+    "soil_moisture": 0.647,
+    "raw_dynamic_score": 6.614,
+    "last_updated": "2026-05-12T06:08:56.091765Z",
+    "last_tweeted_at": "2026-05-12T06:08:56.091765Z",
+    "tweet_id": "2054081906539479123",
     "resolved": false
   }
 }
