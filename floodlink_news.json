@@ -13258,5 +13258,14 @@
             "longitude": null,
             "confidence": 0.0
         }
+    },
+    {
+        "link": null,
+        "date": "2026-05-12",
+        "status": "posted",
+        "tweet": "Global economic losses from floods, flash floods, and extreme rainfall hit $140B in 2025\u2014up 75% from 2020 averages. Projections: $300B annually by 2030.",
+        "type": "statistical",
+        "category": "economic losses from floods and flash floods",
+        "tweet_id": "2054156339346366836"
     }
 ]
