@@ -13432,5 +13432,14 @@
         "score": 8,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-05-12",
+        "status": "posted",
+        "tweet": "By 2030, extreme rainfall could expose 1B+ urban dwellers to pluvial flooding in dense cities (UN projections).\n\n1. Mumbai \ud83c\uddee\ud83c\uddf3: 12M exposed (40% pop.)\n2. Dhaka \ud83c\udde7\ud83c\udde9: 10M exposed (35% pop.)\n3. Lagos \ud83c\uddf3\ud83c\uddec: 9M exposed ($40B losses)\n4. NYC \ud83c\uddfa\ud83c\uddf8: 7M exposed (25% pop.)\n5. Shanghai \ud83c\udde8\ud83c\uddf3: 6M expo",
+        "type": "statistical",
+        "category": "pluvial (surface) flooding in dense cities",
+        "tweet_id": "2054295943944843328"
     }
 ]
