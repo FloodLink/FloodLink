@@ -20986,5 +20986,35 @@
     "last_tweeted_at": "2026-05-13T17:26:58.802414Z",
     "tweet_id": "2054614423621538197",
     "resolved": false
+  },
+  "-0.0962,34.2732": {
+    "country": "Kenya",
+    "name": "Bondo",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": -0.0962,
+    "longitude": 34.27322,
+    "rain_mm": 41.88,
+    "soil_moisture": 0.615,
+    "raw_dynamic_score": 6.554,
+    "last_updated": "2026-05-13T22:14:59.916331Z",
+    "last_tweeted_at": "2026-05-13T22:14:59.916331Z",
+    "tweet_id": "2054686907716796506",
+    "resolved": false
+  },
+  "0.0607,34.2881": {
+    "country": "Kenya",
+    "name": "Siaya",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 0.0607,
+    "longitude": 34.28806,
+    "rain_mm": 41.88,
+    "soil_moisture": 0.615,
+    "raw_dynamic_score": 6.554,
+    "last_updated": "2026-05-13T22:14:59.916331Z",
+    "last_tweeted_at": "2026-05-13T22:14:59.916331Z",
+    "tweet_id": "2054686907716796506",
+    "resolved": false
   }
 }
