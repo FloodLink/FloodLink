@@ -13076,18 +13076,18 @@
     "rain_mm": 86.62,
     "soil_moisture": 0.742,
     "raw_dynamic_score": 14.548,
-    "last_updated": "2026-05-13T17:26:58.802414Z",
+    "last_updated": "2026-05-13T19:52:41.605324Z",
     "last_tweeted_at": "2026-05-13T14:19:34.167956Z",
     "tweet_id": "2054567273101152661",
     "resolved": false,
     "pending_downgrade": true,
-    "pending_target_level": "Medium",
-    "pending_set_at": "2026-05-13T17:26:58.802414Z",
+    "pending_target_level": "Low",
+    "pending_set_at": "2026-05-13T19:52:41.605324Z",
     "pending_is_region": false,
-    "pending_observed_level": "Medium",
-    "pending_observed_rain_mm": 42.56,
-    "pending_observed_soil_moisture": 0.715,
-    "pending_observed_raw_dynamic_score": 7.045
+    "pending_observed_level": "Low",
+    "pending_observed_rain_mm": 35.56,
+    "pending_observed_soil_moisture": 0.0,
+    "pending_observed_raw_dynamic_score": 3.59
   },
   "33.2533,126.5618": {
     "country": "Republic of Korea",
@@ -14963,22 +14963,6 @@
     "last_tweeted_at": "2026-04-13T02:05:29.049303Z",
     "tweet_id": "2043510897289646251",
     "resolved": false
-  },
-  "5.2660,-76.5649": {
-    "country": "Colombia",
-    "name": "Tadó",
-    "risk_level": "Low",
-    "tweeted_level": "Low",
-    "latitude": 5.26598,
-    "longitude": -76.56487,
-    "rain_mm": 0.5,
-    "soil_moisture": 0.571,
-    "raw_dynamic_score": 0.076,
-    "last_updated": "2026-05-12T19:43:24.790020Z",
-    "last_tweeted_at": "2026-05-12T19:43:24.790020Z",
-    "tweet_id": "2054286637820232095",
-    "resolved": true,
-    "resolved_at": "2026-05-12T19:43:24.790020Z"
   },
   "36.5108,1.3081": {
     "country": "Algeria",
@@ -18758,7 +18742,7 @@
     "rain_mm": 46.19,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 8.833,
-    "last_updated": "2026-05-13T17:26:58.802414Z",
+    "last_updated": "2026-05-13T19:52:41.605324Z",
     "last_tweeted_at": "2026-05-05T02:13:40.806146Z",
     "tweet_id": "2051485744082923584",
     "resolved": false
@@ -20983,7 +20967,7 @@
     "rain_mm": 45.0,
     "soil_moisture": 0.627,
     "raw_dynamic_score": 7.09,
-    "last_updated": "2026-05-13T17:26:58.802414Z",
+    "last_updated": "2026-05-13T19:52:41.605324Z",
     "last_tweeted_at": "2026-05-13T17:26:58.802414Z",
     "tweet_id": "2054614423621538197",
     "resolved": false
