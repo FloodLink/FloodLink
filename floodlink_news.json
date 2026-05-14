@@ -12685,5 +12685,82 @@
             "longitude": 144.7937,
             "confidence": 0.95
         }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1qUUcyRGNkVDNSY2FhNkdudERjczdReWg5bHk5QnFuX2VrWGRfREMxTzJuMFdnYTdoVmkycjFJdTJjVm1FVVFIdEt6N0VIMDQxdE1kQklQUU1FQ24wWm1LamNB?oc=5",
+        "date": "2026-05-14",
+        "title": "Phetchabun districts warned of heavy rain, floods and landslides - Nation Thailand",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE1qUUcyRGNkVDNSY2FhNkdudERjczdReWg5bHk5QnFuX2VrWGRfREMxTzJuMFdnYTdoVmkycjFJdTJjVm1FVVFIdEt6N0VIMDQxdE1kQklQUU1FQ24wWm1LamNB?oc=5\" target=\"_blank\">Phetchabun districts warned of heavy rain, floods and landslides</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Nation Thailand</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBDbENWREJxOEZ4a3BaSHd4RHpQcXVyRDZMai1ySTg4dlgzV1pacThDTGsxZ1pZZUV1ZjlOd1Zod1MtcFF6bm5fYm03Z3YzLXpxMWRKOXRSMTVQcTVQVndmbldn?oc=5",
+        "date": "2026-05-14",
+        "title": "Flash floods hit Phetchabun after heavy overnight rain - Nation Thailand",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTFBDbENWREJxOEZ4a3BaSHd4RHpQcXVyRDZMai1ySTg4dlgzV1pacThDTGsxZ1pZZUV1ZjlOd1Zod1MtcFF6bm5fYm03Z3YzLXpxMWRKOXRSMTVQcTVQVndmbldn?oc=5\" target=\"_blank\">Flash floods hit Phetchabun after heavy overnight rain</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Nation Thailand</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVG1Db2RaeHNkYlhCMmdkMWI1bERSYzZvYURZLWR2YTFkT1pTQ3lHdjUzMHZoUGxyTk1TVzdYRy1BakxnekpwOUlKaEdvbkIxN1czNFdPQjZPRTVGcTBNMERwU21xeGhSYW5uV0xNT1k4VHcxWmtCOUlqRlBFczNQd0JhdWxjVmUxdmQ1bHZaZHpBZEdEZDdjdWpaNkJsZFFnZEtGRlBENNIBrAFBVV95cUxNdVBxTVZDS21rcWZ6RXBneGJJdDlLa0RValhHYVJKcnNzY2NLTEZPdFhEYldTVzV4UTJoQzMxNjItd3VrckZtTzNyTXBHNnNvQWZOb2M2dnhDMGRfT2pjcjZEMnBmWHpEVTViczR2YTNlQngtLUdVbmJxNktGVnlXc05kbjVGcnRja1U5bXdyTTJ5aTZfLU54QWMwZkYxU3lmQlhaVHVXaFY3LV92?oc=5",
+        "date": "2026-05-14",
+        "title": "Over 5,000 families fear floods as Rs 17.62-cr dyke weakens in Cachar\u2019s Katigorah - The Assam Tribune",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQVG1Db2RaeHNkYlhCMmdkMWI1bERSYzZvYURZLWR2YTFkT1pTQ3lHdjUzMHZoUGxyTk1TVzdYRy1BakxnekpwOUlKaEdvbkIxN1czNFdPQjZPRTVGcTBNMERwU21xeGhSYW5uV0xNT1k4VHcxWmtCOUlqRlBFczNQd0JhdWxjVmUxdmQ1bHZaZHpBZEdEZDdjdWpaNkJsZFFnZEtGRlBENNIBrAFBVV95cUxNdVBxTVZDS21rcWZ6RXBneGJJdDlLa0RValhHYVJKcnNzY2NLTEZPdFhEYldTVzV4UTJoQzMxNjItd3VrckZtTzNyTXBHNnNvQWZOb2M2dnhDMGRfT2pjcjZEMnBmWHpEVTViczR2YTNlQngtLUdVbmJxNktGVnlXc05kbjVGcnRja1U5bXdyTTJ5aTZfLU54QWMwZkYxU3lmQlhaVHVXaFY3LV92?oc=5\" target=\"_blank\">Over 5,000 families fear floods as Rs 17.62-cr dyke weakens in Cachar\u2019s Katigorah</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Assam Tribune</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": null,
+        "tweet_id": "2054914796672200757",
+        "geo": {
+            "country": "India",
+            "name": "Katigorah, Cachar",
+            "latitude": 24.75,
+            "longitude": 92.58,
+            "confidence": 0.95
+        }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxNWjNhem5PVldRSFdVdkZLU0ktSWVjR2luT29weVJicGdJVWFqUWVPaVZnZVdRLWNhQWhLa0JJcHJIMVVhUVh1b2RPalRyMy1mY2wzQjJ2Sy1zdU4tNUQtZ0c2aW91VVFzUG02N25PY1R4ZjBWWHVOc0tvTHBmNUJ0XzMtdkxTVkR5NFRidUFtbWVINzJKNDhIamhVRzc3ZDA1WHBXSklwbzlxd3FFVHowQjZ4Yi10S1lZcFVLUHNIdVp4YVVsNTY5SUtEX2N0dFQzWU9HaU0wZW5sdmhTaHNNdm5hYnN4SjgwU3RFc09MeklzaWx3TE9UZE1sM2NMdG1SaU1QS2NWT1JVaVJveGpMTkZzZFFFVE1Vd210a2taeWlJQUdCTDktVXBvazVpS2lQc3lncjJRdGtscVpxYUY1b0gzb2dINnloZENScVltZXlGU2NWM2JBT2w1X2ZwVjFiem5V?oc=5",
+        "date": "2026-05-14",
+        "title": "Travel Alert Issued After Thailand Monsoon Crisis Escalates and Pattaya Faces Severe Flood Threats, Dangerous Storm Bursts, and Rising Disruptions Across Coastal and Gulf of Thailand Routes \u2013 New Update You Need to Know - Travel And Tour World",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wJBVV95cUxNWjNhem5PVldRSFdVdkZLU0ktSWVjR2luT29weVJicGdJVWFqUWVPaVZnZVdRLWNhQWhLa0JJcHJIMVVhUVh1b2RPalRyMy1mY2wzQjJ2Sy1zdU4tNUQtZ0c2aW91VVFzUG02N25PY1R4ZjBWWHVOc0tvTHBmNUJ0XzMtdkxTVkR5NFRidUFtbWVINzJKNDhIamhVRzc3ZDA1WHBXSklwbzlxd3FFVHowQjZ4Yi10S1lZcFVLUHNIdVp4YVVsNTY5SUtEX2N0dFQzWU9HaU0wZW5sdmhTaHNNdm5hYnN4SjgwU3RFc09MeklzaWx3TE9UZE1sM2NMdG1SaU1QS2NWT1JVaVJveGpMTkZzZFFFVE1Vd210a2taeWlJQUdCTDktVXBvazVpS2lQc3lncjJRdGtscVpxYUY1b0gzb2dINnloZENScVltZXlGU2NWM2JBT2w1X2ZwVjFiem5V?oc=5\" target=\"_blank\">Travel Alert Issued After Thailand Monsoon Crisis Escalates and Pattaya Faces Severe Flood Threats, Dangerous Storm Bursts, and Rising Disruptions Across Coastal and Gulf of Thailand Routes \u2013 New Update You Need to Know</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Travel And Tour World</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOa19INUdlTi1McTVLRzJWckk4Q0pZcVRtWmV0TlNub1VMVFRNcmxDX0Q0QjE4bUVrNkFZX3pMUDd2Q1BRZTFCRjAtaUprMENlalFMdFVXQ1ZFeXllTEI5MVRmQUlVT3U5WkpuNzRfU19Oc21IQXRpYVJpS3dBa2E2a25MTWE1X20wa1dmLXlxOVJwWnZkcmpESmw3T05OUQ?oc=5",
+        "date": "2026-05-14",
+        "title": "Orange alert issued as pre-monsoon rain intensifies - newskarnataka.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOa19INUdlTi1McTVLRzJWckk4Q0pZcVRtWmV0TlNub1VMVFRNcmxDX0Q0QjE4bUVrNkFZX3pMUDd2Q1BRZTFCRjAtaUprMENlalFMdFVXQ1ZFeXllTEI5MVRmQUlVT3U5WkpuNzRfU19Oc21IQXRpYVJpS3dBa2E2a25MTWE1X20wa1dmLXlxOVJwWnZkcmpESmw3T05OUQ?oc=5\" target=\"_blank\">Orange alert issued as pre-monsoon rain intensifies</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">newskarnataka.com</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVG1Db2RaeHNkYlhCMmdkMWI1bERSYzZvYURZLWR2YTFkT1pTQ3lHdjUzMHZoUGxyTk1TVzdYRy1BakxnekpwOUlKaEdvbkIxN1czNFdPQjZPRTVGcTBNMERwU21xeGhSYW5uV0xNT1k4VHcxWmtCOUlqRlBFczNQd0JhdWxjVmUxdmQ1bHZaZHpBZEdEZDdjdWpaNkJsZFFnZEtGRlBENNIBrAFBVV95cUxNdVBxTVZDS21rcWZ6RXBneGJJdDlLa0RValhHYVJKcnNzY2NLTEZPdFhEYldTVzV4UTJoQzMxNjItd3VrckZtTzNyTXBHNnNvQWZOb2M2dnhDMGRfT2pjcjZEMnBmWHpEVTViczR2YTNlQngtLUdVbmJxNktGVnlXc05kbjVGcnRja1U5bXdyTTJ5aTZfLU54QWMwZkYxU3lmQlhaVHVXaFY3LV92?oc=5",
+        "date": "2026-05-14",
+        "title": "Over 5,000 families fear floods as Rs 17.62-cr dyke weakens in Cachar\u2019s Katigorah - The Assam Tribune",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQVG1Db2RaeHNkYlhCMmdkMWI1bERSYzZvYURZLWR2YTFkT1pTQ3lHdjUzMHZoUGxyTk1TVzdYRy1BakxnekpwOUlKaEdvbkIxN1czNFdPQjZPRTVGcTBNMERwU21xeGhSYW5uV0xNT1k4VHcxWmtCOUlqRlBFczNQd0JhdWxjVmUxdmQ1bHZaZHpBZEdEZDdjdWpaNkJsZFFnZEtGRlBENNIBrAFBVV95cUxNdVBxTVZDS21rcWZ6RXBneGJJdDlLa0RValhHYVJKcnNzY2NLTEZPdFhEYldTVzV4UTJoQzMxNjItd3VrckZtTzNyTXBHNnNvQWZOb2M2dnhDMGRfT2pjcjZEMnBmWHpEVTViczR2YTNlQngtLUdVbmJxNktGVnlXc05kbjVGcnRja1U5bXdyTTJ5aTZfLU54QWMwZkYxU3lmQlhaVHVXaFY3LV92?oc=5\" target=\"_blank\">Over 5,000 families fear floods as Rs 17.62-cr dyke weakens in Cachar\u2019s Katigorah</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Assam Tribune</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "posted",
+        "tweet": "\ud83c\uddee\ud83c\uddf3 FORECAST Katigorah: Over 5,000 families at flood risk as Rs 17.62-cr dyke weakens in Cachar. (Assam Tribune)",
+        "type": "news",
+        "tweet_id": "2054914796672200757",
+        "geo": {
+            "country": "India",
+            "name": "Katigorah, Cachar",
+            "latitude": 24.75,
+            "longitude": 92.58,
+            "confidence": 0.95
+        }
     }
 ]
