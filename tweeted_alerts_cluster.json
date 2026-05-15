@@ -21466,9 +21466,24 @@
     "rain_mm": 48.56,
     "soil_moisture": 0.599,
     "raw_dynamic_score": 7.53,
-    "last_updated": "2026-05-15T11:24:02.301702Z",
+    "last_updated": "2026-05-15T13:56:09.701154Z",
     "last_tweeted_at": "2026-05-15T11:24:02.301702Z",
     "tweet_id": "2055247859973246985",
+    "resolved": false
+  },
+  "44.1432,43.0048": {
+    "country": "Russian Federation",
+    "name": "Zheleznovodsk",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 44.14318,
+    "longitude": 43.00475,
+    "rain_mm": 45.25,
+    "soil_moisture": 0.629,
+    "raw_dynamic_score": 7.137,
+    "last_updated": "2026-05-15T13:56:09.701154Z",
+    "last_tweeted_at": "2026-05-15T13:56:09.701154Z",
+    "tweet_id": "2055286147366916234",
     "resolved": false
   }
 }
