@@ -12054,5 +12054,14 @@
         "tweet": "In 2026, the Netherlands \ud83c\uddf3\ud83c\uddf1 protects 9 million residents with 3,000 km of primary dikes and levees, engineered to withstand 1-in-10,000-year floods amid rising seas.",
         "type": "infrastructure",
         "tweet_id": "2055193062947610827"
+    },
+    {
+        "link": null,
+        "date": "2026-05-15",
+        "status": "posted",
+        "tweet": "By 2030, extreme rainfall could expose 1.7 billion urban dwellers to pluvial flooding risks in dense cities worldwide\u2014up 25% from 2020 levels.",
+        "type": "statistical",
+        "category": "pluvial (surface) flooding in dense cities",
+        "tweet_id": "2055228951136751749"
     }
 ]
