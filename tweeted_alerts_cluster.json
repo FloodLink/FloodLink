@@ -15767,7 +15767,7 @@
     "rain_mm": 43.56,
     "soil_moisture": 0.709,
     "raw_dynamic_score": 7.188,
-    "last_updated": "2026-05-16T16:00:53.972394Z",
+    "last_updated": "2026-05-16T19:02:14.004407Z",
     "last_tweeted_at": "2026-04-19T18:45:13.497742Z",
     "tweet_id": "2045937075531182171",
     "resolved": false
@@ -21369,9 +21369,24 @@
     "rain_mm": 42.12,
     "soil_moisture": 0.69,
     "raw_dynamic_score": 6.878,
-    "last_updated": "2026-05-16T16:00:53.972394Z",
+    "last_updated": "2026-05-16T19:02:14.004407Z",
     "last_tweeted_at": "2026-05-16T16:00:53.972394Z",
     "tweet_id": "2055680188298780835",
+    "resolved": false
+  },
+  "2.8833,112.8500": {
+    "country": "Malaysia",
+    "name": "Tatau",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 2.88333,
+    "longitude": 112.85,
+    "rain_mm": 64.5,
+    "soil_moisture": 0.681,
+    "raw_dynamic_score": 10.478,
+    "last_updated": "2026-05-16T19:02:14.004407Z",
+    "last_tweeted_at": "2026-05-16T19:02:14.004407Z",
+    "tweet_id": "2055725561469685983",
     "resolved": false
   }
 }
