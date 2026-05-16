@@ -384,10 +384,18 @@
     "rain_mm": 88.19,
     "soil_moisture": 0.662,
     "raw_dynamic_score": 14.173,
-    "last_updated": "2026-05-16T10:18:22.603519Z",
+    "last_updated": "2026-05-16T13:12:53.939593Z",
     "last_tweeted_at": "2026-05-16T10:18:22.603519Z",
     "tweet_id": "2055594727676723249",
-    "resolved": false
+    "resolved": false,
+    "pending_downgrade": true,
+    "pending_target_level": "Medium",
+    "pending_set_at": "2026-05-16T13:12:53.939593Z",
+    "pending_is_region": false,
+    "pending_observed_level": "Medium",
+    "pending_observed_rain_mm": 50.88,
+    "pending_observed_soil_moisture": 0.657,
+    "pending_observed_raw_dynamic_score": 8.156
   },
   "-25.4022,32.8072": {
     "country": "Mozambique",
@@ -6539,22 +6547,6 @@
     "tweet_id": "2025065646883475828",
     "resolved": false
   },
-  "6.7132,79.9026": {
-    "country": "Sri Lanka",
-    "name": "Panadura",
-    "risk_level": "Low",
-    "tweeted_level": "Low",
-    "latitude": 6.7132,
-    "longitude": 79.9026,
-    "rain_mm": 4.12,
-    "soil_moisture": 0.619,
-    "raw_dynamic_score": 0.647,
-    "last_updated": "2026-05-15T11:24:02.301702Z",
-    "last_tweeted_at": "2026-05-15T11:24:02.301702Z",
-    "tweet_id": "2055248365374341565",
-    "resolved": true,
-    "resolved_at": "2026-05-15T11:24:02.301702Z"
-  },
   "7.1643,80.5696": {
     "country": "Sri Lanka",
     "name": "Gampola",
@@ -6745,7 +6737,7 @@
     "rain_mm": 64.81,
     "soil_moisture": 0.658,
     "raw_dynamic_score": 10.392,
-    "last_updated": "2026-05-16T10:18:22.603519Z",
+    "last_updated": "2026-05-16T13:12:53.939593Z",
     "last_tweeted_at": "2026-05-16T10:18:22.603519Z",
     "tweet_id": "2055594222661636357",
     "resolved": false
@@ -20185,7 +20177,7 @@
     "rain_mm": 40.19,
     "soil_moisture": 0.7,
     "raw_dynamic_score": 6.598,
-    "last_updated": "2026-05-15T11:24:02.301702Z",
+    "last_updated": "2026-05-16T13:12:53.939593Z",
     "last_tweeted_at": "2026-05-11T12:08:16.919009Z",
     "tweet_id": "2053809454924128345",
     "resolved": false
@@ -20535,38 +20527,6 @@
     "tweet_id": "2054686907716796506",
     "resolved": false
   },
-  "6.5831,79.9593": {
-    "country": "Sri Lanka",
-    "name": "Kalutara",
-    "risk_level": "Low",
-    "tweeted_level": "Low",
-    "latitude": 6.5831,
-    "longitude": 79.9593,
-    "rain_mm": 7.56,
-    "soil_moisture": 0.625,
-    "raw_dynamic_score": 1.19,
-    "last_updated": "2026-05-15T11:24:02.301702Z",
-    "last_tweeted_at": "2026-05-15T11:24:02.301702Z",
-    "tweet_id": "2055248365374341565",
-    "resolved": true,
-    "resolved_at": "2026-05-15T11:24:02.301702Z"
-  },
-  "6.4788,79.9828": {
-    "country": "Sri Lanka",
-    "name": "Beruwala",
-    "risk_level": "Low",
-    "tweeted_level": "Low",
-    "latitude": 6.4788,
-    "longitude": 79.9828,
-    "rain_mm": 7.56,
-    "soil_moisture": 0.625,
-    "raw_dynamic_score": 1.19,
-    "last_updated": "2026-05-15T11:24:02.301702Z",
-    "last_tweeted_at": "2026-05-15T11:24:02.301702Z",
-    "tweet_id": "2055248365374341565",
-    "resolved": true,
-    "resolved_at": "2026-05-15T11:24:02.301702Z"
-  },
   "7.1699,79.8884": {
     "country": "Sri Lanka",
     "name": "Katunayaka",
@@ -20581,22 +20541,6 @@
     "last_tweeted_at": "2026-05-14T11:19:45.391497Z",
     "tweet_id": "2054884654839206086",
     "resolved": false
-  },
-  "6.4260,79.9958": {
-    "country": "Sri Lanka",
-    "name": "Bentota",
-    "risk_level": "Low",
-    "tweeted_level": "Low",
-    "latitude": 6.42598,
-    "longitude": 79.99575,
-    "rain_mm": 7.56,
-    "soil_moisture": 0.625,
-    "raw_dynamic_score": 1.19,
-    "last_updated": "2026-05-15T11:24:02.301702Z",
-    "last_tweeted_at": "2026-05-15T11:24:02.301702Z",
-    "tweet_id": "2055248112621355190",
-    "resolved": true,
-    "resolved_at": "2026-05-15T11:24:02.301702Z"
   },
   "7.2523,80.3436": {
     "country": "Sri Lanka",
@@ -21275,7 +21219,7 @@
     "rain_mm": 59.5,
     "soil_moisture": 0.584,
     "raw_dynamic_score": 9.146,
-    "last_updated": "2026-05-16T08:02:32.779865Z",
+    "last_updated": "2026-05-16T13:12:53.939593Z",
     "last_tweeted_at": "2026-05-16T08:02:32.779865Z",
     "tweet_id": "2055559799320826014",
     "resolved": false
@@ -21335,7 +21279,7 @@
     "rain_mm": 66.25,
     "soil_moisture": 0.615,
     "raw_dynamic_score": 10.368,
-    "last_updated": "2026-05-16T08:02:32.779865Z",
+    "last_updated": "2026-05-16T13:12:53.939593Z",
     "last_tweeted_at": "2026-05-16T08:02:32.779865Z",
     "tweet_id": "2055560304126284252",
     "resolved": false
@@ -21365,7 +21309,7 @@
     "rain_mm": 52.0,
     "soil_moisture": 0.565,
     "raw_dynamic_score": 7.903,
-    "last_updated": "2026-05-16T10:18:22.603519Z",
+    "last_updated": "2026-05-16T13:12:53.939593Z",
     "last_tweeted_at": "2026-05-16T10:18:22.603519Z",
     "tweet_id": "2055593717801664524",
     "resolved": false
@@ -21380,7 +21324,7 @@
     "rain_mm": 49.5,
     "soil_moisture": 0.679,
     "raw_dynamic_score": 8.03,
-    "last_updated": "2026-05-16T10:18:22.603519Z",
+    "last_updated": "2026-05-16T13:12:53.939593Z",
     "last_tweeted_at": "2026-05-16T10:18:22.603519Z",
     "tweet_id": "2055593970286100552",
     "resolved": false
@@ -21395,7 +21339,7 @@
     "rain_mm": 53.81,
     "soil_moisture": 0.641,
     "raw_dynamic_score": 8.545,
-    "last_updated": "2026-05-16T10:18:22.603519Z",
+    "last_updated": "2026-05-16T13:12:53.939593Z",
     "last_tweeted_at": "2026-05-16T10:18:22.603519Z",
     "tweet_id": "2055594475062223287",
     "resolved": false
