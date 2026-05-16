@@ -15767,7 +15767,7 @@
     "rain_mm": 43.56,
     "soil_moisture": 0.709,
     "raw_dynamic_score": 7.188,
-    "last_updated": "2026-05-16T19:02:14.004407Z",
+    "last_updated": "2026-05-16T21:50:44.077935Z",
     "last_tweeted_at": "2026-04-19T18:45:13.497742Z",
     "tweet_id": "2045937075531182171",
     "resolved": false
@@ -20542,22 +20542,6 @@
     "tweet_id": "2054884654839206086",
     "resolved": false
   },
-  "7.2523,80.3436": {
-    "country": "Sri Lanka",
-    "name": "Kegalle",
-    "risk_level": "Low",
-    "tweeted_level": "Low",
-    "latitude": 7.2523,
-    "longitude": 80.3436,
-    "rain_mm": 10.19,
-    "soil_moisture": 0.599,
-    "raw_dynamic_score": 1.579,
-    "last_updated": "2026-05-15T19:29:45.588948Z",
-    "last_tweeted_at": "2026-05-15T19:29:45.588948Z",
-    "tweet_id": "2055370867144565037",
-    "resolved": true,
-    "resolved_at": "2026-05-15T19:29:45.588948Z"
-  },
   "7.5758,79.7953": {
     "country": "Sri Lanka",
     "name": "Chilaw",
@@ -21114,25 +21098,18 @@
   "10.6500,-9.8833": {
     "country": "Guinea",
     "name": "Kouroussa",
-    "risk_level": "High",
-    "tweeted_level": "High",
+    "risk_level": "None",
+    "tweeted_level": "None",
     "latitude": 10.65,
     "longitude": -9.88333,
-    "rain_mm": 99.5,
-    "soil_moisture": 0.563,
-    "raw_dynamic_score": 15.103,
-    "last_updated": "2026-05-15T22:02:00.878584Z",
-    "last_tweeted_at": "2026-05-15T19:29:45.588948Z",
-    "tweet_id": "2055370361600897065",
-    "resolved": false,
-    "pending_downgrade": true,
-    "pending_target_level": "Low",
-    "pending_set_at": "2026-05-15T22:02:00.878584Z",
-    "pending_is_region": false,
-    "pending_observed_level": "Low",
-    "pending_observed_rain_mm": 29.75,
-    "pending_observed_soil_moisture": 0.544,
-    "pending_observed_raw_dynamic_score": 4.465
+    "rain_mm": 0.0,
+    "soil_moisture": 0.407,
+    "raw_dynamic_score": 0.0,
+    "last_updated": "2026-05-16T21:50:44.077935Z",
+    "last_tweeted_at": "2026-05-16T21:50:44.077935Z",
+    "tweet_id": "2055768209454661962",
+    "resolved": true,
+    "resolved_at": "2026-05-16T21:50:44.077935Z"
   },
   "11.7891,34.3592": {
     "country": "Sudan",
@@ -21354,7 +21331,7 @@
     "rain_mm": 51.5,
     "soil_moisture": 0.605,
     "raw_dynamic_score": 8.011,
-    "last_updated": "2026-05-16T16:00:53.972394Z",
+    "last_updated": "2026-05-16T21:50:44.077935Z",
     "last_tweeted_at": "2026-05-16T16:00:53.972394Z",
     "tweet_id": "2055679935931671021",
     "resolved": false
@@ -21384,9 +21361,24 @@
     "rain_mm": 64.5,
     "soil_moisture": 0.681,
     "raw_dynamic_score": 10.478,
-    "last_updated": "2026-05-16T19:02:14.004407Z",
+    "last_updated": "2026-05-16T21:50:44.077935Z",
     "last_tweeted_at": "2026-05-16T19:02:14.004407Z",
     "tweet_id": "2055725561469685983",
+    "resolved": false
+  },
+  "41.0200,-92.4113": {
+    "country": "United States",
+    "name": "Ottumwa",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 41.02001,
+    "longitude": -92.4113,
+    "rain_mm": 74.5,
+    "soil_moisture": 0.584,
+    "raw_dynamic_score": 11.447,
+    "last_updated": "2026-05-16T21:50:44.077935Z",
+    "last_tweeted_at": "2026-05-16T21:50:44.077935Z",
+    "tweet_id": "2055767956802469965",
     "resolved": false
   }
 }
