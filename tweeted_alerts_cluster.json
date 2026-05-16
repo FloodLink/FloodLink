@@ -384,18 +384,18 @@
     "rain_mm": 88.19,
     "soil_moisture": 0.662,
     "raw_dynamic_score": 14.173,
-    "last_updated": "2026-05-16T13:12:53.939593Z",
+    "last_updated": "2026-05-16T16:00:53.972394Z",
     "last_tweeted_at": "2026-05-16T10:18:22.603519Z",
     "tweet_id": "2055594727676723249",
     "resolved": false,
     "pending_downgrade": true,
-    "pending_target_level": "Medium",
-    "pending_set_at": "2026-05-16T13:12:53.939593Z",
+    "pending_target_level": "Low",
+    "pending_set_at": "2026-05-16T16:00:53.972394Z",
     "pending_is_region": false,
-    "pending_observed_level": "Medium",
-    "pending_observed_rain_mm": 50.88,
-    "pending_observed_soil_moisture": 0.657,
-    "pending_observed_raw_dynamic_score": 8.156
+    "pending_observed_level": "Low",
+    "pending_observed_rain_mm": 0.12,
+    "pending_observed_soil_moisture": 0.593,
+    "pending_observed_raw_dynamic_score": 0.019
   },
   "-25.4022,32.8072": {
     "country": "Mozambique",
@@ -15767,7 +15767,7 @@
     "rain_mm": 43.56,
     "soil_moisture": 0.709,
     "raw_dynamic_score": 7.188,
-    "last_updated": "2026-05-16T02:19:27.886665Z",
+    "last_updated": "2026-05-16T16:00:53.972394Z",
     "last_tweeted_at": "2026-04-19T18:45:13.497742Z",
     "tweet_id": "2045937075531182171",
     "resolved": false
@@ -20177,7 +20177,7 @@
     "rain_mm": 40.19,
     "soil_moisture": 0.7,
     "raw_dynamic_score": 6.598,
-    "last_updated": "2026-05-16T13:12:53.939593Z",
+    "last_updated": "2026-05-16T16:00:53.972394Z",
     "last_tweeted_at": "2026-05-11T12:08:16.919009Z",
     "tweet_id": "2053809454924128345",
     "resolved": false
@@ -21342,6 +21342,36 @@
     "last_updated": "2026-05-16T13:12:53.939593Z",
     "last_tweeted_at": "2026-05-16T10:18:22.603519Z",
     "tweet_id": "2055594475062223287",
+    "resolved": false
+  },
+  "31.7047,112.2561": {
+    "country": "China",
+    "name": "Yicheng",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 31.70472,
+    "longitude": 112.25611,
+    "rain_mm": 51.5,
+    "soil_moisture": 0.605,
+    "raw_dynamic_score": 8.011,
+    "last_updated": "2026-05-16T16:00:53.972394Z",
+    "last_tweeted_at": "2026-05-16T16:00:53.972394Z",
+    "tweet_id": "2055679935931671021",
+    "resolved": false
+  },
+  "19.4494,103.1917": {
+    "country": "Lao People's Democratic Republic",
+    "name": "Muang Phônsavan",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 19.4494,
+    "longitude": 103.1917,
+    "rain_mm": 42.12,
+    "soil_moisture": 0.69,
+    "raw_dynamic_score": 6.878,
+    "last_updated": "2026-05-16T16:00:53.972394Z",
+    "last_tweeted_at": "2026-05-16T16:00:53.972394Z",
+    "tweet_id": "2055680188298780835",
     "resolved": false
   }
 }
