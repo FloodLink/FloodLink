@@ -10720,5 +10720,185 @@
             "longitude": -94.5783,
             "confidence": 0.9
         }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5kTWR1VW53Qjg1bDFCdS0yelZzNXgtOGd1S2c0X0ttblNIRnhFMnlYQmdLUUc5bDJHcHRUamFrR1JTZ3NZME1Yc1JrRzZIRlBKT0FjNU9wQ1JvajNTbDFrTlJhOVJIQVVUcVRUMHd6TVBFNElx?oc=5",
+        "date": "2026-05-18",
+        "title": "Flood warning affecting Platte County from Tuesday and until further notice - Kansas City Star",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE5kTWR1VW53Qjg1bDFCdS0yelZzNXgtOGd1S2c0X0ttblNIRnhFMnlYQmdLUUc5bDJHcHRUamFrR1JTZ3NZME1Yc1JrRzZIRlBKT0FjNU9wQ1JvajNTbDFrTlJhOVJIQVVUcVRUMHd6TVBFNElx?oc=5\" target=\"_blank\">Flood warning affecting Platte County from Tuesday and until further notice</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Kansas City Star</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQcjRTYlJLbS15Vi1oX05ZaVEtbTJtQTlzUUNKZnFrX1dISzFzbjYwSnhtSlprYjRPX2Q0V3ZiQXktWEdETVFQWU1SOXVudEtRVFp4TnFVSENGNGg3TVkydllSZEhOdHpLUmxNeWwzdjdPVndfRWlIUkV4eGlOMkJqWFc1M2RVU2Q2YV9aYnBKV3BpN3RrRzVLRkQwMG1wS3pLeHdDeQ?oc=5",
+        "date": "2026-05-18",
+        "title": "KSHB 41 Weather Blog | Update on severe weather/flash flood threats tonight - KSHB 41 Kansas City",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQcjRTYlJLbS15Vi1oX05ZaVEtbTJtQTlzUUNKZnFrX1dISzFzbjYwSnhtSlprYjRPX2Q0V3ZiQXktWEdETVFQWU1SOXVudEtRVFp4TnFVSENGNGg3TVkydllSZEhOdHpLUmxNeWwzdjdPVndfRWlIUkV4eGlOMkJqWFc1M2RVU2Q2YV9aYnBKV3BpN3RrRzVLRkQwMG1wS3pLeHdDeQ?oc=5\" target=\"_blank\">KSHB 41 Weather Blog | Update on severe weather/flash flood threats tonight</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KSHB 41 Kansas City</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQVFVadnVRMG5OMUNwSDVobEpGdnlNUTlKQlVzWTVVbE9rUzNGWkpaMnBFT0psQTBycjJMZDlWUEt6YXR3cWg5NVUxR1BFTVNWMXphN3hic29hX3ZwbHNSRmh3NTJZOWJVbzh2cVNWWU1kMTlvenBTOUtPNXJ6TU9XUzYyWHNUREpwX0UzYlQ1THNrWXVBZE41T1IzalF4S1dNVk9XUnZ3Y0RGZEI4QWFhZk0wY3lDS2dwNkFCNUk3S0NkcHFHQm4wcDB2QTNxOTQ?oc=5",
+        "date": "2026-05-18",
+        "title": "NE Kansas preps for severe storms; area under flood watch - The Topeka Capital-Journal",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxQVFVadnVRMG5OMUNwSDVobEpGdnlNUTlKQlVzWTVVbE9rUzNGWkpaMnBFT0psQTBycjJMZDlWUEt6YXR3cWg5NVUxR1BFTVNWMXphN3hic29hX3ZwbHNSRmh3NTJZOWJVbzh2cVNWWU1kMTlvenBTOUtPNXJ6TU9XUzYyWHNUREpwX0UzYlQ1THNrWXVBZE41T1IzalF4S1dNVk9XUnZ3Y0RGZEI4QWFhZk0wY3lDS2dwNkFCNUk3S0NkcHFHQm4wcDB2QTNxOTQ?oc=5\" target=\"_blank\">NE Kansas preps for severe storms; area under flood watch</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Topeka Capital-Journal</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNWRnbnBiWjl1VmNIUkVfb1NPZmRpS0N1cGlCM2dXTVhIMGloWkhHYUtJNm9sLWRQVEtRUGJrMDZnRGpIeDZzZ2Vpdm5lbXFEN0hWUmIxa2hLTWQzYW5PLXBla1RHbXRNdTJvaHJ0eGhheUtvQzZ4VkhGYTlGOUlhZ0hENkd1VGlsSWFWU2w0RjRXNldHYzN0eGF0a0dxWmNybWc?oc=5",
+        "date": "2026-05-18",
+        "title": "Rainfall potential yields Flood Watch for Mid-Missouri - Jefferson City News Tribune",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNNWRnbnBiWjl1VmNIUkVfb1NPZmRpS0N1cGlCM2dXTVhIMGloWkhHYUtJNm9sLWRQVEtRUGJrMDZnRGpIeDZzZ2Vpdm5lbXFEN0hWUmIxa2hLTWQzYW5PLXBla1RHbXRNdTJvaHJ0eGhheUtvQzZ4VkhGYTlGOUlhZ0hENkd1VGlsSWFWU2w0RjRXNldHYzN0eGF0a0dxWmNybWc?oc=5\" target=\"_blank\">Rainfall potential yields Flood Watch for Mid-Missouri</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Jefferson City News Tribune</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPOXlQWmt2QlRMM3RkUEVNN3Z6Z2JOblJLczdKTEJpd0dFS3FmVGlRV0VQSFlXbENmVjVSb0NvZmR3Q1FUTExsNWxGeGE4QnFrNWg4WW5tallSdThmM2hFaENSVno4TWE0d2d1amNLVkd2OTVIb050eVU0WDJtZHVpcGpOZ1E1eVE5Yjc5bHVUUks4c2k2Qllsb0RnTDhNTG01eFhXNXlNT1dZNWFoQm9wU0ZfeFg0SHEyZlVkNEZ5dkR4QmI0YUxjendLU2pmb2dM?oc=5",
+        "date": "2026-05-18",
+        "title": "Forecast - South-Central 05-18-2026 - KAKE",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxPOXlQWmt2QlRMM3RkUEVNN3Z6Z2JOblJLczdKTEJpd0dFS3FmVGlRV0VQSFlXbENmVjVSb0NvZmR3Q1FUTExsNWxGeGE4QnFrNWg4WW5tallSdThmM2hFaENSVno4TWE0d2d1amNLVkd2OTVIb050eVU0WDJtZHVpcGpOZ1E1eVE5Yjc5bHVUUks4c2k2Qllsb0RnTDhNTG01eFhXNXlNT1dZNWFoQm9wU0ZfeFg0SHEyZlVkNEZ5dkR4QmI0YUxjendLU2pmb2dM?oc=5\" target=\"_blank\">Forecast - South-Central 05-18-2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KAKE</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1Ubk44WHVqVHBaS3NBdUZJOUM5aFZJUXo4ZExRUkNvSzUwUjVwMDBfX3dvLTdacjg0eFZmOVdiNW82RVZBMjlSQlZpQm1QTGVyenBpaU1EVTZTWjk3NWE4UnNrcjdpcXNxcFNTRG8tZzBZc1R2?oc=5",
+        "date": "2026-05-18",
+        "title": "Update: Flood warning in place for the Kansas City area from Tuesday to Friday - Kansas City Star",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE1Ubk44WHVqVHBaS3NBdUZJOUM5aFZJUXo4ZExRUkNvSzUwUjVwMDBfX3dvLTdacjg0eFZmOVdiNW82RVZBMjlSQlZpQm1QTGVyenBpaU1EVTZTWjk3NWE4UnNrcjdpcXNxcFNTRG8tZzBZc1R2?oc=5\" target=\"_blank\">Update: Flood warning in place for the Kansas City area from Tuesday to Friday</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Kansas City Star</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNVGxzSzVDQTZ6b2gwQkYycGNETWJSQ3ByQ2hzYW1oNzJfcW54dHlBdW56UXlfN3lNTzRuQWZ2b3hNY0J3a3J0QW9hdldNeWtnSERzLVN5WldQeVI4dVd4OWd2bDFUdlJXRGFXeGhvdnhOU0xLYUZFS2tiMEZ6eDNwZ2FYZkRKUQ?oc=5",
+        "date": "2026-05-18",
+        "title": "St. Louis Storms and Flash Flood Watch - Hoodline",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxNVGxzSzVDQTZ6b2gwQkYycGNETWJSQ3ByQ2hzYW1oNzJfcW54dHlBdW56UXlfN3lNTzRuQWZ2b3hNY0J3a3J0QW9hdldNeWtnSERzLVN5WldQeVI4dVd4OWd2bDFUdlJXRGFXeGhvdnhOU0xLYUZFS2tiMEZ6eDNwZ2FYZkRKUQ?oc=5\" target=\"_blank\">St. Louis Storms and Flash Flood Watch</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Hoodline</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOcWUzU05TMzlYWkFyWENpVGRLY0gyZnJJUGFaa09TNEtfWjZOLXotSGJRb2x6ODY3bzN4dXIxc2pkdHhwUS1uUlNGYXA3QjRiYk54MExKVjVIb3Nta0ZGazYxSVhDdEptOWl3YzM1ZkRtRDl5UmpMTThJWU9PejdvQVdkaE1NVFBIYUcxWHJ6ZFBtS0R3UHBTVk9TYUl5aG9tQkNuOTBVc1I?oc=5",
+        "date": "2026-05-18",
+        "title": "Top flood expert quits U. City post, blames stalled River Des Peres warning upgrades - STLtoday.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxOcWUzU05TMzlYWkFyWENpVGRLY0gyZnJJUGFaa09TNEtfWjZOLXotSGJRb2x6ODY3bzN4dXIxc2pkdHhwUS1uUlNGYXA3QjRiYk54MExKVjVIb3Nta0ZGazYxSVhDdEptOWl3YzM1ZkRtRDl5UmpMTThJWU9PejdvQVdkaE1NVFBIYUcxWHJ6ZFBtS0R3UHBTVk9TYUl5aG9tQkNuOTBVc1I?oc=5\" target=\"_blank\">Top flood expert quits U. City post, blames stalled River Des Peres warning upgrades</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">STLtoday.com</font>",
+        "similarity_excluded": "No",
+        "score": 6,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQLXJUY21FTnlya01DbjZfdktuR1BGbG1tZnY4YWJubEdkaXNNWjFrdVZWNlpxdVR2Wm1vR1AtMEtDb2VQV1BEd05vaTdMVFREaURNTk9udy1NVFFLLVBMUDlvZEQ3OXJLQ05ldWlxZUpVUWQzRGtlYWhaeS16TEthNnBaVkZVd1VwVkREd3l5a3p2SDF0X1k0aE9jYTNDTDEwbmtGcnlPWDRUTWQzTTA5cXpwSmNSeGl1dHhJU1ZaWkZaQTM3QUlnMTZMdk5ENWtjSURRcnU4aGhwMjVSTUlGZHVFQjVYUQ?oc=5",
+        "date": "2026-05-18",
+        "title": "Man released from jail following arrest for girlfriend's death at Lake Afton - KAKE",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxQLXJUY21FTnlya01DbjZfdktuR1BGbG1tZnY4YWJubEdkaXNNWjFrdVZWNlpxdVR2Wm1vR1AtMEtDb2VQV1BEd05vaTdMVFREaURNTk9udy1NVFFLLVBMUDlvZEQ3OXJLQ05ldWlxZUpVUWQzRGtlYWhaeS16TEthNnBaVkZVd1VwVkREd3l5a3p2SDF0X1k0aE9jYTNDTDEwbmtGcnlPWDRUTWQzTTA5cXpwSmNSeGl1dHhJU1ZaWkZaQTM3QUlnMTZMdk5ENWtjSURRcnU4aGhwMjVSTUlGZHVFQjVYUQ?oc=5\" target=\"_blank\">Man released from jail following arrest for girlfriend's death at Lake Afton</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KAKE</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPbXN1d0REZWktelp2TmZpS0I0aUZHanpVTzZrZkZJbnhtNExvY0dLY1NFdUZoSHVWejJIbnBOMW9IdXpjNGNVTzAxMUVtNHR1QUd0TnlqRk8ycjA5U3hOWWxKMWZCLW45QW9QNEliYUZLSTNSNE1NQ091Zll5UHNXb1RlVzJXLUxYM2FVWUl3Q0VwQmxTVnl5TWszMDlManJVckFn?oc=5",
+        "date": "2026-05-18",
+        "title": "University City Flood Expert Quits Over River Des Peres Warning Delays - Hoodline",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPbXN1d0REZWktelp2TmZpS0I0aUZHanpVTzZrZkZJbnhtNExvY0dLY1NFdUZoSHVWejJIbnBOMW9IdXpjNGNVTzAxMUVtNHR1QUd0TnlqRk8ycjA5U3hOWWxKMWZCLW45QW9QNEliYUZLSTNSNE1NQ091Zll5UHNXb1RlVzJXLUxYM2FVWUl3Q0VwQmxTVnl5TWszMDlManJVckFn?oc=5\" target=\"_blank\">University City Flood Expert Quits Over River Des Peres Warning Delays</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Hoodline</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOdkhUUERVTHZwSTVpZTJkOVNLcWg1LUhObTN3RlVoUnJjdEs5b0NKSjh1Y2Z5NWF0NUk1LXlsbkN3RGF1V2VzVm1MVDhvODlRUVFyOUpqZFlRelo2cWJPc0l6eHJOaHJYMjdHN1o4MGdIa1RVTHFFUmNWN1pRNnpBVEFCTHRLTEpScUZZ?oc=5",
+        "date": "2026-05-18",
+        "title": "Flash Flood Warnings Hit NY, NJ, PA, MD as Torrential Rains Threaten More Chaos in Northeast - International Business Times Australia",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxOdkhUUERVTHZwSTVpZTJkOVNLcWg1LUhObTN3RlVoUnJjdEs5b0NKSjh1Y2Z5NWF0NUk1LXlsbkN3RGF1V2VzVm1MVDhvODlRUVFyOUpqZFlRelo2cWJPc0l6eHJOaHJYMjdHN1o4MGdIa1RVTHFFUmNWN1pRNnpBVEFCTHRLTEpScUZZ?oc=5\" target=\"_blank\">Flash Flood Warnings Hit NY, NJ, PA, MD as Torrential Rains Threaten More Chaos in Northeast</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">International Business Times Australia</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5QekFRSGpmbXpURFN2ZWpBamIwZmJhU1ZETDlUOU9YS2YwMDU0YVRxbnd3R0wxWm5LYjFMX041OFFOYzkwVmtNRVZUT3ZSQkRNVlc3blV6Ull2UUhSVlhBaHpn?oc=5",
+        "date": "2026-05-18",
+        "title": "Heavy rain warning spans Thailand as flash flood and runoff risks rise - Nation Thailand",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE5QekFRSGpmbXpURFN2ZWpBamIwZmJhU1ZETDlUOU9YS2YwMDU0YVRxbnd3R0wxWm5LYjFMX041OFFOYzkwVmtNRVZUT3ZSQkRNVlc3blV6Ull2UUhSVlhBaHpn?oc=5\" target=\"_blank\">Heavy rain warning spans Thailand as flash flood and runoff risks rise</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Nation Thailand</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQcjB6UGdsTW9SeUVCTFNRcFJwX3BoeHY5dEpoY1F5TmRadTBuMXhQRzJpanExaWtQTjg3aG5XYk9EYXhVMTI5dWNvU3pYMTZoakdrVXppOEJKb2hDZFd0bUFNdHJyTFFzRjM5ZEpVaVJGUE1WMDRHTURXbk82cWZDUVM0eE9QMDdKUV90SkpWVHk1cC1yQmowLXAwaXd6bEV2MEpUNFM1Nm1QR3otMF92SzlyQTZrM0N2cnZzazhoeVJ5ZUFSbnBiLXZXcTQ?oc=5",
+        "date": "2026-05-18",
+        "title": "Heavy Rain Floods Calabar Communities, Weeks After Windstorm Wrecked Havoc In Obanliku Villages - CrossRiverWatch -",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxQcjB6UGdsTW9SeUVCTFNRcFJwX3BoeHY5dEpoY1F5TmRadTBuMXhQRzJpanExaWtQTjg3aG5XYk9EYXhVMTI5dWNvU3pYMTZoakdrVXppOEJKb2hDZFd0bUFNdHJyTFFzRjM5ZEpVaVJGUE1WMDRHTURXbk82cWZDUVM0eE9QMDdKUV90SkpWVHk1cC1yQmowLXAwaXd6bEV2MEpUNFM1Nm1QR3otMF92SzlyQTZrM0N2cnZzazhoeVJ5ZUFSbnBiLXZXcTQ?oc=5\" target=\"_blank\">Heavy Rain Floods Calabar Communities, Weeks After Windstorm Wrecked Havoc In Obanliku Villages</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CrossRiverWatch -</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWUNSUXNsRHhkTVNtNGRlX05ETE9Xa3NHcGVweFFYcHFSU252N25kRHFtaWsteS1yYUZ4OFJRdTNYQzdzdUJMay1KbjhIclpncTJ1YVI3dXJMZldySDRtcjFEbFNzdkNCRFRNREI2RFVzLURWV1dzSk5ydGQ1MTYxR0VqZl9qMDVyT3hnVkY5ZVUyaG90YmNxdDUzV1VPTVYwRE9idXZoUUl5MjRFQjI0LVpBcnk3YWVmbXhOel9B?oc=5",
+        "date": "2026-05-18",
+        "title": "CHIEF SECRETARY REVIEWS FLOOD SITUATION, INSPECTS VULNERABLE ARAS AHEAD OF MONSOON IN DIMAPUR | DIPR Nagaland-Department of Information & Public Relations, Nagaland - DIPR Nagaland",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxQWUNSUXNsRHhkTVNtNGRlX05ETE9Xa3NHcGVweFFYcHFSU252N25kRHFtaWsteS1yYUZ4OFJRdTNYQzdzdUJMay1KbjhIclpncTJ1YVI3dXJMZldySDRtcjFEbFNzdkNCRFRNREI2RFVzLURWV1dzSk5ydGQ1MTYxR0VqZl9qMDVyT3hnVkY5ZVUyaG90YmNxdDUzV1VPTVYwRE9idXZoUUl5MjRFQjI0LVpBcnk3YWVmbXhOel9B?oc=5\" target=\"_blank\">CHIEF SECRETARY REVIEWS FLOOD SITUATION, INSPECTS VULNERABLE ARAS AHEAD OF MONSOON IN DIMAPUR | DIPR Nagaland-Department of Information & Public Relations, Nagaland</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DIPR Nagaland</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPX0d1ZlRaSUc0VHdpVmZBNUNRNjJCSFdqV0NhZVN1OGtSdUVsVEcyWmtBcTc0U1A3Zk9QSXUwY0k0TXJBSHR4bHQ4eGpNaEdtZkIwTnBBekdvLTZpX2ZEeEVMQ2ZuTVVSQVFWNFV2Y2plNUpSdl9sdFVrZWZlbkhPX2V4Z2N2bXg5UFNpNl9sS3ZGRG1wY2xZUzdReS04SXZIcnpHNXVfc29Vczg?oc=5",
+        "date": "2026-05-18",
+        "title": "Ahead of monsoon, chief secretary reviews flood-prone areas in Dimapur - Eastern Mirror",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPX0d1ZlRaSUc0VHdpVmZBNUNRNjJCSFdqV0NhZVN1OGtSdUVsVEcyWmtBcTc0U1A3Zk9QSXUwY0k0TXJBSHR4bHQ4eGpNaEdtZkIwTnBBekdvLTZpX2ZEeEVMQ2ZuTVVSQVFWNFV2Y2plNUpSdl9sdFVrZWZlbkhPX2V4Z2N2bXg5UFNpNl9sS3ZGRG1wY2xZUzdReS04SXZIcnpHNXVfc29Vczg?oc=5\" target=\"_blank\">Ahead of monsoon, chief secretary reviews flood-prone areas in Dimapur</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Eastern Mirror</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQkN6bTIxRDYyT2owY1dsVXJUTWZRdmZKbkVsUUpVeXVsTEVVZnNRVjFEcmdDaTlEUEZuVk5BSldnd1EtbVJrOV9uVnZFLUpVb1BWOXNkY2ZKRVpPSnFobXBJZHBNREE5dEVNbWtYUGN3UTgydV84aEdONWo1c0FvemU3eUdSVGVCYVpBanhLSldLRDRFUWQ3VE9ucG9qckh2amJPMzdfTjVoZDh0S3FUVWdtNA?oc=5",
+        "date": "2026-05-18",
+        "title": "PMC begins dredging of Bhairoba nullah to prevent monsoon flooding in Wanowrie & Pune Cantt - DredgeWire",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQQkN6bTIxRDYyT2owY1dsVXJUTWZRdmZKbkVsUUpVeXVsTEVVZnNRVjFEcmdDaTlEUEZuVk5BSldnd1EtbVJrOV9uVnZFLUpVb1BWOXNkY2ZKRVpPSnFobXBJZHBNREE5dEVNbWtYUGN3UTgydV84aEdONWo1c0FvemU3eUdSVGVCYVpBanhLSldLRDRFUWQ3VE9ucG9qckh2amJPMzdfTjVoZDh0S3FUVWdtNA?oc=5\" target=\"_blank\">PMC begins dredging of Bhairoba nullah to prevent monsoon flooding in Wanowrie & Pune Cantt</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DredgeWire</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZXNNbnVDeTJrdHloOFhzOXlCcjJaOVNWczRKQlJXMWVmQUhNMWhIVHJreE5Vb2VpWFNDRk1hRVF4QVllMEJwNk9CTTFHZ3h5VkZvcS1HbHBNZS1maWpWTXNwR25MXzR3QVpEZzU1VnZ0T0MxS2ZyM3IzU2Y2VHFxcTNqcjJqaUFXdGVIVXVqVGlhUXF5ekNmNmEtNThUSHE2Zm9jNEdVUTYydEh1SmpxNWRBWdIBuAFBVV95cUxQejFRZmpsTllfMU1NQjlMQmVyY0N5MkwtM3pSZ1lwWGtjeFJXcHJ4VUIyOTUtcWZzZ3NnblJDTVJEM3h5X3FKRVdCcDd4VkduTUd6TFpNMDB1aVRjNE1lNlF1OVNuOFYtRjRfUDR1VF9uTXhCMHZBaEt0Q0d5LS1PZDNKdXpnZXF4eU50ZGxkWld4R1V0QzZNOVNRbXQyZU5GZ3dqTEc3QlVBVWdCSVFURDVvY2ZIMlRo?oc=5",
+        "date": "2026-05-18",
+        "title": "BMC Focuses on Open Manholes, Flooding, Cleaning Hospital Ahead of Monsoon - Mumbai Live",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOZXNNbnVDeTJrdHloOFhzOXlCcjJaOVNWczRKQlJXMWVmQUhNMWhIVHJreE5Vb2VpWFNDRk1hRVF4QVllMEJwNk9CTTFHZ3h5VkZvcS1HbHBNZS1maWpWTXNwR25MXzR3QVpEZzU1VnZ0T0MxS2ZyM3IzU2Y2VHFxcTNqcjJqaUFXdGVIVXVqVGlhUXF5ekNmNmEtNThUSHE2Zm9jNEdVUTYydEh1SmpxNWRBWdIBuAFBVV95cUxQejFRZmpsTllfMU1NQjlMQmVyY0N5MkwtM3pSZ1lwWGtjeFJXcHJ4VUIyOTUtcWZzZ3NnblJDTVJEM3h5X3FKRVdCcDd4VkduTUd6TFpNMDB1aVRjNE1lNlF1OVNuOFYtRjRfUDR1VF9uTXhCMHZBaEt0Q0d5LS1PZDNKdXpnZXF4eU50ZGxkWld4R1V0QzZNOVNRbXQyZU5GZ3dqTEc3QlVBVWdCSVFURDVvY2ZIMlRo?oc=5\" target=\"_blank\">BMC Focuses on Open Manholes, Flooding, Cleaning Hospital Ahead of Monsoon</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mumbai Live</font>",
+        "similarity_excluded": "No",
+        "score": 6,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQRTdPeWdsd2hBZWNPTzZ5LWtzclJobWNLamNTVHZmbENDZnVMMXZtbEh0bkNrYTJaNTY0dkVYd1Q2dENoNmM1SEhIR2lXRWRYUzBZY25yQjJORnhUVTd5YlBEV1ZoYjFjNXFqTzhOZ0drV0pxU0dadXE3OWRPVFJjdENEa3MyWmYtZ0w1R1NuWEN4RUpMV0JJWmY1YWhSc3l5ZGROZzJWdTlOZ29ENzZxMjBNOC1nbnVNZkdpWlB1aWpkLW5VbTMxdERpeFREWkFDRWwzcE530gHbAUFVX3lxTFAyRzhreWxORjB3NTd4TUFfMkEtVlFBcVFmZXBZM2k1c0tSYTA1dEhUT1BMczRMV05OTjVhaDc4eGFkVDB0TlA2WnJhWGRXbGtSQ0J3RUNTblVzYkw0UDhrdFBob0NUOVJwUXVSOWNrZmJsTERuWjNZT01MYlpySlE3SENObzltMjczZThPcC1iOGlBS3AxYWNDUVNTN1Jxa2JQMkNQWlk4SlRRTmF3bmpjQ0FMdHlVaVFxYzNCS0hmb2RuV19VY0tGU1JGTTBaYm55ejBzcEtiaElWRQ?oc=5",
+        "date": "2026-05-18",
+        "title": "BMC and railway authorities join hands to make Mumbai flood-free before monsoon - Mid-day",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxQRTdPeWdsd2hBZWNPTzZ5LWtzclJobWNLamNTVHZmbENDZnVMMXZtbEh0bkNrYTJaNTY0dkVYd1Q2dENoNmM1SEhIR2lXRWRYUzBZY25yQjJORnhUVTd5YlBEV1ZoYjFjNXFqTzhOZ0drV0pxU0dadXE3OWRPVFJjdENEa3MyWmYtZ0w1R1NuWEN4RUpMV0JJWmY1YWhSc3l5ZGROZzJWdTlOZ29ENzZxMjBNOC1nbnVNZkdpWlB1aWpkLW5VbTMxdERpeFREWkFDRWwzcE530gHbAUFVX3lxTFAyRzhreWxORjB3NTd4TUFfMkEtVlFBcVFmZXBZM2k1c0tSYTA1dEhUT1BMczRMV05OTjVhaDc4eGFkVDB0TlA2WnJhWGRXbGtSQ0J3RUNTblVzYkw0UDhrdFBob0NUOVJwUXVSOWNrZmJsTERuWjNZT01MYlpySlE3SENObzltMjczZThPcC1iOGlBS3AxYWNDUVNTN1Jxa2JQMkNQWlk4SlRRTmF3bmpjQ0FMdHlVaVFxYzNCS0hmb2RuV19VY0tGU1JGTTBaYm55ejBzcEtiaElWRQ?oc=5\" target=\"_blank\">BMC and railway authorities join hands to make Mumbai flood-free before monsoon</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mid-day</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
     }
 ]
