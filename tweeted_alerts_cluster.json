@@ -4210,7 +4210,7 @@
     "rain_mm": 47.75,
     "soil_moisture": 0.671,
     "raw_dynamic_score": 7.711,
-    "last_updated": "2026-05-18T17:37:03.811115Z",
+    "last_updated": "2026-05-18T22:08:52.060309Z",
     "last_tweeted_at": "2026-02-05T21:26:16.365284Z",
     "tweet_id": "2019524482390540374",
     "resolved": false
@@ -15596,7 +15596,7 @@
     "rain_mm": 47.5,
     "soil_moisture": 0.667,
     "raw_dynamic_score": 7.656,
-    "last_updated": "2026-04-18T01:37:56.640198Z",
+    "last_updated": "2026-05-18T22:08:52.060309Z",
     "last_tweeted_at": "2026-04-17T21:43:26.674725Z",
     "tweet_id": "2045256880243528171",
     "resolved": false
@@ -21134,7 +21134,7 @@
     "rain_mm": 74.5,
     "soil_moisture": 0.584,
     "raw_dynamic_score": 11.447,
-    "last_updated": "2026-05-17T06:24:38.706703Z",
+    "last_updated": "2026-05-18T22:08:52.060309Z",
     "last_tweeted_at": "2026-05-16T21:50:44.077935Z",
     "tweet_id": "2055767956802469965",
     "resolved": false
@@ -21680,7 +21680,7 @@
     "rain_mm": 44.0,
     "soil_moisture": 0.551,
     "raw_dynamic_score": 6.632,
-    "last_updated": "2026-05-18T17:37:03.811115Z",
+    "last_updated": "2026-05-18T22:08:52.060309Z",
     "last_tweeted_at": "2026-05-17T21:56:06.722849Z",
     "tweet_id": "2056131953372340593",
     "resolved": false
@@ -22104,7 +22104,7 @@
     "rain_mm": 49.5,
     "soil_moisture": 0.499,
     "raw_dynamic_score": 7.229,
-    "last_updated": "2026-05-18T12:33:00.776090Z",
+    "last_updated": "2026-05-18T22:08:52.060309Z",
     "last_tweeted_at": "2026-05-18T12:33:00.776090Z",
     "tweet_id": "2056353904493785293",
     "resolved": false
@@ -22134,7 +22134,7 @@
     "rain_mm": 47.88,
     "soil_moisture": 0.516,
     "raw_dynamic_score": 7.064,
-    "last_updated": "2026-05-18T19:36:54.074334Z",
+    "last_updated": "2026-05-18T22:08:52.060309Z",
     "last_tweeted_at": "2026-05-18T19:36:54.074334Z",
     "tweet_id": "2056459060258459939",
     "resolved": false
@@ -22149,7 +22149,7 @@
     "rain_mm": 68.06,
     "soil_moisture": 0.654,
     "raw_dynamic_score": 10.893,
-    "last_updated": "2026-05-18T19:36:54.074334Z",
+    "last_updated": "2026-05-18T22:08:52.060309Z",
     "last_tweeted_at": "2026-05-18T19:36:54.074334Z",
     "tweet_id": "2056459312801693721",
     "resolved": false
@@ -22392,6 +22392,21 @@
     "last_updated": "2026-05-18T19:36:54.074334Z",
     "last_tweeted_at": "2026-05-18T19:36:54.074334Z",
     "tweet_id": "2056459312801693721",
+    "resolved": false
+  },
+  "39.5070,-84.7452": {
+    "country": "United States",
+    "name": "Oxford",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 39.507,
+    "longitude": -84.74523,
+    "rain_mm": 47.75,
+    "soil_moisture": 0.641,
+    "raw_dynamic_score": 7.585,
+    "last_updated": "2026-05-18T22:08:52.060309Z",
+    "last_tweeted_at": "2026-05-18T22:08:52.060309Z",
+    "tweet_id": "2056497301330210928",
     "resolved": false
   }
 }
