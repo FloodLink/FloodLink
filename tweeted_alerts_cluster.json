@@ -11380,7 +11380,7 @@
     "rain_mm": 66.38,
     "soil_moisture": 0.589,
     "raw_dynamic_score": 10.233,
-    "last_updated": "2026-04-03T15:41:39.665893Z",
+    "last_updated": "2026-05-18T06:58:21.183293Z",
     "last_tweeted_at": "2026-03-28T21:30:50.345292Z",
     "tweet_id": "2038005963580477774",
     "resolved": false
@@ -12700,7 +12700,7 @@
     "rain_mm": 66.5,
     "soil_moisture": 0.525,
     "raw_dynamic_score": 9.864,
-    "last_updated": "2026-04-18T18:44:56.719319Z",
+    "last_updated": "2026-05-18T06:58:21.183293Z",
     "last_tweeted_at": "2026-04-01T13:07:41.360354Z",
     "tweet_id": "2039329398319628461",
     "resolved": false
@@ -21750,7 +21750,7 @@
     "rain_mm": 38.81,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 7.423,
-    "last_updated": "2026-05-17T21:56:06.722849Z",
+    "last_updated": "2026-05-18T06:58:21.183293Z",
     "last_tweeted_at": "2026-05-17T21:56:06.722849Z",
     "tweet_id": "2056132710750392590",
     "resolved": false
@@ -21780,7 +21780,7 @@
     "rain_mm": 46.56,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 8.905,
-    "last_updated": "2026-05-17T21:56:06.722849Z",
+    "last_updated": "2026-05-18T06:58:21.183293Z",
     "last_tweeted_at": "2026-05-17T21:56:06.722849Z",
     "tweet_id": "2056133215711072266",
     "resolved": false
@@ -21810,7 +21810,7 @@
     "rain_mm": 40.0,
     "soil_moisture": 0.714,
     "raw_dynamic_score": 6.615,
-    "last_updated": "2026-05-18T02:45:07.064717Z",
+    "last_updated": "2026-05-18T06:58:21.183293Z",
     "last_tweeted_at": "2026-05-18T02:45:07.064717Z",
     "tweet_id": "2056204439694774705",
     "resolved": false
@@ -21840,9 +21840,54 @@
     "rain_mm": 41.62,
     "soil_moisture": 0.694,
     "raw_dynamic_score": 6.811,
-    "last_updated": "2026-05-18T02:45:07.064717Z",
+    "last_updated": "2026-05-18T06:58:21.183293Z",
     "last_tweeted_at": "2026-05-18T02:45:07.064717Z",
     "tweet_id": "2056204692078703094",
+    "resolved": false
+  },
+  "-2.5537,120.3279": {
+    "country": "Indonesia",
+    "name": "Masamba",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": -2.5537,
+    "longitude": 120.3279,
+    "rain_mm": 43.19,
+    "soil_moisture": 0.712,
+    "raw_dynamic_score": 7.135,
+    "last_updated": "2026-05-18T06:58:21.183293Z",
+    "last_tweeted_at": "2026-05-18T06:58:21.183293Z",
+    "tweet_id": "2056268181379903560",
+    "resolved": false
+  },
+  "12.5388,103.9192": {
+    "country": "Cambodia",
+    "name": "Pursat",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 12.53878,
+    "longitude": 103.9192,
+    "rain_mm": 65.81,
+    "soil_moisture": 0.523,
+    "raw_dynamic_score": 9.752,
+    "last_updated": "2026-05-18T06:58:21.183293Z",
+    "last_tweeted_at": "2026-05-18T06:58:21.183293Z",
+    "tweet_id": "2056268434044772498",
+    "resolved": false
+  },
+  "5.0230,118.3290": {
+    "country": "Malaysia",
+    "name": "Lahad Datu",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 5.02298,
+    "longitude": 118.32897,
+    "rain_mm": 35.12,
+    "soil_moisture": 1.0,
+    "raw_dynamic_score": 6.718,
+    "last_updated": "2026-05-18T06:58:21.183293Z",
+    "last_tweeted_at": "2026-05-18T06:58:21.183293Z",
+    "tweet_id": "2056268686684565773",
     "resolved": false
   }
 }
