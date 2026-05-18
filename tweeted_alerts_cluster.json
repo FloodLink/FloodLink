@@ -15760,7 +15760,7 @@
     "rain_mm": 43.56,
     "soil_moisture": 0.709,
     "raw_dynamic_score": 7.188,
-    "last_updated": "2026-05-17T21:56:06.722849Z",
+    "last_updated": "2026-05-18T02:45:07.064717Z",
     "last_tweeted_at": "2026-04-19T18:45:13.497742Z",
     "tweet_id": "2045937075531182171",
     "resolved": false
@@ -21615,7 +21615,7 @@
     "rain_mm": 43.19,
     "soil_moisture": 0.714,
     "raw_dynamic_score": 7.146,
-    "last_updated": "2026-05-17T19:06:19.186157Z",
+    "last_updated": "2026-05-18T02:45:07.064717Z",
     "last_tweeted_at": "2026-05-17T19:06:19.186157Z",
     "tweet_id": "2056089747622387776",
     "resolved": false
@@ -21630,7 +21630,7 @@
     "rain_mm": 57.38,
     "soil_moisture": 0.722,
     "raw_dynamic_score": 9.532,
-    "last_updated": "2026-05-17T19:06:19.186157Z",
+    "last_updated": "2026-05-18T02:45:07.064717Z",
     "last_tweeted_at": "2026-05-17T19:06:19.186157Z",
     "tweet_id": "2056089999922368888",
     "resolved": false
@@ -21645,7 +21645,7 @@
     "rain_mm": 62.44,
     "soil_moisture": 0.36,
     "raw_dynamic_score": 8.332,
-    "last_updated": "2026-05-17T19:06:19.186157Z",
+    "last_updated": "2026-05-18T02:45:07.064717Z",
     "last_tweeted_at": "2026-05-17T19:06:19.186157Z",
     "tweet_id": "2056090252113318184",
     "resolved": false
@@ -21675,7 +21675,7 @@
     "rain_mm": 44.0,
     "soil_moisture": 0.551,
     "raw_dynamic_score": 6.632,
-    "last_updated": "2026-05-17T21:56:06.722849Z",
+    "last_updated": "2026-05-18T02:45:07.064717Z",
     "last_tweeted_at": "2026-05-17T21:56:06.722849Z",
     "tweet_id": "2056131700837466151",
     "resolved": false
@@ -21705,7 +21705,7 @@
     "rain_mm": 44.0,
     "soil_moisture": 0.551,
     "raw_dynamic_score": 6.632,
-    "last_updated": "2026-05-17T21:56:06.722849Z",
+    "last_updated": "2026-05-18T02:45:07.064717Z",
     "last_tweeted_at": "2026-05-17T21:56:06.722849Z",
     "tweet_id": "2056131953372340593",
     "resolved": false
@@ -21720,7 +21720,7 @@
     "rain_mm": 51.75,
     "soil_moisture": 0.51,
     "raw_dynamic_score": 7.607,
-    "last_updated": "2026-05-17T21:56:06.722849Z",
+    "last_updated": "2026-05-18T02:45:07.064717Z",
     "last_tweeted_at": "2026-05-17T21:56:06.722849Z",
     "tweet_id": "2056132205747765448",
     "resolved": false
@@ -21735,7 +21735,7 @@
     "rain_mm": 51.75,
     "soil_moisture": 0.51,
     "raw_dynamic_score": 7.607,
-    "last_updated": "2026-05-17T21:56:06.722849Z",
+    "last_updated": "2026-05-18T02:45:07.064717Z",
     "last_tweeted_at": "2026-05-17T21:56:06.722849Z",
     "tweet_id": "2056132458148425778",
     "resolved": false
@@ -21765,7 +21765,7 @@
     "rain_mm": 37.25,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 7.124,
-    "last_updated": "2026-05-17T21:56:06.722849Z",
+    "last_updated": "2026-05-18T02:45:07.064717Z",
     "last_tweeted_at": "2026-05-17T21:56:06.722849Z",
     "tweet_id": "2056132963184603171",
     "resolved": false
@@ -21795,9 +21795,54 @@
     "rain_mm": 63.69,
     "soil_moisture": 0.479,
     "raw_dynamic_score": 9.186,
-    "last_updated": "2026-05-17T21:56:06.722849Z",
+    "last_updated": "2026-05-18T02:45:07.064717Z",
     "last_tweeted_at": "2026-05-17T21:56:06.722849Z",
     "tweet_id": "2056133468115865811",
+    "resolved": false
+  },
+  "28.3193,109.7335": {
+    "country": "China",
+    "name": "Jishou",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 28.31925,
+    "longitude": 109.73346,
+    "rain_mm": 40.0,
+    "soil_moisture": 0.714,
+    "raw_dynamic_score": 6.615,
+    "last_updated": "2026-05-18T02:45:07.064717Z",
+    "last_tweeted_at": "2026-05-18T02:45:07.064717Z",
+    "tweet_id": "2056204439694774705",
+    "resolved": false
+  },
+  "27.9356,109.5996": {
+    "country": "China",
+    "name": "Fenghuang",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 27.93557,
+    "longitude": 109.59961,
+    "rain_mm": 54.75,
+    "soil_moisture": 0.716,
+    "raw_dynamic_score": 9.067,
+    "last_updated": "2026-05-18T02:45:07.064717Z",
+    "last_tweeted_at": "2026-05-18T02:45:07.064717Z",
+    "tweet_id": "2056204439694774705",
+    "resolved": false
+  },
+  "5.2013,7.9837": {
+    "country": "Nigeria",
+    "name": "Itu",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 5.20131,
+    "longitude": 7.98373,
+    "rain_mm": 41.62,
+    "soil_moisture": 0.694,
+    "raw_dynamic_score": 6.811,
+    "last_updated": "2026-05-18T02:45:07.064717Z",
+    "last_tweeted_at": "2026-05-18T02:45:07.064717Z",
+    "tweet_id": "2056204692078703094",
     "resolved": false
   }
 }
