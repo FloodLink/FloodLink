@@ -5170,7 +5170,7 @@
     "rain_mm": 47.25,
     "soil_moisture": 0.63,
     "raw_dynamic_score": 7.458,
-    "last_updated": "2026-05-19T02:43:26.303192Z",
+    "last_updated": "2026-05-19T12:12:23.269234Z",
     "last_tweeted_at": "2026-02-11T12:54:59.233666Z",
     "tweet_id": "2021569197512556581",
     "resolved": false
@@ -12941,7 +12941,7 @@
     "rain_mm": 51.0,
     "soil_moisture": 0.688,
     "raw_dynamic_score": 8.318,
-    "last_updated": "2026-05-19T06:51:57.474738Z",
+    "last_updated": "2026-05-19T12:12:23.269234Z",
     "last_tweeted_at": "2026-04-02T05:05:08.357989Z",
     "tweet_id": "2039570084100776110",
     "resolved": false
@@ -22014,7 +22014,7 @@
     "rain_mm": 52.5,
     "soil_moisture": 0.618,
     "raw_dynamic_score": 8.228,
-    "last_updated": "2026-05-18T17:37:03.811115Z",
+    "last_updated": "2026-05-19T12:12:23.269234Z",
     "last_tweeted_at": "2026-05-18T12:33:00.776090Z",
     "tweet_id": "2056352642532536625",
     "resolved": false
@@ -22411,6 +22411,36 @@
     "last_updated": "2026-05-19T02:43:26.303192Z",
     "last_tweeted_at": "2026-05-18T22:08:52.060309Z",
     "tweet_id": "2056497301330210928",
+    "resolved": false
+  },
+  "25.2802,110.2964": {
+    "country": "China",
+    "name": "Guilin",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 25.28022,
+    "longitude": 110.29639,
+    "rain_mm": 41.75,
+    "soil_moisture": 0.717,
+    "raw_dynamic_score": 6.916,
+    "last_updated": "2026-05-19T12:12:23.269234Z",
+    "last_tweeted_at": "2026-05-19T12:12:23.269234Z",
+    "tweet_id": "2056709597923054036",
+    "resolved": false
+  },
+  "6.0081,-58.3072": {
+    "country": "Guyana",
+    "name": "Linden",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 6.00815,
+    "longitude": -58.30724,
+    "rain_mm": 44.56,
+    "soil_moisture": 0.647,
+    "raw_dynamic_score": 7.101,
+    "last_updated": "2026-05-19T12:12:23.269234Z",
+    "last_tweeted_at": "2026-05-19T12:12:23.269234Z",
+    "tweet_id": "2056709850558591138",
     "resolved": false
   }
 }
