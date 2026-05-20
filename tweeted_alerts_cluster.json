@@ -20204,7 +20204,7 @@
     "rain_mm": 55.25,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 10.567,
-    "last_updated": "2026-05-20T18:00:07.744609Z",
+    "last_updated": "2026-05-20T22:29:37.221176Z",
     "last_tweeted_at": "2026-05-11T22:08:43.702860Z",
     "tweet_id": "2053961056309977449",
     "resolved": false
@@ -21840,7 +21840,7 @@
     "rain_mm": 41.75,
     "soil_moisture": 0.717,
     "raw_dynamic_score": 6.916,
-    "last_updated": "2026-05-20T11:53:15.569664Z",
+    "last_updated": "2026-05-20T22:29:37.221176Z",
     "last_tweeted_at": "2026-05-19T12:12:23.269234Z",
     "tweet_id": "2056709597923054036",
     "resolved": false
@@ -22291,7 +22291,7 @@
     "rain_mm": 48.31,
     "soil_moisture": 0.601,
     "raw_dynamic_score": 7.498,
-    "last_updated": "2026-05-20T20:13:50.714765Z",
+    "last_updated": "2026-05-20T22:29:37.221176Z",
     "last_tweeted_at": "2026-05-20T06:52:37.476077Z",
     "tweet_id": "2056991765056385372",
     "resolved": false
@@ -22727,10 +22727,18 @@
     "rain_mm": 81.94,
     "soil_moisture": 0.734,
     "raw_dynamic_score": 13.705,
-    "last_updated": "2026-05-20T20:13:50.714765Z",
+    "last_updated": "2026-05-20T22:29:37.221176Z",
     "last_tweeted_at": "2026-05-20T20:13:50.714765Z",
     "tweet_id": "2057193138708713769",
-    "resolved": false
+    "resolved": false,
+    "pending_downgrade": true,
+    "pending_target_level": "Medium",
+    "pending_set_at": "2026-05-20T22:29:37.221176Z",
+    "pending_is_region": false,
+    "pending_observed_level": "Medium",
+    "pending_observed_rain_mm": 69.12,
+    "pending_observed_soil_moisture": 0.73,
+    "pending_observed_raw_dynamic_score": 11.533
   },
   "30.5046,-90.4629": {
     "country": "United States",
@@ -22742,7 +22750,7 @@
     "rain_mm": 52.0,
     "soil_moisture": 0.502,
     "raw_dynamic_score": 7.606,
-    "last_updated": "2026-05-20T18:00:07.744609Z",
+    "last_updated": "2026-05-20T22:29:37.221176Z",
     "last_tweeted_at": "2026-05-20T18:00:07.744609Z",
     "tweet_id": "2057159740258496884",
     "resolved": false
@@ -22757,7 +22765,7 @@
     "rain_mm": 40.38,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 7.722,
-    "last_updated": "2026-05-20T20:13:50.714765Z",
+    "last_updated": "2026-05-20T22:29:37.221176Z",
     "last_tweeted_at": "2026-05-20T20:13:50.714765Z",
     "tweet_id": "2057193391361073424",
     "resolved": false
@@ -22772,7 +22780,7 @@
     "rain_mm": 79.25,
     "soil_moisture": 0.41,
     "raw_dynamic_score": 10.932,
-    "last_updated": "2026-05-20T20:13:50.714765Z",
+    "last_updated": "2026-05-20T22:29:37.221176Z",
     "last_tweeted_at": "2026-05-20T20:13:50.714765Z",
     "tweet_id": "2057193643988119705",
     "resolved": false
@@ -22787,7 +22795,7 @@
     "rain_mm": 44.75,
     "soil_moisture": 0.554,
     "raw_dynamic_score": 6.755,
-    "last_updated": "2026-05-20T20:13:50.714765Z",
+    "last_updated": "2026-05-20T22:29:37.221176Z",
     "last_tweeted_at": "2026-05-20T20:13:50.714765Z",
     "tweet_id": "2057193896288129157",
     "resolved": false
@@ -22805,6 +22813,51 @@
     "last_updated": "2026-05-20T20:13:50.714765Z",
     "last_tweeted_at": "2026-05-20T20:13:50.714765Z",
     "tweet_id": "2057193896288129157",
+    "resolved": false
+  },
+  "3.8667,11.5167": {
+    "country": "Cameroon",
+    "name": "Yaoundé",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 3.86667,
+    "longitude": 11.51667,
+    "rain_mm": 42.81,
+    "soil_moisture": 0.591,
+    "raw_dynamic_score": 6.607,
+    "last_updated": "2026-05-20T22:29:37.221176Z",
+    "last_tweeted_at": "2026-05-20T22:29:37.221176Z",
+    "tweet_id": "2057227304326021189",
+    "resolved": false
+  },
+  "26.5036,-100.1819": {
+    "country": "Mexico",
+    "name": "Ciudad Sabinas Hidalgo",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 26.50358,
+    "longitude": -100.18187,
+    "rain_mm": 75.12,
+    "soil_moisture": 0.422,
+    "raw_dynamic_score": 10.444,
+    "last_updated": "2026-05-20T22:29:37.221176Z",
+    "last_tweeted_at": "2026-05-20T22:29:37.221176Z",
+    "tweet_id": "2057227556814717308",
+    "resolved": false
+  },
+  "31.6941,-89.1306": {
+    "country": "United States",
+    "name": "Laurel",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 31.69405,
+    "longitude": -89.13061,
+    "rain_mm": 62.5,
+    "soil_moisture": 0.62,
+    "raw_dynamic_score": 9.81,
+    "last_updated": "2026-05-20T22:29:37.221176Z",
+    "last_tweeted_at": "2026-05-20T22:29:37.221176Z",
+    "tweet_id": "2057227809207066986",
     "resolved": false
   }
 }
