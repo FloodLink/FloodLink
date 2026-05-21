@@ -1374,10 +1374,18 @@
     "rain_mm": 65.75,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 12.575,
-    "last_updated": "2026-05-21T12:18:57.987439Z",
+    "last_updated": "2026-05-21T17:37:44.435553Z",
     "last_tweeted_at": "2026-05-21T12:18:57.987439Z",
     "tweet_id": "2057436021306875955",
-    "resolved": false
+    "resolved": false,
+    "pending_downgrade": true,
+    "pending_target_level": "Low",
+    "pending_set_at": "2026-05-21T17:37:44.435553Z",
+    "pending_is_region": false,
+    "pending_observed_level": "Low",
+    "pending_observed_rain_mm": 3.5,
+    "pending_observed_soil_moisture": 1.0,
+    "pending_observed_raw_dynamic_score": 0.669
   },
   "37.1596,9.7606": {
     "country": "Tunisia",
@@ -19915,7 +19923,7 @@
     "rain_mm": 47.06,
     "soil_moisture": 0.509,
     "raw_dynamic_score": 6.912,
-    "last_updated": "2026-05-21T12:18:57.987439Z",
+    "last_updated": "2026-05-21T17:37:44.435553Z",
     "last_tweeted_at": "2026-05-10T08:12:10.765497Z",
     "tweet_id": "2053387642088161293",
     "resolved": false
@@ -22757,6 +22765,21 @@
     "last_updated": "2026-05-21T06:55:40.295938Z",
     "last_tweeted_at": "2026-05-21T02:45:15.177334Z",
     "tweet_id": "2057291637575885281",
+    "resolved": false
+  },
+  "51.6621,103.7100": {
+    "country": "Russian Federation",
+    "name": "Slyudyanka",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 51.6621,
+    "longitude": 103.70996,
+    "rain_mm": 40.81,
+    "soil_moisture": 0.762,
+    "raw_dynamic_score": 6.93,
+    "last_updated": "2026-05-21T17:37:44.435553Z",
+    "last_tweeted_at": "2026-05-21T17:37:44.435553Z",
+    "tweet_id": "2057516233650827625",
     "resolved": false
   }
 }
