@@ -9986,5 +9986,45 @@
         "score": 0,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9EZldrVVNjZnh1ZUNqemZMMTdGc0hXUWNiSU1hak00SGxhV0gtTmdLbml4UDNJbHpGUkFoLURhd1FNU2xfLVQ3ZWZGSGIteGd1RXpjS09Qd3hOM1pMTTFQaU1IZw?oc=5",
+        "date": "2026-05-21",
+        "title": "Rounds of heavy rain trigger Flash Flood Warnings across Texas and the South, with more storms ahead - FOX Weather",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE9EZldrVVNjZnh1ZUNqemZMMTdGc0hXUWNiSU1hak00SGxhV0gtTmdLbml4UDNJbHpGUkFoLURhd1FNU2xfLVQ3ZWZGSGIteGd1RXpjS09Qd3hOM1pMTTFQaU1IZw?oc=5\" target=\"_blank\">Rounds of heavy rain trigger Flash Flood Warnings across Texas and the South, with more storms ahead</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FOX Weather</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPU0N3ZlVGQVhXaXVxcHBzbGVscU9odUZ3Nkd1TTdIWnhDR0VZLW9JcDFCcWJsLUs5dEsyMF8tQm5DRWN0WTMwSlh4bndXVzNQdnVlbUNQTW1vMUZCYS1yN1FzbE5ialBELUlCV2o3MWRCdHd0UGIwSEpzUTZUUVI2U25GN1VDaGViVHZuNXFtWF9nUQ?oc=5",
+        "date": "2026-05-21",
+        "title": "Flood threat rises as rare rain event drenches Houston - Chron",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPU0N3ZlVGQVhXaXVxcHBzbGVscU9odUZ3Nkd1TTdIWnhDR0VZLW9JcDFCcWJsLUs5dEsyMF8tQm5DRWN0WTMwSlh4bndXVzNQdnVlbUNQTW1vMUZCYS1yN1FzbE5ialBELUlCV2o3MWRCdHd0UGIwSEpzUTZUUVI2U25GN1VDaGViVHZuNXFtWF9nUQ?oc=5\" target=\"_blank\">Flood threat rises as rare rain event drenches Houston</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Chron</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE92ZU9rckhlalQzaW9BVENSbkU2S01wdHdYUjRvWTNCclRVTGdLdDNxc2o0Ny1nRktiZ2s2cDdqVVdjVlFBZzVHVHlpTGVCTFBUbklaOXVLQ0tZclBQYTNiRzR5ZERub0J3c19hZWVVQXlPN0hFQ2ZDeV9PTQ?oc=5",
+        "date": "2026-05-21",
+        "title": "Flash flooding reported in Atlanta - WKRN News 2",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE92ZU9rckhlalQzaW9BVENSbkU2S01wdHdYUjRvWTNCclRVTGdLdDNxc2o0Ny1nRktiZ2s2cDdqVVdjVlFBZzVHVHlpTGVCTFBUbklaOXVLQ0tZclBQYTNiRzR5ZERub0J3c19hZWVVQXlPN0hFQ2ZDeV9PTQ?oc=5\" target=\"_blank\">Flash flooding reported in Atlanta</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WKRN News 2</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZW9lSGdMU0VvTEtkcHJLeTM2U2UtTmFoejJhdUp0TEloRlNtcVpJT1BLZjhJZFE4NVo3QUF6T2x1Q09VMUlPZ29TX2Z1UFJxLUF6aVBCMHFfaXlHTXJETHJxSmJDc3FmdTBQU28xQ3V2QkRFVWVhdzlxSmhNQW5rVkFNa2MydlNQcWRxVA?oc=5",
+        "date": "2026-05-21",
+        "title": "Vehicles around Atlanta stuck in flash flood - Yahoo",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxOZW9lSGdMU0VvTEtkcHJLeTM2U2UtTmFoejJhdUp0TEloRlNtcVpJT1BLZjhJZFE4NVo3QUF6T2x1Q09VMUlPZ29TX2Z1UFJxLUF6aVBCMHFfaXlHTXJETHJxSmJDc3FmdTBQU28xQ3V2QkRFVWVhdzlxSmhNQW5rVkFNa2MydlNQcWRxVA?oc=5\" target=\"_blank\">Vehicles around Atlanta stuck in flash flood</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
     }
 ]
