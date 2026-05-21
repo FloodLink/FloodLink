@@ -16187,7 +16187,7 @@
     "rain_mm": 50.94,
     "soil_moisture": 0.612,
     "raw_dynamic_score": 7.958,
-    "last_updated": "2026-04-24T02:03:54.424571Z",
+    "last_updated": "2026-05-21T19:56:53.634895Z",
     "last_tweeted_at": "2026-04-22T19:10:38.626681Z",
     "tweet_id": "2047030621512339792",
     "resolved": false
@@ -20268,7 +20268,7 @@
     "rain_mm": 63.12,
     "soil_moisture": 0.722,
     "raw_dynamic_score": 10.487,
-    "last_updated": "2026-05-13T02:36:53.604219Z",
+    "last_updated": "2026-05-21T19:56:53.634895Z",
     "last_tweeted_at": "2026-05-12T22:15:41.687960Z",
     "tweet_id": "2054324688554242234",
     "resolved": false
@@ -22777,9 +22777,39 @@
     "rain_mm": 40.81,
     "soil_moisture": 0.762,
     "raw_dynamic_score": 6.93,
-    "last_updated": "2026-05-21T17:37:44.435553Z",
+    "last_updated": "2026-05-21T19:56:53.634895Z",
     "last_tweeted_at": "2026-05-21T17:37:44.435553Z",
     "tweet_id": "2057516233650827625",
+    "resolved": false
+  },
+  "6.2355,80.0538": {
+    "country": "Sri Lanka",
+    "name": "Ambalangoda",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 6.2355,
+    "longitude": 80.0538,
+    "rain_mm": 42.12,
+    "soil_moisture": 0.688,
+    "raw_dynamic_score": 6.87,
+    "last_updated": "2026-05-21T19:56:53.634895Z",
+    "last_tweeted_at": "2026-05-21T19:56:53.634895Z",
+    "tweet_id": "2057551271641673765",
+    "resolved": false
+  },
+  "15.1392,-92.4634": {
+    "country": "Mexico",
+    "name": "Huixtla",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 15.13924,
+    "longitude": -92.4634,
+    "rain_mm": 48.69,
+    "soil_moisture": 0.54,
+    "raw_dynamic_score": 7.289,
+    "last_updated": "2026-05-21T19:56:53.634895Z",
+    "last_tweeted_at": "2026-05-21T19:56:53.634895Z",
+    "tweet_id": "2057551523996184803",
     "resolved": false
   }
 }
