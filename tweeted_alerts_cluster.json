@@ -21840,7 +21840,7 @@
     "rain_mm": 41.75,
     "soil_moisture": 0.717,
     "raw_dynamic_score": 6.916,
-    "last_updated": "2026-05-20T22:29:37.221176Z",
+    "last_updated": "2026-05-21T02:45:15.177334Z",
     "last_tweeted_at": "2026-05-19T12:12:23.269234Z",
     "tweet_id": "2056709597923054036",
     "resolved": false
@@ -22291,7 +22291,7 @@
     "rain_mm": 48.31,
     "soil_moisture": 0.601,
     "raw_dynamic_score": 7.498,
-    "last_updated": "2026-05-20T22:29:37.221176Z",
+    "last_updated": "2026-05-21T02:45:15.177334Z",
     "last_tweeted_at": "2026-05-20T06:52:37.476077Z",
     "tweet_id": "2056991765056385372",
     "resolved": false
@@ -22727,18 +22727,18 @@
     "rain_mm": 81.94,
     "soil_moisture": 0.734,
     "raw_dynamic_score": 13.705,
-    "last_updated": "2026-05-20T22:29:37.221176Z",
+    "last_updated": "2026-05-21T02:45:15.177334Z",
     "last_tweeted_at": "2026-05-20T20:13:50.714765Z",
     "tweet_id": "2057193138708713769",
     "resolved": false,
     "pending_downgrade": true,
-    "pending_target_level": "Medium",
-    "pending_set_at": "2026-05-20T22:29:37.221176Z",
+    "pending_target_level": "Low",
+    "pending_set_at": "2026-05-21T02:45:15.177334Z",
     "pending_is_region": false,
-    "pending_observed_level": "Medium",
-    "pending_observed_rain_mm": 69.12,
-    "pending_observed_soil_moisture": 0.73,
-    "pending_observed_raw_dynamic_score": 11.533
+    "pending_observed_level": "Low",
+    "pending_observed_rain_mm": 3.81,
+    "pending_observed_soil_moisture": 0.694,
+    "pending_observed_raw_dynamic_score": 0.624
   },
   "30.5046,-90.4629": {
     "country": "United States",
@@ -22825,7 +22825,7 @@
     "rain_mm": 42.81,
     "soil_moisture": 0.591,
     "raw_dynamic_score": 6.607,
-    "last_updated": "2026-05-20T22:29:37.221176Z",
+    "last_updated": "2026-05-21T02:45:15.177334Z",
     "last_tweeted_at": "2026-05-20T22:29:37.221176Z",
     "tweet_id": "2057227304326021189",
     "resolved": false
@@ -22840,7 +22840,7 @@
     "rain_mm": 75.12,
     "soil_moisture": 0.422,
     "raw_dynamic_score": 10.444,
-    "last_updated": "2026-05-20T22:29:37.221176Z",
+    "last_updated": "2026-05-21T02:45:15.177334Z",
     "last_tweeted_at": "2026-05-20T22:29:37.221176Z",
     "tweet_id": "2057227556814717308",
     "resolved": false
@@ -22855,9 +22855,24 @@
     "rain_mm": 62.5,
     "soil_moisture": 0.62,
     "raw_dynamic_score": 9.81,
-    "last_updated": "2026-05-20T22:29:37.221176Z",
+    "last_updated": "2026-05-21T02:45:15.177334Z",
     "last_tweeted_at": "2026-05-20T22:29:37.221176Z",
     "tweet_id": "2057227809207066986",
+    "resolved": false
+  },
+  "17.9667,102.6000": {
+    "country": "Lao People's Democratic Republic",
+    "name": "Vientiane",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 17.96667,
+    "longitude": 102.6,
+    "rain_mm": 72.0,
+    "soil_moisture": 0.646,
+    "raw_dynamic_score": 11.471,
+    "last_updated": "2026-05-21T02:45:15.177334Z",
+    "last_tweeted_at": "2026-05-21T02:45:15.177334Z",
+    "tweet_id": "2057291637575885281",
     "resolved": false
   }
 }
