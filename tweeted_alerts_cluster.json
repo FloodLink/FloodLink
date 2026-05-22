@@ -22984,7 +22984,7 @@
     "rain_mm": 46.62,
     "soil_moisture": 0.472,
     "raw_dynamic_score": 6.693,
-    "last_updated": "2026-05-22T19:34:39.132040Z",
+    "last_updated": "2026-05-22T22:09:52.039339Z",
     "last_tweeted_at": "2026-05-22T17:12:54.137853Z",
     "tweet_id": "2057872873457430625",
     "resolved": false
@@ -22992,16 +22992,16 @@
   "24.7102,97.9367": {
     "country": "China",
     "name": "Yingjiang",
-    "risk_level": "Medium",
-    "tweeted_level": "Medium",
+    "risk_level": "High",
+    "tweeted_level": "High",
     "latitude": 24.71022,
     "longitude": 97.93671,
-    "rain_mm": 59.31,
-    "soil_moisture": 0.604,
-    "raw_dynamic_score": 9.222,
-    "last_updated": "2026-05-22T19:34:39.132040Z",
-    "last_tweeted_at": "2026-05-22T19:34:39.132040Z",
-    "tweet_id": "2057908054775980198",
+    "rain_mm": 95.19,
+    "soil_moisture": 0.735,
+    "raw_dynamic_score": 15.929,
+    "last_updated": "2026-05-22T22:09:52.039339Z",
+    "last_tweeted_at": "2026-05-22T22:09:52.039339Z",
+    "tweet_id": "2057947099421938091",
     "resolved": false
   },
   "24.6612,97.8526": {
@@ -23017,6 +23017,36 @@
     "last_updated": "2026-05-22T19:34:39.132040Z",
     "last_tweeted_at": "2026-05-22T19:34:39.132040Z",
     "tweet_id": "2057908054775980198",
+    "resolved": false
+  },
+  "32.0724,-84.2327": {
+    "country": "United States",
+    "name": "Americus",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 32.07239,
+    "longitude": -84.23269,
+    "rain_mm": 50.38,
+    "soil_moisture": 0.538,
+    "raw_dynamic_score": 7.53,
+    "last_updated": "2026-05-22T22:09:52.039339Z",
+    "last_tweeted_at": "2026-05-22T22:09:52.039339Z",
+    "tweet_id": "2057947351986131314",
+    "resolved": false
+  },
+  "35.2621,-81.1873": {
+    "country": "United States",
+    "name": "Gastonia",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 35.26208,
+    "longitude": -81.1873,
+    "rain_mm": 57.62,
+    "soil_moisture": 0.577,
+    "raw_dynamic_score": 8.819,
+    "last_updated": "2026-05-22T22:09:52.039339Z",
+    "last_tweeted_at": "2026-05-22T22:09:52.039339Z",
+    "tweet_id": "2057947604852334647",
     "resolved": false
   }
 }
