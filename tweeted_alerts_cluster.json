@@ -20185,7 +20185,7 @@
     "rain_mm": 35.31,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 6.754,
-    "last_updated": "2026-05-12T17:12:16.040872Z",
+    "last_updated": "2026-05-22T19:34:39.132040Z",
     "last_tweeted_at": "2026-05-12T11:23:25.701235Z",
     "tweet_id": "2054161302873116834",
     "resolved": false
@@ -22890,10 +22890,14 @@
     "rain_mm": 45.44,
     "soil_moisture": 0.607,
     "raw_dynamic_score": 7.078,
-    "last_updated": "2026-05-22T17:12:54.137853Z",
+    "last_updated": "2026-05-22T19:34:39.132040Z",
     "last_tweeted_at": "2026-05-22T11:49:43.031160Z",
     "tweet_id": "2057791293351395516",
-    "resolved": false
+    "resolved": false,
+    "pending_downgrade": true,
+    "pending_target_level": "Medium",
+    "pending_set_at": "2026-05-22T19:34:39.132040Z",
+    "pending_is_region": true
   },
   "16.5728,75.9725": {
     "country": "India",
@@ -22905,7 +22909,7 @@
     "rain_mm": 94.06,
     "soil_moisture": 0.386,
     "raw_dynamic_score": 12.77,
-    "last_updated": "2026-05-22T11:49:43.031160Z",
+    "last_updated": "2026-05-22T19:34:39.132040Z",
     "last_tweeted_at": "2026-05-22T11:49:43.031160Z",
     "tweet_id": "2057791293351395516",
     "resolved": false
@@ -22950,7 +22954,7 @@
     "rain_mm": 46.44,
     "soil_moisture": 0.602,
     "raw_dynamic_score": 7.211,
-    "last_updated": "2026-05-22T17:12:54.137853Z",
+    "last_updated": "2026-05-22T19:34:39.132040Z",
     "last_tweeted_at": "2026-05-22T17:12:54.137853Z",
     "tweet_id": "2057872368110870715",
     "resolved": false
@@ -22965,7 +22969,7 @@
     "rain_mm": 50.06,
     "soil_moisture": 0.638,
     "raw_dynamic_score": 7.938,
-    "last_updated": "2026-05-22T17:12:54.137853Z",
+    "last_updated": "2026-05-22T19:34:39.132040Z",
     "last_tweeted_at": "2026-05-22T17:12:54.137853Z",
     "tweet_id": "2057872620700270811",
     "resolved": false
@@ -22980,9 +22984,39 @@
     "rain_mm": 46.62,
     "soil_moisture": 0.472,
     "raw_dynamic_score": 6.693,
-    "last_updated": "2026-05-22T17:12:54.137853Z",
+    "last_updated": "2026-05-22T19:34:39.132040Z",
     "last_tweeted_at": "2026-05-22T17:12:54.137853Z",
     "tweet_id": "2057872873457430625",
+    "resolved": false
+  },
+  "24.7102,97.9367": {
+    "country": "China",
+    "name": "Yingjiang",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 24.71022,
+    "longitude": 97.93671,
+    "rain_mm": 59.31,
+    "soil_moisture": 0.604,
+    "raw_dynamic_score": 9.222,
+    "last_updated": "2026-05-22T19:34:39.132040Z",
+    "last_tweeted_at": "2026-05-22T19:34:39.132040Z",
+    "tweet_id": "2057908054775980198",
+    "resolved": false
+  },
+  "24.6612,97.8526": {
+    "country": "China",
+    "name": "Taiping",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 24.66116,
+    "longitude": 97.85262,
+    "rain_mm": 47.06,
+    "soil_moisture": 0.687,
+    "raw_dynamic_score": 7.67,
+    "last_updated": "2026-05-22T19:34:39.132040Z",
+    "last_tweeted_at": "2026-05-22T19:34:39.132040Z",
+    "tweet_id": "2057908054775980198",
     "resolved": false
   }
 }
