@@ -10111,5 +10111,14 @@
         "score": 7,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-05-22",
+        "status": "posted",
+        "tweet": "2025 floodplains pop. exposure (millions):\n1. \ud83c\uddee\ud83c\uddf3 India: 221\n2. \ud83c\udde8\ud83c\uddf3 China: 165\n3. \ud83c\udde7\ud83c\udde9 Bangladesh: 78\n4. \ud83c\uddfb\ud83c\uddf3 Vietnam: 49\n5. \ud83c\uddf5\ud83c\uddf0 Pakistan: 43",
+        "type": "statistical",
+        "category": "population living in floodplains",
+        "tweet_id": "2057925573616267614"
     }
 ]
