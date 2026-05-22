@@ -6797,7 +6797,7 @@
     "rain_mm": 44.75,
     "soil_moisture": 0.691,
     "raw_dynamic_score": 7.31,
-    "last_updated": "2026-02-23T12:49:08.406464Z",
+    "last_updated": "2026-05-22T06:52:00.261354Z",
     "last_tweeted_at": "2026-02-23T09:50:21.584824Z",
     "tweet_id": "2025872390215860725",
     "resolved": false
@@ -15332,7 +15332,7 @@
     "rain_mm": 48.06,
     "soil_moisture": 0.612,
     "raw_dynamic_score": 7.506,
-    "last_updated": "2026-05-21T22:23:29.918035Z",
+    "last_updated": "2026-05-22T06:52:00.261354Z",
     "last_tweeted_at": "2026-04-15T13:13:28.302839Z",
     "tweet_id": "2044404036724511046",
     "resolved": false
@@ -18993,7 +18993,7 @@
     "rain_mm": 57.06,
     "soil_moisture": 0.524,
     "raw_dynamic_score": 8.46,
-    "last_updated": "2026-05-07T11:11:39.272638Z",
+    "last_updated": "2026-05-22T06:52:00.261354Z",
     "last_tweeted_at": "2026-05-07T06:03:02.773533Z",
     "tweet_id": "2052268495367184722",
     "resolved": false
@@ -22848,6 +22848,51 @@
     "last_updated": "2026-05-22T02:46:43.942114Z",
     "last_tweeted_at": "2026-05-21T22:23:29.918035Z",
     "tweet_id": "2057588651098296626",
+    "resolved": false
+  },
+  "26.6450,118.1736": {
+    "country": "China",
+    "name": "Nanping",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 26.645,
+    "longitude": 118.17361,
+    "rain_mm": 42.0,
+    "soil_moisture": 0.735,
+    "raw_dynamic_score": 7.028,
+    "last_updated": "2026-05-22T06:52:00.261354Z",
+    "last_tweeted_at": "2026-05-22T06:52:00.261354Z",
+    "tweet_id": "2057716128537796825",
+    "resolved": false
+  },
+  "27.5583,116.6398": {
+    "country": "China",
+    "name": "Jianchang",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 27.55831,
+    "longitude": 116.63978,
+    "rain_mm": 39.81,
+    "soil_moisture": 0.698,
+    "raw_dynamic_score": 6.527,
+    "last_updated": "2026-05-22T06:52:00.261354Z",
+    "last_tweeted_at": "2026-05-22T06:52:00.261354Z",
+    "tweet_id": "2057716380896465109",
+    "resolved": false
+  },
+  "6.8981,126.0096": {
+    "country": "Philippines",
+    "name": "Lupon",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 6.89814,
+    "longitude": 126.00961,
+    "rain_mm": 60.25,
+    "soil_moisture": 1.0,
+    "raw_dynamic_score": 11.523,
+    "last_updated": "2026-05-22T06:52:00.261354Z",
+    "last_tweeted_at": "2026-05-22T06:52:00.261354Z",
+    "tweet_id": "2057716633397817700",
     "resolved": false
   }
 }
