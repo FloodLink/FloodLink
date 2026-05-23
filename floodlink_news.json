@@ -10129,5 +10129,14 @@
         "score": 0,
         "status": "skipped",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-05-23",
+        "status": "posted",
+        "tweet": "\ud83c\udde8\ud83c\uddf3 Guangzhou and \ud83c\uddee\ud83c\uddf3 Mumbai saw pluvial flood exposure rise from 41 million people in 2020 to 67 million in 2025. European dense cities recorded a smaller increase, from 9 million to 12 million over the same period.",
+        "type": "statistical",
+        "category": "pluvial (surface) flooding in dense cities",
+        "tweet_id": "2058213812223045918"
     }
 ]
