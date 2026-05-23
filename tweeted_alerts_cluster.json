@@ -1364,22 +1364,6 @@
     "tweet_id": "2013362933640892491",
     "resolved": false
   },
-  "-29.0546,167.9663": {
-    "country": "Norfolk Island",
-    "name": "Kingston",
-    "risk_level": "Low",
-    "tweeted_level": "Low",
-    "latitude": -29.05459,
-    "longitude": 167.96628,
-    "rain_mm": 1.44,
-    "soil_moisture": 1.0,
-    "raw_dynamic_score": 0.275,
-    "last_updated": "2026-05-22T14:32:24.330051Z",
-    "last_tweeted_at": "2026-05-22T14:32:24.330051Z",
-    "tweet_id": "2057832244035846344",
-    "resolved": true,
-    "resolved_at": "2026-05-22T14:32:24.330051Z"
-  },
   "37.1596,9.7606": {
     "country": "Tunisia",
     "name": "Tinja",
@@ -15243,7 +15227,7 @@
     "rain_mm": 50.94,
     "soil_moisture": 0.655,
     "raw_dynamic_score": 8.156,
-    "last_updated": "2026-05-23T13:16:03.084715Z",
+    "last_updated": "2026-05-23T16:06:57.534742Z",
     "last_tweeted_at": "2026-04-14T21:52:11.679993Z",
     "tweet_id": "2044172927890010143",
     "resolved": false
@@ -22699,7 +22683,7 @@
     "rain_mm": 3.38,
     "soil_moisture": 0.388,
     "raw_dynamic_score": 0.459,
-    "last_updated": "2026-05-23T13:16:03.084715Z",
+    "last_updated": "2026-05-23T16:06:57.534742Z",
     "last_tweeted_at": "2026-05-23T13:16:03.084715Z",
     "tweet_id": "2058175163808592153",
     "resolved": true,
@@ -22891,7 +22875,7 @@
     "rain_mm": 45.44,
     "soil_moisture": 0.607,
     "raw_dynamic_score": 7.078,
-    "last_updated": "2026-05-23T13:16:03.084715Z",
+    "last_updated": "2026-05-23T16:06:57.534742Z",
     "last_tweeted_at": "2026-05-22T11:49:43.031160Z",
     "tweet_id": "2057791293351395516",
     "resolved": false
@@ -23256,7 +23240,7 @@
     "rain_mm": 55.0,
     "soil_moisture": 0.678,
     "raw_dynamic_score": 8.921,
-    "last_updated": "2026-05-23T10:32:34.077288Z",
+    "last_updated": "2026-05-23T16:06:57.534742Z",
     "last_tweeted_at": "2026-05-23T10:32:34.077288Z",
     "tweet_id": "2058134510856818978",
     "resolved": false
@@ -23271,9 +23255,24 @@
     "rain_mm": 55.0,
     "soil_moisture": 0.678,
     "raw_dynamic_score": 8.921,
-    "last_updated": "2026-05-23T10:32:34.077288Z",
+    "last_updated": "2026-05-23T16:06:57.534742Z",
     "last_tweeted_at": "2026-05-23T10:32:34.077288Z",
     "tweet_id": "2058134763416809715",
+    "resolved": false
+  },
+  "28.8053,-97.0036": {
+    "country": "United States",
+    "name": "Victoria",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 28.80527,
+    "longitude": -97.0036,
+    "rain_mm": 69.81,
+    "soil_moisture": 0.615,
+    "raw_dynamic_score": 10.922,
+    "last_updated": "2026-05-23T16:06:57.534742Z",
+    "last_tweeted_at": "2026-05-23T16:06:57.534742Z",
+    "tweet_id": "2058218171518058757",
     "resolved": false
   }
 }
