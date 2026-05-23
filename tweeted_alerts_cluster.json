@@ -22410,22 +22410,6 @@
     "tweet_id": "2057112294081925325",
     "resolved": false
   },
-  "-1.4902,102.1149": {
-    "country": "Indonesia",
-    "name": "Muara Bungo",
-    "risk_level": "None",
-    "tweeted_level": "None",
-    "latitude": -1.49018,
-    "longitude": 102.1149,
-    "rain_mm": 0.0,
-    "soil_moisture": 0.645,
-    "raw_dynamic_score": 0.0,
-    "last_updated": "2026-05-21T22:23:29.918035Z",
-    "last_tweeted_at": "2026-05-21T22:23:29.918035Z",
-    "tweet_id": "2057588903872278801",
-    "resolved": true,
-    "resolved_at": "2026-05-21T22:23:29.918035Z"
-  },
   "30.5046,-90.4629": {
     "country": "United States",
     "name": "Hammond",
@@ -22984,7 +22968,7 @@
     "rain_mm": 46.62,
     "soil_moisture": 0.472,
     "raw_dynamic_score": 6.693,
-    "last_updated": "2026-05-22T22:09:52.039339Z",
+    "last_updated": "2026-05-23T02:23:23.995017Z",
     "last_tweeted_at": "2026-05-22T17:12:54.137853Z",
     "tweet_id": "2057872873457430625",
     "resolved": false
@@ -22999,10 +22983,14 @@
     "rain_mm": 95.19,
     "soil_moisture": 0.735,
     "raw_dynamic_score": 15.929,
-    "last_updated": "2026-05-22T22:09:52.039339Z",
+    "last_updated": "2026-05-23T02:23:23.995017Z",
     "last_tweeted_at": "2026-05-22T22:09:52.039339Z",
     "tweet_id": "2057947099421938091",
-    "resolved": false
+    "resolved": false,
+    "pending_downgrade": true,
+    "pending_target_level": "Low",
+    "pending_set_at": "2026-05-23T02:23:23.995017Z",
+    "pending_is_region": true
   },
   "24.6612,97.8526": {
     "country": "China",
@@ -23014,7 +23002,7 @@
     "rain_mm": 47.06,
     "soil_moisture": 0.687,
     "raw_dynamic_score": 7.67,
-    "last_updated": "2026-05-22T19:34:39.132040Z",
+    "last_updated": "2026-05-23T02:23:23.995017Z",
     "last_tweeted_at": "2026-05-22T19:34:39.132040Z",
     "tweet_id": "2057908054775980198",
     "resolved": false
@@ -23029,7 +23017,7 @@
     "rain_mm": 50.38,
     "soil_moisture": 0.538,
     "raw_dynamic_score": 7.53,
-    "last_updated": "2026-05-22T22:09:52.039339Z",
+    "last_updated": "2026-05-23T02:23:23.995017Z",
     "last_tweeted_at": "2026-05-22T22:09:52.039339Z",
     "tweet_id": "2057947351986131314",
     "resolved": false
@@ -23044,9 +23032,39 @@
     "rain_mm": 57.62,
     "soil_moisture": 0.577,
     "raw_dynamic_score": 8.819,
-    "last_updated": "2026-05-22T22:09:52.039339Z",
+    "last_updated": "2026-05-23T02:23:23.995017Z",
     "last_tweeted_at": "2026-05-22T22:09:52.039339Z",
     "tweet_id": "2057947604852334647",
+    "resolved": false
+  },
+  "-28.0233,-48.6133": {
+    "country": "Brazil",
+    "name": "Garopaba",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": -28.02333,
+    "longitude": -48.61333,
+    "rain_mm": 34.88,
+    "soil_moisture": 1.0,
+    "raw_dynamic_score": 6.67,
+    "last_updated": "2026-05-23T02:23:23.995017Z",
+    "last_tweeted_at": "2026-05-23T02:23:23.995017Z",
+    "tweet_id": "2058010920157134958",
+    "resolved": false
+  },
+  "8.3137,-75.1398": {
+    "country": "Colombia",
+    "name": "Ayapel",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 8.31372,
+    "longitude": -75.13982,
+    "rain_mm": 51.38,
+    "soil_moisture": 0.679,
+    "raw_dynamic_score": 8.336,
+    "last_updated": "2026-05-23T02:23:23.995017Z",
+    "last_tweeted_at": "2026-05-23T02:23:23.995017Z",
+    "tweet_id": "2058011172595466581",
     "resolved": false
   }
 }
