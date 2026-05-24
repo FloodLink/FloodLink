@@ -17778,7 +17778,7 @@
     "rain_mm": 45.94,
     "soil_moisture": 0.594,
     "raw_dynamic_score": 7.102,
-    "last_updated": "2026-05-24T10:37:14.239843Z",
+    "last_updated": "2026-05-24T13:14:48.868960Z",
     "last_tweeted_at": "2026-05-02T07:30:16.357109Z",
     "tweet_id": "2050478002203697611",
     "resolved": false
@@ -22263,7 +22263,7 @@
     "rain_mm": 72.94,
     "soil_moisture": 0.602,
     "raw_dynamic_score": 11.327,
-    "last_updated": "2026-05-24T10:37:14.239843Z",
+    "last_updated": "2026-05-24T13:14:48.868960Z",
     "last_tweeted_at": "2026-05-20T11:53:15.569664Z",
     "tweet_id": "2057067655748612609",
     "resolved": false
@@ -23353,6 +23353,36 @@
     "last_updated": "2026-05-24T10:37:14.239843Z",
     "last_tweeted_at": "2026-05-24T06:40:04.525115Z",
     "tweet_id": "2058438154944716952",
+    "resolved": false
+  },
+  "37.1361,109.6597": {
+    "country": "China",
+    "name": "Wayaobu",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 37.13611,
+    "longitude": 109.65972,
+    "rain_mm": 48.62,
+    "soil_moisture": 0.599,
+    "raw_dynamic_score": 7.538,
+    "last_updated": "2026-05-24T13:14:48.868960Z",
+    "last_tweeted_at": "2026-05-24T13:14:48.868960Z",
+    "tweet_id": "2058537239907389709",
+    "resolved": false
+  },
+  "8.8795,7.2276": {
+    "country": "Nigeria",
+    "name": "Kuje",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 8.87952,
+    "longitude": 7.22756,
+    "rain_mm": 77.31,
+    "soil_moisture": 0.474,
+    "raw_dynamic_score": 11.116,
+    "last_updated": "2026-05-24T13:14:48.868960Z",
+    "last_tweeted_at": "2026-05-24T13:14:48.868960Z",
+    "tweet_id": "2058537492396024212",
     "resolved": false
   }
 }
