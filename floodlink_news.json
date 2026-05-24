@@ -10125,5 +10125,95 @@
         "score": 0,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOQzJQNzNQcU9td2VQSTFDSFNXWW9OZGoycmcyZmpZNHVIS0lyWkZxMlY5WTd0TUxXS28tYzhDc0RYZ1FmdkRwSHV0UE04VnoxVlVMSzFFaDRVcGlJUkJaanU2Wl9YSHZGdkU0WUFxWXgyU08xTGxQOTBfaVlMQXVqWG9fa0hCTkU5RlBCTXRrUVZLOEdoelpiU1pQLVdLME50bkI2LWRxNGZsZThQQ3A5LXNvX1Q4S083ZTRNUWpR?oc=5",
+        "date": "2026-05-24",
+        "title": "Flash flood warning for Pasco County early Sunday morning due to thunderstorms - Tampa Bay Times",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxOQzJQNzNQcU9td2VQSTFDSFNXWW9OZGoycmcyZmpZNHVIS0lyWkZxMlY5WTd0TUxXS28tYzhDc0RYZ1FmdkRwSHV0UE04VnoxVlVMSzFFaDRVcGlJUkJaanU2Wl9YSHZGdkU0WUFxWXgyU08xTGxQOTBfaVlMQXVqWG9fa0hCTkU5RlBCTXRrUVZLOEdoelpiU1pQLVdLME50bkI2LWRxNGZsZThQQ3A5LXNvX1Q4S083ZTRNUWpR?oc=5\" target=\"_blank\">Flash flood warning for Pasco County early Sunday morning due to thunderstorms</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tampa Bay Times</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZkNRb0dEdS1XWG1nZ2Z3bjZ4V0h4R1A1R0RncENwRUt6SnVoNU5McGgyUmVuWGh4T2NFMVZCZzhhWkhZNzdGQkZpdXdjbnRVbkduaFQ3aXE0VDB6WlI0ZTJJMTV3TkdFcjFmZDVkT2k3Y1dMVi1vWjZyN0NZeHVEXzVWbTh6NEptaExfS0VjZWtZZWdYWllpRUlna0QxdHBxdDlTWE5Jdw?oc=5",
+        "date": "2026-05-24",
+        "title": "Update: Flood advisory affecting Pinellas County until 2 a.m. Sunday due to heavy downpours - Yahoo",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxOZkNRb0dEdS1XWG1nZ2Z3bjZ4V0h4R1A1R0RncENwRUt6SnVoNU5McGgyUmVuWGh4T2NFMVZCZzhhWkhZNzdGQkZpdXdjbnRVbkduaFQ3aXE0VDB6WlI0ZTJJMTV3TkdFcjFmZDVkT2k3Y1dMVi1vWjZyN0NZeHVEXzVWbTh6NEptaExfS0VjZWtZZWdYWllpRUlna0QxdHBxdDlTWE5Jdw?oc=5\" target=\"_blank\">Update: Flood advisory affecting Pinellas County until 2 a.m. Sunday due to heavy downpours</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo</font>",
+        "similarity_excluded": "No",
+        "score": 6,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQOEJDRzlhZWZEM2J6YndxZjd6Y2xadHhxNWF4Mkh1QmhDWmhFUWdXbGJHUGUwUm9LQ2VSQVVrX0NJU3NzdkZ4eXBFMjdENmFRQUxhbk4zdW4tOWFFaDNiU2xadEpZZWxTcHc3T0tXRVNZdHFiMnIxM0tYQ0dIZ3FqUWVQdm1leGlHRkFlNUVLRFRPVGpiZVhfY29wblI?oc=5",
+        "date": "2026-05-24",
+        "title": "Flash flood warning for Pasco County early Sunday morning due to thunderstorms - Yahoo",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQOEJDRzlhZWZEM2J6YndxZjd6Y2xadHhxNWF4Mkh1QmhDWmhFUWdXbGJHUGUwUm9LQ2VSQVVrX0NJU3NzdkZ4eXBFMjdENmFRQUxhbk4zdW4tOWFFaDNiU2xadEpZZWxTcHc3T0tXRVNZdHFiMnIxM0tYQ0dIZ3FqUWVQdm1leGlHRkFlNUVLRFRPVGpiZVhfY29wblI?oc=5\" target=\"_blank\">Flash flood warning for Pasco County early Sunday morning due to thunderstorms</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOeFZaRVR3WGsxMVhpY19MZzBpaGx3WTlUUFRKblk2ZmlKRXJTTzR5NFYtRUxXamIwQXRQNS1ZZk55RWlIQThycmhCUDA1c3VJS2JsT1h4S2JOdDlEcUhGYm1GZ25JOWN5cHN0dkZadEhzb1J4WEQwMEJlNktrOWo1ckZ0YXpDeW5TS1dkeGVSV2w2MU54UFRqTFFKc08tZVZoRGsxWS1DRFpWQnFLSDJORjlLLW9uNHpHRW9LbmtweWt6TTRsWnExZndrYy1IWjFSM1JzS0VmV0NzYkU?oc=5",
+        "date": "2026-05-24",
+        "title": "Flood Warning issued May 24 at 2:57AM CDT until May 24 at 5:00PM CDT by NWS Kansas City/Pleasant Hill MO - ABC17NEWS",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxOeFZaRVR3WGsxMVhpY19MZzBpaGx3WTlUUFRKblk2ZmlKRXJTTzR5NFYtRUxXamIwQXRQNS1ZZk55RWlIQThycmhCUDA1c3VJS2JsT1h4S2JOdDlEcUhGYm1GZ25JOWN5cHN0dkZadEhzb1J4WEQwMEJlNktrOWo1ckZ0YXpDeW5TS1dkeGVSV2w2MU54UFRqTFFKc08tZVZoRGsxWS1DRFpWQnFLSDJORjlLLW9uNHpHRW9LbmtweWt6TTRsWnExZndrYy1IWjFSM1JzS0VmV0NzYkU?oc=5\" target=\"_blank\">Flood Warning issued May 24 at 2:57AM CDT until May 24 at 5:00PM CDT by NWS Kansas City/Pleasant Hill MO</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ABC17NEWS</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUDJITm9SdlhKMmg5NVZjQklTQkNFeGg2cnFjQjBDMFdVeFE0cEgxWnRKVGNkNWpQWEkyWFNKSW5Qd3dqazNNQWNSU2ZhTWRRNG5sS3BTRDdmbHhUakhSU0VOT2RJNlBHaXh6dDg5R2tBYkY3TGpjalZBRWdiSWdmUEdBSFJqZ1BjeC1HczJwZ3JEWEtpbUNUVlVkNmNWUQ?oc=5",
+        "date": "2026-05-24",
+        "title": "Flood advisory for Pasco County until 2 a.m. Sunday caused by prolonged downpours - Yahoo",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOUDJITm9SdlhKMmg5NVZjQklTQkNFeGg2cnFjQjBDMFdVeFE0cEgxWnRKVGNkNWpQWEkyWFNKSW5Qd3dqazNNQWNSU2ZhTWRRNG5sS3BTRDdmbHhUakhSU0VOT2RJNlBHaXh6dDg5R2tBYkY3TGpjalZBRWdiSWdmUEdBSFJqZ1BjeC1HczJwZ3JEWEtpbUNUVlVkNmNWUQ?oc=5\" target=\"_blank\">Flood advisory for Pasco County until 2 a.m. Sunday caused by prolonged downpours</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPWGlwT1NQU1UyWWhDRTBPNzdIcWZmdXd0SDFSdEJZLUZzdHdvdkp5OW9BbEJZdjNoOWw5NDlERlRnclRJdS15NmNnTW1WT0s0WXllOGtiaHN4WmhfZVBoTUxfQUs4Y0ZEYm5BUFpVMXNWNTE5TkxfaWxTRm9aLThJTWJvT0RoN2lnOVRZWV9qckRycmZtZnRuMk1EeGI2aFljVjlTSWtfMGR4a3FzTFE0UE9wVVQwblJhWXVtcjhyY3BRSTEyR3Mwa2tjT3FmdmI1MEU0LU5sWE9nYW52S3RrQU9sVdIB6gFBVV95cUxPX2NReXFFd1E2dXVESnFMeDJfdzNzUzFUSXJXek9hOWFLakdPMlRQZVlfazNqaVh5a2xhalIzR2ZKTXBKa3g4THBGbVBmeGpuVVQ1ajE5WnRHLUg5dm14cEdKWXlQZTdOcExJTWNRQkhiZmxHT3BaVl9CeHNKVE5tdHR4RjBYZC1tb2NIS1ppOURpVTUzaXJkdUlUNS1YS24ySkZxOVQ4bDRMMUU5QkFRYld6emZuUWUyQzVuTmlkNkVHdzF1djZJTEJSV094a0o4NnU2bmRxYzliQ0pJdDZpZVIwVW5tTlZ4N1E?oc=5",
+        "date": "2026-05-24",
+        "title": "West Bengal flags 300 flooding \u2018black spots\u2019, Agnimitra Paul orders anti-electrocution drive during monsoon - The Indian Express",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxPWGlwT1NQU1UyWWhDRTBPNzdIcWZmdXd0SDFSdEJZLUZzdHdvdkp5OW9BbEJZdjNoOWw5NDlERlRnclRJdS15NmNnTW1WT0s0WXllOGtiaHN4WmhfZVBoTUxfQUs4Y0ZEYm5BUFpVMXNWNTE5TkxfaWxTRm9aLThJTWJvT0RoN2lnOVRZWV9qckRycmZtZnRuMk1EeGI2aFljVjlTSWtfMGR4a3FzTFE0UE9wVVQwblJhWXVtcjhyY3BRSTEyR3Mwa2tjT3FmdmI1MEU0LU5sWE9nYW52S3RrQU9sVdIB6gFBVV95cUxPX2NReXFFd1E2dXVESnFMeDJfdzNzUzFUSXJXek9hOWFLakdPMlRQZVlfazNqaVh5a2xhalIzR2ZKTXBKa3g4THBGbVBmeGpuVVQ1ajE5WnRHLUg5dm14cEdKWXlQZTdOcExJTWNRQkhiZmxHT3BaVl9CeHNKVE5tdHR4RjBYZC1tb2NIS1ppOURpVTUzaXJkdUlUNS1YS24ySkZxOVQ4bDRMMUU5QkFRYld6emZuUWUyQzVuTmlkNkVHdzF1djZJTEJSV094a0o4NnU2bmRxYzliQ0pJdDZpZVIwVW5tTlZ4N1E?oc=5\" target=\"_blank\">West Bengal flags 300 flooding \u2018black spots\u2019, Agnimitra Paul orders anti-electrocution drive during monsoon</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Indian Express</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQazFvQndyZEhuM0cwcC1JWFREYmFtMlhqTm9LQ3FBVkpIc2tnckhiY0M2TVNhanJlSEV6bnFxYm5SejBQbUJuRHJ6TUFrZkpGMFpGVVZ3OVBzQmo4Y0ltVmNjRlAxRFlibjdZYkduNDZLSVk0SUJnZ0pFM3kzYzZEUFRoWjNNYUFULXR3QWNpcFRHYXVvMWt6Vk03ZmtHdDl5RjF6eWZMelR2NURJ?oc=5",
+        "date": "2026-05-24",
+        "title": "Southwest monsoon gradually sets in; Heavy rainfall expected from Tuesday - Ada Derana",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQazFvQndyZEhuM0cwcC1JWFREYmFtMlhqTm9LQ3FBVkpIc2tnckhiY0M2TVNhanJlSEV6bnFxYm5SejBQbUJuRHJ6TUFrZkpGMFpGVVZ3OVBzQmo4Y0ltVmNjRlAxRFlibjdZYkduNDZLSVk0SUJnZ0pFM3kzYzZEUFRoWjNNYUFULXR3QWNpcFRHYXVvMWt6Vk03ZmtHdDl5RjF6eWZMelR2NURJ?oc=5\" target=\"_blank\">Southwest monsoon gradually sets in; Heavy rainfall expected from Tuesday</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Ada Derana</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPSURXUExqdjNldWdtMnVxa1ctV0l4dG93YzlCaFUxNlBKN3NwdmdvaFg0cHZVa3RnQlpsc2NweFpZbXpBZ3J2aWpTdGk3c3hjNGs3TkRWNnF6S0FaZzJNTHFtVWY3c2RBWS1nYTZrSFRVSVlGQm1xUDZZLXJMOW9HVUdOWDZ2ODNyTzQ5bk5MTnl0TEM0VTJheWdSZk1qOW04?oc=5",
+        "date": "2026-05-24",
+        "title": "Murree Rescue 1122 holds pre-monsoon water rescue drill - Pakistan Today",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPSURXUExqdjNldWdtMnVxa1ctV0l4dG93YzlCaFUxNlBKN3NwdmdvaFg0cHZVa3RnQlpsc2NweFpZbXpBZ3J2aWpTdGk3c3hjNGs3TkRWNnF6S0FaZzJNTHFtVWY3c2RBWS1nYTZrSFRVSVlGQm1xUDZZLXJMOW9HVUdOWDZ2ODNyTzQ5bk5MTnl0TEM0VTJheWdSZk1qOW04?oc=5\" target=\"_blank\">Murree Rescue 1122 holds pre-monsoon water rescue drill</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Pakistan Today</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPbUNrVE9icjgyaXo2MGxWTGNNUnpQQmUwTWhIS2FWRTZmSndBVTlSOXpnT2E4U1p5UFRURFJubmUwdHVvdkJuT2VJaEV6S3JlYkxsa0VhZXNZOUFZV0R1X0taTVhZbUNRbDl1RWh0MmhBOVpWVTFtODJmVS00MmxzZjEwaUxNaUdrcVpwVHRxb0pRelZuNGNSQVF2b1BXU0NMQU0zTmlqVW1hdjdMNG1odkNEUU9fam1zWUc4enkyRUFoYW5DTm5WVnBR0gHPAUFVX3lxTFA0c3RxenJPQ1ZMWDJyclpYd19ra0dIUVlLQmpXelhVM2FXR0JkMHVIRG8tNVhiNld2bUZteWRIcnlSYzJCOXBtMlJ3ZW5OeEdBRWhlakhsS3BwNVItYkd1bXJjUk1pcVBCV1pqdEktUjhtdE9zcUpJMmFUbldNQXgySktMLTRZalFnSjdFOEo1UWF2TTIzYWNxSzM2QmlXWDJqTjRqQl9fdDBHQktJbnRVcHdqQjFXeDR0VVNua3MxdnBkT3gyR2NaNWJILUVGVQ?oc=5",
+        "date": "2026-05-24",
+        "title": "Landslide blocks Pasighat-Aalo highway in Arunachal Pradesh - India Today NE",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxPbUNrVE9icjgyaXo2MGxWTGNNUnpQQmUwTWhIS2FWRTZmSndBVTlSOXpnT2E4U1p5UFRURFJubmUwdHVvdkJuT2VJaEV6S3JlYkxsa0VhZXNZOUFZV0R1X0taTVhZbUNRbDl1RWh0MmhBOVpWVTFtODJmVS00MmxzZjEwaUxNaUdrcVpwVHRxb0pRelZuNGNSQVF2b1BXU0NMQU0zTmlqVW1hdjdMNG1odkNEUU9fam1zWUc4enkyRUFoYW5DTm5WVnBR0gHPAUFVX3lxTFA0c3RxenJPQ1ZMWDJyclpYd19ra0dIUVlLQmpXelhVM2FXR0JkMHVIRG8tNVhiNld2bUZteWRIcnlSYzJCOXBtMlJ3ZW5OeEdBRWhlakhsS3BwNVItYkd1bXJjUk1pcVBCV1pqdEktUjhtdE9zcUpJMmFUbldNQXgySktMLTRZalFnSjdFOEo1UWF2TTIzYWNxSzM2QmlXWDJqTjRqQl9fdDBHQktJbnRVcHdqQjFXeDR0VVNua3MxdnBkT3gyR2NaNWJILUVGVQ?oc=5\" target=\"_blank\">Landslide blocks Pasighat-Aalo highway in Arunachal Pradesh</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">India Today NE</font>",
+        "similarity_excluded": "No",
+        "score": 3,
+        "status": "processed",
+        "tweet": null
     }
 ]
