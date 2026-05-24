@@ -13978,11 +13978,15 @@
     "rain_mm": 10.94,
     "soil_moisture": 0.568,
     "raw_dynamic_score": 1.665,
-    "last_updated": "2026-05-24T06:40:04.525115Z",
+    "last_updated": "2026-05-24T10:37:14.239843Z",
     "last_tweeted_at": "2026-05-24T06:40:04.525115Z",
     "tweet_id": "2058437902317580575",
     "resolved": true,
-    "resolved_at": "2026-05-24T06:40:04.525115Z"
+    "resolved_at": "2026-05-24T06:40:04.525115Z",
+    "pending_downgrade": true,
+    "pending_target_level": "Low",
+    "pending_set_at": "2026-05-24T10:37:14.239843Z",
+    "pending_is_region": true
   },
   "0.6675,-76.8730": {
     "country": "Colombia",
@@ -17774,7 +17778,7 @@
     "rain_mm": 45.94,
     "soil_moisture": 0.594,
     "raw_dynamic_score": 7.102,
-    "last_updated": "2026-05-24T06:40:04.525115Z",
+    "last_updated": "2026-05-24T10:37:14.239843Z",
     "last_tweeted_at": "2026-05-02T07:30:16.357109Z",
     "tweet_id": "2050478002203697611",
     "resolved": false
@@ -21359,7 +21363,7 @@
     "rain_mm": 44.0,
     "soil_moisture": 0.551,
     "raw_dynamic_score": 6.632,
-    "last_updated": "2026-05-24T06:40:04.525115Z",
+    "last_updated": "2026-05-24T10:37:14.239843Z",
     "last_tweeted_at": "2026-05-17T21:56:06.722849Z",
     "tweet_id": "2056131953372340593",
     "resolved": false
@@ -22259,7 +22263,7 @@
     "rain_mm": 72.94,
     "soil_moisture": 0.602,
     "raw_dynamic_score": 11.327,
-    "last_updated": "2026-05-20T14:50:34.690866Z",
+    "last_updated": "2026-05-24T10:37:14.239843Z",
     "last_tweeted_at": "2026-05-20T11:53:15.569664Z",
     "tweet_id": "2057067655748612609",
     "resolved": false
@@ -23316,7 +23320,7 @@
     "rain_mm": 85.0,
     "soil_moisture": 0.617,
     "raw_dynamic_score": 13.314,
-    "last_updated": "2026-05-24T06:40:04.525115Z",
+    "last_updated": "2026-05-24T10:37:14.239843Z",
     "last_tweeted_at": "2026-05-24T06:40:04.525115Z",
     "tweet_id": "2058437902317580575",
     "resolved": false
@@ -23331,7 +23335,7 @@
     "rain_mm": 41.94,
     "soil_moisture": 0.641,
     "raw_dynamic_score": 6.66,
-    "last_updated": "2026-05-24T06:40:04.525115Z",
+    "last_updated": "2026-05-24T10:37:14.239843Z",
     "last_tweeted_at": "2026-05-24T06:40:04.525115Z",
     "tweet_id": "2058437902317580575",
     "resolved": false
@@ -23346,7 +23350,7 @@
     "rain_mm": 38.12,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 7.291,
-    "last_updated": "2026-05-24T06:40:04.525115Z",
+    "last_updated": "2026-05-24T10:37:14.239843Z",
     "last_tweeted_at": "2026-05-24T06:40:04.525115Z",
     "tweet_id": "2058438154944716952",
     "resolved": false
