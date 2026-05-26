@@ -14564,42 +14564,6 @@
     "tweet_id": "2042718957661229109",
     "resolved": false
   },
-  "29.6008,118.1749": {
-    "country": "China",
-    "name": "Wucheng",
-    "risk_level": "Low",
-    "tweeted_level": "High",
-    "latitude": 29.60077,
-    "longitude": 118.17495,
-    "rain_mm": 0.12,
-    "soil_moisture": 0.635,
-    "raw_dynamic_score": 0.02,
-    "last_updated": "2026-05-25T17:11:00.604796Z",
-    "last_tweeted_at": "2026-05-25T07:15:56.121402Z",
-    "tweet_id": "2058809311095083088",
-    "resolved": true,
-    "resolved_at": "2026-05-25T07:15:56.121402Z",
-    "pending_downgrade": true,
-    "pending_target_level": "Low",
-    "pending_set_at": "2026-05-25T17:11:00.604796Z",
-    "pending_is_region": true
-  },
-  "29.8693,118.4336": {
-    "country": "China",
-    "name": "Huicheng",
-    "risk_level": "Low",
-    "tweeted_level": "High",
-    "latitude": 29.86925,
-    "longitude": 118.43364,
-    "rain_mm": 1.56,
-    "soil_moisture": 0.674,
-    "raw_dynamic_score": 0.253,
-    "last_updated": "2026-05-25T17:11:00.604796Z",
-    "last_tweeted_at": "2026-05-25T07:15:56.121402Z",
-    "tweet_id": "2058809311095083088",
-    "resolved": true,
-    "resolved_at": "2026-05-25T07:15:56.121402Z"
-  },
   "-6.1639,39.1979": {
     "country": "United Republic of Tanzania",
     "name": "Zanzibar",
@@ -19955,22 +19919,6 @@
     "tweet_id": "2053893738070417861",
     "resolved": false
   },
-  "5.6919,-76.6583": {
-    "country": "Colombia",
-    "name": "Quibdó",
-    "risk_level": "Low",
-    "tweeted_level": "Low",
-    "latitude": 5.69188,
-    "longitude": -76.65835,
-    "rain_mm": 9.19,
-    "soil_moisture": 0.668,
-    "raw_dynamic_score": 1.481,
-    "last_updated": "2026-05-25T12:30:52.309342Z",
-    "last_tweeted_at": "2026-05-25T12:30:52.309342Z",
-    "tweet_id": "2058888818950824400",
-    "resolved": true,
-    "resolved_at": "2026-05-25T12:30:52.309342Z"
-  },
   "0.3278,-79.4741": {
     "country": "Ecuador",
     "name": "Rosa Zarate",
@@ -21261,22 +21209,6 @@
     "tweet_id": "2056131700837466151",
     "resolved": false
   },
-  "34.4328,116.5911": {
-    "country": "China",
-    "name": "Tangzhai",
-    "risk_level": "Low",
-    "tweeted_level": "High",
-    "latitude": 34.43278,
-    "longitude": 116.59111,
-    "rain_mm": 7.56,
-    "soil_moisture": 0.436,
-    "raw_dynamic_score": 1.061,
-    "last_updated": "2026-05-25T17:11:00.604796Z",
-    "last_tweeted_at": "2026-05-25T07:15:56.121402Z",
-    "tweet_id": "2058809311095083088",
-    "resolved": true,
-    "resolved_at": "2026-05-25T07:15:56.121402Z"
-  },
   "10.1503,-73.9614": {
     "country": "Colombia",
     "name": "El Copey",
@@ -21452,7 +21384,7 @@
     "rain_mm": 35.12,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 6.718,
-    "last_updated": "2026-05-18T12:33:00.776090Z",
+    "last_updated": "2026-05-26T15:08:55.789230Z",
     "last_tweeted_at": "2026-05-18T06:58:21.183293Z",
     "tweet_id": "2056268686684565773",
     "resolved": false
@@ -22908,7 +22840,7 @@
     "rain_mm": 38.12,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 7.291,
-    "last_updated": "2026-05-25T02:50:41.458659Z",
+    "last_updated": "2026-05-26T15:08:55.789230Z",
     "last_tweeted_at": "2026-05-24T06:40:04.525115Z",
     "tweet_id": "2058438154944716952",
     "resolved": false
@@ -23874,6 +23806,21 @@
     "last_updated": "2026-05-26T06:50:19.855938Z",
     "last_tweeted_at": "2026-05-26T02:40:15.202954Z",
     "tweet_id": "2059103588316545240",
+    "resolved": false
+  },
+  "33.7829,129.7209": {
+    "country": "Japan",
+    "name": "Iki",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 33.78286,
+    "longitude": 129.7209,
+    "rain_mm": 35.69,
+    "soil_moisture": 1.0,
+    "raw_dynamic_score": 6.825,
+    "last_updated": "2026-05-26T15:08:55.789230Z",
+    "last_tweeted_at": "2026-05-26T15:08:55.789230Z",
+    "tweet_id": "2059290726685683753",
     "resolved": false
   }
 }
