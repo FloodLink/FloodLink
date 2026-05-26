@@ -10832,5 +10832,14 @@
             "longitude": -82.5,
             "confidence": 0.9
         }
+    },
+    {
+        "link": null,
+        "date": "2026-05-26",
+        "status": "posted",
+        "tweet": "Flood deaths 2020-2025 ranked by region\n1. \ud83c\uddee\ud83c\uddf3\ud83c\uddf5\ud83c\uddf0 South Asia: 19,500 total\n2. \ud83c\udde8\ud83c\uddf3 East Asia: 5,200\n3. \ud83c\uddf3\ud83c\uddec\ud83c\uddf8\ud83c\uddf3 West Africa: 4,800\n4. \ud83c\uddfa\ud83c\uddf8\ud83c\uddf2\ud83c\uddfd N America: 1,900\n5. \ud83c\udde7\ud83c\udde9 Bangladesh alone: 1,400",
+        "type": "statistical",
+        "category": "global flood fatalities and trends",
+        "tweet_id": "2059351557913579576"
     }
 ]
