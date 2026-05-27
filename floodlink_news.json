@@ -10510,5 +10510,14 @@
         "score": 0,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-05-27",
+        "status": "posted",
+        "tweet": "Avg annual flood losses 2023-26 ($bn)\n1. \ud83c\udde8\ud83c\uddf3 China 32\n2. \ud83c\uddfa\ud83c\uddf8 USA 21\n3. \ud83c\uddee\ud83c\uddf3 India 17\n4. \ud83c\udde9\ud83c\uddea Germany 9\n5. \ud83c\uddef\ud83c\uddf5 Japan 8",
+        "type": "statistical",
+        "category": "economic losses from floods and flash floods",
+        "tweet_id": "2059611001713037819"
     }
 ]
