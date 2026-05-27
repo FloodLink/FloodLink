@@ -17666,7 +17666,7 @@
     "rain_mm": 45.94,
     "soil_moisture": 0.594,
     "raw_dynamic_score": 7.102,
-    "last_updated": "2026-05-27T07:08:01.795328Z",
+    "last_updated": "2026-05-27T12:24:34.346023Z",
     "last_tweeted_at": "2026-05-02T07:30:16.357109Z",
     "tweet_id": "2050478002203697611",
     "resolved": false
@@ -18612,7 +18612,7 @@
     "rain_mm": 48.0,
     "soil_moisture": 0.651,
     "raw_dynamic_score": 7.666,
-    "last_updated": "2026-05-27T07:08:01.795328Z",
+    "last_updated": "2026-05-27T12:24:34.346023Z",
     "last_tweeted_at": "2026-05-06T11:08:23.366121Z",
     "tweet_id": "2051982434607018257",
     "resolved": false
@@ -23904,7 +23904,7 @@
     "rain_mm": 60.25,
     "soil_moisture": 0.494,
     "raw_dynamic_score": 8.77,
-    "last_updated": "2026-05-27T07:08:01.795328Z",
+    "last_updated": "2026-05-27T12:24:34.346023Z",
     "last_tweeted_at": "2026-05-27T07:08:01.795328Z",
     "tweet_id": "2059532100198351297",
     "resolved": false
@@ -23919,9 +23919,24 @@
     "rain_mm": 54.81,
     "soil_moisture": 0.454,
     "raw_dynamic_score": 7.778,
-    "last_updated": "2026-05-27T07:08:01.795328Z",
+    "last_updated": "2026-05-27T12:24:34.346023Z",
     "last_tweeted_at": "2026-05-27T07:08:01.795328Z",
     "tweet_id": "2059532352666165439",
+    "resolved": false
+  },
+  "3.8146,23.6867": {
+    "country": "The Democratic Republic of the Congo",
+    "name": "Bondo",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 3.81461,
+    "longitude": 23.68665,
+    "rain_mm": 50.94,
+    "soil_moisture": 0.627,
+    "raw_dynamic_score": 8.028,
+    "last_updated": "2026-05-27T12:24:34.346023Z",
+    "last_tweeted_at": "2026-05-27T12:24:34.346023Z",
+    "tweet_id": "2059611761192681646",
     "resolved": false
   }
 }
