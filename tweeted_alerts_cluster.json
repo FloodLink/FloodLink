@@ -7539,7 +7539,7 @@
     "rain_mm": 46.62,
     "soil_moisture": 0.534,
     "raw_dynamic_score": 6.953,
-    "last_updated": "2026-05-27T18:03:33.214545Z",
+    "last_updated": "2026-05-27T22:36:37.507420Z",
     "last_tweeted_at": "2026-03-05T19:16:26.523479Z",
     "tweet_id": "2029637471449788864",
     "resolved": false
@@ -23910,10 +23910,18 @@
     "rain_mm": 119.31,
     "soil_moisture": 0.673,
     "raw_dynamic_score": 19.293,
-    "last_updated": "2026-05-27T18:03:33.214545Z",
+    "last_updated": "2026-05-27T22:36:37.507420Z",
     "last_tweeted_at": "2026-05-27T18:03:33.214545Z",
     "tweet_id": "2059697068201930981",
-    "resolved": false
+    "resolved": false,
+    "pending_downgrade": true,
+    "pending_target_level": "Low",
+    "pending_set_at": "2026-05-27T22:36:37.507420Z",
+    "pending_is_region": false,
+    "pending_observed_level": "Low",
+    "pending_observed_rain_mm": 29.44,
+    "pending_observed_soil_moisture": 0.635,
+    "pending_observed_raw_dynamic_score": 4.66
   },
   "22.7950,-81.5362": {
     "country": "Cuba",
@@ -23925,7 +23933,7 @@
     "rain_mm": 43.19,
     "soil_moisture": 0.572,
     "raw_dynamic_score": 6.59,
-    "last_updated": "2026-05-27T20:13:16.358150Z",
+    "last_updated": "2026-05-27T22:36:37.507420Z",
     "last_tweeted_at": "2026-05-27T20:13:16.358150Z",
     "tweet_id": "2059729705733951518",
     "resolved": false
@@ -23943,6 +23951,21 @@
     "last_updated": "2026-05-27T20:13:16.358150Z",
     "last_tweeted_at": "2026-05-27T20:13:16.358150Z",
     "tweet_id": "2059729958151323966",
+    "resolved": false
+  },
+  "4.0991,-72.9565": {
+    "country": "Colombia",
+    "name": "Puerto López",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 4.09912,
+    "longitude": -72.95647,
+    "rain_mm": 54.31,
+    "soil_moisture": 0.734,
+    "raw_dynamic_score": 9.085,
+    "last_updated": "2026-05-27T22:36:37.507420Z",
+    "last_tweeted_at": "2026-05-27T22:36:37.507420Z",
+    "tweet_id": "2059765783966720231",
     "resolved": false
   }
 }
