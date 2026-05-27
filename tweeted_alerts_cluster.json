@@ -7539,7 +7539,7 @@
     "rain_mm": 46.62,
     "soil_moisture": 0.534,
     "raw_dynamic_score": 6.953,
-    "last_updated": "2026-03-06T01:29:30.672609Z",
+    "last_updated": "2026-05-27T18:03:33.214545Z",
     "last_tweeted_at": "2026-03-05T19:16:26.523479Z",
     "tweet_id": "2029637471449788864",
     "resolved": false
@@ -23934,9 +23934,24 @@
     "rain_mm": 50.94,
     "soil_moisture": 0.627,
     "raw_dynamic_score": 8.028,
-    "last_updated": "2026-05-27T12:24:34.346023Z",
+    "last_updated": "2026-05-27T18:03:33.214545Z",
     "last_tweeted_at": "2026-05-27T12:24:34.346023Z",
     "tweet_id": "2059611761192681646",
+    "resolved": false
+  },
+  "-0.7001,10.2406": {
+    "country": "Gabon",
+    "name": "Lambaréné",
+    "risk_level": "High",
+    "tweeted_level": "High",
+    "latitude": -0.7001,
+    "longitude": 10.24055,
+    "rain_mm": 119.31,
+    "soil_moisture": 0.673,
+    "raw_dynamic_score": 19.293,
+    "last_updated": "2026-05-27T18:03:33.214545Z",
+    "last_tweeted_at": "2026-05-27T18:03:33.214545Z",
+    "tweet_id": "2059697068201930981",
     "resolved": false
   }
 }
