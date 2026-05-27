@@ -10100,5 +10100,365 @@
         "type": "statistical",
         "category": "global flood fatalities and trends",
         "tweet_id": "2059351557913579576"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOa3UyQW1KY0kteXNrcTAyMWRoZ3BFTFBHSGtHLXZRdWRXVTVLbGhyX180d2c4M2o1QktBY0ZvekVCeC1idHg0V3ppTFdBYlZsSzFSV2k3bVp4X2ZkamM0UGNtMThMX0dPQTJqNGJKOFFoaFdINngtLTFibmxMX0JybF9BNjNXWmd5blJPQ2h3WDBOajdnc09aY3VvR1Vhd2l5OUJLWHMxSm1pZFlrVFFPeEI1MnRScjVWcUhFNFpndF95bHpuOXQ5a09md0FVbjFhWHpXLTJLZC12UQ?oc=5",
+        "date": "2026-05-27",
+        "title": "LIVE: Emergency crews respond to high-water rescues as Flash Flood Warning issued - WOAI",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxOa3UyQW1KY0kteXNrcTAyMWRoZ3BFTFBHSGtHLXZRdWRXVTVLbGhyX180d2c4M2o1QktBY0ZvekVCeC1idHg0V3ppTFdBYlZsSzFSV2k3bVp4X2ZkamM0UGNtMThMX0dPQTJqNGJKOFFoaFdINngtLTFibmxMX0JybF9BNjNXWmd5blJPQ2h3WDBOajdnc09aY3VvR1Vhd2l5OUJLWHMxSm1pZFlrVFFPeEI1MnRScjVWcUhFNFpndF95bHpuOXQ5a09md0FVbjFhWHpXLTJLZC12UQ?oc=5\" target=\"_blank\">LIVE: Emergency crews respond to high-water rescues as Flash Flood Warning issued</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WOAI</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMklDZzZMM3RCZkY5QndTc3F3RzY0WmxrOV9jZFBuaWpCSVpWeTVCaUh4MEE1MWdRMHdXcGQyWVRXY3g3bk9Qd0pndTQ0SnpYWXl0dWV6NWR1aWI5cWhMWDA4SW5GT2tzNHgyckJTTEtIVm11MjRNVTF3ZzRSaFZuZ0dERkRYQkF4OTA5WF9Rd3h4dnVvM3RyekluUDRITlEtdXVESzhkQmZhNzJpaFk4?oc=5",
+        "date": "2026-05-27",
+        "title": "Flash flooding warning: Thousands without power in San Antonio - San Antonio Express-News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPMklDZzZMM3RCZkY5QndTc3F3RzY0WmxrOV9jZFBuaWpCSVpWeTVCaUh4MEE1MWdRMHdXcGQyWVRXY3g3bk9Qd0pndTQ0SnpYWXl0dWV6NWR1aWI5cWhMWDA4SW5GT2tzNHgyckJTTEtIVm11MjRNVTF3ZzRSaFZuZ0dERkRYQkF4OTA5WF9Rd3h4dnVvM3RyekluUDRITlEtdXVESzhkQmZhNzJpaFk4?oc=5\" target=\"_blank\">Flash flooding warning: Thousands without power in San Antonio</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">San Antonio Express-News</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1ld090V0ZWdWU4Z3BNRU5UZ0hkRU9US3pKb3IwcDFHdEdhcGd1ZmhhTkxSX1c5X3F1cnBFbHpVREZFRTVfTWxxMTRucHRDZ1hEZHVTUjZRdG1pQ1ZkaGxtSXBPdElqUFVVMGtCLUh0bVFlT2FwRG1N?oc=5",
+        "date": "2026-05-27",
+        "title": "Flash flooding warning in Laurens County to remain in effect until 1 a.m. - WYFF News 4",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE1ld090V0ZWdWU4Z3BNRU5UZ0hkRU9US3pKb3IwcDFHdEdhcGd1ZmhhTkxSX1c5X3F1cnBFbHpVREZFRTVfTWxxMTRucHRDZ1hEZHVTUjZRdG1pQ1ZkaGxtSXBPdElqUFVVMGtCLUh0bVFlT2FwRG1N?oc=5\" target=\"_blank\">Flash flooding warning in Laurens County to remain in effect until 1 a.m.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WYFF News 4</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQa0tGMzVhRUxMWkhwb0lZWkdCc1ZpMlZJamY4MjZHcTZ4MlJHWS1LVlR1cDBKQ0x2bDVjdnIwcmc3UWM2UnFaWExyY0ROcFRFZmZSZkhBV0ZqNTZ1MmdWNy1yLTRrTXg5ejJzLWhGNkNRWDVERXJ0QXhrM1k2aktQdjVsbGU3WDFSNzdfYXFrY1RubHBPZjdweUF5NXVqUGhKOG9icEthS25GMDJPSnVvZ3ZOaWs?oc=5",
+        "date": "2026-05-27",
+        "title": "Flash flood warnings issued across CTX as water rescues reported in Burnet County - KEYE",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQa0tGMzVhRUxMWkhwb0lZWkdCc1ZpMlZJamY4MjZHcTZ4MlJHWS1LVlR1cDBKQ0x2bDVjdnIwcmc3UWM2UnFaWExyY0ROcFRFZmZSZkhBV0ZqNTZ1MmdWNy1yLTRrTXg5ejJzLWhGNkNRWDVERXJ0QXhrM1k2aktQdjVsbGU3WDFSNzdfYXFrY1RubHBPZjdweUF5NXVqUGhKOG9icEthS25GMDJPSnVvZ3ZOaWs?oc=5\" target=\"_blank\">Flash flood warnings issued across CTX as water rescues reported in Burnet County</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KEYE</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxObGp3Q3pGOTkxSXhqdm80cEZSZloyYXIwaEJ1ckx2UDBsSlFkOFc5TXJ1VDlvcTVjdUFkQlVtcHZJU1RnT0pHZUJoSXZvd1BTdndTOWFPVzVCdTAxRXFqVFU5S2puaWZQWGJVaTczZ3hUR202RWh0WWdzYWFucEluT3FYRXpNRHpRbElwWG9DUWpWOTRDdUJnOEFtVTM3MnFhMlBmT0hEbk13RWRqUEQ5eQ?oc=5",
+        "date": "2026-05-27",
+        "title": "WATCH: Vehicles submerged near downtown San Antonio as streets flood - KSAT",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxObGp3Q3pGOTkxSXhqdm80cEZSZloyYXIwaEJ1ckx2UDBsSlFkOFc5TXJ1VDlvcTVjdUFkQlVtcHZJU1RnT0pHZUJoSXZvd1BTdndTOWFPVzVCdTAxRXFqVFU5S2puaWZQWGJVaTczZ3hUR202RWh0WWdzYWFucEluT3FYRXpNRHpRbElwWG9DUWpWOTRDdUJnOEFtVTM3MnFhMlBmT0hEbk13RWRqUEQ5eQ?oc=5\" target=\"_blank\">WATCH: Vehicles submerged near downtown San Antonio as streets flood</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KSAT</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9qZGlvYWtEOVFLRFlmaklJcE9xcmFsaVlPWDNSaGt5dHoxNklHdEtVcElGVWNUTjZLOENaZkZWd2JnZWQ4eXNPcGNDNHhBd2tqYlB6cTkydlhtVHVDRUdjemdJSlZsc09ldU5xa0hxQWhueExpSURN?oc=5",
+        "date": "2026-05-27",
+        "title": "Flash flood warning in place for Calhoun and Orangeburg counties until Tuesday night - Hilton Head Island Packet",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE9qZGlvYWtEOVFLRFlmaklJcE9xcmFsaVlPWDNSaGt5dHoxNklHdEtVcElGVWNUTjZLOENaZkZWd2JnZWQ4eXNPcGNDNHhBd2tqYlB6cTkydlhtVHVDRUdjemdJSlZsc09ldU5xa0hxQWhueExpSURN?oc=5\" target=\"_blank\">Flash flood warning in place for Calhoun and Orangeburg counties until Tuesday night</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Hilton Head Island Packet</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNS2E2aEpuRERRbnBHRmhGOEhtdU9BMzhIclFjZmZfcFBqcjZ6RHRNcmM0R252bGx3QW56YjlVM2JvRHZsVG8wdXhIcnQ3Q1daeTlMM1N4TU1UeHltUy13NG5tTzM3N004RDRPd055Mm1LZjZiOE5ERUYyYmZWNkdCWGVMVldOdFh3TGkxUGlucWVCaVpRUnpqSHhhRkhyb2NGaEt1TFcyY9IBuwFBVV95cUxNRVNRY0xFc1VPcGZKZS1rN0Y1NzI1WmhWdUhNZUphOElkNms4ZWpoaHN2S3hreWRCZnNjSVYtcW9nM3RJUUluVkFmYXZJTXFubWRoX3pKN3JScHJHTWY2Q2twWHZ2dWdEc0JJUmJkMmI0V19NN2ZQLUVOSGd6U1R1ZURPcnJoaVRibGFnQmU3UUowMDI3cFc1eFdvdVFoMXY4T0lwSF9ZNE9Fb3FwRC1wRzZxUDY5SGJTcE5v?oc=5",
+        "date": "2026-05-27",
+        "title": "Roads closed in Laurens County during severe flooding, officials say - FOX Carolina News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNS2E2aEpuRERRbnBHRmhGOEhtdU9BMzhIclFjZmZfcFBqcjZ6RHRNcmM0R252bGx3QW56YjlVM2JvRHZsVG8wdXhIcnQ3Q1daeTlMM1N4TU1UeHltUy13NG5tTzM3N004RDRPd055Mm1LZjZiOE5ERUYyYmZWNkdCWGVMVldOdFh3TGkxUGlucWVCaVpRUnpqSHhhRkhyb2NGaEt1TFcyY9IBuwFBVV95cUxNRVNRY0xFc1VPcGZKZS1rN0Y1NzI1WmhWdUhNZUphOElkNms4ZWpoaHN2S3hreWRCZnNjSVYtcW9nM3RJUUluVkFmYXZJTXFubWRoX3pKN3JScHJHTWY2Q2twWHZ2dWdEc0JJUmJkMmI0V19NN2ZQLUVOSGd6U1R1ZURPcnJoaVRibGFnQmU3UUowMDI3cFc1eFdvdVFoMXY4T0lwSF9ZNE9Fb3FwRC1wRzZxUDY5SGJTcE5v?oc=5\" target=\"_blank\">Roads closed in Laurens County during severe flooding, officials say</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FOX Carolina News</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOU0R5NVhmeUE3Z1FweUVqNnkzRENpVmNhZTBINnNWTmtuM0cyR0M3Y1VXVHBpSHh2S2pKR3JHcHV5MTVRaU5RWDA4c1h0cjIydkJISjJSRm9XUThSSjdFY3JSS21kRTc0c3h0LWdnNHdRM0xkQWN6aWg1ZVpjeFAwZHRZNS04MlNMSm53Uw?oc=5",
+        "date": "2026-05-27",
+        "title": "Flash flood warning issued for Laurens County - Greenville Online",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxOU0R5NVhmeUE3Z1FweUVqNnkzRENpVmNhZTBINnNWTmtuM0cyR0M3Y1VXVHBpSHh2S2pKR3JHcHV5MTVRaU5RWDA4c1h0cjIydkJISjJSRm9XUThSSjdFY3JSS21kRTc0c3h0LWdnNHdRM0xkQWN6aWg1ZVpjeFAwZHRZNS04MlNMSm53Uw?oc=5\" target=\"_blank\">Flash flood warning issued for Laurens County</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Greenville Online</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQQzlSUkNDdll6MDNKUHJ3WDZzQjJIN3UwNnEtdXZ1Sm1XTERwUHRTbkxHc0h6WUdwcWJrRGhqQkZpdF9leUNfazEzemItOFZPbHpCY1VaUzl1MS14N28zNHhIeFUzMGlrUWZPUkViRHAtMUw0OVkwbktIN0Q0TktDa184RVp3c2dqc0E?oc=5",
+        "date": "2026-05-27",
+        "title": "'TURN AROUND, DON'T DROWN': 'Severe flooding' prompts Upstate road closures - WYFF News 4",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxQQzlSUkNDdll6MDNKUHJ3WDZzQjJIN3UwNnEtdXZ1Sm1XTERwUHRTbkxHc0h6WUdwcWJrRGhqQkZpdF9leUNfazEzemItOFZPbHpCY1VaUzl1MS14N28zNHhIeFUzMGlrUWZPUkViRHAtMUw0OVkwbktIN0Q0TktDa184RVp3c2dqc0E?oc=5\" target=\"_blank\">'TURN AROUND, DON'T DROWN': 'Severe flooding' prompts Upstate road closures</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WYFF News 4</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1PSWJkSzdqMm5lTGhnTXJjSGFxTGNhNUR6OGJ5djJkRVlJTG14TDhrdmpZN091NnNGRV9QLS1SRXVhRDgtdTFabUh4SjZkdVJ5d21mbUluUDhfVEdZMVQyTmx1VzVHLUhsWWFEb2lWQ0dBZzdvVno4?oc=5",
+        "date": "2026-05-27",
+        "title": "Laurens County placed under a flash flood warning until 1 a.m. Wednesday, says the NWS - Hilton Head Island Packet",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE1PSWJkSzdqMm5lTGhnTXJjSGFxTGNhNUR6OGJ5djJkRVlJTG14TDhrdmpZN091NnNGRV9QLS1SRXVhRDgtdTFabUh4SjZkdVJ5d21mbUluUDhfVEdZMVQyTmx1VzVHLUhsWWFEb2lWQ0dBZzdvVno4?oc=5\" target=\"_blank\">Laurens County placed under a flash flood warning until 1 a.m. Wednesday, says the NWS</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Hilton Head Island Packet</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOTFQyU0hVQnN6SmN0T0Z6QnJMTmhpYkN2TjJMcHZ3aURtMTBNOUhyWTVKcEZKb05QdGg2OXVWNjhvek9EcEFlRElQRFVMNktqRTNRRVZxSzdabWJyTmxVT3lqN2M1c0JTR0ppZVhWR1FldGVoRElYSlA1VGVqeHR5RQ?oc=5",
+        "date": "2026-05-27",
+        "title": "WATCH LIVE: Flash Flood Warning issued in San Antonio area - WOAI",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxOTFQyU0hVQnN6SmN0T0Z6QnJMTmhpYkN2TjJMcHZ3aURtMTBNOUhyWTVKcEZKb05QdGg2OXVWNjhvek9EcEFlRElQRFVMNktqRTNRRVZxSzdabWJyTmxVT3lqN2M1c0JTR0ppZVhWR1FldGVoRElYSlA1VGVqeHR5RQ?oc=5\" target=\"_blank\">WATCH LIVE: Flash Flood Warning issued in San Antonio area</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WOAI</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQVFpnRVNoWXNOUjRkSlRWcnRtanE2M3R5QldZaXUzLU5qSnFGdWVMa2pSNzBjSS1GNVNGUWhUdkRHWEp2QjhOU1RmM3oyaTBGT3RqbnJraXNoTDdUdi1ZeUgxZzhhV0g4VE9MWFNyTUZKcjN0V3ZCZFdSZ3JDSjV6NTNPdkNmbTUta0t5eGhHdm5lSVAzZWhYdDRpelNiWHdQRmYzeDJfbEVOQUhKM2lfRTRrMlNDWVBmaXlDSVdHZ0lFcjVyUUVmNS1OTnRURWYyWDVwZTRVR1RoNmZoanFrMFVB?oc=5",
+        "date": "2026-05-27",
+        "title": "Drought relief turns hazardous: Overwhelming rain triggers flash flooding in western NC - WLOS",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxQVFpnRVNoWXNOUjRkSlRWcnRtanE2M3R5QldZaXUzLU5qSnFGdWVMa2pSNzBjSS1GNVNGUWhUdkRHWEp2QjhOU1RmM3oyaTBGT3RqbnJraXNoTDdUdi1ZeUgxZzhhV0g4VE9MWFNyTUZKcjN0V3ZCZFdSZ3JDSjV6NTNPdkNmbTUta0t5eGhHdm5lSVAzZWhYdDRpelNiWHdQRmYzeDJfbEVOQUhKM2lfRTRrMlNDWVBmaXlDSVdHZ0lFcjVyUUVmNS1OTnRURWYyWDVwZTRVR1RoNmZoanFrMFVB?oc=5\" target=\"_blank\">Drought relief turns hazardous: Overwhelming rain triggers flash flooding in western NC</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WLOS</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMikANBVV95cUxQcDh4anZsNVVHRUdSTkdZbXpTaF9MTWdWT1d4TUpRZy1EcnlfR2FXaURFYklia1hEYVpmWXJfSGowZUR1QUprRy1LODNBbXBCQXB2TlJZRXlhYTZRckVJVDZTa3VkQWNVLVdaV0tHT05jRjRZSEE5WkNuRFhqZDNhdl9fYVJNYnpxbHVXLUNmR0hIWkh6TlpUTFNPRE8yX1FzWEJLZWdGX1o1ZFFVQWw5RVBzVUVGYU02cnNKLW9majRiWWtMV2YxWmh6bUYzUkVWdUxnTU5fTi1FSFpUa2RlcTBRWHhaQ2xNMmNMQWlZVlQ1Qkk3SC1wMXZmdmFyNm5HSjFwRlhDUG5zV2xOYnF0Q3ZCT2x1RTdQUjZCWHFTZ2JDTldLWUU3QkcydDljamI1bHBxTEtCZlpRODF0b1daU0NwUERLNkNfNE9YUHdDbjhYRmJ4UW9WaWNVMWRnVVVEVDdNYmRORXRtTTNWMG5sazllbzRva0VkRE55eG1YMjVDend1R3ZqVk1jeE01b2tS?oc=5",
+        "date": "2026-05-27",
+        "title": "Taylor County under flash flood warning until 10 p.m.; sheriff urges limited travel - WGXA",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMikANBVV95cUxQcDh4anZsNVVHRUdSTkdZbXpTaF9MTWdWT1d4TUpRZy1EcnlfR2FXaURFYklia1hEYVpmWXJfSGowZUR1QUprRy1LODNBbXBCQXB2TlJZRXlhYTZRckVJVDZTa3VkQWNVLVdaV0tHT05jRjRZSEE5WkNuRFhqZDNhdl9fYVJNYnpxbHVXLUNmR0hIWkh6TlpUTFNPRE8yX1FzWEJLZWdGX1o1ZFFVQWw5RVBzVUVGYU02cnNKLW9majRiWWtMV2YxWmh6bUYzUkVWdUxnTU5fTi1FSFpUa2RlcTBRWHhaQ2xNMmNMQWlZVlQ1Qkk3SC1wMXZmdmFyNm5HSjFwRlhDUG5zV2xOYnF0Q3ZCT2x1RTdQUjZCWHFTZ2JDTldLWUU3QkcydDljamI1bHBxTEtCZlpRODF0b1daU0NwUERLNkNfNE9YUHdDbjhYRmJ4UW9WaWNVMWRnVVVEVDdNYmRORXRtTTNWMG5sazllbzRva0VkRE55eG1YMjVDend1R3ZqVk1jeE01b2tS?oc=5\" target=\"_blank\">Taylor County under flash flood warning until 10 p.m.; sheriff urges limited travel</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WGXA</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQQi03OU5xbjNlNklVa3lWWHMzdlNDRnlwelFrMG5UaVFpZ0RBY21nMlJ0cUFVTDVPcFMwc1lmUVJUQmdKUGl6aTNiS3FSTTE3VWdsLXRGSUZfQ0xuRUo2MG9SR0pPQnB5NHlNQldIbTF3Y0FfdGFLZWZ0Sm4zNFB5NnFDekljb042ZDJueUFzTWpNdmRXSWlR?oc=5",
+        "date": "2026-05-27",
+        "title": "FIRST ALERT WEATHER DAY Tuesday due to flood risk - FOX Carolina News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQQi03OU5xbjNlNklVa3lWWHMzdlNDRnlwelFrMG5UaVFpZ0RBY21nMlJ0cUFVTDVPcFMwc1lmUVJUQmdKUGl6aTNiS3FSTTE3VWdsLXRGSUZfQ0xuRUo2MG9SR0pPQnB5NHlNQldIbTF3Y0FfdGFLZWZ0Sm4zNFB5NnFDekljb042ZDJueUFzTWpNdmRXSWlR?oc=5\" target=\"_blank\">FIRST ALERT WEATHER DAY Tuesday due to flood risk</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FOX Carolina News</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPMEdabDNKUk03dkExU0tLdm5XZVREZ3QwT0ROd1ZaVnpkLV9qMmdSRlpXNkxqR3c4bGVib042TWxoMFlLekQyOGNIVkZJY2ZfTUluNWlQWUkxa2NZa3hhSnAzT3h2OFZJTXJWRWxvUEJSX1AtTGJHTzVzUUF4SDg0RE5uZFdESThzTmJEV1lR?oc=5",
+        "date": "2026-05-27",
+        "title": "Thousands without power in S.A. amid Flash Flood Warning - MySA",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPMEdabDNKUk03dkExU0tLdm5XZVREZ3QwT0ROd1ZaVnpkLV9qMmdSRlpXNkxqR3c4bGVib042TWxoMFlLekQyOGNIVkZJY2ZfTUluNWlQWUkxa2NZa3hhSnAzT3h2OFZJTXJWRWxvUEJSX1AtTGJHTzVzUUF4SDg0RE5uZFdESThzTmJEV1lR?oc=5\" target=\"_blank\">Thousands without power in S.A. amid Flash Flood Warning</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MySA</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVlVWX0RnR2g4V2VLUVZhNWpmaVZWcnVJVnJIOXVkMUZIYmR1UWh5SHdLMFFDMVRaSkF6c2hORmJ4Zk5QV21GTTB6U0dXMm9XOTZERjh1T0Z5TDc1RjhFMFJuX0JTY2pTWXRfSFM5bVRWd1UxOW81UWlMOVl5Qm4ycjZ4TmE4c2EyenV3cXFpaVFLeFdReEY3Umh0VzRfRjhkNUlxLTRGQjN3UjA?oc=5",
+        "date": "2026-05-27",
+        "title": "Woman killed after SUV swept away in South Mississippi flash flooding - WAPT",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVlVWX0RnR2g4V2VLUVZhNWpmaVZWcnVJVnJIOXVkMUZIYmR1UWh5SHdLMFFDMVRaSkF6c2hORmJ4Zk5QV21GTTB6U0dXMm9XOTZERjh1T0Z5TDc1RjhFMFJuX0JTY2pTWXRfSFM5bVRWd1UxOW81UWlMOVl5Qm4ycjZ4TmE4c2EyenV3cXFpaVFLeFdReEY3Umh0VzRfRjhkNUlxLTRGQjN3UjA?oc=5\" target=\"_blank\">Woman killed after SUV swept away in South Mississippi flash flooding</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WAPT</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOeURnV1psSUtvNGRuUl9RNXpKd0VFeTRkZGdSc2JyQzVOSjkxN29Qb2wwd29yaC1WaEpxaTRsRnU1c0JqYk5FM3B2cFoxQlgwYnFGZjJVdkJ5WEhxY1VYdnVCbjU4dkRocDRsM3gwejJOeVFjZUIxcFBIeWVwTjdONDFsMWF0OEJHRnJEWDN3RVUtYnVlTDdrbTh5V05leGdOYjJwZVY1c05tUDZ1Vkw2UkVmb0dLekpMUVAyUWpYaG9VSjJKeExacGd4RkZhaHROV0p1c1VkQVZvZ3hPUGl4TnVReEc?oc=5",
+        "date": "2026-05-27",
+        "title": "Emergency crews respond to high-water rescues as Flash Flood Warning issued - WOAI",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxOeURnV1psSUtvNGRuUl9RNXpKd0VFeTRkZGdSc2JyQzVOSjkxN29Qb2wwd29yaC1WaEpxaTRsRnU1c0JqYk5FM3B2cFoxQlgwYnFGZjJVdkJ5WEhxY1VYdnVCbjU4dkRocDRsM3gwejJOeVFjZUIxcFBIeWVwTjdONDFsMWF0OEJHRnJEWDN3RVUtYnVlTDdrbTh5V05leGdOYjJwZVY1c05tUDZ1Vkw2UkVmb0dLekpMUVAyUWpYaG9VSjJKeExacGd4RkZhaHROV0p1c1VkQVZvZ3hPUGl4TnVReEc?oc=5\" target=\"_blank\">Emergency crews respond to high-water rescues as Flash Flood Warning issued</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WOAI</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPNC1sbkttUlpkOXBLNjFsN0Z4bjNFRG9MbXhFZW90MnljcEFSTjVzR1Vwb1FmalBNOWtmUzNPTWYyWEljTFcwaWd4V1pXM1V0Mk1ITXNqWDBSWnpMb0tMY1NBMHFreTdZQldzSlBoLXVzUmZvd3BxSGtVRF9VLVlXV2FvaU9QQndNSHF5X2EwTXh0NGJuQnZ6alNWckluTUdJc3Jrd01nUdIBrAFBVV95cUxQdnd4ZTJmVVUtMm9GSVZ1LS1DYWZUa21GODV6VmhlT0JNeVR6U0xvUGxIbGNjNlVPeGFQVGRGQ3hycHF0Znloa3BFMUd5NFI4dWZldjQ0MVU3bFVTZ2ZaRmNuVTdTdzhoN2s1Q2p4YmtSVTJiSVV3V19Md0xUTEVyUWxKZVluZlRhTi1tUnV3WkNlT1MtZHhIaVFnQVh1SVAzSXJOQmRZN3ZSNkpM?oc=5",
+        "date": "2026-05-27",
+        "title": "Flash flooding and severe storms threaten more than 20 million across the East - FOX Weather",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPNC1sbkttUlpkOXBLNjFsN0Z4bjNFRG9MbXhFZW90MnljcEFSTjVzR1Vwb1FmalBNOWtmUzNPTWYyWEljTFcwaWd4V1pXM1V0Mk1ITXNqWDBSWnpMb0tMY1NBMHFreTdZQldzSlBoLXVzUmZvd3BxSGtVRF9VLVlXV2FvaU9QQndNSHF5X2EwTXh0NGJuQnZ6alNWckluTUdJc3Jrd01nUdIBrAFBVV95cUxQdnd4ZTJmVVUtMm9GSVZ1LS1DYWZUa21GODV6VmhlT0JNeVR6U0xvUGxIbGNjNlVPeGFQVGRGQ3hycHF0Znloa3BFMUd5NFI4dWZldjQ0MVU3bFVTZ2ZaRmNuVTdTdzhoN2s1Q2p4YmtSVTJiSVV3V19Md0xUTEVyUWxKZVluZlRhTi1tUnV3WkNlT1MtZHhIaVFnQVh1SVAzSXJOQmRZN3ZSNkpM?oc=5\" target=\"_blank\">Flash flooding and severe storms threaten more than 20 million across the East</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FOX Weather</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5JNS1Jb2ZGMlVTQlhybzdLSlJqb2JjMzV1UEVOV1UzemJOd1VNVHdfM3VHRDA5SjBfZ0wtamRCYWQ4aEZ5WHpWb040RVVxNlVUSzMyY0JFa0N5NEt2WXBLcEpyRjF5MVVmZ0FfZUdlOXpkMUlOdnU1UDFvOHlaWWc?oc=5",
+        "date": "2026-05-27",
+        "title": "Another Flood Watch Issued Wednesday - WDSU",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE5JNS1Jb2ZGMlVTQlhybzdLSlJqb2JjMzV1UEVOV1UzemJOd1VNVHdfM3VHRDA5SjBfZ0wtamRCYWQ4aEZ5WHpWb040RVVxNlVUSzMyY0JFa0N5NEt2WXBLcEpyRjF5MVVmZ0FfZUdlOXpkMUlOdnU1UDFvOHlaWWc?oc=5\" target=\"_blank\">Another Flood Watch Issued Wednesday</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WDSU</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOd2x4Sm4zRTliUnNsSmU4ODFUS0dENndEZVEwalpMVklWUnduZ0ZpbXZzTGN1YWRnTkM0RWtGa1pBb0E5ajRMQ3ZXSDh4RDFFcExFdXZXUXVURzBZTVFMdkFHMVFrS0VManI3TmZXS0U5MkVPc0lQQ2VEaEJ3N1ZwRXlET1YtSFhTRURmRw?oc=5",
+        "date": "2026-05-27",
+        "title": "Flash flood warning issued for Kerr County - hccommunityjournal.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxOd2x4Sm4zRTliUnNsSmU4ODFUS0dENndEZVEwalpMVklWUnduZ0ZpbXZzTGN1YWRnTkM0RWtGa1pBb0E5ajRMQ3ZXSDh4RDFFcExFdXZXUXVURzBZTVFMdkFHMVFrS0VManI3TmZXS0U5MkVPc0lQQ2VEaEJ3N1ZwRXlET1YtSFhTRURmRw?oc=5\" target=\"_blank\">Flash flood warning issued for Kerr County</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">hccommunityjournal.com</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOekZYSzhtVjBEYURFbm5RUXFrRVQzbFdya1RiUEhBUWx2dUpsaWNDajI0R1ZSSlNHV0hXekFhUUlxYkRkRHJNQzh4SFgtRW4zcWhxUGNTUGtBV1EtcTUzZTUyOEJBclF4OEJyWVRRVFVrSjlCZXZGa2h0Nloya2tHa1hlVDE0MTFmSlhwOA?oc=5",
+        "date": "2026-05-27",
+        "title": "Tornado warning, flash flood warning issued across S.A. area amid severe storms - MySA",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxOekZYSzhtVjBEYURFbm5RUXFrRVQzbFdya1RiUEhBUWx2dUpsaWNDajI0R1ZSSlNHV0hXekFhUUlxYkRkRHJNQzh4SFgtRW4zcWhxUGNTUGtBV1EtcTUzZTUyOEJBclF4OEJyWVRRVFVrSjlCZXZGa2h0Nloya2tHa1hlVDE0MTFmSlhwOA?oc=5\" target=\"_blank\">Tornado warning, flash flood warning issued across S.A. area amid severe storms</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MySA</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPaWxSTk14TlVFMTMyaWFsR2JBckxWMndOREpXcmwyX0w5Wk8tWlNsdE4zTVRrSEgxaDVyT1M1bnNZUG91MS03MnQ1SEh1Wm42T1hwVnN1REsyalhyRU5lVHJZYl80RzNzNGY3YTFYODc1YWxjQW1ZMlJscF9vQXRIRjRJWFVvUDR1LS00bU9XMVRyVGcxY3pnVnZBaDlZRG9QdnUzenEtNzItdWJzbDZSLQ?oc=5",
+        "date": "2026-05-27",
+        "title": "Tuesday PM Forecast: Another wave of storms targeting Capital Area, FLOOD WATCH issued - WBRZ",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPaWxSTk14TlVFMTMyaWFsR2JBckxWMndOREpXcmwyX0w5Wk8tWlNsdE4zTVRrSEgxaDVyT1M1bnNZUG91MS03MnQ1SEh1Wm42T1hwVnN1REsyalhyRU5lVHJZYl80RzNzNGY3YTFYODc1YWxjQW1ZMlJscF9vQXRIRjRJWFVvUDR1LS00bU9XMVRyVGcxY3pnVnZBaDlZRG9QdnUzenEtNzItdWJzbDZSLQ?oc=5\" target=\"_blank\">Tuesday PM Forecast: Another wave of storms targeting Capital Area, FLOOD WATCH issued</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WBRZ</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPSmFLUEx3bndpUmhXUktVM1laZTc2R2dsSF85TlB0M2Z1VXJHbGhSUjZHV3JRMzBxUXNqdkZaRUctSG8waGp4QTVzbFF1Q0JrbW83NDk1WVljRkFYejJueFJ5MmxCNVNyUXBCSjVfSlJuT01HaXRsNERBS0h5WERSbmRjOTdDNUtpVldMRnBuaw?oc=5",
+        "date": "2026-05-27",
+        "title": "Flash flood warning issued for Laurens County: NWS - WSPA 7NEWS",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxPSmFLUEx3bndpUmhXUktVM1laZTc2R2dsSF85TlB0M2Z1VXJHbGhSUjZHV3JRMzBxUXNqdkZaRUctSG8waGp4QTVzbFF1Q0JrbW83NDk1WVljRkFYejJueFJ5MmxCNVNyUXBCSjVfSlJuT01HaXRsNERBS0h5WERSbmRjOTdDNUtpVldMRnBuaw?oc=5\" target=\"_blank\">Flash flood warning issued for Laurens County: NWS</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSPA 7NEWS</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNTR3dTVhbnBWRWNUQ3dXSnhMRVBxek1wY2lrVkJQZkFpRFBXcHRHVXpnRmx5T3JPZmtGWnh6amt4X0lLTUJJUXB4UHlIUkJWMk1DX3lOY1piTUxnQ2xnRFNqSWdHckRzU1dwNnNMSjF0VGdpSHFqZFNEbXZKVmhaN3FqN0FYd0Zac2c0MU04QUc5eVkxNkhhZFBycWtVWlJMa0dqY3g0WmUtTElFcGVYMHRR0gHGAUFVX3lxTE5pNkgyUENQUUhfNG5od2oxRTZUSGdmT2FSU2daQTNyLVFFQTBCWWRZQVdXQldGNFJmenRjZXNfUmtpTDdhUHJKZDRBMlptZm55ZVY1aWNhWnBYYWpfSzczOGMzRnloREtMY2pBZGRkZ1JFX3hwSGtYcF9UeHYtMXFzSlJvQUhaOWdhbTZXQUp2dE5wcXA3Yzh2X3FDaUFtRkdMdlNQd2s5SDlsY2R3b3VOeWVuclpobm9KOHk0ejhlaVE4aGtkUQ?oc=5",
+        "date": "2026-05-27",
+        "title": "Flash flood threat for roads, streams as downpours continue - WSB-TV",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQNTR3dTVhbnBWRWNUQ3dXSnhMRVBxek1wY2lrVkJQZkFpRFBXcHRHVXpnRmx5T3JPZmtGWnh6amt4X0lLTUJJUXB4UHlIUkJWMk1DX3lOY1piTUxnQ2xnRFNqSWdHckRzU1dwNnNMSjF0VGdpSHFqZFNEbXZKVmhaN3FqN0FYd0Zac2c0MU04QUc5eVkxNkhhZFBycWtVWlJMa0dqY3g0WmUtTElFcGVYMHRR0gHGAUFVX3lxTE5pNkgyUENQUUhfNG5od2oxRTZUSGdmT2FSU2daQTNyLVFFQTBCWWRZQVdXQldGNFJmenRjZXNfUmtpTDdhUHJKZDRBMlptZm55ZVY1aWNhWnBYYWpfSzczOGMzRnloREtMY2pBZGRkZ1JFX3hwSGtYcF9UeHYtMXFzSlJvQUhaOWdhbTZXQUp2dE5wcXA3Yzh2X3FDaUFtRkdMdlNQd2s5SDlsY2R3b3VOeWVuclpobm9KOHk0ejhlaVE4aGtkUQ?oc=5\" target=\"_blank\">Flash flood threat for roads, streams as downpours continue</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSB-TV</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOdTR4Y3FfM3IxSldjOE13TXc5UVcxeFNWV0k4NE5EY2E2eThoUVA1WXc3X052djNSbVg3dktjeDVSWEViWjZGRzF5Ri1CZDZzNmhiclI3TEZMSDdaWWZ5S01NVFc1aWZIZGFpc3hOczFqMW9mbGVLVjZHTHRhQ2dJLUVB?oc=5",
+        "date": "2026-05-27",
+        "title": "Orangeburg County road closed due to flooding - WIS News 10",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxOdTR4Y3FfM3IxSldjOE13TXc5UVcxeFNWV0k4NE5EY2E2eThoUVA1WXc3X052djNSbVg3dktjeDVSWEViWjZGRzF5Ri1CZDZzNmhiclI3TEZMSDdaWWZ5S01NVFc1aWZIZGFpc3hOczFqMW9mbGVLVjZHTHRhQ2dJLUVB?oc=5\" target=\"_blank\">Orangeburg County road closed due to flooding</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WIS News 10</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWjRfemVNVzhtQmZnUXBLSnh4ZWZsbHUzVzhiT2pleGRTeGszbS1TRDlhNnBDb3lrNHhXajRWeTJNQ21wTWdZUWJwMVFiY05IX3lXTW8wT2N5azRHcV9jbG1GQzJ3RjRuWF9zb0Y2SWx1MzNQZC1rWE9GcUxOZmtkMXAzcG9CZHFhdlBBSGZoOTdaMnRmMGdUN2cxMnR1WGZwcWZQV2E2dElkYms?oc=5",
+        "date": "2026-05-27",
+        "title": "Helene-hit areas in Henderson County affected by recent flooding - FOX Carolina News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWjRfemVNVzhtQmZnUXBLSnh4ZWZsbHUzVzhiT2pleGRTeGszbS1TRDlhNnBDb3lrNHhXajRWeTJNQ21wTWdZUWJwMVFiY05IX3lXTW8wT2N5azRHcV9jbG1GQzJ3RjRuWF9zb0Y2SWx1MzNQZC1rWE9GcUxOZmtkMXAzcG9CZHFhdlBBSGZoOTdaMnRmMGdUN2cxMnR1WGZwcWZQV2E2dElkYms?oc=5\" target=\"_blank\">Helene-hit areas in Henderson County affected by recent flooding</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FOX Carolina News</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1BcGE2S3pZZFdvTFhzeEdBY2FZdlllVnA3T3Y5ek0ydV9yMm5BQWtLby04STVkSkd5bzhmdU9TcEY4eEZ5ek1vSE1OdWRWZzVTbHhnbHd0MkQxejlMQWVWdno4VQ?oc=5",
+        "date": "2026-05-27",
+        "title": "Heavy rains dampen memorial day plans in Virginia and the Carolinas, leading to flash flooding - FOX Weather",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE1BcGE2S3pZZFdvTFhzeEdBY2FZdlllVnA3T3Y5ek0ydV9yMm5BQWtLby04STVkSkd5bzhmdU9TcEY4eEZ5ek1vSE1OdWRWZzVTbHhnbHd0MkQxejlMQWVWdno4VQ?oc=5\" target=\"_blank\">Heavy rains dampen memorial day plans in Virginia and the Carolinas, leading to flash flooding</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FOX Weather</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOeG1JSmFkYnpTazFpUmhBaDRPLTF6WXY4Mm9zbVJ6OHI3eTB2bWYtT1AxTzY1VGhUX0RaWnhaMXBXWkhuV1pxdWxtTmZUSzVjZWtkbHRGV2VMRU12dGhKMEZ5TDNQVWkwa01DeDFBbEF1NGJqbTNjWjlVNzZwOG5LZGRVZU4wNEtOb2twNW04bmQtRDY1emFTMVkzbGx1QUNJaFBCd0llWklZX3puUUxQSTJEbkxndHBYRkFFcWk1Q1E?oc=5",
+        "date": "2026-05-27",
+        "title": "WATCH: Car stalled, others submerged on Ninth Street near downtown as roads flood - KSAT",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxOeG1JSmFkYnpTazFpUmhBaDRPLTF6WXY4Mm9zbVJ6OHI3eTB2bWYtT1AxTzY1VGhUX0RaWnhaMXBXWkhuV1pxdWxtTmZUSzVjZWtkbHRGV2VMRU12dGhKMEZ5TDNQVWkwa01DeDFBbEF1NGJqbTNjWjlVNzZwOG5LZGRVZU4wNEtOb2twNW04bmQtRDY1emFTMVkzbGx1QUNJaFBCd0llWklZX3puUUxQSTJEbkxndHBYRkFFcWk1Q1E?oc=5\" target=\"_blank\">WATCH: Car stalled, others submerged on Ninth Street near downtown as roads flood</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KSAT</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOeFRRTEl3TjVBNktSQTlzTDBITTAwRklkZnM4ekZiRVhGQVgzT3NPejZiZi1ybWtQTUg3bzlheWtlNTV4Rkt3b3ZFaGoySFNSbXU2cE96Q1pHWEcwSmI4NEZoLWlzUUU1V0c0UXZDcndPXzRINzlxdnRGWWJWWTgwVENNaDI0YnZhSUpJY21reDd5MkF2S2psMjYyUUhwQzhna1dtWjczZlBmeGlsWkFhWGZLbjd2VTN1VTV4ejM2X1RBenhlcVFTQ1RhdVRBNVd3SzJtaUpBZEVGeExYUXVOZFNTSFlKVHRUQUZjYTRVVURiaFBlanNZ?oc=5",
+        "date": "2026-05-27",
+        "title": "Flooding closes portion of Highway 178 in Orangeburg County - WLTX",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9wFBVV95cUxOeFRRTEl3TjVBNktSQTlzTDBITTAwRklkZnM4ekZiRVhGQVgzT3NPejZiZi1ybWtQTUg3bzlheWtlNTV4Rkt3b3ZFaGoySFNSbXU2cE96Q1pHWEcwSmI4NEZoLWlzUUU1V0c0UXZDcndPXzRINzlxdnRGWWJWWTgwVENNaDI0YnZhSUpJY21reDd5MkF2S2psMjYyUUhwQzhna1dtWjczZlBmeGlsWkFhWGZLbjd2VTN1VTV4ejM2X1RBenhlcVFTQ1RhdVRBNVd3SzJtaUpBZEVGeExYUXVOZFNTSFlKVHRUQUZjYTRVVURiaFBlanNZ?oc=5\" target=\"_blank\">Flooding closes portion of Highway 178 in Orangeburg County</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WLTX</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOWkMtS25Ec0NZbkwtcXh3NFVwRGRpQTl1bmJ2VEwtSWVxMGQ2S1M4SWhNc3BWNE5FcE5WZXRkcmw0VUlfLTc3OWtQUWJEOERCSEk0YzB0TDlUY1haSTk2cFJ6SWhfQlVEQzRrQXVXU0ZhbFV6N294LTl0aDJDNjVvdmsyakVuV2Y2VW5ONTkzY3lNbkE0NXo4?oc=5",
+        "date": "2026-05-27",
+        "title": "'Its scary': Heavy rain washes out roads, floods homes in parts of Western North Carolina - WYFF News 4",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOWkMtS25Ec0NZbkwtcXh3NFVwRGRpQTl1bmJ2VEwtSWVxMGQ2S1M4SWhNc3BWNE5FcE5WZXRkcmw0VUlfLTc3OWtQUWJEOERCSEk0YzB0TDlUY1haSTk2cFJ6SWhfQlVEQzRrQXVXU0ZhbFV6N294LTl0aDJDNjVvdmsyakVuV2Y2VW5ONTkzY3lNbkE0NXo4?oc=5\" target=\"_blank\">'Its scary': Heavy rain washes out roads, floods homes in parts of Western North Carolina</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WYFF News 4</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQODhiUzVtMWx0NzlESHBXM3dhSzFyWnptSWdUY1hXX2plU2t6MVk4czVna0F3RVpueVhOTlNPbXhuY1pxbDVhSndBV01xSTV0NXlvVXlaYVJuU2Z6NVdFSzZJOS1YQzlsRFZyN0JVN2l4eDNmUzU2RlNUMldZakI5U3ZLVHpZT3pIOTBhd08zbUJHa3NOUUhfcHVKUWx6UzZjVzgzYU53a2kyYmduNTRJZGtrWE1KNWV5bWw0aDNsY3RLTDM2Sm5WcklTMXVYdGM?oc=5",
+        "date": "2026-05-27",
+        "title": "Kane County installing solar-powered flood detection system on high-risk roads - Daily Herald",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxQODhiUzVtMWx0NzlESHBXM3dhSzFyWnptSWdUY1hXX2plU2t6MVk4czVna0F3RVpueVhOTlNPbXhuY1pxbDVhSndBV01xSTV0NXlvVXlaYVJuU2Z6NVdFSzZJOS1YQzlsRFZyN0JVN2l4eDNmUzU2RlNUMldZakI5U3ZLVHpZT3pIOTBhd08zbUJHa3NOUUhfcHVKUWx6UzZjVzgzYU53a2kyYmduNTRJZGtrWE1KNWV5bWw0aDNsY3RLTDM2Sm5WcklTMXVYdGM?oc=5\" target=\"_blank\">Kane County installing solar-powered flood detection system on high-risk roads</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Daily Herald</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQVzhlR283a2dSd0dSQ0M5S3ZJdTB1YUtRRDZSVjBzSEQtaldrajJ2RmxENElhdG5mN3AtcXhsWm9vLXFrMXVoWUs0eVFWY3RlLXcxY2xWQ3RXckZRWkpQU0hwYlBNSC1vYk5admZfdm13c1FfT2p5dXdrR0xwSmNxU09DbE9FNXA5dEVXYWJJel90TmkyUnA3Y0IxcWc?oc=5",
+        "date": "2026-05-27",
+        "title": "Ga. driver reunites with veteran who saved her in flash flood - WRDW",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQVzhlR283a2dSd0dSQ0M5S3ZJdTB1YUtRRDZSVjBzSEQtaldrajJ2RmxENElhdG5mN3AtcXhsWm9vLXFrMXVoWUs0eVFWY3RlLXcxY2xWQ3RXckZRWkpQU0hwYlBNSC1vYk5admZfdm13c1FfT2p5dXdrR0xwSmNxU09DbE9FNXA5dEVXYWJJel90TmkyUnA3Y0IxcWc?oc=5\" target=\"_blank\">Ga. driver reunites with veteran who saved her in flash flood</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WRDW</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQT2IyS25KVml6MHBIdGZnLXNXUDJtZ1JTMGhvWGIxWlFLT2h5b1NuRFRkbkc5R0oxcGIwVXhVdWJEYVZiN0FTTURHZ1hJU2FnemxEQjgwWV84U3VkazY0MlNpMjhyWUhLVDVpVWcyU2sxZXBSS2JpdXYyN09QWDdJSVdhQ1BHeTh1SWljUnhXbEpLRUtKbjMwNWRIeEtvRWRQUExzd3VXREgtd281SC14SDNZNEpGQldpTXFCaW82ZXNlS0t4TDN1SHRvSVpsTS13QlJYMFJZRmRuOXBOMGVjdVdCclBEQ2FJV1VpNTdXeFpQSUR6WFVjQk1OZ241UQ?oc=5",
+        "date": "2026-05-27",
+        "title": "Strong storms, flash flooding possible across South Texas overnight - SouthTexasNews.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_gFBVV95cUxQT2IyS25KVml6MHBIdGZnLXNXUDJtZ1JTMGhvWGIxWlFLT2h5b1NuRFRkbkc5R0oxcGIwVXhVdWJEYVZiN0FTTURHZ1hJU2FnemxEQjgwWV84U3VkazY0MlNpMjhyWUhLVDVpVWcyU2sxZXBSS2JpdXYyN09QWDdJSVdhQ1BHeTh1SWljUnhXbEpLRUtKbjMwNWRIeEtvRWRQUExzd3VXREgtd281SC14SDNZNEpGQldpTXFCaW82ZXNlS0t4TDN1SHRvSVpsTS13QlJYMFJZRmRuOXBOMGVjdVdCclBEQ2FJV1VpNTdXeFpQSUR6WFVjQk1OZ241UQ?oc=5\" target=\"_blank\">Strong storms, flash flooding possible across South Texas overnight</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SouthTexasNews.com</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTk1QQlZOWXd4SnN6STQ4TFA4VmRZb0NsRW9EUjhZTG1WZ2wxejV5b3lBel84bHcyX19SYkdaTGcydDA2dHlBVTBEaVVhN3M0OWFnNVh5ZTF2VGFFV3Z0aEVHVTdoMUF3NGlKZVdXZG5PRG5fekp5NzRtSkh1LW9TTEhLT3J0N1RN?oc=5",
+        "date": "2026-05-27",
+        "title": "Anti-corruption & Civil Rights Commission Issues Flood Preparedness Alert - \uc870\uc120\uc77c\ubcf4",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTk1QQlZOWXd4SnN6STQ4TFA4VmRZb0NsRW9EUjhZTG1WZ2wxejV5b3lBel84bHcyX19SYkdaTGcydDA2dHlBVTBEaVVhN3M0OWFnNVh5ZTF2VGFFV3Z0aEVHVTdoMUF3NGlKZVdXZG5PRG5fekp5NzRtSkh1LW9TTEhLT3J0N1RN?oc=5\" target=\"_blank\">Anti-corruption & Civil Rights Commission Issues Flood Preparedness Alert</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">\uc870\uc120\uc77c\ubcf4</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUmx0a1JGR09RNmlHd2lQeEJtRjNKY3ZmYS1XQWNaNEs1emd2dGh2bFpSX3duWDVkeUFhc1pIeFZZZ01ibFlOS0lJcVRYVXFsVGsxd3ZwbzNCakNneG9OQk92d0pPZVdKcXJfTk93eG1veXhoSXA3OFl1U0ppS3dlcG1WS3o0QUh0SmVnWjkyZF9kVkUwSVVOczRUZ3RzUi1sS0gxblVjdlBWTUlhRVc3UWRHZGhORDR5OUFLWjBkQ1PSAcYBQVVfeXFMUEd2di04WE80N2pMNmpMcmJvdDBnS2pPc0xPUVZJbWpTYWUxdnpoSDQxT1k1TVZ1eXU4TmJOYkVHeXJBQ2dZaGVQVi10Yy1sc1BaQThYRjBQQU9lVk9nTjdPN3U3U3NvR2dHd0dvcDlQdVBhMEVpMl80ekZrcE9hUVB3WUlRano2MURnaG9CMVNWdFdCWlljYTBBam5yT213UmN3dUwyNFZxRkZ2ZDBiX2Izc0FOX2lwYTJfWTlkcWdrWmQzLWlB?oc=5",
+        "date": "2026-05-27",
+        "title": "Minister holds flood preparedness meet ahead of monsoon in North Bengal - The Statesman",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUmx0a1JGR09RNmlHd2lQeEJtRjNKY3ZmYS1XQWNaNEs1emd2dGh2bFpSX3duWDVkeUFhc1pIeFZZZ01ibFlOS0lJcVRYVXFsVGsxd3ZwbzNCakNneG9OQk92d0pPZVdKcXJfTk93eG1veXhoSXA3OFl1U0ppS3dlcG1WS3o0QUh0SmVnWjkyZF9kVkUwSVVOczRUZ3RzUi1sS0gxblVjdlBWTUlhRVc3UWRHZGhORDR5OUFLWjBkQ1PSAcYBQVVfeXFMUEd2di04WE80N2pMNmpMcmJvdDBnS2pPc0xPUVZJbWpTYWUxdnpoSDQxT1k1TVZ1eXU4TmJOYkVHeXJBQ2dZaGVQVi10Yy1sc1BaQThYRjBQQU9lVk9nTjdPN3U3U3NvR2dHd0dvcDlQdVBhMEVpMl80ekZrcE9hUVB3WUlRano2MURnaG9CMVNWdFdCWlljYTBBam5yT213UmN3dUwyNFZxRkZ2ZDBiX2Izc0FOX2lwYTJfWTlkcWdrWmQzLWlB?oc=5\" target=\"_blank\">Minister holds flood preparedness meet ahead of monsoon in North Bengal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Statesman</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNdnlvOUpaVjNkTFA2WFUxT05uc2thZGg4VzdMTkpTOXlKb1NjZFcxU01GSFhvak9Fa2p5aFV3UGY5eDUwNWI2MEtGUnlSbHJtZ1E5Y3lzVHZLTHBiTmFWOTkwUnFMQlJXQXpaZ2xoMEFVZU1zUUR5Z2JTWWpHZEh5bXh3OU02VnJ5SzdpTnk1S0pTSGZHWW9TY2Q1N3dJNExXdUJwZDhCeGxLZEp5bnQwRGx3Qy1YQ0l5dGxaWVhlZDlxSUdKblVTZkxEbWNJakUyRXEtY3dPNWRnQ2PSAeABQVVfeXFMUG5HYjBhUm5JaHNBMm1HN3NsT2pEU1ZOZmVpSnVkYmwtOFVJWjRzRThMNjI2Y3gxX1J3V05IaWZQT1FadmlpZ1VVQ3hSVndXSV95blEydXJQeWI3TExGZGJhaTdkaVE5bkZKLUZmTE1VRWdZRmY5UHI0a2swZXFBZXhCU25MWW5vanhJY044WEJ6OVRUZXE4ODA0RWhRcWVFSzhVU3lkdi1ULTBuNGNwLVFGT0g3RVE1bjZOZ2ZhSHFpOFFpRk92SWVDVTJKQzhQX3A0TE9wMnItSmhXWUVRYkE?oc=5",
+        "date": "2026-05-27",
+        "title": "Massive landslide blocks Potin-Ziro highway amid heavy rain in Arunachal - India Today NE",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxNdnlvOUpaVjNkTFA2WFUxT05uc2thZGg4VzdMTkpTOXlKb1NjZFcxU01GSFhvak9Fa2p5aFV3UGY5eDUwNWI2MEtGUnlSbHJtZ1E5Y3lzVHZLTHBiTmFWOTkwUnFMQlJXQXpaZ2xoMEFVZU1zUUR5Z2JTWWpHZEh5bXh3OU02VnJ5SzdpTnk1S0pTSGZHWW9TY2Q1N3dJNExXdUJwZDhCeGxLZEp5bnQwRGx3Qy1YQ0l5dGxaWVhlZDlxSUdKblVTZkxEbWNJakUyRXEtY3dPNWRnQ2PSAeABQVVfeXFMUG5HYjBhUm5JaHNBMm1HN3NsT2pEU1ZOZmVpSnVkYmwtOFVJWjRzRThMNjI2Y3gxX1J3V05IaWZQT1FadmlpZ1VVQ3hSVndXSV95blEydXJQeWI3TExGZGJhaTdkaVE5bkZKLUZmTE1VRWdZRmY5UHI0a2swZXFBZXhCU25MWW5vanhJY044WEJ6OVRUZXE4ODA0RWhRcWVFSzhVU3lkdi1ULTBuNGNwLVFGT0g3RVE1bjZOZ2ZhSHFpOFFpRk92SWVDVTJKQzhQX3A0TE9wMnItSmhXWUVRYkE?oc=5\" target=\"_blank\">Massive landslide blocks Potin-Ziro highway amid heavy rain in Arunachal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">India Today NE</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
     }
 ]
