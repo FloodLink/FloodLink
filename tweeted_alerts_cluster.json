@@ -23948,7 +23948,7 @@
     "rain_mm": 50.94,
     "soil_moisture": 0.336,
     "raw_dynamic_score": 6.688,
-    "last_updated": "2026-05-27T20:13:16.358150Z",
+    "last_updated": "2026-05-28T02:36:40.450604Z",
     "last_tweeted_at": "2026-05-27T20:13:16.358150Z",
     "tweet_id": "2059729958151323966",
     "resolved": false
@@ -23963,9 +23963,24 @@
     "rain_mm": 54.31,
     "soil_moisture": 0.734,
     "raw_dynamic_score": 9.085,
-    "last_updated": "2026-05-27T22:36:37.507420Z",
+    "last_updated": "2026-05-28T02:36:40.450604Z",
     "last_tweeted_at": "2026-05-27T22:36:37.507420Z",
     "tweet_id": "2059765783966720231",
+    "resolved": false
+  },
+  "-31.4308,152.9089": {
+    "country": "Australia",
+    "name": "Port Macquarie",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": -31.43084,
+    "longitude": 152.90894,
+    "rain_mm": 54.25,
+    "soil_moisture": 1.0,
+    "raw_dynamic_score": 10.375,
+    "last_updated": "2026-05-28T02:36:40.450604Z",
+    "last_tweeted_at": "2026-05-28T02:36:40.450604Z",
+    "tweet_id": "2059826198255960136",
     "resolved": false
   }
 }
