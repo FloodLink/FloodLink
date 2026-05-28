@@ -10611,5 +10611,14 @@
             "longitude": -86.4,
             "confidence": 0.65
         }
+    },
+    {
+        "link": null,
+        "date": "2026-05-28",
+        "status": "posted",
+        "tweet": "Global economic losses from floods reached $94 billion in 2025, with extreme rainfall events driving record damages across Asia and Europe.",
+        "type": "statistical",
+        "category": "economic losses from floods and flash floods",
+        "tweet_id": "2060148488285901058"
     }
 ]
