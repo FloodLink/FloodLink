@@ -10484,5 +10484,132 @@
             "longitude": -83.92,
             "confidence": 0.9
         }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNWFZ0MWV0bW1fWXc0NTV5dzdOZnV6UkhrNzZ5VmdXbVJDc09ub255bGRLZTNkeHM2cV9ZTURaN3BlZFIxV191RUE1RUJkTF84T0xGSG9NR1ZRd3NjN1RxMG9ENE05RzB2NWwyQ0FmVFA4aURTQy1XMmREU2RGREtkREU4d1MyLWQ0MWZxemxaTTFkazR0eVE?oc=5",
+        "date": "2026-05-28",
+        "title": "Flash flood warnings issued for much of central Arkansas - Northwest Arkansas Democrat-Gazette",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxNWFZ0MWV0bW1fWXc0NTV5dzdOZnV6UkhrNzZ5VmdXbVJDc09ub255bGRLZTNkeHM2cV9ZTURaN3BlZFIxV191RUE1RUJkTF84T0xGSG9NR1ZRd3NjN1RxMG9ENE05RzB2NWwyQ0FmVFA4aURTQy1XMmREU2RGREtkREU4d1MyLWQ0MWZxemxaTTFkazR0eVE?oc=5\" target=\"_blank\">Flash flood warnings issued for much of central Arkansas</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Northwest Arkansas Democrat-Gazette</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQU0dyV3pCcHc3cHV2clZ4eWJocmRRRVBKZkp1QU03SUtCVWZaU1IwOEVtZk5vTmc5SmYtOVdmTkRiWVY2aDZCUnBTem5qTUpUR0VheGoyR2ZtLWxfR2QxNFgzVUQyQlZscTFOdXBOcFBuc0RNY0pVVkJjUnE1RkZNQ1RtV0VTU1hiX2xqMl9EMDFUSUQtR0xSSWVQX3BFQWxfcUtCUjh5MFJaMkNzRTJQdjFpS0VlZ1Jk?oc=5",
+        "date": "2026-05-28",
+        "title": "National Weather Service issues flash flood warning issued for Central Arkansas - thv11.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxQU0dyV3pCcHc3cHV2clZ4eWJocmRRRVBKZkp1QU03SUtCVWZaU1IwOEVtZk5vTmc5SmYtOVdmTkRiWVY2aDZCUnBTem5qTUpUR0VheGoyR2ZtLWxfR2QxNFgzVUQyQlZscTFOdXBOcFBuc0RNY0pVVkJjUnE1RkZNQ1RtV0VTU1hiX2xqMl9EMDFUSUQtR0xSSWVQX3BFQWxfcUtCUjh5MFJaMkNzRTJQdjFpS0VlZ1Jk?oc=5\" target=\"_blank\">National Weather Service issues flash flood warning issued for Central Arkansas</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">thv11.com</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOTVZFSzYyRzZFbTctU3dlY0RBYUdDc3lmbjA0TDJhbFZ0V1ZhaTBHbGt4b3JMMk51dlVxVmtkWDFrS1RLM0VuWUN6T1JQMVl1ZTZUWTRtUDY0OWFxVTFBeDFqaFhFVk12V2NSX3BMeTFLa2c1R1UtVDctYUtzYXBuNjVCMVUxZjI4VkxrZ0IzRzg4a2FDTEF6dkpydDdNQQ?oc=5",
+        "date": "2026-05-28",
+        "title": "Update: Flood Watch, Warning in Effect for Lakes Region - KRZK 106.3",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOTVZFSzYyRzZFbTctU3dlY0RBYUdDc3lmbjA0TDJhbFZ0V1ZhaTBHbGt4b3JMMk51dlVxVmtkWDFrS1RLM0VuWUN6T1JQMVl1ZTZUWTRtUDY0OWFxVTFBeDFqaFhFVk12V2NSX3BMeTFLa2c1R1UtVDctYUtzYXBuNjVCMVUxZjI4VkxrZ0IzRzg4a2FDTEF6dkpydDdNQQ?oc=5\" target=\"_blank\">Update: Flood Watch, Warning in Effect for Lakes Region</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KRZK 106.3</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNQWMtRkR0ZlF1bU9zN1BYbU9SUEZYQjBFWWtBOVpFSW53d1Q2aHFCUkxMSmJDNkpZcTVmUkRsTEk4dXF0WTVocG1HMFJXTUZsTEVLVXJLcXdHTEU3NFhBSUJ3NnVZT3RlZVU4Mk1VS3VkNF85U1BmX0xKbnJVY2RSXzd1OXpuTWJOYXo5ZXk2ZlHSAZYBQVVfeXFMTjZnTjNKdmpZUUJIdUxsekxUYmlMT3FiZDFqcV82ZXFHeGRJSUFPRVdaS0ZFd1puMU92Z0gwcmIxd0JSMW1KS3ZTRVNieWNfblVhdWZVQ0hldmh4ZWF0ODRZWkJsb05ZTjhwYnFnSHNyNzcybWttVGNEQmlLVXN5d2VpRlVkUXhVamdLb29Wb1lUV2JSQ0Z3?oc=5",
+        "date": "2026-05-28",
+        "title": "Woman dead after being swept away by swift water during flash flooding in Tennessee - FOX Weather",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNQWMtRkR0ZlF1bU9zN1BYbU9SUEZYQjBFWWtBOVpFSW53d1Q2aHFCUkxMSmJDNkpZcTVmUkRsTEk4dXF0WTVocG1HMFJXTUZsTEVLVXJLcXdHTEU3NFhBSUJ3NnVZT3RlZVU4Mk1VS3VkNF85U1BmX0xKbnJVY2RSXzd1OXpuTWJOYXo5ZXk2ZlHSAZYBQVVfeXFMTjZnTjNKdmpZUUJIdUxsekxUYmlMT3FiZDFqcV82ZXFHeGRJSUFPRVdaS0ZFd1puMU92Z0gwcmIxd0JSMW1KS3ZTRVNieWNfblVhdWZVQ0hldmh4ZWF0ODRZWkJsb05ZTjhwYnFnSHNyNzcybWttVGNEQmlLVXN5d2VpRlVkUXhVamdLb29Wb1lUV2JSQ0Z3?oc=5\" target=\"_blank\">Woman dead after being swept away by swift water during flash flooding in Tennessee</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FOX Weather</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": null,
+        "tweet_id": "2060125050041405750",
+        "geo": {
+            "country": "United States",
+            "name": "Tennessee",
+            "latitude": 35.9,
+            "longitude": -86.4,
+            "confidence": 0.65
+        }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQRDY3OGs1Z3pTYlpMaWF4RnhtVmRyVDZmZE1RTF8zNGlGSmtCVFFzTFc3d3dOZlNOUlpFZnpEcjhsTFpsSWt5YkdZbFlyd1JNdmdvaFV4S0h5Uk5PSzBROHBJRlBEZEJfc1dHZ1UzT3BjRWtOc2VSanVobWNKQ053c2J6LTZMYm9QbUd2Y2FZRGx2bExQVWpGN05BbDdIZ0xQX2o5QzhaaTlFNkxnQUpzTHNsZEZ2aUwzdmEtS1haUVFURkJWRmpiUkVB?oc=5",
+        "date": "2026-05-28",
+        "title": "Heavy rains, flash floods impacting Central Arkansas - thv11.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxQRDY3OGs1Z3pTYlpMaWF4RnhtVmRyVDZmZE1RTF8zNGlGSmtCVFFzTFc3d3dOZlNOUlpFZnpEcjhsTFpsSWt5YkdZbFlyd1JNdmdvaFV4S0h5Uk5PSzBROHBJRlBEZEJfc1dHZ1UzT3BjRWtOc2VSanVobWNKQ053c2J6LTZMYm9QbUd2Y2FZRGx2bExQVWpGN05BbDdIZ0xQX2o5QzhaaTlFNkxnQUpzTHNsZEZ2aUwzdmEtS1haUVFURkJWRmpiUkVB?oc=5\" target=\"_blank\">Heavy rains, flash floods impacting Central Arkansas</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">thv11.com</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB4Mm5XWVQ1MmN3aDk0V0NrNkhWcmdhQjktejdXR3haVmlWNTBYM3dORnRoUHVYUHVRSnZIRmhBcmZON05rMHRIWHZjUm5KZkNHbENMVDZEOTlDVmM2RHJZLTVxMA?oc=5",
+        "date": "2026-05-28",
+        "title": "Renewed flash flood threat across Southeast - FOX Weather",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFB4Mm5XWVQ1MmN3aDk0V0NrNkhWcmdhQjktejdXR3haVmlWNTBYM3dORnRoUHVYUHVRSnZIRmhBcmZON05rMHRIWHZjUm5KZkNHbENMVDZEOTlDVmM2RHJZLTVxMA?oc=5\" target=\"_blank\">Renewed flash flood threat across Southeast</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FOX Weather</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQQ2hNY3VvR0trWVA2S0psai10UzZNME15bVJoVUNNOFhLc2FUTkFZRm1YczMyZUh1X0czN2hmdnJXZ0RCLVMtbnlwSFNjWEw3VHdWRFd5aFNaRDBIbW5pbFBOYkNHSm5LS3RYaTJjZmt5eERvbTE5TmctVjBGbHJQLTV30gGHAUFVX3lxTFBZNXQ2N09hTzVNY3lCd2p6OUJQSnQ5MHBLNDl1Q0lxcHFpX3JZdDhxbG5taG8xcGphNGhmbGpCTGNBdWJ1bWpyLWlBQU1IVXprNE8ybUlKMFk4X1FRSm9yR2pvWDJUd2ctZlJrSEVZSENubjJVRURFTU8zRE80ZVZJMWhhbWtucw?oc=5",
+        "date": "2026-05-28",
+        "title": "\u2018A nightmare\u2019: Deadly flash flooding shocks residents, first responders in Cocke County - WATE 6 On Your Side",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxQQ2hNY3VvR0trWVA2S0psai10UzZNME15bVJoVUNNOFhLc2FUTkFZRm1YczMyZUh1X0czN2hmdnJXZ0RCLVMtbnlwSFNjWEw3VHdWRFd5aFNaRDBIbW5pbFBOYkNHSm5LS3RYaTJjZmt5eERvbTE5TmctVjBGbHJQLTV30gGHAUFVX3lxTFBZNXQ2N09hTzVNY3lCd2p6OUJQSnQ5MHBLNDl1Q0lxcHFpX3JZdDhxbG5taG8xcGphNGhmbGpCTGNBdWJ1bWpyLWlBQU1IVXprNE8ybUlKMFk4X1FRSm9yR2pvWDJUd2ctZlJrSEVZSENubjJVRURFTU8zRE80ZVZJMWhhbWtucw?oc=5\" target=\"_blank\">\u2018A nightmare\u2019: Deadly flash flooding shocks residents, first responders in Cocke County</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WATE 6 On Your Side</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQa1pQUTM2S3BuaVZkbzNEbmVwQlRINUJoRVdaR0wtR0NENHg5MHR4Zi0tNFAwcGhJbWU1eC1pdExybUhhbVRwODdWXzMyQ290d3ZDUU1hOFM2LVlnb1pTVE0tNkdHWFJyYkFWazM1cUR2VnllN1JLR1JhSU1NZnQtVWp3YlRmOThWYkZUT0VB0gGiAUFVX3lxTE5OTmVuLXlSQlhaMi1GWi1kS0x3NnB1RFBxQl9kVlZtem1MZkluUFlpUmNwVXM5dGRQNGhCNG4tazNkcjdDME5hYnMtRUFNczNydWp0SUYzdlFBcWxhYzh5cmZfbHpWZVplb3Axd2ViWGsxWEtSRnVydEJ1cHdweVFYbUJxYnZJX1hiSTNJYUZrV21LdUdDZHAyZU0xQ1hFMzZsUQ?oc=5",
+        "date": "2026-05-28",
+        "title": "Central Texas leaders review flood prediction models - KWTX",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQa1pQUTM2S3BuaVZkbzNEbmVwQlRINUJoRVdaR0wtR0NENHg5MHR4Zi0tNFAwcGhJbWU1eC1pdExybUhhbVRwODdWXzMyQ290d3ZDUU1hOFM2LVlnb1pTVE0tNkdHWFJyYkFWazM1cUR2VnllN1JLR1JhSU1NZnQtVWp3YlRmOThWYkZUT0VB0gGiAUFVX3lxTE5OTmVuLXlSQlhaMi1GWi1kS0x3NnB1RFBxQl9kVlZtem1MZkluUFlpUmNwVXM5dGRQNGhCNG4tazNkcjdDME5hYnMtRUFNczNydWp0SUYzdlFBcWxhYzh5cmZfbHpWZVplb3Axd2ViWGsxWEtSRnVydEJ1cHdweVFYbUJxYnZJX1hiSTNJYUZrV21LdUdDZHAyZU0xQ1hFMzZsUQ?oc=5\" target=\"_blank\">Central Texas leaders review flood prediction models</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KWTX</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZ2tFZkc3eXZ5amZwY29MRFdjVVNMMElJbW5pa2xLeU9yWjJpMko3bTBZU1czRS1mNW5KZUZSekpwWlYwZzZWTF82TDFyZkhQUEVnNUlfck42bHB1NW1Fd0VGVU9tckdBUmRmZzNVNnNLRk1mWHNtZnlMbXdyVnpwOTk2WWg0MGZ4RDVpazFoY2JpUQ?oc=5",
+        "date": "2026-05-28",
+        "title": "Flash flood in Petal claims life of Lamar County mother and wife - HubCitySPOKES",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxOZ2tFZkc3eXZ5amZwY29MRFdjVVNMMElJbW5pa2xLeU9yWjJpMko3bTBZU1czRS1mNW5KZUZSekpwWlYwZzZWTF82TDFyZkhQUEVnNUlfck42bHB1NW1Fd0VGVU9tckdBUmRmZzNVNnNLRk1mWHNtZnlMbXdyVnpwOTk2WWg0MGZ4RDVpazFoY2JpUQ?oc=5\" target=\"_blank\">Flash flood in Petal claims life of Lamar County mother and wife</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">HubCitySPOKES</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQa1loTHhHc0VvSUtBbGFlY0tUazVaaU5PdXpaSUxCQzhtSjlMeDJZSDdsZ2NNcWFVWVNBQWwxZUZPRUVvMnlDc25KLXB6VnJnTHBQbnM2aWktMG05M3RjNGo2WmNiT0JXTWhoZ1Y5S0ExbmFEZTA0Zi1wbUpfd3NrR2dQV0FkUUR5ZjhwZjVocUZWZXBDTHp3eGh6UHBFRmpUOE1ld2V4MVBRUnpSeENneW54eFVrOEpvZ3NrQk9yQldvblF6X0lsVQ?oc=5",
+        "date": "2026-05-28",
+        "title": "Storm surge explained: How hurricanes push water inland - 11Alive.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxQa1loTHhHc0VvSUtBbGFlY0tUazVaaU5PdXpaSUxCQzhtSjlMeDJZSDdsZ2NNcWFVWVNBQWwxZUZPRUVvMnlDc25KLXB6VnJnTHBQbnM2aWktMG05M3RjNGo2WmNiT0JXTWhoZ1Y5S0ExbmFEZTA0Zi1wbUpfd3NrR2dQV0FkUUR5ZjhwZjVocUZWZXBDTHp3eGh6UHBFRmpUOE1ld2V4MVBRUnpSeENneW54eFVrOEpvZ3NrQk9yQldvblF6X0lsVQ?oc=5\" target=\"_blank\">Storm surge explained: How hurricanes push water inland</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">11Alive.com</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNQWMtRkR0ZlF1bU9zN1BYbU9SUEZYQjBFWWtBOVpFSW53d1Q2aHFCUkxMSmJDNkpZcTVmUkRsTEk4dXF0WTVocG1HMFJXTUZsTEVLVXJLcXdHTEU3NFhBSUJ3NnVZT3RlZVU4Mk1VS3VkNF85U1BmX0xKbnJVY2RSXzd1OXpuTWJOYXo5ZXk2ZlHSAZYBQVVfeXFMTjZnTjNKdmpZUUJIdUxsekxUYmlMT3FiZDFqcV82ZXFHeGRJSUFPRVdaS0ZFd1puMU92Z0gwcmIxd0JSMW1KS3ZTRVNieWNfblVhdWZVQ0hldmh4ZWF0ODRZWkJsb05ZTjhwYnFnSHNyNzcybWttVGNEQmlLVXN5d2VpRlVkUXhVamdLb29Wb1lUV2JSQ0Z3?oc=5",
+        "date": "2026-05-28",
+        "title": "Woman dead after being swept away by swift water during flash flooding in Tennessee - FOX Weather",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNQWMtRkR0ZlF1bU9zN1BYbU9SUEZYQjBFWWtBOVpFSW53d1Q2aHFCUkxMSmJDNkpZcTVmUkRsTEk4dXF0WTVocG1HMFJXTUZsTEVLVXJLcXdHTEU3NFhBSUJ3NnVZT3RlZVU4Mk1VS3VkNF85U1BmX0xKbnJVY2RSXzd1OXpuTWJOYXo5ZXk2ZlHSAZYBQVVfeXFMTjZnTjNKdmpZUUJIdUxsekxUYmlMT3FiZDFqcV82ZXFHeGRJSUFPRVdaS0ZFd1puMU92Z0gwcmIxd0JSMW1KS3ZTRVNieWNfblVhdWZVQ0hldmh4ZWF0ODRZWkJsb05ZTjhwYnFnSHNyNzcybWttVGNEQmlLVXN5d2VpRlVkUXhVamdLb29Wb1lUV2JSQ0Z3?oc=5\" target=\"_blank\">Woman dead after being swept away by swift water during flash flooding in Tennessee</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FOX Weather</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 POST-EVENT Tennessee: woman killed after being swept away by flash flood swift water \n(FOX Weather)",
+        "type": "news",
+        "tweet_id": "2060125050041405750",
+        "geo": {
+            "country": "United States",
+            "name": "Tennessee",
+            "latitude": 35.9,
+            "longitude": -86.4,
+            "confidence": 0.65
+        }
     }
 ]
