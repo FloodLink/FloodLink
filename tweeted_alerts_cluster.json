@@ -977,16 +977,16 @@
   "3.8801,-77.0312": {
     "country": "Colombia",
     "name": "Buenaventura",
-    "risk_level": "Medium",
-    "tweeted_level": "Medium",
+    "risk_level": "High",
+    "tweeted_level": "High",
     "latitude": 3.8801,
     "longitude": -77.03116,
-    "rain_mm": 67.12,
-    "soil_moisture": 0.734,
-    "raw_dynamic_score": 11.228,
-    "last_updated": "2026-03-08T21:21:58.168431Z",
-    "last_tweeted_at": "2026-01-15T09:34:23.240328Z",
-    "tweet_id": "2011733976587911603",
+    "rain_mm": 94.06,
+    "soil_moisture": 0.74,
+    "raw_dynamic_score": 15.783,
+    "last_updated": "2026-05-29T02:42:23.849713Z",
+    "last_tweeted_at": "2026-05-29T02:42:23.849713Z",
+    "tweet_id": "2060190026965631227",
     "resolved": false
   },
   "-14.8191,14.5350": {
@@ -12774,7 +12774,7 @@
     "rain_mm": 46.5,
     "soil_moisture": 0.456,
     "raw_dynamic_score": 6.608,
-    "last_updated": "2026-05-28T22:38:12.405937Z",
+    "last_updated": "2026-05-29T02:42:23.849713Z",
     "last_tweeted_at": "2026-04-01T21:42:35.473952Z",
     "tweet_id": "2039458969803223447",
     "resolved": false
@@ -17499,7 +17499,7 @@
     "rain_mm": 63.69,
     "soil_moisture": 0.67,
     "raw_dynamic_score": 10.282,
-    "last_updated": "2026-05-28T22:38:12.405937Z",
+    "last_updated": "2026-05-29T02:42:23.849713Z",
     "last_tweeted_at": "2026-05-01T21:53:15.024297Z",
     "tweet_id": "2050332782895751198",
     "resolved": false
@@ -23861,7 +23861,7 @@
     "rain_mm": 65.12,
     "soil_moisture": 0.607,
     "raw_dynamic_score": 10.143,
-    "last_updated": "2026-05-28T18:07:47.598030Z",
+    "last_updated": "2026-05-29T02:42:23.849713Z",
     "last_tweeted_at": "2026-05-28T18:07:47.598030Z",
     "tweet_id": "2060060522863612042",
     "resolved": false
@@ -23906,18 +23906,18 @@
     "rain_mm": 81.69,
     "soil_moisture": 0.636,
     "raw_dynamic_score": 12.936,
-    "last_updated": "2026-05-28T22:38:12.405937Z",
+    "last_updated": "2026-05-29T02:42:23.849713Z",
     "last_tweeted_at": "2026-05-28T20:29:19.248751Z",
     "tweet_id": "2060096397978763349",
     "resolved": false,
     "pending_downgrade": true,
-    "pending_target_level": "Medium",
-    "pending_set_at": "2026-05-28T22:38:12.405937Z",
+    "pending_target_level": "Low",
+    "pending_set_at": "2026-05-29T02:42:23.849713Z",
     "pending_is_region": false,
-    "pending_observed_level": "Medium",
-    "pending_observed_rain_mm": 65.81,
-    "pending_observed_soil_moisture": 0.664,
-    "pending_observed_raw_dynamic_score": 10.587
+    "pending_observed_level": "Low",
+    "pending_observed_rain_mm": 0.12,
+    "pending_observed_soil_moisture": 0.616,
+    "pending_observed_raw_dynamic_score": 0.02
   },
   "14.4214,78.2250": {
     "country": "India",
@@ -23944,7 +23944,7 @@
     "rain_mm": 36.31,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 6.945,
-    "last_updated": "2026-05-28T22:38:12.405937Z",
+    "last_updated": "2026-05-29T02:42:23.849713Z",
     "last_tweeted_at": "2026-05-28T22:38:12.405937Z",
     "tweet_id": "2060128567518720204",
     "resolved": false
@@ -23959,7 +23959,7 @@
     "rain_mm": 43.5,
     "soil_moisture": 0.646,
     "raw_dynamic_score": 6.928,
-    "last_updated": "2026-05-28T22:38:12.405937Z",
+    "last_updated": "2026-05-29T02:42:23.849713Z",
     "last_tweeted_at": "2026-05-28T22:38:12.405937Z",
     "tweet_id": "2060128819906785668",
     "resolved": false
@@ -24019,7 +24019,7 @@
     "rain_mm": 45.12,
     "soil_moisture": 0.656,
     "raw_dynamic_score": 7.228,
-    "last_updated": "2026-05-28T22:38:12.405937Z",
+    "last_updated": "2026-05-29T02:42:23.849713Z",
     "last_tweeted_at": "2026-05-28T22:38:12.405937Z",
     "tweet_id": "2060129072353525801",
     "resolved": false
@@ -24034,7 +24034,7 @@
     "rain_mm": 63.44,
     "soil_moisture": 0.366,
     "raw_dynamic_score": 8.501,
-    "last_updated": "2026-05-28T22:38:12.405937Z",
+    "last_updated": "2026-05-29T02:42:23.849713Z",
     "last_tweeted_at": "2026-05-28T22:38:12.405937Z",
     "tweet_id": "2060129324636729753",
     "resolved": false
