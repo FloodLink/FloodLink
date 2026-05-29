@@ -9815,5 +9815,14 @@
         "tweet": "\ud83c\uddf3\ud83c\uddf1 The Netherlands maintains 3,700 km of primary dikes and levees protecting 9 million residents and 60% of GDP from flooding.",
         "type": "infrastructure",
         "tweet_id": "2060329829409411184"
+    },
+    {
+        "link": null,
+        "date": "2026-05-29",
+        "status": "posted",
+        "tweet": "\ud83c\udde8\ud83c\uddf3 China flood losses hit $38B in 2025, nearly triple \ud83c\uddea\ud83c\uddfa Europe\u2019s $13B total for the same year.",
+        "type": "statistical",
+        "category": "economic losses from floods and flash floods",
+        "tweet_id": "2060391385665274105"
     }
 ]
