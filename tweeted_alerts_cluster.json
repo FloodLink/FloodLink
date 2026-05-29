@@ -20644,7 +20644,7 @@
     "rain_mm": 40.25,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 7.698,
-    "last_updated": "2026-05-29T18:18:02.379220Z",
+    "last_updated": "2026-05-29T22:45:33.532484Z",
     "last_tweeted_at": "2026-05-16T08:02:32.779865Z",
     "tweet_id": "2055560557193756864",
     "resolved": false
@@ -23877,25 +23877,18 @@
   "19.8407,-90.5168": {
     "country": "Mexico",
     "name": "Campeche",
-    "risk_level": "High",
-    "tweeted_level": "High",
+    "risk_level": "Low",
+    "tweeted_level": "Low",
     "latitude": 19.84073,
     "longitude": -90.51676,
-    "rain_mm": 81.69,
-    "soil_moisture": 0.636,
-    "raw_dynamic_score": 12.936,
-    "last_updated": "2026-05-29T02:42:23.849713Z",
-    "last_tweeted_at": "2026-05-28T20:29:19.248751Z",
-    "tweet_id": "2060096397978763349",
-    "resolved": false,
-    "pending_downgrade": true,
-    "pending_target_level": "Low",
-    "pending_set_at": "2026-05-29T02:42:23.849713Z",
-    "pending_is_region": false,
-    "pending_observed_level": "Low",
-    "pending_observed_rain_mm": 0.12,
-    "pending_observed_soil_moisture": 0.616,
-    "pending_observed_raw_dynamic_score": 0.02
+    "rain_mm": 3.25,
+    "soil_moisture": 0.596,
+    "raw_dynamic_score": 0.503,
+    "last_updated": "2026-05-29T22:45:33.532484Z",
+    "last_tweeted_at": "2026-05-29T22:45:33.532484Z",
+    "tweet_id": "2060493051651383315",
+    "resolved": true,
+    "resolved_at": "2026-05-29T22:45:33.532484Z"
   },
   "14.4214,78.2250": {
     "country": "India",
@@ -24219,7 +24212,7 @@
     "rain_mm": 43.69,
     "soil_moisture": 0.618,
     "raw_dynamic_score": 6.847,
-    "last_updated": "2026-05-29T18:18:02.379220Z",
+    "last_updated": "2026-05-29T22:45:33.532484Z",
     "last_tweeted_at": "2026-05-29T18:18:02.379220Z",
     "tweet_id": "2060425491077865657",
     "resolved": false
@@ -24234,7 +24227,7 @@
     "rain_mm": 43.19,
     "soil_moisture": 0.715,
     "raw_dynamic_score": 7.149,
-    "last_updated": "2026-05-29T18:18:02.379220Z",
+    "last_updated": "2026-05-29T22:45:33.532484Z",
     "last_tweeted_at": "2026-05-29T18:18:02.379220Z",
     "tweet_id": "2060425996206326115",
     "resolved": false
@@ -24252,6 +24245,21 @@
     "last_updated": "2026-05-29T18:18:02.379220Z",
     "last_tweeted_at": "2026-05-29T18:18:02.379220Z",
     "tweet_id": "2060425996206326115",
+    "resolved": false
+  },
+  "5.2660,-76.5649": {
+    "country": "Colombia",
+    "name": "Tadó",
+    "risk_level": "High",
+    "tweeted_level": "High",
+    "latitude": 5.26598,
+    "longitude": -76.56487,
+    "rain_mm": 92.94,
+    "soil_moisture": 0.702,
+    "raw_dynamic_score": 15.27,
+    "last_updated": "2026-05-29T22:45:33.532484Z",
+    "last_tweeted_at": "2026-05-29T22:45:33.532484Z",
+    "tweet_id": "2060492798848028910",
     "resolved": false
   }
 }
