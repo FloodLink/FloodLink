@@ -9918,5 +9918,14 @@
         "score": 0,
         "status": "skipped",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-05-30",
+        "status": "posted",
+        "tweet": "Flood damages 2021-2025 (bn USD)\n1. \ud83c\uddea\ud83c\uddfa Europe 2021: 46\n2. \ud83c\uddf5\ud83c\uddf0 Pakistan 2022: 30\n3. \ud83c\udde8\ud83c\uddf3 China 2023: 22\n4. \ud83c\uddfa\ud83c\uddf8 USA 2024: 18\n5. \ud83c\uddee\ud83c\uddf3 India 2023: 12",
+        "type": "statistical",
+        "category": "economic losses from floods and flash floods",
+        "tweet_id": "2060870252020351430"
     }
 ]
