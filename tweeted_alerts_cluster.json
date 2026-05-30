@@ -22062,7 +22062,7 @@
     "rain_mm": 72.94,
     "soil_moisture": 0.602,
     "raw_dynamic_score": 11.327,
-    "last_updated": "2026-05-30T10:54:47.111997Z",
+    "last_updated": "2026-05-30T13:17:27.689856Z",
     "last_tweeted_at": "2026-05-20T11:53:15.569664Z",
     "tweet_id": "2057067655748612609",
     "resolved": false
@@ -24294,7 +24294,7 @@
     "rain_mm": 44.5,
     "soil_moisture": 0.631,
     "raw_dynamic_score": 7.028,
-    "last_updated": "2026-05-30T06:27:13.947888Z",
+    "last_updated": "2026-05-30T13:17:27.689856Z",
     "last_tweeted_at": "2026-05-30T06:27:13.947888Z",
     "tweet_id": "2060608996936159320",
     "resolved": false
@@ -24339,7 +24339,7 @@
     "rain_mm": 70.75,
     "soil_moisture": 0.656,
     "raw_dynamic_score": 11.334,
-    "last_updated": "2026-05-30T06:27:13.947888Z",
+    "last_updated": "2026-05-30T13:17:27.689856Z",
     "last_tweeted_at": "2026-05-30T06:27:13.947888Z",
     "tweet_id": "2060609501833883886",
     "resolved": false
@@ -24372,6 +24372,36 @@
     "last_updated": "2026-05-30T10:54:47.111997Z",
     "last_tweeted_at": "2026-05-30T10:54:47.111997Z",
     "tweet_id": "2060676570843369845",
+    "resolved": false
+  },
+  "14.2269,100.7155": {
+    "country": "Thailand",
+    "name": "Wang Noi",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 14.22689,
+    "longitude": 100.7155,
+    "rain_mm": 48.88,
+    "soil_moisture": 0.601,
+    "raw_dynamic_score": 7.584,
+    "last_updated": "2026-05-30T13:17:27.689856Z",
+    "last_tweeted_at": "2026-05-30T13:17:27.689856Z",
+    "tweet_id": "2060712225031995428",
+    "resolved": false
+  },
+  "14.3406,100.8673": {
+    "country": "Thailand",
+    "name": "Nong Khae",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 14.34062,
+    "longitude": 100.86733,
+    "rain_mm": 48.88,
+    "soil_moisture": 0.601,
+    "raw_dynamic_score": 7.584,
+    "last_updated": "2026-05-30T13:17:27.689856Z",
+    "last_tweeted_at": "2026-05-30T13:17:27.689856Z",
+    "tweet_id": "2060712477504000098",
     "resolved": false
   }
 }
