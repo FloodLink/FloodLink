@@ -974,22 +974,6 @@
     "tweet_id": "2011686822317826210",
     "resolved": false
   },
-  "3.8801,-77.0312": {
-    "country": "Colombia",
-    "name": "Buenaventura",
-    "risk_level": "Low",
-    "tweeted_level": "Low",
-    "latitude": 3.8801,
-    "longitude": -77.03116,
-    "rain_mm": 3.25,
-    "soil_moisture": 0.689,
-    "raw_dynamic_score": 0.53,
-    "last_updated": "2026-05-30T06:27:13.947888Z",
-    "last_tweeted_at": "2026-05-30T06:27:13.947888Z",
-    "tweet_id": "2060609754637217877",
-    "resolved": true,
-    "resolved_at": "2026-05-30T06:27:13.947888Z"
-  },
   "-14.8191,14.5350": {
     "country": "Angola",
     "name": "Quipungo",
@@ -7788,16 +7772,16 @@
   "8.1672,125.9908": {
     "country": "Philippines",
     "name": "Bunawan",
-    "risk_level": "Medium",
-    "tweeted_level": "Medium",
+    "risk_level": "High",
+    "tweeted_level": "High",
     "latitude": 8.16722,
     "longitude": 125.99083,
-    "rain_mm": 59.0,
-    "soil_moisture": 0.665,
-    "raw_dynamic_score": 9.499,
-    "last_updated": "2026-03-26T01:35:46.383004Z",
-    "last_tweeted_at": "2026-03-08T21:21:58.168431Z",
-    "tweet_id": "2030756485479961017",
+    "rain_mm": 76.81,
+    "soil_moisture": 0.713,
+    "raw_dynamic_score": 12.698,
+    "last_updated": "2026-05-31T07:02:45.455753Z",
+    "last_tweeted_at": "2026-05-31T07:02:45.455753Z",
+    "tweet_id": "2060980582750834783",
     "resolved": false
   },
   "-25.5407,152.7049": {
@@ -20590,7 +20574,7 @@
     "rain_mm": 66.25,
     "soil_moisture": 0.615,
     "raw_dynamic_score": 10.368,
-    "last_updated": "2026-05-30T10:54:47.111997Z",
+    "last_updated": "2026-05-31T07:02:45.455753Z",
     "last_tweeted_at": "2026-05-16T08:02:32.779865Z",
     "tweet_id": "2055560304126284252",
     "resolved": false
@@ -23680,7 +23664,7 @@
     "rain_mm": 54.31,
     "soil_moisture": 0.734,
     "raw_dynamic_score": 9.085,
-    "last_updated": "2026-05-28T02:36:40.450604Z",
+    "last_updated": "2026-05-31T07:02:45.455753Z",
     "last_tweeted_at": "2026-05-27T22:36:37.507420Z",
     "tweet_id": "2059765783966720231",
     "resolved": false
@@ -24254,7 +24238,7 @@
     "rain_mm": 50.56,
     "soil_moisture": 0.577,
     "raw_dynamic_score": 7.739,
-    "last_updated": "2026-05-30T10:54:47.111997Z",
+    "last_updated": "2026-05-31T07:02:45.455753Z",
     "last_tweeted_at": "2026-05-30T06:27:13.947888Z",
     "tweet_id": "2060609249236201693",
     "resolved": false
@@ -24392,6 +24376,51 @@
     "last_updated": "2026-05-30T19:11:19.502893Z",
     "last_tweeted_at": "2026-05-30T19:11:19.502893Z",
     "tweet_id": "2060801533483090170",
+    "resolved": false
+  },
+  "8.5356,125.9500": {
+    "country": "Philippines",
+    "name": "San Francisco",
+    "risk_level": "Medium",
+    "tweeted_level": "High",
+    "latitude": 8.53556,
+    "longitude": 125.95,
+    "rain_mm": 42.56,
+    "soil_moisture": 0.65,
+    "raw_dynamic_score": 6.795,
+    "last_updated": "2026-05-31T07:02:45.455753Z",
+    "last_tweeted_at": "2026-05-31T07:02:45.455753Z",
+    "tweet_id": "2060980582750834783",
+    "resolved": false
+  },
+  "8.5800,125.8964": {
+    "country": "Philippines",
+    "name": "Prosperidad",
+    "risk_level": "Medium",
+    "tweeted_level": "High",
+    "latitude": 8.58,
+    "longitude": 125.89639,
+    "rain_mm": 42.56,
+    "soil_moisture": 0.65,
+    "raw_dynamic_score": 6.795,
+    "last_updated": "2026-05-31T07:02:45.455753Z",
+    "last_tweeted_at": "2026-05-31T07:02:45.455753Z",
+    "tweet_id": "2060980582750834783",
+    "resolved": false
+  },
+  "8.6072,125.9144": {
+    "country": "Philippines",
+    "name": "Bah-Bah",
+    "risk_level": "Medium",
+    "tweeted_level": "High",
+    "latitude": 8.60722,
+    "longitude": 125.91444,
+    "rain_mm": 42.56,
+    "soil_moisture": 0.65,
+    "raw_dynamic_score": 6.795,
+    "last_updated": "2026-05-31T07:02:45.455753Z",
+    "last_tweeted_at": "2026-05-31T07:02:45.455753Z",
+    "tweet_id": "2060980582750834783",
     "resolved": false
   }
 }
