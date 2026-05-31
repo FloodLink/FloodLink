@@ -9831,5 +9831,14 @@
         "score": 0,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-05-31",
+        "status": "posted",
+        "tweet": "2020-2025: Asia recorded 21,800 flood deaths vs. 1,400 in Europe. South Asia annual average rose 38% from 2015-2019 levels due to extreme rainfall.",
+        "type": "statistical",
+        "category": "global flood fatalities and trends",
+        "tweet_id": "2061127513544229116"
     }
 ]
