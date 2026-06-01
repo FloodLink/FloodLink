@@ -1,188 +1,5 @@
 [
     {
-        "link": null,
-        "date": "2026-05-02",
-        "status": "posted",
-        "tweet": "\ud83c\uddfa\ud83c\uddf8 NYC storm surges rose 35% in frequency from 2020-2025 vs. 2015-2019, causing $15B in losses.  \n\ud83c\udde7\ud83c\uddf7 Rio projections for 2026-2030 show 50% more extreme rainfall events, exposing 4M to flash floods.",
-        "type": "statistical",
-        "category": "extreme rainfall trends in major cities",
-        "tweet_id": "2050483396833341512"
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNT0F6Y0hFOFc2UWh0NnV6TkUwTV95cFpoUjN3WUNRX2RNaUN2cDVteWlEeXFFMHp6YUxYajFDMWhoaXZPS0tMNjFwS3ZhTWRoei1Ja1hvaUw2SmlDVzNERmlhOXotMzNzdlpNOTlFc0lxLXNXbnJ3dHVidjBSbl82TDR6NGlUZ1dIcUh6dTVTN1NjNG1Dc3RSUnJqVjNPdGvSAZ8BQVVfeXFMTTZ6VGpvc1UxcFVFWUNEQXFiMDhIbWFmMDFwU2NZdzZTZUgxY3BBbDdhbDJrdlctbGVVSW9FZXNabGhvS2ZYczVZV0lQTEM1S2FCWWtmQUdCdV8wVkNJVHpWY0NnVU5PeGhyZkktb05XemVqLWx3d0EyV0V1MWdtZXdlUlpOZGZnRVNkRHVqaWJwWVVoeXpfOHRXY1lvaHpV?oc=5",
-        "date": "2026-05-02",
-        "title": "Flash flood warning as multiple storm rounds target Houston area - Qazinform",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNT0F6Y0hFOFc2UWh0NnV6TkUwTV95cFpoUjN3WUNRX2RNaUN2cDVteWlEeXFFMHp6YUxYajFDMWhoaXZPS0tMNjFwS3ZhTWRoei1Ja1hvaUw2SmlDVzNERmlhOXotMzNzdlpNOTlFc0lxLXNXbnJ3dHVidjBSbl82TDR6NGlUZ1dIcUh6dTVTN1NjNG1Dc3RSUnJqVjNPdGvSAZ8BQVVfeXFMTTZ6VGpvc1UxcFVFWUNEQXFiMDhIbWFmMDFwU2NZdzZTZUgxY3BBbDdhbDJrdlctbGVVSW9FZXNabGhvS2ZYczVZV0lQTEM1S2FCWWtmQUdCdV8wVkNJVHpWY0NnVU5PeGhyZkktb05XemVqLWx3d0EyV0V1MWdtZXdlUlpOZGZnRVNkRHVqaWJwWVVoeXpfOHRXY1lvaHpV?oc=5\" target=\"_blank\">Flash flood warning as multiple storm rounds target Houston area</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Qazinform</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVG03b19SVkpjbURBRnFZOW9UTmg3UU92SHVMZUcwLTFlbGNna05BU0Rza1BsRHl2VXVoVEFpeG1vV00wak9GYVRxRFF4dnVJNnZ0QWFwTEMzM2RyYnNLSkpwYkdQNkJaRm5aVUY2X3RDRU9VeGNNeDRyamFfNjlhZk1BVEtVRlhJSDZYbm1iSVdLcXRZSG1QQXRRblFIbzg4eVgyMmtrZUpFUUVYQXZlQkt3X1dxckxUN0E?oc=5",
-        "date": "2026-05-02",
-        "title": "India and Nepal to hold meeting in Kathmandu on flood forecasting model ahead of monsoon - News On AIR",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNVG03b19SVkpjbURBRnFZOW9UTmg3UU92SHVMZUcwLTFlbGNna05BU0Rza1BsRHl2VXVoVEFpeG1vV00wak9GYVRxRFF4dnVJNnZ0QWFwTEMzM2RyYnNLSkpwYkdQNkJaRm5aVUY2X3RDRU9VeGNNeDRyamFfNjlhZk1BVEtVRlhJSDZYbm1iSVdLcXRZSG1QQXRRblFIbzg4eVgyMmtrZUpFUUVYQXZlQkt3X1dxckxUN0E?oc=5\" target=\"_blank\">India and Nepal to hold meeting in Kathmandu on flood forecasting model ahead of monsoon</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">News On AIR</font>",
-        "similarity_excluded": "No",
-        "score": 8,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSWlhZnM3b0JwTVBDUWtDcFgzSnZVeXZVUm1iQzYxR1JkdnpRR0lJRUp1VTlPUDBCdWRkaG1sdFA4YlZ0bzBicmVJZXhlSjFRN3ZmSE1TRHBabXBOUUZXOHFDaXJNM0Rwc2x6T29kNkQ3ZDdnX1B3cGdhZ2tqZmlaUEZWd1lsc3NFY3k5NHF2OVNmUDFES1lLYUpWNkFNeHozeDVXYzROZVc2RGFaaFlKZlkyeEphdTJqYVUtcjQ3MUVxVFXSAcMBQVVfeXFMTXF6eXVwSnJLN0ozNjJpakZNQ1Z6d3pBUEFOM0xibGdDaGNvZ0FsM1NYU3I2RHRBTExmYUo3dFNOMTFSU2F4N0NhdXlVOFBCMEp0R2R5Y1Fza2FrelVUMVlyRWhNc0UwemZEcFNmXzQ0R0NubExLVnZESk9zaE9LbHhCOGs1ZDhwaVgyMXpGVW1kSXM0dms2TEE0NW5CdFdka3F6N0Y5SDRxamwtR2Y3dzZHSENDS0d1bGFjSWNvWUwzUzNJ?oc=5",
-        "date": "2026-05-02",
-        "title": "Assam: Rain cuts in Lakhimpur\u2019s Ulfa dyke spark pre-monsoon flood fears in Panigaon - NE NOW",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSWlhZnM3b0JwTVBDUWtDcFgzSnZVeXZVUm1iQzYxR1JkdnpRR0lJRUp1VTlPUDBCdWRkaG1sdFA4YlZ0bzBicmVJZXhlSjFRN3ZmSE1TRHBabXBOUUZXOHFDaXJNM0Rwc2x6T29kNkQ3ZDdnX1B3cGdhZ2tqZmlaUEZWd1lsc3NFY3k5NHF2OVNmUDFES1lLYUpWNkFNeHozeDVXYzROZVc2RGFaaFlKZlkyeEphdTJqYVUtcjQ3MUVxVFXSAcMBQVVfeXFMTXF6eXVwSnJLN0ozNjJpakZNQ1Z6d3pBUEFOM0xibGdDaGNvZ0FsM1NYU3I2RHRBTExmYUo3dFNOMTFSU2F4N0NhdXlVOFBCMEp0R2R5Y1Fza2FrelVUMVlyRWhNc0UwemZEcFNmXzQ0R0NubExLVnZESk9zaE9LbHhCOGs1ZDhwaVgyMXpGVW1kSXM0dms2TEE0NW5CdFdka3F6N0Y5SDRxamwtR2Y3dzZHSENDS0d1bGFjSWNvWUwzUzNJ?oc=5\" target=\"_blank\">Assam: Rain cuts in Lakhimpur\u2019s Ulfa dyke spark pre-monsoon flood fears in Panigaon</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NE NOW</font>",
-        "similarity_excluded": "No",
-        "score": 8,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNSjRJR2pWdkhnWjVPUFVCRS12NTFUbWNBTjFzdUViMnFPMnI3a2Zmd0Z3YXBTeHhEb05VMGZXOGpYMXFwb2hIbU5QcklEUk5jSnhnc0FWWk5kNmo2cVFrcmRSTWpENmg1cnlNZU9IWURydEVseTNkQXVvMHhtNDlGcFY4c3ZaM0ZQR0RtRno5OUtSZi00cWV4Nlh2cW16NkV0dE9hbVRKTEx0RnA4R2ZtODFGMDdWSmF2NFdxRHZsaw?oc=5",
-        "date": "2026-05-02",
-        "title": "KeNHA Issues Alternative Route After Landslide Blocks Iten\u2013Kabarnet Road - The Kenya Times",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxNSjRJR2pWdkhnWjVPUFVCRS12NTFUbWNBTjFzdUViMnFPMnI3a2Zmd0Z3YXBTeHhEb05VMGZXOGpYMXFwb2hIbU5QcklEUk5jSnhnc0FWWk5kNmo2cVFrcmRSTWpENmg1cnlNZU9IWURydEVseTNkQXVvMHhtNDlGcFY4c3ZaM0ZQR0RtRno5OUtSZi00cWV4Nlh2cW16NkV0dE9hbVRKTEx0RnA4R2ZtODFGMDdWSmF2NFdxRHZsaw?oc=5\" target=\"_blank\">KeNHA Issues Alternative Route After Landslide Blocks Iten\u2013Kabarnet Road</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Kenya Times</font>",
-        "similarity_excluded": "No",
-        "score": 3,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": null,
-        "date": "2026-05-02",
-        "status": "posted",
-        "tweet": "In 2026, global flood early warning systems cover just 55% of people at risk from floods, flash floods, and storm surges\u2014leaving 900 million exposed, especially in Asia (\ud83c\uddee\ud83c\uddf3\ud83c\udde7\ud83c\udde9\ud83c\uddf5\ud83c\uddf0). Progress from 40% in 2020, but gaps persist.",
-        "type": "statistical",
-        "category": "coverage of flood early warning systems worldwide",
-        "tweet_id": "2050555392212520974"
-    },
-    {
-        "link": null,
-        "date": "2026-05-02",
-        "status": "posted",
-        "tweet": "Japan's G-Cans underground flood control system in Tokyo holds 670,000 m\u00b3 of stormwater, diverting excess from 12 million residents during typhoons. \ud83c\uddef\ud83c\uddf5",
-        "type": "infrastructure",
-        "tweet_id": "2050576635846340621"
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNSlIyNFo3RTU3a2w3OWlyU192WGxrRVhDMEkweTBrSy0yRlQ3VmNXbHRUM0RxeXhMb0IzSFZFZTNOZUtPNUs0aEhSUW9yWDVhUWpXR1VOZmhELTNRUGZUZGp1cE1BeTJyZ2IzSi14NEJVUlhHSTgzRWttRlJMMGRzY3RFWXpLQWdwVkFzOE9VN0VvSHAyNU82RVplc0hKdFhCb1pZM3JHMnVKbml6Y0xHX0w1UnVObzN5a091NE96aW1aalFoSTU4UGFwVG0?oc=5",
-        "date": "2026-05-02",
-        "title": "Rain and storms ramp up overnight through Friday with a flash flood risk | KXAN Forecast (April 30) - KXAN Austin",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxNSlIyNFo3RTU3a2w3OWlyU192WGxrRVhDMEkweTBrSy0yRlQ3VmNXbHRUM0RxeXhMb0IzSFZFZTNOZUtPNUs0aEhSUW9yWDVhUWpXR1VOZmhELTNRUGZUZGp1cE1BeTJyZ2IzSi14NEJVUlhHSTgzRWttRlJMMGRzY3RFWXpLQWdwVkFzOE9VN0VvSHAyNU82RVplc0hKdFhCb1pZM3JHMnVKbml6Y0xHX0w1UnVObzN5a091NE96aW1aalFoSTU4UGFwVG0?oc=5\" target=\"_blank\">Rain and storms ramp up overnight through Friday with a flash flood risk | KXAN Forecast (April 30)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KXAN Austin</font>",
-        "similarity_excluded": "No",
-        "score": 8,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOR3lnSXoxS3Ayc1pFdmluQ3V3c0h0Y1N6QjNNV0hGV3dhZjVBX1QwS2diR255REJpRjd4WDU1Ql9GV1prRkxJc2k2V2tJWWhJUE5QQkdEOHU2ek9mQ2o1QlVpUFRHbmx3VjdIUlBkNi1vaF9QQ3JjbzVRQUtqXzh2VHFXYkkyNmZqb2E5M1h0MA?oc=5",
-        "date": "2026-05-02",
-        "title": "Tracking a possible flash flood threat for Sunday - CBS News",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxOR3lnSXoxS3Ayc1pFdmluQ3V3c0h0Y1N6QjNNV0hGV3dhZjVBX1QwS2diR255REJpRjd4WDU1Ql9GV1prRkxJc2k2V2tJWWhJUE5QQkdEOHU2ek9mQ2o1QlVpUFRHbmx3VjdIUlBkNi1vaF9QQ3JjbzVRQUtqXzh2VHFXYkkyNmZqb2E5M1h0MA?oc=5\" target=\"_blank\">Tracking a possible flash flood threat for Sunday</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CBS News</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNSkZfb1Y3RmZwS0VCV1RKS3hwWmpaZkxBT3dFT1NYNlJJVmNPcWdMbXFBR3N5Q0x3MkM1ZGtpcTc1cjZfQlhDYml1V1FLaEk1c1hOV2dUdWY5UXFFX09Dd2FyWHdydkZQekYtbnh6MDhpc1BOSndBMkozUkZPcDBEYUdIbnJQUDhuV1U0clBpNThJYkRwSnNpM1hBMVU1LVlZQkg0Z1UweDF5QlNTdF9mR3lrVGNmOGZDZlRXWnhuLVFoODQw?oc=5",
-        "date": "2026-05-02",
-        "title": "Heavy Storms and Flash Flood Risks Forecast for Boca Raton This Sunday - The Boca Raton Tribune",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxNSkZfb1Y3RmZwS0VCV1RKS3hwWmpaZkxBT3dFT1NYNlJJVmNPcWdMbXFBR3N5Q0x3MkM1ZGtpcTc1cjZfQlhDYml1V1FLaEk1c1hOV2dUdWY5UXFFX09Dd2FyWHdydkZQekYtbnh6MDhpc1BOSndBMkozUkZPcDBEYUdIbnJQUDhuV1U0clBpNThJYkRwSnNpM1hBMVU1LVlZQkg0Z1UweDF5QlNTdF9mR3lrVGNmOGZDZlRXWnhuLVFoODQw?oc=5\" target=\"_blank\">Heavy Storms and Flash Flood Risks Forecast for Boca Raton This Sunday</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Boca Raton Tribune</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOaDF5bkZWTVN6Z2c2VTBob0dIbWlKU3ZULXZtQjJVdmtaQmFwZ0Q3MEo5aWZyZlJrenIySF9iSkQtOGIwMC1aTXdiOWFzaVp2eWJidFlHRXZMNEJNdVN6MDc3V3dLWkhSRUVZeUUyZGt2MkJyS09mQnI1ZW9EeWRIdUctekI1bGR2NlJ4ZlVSUjc1bEkyMTh1aG01Snhibk1pVV9OM0JWeWdEdElQeVM3Y3VjS1VtMVpsMzcxZmZJSU9YTFR0VXhWb1k5SW1CQzBmTUZRb19xd1NnSEduaDB3dUVCOVV1UEpJZFhYY1ZLeVFjMmFEYVN0TUVZTkk?oc=5",
-        "date": "2026-05-02",
-        "title": "Flash Flood Warning Issued for Southwest Botswana as Heavy Rains Threaten Lives, Infrastructure and Safety Across Region - Travel And Tour World",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_AFBVV95cUxOaDF5bkZWTVN6Z2c2VTBob0dIbWlKU3ZULXZtQjJVdmtaQmFwZ0Q3MEo5aWZyZlJrenIySF9iSkQtOGIwMC1aTXdiOWFzaVp2eWJidFlHRXZMNEJNdVN6MDc3V3dLWkhSRUVZeUUyZGt2MkJyS09mQnI1ZW9EeWRIdUctekI1bGR2NlJ4ZlVSUjc1bEkyMTh1aG01Snhibk1pVV9OM0JWeWdEdElQeVM3Y3VjS1VtMVpsMzcxZmZJSU9YTFR0VXhWb1k5SW1CQzBmTUZRb19xd1NnSEduaDB3dUVCOVV1UEpJZFhYY1ZLeVFjMmFEYVN0TUVZTkk?oc=5\" target=\"_blank\">Flash Flood Warning Issued for Southwest Botswana as Heavy Rains Threaten Lives, Infrastructure and Safety Across Region</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Travel And Tour World</font>",
-        "similarity_excluded": "No",
-        "score": 9,
-        "status": "processed",
-        "tweet": null,
-        "tweet_id": "2050599855026757789",
-        "geo": {
-            "country": "Botswana",
-            "name": "Southwest Botswana",
-            "latitude": -25.5,
-            "longitude": 21.5,
-            "confidence": 0.95
-        }
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPTUtxT2p2c3BucWJWZmNuOTZSb3pHOVBYbl9tOHliVk5PbUhHOHdQdmFobUFCWWVCUS1saFFtUGhFR1Z2WnRxMzJ5NHBhZjV1ZmpGWUJrb2RVaW9ROXNoTnNoVmRYb3ZpQzN5TG9yYTBMVlZueV9uMVgzcVZwc1ppWEZxQXRvR2pzNFlrdWFVLWNUbHYtYnY1TDNmNTU4UUxtR2JqQzQweTMzY1JaRXVFUUtyZFdYWFJ6WkZ1MnFDTXIyWXNWUFJCT3BKVWozVk81MnpOUzdNSkE1LTBLMm9CVXFjd3VlVnA4dE5GZ0c2Yw?oc=5",
-        "date": "2026-05-02",
-        "title": "OpenAI wants to put its most powerful model at all levels of government to fight hackers - WTHI-TV",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxPTUtxT2p2c3BucWJWZmNuOTZSb3pHOVBYbl9tOHliVk5PbUhHOHdQdmFobUFCWWVCUS1saFFtUGhFR1Z2WnRxMzJ5NHBhZjV1ZmpGWUJrb2RVaW9ROXNoTnNoVmRYb3ZpQzN5TG9yYTBMVlZueV9uMVgzcVZwc1ppWEZxQXRvR2pzNFlrdWFVLWNUbHYtYnY1TDNmNTU4UUxtR2JqQzQweTMzY1JaRXVFUUtyZFdYWFJ6WkZ1MnFDTXIyWXNWUFJCT3BKVWozVk81MnpOUzdNSkE1LTBLMm9CVXFjd3VlVnA4dE5GZ0c2Yw?oc=5\" target=\"_blank\">OpenAI wants to put its most powerful model at all levels of government to fight hackers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WTHI-TV</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOaDF5bkZWTVN6Z2c2VTBob0dIbWlKU3ZULXZtQjJVdmtaQmFwZ0Q3MEo5aWZyZlJrenIySF9iSkQtOGIwMC1aTXdiOWFzaVp2eWJidFlHRXZMNEJNdVN6MDc3V3dLWkhSRUVZeUUyZGt2MkJyS09mQnI1ZW9EeWRIdUctekI1bGR2NlJ4ZlVSUjc1bEkyMTh1aG01Snhibk1pVV9OM0JWeWdEdElQeVM3Y3VjS1VtMVpsMzcxZmZJSU9YTFR0VXhWb1k5SW1CQzBmTUZRb19xd1NnSEduaDB3dUVCOVV1UEpJZFhYY1ZLeVFjMmFEYVN0TUVZTkk?oc=5",
-        "date": "2026-05-02",
-        "title": "Flash Flood Warning Issued for Southwest Botswana as Heavy Rains Threaten Lives, Infrastructure and Safety Across Region - Travel And Tour World",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_AFBVV95cUxOaDF5bkZWTVN6Z2c2VTBob0dIbWlKU3ZULXZtQjJVdmtaQmFwZ0Q3MEo5aWZyZlJrenIySF9iSkQtOGIwMC1aTXdiOWFzaVp2eWJidFlHRXZMNEJNdVN6MDc3V3dLWkhSRUVZeUUyZGt2MkJyS09mQnI1ZW9EeWRIdUctekI1bGR2NlJ4ZlVSUjc1bEkyMTh1aG01Snhibk1pVV9OM0JWeWdEdElQeVM3Y3VjS1VtMVpsMzcxZmZJSU9YTFR0VXhWb1k5SW1CQzBmTUZRb19xd1NnSEduaDB3dUVCOVV1UEpJZFhYY1ZLeVFjMmFEYVN0TUVZTkk?oc=5\" target=\"_blank\">Flash Flood Warning Issued for Southwest Botswana as Heavy Rains Threaten Lives, Infrastructure and Safety Across Region</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Travel And Tour World</font>",
-        "similarity_excluded": "No",
-        "score": 9,
-        "status": "posted",
-        "tweet": "\ud83c\udde7\ud83c\uddfc FORECAST Southwest Botswana: Flash flood warning issued as heavy rains threaten lives, infrastructure and safety across the region. (Travel And Tour World)",
-        "type": "news",
-        "tweet_id": "2050599855026757789",
-        "geo": {
-            "country": "Botswana",
-            "name": "Southwest Botswana",
-            "latitude": -25.5,
-            "longitude": 21.5,
-            "confidence": 0.95
-        }
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFByRkcyNjgzWkx0OF9EY2FsQmhoenRQUXNVWEo2Z2FUb0RWXzBfVmk5b0JwdDNLN042Q3l5Q08teS12WUE5SHFCUmh0UzFVcHR3bVJpSXk1cmEtUEN4cXVWbXZsQTNWeFFCdkpmNnpveEt2QkMyMlQ4NFlSNXpEQQ?oc=5",
-        "date": "2026-05-02",
-        "title": "Near-record high temps across South Florida ahead of rain chances to start the week, including Sunday flash flood chances - CBS News",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTFByRkcyNjgzWkx0OF9EY2FsQmhoenRQUXNVWEo2Z2FUb0RWXzBfVmk5b0JwdDNLN042Q3l5Q08teS12WUE5SHFCUmh0UzFVcHR3bVJpSXk1cmEtUEN4cXVWbXZsQTNWeFFCdkpmNnpveEt2QkMyMlQ4NFlSNXpEQQ?oc=5\" target=\"_blank\">Near-record high temps across South Florida ahead of rain chances to start the week, including Sunday flash flood chances</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CBS News</font>",
-        "similarity_excluded": "No",
-        "score": 7,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQeVlxVG90VUZ1bW9IMlRMVjRQOURJdE1qaFF1NTVNWXdueTlEckR6SDhHUHVneVZzcC10MVdnQlZwSnNQNjBwa2FsS3lVb0d2bDF5X0Nobk9BblNQQTlEYW5WZUVUZnlZVXpsd0dvTUhxZk1QZWVEQmtmbThfbEZyZFBiSFI1aS1CaFlSOF9IMjd2Smh1OFRLNmFKcVlEOFg3T1E0ak9xM2FqRlhvcUNoWWhwZWRsZG4ydS1jWmFQNllDaEtId0VWRkdrc2xUb29CYWdtdzZ1cGgxYUg0Wk5XSVg4UERSMDdHbkhNeG9laG1XMGJrU1N0V0RwWmY2QQ?oc=5",
-        "date": "2026-05-02",
-        "title": "Heavy Rains Flood San Antonio as Storms Sweep Central Texas Trigger Highway Chaos, Flash Flood Risk and Travel Disruption - Travel And Tour World",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_gFBVV95cUxQeVlxVG90VUZ1bW9IMlRMVjRQOURJdE1qaFF1NTVNWXdueTlEckR6SDhHUHVneVZzcC10MVdnQlZwSnNQNjBwa2FsS3lVb0d2bDF5X0Nobk9BblNQQTlEYW5WZUVUZnlZVXpsd0dvTUhxZk1QZWVEQmtmbThfbEZyZFBiSFI1aS1CaFlSOF9IMjd2Smh1OFRLNmFKcVlEOFg3T1E0ak9xM2FqRlhvcUNoWWhwZWRsZG4ydS1jWmFQNllDaEtId0VWRkdrc2xUb29CYWdtdzZ1cGgxYUg0Wk5XSVg4UERSMDdHbkhNeG9laG1XMGJrU1N0V0RwWmY2QQ?oc=5\" target=\"_blank\">Heavy Rains Flood San Antonio as Storms Sweep Central Texas Trigger Highway Chaos, Flash Flood Risk and Travel Disruption</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Travel And Tour World</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNTGdRcHQ1Mk5xdGVyNjlLMFc3NnlsRjQ1YmNGT1RxOGx6RjZqaVYyenJTOG83R0d6YXk4eFZVNm5KcDIzR1VlLUhFNzFrc09BZmVLZFgxMHZvTk90V01WZmFXVzVsUTVlYkQ3NlhTUFJpUFpSSU8xQ0doN1VlRHhrMl8yc21RQnpkeFF2c1VkN3Nqam9QX3RHT3A3U0NIYWoxcG1xd0NkR2xkcmYtNUdfYmNSNmx2U05pZksxd3lkMFJ5Wlk?oc=5",
-        "date": "2026-05-02",
-        "title": "Deadly flash flooding in Texas - MSN",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxNTGdRcHQ1Mk5xdGVyNjlLMFc3NnlsRjQ1YmNGT1RxOGx6RjZqaVYyenJTOG83R0d6YXk4eFZVNm5KcDIzR1VlLUhFNzFrc09BZmVLZFgxMHZvTk90V01WZmFXVzVsUTVlYkQ3NlhTUFJpUFpSSU8xQ0doN1VlRHhrMl8yc21RQnpkeFF2c1VkN3Nqam9QX3RHT3A3U0NIYWoxcG1xd0NkR2xkcmYtNUdfYmNSNmx2U05pZksxd3lkMFJ5Wlk?oc=5\" target=\"_blank\">Deadly flash flooding in Texas</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOdHpTYUtFTmhMM2ZtanBFc21WeTl1Qll1ZjMycnpxUEZwQ0ZCY1pWM0N2VnA5Y0kzY2RVT2wyeUpHUUFFOFMtNHpOaEJJeUQ5MnhvMEZyV1lvY2VEMzJhU3FBcTRsT1dXRjdMWUM1YWJWVGgyd1Z5Zks0S3p0WTVHdU9ta1hPaTdjY251dGZGTXJ0UlUzeWdJbkJ5aTlJSGlySENHeUkwU2hJb09pbzBwZ2RsejZ6dTJZRjIwMnNUMmh1V1ZycnI0WGFqT2RaTWg0aEVfM3FPLVlrZw?oc=5",
-        "date": "2026-05-02",
-        "title": "Indiana government, sports leaders kick off Indy 500 celebrations - WTHI-TV",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxOdHpTYUtFTmhMM2ZtanBFc21WeTl1Qll1ZjMycnpxUEZwQ0ZCY1pWM0N2VnA5Y0kzY2RVT2wyeUpHUUFFOFMtNHpOaEJJeUQ5MnhvMEZyV1lvY2VEMzJhU3FBcTRsT1dXRjdMWUM1YWJWVGgyd1Z5Zks0S3p0WTVHdU9ta1hPaTdjY251dGZGTXJ0UlUzeWdJbkJ5aTlJSGlySENHeUkwU2hJb09pbzBwZ2RsejZ6dTJZRjIwMnNUMmh1V1ZycnI0WGFqT2RaTWg0aEVfM3FPLVlrZw?oc=5\" target=\"_blank\">Indiana government, sports leaders kick off Indy 500 celebrations</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WTHI-TV</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
         "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQWU56dk5OV3ZwMmtKVzFKYlc5bEN5Z3c0M0FQRDVrQXZwQkRoVWc1UnZ5Zm4wak5YZFoxeUh4Nmt1UXJjSVVpWHU3OG9fODAxd2ZLUDNDaVVHejNoUlQ2SzEtVi02RnRieFdpMUZmY0VrVGJqZEZ5TmhvMVQ2allIZW1KZHpLNDVuYURsX01uZWtKWlBvYXhFNXVvcHp4eEhjQ2U4VVdzZjlTcXNpaExZME5EUkhxR3pQZ2NoeUJXOWpqYVBoT3Z6eEtmeUI2cEVEdUdBUw?oc=5",
         "date": "2026-05-03",
         "title": "Cheboygan and Emmet counties under a flood warning until Thursday evening caused by rain - MLive.com",
@@ -9895,6 +9712,86 @@
         "date": "2026-05-31",
         "title": "Landslide damages Grand Falls store; no injuries reported - CBC",
         "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPTExUZDFmNGZQY2FRaDltdnVkOVF4aGQyb0I5emtfN0NXY0ZkdnJtR2VKQnlqaHNXcUs0WkVBMkcyVkVQV1UzWlpuamNUcWVHdlg1ekdRNVlNejloSzJQQ1lfZHUwSy1RcU9ia1dEcDhzN1MtZ3JsYXZ2ZWM2aXg2dzFiZm1TUjdCMmxlaXBPS21MUQ?oc=5\" target=\"_blank\">Landslide damages Grand Falls store; no injuries reported</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CBC</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNOExiTnVOZWpqdGhhbE9DMXJNanJjRnFTTjM0V0JYX0NkOVJVQzJxcVY1YkN1bU1aUDVTMF90NWItZk91ZUxxRXZNSzhISEx4MXVEV29HaHY1dmNrYVVoaklJNjZONndxZHJLdGRFZnE0T2lCNHZBUzdvNTNGbmpMckxIR3hWQQ?oc=5",
+        "date": "2026-06-01",
+        "title": "Flash Flood Warning issued for the western metro - WDSU",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxNOExiTnVOZWpqdGhhbE9DMXJNanJjRnFTTjM0V0JYX0NkOVJVQzJxcVY1YkN1bU1aUDVTMF90NWItZk91ZUxxRXZNSzhISEx4MXVEV29HaHY1dmNrYVVoaklJNjZONndxZHJLdGRFZnE0T2lCNHZBUzdvNTNGbmpMckxIR3hWQQ?oc=5\" target=\"_blank\">Flash Flood Warning issued for the western metro</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WDSU</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQempUd05lSUtlSG1LNHRaTVc0Sy1RalkwamJFeS1ZYlIyT0ZHc3BlRUxGQkU5eTdrUU11ODNoTVFqNFE2S1Uyc0NTVVB5TXN2TUJER2htQW5RWFF0azdxeUJ4ZmtPV3lqUmN4WDR1R3ZvQkZLYlhPYU1FMWtPTmY5TWFWVGlYdFoyQW83b2diMGlxM0nSAZgBQVVfeXFMUGJPWFZEdE56dFIxSXlHTWJZWThmM0RxVDVMOXpsSVJ6ZUxodzV1Zkd6YmxMUmlxbHZqQ0ZuVGt6LUlmbGdGMnpBVVRveVN6cDZqNnNxLTlVSTJVMlNBY1JXWWNuRzgwSmNFaVZOZktSYzdnZnVGYlV2bl9sV0paRld3dXItbUJxdlJobFotZXR3b2dWb2UyM3E?oc=5",
+        "date": "2026-06-01",
+        "title": "Flood Advisory for Jefferson & St. Charles Parishes on Sunday - WGNO",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQempUd05lSUtlSG1LNHRaTVc0Sy1RalkwamJFeS1ZYlIyT0ZHc3BlRUxGQkU5eTdrUU11ODNoTVFqNFE2S1Uyc0NTVVB5TXN2TUJER2htQW5RWFF0azdxeUJ4ZmtPV3lqUmN4WDR1R3ZvQkZLYlhPYU1FMWtPTmY5TWFWVGlYdFoyQW83b2diMGlxM0nSAZgBQVVfeXFMUGJPWFZEdE56dFIxSXlHTWJZWThmM0RxVDVMOXpsSVJ6ZUxodzV1Zkd6YmxMUmlxbHZqQ0ZuVGt6LUlmbGdGMnpBVVRveVN6cDZqNnNxLTlVSTJVMlNBY1JXWWNuRzgwSmNFaVZOZktSYzdnZnVGYlV2bl9sV0paRld3dXItbUJxdlJobFotZXR3b2dWb2UyM3E?oc=5\" target=\"_blank\">Flood Advisory for Jefferson & St. Charles Parishes on Sunday</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WGNO</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQTNnWEMweTFGallZdDg0aHF6RmFPbjJNNG01RzAzNUVkVGpPMkFId2ZDZnFidzlRUVlyVG5WQ1JmVVdTbllLNHVuSENUd0NsTkVVWURnampVU2dPbkdmdG5vemJDdkZKZmRXbDFHS1hkS1lxWTlFazJpYUQzUUJiU0oxNEdMTlJGQXNCLW1udVRKaUtMNnZ0YnFCTnNVa3F4cjN3NmlkUjdNUQ?oc=5",
+        "date": "2026-06-01",
+        "title": "Rainfall expected to continue through Tuesday; brief break midweek - NBC Montana",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQTNnWEMweTFGallZdDg0aHF6RmFPbjJNNG01RzAzNUVkVGpPMkFId2ZDZnFidzlRUVlyVG5WQ1JmVVdTbllLNHVuSENUd0NsTkVVWURnampVU2dPbkdmdG5vemJDdkZKZmRXbDFHS1hkS1lxWTlFazJpYUQzUUJiU0oxNEdMTlJGQXNCLW1udVRKaUtMNnZ0YnFCTnNVa3F4cjN3NmlkUjdNUQ?oc=5\" target=\"_blank\">Rainfall expected to continue through Tuesday; brief break midweek</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NBC Montana</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNLU9NTXcwVTZrb0puaHhXVUlFbTJfeDdrVlB2QUgtSThTYXdEUU5IZlpGYVZIY1V4NkZOcWxsNG1ReTJFcHNvckF5SlhvU0VqbzE4NFdhWFZQeVZ3elU5QlloeUFQX2hMOHUwaHJjY3JnYVY0M3dfOEZTT2NhcTJlU3RLalFBMXplaGFpTmFaR0RWQXR4ZXJZQnZyQWN5N3JDa05vd2NhUmVDSVNiS1hEWEw0VkZIalZYNmtWRFdPdGnSAcYBQVVfeXFMTzVYMTVpXzdwMDZaSmRTQVB0NGV1bG9LMWZrdUJ2NE91WFdCMnZIZEJwbHpONU9FQ3NVckpiOTNSZ2xORnRSZGx4LVBucjMzYVBQYUkwbzJyZy1ENWhqRmJSUjhnUjZ5VmpidDJWdWdRN1AwZWxBREhoUEZNQ29QSXhHV2R1Q0hNcjJmOTFXM0JhRjEzc2NhYVdRSnF3WkhCZEVPTGN0RHVZMlpuZ1FKeDRoWkkyQ2tIVThNMVh4MkdlVXZUYk93?oc=5",
+        "date": "2026-06-01",
+        "title": "Knoxville Weather: Flooding possible Sunday evening with strong storm potential Monday - WATE 6 On Your Side",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNLU9NTXcwVTZrb0puaHhXVUlFbTJfeDdrVlB2QUgtSThTYXdEUU5IZlpGYVZIY1V4NkZOcWxsNG1ReTJFcHNvckF5SlhvU0VqbzE4NFdhWFZQeVZ3elU5QlloeUFQX2hMOHUwaHJjY3JnYVY0M3dfOEZTT2NhcTJlU3RLalFBMXplaGFpTmFaR0RWQXR4ZXJZQnZyQWN5N3JDa05vd2NhUmVDSVNiS1hEWEw0VkZIalZYNmtWRFdPdGnSAcYBQVVfeXFMTzVYMTVpXzdwMDZaSmRTQVB0NGV1bG9LMWZrdUJ2NE91WFdCMnZIZEJwbHpONU9FQ3NVckpiOTNSZ2xORnRSZGx4LVBucjMzYVBQYUkwbzJyZy1ENWhqRmJSUjhnUjZ5VmpidDJWdWdRN1AwZWxBREhoUEZNQ29QSXhHV2R1Q0hNcjJmOTFXM0JhRjEzc2NhYVdRSnF3WkhCZEVPTGN0RHVZMlpuZ1FKeDRoWkkyQ2tIVThNMVh4MkdlVXZUYk93?oc=5\" target=\"_blank\">Knoxville Weather: Flooding possible Sunday evening with strong storm potential Monday</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WATE 6 On Your Side</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPSklWMG9HRVQ2aGNvWGJvLXFTM3dsUmZmY2M5SHhOTkRVY3Q5RWVWR25UWjExbHBSWmQ0by1vNXZMSUdwVFRua053ZDdJWGFrenRocFRmNXVjajZJbnRyd2QxcEw0NTc2UUN4NERpb21rLTZzMi1fVEphdDctYURBWXpRQ2x3dmdVSW5BODkxejliQm5FQzVKUmZzQWhveGRrMEZYSU9TdG5BMGdaWGFHYXJMQmdHV080SHhTSE9IXzRRSzVCOHl6WmZiV2pmRzZRLVB0RlhQZGdBTXB3WWtaSUlrSEZveHV5ai16MlFn?oc=5",
+        "date": "2026-06-01",
+        "title": "Flood rescue sparks lasting friendship after dramatic Atlanta flash flooding - 11Alive.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7gFBVV95cUxPSklWMG9HRVQ2aGNvWGJvLXFTM3dsUmZmY2M5SHhOTkRVY3Q5RWVWR25UWjExbHBSWmQ0by1vNXZMSUdwVFRua053ZDdJWGFrenRocFRmNXVjajZJbnRyd2QxcEw0NTc2UUN4NERpb21rLTZzMi1fVEphdDctYURBWXpRQ2x3dmdVSW5BODkxejliQm5FQzVKUmZzQWhveGRrMEZYSU9TdG5BMGdaWGFHYXJMQmdHV080SHhTSE9IXzRRSzVCOHl6WmZiV2pmRzZRLVB0RlhQZGdBTXB3WWtaSUlrSEZveHV5ai16MlFn?oc=5\" target=\"_blank\">Flood rescue sparks lasting friendship after dramatic Atlanta flash flooding</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">11Alive.com</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOcmxweWRkQk9FQXJfWklmYWlqTVo0M3lXYmxGVlV6YWlWbEkyUE5XQ3ViTHlLMFlHVEsxMklTc1U5V05NOVpveFNjXzZPeE1GQmdQXzVxWVJZOWpMMUZWLUNoNXctY1BzbW9VOTRNV0x5aDhNYVdXckM1dlZSb2l0RkxROUd5c3hfbWk3U0xPeW5ZV1FhM1NGTHh5U1Z0RnFTMFRIQWNNWXVLemhJNi1LQkNUd1o?oc=5",
+        "date": "2026-06-01",
+        "title": "LIVE: Flash Flooding Shuts Down North Escambia Roads; West Bogia Road Collapses - NorthEscambia.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxOcmxweWRkQk9FQXJfWklmYWlqTVo0M3lXYmxGVlV6YWlWbEkyUE5XQ3ViTHlLMFlHVEsxMklTc1U5V05NOVpveFNjXzZPeE1GQmdQXzVxWVJZOWpMMUZWLUNoNXctY1BzbW9VOTRNV0x5aDhNYVdXckM1dlZSb2l0RkxROUd5c3hfbWk3U0xPeW5ZV1FhM1NGTHh5U1Z0RnFTMFRIQWNNWXVLemhJNi1LQkNUd1o?oc=5\" target=\"_blank\">LIVE: Flash Flooding Shuts Down North Escambia Roads; West Bogia Road Collapses</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NorthEscambia.com</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNTVVnbXR0cjk4cmlURmhKVTZtZG9Xd0ZNYUZmRUVtUGpOdGpJSEhLR2ZheFBzWHBxODF1WkY1a3BONGpHY2MycFJNMXJDalB0WVBMYjNXVy1HREotV09xZWdiWHZkWjF6dnZESXBITGt2S2otRFFRWmJUc2pXMFgwdFdCRlVkSjBUeFVyU2RrMUw3d2RQb1N2eDliY2QwWmJiSDFNbG10UFpkRXc3TEJTMkp0YzAxU0pzLU91Y3B3MEZzSjhIaEpVdmxIX0J3aEs4Rmd4a2hUTQ?oc=5",
+        "date": "2026-06-01",
+        "title": "BAGYO UPDATE #DomengPH 5 a.m., 1 June 2026 Typhoon Domeng will exit the PAR today. At 4 a.m., it was located 655 km east northeast of Itbayat, Batanes. It packs winds of 130 kph with gusts up to 160 kph and is moving north northwestward at 15 kph. D - facebook.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxNTVVnbXR0cjk4cmlURmhKVTZtZG9Xd0ZNYUZmRUVtUGpOdGpJSEhLR2ZheFBzWHBxODF1WkY1a3BONGpHY2MycFJNMXJDalB0WVBMYjNXVy1HREotV09xZWdiWHZkWjF6dnZESXBITGt2S2otRFFRWmJUc2pXMFgwdFdCRlVkSjBUeFVyU2RrMUw3d2RQb1N2eDliY2QwWmJiSDFNbG10UFpkRXc3TEJTMkp0YzAxU0pzLU91Y3B3MEZzSjhIaEpVdmxIX0J3aEs4Rmd4a2hUTQ?oc=5\" target=\"_blank\">BAGYO UPDATE #DomengPH 5 a.m., 1 June 2026 Typhoon Domeng will exit the PAR today. At 4 a.m., it was located 655 km east northeast of Itbayat, Batanes. It packs winds of 130 kph with gusts up to 160 kph and is moving north northwestward at 15 kph. D</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">facebook.com</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNMEtpSWExZnVFR1JEcHlGMlRhRE4xRldCd0NnQlR6Uzd3YkI0RjBfMHI5c19KQnl6YXdQRVQ2ZFQ3TmQtN0puR2VUczdteEMtaXVOQ0dlU1p6ZUVkWkswOTc3VUhxZDAyTnE0Y09hX0dVWndvMDZRUWZFbU9tUHFFbW9GVU9mRFlGMHlCUUNmWDJhdGlWZ2cyMVV2U2ZLeEVfa0w3eUtHT3dhS1hRZEtQMEJnd2pWNU5DeFBSNEtrd2twbHRUVU5IU3FVLXZmb1oydktGVtIB2gFBVV95cUxQSGxOZU5tbm1LTXFEVWdFZ3hfV05DYWxBUXZwY1dNSkN0UFFQdjJ1bFFkY2E4LWJ2N0pCOEJVVm9QSFV6Ujh2YkY2eGtuUnl3TFYxakZFd2FqUWRvNFNXb0NNZkNZd3lHaHZVYTM3M2xTd0VGd0R1dGx0a181bVdDR2MzdlFETEluN1Nnd1lxTFUxN0hoY0NaN1l5N3Z6aWJsRXVyeWhEdHAwdUVhTXdCU1JzV3g1MnpYMFk0cDNteEZuckJuV3hsbUlwYlB1dXBPdFdwcVA0blNWZw?oc=5",
+        "date": "2026-06-01",
+        "title": "North Bengal flood control room set up before the arrival of southwest monsoon - Telegraph India",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxNMEtpSWExZnVFR1JEcHlGMlRhRE4xRldCd0NnQlR6Uzd3YkI0RjBfMHI5c19KQnl6YXdQRVQ2ZFQ3TmQtN0puR2VUczdteEMtaXVOQ0dlU1p6ZUVkWkswOTc3VUhxZDAyTnE0Y09hX0dVWndvMDZRUWZFbU9tUHFFbW9GVU9mRFlGMHlCUUNmWDJhdGlWZ2cyMVV2U2ZLeEVfa0w3eUtHT3dhS1hRZEtQMEJnd2pWNU5DeFBSNEtrd2twbHRUVU5IU3FVLXZmb1oydktGVtIB2gFBVV95cUxQSGxOZU5tbm1LTXFEVWdFZ3hfV05DYWxBUXZwY1dNSkN0UFFQdjJ1bFFkY2E4LWJ2N0pCOEJVVm9QSFV6Ujh2YkY2eGtuUnl3TFYxakZFd2FqUWRvNFNXb0NNZkNZd3lHaHZVYTM3M2xTd0VGd0R1dGx0a181bVdDR2MzdlFETEluN1Nnd1lxTFUxN0hoY0NaN1l5N3Z6aWJsRXVyeWhEdHAwdUVhTXdCU1JzV3g1MnpYMFk0cDNteEZuckJuV3hsbUlwYlB1dXBPdFdwcVA0blNWZw?oc=5\" target=\"_blank\">North Bengal flood control room set up before the arrival of southwest monsoon</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Telegraph India</font>",
         "similarity_excluded": "No",
         "score": 0,
         "status": "processed",
