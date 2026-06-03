@@ -1,151 +1,5 @@
 [
     {
-        "link": null,
-        "date": "2026-05-04",
-        "status": "posted",
-        "tweet": "By 2050, sea-level rise projections show 570 million people in Asian coastal cities exposed to annual coastal floods, up from 300 million in 2020. In contrast, Europe's coastal cities see exposure rise from 15 million to 45 million. (UN-Habitat 2023 data) \ud83c\udde8\ud83c\uddf3\ud83c\uddea\ud83c\uddfa",
-        "type": "statistical",
-        "category": "coastal cities at risk from sea-level rise and storm surge",
-        "tweet_id": "2051109986529378647"
-    },
-    {
-        "link": null,
-        "date": "2026-05-04",
-        "status": "posted",
-        "tweet": "\ud83c\uddf3\ud83c\uddf1 In 2026, the Netherlands maintains 26,000 km of dikes and levees, protecting 60% of its land area and 17 million residents from flood risks.",
-        "type": "infrastructure",
-        "tweet_id": "2051212529058091237"
-    },
-    {
-        "link": null,
-        "date": "2026-05-04",
-        "status": "posted",
-        "tweet": "Cities with highest projected extreme rainfall impacts by 2026 (based on 2020-25 trends):\n\n\ud83c\uddfa\ud83c\uddf8 Miami: 2.5M exposed to annual storm surge flooding, up 40%.\n\n\ud83c\udde8\ud83c\uddf3 Shanghai: 15M at risk from flash floods, losses >$10B/yr.\n\n\ud83c\uddee\ud83c\uddf3 Mumbai: 12M vulnerable to extreme rain events, 60% rise.\n\n\ud83c\udde7\ud83c\uddf7",
-        "type": "statistical",
-        "category": "extreme rainfall trends in major cities",
-        "tweet_id": "2051253257469669783"
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOQks0bGFqLXNPYnNEdXJnYjNqeFBtXy1wSDROMzQ0UnRIUHdILS1aZ2FwU1A0dGFCVXBZY0R4WHZQOHl4NUR5RFp1SGFnaFFodHR3RXdQMDZhMERKZmtyVzVXN0dFX2dOeTRXcnVLWEFaTzhlN1lwRHcyUlNhYWc2R0VyTVFRaWltaXo0cHpYUlhSQUNuRTNHaVlyTHZFSXZCZktNUTYxZ1lQR1Bpcy1NY055c04xdmM4QlRrWTZDVkJVQndzYk1vcnNvT1VTUkxBdnpMTkFnd1h1YnpFWHRRTnVn?oc=5",
-        "date": "2026-05-04",
-        "title": "Cheboygan and Emmet counties placed under a flood warning until Thursday evening triggered by rain - MLive.com",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxOQks0bGFqLXNPYnNEdXJnYjNqeFBtXy1wSDROMzQ0UnRIUHdILS1aZ2FwU1A0dGFCVXBZY0R4WHZQOHl4NUR5RFp1SGFnaFFodHR3RXdQMDZhMERKZmtyVzVXN0dFX2dOeTRXcnVLWEFaTzhlN1lwRHcyUlNhYWc2R0VyTVFRaWltaXo0cHpYUlhSQUNuRTNHaVlyTHZFSXZCZktNUTYxZ1lQR1Bpcy1NY055c04xdmM4QlRrWTZDVkJVQndzYk1vcnNvT1VTUkxBdnpMTkFnd1h1YnpFWHRRTnVn?oc=5\" target=\"_blank\">Cheboygan and Emmet counties placed under a flood warning until Thursday evening triggered by rain</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MLive.com</font>",
-        "similarity_excluded": "No",
-        "score": 8,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTnhVU3NQTnZSdE82ZUx5dTV0aUVUY19ZdVBzcm5jU0JFWXFkT1FGbFY5QVB1SkNrUThwVTFseUhaakFYZmVJOWxxTVRTSFFIWmVTcnRvWmkycnBFQXRRMXVJdERKWGZLQkJBQXZ2alRjRjFIWTczbnJ3N0JKYlhkTWJsWU5ob19rcjJ5V19ORXpadW91NE1yOUxKdEF3Znp3aWJfRVhiaGczWW9nTkU2emR4cXlOQUJsWHVFc0tMcw?oc=5",
-        "date": "2026-05-04",
-        "title": "From the Darkroom shows couple rescued amid 1981 Springfield flood - Springfield News-Leader",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQTnhVU3NQTnZSdE82ZUx5dTV0aUVUY19ZdVBzcm5jU0JFWXFkT1FGbFY5QVB1SkNrUThwVTFseUhaakFYZmVJOWxxTVRTSFFIWmVTcnRvWmkycnBFQXRRMXVJdERKWGZLQkJBQXZ2alRjRjFIWTczbnJ3N0JKYlhkTWJsWU5ob19rcjJ5V19ORXpadW91NE1yOUxKdEF3Znp3aWJfRVhiaGczWW9nTkU2emR4cXlOQUJsWHVFc0tMcw?oc=5\" target=\"_blank\">From the Darkroom shows couple rescued amid 1981 Springfield flood</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Springfield News-Leader</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQ2U0U1lCbHZvWHRLRkVNaktWYnJvWWpBcHA4R2l4bFpibzdMRHNVc0R0Y0xSbmVOV2xwNklIYmFOZWs0eXBhUV9hRXdSQ0Jqd2VpelVjTTZ4VmlYWndkUC10N3hROHd4d1lLaHVQYmV1b3BaaVEzMG1YMU5EN1ZIUjJOc29sa2VZTUdKRGQ1b2tjYzZmWVdhLW9zUzZuV1FnQ3dwdw?oc=5",
-        "date": "2026-05-04",
-        "title": "Yemen: Agrometeorological Early Warning Bulletin (01 - 10 May 2026) [EN/AR] - ReliefWeb",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQQ2U0U1lCbHZvWHRLRkVNaktWYnJvWWpBcHA4R2l4bFpibzdMRHNVc0R0Y0xSbmVOV2xwNklIYmFOZWs0eXBhUV9hRXdSQ0Jqd2VpelVjTTZ4VmlYWndkUC10N3hROHd4d1lLaHVQYmV1b3BaaVEzMG1YMU5EN1ZIUjJOc29sa2VZTUdKRGQ1b2tjYzZmWVdhLW9zUzZuV1FnQ3dwdw?oc=5\" target=\"_blank\">Yemen: Agrometeorological Early Warning Bulletin (01 - 10 May 2026) [EN/AR]</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ReliefWeb</font>",
-        "similarity_excluded": "No",
-        "score": 3,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRkFIYS1zZTlwOUw4a1QzZzVXQXEyNHE4dnoxc3dpbDE5MURkTFRxbkd6V0ZJVklaOHVrM0tzaTl2eVE3ZlJYdnd4WmdOM1Fqa3pLWXByM0R3SGJ0cmxjZ0daTnZzUkxGYkFjdGt6RHRrSVRZQ1FTZnhfV1F1R2xGWG4tcS1xR2FiQWpEQnRiWmlma0Rha291ekVJRFo2RjhRWlFIbGlGQ3BHZkk?oc=5",
-        "date": "2026-05-04",
-        "title": "NDMA warns of thunderstorms, hail and flash flood risk across Pakistan - Aaj English TV",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRkFIYS1zZTlwOUw4a1QzZzVXQXEyNHE4dnoxc3dpbDE5MURkTFRxbkd6V0ZJVklaOHVrM0tzaTl2eVE3ZlJYdnd4WmdOM1Fqa3pLWXByM0R3SGJ0cmxjZ0daTnZzUkxGYkFjdGt6RHRrSVRZQ1FTZnhfV1F1R2xGWG4tcS1xR2FiQWpEQnRiWmlma0Rha291ekVJRFo2RjhRWlFIbGlGQ3BHZkk?oc=5\" target=\"_blank\">NDMA warns of thunderstorms, hail and flash flood risk across Pakistan</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Aaj English TV</font>",
-        "similarity_excluded": "No",
-        "score": 8,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE81ZTJydzc3ZVlhcjZNTmlaS0swNnNJSUpyYU1yRWdhejVHRG9qX2xDc3Y4M1BpU0U3empvVy15LXhuREFoUWhYUnZmS1JmQ3V5QnRVM0dEZ1I3Z3liT2IyTG13eFFMbkN1Qmc?oc=5",
-        "date": "2026-05-04",
-        "title": "2026 Atlantic hurricane season guide - WMNF 88.5 FM",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE81ZTJydzc3ZVlhcjZNTmlaS0swNnNJSUpyYU1yRWdhejVHRG9qX2xDc3Y4M1BpU0U3empvVy15LXhuREFoUWhYUnZmS1JmQ3V5QnRVM0dEZ1I3Z3liT2IyTG13eFFMbkN1Qmc?oc=5\" target=\"_blank\">2026 Atlantic hurricane season guide</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WMNF 88.5 FM</font>",
-        "similarity_excluded": "No",
-        "score": 3,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxObWdwMTZmZkptTi1RUS15R21TN0JwOFlESnVFX2hiYTlfbm1WZ3FCRWxKVHRRZ0VUekQ3cmZYYkZoUmd1TFlvT25QcW5PalBNZXN4OTE2YVNYRFNOMEs1ZnlhWjgtZE1DX3JQRFExakhWUUVFOUhlOFNCZHZhS0FSYURYWEZ0NTBQcEVGM3NsUWVYb0QyX1l5OU9qRl9WVWZsMUxHdlRR?oc=5",
-        "date": "2026-05-04",
-        "title": "Floods Hit 55 Neighborhood Units, Three Roads in West and South Jakarta - Tempo.co English",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxObWdwMTZmZkptTi1RUS15R21TN0JwOFlESnVFX2hiYTlfbm1WZ3FCRWxKVHRRZ0VUekQ3cmZYYkZoUmd1TFlvT25QcW5PalBNZXN4OTE2YVNYRFNOMEs1ZnlhWjgtZE1DX3JQRFExakhWUUVFOUhlOFNCZHZhS0FSYURYWEZ0NTBQcEVGM3NsUWVYb0QyX1l5OU9qRl9WVWZsMUxHdlRR?oc=5\" target=\"_blank\">Floods Hit 55 Neighborhood Units, Three Roads in West and South Jakarta</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tempo.co English</font>",
-        "similarity_excluded": "No",
-        "score": 6,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVVo3QUdVWjlwTm95S2Z0TUJwdGtWT0FKc3JnVkhLOTlqUF9sSF9LMVkxaDBiSUJiZGpqRmFHQVdDc05yMUhLclp2VmdCSnZfQWhuWjhlWUE5WWo4NzdWdl8wNElDTUlKSklDdGl2R2IzTzZWdDdGS1hpSGNQMkxvZzlOM0FlMmw0MlotUVdJcUczZ1lOQVZGMTJqaVF4cFRoQk9z?oc=5",
-        "date": "2026-05-04",
-        "title": "Rice and UT Arlington partner to build Hill Country flood warning system - Rice University",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQVVo3QUdVWjlwTm95S2Z0TUJwdGtWT0FKc3JnVkhLOTlqUF9sSF9LMVkxaDBiSUJiZGpqRmFHQVdDc05yMUhLclp2VmdCSnZfQWhuWjhlWUE5WWo4NzdWdl8wNElDTUlKSklDdGl2R2IzTzZWdDdGS1hpSGNQMkxvZzlOM0FlMmw0MlotUVdJcUczZ1lOQVZGMTJqaVF4cFRoQk9z?oc=5\" target=\"_blank\">Rice and UT Arlington partner to build Hill Country flood warning system</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Rice University</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1hdk9tQy1EeTdQRjQ2akswWlNPbThRZTFWTGhaMS1HdkpyeWhEcXcyTE04bFg2cXdxT0ltZlNpNW9qRnhzX2NKclVfUTd5dDVFTXdEb21lYVNHc1BYc0hOQW5qdUtXbnM0QllmVVJ3emdmeEpVWVRrem9R?oc=5",
-        "date": "2026-05-04",
-        "title": "Flood warning for Chelan County until further notice, says the NWS - Tri-City Herald",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE1hdk9tQy1EeTdQRjQ2akswWlNPbThRZTFWTGhaMS1HdkpyeWhEcXcyTE04bFg2cXdxT0ltZlNpNW9qRnhzX2NKclVfUTd5dDVFTXdEb21lYVNHc1BYc0hOQW5qdUtXbnM0QllmVVJ3emdmeEpVWVRrem9R?oc=5\" target=\"_blank\">Flood warning for Chelan County until further notice, says the NWS</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tri-City Herald</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNRWtIenk4M09JbU9JQjlFcDhEM0c4QXQ3dWMyc0Z6VFRIc0g1aTJ1Z0ZOLVU3ZWVpZFlmNThfNDMwMzUxRFk5T2plMHMyeVlsQTNVUGNuekpKcXhBUWpjVkdGbFo0NlF1S1BLb2FMMkZwaU9tVk9HN21RQzJxYjF1OTBpZzZRU25oZWQ5cnJvM1ZYelp2U2FCd3A2bVlKQ3NDRkJoTTBqT0JIb0twd3RtLVpmdEphbzh0ZUZRcGg4M2pUUzNSczVIUGtPN3M4YTJKMmc?oc=5",
-        "date": "2026-05-04",
-        "title": "Flash flooding fills apartment with knee-deep water in Kansas - AccuWeather",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxNRWtIenk4M09JbU9JQjlFcDhEM0c4QXQ3dWMyc0Z6VFRIc0g1aTJ1Z0ZOLVU3ZWVpZFlmNThfNDMwMzUxRFk5T2plMHMyeVlsQTNVUGNuekpKcXhBUWpjVkdGbFo0NlF1S1BLb2FMMkZwaU9tVk9HN21RQzJxYjF1OTBpZzZRU25oZWQ5cnJvM1ZYelp2U2FCd3A2bVlKQ3NDRkJoTTBqT0JIb0twd3RtLVpmdEphbzh0ZUZRcGg4M2pUUzNSczVIUGtPN3M4YTJKMmc?oc=5\" target=\"_blank\">Flash flooding fills apartment with knee-deep water in Kansas</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AccuWeather</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVm9ueUQ2QlRTVDlld040a255WjFoa3A0bFBWbTQxMFNkU2d3RG1aVlJHbGtfS1RqWVdUQzVEVnNLeDlmZWNoY05QVU9Cb3lGRUpGZHMydTdEbVZNVXBkczlHamRsOTZ3NklvWEJlMVBFUnA5YmdKTTBjWlBXNmR5YWRKN2x3R1dEM1RNdGU4M19IUkw1QmVaaFBKd1dwWE9uNWV2X0Z5NE7SAa4BQVVfeXFMUGNDbnhqNk5EcjBGb1RKNTZuWWhqNEVlREhDWl9BbXRIRkY2OXVzS3g0UVpHbXNrc1hGWFFwOWxvNjZoY3dYaEFQZFhZRG1SYTdJNDV3LVJlUndubkZIZjVIN1V6N1BVczBhZE9mSUFMcmxGYndkRDFEOFNLWTZmRnFwR2ZsTkw2Z1ZFeGZRcjhTR19vbzNnWFpVVjBXTVFnN01GOThIdHJ6c0dfcEVB?oc=5",
-        "date": "2026-05-04",
-        "title": "VMC steps up pre-monsoon work - The Times of India",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVm9ueUQ2QlRTVDlld040a255WjFoa3A0bFBWbTQxMFNkU2d3RG1aVlJHbGtfS1RqWVdUQzVEVnNLeDlmZWNoY05QVU9Cb3lGRUpGZHMydTdEbVZNVXBkczlHamRsOTZ3NklvWEJlMVBFUnA5YmdKTTBjWlBXNmR5YWRKN2x3R1dEM1RNdGU4M19IUkw1QmVaaFBKd1dwWE9uNWV2X0Z5NE7SAa4BQVVfeXFMUGNDbnhqNk5EcjBGb1RKNTZuWWhqNEVlREhDWl9BbXRIRkY2OXVzS3g0UVpHbXNrc1hGWFFwOWxvNjZoY3dYaEFQZFhZRG1SYTdJNDV3LVJlUndubkZIZjVIN1V6N1BVczBhZE9mSUFMcmxGYndkRDFEOFNLWTZmRnFwR2ZsTkw2Z1ZFeGZRcjhTR19vbzNnWFpVVjBXTVFnN01GOThIdHJ6c0dfcEVB?oc=5\" target=\"_blank\">VMC steps up pre-monsoon work</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of India</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1kZDJQWW9hc3BwS3FYcnR0SG93NVFldEpDZl9KZWo4SXdBUVQ2VEt5MkRwUUpCdi1zTEdDWW44YzhURnBqUnhmZ1NkNFIwdlY3Wkk5dkVYenJ3Ry1TbXRrUV9zVVpPc041MmUxLV9iMNIBb0FVX3lxTE9sZHBwNXQtZlU0SEhQQ0xkd3JIMl9LR09BZnVJa2FCMndpUGJkeE9tb1llejF2Y3hmTU1pVFZxS2QxMVlJQTFiMWVxN2ZUT2ZfWDdzdmpibkp1VThMZEhNaWR1endGNVZ0M3FNM3MwQQ?oc=5",
-        "date": "2026-05-04",
-        "title": "UTA will partner with Rice to develop flood warning system for Hill Country - Fort Worth Star-Telegram",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE1kZDJQWW9hc3BwS3FYcnR0SG93NVFldEpDZl9KZWo4SXdBUVQ2VEt5MkRwUUpCdi1zTEdDWW44YzhURnBqUnhmZ1NkNFIwdlY3Wkk5dkVYenJ3Ry1TbXRrUV9zVVpPc041MmUxLV9iMNIBb0FVX3lxTE9sZHBwNXQtZlU0SEhQQ0xkd3JIMl9LR09BZnVJa2FCMndpUGJkeE9tb1llejF2Y3hmTU1pVFZxS2QxMVlJQTFiMWVxN2ZUT2ZfWDdzdmpibkp1VThMZEhNaWR1endGNVZ0M3FNM3MwQQ?oc=5\" target=\"_blank\">UTA will partner with Rice to develop flood warning system for Hill Country</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fort Worth Star-Telegram</font>",
-        "similarity_excluded": "No",
-        "score": 7,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQVUZQcmtMTTVDOE9ubUZfeXlPbUdpSkZLUi1MQ2kyRmhGT2tlSWtiN0JhaU1DR29JR2tuYXFZS05kUXZIN3FxMTdCZHBnSFNKVEVROGs2bWFxOHlFM2Z6Q1FGNGgyVm4ycjJrXzZHYk1aclBrMFJIMC1XZGZfT0F0SE43MGY2Q3U2ampJUUdGa2ZDLU4ySHJRRGgwbE5QTkhTRTlBam1yWXBHQ3JTYTBaVE9vZjhoblpSVl8tbndsM1ZSQzZJNVRwbFhtT1NuU3k1OFZOT1djdnQ3Rnozcy10VXFiYnFvY3M?oc=5",
-        "date": "2026-05-04",
-        "title": "Texas universities partner on real-time Hill Country flood warning system - cbs19.tv",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxQVUZQcmtMTTVDOE9ubUZfeXlPbUdpSkZLUi1MQ2kyRmhGT2tlSWtiN0JhaU1DR29JR2tuYXFZS05kUXZIN3FxMTdCZHBnSFNKVEVROGs2bWFxOHlFM2Z6Q1FGNGgyVm4ycjJrXzZHYk1aclBrMFJIMC1XZGZfT0F0SE43MGY2Q3U2ampJUUdGa2ZDLU4ySHJRRGgwbE5QTkhTRTlBam1yWXBHQ3JTYTBaVE9vZjhoblpSVl8tbndsM1ZSQzZJNVRwbFhtT1NuU3k1OFZOT1djdnQ3Rnozcy10VXFiYnFvY3M?oc=5\" target=\"_blank\">Texas universities partner on real-time Hill Country flood warning system</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">cbs19.tv</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
         "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQTZLWnlvUEExSFAyVzVZdHFObV9EQ29DemZBWXFORF9UR1dmRDIweHRfbnQ1bGlZZkNyc3FMWDQzOG5TMWtYQnlzM0ZvQjZtLVVadHFlUUFJdzdjTzh3aUF0RUxvOWUtQmQ0WlB2T0Z3NF9zaklKUDJWYXhQRXZCUHZ1TEQxS0R5RDBiS3BCd1c1V2stb2RlaG9ZNmFGS3VPUjFORDRHLVg?oc=5",
         "date": "2026-05-05",
         "title": "UI professor awarded $1.2 million to create online flood warning system - The Daily Iowan",
@@ -10124,5 +9978,205 @@
         "tweet": "\ud83c\uddf3\ud83c\uddf1 As of 2026, 3,700 km of primary dikes protect 9 million residents in the Netherlands from sea and river flooding.",
         "type": "infrastructure",
         "tweet_id": "2061946802572558524"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOaW9hM0hPLXd3YW5kZzNzYXFPcm9VTENJY3JIcjJWYkRTR3Myb2prMHJkdnBuVEc2cERmQXV3bGNHVzBqVlFrZ2ZncExVVUR3OThHNU9kMU8zb1paZ0JkNkp6ZXZUSTZIOTk5azEzS1dqcjJCZVJTVXlsOFNzT2N1U3hkU2tVVnFJZ2U3Ym1SYmJreXZjZXpOZmdDUUVoQks5c3FRS0lXdGxkMm0zbUVGczJfVTEtMW9SOXJBaEdBdFhWZ0QtT3c?oc=5",
+        "date": "2026-06-03",
+        "title": "Flash flood warning issued for South Fork and Salt burn scars near Ruidoso - KOB.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxOaW9hM0hPLXd3YW5kZzNzYXFPcm9VTENJY3JIcjJWYkRTR3Myb2prMHJkdnBuVEc2cERmQXV3bGNHVzBqVlFrZ2ZncExVVUR3OThHNU9kMU8zb1paZ0JkNkp6ZXZUSTZIOTk5azEzS1dqcjJCZVJTVXlsOFNzT2N1U3hkU2tVVnFJZ2U3Ym1SYmJreXZjZXpOZmdDUUVoQks5c3FRS0lXdGxkMm0zbUVGczJfVTEtMW9SOXJBaEdBdFhWZ0QtT3c?oc=5\" target=\"_blank\">Flash flood warning issued for South Fork and Salt burn scars near Ruidoso</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KOB.com</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxONzh4Q2x5TzdHaEZ6ZWpMeVhIbURvWU9NUC1aNnpLVVVwZkQzZVBRSlo5Yjd1WUtzTlVTNzNOQi04cHhnYURxcl84aU1BU2pQVzdGZ2FVMF9SdElDOW1kT0NhWVVydUl3R2lYNDBmUWg5X093OWU3VHpaOGlQeFBvZ2t0aENCT2dtcEtya3h2Y0RqLVZKb1Rvckt6YlVqZ9IBowFBVV95cUxOMVI0Z0RVd0NuN1FRU2RHbldCLXZJUWJ2Y0ljT1BTSkYtbjNwSjl2eUpqeDBiRlFGLVhwNS11cnZabVlvd3BvRW1WWm1FVm9MTmV3eXgyQkI4OUZIVHlZQWllcnVUSk04cnc3c1RYOTQ2Q29CWk9NQ2tYbzItME85WV9ZZlVhNHh5Yjl3SzNqMXFXTGlqS1pFQ1dVM0FkUm9YVVNZ?oc=5",
+        "date": "2026-06-03",
+        "title": "Dallas weather: Flash flooding strands vehicles near DFW Airport after heavy rain - FOX 4 News Dallas-Fort Worth",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxONzh4Q2x5TzdHaEZ6ZWpMeVhIbURvWU9NUC1aNnpLVVVwZkQzZVBRSlo5Yjd1WUtzTlVTNzNOQi04cHhnYURxcl84aU1BU2pQVzdGZ2FVMF9SdElDOW1kT0NhWVVydUl3R2lYNDBmUWg5X093OWU3VHpaOGlQeFBvZ2t0aENCT2dtcEtya3h2Y0RqLVZKb1Rvckt6YlVqZ9IBowFBVV95cUxOMVI0Z0RVd0NuN1FRU2RHbldCLXZJUWJ2Y0ljT1BTSkYtbjNwSjl2eUpqeDBiRlFGLVhwNS11cnZabVlvd3BvRW1WWm1FVm9MTmV3eXgyQkI4OUZIVHlZQWllcnVUSk04cnc3c1RYOTQ2Q29CWk9NQ2tYbzItME85WV9ZZlVhNHh5Yjl3SzNqMXFXTGlqS1pFQ1dVM0FkUm9YVVNZ?oc=5\" target=\"_blank\">Dallas weather: Flash flooding strands vehicles near DFW Airport after heavy rain</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FOX 4 News Dallas-Fort Worth</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQV3RYdWgwbTlsbktybktHNzFiSzhvaHJhdndtRjl3RV9Ed2t1b0Z4RmQzRDUtTG5RTjJ0MHpwcVBOOVBBMjRkaW55bWJjOHo5QWFnZlFXcERYTDFJMUtheGcxOWZ2bVh6MmRLSXdFdWZVeEwwSnZBbXFWa2hEZDBVb1Y0amRVeVZOSHc?oc=5",
+        "date": "2026-06-03",
+        "title": "Tropical Storm Jangmi prompts emergency flood warning in Wakayama - The Japan Times",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxQV3RYdWgwbTlsbktybktHNzFiSzhvaHJhdndtRjl3RV9Ed2t1b0Z4RmQzRDUtTG5RTjJ0MHpwcVBOOVBBMjRkaW55bWJjOHo5QWFnZlFXcERYTDFJMUtheGcxOWZ2bVh6MmRLSXdFdWZVeEwwSnZBbXFWa2hEZDBVb1Y0amRVeVZOSHc?oc=5\" target=\"_blank\">Tropical Storm Jangmi prompts emergency flood warning in Wakayama</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Japan Times</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTTUzZ0RNNHNfR05SeFlZcHZqdS1QZE1XZVozb2NveTNSRWN1SGlBa0N2MzItdDdjTk1Kek5SRkx4MHlUcmNTN1Z2RV92OHJSR2pwWU1yUS1QWnZyQnlWN05oMGVhLWM1U29xTjIxSTE0SzNPYkF3WTNWYUJicjVJaXctLU9xd0x6ajViS09n0gGTAUFVX3lxTE94ZFkwd25HRUVjYnZwTDZYWkxLdEkwNW9SblVidXNRWUNwVllwTEJPX0RpRldIYWVZVkQ5U2dsRnVwUE56UWZUTWRUcTB6Snd0eEdpekU1U3RuX2Q1NFFocTR2SmpfTFBCRmtka0FzbkZGcDNXajl6Z1BpWUpaX0E0endnMVhtM0wzZ0g0NlRDcXRkOA?oc=5",
+        "date": "2026-06-03",
+        "title": "Flood advisory issued in Cameron County - ValleyCentral.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPTTUzZ0RNNHNfR05SeFlZcHZqdS1QZE1XZVozb2NveTNSRWN1SGlBa0N2MzItdDdjTk1Kek5SRkx4MHlUcmNTN1Z2RV92OHJSR2pwWU1yUS1QWnZyQnlWN05oMGVhLWM1U29xTjIxSTE0SzNPYkF3WTNWYUJicjVJaXctLU9xd0x6ajViS09n0gGTAUFVX3lxTE94ZFkwd25HRUVjYnZwTDZYWkxLdEkwNW9SblVidXNRWUNwVllwTEJPX0RpRldIYWVZVkQ5U2dsRnVwUE56UWZUTWRUcTB6Snd0eEdpekU1U3RuX2Q1NFFocTR2SmpfTFBCRmtka0FzbkZGcDNXajl6Z1BpWUpaX0E0endnMVhtM0wzZ0g0NlRDcXRkOA?oc=5\" target=\"_blank\">Flood advisory issued in Cameron County</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ValleyCentral.com</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdFJwNnp2QXVkQWEzSlNCeHFGSUwxdFR6cFRnM2plS1k1enRyZlBqd2JTT05QTmRHZXlSXzZfX3NjOVBhYWlnR0RTbnZSSmtBQWJBWUduMG44VEFyZTNYTFI3eW91MnVXRGZoNVJCVGg1dkpPSWc2SjRQTjZFS0xSTklwUloxdVRKaWtlZFlqbUNWeS1XV2VlandRNkViVnJrTl9abTQ5X3JaRWpBQVNDS04yRmN2QQ?oc=5",
+        "date": "2026-06-03",
+        "title": "Daily storm chances stick around - KTEN",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNdFJwNnp2QXVkQWEzSlNCeHFGSUwxdFR6cFRnM2plS1k1enRyZlBqd2JTT05QTmRHZXlSXzZfX3NjOVBhYWlnR0RTbnZSSmtBQWJBWUduMG44VEFyZTNYTFI3eW91MnVXRGZoNVJCVGg1dkpPSWc2SjRQTjZFS0xSTklwUloxdVRKaWtlZFlqbUNWeS1XV2VlandRNkViVnJrTl9abTQ5X3JaRWpBQVNDS04yRmN2QQ?oc=5\" target=\"_blank\">Daily storm chances stick around</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KTEN</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOR2ZDcWZMY3ZJWENkR25sVVdPTVB2QXlYMllKZEt2NFpFb25mcHNWX3NKSktKeHlvelhqY2E3V2FhNm9vX3dyeWc4elcyaTdRcW9tRGtnOXFfeWpFVWYwckwtOE9LUmZfSkdrampORlRVZTdxV19HT0lQUlRRTHBsZkRPQl9oZmNxMTJIWk9HNVZuNjloMUJuSG9oVDVHT2ZuVG1NbXFhcWRoeUxJ?oc=5",
+        "date": "2026-06-03",
+        "title": "Slow-moving thunderstorms may cause flash flooding across central New Mexico - KOB.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxOR2ZDcWZMY3ZJWENkR25sVVdPTVB2QXlYMllKZEt2NFpFb25mcHNWX3NKSktKeHlvelhqY2E3V2FhNm9vX3dyeWc4elcyaTdRcW9tRGtnOXFfeWpFVWYwckwtOE9LUmZfSkdrampORlRVZTdxV19HT0lQUlRRTHBsZkRPQl9oZmNxMTJIWk9HNVZuNjloMUJuSG9oVDVHT2ZuVG1NbXFhcWRoeUxJ?oc=5\" target=\"_blank\">Slow-moving thunderstorms may cause flash flooding across central New Mexico</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KOB.com</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSzh2Qk5qNkVSb19tZW5PVnViUG1rUlFLbGo5NXFFU2lPMURyTFVRM1RCSTBmUjV2Nnl0U2pRcDc3VFF3R2tpV2k0ODNpTEpGaFhTUFlxMDVOQ2FyTVlPWjNKY0JScHBzX092TjNmbWRBSkVhWU5NN3loaFJrSmMyeDlUa1NmMFhSU3MxRmRKWXIwT0RBZ2V1VnM0azNIU2_SAaQBQVVfeXFMUDJXZENhYkpuYzQ4Tkh3a2NjNzZpb1lHWUZQNmpKWkJSaVBPdUo1MWN3ang5VE1BOFdjeWhLSnNlZ1k4ekxwUThleDZhWlJQVlFOc3VGOEVJUWZhZDMxYzVxU3J0LU1JVVE2bU5xTFY5YU9ZZ0xJeUJkUFJPWDdiLWhOYWxDUUtkeGtOM0xaZDJDWDd5NmtMZWpaMHVkOTBzTllxQ0Q?oc=5",
+        "date": "2026-06-03",
+        "title": "Local man gets new home after last year\u2019s devastating flash flood - WTRF",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQSzh2Qk5qNkVSb19tZW5PVnViUG1rUlFLbGo5NXFFU2lPMURyTFVRM1RCSTBmUjV2Nnl0U2pRcDc3VFF3R2tpV2k0ODNpTEpGaFhTUFlxMDVOQ2FyTVlPWjNKY0JScHBzX092TjNmbWRBSkVhWU5NN3loaFJrSmMyeDlUa1NmMFhSU3MxRmRKWXIwT0RBZ2V1VnM0azNIU2_SAaQBQVVfeXFMUDJXZENhYkpuYzQ4Tkh3a2NjNzZpb1lHWUZQNmpKWkJSaVBPdUo1MWN3ang5VE1BOFdjeWhLSnNlZ1k4ekxwUThleDZhWlJQVlFOc3VGOEVJUWZhZDMxYzVxU3J0LU1JVVE2bU5xTFY5YU9ZZ0xJeUJkUFJPWDdiLWhOYWxDUUtkeGtOM0xaZDJDWDd5NmtMZWpaMHVkOTBzTllxQ0Q?oc=5\" target=\"_blank\">Local man gets new home after last year\u2019s devastating flash flood</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WTRF</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1nU2p6X2ZaTzZfQVFhWEd3Q2N2Y21wQVhnbHozMWc4SlJIOUZ5aG1lMUh4d21NY3UzbTZkNmJZY1pHcmdieS1XZ1l0U1FvcGplaHF5MjI2QlJlc3lsaFFpQXNDVndCcHhaa0t2Q2hOUU5nZm9meEE?oc=5",
+        "date": "2026-06-03",
+        "title": "Flash flood strands vehicle! - The Millen News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE1nU2p6X2ZaTzZfQVFhWEd3Q2N2Y21wQVhnbHozMWc4SlJIOUZ5aG1lMUh4d21NY3UzbTZkNmJZY1pHcmdieS1XZ1l0U1FvcGplaHF5MjI2QlJlc3lsaFFpQXNDVndCcHhaa0t2Q2hOUU5nZm9meEE?oc=5\" target=\"_blank\">Flash flood strands vehicle!</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Millen News</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNa01adXdDZ0pQdmdGazF5SVhqRDVZNm50VlpfY016TUltcjRJczJuM2w3SWdsMHlPNkJOaGdaLTNXQTJPdGg2Mi00dFhhSF9mVnZ4NU1ad3JqT18zR0dTZFJWTWZaemVWNEg1cTN2a2cxYVp4QjlFajloMFIwUzF2V0d6RkRHdi1nX000MmI0TDRndXk5c05pMW13SzZ3eklQbkIw?oc=5",
+        "date": "2026-06-03",
+        "title": "Local man gets new home after last year\u2019s devastating flash flood - WTRF",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNa01adXdDZ0pQdmdGazF5SVhqRDVZNm50VlpfY016TUltcjRJczJuM2w3SWdsMHlPNkJOaGdaLTNXQTJPdGg2Mi00dFhhSF9mVnZ4NU1ad3JqT18zR0dTZFJWTWZaemVWNEg1cTN2a2cxYVp4QjlFajloMFIwUzF2V0d6RkRHdi1nX000MmI0TDRndXk5c05pMW13SzZ3eklQbkIw?oc=5\" target=\"_blank\">Local man gets new home after last year\u2019s devastating flash flood</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WTRF</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBzbk1MbHoxZXZfTURteVc1LU1UUklHVkZHVkQ0M1dPcTh6Q1o2N3RJNjFUZjd2bHBVaFZGQ1ZpM1BDUjhDMTRUM0R6cWZkWUEtZWNXbi1HU3JRZw?oc=5",
+        "date": "2026-06-03",
+        "title": "BREAKING NEWS: Highest flood danger warning issued for river in Japan's Wakayama - Japan Wire by Kyodo News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTFBzbk1MbHoxZXZfTURteVc1LU1UUklHVkZHVkQ0M1dPcTh6Q1o2N3RJNjFUZjd2bHBVaFZGQ1ZpM1BDUjhDMTRUM0R6cWZkWUEtZWNXbi1HU3JRZw?oc=5\" target=\"_blank\">BREAKING NEWS: Highest flood danger warning issued for river in Japan's Wakayama</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Japan Wire by Kyodo News</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOaFJGRnFSTG5teV81NV9zMnc2ZlJzUWFWM3dtcTBfNEpuckJGQ1dPai14NjB2d1hlMVkxTFZYUk1LdlV4b2VwaGswU3MxNE5fdmVQS0ZMTnp1QW9oeUhPbWNWVUxZNmtubXNHUGJtUU5ac1BGNXNsVkdvSFczYTJzdDRid0VwV01OZ3V1akJfa3FTSjBEUE9VRFF6U19EN244LXFOU1VWRnA5Zw?oc=5",
+        "date": "2026-06-03",
+        "title": "Trinity Polk - KTEN",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxOaFJGRnFSTG5teV81NV9zMnc2ZlJzUWFWM3dtcTBfNEpuckJGQ1dPai14NjB2d1hlMVkxTFZYUk1LdlV4b2VwaGswU3MxNE5fdmVQS0ZMTnp1QW9oeUhPbWNWVUxZNmtubXNHUGJtUU5ac1BGNXNsVkdvSFczYTJzdDRid0VwV01OZ3V1akJfa3FTSjBEUE9VRFF6U19EN244LXFOU1VWRnA5Zw?oc=5\" target=\"_blank\">Trinity Polk</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KTEN</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMDZ0bnJKNjRFRS1TV1AzTW0zaUZCU3dUWVUtZ013NE9BdVUtRlU0SHpZVEJsRDVZdFg4b1ZGY2xBVUJsZjRHdGZ2R2twOFpLbDJhMXptb0ViUjRGNkVqTllkRVFvRkFleE1rb1VxeHFuQ1d3S0daSXNYeFdpY0VqVXVqVzJ6TUM4dXhHbmFtZmdYVGhPdGFRSzhnWHlvejJuSXdDd0Y3UHpiU2M?oc=5",
+        "date": "2026-06-03",
+        "title": "Melissa Stafford - KTEN",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMDZ0bnJKNjRFRS1TV1AzTW0zaUZCU3dUWVUtZ013NE9BdVUtRlU0SHpZVEJsRDVZdFg4b1ZGY2xBVUJsZjRHdGZ2R2twOFpLbDJhMXptb0ViUjRGNkVqTllkRVFvRkFleE1rb1VxeHFuQ1d3S0daSXNYeFdpY0VqVXVqVzJ6TUM4dXhHbmFtZmdYVGhPdGFRSzhnWHlvejJuSXdDd0Y3UHpiU2M?oc=5\" target=\"_blank\">Melissa Stafford</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KTEN</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQYUg1X19kUzdJN0RLNzZYTW9YVlVZM3NfenhmeFctYUxxcmEzY2F4OUkweHVNcXRFTHZDdTlhZTdyN2FaVEZnWThZNEtweEZOa0hLeXhwVlQxVS1hMS1XbnJXRjlvaDhwbkprNDFFQUdxMERHdGRiM0VzYjN6UlhJcE1raXhleEJRT2twRHZUTTNxOTg2TXV2Z1Y0b0dHV2x5NEstR3JuTGhqblpndzh5VkFxRTZTeFRGQmhsWWVOOElxdzd0Q25iMmVoQ2lDY2FlZml6Rw?oc=5",
+        "date": "2026-06-03",
+        "title": "Flood warning ended for Lake Nipissing shoreline, La Vase River and Parks Creek - My North Bay Now",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxQYUg1X19kUzdJN0RLNzZYTW9YVlVZM3NfenhmeFctYUxxcmEzY2F4OUkweHVNcXRFTHZDdTlhZTdyN2FaVEZnWThZNEtweEZOa0hLeXhwVlQxVS1hMS1XbnJXRjlvaDhwbkprNDFFQUdxMERHdGRiM0VzYjN6UlhJcE1raXhleEJRT2twRHZUTTNxOTg2TXV2Z1Y0b0dHV2x5NEstR3JuTGhqblpndzh5VkFxRTZTeFRGQmhsWWVOOElxdzd0Q25iMmVoQ2lDY2FlZml6Rw?oc=5\" target=\"_blank\">Flood warning ended for Lake Nipissing shoreline, La Vase River and Parks Creek</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">My North Bay Now</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNRkxhRkN5NlBVWHphT0ptYkRxSzE5SG1yY0daRWZxNTdrSGl2N0cwT2pEdWFQWXF1WGlGaXlDMXpDNzJnbE5qT1BYTWNqYU1jNzc1Yy1qVmJwMXNxYnd4R3VaSXlVY29tUEdOTGxjWUtMMzFUQmhZYTNwUWdvdjN0dy1Nb1BYMlpjLVhfZXlDdw?oc=5",
+        "date": "2026-06-03",
+        "title": "Flood watches remain in place as rainfall continues in Alberta - CBC",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxNRkxhRkN5NlBVWHphT0ptYkRxSzE5SG1yY0daRWZxNTdrSGl2N0cwT2pEdWFQWXF1WGlGaXlDMXpDNzJnbE5qT1BYTWNqYU1jNzc1Yy1qVmJwMXNxYnd4R3VaSXlVY29tUEdOTGxjWUtMMzFUQmhZYTNwUWdvdjN0dy1Nb1BYMlpjLVhfZXlDdw?oc=5\" target=\"_blank\">Flood watches remain in place as rainfall continues in Alberta</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CBC</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNSWtULW1BMTFrVERCajBuY0dqUzRrdVh1ZTV0YmVWbHhMWHo1WFA0STZQOTRsWi1YbGNCVm1ydmxnb1U3UzJrMW4wa0RGQUpkRUtfUzl6OUFleGlYSjV4dko0UWR0QzYwSGloQ2luV2FDWjl0blNFdllzSlNjQ0lDcjhDcnRtNmFDb09JbndRQW5zWjdqWG9IZjJELXBVMnlFUUNDYjJ0Z1JaWWlxS01qZHFLeko5dXkwcEE?oc=5",
+        "date": "2026-06-03",
+        "title": "Big Isle flood advisory extended, tropical depression forms in Eastern Pacific - Honolulu Star-Advertiser",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNSWtULW1BMTFrVERCajBuY0dqUzRrdVh1ZTV0YmVWbHhMWHo1WFA0STZQOTRsWi1YbGNCVm1ydmxnb1U3UzJrMW4wa0RGQUpkRUtfUzl6OUFleGlYSjV4dko0UWR0QzYwSGloQ2luV2FDWjl0blNFdllzSlNjQ0lDcjhDcnRtNmFDb09JbndRQW5zWjdqWG9IZjJELXBVMnlFUUNDYjJ0Z1JaWWlxS01qZHFLeko5dXkwcEE?oc=5\" target=\"_blank\">Big Isle flood advisory extended, tropical depression forms in Eastern Pacific</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Honolulu Star-Advertiser</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9zSHd6dTQ1d2NZNTQ0SlZOblFQWkpBSTNvZGZmRlRYUmp0ZjJ6cjdFRmxVUlNhbENnbjlqcjFvNzVPNHc4VklLVnk4cVg1WVNCd09RY0E3eEgtYXpGNmh2WERob1R5X21jYXhNaXNB?oc=5",
+        "date": "2026-06-03",
+        "title": "Japan Travel Alert: Typhoon No. 6 Triggers Dangerous Urban Flooding and Extreme Rainfall After Landfall, Creating Fresh Challenges for Transportation and Tourism \u2013 Key Updates Explained - Travel And Tour World",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE9zSHd6dTQ1d2NZNTQ0SlZOblFQWkpBSTNvZGZmRlRYUmp0ZjJ6cjdFRmxVUlNhbENnbjlqcjFvNzVPNHc4VklLVnk4cVg1WVNCd09RY0E3eEgtYXpGNmh2WERob1R5X21jYXhNaXNB?oc=5\" target=\"_blank\">Japan Travel Alert: Typhoon No. 6 Triggers Dangerous Urban Flooding and Extreme Rainfall After Landfall, Creating Fresh Challenges for Transportation and Tourism \u2013 Key Updates Explained</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Travel And Tour World</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5zX1FYWVFMNDZ4a3pMNEhYQ19aMkZWSjQzN243SGJhb0JPXy13MWZHZ3ZGeVZtTlRickpCWjhWQWdhcm9sUVVrZ2NnSE9ZTU5xUHVvVGlreDVtTVF1dHpGSkFR?oc=5",
+        "date": "2026-06-03",
+        "title": "Jangmi approaching Kanto region | NHK WORLD-JAPAN News - nhk.or.jp",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE5zX1FYWVFMNDZ4a3pMNEhYQ19aMkZWSjQzN243SGJhb0JPXy13MWZHZ3ZGeVZtTlRickpCWjhWQWdhcm9sUVVrZ2NnSE9ZTU5xUHVvVGlreDVtTVF1dHpGSkFR?oc=5\" target=\"_blank\">Jangmi approaching Kanto region | NHK WORLD-JAPAN News</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">nhk.or.jp</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9IeTZDUC03X21lLXRIRzNzb052XzZxSzQ4SW42QXotWVd0b1gxdXRVN2FRVmU3S1plWGtPS0JnVElMekNBRjhJa1NwMkdHV19yQlZQbHRmcEpDcDNGTEFhWTNBUHdFMWxmWXJJVnM3ekNJNGlrME93ag?oc=5",
+        "date": "2026-06-03",
+        "title": "Level 5 Emergency Warning for Danger of Flooding Issued for Koza River in Japan\u2019s Wakayama Pref. - The Japan News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE9IeTZDUC03X21lLXRIRzNzb052XzZxSzQ4SW42QXotWVd0b1gxdXRVN2FRVmU3S1plWGtPS0JnVElMekNBRjhJa1NwMkdHV19yQlZQbHRmcEpDcDNGTEFhWTNBUHdFMWxmWXJJVnM3ekNJNGlrME93ag?oc=5\" target=\"_blank\">Level 5 Emergency Warning for Danger of Flooding Issued for Koza River in Japan\u2019s Wakayama Pref.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Japan News</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFByTTZpRzR3a0JWdC1JZ0xvcXZ1UWl6eW5YQnVmT1d0WkNRVEkzQzEzMHM1VWNzRUtzZDFDa1RoQ0RrNmdoSnQzTXlEV0xsekZVVHJsTjNZckJFNkE?oc=5",
+        "date": "2026-06-03",
+        "title": "(Update 3) Emergency River Flooding Warning Issued for Wakayama due to Typhoon - JIJI PRESS",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTFByTTZpRzR3a0JWdC1JZ0xvcXZ1UWl6eW5YQnVmT1d0WkNRVEkzQzEzMHM1VWNzRUtzZDFDa1RoQ0RrNmdoSnQzTXlEV0xsekZVVHJsTjNZckJFNkE?oc=5\" target=\"_blank\">(Update 3) Emergency River Flooding Warning Issued for Wakayama due to Typhoon</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">JIJI PRESS</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVlZOTG02c3RlMDFmVlhucFJmbmlIZC1MWU5mOWN6c3NsQ01wVGUwWUhwRnJUczBId2ZaNGhtOURaR1lDNTBERTRURXNYRkRtbDFabTRrQ0RIMGJITDhOWU1UYUNRTHRUQUR1Y2pEUmNVUzZkY0lBQW1IcDd6T2hMME5rT3FCZGRnbml3ODZEQlBOZ3ZQLTJ6U0dPdFJOZGpHMjg5WjQzU2dpdjZ5WHJya0JjLW1OVnNpQWJYQ2JWYmZNMWM?oc=5",
+        "date": "2026-06-03",
+        "title": "Chimney Rock State Park to reopen early after landslide repairs - WLOS",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVlZOTG02c3RlMDFmVlhucFJmbmlIZC1MWU5mOWN6c3NsQ01wVGUwWUhwRnJUczBId2ZaNGhtOURaR1lDNTBERTRURXNYRkRtbDFabTRrQ0RIMGJITDhOWU1UYUNRTHRUQUR1Y2pEUmNVUzZkY0lBQW1IcDd6T2hMME5rT3FCZGRnbml3ODZEQlBOZ3ZQLTJ6U0dPdFJOZGpHMjg5WjQzU2dpdjZ5WHJya0JjLW1OVnNpQWJYQ2JWYmZNMWM?oc=5\" target=\"_blank\">Chimney Rock State Park to reopen early after landslide repairs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WLOS</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
     }
 ]
