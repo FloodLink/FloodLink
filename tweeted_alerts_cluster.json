@@ -24559,7 +24559,7 @@
     "rain_mm": 59.69,
     "soil_moisture": 0.603,
     "raw_dynamic_score": 9.277,
-    "last_updated": "2026-06-04T22:28:48.873488Z",
+    "last_updated": "2026-06-05T19:53:44.754794Z",
     "last_tweeted_at": "2026-06-04T17:49:52.119905Z",
     "tweet_id": "2062592711291478358",
     "resolved": false
@@ -25157,6 +25157,21 @@
     "last_updated": "2026-06-05T17:18:23.110145Z",
     "last_tweeted_at": "2026-06-05T17:18:23.110145Z",
     "tweet_id": "2062947429117231483",
+    "resolved": false
+  },
+  "9.0444,6.5709": {
+    "country": "Nigeria",
+    "name": "Lapai",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 9.04439,
+    "longitude": 6.57089,
+    "rain_mm": 48.81,
+    "soil_moisture": 0.51,
+    "raw_dynamic_score": 7.174,
+    "last_updated": "2026-06-05T19:53:44.754794Z",
+    "last_tweeted_at": "2026-06-05T19:53:44.754794Z",
+    "tweet_id": "2062986282645569999",
     "resolved": false
   }
 }
