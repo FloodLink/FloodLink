@@ -18558,7 +18558,7 @@
     "rain_mm": 44.94,
     "soil_moisture": 0.729,
     "raw_dynamic_score": 7.496,
-    "last_updated": "2026-06-05T12:07:43.189641Z",
+    "last_updated": "2026-06-05T17:18:23.110145Z",
     "last_tweeted_at": "2026-06-05T12:07:43.189641Z",
     "tweet_id": "2062869011663122550",
     "resolved": false
@@ -24353,11 +24353,15 @@
     "rain_mm": 0.25,
     "soil_moisture": 0.543,
     "raw_dynamic_score": 0.038,
-    "last_updated": "2026-06-05T14:47:33.414325Z",
+    "last_updated": "2026-06-05T17:18:23.110145Z",
     "last_tweeted_at": "2026-06-05T12:07:43.189641Z",
     "tweet_id": "2062869011663122550",
     "resolved": true,
-    "resolved_at": "2026-06-05T12:07:43.189641Z"
+    "resolved_at": "2026-06-05T12:07:43.189641Z",
+    "pending_downgrade": true,
+    "pending_target_level": "Low",
+    "pending_set_at": "2026-06-05T17:18:23.110145Z",
+    "pending_is_region": true
   },
   "14.0823,98.1915": {
     "country": "Myanmar",
@@ -25105,7 +25109,7 @@
     "rain_mm": 104.56,
     "soil_moisture": 0.74,
     "raw_dynamic_score": 17.545,
-    "last_updated": "2026-06-05T12:07:43.189641Z",
+    "last_updated": "2026-06-05T17:18:23.110145Z",
     "last_tweeted_at": "2026-06-05T12:07:43.189641Z",
     "tweet_id": "2062869011663122550",
     "resolved": false
@@ -25120,9 +25124,39 @@
     "rain_mm": 72.88,
     "soil_moisture": 0.732,
     "raw_dynamic_score": 12.177,
-    "last_updated": "2026-06-05T12:07:43.189641Z",
+    "last_updated": "2026-06-05T17:18:23.110145Z",
     "last_tweeted_at": "2026-06-05T12:07:43.189641Z",
     "tweet_id": "2062869011663122550",
+    "resolved": false
+  },
+  "28.3769,129.4938": {
+    "country": "Japan",
+    "name": "Amami",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 28.3769,
+    "longitude": 129.49379,
+    "rain_mm": 38.31,
+    "soil_moisture": 1.0,
+    "raw_dynamic_score": 7.327,
+    "last_updated": "2026-06-05T17:18:23.110145Z",
+    "last_tweeted_at": "2026-06-05T17:18:23.110145Z",
+    "tweet_id": "2062947176565674391",
+    "resolved": false
+  },
+  "16.7585,100.1174": {
+    "country": "Thailand",
+    "name": "Bang Rakam",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 16.75847,
+    "longitude": 100.11742,
+    "rain_mm": 46.31,
+    "soil_moisture": 0.597,
+    "raw_dynamic_score": 7.17,
+    "last_updated": "2026-06-05T17:18:23.110145Z",
+    "last_tweeted_at": "2026-06-05T17:18:23.110145Z",
+    "tweet_id": "2062947429117231483",
     "resolved": false
   }
 }
