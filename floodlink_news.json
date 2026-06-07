@@ -9840,5 +9840,14 @@
             "longitude": -96.8089,
             "confidence": 0.95
         }
+    },
+    {
+        "link": null,
+        "date": "2026-06-07",
+        "status": "posted",
+        "tweet": "Flood EWS coverage (% at-risk pop, 2025)\n1. Europe: 84%\n2. North America: 76%\n3. East Asia: 59%\n4. South Asia: 37%\n5. Sub-Saharan Africa: 21%",
+        "type": "statistical",
+        "category": "coverage of flood early warning systems worldwide",
+        "tweet_id": "2063652829542371613"
     }
 ]
