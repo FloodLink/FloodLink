@@ -9703,5 +9703,142 @@
         "tweet": "\ud83c\uddf3\ud83c\uddf1 The Netherlands maintains 3,730 km of primary dikes and levees that protect 9 million people, over half its population, from flooding.",
         "type": "infrastructure",
         "tweet_id": "2063597788663791836"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOMS03cnNYYWFKcE94NUhJT2hXM3hRbVE0Z2dBOFl5MDVrTERPcDFmQnhLdjRMb3FaeHBJM0h0N1I5QlJmUUEwbjdmNG13STZnaHNnU1pacFE1bGt1cVFKaXhoX2NnVlBwbG1Fc3E0SXFLbDBYQ1FWeVVYNzRiU0pZUlNIS043X3g2bXNNcUh0ZGt1ci1sRTBBT28zbktPWnBJUy1jZldiVnBCRGRhMEprUUw4M0ZWb2dMd1ZUNjltUmRENklkZ3NmNNIBzgFBVV95cUxOMWZvaG5FN0R0UzFGRkpGY0RYQkNOaVhfMkVnM3owR29nb1JwMzVwZXVkR3RtT25wRzNtSzNLZkZvdk0wZXhkVXdzRk5Va2NBbktocHc3c2xKbFh0WkhLMlAxemdGRE9JMkxCcm1hRHdGT1ZyNk5STlNPT1JUSkNCbi05R2o4ajVSWVpSLWRhTF9rSFJ6d21OSDUzV1BZbm5WbWhyQlViNFNXQUo2QjNfQlBBVnpXRFg3OU13RmhMVVdzMFFsYjVZVXFISFdTZw?oc=5",
+        "date": "2026-06-07",
+        "title": "Flash flood warnings persist across Dallas-Fort Worth metroplex as continuous rain saturates region - FOX 4 News Dallas-Fort Worth",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxOMS03cnNYYWFKcE94NUhJT2hXM3hRbVE0Z2dBOFl5MDVrTERPcDFmQnhLdjRMb3FaeHBJM0h0N1I5QlJmUUEwbjdmNG13STZnaHNnU1pacFE1bGt1cVFKaXhoX2NnVlBwbG1Fc3E0SXFLbDBYQ1FWeVVYNzRiU0pZUlNIS043X3g2bXNNcUh0ZGt1ci1sRTBBT28zbktPWnBJUy1jZldiVnBCRGRhMEprUUw4M0ZWb2dMd1ZUNjltUmRENklkZ3NmNNIBzgFBVV95cUxOMWZvaG5FN0R0UzFGRkpGY0RYQkNOaVhfMkVnM3owR29nb1JwMzVwZXVkR3RtT25wRzNtSzNLZkZvdk0wZXhkVXdzRk5Va2NBbktocHc3c2xKbFh0WkhLMlAxemdGRE9JMkxCcm1hRHdGT1ZyNk5STlNPT1JUSkNCbi05R2o4ajVSWVpSLWRhTF9rSFJ6d21OSDUzV1BZbm5WbWhyQlViNFNXQUo2QjNfQlBBVnpXRFg3OU13RmhMVVdzMFFsYjVZVXFISFdTZw?oc=5\" target=\"_blank\">Flash flood warnings persist across Dallas-Fort Worth metroplex as continuous rain saturates region</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FOX 4 News Dallas-Fort Worth</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": null,
+        "tweet_id": "2063630449256038813",
+        "geo": {
+            "country": "United States",
+            "name": "Dallas-Fort Worth",
+            "latitude": 32.7792,
+            "longitude": -96.8089,
+            "confidence": 0.95
+        }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQbllFUE9sc2RvQlowanBEbEdaRXFJQ3lpYTFERmpFTFE2emNuRWRzY3pBZjRnSFd2ODBCRm1xMU5qeWNMNVdNS3hWbmVyZmFzU2hnZHQ0RlM0eGlic2RaeHhSVUxQNy1vMEdqc0pUbEtHbnVyTWpxSXVvOEVoNzJWQTQyZlc?oc=5",
+        "date": "2026-06-07",
+        "title": "Heavy rain brings flash flood warnings to North Texas - Yahoo",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxQbllFUE9sc2RvQlowanBEbEdaRXFJQ3lpYTFERmpFTFE2emNuRWRzY3pBZjRnSFd2ODBCRm1xMU5qeWNMNVdNS3hWbmVyZmFzU2hnZHQ0RlM0eGlic2RaeHhSVUxQNy1vMEdqc0pUbEtHbnVyTWpxSXVvOEVoNzJWQTQyZlc?oc=5\" target=\"_blank\">Heavy rain brings flash flood warnings to North Texas</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdGxpOTNMRFBOLWswel9DQ1VzdnBTNVVVZV9xUFZCSUJwTjZtYUY1bGxPazlYcWt0LWhtOHFGdmNvd05Ibm85SkRHLWpodW50S2d0UWNLTHI3SUROOExyQmctTEFZUnFPaHQyWW5Kbld4Mkpwd1VhWm8tb0lUSjZZa1NXckNabTIyTHhSaVdwWWZCc0lWNm9QWWdIQVphX0pqbUQyeDBzZkxwSllPWVJUQQ?oc=5",
+        "date": "2026-06-07",
+        "title": "Live radar: Flash flood warning in place as storms bring more rain to D-FW - Dallas News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNdGxpOTNMRFBOLWswel9DQ1VzdnBTNVVVZV9xUFZCSUJwTjZtYUY1bGxPazlYcWt0LWhtOHFGdmNvd05Ibm85SkRHLWpodW50S2d0UWNLTHI3SUROOExyQmctTEFZUnFPaHQyWW5Kbld4Mkpwd1VhWm8tb0lUSjZZa1NXckNabTIyTHhSaVdwWWZCc0lWNm9QWWdIQVphX0pqbUQyeDBzZkxwSllPWVJUQQ?oc=5\" target=\"_blank\">Live radar: Flash flood warning in place as storms bring more rain to D-FW</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Dallas News</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNV0JJLVZCaG9oT2hXOExzbVhvOVNmWmNJSmFwT21NMi1UN1VkQzFqX1BfMGoxbnplYU5BZFlJRUlzeUhMNWRFOERNdXA1MWcxVG5QSkI3QnE2VlI1czRsNTN6NjlkTUtxdzZ3Wk5GVHdvVW84RktIMXVhYjNUczZWU0tjeEk3SGtFNV9Z0gGfAUFVX3lxTE8tX2hyWk8yeGROeUp6UGF4SnZ0b2hOanh2bkpCd2xobk5sbGx1dWdLbXFUSmxaRXIway1UYkVESTVpeFRQMmg0ellXYjM0MTNzV1Z6d0pRdm5ydUdpSjdxYTR4dDJRaVJ0VktOLWhPZVV4NDFTUllrUEx6MXpwYUtnaGh6U0l5b3loem5veXhGeEt1a1FfS2l6QjVsbVhQYw?oc=5",
+        "date": "2026-06-07",
+        "title": "FIRST ALERT WEATHER: Scattered to widespread storms likely this afternoon, tonight, and tomorrow morning - KY3",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxNV0JJLVZCaG9oT2hXOExzbVhvOVNmWmNJSmFwT21NMi1UN1VkQzFqX1BfMGoxbnplYU5BZFlJRUlzeUhMNWRFOERNdXA1MWcxVG5QSkI3QnE2VlI1czRsNTN6NjlkTUtxdzZ3Wk5GVHdvVW84RktIMXVhYjNUczZWU0tjeEk3SGtFNV9Z0gGfAUFVX3lxTE8tX2hyWk8yeGROeUp6UGF4SnZ0b2hOanh2bkpCd2xobk5sbGx1dWdLbXFUSmxaRXIway1UYkVESTVpeFRQMmg0ellXYjM0MTNzV1Z6d0pRdm5ydUdpSjdxYTR4dDJRaVJ0VktOLWhPZVV4NDFTUllrUEx6MXpwYUtnaGh6U0l5b3loem5veXhGeEt1a1FfS2l6QjVsbVhQYw?oc=5\" target=\"_blank\">FIRST ALERT WEATHER: Scattered to widespread storms likely this afternoon, tonight, and tomorrow morning</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KY3</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPRi02akMwN05QTXg3Z3ZzUDZvUnZNNkJpWlVEMVBxdDdNYnEyTlVvV2Y2aGdjNE1uU2M1d3FaSjZnRDRfa2U3VXdGUEVGbFFkSVVzUjhSM0VLS1g0LVA1WFY2MWFJUktXSEppYy1qcXhVZVU3WHNWT3dONDE4eUhxeXVvaE5TYm9HTlJaTV85cjNZNVk0ZXh2c0I2andOQmdrRTBoaVhTaVg1U3BVU0tpV0NVeXJjVUnSAZoBQVVfeXFMT2tQbVdMdWhxT3hOWTRubkpKeEk1SDBaX1NPdVU1NGlET3lJVGRxQ1V2a3RzSEZaV1BXcE5MY3dxbk9ubjg3bmlUcERla2Rwb3FUNWlqMEd1VHhsVGprMFdpUW1XeWNDeGFKNHdKdm1YaUtIU2FZWG5OejkwZDRoQnZ5a1FSVEZyRFpZOTRoZF9mZG5DLXhTZHVVQQ?oc=5",
+        "date": "2026-06-07",
+        "title": "Flash Flood Warning in Effect for DFW Sunday - NewsRadio 740 KTRH",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPRi02akMwN05QTXg3Z3ZzUDZvUnZNNkJpWlVEMVBxdDdNYnEyTlVvV2Y2aGdjNE1uU2M1d3FaSjZnRDRfa2U3VXdGUEVGbFFkSVVzUjhSM0VLS1g0LVA1WFY2MWFJUktXSEppYy1qcXhVZVU3WHNWT3dONDE4eUhxeXVvaE5TYm9HTlJaTV85cjNZNVk0ZXh2c0I2andOQmdrRTBoaVhTaVg1U3BVU0tpV0NVeXJjVUnSAZoBQVVfeXFMT2tQbVdMdWhxT3hOWTRubkpKeEk1SDBaX1NPdVU1NGlET3lJVGRxQ1V2a3RzSEZaV1BXcE5MY3dxbk9ubjg3bmlUcERla2Rwb3FUNWlqMEd1VHhsVGprMFdpUW1XeWNDeGFKNHdKdm1YaUtIU2FZWG5OejkwZDRoQnZ5a1FSVEZyRFpZOTRoZF9mZG5DLXhTZHVVQQ?oc=5\" target=\"_blank\">Flash Flood Warning in Effect for DFW Sunday</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NewsRadio 740 KTRH</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPU3NoamgxOVdOaFJYQ2NaVlExc0RKaHpOVURrQkExd1Q3WUthbTIzZENHcWIzOXA3ZURSMlpueC1FV3RScnBuSVNTbE13SG9iN2dDQVRhTEEwZTZScVVYa0VVOWJ2MEdXUVR0dEhsS3B1MlIteGQxbm4xT3JWRlB2YXYtRTBVZ3ZIXzl1WGtJSzBYdzVsb0FfWGwybHFKYTliZUcxMEZ2VTZqLWVmMEp3QWRBWlVqQQ?oc=5",
+        "date": "2026-06-07",
+        "title": "FIRST ALERT WEATHER: Scattered to widespread storms likely this afternoon, and tonight - KY3",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPU3NoamgxOVdOaFJYQ2NaVlExc0RKaHpOVURrQkExd1Q3WUthbTIzZENHcWIzOXA3ZURSMlpueC1FV3RScnBuSVNTbE13SG9iN2dDQVRhTEEwZTZScVVYa0VVOWJ2MEdXUVR0dEhsS3B1MlIteGQxbm4xT3JWRlB2YXYtRTBVZ3ZIXzl1WGtJSzBYdzVsb0FfWGwybHFKYTliZUcxMEZ2VTZqLWVmMEp3QWRBWlVqQQ?oc=5\" target=\"_blank\">FIRST ALERT WEATHER: Scattered to widespread storms likely this afternoon, and tonight</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KY3</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQMl9oSUdTUUF5Z0ZDdXB0bEdydnJCdlVSTW5feE9TZ0RicGJRcW9IRl92VVRPSDFZTlk3SmoxaXAweHlCNlZHaktzRldCZnNnTUI3YjlIWGYzV2U0LTlSRkhTRWtUZXdzdWstZXJySWdYYi1lSnEwRmZyQWhIaUc2blgtUGVodlpOVmJIeFNaNlZYVzFWUFozSmhUdk4tN2EwRmxkXy0tdmxpOGlCMmJINlF0cXN4ZC1acnhNeDVfWEQxdW5EWnZHZ1I4RExIQzh3?oc=5",
+        "date": "2026-06-07",
+        "title": "Flash flooding threat continues as rounds of heavy rain move across North Texas Sunday; temperatures expected to climb - CBS News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxQMl9oSUdTUUF5Z0ZDdXB0bEdydnJCdlVSTW5feE9TZ0RicGJRcW9IRl92VVRPSDFZTlk3SmoxaXAweHlCNlZHaktzRldCZnNnTUI3YjlIWGYzV2U0LTlSRkhTRWtUZXdzdWstZXJySWdYYi1lSnEwRmZyQWhIaUc2blgtUGVodlpOVmJIeFNaNlZYVzFWUFozSmhUdk4tN2EwRmxkXy0tdmxpOGlCMmJINlF0cXN4ZC1acnhNeDVfWEQxdW5EWnZHZ1I4RExIQzh3?oc=5\" target=\"_blank\">Flash flooding threat continues as rounds of heavy rain move across North Texas Sunday; temperatures expected to climb</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CBS News</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPVGFGTmRrR3diY0ZkVVBpRmowQ3VPaUp6S1BxVXE3eVNFeWMtMVkwUG5RMmg5dVVEQi0zRmRqQVdFZzlmSlpqaFdlWEkwTmtRdW1SZlo1R25KbTRUTTM0MjZSNWVPdmRVYVh5R0Q3dDhSYWNaVFQ1Y0J0SHlLOXJXM0NiUzVLMTBHVGRNNjNyOXVUZEE?oc=5",
+        "date": "2026-06-07",
+        "title": "Alabama forecast: Rounds of rain and storms bring a flood threat - WVTM",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPVGFGTmRrR3diY0ZkVVBpRmowQ3VPaUp6S1BxVXE3eVNFeWMtMVkwUG5RMmg5dVVEQi0zRmRqQVdFZzlmSlpqaFdlWEkwTmtRdW1SZlo1R25KbTRUTTM0MjZSNWVPdmRVYVh5R0Q3dDhSYWNaVFQ1Y0J0SHlLOXJXM0NiUzVLMTBHVGRNNjNyOXVUZEE?oc=5\" target=\"_blank\">Alabama forecast: Rounds of rain and storms bring a flood threat</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WVTM</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1pa0ZSRVlDb2E0bjA5UVNSalVhVlk4VWpMMDVWdDV3WGRNd25yS3hGck84V3JoMVRrMWZfeHh4Z2VORDRlSUE2Y2ZWbTFPaU9lUkZkZjhYRFBJc2wyLUVrZlZB?oc=5",
+        "date": "2026-06-07",
+        "title": "Level IV flood-control emergency response activated across six provincial-level regions - Global Times",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE1pa0ZSRVlDb2E0bjA5UVNSalVhVlk4VWpMMDVWdDV3WGRNd25yS3hGck84V3JoMVRrMWZfeHh4Z2VORDRlSUE2Y2ZWbTFPaU9lUkZkZjhYRFBJc2wyLUVrZlZB?oc=5\" target=\"_blank\">Level IV flood-control emergency response activated across six provincial-level regions</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Global Times</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSzU1bW1ORHV5OVNlNUN4VWtPWmhNeVVnX2J0WnFiYTZKZnJqNDdpOGQ1LS1TSTN3YUtNYnVBUHVFeS1Ha1Jnb1ZMTFBqbEVYN3hFLXpyUTliLVpRSXlqTDNIa2NBTFpiT08tMmEta2MyTVAwSEw5SmN3NnFKbzkzTTI3TWxXa0FSYjcwM2ItenJFbVR2MGxTQWJDYVpDVWhObXFDbXUtSFVrVl9JZUhYWkdvTlJXZXM?oc=5",
+        "date": "2026-06-07",
+        "title": "St. Joseph Goats football team rocks Ozarks in the team\u2019s home opener - KQ2",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxNSzU1bW1ORHV5OVNlNUN4VWtPWmhNeVVnX2J0WnFiYTZKZnJqNDdpOGQ1LS1TSTN3YUtNYnVBUHVFeS1Ha1Jnb1ZMTFBqbEVYN3hFLXpyUTliLVpRSXlqTDNIa2NBTFpiT08tMmEta2MyTVAwSEw5SmN3NnFKbzkzTTI3TWxXa0FSYjcwM2ItenJFbVR2MGxTQWJDYVpDVWhObXFDbXUtSFVrVl9JZUhYWkdvTlJXZXM?oc=5\" target=\"_blank\">St. Joseph Goats football team rocks Ozarks in the team\u2019s home opener</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KQ2</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdFJsX0IwMGNIZmhEM2g3RGFEalN1N3dpWlFXMk1nWDlnTlR0Mkw1Wmp0UEpaU0FEUVNTTjl2T05nZHRWNFlsYzFBRjF0Y09ISTJYNTBBU3dMdGtZdzRZcXlMZTZydHVtWkZXWDE3T0wtUU5hOWlJbUQybk9oYVhmZ09ob1BBUVpJZkR3ZG55T0xYOVRvQThadF9pWndFaEpkN1JQVjBRUzNJQQ?oc=5",
+        "date": "2026-06-07",
+        "title": "Heavy rain prompts flood and landslide warnings in southwestern Japan - Saudi Gazette",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdFJsX0IwMGNIZmhEM2g3RGFEalN1N3dpWlFXMk1nWDlnTlR0Mkw1Wmp0UEpaU0FEUVNTTjl2T05nZHRWNFlsYzFBRjF0Y09ISTJYNTBBU3dMdGtZdzRZcXlMZTZydHVtWkZXWDE3T0wtUU5hOWlJbUQybk9oYVhmZ09ob1BBUVpJZkR3ZG55T0xYOVRvQThadF9pWndFaEpkN1JQVjBRUzNJQQ?oc=5\" target=\"_blank\">Heavy rain prompts flood and landslide warnings in southwestern Japan</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Saudi Gazette</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOMS03cnNYYWFKcE94NUhJT2hXM3hRbVE0Z2dBOFl5MDVrTERPcDFmQnhLdjRMb3FaeHBJM0h0N1I5QlJmUUEwbjdmNG13STZnaHNnU1pacFE1bGt1cVFKaXhoX2NnVlBwbG1Fc3E0SXFLbDBYQ1FWeVVYNzRiU0pZUlNIS043X3g2bXNNcUh0ZGt1ci1sRTBBT28zbktPWnBJUy1jZldiVnBCRGRhMEprUUw4M0ZWb2dMd1ZUNjltUmRENklkZ3NmNNIBzgFBVV95cUxOMWZvaG5FN0R0UzFGRkpGY0RYQkNOaVhfMkVnM3owR29nb1JwMzVwZXVkR3RtT25wRzNtSzNLZkZvdk0wZXhkVXdzRk5Va2NBbktocHc3c2xKbFh0WkhLMlAxemdGRE9JMkxCcm1hRHdGT1ZyNk5STlNPT1JUSkNCbi05R2o4ajVSWVpSLWRhTF9rSFJ6d21OSDUzV1BZbm5WbWhyQlViNFNXQUo2QjNfQlBBVnpXRFg3OU13RmhMVVdzMFFsYjVZVXFISFdTZw?oc=5",
+        "date": "2026-06-07",
+        "title": "Flash flood warnings persist across Dallas-Fort Worth metroplex as continuous rain saturates region - FOX 4 News Dallas-Fort Worth",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxOMS03cnNYYWFKcE94NUhJT2hXM3hRbVE0Z2dBOFl5MDVrTERPcDFmQnhLdjRMb3FaeHBJM0h0N1I5QlJmUUEwbjdmNG13STZnaHNnU1pacFE1bGt1cVFKaXhoX2NnVlBwbG1Fc3E0SXFLbDBYQ1FWeVVYNzRiU0pZUlNIS043X3g2bXNNcUh0ZGt1ci1sRTBBT28zbktPWnBJUy1jZldiVnBCRGRhMEprUUw4M0ZWb2dMd1ZUNjltUmRENklkZ3NmNNIBzgFBVV95cUxOMWZvaG5FN0R0UzFGRkpGY0RYQkNOaVhfMkVnM3owR29nb1JwMzVwZXVkR3RtT25wRzNtSzNLZkZvdk0wZXhkVXdzRk5Va2NBbktocHc3c2xKbFh0WkhLMlAxemdGRE9JMkxCcm1hRHdGT1ZyNk5STlNPT1JUSkNCbi05R2o4ajVSWVpSLWRhTF9rSFJ6d21OSDUzV1BZbm5WbWhyQlViNFNXQUo2QjNfQlBBVnpXRFg3OU13RmhMVVdzMFFsYjVZVXFISFdTZw?oc=5\" target=\"_blank\">Flash flood warnings persist across Dallas-Fort Worth metroplex as continuous rain saturates region</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FOX 4 News Dallas-Fort Worth</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 FORECAST Dallas-Fort Worth: Flash flood warnings persist as continuous rain saturates region (FOX 4)",
+        "type": "news",
+        "tweet_id": "2063630449256038813",
+        "geo": {
+            "country": "United States",
+            "name": "Dallas-Fort Worth",
+            "latitude": 32.7792,
+            "longitude": -96.8089,
+            "confidence": 0.95
+        }
     }
 ]
