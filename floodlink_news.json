@@ -9695,5 +9695,13 @@
         "score": 0,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-06-07",
+        "status": "posted",
+        "tweet": "\ud83c\uddf3\ud83c\uddf1 The Netherlands maintains 3,730 km of primary dikes and levees that protect 9 million people, over half its population, from flooding.",
+        "type": "infrastructure",
+        "tweet_id": "2063597788663791836"
     }
 ]
