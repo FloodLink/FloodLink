@@ -10003,5 +10003,14 @@
         "score": 0,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-06-08",
+        "status": "posted",
+        "tweet": "By 2035, pluvial flooding from extreme rainfall is projected to affect 1 in 3 residents in the world's 50 densest cities.",
+        "type": "statistical",
+        "category": "pluvial (surface) flooding in dense cities",
+        "tweet_id": "2063983155124609299"
     }
 ]
