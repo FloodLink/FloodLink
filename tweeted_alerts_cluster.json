@@ -12417,10 +12417,14 @@
     "rain_mm": 40.69,
     "soil_moisture": 0.726,
     "raw_dynamic_score": 6.775,
-    "last_updated": "2026-06-09T06:52:34.216547Z",
+    "last_updated": "2026-06-09T12:04:39.944649Z",
     "last_tweeted_at": "2026-06-09T06:52:34.216547Z",
     "tweet_id": "2064239750119063684",
-    "resolved": false
+    "resolved": false,
+    "pending_downgrade": true,
+    "pending_target_level": "Medium",
+    "pending_set_at": "2026-06-09T12:04:39.944649Z",
+    "pending_is_region": true
   },
   "23.1249,120.4614": {
     "country": "Province of China Taiwan",
@@ -12432,7 +12436,7 @@
     "rain_mm": 81.5,
     "soil_moisture": 0.761,
     "raw_dynamic_score": 13.826,
-    "last_updated": "2026-06-09T06:52:34.216547Z",
+    "last_updated": "2026-06-09T12:04:39.944649Z",
     "last_tweeted_at": "2026-06-09T06:52:34.216547Z",
     "tweet_id": "2064239750119063684",
     "resolved": false
@@ -12447,7 +12451,7 @@
     "rain_mm": 40.69,
     "soil_moisture": 0.726,
     "raw_dynamic_score": 6.775,
-    "last_updated": "2026-06-09T06:52:34.216547Z",
+    "last_updated": "2026-06-09T12:04:39.944649Z",
     "last_tweeted_at": "2026-06-09T06:52:34.216547Z",
     "tweet_id": "2064239750119063684",
     "resolved": false
@@ -18615,7 +18619,7 @@
     "rain_mm": 45.0,
     "soil_moisture": 0.627,
     "raw_dynamic_score": 7.09,
-    "last_updated": "2026-06-09T02:34:45.943541Z",
+    "last_updated": "2026-06-09T12:04:39.944649Z",
     "last_tweeted_at": "2026-05-13T17:26:58.802414Z",
     "tweet_id": "2054614423621538197",
     "resolved": false
@@ -22285,22 +22289,6 @@
     "tweet_id": "2060254977604419763",
     "resolved": false
   },
-  "23.7333,114.6833": {
-    "country": "China",
-    "name": "Heyuan",
-    "risk_level": "Low",
-    "tweeted_level": "High",
-    "latitude": 23.73333,
-    "longitude": 114.68333,
-    "rain_mm": 14.69,
-    "soil_moisture": 0.559,
-    "raw_dynamic_score": 2.224,
-    "last_updated": "2026-06-08T18:18:52.562858Z",
-    "last_tweeted_at": "2026-06-08T07:35:21.434780Z",
-    "tweet_id": "2063887624670941548",
-    "resolved": true,
-    "resolved_at": "2026-06-08T07:35:21.434780Z"
-  },
   "6.9248,158.1611": {
     "country": "Federated States of Micronesia",
     "name": "Palikir",
@@ -25898,18 +25886,10 @@
     "rain_mm": 76.88,
     "soil_moisture": 0.735,
     "raw_dynamic_score": 12.864,
-    "last_updated": "2026-06-09T06:52:34.216547Z",
+    "last_updated": "2026-06-09T12:04:39.944649Z",
     "last_tweeted_at": "2026-06-08T22:30:30.857442Z",
     "tweet_id": "2064113655000543280",
-    "resolved": false,
-    "pending_downgrade": true,
-    "pending_target_level": "Low",
-    "pending_set_at": "2026-06-09T06:52:34.216547Z",
-    "pending_is_region": false,
-    "pending_observed_level": "Low",
-    "pending_observed_rain_mm": 37.31,
-    "pending_observed_soil_moisture": 0.715,
-    "pending_observed_raw_dynamic_score": 6.177
+    "resolved": false
   },
   "24.5643,120.8237": {
     "country": "Province of China Taiwan",
@@ -25936,7 +25916,7 @@
     "rain_mm": 42.5,
     "soil_moisture": 0.716,
     "raw_dynamic_score": 7.038,
-    "last_updated": "2026-06-09T02:34:45.943541Z",
+    "last_updated": "2026-06-09T12:04:39.944649Z",
     "last_tweeted_at": "2026-06-08T22:30:30.857442Z",
     "tweet_id": "2064113907568955473",
     "resolved": false
@@ -26041,18 +26021,10 @@
     "rain_mm": 76.88,
     "soil_moisture": 0.735,
     "raw_dynamic_score": 12.864,
-    "last_updated": "2026-06-09T06:52:34.216547Z",
+    "last_updated": "2026-06-09T12:04:39.944649Z",
     "last_tweeted_at": "2026-06-08T22:30:30.857442Z",
     "tweet_id": "2064114667375546820",
-    "resolved": false,
-    "pending_downgrade": true,
-    "pending_target_level": "Low",
-    "pending_set_at": "2026-06-09T06:52:34.216547Z",
-    "pending_is_region": false,
-    "pending_observed_level": "Low",
-    "pending_observed_rain_mm": 37.31,
-    "pending_observed_soil_moisture": 0.715,
-    "pending_observed_raw_dynamic_score": 6.177
+    "resolved": false
   },
   "23.9005,120.3689": {
     "country": "Province of China Taiwan",
@@ -26079,14 +26051,10 @@
     "rain_mm": 76.88,
     "soil_moisture": 0.735,
     "raw_dynamic_score": 12.864,
-    "last_updated": "2026-06-09T06:52:34.216547Z",
+    "last_updated": "2026-06-09T12:04:39.944649Z",
     "last_tweeted_at": "2026-06-08T22:30:30.857442Z",
     "tweet_id": "2064115173057560673",
-    "resolved": false,
-    "pending_downgrade": true,
-    "pending_target_level": "Low",
-    "pending_set_at": "2026-06-09T06:52:34.216547Z",
-    "pending_is_region": true
+    "resolved": false
   },
   "24.8383,121.0078": {
     "country": "Province of China Taiwan",
@@ -26218,7 +26186,7 @@
     "rain_mm": 42.75,
     "soil_moisture": 0.712,
     "raw_dynamic_score": 7.065,
-    "last_updated": "2026-06-09T02:34:45.943541Z",
+    "last_updated": "2026-06-09T12:04:39.944649Z",
     "last_tweeted_at": "2026-06-09T02:34:45.943541Z",
     "tweet_id": "2064175373848289609",
     "resolved": false
@@ -26233,7 +26201,7 @@
     "rain_mm": 52.81,
     "soil_moisture": 0.693,
     "raw_dynamic_score": 8.634,
-    "last_updated": "2026-06-09T06:52:34.216547Z",
+    "last_updated": "2026-06-09T12:04:39.944649Z",
     "last_tweeted_at": "2026-06-09T06:52:34.216547Z",
     "tweet_id": "2064239244860678170",
     "resolved": false
@@ -26248,9 +26216,54 @@
     "rain_mm": 38.06,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 7.279,
-    "last_updated": "2026-06-09T06:52:34.216547Z",
+    "last_updated": "2026-06-09T12:04:39.944649Z",
     "last_tweeted_at": "2026-06-09T06:52:34.216547Z",
     "tweet_id": "2064239497399751101",
+    "resolved": false
+  },
+  "-1.4902,102.1149": {
+    "country": "Indonesia",
+    "name": "Muara Bungo",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": -1.49018,
+    "longitude": 102.1149,
+    "rain_mm": 40.81,
+    "soil_moisture": 0.702,
+    "raw_dynamic_score": 6.707,
+    "last_updated": "2026-06-09T12:04:39.944649Z",
+    "last_tweeted_at": "2026-06-09T12:04:39.944649Z",
+    "tweet_id": "2064317785258254763",
+    "resolved": false
+  },
+  "28.3667,129.4833": {
+    "country": "Japan",
+    "name": "Naze",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 28.36667,
+    "longitude": 129.48333,
+    "rain_mm": 42.94,
+    "soil_moisture": 0.722,
+    "raw_dynamic_score": 7.136,
+    "last_updated": "2026-06-09T12:04:39.944649Z",
+    "last_tweeted_at": "2026-06-09T12:04:39.944649Z",
+    "tweet_id": "2064318037910495435",
+    "resolved": false
+  },
+  "55.1611,61.4288": {
+    "country": "Russian Federation",
+    "name": "Chelyabinsk",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 55.1611,
+    "longitude": 61.42877,
+    "rain_mm": 40.5,
+    "soil_moisture": 0.704,
+    "raw_dynamic_score": 6.662,
+    "last_updated": "2026-06-09T12:04:39.944649Z",
+    "last_tweeted_at": "2026-06-09T12:04:39.944649Z",
+    "tweet_id": "2064318290470568044",
     "resolved": false
   }
 }
