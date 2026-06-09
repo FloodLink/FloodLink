@@ -12192,7 +12192,7 @@
     "rain_mm": 68.06,
     "soil_moisture": 0.725,
     "raw_dynamic_score": 11.325,
-    "last_updated": "2026-04-23T21:47:16.309523Z",
+    "last_updated": "2026-06-09T20:08:44.015789Z",
     "last_tweeted_at": "2026-04-03T07:06:42.230159Z",
     "tweet_id": "2039962820448600301",
     "resolved": false
@@ -18357,7 +18357,7 @@
     "rain_mm": 40.19,
     "soil_moisture": 0.7,
     "raw_dynamic_score": 6.598,
-    "last_updated": "2026-05-16T16:00:53.972394Z",
+    "last_updated": "2026-06-09T20:08:44.015789Z",
     "last_tweeted_at": "2026-05-11T12:08:16.919009Z",
     "tweet_id": "2053809454924128345",
     "resolved": false
@@ -25052,22 +25052,6 @@
     "tweet_id": "2063616138442121372",
     "resolved": false
   },
-  "16.8494,-99.9089": {
-    "country": "Mexico",
-    "name": "Acapulco de Juárez",
-    "risk_level": "Low",
-    "tweeted_level": "Low",
-    "latitude": 16.84942,
-    "longitude": -99.90891,
-    "rain_mm": 8.38,
-    "soil_moisture": 1.0,
-    "raw_dynamic_score": 1.602,
-    "last_updated": "2026-06-08T18:18:52.562858Z",
-    "last_tweeted_at": "2026-06-08T18:18:52.562858Z",
-    "tweet_id": "2064051094293250079",
-    "resolved": true,
-    "resolved_at": "2026-06-08T18:18:52.562858Z"
-  },
   "34.6059,-86.9833": {
     "country": "United States",
     "name": "Decatur",
@@ -25619,7 +25603,7 @@
     "rain_mm": 46.88,
     "soil_moisture": 0.659,
     "raw_dynamic_score": 7.52,
-    "last_updated": "2026-06-08T20:25:27.709674Z",
+    "last_updated": "2026-06-09T20:08:44.015789Z",
     "last_tweeted_at": "2026-06-08T13:10:38.353852Z",
     "tweet_id": "2063972771642679700",
     "resolved": false
@@ -25695,7 +25679,7 @@
     "rain_mm": 45.06,
     "soil_moisture": 0.671,
     "raw_dynamic_score": 7.281,
-    "last_updated": "2026-06-08T22:30:30.857442Z",
+    "last_updated": "2026-06-09T20:08:44.015789Z",
     "last_tweeted_at": "2026-06-08T18:18:52.562858Z",
     "tweet_id": "2064050083541450801",
     "resolved": false
@@ -26199,7 +26183,7 @@
     "rain_mm": 42.94,
     "soil_moisture": 0.722,
     "raw_dynamic_score": 7.136,
-    "last_updated": "2026-06-09T14:43:29.410652Z",
+    "last_updated": "2026-06-09T20:08:44.015789Z",
     "last_tweeted_at": "2026-06-09T12:04:39.944649Z",
     "tweet_id": "2064318037910495435",
     "resolved": false
@@ -26229,7 +26213,7 @@
     "rain_mm": 75.25,
     "soil_moisture": 0.644,
     "raw_dynamic_score": 11.97,
-    "last_updated": "2026-06-09T17:29:10.277481Z",
+    "last_updated": "2026-06-09T20:08:44.015789Z",
     "last_tweeted_at": "2026-06-09T17:29:10.277481Z",
     "tweet_id": "2064399441050648830",
     "resolved": false
@@ -26259,10 +26243,14 @@
     "rain_mm": 158.06,
     "soil_moisture": 0.669,
     "raw_dynamic_score": 25.499,
-    "last_updated": "2026-06-09T17:29:10.277481Z",
+    "last_updated": "2026-06-09T20:08:44.015789Z",
     "last_tweeted_at": "2026-06-09T17:29:10.277481Z",
     "tweet_id": "2064399693707202648",
-    "resolved": false
+    "resolved": false,
+    "pending_downgrade": true,
+    "pending_target_level": "Medium",
+    "pending_set_at": "2026-06-09T20:08:44.015789Z",
+    "pending_is_region": true
   },
   "12.5776,-87.0271": {
     "country": "Nicaragua",
@@ -26274,7 +26262,7 @@
     "rain_mm": 75.25,
     "soil_moisture": 0.644,
     "raw_dynamic_score": 11.97,
-    "last_updated": "2026-06-09T17:29:10.277481Z",
+    "last_updated": "2026-06-09T20:08:44.015789Z",
     "last_tweeted_at": "2026-06-09T17:29:10.277481Z",
     "tweet_id": "2064399693707202648",
     "resolved": false
