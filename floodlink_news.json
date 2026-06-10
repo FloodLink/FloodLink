@@ -11173,5 +11173,14 @@
         "score": 0,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-06-10",
+        "status": "posted",
+        "tweet": "Asia monsoon flood displacement (M people/yr, 2020-2025 avg):\n1. \ud83c\uddee\ud83c\uddf3 India: 45\n2. \ud83c\udde7\ud83c\udde9 Bangladesh: 22\n3. \ud83c\uddf5\ud83c\uddf0 Pakistan: 12\n4. \ud83c\udde8\ud83c\uddf3 China: 10\n5. \ud83c\uddfb\ud83c\uddf3 Vietnam: 8",
+        "type": "statistical",
+        "category": "monsoon flood patterns in Asia",
+        "tweet_id": "2064712176208609504"
     }
 ]
