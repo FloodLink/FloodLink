@@ -11365,5 +11365,14 @@
         "score": 0,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-06-11",
+        "status": "posted",
+        "tweet": "By 2030, extreme rainfall is projected to exceed design standards for 65% of US flood-control reservoirs built before 1990, placing 14 million people at higher flash-flood risk.",
+        "type": "statistical",
+        "category": "dams, levees and reservoirs used for flood control",
+        "tweet_id": "2065169898473439557"
     }
 ]
