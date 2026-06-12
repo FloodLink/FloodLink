@@ -11354,5 +11354,14 @@
         "score": 0,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-06-12",
+        "status": "posted",
+        "tweet": "\ud83c\udde8\ud83c\uddf3 Dense Chinese cities saw 9.7 million people exposed to extreme pluvial floods yearly from 2021-2025. \ud83c\uddfa\ud83c\uddf8 Equivalent US cities recorded 2.1 million.",
+        "type": "statistical",
+        "category": "pluvial (surface) flooding in dense cities",
+        "tweet_id": "2065370381888692734"
     }
 ]
