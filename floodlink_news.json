@@ -11500,5 +11500,14 @@
             "longitude": null,
             "confidence": 0.0
         }
+    },
+    {
+        "link": null,
+        "date": "2026-06-12",
+        "status": "posted",
+        "tweet": "Urban pop. exposed to river floods (2025 proj.):\n1. \ud83c\udde8\ud83c\uddf3 Guangzhou: 12.4M\n2. \ud83c\uddee\ud83c\uddf3 Mumbai: 9.9M\n3. \ud83c\udde7\ud83c\udde9 Dhaka: 8.6M\n4. \ud83c\uddfb\ud83c\uddf3 Ho Chi Minh City: 7.3M\n5. \ud83c\uddf9\ud83c\udded Bangkok: 6.4M",
+        "type": "statistical",
+        "category": "urban areas exposed to river flooding",
+        "tweet_id": "2065565088380063910"
     }
 ]
