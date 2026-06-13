@@ -18108,22 +18108,6 @@
     "tweet_id": "2053356002376843610",
     "resolved": false
   },
-  "17.7951,96.6698": {
-    "country": "Myanmar",
-    "name": "Daik-u",
-    "risk_level": "Low",
-    "tweeted_level": "Low",
-    "latitude": 17.79506,
-    "longitude": 96.66983,
-    "rain_mm": 6.81,
-    "soil_moisture": 0.699,
-    "raw_dynamic_score": 1.118,
-    "last_updated": "2026-06-12T07:26:34.614671Z",
-    "last_tweeted_at": "2026-06-12T07:26:34.614671Z",
-    "tweet_id": "2065335474193834094",
-    "resolved": true,
-    "resolved_at": "2026-06-12T07:26:34.614671Z"
-  },
   "11.6305,104.8854": {
     "country": "Cambodia",
     "name": "Chrang Chamreh Muoy",
@@ -18434,7 +18418,7 @@
     "rain_mm": 63.12,
     "soil_moisture": 0.722,
     "raw_dynamic_score": 10.487,
-    "last_updated": "2026-06-13T07:02:37.322667Z",
+    "last_updated": "2026-06-13T11:20:15.709687Z",
     "last_tweeted_at": "2026-05-12T22:15:41.687960Z",
     "tweet_id": "2054324688554242234",
     "resolved": false
@@ -18974,7 +18958,7 @@
     "rain_mm": 53.81,
     "soil_moisture": 0.641,
     "raw_dynamic_score": 8.545,
-    "last_updated": "2026-05-16T13:12:53.939593Z",
+    "last_updated": "2026-06-13T11:20:15.709687Z",
     "last_tweeted_at": "2026-05-16T10:18:22.603519Z",
     "tweet_id": "2055594475062223287",
     "resolved": false
@@ -24084,38 +24068,6 @@
     "tweet_id": "2062795047892828355",
     "resolved": false
   },
-  "17.9212,96.8768": {
-    "country": "Myanmar",
-    "name": "Shwegyin",
-    "risk_level": "Low",
-    "tweeted_level": "Low",
-    "latitude": 17.92118,
-    "longitude": 96.87676,
-    "rain_mm": 5.06,
-    "soil_moisture": 0.696,
-    "raw_dynamic_score": 0.829,
-    "last_updated": "2026-06-12T07:26:34.614671Z",
-    "last_tweeted_at": "2026-06-12T07:26:34.614671Z",
-    "tweet_id": "2065335474193834094",
-    "resolved": true,
-    "resolved_at": "2026-06-12T07:26:34.614671Z"
-  },
-  "17.9536,96.7225": {
-    "country": "Myanmar",
-    "name": "Nyaunglebin",
-    "risk_level": "Low",
-    "tweeted_level": "Low",
-    "latitude": 17.95363,
-    "longitude": 96.72247,
-    "rain_mm": 3.81,
-    "soil_moisture": 0.685,
-    "raw_dynamic_score": 0.621,
-    "last_updated": "2026-06-12T07:26:34.614671Z",
-    "last_tweeted_at": "2026-06-12T07:26:34.614671Z",
-    "tweet_id": "2065335474193834094",
-    "resolved": true,
-    "resolved_at": "2026-06-12T07:26:34.614671Z"
-  },
   "28.3769,129.4938": {
     "country": "Japan",
     "name": "Amami",
@@ -25016,7 +24968,7 @@
     "rain_mm": 34.94,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 6.682,
-    "last_updated": "2026-06-08T07:35:21.434780Z",
+    "last_updated": "2026-06-13T11:20:15.709687Z",
     "last_tweeted_at": "2026-06-08T02:59:06.256081Z",
     "tweet_id": "2063818109379895646",
     "resolved": false
@@ -26060,22 +26012,6 @@
     "last_tweeted_at": "2026-06-10T20:25:11.394295Z",
     "tweet_id": "2064806138823000442",
     "resolved": false
-  },
-  "17.4770,96.6783": {
-    "country": "Myanmar",
-    "name": "Waw",
-    "risk_level": "Low",
-    "tweeted_level": "Low",
-    "latitude": 17.47702,
-    "longitude": 96.67828,
-    "rain_mm": 8.19,
-    "soil_moisture": 0.703,
-    "raw_dynamic_score": 1.346,
-    "last_updated": "2026-06-12T12:22:32.922871Z",
-    "last_tweeted_at": "2026-06-12T07:26:34.614671Z",
-    "tweet_id": "2065335474193834094",
-    "resolved": true,
-    "resolved_at": "2026-06-12T07:26:34.614671Z"
   },
   "20.2117,-87.4633": {
     "country": "Mexico",
@@ -27461,7 +27397,7 @@
     "rain_mm": 66.5,
     "soil_moisture": 0.705,
     "raw_dynamic_score": 10.948,
-    "last_updated": "2026-06-13T07:02:37.322667Z",
+    "last_updated": "2026-06-13T11:20:15.709687Z",
     "last_tweeted_at": "2026-06-13T07:02:37.322667Z",
     "tweet_id": "2065691326054547665",
     "resolved": false
@@ -27476,7 +27412,7 @@
     "rain_mm": 55.31,
     "soil_moisture": 0.397,
     "raw_dynamic_score": 7.566,
-    "last_updated": "2026-06-13T07:02:37.322667Z",
+    "last_updated": "2026-06-13T11:20:15.709687Z",
     "last_tweeted_at": "2026-06-13T07:02:37.322667Z",
     "tweet_id": "2065691578291589325",
     "resolved": false
@@ -27506,9 +27442,39 @@
     "rain_mm": 59.12,
     "soil_moisture": 0.737,
     "raw_dynamic_score": 9.904,
-    "last_updated": "2026-06-13T07:02:37.322667Z",
+    "last_updated": "2026-06-13T11:20:15.709687Z",
     "last_tweeted_at": "2026-06-13T07:02:37.322667Z",
     "tweet_id": "2065691830813852040",
+    "resolved": false
+  },
+  "17.4395,75.1938": {
+    "country": "India",
+    "name": "Sāngola",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 17.43948,
+    "longitude": 75.19379,
+    "rain_mm": 43.19,
+    "soil_moisture": 0.611,
+    "raw_dynamic_score": 6.742,
+    "last_updated": "2026-06-13T11:20:15.709687Z",
+    "last_tweeted_at": "2026-06-13T11:20:15.709687Z",
+    "tweet_id": "2065756166261776658",
+    "resolved": false
+  },
+  "10.1676,12.7368": {
+    "country": "Nigeria",
+    "name": "Gombi",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 10.16756,
+    "longitude": 12.73684,
+    "rain_mm": 53.38,
+    "soil_moisture": 0.459,
+    "raw_dynamic_score": 7.6,
+    "last_updated": "2026-06-13T11:20:15.709687Z",
+    "last_tweeted_at": "2026-06-13T11:20:15.709687Z",
+    "tweet_id": "2065756418578559077",
     "resolved": false
   }
 }
