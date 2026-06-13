@@ -11217,5 +11217,25 @@
         "type": "statistical",
         "category": "population living in floodplains",
         "tweet_id": "2065752096499269928"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQcVBwX015TWtadGhvMFJOMFpTMU4ySXAwVWNMeG9ySzkxc0Nhc0VxRTBWT29nZHZPY1RPaFI3UFFsS2xYRWt6amcwcmdFZFg5N01aRFJsTWc1SmppekFHb2VTczRKSXA3YkRSSWNoX183aUNRUlJuYWdJZ3ZYTUpFWE8xaHZ2WlY2ODcyRFVFSGtpckE?oc=5",
+        "date": "2026-06-13",
+        "title": "First Warn Weather Day for severe and flash flood threats - KCTV",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQcVBwX015TWtadGhvMFJOMFpTMU4ySXAwVWNMeG9ySzkxc0Nhc0VxRTBWT29nZHZPY1RPaFI3UFFsS2xYRWt6amcwcmdFZFg5N01aRFJsTWc1SmppekFHb2VTczRKSXA3YkRSSWNoX183aUNRUlJuYWdJZ3ZYTUpFWE8xaHZ2WlY2ODcyRFVFSGtpckE?oc=5\" target=\"_blank\">First Warn Weather Day for severe and flash flood threats</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KCTV</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORGtFbFhZcmp5eXpWcDFQZmJnM1hEVVhWQl8wUi1PczRpVTJZcjBiSEJBWlh1YUVBVmJtZWx5dHJOWFkzeXhVZFBsM1JsZFV1MDhSbENFQ0FwT2ZWcUM4SmEwNklNRFR4c0R6aTNfT2RmVkE5WWdCcmlORXhUSE1vQXkwa3RDcTMybERMYl9iTTR3bTEybjhjS0NLZHVrMWs?oc=5",
+        "date": "2026-06-13",
+        "title": "Flood Warning Remains in Effect for English and Cedar Rivers - KCII Radio",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxORGtFbFhZcmp5eXpWcDFQZmJnM1hEVVhWQl8wUi1PczRpVTJZcjBiSEJBWlh1YUVBVmJtZWx5dHJOWFkzeXhVZFBsM1JsZFV1MDhSbENFQ0FwT2ZWcUM4SmEwNklNRFR4c0R6aTNfT2RmVkE5WWdCcmlORXhUSE1vQXkwa3RDcTMybERMYl9iTTR3bTEybjhjS0NLZHVrMWs?oc=5\" target=\"_blank\">Flood Warning Remains in Effect for English and Cedar Rivers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KCII Radio</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
     }
 ]
