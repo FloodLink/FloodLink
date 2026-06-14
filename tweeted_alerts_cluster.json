@@ -27266,5 +27266,20 @@
     "last_tweeted_at": "2026-06-14T11:35:51.696282Z",
     "tweet_id": "2066122723747651674",
     "resolved": false
+  },
+  "11.0154,6.7804": {
+    "country": "Nigeria",
+    "name": "Sofo-Birnin-Gwari",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 11.01537,
+    "longitude": 6.78036,
+    "rain_mm": 47.38,
+    "soil_moisture": 0.444,
+    "raw_dynamic_score": 6.68,
+    "last_updated": "2026-06-14T13:54:03.271314Z",
+    "last_tweeted_at": "2026-06-14T13:54:03.271314Z",
+    "tweet_id": "2066157262897295629",
+    "resolved": false
   }
 }
