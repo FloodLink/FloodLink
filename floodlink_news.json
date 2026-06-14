@@ -11309,5 +11309,14 @@
         "tweet": "\ud83c\uddf3\ud83c\uddf1 The Netherlands maintains 3,700 km of primary levees and dikes, protecting 9 million residents in areas below sea level.",
         "type": "infrastructure",
         "tweet_id": "2066076886187364408"
+    },
+    {
+        "link": null,
+        "date": "2026-06-14",
+        "status": "posted",
+        "tweet": "In 2024, floods and flash floods caused $25 billion in economic losses across the United States from extreme rainfall and storm surge.",
+        "type": "statistical",
+        "category": "economic losses from floods and flash floods",
+        "tweet_id": "2066117978526011789"
     }
 ]
