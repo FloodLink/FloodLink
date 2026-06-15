@@ -12064,5 +12064,255 @@
             "longitude": -89.5,
             "confidence": 0.85
         }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZmUzQmtOaW1IRXcxMXBIb0FISHFEZl8wMlF1d0NheXZzcjFvMVJkNUpyWU9ubVYwb0Zua0FtY3F6eHhEYVhmVG41RDJXcUprZ040UmozSDE1TWQ1U0cwOHpPZ0dzWElxV3BtaWNabGpnZVd6X0N3Vk9PdjczRXJOUG5sVlZzem5odXlvRGZaQkt2QWNETDljVHV2aHpZUWdhRGVhdzNERU5vY0hQTkNObmpvN3JFQTd0eFFF0gHPAUFVX3lxTE9YSEgxV09VelVmWi1HRzZhQ1lLUm5GcEQ2aWFqUlN0LXdFbFNRNTBqZHB2TkZxWlVSeVE3VTEwRkNWdzNoWTZtblJ4MG5DTmpOem5PWHhpNkFMa2VPNGlKa0NvVnhFa1RGZ2diZ3l3X0dBSVVjNWM3Z1pKNWp2RjdTZGp6QU1VdDRnTE93RFVjYVZQYnprQkJ4TkdlY3ZpcnAwNUZoaFh6OE5zS3c3NlBKNW1ERl9NdGJoazRfV0xvVktOSVc5U0tCeWg5VEhCTQ?oc=5",
+        "date": "2026-06-15",
+        "title": "Flash flooding inundates east Texas, Shreveport-Bossier as heavy rain moves through ArkLaTex - KSLA",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZmUzQmtOaW1IRXcxMXBIb0FISHFEZl8wMlF1d0NheXZzcjFvMVJkNUpyWU9ubVYwb0Zua0FtY3F6eHhEYVhmVG41RDJXcUprZ040UmozSDE1TWQ1U0cwOHpPZ0dzWElxV3BtaWNabGpnZVd6X0N3Vk9PdjczRXJOUG5sVlZzem5odXlvRGZaQkt2QWNETDljVHV2aHpZUWdhRGVhdzNERU5vY0hQTkNObmpvN3JFQTd0eFFF0gHPAUFVX3lxTE9YSEgxV09VelVmWi1HRzZhQ1lLUm5GcEQ2aWFqUlN0LXdFbFNRNTBqZHB2TkZxWlVSeVE3VTEwRkNWdzNoWTZtblJ4MG5DTmpOem5PWHhpNkFMa2VPNGlKa0NvVnhFa1RGZ2diZ3l3X0dBSVVjNWM3Z1pKNWp2RjdTZGp6QU1VdDRnTE93RFVjYVZQYnprQkJ4TkdlY3ZpcnAwNUZoaFh6OE5zS3c3NlBKNW1ERl9NdGJoazRfV0xvVktOSVc5U0tCeWg5VEhCTQ?oc=5\" target=\"_blank\">Flash flooding inundates east Texas, Shreveport-Bossier as heavy rain moves through ArkLaTex</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KSLA</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVENqX3JVVjdoYlZaeGIyckVrd3hhQ2Z1ZUFOd3ZFXzVxZHpEU0I1TVc3QVI4bVpueWRENzRocDZaUFZQamRRQWNnUmJKY002d2VNTEVVbG9Ec1VCc2hRZDZsUm1hQ2dsWVd3YUc5c1pET1pXWGQtYU8teFBrZnNLUGVqMndGWHBDMVpGNGJYbUtNZ3pJWDVGbDdLb0RRNWV4TjFEZmxlVQ?oc=5",
+        "date": "2026-06-15",
+        "title": "Flash flood warning for Hidalgo County canceled, flood watch remains in effect - KRGV",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNVENqX3JVVjdoYlZaeGIyckVrd3hhQ2Z1ZUFOd3ZFXzVxZHpEU0I1TVc3QVI4bVpueWRENzRocDZaUFZQamRRQWNnUmJKY002d2VNTEVVbG9Ec1VCc2hRZDZsUm1hQ2dsWVd3YUc5c1pET1pXWGQtYU8teFBrZnNLUGVqMndGWHBDMVpGNGJYbUtNZ3pJWDVGbDdLb0RRNWV4TjFEZmxlVQ?oc=5\" target=\"_blank\">Flash flood warning for Hidalgo County canceled, flood watch remains in effect</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KRGV</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQLW1jQk0tM3Z1TFZZQWNmUEowZXBiUGd2Y0NvQXpwbHd4NEhXTGItdWgyNUZxN3VEQjJvSEo2YVp0SzkzV09pdk90TXJJR3RodktCRmxIV0xlMTVDWnhrSHlkdHMtRGI1bmJtS2NlclFUNkpudGxhalhFOWY0UV82QlBibks0M2FuQy1PdE5OTGRFR1htMXlWZjByM1pBdw?oc=5",
+        "date": "2026-06-15",
+        "title": "Flash flood warning delays summer programs in San Antonio schools - San Antonio Express-News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQLW1jQk0tM3Z1TFZZQWNmUEowZXBiUGd2Y0NvQXpwbHd4NEhXTGItdWgyNUZxN3VEQjJvSEo2YVp0SzkzV09pdk90TXJJR3RodktCRmxIV0xlMTVDWnhrSHlkdHMtRGI1bmJtS2NlclFUNkpudGxhalhFOWY0UV82QlBibks0M2FuQy1PdE5OTGRFR1htMXlWZjByM1pBdw?oc=5\" target=\"_blank\">Flash flood warning delays summer programs in San Antonio schools</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">San Antonio Express-News</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNRTBxZDNGM0xBUUVvaTNVOVg1UGtGWkwzLTh0WEl6ZzA5OGtCenUzdUI1bjZnNUZybUVGbEJ2Umd4blVrb0MzREZDSG51NW95bU1vSGQyUXFKYUFFUVItNDdERVQyekFxbGZaSkdwRHJxWlQzdGpxUHVfNWlNYnY5VlhiYzA2c1kyT1E?oc=5",
+        "date": "2026-06-15",
+        "title": "Why your Texas flood alerts sounded so different - Chron",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxNRTBxZDNGM0xBUUVvaTNVOVg1UGtGWkwzLTh0WEl6ZzA5OGtCenUzdUI1bjZnNUZybUVGbEJ2Umd4blVrb0MzREZDSG51NW95bU1vSGQyUXFKYUFFUVItNDdERVQyekFxbGZaSkdwRHJxWlQzdGpxUHVfNWlNYnY5VlhiYzA2c1kyT1E?oc=5\" target=\"_blank\">Why your Texas flood alerts sounded so different</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Chron</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4xOGlHNnAwaTBZZGViRWNQLWdWZXZCUlBWclRFMnY5QU5ob242QVhDVEZnTng2cmwtSjFvWGtxYVA1TExGaHhfYWtWOXBWRDFxSDVBX1NnV0RXa1ZvUGthcEZGeXB0SFdka1JsRTgxeUtmQ2p1QWI5NGdB?oc=5",
+        "date": "2026-06-15",
+        "title": "Flood warning in place for Chelan County until further notice, says the NWS - Tacoma News Tribune",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE4xOGlHNnAwaTBZZGViRWNQLWdWZXZCUlBWclRFMnY5QU5ob242QVhDVEZnTng2cmwtSjFvWGtxYVA1TExGaHhfYWtWOXBWRDFxSDVBX1NnV0RXa1ZvUGthcEZGeXB0SFdka1JsRTgxeUtmQ2p1QWI5NGdB?oc=5\" target=\"_blank\">Flood warning in place for Chelan County until further notice, says the NWS</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tacoma News Tribune</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNeEZpOS1DMzlXbjdiS3l5MVRTUTRldHhxREdteU9kU18xYTV3TW1fcGNLdXJRVGw0SjRPQmdMZXQwQm9xaTJkQkpfdi12dXJUQjNIWnFjUjlNc0RaQk5COE5rQTFuRk9RUy1nS2FmUEVSUDdaakp1aEhRaXBQanBxZkFsT09UV3Z0ZkxuajRkdHZWQlMwMWpSSmFVOHM5SWRaSWhLdQ?oc=5",
+        "date": "2026-06-15",
+        "title": "River Flood Warning issued for San Antonio River, expected to rise above flood stage - WOAI",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNeEZpOS1DMzlXbjdiS3l5MVRTUTRldHhxREdteU9kU18xYTV3TW1fcGNLdXJRVGw0SjRPQmdMZXQwQm9xaTJkQkpfdi12dXJUQjNIWnFjUjlNc0RaQk5COE5rQTFuRk9RUy1nS2FmUEVSUDdaakp1aEhRaXBQanBxZkFsT09UV3Z0ZkxuajRkdHZWQlMwMWpSSmFVOHM5SWRaSWhLdQ?oc=5\" target=\"_blank\">River Flood Warning issued for San Antonio River, expected to rise above flood stage</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WOAI</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOaDJoMDlBUl9MazhwM2djMmd6OE9PbVBBeExIWG51cExVckkzQjFzQmZ5Yy1Tc2dQa2t5TjNUTklrQVRGc2lkNjNiQ2djaEJrMlA5ZEgydFlNNTRKVWhjVWlSTk5jUFhld0xaMUNNSVJzWDlERW83Wk1fdzh6R0NnWmxWMU1GQ1otZEZDcFduNmxGRkNXa0hkX0dENGFaQzZUZUtqaE4wQVA0VlMzWW40anhjdEV1WE82QUowRG94Ujdwdw?oc=5",
+        "date": "2026-06-15",
+        "title": "Flash flood warning issued for northwest Louisiana - Shreveport Times",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxOaDJoMDlBUl9MazhwM2djMmd6OE9PbVBBeExIWG51cExVckkzQjFzQmZ5Yy1Tc2dQa2t5TjNUTklrQVRGc2lkNjNiQ2djaEJrMlA5ZEgydFlNNTRKVWhjVWlSTk5jUFhld0xaMUNNSVJzWDlERW83Wk1fdzh6R0NnWmxWMU1GQ1otZEZDcFduNmxGRkNXa0hkX0dENGFaQzZUZUtqaE4wQVA0VlMzWW40anhjdEV1WE82QUowRG94Ujdwdw?oc=5\" target=\"_blank\">Flash flood warning issued for northwest Louisiana</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Shreveport Times</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTEhhWElIMDlobHVhQUFmMFhhdVZpVWgtMm4zaDJQMkFfU0FUNHVMbVBZeDJRYUtVRURYWnRmQnZ3cHdYajlERVZOSXJNMWlZUlkwRW53Q1dxSTUtR2N5aTdfdlVoMHBCLTM2SlhUZmxxRDRickh4bEJCZ0p4RnNLbU85TkNsc25ESDhzRmQtRTV0Z3g1ZksyWGc4aFVDX285OWQ1TjFkQ2xILVN1Y2tvbU1WaTNmaXRuZG5V?oc=5",
+        "date": "2026-06-15",
+        "title": "Coastal flood advisory affecting Los Angeles County Beaches until 2 a.m. Wednesday - Los Angeles Daily News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTEhhWElIMDlobHVhQUFmMFhhdVZpVWgtMm4zaDJQMkFfU0FUNHVMbVBZeDJRYUtVRURYWnRmQnZ3cHdYajlERVZOSXJNMWlZUlkwRW53Q1dxSTUtR2N5aTdfdlVoMHBCLTM2SlhUZmxxRDRickh4bEJCZ0p4RnNLbU85TkNsc25ESDhzRmQtRTV0Z3g1ZksyWGc4aFVDX285OWQ1TjFkQ2xILVN1Y2tvbU1WaTNmaXRuZG5V?oc=5\" target=\"_blank\">Coastal flood advisory affecting Los Angeles County Beaches until 2 a.m. Wednesday</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Los Angeles Daily News</font>",
+        "similarity_excluded": "No",
+        "score": 6,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB6dXcwSndERG5NeUg0X2xrd0RyYllyLXBySks1YVl4bzI4NW5ULTVYQm5mX3J1dlFNMGgwbmh6QzVfNjZ0bnlGWXRFcHdUQ0ZMVWtjTkZBY1l1VFRQOTN3b1Z1Z19Kdk1YWEdJTEhXMkpQR19JRTdpTmdxU2o5Zw?oc=5",
+        "date": "2026-06-15",
+        "title": "Major Flooding Expected in Texas and Across the Gulf Coast - The New York Times",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTFB6dXcwSndERG5NeUg0X2xrd0RyYllyLXBySks1YVl4bzI4NW5ULTVYQm5mX3J1dlFNMGgwbmh6QzVfNjZ0bnlGWXRFcHdUQ0ZMVWtjTkZBY1l1VFRQOTN3b1Z1Z19Kdk1YWEdJTEhXMkpQR19JRTdpTmdxU2o5Zw?oc=5\" target=\"_blank\">Major Flooding Expected in Texas and Across the Gulf Coast</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNeUZVd0VxUzdIMTVJcEk1TGhwVHVRUDlkbFp2X3dDUDdsWkZGcHVCdEN2S0tZVnUxdHJSbDRVWVJoUEp6UV96MjExNWJGX09hUkJIR1ZpcVBpYzh1cGIzWDRMUmpYdFZkNjBjWXVCSU55LVRuaGtpdkV6V3A3MnhaYUNVV1QzMWJlYXd1cFZsQVhnQUEtdkFfMWJR?oc=5",
+        "date": "2026-06-15",
+        "title": "Flash Flood Warning - kiiitv.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNeUZVd0VxUzdIMTVJcEk1TGhwVHVRUDlkbFp2X3dDUDdsWkZGcHVCdEN2S0tZVnUxdHJSbDRVWVJoUEp6UV96MjExNWJGX09hUkJIR1ZpcVBpYzh1cGIzWDRMUmpYdFZkNjBjWXVCSU55LVRuaGtpdkV6V3A3MnhaYUNVV1QzMWJlYXd1cFZsQVhnQUEtdkFfMWJR?oc=5\" target=\"_blank\">Flash Flood Warning</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">kiiitv.com</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5rOUd3UTRJTkRqNGRfaVdIU0U2OXdmdTRCdC03SEtfbDNNd21zamFHUlNTdFRsNlg1RDNrX2hSYkl0U3QwellNT2hfZlBYUHJoSV8wUGNqcnNLelNleGo2dWhJONIBaEFVX3lxTE1HWlVJTnlnQ1BqTVlrQl9oZzh6cTRBT0ZzOFJfSU5XbW9JM2VLelE3a2NWdm9Kb2F0ZFJpeGl4VnlrUkcwcGs0Vzk0T2dEb0lVU2E4Q0gtSjBWaVNJdjhoUFd0TXJWc0Nn?oc=5",
+        "date": "2026-06-15",
+        "title": "Heavy showers cause flash flooding in CTX - FOX 7 Austin",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE5rOUd3UTRJTkRqNGRfaVdIU0U2OXdmdTRCdC03SEtfbDNNd21zamFHUlNTdFRsNlg1RDNrX2hSYkl0U3QwellNT2hfZlBYUHJoSV8wUGNqcnNLelNleGo2dWhJONIBaEFVX3lxTE1HWlVJTnlnQ1BqTVlrQl9oZzh6cTRBT0ZzOFJfSU5XbW9JM2VLelE3a2NWdm9Kb2F0ZFJpeGl4VnlrUkcwcGs0Vzk0T2dEb0lVU2E4Q0gtSjBWaVNJdjhoUFd0TXJWc0Nn?oc=5\" target=\"_blank\">Heavy showers cause flash flooding in CTX</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FOX 7 Austin</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1zTV9sYTZOeXZleTNuZ2R1NkFNNzVIVkU1MDlSdzFabmREMEdraTY5YVVLWlczaFBBNHBQYWZuUEhWNUNKUmZVdm9WbkYzMXBERHhWSDg5cHZTblRnd1lDS2d0bDVQWXJVekVhSkpONWhWWXFBSjZuZnZR0gGOAUFVX3lxTFBLajdQbU96R2RTWERBMml4Nm9DQXBuM3V3UXRWcHhZOU1vS1ZzLWxKV1prV18zM253bXE1Rml4TG5fdDAyYlg3b0NmelBFbHNWNXBXR0ZSSHBDSmJvSTFnSTROREdjMTR3WjRHUWZqUHpzVTNoNXlWMXJXTmJCempXOXhMc2RfM01PZXJ2dlE?oc=5",
+        "date": "2026-06-15",
+        "title": "Heavy rains flood Highways 80, 59 in Marshall - KLTV.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE1zTV9sYTZOeXZleTNuZ2R1NkFNNzVIVkU1MDlSdzFabmREMEdraTY5YVVLWlczaFBBNHBQYWZuUEhWNUNKUmZVdm9WbkYzMXBERHhWSDg5cHZTblRnd1lDS2d0bDVQWXJVekVhSkpONWhWWXFBSjZuZnZR0gGOAUFVX3lxTFBLajdQbU96R2RTWERBMml4Nm9DQXBuM3V3UXRWcHhZOU1vS1ZzLWxKV1prV18zM253bXE1Rml4TG5fdDAyYlg3b0NmelBFbHNWNXBXR0ZSSHBDSmJvSTFnSTROREdjMTR3WjRHUWZqUHpzVTNoNXlWMXJXTmJCempXOXhMc2RfM01PZXJ2dlE?oc=5\" target=\"_blank\">Heavy rains flood Highways 80, 59 in Marshall</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KLTV.com</font>",
+        "similarity_excluded": "No",
+        "score": 5,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPbV9iSWpkaVJpZ2ozci1vQnAzNl9KWlZSOWVraFFjd0R4UVVkYkxGalE0cWkwRzVwazMwYXBWMnVhc0l5eFE3YUpLYmdMTURaUjg1VTFWZmYwR1R2b0dJY3Q4WjMyQW50V2RlZjdFdUlXeHh4RGx6RVE0cmJiYWRsZkZrRWF4NlJuZDVqVEltbGxOREJ1cHpMeW1KbV9uR3Q0SHdBYUNScGlQVjhKRXJfc3B0ckZJSzhjdHFvUnVNUUM3dFBFS2dPR9IBzgFBVV95cUxPNE15cG5UVUFBemF2QU81MF9BTWdCZzZpaTJhN1Fsek83LXY1WklKb1FDQTVOSm05aWgyQVZ6NUdtLXhhNVhEWGNUeG5TYm5jaVBFZXdKTTBCZ2gtSzJZSmh3bkIxUGFHRWFUcm9sTjE4ZGNRR0xlelkza0xiVmFDa05lM09mYTN6RW9hWGpxOFFmNlF5bWNfLUl3Nno1VE1Ha210YjE2dzdMaHh0UGtZR0gzblAySFFKdWZ0YlhFTDBqczhHV1dTMXNmeU9FUQ?oc=5",
+        "date": "2026-06-15",
+        "title": "Austin firefighters warn drivers: Avoid flooded roads as flash flooding hits Central Texas - KXAN Austin",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxPbV9iSWpkaVJpZ2ozci1vQnAzNl9KWlZSOWVraFFjd0R4UVVkYkxGalE0cWkwRzVwazMwYXBWMnVhc0l5eFE3YUpLYmdMTURaUjg1VTFWZmYwR1R2b0dJY3Q4WjMyQW50V2RlZjdFdUlXeHh4RGx6RVE0cmJiYWRsZkZrRWF4NlJuZDVqVEltbGxOREJ1cHpMeW1KbV9uR3Q0SHdBYUNScGlQVjhKRXJfc3B0ckZJSzhjdHFvUnVNUUM3dFBFS2dPR9IBzgFBVV95cUxPNE15cG5UVUFBemF2QU81MF9BTWdCZzZpaTJhN1Fsek83LXY1WklKb1FDQTVOSm05aWgyQVZ6NUdtLXhhNVhEWGNUeG5TYm5jaVBFZXdKTTBCZ2gtSzJZSmh3bkIxUGFHRWFUcm9sTjE4ZGNRR0xlelkza0xiVmFDa05lM09mYTN6RW9hWGpxOFFmNlF5bWNfLUl3Nno1VE1Ha210YjE2dzdMaHh0UGtZR0gzblAySFFKdWZ0YlhFTDBqczhHV1dTMXNmeU9FUQ?oc=5\" target=\"_blank\">Austin firefighters warn drivers: Avoid flooded roads as flash flooding hits Central Texas</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KXAN Austin</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQd1NmNUppRUhuR25FUFFHaERxMlZnYTdnek02a2ZWNXpyWmMxRkl4X1lEOG15WUE4c2V0REUxRzFTcVk0SzlJX25LYTdNQjN1YVlDMV9xdzZQTDBmY1lNZDNRd29rdjR0eG9wRm0tVWY4N00tc0J5dnVpd3l6QWpsclRQUDRaUjFvb0ZsTjhDWGt6djNDWWNKMHdGVTRCNnlZeUNfUVp2cnV3TExVTHR4MWdFc1c?oc=5",
+        "date": "2026-06-15",
+        "title": "Central Texans express frustrations over timing of flash flood alerts - KVUE",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQd1NmNUppRUhuR25FUFFHaERxMlZnYTdnek02a2ZWNXpyWmMxRkl4X1lEOG15WUE4c2V0REUxRzFTcVk0SzlJX25LYTdNQjN1YVlDMV9xdzZQTDBmY1lNZDNRd29rdjR0eG9wRm0tVWY4N00tc0J5dnVpd3l6QWpsclRQUDRaUjFvb0ZsTjhDWGt6djNDWWNKMHdGVTRCNnlZeUNfUVp2cnV3TExVTHR4MWdFc1c?oc=5\" target=\"_blank\">Central Texans express frustrations over timing of flash flood alerts</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KVUE</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPQzNoV1YtclhxeVZ3ZHoxWE5jc2RjUkYzN282d0tkdmNyWnNiTERmVFcxZzFObk1Yb3VrNnlPRklMWUw3LVhOSUNTOEZHU0pyOXJzTHdZR1JrbGtKbjFrTXo4elVBOE5YbEdDOE9BTG9CWnpkcmdtSDAyT2RSaTZORUtyLTNSQdIBiwFBVV95cUxQd0NWYzBfTWZtUWZha3o3ZFdrcV9SVGFoNURZb1lkZENsa3RRT1BPWG5JY3hHMkVGT3NlU2t5Z1pnaS00aXdwSWM5MGN1d09MZ0ptLWY5d0c3cHFnNENpY3poVWRoWGZSdzdSWGpaUnhMUUJ6TEtOV0paZ3l1RFFRUGR6bW5Ya3F4T1dB?oc=5",
+        "date": "2026-06-15",
+        "title": "Austin weather: Heavy rain causes flash flooding - FOX 7 Austin",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxPQzNoV1YtclhxeVZ3ZHoxWE5jc2RjUkYzN282d0tkdmNyWnNiTERmVFcxZzFObk1Yb3VrNnlPRklMWUw3LVhOSUNTOEZHU0pyOXJzTHdZR1JrbGtKbjFrTXo4elVBOE5YbEdDOE9BTG9CWnpkcmdtSDAyT2RSaTZORUtyLTNSQdIBiwFBVV95cUxQd0NWYzBfTWZtUWZha3o3ZFdrcV9SVGFoNURZb1lkZENsa3RRT1BPWG5JY3hHMkVGT3NlU2t5Z1pnaS00aXdwSWM5MGN1d09MZ0ptLWY5d0c3cHFnNENpY3poVWRoWGZSdzdSWGpaUnhMUUJ6TEtOV0paZ3l1RFFRUGR6bW5Ya3F4T1dB?oc=5\" target=\"_blank\">Austin weather: Heavy rain causes flash flooding</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FOX 7 Austin</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxORGtCNlh0VXN0aTVBbTRNYVMzQU9rQzdiZThfdUpkWnFZQzJSLUtzRDNrallKSGdvd3lqLW9YbUtXU0hJR0hVcThnVzV2RFFfN05sQUtSenlvZlAxWkVCTUdia1ZDellKQ2lfRDcyaDVEU3VFMkhMOXFPRnQ3cmNVUV9VRlBaVjVWc0FJTFJGaWFKSjVjNmZHN29JU29jYzNaUDBTRTVPRUVnQlNNdXBSVzVMRFMxbngxUWR6V2tZbXRucW5BTVZkWA?oc=5",
+        "date": "2026-06-15",
+        "title": "Torrential rains trigger flash flooding in San Antonio; driver swept away in Bandera County - WOAI",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxORGtCNlh0VXN0aTVBbTRNYVMzQU9rQzdiZThfdUpkWnFZQzJSLUtzRDNrallKSGdvd3lqLW9YbUtXU0hJR0hVcThnVzV2RFFfN05sQUtSenlvZlAxWkVCTUdia1ZDellKQ2lfRDcyaDVEU3VFMkhMOXFPRnQ3cmNVUV9VRlBaVjVWc0FJTFJGaWFKSjVjNmZHN29JU29jYzNaUDBTRTVPRUVnQlNNdXBSVzVMRFMxbngxUWR6V2tZbXRucW5BTVZkWA?oc=5\" target=\"_blank\">Torrential rains trigger flash flooding in San Antonio; driver swept away in Bandera County</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WOAI</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNQ0VVZnF5TWNRbTJSekJpZndDVWxlXzZPQ2dRWGxjdTBkdThhcU1USTJISzZndDJrMGJiWVNFekluR2MyemRmS013VnF2V1IwVzNZOFgxYjFzS1NIenhfV3AtUVNGQUVPM0pfeXdSd3dQZnBXbUdVUXktSnlfaUUtTTRLN2NIZWM?oc=5",
+        "date": "2026-06-15",
+        "title": "Invest 90-L will bring multi-day tropical flood threat to Louisiana. What you need to know - WDSU",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxNQ0VVZnF5TWNRbTJSekJpZndDVWxlXzZPQ2dRWGxjdTBkdThhcU1USTJISzZndDJrMGJiWVNFekluR2MyemRmS013VnF2V1IwVzNZOFgxYjFzS1NIenhfV3AtUVNGQUVPM0pfeXdSd3dQZnBXbUdVUXktSnlfaUUtTTRLN2NIZWM?oc=5\" target=\"_blank\">Invest 90-L will bring multi-day tropical flood threat to Louisiana. What you need to know</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WDSU</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPYWFOXzRwSjl2eWtRQllRUmg5b01Tdm1GMUJUY196bzFVeGplVm5Sa3B4a0g2SEZZMkNLcWhSRzZEWF9EcXQ4MDNnOThwWE1DekNjdUNGRkFvalFCdmtrM0Q1OUdGcXhRQnB2U1lNVjhLRDdWRkhLOWdjNC0yX1d5ZzdPcWZHWEctVHpkWTVjTmdOcTY5N0ljWVhodTBCM0JIZW1hdmF4UFRUT19YOHQyQThicDlrU0U?oc=5",
+        "date": "2026-06-15",
+        "title": "Red Cross urges flash flood preparedness - KTBS 3",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPYWFOXzRwSjl2eWtRQllRUmg5b01Tdm1GMUJUY196bzFVeGplVm5Sa3B4a0g2SEZZMkNLcWhSRzZEWF9EcXQ4MDNnOThwWE1DekNjdUNGRkFvalFCdmtrM0Q1OUdGcXhRQnB2U1lNVjhLRDdWRkhLOWdjNC0yX1d5ZzdPcWZHWEctVHpkWTVjTmdOcTY5N0ljWVhodTBCM0JIZW1hdmF4UFRUT19YOHQyQThicDlrU0U?oc=5\" target=\"_blank\">Red Cross urges flash flood preparedness</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KTBS 3</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOVDZPU01UaGN3UkNnR1hDVmN0cHIyWUw2bDhGYUo0SG8tT0c5blFDVWthVmFXUnN4Rkp6ZGVHZkVyTG9PQXJRb3RpQjkxdkNibDhzV3lvRmUtMHhYQmgybnVSVTdxM1dPWEVLSER0WGxza2Y3UnNLend1eGZrazhlV3p5cEhtazEtalEwdUNvaGZlZXNtbXRwQ2ljSUJkR010aXRNWFpCWFZFQzBxbGlaVzJiblF4Tm1OQVRWZ3QyY0hZYWJVNlBBNG13amFJamhkWi11cS13?oc=5",
+        "date": "2026-06-15",
+        "title": "Search underway for person in vehicle swept away by floodwaters, Bandera County deputies say - KSAT",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxOVDZPU01UaGN3UkNnR1hDVmN0cHIyWUw2bDhGYUo0SG8tT0c5blFDVWthVmFXUnN4Rkp6ZGVHZkVyTG9PQXJRb3RpQjkxdkNibDhzV3lvRmUtMHhYQmgybnVSVTdxM1dPWEVLSER0WGxza2Y3UnNLend1eGZrazhlV3p5cEhtazEtalEwdUNvaGZlZXNtbXRwQ2ljSUJkR010aXRNWFpCWFZFQzBxbGlaVzJiblF4Tm1OQVRWZ3QyY0hZYWJVNlBBNG13amFJamhkWi11cS13?oc=5\" target=\"_blank\">Search underway for person in vehicle swept away by floodwaters, Bandera County deputies say</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KSAT</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOekUxODJQamVDdDFUbk95ZWhHcVRrcGc1YjB6WEFqZWJEbnNpMEpKTTJ0ckZDempWeC1YcDd6UG9zQkpCODZBNjNTdUxFTmR4eWFyRXlmOUZuYTNLcklOM1VaakowNFd2ZUVyWUhwS1F6YUtXcDlLaEVCMENzaEMzOTJsWWJSa05aWGdxZzV6d2Npdmt6VEVpUThFMnpVQU5wZHfSAacBQVVfeXFMTnh0N0RtZzFSUE9IYV9WejgzR3hUNXhURENXRkp3MU85X0lYWmlhZ3ltODJkUnk4MlRZMXA3aGt3NnUyWjYxbVJBTlhBN3VEdlk1V1dIYkxRb0RNT2NWcS1COHlTNGNhaGh6UEJYR1Bwd1JJWUJQVzNUaXYwaXN2QXExTF9ULXA4Mzd0YWN3MndtVEFCQmNsMGxIak9CdDJSdV9OTjBVTXc?oc=5",
+        "date": "2026-06-15",
+        "title": "Arizona monsoon 2026: Preparing for microbursts, flash floods, and haboobs - FOX 10 Phoenix",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxOekUxODJQamVDdDFUbk95ZWhHcVRrcGc1YjB6WEFqZWJEbnNpMEpKTTJ0ckZDempWeC1YcDd6UG9zQkpCODZBNjNTdUxFTmR4eWFyRXlmOUZuYTNLcklOM1VaakowNFd2ZUVyWUhwS1F6YUtXcDlLaEVCMENzaEMzOTJsWWJSa05aWGdxZzV6d2Npdmt6VEVpUThFMnpVQU5wZHfSAacBQVVfeXFMTnh0N0RtZzFSUE9IYV9WejgzR3hUNXhURENXRkp3MU85X0lYWmlhZ3ltODJkUnk4MlRZMXA3aGt3NnUyWjYxbVJBTlhBN3VEdlk1V1dIYkxRb0RNT2NWcS1COHlTNGNhaGh6UEJYR1Bwd1JJWUJQVzNUaXYwaXN2QXExTF9ULXA4Mzd0YWN3MndtVEFCQmNsMGxIak9CdDJSdV9OTjBVTXc?oc=5\" target=\"_blank\">Arizona monsoon 2026: Preparing for microbursts, flash floods, and haboobs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FOX 10 Phoenix</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNT05CWHloLXRhVjJsaFYxUTUxUE1ycmo4S1dHNENPMnpFalh4RHJaTkpvaGxjcVVCc09SeTRLRTVOQlFET0loMlF3V2RLTUNyUnJ2bGViUktTQWYzSklpX2FNelNBcFVwOFdOa29XZjdLNzNLVHdOdEcxU0lZeTVIY1pkNnB3TUdpZjl0ZU45OUMxblNPVTVGa0p4TzR0dDA?oc=5",
+        "date": "2026-06-15",
+        "title": "Heavy rain forces numerous road closures across San Antonio - WOAI",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNT05CWHloLXRhVjJsaFYxUTUxUE1ycmo4S1dHNENPMnpFalh4RHJaTkpvaGxjcVVCc09SeTRLRTVOQlFET0loMlF3V2RLTUNyUnJ2bGViUktTQWYzSklpX2FNelNBcFVwOFdOa29XZjdLNzNLVHdOdEcxU0lZeTVIY1pkNnB3TUdpZjl0ZU45OUMxblNPVTVGa0p4TzR0dDA?oc=5\" target=\"_blank\">Heavy rain forces numerous road closures across San Antonio</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WOAI</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPcTRFY25STU5mYUM3cmpmMWZ0WVJvckVGaGh1TUJvVTVlNEZJczAwVFZDUU42QURUbTJfa282bE9XMnMxQWRXdHc4dVQ2d180bXZOVU5RT1ZiTkQ5OFZxRmMzemdjLTJjMFp3ajVaS3RkRUdLYWNrNG50UDVCc1ZUNWdweXAxMDhzWk1icjhVbTZJOFJrQlg3Z2R0WEJWZmljVUtMS3lxWkY2UFB5cUg3QXVVOER0M3lPdU1DTllR0gHDAUFVX3lxTE4xWWJXVUxlTjZXZjA5TkozajNkZW5QaTFvdHN0VzJmMllxY3A2T1haNGZaS1pmYlNYZTNQYlZ4RWw2bzdkN0d1cDlRa0h5MlpscVg2eDJLQmxYc1phUTZvRW5YV0F1TTJDT2lWZ095MVIzcnBTWEpYaUZncTVLS1E5dUJWVjZCQWJlWU12VGs0dFdGXzlnRWxEWUlVOENORWtyZ2VNYXV4LVgyNklWSnFfU04weXJmeEs1MTRQdHppSlA0TQ?oc=5",
+        "date": "2026-06-15",
+        "title": "Tropical disturbance in Gulf carries 50% chance of development, poses heavy flood risk to Texas - FOX 26 Houston",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxPcTRFY25STU5mYUM3cmpmMWZ0WVJvckVGaGh1TUJvVTVlNEZJczAwVFZDUU42QURUbTJfa282bE9XMnMxQWRXdHc4dVQ2d180bXZOVU5RT1ZiTkQ5OFZxRmMzemdjLTJjMFp3ajVaS3RkRUdLYWNrNG50UDVCc1ZUNWdweXAxMDhzWk1icjhVbTZJOFJrQlg3Z2R0WEJWZmljVUtMS3lxWkY2UFB5cUg3QXVVOER0M3lPdU1DTllR0gHDAUFVX3lxTE4xWWJXVUxlTjZXZjA5TkozajNkZW5QaTFvdHN0VzJmMllxY3A2T1haNGZaS1pmYlNYZTNQYlZ4RWw2bzdkN0d1cDlRa0h5MlpscVg2eDJLQmxYc1phUTZvRW5YV0F1TTJDT2lWZ095MVIzcnBTWEpYaUZncTVLS1E5dUJWVjZCQWJlWU12VGs0dFdGXzlnRWxEWUlVOENORWtyZ2VNYXV4LVgyNklWSnFfU04weXJmeEs1MTRQdHppSlA0TQ?oc=5\" target=\"_blank\">Tropical disturbance in Gulf carries 50% chance of development, poses heavy flood risk to Texas</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FOX 26 Houston</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPd3ZZcmcwTXpJTUhvQm5NZlRzUDFIVDdNZFdYQU1maGVFOURWMzBHdk1kbTA5dGF5TlFxYURTRnF6T0xJOHJxZTRiZEpLODN0R1k1UGhNVlF1NUVteldoT3ZFR1ROZ29SWk5WcGg0NFdoQU1HY1hQN3g0UUVodFlFWW9VVUFrTHQ2QXZ5M1N1RmVUWS1KS0Q5bFh1Y2I2cl9WOERkeGtPVXBGczZBeTUwbGozeDdiLXlNNHYybFFsVjVkamFocllz?oc=5",
+        "date": "2026-06-15",
+        "title": "Invest 90L development chances increase; Gulf Coast faces flooding threat from heavy tropical rain - KRIS 6 News Corpus Christi",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxPd3ZZcmcwTXpJTUhvQm5NZlRzUDFIVDdNZFdYQU1maGVFOURWMzBHdk1kbTA5dGF5TlFxYURTRnF6T0xJOHJxZTRiZEpLODN0R1k1UGhNVlF1NUVteldoT3ZFR1ROZ29SWk5WcGg0NFdoQU1HY1hQN3g0UUVodFlFWW9VVUFrTHQ2QXZ5M1N1RmVUWS1KS0Q5bFh1Y2I2cl9WOERkeGtPVXBGczZBeTUwbGozeDdiLXlNNHYybFFsVjVkamFocllz?oc=5\" target=\"_blank\">Invest 90L development chances increase; Gulf Coast faces flooding threat from heavy tropical rain</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KRIS 6 News Corpus Christi</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNRERhdFpoX2pDcjU5VTd1QmwwUURGTkF4bEJkVTdaSVNGYU5GaXBUMUtLMVhNeGV4QjNYZTBkd01pMXNlOFBFMGJVVUVEeG1SZURSbTB0a28yNzZxOXA3cnE1RlFRMEg5MHVwX2xZQXQ4X203eVJLaGZSbWhTSElmWUNxV25rcFJkOUtSMU1yWS1IVDJ3Y2pOakV6OHZTVTdGbFpPckhuOE5mWUE5YXNDa3FIMm5SbU0yZHhUeXBzdw?oc=5",
+        "date": "2026-06-15",
+        "title": "Pima County officials announce sandbag stations for 2026 monsoon season - AZPM News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxNRERhdFpoX2pDcjU5VTd1QmwwUURGTkF4bEJkVTdaSVNGYU5GaXBUMUtLMVhNeGV4QjNYZTBkd01pMXNlOFBFMGJVVUVEeG1SZURSbTB0a28yNzZxOXA3cnE1RlFRMEg5MHVwX2xZQXQ4X203eVJLaGZSbWhTSElmWUNxV25rcFJkOUtSMU1yWS1IVDJ3Y2pOakV6OHZTVTdGbFpPckhuOE5mWUE5YXNDa3FIMm5SbU0yZHhUeXBzdw?oc=5\" target=\"_blank\">Pima County officials announce sandbag stations for 2026 monsoon season</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AZPM News</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9VME5pRnRTZGt5djltdXczVzIxbW9PeEZ5RndMNTE2VXNkV1NOQzFCaDYxRGhGMEtublQ0UU91MTdCLU9JckpjZndXcTgxdENqZWFXUWVXYXFiaWFBNWFCbkZPUkRrdUUxWWdOZWFDSU5nblpjbEJydFh3?oc=5",
+        "date": "2026-06-15",
+        "title": "New Mexico Monsoon: Driving Safety - KOB.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE9VME5pRnRTZGt5djltdXczVzIxbW9PeEZ5RndMNTE2VXNkV1NOQzFCaDYxRGhGMEtublQ0UU91MTdCLU9JckpjZndXcTgxdENqZWFXUWVXYXFiaWFBNWFCbkZPUkRrdUUxWWdOZWFDSU5nblpjbEJydFh3?oc=5\" target=\"_blank\">New Mexico Monsoon: Driving Safety</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KOB.com</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
     }
 ]
