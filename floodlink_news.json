@@ -1,134 +1,6 @@
 [
     {
         "link": null,
-        "date": "2026-05-16",
-        "status": "posted",
-        "tweet": "Cities ranked by % rise in extreme rainfall days (>50mm) 2021-2025\n1. \ud83c\uddee\ud83c\uddf3 Mumbai +62%\n2. \ud83c\uddf3\ud83c\uddec Lagos +51%\n3. \ud83c\udde8\ud83c\uddf3 Guangzhou +44%\n4. \ud83c\uddfa\ud83c\uddf8 Miami +37%\n5. \ud83c\udde7\ud83c\udde9 Dhaka +34%",
-        "type": "statistical",
-        "category": "extreme rainfall trends in major cities",
-        "tweet_id": "2055459949442945202"
-    },
-    {
-        "link": null,
-        "date": "2026-05-16",
-        "status": "posted",
-        "tweet": "2020-2025: storm surge exposure grew 25% in \ud83c\udde8\ud83c\uddf3 Chinese coastal cities to 42 million people, compared to an 18% rise in \ud83c\uddfa\ud83c\uddf8 US Atlantic cities reaching 11 million.",
-        "type": "statistical",
-        "category": "coastal cities at risk from sea-level rise and storm surge",
-        "tweet_id": "2055578216342106587"
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOaUR5dm5sZTllZzJEdzhXdUc5dHpXVkRSOEdtVDFHRFhrYzVUME5lektSTW5UM1h6SUxXRUJZNDlTQnZXT2I4WnFZdjJKMl9rS2hyNEFsNDd5M1ZyM2ZjeUkwbGE0SGNYTW5YT2xEWHhrcDFPTWpveXYySUI1ajFiZnFqLXNzNkpzb29iQThZNl9tQjBpMExvUC16X2F5Z2pBMnF3ZXVNelFjc3I2ZXNV?oc=5",
-        "date": "2026-05-16",
-        "title": "Most of Hawaii under flood watch through early Saturday - Honolulu Star-Advertiser",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxOaUR5dm5sZTllZzJEdzhXdUc5dHpXVkRSOEdtVDFHRFhrYzVUME5lektSTW5UM1h6SUxXRUJZNDlTQnZXT2I4WnFZdjJKMl9rS2hyNEFsNDd5M1ZyM2ZjeUkwbGE0SGNYTW5YT2xEWHhrcDFPTWpveXYySUI1ajFiZnFqLXNzNkpzb29iQThZNl9tQjBpMExvUC16X2F5Z2pBMnF3ZXVNelFjc3I2ZXNV?oc=5\" target=\"_blank\">Most of Hawaii under flood watch through early Saturday</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Honolulu Star-Advertiser</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE93ZFlsaGJocEFiZkQxUHpsQlpuMTlaakdzQTU5YzRUa0djVGV5NU9uT2pQczRvS0tLSXBxYVFGaUhoY1pqeWxjYzUtQmNoN1VIbC1lOHBqUENWS01DODZKbEk0Qzdvemh2REdUZ3BDOW9LZlHSAXhBVV95cUxOZGZLaFVKSVNaaDNRblhUckpvb2xrenRPWXlrMHM5ZVVrR1c2ZXc4WlI4MFFlTFdSczB0RHJ4LXMxTFI1T015NkppLXExenhpSlM4SjV5UTVmYUZrX3dhQWRoZS02cWJnRHZlai1Pd1MzNFZYaVFEdU0?oc=5",
-        "date": "2026-05-16",
-        "title": "Flash flood hits Mountbatten Road after heavy rain, subsides within 20 minutes - mustsharenews.com",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE93ZFlsaGJocEFiZkQxUHpsQlpuMTlaakdzQTU5YzRUa0djVGV5NU9uT2pQczRvS0tLSXBxYVFGaUhoY1pqeWxjYzUtQmNoN1VIbC1lOHBqUENWS01DODZKbEk0Qzdvemh2REdUZ3BDOW9LZlHSAXhBVV95cUxOZGZLaFVKSVNaaDNRblhUckpvb2xrenRPWXlrMHM5ZVVrR1c2ZXc4WlI4MFFlTFdSczB0RHJ4LXMxTFI1T015NkppLXExenhpSlM4SjV5UTVmYUZrX3dhQWRoZS02cWJnRHZlai1Pd1MzNFZYaVFEdU0?oc=5\" target=\"_blank\">Flash flood hits Mountbatten Road after heavy rain, subsides within 20 minutes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">mustsharenews.com</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNN1pYM2F1NFNUd0dTcVRMS2hzeEphd1FJZWQ5SURRNy1LZkNyZXVqcm54MU80TVh2c1JjNnNqbnFTNmktLUhfZktERUxFeTNsQjdLUGVnaGdhUmRWdXVCMzNIUm5mMWVyV2I2c0RpUW0tQzhDcThpMXM4R2VMRGRNQjk1YXRjb3RBOURqNFJlU19YUU1TdndKR3Btak1uYzNmeTdyT3hySVQ1azlaTlo1a2VNajFyVWktYWtZOGFfcVdXdU56TFBwaNIB1gFBVV95cUxNUWxFT0V5LXRLQTY5aXRTaVRDOVdQSGdZdUpib3VwMFRNX0pEODc0S2xaNkhLUGVBbjJSdjd0Z3RKRjZRUDk1WWY3Q1ZWeWYwWFIxSGs2TjBlMktXQlhuT1VkTTAwUlhJUWdudllsZnZvbTJ5NGlwMG5ERmMwakJKYjNBblNFb0pCWGxRNnZnSW5Id3BzalRpR1Y1Mi13NjBydjQ4ei1uenFhT05CQ3dhbk1jTWItZHdnQl8wY2RNNGF1ekpqMG0xb3g2am1vcjQtSHdBUWtB?oc=5",
-        "date": "2026-05-16",
-        "title": "Guwahati Imposes Monsoon Ban on Hill Cutting to Curb Flood and Landslide Risks - The Sentinel - of this Land, for its People",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxNN1pYM2F1NFNUd0dTcVRMS2hzeEphd1FJZWQ5SURRNy1LZkNyZXVqcm54MU80TVh2c1JjNnNqbnFTNmktLUhfZktERUxFeTNsQjdLUGVnaGdhUmRWdXVCMzNIUm5mMWVyV2I2c0RpUW0tQzhDcThpMXM4R2VMRGRNQjk1YXRjb3RBOURqNFJlU19YUU1TdndKR3Btak1uYzNmeTdyT3hySVQ1azlaTlo1a2VNajFyVWktYWtZOGFfcVdXdU56TFBwaNIB1gFBVV95cUxNUWxFT0V5LXRLQTY5aXRTaVRDOVdQSGdZdUpib3VwMFRNX0pEODc0S2xaNkhLUGVBbjJSdjd0Z3RKRjZRUDk1WWY3Q1ZWeWYwWFIxSGs2TjBlMktXQlhuT1VkTTAwUlhJUWdudllsZnZvbTJ5NGlwMG5ERmMwakJKYjNBblNFb0pCWGxRNnZnSW5Id3BzalRpR1Y1Mi13NjBydjQ4ei1uenFhT05CQ3dhbk1jTWItZHdnQl8wY2RNNGF1ekpqMG0xb3g2am1vcjQtSHdBUWtB?oc=5\" target=\"_blank\">Guwahati Imposes Monsoon Ban on Hill Cutting to Curb Flood and Landslide Risks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Sentinel - of this Land, for its People</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPb045ZGJQLTMybks2dlJYbWZvMHRfTXFjYlVJQ2hQazZ1MUZWUklLMnlFaGk0LVlCMnRZMU1NVjZTSnhlR0lnVnlSblJXdDA2VU1BZmtDc1R6TDhST24tWEpJWU42SFFhLS1lU2ppRktmVzBfX0RXMTFYb21hQVlucVVKcXZUSXBZak9kUXJKS0NWckZoNFF0dmZZcGEya0ZKcnRBTXJhZ2tTOE40S25kbnJ1TE83UWs5YXpIdNIBwwFBVV95cUxNckJQV2tJRWNjLTduX3hkd0JRVWVISnQ4cVR5WUlUTTRXR2xzWTFOcGtBMWZzVzRJYW1HTktGMWlFSmFwV3VKS2o1X1FIYnpLYlM2Y1hFWndRbi1aaHAwdnBkV3VqT3k2Z092MUVtNDV6a2JWdE5Sa1FvMXBFYlNsZGs1NVNLRFBKZjNPMGFqR2NLa1MxWTVXem5tMWxIQWd3S09KODlqUWVRVndSWHZfNkNHSkliNEdwYXJ5NVZJRHdzeFE?oc=5",
-        "date": "2026-05-16",
-        "title": "Green belts to green drains: Gurgaon\u2019s new plan to tackle waterlogging this monsoon - The Indian Express",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxPb045ZGJQLTMybks2dlJYbWZvMHRfTXFjYlVJQ2hQazZ1MUZWUklLMnlFaGk0LVlCMnRZMU1NVjZTSnhlR0lnVnlSblJXdDA2VU1BZmtDc1R6TDhST24tWEpJWU42SFFhLS1lU2ppRktmVzBfX0RXMTFYb21hQVlucVVKcXZUSXBZak9kUXJKS0NWckZoNFF0dmZZcGEya0ZKcnRBTXJhZ2tTOE40S25kbnJ1TE83UWs5YXpIdNIBwwFBVV95cUxNckJQV2tJRWNjLTduX3hkd0JRVWVISnQ4cVR5WUlUTTRXR2xzWTFOcGtBMWZzVzRJYW1HTktGMWlFSmFwV3VKS2o1X1FIYnpLYlM2Y1hFWndRbi1aaHAwdnBkV3VqT3k2Z092MUVtNDV6a2JWdE5Sa1FvMXBFYlNsZGs1NVNLRFBKZjNPMGFqR2NLa1MxWTVXem5tMWxIQWd3S09KODlqUWVRVndSWHZfNkNHSkliNEdwYXJ5NVZJRHdzeFE?oc=5\" target=\"_blank\">Green belts to green drains: Gurgaon\u2019s new plan to tackle waterlogging this monsoon</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Indian Express</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNay1XalAzTkVKMzllN201cEQ1QUd3am1SZ29UR0ZDcmwtb2FBOE1BNzg3bjJHeFpaOUt2UmxSaDYzZVB1ellmeFM1WUgtc21RNnBVNXZ4dGFHNXp4WTB1dXdUel9la29YRG0yWlE0MkI1Sm9PZGhVWkdxa29zaFdqZThvMW5Sb0lqZlBSRjZZbFdLUDdZN21Ua0ZMTXBRdFFpM0xGenZMeEVRLXdZaGpGNkVlRQ?oc=5",
-        "date": "2026-05-16",
-        "title": "KP CM orders province-wide monsoon preparedness, risk mitigation steps - Pakistan Today",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNay1XalAzTkVKMzllN201cEQ1QUd3am1SZ29UR0ZDcmwtb2FBOE1BNzg3bjJHeFpaOUt2UmxSaDYzZVB1ellmeFM1WUgtc21RNnBVNXZ4dGFHNXp4WTB1dXdUel9la29YRG0yWlE0MkI1Sm9PZGhVWkdxa29zaFdqZThvMW5Sb0lqZlBSRjZZbFdLUDdZN21Ua0ZMTXBRdFFpM0xGenZMeEVRLXdZaGpGNkVlRQ?oc=5\" target=\"_blank\">KP CM orders province-wide monsoon preparedness, risk mitigation steps</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Pakistan Today</font>",
-        "similarity_excluded": "No",
-        "score": 8,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOUXRxV01IeHFSRU1SQlg5MUp3eVFJcnNqVnF0T3Z6MEFFb2xfREVIN1RNbUJwTkx6OTBsb19HLWh1NVd0U18xNHlZNExvYU5kTThCS1c2V0xzLXkzVkV6aUNVQzF6aVh4S1g4RDgzVlZEcEl6WGowdk95LXA5RkpXOUpyNlEyWlJMV0oyZW9Ua9IBlAFBVV95cUxQMFFBUWdJQTBna053OWlhYmlLM3loaVhZZGVhNjdxOTlMclZINWJxTnZhYjhsb3lZYmlWeHZGQXhlaFMwZk5jZEJQdTNnUnNGRnI1aWxlUC1VcEVkT194ZzdBeGozTzlyZnMtajFxNEVyR0MyaTZzQVdFdlFFajFQWnhwR0hubFRTUGxKZEZMTDA2c0ky?oc=5",
-        "date": "2026-05-16",
-        "title": "KP Govt Intensifies Monsoon Emergency Preparations - ProPakistani",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxOUXRxV01IeHFSRU1SQlg5MUp3eVFJcnNqVnF0T3Z6MEFFb2xfREVIN1RNbUJwTkx6OTBsb19HLWh1NVd0U18xNHlZNExvYU5kTThCS1c2V0xzLXkzVkV6aUNVQzF6aVh4S1g4RDgzVlZEcEl6WGowdk95LXA5RkpXOUpyNlEyWlJMV0oyZW9Ua9IBlAFBVV95cUxQMFFBUWdJQTBna053OWlhYmlLM3loaVhZZGVhNjdxOTlMclZINWJxTnZhYjhsb3lZYmlWeHZGQXhlaFMwZk5jZEJQdTNnUnNGRnI1aWxlUC1VcEVkT194ZzdBeGozTzlyZnMtajFxNEVyR0MyaTZzQVdFdlFFajFQWnhwR0hubFRTUGxKZEZMTDA2c0ky?oc=5\" target=\"_blank\">KP Govt Intensifies Monsoon Emergency Preparations</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ProPakistani</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNeWlfUWFJOVVES2RBZkhnb3dJVDBKMlFRVXZURWZmaFJlUWZMazBqZnh5UWZ0MXdCa2h0SlVRUUhGN1dlTVJLdVVtc3NsbEhSOG8wZEllcFZTd2hKWnNLa09YaWpfc0I0ZVFwMEJEY0RuT0FOdmxXOXlKQ09WQ3FqUkFXRF9aVU9JUXVQdXRHMUd5bW9Ec3hvTWFpU0J1d2xOOTYyWXpkXzE1WWJ4dGg5Vkc3TFdXZ9IBygFBVV95cUxNVE9SemNPVlVLWWtUd2VzT3ZMR0R6MTRkUkdKU2diaGFZSlluUXJLc2pHcmZqa3F5cDZJaHlpTDkzU3ZGb0ljVEhsb1NiZGJldFl6ZXpQeVFzaFBfUm9ROVVRYWRLVmdjZ0w3RmV4S0t0YW1lcmowTTk3QktQUTg1ZTVJRXh1VUpyLWRXNm9Jb2VoNkVlSEVpNE0yRmZpX3lLc2cwTXhUMldXTnJiSE0tX0lpLWNrdmdod0pEdWdHeDFFWVlQc1FMczNn?oc=5",
-        "date": "2026-05-16",
-        "title": "First Alert Forecast: Flood watch lifted: chances of flash flooding diminishes - Hawaii News Now",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNeWlfUWFJOVVES2RBZkhnb3dJVDBKMlFRVXZURWZmaFJlUWZMazBqZnh5UWZ0MXdCa2h0SlVRUUhGN1dlTVJLdVVtc3NsbEhSOG8wZEllcFZTd2hKWnNLa09YaWpfc0I0ZVFwMEJEY0RuT0FOdmxXOXlKQ09WQ3FqUkFXRF9aVU9JUXVQdXRHMUd5bW9Ec3hvTWFpU0J1d2xOOTYyWXpkXzE1WWJ4dGg5Vkc3TFdXZ9IBygFBVV95cUxNVE9SemNPVlVLWWtUd2VzT3ZMR0R6MTRkUkdKU2diaGFZSlluUXJLc2pHcmZqa3F5cDZJaHlpTDkzU3ZGb0ljVEhsb1NiZGJldFl6ZXpQeVFzaFBfUm9ROVVRYWRLVmdjZ0w3RmV4S0t0YW1lcmowTTk3QktQUTg1ZTVJRXh1VUpyLWRXNm9Jb2VoNkVlSEVpNE0yRmZpX3lLc2cwTXhUMldXTnJiSE0tX0lpLWNrdmdod0pEdWdHeDFFWVlQc1FMczNn?oc=5\" target=\"_blank\">First Alert Forecast: Flood watch lifted: chances of flash flooding diminishes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Hawaii News Now</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPbkhGYzB6bEJFbERGaHBjcGxOUVhhQVFIR05pZVJwZWVRQlkxbmdPWnMyR3haMThsbTEyeUZWM1dFQmlQWnR4ckRZUWtISG1yUV9zN0hzZHRub3BnY2xDVzFXdFFPWEtGd1FmdExSU2FDMVJjdTVMUVZnazB3eXdoS09nRXlYZmJ1dDFMTHBjQXlGTldOeTVDdm12LVRXdXJxRThzNUR1OVpqQ0JPQ015RGN2Q25kVzRFbmQxQW9helpNeENLcDNqSF9NRFpEQ3JpdUdSNHZaWdIB3AFBVV95cUxONGZXTnlZUGo1aV8tUkkyQVpRN25FZ0M1OW9Ud0xtSWM1Y3FjMUpGUkRrSmlicXhRT3p0YWVySFpSOWdwVDdmY2lfRERUaUpUVllMdXdyX09Rb2hkeVVBdGV3WFF0Q0NjRkRjVk1mbk9IdzgtUFFpMEV5Zy1XblBSU1E3QW9UdGNIUjlhcjJOYVdydnNMei1UWFhZWmhGODVPTHpTSVJhLTJFS1dkbnJRd0o4Qm1CZjgwYzFxanI2alhjU3ZGekxFaVltRkZ2V21wQkZDWVFPLW9PUEZF?oc=5",
-        "date": "2026-05-16",
-        "title": "Early monsoon signs bring flood frights to NE; over 6,000 affected - The Times of India",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxPbkhGYzB6bEJFbERGaHBjcGxOUVhhQVFIR05pZVJwZWVRQlkxbmdPWnMyR3haMThsbTEyeUZWM1dFQmlQWnR4ckRZUWtISG1yUV9zN0hzZHRub3BnY2xDVzFXdFFPWEtGd1FmdExSU2FDMVJjdTVMUVZnazB3eXdoS09nRXlYZmJ1dDFMTHBjQXlGTldOeTVDdm12LVRXdXJxRThzNUR1OVpqQ0JPQ015RGN2Q25kVzRFbmQxQW9helpNeENLcDNqSF9NRFpEQ3JpdUdSNHZaWdIB3AFBVV95cUxONGZXTnlZUGo1aV8tUkkyQVpRN25FZ0M1OW9Ud0xtSWM1Y3FjMUpGUkRrSmlicXhRT3p0YWVySFpSOWdwVDdmY2lfRERUaUpUVllMdXdyX09Rb2hkeVVBdGV3WFF0Q0NjRkRjVk1mbk9IdzgtUFFpMEV5Zy1XblBSU1E3QW9UdGNIUjlhcjJOYVdydnNMei1UWFhZWmhGODVPTHpTSVJhLTJFS1dkbnJRd0o4Qm1CZjgwYzFxanI2alhjU3ZGekxFaVltRkZ2V21wQkZDWVFPLW9PUEZF?oc=5\" target=\"_blank\">Early monsoon signs bring flood frights to NE; over 6,000 affected</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of India</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1JbUdvZU83MzQyaTFWOUZOR2xNUDU1VzJzSk82VmEzVUlFSXREZlhjenZ4aWZMSGttc3VJd3gwTzNmWFFOZTA4RzMzRTRiaC1LTU1RMWZ5RXlxa3NSVVRRdFFpZVc1dDRwMWhaZ0s1TEZ3eEJ2dktHeVVR?oc=5",
-        "date": "2026-05-16",
-        "title": "Flood warning affecting Chelan County until further notice, says the NWS - Tri-City Herald",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE1JbUdvZU83MzQyaTFWOUZOR2xNUDU1VzJzSk82VmEzVUlFSXREZlhjenZ4aWZMSGttc3VJd3gwTzNmWFFOZTA4RzMzRTRiaC1LTU1RMWZ5RXlxa3NSVVRRdFFpZVc1dDRwMWhaZ0s1TEZ3eEJ2dktHeVVR?oc=5\" target=\"_blank\">Flood warning affecting Chelan County until further notice, says the NWS</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tri-City Herald</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPckh4WWFjVDZFQ2NOV1c2VU9sb05pbHdUNERERElvZ0NNempmTEJjcEh2NXFpaTRydjlWUENJcDVGZkJWbkRDdEN3cnZqcVVxRTZvdDdLVnAtTDhvNUt2UlF3TnBjeXBsRW0xZjZxaWpEMGdwOUkwQzVMTzhvSXVSampBbk9zX2p0azExVUJwZVRObDVYbVoxdk1yd2JEbWM?oc=5",
-        "date": "2026-05-16",
-        "title": "Oahu Deluge Turns Streets Into Rivers as Honolulu Sounds Flood Alarm - Hoodline",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPckh4WWFjVDZFQ2NOV1c2VU9sb05pbHdUNERERElvZ0NNempmTEJjcEh2NXFpaTRydjlWUENJcDVGZkJWbkRDdEN3cnZqcVVxRTZvdDdLVnAtTDhvNUt2UlF3TnBjeXBsRW0xZjZxaWpEMGdwOUkwQzVMTzhvSXVSampBbk9zX2p0azExVUJwZVRObDVYbVoxdk1yd2JEbWM?oc=5\" target=\"_blank\">Oahu Deluge Turns Streets Into Rivers as Honolulu Sounds Flood Alarm</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Hoodline</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE05YWwyQ3E5QmFSS2h3d195WXdob3lwc2tUcHlGdEdOaVFhRVIyTnRzR0M1QlZJcDRuVEhmd1k2cUxaVURfOG9zeG5SdWRQMUg5UkVjSGF0VzE2NUYtVjdVQUZMOXl1V0dGamxoVXNvTXRoZ1B1UTVZNlJn?oc=5",
-        "date": "2026-05-16",
-        "title": "Flood warning affecting Chelan County until further notice, says the NWS - Tacoma News Tribune",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE05YWwyQ3E5QmFSS2h3d195WXdob3lwc2tUcHlGdEdOaVFhRVIyTnRzR0M1QlZJcDRuVEhmd1k2cUxaVURfOG9zeG5SdWRQMUg5UkVjSGF0VzE2NUYtVjdVQUZMOXl1V0dGamxoVXNvTXRoZ1B1UTVZNlJn?oc=5\" target=\"_blank\">Flood warning affecting Chelan County until further notice, says the NWS</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tacoma News Tribune</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": null,
         "date": "2026-05-17",
         "status": "posted",
         "tweet": "Flood economic losses 2021-2025 ($bn):\n1. \ud83c\udde8\ud83c\uddf3 China: 118\n2. \ud83c\uddfa\ud83c\uddf8 USA: 92\n3. \ud83c\uddee\ud83c\uddf3 India: 67\n4. \ud83c\uddf5\ud83c\uddf0 Pakistan: 44\n5. \ud83c\udde9\ud83c\uddea Germany: 31",
@@ -11507,5 +11379,13 @@
         "score": 0,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-06-15",
+        "status": "posted",
+        "tweet": "\ud83c\uddf3\ud83c\uddf1 The Netherlands maintains 3,700 km of primary dikes and levees, protecting 9 million residents in flood-prone polders.",
+        "type": "infrastructure",
+        "tweet_id": "2066472469997756520"
     }
 ]
