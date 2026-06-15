@@ -20066,7 +20066,7 @@
     "rain_mm": 50.12,
     "soil_moisture": 0.604,
     "raw_dynamic_score": 7.796,
-    "last_updated": "2026-06-15T03:04:44.761835Z",
+    "last_updated": "2026-06-15T15:08:44.633909Z",
     "last_tweeted_at": "2026-06-08T07:35:21.434780Z",
     "tweet_id": "2063887624670941548",
     "resolved": false
@@ -24869,7 +24869,7 @@
     "rain_mm": 88.12,
     "soil_moisture": 0.619,
     "raw_dynamic_score": 13.823,
-    "last_updated": "2026-06-15T03:04:44.761835Z",
+    "last_updated": "2026-06-15T15:08:44.633909Z",
     "last_tweeted_at": "2026-06-08T07:35:21.434780Z",
     "tweet_id": "2063887624670941548",
     "resolved": false
@@ -24884,7 +24884,7 @@
     "rain_mm": 105.5,
     "soil_moisture": 0.639,
     "raw_dynamic_score": 16.739,
-    "last_updated": "2026-06-15T03:04:44.761835Z",
+    "last_updated": "2026-06-15T15:08:44.633909Z",
     "last_tweeted_at": "2026-06-08T07:35:21.434780Z",
     "tweet_id": "2063887624670941548",
     "resolved": false
@@ -24948,54 +24948,6 @@
     "last_tweeted_at": "2026-06-08T13:10:38.353852Z",
     "tweet_id": "2063972010691096880",
     "resolved": false
-  },
-  "24.0637,120.6980": {
-    "country": "Province of China Taiwan",
-    "name": "Wufeng",
-    "risk_level": "Low",
-    "tweeted_level": "Low",
-    "latitude": 24.0637,
-    "longitude": 120.698,
-    "rain_mm": 11.62,
-    "soil_moisture": 0.658,
-    "raw_dynamic_score": 1.865,
-    "last_updated": "2026-06-14T11:35:51.696282Z",
-    "last_tweeted_at": "2026-06-14T11:35:51.696282Z",
-    "tweet_id": "2066122976328597818",
-    "resolved": true,
-    "resolved_at": "2026-06-14T11:35:51.696282Z"
-  },
-  "24.1469,120.6839": {
-    "country": "Province of China Taiwan",
-    "name": "Taichung",
-    "risk_level": "Low",
-    "tweeted_level": "Low",
-    "latitude": 24.1469,
-    "longitude": 120.6839,
-    "rain_mm": 19.75,
-    "soil_moisture": 0.667,
-    "raw_dynamic_score": 3.183,
-    "last_updated": "2026-06-14T11:35:51.696282Z",
-    "last_tweeted_at": "2026-06-14T11:35:51.696282Z",
-    "tweet_id": "2066122976328597818",
-    "resolved": true,
-    "resolved_at": "2026-06-14T11:35:51.696282Z"
-  },
-  "24.2767,120.6892": {
-    "country": "Province of China Taiwan",
-    "name": "Xizhou",
-    "risk_level": "Low",
-    "tweeted_level": "Low",
-    "latitude": 24.27667,
-    "longitude": 120.68917,
-    "rain_mm": 19.75,
-    "soil_moisture": 0.667,
-    "raw_dynamic_score": 3.183,
-    "last_updated": "2026-06-14T11:35:51.696282Z",
-    "last_tweeted_at": "2026-06-14T11:35:51.696282Z",
-    "tweet_id": "2066122976328597818",
-    "resolved": true,
-    "resolved_at": "2026-06-14T11:35:51.696282Z"
   },
   "23.4792,120.4489": {
     "country": "Province of China Taiwan",
@@ -25222,22 +25174,6 @@
     "tweet_id": "2064113907568955473",
     "resolved": false
   },
-  "24.2101,120.5725": {
-    "country": "Province of China Taiwan",
-    "name": "Buzi",
-    "risk_level": "Low",
-    "tweeted_level": "Low",
-    "latitude": 24.21013,
-    "longitude": 120.5725,
-    "rain_mm": 18.31,
-    "soil_moisture": 1.0,
-    "raw_dynamic_score": 3.502,
-    "last_updated": "2026-06-14T11:35:51.696282Z",
-    "last_tweeted_at": "2026-06-14T11:35:51.696282Z",
-    "tweet_id": "2066122976328597818",
-    "resolved": true,
-    "resolved_at": "2026-06-14T11:35:51.696282Z"
-  },
   "24.7570,121.7530": {
     "country": "Province of China Taiwan",
     "name": "Yilan",
@@ -25413,7 +25349,7 @@
     "rain_mm": 38.06,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 7.279,
-    "last_updated": "2026-06-09T12:04:39.944649Z",
+    "last_updated": "2026-06-15T15:08:44.633909Z",
     "last_tweeted_at": "2026-06-09T06:52:34.216547Z",
     "tweet_id": "2064239497399751101",
     "resolved": false
@@ -27096,13 +27032,13 @@
     "rain_mm": 86.56,
     "soil_moisture": 0.649,
     "raw_dynamic_score": 13.812,
-    "last_updated": "2026-06-15T09:02:01.441178Z",
+    "last_updated": "2026-06-15T15:08:44.633909Z",
     "last_tweeted_at": "2026-06-14T16:27:51.888254Z",
     "tweet_id": "2066195963581272464",
     "resolved": false,
     "pending_downgrade": true,
     "pending_target_level": "Low",
-    "pending_set_at": "2026-06-15T03:04:44.761835Z",
+    "pending_set_at": "2026-06-15T15:08:44.633909Z",
     "pending_is_region": true
   },
   "9.5000,35.5000": {
@@ -27190,7 +27126,7 @@
     "rain_mm": 46.38,
     "soil_moisture": 0.562,
     "raw_dynamic_score": 7.033,
-    "last_updated": "2026-06-15T09:02:01.441178Z",
+    "last_updated": "2026-06-15T15:08:44.633909Z",
     "last_tweeted_at": "2026-06-15T09:02:01.441178Z",
     "tweet_id": "2066446164245799218",
     "resolved": false
@@ -27205,7 +27141,7 @@
     "rain_mm": 53.5,
     "soil_moisture": 0.714,
     "raw_dynamic_score": 8.852,
-    "last_updated": "2026-06-15T09:02:01.441178Z",
+    "last_updated": "2026-06-15T15:08:44.633909Z",
     "last_tweeted_at": "2026-06-15T09:02:01.441178Z",
     "tweet_id": "2066446416822566924",
     "resolved": false
