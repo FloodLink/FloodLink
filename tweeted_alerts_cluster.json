@@ -7067,25 +7067,18 @@
   "-17.7365,168.3137": {
     "country": "Vanuatu",
     "name": "Port-Vila",
-    "risk_level": "High",
-    "tweeted_level": "High",
+    "risk_level": "Low",
+    "tweeted_level": "Low",
     "latitude": -17.73648,
     "longitude": 168.31366,
-    "rain_mm": 107.56,
-    "soil_moisture": 0.675,
-    "raw_dynamic_score": 17.412,
-    "last_updated": "2026-06-14T07:28:14.385826Z",
-    "last_tweeted_at": "2026-06-14T03:00:21.503043Z",
-    "tweet_id": "2065993506041037213",
-    "resolved": false,
-    "pending_downgrade": true,
-    "pending_target_level": "Low",
-    "pending_set_at": "2026-06-14T07:28:14.385826Z",
-    "pending_is_region": false,
-    "pending_observed_level": "Low",
-    "pending_observed_rain_mm": 15.12,
-    "pending_observed_soil_moisture": 0.707,
-    "pending_observed_raw_dynamic_score": 2.492
+    "rain_mm": 1.06,
+    "soil_moisture": 0.616,
+    "raw_dynamic_score": 0.166,
+    "last_updated": "2026-06-15T03:04:44.761835Z",
+    "last_tweeted_at": "2026-06-15T03:04:44.761835Z",
+    "tweet_id": "2066356241073332522",
+    "resolved": true,
+    "resolved_at": "2026-06-15T03:04:44.761835Z"
   },
   "8.7590,104.9929": {
     "country": "Viet Nam",
@@ -8162,7 +8155,7 @@
     "rain_mm": 68.44,
     "soil_moisture": 0.618,
     "raw_dynamic_score": 10.73,
-    "last_updated": "2026-06-14T22:13:22.079819Z",
+    "last_updated": "2026-06-15T03:04:44.761835Z",
     "last_tweeted_at": "2026-03-12T15:57:52.288633Z",
     "tweet_id": "2032123954538954769",
     "resolved": false
@@ -20073,7 +20066,7 @@
     "rain_mm": 50.12,
     "soil_moisture": 0.604,
     "raw_dynamic_score": 7.796,
-    "last_updated": "2026-06-08T07:35:21.434780Z",
+    "last_updated": "2026-06-15T03:04:44.761835Z",
     "last_tweeted_at": "2026-06-08T07:35:21.434780Z",
     "tweet_id": "2063887624670941548",
     "resolved": false
@@ -24873,7 +24866,7 @@
     "rain_mm": 88.12,
     "soil_moisture": 0.619,
     "raw_dynamic_score": 13.823,
-    "last_updated": "2026-06-14T11:35:51.696282Z",
+    "last_updated": "2026-06-15T03:04:44.761835Z",
     "last_tweeted_at": "2026-06-08T07:35:21.434780Z",
     "tweet_id": "2063887624670941548",
     "resolved": false
@@ -24888,7 +24881,7 @@
     "rain_mm": 105.5,
     "soil_moisture": 0.639,
     "raw_dynamic_score": 16.739,
-    "last_updated": "2026-06-08T07:35:21.434780Z",
+    "last_updated": "2026-06-15T03:04:44.761835Z",
     "last_tweeted_at": "2026-06-08T07:35:21.434780Z",
     "tweet_id": "2063887624670941548",
     "resolved": false
@@ -27100,10 +27093,14 @@
     "rain_mm": 86.56,
     "soil_moisture": 0.649,
     "raw_dynamic_score": 13.812,
-    "last_updated": "2026-06-14T22:13:22.079819Z",
+    "last_updated": "2026-06-15T03:04:44.761835Z",
     "last_tweeted_at": "2026-06-14T16:27:51.888254Z",
     "tweet_id": "2066195963581272464",
-    "resolved": false
+    "resolved": false,
+    "pending_downgrade": true,
+    "pending_target_level": "Low",
+    "pending_set_at": "2026-06-15T03:04:44.761835Z",
+    "pending_is_region": true
   },
   "9.5000,35.5000": {
     "country": "Ethiopia",
@@ -27130,7 +27127,7 @@
     "rain_mm": 42.69,
     "soil_moisture": 0.616,
     "raw_dynamic_score": 6.682,
-    "last_updated": "2026-06-14T19:22:52.298406Z",
+    "last_updated": "2026-06-15T03:04:44.761835Z",
     "last_tweeted_at": "2026-06-14T19:22:52.298406Z",
     "tweet_id": "2066240004787945710",
     "resolved": false
@@ -27160,7 +27157,7 @@
     "rain_mm": 55.25,
     "soil_moisture": 0.411,
     "raw_dynamic_score": 7.627,
-    "last_updated": "2026-06-14T22:13:22.079819Z",
+    "last_updated": "2026-06-15T03:04:44.761835Z",
     "last_tweeted_at": "2026-06-14T22:13:22.079819Z",
     "tweet_id": "2066282911331193068",
     "resolved": false
@@ -27175,7 +27172,7 @@
     "rain_mm": 41.19,
     "soil_moisture": 0.646,
     "raw_dynamic_score": 6.559,
-    "last_updated": "2026-06-14T22:13:22.079819Z",
+    "last_updated": "2026-06-15T03:04:44.761835Z",
     "last_tweeted_at": "2026-06-14T22:13:22.079819Z",
     "tweet_id": "2066283163710890220",
     "resolved": false
