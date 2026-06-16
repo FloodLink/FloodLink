@@ -12581,5 +12581,835 @@
         "type": "statistical",
         "category": "extreme rainfall trends in major cities",
         "tweet_id": "2066941533589221563"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUUh2blNWNFdnTE9zbVZ1V21JQVh3Mmg2Tlo5ME9PdXV2YjQ1b1NPbWxBdnMzcnJrVjR3X00zdmZiVV8wS0ZRa0ZWX0VMbzd3QkxBbnhQOS1nZkl3Y3Z6UnM0R0JTTnhETTUtN21kYzNybzZFS2Z2cW50NGl3VHluZ3I1LURkTEU1NU94dHVVZnc4ek0xNF96R3h3?oc=5",
+        "date": "2026-06-16",
+        "title": "Which Houston neighborhoods have seen the most rain so far? Here's the data - Houston Chronicle",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNUUh2blNWNFdnTE9zbVZ1V21JQVh3Mmg2Tlo5ME9PdXV2YjQ1b1NPbWxBdnMzcnJrVjR3X00zdmZiVV8wS0ZRa0ZWX0VMbzd3QkxBbnhQOS1nZkl3Y3Z6UnM0R0JTTnhETTUtN21kYzNybzZFS2Z2cW50NGl3VHluZ3I1LURkTEU1NU94dHVVZnc4ek0xNF96R3h3?oc=5\" target=\"_blank\">Which Houston neighborhoods have seen the most rain so far? Here's the data</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Houston Chronicle</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQRXY3LTBDNjNWQVBWaXNGYlZDanlNc2tKbm1TZVVyVGZza3dtd1Q3Y25BRmFUWXYyLV8yS2lweHVBTlVhckE3WG93NllVS3ZqRTBzMlhiZ1BJVHRXanVPTk1XcnJYaWZ4N3N5Y25PMU43WHVxQ2hxM0MzWTE1bW5uM2F0QTdHUmExb09ZZnc5WTVWbDh3Z1JFTEFKSHlVSVFJQTlpQ2syd0t0NkRJMUMwbGNsRGJpemtxQS15a0tfWDk2NDJjczk0ejlPQ0xuLUdCUGRRLVl2S0dscm83SzVMc0k4REV6d3ct?oc=5",
+        "date": "2026-06-16",
+        "title": "Heavy rain prompts Flash Flood Warnings, Flood Watch across southeast Louisiana - WWLTV.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxQRXY3LTBDNjNWQVBWaXNGYlZDanlNc2tKbm1TZVVyVGZza3dtd1Q3Y25BRmFUWXYyLV8yS2lweHVBTlVhckE3WG93NllVS3ZqRTBzMlhiZ1BJVHRXanVPTk1XcnJYaWZ4N3N5Y25PMU43WHVxQ2hxM0MzWTE1bW5uM2F0QTdHUmExb09ZZnc5WTVWbDh3Z1JFTEFKSHlVSVFJQTlpQ2syd0t0NkRJMUMwbGNsRGJpemtxQS15a0tfWDk2NDJjczk0ejlPQ0xuLUdCUGRRLVl2S0dscm83SzVMc0k4REV6d3ct?oc=5\" target=\"_blank\">Heavy rain prompts Flash Flood Warnings, Flood Watch across southeast Louisiana</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WWLTV.com</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMFloU25STmg3aXFEN0lQMjdrUTNWMy00TFU1MnR4a2pieTNzVUU0RkRfNGxwUjRQLTJBMldQN2hqVzl0REZ0TW5sUlRTSGZzd2NlUE1iTk1EOG9NLVR1V0ctOWJYRDN2WE9kZFVzN1VGYlBxZF9Gekp3eldRcWFiUkVDdWhjVDQzU3RxMGJ1bkI5Q2RaX3hF?oc=5",
+        "date": "2026-06-16",
+        "title": "Picayune, Mississippi seeing major flooding due to heavy rain from PTC One - WDSU",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPMFloU25STmg3aXFEN0lQMjdrUTNWMy00TFU1MnR4a2pieTNzVUU0RkRfNGxwUjRQLTJBMldQN2hqVzl0REZ0TW5sUlRTSGZzd2NlUE1iTk1EOG9NLVR1V0ctOWJYRDN2WE9kZFVzN1VGYlBxZF9Gekp3eldRcWFiUkVDdWhjVDQzU3RxMGJ1bkI5Q2RaX3hF?oc=5\" target=\"_blank\">Picayune, Mississippi seeing major flooding due to heavy rain from PTC One</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WDSU</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNYldPMUhxSGhFbDVrNnNmYldpZ2xQV0JZVEs2dXNpVF9MRWVIS1VLVGduaEdnWVBNaERZMy1PMjBDQllMTXdOX1BtM25RSF9xUkoyci0wTlBYbUE4a0x6VU51OGNBR3F5N1ZyQ0F0WlNYb1FKU3dBMTNxcktVa3JhdXBoMTZmb2xQUC01WDBhRGpuOVowc0NWMDY3cThXTWtNVEJTMERNN2NwbTF0TUVSOUxqSDFKWXBzWnJSM25rRGRDYUdnQXZEdA?oc=5",
+        "date": "2026-06-16",
+        "title": "NASA Uses Machine Learning to Enhance Flash Flood Warnings - NASA Science (.gov)",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxNYldPMUhxSGhFbDVrNnNmYldpZ2xQV0JZVEs2dXNpVF9MRWVIS1VLVGduaEdnWVBNaERZMy1PMjBDQllMTXdOX1BtM25RSF9xUkoyci0wTlBYbUE4a0x6VU51OGNBR3F5N1ZyQ0F0WlNYb1FKU3dBMTNxcktVa3JhdXBoMTZmb2xQUC01WDBhRGpuOVowc0NWMDY3cThXTWtNVEJTMERNN2NwbTF0TUVSOUxqSDFKWXBzWnJSM25rRGRDYUdnQXZEdA?oc=5\" target=\"_blank\">NASA Uses Machine Learning to Enhance Flash Flood Warnings</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NASA Science (.gov)</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1ZUkcyZVlLb3ItNTh2YUMxQTRhandDQmNWUzZYTWZXN3RNYXE0YS01M2FfMTF6OTUxek5hZFluMkxmV09UTmtxc1dvQjFWNWpMclc1QUNWcVBaM190WW9RSkozV1VHdXhUeGow?oc=5",
+        "date": "2026-06-16",
+        "title": "WEATHER ALERT: Flash Flood Warning issued 9:41 a.m. - Woodlands Online",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE1ZUkcyZVlLb3ItNTh2YUMxQTRhandDQmNWUzZYTWZXN3RNYXE0YS01M2FfMTF6OTUxek5hZFluMkxmV09UTmtxc1dvQjFWNWpMclc1QUNWcVBaM190WW9RSkozV1VHdXhUeGow?oc=5\" target=\"_blank\">WEATHER ALERT: Flash Flood Warning issued 9:41 a.m.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Woodlands Online</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNM0dNNld2LXFjeUJOYWR2RVBiQmVoajJ2RHlVbFZndDAtTmF0Z1ZQdmEyV3R2TVZvZGNkZ19lLXZqZ3VVbTFHOTJfU1paVHJoMkZLT3hLOV8xWDN0QmJ6SW45RlV3bVdsZDB6aU44RE1Ta0liNUYybnBwTjNkVldRZVgzdUx5WThoYVZrWHUtUUktay1vcGxYVENBUVMzUXZBUjJqYmYyblRmeno3MEdmUXVDS09pSFpMeFhz?oc=5",
+        "date": "2026-06-16",
+        "title": "Flood warning for parts of Montgomery and Harris counties extended until 2:15 p.m. Tuesday - Houston Chronicle",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNM0dNNld2LXFjeUJOYWR2RVBiQmVoajJ2RHlVbFZndDAtTmF0Z1ZQdmEyV3R2TVZvZGNkZ19lLXZqZ3VVbTFHOTJfU1paVHJoMkZLT3hLOV8xWDN0QmJ6SW45RlV3bVdsZDB6aU44RE1Ta0liNUYybnBwTjNkVldRZVgzdUx5WThoYVZrWHUtUUktay1vcGxYVENBUVMzUXZBUjJqYmYyblRmeno3MEdmUXVDS09pSFpMeFhz?oc=5\" target=\"_blank\">Flood warning for parts of Montgomery and Harris counties extended until 2:15 p.m. Tuesday</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Houston Chronicle</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPclp0bnY1bkdWdHB5emlJWjVSdnFmUDYxRzE5QVhKWVBwMnZienVJVE9mY3hfMG9OZVl6ODFZemRVaWVTbzVTc0JFS19XeTJJN2V6OE95THpTbGJPWWEtX2oyU1RULUdwZUlqdDNBYk5ORFV3UU5DU2wxbG5EOTVxdmpJdXk1dkt1YmpfNFd2c2dFcHVSZ2R2RksxWlFDQW1oT05VTUFZUEsza3NjRTQ2d01XTQ?oc=5",
+        "date": "2026-06-16",
+        "title": "Parish-by-Parish: Flooding likely across Louisiana through Friday morning - WDSU",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPclp0bnY1bkdWdHB5emlJWjVSdnFmUDYxRzE5QVhKWVBwMnZienVJVE9mY3hfMG9OZVl6ODFZemRVaWVTbzVTc0JFS19XeTJJN2V6OE95THpTbGJPWWEtX2oyU1RULUdwZUlqdDNBYk5ORFV3UU5DU2wxbG5EOTVxdmpJdXk1dkt1YmpfNFd2c2dFcHVSZ2R2RksxWlFDQW1oT05VTUFZUEsza3NjRTQ2d01XTQ?oc=5\" target=\"_blank\">Parish-by-Parish: Flooding likely across Louisiana through Friday morning</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WDSU</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdzZhUlJuZ2xhTTdIOWJsZ182eE9LVjJEYWd3ZlpzNHJJc19aZTkzeWtqNEZSWDRGcFZGdllCWTZaOUlJN01PUTR4QWF0VE1qUEVUZUJLWGZZM05rV2RZY2Q2ZXFIX3NNMHFIenMyOU8zNlRGcUtjS01LenVqSTdSYTRkVC1zaEZVY2paUnhta1RXUkctZlN3dUhnVDl5R3BQV1ppNG5STlBqSTViNFRGelB3?oc=5",
+        "date": "2026-06-16",
+        "title": "Flash Flood vs. Flood Warning: How it\u2019s defined and what you need to know - Click2Houston",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNdzZhUlJuZ2xhTTdIOWJsZ182eE9LVjJEYWd3ZlpzNHJJc19aZTkzeWtqNEZSWDRGcFZGdllCWTZaOUlJN01PUTR4QWF0VE1qUEVUZUJLWGZZM05rV2RZY2Q2ZXFIX3NNMHFIenMyOU8zNlRGcUtjS01LenVqSTdSYTRkVC1zaEZVY2paUnhta1RXUkctZlN3dUhnVDl5R3BQV1ppNG5STlBqSTViNFRGelB3?oc=5\" target=\"_blank\">Flash Flood vs. Flood Warning: How it\u2019s defined and what you need to know</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Click2Houston</font>",
+        "similarity_excluded": "No",
+        "score": 4,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNcDBhRXF5amJlc0pFV3lUSzFVdE5kMmNXS2tpWXFZWnFhUlJJV3piRm92b0llTWZPVnhOa05XbUMzdkRPRmdlaDFZc09PU1FYYXNFQXp1VXpLcUQ5NDFtbGg3QnQtb2pqZWlUc2lOdzN3cThla3RONE1lMXNySmx4N1pic18waDh2UzZpcUJZU25mTl9vdVhaRktwdUx6VzVKLUwxaUNqdzZYRk9rZHJYR2hnak50MllyVW54Rl9ENXVYVk9BbW9QeEN6V0FpUjQ?oc=5",
+        "date": "2026-06-16",
+        "title": "Flash Flood Warnings in effect for portions of Tangipahoa & Washington Parishes, Pearl River County - WDSU",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxNcDBhRXF5amJlc0pFV3lUSzFVdE5kMmNXS2tpWXFZWnFhUlJJV3piRm92b0llTWZPVnhOa05XbUMzdkRPRmdlaDFZc09PU1FYYXNFQXp1VXpLcUQ5NDFtbGg3QnQtb2pqZWlUc2lOdzN3cThla3RONE1lMXNySmx4N1pic18waDh2UzZpcUJZU25mTl9vdVhaRktwdUx6VzVKLUwxaUNqdzZYRk9rZHJYR2hnak50MllyVW54Rl9ENXVYVk9BbW9QeEN6V0FpUjQ?oc=5\" target=\"_blank\">Flash Flood Warnings in effect for portions of Tangipahoa & Washington Parishes, Pearl River County</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WDSU</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOQzBLNFo3emNfMlp2aHljY3FxdlFSZEp4SHBNcGdUNUpuVU90SFQ1STlxaVdlczFaLXA1Q3RWRmtkWko2VGdYWXE0M0NSU0lXWXdUWUNTbEhrekt2R3lVZm5rbnUza2FMMlQ1c0JpMWtFUzlfQ2VkRlB0V0lqM3VoSDdGS2JRd1lkUi1RSEFOYV9UeUl2?oc=5",
+        "date": "2026-06-16",
+        "title": "Gulf storm system brings dangerous flooding to The Woodlands - Chron",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxOQzBLNFo3emNfMlp2aHljY3FxdlFSZEp4SHBNcGdUNUpuVU90SFQ1STlxaVdlczFaLXA1Q3RWRmtkWko2VGdYWXE0M0NSU0lXWXdUWUNTbEhrekt2R3lVZm5rbnUza2FMMlQ1c0JpMWtFUzlfQ2VkRlB0V0lqM3VoSDdGS2JRd1lkUi1RSEFOYV9UeUl2?oc=5\" target=\"_blank\">Gulf storm system brings dangerous flooding to The Woodlands</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Chron</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxONVdFbWhvWnpoamo1RzJGSHVsMzdOdU8zNFdYR3VidHdvZmFqR25RXzMtTG9ZOWpGTmpJV2g3RFRIRXJnd3EzeTBGRUtMOXV3TU9JOWFvWUJxTkNUaVhtazU2ekpSaUhVZUhoWVlwX1ZHWjVJekROZ05hc0lVTmFuTHZ2c0V5OW9MWjBmR3JSOGNmaXZBOTRHcTlpOTB4M2tRM2dSMFpiUzM1TGU4TzdFdlM0NVBhZFZB?oc=5",
+        "date": "2026-06-16",
+        "title": "Flood risk growing for the Northshore, River Parishes, Southern Mississippi today - WDSU",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxONVdFbWhvWnpoamo1RzJGSHVsMzdOdU8zNFdYR3VidHdvZmFqR25RXzMtTG9ZOWpGTmpJV2g3RFRIRXJnd3EzeTBGRUtMOXV3TU9JOWFvWUJxTkNUaVhtazU2ekpSaUhVZUhoWVlwX1ZHWjVJekROZ05hc0lVTmFuTHZ2c0V5OW9MWjBmR3JSOGNmaXZBOTRHcTlpOTB4M2tRM2dSMFpiUzM1TGU4TzdFdlM0NVBhZFZB?oc=5\" target=\"_blank\">Flood risk growing for the Northshore, River Parishes, Southern Mississippi today</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WDSU</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE12UGs5X0JvVVc4NlN1bmQza0ZfSWNLWmJfeDByU3hxS0Q1bjRNNnNxYkxIUmdYa0FyWmV2TU1VN0pKQU82SjczLTQzdDU5d24tYzRPamwzSlRQTXVMMHBZUmY4c3pFcU9TWjFQTmg4V1VrSjRCNlJwTXF3?oc=5",
+        "date": "2026-06-16",
+        "title": "Flood warning for Chelan County until further notice - minor flooding is taking place - Tri-City Herald",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE12UGs5X0JvVVc4NlN1bmQza0ZfSWNLWmJfeDByU3hxS0Q1bjRNNnNxYkxIUmdYa0FyWmV2TU1VN0pKQU82SjczLTQzdDU5d24tYzRPamwzSlRQTXVMMHBZUmY4c3pFcU9TWjFQTmg4V1VrSjRCNlJwTXF3?oc=5\" target=\"_blank\">Flood warning for Chelan County until further notice - minor flooding is taking place</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tri-City Herald</font>",
+        "similarity_excluded": "No",
+        "score": 5,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOUTlhWFBSYjljbkhPYzlROWZRdHlxdGs0YXdVX2JzOTAxNkxQR3piOEJWWlB5ZUhPSlhPSlVJSXB4WTdyaHRJNUYtWlFjb2dmNlBFM2dJNTh5NTI2SFR2cmFYaUZrNHhsQXJIdHJCcll3NUxSR3daZlloWm1la2VhdjR1TkRNdWhHZm1CZWVCQThYUnp2S2NfUy1LZkFaUFJxTVFCX3d4aHhKdHZTWXlFWFZvR1hjWEs3bU5ERFllV0JWMGNoS1FWSnlza2laRl9CdFBFU29ZSWdxWHpMU282aHhFMEpxUmxMcERibUcyTQ?oc=5",
+        "date": "2026-06-16",
+        "title": "Tracking the tropics: Forecasters warn flooding, not wind, is the primary concern - galvnews.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxOUTlhWFBSYjljbkhPYzlROWZRdHlxdGs0YXdVX2JzOTAxNkxQR3piOEJWWlB5ZUhPSlhPSlVJSXB4WTdyaHRJNUYtWlFjb2dmNlBFM2dJNTh5NTI2SFR2cmFYaUZrNHhsQXJIdHJCcll3NUxSR3daZlloWm1la2VhdjR1TkRNdWhHZm1CZWVCQThYUnp2S2NfUy1LZkFaUFJxTVFCX3d4aHhKdHZTWXlFWFZvR1hjWEs3bU5ERFllV0JWMGNoS1FWSnlza2laRl9CdFBFU29ZSWdxWHpMU282aHhFMEpxUmxMcERibUcyTQ?oc=5\" target=\"_blank\">Tracking the tropics: Forecasters warn flooding, not wind, is the primary concern</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">galvnews.com</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOUmpZX0FjajgxZzMxVENQS2xpQjZGd0hkcXE1elVKU3Z0ZFRQREhzWU9DNkE4UEpUWkttZzNGWFBVeXVzclA3UmM4R2NpdjBUcTUxRmluVjlnMmVvd3V1N1hNQWNnMEV4UjJzVGRpSTN5YVRVR3hjakFTbGR3dm1fLXcwVUpzZDhsXzloejdPQUwtbC1fUEtoZEVmYTVHbnZ6VFFSQ3VtSm4ydkZGYWpGMzBB?oc=5",
+        "date": "2026-06-16",
+        "title": "Tracking PTC One: See our interactive radar, latest cone, and maps - WDSU",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOUmpZX0FjajgxZzMxVENQS2xpQjZGd0hkcXE1elVKU3Z0ZFRQREhzWU9DNkE4UEpUWkttZzNGWFBVeXVzclA3UmM4R2NpdjBUcTUxRmluVjlnMmVvd3V1N1hNQWNnMEV4UjJzVGRpSTN5YVRVR3hjakFTbGR3dm1fLXcwVUpzZDhsXzloejdPQUwtbC1fUEtoZEVmYTVHbnZ6VFFSQ3VtSm4ydkZGYWpGMzBB?oc=5\" target=\"_blank\">Tracking PTC One: See our interactive radar, latest cone, and maps</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WDSU</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQeVd6U2pMb0dNZDRSZmw1bTQ3bXVrQTBGWXJyUTZEWkxLbkhZd2E0QkhFZjNremw4aThaMGFtYms0czZYbkp3WVRqejdwZ3JybHR6U3V3RjJSekcyT1JYZWJMRkhFcFBHdnlSWmhRYndRR2wwX2VDMFJIQ2FCVHQtbHlOQlZ2UGhtRnhpbDZBRWJpUQ?oc=5",
+        "date": "2026-06-16",
+        "title": "Heavy rain hits Pearl River County, flooding roads - WLOX",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQeVd6U2pMb0dNZDRSZmw1bTQ3bXVrQTBGWXJyUTZEWkxLbkhZd2E0QkhFZjNremw4aThaMGFtYms0czZYbkp3WVRqejdwZ3JybHR6U3V3RjJSekcyT1JYZWJMRkhFcFBHdnlSWmhRYndRR2wwX2VDMFJIQ2FCVHQtbHlOQlZ2UGhtRnhpbDZBRWJpUQ?oc=5\" target=\"_blank\">Heavy rain hits Pearl River County, flooding roads</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WLOX</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZjFpUGJNU0w2RGxNSm5Jc3FCR1VXcFB4dFFRbUhfUW9LY2FZRUxCUDZMS1FUaEpSUDN6QVUxUkp0X1Z3YnhaTXVRUjhFUVowRnNCam1LOHpPS215Nl9oNVpBMWVPcjdiN2RaNzh5QTJwXy1QSDhNT1NNeDdRRERsRDNXSUFQVXYw?oc=5",
+        "date": "2026-06-16",
+        "title": "Wild video shows cars, 18-wheelers driving on flooded interstate in Mississippi - WDSU",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZjFpUGJNU0w2RGxNSm5Jc3FCR1VXcFB4dFFRbUhfUW9LY2FZRUxCUDZMS1FUaEpSUDN6QVUxUkp0X1Z3YnhaTXVRUjhFUVowRnNCam1LOHpPS215Nl9oNVpBMWVPcjdiN2RaNzh5QTJwXy1QSDhNT1NNeDdRRERsRDNXSUFQVXYw?oc=5\" target=\"_blank\">Wild video shows cars, 18-wheelers driving on flooded interstate in Mississippi</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WDSU</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNTm1fbldQd0hYTVU5TVVoWmNTcEZzTG4tc29EMS1JTWFVZVdkSVF3akdNNlFjTmo2cS1pXy1DZzMxcy04ZDl3SFFoU3pFWGxfVnRvcW14aHk5dG5vV0x5YUxIOWF6UTBTdjI5a2dnSDVua2dSUjdKb2psMUE3b2w4Mk5Na0wxNlhaQ3J0cUdGNUlwQ080cVhOMkRHN0lpSkdOV1F5TlNrWlNBZHRramVHdWxQOHlZc1FWc0UxNzMydGMwRjJhWFZ2VERKYjU0MjjSAdcBQVVfeXFMT0gxa0MxOVN4aEkwbnBGZ3B5ZzMydWUtcnRoOFl0SmVHaElka3NiTlUyQkNXUjIyS0xkTHdXM2gtaFBUckN2eElYNVN4a2F2dlFYMmJlNnM2aFJwcGlOMDdydXJ3SW1ZQlJoLUk3aElIWWdwUUFZNWEyWnhnNklvMExJVEhKUC1jMEdNRmdSWmozQjZ4LVI3X3JPekpZbEp4TF8zQ0ZnS1lmYm4yTFkwU1kzbWpPbDZCQ25salRXLXF5NHVNWUhCSVlQcUhVTF8xcTQ2UlZqYUE?oc=5",
+        "date": "2026-06-16",
+        "title": "Tropical storm watch issued for Galveston as officials warn of flooding risks - Houston Public Media",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxNTm1fbldQd0hYTVU5TVVoWmNTcEZzTG4tc29EMS1JTWFVZVdkSVF3akdNNlFjTmo2cS1pXy1DZzMxcy04ZDl3SFFoU3pFWGxfVnRvcW14aHk5dG5vV0x5YUxIOWF6UTBTdjI5a2dnSDVua2dSUjdKb2psMUE3b2w4Mk5Na0wxNlhaQ3J0cUdGNUlwQ080cVhOMkRHN0lpSkdOV1F5TlNrWlNBZHRramVHdWxQOHlZc1FWc0UxNzMydGMwRjJhWFZ2VERKYjU0MjjSAdcBQVVfeXFMT0gxa0MxOVN4aEkwbnBGZ3B5ZzMydWUtcnRoOFl0SmVHaElka3NiTlUyQkNXUjIyS0xkTHdXM2gtaFBUckN2eElYNVN4a2F2dlFYMmJlNnM2aFJwcGlOMDdydXJ3SW1ZQlJoLUk3aElIWWdwUUFZNWEyWnhnNklvMExJVEhKUC1jMEdNRmdSWmozQjZ4LVI3X3JPekpZbEp4TF8zQ0ZnS1lmYm4yTFkwU1kzbWpPbDZCQ25salRXLXF5NHVNWUhCSVlQcUhVTF8xcTQ2UlZqYUE?oc=5\" target=\"_blank\">Tropical storm watch issued for Galveston as officials warn of flooding risks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Houston Public Media</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSW4wUmNuWWIyX3RTcEtoWTZIbFFnSEQ2bUU2REVMb2ZJV0toNUN3U0xaeXZDSWpxSWxKZ0l2dzNheWNFTzJwXzJoZURKU2xnRzFfT3NyQzZMWFRjemZwdExFc0JuMWpUdm5BdUFITFlGaUYybFduMEp2UHhaSzRYZkdnUVY4R3huTlNsa2ZlYUNPTEh0ekZkTjhSSVBnYmVwZ3Rwaw?oc=5",
+        "date": "2026-06-16",
+        "title": "Tornado outbreak possible again in Chicago area Wednesday; flash flooding, damaging winds from 2 rounds of storms - CBS News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxOSW4wUmNuWWIyX3RTcEtoWTZIbFFnSEQ2bUU2REVMb2ZJV0toNUN3U0xaeXZDSWpxSWxKZ0l2dzNheWNFTzJwXzJoZURKU2xnRzFfT3NyQzZMWFRjemZwdExFc0JuMWpUdm5BdUFITFlGaUYybFduMEp2UHhaSzRYZkdnUVY4R3huTlNsa2ZlYUNPTEh0ekZkTjhSSVBnYmVwZ3Rwaw?oc=5\" target=\"_blank\">Tornado outbreak possible again in Chicago area Wednesday; flash flooding, damaging winds from 2 rounds of storms</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CBS News</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1TMEVsQ190OEFZTnlfWENZN2RhbWdJSWh6ZWE0YmxpdXl1MFFPNHlEdGFKM0pHS3lBV0NXc09idDVsTUhmU19zYnpJUDhyLTZRUUlPendoeklqSlRPUDJBNVd1Ul9NZGtDMlBhOHJJeGMwR240X1JpRnhkRTh2SlU?oc=5",
+        "date": "2026-06-16",
+        "title": "Members of Oklahoma's Task Force 1 to help with flood response efforts in Texas - KOCO",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE1TMEVsQ190OEFZTnlfWENZN2RhbWdJSWh6ZWE0YmxpdXl1MFFPNHlEdGFKM0pHS3lBV0NXc09idDVsTUhmU19zYnpJUDhyLTZRUUlPendoeklqSlRPUDJBNVd1Ul9NZGtDMlBhOHJJeGMwR240X1JpRnhkRTh2SlU?oc=5\" target=\"_blank\">Members of Oklahoma's Task Force 1 to help with flood response efforts in Texas</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KOCO</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWjVyWGZLSldPQ3otR2I2RTk1THdxdmc3OEltVV9CT1czSUNlNW9QMVJfaEFQZkRlS051UEhIUkxscXZoLUdudkR5SWlQVGh3b2JDUWNVSW9KbDdGUzltYzlIdEt6U0ZtSldkTUhzQlB6NDZuc3RsT1NzaWZ1RzlxXzJRUXdoMm55amlUd3RkVG4tWWE1RnE4aDVLZzIzNFFr?oc=5",
+        "date": "2026-06-16",
+        "title": "FLOOD WATCH: tropical moisture brings threat of heavy rain to Capital Area - WBRZ",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNWjVyWGZLSldPQ3otR2I2RTk1THdxdmc3OEltVV9CT1czSUNlNW9QMVJfaEFQZkRlS051UEhIUkxscXZoLUdudkR5SWlQVGh3b2JDUWNVSW9KbDdGUzltYzlIdEt6U0ZtSldkTUhzQlB6NDZuc3RsT1NzaWZ1RzlxXzJRUXdoMm55amlUd3RkVG4tWWE1RnE4aDVLZzIzNFFr?oc=5\" target=\"_blank\">FLOOD WATCH: tropical moisture brings threat of heavy rain to Capital Area</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WBRZ</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObFYwb1EyRWV2OVU0X0NlZHljOWJsU3l2MXh0aGd1WkNUcXdrQ0FISV9DOWhkenE0OEdKSGdrdkkwZUUxZG10RGtzQkdtNFZtTExkZlVVT1d2U2wzRTFsUFhKRlpRVFNOMlBJZHk1Zk1saDEyZHJJLUtOZ1J1S21zMGhjYVpQcVpBQnQzNkNLb2xNcUJlMkNnNnByTno0WE0?oc=5",
+        "date": "2026-06-16",
+        "title": "Tropical storm watch issued in Texas and Louisiana for major flood threat - CNN",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxObFYwb1EyRWV2OVU0X0NlZHljOWJsU3l2MXh0aGd1WkNUcXdrQ0FISV9DOWhkenE0OEdKSGdrdkkwZUUxZG10RGtzQkdtNFZtTExkZlVVT1d2U2wzRTFsUFhKRlpRVFNOMlBJZHk1Zk1saDEyZHJJLUtOZ1J1S21zMGhjYVpQcVpBQnQzNkNLb2xNcUJlMkNnNnByTno0WE0?oc=5\" target=\"_blank\">Tropical storm watch issued in Texas and Louisiana for major flood threat</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNN</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQT2x4S1pwWjdHdGRubmlMdS1SV2dCUnlyTk8tUlZWem41Nk1XQmZGMkVYclc1OFgtYy1UTC1YY2s2eEI4QTlaN2VVV19HUnBMdmZUcE8yVS1GSnNJNHVrTGlGOUNfamJFNnNEcG9jVVZlWWtaRHJMR1g1VjdYbGszanRTdUNfRlZFZU1XQUxRUkpReGo2dWFGUl9PZUt6QThMbzZZblF2NE1EUl9EZEdFM3o0dFpoa2kxR3c?oc=5",
+        "date": "2026-06-16",
+        "title": "Roads flood in Montgomery County as heavy rain tracks over the area - Houston Chronicle",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQT2x4S1pwWjdHdGRubmlMdS1SV2dCUnlyTk8tUlZWem41Nk1XQmZGMkVYclc1OFgtYy1UTC1YY2s2eEI4QTlaN2VVV19HUnBMdmZUcE8yVS1GSnNJNHVrTGlGOUNfamJFNnNEcG9jVVZlWWtaRHJMR1g1VjdYbGszanRTdUNfRlZFZU1XQUxRUkpReGo2dWFGUl9PZUt6QThMbzZZblF2NE1EUl9EZEdFM3o0dFpoa2kxR3c?oc=5\" target=\"_blank\">Roads flood in Montgomery County as heavy rain tracks over the area</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Houston Chronicle</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQbHZKaTRKcU05MmVCczVBTmF4b0IzWFNrVGVrZlVSWGlRelN4UmJPamlXRUxOVVM1UEFuQWo4cFpqaTFzcXFLQm5iVkMyRmN5Y3VOUk5DbkVqaS01M3JXTkFrUHFGQ1BWQW9PekwwSUxINjhFTlBDNGpGV0lMVE95d3pVUW1UN01FcVJra1FhMGZILWc3MHVBcWhMNHJHYlRpRVJZeGNJcVJNWGZEMEVJZXU1blMxZmY3eG5zd01xOGlXbWFwelUtQjdncw?oc=5",
+        "date": "2026-06-16",
+        "title": "Tropical Storm Arthur could develop in the western Gulf by Wednesday morning - WDSU",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxQbHZKaTRKcU05MmVCczVBTmF4b0IzWFNrVGVrZlVSWGlRelN4UmJPamlXRUxOVVM1UEFuQWo4cFpqaTFzcXFLQm5iVkMyRmN5Y3VOUk5DbkVqaS01M3JXTkFrUHFGQ1BWQW9PekwwSUxINjhFTlBDNGpGV0lMVE95d3pVUW1UN01FcVJra1FhMGZILWc3MHVBcWhMNHJHYlRpRVJZeGNJcVJNWGZEMEVJZXU1blMxZmY3eG5zd01xOGlXbWFwelUtQjdncw?oc=5\" target=\"_blank\">Tropical Storm Arthur could develop in the western Gulf by Wednesday morning</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WDSU</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQeWhCODYtdGRDWUx0amh5OURQU0xsTFdZN25BRk16WTR3VmRmcU9zQmJXTkZibEhLQlFaLXZnbkN2eWZ0VkpqTVJPU3d1ejE1ZU1WeF9COU92V1FQalh2UGVQbzU3S1VvQy04WFlISlJ4UU90alpNQ1g5N2xtd2hwX3ZUNERJanlVNGpCalNrRXFnZVJrT19RcjlCSFRxcjgwTGJkYVRmNlN0ZVZxLWJadUl5dVljVGg0NlRvbmpOazZ3aVhia0pienFfQnV6OHBIRnZsdXh2R2JvaGVOZUhnZTBnYVMtM3NabGE4?oc=5",
+        "date": "2026-06-16",
+        "title": "Is a tropical storm coming? Rain brings Mississippi flash flood threat - The Clarion-Ledger",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxQeWhCODYtdGRDWUx0amh5OURQU0xsTFdZN25BRk16WTR3VmRmcU9zQmJXTkZibEhLQlFaLXZnbkN2eWZ0VkpqTVJPU3d1ejE1ZU1WeF9COU92V1FQalh2UGVQbzU3S1VvQy04WFlISlJ4UU90alpNQ1g5N2xtd2hwX3ZUNERJanlVNGpCalNrRXFnZVJrT19RcjlCSFRxcjgwTGJkYVRmNlN0ZVZxLWJadUl5dVljVGg0NlRvbmpOazZ3aVhia0pienFfQnV6OHBIRnZsdXh2R2JvaGVOZUhnZTBnYVMtM3NabGE4?oc=5\" target=\"_blank\">Is a tropical storm coming? Rain brings Mississippi flash flood threat</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Clarion-Ledger</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPQVF1TFJ4ZHZmSUlodHJBdWRsQ2g4SmRLUEVHTGhfVXJSZmhhZHhWclpUY1BQSzFaaE1EdTlUc1VsU0Q3YWJsYkU3ZEV6UTk0T2RKQzVIalBCS1NmVlAtTXZtdURxRHFHRkdQOTZ4OFdqUlozUlFWc2RoMmZGM040MU1nNGFWRUtUQ2RPTEM3ZEVRcWc?oc=5",
+        "date": "2026-06-16",
+        "title": "Heavy rain floods roads and homes in Pearl River County - WLOX",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPQVF1TFJ4ZHZmSUlodHJBdWRsQ2g4SmRLUEVHTGhfVXJSZmhhZHhWclpUY1BQSzFaaE1EdTlUc1VsU0Q3YWJsYkU3ZEV6UTk0T2RKQzVIalBCS1NmVlAtTXZtdURxRHFHRkdQOTZ4OFdqUlozUlFWc2RoMmZGM040MU1nNGFWRUtUQ2RPTEM3ZEVRcWc?oc=5\" target=\"_blank\">Heavy rain floods roads and homes in Pearl River County</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WLOX</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB4cWF3dFRPSTJCTTByeWQ1YzBUYk9qUTE2R0dIT0FqQWZPTWV5UVJDbW1lR2taV1oxdTh2UGRlLXR2TGQ0WmdwdVFneUVUd3E0Y1czYTlfRWJBUW5Xejd2Z1QxTGtfRzRzdEI0?oc=5",
+        "date": "2026-06-16",
+        "title": "Flood Watch issued June 16 at 10:06AM CDT until June 18 at 7:00AM CDT - Woodlands Online",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTFB4cWF3dFRPSTJCTTByeWQ1YzBUYk9qUTE2R0dIT0FqQWZPTWV5UVJDbW1lR2taV1oxdTh2UGRlLXR2TGQ0WmdwdVFneUVUd3E0Y1czYTlfRWJBUW5Xejd2Z1QxTGtfRzRzdEI0?oc=5\" target=\"_blank\">Flood Watch issued June 16 at 10:06AM CDT until June 18 at 7:00AM CDT</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Woodlands Online</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNRjc4dG5iam9yU1h5Z0lDM3BTZl84VXpnMXBmSU9LSmUzeTd0WFJLTVdmQ3d5c0liRDFuY0g0N2J3VEMzVGFJdmFiaW1rbXExQVZ3U2RRVzM5M25wUmx4VXRsYmlaOGE1V3ctUU5OQnJmbjFCTWJvNFdxN2s1M1lWS24yempscnZIUS1UUFE2MV93NVJZcGVoVnZad050MndoUXF4bDBSMkZNVnFIWFp5NXYycW1fMFRzbmxhbDRBUHU1VTFvVHFSc1lpby1lTTdSYjRn?oc=5",
+        "date": "2026-06-16",
+        "title": "First named storm forming in the Gulf. See spaghetti models, flood watches - Shreveport Times",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxNRjc4dG5iam9yU1h5Z0lDM3BTZl84VXpnMXBmSU9LSmUzeTd0WFJLTVdmQ3d5c0liRDFuY0g0N2J3VEMzVGFJdmFiaW1rbXExQVZ3U2RRVzM5M25wUmx4VXRsYmlaOGE1V3ctUU5OQnJmbjFCTWJvNFdxN2s1M1lWS24yempscnZIUS1UUFE2MV93NVJZcGVoVnZad050MndoUXF4bDBSMkZNVnFIWFp5NXYycW1fMFRzbmxhbDRBUHU1VTFvVHFSc1lpby1lTTdSYjRn?oc=5\" target=\"_blank\">First named storm forming in the Gulf. See spaghetti models, flood watches</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Shreveport Times</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPVDRpVjF2cHNGV19VeWFzYWI1NVM3LVZEaEd3dmJ4VUUwOXJnV1pZdFZ4el9Bc0pBZ1Bqc25SRUx0Uzk3YWJjX2wtU2o3OFN5V1pfb2x3ck44TWlXZ1lVQVVRaWxDX2lCVVpOWDFPSDFVTUF2dHlQLVN5S2pMZ1VVdmh5Y2czX3d0WGRBRG1zemtBeGd4NFV5UUdwZS1taWtuLW5DOGlocDFBNnhYZTRPLUhTOUhPWXBRUkhyeDBNUzloMWFveXVza3IxWWtYUVRYWHBDZzR4clJMTVpXSEp4bDlB?oc=5",
+        "date": "2026-06-16",
+        "title": "Houston Mayor John Whitmire discusses city\u2019s preparedness for severe weather, potential flooding - Click2Houston",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxPVDRpVjF2cHNGV19VeWFzYWI1NVM3LVZEaEd3dmJ4VUUwOXJnV1pZdFZ4el9Bc0pBZ1Bqc25SRUx0Uzk3YWJjX2wtU2o3OFN5V1pfb2x3ck44TWlXZ1lVQVVRaWxDX2lCVVpOWDFPSDFVTUF2dHlQLVN5S2pMZ1VVdmh5Y2czX3d0WGRBRG1zemtBeGd4NFV5UUdwZS1taWtuLW5DOGlocDFBNnhYZTRPLUhTOUhPWXBRUkhyeDBNUzloMWFveXVza3IxWWtYUVRYWHBDZzR4clJMTVpXSEp4bDlB?oc=5\" target=\"_blank\">Houston Mayor John Whitmire discusses city\u2019s preparedness for severe weather, potential flooding</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Click2Houston</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNX1JiQk1DcXNFSVk1UGxiUDA1UlV6TG1Rc08wOVVnLWtlUkt4bUVIendKUHpFd19RNk1MU2FaVEc5STRLQXV2RXRYSzJKR3dFc05uZGlVbENfYl96Q2M4RFhNYmZGMGgwSEJZWmlKWFVuaDlwOEZGcGlUSWN3c3lhdXd0WGdkSklU?oc=5",
+        "date": "2026-06-16",
+        "title": "Heavy rain floods roads in Pearl River County - WLOX",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNX1JiQk1DcXNFSVk1UGxiUDA1UlV6TG1Rc08wOVVnLWtlUkt4bUVIendKUHpFd19RNk1MU2FaVEc5STRLQXV2RXRYSzJKR3dFc05uZGlVbENfYl96Q2M4RFhNYmZGMGgwSEJZWmlKWFVuaDlwOEZGcGlUSWN3c3lhdXd0WGdkSklU?oc=5\" target=\"_blank\">Heavy rain floods roads in Pearl River County</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WLOX</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOdkNlak9ZMU9oSFRVbmZFY3MwLTVvQTFQRC1qQWl1RWFZUS03TmtYXy1vUVRGZjRCcG9PbW1wb0ltRUxPR0h3TGpqN3NmTjJTVWFkNGUya0hleDVfMTItY2lKa1IyUENKYndJZzBBbWhPcHFRZzZuSUluRkkwRWkzdG44Vk5SOGdmMVZwS0J5ZDA?oc=5",
+        "date": "2026-06-16",
+        "title": "Flooding threat increases across the Gulf coast this week - WEAR-TV",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxOdkNlak9ZMU9oSFRVbmZFY3MwLTVvQTFQRC1qQWl1RWFZUS03TmtYXy1vUVRGZjRCcG9PbW1wb0ltRUxPR0h3TGpqN3NmTjJTVWFkNGUya0hleDVfMTItY2lKa1IyUENKYndJZzBBbWhPcHFRZzZuSUluRkkwRWkzdG44Vk5SOGdmMVZwS0J5ZDA?oc=5\" target=\"_blank\">Flooding threat increases across the Gulf coast this week</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WEAR-TV</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPU1NJLU5DVnVXajdTamZXS2V3a1VPQTFfalB6bXI3ZkZWODM3a3VTU0lQSk5HRFhPT0hCNjdNT2VUMEdSazZzM3JJQkt3T3dOUC1Pd2RfNGM0TzRqZGtLcWdLVU1iVjNkWHRRN3ZLaHNzSzFnSVBtc1djY2x2dnU1UmtYeEhwRXhlU3JXdmtQamNIb3laNERlYTdhUXRLUHFrWGpuaVhRWmRjLWJBb1JmSk9pOUxCTUxNSnJCU0tNcnQwb0swNEU4d0ZaaEg2cU9UWU9tLVhaSFVYV3M?oc=5",
+        "date": "2026-06-16",
+        "title": "Updated: Galveston warns of flooding, 40 mph winds as tropical system nears Texas coast - KHOU",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxPU1NJLU5DVnVXajdTamZXS2V3a1VPQTFfalB6bXI3ZkZWODM3a3VTU0lQSk5HRFhPT0hCNjdNT2VUMEdSazZzM3JJQkt3T3dOUC1Pd2RfNGM0TzRqZGtLcWdLVU1iVjNkWHRRN3ZLaHNzSzFnSVBtc1djY2x2dnU1UmtYeEhwRXhlU3JXdmtQamNIb3laNERlYTdhUXRLUHFrWGpuaVhRWmRjLWJBb1JmSk9pOUxCTUxNSnJCU0tNcnQwb0swNEU4d0ZaaEg2cU9UWU9tLVhaSFVYV3M?oc=5\" target=\"_blank\">Updated: Galveston warns of flooding, 40 mph winds as tropical system nears Texas coast</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KHOU</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNVFVhNWQxR2Jzb1pYRm9IOUlNWHZVWnZtQlhkS0Y2aDhhQVhNeElFY1dzbkZka2tzUDJxRmRZZEw3M2pJX3VSYlpDTkk5VFhXOWJRY3I4ZS1EWm8xMDZHRUNwZjFnYVJNeXlVQVZJdm12Y3JwdTdhdXRoTjlHMTdnekZSZjRLdUpvTHNhdnkwNjc0b0Z6TmtSQ1Y0LXhrQQ?oc=5",
+        "date": "2026-06-16",
+        "title": "Tracking the Tropics: PTC One could bring 'dangerous flash flooding' to Alabama - WVTM",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNVFVhNWQxR2Jzb1pYRm9IOUlNWHZVWnZtQlhkS0Y2aDhhQVhNeElFY1dzbkZka2tzUDJxRmRZZEw3M2pJX3VSYlpDTkk5VFhXOWJRY3I4ZS1EWm8xMDZHRUNwZjFnYVJNeXlVQVZJdm12Y3JwdTdhdXRoTjlHMTdnekZSZjRLdUpvTHNhdnkwNjc0b0Z6TmtSQ1Y0LXhrQQ?oc=5\" target=\"_blank\">Tracking the Tropics: PTC One could bring 'dangerous flash flooding' to Alabama</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WVTM</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQTko5eHE3VndvaGQ3MnlJckJ5SF9RY1poVS1IT0x5Zk1ULXR5bndDd3YybEFPLXFsSERCNVlRMHRZR2FRZmh2bV8xQXNXQ0htYm9TRjFPVTBFOVBKUmJ5Zm04RjdVbDRjRGtuMzl2cjFKbTZWMEhMNy1JeU01OTNiaFdUNERuVEZRb0xPblNVZHBfRU9fNy1md0dsQXctREtXVVl0dHVobzVxZ294UFY2SlhCeEJTMm1oUWVNWVgzREpYZGU0dWI4dm5SbFoySHBqTGRLU3FQSzNMMW13RTFCZm16UUN0V2lq?oc=5",
+        "date": "2026-06-16",
+        "title": "Dangerous Flash Flooding Occuring Over Portions Of Texas And Louisiana From Potential Tropical Cyclone One. - Click2Houston",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxQTko5eHE3VndvaGQ3MnlJckJ5SF9RY1poVS1IT0x5Zk1ULXR5bndDd3YybEFPLXFsSERCNVlRMHRZR2FRZmh2bV8xQXNXQ0htYm9TRjFPVTBFOVBKUmJ5Zm04RjdVbDRjRGtuMzl2cjFKbTZWMEhMNy1JeU01OTNiaFdUNERuVEZRb0xPblNVZHBfRU9fNy1md0dsQXctREtXVVl0dHVobzVxZ294UFY2SlhCeEJTMm1oUWVNWVgzREpYZGU0dWI4dm5SbFoySHBqTGRLU3FQSzNMMW13RTFCZm16UUN0V2lq?oc=5\" target=\"_blank\">Dangerous Flash Flooding Occuring Over Portions Of Texas And Louisiana From Potential Tropical Cyclone One.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Click2Houston</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNOFU2N3dxc1lSYTJENldtWnVEdmdjOHczMm1aOUdXMW9zOXdDWnZnQVJaSUdzb3lMRjJWRm9BckdFdDRnd3hxSFpPOVlLVXFOZzhzbTRrbGVfelpLSmZTMWpJdXFoR3NxZi04MTFPVVpJLUVzc1ZlTGR1V3VVLUZONzhVMjN1cWtlU1ViM1M0NkFORWNVQTI5X3hLZFBCTDVYVkVLenNNUndJREZ1UUh2TjNuOXZqdzJodHlQRXQ1NGFEaTlGQTRBSQ?oc=5",
+        "date": "2026-06-16",
+        "title": "Check Your Area: Houston Roads Most Likely to Flood During Heavy Rain - Click2Houston",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxNOFU2N3dxc1lSYTJENldtWnVEdmdjOHczMm1aOUdXMW9zOXdDWnZnQVJaSUdzb3lMRjJWRm9BckdFdDRnd3hxSFpPOVlLVXFOZzhzbTRrbGVfelpLSmZTMWpJdXFoR3NxZi04MTFPVVpJLUVzc1ZlTGR1V3VVLUZONzhVMjN1cWtlU1ViM1M0NkFORWNVQTI5X3hLZFBCTDVYVkVLenNNUndJREZ1UUh2TjNuOXZqdzJodHlQRXQ1NGFEaTlGQTRBSQ?oc=5\" target=\"_blank\">Check Your Area: Houston Roads Most Likely to Flood During Heavy Rain</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Click2Houston</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZVhOeXdlWnZ4R3U4RHJiS1dscUJObGNmOVJMc2h1MU9lSU1ST1RzUWNLeWNxQVlVWS1ZYVp1VTRZN3dMSDFaeWYyYmdFUzZKWG16cmR0Q0ItNk5uWVgyMnVjbzNyeTgzM0dmZzUzSnZjNy04WlNjd3B2WmtDQ0k5d0RQWXpxNmZPc2Vn?oc=5",
+        "date": "2026-06-16",
+        "title": "The Potential Tropical Cyclone: Tuesday, June 16 status report from the National Hurricane Center - The State",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZVhOeXdlWnZ4R3U4RHJiS1dscUJObGNmOVJMc2h1MU9lSU1ST1RzUWNLeWNxQVlVWS1ZYVp1VTRZN3dMSDFaeWYyYmdFUzZKWG16cmR0Q0ItNk5uWVgyMnVjbzNyeTgzM0dmZzUzSnZjNy04WlNjd3B2WmtDQ0k5d0RQWXpxNmZPc2Vn?oc=5\" target=\"_blank\">The Potential Tropical Cyclone: Tuesday, June 16 status report from the National Hurricane Center</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The State</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVkx1a0tyREhEbVNtNThzWGQ0cFlWUGdQWExBUGFjdmw3QXFOODBvZXBKTHZEMkI2ZUtORVZNOV9LcnRPR3NuckI5ZXE0Y3NjU2FuZkMweG1oaENzWk1SLW1Iekh4em82SXVUOHlfVkVhTUFUNXAtSGFSMTN4N0Foc2xKeXZKQ0dmcmJTSU1OQUNnaUVKN2NzNHdkaXBwUFZsaHJ6WTRDdmliVEwyMlNZUnk5QVBkM3Jxb1RiSUpOVFg?oc=5",
+        "date": "2026-06-16",
+        "title": "This tropical system could become Arthur and the rain threat is growing - NBC 5 Dallas-Fort Worth",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVkx1a0tyREhEbVNtNThzWGQ0cFlWUGdQWExBUGFjdmw3QXFOODBvZXBKTHZEMkI2ZUtORVZNOV9LcnRPR3NuckI5ZXE0Y3NjU2FuZkMweG1oaENzWk1SLW1Iekh4em82SXVUOHlfVkVhTUFUNXAtSGFSMTN4N0Foc2xKeXZKQ0dmcmJTSU1OQUNnaUVKN2NzNHdkaXBwUFZsaHJ6WTRDdmliVEwyMlNZUnk5QVBkM3Jxb1RiSUpOVFg?oc=5\" target=\"_blank\">This tropical system could become Arthur and the rain threat is growing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NBC 5 Dallas-Fort Worth</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPeWNGYWZTUkZBUFpTaGYwczM4UVFqb3BJODRPNzNaemxlLVVWTWxtY0kxQ2c0azBCYWY3QW9UUEpuaUNqT0VKYjRPR2s4SjA1aHdCX3Z5UFN1VjhwTzFqOTl2U1lBLW01THBoZ0dVdXRodi0xYWlUY3MtaFdoWVprRTB4UGY5ZFBiYThPejJLcGN5Y2ZkWWE2aW4wbm81UU5UdFpmM1VvY3RNZllkSVVQZThvT2FjbVRhVXRvMFktYloyUUVKMVlqWVgyWE1YaHNYd1p3dmU4ZGtyRjg4?oc=5",
+        "date": "2026-06-16",
+        "title": "Dangerous Flash Flooding Occuring Over Portions Of Texas And Louisiana From Potential Tropical Cyclone One. - KSAT",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxPeWNGYWZTUkZBUFpTaGYwczM4UVFqb3BJODRPNzNaemxlLVVWTWxtY0kxQ2c0azBCYWY3QW9UUEpuaUNqT0VKYjRPR2s4SjA1aHdCX3Z5UFN1VjhwTzFqOTl2U1lBLW01THBoZ0dVdXRodi0xYWlUY3MtaFdoWVprRTB4UGY5ZFBiYThPejJLcGN5Y2ZkWWE2aW4wbm81UU5UdFpmM1VvY3RNZllkSVVQZThvT2FjbVRhVXRvMFktYloyUUVKMVlqWVgyWE1YaHNYd1p3dmU4ZGtyRjg4?oc=5\" target=\"_blank\">Dangerous Flash Flooding Occuring Over Portions Of Texas And Louisiana From Potential Tropical Cyclone One.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KSAT</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOeHpRVGx0TjVpMFUwVWNtTVpfbzRWMHRydGQ1dlZQbWQyT25zWWRwRWpkbDROWjZVTEc3OFFPZFJ2Q3VJWC1FaHRTNDhMZk5LVWpDRldOWDZVTVV0bXdCVXo5Y2s3TUtSbFZFLTJlNFY2dFdDdEpMZEthR2xmcENtWFd3?oc=5",
+        "date": "2026-06-16",
+        "title": "Maps: Tracking Potential Tropical Cyclone One - The New York Times",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxOeHpRVGx0TjVpMFUwVWNtTVpfbzRWMHRydGQ1dlZQbWQyT25zWWRwRWpkbDROWjZVTEc3OFFPZFJ2Q3VJWC1FaHRTNDhMZk5LVWpDRldOWDZVTVV0bXdCVXo5Y2s3TUtSbFZFLTJlNFY2dFdDdEpMZEthR2xmcENtWFd3?oc=5\" target=\"_blank\">Maps: Tracking Potential Tropical Cyclone One</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNejZNTy1iMkhJUk9qWGFUOGJYUmY4U2g2Y2ZrMWJlUkVIclB2Tjl2QlJ2aUstelhFOVU1LVdLbVhfb3l1a0hNUExsRDNlTW5nNmJCa0VrWVF6SDdkS19MQWtBWWs0VFI4aTAxZ0htNS1ld205Z3k5UmxlZ0xaSzZDMFZrVFZLRnYtNzhLV3Q3eVNkdXBaT2dmd05pWdIBrwFBVV95cUxOUE5nQ3owNmJ4Y3FOOWo1YlVRUVhYUkFQNHpJU1J5NXJpd3pEY0JCX0Z1VHQ4SFBPTnRFcklpVXZmM2ZtZ1M3b1FwVTBRWnZLU0QyaU1WWDJuejVyNmJaaTlDTlU5UlJ2OThlZm1OU05INGV1RVFxTlpLQVl1X1kyMGdjT211SExxQmxVa25LdHpkLUpISUlMTlJRQTBtZWs3MDAyNmdXRWJzQTZ3Y0Zr?oc=5",
+        "date": "2026-06-16",
+        "title": "Tropical Storm Watch issued as Louisiana faces flooding rain for days - WAFB",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNejZNTy1iMkhJUk9qWGFUOGJYUmY4U2g2Y2ZrMWJlUkVIclB2Tjl2QlJ2aUstelhFOVU1LVdLbVhfb3l1a0hNUExsRDNlTW5nNmJCa0VrWVF6SDdkS19MQWtBWWs0VFI4aTAxZ0htNS1ld205Z3k5UmxlZ0xaSzZDMFZrVFZLRnYtNzhLV3Q3eVNkdXBaT2dmd05pWdIBrwFBVV95cUxOUE5nQ3owNmJ4Y3FOOWo1YlVRUVhYUkFQNHpJU1J5NXJpd3pEY0JCX0Z1VHQ4SFBPTnRFcklpVXZmM2ZtZ1M3b1FwVTBRWnZLU0QyaU1WWDJuejVyNmJaaTlDTlU5UlJ2OThlZm1OU05INGV1RVFxTlpLQVl1X1kyMGdjT211SExxQmxVa25LdHpkLUpISUlMTlJRQTBtZWs3MDAyNmdXRWJzQTZ3Y0Zr?oc=5\" target=\"_blank\">Tropical Storm Watch issued as Louisiana faces flooding rain for days</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WAFB</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTkEtMnJ4Sm5uUTZUUGI5b3JEZzNWYzZwYzVqOVVtMU9aU2dUVjVUeERzRWxUYTcyRTRSWC1EWWhFdnVlbTJuOExLcWh5MXI3c3E3cVZDQXVjeF83M2lteWVoZy1nRVFhOHc0NGZYdTdWc3QxM0lEbzhEM3ZGaGxhT0s0em1oOFZtWlduck9ySzgxQQ?oc=5",
+        "date": "2026-06-16",
+        "title": "Potential Tropical Cyclone One forms, where it's headed next - WJCL",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxOTkEtMnJ4Sm5uUTZUUGI5b3JEZzNWYzZwYzVqOVVtMU9aU2dUVjVUeERzRWxUYTcyRTRSWC1EWWhFdnVlbTJuOExLcWh5MXI3c3E3cVZDQXVjeF83M2lteWVoZy1nRVFhOHc0NGZYdTdWc3QxM0lEbzhEM3ZGaGxhT0s0em1oOFZtWlduck9ySzgxQQ?oc=5\" target=\"_blank\">Potential Tropical Cyclone One forms, where it's headed next</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WJCL</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQeGx4SXZ4X0NsWlFGRjhTd2lZbGpyTE15MGRXbGVBeTlyRmxuQi1mZW9xLW0wOVB6TkM3V1p3Y2tLd2s2aURSaEFfOHdoWERXclNEeU15ajBoaTR1RjZmNWNNRkhUVVlHNE1iMTFINzBxUDV5MC00cGJ5V3NzWXNMaHNCU0FzVHpaM1dDalZKUmx6b19hSWdGM25tOUhGRlVLb1dPcm9kNzBFeVd2aG9iVEtwRC1RSUI2?oc=5",
+        "date": "2026-06-16",
+        "title": "Hurricane forecast says US should brace for first named Atlantic storm - USA Today",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxQeGx4SXZ4X0NsWlFGRjhTd2lZbGpyTE15MGRXbGVBeTlyRmxuQi1mZW9xLW0wOVB6TkM3V1p3Y2tLd2s2aURSaEFfOHdoWERXclNEeU15ajBoaTR1RjZmNWNNRkhUVVlHNE1iMTFINzBxUDV5MC00cGJ5V3NzWXNMaHNCU0FzVHpaM1dDalZKUmx6b19hSWdGM25tOUhGRlVLb1dPcm9kNzBFeVd2aG9iVEtwRC1RSUI2?oc=5\" target=\"_blank\">Hurricane forecast says US should brace for first named Atlantic storm</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">USA Today</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZTVab0NLcG4yMm9RLWxjVzlVcnRhQldWMXozWFlfUkJlelEyWUNpdkFidVRRTFMxUzVVNmwwdW0za1J3M1FlRDQ4NUY2X3M2cVpRQVlHYTJMdFFrOTNJUy1wcGFZUUU4V0Qzd3ZXeTlLaVlEbG01cFBLT2hWWVRGWDFOdGlSbHhBSm1tdTJFU0c2SFZMbk8zbVN5R05xR3UwZVdkUExzOGkxYktKYzktYS0xdC1TZmNFVjJUbGhjWUFRZHZP?oc=5",
+        "date": "2026-06-16",
+        "title": "First system of the 2026 Atlantic Hurricane Season has formed. Here\u2019s the latest - WKMG",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxNZTVab0NLcG4yMm9RLWxjVzlVcnRhQldWMXozWFlfUkJlelEyWUNpdkFidVRRTFMxUzVVNmwwdW0za1J3M1FlRDQ4NUY2X3M2cVpRQVlHYTJMdFFrOTNJUy1wcGFZUUU4V0Qzd3ZXeTlLaVlEbG01cFBLT2hWWVRGWDFOdGlSbHhBSm1tdTJFU0c2SFZMbk8zbVN5R05xR3UwZVdkUExzOGkxYktKYzktYS0xdC1TZmNFVjJUbGhjWUFRZHZP?oc=5\" target=\"_blank\">First system of the 2026 Atlantic Hurricane Season has formed. Here\u2019s the latest</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WKMG</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZk1uX0J0czBYdElFUXZNOXp0ZE1zSjZLdkkzWmUxeWRSOWVSczA3ak9KRjFzN1hPNVZWWmdpR3ByNktLODVIRU9fRkxTdHVVR0J0TXg0N3pWOFp2YUlXTlJJcDRxd2hCOE1FTFc0d1lpdl95TUU0ejB1bUlPVHR4V3NUN21qLS16cHFOekZ4SEtFU1lscnlmVlhHdG0xRzJwU3kwaV95Snh3a1ZJTmJXQ25SVktiQlU?oc=5",
+        "date": "2026-06-16",
+        "title": "Heavy rains slam the Texas coast ahead of Potential Tropical Cyclone One - Yale Climate Connections",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQZk1uX0J0czBYdElFUXZNOXp0ZE1zSjZLdkkzWmUxeWRSOWVSczA3ak9KRjFzN1hPNVZWWmdpR3ByNktLODVIRU9fRkxTdHVVR0J0TXg0N3pWOFp2YUlXTlJJcDRxd2hCOE1FTFc0d1lpdl95TUU0ejB1bUlPVHR4V3NUN21qLS16cHFOekZ4SEtFU1lscnlmVlhHdG0xRzJwU3kwaV95Snh3a1ZJTmJXQ25SVktiQlU?oc=5\" target=\"_blank\">Heavy rains slam the Texas coast ahead of Potential Tropical Cyclone One</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yale Climate Connections</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRlJvekpTbzhJNm9RTWM4VzNrd3FDb1ZKbjdQcUJMZFlVVXdaUzhfUkZkSHFraElBLTJIdTlscjlUUzI3clBiRVZvUlViZW50ODBmcklyUmxVZ1k1RjlhYzUtSWR0cHlTVTAxa1dvQkZraC1CR1dFc1M1RTkzOGJESEl4d3BGZjVnZkkxVWV5eUxnTXVZdmxiaU0tMTlOczZWVkd0THJWay11Qzd2N3JNb01YdkFDOGlBcndZ?oc=5",
+        "date": "2026-06-16",
+        "title": "Potential Tropical Cyclone One Could Bring Flooding Rains to Central Alabama This Week - WBMA",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRlJvekpTbzhJNm9RTWM4VzNrd3FDb1ZKbjdQcUJMZFlVVXdaUzhfUkZkSHFraElBLTJIdTlscjlUUzI3clBiRVZvUlViZW50ODBmcklyUmxVZ1k1RjlhYzUtSWR0cHlTVTAxa1dvQkZraC1CR1dFc1M1RTkzOGJESEl4d3BGZjVnZkkxVWV5eUxnTXVZdmxiaU0tMTlOczZWVkd0THJWay11Qzd2N3JNb01YdkFDOGlBcndZ?oc=5\" target=\"_blank\">Potential Tropical Cyclone One Could Bring Flooding Rains to Central Alabama This Week</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WBMA</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVU5EN1NWNzRuVzMxYlR2aDhQbUNxSmxQZDgxS0xSbWd5UWVaNGJkcDVBRTQtWE0wRXBkZnRid3ZKRUlJYXJSTVVHZkQzdEZwRWhFLUZFOFo5cV9peGJzRC1rTndVSkRTbnd4ODFNSXZxdGRSaHBXV0R3b0ZRUzdWRC03amhYSURiOVNiTkV3?oc=5",
+        "date": "2026-06-16",
+        "title": "Potential first tropical cyclone of the year developing off Texas' Gulf Coast - CBS News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPVU5EN1NWNzRuVzMxYlR2aDhQbUNxSmxQZDgxS0xSbWd5UWVaNGJkcDVBRTQtWE0wRXBkZnRid3ZKRUlJYXJSTVVHZkQzdEZwRWhFLUZFOFo5cV9peGJzRC1rTndVSkRTbnd4ODFNSXZxdGRSaHBXV0R3b0ZRUzdWRC03amhYSURiOVNiTkV3?oc=5\" target=\"_blank\">Potential first tropical cyclone of the year developing off Texas' Gulf Coast</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CBS News</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZVBONFlvamUwdC1ScFJuX3c0bE5QLUZuZjE4bkh1dmZNVmJHT0xGM05oUldTVXZpSmxsejMxSTZEVktWZVhBM2lwazhyQnViRDFUQW1TUTR0SlFnTUJnZDlraGZQOUcwRmN1bkRnNlhfVUtNN09YS1NXMzVKd01SLTNZSE5LMV81emZOSUpEeV96cS13SmpkQUxfcXo2SmN2SjNpUVdoQ1Q3N2ZVTkZ6MG40TTJLUDRGTWo4ZkV30gHSAUFVX3lxTE5FVC1jV2pOcTRGQjJUdnNXcDN1VVdMX3M3bXJhWjJoSXBZa0otcFhqeEZ0by01Znl1UWhXZ3JJODBUcjcwRE8xd0F4S0o1azJqQmtkUHhJbjR5OGFOYUkzUUE5enNMNGthZDliZmI5UzVMaGpuNmhxOEtqY29QM0t4WjE0SmZnUlptVVI1QkFwdjR4UEhTZnI2Q01JS3V6VkRSRG1KdXJicE5qMmlteGpjdi1kOFpvd0JJSWFCV2dDbjExck5rV3hxQ2hfTUZJdVJFdw?oc=5",
+        "date": "2026-06-16",
+        "title": "Tropical Storm Arthur is likely to form in the Gulf, bringing flooding and damaging winds to Louisiana - fox8live.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxOZVBONFlvamUwdC1ScFJuX3c0bE5QLUZuZjE4bkh1dmZNVmJHT0xGM05oUldTVXZpSmxsejMxSTZEVktWZVhBM2lwazhyQnViRDFUQW1TUTR0SlFnTUJnZDlraGZQOUcwRmN1bkRnNlhfVUtNN09YS1NXMzVKd01SLTNZSE5LMV81emZOSUpEeV96cS13SmpkQUxfcXo2SmN2SjNpUVdoQ1Q3N2ZVTkZ6MG40TTJLUDRGTWo4ZkV30gHSAUFVX3lxTE5FVC1jV2pOcTRGQjJUdnNXcDN1VVdMX3M3bXJhWjJoSXBZa0otcFhqeEZ0by01Znl1UWhXZ3JJODBUcjcwRE8xd0F4S0o1azJqQmtkUHhJbjR5OGFOYUkzUUE5enNMNGthZDliZmI5UzVMaGpuNmhxOEtqY29QM0t4WjE0SmZnUlptVVI1QkFwdjR4UEhTZnI2Q01JS3V6VkRSRG1KdXJicE5qMmlteGpjdi1kOFpvd0JJSWFCV2dDbjExck5rV3hxQ2hfTUZJdVJFdw?oc=5\" target=\"_blank\">Tropical Storm Arthur is likely to form in the Gulf, bringing flooding and damaging winds to Louisiana</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">fox8live.com</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRlN5blE4czdyd0pYT3JOc1I3eGN6MnRBbjVIc0pROWJRdzEwQUdwbGZSem1XbGgtRHFZNVNHWlNxR1ZKR3J0R2t2MVhvYzFCRmYxRE5XQWdnYmVwOURhZS04SGpndjBOVHMtOWhSUFE0MkxrajVwX2JIUVB5TGhYNFV5b2dOWE9td2hWZ1BkMnBUcXpNRThHZWI3OVpqWnVLUlpqRGd0ajF3MU1q?oc=5",
+        "date": "2026-06-16",
+        "title": "Tropical Storm Arthur now expected to develop along Texas coast - San Antonio Express-News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQRlN5blE4czdyd0pYT3JOc1I3eGN6MnRBbjVIc0pROWJRdzEwQUdwbGZSem1XbGgtRHFZNVNHWlNxR1ZKR3J0R2t2MVhvYzFCRmYxRE5XQWdnYmVwOURhZS04SGpndjBOVHMtOWhSUFE0MkxrajVwX2JIUVB5TGhYNFV5b2dOWE9td2hWZ1BkMnBUcXpNRThHZWI3OVpqWnVLUlpqRGd0ajF3MU1q?oc=5\" target=\"_blank\">Tropical Storm Arthur now expected to develop along Texas coast</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">San Antonio Express-News</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQNVVGZVFJeDhlYktNRG0zS0hqSkFpQXA3Sk45ZFJaUDBwQkRadFlBN2NfX0h4U29GYktnQktCakRINUNYekZmUUdvZG9jd1F5NmJuU25vYmZCMWk5elhMVm5vV295c3c1eDZfelFUb3pBOGF4UmJfWFIySVZZTmdqWFZ4aHZHQ1c0NG96VjBYUkZSZnNaVENvaFlsNTE1UHBkZzR0TGY3UDBhclNU?oc=5",
+        "date": "2026-06-16",
+        "title": "Parts of Texas could see flooding from Potential Tropical Cyclone One - Austin American-Statesman",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQNVVGZVFJeDhlYktNRG0zS0hqSkFpQXA3Sk45ZFJaUDBwQkRadFlBN2NfX0h4U29GYktnQktCakRINUNYekZmUUdvZG9jd1F5NmJuU25vYmZCMWk5elhMVm5vV295c3c1eDZfelFUb3pBOGF4UmJfWFIySVZZTmdqWFZ4aHZHQ1c0NG96VjBYUkZSZnNaVENvaFlsNTE1UHBkZzR0TGY3UDBhclNU?oc=5\" target=\"_blank\">Parts of Texas could see flooding from Potential Tropical Cyclone One</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Austin American-Statesman</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOR2RjQnBIV2ZNdEs4NURINUxxUnNfVXRFWlpqOHpTTXYwa1pLR1d1V3dwbWxaa0lsSTBwNTVMczN3OVZ0MzVMbm5YVUY0R1UzanFzZTNfUkF0SWlGMHpBbkhOeHFPT0NfM044R0lHeXNQTWhudnRoUk5fMEJzZVZkZDJCa0tnTEtOWjI3b04xejA4VUNROWdtVFFEZkNFT2FWSm9nUHZYTzQ0bGswZW1aMmsxYnFrNDF6WE00ZEh4OXNraW1JZ0xuQzlWb1FmQnhaSnQwNzA0Z9IB6wFBVV95cUxQTGdmX2MzY0dfNGRzZ2w0dnJWNDhfTkpMcUFQRjNSOFJvMldOVnZkRDlBZ1Jmdk9EWmVhajV2SHpYdnVoXzRyblRNUWd3OWFKRno3R2pmOGhaNV8xeE5yajZXWGd6TV9oSVdveGJvaVZZOTRiV2pyME9kVWVFcE1iQUNoLV9Bd3ZHQXFWMURsTkszeWVQZVNxTC1sT1VkX19mWGNFWXpUVkZad2dBaDRrZDBXa3hMY1p6VTV4MW9IbkZaMHM1SW11QUg4MF96RlVLWUNjMENjYktVN05kdEZHc003TWFtdDJWMVFB?oc=5",
+        "date": "2026-06-16",
+        "title": "First Alert: Potential Tropical Cyclone One threatens southeast Louisiana with life-threatening flooding - fox8live.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxOR2RjQnBIV2ZNdEs4NURINUxxUnNfVXRFWlpqOHpTTXYwa1pLR1d1V3dwbWxaa0lsSTBwNTVMczN3OVZ0MzVMbm5YVUY0R1UzanFzZTNfUkF0SWlGMHpBbkhOeHFPT0NfM044R0lHeXNQTWhudnRoUk5fMEJzZVZkZDJCa0tnTEtOWjI3b04xejA4VUNROWdtVFFEZkNFT2FWSm9nUHZYTzQ0bGswZW1aMmsxYnFrNDF6WE00ZEh4OXNraW1JZ0xuQzlWb1FmQnhaSnQwNzA0Z9IB6wFBVV95cUxQTGdmX2MzY0dfNGRzZ2w0dnJWNDhfTkpMcUFQRjNSOFJvMldOVnZkRDlBZ1Jmdk9EWmVhajV2SHpYdnVoXzRyblRNUWd3OWFKRno3R2pmOGhaNV8xeE5yajZXWGd6TV9oSVdveGJvaVZZOTRiV2pyME9kVWVFcE1iQUNoLV9Bd3ZHQXFWMURsTkszeWVQZVNxTC1sT1VkX19mWGNFWXpUVkZad2dBaDRrZDBXa3hMY1p6VTV4MW9IbkZaMHM1SW11QUg4MF96RlVLWUNjMENjYktVN05kdEZHc003TWFtdDJWMVFB?oc=5\" target=\"_blank\">First Alert: Potential Tropical Cyclone One threatens southeast Louisiana with life-threatening flooding</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">fox8live.com</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQWmlpVXQzMEVLWDBaaFl0RnFUdl9OZlBDbnI2bk9YeTFYaTdhOVZQLVkwa1JZNmZZRG15c0w0MjB0bWdDbXZqVjBTX2RfSGRnSWlPNno0M0lWYUh1QVpuMktBQTZPTG1ITXU0STFwZFNmTGwwVFJ3YmdSc0FvT1BkQ0pxRHFPcDBOYjJwZFhHVU9fTUN2cEtPVHVxUVhlOGVBWDNhVTJ3djNtcXBiUWtOLW93RWzSAbQBQVVfeXFMUFppaVV0MzBFS1gwWmhZdEZxVHZfTmZQQ25yNm5PWHkxWGk3YTlWUC1ZMGtSWTZmWURteXNMNDIwdG1nQ212alYwU19kX0hkZ0lpTzZ6NDNJVmFIdUFabjJLQUE2T0xtSE11NEkxcGRTZkxsMFRSd2JnUnNBb09QZENKcURxT3AwTmIycGRYR1VPX01DdnBLT1R1cVFYZThlQVgzYVUyd3YzbXFwYlFrTi1vd0Vs?oc=5",
+        "date": "2026-06-16",
+        "title": "Tropical Storm Watch issued as Louisiana faces flooding rain for days - fox8live.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQWmlpVXQzMEVLWDBaaFl0RnFUdl9OZlBDbnI2bk9YeTFYaTdhOVZQLVkwa1JZNmZZRG15c0w0MjB0bWdDbXZqVjBTX2RfSGRnSWlPNno0M0lWYUh1QVpuMktBQTZPTG1ITXU0STFwZFNmTGwwVFJ3YmdSc0FvT1BkQ0pxRHFPcDBOYjJwZFhHVU9fTUN2cEtPVHVxUVhlOGVBWDNhVTJ3djNtcXBiUWtOLW93RWzSAbQBQVVfeXFMUFppaVV0MzBFS1gwWmhZdEZxVHZfTmZQQ25yNm5PWHkxWGk3YTlWUC1ZMGtSWTZmWURteXNMNDIwdG1nQ212alYwU19kX0hkZ0lpTzZ6NDNJVmFIdUFabjJLQUE2T0xtSE11NEkxcGRTZkxsMFRSd2JnUnNBb09QZENKcURxT3AwTmIycGRYR1VPX01DdnBLT1R1cVFYZThlQVgzYVUyd3YzbXFwYlFrTi1vd0Vs?oc=5\" target=\"_blank\">Tropical Storm Watch issued as Louisiana faces flooding rain for days</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">fox8live.com</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPUmd3SWt5bDlreWpaSC1lamdNeHhvM0xBd0I1Z3dFUHZ4dk5WNHMtMnBQcjY3a19tdjNCMk43cm9lX21YU0t5em5naWJ2WVlER19FeE1NUVQxQVBUVmVBUUdjUXNZUUc3T0V6Q1o0Nk81blozWk9mS0hvVmJ3UVBSZFliRzQ5ZjM4ZWQ5MmUwRXl6UFNjSVI5QWdVRkF1OTRvYkljcUpmRUh4RmZrZEFKV0lleW9hbUQwMTV3SzNMbjdjVkh5VjY0UXJuaXlXbEFm?oc=5",
+        "date": "2026-06-16",
+        "title": "Where will Potential Tropical Cyclone One go? See latest photos, graphics - Tallahassee Democrat",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxPUmd3SWt5bDlreWpaSC1lamdNeHhvM0xBd0I1Z3dFUHZ4dk5WNHMtMnBQcjY3a19tdjNCMk43cm9lX21YU0t5em5naWJ2WVlER19FeE1NUVQxQVBUVmVBUUdjUXNZUUc3T0V6Q1o0Nk81blozWk9mS0hvVmJ3UVBSZFliRzQ5ZjM4ZWQ5MmUwRXl6UFNjSVI5QWdVRkF1OTRvYkljcUpmRUh4RmZrZEFKV0lleW9hbUQwMTV3SzNMbjdjVkh5VjY0UXJuaXlXbEFm?oc=5\" target=\"_blank\">Where will Potential Tropical Cyclone One go? See latest photos, graphics</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tallahassee Democrat</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQbEF1YXg4M0duWTdRU1Zmd0VEbmhzSFluUXRDcGJMeW5wSWdfbGpxdXZGa01QaTRfNnl1RzFpWTExMGVBR1AwTXRxSGNZN0xZcEdiWUNCVU5GZjFmbzBOakNuSEw2QVBEVm5KLTlsQXhGM1BZc0VERWgwVWRMXzgzcdIBlAFBVV95cUxQbEFTVVc4ODFHYjBhVktNLTBUYmdiclFJX1BJbUU0V0pkMkdWQlFSc3U2RlpDYjJ4b1dEVF9uR2d6STVLbU5pdEdNZDFFZ3RxOG1tVG8ySnBzMnRMRGJPbnJnUVg4N3l3d0FyUmZrN2dDM09fQ2lBQjdTUEgxYUFVQTV1UEtfaDFPNTI3ZlloQThvZEI2?oc=5",
+        "date": "2026-06-16",
+        "title": "Potential Tropical Cyclone One forms - ABC7 WWSB",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxQbEF1YXg4M0duWTdRU1Zmd0VEbmhzSFluUXRDcGJMeW5wSWdfbGpxdXZGa01QaTRfNnl1RzFpWTExMGVBR1AwTXRxSGNZN0xZcEdiWUNCVU5GZjFmbzBOakNuSEw2QVBEVm5KLTlsQXhGM1BZc0VERWgwVWRMXzgzcdIBlAFBVV95cUxQbEFTVVc4ODFHYjBhVktNLTBUYmdiclFJX1BJbUU0V0pkMkdWQlFSc3U2RlpDYjJ4b1dEVF9uR2d6STVLbU5pdEdNZDFFZ3RxOG1tVG8ySnBzMnRMRGJPbnJnUVg4N3l3d0FyUmZrN2dDM09fQ2lBQjdTUEgxYUFVQTV1UEtfaDFPNTI3ZlloQThvZEI2?oc=5\" target=\"_blank\">Potential Tropical Cyclone One forms</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ABC7 WWSB</font>",
+        "similarity_excluded": "No",
+        "score": 2,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOT2llbmpxQU9lc1V5Rk1iUVNRUzFJT3JFVjZJR0FILVNRT3ptODdZS05nSjBZR2lWa3RyZVVPMVpMcXlUZXNhQ3Q4dmx2VFFiQVNUMDZxWGVmRTVWMEFqdmtpOGphNm9oaEJ3eEdQOVJiTG1ERUxhdXF5NS05ZE91aG16UmduQTc0M1hhVGM1TVktVUFmSTNYeWVJTERjTU9aTTNiQ2JaSjY3bHdlSzhVeU1jdDhYRUFiclk0aVhKeWQwbWg3YTBvQ24zVGREamNRNndpVWpTdjZxZG9nb1JkUHVB?oc=5",
+        "date": "2026-06-16",
+        "title": "Very Heavy Rainfall And Dangerous Flash Flooding Expected From Potential Tropical Cyclone One. - News4JAX",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxOT2llbmpxQU9lc1V5Rk1iUVNRUzFJT3JFVjZJR0FILVNRT3ptODdZS05nSjBZR2lWa3RyZVVPMVpMcXlUZXNhQ3Q4dmx2VFFiQVNUMDZxWGVmRTVWMEFqdmtpOGphNm9oaEJ3eEdQOVJiTG1ERUxhdXF5NS05ZE91aG16UmduQTc0M1hhVGM1TVktVUFmSTNYeWVJTERjTU9aTTNiQ2JaSjY3bHdlSzhVeU1jdDhYRUFiclk0aVhKeWQwbWg3YTBvQ24zVGREamNRNndpVWpTdjZxZG9nb1JkUHVB?oc=5\" target=\"_blank\">Very Heavy Rainfall And Dangerous Flash Flooding Expected From Potential Tropical Cyclone One.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">News4JAX</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQR250Mzd2MTZObTlpVHZ5VUp2SzBWMXl0RjVTM2VHekc1bl9kLVZ2VXRJeVJiYWtxSTVNNnJ5TnRNR2pSLTVPelhiMFVENzByZHU2bmpid2E3b0RYbFpreENuOVE0VHhuS0NhOGFpQUoySFdKSUktQmc1dzFDbFdrcy1sd3ZxRFU?oc=5",
+        "date": "2026-06-16",
+        "title": "Tropical system threatens South Louisiana with flooding rain - Unfiltered with Kiran",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxQR250Mzd2MTZObTlpVHZ5VUp2SzBWMXl0RjVTM2VHekc1bl9kLVZ2VXRJeVJiYWtxSTVNNnJ5TnRNR2pSLTVPelhiMFVENzByZHU2bmpid2E3b0RYbFpreENuOVE0VHhuS0NhOGFpQUoySFdKSUktQmc1dzFDbFdrcy1sd3ZxRFU?oc=5\" target=\"_blank\">Tropical system threatens South Louisiana with flooding rain</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Unfiltered with Kiran</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOWlVZZnNpMXItakt0OFQyOV9zZnFFdExTMGpOT1BZMTZGREdSQjh3YWQ1bmJGdTNGRkRiVV9TVlVaSHh0dkpOLTJvM2dSSThHaWpNMmJTc1YyLS1nRW12VTNsc2MyT0VtZFlhcG1YWlRndndhcmNJR25FVl9BS1J3MXJKVmxwbXlKTnNjcE5UOVFheE5PalBQYjc5aVJIU21nWkZ4OW1NNmw5Q3hQSzRKVmNsVmxJRGtvemN4eGdiWTBSNDl6QmJr?oc=5",
+        "date": "2026-06-16",
+        "title": "Possible tropical cyclone forms but flooding remains bigger threat for Houston - Houston Chronicle",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxOWlVZZnNpMXItakt0OFQyOV9zZnFFdExTMGpOT1BZMTZGREdSQjh3YWQ1bmJGdTNGRkRiVV9TVlVaSHh0dkpOLTJvM2dSSThHaWpNMmJTc1YyLS1nRW12VTNsc2MyT0VtZFlhcG1YWlRndndhcmNJR25FVl9BS1J3MXJKVmxwbXlKTnNjcE5UOVFheE5PalBQYjc5aVJIU21nWkZ4OW1NNmw5Q3hQSzRKVmNsVmxJRGtvemN4eGdiWTBSNDl6QmJr?oc=5\" target=\"_blank\">Possible tropical cyclone forms but flooding remains bigger threat for Houston</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Houston Chronicle</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOZU9fbTUtcHFKV2IyTENSRFpCM0JsU3daNmxEYVd4VG5KdEhKcnNnbm10aW1BMkdyU2VJR3ZTSEZJQUxQTGNINnF2dkI5aVNWTDg4REdXc2h0MkJXcU5sWVVaQXRwRWxkcTBLOVpmQ1pfeVVXYjVJZjE1Rkdwbks2U2JXZGpBc0dCaDFkNGEzSzJjZ045OXVEWDlQV3N3b3MwTmh5RDNldjUwbldRM185RGhoX2FrSXN2OXZ2MV8wQ21mb1A1SXFKS0pBZm1Kak5jMG5lZmRKa3BNLUJJN3RrZUdVUnZBbGVuNTI3VndxaUZOUmVDU1E?oc=5",
+        "date": "2026-06-16",
+        "title": "NHC begins issuing advisories on Gulf system as flooding threat grows - WWLTV.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9gFBVV95cUxOZU9fbTUtcHFKV2IyTENSRFpCM0JsU3daNmxEYVd4VG5KdEhKcnNnbm10aW1BMkdyU2VJR3ZTSEZJQUxQTGNINnF2dkI5aVNWTDg4REdXc2h0MkJXcU5sWVVaQXRwRWxkcTBLOVpmQ1pfeVVXYjVJZjE1Rkdwbks2U2JXZGpBc0dCaDFkNGEzSzJjZ045OXVEWDlQV3N3b3MwTmh5RDNldjUwbldRM185RGhoX2FrSXN2OXZ2MV8wQ21mb1A1SXFKS0pBZm1Kak5jMG5lZmRKa3BNLUJJN3RrZUdVUnZBbGVuNTI3VndxaUZOUmVDU1E?oc=5\" target=\"_blank\">NHC begins issuing advisories on Gulf system as flooding threat grows</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WWLTV.com</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPakQwS3UycmxXb0ppQVlsVjRfRWFTSWV1T2NIQkNnMVJLRndCVEYtbGp1V2tKdjBRUFBTVlV3WXlJemQ5emd2dlJUeXJEQmRUMDZ6ZXhYc00xNHNSazV5OU40UEpWS2FvT25JQzV5c2o2SUpQQnRSNmI5T3pyN2FJZk5FMmg3R3dhSmVNLUpVQnpZNzR4Ym5MUzJGWmlNX3M2bmVXV2JrUjBPazR1MGpidm1PQ25vOUtXNEQ0NzNaM2w4VC0tazEzTVMtVW9rclQwZHRV?oc=5",
+        "date": "2026-06-16",
+        "title": "Tropical moisture brings flooding concerns and stormy weather; tracking possible tropical storm in Gulf - fox10tv.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxPakQwS3UycmxXb0ppQVlsVjRfRWFTSWV1T2NIQkNnMVJLRndCVEYtbGp1V2tKdjBRUFBTVlV3WXlJemQ5emd2dlJUeXJEQmRUMDZ6ZXhYc00xNHNSazV5OU40UEpWS2FvT25JQzV5c2o2SUpQQnRSNmI5T3pyN2FJZk5FMmg3R3dhSmVNLUpVQnpZNzR4Ym5MUzJGWmlNX3M2bmVXV2JrUjBPazR1MGpidm1PQ25vOUtXNEQ0NzNaM2w4VC0tazEzTVMtVW9rclQwZHRV?oc=5\" target=\"_blank\">Tropical moisture brings flooding concerns and stormy weather; tracking possible tropical storm in Gulf</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">fox10tv.com</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNbHB6TERqUUNXeE5HVGRmTld3dHIyUDBFZmhaRnZybjZMQkh1SVA5LWNJUHdXMlV5MHBULWpibnNHTUQ0MXE5d3FtcW9zc0V6dFZSemVnS0haLTV5YnhmVDZfQlBqV29VUDNVUk8wWlJzRWZBUEJrTGp3T1RhU1V3ZWVrM2NTdVpXT3FqNGc3dmc0SjFMSXc?oc=5",
+        "date": "2026-06-16",
+        "title": "Tracking Storms: Heavy rain and storms threaten Alabama through Friday - WVTM",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxNbHB6TERqUUNXeE5HVGRmTld3dHIyUDBFZmhaRnZybjZMQkh1SVA5LWNJUHdXMlV5MHBULWpibnNHTUQ0MXE5d3FtcW9zc0V6dFZSemVnS0haLTV5YnhmVDZfQlBqV29VUDNVUk8wWlJzRWZBUEJrTGp3T1RhU1V3ZWVrM2NTdVpXT3FqNGc3dmc0SjFMSXc?oc=5\" target=\"_blank\">Tracking Storms: Heavy rain and storms threaten Alabama through Friday</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WVTM</font>",
+        "similarity_excluded": "No",
+        "score": 3,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOYXQ2UVg3SFk3YjJ0WUpjRm82OGhHTlNiQlE0b01iRXA3VTBzTEtDdDloV0NTY2I4SmlUZ01yV2RCVExvb0lRY0dNZHNrWDBEeFBxSnhsZGtnU1pqMElmUi1yd2RfVkhrdlVZWlJEVFppMFowU1dwUzI5NzRlYmlQcmZJeldHSFhzbE84SWJmdjVWUVp2cGdqZUNvUQ?oc=5",
+        "date": "2026-06-16",
+        "title": "Potential Tropical Cyclone One Brings Heavy Rain and Flood Risk to Southeast Texas - Texas Storm Chasers",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOYXQ2UVg3SFk3YjJ0WUpjRm82OGhHTlNiQlE0b01iRXA3VTBzTEtDdDloV0NTY2I4SmlUZ01yV2RCVExvb0lRY0dNZHNrWDBEeFBxSnhsZGtnU1pqMElmUi1yd2RfVkhrdlVZWlJEVFppMFowU1dwUzI5NzRlYmlQcmZJeldHSFhzbE84SWJmdjVWUVp2cGdqZUNvUQ?oc=5\" target=\"_blank\">Potential Tropical Cyclone One Brings Heavy Rain and Flood Risk to Southeast Texas</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Texas Storm Chasers</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1RNlM1ak1kUkRlWEZnN1d3eF80MWhaR2VzZGc1TktabTdfbWdaZXlmUWNQdG1VaWFiV2dDc2xmOWhWdUl4cFRYZjVCQnFlUXpuYmxZVE43X3V1WllGbFMwZTVXUXBxOEZMUi1aWXh3eHVFMUczdTNGeA?oc=5",
+        "date": "2026-06-16",
+        "title": "Potential Tropical Cyclone One forms near Texas, expected to cause dangerous flash flooding - WPBF",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE1RNlM1ak1kUkRlWEZnN1d3eF80MWhaR2VzZGc1TktabTdfbWdaZXlmUWNQdG1VaWFiV2dDc2xmOWhWdUl4cFRYZjVCQnFlUXpuYmxZVE43X3V1WllGbFMwZTVXUXBxOEZMUi1aWXh3eHVFMUczdTNGeA?oc=5\" target=\"_blank\">Potential Tropical Cyclone One forms near Texas, expected to cause dangerous flash flooding</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WPBF</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPYU9ycEI5MHc2bGVDZl9ZY0R2TFEyVHhEeGF1Sm1Fc3JYa2k0SWVyckt3WUhPa2doS25SOXlpc3BMNHFCc0ZkRWhPNHAzZmZVZWxQQlZZNl9fQVlxZjNLcUQwd3N0RG54QjdVOXBhUlBSVzBJQVN4WmFwdXVnY3JMb1dDVGx4OGZXc0xRTjdYYmw0YlZDWGJoMkpVdjBxTlE4Q1R0c2VOYXBud2R0QVpZQ25iNGlhVkkwOUF3TQ?oc=5",
+        "date": "2026-06-16",
+        "title": "Potential Tropical Cyclone One Forms off Texas Coast, Threatening Dangerous Flash Flooding - GV Wire",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxPYU9ycEI5MHc2bGVDZl9ZY0R2TFEyVHhEeGF1Sm1Fc3JYa2k0SWVyckt3WUhPa2doS25SOXlpc3BMNHFCc0ZkRWhPNHAzZmZVZWxQQlZZNl9fQVlxZjNLcUQwd3N0RG54QjdVOXBhUlBSVzBJQVN4WmFwdXVnY3JMb1dDVGx4OGZXc0xRTjdYYmw0YlZDWGJoMkpVdjBxTlE4Q1R0c2VOYXBud2R0QVpZQ25iNGlhVkkwOUF3TQ?oc=5\" target=\"_blank\">Potential Tropical Cyclone One Forms off Texas Coast, Threatening Dangerous Flash Flooding</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GV Wire</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZmpKb0hfZ01vdlNRWFNMWFFJMjg1bzJSX0FYY243VzE3VWhQOVNweUlZa3RnMG1XSHJmeFYzcTBYOHJsblZ0S0diWk51QmhiNm5ZeW5VV2xySnpMRE1EY3FGZkdpb0tTcG56d1o3RDljRzBqWDk3NG83QmwteVVMd0tSRVdCRDFXaU9XRzFSNUtXX3A2U2N6cmxTY3dCLU1mMnF2YlVoUTJ4ZlphLU00dC1idEtUelVuT1o5MDdyMTI?oc=5",
+        "date": "2026-06-16",
+        "title": "Tracker: Texas should brace for first named storm of hurricane season. - Corpus Christi Caller-Times",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZmpKb0hfZ01vdlNRWFNMWFFJMjg1bzJSX0FYY243VzE3VWhQOVNweUlZa3RnMG1XSHJmeFYzcTBYOHJsblZ0S0diWk51QmhiNm5ZeW5VV2xySnpMRE1EY3FGZkdpb0tTcG56d1o3RDljRzBqWDk3NG83QmwteVVMd0tSRVdCRDFXaU9XRzFSNUtXX3A2U2N6cmxTY3dCLU1mMnF2YlVoUTJ4ZlphLU00dC1idEtUelVuT1o5MDdyMTI?oc=5\" target=\"_blank\">Tracker: Texas should brace for first named storm of hurricane season.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Corpus Christi Caller-Times</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOb2NfMUgtSEpoa2VGZC13aFRmYlZjUzAzOWxubnI1Vnk5eWNBWEd5TVFoUElxZUduNnU2RUowVjBSdUFnWUh0MVltbkJIWUZBYWplVHg3VmN2ZlJ3MndlWmVWVExzb2Fla2lIY2w4T0tqaFRnc0Q3X0N5TmZVeTJvelJRQjhiT29Pc3M2Smh4TVY5UHBFV0gyQjl0Zk9zTEI4U1JfVG9XdDJNM0NPOHVNam5Ba042dFE?oc=5",
+        "date": "2026-06-16",
+        "title": "Tropical Storm Watch issued for Texas coast for what could become Arthur - KHOU",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxOb2NfMUgtSEpoa2VGZC13aFRmYlZjUzAzOWxubnI1Vnk5eWNBWEd5TVFoUElxZUduNnU2RUowVjBSdUFnWUh0MVltbkJIWUZBYWplVHg3VmN2ZlJ3MndlWmVWVExzb2Fla2lIY2w4T0tqaFRnc0Q3X0N5TmZVeTJvelJRQjhiT29Pc3M2Smh4TVY5UHBFV0gyQjl0Zk9zTEI4U1JfVG9XdDJNM0NPOHVNam5Ba042dFE?oc=5\" target=\"_blank\">Tropical Storm Watch issued for Texas coast for what could become Arthur</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KHOU</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNMnlmdW1PLW1yc2FESi1jWmZJWnJ4ZG8tWWZGcDRxOFNTc2tzR0dsLS1Wa3VRRTRxZUY5Wk14LWh5Y3dyTXd3YWE1N2xMUVVmMTVmY0Q5U1BXNWVOendiUHM0NGIybnJSa05DU0xRdlV0YXA1U09oZ0JVN2NtZHNrUmxhN000S2FyTHRNT3FOeXhTZ0pnTHBBTW5GQzBodlhsc2pJbXFndnRGWnp3RmRzWDY5b29qUE1Rbkh0WmFZQk1ObURuQWZUa0JGSDJ1eXRqZmk2WmVkdEk5WURES09XdUxlVllHZkpqY1JLMzJOQXJRcmZKMkNVOGVrd1NlYVlpLUE?oc=5",
+        "date": "2026-06-16",
+        "title": "Tropical Storm Watch due to Potential Tropical Cyclone One includes Louisiana coast - KADN News 15",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggJBVV95cUxNMnlmdW1PLW1yc2FESi1jWmZJWnJ4ZG8tWWZGcDRxOFNTc2tzR0dsLS1Wa3VRRTRxZUY5Wk14LWh5Y3dyTXd3YWE1N2xMUVVmMTVmY0Q5U1BXNWVOendiUHM0NGIybnJSa05DU0xRdlV0YXA1U09oZ0JVN2NtZHNrUmxhN000S2FyTHRNT3FOeXhTZ0pnTHBBTW5GQzBodlhsc2pJbXFndnRGWnp3RmRzWDY5b29qUE1Rbkh0WmFZQk1ObURuQWZUa0JGSDJ1eXRqZmk2WmVkdEk5WURES09XdUxlVllHZkpqY1JLMzJOQXJRcmZKMkNVOGVrd1NlYVlpLUE?oc=5\" target=\"_blank\">Tropical Storm Watch due to Potential Tropical Cyclone One includes Louisiana coast</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KADN News 15</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQb094bEZKMzVBS0JCdEl1MjVIajZCMEFMaDRGMEw3Slgyd0VrWkRDZU0yY084amh1R2MwSy1nUkpYcDNQak9PZ0sxVnozWTVGSlRFb01JV3E0VTRqYkFNOGxzMVRxbW13S0FodlhVemNyaDZxcG5oR0R1ZkxYSkZ6MXM5djZGcTBrVkJfYXRWRWZtbC1KVjhsemRxMnVvV2dsWE9Oc2JNM2g2RXFuYzhOVzFpdHB3MU9sN3FXN2pLREsyaE5KQzBiNEY1LWJkUlBFcXJlYXBfWkowZXI2V2c?oc=5",
+        "date": "2026-06-16",
+        "title": "Tropical Storm Watch now issued as we track potential tropical development - Click2Houston",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxQb094bEZKMzVBS0JCdEl1MjVIajZCMEFMaDRGMEw3Slgyd0VrWkRDZU0yY084amh1R2MwSy1nUkpYcDNQak9PZ0sxVnozWTVGSlRFb01JV3E0VTRqYkFNOGxzMVRxbW13S0FodlhVemNyaDZxcG5oR0R1ZkxYSkZ6MXM5djZGcTBrVkJfYXRWRWZtbC1KVjhsemRxMnVvV2dsWE9Oc2JNM2g2RXFuYzhOVzFpdHB3MU9sN3FXN2pLREsyaE5KQzBiNEY1LWJkUlBFcXJlYXBfWkowZXI2V2c?oc=5\" target=\"_blank\">Tropical Storm Watch now issued as we track potential tropical development</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Click2Houston</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQOVl2V0pUdVhnbHRZcTk2bFR3aFpXZ3VETkxET19VRXVudURzZTNidVE5ZXQzRDJCYUQwT3d1U1FIcXF0cVFUYkktQlREU1dPZGNSTldfdHlOR0pxd1R3dW9KcHUzQ2szdkQzb29RbTh4NTd6NVBQa2ZsSWJGVFZVSXBfd3pUcm0xazRrY3dmU0FNVmE1MEdGazN0WG9QNU9IQ1JwVk5RcjFpUzIyMEpvVGhLZTNfUG5iUzloeHZDNm8?oc=5",
+        "date": "2026-06-16",
+        "title": "Potential tropical cyclone one may bring floods - The Palm Beach Post",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxQOVl2V0pUdVhnbHRZcTk2bFR3aFpXZ3VETkxET19VRXVudURzZTNidVE5ZXQzRDJCYUQwT3d1U1FIcXF0cVFUYkktQlREU1dPZGNSTldfdHlOR0pxd1R3dW9KcHUzQ2szdkQzb29RbTh4NTd6NVBQa2ZsSWJGVFZVSXBfd3pUcm0xazRrY3dmU0FNVmE1MEdGazN0WG9QNU9IQ1JwVk5RcjFpUzIyMEpvVGhLZTNfUG5iUzloeHZDNm8?oc=5\" target=\"_blank\">Potential tropical cyclone one may bring floods</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Palm Beach Post</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQS2kwVFdGQmdneGtVSTFFdVc4Tkw3MVdDZnJaQ2Q2U0UxaWw1UGUwQkp2Rms4dm9mcGozejZlWThaMGZ4LWJENmNBTkxBYVVqemRfaWEzZ09BaVltX2h4bEJ1azBNNktVQ3dvU2pDeEw0a1VqOHB1d19EQzN2UFZ5ZC1nZHpDbkhxZ3N1OWlBSXdyZjV1a0RiZk1HQ3UyT3V3RkhrZ1M4Q3Uzdkpjd09aemRWV0hsaU94cFlBNVY2cDNnZGl1cmdhLUtHM1pUZVltajh5QjFnTXdDU0RXci0tSkxmZG1JcF9K?oc=5",
+        "date": "2026-06-16",
+        "title": "Tropical storm could form in Gulf, bringing heavy rain, flood threat - KGW",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxQS2kwVFdGQmdneGtVSTFFdVc4Tkw3MVdDZnJaQ2Q2U0UxaWw1UGUwQkp2Rms4dm9mcGozejZlWThaMGZ4LWJENmNBTkxBYVVqemRfaWEzZ09BaVltX2h4bEJ1azBNNktVQ3dvU2pDeEw0a1VqOHB1d19EQzN2UFZ5ZC1nZHpDbkhxZ3N1OWlBSXdyZjV1a0RiZk1HQ3UyT3V3RkhrZ1M4Q3Uzdkpjd09aemRWV0hsaU94cFlBNVY2cDNnZGl1cmdhLUtHM1pUZVltajh5QjFnTXdDU0RXci0tSkxmZG1JcF9K?oc=5\" target=\"_blank\">Tropical storm could form in Gulf, bringing heavy rain, flood threat</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KGW</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOR2M5d3F4QnJXaDZCbERvY185MUZfR0hTdndzTXJ6b0VxaUJMTnEzMUZ4N0Nic0o0bHhsaDBScmxuelRnTVE0WUxDZVV1QlVlQTBFQTFUY1pOUU03cTdLbWEtT3UyN3F1UEJ5MGtZTTJ4SkQ1bFdHa3FOZG4yckVNTE5teXQ5QkFNUEQwZi1LakMyLVdhRWxsYVBWVlJnb1pJcUp1dzJaZHo2UnJTSWd1VEtJdWxsRzYtU2g1SVlUTXFEUFk2RGRqSHN6N1VDTXdIMFYwNm9BYnU0LTlRWUlPSVZwN0c3ZTdMQ0gzN25sUFB5cEk?oc=5",
+        "date": "2026-06-16",
+        "title": "Is a tropical storm coming to Alabama? Heavy rain brings flood threat - Montgomery Advertiser",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8wFBVV95cUxOR2M5d3F4QnJXaDZCbERvY185MUZfR0hTdndzTXJ6b0VxaUJMTnEzMUZ4N0Nic0o0bHhsaDBScmxuelRnTVE0WUxDZVV1QlVlQTBFQTFUY1pOUU03cTdLbWEtT3UyN3F1UEJ5MGtZTTJ4SkQ1bFdHa3FOZG4yckVNTE5teXQ5QkFNUEQwZi1LakMyLVdhRWxsYVBWVlJnb1pJcUp1dzJaZHo2UnJTSWd1VEtJdWxsRzYtU2g1SVlUTXFEUFk2RGRqSHN6N1VDTXdIMFYwNm9BYnU0LTlRWUlPSVZwN0c3ZTdMQ0gzN25sUFB5cEk?oc=5\" target=\"_blank\">Is a tropical storm coming to Alabama? Heavy rain brings flood threat</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Montgomery Advertiser</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5PRGdWRFUwbHFHZ1Bvd2Y4bU9rall6aFdEZjNIekFiT1JFNWJrdmZ5SWhBUERJc3FXdnFBYk1zM2ozV096QmhMeTQzbk9fLW1GMUxxdTlrNlp0cWR5ZDJKQm9MQ1VSYzFxZWVwcGFiSzNvdw?oc=5",
+        "date": "2026-06-16",
+        "title": "Potential Tropical Cyclone One threatens Gulf Coast with heavy rain and deadly floods - mezha.net",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE5PRGdWRFUwbHFHZ1Bvd2Y4bU9rall6aFdEZjNIekFiT1JFNWJrdmZ5SWhBUERJc3FXdnFBYk1zM2ozV096QmhMeTQzbk9fLW1GMUxxdTlrNlp0cWR5ZDJKQm9MQ1VSYzFxZWVwcGFiSzNvdw?oc=5\" target=\"_blank\">Potential Tropical Cyclone One threatens Gulf Coast with heavy rain and deadly floods</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">mezha.net</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPUGVvRzBxenN3QThsWWNHNXRjSUx3OXYyM1ROUzgxYjRiaEt4eFBnRmRWWDU1ZWRTanA2WGVMVTJBRUJNV195VHdHdXRmOWpIRmVINkJfc0JtNzlqemUtM2FmUzdOVjJ6VFYtTHkydWtoRUl3Tjc0Sm9YanNrY1d3clR2dWNEbDVVOHN2OW9KVDY3Yl8xd2YxZkluRVp2Q1pfWlc1N29QQzgxQzh3RGstZE9VWlMzcWRvWEdETFRUOUdDcUdscDNqamY0eHZ4MnRNSnNDNVpOZWFoaDhBR0NfeHRFdzN2ck5Vb2tRdmRkTQ?oc=5",
+        "date": "2026-06-16",
+        "title": "Potential tropical cyclone forms as flood threat intensifies across South Texas - KTBS 3",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxPUGVvRzBxenN3QThsWWNHNXRjSUx3OXYyM1ROUzgxYjRiaEt4eFBnRmRWWDU1ZWRTanA2WGVMVTJBRUJNV195VHdHdXRmOWpIRmVINkJfc0JtNzlqemUtM2FmUzdOVjJ6VFYtTHkydWtoRUl3Tjc0Sm9YanNrY1d3clR2dWNEbDVVOHN2OW9KVDY3Yl8xd2YxZkluRVp2Q1pfWlc1N29QQzgxQzh3RGstZE9VWlMzcWRvWEdETFRUOUdDcUdscDNqamY0eHZ4MnRNSnNDNVpOZWFoaDhBR0NfeHRFdzN2ck5Vb2tRdmRkTQ?oc=5\" target=\"_blank\">Potential tropical cyclone forms as flood threat intensifies across South Texas</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KTBS 3</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZDFIUDRGTnh4eFN2RjdWM3c4RjRVdC1ZM1JWS2xwc3hDQnRsTGU3Z1Y2UTJ3VEtXU0RBRV9obWlzekdMUGNMNEpEOUNjYm9zaXd0VWkwSExQS2t6SXZfbjNCbGRWWW9yNGVPcVUyU1BnVm9iVFRRbEM5OGYtZVFYamRFOHRsdXRGY1pZR3lza1lBd1FiSTl2REw2RFdmVEdT?oc=5",
+        "date": "2026-06-16",
+        "title": "Tropical Storm Watches Issued for Texas and Louisiana; Major Flooding Likely - Weatherboy",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPZDFIUDRGTnh4eFN2RjdWM3c4RjRVdC1ZM1JWS2xwc3hDQnRsTGU3Z1Y2UTJ3VEtXU0RBRV9obWlzekdMUGNMNEpEOUNjYm9zaXd0VWkwSExQS2t6SXZfbjNCbGRWWW9yNGVPcVUyU1BnVm9iVFRRbEM5OGYtZVFYamRFOHRsdXRGY1pZR3lza1lBd1FiSTl2REw2RFdmVEdT?oc=5\" target=\"_blank\">Tropical Storm Watches Issued for Texas and Louisiana; Major Flooding Likely</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Weatherboy</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPMDlXcG5CZldjZEZGNWdZWVhXOXhubEJyZUVjeFZvU0l4dmtjU1JLUW4yMFlrZmlaTWZrSGM0cHM2bGUzZ3ROdVNJVjNjOXRYMHlnaUkyQUhTaUxoaVhpOU0xR2duc0dxYUFiY0ZLa1JPdWY1X0xMNjNIUUIzaURJUTlWTlFSdjRRYlJTVk5vVHRBNy1DTWFwZElDREgwMTZNRmRFdjVaZXNVcF9zLU5vQVM0S3VUdW8zYzdoYTVudU9qanRGUVVJanlqNkJnOUYxQ1UyRlZXeFlxQQ?oc=5",
+        "date": "2026-06-16",
+        "title": "Potential Tropical Cyclone One forms off Texas coast, threatening dangerous flash flooding - marketscreener.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxPMDlXcG5CZldjZEZGNWdZWVhXOXhubEJyZUVjeFZvU0l4dmtjU1JLUW4yMFlrZmlaTWZrSGM0cHM2bGUzZ3ROdVNJVjNjOXRYMHlnaUkyQUhTaUxoaVhpOU0xR2duc0dxYUFiY0ZLa1JPdWY1X0xMNjNIUUIzaURJUTlWTlFSdjRRYlJTVk5vVHRBNy1DTWFwZElDREgwMTZNRmRFdjVaZXNVcF9zLU5vQVM0S3VUdW8zYzdoYTVudU9qanRGUVVJanlqNkJnOUYxQ1UyRlZXeFlxQQ?oc=5\" target=\"_blank\">Potential Tropical Cyclone One forms off Texas coast, threatening dangerous flash flooding</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">marketscreener.com</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVC15VW1mUEFvdFJEU2E5czI4ay1fbEJKeUp2MldBWnY3Ri1HbjZNSFZEZEpWQnhxTkxvVlFrUFRTQkZHQ2U2UVJqU0JJaE9ZcHZOd1lodU9WbHZKYWdBVFdYX3hPTVg5b0ZzeENRSG1sUU1rVVhkZVg4ZXZUY21YRmNYS3JfVTR5M29wdnRxekRYdE9WMFc4?oc=5",
+        "date": "2026-06-16",
+        "title": "Potential Tropical Cyclone One designated over southern Texas, fuels flood threats along the Gulf Coast - Yahoo",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPVC15VW1mUEFvdFJEU2E5czI4ay1fbEJKeUp2MldBWnY3Ri1HbjZNSFZEZEpWQnhxTkxvVlFrUFRTQkZHQ2U2UVJqU0JJaE9ZcHZOd1lodU9WbHZKYWdBVFdYX3hPTVg5b0ZzeENRSG1sUU1rVVhkZVg4ZXZUY21YRmNYS3JfVTR5M29wdnRxekRYdE9WMFc4?oc=5\" target=\"_blank\">Potential Tropical Cyclone One designated over southern Texas, fuels flood threats along the Gulf Coast</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNOUF4eVdFUy1nZGM0NFZpbFduRm9iZEliTDVBdWZ5eUpGWHBXai1iX2JUNWhkZTlaWEVIdEU0S2FoMkdWbE9LMjY2cGtQTUxHbVVUb3JSczJrUXF2RU9PMy1Yb1BFbDlyUE92dFhpWVNTR0s3VU5pZ3VtNENxUS01T1dmRFdHd2V3Umw4X1o2M19FelZLTDY1djdjdS1Ga3M?oc=5",
+        "date": "2026-06-16",
+        "title": "Tropical storm watch issued for Texas, Louisiana Gulf Coast as rainmaker drenches Deep South - The Weather Channel",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNOUF4eVdFUy1nZGM0NFZpbFduRm9iZEliTDVBdWZ5eUpGWHBXai1iX2JUNWhkZTlaWEVIdEU0S2FoMkdWbE9LMjY2cGtQTUxHbVVUb3JSczJrUXF2RU9PMy1Yb1BFbDlyUE92dFhpWVNTR0s3VU5pZ3VtNENxUS01T1dmRFdHd2V3Umw4X1o2M19FelZLTDY1djdjdS1Ga3M?oc=5\" target=\"_blank\">Tropical storm watch issued for Texas, Louisiana Gulf Coast as rainmaker drenches Deep South</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Weather Channel</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPTktzZXUzRGFKLS00cElDWFRKQXk0Q3FqYTlobzdVZVJIRV9zTHhrOTJnaTA5bnRWTkF6Mzc5UHpHRHlTZVpQb092a0h4LXd1eGFaUWRCdTZJekgzVy1GM29MTGZzODlGeFpUMkFLVzdmdjhCMUo1QVk0QXg3OVVXY1BXZWNlMmVrNWZoaUVGTXptcWpfbjFaN1FfZURILVR4RjgtM0pmcTN2enF6aThQU2dfWmdjelpiNnRHRXpBeG9FWEljTE1OV2lPWVNnUkdDc20tTWtmNDEzTG5LMUVQeTF4VU1mN3VEYUlyMDUyVk8?oc=5",
+        "date": "2026-06-16",
+        "title": "Potential Tropical Cyclone One forms off Texas coast, threatening dangerous flash flooding - TradingView",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8AFBVV95cUxPTktzZXUzRGFKLS00cElDWFRKQXk0Q3FqYTlobzdVZVJIRV9zTHhrOTJnaTA5bnRWTkF6Mzc5UHpHRHlTZVpQb092a0h4LXd1eGFaUWRCdTZJekgzVy1GM29MTGZzODlGeFpUMkFLVzdmdjhCMUo1QVk0QXg3OVVXY1BXZWNlMmVrNWZoaUVGTXptcWpfbjFaN1FfZURILVR4RjgtM0pmcTN2enF6aThQU2dfWmdjelpiNnRHRXpBeG9FWEljTE1OV2lPWVNnUkdDc20tTWtmNDEzTG5LMUVQeTF4VU1mN3VEYUlyMDUyVk8?oc=5\" target=\"_blank\">Potential Tropical Cyclone One forms off Texas coast, threatening dangerous flash flooding</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPQUNodVY1Y1VEb010NEhVR3ZzakoxREhlUnJWRE9rU1VNbWJoVHRfQWNNRnNRUHBmdEF5ZF9UdGtyMzJ1Q0JzZjNVU0xYZjFkeFpQSmU2N2pITE1wMFRrR1JoRHdRNkIzWkw2aWpDU29Yc2Jrb0M3eGNMaWlleDNMWnl5d2pEVXNhRGZVS2FPd01KekxCemF0NVI1ZzhHQjFxZ1N1cWVBR3FFME10NktqUzhOQ0UtNXJob1FIRnprclNpREk1QmFCMFMwbw?oc=5",
+        "date": "2026-06-16",
+        "title": "Gulf Coast threatened by tropical rainstorm and flooding - AccuWeather",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxPQUNodVY1Y1VEb010NEhVR3ZzakoxREhlUnJWRE9rU1VNbWJoVHRfQWNNRnNRUHBmdEF5ZF9UdGtyMzJ1Q0JzZjNVU0xYZjFkeFpQSmU2N2pITE1wMFRrR1JoRHdRNkIzWkw2aWpDU29Yc2Jrb0M3eGNMaWlleDNMWnl5d2pEVXNhRGZVS2FPd01KekxCemF0NVI1ZzhHQjFxZ1N1cWVBR3FFME10NktqUzhOQ0UtNXJob1FIRnprclNpREk1QmFCMFMwbw?oc=5\" target=\"_blank\">Gulf Coast threatened by tropical rainstorm and flooding</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AccuWeather</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQNkhnejA2NFhGUG1zc083Y1YzdFlvMzVSX3BGR2tXaTRyTGQyV2p3Rnl5Q0drbEJGamlNTVF5ejV5Yi0wQi0wNnhCcjg2YXRBNld0dkNJZzl0UW0yT0ZqbEhCNHJlQkNqSWZnNFJhQ2R2RkZMenZ2VjlnOS1qUUZSQ3dDU0ZuOFNZTEE?oc=5",
+        "date": "2026-06-16",
+        "title": "Tropical Storm Watch: potential cyclone in Texas \u2013 here\u2019s what we know - Secret Houston",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxQNkhnejA2NFhGUG1zc083Y1YzdFlvMzVSX3BGR2tXaTRyTGQyV2p3Rnl5Q0drbEJGamlNTVF5ejV5Yi0wQi0wNnhCcjg2YXRBNld0dkNJZzl0UW0yT0ZqbEhCNHJlQkNqSWZnNFJhQ2R2RkZMenZ2VjlnOS1qUUZSQ3dDU0ZuOFNZTEE?oc=5\" target=\"_blank\">Tropical Storm Watch: potential cyclone in Texas \u2013 here\u2019s what we know</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Secret Houston</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOaWYwelhxMVVhVk9DN2p0dDc2aWdJekwydDZEdWR6QzB5LWFpSjlwY0UzeXJwc0RVQTM5MGc3TmgyTV81Z00ta2tzUDM2YVZSNEJRdEh5UGtPWEpjTFhYdFhTMmpkaFItT09sWmM3cDdxRmlNUVFxbS04RTh6WWw4dXBpSWRKbjVIcXlGQWpocGZCSlVEWmpERTkxRF9zUjVyU0VRLTJiN3FjZUNyczRuVW51ajlORjZEc3c?oc=5",
+        "date": "2026-06-16",
+        "title": "MEMA monitoring Potential Tropical Cyclone One, warns of flooding threat - Darkhorse Press",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxOaWYwelhxMVVhVk9DN2p0dDc2aWdJekwydDZEdWR6QzB5LWFpSjlwY0UzeXJwc0RVQTM5MGc3TmgyTV81Z00ta2tzUDM2YVZSNEJRdEh5UGtPWEpjTFhYdFhTMmpkaFItT09sWmM3cDdxRmlNUVFxbS04RTh6WWw4dXBpSWRKbjVIcXlGQWpocGZCSlVEWmpERTkxRF9zUjVyU0VRLTJiN3FjZUNyczRuVW51ajlORjZEc3c?oc=5\" target=\"_blank\">MEMA monitoring Potential Tropical Cyclone One, warns of flooding threat</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Darkhorse Press</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNX1MzZlVvR0ptalFYVF9pTFJQYXUzQTBodHdkRWgzT1lpSjZTelRBbk1LSDl0dHROZm45NWw3cnlWVVBvN1ZvZUFkZF9UNVl5ZW1sOFVTcWNJbm1oWWV1aDNqWE1HcFhmcmNsNW1tMUFua29ocXpQYXJmWmE2Szc3dURfbDJhdEZsSjZqRlhBeVE4LUY5c3FHb1RMbzRZamlCWEFR?oc=5",
+        "date": "2026-06-16",
+        "title": "The South Braces for \u2018Prolific\u2019 Rainfall as Potential Tropical Storm Takes Shape - Gizmodo",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNX1MzZlVvR0ptalFYVF9pTFJQYXUzQTBodHdkRWgzT1lpSjZTelRBbk1LSDl0dHROZm45NWw3cnlWVVBvN1ZvZUFkZF9UNVl5ZW1sOFVTcWNJbm1oWWV1aDNqWE1HcFhmcmNsNW1tMUFua29ocXpQYXJmWmE2Szc3dURfbDJhdEZsSjZqRlhBeVE4LUY5c3FHb1RMbzRZamlCWEFR?oc=5\" target=\"_blank\">The South Braces for \u2018Prolific\u2019 Rainfall as Potential Tropical Storm Takes Shape</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Gizmodo</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNMC1kMzd0S213VE0tUlR5aUdXNFF5cnAxRW5CblQtYXhGOGNWaTBRTi1uNWhwQkU0SVo1dHBNQWItYThiRXpXaC1Uc3hjWkVLVXBlVWJNbGRMS1BNY1B1V2tWcXhRbzNMeUsxdEF2WjN0RnlPT0JTM3gtMTVSVGRoa3ZfcjBXNjFPMnpFZk5YTTZnRHlxcjYyUG80ZE0waHAtZ1EteTZYZ3U0dkxLX01HQzcxSDdRMktvYUNwMm9Ed0ZqV0ZCVUlHTG56TGhqUWtCd3BIZ3p0ZkVmallOMHJGTDlWUXdNRG1ldEZVRTQ3X2VESWdKblpsUkNB?oc=5",
+        "date": "2026-06-16",
+        "title": "Potential tropical cyclone forms as flood threat intensifies across South Texas - The Moore County News-Press",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi-gFBVV95cUxNMC1kMzd0S213VE0tUlR5aUdXNFF5cnAxRW5CblQtYXhGOGNWaTBRTi1uNWhwQkU0SVo1dHBNQWItYThiRXpXaC1Uc3hjWkVLVXBlVWJNbGRMS1BNY1B1V2tWcXhRbzNMeUsxdEF2WjN0RnlPT0JTM3gtMTVSVGRoa3ZfcjBXNjFPMnpFZk5YTTZnRHlxcjYyUG80ZE0waHAtZ1EteTZYZ3U0dkxLX01HQzcxSDdRMktvYUNwMm9Ed0ZqV0ZCVUlHTG56TGhqUWtCd3BIZ3p0ZkVmallOMHJGTDlWUXdNRG1ldEZVRTQ3X2VESWdKblpsUkNB?oc=5\" target=\"_blank\">Potential tropical cyclone forms as flood threat intensifies across South Texas</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Moore County News-Press</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQd2o5ckVaSHZxUWdvTG9lNmhRYXNsNXRQckNxTEkxTEFiOFRTMGtlV1ZPS1JNMEFWWWFVV3JNcGJwS3BhTFY3dlppd2RIMGRDYlhMX1V0dndBMFhSdDQ3NkNDQVNsRUxrdlJtZUtfbHhhNXdaeFBlWHhVZXdONzQtekZsRWM5YklpdUhyb0pVcnRMazBZMzRpSTdPejNkVkJfMFNnYVF1LW5QQlpZRWdjRl85dFpJa2NZeWhBUXJvdlNUakVwZEFZRVpSNmpYUjZleF80?oc=5",
+        "date": "2026-06-16",
+        "title": "Potential Tropical Cyclone One forms off Texas coast, threatening dangerous flash flooding - London South East",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxQd2o5ckVaSHZxUWdvTG9lNmhRYXNsNXRQckNxTEkxTEFiOFRTMGtlV1ZPS1JNMEFWWWFVV3JNcGJwS3BhTFY3dlppd2RIMGRDYlhMX1V0dndBMFhSdDQ3NkNDQVNsRUxrdlJtZUtfbHhhNXdaeFBlWHhVZXdONzQtekZsRWM5YklpdUhyb0pVcnRMazBZMzRpSTdPejNkVkJfMFNnYVF1LW5QQlpZRWdjRl85dFpJa2NZeWhBUXJvdlNUakVwZEFZRVpSNmpYUjZleF80?oc=5\" target=\"_blank\">Potential Tropical Cyclone One forms off Texas coast, threatening dangerous flash flooding</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">London South East</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPeE9LNGFockxsUUpJYTBIaDdKMDZBMmpBMm9wWTBhaWJ1amZRX29Nek1EUW9IdGI0MUthZkJ5cVdxU0ZkTVl5N29TdHNadUIxY3k5cmJXUU9FSENyRVEyVzVaeU5nX2lHOXJuYTA4ODVoMUhzeXB4QmhTdTktdDFkQUdPN29pSW5wamRnd2xDUUtfVjcxaW1sME11MlZ1THljWk1UdUJ4Y21DbHhvQ2RWaWZtRTZvb29fRVd0TmJMOEFkcFpLSEHSAcsBQVVfeXFMTnA1ekZxYTVvWkNyS3FCMktJbjBWYlZrVUs1LUlXYzdUMXBxUGN6eUtza2VzUy1FdWlhOVFlM24yWXZ2RktmSktDTUo4ZTRUaEFPdVh1blU5akViMEFUUC16ME11UkNNSzRFS0hPVnFVQlRrQnVKM1pUczlpZEx2UUk5X09wTmROeDAzZFVRakpRTmsyQmtOcDBjMVFaQ3lsOE9CbmtWSVVaR3JFNHFyTDE2NkI1a19icXFtR2g2a3N6YmlUcGRocFpkdkU?oc=5",
+        "date": "2026-06-16",
+        "title": "Purple monsoon: Jamun glut sweeps Bengaluru markets - The Times of India",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxPeE9LNGFockxsUUpJYTBIaDdKMDZBMmpBMm9wWTBhaWJ1amZRX29Nek1EUW9IdGI0MUthZkJ5cVdxU0ZkTVl5N29TdHNadUIxY3k5cmJXUU9FSENyRVEyVzVaeU5nX2lHOXJuYTA4ODVoMUhzeXB4QmhTdTktdDFkQUdPN29pSW5wamRnd2xDUUtfVjcxaW1sME11MlZ1THljWk1UdUJ4Y21DbHhvQ2RWaWZtRTZvb29fRVd0TmJMOEFkcFpLSEHSAcsBQVVfeXFMTnA1ekZxYTVvWkNyS3FCMktJbjBWYlZrVUs1LUlXYzdUMXBxUGN6eUtza2VzUy1FdWlhOVFlM24yWXZ2RktmSktDTUo4ZTRUaEFPdVh1blU5akViMEFUUC16ME11UkNNSzRFS0hPVnFVQlRrQnVKM1pUczlpZEx2UUk5X09wTmROeDAzZFVRakpRTmsyQmtOcDBjMVFaQ3lsOE9CbmtWSVVaR3JFNHFyTDE2NkI1a19icXFtR2g2a3N6YmlUcGRocFpkdkU?oc=5\" target=\"_blank\">Purple monsoon: Jamun glut sweeps Bengaluru markets</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of India</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNeE44bnlSZVJVX2s5MnFmY3QxYzdXSUdqaDRDRTE5UVdWbFItdnU5c0ZPX19KWFRTSUFYNW5PN3paeExHeXdIUGluU2tzQ3dvUGtRazlyUkZBcjJmTFlKVlRUY0dkRkZDM0pZdGpUTzBIX0tZSFA5SEYwVTREMzJqUWl6YVpyQnhTbkRmYjJOYk1ldW5mdU5MYtIBtwFBVV95cUxOM1RYVHBPajVwaDFjTm1NQmRFS2NGRHpjb3Etd1FVdDFGVExBNFNfZ1FsbHhMSndGN2dRRlhNZnFoNUhpT2VWdzhlQTdSU1BZQXQwU21sbENkNlBfdDl2elZad0Vaai02TElHVEk1c0YwLTJsOUFORnpvM0xzRzY2TGF3WXhPRXBBYnBKb3RORWdtTFJId1Z4d3lqT0hGYk9Rb0o2VzZrZVRia3JBYkk4bzUwTUJmRGM?oc=5",
+        "date": "2026-06-16",
+        "title": "Tucson Monsoon Season Is Here -- Sandbags And Barricades Already Going Up - Patch",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNeE44bnlSZVJVX2s5MnFmY3QxYzdXSUdqaDRDRTE5UVdWbFItdnU5c0ZPX19KWFRTSUFYNW5PN3paeExHeXdIUGluU2tzQ3dvUGtRazlyUkZBcjJmTFlKVlRUY0dkRkZDM0pZdGpUTzBIX0tZSFA5SEYwVTREMzJqUWl6YVpyQnhTbkRmYjJOYk1ldW5mdU5MYtIBtwFBVV95cUxOM1RYVHBPajVwaDFjTm1NQmRFS2NGRHpjb3Etd1FVdDFGVExBNFNfZ1FsbHhMSndGN2dRRlhNZnFoNUhpT2VWdzhlQTdSU1BZQXQwU21sbENkNlBfdDl2elZad0Vaai02TElHVEk1c0YwLTJsOUFORnpvM0xzRzY2TGF3WXhPRXBBYnBKb3RORWdtTFJId1Z4d3lqT0hGYk9Rb0o2VzZrZVRia3JBYkk4bzUwTUJmRGM?oc=5\" target=\"_blank\">Tucson Monsoon Season Is Here -- Sandbags And Barricades Already Going Up</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Patch</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
     }
 ]
