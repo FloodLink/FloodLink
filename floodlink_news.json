@@ -12572,5 +12572,14 @@
             "longitude": -95.0,
             "confidence": 0.9
         }
+    },
+    {
+        "link": null,
+        "date": "2026-06-16",
+        "status": "posted",
+        "tweet": "\ud83c\uddec\ud83c\udde7 Since 2020, extreme rainfall intensity in London has risen 25%. Projections show 1.2 million residents will face annual flash flood exposure by 2030.",
+        "type": "statistical",
+        "category": "extreme rainfall trends in major cities",
+        "tweet_id": "2066941533589221563"
     }
 ]
