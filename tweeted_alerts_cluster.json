@@ -21928,7 +21928,7 @@
     "rain_mm": 92.19,
     "soil_moisture": 0.698,
     "raw_dynamic_score": 15.112,
-    "last_updated": "2026-05-31T22:02:42.857810Z",
+    "last_updated": "2026-06-17T12:57:00.911945Z",
     "last_tweeted_at": "2026-05-31T19:13:05.991821Z",
     "tweet_id": "2061164874336510361",
     "resolved": false
@@ -25389,7 +25389,7 @@
     "rain_mm": 49.69,
     "soil_moisture": 0.647,
     "raw_dynamic_score": 7.921,
-    "last_updated": "2026-06-11T07:34:36.383057Z",
+    "last_updated": "2026-06-17T12:57:00.911945Z",
     "last_tweeted_at": "2026-06-10T18:03:30.100149Z",
     "tweet_id": "2064772247911370973",
     "resolved": false
@@ -25434,7 +25434,7 @@
     "rain_mm": 51.0,
     "soil_moisture": 0.641,
     "raw_dynamic_score": 8.098,
-    "last_updated": "2026-06-11T02:59:40.987792Z",
+    "last_updated": "2026-06-17T12:57:00.911945Z",
     "last_tweeted_at": "2026-06-10T22:59:37.817343Z",
     "tweet_id": "2064845757367067060",
     "resolved": false
@@ -25989,7 +25989,7 @@
     "rain_mm": 56.19,
     "soil_moisture": 0.564,
     "raw_dynamic_score": 8.533,
-    "last_updated": "2026-06-12T17:43:33.980178Z",
+    "last_updated": "2026-06-17T12:57:00.911945Z",
     "last_tweeted_at": "2026-06-12T12:22:32.922871Z",
     "tweet_id": "2065409458931421579",
     "resolved": false
@@ -27560,6 +27560,21 @@
     "last_updated": "2026-06-17T03:03:10.966942Z",
     "last_tweeted_at": "2026-06-16T23:00:00.899642Z",
     "tweet_id": "2067020679304655205",
+    "resolved": false
+  },
+  "25.8333,107.5333": {
+    "country": "China",
+    "name": "Dushan",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 25.83333,
+    "longitude": 107.53333,
+    "rain_mm": 48.44,
+    "soil_moisture": 0.708,
+    "raw_dynamic_score": 7.988,
+    "last_updated": "2026-06-17T12:57:00.911945Z",
+    "last_tweeted_at": "2026-06-17T12:57:00.911945Z",
+    "tweet_id": "2067230070549168589",
     "resolved": false
   }
 }
