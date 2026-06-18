@@ -14098,5 +14098,14 @@
         "score": 0,
         "status": "skipped",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-06-18",
+        "status": "posted",
+        "tweet": "Urban pop. exposed to river floods (% of total, 2025 proj.):\n1. \ud83c\udde7\ud83c\udde9 Dhaka: 62\n2. \ud83c\uddfb\ud83c\uddf3 Ho Chi Minh: 51\n3. \ud83c\uddf3\ud83c\uddf1 Rotterdam: 47\n4. \ud83c\udde8\ud83c\uddf3 Guangzhou: 39\n5. \ud83c\uddee\ud83c\uddf3 Kolkata: 34",
+        "type": "statistical",
+        "category": "urban areas exposed to river flooding",
+        "tweet_id": "2067602243050713333"
     }
 ]
