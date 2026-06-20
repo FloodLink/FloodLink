@@ -13825,5 +13825,14 @@
         "score": 0,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-06-20",
+        "status": "posted",
+        "tweet": "Flood fatalities by region 2020-2025 (global total ~62k)\n1. South Asia: 29,000 deaths\n2. Sub-Saharan Africa: 18,500 deaths (+18% trend)\n3. East Asia: 7,200 deaths\n4. Americas: 4,100 deaths\n5. Europe: 3,200 deaths",
+        "type": "statistical",
+        "category": "global flood fatalities and trends",
+        "tweet_id": "2068482367950291406"
     }
 ]
