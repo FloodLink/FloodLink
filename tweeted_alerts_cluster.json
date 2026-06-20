@@ -11754,7 +11754,7 @@
     "rain_mm": 44.81,
     "soil_moisture": 0.58,
     "raw_dynamic_score": 6.869,
-    "last_updated": "2026-04-05T21:31:51.094971Z",
+    "last_updated": "2026-06-20T13:54:17.453407Z",
     "last_tweeted_at": "2026-04-01T21:42:35.473952Z",
     "tweet_id": "2039459222342267314",
     "resolved": false
@@ -14979,7 +14979,7 @@
     "rain_mm": 55.62,
     "soil_moisture": 0.579,
     "raw_dynamic_score": 8.521,
-    "last_updated": "2026-04-29T08:12:39.572819Z",
+    "last_updated": "2026-06-20T13:54:17.453407Z",
     "last_tweeted_at": "2026-04-29T02:17:53.101956Z",
     "tweet_id": "2049312223554900226",
     "resolved": false
@@ -15024,7 +15024,7 @@
     "rain_mm": 55.62,
     "soil_moisture": 0.579,
     "raw_dynamic_score": 8.521,
-    "last_updated": "2026-04-29T08:12:39.572819Z",
+    "last_updated": "2026-06-20T13:54:17.453407Z",
     "last_tweeted_at": "2026-04-29T02:17:53.101956Z",
     "tweet_id": "2049312980568035445",
     "resolved": false
@@ -25279,7 +25279,7 @@
     "rain_mm": 50.56,
     "soil_moisture": 0.68,
     "raw_dynamic_score": 8.208,
-    "last_updated": "2026-06-12T07:26:34.614671Z",
+    "last_updated": "2026-06-20T13:54:17.453407Z",
     "last_tweeted_at": "2026-06-12T02:55:47.344126Z",
     "tweet_id": "2065266822912327888",
     "resolved": false
@@ -26773,7 +26773,7 @@
     "rain_mm": 44.44,
     "soil_moisture": 0.697,
     "raw_dynamic_score": 7.284,
-    "last_updated": "2026-06-18T18:07:24.685561Z",
+    "last_updated": "2026-06-20T13:54:17.453407Z",
     "last_tweeted_at": "2026-06-18T07:39:37.879725Z",
     "tweet_id": "2067512585541570995",
     "resolved": false
@@ -28961,7 +28961,7 @@
     "rain_mm": 47.5,
     "soil_moisture": 0.699,
     "raw_dynamic_score": 7.791,
-    "last_updated": "2026-06-20T07:06:27.886489Z",
+    "last_updated": "2026-06-20T13:54:17.453407Z",
     "last_tweeted_at": "2026-06-20T07:06:27.886489Z",
     "tweet_id": "2068229261811405260",
     "resolved": false
@@ -29022,7 +29022,7 @@
     "rain_mm": 53.31,
     "soil_moisture": 0.493,
     "raw_dynamic_score": 7.757,
-    "last_updated": "2026-06-20T11:20:37.331373Z",
+    "last_updated": "2026-06-20T13:54:17.453407Z",
     "last_tweeted_at": "2026-06-20T11:20:37.331373Z",
     "tweet_id": "2068292958193897770",
     "resolved": false
@@ -29037,7 +29037,7 @@
     "rain_mm": 41.62,
     "soil_moisture": 0.703,
     "raw_dynamic_score": 6.843,
-    "last_updated": "2026-06-20T11:20:37.331373Z",
+    "last_updated": "2026-06-20T13:54:17.453407Z",
     "last_tweeted_at": "2026-06-20T11:20:37.331373Z",
     "tweet_id": "2068293210649026817",
     "resolved": false
@@ -29130,6 +29130,51 @@
     "last_updated": "2026-06-20T11:20:37.331373Z",
     "last_tweeted_at": "2026-06-20T11:20:37.331373Z",
     "tweet_id": "2068293716133990708",
+    "resolved": false
+  },
+  "5.8292,7.3506": {
+    "country": "Nigeria",
+    "name": "Okigwe",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 5.82917,
+    "longitude": 7.35056,
+    "rain_mm": 48.12,
+    "soil_moisture": 0.596,
+    "raw_dynamic_score": 7.448,
+    "last_updated": "2026-06-20T13:54:17.453407Z",
+    "last_tweeted_at": "2026-06-20T13:54:17.453407Z",
+    "tweet_id": "2068331648836571377",
+    "resolved": false
+  },
+  "9.6152,6.5478": {
+    "country": "Nigeria",
+    "name": "Minna",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 9.61524,
+    "longitude": 6.54776,
+    "rain_mm": 61.12,
+    "soil_moisture": 0.508,
+    "raw_dynamic_score": 8.976,
+    "last_updated": "2026-06-20T13:54:17.453407Z",
+    "last_tweeted_at": "2026-06-20T13:54:17.453407Z",
+    "tweet_id": "2068331901430141084",
+    "resolved": false
+  },
+  "51.4009,16.2015": {
+    "country": "Poland",
+    "name": "Lubin",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 51.40089,
+    "longitude": 16.20149,
+    "rain_mm": 61.75,
+    "soil_moisture": 0.448,
+    "raw_dynamic_score": 8.732,
+    "last_updated": "2026-06-20T13:54:17.453407Z",
+    "last_tweeted_at": "2026-06-20T13:54:17.453407Z",
+    "tweet_id": "2068332154195746949",
     "resolved": false
   }
 }
