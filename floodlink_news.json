@@ -13608,5 +13608,14 @@
         "score": 6,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-06-21",
+        "status": "posted",
+        "tweet": "Global pop. in 100-yr floodplains (2025 est., millions):\n\n1. \ud83c\uddee\ud83c\uddf3 India: 340\n2. \ud83c\udde8\ud83c\uddf3 China: 270\n3. \ud83c\udde7\ud83c\udde9 Bangladesh: 110\n4. \ud83c\uddfa\ud83c\uddf8 United States: 55\n5. \ud83c\uddee\ud83c\udde9 Indonesia: 48",
+        "type": "statistical",
+        "category": "population living in floodplains",
+        "tweet_id": "2068659231167779000"
     }
 ]
