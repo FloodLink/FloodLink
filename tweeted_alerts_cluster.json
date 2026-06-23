@@ -22687,22 +22687,6 @@
     "tweet_id": "2063250468843794772",
     "resolved": false
   },
-  "5.3512,-5.6759": {
-    "country": "Côte d'Ivoire",
-    "name": "Okromodou",
-    "risk_level": "Low",
-    "tweeted_level": "Low",
-    "latitude": 5.35123,
-    "longitude": -5.67593,
-    "rain_mm": 1.19,
-    "soil_moisture": 0.53,
-    "raw_dynamic_score": 0.177,
-    "last_updated": "2026-06-22T14:40:43.052026Z",
-    "last_tweeted_at": "2026-06-22T14:40:43.052026Z",
-    "tweet_id": "2069069117399732339",
-    "resolved": true,
-    "resolved_at": "2026-06-22T14:40:43.052026Z"
-  },
   "5.3485,-6.0560": {
     "country": "Côte d'Ivoire",
     "name": "Niapidou",
@@ -25406,7 +25390,7 @@
     "rain_mm": 42.25,
     "soil_moisture": 0.656,
     "raw_dynamic_score": 6.767,
-    "last_updated": "2026-06-14T19:22:52.298406Z",
+    "last_updated": "2026-06-23T14:41:56.975686Z",
     "last_tweeted_at": "2026-06-14T16:27:51.888254Z",
     "tweet_id": "2066196215910609239",
     "resolved": false
@@ -25500,38 +25484,6 @@
     "last_tweeted_at": "2026-06-15T19:13:30.912905Z",
     "tweet_id": "2066600548120346923",
     "resolved": false
-  },
-  "2.0167,111.9167": {
-    "country": "Malaysia",
-    "name": "Julau",
-    "risk_level": "Low",
-    "tweeted_level": "Low",
-    "latitude": 2.01667,
-    "longitude": 111.91667,
-    "rain_mm": 6.81,
-    "soil_moisture": 0.677,
-    "raw_dynamic_score": 1.104,
-    "last_updated": "2026-06-22T14:40:43.052026Z",
-    "last_tweeted_at": "2026-06-22T14:40:43.052026Z",
-    "tweet_id": "2069068611239485730",
-    "resolved": true,
-    "resolved_at": "2026-06-22T14:40:43.052026Z"
-  },
-  "2.1000,112.1500": {
-    "country": "Malaysia",
-    "name": "Kanowit",
-    "risk_level": "Low",
-    "tweeted_level": "Low",
-    "latitude": 2.1,
-    "longitude": 112.15,
-    "rain_mm": 2.06,
-    "soil_moisture": 0.656,
-    "raw_dynamic_score": 0.33,
-    "last_updated": "2026-06-22T14:40:43.052026Z",
-    "last_tweeted_at": "2026-06-22T14:40:43.052026Z",
-    "tweet_id": "2069068611239485730",
-    "resolved": true,
-    "resolved_at": "2026-06-22T14:40:43.052026Z"
   },
   "13.5087,-88.8702": {
     "country": "El Salvador",
@@ -28209,22 +28161,6 @@
     "tweet_id": "2068695997111513164",
     "resolved": false
   },
-  "25.5170,91.2648": {
-    "country": "India",
-    "name": "Nongstoin",
-    "risk_level": "Low",
-    "tweeted_level": "Low",
-    "latitude": 25.51704,
-    "longitude": 91.26484,
-    "rain_mm": 2.94,
-    "soil_moisture": 0.532,
-    "raw_dynamic_score": 0.438,
-    "last_updated": "2026-06-22T14:40:43.052026Z",
-    "last_tweeted_at": "2026-06-22T14:40:43.052026Z",
-    "tweet_id": "2069069370710487242",
-    "resolved": true,
-    "resolved_at": "2026-06-22T14:40:43.052026Z"
-  },
   "52.5871,14.6495": {
     "country": "Poland",
     "name": "Kostrzyn nad Odrą",
@@ -28857,14 +28793,10 @@
     "rain_mm": 53.81,
     "soil_moisture": 0.42,
     "raw_dynamic_score": 7.473,
-    "last_updated": "2026-06-23T12:04:58.559640Z",
+    "last_updated": "2026-06-23T14:41:56.975686Z",
     "last_tweeted_at": "2026-06-23T02:41:57.639868Z",
     "tweet_id": "2069250119128535482",
-    "resolved": false,
-    "pending_downgrade": true,
-    "pending_target_level": "Medium",
-    "pending_set_at": "2026-06-23T06:52:46.803348Z",
-    "pending_is_region": true
+    "resolved": false
   },
   "18.0459,73.0155": {
     "country": "India",
@@ -29086,7 +29018,7 @@
     "rain_mm": 61.19,
     "soil_moisture": 0.553,
     "raw_dynamic_score": 9.234,
-    "last_updated": "2026-06-23T12:04:58.559640Z",
+    "last_updated": "2026-06-23T14:41:56.975686Z",
     "last_tweeted_at": "2026-06-23T12:04:58.559640Z",
     "tweet_id": "2069391555287232956",
     "resolved": false
@@ -29101,9 +29033,24 @@
     "rain_mm": 86.0,
     "soil_moisture": 0.522,
     "raw_dynamic_score": 12.732,
-    "last_updated": "2026-06-23T12:04:58.559640Z",
+    "last_updated": "2026-06-23T14:41:56.975686Z",
     "last_tweeted_at": "2026-06-23T12:04:58.559640Z",
     "tweet_id": "2069391808530956618",
+    "resolved": false
+  },
+  "13.5167,35.7667": {
+    "country": "Sudan",
+    "name": "Doka",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 13.51667,
+    "longitude": 35.76667,
+    "rain_mm": 54.0,
+    "soil_moisture": 0.428,
+    "raw_dynamic_score": 7.54,
+    "last_updated": "2026-06-23T14:41:56.975686Z",
+    "last_tweeted_at": "2026-06-23T14:41:56.975686Z",
+    "tweet_id": "2069430798944502194",
     "resolved": false
   }
 }
