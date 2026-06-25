@@ -13683,5 +13683,14 @@
         "score": 8,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-06-25",
+        "status": "posted",
+        "tweet": "\ud83c\uddf5\ud83c\uddf0 Extreme rainfall triggered $30 billion in economic losses from the 2022 floods in Pakistan.",
+        "type": "statistical",
+        "category": "economic losses from floods and flash floods",
+        "tweet_id": "2070046853576491250"
     }
 ]
