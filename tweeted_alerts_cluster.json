@@ -13087,7 +13087,7 @@
     "rain_mm": 40.0,
     "soil_moisture": 0.703,
     "raw_dynamic_score": 6.576,
-    "last_updated": "2026-06-02T23:06:24.704973Z",
+    "last_updated": "2026-06-25T11:41:58.208418Z",
     "last_tweeted_at": "2026-04-10T01:56:44.904559Z",
     "tweet_id": "2042422046504722464",
     "resolved": false
@@ -16192,7 +16192,7 @@
     "rain_mm": 39.94,
     "soil_moisture": 0.697,
     "raw_dynamic_score": 6.544,
-    "last_updated": "2026-06-25T06:52:17.628682Z",
+    "last_updated": "2026-06-25T11:41:58.208418Z",
     "last_tweeted_at": "2026-05-03T10:08:33.920866Z",
     "tweet_id": "2050880467403002034",
     "resolved": false
@@ -21607,7 +21607,7 @@
     "rain_mm": 50.06,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 9.574,
-    "last_updated": "2026-06-02T23:06:24.704973Z",
+    "last_updated": "2026-06-25T11:41:58.208418Z",
     "last_tweeted_at": "2026-06-02T18:44:19.532040Z",
     "tweet_id": "2061884429019058688",
     "resolved": false
@@ -27183,7 +27183,7 @@
     "rain_mm": 43.06,
     "soil_moisture": 0.653,
     "raw_dynamic_score": 6.887,
-    "last_updated": "2026-06-25T06:52:17.628682Z",
+    "last_updated": "2026-06-25T11:41:58.208418Z",
     "last_tweeted_at": "2026-06-20T07:06:27.886489Z",
     "tweet_id": "2068229514266640686",
     "resolved": false
@@ -28667,7 +28667,7 @@
     "rain_mm": 37.69,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 7.208,
-    "last_updated": "2026-06-25T02:44:16.102318Z",
+    "last_updated": "2026-06-25T11:41:58.208418Z",
     "last_tweeted_at": "2026-06-25T02:44:16.102318Z",
     "tweet_id": "2069975225119260693",
     "resolved": false
@@ -28923,7 +28923,7 @@
     "rain_mm": 36.75,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 7.028,
-    "last_updated": "2026-06-24T22:20:02.685834Z",
+    "last_updated": "2026-06-25T11:41:58.208418Z",
     "last_tweeted_at": "2026-06-23T20:02:24.631050Z",
     "tweet_id": "2069511956499738776",
     "resolved": false
@@ -29000,7 +29000,7 @@
     "rain_mm": 36.88,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 7.052,
-    "last_updated": "2026-06-25T06:52:17.628682Z",
+    "last_updated": "2026-06-25T11:41:58.208418Z",
     "last_tweeted_at": "2026-06-25T06:52:17.628682Z",
     "tweet_id": "2070037641240944665",
     "resolved": false
@@ -29378,7 +29378,7 @@
     "rain_mm": 59.5,
     "soil_moisture": 0.727,
     "raw_dynamic_score": 9.915,
-    "last_updated": "2026-06-25T02:44:16.102318Z",
+    "last_updated": "2026-06-25T11:41:58.208418Z",
     "last_tweeted_at": "2026-06-24T17:13:03.603911Z",
     "tweet_id": "2069831719356973157",
     "resolved": false,
@@ -29487,14 +29487,10 @@
     "rain_mm": 65.19,
     "soil_moisture": 0.752,
     "raw_dynamic_score": 11.01,
-    "last_updated": "2026-06-24T22:20:02.685834Z",
+    "last_updated": "2026-06-25T11:41:58.208418Z",
     "last_tweeted_at": "2026-06-24T17:13:03.603911Z",
     "tweet_id": "2069831213418946843",
-    "resolved": false,
-    "pending_downgrade": true,
-    "pending_target_level": "Medium",
-    "pending_set_at": "2026-06-24T22:20:02.685834Z",
-    "pending_is_region": true
+    "resolved": false
   },
   "34.1833,131.4667": {
     "country": "Japan",
@@ -30121,7 +30117,7 @@
     "rain_mm": 38.0,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 7.267,
-    "last_updated": "2026-06-25T06:52:17.628682Z",
+    "last_updated": "2026-06-25T11:41:58.208418Z",
     "last_tweeted_at": "2026-06-24T17:13:03.603911Z",
     "tweet_id": "2069831972135068086",
     "resolved": false
@@ -30485,7 +30481,7 @@
     "rain_mm": 44.69,
     "soil_moisture": 0.721,
     "raw_dynamic_score": 7.421,
-    "last_updated": "2026-06-25T06:52:17.628682Z",
+    "last_updated": "2026-06-25T11:41:58.208418Z",
     "last_tweeted_at": "2026-06-25T06:52:17.628682Z",
     "tweet_id": "2070037388609589355",
     "resolved": false
@@ -30653,6 +30649,81 @@
     "last_updated": "2026-06-25T06:52:17.628682Z",
     "last_tweeted_at": "2026-06-25T06:52:17.628682Z",
     "tweet_id": "2070037388609589355",
+    "resolved": false
+  },
+  "37.3842,14.3692": {
+    "country": "Italy",
+    "name": "Piazza Armerina",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 37.38417,
+    "longitude": 14.36921,
+    "rain_mm": 53.5,
+    "soil_moisture": 0.449,
+    "raw_dynamic_score": 7.572,
+    "last_updated": "2026-06-25T11:41:58.208418Z",
+    "last_tweeted_at": "2026-06-25T11:41:58.208418Z",
+    "tweet_id": "2070110270291157262",
+    "resolved": false
+  },
+  "37.5655,14.2743": {
+    "country": "Italy",
+    "name": "Enna",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 37.5655,
+    "longitude": 14.27433,
+    "rain_mm": 53.5,
+    "soil_moisture": 0.449,
+    "raw_dynamic_score": 7.572,
+    "last_updated": "2026-06-25T11:41:58.208418Z",
+    "last_tweeted_at": "2026-06-25T11:41:58.208418Z",
+    "tweet_id": "2070110270291157262",
+    "resolved": false
+  },
+  "38.8825,16.6009": {
+    "country": "Italy",
+    "name": "Catanzaro",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 38.88247,
+    "longitude": 16.60086,
+    "rain_mm": 43.75,
+    "soil_moisture": 0.591,
+    "raw_dynamic_score": 6.753,
+    "last_updated": "2026-06-25T11:41:58.208418Z",
+    "last_tweeted_at": "2026-06-25T11:41:58.208418Z",
+    "tweet_id": "2070110523513864695",
+    "resolved": false
+  },
+  "35.3833,136.2667": {
+    "country": "Japan",
+    "name": "Nagahama",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 35.38333,
+    "longitude": 136.26667,
+    "rain_mm": 43.75,
+    "soil_moisture": 0.709,
+    "raw_dynamic_score": 7.216,
+    "last_updated": "2026-06-25T11:41:58.208418Z",
+    "last_tweeted_at": "2026-06-25T11:41:58.208418Z",
+    "tweet_id": "2070110776438755738",
+    "resolved": false
+  },
+  "35.2167,138.6167": {
+    "country": "Japan",
+    "name": "Fujinomiya",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 35.21667,
+    "longitude": 138.61667,
+    "rain_mm": 41.06,
+    "soil_moisture": 0.66,
+    "raw_dynamic_score": 6.592,
+    "last_updated": "2026-06-25T11:41:58.208418Z",
+    "last_tweeted_at": "2026-06-25T11:41:58.208418Z",
+    "tweet_id": "2070111029279813898",
     "resolved": false
   }
 }
