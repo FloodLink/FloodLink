@@ -12902,7 +12902,7 @@
     "rain_mm": 40.0,
     "soil_moisture": 0.703,
     "raw_dynamic_score": 6.576,
-    "last_updated": "2026-06-26T06:56:56.213435Z",
+    "last_updated": "2026-06-26T11:51:04.928791Z",
     "last_tweeted_at": "2026-04-10T01:56:44.904559Z",
     "tweet_id": "2042422046504722464",
     "resolved": false
@@ -26896,7 +26896,7 @@
     "rain_mm": 43.06,
     "soil_moisture": 0.653,
     "raw_dynamic_score": 6.887,
-    "last_updated": "2026-06-26T06:56:56.213435Z",
+    "last_updated": "2026-06-26T11:51:04.928791Z",
     "last_tweeted_at": "2026-06-20T07:06:27.886489Z",
     "tweet_id": "2068229514266640686",
     "resolved": false
@@ -28656,7 +28656,7 @@
     "rain_mm": 4.5,
     "soil_moisture": 0.657,
     "raw_dynamic_score": 0.721,
-    "last_updated": "2026-06-26T06:56:56.213435Z",
+    "last_updated": "2026-06-26T11:51:04.928791Z",
     "last_tweeted_at": "2026-06-26T06:56:56.213435Z",
     "tweet_id": "2070401188835577908",
     "resolved": true,
@@ -29490,7 +29490,7 @@
     "rain_mm": 38.0,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 7.267,
-    "last_updated": "2026-06-25T11:41:58.208418Z",
+    "last_updated": "2026-06-26T11:51:04.928791Z",
     "last_tweeted_at": "2026-06-24T17:13:03.603911Z",
     "tweet_id": "2069831972135068086",
     "resolved": false
@@ -29865,7 +29865,7 @@
     "rain_mm": 44.69,
     "soil_moisture": 0.721,
     "raw_dynamic_score": 7.421,
-    "last_updated": "2026-06-26T06:56:56.213435Z",
+    "last_updated": "2026-06-26T11:51:04.928791Z",
     "last_tweeted_at": "2026-06-25T06:52:17.628682Z",
     "tweet_id": "2070037388609589355",
     "resolved": false
@@ -30226,7 +30226,7 @@
     "rain_mm": 41.12,
     "soil_moisture": 0.641,
     "raw_dynamic_score": 6.533,
-    "last_updated": "2026-06-26T06:56:56.213435Z",
+    "last_updated": "2026-06-26T11:51:04.928791Z",
     "last_tweeted_at": "2026-06-25T14:19:04.179801Z",
     "tweet_id": "2070150330327658578",
     "resolved": false
@@ -30286,7 +30286,7 @@
     "rain_mm": 47.94,
     "soil_moisture": 0.662,
     "raw_dynamic_score": 7.704,
-    "last_updated": "2026-06-26T06:56:56.213435Z",
+    "last_updated": "2026-06-26T11:51:04.928791Z",
     "last_tweeted_at": "2026-06-25T17:41:03.519335Z",
     "tweet_id": "2070200889202356271",
     "resolved": false
@@ -30627,6 +30627,36 @@
     "last_updated": "2026-06-26T06:56:56.213435Z",
     "last_tweeted_at": "2026-06-26T06:56:56.213435Z",
     "tweet_id": "2070401188835577908",
+    "resolved": false
+  },
+  "8.1167,38.3667": {
+    "country": "Ethiopia",
+    "name": "Butajīra",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 8.11667,
+    "longitude": 38.36667,
+    "rain_mm": 46.0,
+    "soil_moisture": 0.503,
+    "raw_dynamic_score": 6.734,
+    "last_updated": "2026-06-26T11:51:04.928791Z",
+    "last_tweeted_at": "2026-06-26T11:51:04.928791Z",
+    "tweet_id": "2070474964130845088",
+    "resolved": false
+  },
+  "20.8855,76.1993": {
+    "country": "India",
+    "name": "Malkāpur",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 20.88555,
+    "longitude": 76.19932,
+    "rain_mm": 58.5,
+    "soil_moisture": 0.67,
+    "raw_dynamic_score": 9.443,
+    "last_updated": "2026-06-26T11:51:04.928791Z",
+    "last_tweeted_at": "2026-06-26T11:51:04.928791Z",
+    "tweet_id": "2070475216636321830",
     "resolved": false
   }
 }
