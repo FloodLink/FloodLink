@@ -13437,5 +13437,14 @@
         "score": 0,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-06-27",
+        "status": "posted",
+        "tweet": "\ud83c\udde8\ud83c\uddf3 Shanghai: 4.7 million urban residents faced pluvial flooding from extreme rainfall in 2024. \ud83c\uddfa\ud83c\uddf8 New York: 1.9 million during comparable 2023 events, per recent exposure assessments.",
+        "type": "statistical",
+        "category": "pluvial (surface) flooding in dense cities",
+        "tweet_id": "2070807478577594673"
     }
 ]
