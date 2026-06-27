@@ -30171,7 +30171,7 @@
     "rain_mm": 43.31,
     "soil_moisture": 0.603,
     "raw_dynamic_score": 6.73,
-    "last_updated": "2026-06-27T16:10:50.252011Z",
+    "last_updated": "2026-06-27T19:15:31.925739Z",
     "last_tweeted_at": "2026-06-27T16:10:50.252011Z",
     "tweet_id": "2070902719997510132",
     "resolved": false
@@ -30276,9 +30276,39 @@
     "rain_mm": 43.38,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 8.295,
-    "last_updated": "2026-06-27T16:10:50.252011Z",
+    "last_updated": "2026-06-27T19:15:31.925739Z",
     "last_tweeted_at": "2026-06-27T16:10:50.252011Z",
     "tweet_id": "2070902972683297176",
+    "resolved": false
+  },
+  "27.0706,88.4753": {
+    "country": "India",
+    "name": "Kālimpong",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 27.07059,
+    "longitude": 88.47529,
+    "rain_mm": 57.81,
+    "soil_moisture": 0.663,
+    "raw_dynamic_score": 9.297,
+    "last_updated": "2026-06-27T19:15:31.925739Z",
+    "last_tweeted_at": "2026-06-27T19:15:31.925739Z",
+    "tweet_id": "2070949192663699476",
+    "resolved": false
+  },
+  "35.9382,-77.7905": {
+    "country": "United States",
+    "name": "Rocky Mount",
+    "risk_level": "High",
+    "tweeted_level": "High",
+    "latitude": 35.93821,
+    "longitude": -77.79053,
+    "rain_mm": 88.19,
+    "soil_moisture": 0.437,
+    "raw_dynamic_score": 12.384,
+    "last_updated": "2026-06-27T19:15:31.925739Z",
+    "last_tweeted_at": "2026-06-27T19:15:31.925739Z",
+    "tweet_id": "2070949445370630526",
     "resolved": false
   }
 }
