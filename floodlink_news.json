@@ -14385,5 +14385,14 @@
             "longitude": -85.35,
             "confidence": 0.9
         }
+    },
+    {
+        "link": null,
+        "date": "2026-06-28",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 New York extreme rainfall days rose 35% in 2021-2025 vs 2016-2020, compared to 22% in \ud83c\uddfa\ud83c\uddf8 Los Angeles, exposing 620,000 more residents to flash floods.",
+        "type": "statistical",
+        "category": "extreme rainfall trends in major cities",
+        "tweet_id": "2071291935206113546"
     }
 ]
