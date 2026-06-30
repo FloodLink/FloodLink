@@ -17563,7 +17563,7 @@
     "rain_mm": 42.12,
     "soil_moisture": 0.69,
     "raw_dynamic_score": 6.878,
-    "last_updated": "2026-06-29T22:15:33.030178Z",
+    "last_updated": "2026-06-30T02:47:35.437444Z",
     "last_tweeted_at": "2026-05-16T16:00:53.972394Z",
     "tweet_id": "2055680188298780835",
     "resolved": false
@@ -18598,7 +18598,7 @@
     "rain_mm": 44.56,
     "soil_moisture": 0.689,
     "raw_dynamic_score": 7.272,
-    "last_updated": "2026-06-10T22:59:37.817343Z",
+    "last_updated": "2026-06-30T02:47:35.437444Z",
     "last_tweeted_at": "2026-05-20T06:52:37.476077Z",
     "tweet_id": "2056992269664673878",
     "resolved": false
@@ -27397,7 +27397,7 @@
     "rain_mm": 58.06,
     "soil_moisture": 0.736,
     "raw_dynamic_score": 9.719,
-    "last_updated": "2026-06-29T22:15:33.030178Z",
+    "last_updated": "2026-06-30T02:47:35.437444Z",
     "last_tweeted_at": "2026-06-29T17:40:17.392320Z",
     "tweet_id": "2071650001676067163",
     "resolved": false
@@ -28254,7 +28254,7 @@
     "rain_mm": 43.19,
     "soil_moisture": 0.713,
     "raw_dynamic_score": 7.139,
-    "last_updated": "2026-06-29T22:15:33.030178Z",
+    "last_updated": "2026-06-30T02:47:35.437444Z",
     "last_tweeted_at": "2026-06-24T22:20:02.685834Z",
     "tweet_id": "2069908469465932096",
     "resolved": false
@@ -28269,7 +28269,7 @@
     "rain_mm": 41.81,
     "soil_moisture": 0.693,
     "raw_dynamic_score": 6.838,
-    "last_updated": "2026-06-29T19:56:31.485636Z",
+    "last_updated": "2026-06-30T02:47:35.437444Z",
     "last_tweeted_at": "2026-06-25T02:44:16.102318Z",
     "tweet_id": "2069974972408160303",
     "resolved": false
@@ -30160,10 +30160,18 @@
     "rain_mm": 100.44,
     "soil_moisture": 0.644,
     "raw_dynamic_score": 15.984,
-    "last_updated": "2026-06-29T22:15:33.030178Z",
+    "last_updated": "2026-06-30T02:47:35.437444Z",
     "last_tweeted_at": "2026-06-29T22:15:33.030178Z",
     "tweet_id": "2071719776494211356",
-    "resolved": false
+    "resolved": false,
+    "pending_downgrade": true,
+    "pending_target_level": "Low",
+    "pending_set_at": "2026-06-30T02:47:35.437444Z",
+    "pending_is_region": false,
+    "pending_observed_level": "Low",
+    "pending_observed_rain_mm": 35.31,
+    "pending_observed_soil_moisture": 0.606,
+    "pending_observed_raw_dynamic_score": 5.496
   },
   "31.9110,120.2630": {
     "country": "China",
@@ -30175,7 +30183,7 @@
     "rain_mm": 41.81,
     "soil_moisture": 0.666,
     "raw_dynamic_score": 6.737,
-    "last_updated": "2026-06-29T22:15:33.030178Z",
+    "last_updated": "2026-06-30T02:47:35.437444Z",
     "last_tweeted_at": "2026-06-29T22:15:33.030178Z",
     "tweet_id": "2071719270149500961",
     "resolved": false
@@ -30190,7 +30198,7 @@
     "rain_mm": 41.69,
     "soil_moisture": 0.651,
     "raw_dynamic_score": 6.657,
-    "last_updated": "2026-06-29T22:15:33.030178Z",
+    "last_updated": "2026-06-30T02:47:35.437444Z",
     "last_tweeted_at": "2026-06-29T22:15:33.030178Z",
     "tweet_id": "2071719523518955984",
     "resolved": false
@@ -30205,7 +30213,7 @@
     "rain_mm": 50.75,
     "soil_moisture": 0.663,
     "raw_dynamic_score": 8.162,
-    "last_updated": "2026-06-29T22:15:33.030178Z",
+    "last_updated": "2026-06-30T02:47:35.437444Z",
     "last_tweeted_at": "2026-06-29T22:15:33.030178Z",
     "tweet_id": "2071720029322674311",
     "resolved": false
@@ -30220,9 +30228,54 @@
     "rain_mm": 47.69,
     "soil_moisture": 0.608,
     "raw_dynamic_score": 7.431,
-    "last_updated": "2026-06-29T22:15:33.030178Z",
+    "last_updated": "2026-06-30T02:47:35.437444Z",
     "last_tweeted_at": "2026-06-29T22:15:33.030178Z",
     "tweet_id": "2071720281937227939",
+    "resolved": false
+  },
+  "20.2108,-101.1321": {
+    "country": "Mexico",
+    "name": "Yuriria",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 20.21081,
+    "longitude": -101.13212,
+    "rain_mm": 53.12,
+    "soil_moisture": 0.59,
+    "raw_dynamic_score": 8.194,
+    "last_updated": "2026-06-30T02:47:35.437444Z",
+    "last_tweeted_at": "2026-06-30T02:47:35.437444Z",
+    "tweet_id": "2071787751024824541",
+    "resolved": false
+  },
+  "20.1409,-101.1825": {
+    "country": "Mexico",
+    "name": "Uriangato",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 20.14085,
+    "longitude": -101.18251,
+    "rain_mm": 53.12,
+    "soil_moisture": 0.59,
+    "raw_dynamic_score": 8.194,
+    "last_updated": "2026-06-30T02:47:35.437444Z",
+    "last_tweeted_at": "2026-06-30T02:47:35.437444Z",
+    "tweet_id": "2071787751024824541",
+    "resolved": false
+  },
+  "20.1257,-101.1921": {
+    "country": "Mexico",
+    "name": "Moroleón",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 20.12571,
+    "longitude": -101.19208,
+    "rain_mm": 53.12,
+    "soil_moisture": 0.59,
+    "raw_dynamic_score": 8.194,
+    "last_updated": "2026-06-30T02:47:35.437444Z",
+    "last_tweeted_at": "2026-06-30T02:47:35.437444Z",
+    "tweet_id": "2071787751024824541",
     "resolved": false
   }
 }
