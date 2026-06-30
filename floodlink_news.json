@@ -14576,5 +14576,45 @@
             "longitude": -99.0,
             "confidence": 0.85
         }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNkpFVlFKanJSWVJlS2h0YTNQUG10OVlDaHJnVHE3NmdMSi1Ib0RvUml0Z3luSXI0YjFKMVRKalRLWmFQbWVZSUk5OFZoNGl3RTNwajdrb2tjOVdEY3NselNQWjdtYWZTc1ZjNlFGSGF4UjRhWWNiZHd4OC1CaXZEVUpZSEJncjNlYTNaemR4LWVNR2JCWjRLaDJOU3htQ254UlJrOHUyMnloZkswZ2RkbGFXT1AzMXZwQTAzblZER18xV3VfTzVKOGx3?oc=5",
+        "date": "2026-06-30",
+        "title": "FIRST ALERT WEATHER DAYS: Storms to threaten with damaging hail, wind, isolated tornado - Upper Michigan's Source",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxQNkpFVlFKanJSWVJlS2h0YTNQUG10OVlDaHJnVHE3NmdMSi1Ib0RvUml0Z3luSXI0YjFKMVRKalRLWmFQbWVZSUk5OFZoNGl3RTNwajdrb2tjOVdEY3NselNQWjdtYWZTc1ZjNlFGSGF4UjRhWWNiZHd4OC1CaXZEVUpZSEJncjNlYTNaemR4LWVNR2JCWjRLaDJOU3htQ254UlJrOHUyMnloZkswZ2RkbGFXT1AzMXZwQTAzblZER18xV3VfTzVKOGx3?oc=5\" target=\"_blank\">FIRST ALERT WEATHER DAYS: Storms to threaten with damaging hail, wind, isolated tornado</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Upper Michigan's Source</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPbkE1dTNfVWdpQ2IybW1URWRjbEtQU1JJSzRYdGpSMGtzMmhqVnpCM1RhV0RDQTRuQ3UxYUZNczNfd0gyZ2paZG9nYnVhQi1rZU5kQ2FsTkFmYTBJbnh1NTdKSnZsN2F6by1jcTR2SGw1SE1USFZ3cnc4MEQ5bkVhaE1ramIyUy1DWGhCVWpkd08yemVNcURYZHRmRm9aUnotYkc4dDJ6VQ?oc=5",
+        "date": "2026-06-30",
+        "title": "After flooding, the heat wave could turn deadly in Kentucky - The Weather Channel",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPbkE1dTNfVWdpQ2IybW1URWRjbEtQU1JJSzRYdGpSMGtzMmhqVnpCM1RhV0RDQTRuQ3UxYUZNczNfd0gyZ2paZG9nYnVhQi1rZU5kQ2FsTkFmYTBJbnh1NTdKSnZsN2F6by1jcTR2SGw1SE1USFZ3cnc4MEQ5bkVhaE1ramIyUy1DWGhCVWpkd08yemVNcURYZHRmRm9aUnotYkc4dDJ6VQ?oc=5\" target=\"_blank\">After flooding, the heat wave could turn deadly in Kentucky</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Weather Channel</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQQnpySXUxbUhKbEVaS0o1OGlZblAwdkFPZXRYQldIcVVBM183blA0TVBGY3Jac05YSjl0WlNBOHMwaVpvNzdwdXc2RVJEaUtVVlVDTnAwWVkxR2I1aE5ZT3o2bXFOandOaGZIMmRucm12U1dzZHE5XzZQOWNEczN1Tk5kQzZSdTdtTnpqYi1vRVNUUEswYkE?oc=5",
+        "date": "2026-06-30",
+        "title": "State of emergency, flash flood warning issued in southwestern Manitoba after deluge - CBC",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxQQnpySXUxbUhKbEVaS0o1OGlZblAwdkFPZXRYQldIcVVBM183blA0TVBGY3Jac05YSjl0WlNBOHMwaVpvNzdwdXc2RVJEaUtVVlVDTnAwWVkxR2I1aE5ZT3o2bXFOandOaGZIMmRucm12U1dzZHE5XzZQOWNEczN1Tk5kQzZSdTdtTnpqYi1vRVNUUEswYkE?oc=5\" target=\"_blank\">State of emergency, flash flood warning issued in southwestern Manitoba after deluge</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CBC</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOUmZKbTl3VzV5Si1hUDVXNlEzdTNaQnloT0FQS0VYRlVlcW1VeWVaQWlfX0Y4cm5JQmducEF3c20ySWJiNVdxNFdiN1NWcVFiX0pxZGoyeERINlhSbFM0WVU2a3lBTUNLYldSMlZuNkRsOUN1OWdNWG40ZFk0VFk3T01NQ0pRVEFoeFlyWVRBZi1QelhLUkVYeGIwWFZWNFYwUlFacDZrZzNiZWZxNUZjM2FncnEyT3VpVmZrbFhCdGVvQk9jb0tYZm9vUE1EUGgx0gHWAUFVX3lxTE4xX2R0Qlg5d0FXT0xPWjZDRUlscUdRSldybnRLb21SWkdNSl9LU1BRUGZtc0VpUGRvd20yYXNyd0VvZ2tVQm5YVXpHU0F1SEtaZzJLc01tM195X19RaDBRcnlvQXBhbW83aVZJc05LTVhsem1GY1VrZjI5TTJuQ0pYdnRLazNOZVB3VGR2SDB1TjZIQV9RREd4Z3FralgwQmJMeHp0NWQxdHVzQklLVXlrRWcxT2g3b1kwSVNRYzdZSkxPM0RNNVhJRUIyc0JvU0MzTHRXbmc?oc=5",
+        "date": "2026-06-30",
+        "title": "Zero tolerance for negligence in monsoon readiness, warns DC - The Times of India",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxOUmZKbTl3VzV5Si1hUDVXNlEzdTNaQnloT0FQS0VYRlVlcW1VeWVaQWlfX0Y4cm5JQmducEF3c20ySWJiNVdxNFdiN1NWcVFiX0pxZGoyeERINlhSbFM0WVU2a3lBTUNLYldSMlZuNkRsOUN1OWdNWG40ZFk0VFk3T01NQ0pRVEFoeFlyWVRBZi1QelhLUkVYeGIwWFZWNFYwUlFacDZrZzNiZWZxNUZjM2FncnEyT3VpVmZrbFhCdGVvQk9jb0tYZm9vUE1EUGgx0gHWAUFVX3lxTE4xX2R0Qlg5d0FXT0xPWjZDRUlscUdRSldybnRLb21SWkdNSl9LU1BRUGZtc0VpUGRvd20yYXNyd0VvZ2tVQm5YVXpHU0F1SEtaZzJLc01tM195X19RaDBRcnlvQXBhbW83aVZJc05LTVhsem1GY1VrZjI5TTJuQ0pYdnRLazNOZVB3VGR2SDB1TjZIQV9RREd4Z3FralgwQmJMeHp0NWQxdHVzQklLVXlrRWcxT2g3b1kwSVNRYzdZSkxPM0RNNVhJRUIyc0JvU0MzTHRXbmc?oc=5\" target=\"_blank\">Zero tolerance for negligence in monsoon readiness, warns DC</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of India</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
     }
 ]
