@@ -12384,7 +12384,7 @@
     "rain_mm": 40.0,
     "soil_moisture": 0.703,
     "raw_dynamic_score": 6.576,
-    "last_updated": "2026-07-01T22:24:49.333703Z",
+    "last_updated": "2026-07-02T02:43:17.929088Z",
     "last_tweeted_at": "2026-04-10T01:56:44.904559Z",
     "tweet_id": "2042422046504722464",
     "resolved": false
@@ -21600,7 +21600,7 @@
     "rain_mm": 46.31,
     "soil_moisture": 0.597,
     "raw_dynamic_score": 7.17,
-    "last_updated": "2026-07-01T17:19:19.849474Z",
+    "last_updated": "2026-07-02T02:43:17.929088Z",
     "last_tweeted_at": "2026-06-05T17:18:23.110145Z",
     "tweet_id": "2062947429117231483",
     "resolved": false
@@ -21675,7 +21675,7 @@
     "rain_mm": 63.19,
     "soil_moisture": 0.667,
     "raw_dynamic_score": 10.182,
-    "last_updated": "2026-07-01T22:24:49.333703Z",
+    "last_updated": "2026-07-02T02:43:17.929088Z",
     "last_tweeted_at": "2026-06-05T22:20:58.767487Z",
     "tweet_id": "2063024338496856406",
     "resolved": false
@@ -24075,7 +24075,7 @@
     "rain_mm": 42.25,
     "soil_moisture": 0.641,
     "raw_dynamic_score": 6.712,
-    "last_updated": "2026-06-14T22:13:22.079819Z",
+    "last_updated": "2026-07-02T02:43:17.929088Z",
     "last_tweeted_at": "2026-06-14T19:22:52.298406Z",
     "tweet_id": "2066240257557733507",
     "resolved": false
@@ -25950,7 +25950,7 @@
     "rain_mm": 55.81,
     "soil_moisture": 0.666,
     "raw_dynamic_score": 8.99,
-    "last_updated": "2026-07-01T17:19:19.849474Z",
+    "last_updated": "2026-07-02T02:43:17.929088Z",
     "last_tweeted_at": "2026-07-01T12:04:27.284790Z",
     "tweet_id": "2072292052063137972",
     "resolved": false
@@ -29143,7 +29143,7 @@
     "rain_mm": 24.06,
     "soil_moisture": 0.691,
     "raw_dynamic_score": 3.931,
-    "last_updated": "2026-07-01T12:04:27.284790Z",
+    "last_updated": "2026-07-02T02:43:17.929088Z",
     "last_tweeted_at": "2026-07-01T12:04:27.284790Z",
     "tweet_id": "2072291041177153933",
     "resolved": true,
@@ -29159,7 +29159,7 @@
     "rain_mm": 14.94,
     "soil_moisture": 0.682,
     "raw_dynamic_score": 2.428,
-    "last_updated": "2026-07-01T12:04:27.284790Z",
+    "last_updated": "2026-07-02T02:43:17.929088Z",
     "last_tweeted_at": "2026-07-01T12:04:27.284790Z",
     "tweet_id": "2072291041177153933",
     "resolved": true,
@@ -29175,7 +29175,7 @@
     "rain_mm": 3.25,
     "soil_moisture": 0.615,
     "raw_dynamic_score": 0.509,
-    "last_updated": "2026-07-01T12:04:27.284790Z",
+    "last_updated": "2026-07-02T02:43:17.929088Z",
     "last_tweeted_at": "2026-07-01T12:04:27.284790Z",
     "tweet_id": "2072291041177153933",
     "resolved": true,
@@ -30296,10 +30296,14 @@
     "rain_mm": 41.12,
     "soil_moisture": 0.645,
     "raw_dynamic_score": 6.547,
-    "last_updated": "2026-07-01T22:24:49.333703Z",
+    "last_updated": "2026-07-02T02:43:17.929088Z",
     "last_tweeted_at": "2026-07-01T12:04:27.284790Z",
     "tweet_id": "2072291041177153933",
-    "resolved": false
+    "resolved": false,
+    "pending_downgrade": true,
+    "pending_target_level": "Low",
+    "pending_set_at": "2026-07-02T02:43:17.929088Z",
+    "pending_is_region": true
   },
   "22.6782,74.9448": {
     "country": "India",
@@ -30311,7 +30315,7 @@
     "rain_mm": 96.56,
     "soil_moisture": 0.702,
     "raw_dynamic_score": 15.868,
-    "last_updated": "2026-07-01T12:04:27.284790Z",
+    "last_updated": "2026-07-02T02:43:17.929088Z",
     "last_tweeted_at": "2026-07-01T12:04:27.284790Z",
     "tweet_id": "2072291041177153933",
     "resolved": false
@@ -30326,7 +30330,7 @@
     "rain_mm": 78.56,
     "soil_moisture": 0.625,
     "raw_dynamic_score": 12.366,
-    "last_updated": "2026-07-01T12:04:27.284790Z",
+    "last_updated": "2026-07-02T02:43:17.929088Z",
     "last_tweeted_at": "2026-07-01T12:04:27.284790Z",
     "tweet_id": "2072291041177153933",
     "resolved": false
@@ -30341,7 +30345,7 @@
     "rain_mm": 77.56,
     "soil_moisture": 0.545,
     "raw_dynamic_score": 11.649,
-    "last_updated": "2026-07-01T12:04:27.284790Z",
+    "last_updated": "2026-07-02T02:43:17.929088Z",
     "last_tweeted_at": "2026-07-01T12:04:27.284790Z",
     "tweet_id": "2072291041177153933",
     "resolved": false
@@ -30356,7 +30360,7 @@
     "rain_mm": 60.56,
     "soil_moisture": 0.639,
     "raw_dynamic_score": 9.611,
-    "last_updated": "2026-07-01T12:04:27.284790Z",
+    "last_updated": "2026-07-02T02:43:17.929088Z",
     "last_tweeted_at": "2026-07-01T12:04:27.284790Z",
     "tweet_id": "2072291041177153933",
     "resolved": false
@@ -30371,7 +30375,7 @@
     "rain_mm": 59.12,
     "soil_moisture": 0.637,
     "raw_dynamic_score": 9.372,
-    "last_updated": "2026-07-01T12:04:27.284790Z",
+    "last_updated": "2026-07-02T02:43:17.929088Z",
     "last_tweeted_at": "2026-07-01T12:04:27.284790Z",
     "tweet_id": "2072291041177153933",
     "resolved": false
@@ -30386,7 +30390,7 @@
     "rain_mm": 63.44,
     "soil_moisture": 0.664,
     "raw_dynamic_score": 10.205,
-    "last_updated": "2026-07-01T12:04:27.284790Z",
+    "last_updated": "2026-07-02T02:43:17.929088Z",
     "last_tweeted_at": "2026-07-01T12:04:27.284790Z",
     "tweet_id": "2072291041177153933",
     "resolved": false
@@ -30401,7 +30405,7 @@
     "rain_mm": 57.62,
     "soil_moisture": 0.663,
     "raw_dynamic_score": 9.267,
-    "last_updated": "2026-07-01T12:04:27.284790Z",
+    "last_updated": "2026-07-02T02:43:17.929088Z",
     "last_tweeted_at": "2026-07-01T12:04:27.284790Z",
     "tweet_id": "2072291041177153933",
     "resolved": false
@@ -30416,7 +30420,7 @@
     "rain_mm": 50.44,
     "soil_moisture": 0.647,
     "raw_dynamic_score": 8.04,
-    "last_updated": "2026-07-01T12:04:27.284790Z",
+    "last_updated": "2026-07-02T02:43:17.929088Z",
     "last_tweeted_at": "2026-07-01T12:04:27.284790Z",
     "tweet_id": "2072291041177153933",
     "resolved": false
@@ -30536,13 +30540,13 @@
     "rain_mm": 44.5,
     "soil_moisture": 0.728,
     "raw_dynamic_score": 7.417,
-    "last_updated": "2026-07-01T22:24:49.333703Z",
+    "last_updated": "2026-07-02T02:43:17.929088Z",
     "last_tweeted_at": "2026-07-01T12:04:27.284790Z",
     "tweet_id": "2072292052063137972",
     "resolved": false,
     "pending_downgrade": true,
     "pending_target_level": "Low",
-    "pending_set_at": "2026-07-01T17:19:19.849474Z",
+    "pending_set_at": "2026-07-02T02:43:17.929088Z",
     "pending_is_region": true
   },
   "35.3000,136.5667": {
@@ -30555,7 +30559,7 @@
     "rain_mm": 44.5,
     "soil_moisture": 0.728,
     "raw_dynamic_score": 7.417,
-    "last_updated": "2026-07-01T17:19:19.849474Z",
+    "last_updated": "2026-07-02T02:43:17.929088Z",
     "last_tweeted_at": "2026-07-01T12:04:27.284790Z",
     "tweet_id": "2072292052063137972",
     "resolved": false
@@ -30570,7 +30574,7 @@
     "rain_mm": 56.94,
     "soil_moisture": 0.727,
     "raw_dynamic_score": 9.487,
-    "last_updated": "2026-07-01T17:19:19.849474Z",
+    "last_updated": "2026-07-02T02:43:17.929088Z",
     "last_tweeted_at": "2026-07-01T12:04:27.284790Z",
     "tweet_id": "2072292052063137972",
     "resolved": false
@@ -30585,7 +30589,7 @@
     "rain_mm": 44.5,
     "soil_moisture": 0.728,
     "raw_dynamic_score": 7.417,
-    "last_updated": "2026-07-01T17:19:19.849474Z",
+    "last_updated": "2026-07-02T02:43:17.929088Z",
     "last_tweeted_at": "2026-07-01T12:04:27.284790Z",
     "tweet_id": "2072292052063137972",
     "resolved": false
@@ -30600,7 +30604,7 @@
     "rain_mm": 42.88,
     "soil_moisture": 0.674,
     "raw_dynamic_score": 6.936,
-    "last_updated": "2026-07-01T17:19:19.849474Z",
+    "last_updated": "2026-07-02T02:43:17.929088Z",
     "last_tweeted_at": "2026-07-01T12:04:27.284790Z",
     "tweet_id": "2072292052063137972",
     "resolved": false
@@ -30615,7 +30619,7 @@
     "rain_mm": 56.94,
     "soil_moisture": 0.727,
     "raw_dynamic_score": 9.487,
-    "last_updated": "2026-07-01T17:19:19.849474Z",
+    "last_updated": "2026-07-02T02:43:17.929088Z",
     "last_tweeted_at": "2026-07-01T12:04:27.284790Z",
     "tweet_id": "2072292052063137972",
     "resolved": false
@@ -30630,7 +30634,7 @@
     "rain_mm": 73.75,
     "soil_moisture": 0.736,
     "raw_dynamic_score": 12.343,
-    "last_updated": "2026-07-01T17:19:19.849474Z",
+    "last_updated": "2026-07-02T02:43:17.929088Z",
     "last_tweeted_at": "2026-07-01T12:04:27.284790Z",
     "tweet_id": "2072292052063137972",
     "resolved": false
@@ -30645,7 +30649,7 @@
     "rain_mm": 47.25,
     "soil_moisture": 0.712,
     "raw_dynamic_score": 7.809,
-    "last_updated": "2026-07-01T17:19:19.849474Z",
+    "last_updated": "2026-07-02T02:43:17.929088Z",
     "last_tweeted_at": "2026-07-01T12:04:27.284790Z",
     "tweet_id": "2072292052063137972",
     "resolved": false
@@ -30660,7 +30664,7 @@
     "rain_mm": 73.75,
     "soil_moisture": 0.736,
     "raw_dynamic_score": 12.343,
-    "last_updated": "2026-07-01T17:19:19.849474Z",
+    "last_updated": "2026-07-02T02:43:17.929088Z",
     "last_tweeted_at": "2026-07-01T12:04:27.284790Z",
     "tweet_id": "2072292052063137972",
     "resolved": false
@@ -30675,7 +30679,7 @@
     "rain_mm": 47.25,
     "soil_moisture": 0.712,
     "raw_dynamic_score": 7.809,
-    "last_updated": "2026-07-01T17:19:19.849474Z",
+    "last_updated": "2026-07-02T02:43:17.929088Z",
     "last_tweeted_at": "2026-07-01T12:04:27.284790Z",
     "tweet_id": "2072292052063137972",
     "resolved": false
@@ -30690,7 +30694,7 @@
     "rain_mm": 73.75,
     "soil_moisture": 0.736,
     "raw_dynamic_score": 12.343,
-    "last_updated": "2026-07-01T17:19:19.849474Z",
+    "last_updated": "2026-07-02T02:43:17.929088Z",
     "last_tweeted_at": "2026-07-01T12:04:27.284790Z",
     "tweet_id": "2072292052063137972",
     "resolved": false
@@ -30705,7 +30709,7 @@
     "rain_mm": 72.06,
     "soil_moisture": 0.708,
     "raw_dynamic_score": 11.878,
-    "last_updated": "2026-07-01T17:19:19.849474Z",
+    "last_updated": "2026-07-02T02:43:17.929088Z",
     "last_tweeted_at": "2026-07-01T12:04:27.284790Z",
     "tweet_id": "2072292052063137972",
     "resolved": false
@@ -30720,7 +30724,7 @@
     "rain_mm": 72.06,
     "soil_moisture": 0.708,
     "raw_dynamic_score": 11.878,
-    "last_updated": "2026-07-01T17:19:19.849474Z",
+    "last_updated": "2026-07-02T02:43:17.929088Z",
     "last_tweeted_at": "2026-07-01T12:04:27.284790Z",
     "tweet_id": "2072292052063137972",
     "resolved": false
@@ -30735,7 +30739,7 @@
     "rain_mm": 72.06,
     "soil_moisture": 0.708,
     "raw_dynamic_score": 11.878,
-    "last_updated": "2026-07-01T17:19:19.849474Z",
+    "last_updated": "2026-07-02T02:43:17.929088Z",
     "last_tweeted_at": "2026-07-01T12:04:27.284790Z",
     "tweet_id": "2072292052063137972",
     "resolved": false
@@ -30750,7 +30754,7 @@
     "rain_mm": 73.75,
     "soil_moisture": 0.736,
     "raw_dynamic_score": 12.343,
-    "last_updated": "2026-07-01T17:19:19.849474Z",
+    "last_updated": "2026-07-02T02:43:17.929088Z",
     "last_tweeted_at": "2026-07-01T12:04:27.284790Z",
     "tweet_id": "2072292052063137972",
     "resolved": false
@@ -30765,7 +30769,7 @@
     "rain_mm": 73.75,
     "soil_moisture": 0.736,
     "raw_dynamic_score": 12.343,
-    "last_updated": "2026-07-01T17:19:19.849474Z",
+    "last_updated": "2026-07-02T02:43:17.929088Z",
     "last_tweeted_at": "2026-07-01T12:04:27.284790Z",
     "tweet_id": "2072292052063137972",
     "resolved": false
@@ -30780,7 +30784,7 @@
     "rain_mm": 47.25,
     "soil_moisture": 0.712,
     "raw_dynamic_score": 7.809,
-    "last_updated": "2026-07-01T17:19:19.849474Z",
+    "last_updated": "2026-07-02T02:43:17.929088Z",
     "last_tweeted_at": "2026-07-01T12:04:27.284790Z",
     "tweet_id": "2072292052063137972",
     "resolved": false
@@ -30795,7 +30799,7 @@
     "rain_mm": 47.25,
     "soil_moisture": 0.712,
     "raw_dynamic_score": 7.809,
-    "last_updated": "2026-07-01T17:19:19.849474Z",
+    "last_updated": "2026-07-02T02:43:17.929088Z",
     "last_tweeted_at": "2026-07-01T12:04:27.284790Z",
     "tweet_id": "2072292052063137972",
     "resolved": false
@@ -30810,7 +30814,7 @@
     "rain_mm": 56.94,
     "soil_moisture": 0.727,
     "raw_dynamic_score": 9.487,
-    "last_updated": "2026-07-01T17:19:19.849474Z",
+    "last_updated": "2026-07-02T02:43:17.929088Z",
     "last_tweeted_at": "2026-07-01T12:04:27.284790Z",
     "tweet_id": "2072292052063137972",
     "resolved": false
@@ -30825,7 +30829,7 @@
     "rain_mm": 56.94,
     "soil_moisture": 0.727,
     "raw_dynamic_score": 9.487,
-    "last_updated": "2026-07-01T17:19:19.849474Z",
+    "last_updated": "2026-07-02T02:43:17.929088Z",
     "last_tweeted_at": "2026-07-01T12:04:27.284790Z",
     "tweet_id": "2072292052063137972",
     "resolved": false
@@ -30840,7 +30844,7 @@
     "rain_mm": 73.75,
     "soil_moisture": 0.736,
     "raw_dynamic_score": 12.343,
-    "last_updated": "2026-07-01T17:19:19.849474Z",
+    "last_updated": "2026-07-02T02:43:17.929088Z",
     "last_tweeted_at": "2026-07-01T12:04:27.284790Z",
     "tweet_id": "2072292052063137972",
     "resolved": false
@@ -30855,7 +30859,7 @@
     "rain_mm": 73.75,
     "soil_moisture": 0.736,
     "raw_dynamic_score": 12.343,
-    "last_updated": "2026-07-01T17:19:19.849474Z",
+    "last_updated": "2026-07-02T02:43:17.929088Z",
     "last_tweeted_at": "2026-07-01T12:04:27.284790Z",
     "tweet_id": "2072292052063137972",
     "resolved": false
@@ -30870,7 +30874,7 @@
     "rain_mm": 73.75,
     "soil_moisture": 0.736,
     "raw_dynamic_score": 12.343,
-    "last_updated": "2026-07-01T17:19:19.849474Z",
+    "last_updated": "2026-07-02T02:43:17.929088Z",
     "last_tweeted_at": "2026-07-01T12:04:27.284790Z",
     "tweet_id": "2072292052063137972",
     "resolved": false
@@ -31233,6 +31237,81 @@
     "last_updated": "2026-07-01T19:53:48.920272Z",
     "last_tweeted_at": "2026-07-01T17:19:19.849474Z",
     "tweet_id": "2072370766880837744",
+    "resolved": false
+  },
+  "21.4620,72.9584": {
+    "country": "India",
+    "name": "Kosamba",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 21.46202,
+    "longitude": 72.95842,
+    "rain_mm": 44.81,
+    "soil_moisture": 0.654,
+    "raw_dynamic_score": 7.17,
+    "last_updated": "2026-07-02T02:43:17.929088Z",
+    "last_tweeted_at": "2026-07-02T02:43:17.929088Z",
+    "tweet_id": "2072511448769519953",
+    "resolved": false
+  },
+  "21.4008,72.9268": {
+    "country": "India",
+    "name": "Kim",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 21.40081,
+    "longitude": 72.92682,
+    "rain_mm": 44.81,
+    "soil_moisture": 0.654,
+    "raw_dynamic_score": 7.17,
+    "last_updated": "2026-07-02T02:43:17.929088Z",
+    "last_tweeted_at": "2026-07-02T02:43:17.929088Z",
+    "tweet_id": "2072511448769519953",
+    "resolved": false
+  },
+  "21.6167,73.0276": {
+    "country": "India",
+    "name": "Anklesvar INA",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 21.61675,
+    "longitude": 73.02759,
+    "rain_mm": 44.81,
+    "soil_moisture": 0.654,
+    "raw_dynamic_score": 7.17,
+    "last_updated": "2026-07-02T02:43:17.929088Z",
+    "last_tweeted_at": "2026-07-02T02:43:17.929088Z",
+    "tweet_id": "2072511448769519953",
+    "resolved": false
+  },
+  "21.4700,72.9521": {
+    "country": "India",
+    "name": "Tarsadi",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 21.46996,
+    "longitude": 72.9521,
+    "rain_mm": 44.81,
+    "soil_moisture": 0.654,
+    "raw_dynamic_score": 7.17,
+    "last_updated": "2026-07-02T02:43:17.929088Z",
+    "last_tweeted_at": "2026-07-02T02:43:17.929088Z",
+    "tweet_id": "2072511448769519953",
+    "resolved": false
+  },
+  "16.1495,94.7590": {
+    "country": "Myanmar",
+    "name": "Labutta",
+    "risk_level": "High",
+    "tweeted_level": "High",
+    "latitude": 16.14948,
+    "longitude": 94.75898,
+    "rain_mm": 77.06,
+    "soil_moisture": 0.737,
+    "raw_dynamic_score": 12.907,
+    "last_updated": "2026-07-02T02:43:17.929088Z",
+    "last_tweeted_at": "2026-07-02T02:43:17.929088Z",
+    "tweet_id": "2072511701421859055",
     "resolved": false
   }
 }
