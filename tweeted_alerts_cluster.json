@@ -23819,7 +23819,7 @@
     "rain_mm": 57.38,
     "soil_moisture": 0.469,
     "raw_dynamic_score": 8.224,
-    "last_updated": "2026-06-13T22:06:34.895919Z",
+    "last_updated": "2026-07-02T19:24:56.246258Z",
     "last_tweeted_at": "2026-06-13T16:20:48.802977Z",
     "tweet_id": "2065832049567551532",
     "resolved": false
@@ -26736,7 +26736,7 @@
     "rain_mm": 2.25,
     "soil_moisture": 0.536,
     "raw_dynamic_score": 0.336,
-    "last_updated": "2026-07-02T11:38:37.280723Z",
+    "last_updated": "2026-07-02T19:24:56.246258Z",
     "last_tweeted_at": "2026-07-02T06:44:14.591944Z",
     "tweet_id": "2072572078210122231",
     "resolved": true,
@@ -30059,7 +30059,7 @@
     "rain_mm": 41.12,
     "soil_moisture": 0.645,
     "raw_dynamic_score": 6.547,
-    "last_updated": "2026-07-02T16:59:35.885389Z",
+    "last_updated": "2026-07-02T19:24:56.246258Z",
     "last_tweeted_at": "2026-07-01T12:04:27.284790Z",
     "tweet_id": "2072291041177153933",
     "resolved": false
@@ -31252,9 +31252,24 @@
     "rain_mm": 51.75,
     "soil_moisture": 0.651,
     "raw_dynamic_score": 8.267,
-    "last_updated": "2026-07-02T16:59:35.885389Z",
+    "last_updated": "2026-07-02T19:24:56.246258Z",
     "last_tweeted_at": "2026-07-02T16:59:35.885389Z",
     "tweet_id": "2072726928780673140",
+    "resolved": false
+  },
+  "19.9678,72.7126": {
+    "country": "India",
+    "name": "Dāhānu",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 19.96778,
+    "longitude": 72.71263,
+    "rain_mm": 48.56,
+    "soil_moisture": 0.683,
+    "raw_dynamic_score": 7.899,
+    "last_updated": "2026-07-02T19:24:56.246258Z",
+    "last_tweeted_at": "2026-07-02T19:24:56.246258Z",
+    "tweet_id": "2072763512242557329",
     "resolved": false
   }
 }
