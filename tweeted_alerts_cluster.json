@@ -13449,7 +13449,7 @@
     "rain_mm": 43.56,
     "soil_moisture": 0.709,
     "raw_dynamic_score": 7.188,
-    "last_updated": "2026-06-22T09:02:53.829929Z",
+    "last_updated": "2026-07-02T16:59:35.885389Z",
     "last_tweeted_at": "2026-04-19T18:45:13.497742Z",
     "tweet_id": "2045937075531182171",
     "resolved": false
@@ -30059,7 +30059,7 @@
     "rain_mm": 41.12,
     "soil_moisture": 0.645,
     "raw_dynamic_score": 6.547,
-    "last_updated": "2026-07-02T13:53:14.296163Z",
+    "last_updated": "2026-07-02T16:59:35.885389Z",
     "last_tweeted_at": "2026-07-01T12:04:27.284790Z",
     "tweet_id": "2072291041177153933",
     "resolved": false
@@ -31192,7 +31192,7 @@
     "rain_mm": 62.38,
     "soil_moisture": 0.611,
     "raw_dynamic_score": 9.735,
-    "last_updated": "2026-07-02T11:38:37.280723Z",
+    "last_updated": "2026-07-02T16:59:35.885389Z",
     "last_tweeted_at": "2026-07-02T11:38:37.280723Z",
     "tweet_id": "2072646659029274860",
     "resolved": false
@@ -31222,7 +31222,7 @@
     "rain_mm": 49.88,
     "soil_moisture": 0.573,
     "raw_dynamic_score": 7.617,
-    "last_updated": "2026-07-02T13:53:14.296163Z",
+    "last_updated": "2026-07-02T16:59:35.885389Z",
     "last_tweeted_at": "2026-07-02T13:53:14.296163Z",
     "tweet_id": "2072680038261015038",
     "resolved": false
@@ -31240,6 +31240,21 @@
     "last_updated": "2026-07-02T13:53:14.296163Z",
     "last_tweeted_at": "2026-07-02T13:53:14.296163Z",
     "tweet_id": "2072680038261015038",
+    "resolved": false
+  },
+  "21.0263,83.8120": {
+    "country": "India",
+    "name": "Binika",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 21.02626,
+    "longitude": 83.81197,
+    "rain_mm": 51.75,
+    "soil_moisture": 0.651,
+    "raw_dynamic_score": 8.267,
+    "last_updated": "2026-07-02T16:59:35.885389Z",
+    "last_tweeted_at": "2026-07-02T16:59:35.885389Z",
+    "tweet_id": "2072726928780673140",
     "resolved": false
   }
 }
