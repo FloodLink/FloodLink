@@ -15093,5 +15093,14 @@
         "score": 0,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-07-03",
+        "status": "posted",
+        "tweet": "Global flood fatalities: 51,000 from extreme rainfall and flash floods 2020-2025 vs 34,000 in 2015-2019, with Asia accounting for 68% of the rise.",
+        "type": "statistical",
+        "category": "global flood fatalities and trends",
+        "tweet_id": "2073117992695558569"
     }
 ]
