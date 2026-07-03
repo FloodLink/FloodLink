@@ -11469,7 +11469,7 @@
     "rain_mm": 62.31,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 11.917,
-    "last_updated": "2026-07-03T02:18:54.405530Z",
+    "last_updated": "2026-07-03T06:34:09.386675Z",
     "last_tweeted_at": "2026-04-03T12:51:10.093637Z",
     "tweet_id": "2040050266511417719",
     "resolved": false
@@ -18894,7 +18894,7 @@
     "rain_mm": 55.0,
     "soil_moisture": 0.678,
     "raw_dynamic_score": 8.921,
-    "last_updated": "2026-06-19T03:43:33.733651Z",
+    "last_updated": "2026-07-03T06:34:09.386675Z",
     "last_tweeted_at": "2026-05-23T10:32:34.077288Z",
     "tweet_id": "2058134510856818978",
     "resolved": false
@@ -18909,7 +18909,7 @@
     "rain_mm": 55.0,
     "soil_moisture": 0.678,
     "raw_dynamic_score": 8.921,
-    "last_updated": "2026-06-04T14:50:42.910585Z",
+    "last_updated": "2026-07-03T06:34:09.386675Z",
     "last_tweeted_at": "2026-05-23T10:32:34.077288Z",
     "tweet_id": "2058134763416809715",
     "resolved": false
@@ -21234,7 +21234,7 @@
     "rain_mm": 43.56,
     "soil_moisture": 0.714,
     "raw_dynamic_score": 7.206,
-    "last_updated": "2026-06-11T12:48:01.022616Z",
+    "last_updated": "2026-07-03T06:34:09.386675Z",
     "last_tweeted_at": "2026-06-11T07:34:36.383057Z",
     "tweet_id": "2064974850020536365",
     "resolved": false
@@ -21564,7 +21564,7 @@
     "rain_mm": 63.44,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 12.132,
-    "last_updated": "2026-06-11T12:48:01.022616Z",
+    "last_updated": "2026-07-03T06:34:09.386675Z",
     "last_tweeted_at": "2026-06-11T07:34:36.383057Z",
     "tweet_id": "2064974850020536365",
     "resolved": false
@@ -22944,7 +22944,7 @@
     "rain_mm": 66.31,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 12.682,
-    "last_updated": "2026-06-11T12:48:01.022616Z",
+    "last_updated": "2026-07-03T06:34:09.386675Z",
     "last_tweeted_at": "2026-06-11T07:34:36.383057Z",
     "tweet_id": "2064974850020536365",
     "resolved": false
@@ -22959,7 +22959,7 @@
     "rain_mm": 66.31,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 12.682,
-    "last_updated": "2026-06-11T12:48:01.022616Z",
+    "last_updated": "2026-07-03T06:34:09.386675Z",
     "last_tweeted_at": "2026-06-11T07:34:36.383057Z",
     "tweet_id": "2064974850020536365",
     "resolved": false
@@ -30700,7 +30700,7 @@
     "rain_mm": 53.31,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 10.196,
-    "last_updated": "2026-07-02T22:12:17.882669Z",
+    "last_updated": "2026-07-03T06:34:09.386675Z",
     "last_tweeted_at": "2026-07-02T06:44:14.591944Z",
     "tweet_id": "2072572332892471471",
     "resolved": false
@@ -30835,7 +30835,7 @@
     "rain_mm": 48.56,
     "soil_moisture": 0.683,
     "raw_dynamic_score": 7.899,
-    "last_updated": "2026-07-03T02:18:54.405530Z",
+    "last_updated": "2026-07-03T06:34:09.386675Z",
     "last_tweeted_at": "2026-07-02T19:24:56.246258Z",
     "tweet_id": "2072763512242557329",
     "resolved": false
@@ -30850,7 +30850,7 @@
     "rain_mm": 52.19,
     "soil_moisture": 0.726,
     "raw_dynamic_score": 8.69,
-    "last_updated": "2026-07-02T22:12:17.882669Z",
+    "last_updated": "2026-07-03T06:34:09.386675Z",
     "last_tweeted_at": "2026-07-02T22:12:17.882669Z",
     "tweet_id": "2072805620323942798",
     "resolved": false
@@ -30880,9 +30880,28 @@
     "rain_mm": 75.06,
     "soil_moisture": 0.738,
     "raw_dynamic_score": 12.576,
-    "last_updated": "2026-07-03T02:18:54.405530Z",
+    "last_updated": "2026-07-03T06:34:09.386675Z",
     "last_tweeted_at": "2026-07-03T02:18:54.405530Z",
     "tweet_id": "2072867692714000797",
+    "resolved": false,
+    "pending_downgrade": true,
+    "pending_target_level": "Low",
+    "pending_set_at": "2026-07-03T06:34:09.386675Z",
+    "pending_is_region": true
+  },
+  "9.5372,-68.6302": {
+    "country": "Bolivarian Republic of Venezuela",
+    "name": "Las Vegas",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 9.53724,
+    "longitude": -68.63022,
+    "rain_mm": 55.75,
+    "soil_moisture": 0.712,
+    "raw_dynamic_score": 9.212,
+    "last_updated": "2026-07-03T06:34:09.386675Z",
+    "last_tweeted_at": "2026-07-03T06:34:09.386675Z",
+    "tweet_id": "2072931923156984219",
     "resolved": false
   }
 }
