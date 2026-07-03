@@ -26471,7 +26471,7 @@
     "rain_mm": 50.44,
     "soil_moisture": 0.494,
     "raw_dynamic_score": 7.34,
-    "last_updated": "2026-06-24T02:42:55.300718Z",
+    "last_updated": "2026-07-03T16:31:27.064511Z",
     "last_tweeted_at": "2026-06-21T11:50:09.711814Z",
     "tweet_id": "2068664550585516516",
     "resolved": false
@@ -29322,7 +29322,7 @@
     "rain_mm": 41.12,
     "soil_moisture": 0.645,
     "raw_dynamic_score": 6.547,
-    "last_updated": "2026-07-03T11:38:42.890274Z",
+    "last_updated": "2026-07-03T16:31:27.064511Z",
     "last_tweeted_at": "2026-07-01T12:04:27.284790Z",
     "tweet_id": "2072291041177153933",
     "resolved": false
@@ -29982,7 +29982,7 @@
     "rain_mm": 77.06,
     "soil_moisture": 0.737,
     "raw_dynamic_score": 12.907,
-    "last_updated": "2026-07-03T13:56:51.923602Z",
+    "last_updated": "2026-07-03T16:31:27.064511Z",
     "last_tweeted_at": "2026-07-02T02:43:17.929088Z",
     "tweet_id": "2072511701421859055",
     "resolved": false
@@ -30162,7 +30162,7 @@
     "rain_mm": 48.56,
     "soil_moisture": 0.683,
     "raw_dynamic_score": 7.899,
-    "last_updated": "2026-07-03T11:38:42.890274Z",
+    "last_updated": "2026-07-03T16:31:27.064511Z",
     "last_tweeted_at": "2026-07-02T19:24:56.246258Z",
     "tweet_id": "2072763512242557329",
     "resolved": false
@@ -30207,7 +30207,7 @@
     "rain_mm": 75.06,
     "soil_moisture": 0.738,
     "raw_dynamic_score": 12.576,
-    "last_updated": "2026-07-03T06:34:09.386675Z",
+    "last_updated": "2026-07-03T16:31:27.064511Z",
     "last_tweeted_at": "2026-07-03T02:18:54.405530Z",
     "tweet_id": "2072867692714000797",
     "resolved": false,
@@ -30241,7 +30241,7 @@
     "rain_mm": 70.06,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 13.399,
-    "last_updated": "2026-07-03T13:56:51.923602Z",
+    "last_updated": "2026-07-03T16:31:27.064511Z",
     "last_tweeted_at": "2026-07-03T11:38:42.890274Z",
     "tweet_id": "2073008564071735333",
     "resolved": false
@@ -30301,9 +30301,39 @@
     "rain_mm": 41.31,
     "soil_moisture": 0.659,
     "raw_dynamic_score": 6.629,
-    "last_updated": "2026-07-03T11:38:42.890274Z",
+    "last_updated": "2026-07-03T16:31:27.064511Z",
     "last_tweeted_at": "2026-07-03T11:38:42.890274Z",
     "tweet_id": "2073009069762203801",
+    "resolved": false
+  },
+  "10.9811,-4.9188": {
+    "country": "Burkina Faso",
+    "name": "Orodara",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 10.98115,
+    "longitude": -4.91885,
+    "rain_mm": 47.44,
+    "soil_moisture": 0.412,
+    "raw_dynamic_score": 6.552,
+    "last_updated": "2026-07-03T16:31:27.064511Z",
+    "last_tweeted_at": "2026-07-03T16:31:27.064511Z",
+    "tweet_id": "2073082233607585976",
+    "resolved": false
+  },
+  "22.0350,96.4568": {
+    "country": "Myanmar",
+    "name": "Pyin Oo Lwin",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 22.03501,
+    "longitude": 96.45683,
+    "rain_mm": 65.44,
+    "soil_moisture": 0.703,
+    "raw_dynamic_score": 10.762,
+    "last_updated": "2026-07-03T16:31:27.064511Z",
+    "last_tweeted_at": "2026-07-03T16:31:27.064511Z",
+    "tweet_id": "2073082486310240607",
     "resolved": false
   }
 }
