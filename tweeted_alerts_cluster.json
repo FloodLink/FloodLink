@@ -10558,7 +10558,7 @@
     "rain_mm": 51.0,
     "soil_moisture": 0.611,
     "raw_dynamic_score": 7.96,
-    "last_updated": "2026-06-18T12:28:22.071804Z",
+    "last_updated": "2026-07-05T19:13:08.157488Z",
     "last_tweeted_at": "2026-03-26T21:32:09.448031Z",
     "tweet_id": "2037282027645341972",
     "resolved": false
@@ -12814,7 +12814,7 @@
     "rain_mm": 58.5,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 11.188,
-    "last_updated": "2026-07-05T16:13:45.327679Z",
+    "last_updated": "2026-07-05T19:13:08.157488Z",
     "last_tweeted_at": "2026-07-05T16:13:45.327679Z",
     "tweet_id": "2073802557286236183",
     "resolved": false
@@ -17726,22 +17726,6 @@
     "last_tweeted_at": "2026-05-17T19:06:19.186157Z",
     "tweet_id": "2056090252113318184",
     "resolved": false
-  },
-  "10.1503,-73.9614": {
-    "country": "Colombia",
-    "name": "El Copey",
-    "risk_level": "Low",
-    "tweeted_level": "High",
-    "latitude": 10.15031,
-    "longitude": -73.9614,
-    "rain_mm": 1.75,
-    "soil_moisture": 0.256,
-    "raw_dynamic_score": 0.217,
-    "last_updated": "2026-07-04T19:09:44.348912Z",
-    "last_tweeted_at": "2026-07-04T19:09:44.348912Z",
-    "tweet_id": "2073484962557288746",
-    "resolved": true,
-    "resolved_at": "2026-07-04T19:09:44.348912Z"
   },
   "10.2500,-74.0000": {
     "country": "Colombia",
@@ -24618,22 +24602,6 @@
     "tweet_id": "2067671070727962627",
     "resolved": false
   },
-  "10.3338,-73.1805": {
-    "country": "Colombia",
-    "name": "San Diego",
-    "risk_level": "Low",
-    "tweeted_level": "High",
-    "latitude": 10.33384,
-    "longitude": -73.18048,
-    "rain_mm": 4.75,
-    "soil_moisture": 0.28,
-    "raw_dynamic_score": 0.6,
-    "last_updated": "2026-07-04T19:09:44.348912Z",
-    "last_tweeted_at": "2026-07-04T19:09:44.348912Z",
-    "tweet_id": "2073484962557288746",
-    "resolved": true,
-    "resolved_at": "2026-07-04T19:09:44.348912Z"
-  },
   "12.2800,-14.2222": {
     "country": "Guinea-Bissau",
     "name": "Gabú",
@@ -26085,7 +26053,7 @@
     "rain_mm": 53.19,
     "soil_moisture": 0.724,
     "raw_dynamic_score": 8.846,
-    "last_updated": "2026-07-04T16:07:19.937589Z",
+    "last_updated": "2026-07-05T19:13:08.157488Z",
     "last_tweeted_at": "2026-06-21T07:38:25.224791Z",
     "tweet_id": "2068600194459992502",
     "resolved": false
@@ -29696,38 +29664,6 @@
     "tweet_id": "2072646659029274860",
     "resolved": false
   },
-  "21.3153,83.0063": {
-    "country": "India",
-    "name": "Saraipali",
-    "risk_level": "Low",
-    "tweeted_level": "High",
-    "latitude": 21.3153,
-    "longitude": 83.00629,
-    "rain_mm": 14.0,
-    "soil_moisture": 0.661,
-    "raw_dynamic_score": 2.249,
-    "last_updated": "2026-07-05T16:13:45.327679Z",
-    "last_tweeted_at": "2026-07-04T19:09:44.348912Z",
-    "tweet_id": "2073485467773739341",
-    "resolved": true,
-    "resolved_at": "2026-07-04T19:09:44.348912Z"
-  },
-  "21.6568,82.1606": {
-    "country": "India",
-    "name": "Baloda Bāzār",
-    "risk_level": "Low",
-    "tweeted_level": "High",
-    "latitude": 21.65678,
-    "longitude": 82.16062,
-    "rain_mm": 9.31,
-    "soil_moisture": 0.523,
-    "raw_dynamic_score": 1.38,
-    "last_updated": "2026-07-04T22:02:36.553800Z",
-    "last_tweeted_at": "2026-07-04T19:09:44.348912Z",
-    "tweet_id": "2073485467773739341",
-    "resolved": true,
-    "resolved_at": "2026-07-04T19:09:44.348912Z"
-  },
   "16.7600,96.5250": {
     "country": "Myanmar",
     "name": "Thongwa",
@@ -31677,7 +31613,7 @@
     "rain_mm": 58.88,
     "soil_moisture": 0.577,
     "raw_dynamic_score": 9.009,
-    "last_updated": "2026-07-04T22:02:36.553800Z",
+    "last_updated": "2026-07-05T19:13:08.157488Z",
     "last_tweeted_at": "2026-07-04T19:09:44.348912Z",
     "tweet_id": "2073485467773739341",
     "resolved": false
@@ -32232,7 +32168,7 @@
     "rain_mm": 45.19,
     "soil_moisture": 0.706,
     "raw_dynamic_score": 7.443,
-    "last_updated": "2026-07-05T16:13:45.327679Z",
+    "last_updated": "2026-07-05T19:13:08.157488Z",
     "last_tweeted_at": "2026-07-04T22:02:36.553800Z",
     "tweet_id": "2073529222052938053",
     "resolved": false
@@ -32761,7 +32697,7 @@
     "rain_mm": 85.31,
     "soil_moisture": 0.691,
     "raw_dynamic_score": 13.938,
-    "last_updated": "2026-07-05T16:13:45.327679Z",
+    "last_updated": "2026-07-05T19:13:08.157488Z",
     "last_tweeted_at": "2026-07-05T11:10:57.569055Z",
     "tweet_id": "2073726344496562587",
     "resolved": false
@@ -32911,10 +32847,14 @@
     "rain_mm": 67.75,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 12.957,
-    "last_updated": "2026-07-05T16:13:45.327679Z",
+    "last_updated": "2026-07-05T19:13:08.157488Z",
     "last_tweeted_at": "2026-07-05T16:13:45.327679Z",
     "tweet_id": "2073802557286236183",
-    "resolved": false
+    "resolved": false,
+    "pending_downgrade": true,
+    "pending_target_level": "Medium",
+    "pending_set_at": "2026-07-05T19:13:08.157488Z",
+    "pending_is_region": true
   },
   "13.5178,144.8391": {
     "country": "Guam",
@@ -32926,7 +32866,7 @@
     "rain_mm": 67.75,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 12.957,
-    "last_updated": "2026-07-05T16:13:45.327679Z",
+    "last_updated": "2026-07-05T19:13:08.157488Z",
     "last_tweeted_at": "2026-07-05T16:13:45.327679Z",
     "tweet_id": "2073802557286236183",
     "resolved": false
@@ -32941,7 +32881,7 @@
     "rain_mm": 67.75,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 12.957,
-    "last_updated": "2026-07-05T16:13:45.327679Z",
+    "last_updated": "2026-07-05T19:13:08.157488Z",
     "last_tweeted_at": "2026-07-05T16:13:45.327679Z",
     "tweet_id": "2073802557286236183",
     "resolved": false
@@ -32956,7 +32896,7 @@
     "rain_mm": 67.75,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 12.957,
-    "last_updated": "2026-07-05T16:13:45.327679Z",
+    "last_updated": "2026-07-05T19:13:08.157488Z",
     "last_tweeted_at": "2026-07-05T16:13:45.327679Z",
     "tweet_id": "2073802557286236183",
     "resolved": false
@@ -32971,7 +32911,7 @@
     "rain_mm": 67.75,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 12.957,
-    "last_updated": "2026-07-05T16:13:45.327679Z",
+    "last_updated": "2026-07-05T19:13:08.157488Z",
     "last_tweeted_at": "2026-07-05T16:13:45.327679Z",
     "tweet_id": "2073802557286236183",
     "resolved": false
