@@ -15118,5 +15118,14 @@
         "score": 0,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-07-05",
+        "status": "posted",
+        "tweet": "By 2030, 560 million urban residents worldwide will face river flooding each year, up from 379 million in 2020 as cities expand into floodplains and extreme rainfall intensifies.",
+        "type": "statistical",
+        "category": "urban areas exposed to river flooding",
+        "tweet_id": "2073686696424624452"
     }
 ]
