@@ -16307,5 +16307,14 @@
         "score": 0,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-07-06",
+        "status": "posted",
+        "tweet": "1.81 billion people live in areas exposed to 1-in-100-year floods from rivers, storm surge, and extreme rainfall.",
+        "type": "statistical",
+        "category": "population living in floodplains",
+        "tweet_id": "2074090370489876601"
     }
 ]
