@@ -18205,5 +18205,14 @@
         "tweet": "\ud83c\uddf3\ud83c\uddf1 Netherlands maintains 3,700 km of primary dikes and barriers protecting 9 million residents in areas below sea level.",
         "type": "infrastructure",
         "tweet_id": "2074952859918217408"
+    },
+    {
+        "link": null,
+        "date": "2026-07-08",
+        "status": "posted",
+        "tweet": "Global flood EWS coverage (% at-risk pop., 2025 est.):\n1. Europe: 91%\n2. East Asia: 79%\n3. North America: 74%\n4. South Asia: 47%\n5. Sub-Saharan Africa: 24%",
+        "type": "statistical",
+        "category": "coverage of flood early warning systems worldwide",
+        "tweet_id": "2074994317345673405"
     }
 ]
