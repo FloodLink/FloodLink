@@ -1,990 +1,6 @@
 [
     {
         "link": null,
-        "date": "2026-06-09",
-        "status": "posted",
-        "tweet": "\ud83c\uddf3\ud83c\uddf1 Netherlands maintains 3,700 km of primary dikes and levees that protect land below sea level for 9 million residents as of 2026.",
-        "type": "infrastructure",
-        "tweet_id": "2064158613191508102"
-    },
-    {
-        "link": null,
-        "date": "2026-06-09",
-        "status": "posted",
-        "tweet": "By 2050, sea-level rise will expose 300 million people in coastal cities to annual flooding from storm surge and extreme rainfall.",
-        "type": "statistical",
-        "category": "coastal cities at risk from sea-level rise and storm surge",
-        "tweet_id": "2064283848901304822"
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOTWQ1eUlNajh5SDVpRmZrWmNmRGVfd2hoRms5aWdSMHZRU3B5T1Y2aERIS05rVVBZZEFYXzFwT1dGZGEtN2N0SFdFVDVkdmFwT0d5Zld1MG1ydE5CNmppaWlNTmxyc1lRUXRSc3dBVHpsQ0JWOFU5TzBlOFJOenhoR25Ma1hsSGd1TXo1b3IxM0N5S2xqblc5OWViZUNXSVZpeHpxU3o3WU5FY0p6WnNuSjdweExpdldYUVp2NlNvMVN2dmpiR1ZfdGRXdk1HZw?oc=5",
-        "date": "2026-06-09",
-        "title": "Flash flood warning issued for area that includes Topeka - The Topeka Capital-Journal",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxOTWQ1eUlNajh5SDVpRmZrWmNmRGVfd2hoRms5aWdSMHZRU3B5T1Y2aERIS05rVVBZZEFYXzFwT1dGZGEtN2N0SFdFVDVkdmFwT0d5Zld1MG1ydE5CNmppaWlNTmxyc1lRUXRSc3dBVHpsQ0JWOFU5TzBlOFJOenhoR25Ma1hsSGd1TXo1b3IxM0N5S2xqblc5OWViZUNXSVZpeHpxU3o3WU5FY0p6WnNuSjdweExpdldYUVp2NlNvMVN2dmpiR1ZfdGRXdk1HZw?oc=5\" target=\"_blank\">Flash flood warning issued for area that includes Topeka</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Topeka Capital-Journal</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNanJNNWRuY2JSX3FJVkJkdHg4bXpkWGh4MEF2M1o1dU1qaURuQzAtZ1QyQlhMalZKVHRkMUNFa2NONUQyeUhYYkhqajllSTRfOURXekpZUmdFMlQzakIwdHQ5aFNuS3I0OXE3UzRPTVl2OHJBLW9CVmFfX0NJVDdfVnc0NkxjU1c1RGU2dEdzT0RNM3BHSXBfeFBtdDRaVDZ6RWdxSll5NWZGWGIxXzNiWkpFbzVaaGNINENUelo3eXpINEtrUDlFdDVzT18?oc=5",
-        "date": "2026-06-09",
-        "title": "These Kentucky counties are under a Flash Flood Warning - WHAS11",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxNanJNNWRuY2JSX3FJVkJkdHg4bXpkWGh4MEF2M1o1dU1qaURuQzAtZ1QyQlhMalZKVHRkMUNFa2NONUQyeUhYYkhqajllSTRfOURXekpZUmdFMlQzakIwdHQ5aFNuS3I0OXE3UzRPTVl2OHJBLW9CVmFfX0NJVDdfVnc0NkxjU1c1RGU2dEdzT0RNM3BHSXBfeFBtdDRaVDZ6RWdxSll5NWZGWGIxXzNiWkpFbzVaaGNINENUelo3eXpINEtrUDlFdDVzT18?oc=5\" target=\"_blank\">These Kentucky counties are under a Flash Flood Warning</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WHAS11</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNRzIxb0R0aDV1Mm41cFdkMEpCMzljUm9hMjJ5OHlSUWVCSy1QaE1pdGlNSHpIdG16UkZRcWRpRG1WUndVNVlhWE1ESEx4OW1JLXZXSkFoVHlDWlB4NHhuZ2pnRjVZZUtiQ2hsbFVwc2lCSWJEcFJyWTNhRVJMc2s0NWtsc1duNThkNFpQTGkxQy1KUGZ5QVE?oc=5",
-        "date": "2026-06-09",
-        "title": "Impact weather: Flood watch through Tuesday evening - WLKY",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxNRzIxb0R0aDV1Mm41cFdkMEpCMzljUm9hMjJ5OHlSUWVCSy1QaE1pdGlNSHpIdG16UkZRcWRpRG1WUndVNVlhWE1ESEx4OW1JLXZXSkFoVHlDWlB4NHhuZ2pnRjVZZUtiQ2hsbFVwc2lCSWJEcFJyWTNhRVJMc2s0NWtsc1duNThkNFpQTGkxQy1KUGZ5QVE?oc=5\" target=\"_blank\">Impact weather: Flood watch through Tuesday evening</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WLKY</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNeEFvLVJyR3Nfb2k2a2x2NTBkOFlfbFFjNHAxMno5M3F5Y2VwWWhaYW5OUEl2LUxkT0pfOWlrVUlLOG9janBJeXhkMWc5a3dYVllRVUJYMmItc05tMEVfWjJ6djNfLS0yb1Z1QjAya2RiOWxBeWRKOGp3U1BmWmszX3dUc0x1cGZDN3RLSDdhZEtkVEJPN0M4M2ZLcHEyenlWYlJpNUo1VkhqUFRNb0lxaXBoWEFrZGp2TVVhN2pyRDBsZS1TeEd0ZGJ1WnR6QVFfd2hGeWNKRXZTa0t1?oc=5",
-        "date": "2026-06-09",
-        "title": "Parts of Kentucky under flash flood warning. Here's what to know - The Courier-Journal",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxNeEFvLVJyR3Nfb2k2a2x2NTBkOFlfbFFjNHAxMno5M3F5Y2VwWWhaYW5OUEl2LUxkT0pfOWlrVUlLOG9janBJeXhkMWc5a3dYVllRVUJYMmItc05tMEVfWjJ6djNfLS0yb1Z1QjAya2RiOWxBeWRKOGp3U1BmWmszX3dUc0x1cGZDN3RLSDdhZEtkVEJPN0M4M2ZLcHEyenlWYlJpNUo1VkhqUFRNb0lxaXBoWEFrZGp2TVVhN2pyRDBsZS1TeEd0ZGJ1WnR6QVFfd2hGeWNKRXZTa0t1?oc=5\" target=\"_blank\">Parts of Kentucky under flash flood warning. Here's what to know</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Courier-Journal</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZW9Ca2tzUGdELWJUMFFiSlVhSEZ4T3hqbkloTklFVmhiOWxtQ0dDTDh3X3Zmb3lrT2htd245Yk9hWVBZTmZGeFFUUXJ3X19hTU1RZWNPaXM0QWlmSGdJSmlKQ0Y0TExfeTFvTnZkRk1vWnl6TkphVFgweGJKYlNkY2ZiUHNaMVdSTkI2cV82U1FVUjJjS0ZfXzh2TThBX1dYc0gtd3NjaldHeWFaMjNnV1lCQjFtOWVyZGI3amdR?oc=5",
-        "date": "2026-06-09",
-        "title": "Heavy rain today, dangerous heat and severe storm threat builds midweek - ClickOnDetroit | WDIV Local 4",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxNZW9Ca2tzUGdELWJUMFFiSlVhSEZ4T3hqbkloTklFVmhiOWxtQ0dDTDh3X3Zmb3lrT2htd245Yk9hWVBZTmZGeFFUUXJ3X19hTU1RZWNPaXM0QWlmSGdJSmlKQ0Y0TExfeTFvTnZkRk1vWnl6TkphVFgweGJKYlNkY2ZiUHNaMVdSTkI2cV82U1FVUjJjS0ZfXzh2TThBX1dYc0gtd3NjaldHeWFaMjNnV1lCQjFtOWVyZGI3amdR?oc=5\" target=\"_blank\">Heavy rain today, dangerous heat and severe storm threat builds midweek</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ClickOnDetroit | WDIV Local 4</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBGMXZvaDBYYjB5Z1FlYk9iZkFrWXhQa3J2Yzh1SzA4NVR1S2ZzVHU4UW1manRvOFNFSy1IdnhIem8yeGxtZ0lYUXptUmFyaVpLLUtsTmJuenRiekRZaUV6Uk5YMA?oc=5",
-        "date": "2026-06-09",
-        "title": "Flash flood threat expands across Central, Southern U.S. as storms continue to threaten millions after days of downpours - FOX Weather",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFBGMXZvaDBYYjB5Z1FlYk9iZkFrWXhQa3J2Yzh1SzA4NVR1S2ZzVHU4UW1manRvOFNFSy1IdnhIem8yeGxtZ0lYUXptUmFyaVpLLUtsTmJuenRiekRZaUV6Uk5YMA?oc=5\" target=\"_blank\">Flash flood threat expands across Central, Southern U.S. as storms continue to threaten millions after days of downpours</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FOX Weather</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONk9nemNLNnh0b0g2aGdNUWNfbDh3dVp6anZUWTY3eF9sQi1MQlB3YUpfTllobHVhTGtNYjIwY1hCUUNVNGVsUDVreXJ4RkdpNlJ0cUxnaDdwWlRyckRDbWhlY0k5UjNaMERJcHEtOG1QeW5oYzBVYnlIZGNoVWU2TndhZ1dkNjlRM1lEQU93aXVodlp2RVdGRGl3bEpncS1NTWlaV01kUFo?oc=5",
-        "date": "2026-06-09",
-        "title": "Police rescue five stranded people from flood waters in southeast Topeka - WIBW",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxONk9nemNLNnh0b0g2aGdNUWNfbDh3dVp6anZUWTY3eF9sQi1MQlB3YUpfTllobHVhTGtNYjIwY1hCUUNVNGVsUDVreXJ4RkdpNlJ0cUxnaDdwWlRyckRDbWhlY0k5UjNaMERJcHEtOG1QeW5oYzBVYnlIZGNoVWU2TndhZ1dkNjlRM1lEQU93aXVodlp2RVdGRGl3bEpncS1NTWlaV01kUFo?oc=5\" target=\"_blank\">Police rescue five stranded people from flood waters in southeast Topeka</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WIBW</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOUW5waXU5U2VOZHhhN2x3cDRmYk90emFSTGdzc0hTVWZUdXktZ1RObG9zdERyNTRuUWFNMERhZks1R0c4Ui11V05Ld3pUT2piVlJVeTd2N3llZ05oOXdwRFo3Z1QzLWtyZFlCOGhXMDZEd0YzSE92cWtYcTBLWWhyaTVnSXhHdkhKSlR1dHVja1VQN19FT0ZwZHlGTXBNRjh6?oc=5",
-        "date": "2026-06-09",
-        "title": "Flood Risk Grows Across North Georgia as Heavy Rain Moves In - Cobb Courier",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOUW5waXU5U2VOZHhhN2x3cDRmYk90emFSTGdzc0hTVWZUdXktZ1RObG9zdERyNTRuUWFNMERhZks1R0c4Ui11V05Ld3pUT2piVlJVeTd2N3llZ05oOXdwRFo3Z1QzLWtyZFlCOGhXMDZEd0YzSE92cWtYcTBLWWhyaTVnSXhHdkhKSlR1dHVja1VQN19FT0ZwZHlGTXBNRjh6?oc=5\" target=\"_blank\">Flood Risk Grows Across North Georgia as Heavy Rain Moves In</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cobb Courier</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPX1l0cFphZW81ak5JdUtTOWtISkIzNFpDZWExaE1wbUJBb2VQRG5hbFFNa3lFUHJuQ0NXVlBXUzFrbjUwbGhRaTZBMktjNG13TXpVSlB4Y2JjUHF4UDBNQjFjN3BFOTEzMG1JY2s0b1l1ZXZHZnV6c1QyQXpZd3o4UGd1VUN6Z0V1ZmJjMmNfZWhBUWozN3BOY1ZfZmV5MTZLaUZuTG1TMzlrRDQxVnlQcWVR?oc=5",
-        "date": "2026-06-09",
-        "title": "Flash flooding creates dangerous road conditions as heavy rain eases drought - WBKO",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPX1l0cFphZW81ak5JdUtTOWtISkIzNFpDZWExaE1wbUJBb2VQRG5hbFFNa3lFUHJuQ0NXVlBXUzFrbjUwbGhRaTZBMktjNG13TXpVSlB4Y2JjUHF4UDBNQjFjN3BFOTEzMG1JY2s0b1l1ZXZHZnV6c1QyQXpZd3o4UGd1VUN6Z0V1ZmJjMmNfZWhBUWozN3BOY1ZfZmV5MTZLaUZuTG1TMzlrRDQxVnlQcWVR?oc=5\" target=\"_blank\">Flash flooding creates dangerous road conditions as heavy rain eases drought</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WBKO</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMTZMOE1haDVtNDFOU2tJRWRxVGZWODlfSlE0ZlFjWmhSZXMtbU9nbnpHSXB0VEp2VG1EbGNkaVF0M25YR3VDM0oyakozME0xM1ZNSlBCeUhpNl9LMjFyUU1pdk5uUmU2cWFRUGswWGNRTUd6RUtaeHJnbmxBQVFtTEp6SkZTa25JbUZPd2xOd3JUSnIy?oc=5",
-        "date": "2026-06-09",
-        "title": "City, county officials monitoring flood risks - Jefferson City News Tribune",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQMTZMOE1haDVtNDFOU2tJRWRxVGZWODlfSlE0ZlFjWmhSZXMtbU9nbnpHSXB0VEp2VG1EbGNkaVF0M25YR3VDM0oyakozME0xM1ZNSlBCeUhpNl9LMjFyUU1pdk5uUmU2cWFRUGswWGNRTUd6RUtaeHJnbmxBQVFtTEp6SkZTa25JbUZPd2xOd3JUSnIy?oc=5\" target=\"_blank\">City, county officials monitoring flood risks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Jefferson City News Tribune</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNbFdSMldwdHZQYkxyRjBfTmFmX0RtRm42amI4NEtEZjN2VWVWMU1vWXQ0OHdCRThha056MmFKNzBwOUIxZWRsakNpS0NtNVpROV9KUm9pRlFZaWU4STdkT2hRclVRYWRTVkhFR09KRVpENlYtWFFERlNFZGNDTG1ucWZCQnEyVXV5Zzg4MUtLaExabGRQeWtnQmhtTmE0bVJIXzVja0I4b2RyMi1XdEhRTW5iZGp3R1FQXzQyZjUxVEM1MlhSLW9Od2pCM0NWVmp3UTBrTFgtS1B2UQ?oc=5",
-        "date": "2026-06-09",
-        "title": "Tracking several rounds of showers and storms; flood risk continues - wevv.com",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxNbFdSMldwdHZQYkxyRjBfTmFmX0RtRm42amI4NEtEZjN2VWVWMU1vWXQ0OHdCRThha056MmFKNzBwOUIxZWRsakNpS0NtNVpROV9KUm9pRlFZaWU4STdkT2hRclVRYWRTVkhFR09KRVpENlYtWFFERlNFZGNDTG1ucWZCQnEyVXV5Zzg4MUtLaExabGRQeWtnQmhtTmE0bVJIXzVja0I4b2RyMi1XdEhRTW5iZGp3R1FQXzQyZjUxVEM1MlhSLW9Od2pCM0NWVmp3UTBrTFgtS1B2UQ?oc=5\" target=\"_blank\">Tracking several rounds of showers and storms; flood risk continues</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">wevv.com</font>",
-        "similarity_excluded": "No",
-        "score": 8,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxORmpzZFBKaGZZT2lsQ0RYN0RtY2RheVgzblRYRW80M05QZzgteDM3dU96WGphYTlmVU41R01MQTA2MzZSbDVnRFdsUk5kRmJIN25oZzNTYW1CRXVGbHJONFk3QzczVWNnVVpBRzB0RjVEalF6c2pITlBQYnllWVFvcEI5LXR2aE5MUjJxcHJ6UkttWGNWZ1hpUkJQYnRPZ0ppNG5sWGhhaW5VU2NTTHRWcg?oc=5",
-        "date": "2026-06-09",
-        "title": "Overnight storms bring scattered damage, power outages across parts of Kansas City area - KMBC",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxORmpzZFBKaGZZT2lsQ0RYN0RtY2RheVgzblRYRW80M05QZzgteDM3dU96WGphYTlmVU41R01MQTA2MzZSbDVnRFdsUk5kRmJIN25oZzNTYW1CRXVGbHJONFk3QzczVWNnVVpBRzB0RjVEalF6c2pITlBQYnllWVFvcEI5LXR2aE5MUjJxcHJ6UkttWGNWZ1hpUkJQYnRPZ0ppNG5sWGhhaW5VU2NTTHRWcg?oc=5\" target=\"_blank\">Overnight storms bring scattered damage, power outages across parts of Kansas City area</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KMBC</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNWW52WWNYZlpoT1pQejhmSXlFYWRxV3ROaDd5cFAzYzV6dWxzQ3FJU0JPbVEyR0hPV1JwVGJmZ0IwUUZNX0Q1c0lodzRkOTJubTcwRmRMQ2d5OTFDSkFXZlRxUG5RVFZHaTloMU0xdTJHU0tKMnlfZUxWVHVEVnBlYWtaQThSSXE0b0pXQkVPQ1lwRnhTeElhbkdUdDBoQUhURzg4WmVEeGd2WXpKbjBhdXJSWTFaUDZPWVNEa2xEOG1NaDdt?oc=5",
-        "date": "2026-06-09",
-        "title": "Flooding keeps L-62A closed north of Bayard after up to 5 inches of rain - News Channel Nebraska",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxNWW52WWNYZlpoT1pQejhmSXlFYWRxV3ROaDd5cFAzYzV6dWxzQ3FJU0JPbVEyR0hPV1JwVGJmZ0IwUUZNX0Q1c0lodzRkOTJubTcwRmRMQ2d5OTFDSkFXZlRxUG5RVFZHaTloMU0xdTJHU0tKMnlfZUxWVHVEVnBlYWtaQThSSXE0b0pXQkVPQ1lwRnhTeElhbkdUdDBoQUhURzg4WmVEeGd2WXpKbjBhdXJSWTFaUDZPWVNEa2xEOG1NaDdt?oc=5\" target=\"_blank\">Flooding keeps L-62A closed north of Bayard after up to 5 inches of rain</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">News Channel Nebraska</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZmdVT0hMOEpkU0xDRFUtYVU5TzFROG50cVFKVThlMnVHZm51UmlsYjE5UWl6Rmlpd0thZW5iT0gzeTFSZWRJb3M3a2IwaFRZR2N0eFVaN1hodmFidkViX0oxOGVTeF9OUllOV2tmNElOdzFxZEtYQk5COV96VjhRRm9PU1FrREJkNWE3andkN1lEZGp0bU12R3MwdUd5THdibnQteDV1cGVmTTNPbDBKWHJXdFQ0RnJYTmc?oc=5",
-        "date": "2026-06-09",
-        "title": "One killed in early morning Huntsville shooting - WAAY 31 News",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPZmdVT0hMOEpkU0xDRFUtYVU5TzFROG50cVFKVThlMnVHZm51UmlsYjE5UWl6Rmlpd0thZW5iT0gzeTFSZWRJb3M3a2IwaFRZR2N0eFVaN1hodmFidkViX0oxOGVTeF9OUllOV2tmNElOdzFxZEtYQk5COV96VjhRRm9PU1FrREJkNWE3andkN1lEZGp0bU12R3MwdUd5THdibnQteDV1cGVmTTNPbDBKWHJXdFQ0RnJYTmc?oc=5\" target=\"_blank\">One killed in early morning Huntsville shooting</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WAAY 31 News</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9mY0VwTE1GQzRJbnd4eFZFMjFRa2xIbTJlTzZyakVZQ2RSbk4tQU9YV3U3Y3E1al96RHA3cnpqTmcxR0l2alpMODdPY2dFdmduUklGNzc1bXM?oc=5",
-        "date": "2026-06-09",
-        "title": "Monsoon rains expose Mangaluru\u2019s flooding woes yet again - NEWSTRAIL",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE9mY0VwTE1GQzRJbnd4eFZFMjFRa2xIbTJlTzZyakVZQ2RSbk4tQU9YV3U3Y3E1al96RHA3cnpqTmcxR0l2alpMODdPY2dFdmduUklGNzc1bXM?oc=5\" target=\"_blank\">Monsoon rains expose Mangaluru\u2019s flooding woes yet again</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NEWSTRAIL</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5PTi11eTJMMHNxVmxhY3Z0WVRNYjFHamhkREdkWXpVVF9WZEVtY2RLZnRjVDhXVDlHVEstV0hRbUc1SEg2Xzlqd0h2VlhScm1xb3dKUTBzekdWR0J3RHNVQnl6RGJ1bjBrTm1ReXhubE9wMjI2dHU0ZjB3NVh4SVU?oc=5",
-        "date": "2026-06-09",
-        "title": "GHMC Must Act Before Hyderabad Monsoon Intensifies - Hyderabad Mail",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE5PTi11eTJMMHNxVmxhY3Z0WVRNYjFHamhkREdkWXpVVF9WZEVtY2RLZnRjVDhXVDlHVEstV0hRbUc1SEg2Xzlqd0h2VlhScm1xb3dKUTBzekdWR0J3RHNVQnl6RGJ1bjBrTm1ReXhubE9wMjI2dHU0ZjB3NVh4SVU?oc=5\" target=\"_blank\">GHMC Must Act Before Hyderabad Monsoon Intensifies</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Hyderabad Mail</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQM3FvVGlqXzRlZS1rZkpRSllWMFhXVHkyRzlGQU54UkFxOGNUTG9TQmZpTTlZd2p4RHBqU2lwX05hb2g0bktISm1GMW41SXNQZk0xeXRTaGY0YlI4R243TUtiOVV3Y1NjTDk4RFg2cXpPaEtiMkFReUhlY1QzZXdCUEJCOXYxYlhnbDJDRElNOFhFTTg2c1l5eXRRRFk?oc=5",
-        "date": "2026-06-09",
-        "title": "Heat, flood risks expected as PMD flags uneven monsoon pattern - The Nation (Pakistan )",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQM3FvVGlqXzRlZS1rZkpRSllWMFhXVHkyRzlGQU54UkFxOGNUTG9TQmZpTTlZd2p4RHBqU2lwX05hb2g0bktISm1GMW41SXNQZk0xeXRTaGY0YlI4R243TUtiOVV3Y1NjTDk4RFg2cXpPaEtiMkFReUhlY1QzZXdCUEJCOXYxYlhnbDJDRElNOFhFTTg2c1l5eXRRRFk?oc=5\" target=\"_blank\">Heat, flood risks expected as PMD flags uneven monsoon pattern</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Nation (Pakistan )</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOS3NNcVdFc2NJbFZKVkxkQ0t0YzBCM24tcnlGd1JtZHhNWGdZbkk0c1hvOExLaTRpTVNUemRTQ1lrSGJSNi0xLUtwOEpyVUU5OVFHSFhaYW9ZY0FwelF1MkJ1VllfalpjMDdjb2RYdXRkV3V2QW5RWDN6bUVmRHlEeEQ1dVVqQl9jVmVLV0ZaSHJVeVpvbGZXbFNkMkV1WUdzQVRldUJWWGRpX044WjZDZ1JJdzVoU2IyZm5Uek9iaWltT1gtUlYyLV8tY0VJcWhzUWE0TDRRX2JOVThlR3BZYUI4eWZqUnVpVXRGV1dDWnNhZUYxNmthRmMtR1ZTQQ?oc=5",
-        "date": "2026-06-09",
-        "title": "Chandigarh MC gears up for monsoon season: 18 flood control teams formed, 7 control rooms established - The Tribune",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_gFBVV95cUxOS3NNcVdFc2NJbFZKVkxkQ0t0YzBCM24tcnlGd1JtZHhNWGdZbkk0c1hvOExLaTRpTVNUemRTQ1lrSGJSNi0xLUtwOEpyVUU5OVFHSFhaYW9ZY0FwelF1MkJ1VllfalpjMDdjb2RYdXRkV3V2QW5RWDN6bUVmRHlEeEQ1dVVqQl9jVmVLV0ZaSHJVeVpvbGZXbFNkMkV1WUdzQVRldUJWWGRpX044WjZDZ1JJdzVoU2IyZm5Uek9iaWltT1gtUlYyLV8tY0VJcWhzUWE0TDRRX2JOVThlR3BZYUI4eWZqUnVpVXRGV1dDWnNhZUYxNmthRmMtR1ZTQQ?oc=5\" target=\"_blank\">Chandigarh MC gears up for monsoon season: 18 flood control teams formed, 7 control rooms established</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Tribune</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQa1JLZllPRzlsT2RuZVRITWhvNlZvMnNNMlV1VTQ0YVExSnRuNk5IOEtvUm5jT0lGcXlvbU9WdVhLcHV3NlhqOVAtZzA0TnpINE5oVWdnaERVbHZpSUVqYTJOOXZOcUFTUjVuM2dDNXhoNnFwOGN2NlAxbjVDa3ZORWkyWDE0ZDV3OERUc0dDa2Y?oc=5",
-        "date": "2026-06-09",
-        "title": "PDMA orders full monsoon preparedness across Punjab - Minute Mirror",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxQa1JLZllPRzlsT2RuZVRITWhvNlZvMnNNMlV1VTQ0YVExSnRuNk5IOEtvUm5jT0lGcXlvbU9WdVhLcHV3NlhqOVAtZzA0TnpINE5oVWdnaERVbHZpSUVqYTJOOXZOcUFTUjVuM2dDNXhoNnFwOGN2NlAxbjVDa3ZORWkyWDE0ZDV3OERUc0dDa2Y?oc=5\" target=\"_blank\">PDMA orders full monsoon preparedness across Punjab</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Minute Mirror</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZFFNeVhPTEMtcFJhbVdESnFNZG9lNjhKRi1YcmZEWXlwbzVrejA1M19Cdkdrc2NqTTJsZUFXUTRiTEtWRjRvTUphRHlnR3lBR0t1NG1nR2w5OEM5Nm0zTmVvMFh5R1N3TTcxZ0V3cHJib3N4ZUl6a21wNHlNblhTVXJ1c1BVSWdORHQ3MGpzWlhRZ2t3NU05emFYbUwzUdIBowFBVV95cUxPMjhxLWV6U1dWbllyM1VpNkllVi1hZFFTdHJzT09OWnpsUjlnUWU4UW95azlONzBQVkZxdU15OXVmakpxd3F2MWJBalc3VU9lR1dRU0VKcHYxYUQ0TGdCeVVTTFR2d1o3QUR2Y3ZfX1B2V3M3cWdyZWJPdl9tTlB4ellLVFhnaDg3NEkzekhoTXlQS1k4VkY0M1JZdEhScV9xRGZZ?oc=5",
-        "date": "2026-06-09",
-        "title": "14 saved from flooded Alabama caves during Flash Flood Emergency - FOX Weather",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQZFFNeVhPTEMtcFJhbVdESnFNZG9lNjhKRi1YcmZEWXlwbzVrejA1M19Cdkdrc2NqTTJsZUFXUTRiTEtWRjRvTUphRHlnR3lBR0t1NG1nR2w5OEM5Nm0zTmVvMFh5R1N3TTcxZ0V3cHJib3N4ZUl6a21wNHlNblhTVXJ1c1BVSWdORHQ3MGpzWlhRZ2t3NU05emFYbUwzUdIBowFBVV95cUxPMjhxLWV6U1dWbllyM1VpNkllVi1hZFFTdHJzT09OWnpsUjlnUWU4UW95azlONzBQVkZxdU15OXVmakpxd3F2MWJBalc3VU9lR1dRU0VKcHYxYUQ0TGdCeVVTTFR2d1o3QUR2Y3ZfX1B2V3M3cWdyZWJPdl9tTlB4ellLVFhnaDg3NEkzekhoTXlQS1k4VkY0M1JZdEhScV9xRGZZ?oc=5\" target=\"_blank\">14 saved from flooded Alabama caves during Flash Flood Emergency</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FOX Weather</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPY0g4NnhDbWFvWGtCazlsYV8yZ0RSejZMZjAyS3lyNzBNU2w5MlRuVEM4dG9wb25iWmluZkdkTzNEZTA1MWUzLTNLTzRWM1lrT0R6cTh5Z2d0alptVnNiM0hGNEhMMHBRUVJxODRsaWdNcGNTbG0wbEkzelNRR2tmNw?oc=5",
-        "date": "2026-06-09",
-        "title": "Flash flood warning issued for area that includes Topeka - AOL.com",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPY0g4NnhDbWFvWGtCazlsYV8yZ0RSejZMZjAyS3lyNzBNU2w5MlRuVEM4dG9wb25iWmluZkdkTzNEZTA1MWUzLTNLTzRWM1lrT0R6cTh5Z2d0alptVnNiM0hGNEhMMHBRUVJxODRsaWdNcGNTbG0wbEkzelNRR2tmNw?oc=5\" target=\"_blank\">Flash flood warning issued for area that includes Topeka</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AOL.com</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE93UnhVNFZoa3NDaXpiQzc0cmJpTTR2RlVxQmYtWjQtbUNxaklIUFNXaTViS0xXdl9JMm1NU0Q2RVFRZmQ0SEpqWnh4MG45OHJPSFd2SWNaQmw1WldRLUFiNWs4VWF0REhsUGRPT1NCRUlJOElUVFVnR2IwUQ?oc=5",
-        "date": "2026-06-09",
-        "title": "Kansas storms bring flooding, power outages, 113-mph wind - AOL.com",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE93UnhVNFZoa3NDaXpiQzc0cmJpTTR2RlVxQmYtWjQtbUNxaklIUFNXaTViS0xXdl9JMm1NU0Q2RVFRZmQ0SEpqWnh4MG45OHJPSFd2SWNaQmw1WldRLUFiNWs4VWF0REhsUGRPT1NCRUlJOElUVFVnR2IwUQ?oc=5\" target=\"_blank\">Kansas storms bring flooding, power outages, 113-mph wind</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AOL.com</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBxa296Q1VVYVE4RVpoQ0kwaVRwclp2cEJNYWRJeVhidktKTjFzbjRPUHUwaE9DSFJ2c3NiNXEwMGpseHNmb2g1WndnQnpLZjJtYlNoR3B4T3JQenhRZWo1MjJNTQ?oc=5",
-        "date": "2026-06-09",
-        "title": "Watch: Drone video shows parts of Jackson County, Alabama, inundated during Flash Flood Emergency - FOX Weather",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFBxa296Q1VVYVE4RVpoQ0kwaVRwclp2cEJNYWRJeVhidktKTjFzbjRPUHUwaE9DSFJ2c3NiNXEwMGpseHNmb2g1WndnQnpLZjJtYlNoR3B4T3JQenhRZWo1MjJNTQ?oc=5\" target=\"_blank\">Watch: Drone video shows parts of Jackson County, Alabama, inundated during Flash Flood Emergency</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FOX Weather</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1pRWFhY3RsYnh1aDRfWDNjQ2NWYU5yWEdwaXJScE15TFdnYkQ3dm1ta2pBNjE4VVNRZGRMWm5heHpudk80aXdvQnEtRWxKM1RvX0tWdFdZeUZFOFhHR1dubjY3WUV4aUxycGNoWkVGME9NUdIBckFVX3lxTE9YQjBONDB6b1JaZHNPWjZWSDRZd29kWlczZTBqWXFhSS1fWk9Ed09GWGtKc2xpSnJQM0d3MzNINjRGa3JjN1BHUUZWanVURERkN0FmREFSd1RtUXU2QXNpWTI5TkN3VDctQk5tU01ZaW11Zw?oc=5",
-        "date": "2026-06-09",
-        "title": "Much of Kentucky is drenched in rain this week. How much will fall? - Lexington Herald Leader",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE1pRWFhY3RsYnh1aDRfWDNjQ2NWYU5yWEdwaXJScE15TFdnYkQ3dm1ta2pBNjE4VVNRZGRMWm5heHpudk80aXdvQnEtRWxKM1RvX0tWdFdZeUZFOFhHR1dubjY3WUV4aUxycGNoWkVGME9NUdIBckFVX3lxTE9YQjBONDB6b1JaZHNPWjZWSDRZd29kWlczZTBqWXFhSS1fWk9Ed09GWGtKc2xpSnJQM0d3MzNINjRGa3JjN1BHUUZWanVURERkN0FmREFSd1RtUXU2QXNpWTI5TkN3VDctQk5tU01ZaW11Zw?oc=5\" target=\"_blank\">Much of Kentucky is drenched in rain this week. How much will fall?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Lexington Herald Leader</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQVUlSeTZjZm9YNWNjMHNiWVpPVzgwc1RfeV94cnFwa3NPVDhERlNJTGVmZGRNVW5NamJXcnVUTGYzcnAwcWFEQ1FkXzFkUV8wMGFuWXFyQXpIeF9XUUVoc3ZROURua044RjBLY0wzT1VsenpqSTNQV1piVWNqNWw2MGEtM2pyc1lsRW1OMGRyNnhUUdIBlwFBVV95cUxPMzJHZlh3aF9RUnVvSlU2R0NmT09OY1BtZFhqMFJ6RTkwM0lsMXJsaV9DOTgyci1oRi13eXNpbXhmUU1RcE03TTNkTHpZc21XSktEV183SWk4aGllQm5HTlRIREpsQ0lmcER6WmJ5QjY1MjlQQ0ZIdzlaMDlCQ2MxSXNkRXE2MlowZ2ZIeWplbmxNRlp4WjEw?oc=5",
-        "date": "2026-06-09",
-        "title": "Tropical Depression Boris and Tropical Storm Cristina soak Mexico, Central America with heavy rain - FOX Weather",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQVUlSeTZjZm9YNWNjMHNiWVpPVzgwc1RfeV94cnFwa3NPVDhERlNJTGVmZGRNVW5NamJXcnVUTGYzcnAwcWFEQ1FkXzFkUV8wMGFuWXFyQXpIeF9XUUVoc3ZROURua044RjBLY0wzT1VsenpqSTNQV1piVWNqNWw2MGEtM2pyc1lsRW1OMGRyNnhUUdIBlwFBVV95cUxPMzJHZlh3aF9RUnVvSlU2R0NmT09OY1BtZFhqMFJ6RTkwM0lsMXJsaV9DOTgyci1oRi13eXNpbXhmUU1RcE03TTNkTHpZc21XSktEV183SWk4aGllQm5HTlRIREpsQ0lmcER6WmJ5QjY1MjlQQ0ZIdzlaMDlCQ2MxSXNkRXE2MlowZ2ZIeWplbmxNRlp4WjEw?oc=5\" target=\"_blank\">Tropical Depression Boris and Tropical Storm Cristina soak Mexico, Central America with heavy rain</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FOX Weather</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5OZkpFeHF6aU4tMExwY1R3V1pBU0pSZDB6SXRpdFNGTTVYNExMM2k5RkpCc18xM1VWT2tMVUhiS01XVU0wX2V6dEdudEY?oc=5",
-        "date": "2026-06-09",
-        "title": "Video Flash flood threat as dangerous weather on the move - ABC News - Breaking News, Latest News and Videos",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTEFVX3lxTE5OZkpFeHF6aU4tMExwY1R3V1pBU0pSZDB6SXRpdFNGTTVYNExMM2k5RkpCc18xM1VWT2tMVUhiS01XVU0wX2V6dEdudEY?oc=5\" target=\"_blank\">Video Flash flood threat as dangerous weather on the move</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ABC News - Breaking News, Latest News and Videos</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPMndDSmFBeHVPUWRZd0YzQW1LdVFwTW1tSkNIYnNvYnluU3B3bnQwMGxsY1VjQjBzdVpTbEtzcGdERm1HWWlydUIyQ2xkcEJCeFB6ZVc0OE9UUlBSRmRJUDRQcHlIdmR4XzdZNXhsbEhYSl9pX3BPYTJGUndIQUlMa2JRanQ5ZmdFMC1pS1BhVWZaWWZuX3JJaA?oc=5",
-        "date": "2026-06-09",
-        "title": "Flash Flooding Causes Highway Closures in Morrill County - Rural Radio Network",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPMndDSmFBeHVPUWRZd0YzQW1LdVFwTW1tSkNIYnNvYnluU3B3bnQwMGxsY1VjQjBzdVpTbEtzcGdERm1HWWlydUIyQ2xkcEJCeFB6ZVc0OE9UUlBSRmRJUDRQcHlIdmR4XzdZNXhsbEhYSl9pX3BPYTJGUndIQUlMa2JRanQ5ZmdFMC1pS1BhVWZaWWZuX3JJaA?oc=5\" target=\"_blank\">Flash Flooding Causes Highway Closures in Morrill County</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Rural Radio Network</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOYURna2ZlaXl3SlFTVk1zTENOREdTZUJONDBFYzl0aHZUWWozUEFDZ3JQazdmSWdBYnNsNUdDQWdXTlJWU19YOXczNnhGSEFJYVZrbFpzcS1XVjhiTG0wV2JJZUxFZnZISExPcnlrdnBtbFpaRHhNQ1hXQ2c1dzdVaTZHMzJYVG5zR2lpY3MtMF9YcUNsTTBrbGc2RkJZenhZb1RNRGtzM2NvS1lfSUlrOEdVc0ctOE5VeE94c1U5c1FESlBNdE9QVWFXaTdlZTNCYzBxQXJ2ZVZuVkFyNjJTNGx3NA?oc=5",
-        "date": "2026-06-09",
-        "title": "Arkansas Meteorologist Tracks Tornado Warning During Johnson Studio Fire - WAAY 31 News",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxOYURna2ZlaXl3SlFTVk1zTENOREdTZUJONDBFYzl0aHZUWWozUEFDZ3JQazdmSWdBYnNsNUdDQWdXTlJWU19YOXczNnhGSEFJYVZrbFpzcS1XVjhiTG0wV2JJZUxFZnZISExPcnlrdnBtbFpaRHhNQ1hXQ2c1dzdVaTZHMzJYVG5zR2lpY3MtMF9YcUNsTTBrbGc2RkJZenhZb1RNRGtzM2NvS1lfSUlrOEdVc0ctOE5VeE94c1U5c1FESlBNdE9QVWFXaTdlZTNCYzBxQXJ2ZVZuVkFyNjJTNGx3NA?oc=5\" target=\"_blank\">Arkansas Meteorologist Tracks Tornado Warning During Johnson Studio Fire</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WAAY 31 News</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPeUlEMENLVFNGUDNPTXVIY25Pa2NoMFFYSXBmNVEtWVFKYWVjNGNDbVFyRHRDS1I2bzFhQ2w0MFhLaHhSOHdudWgxaHMtZElkQmY4RHdhOF9tUDdURkRrZl80RWxzY0VvZTdLdUdyVHJxLXNqaVdlTHVEUG1fSHR3Z0lFUFE5dkt6ZUE?oc=5",
-        "date": "2026-06-09",
-        "title": "Flash flood threat expands across Central, Southern U.S. as storms continue to threaten millions after days of downpours - Yahoo",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxPeUlEMENLVFNGUDNPTXVIY25Pa2NoMFFYSXBmNVEtWVFKYWVjNGNDbVFyRHRDS1I2bzFhQ2w0MFhLaHhSOHdudWgxaHMtZElkQmY4RHdhOF9tUDdURkRrZl80RWxzY0VvZTdLdUdyVHJxLXNqaVdlTHVEUG1fSHR3Z0lFUFE5dkt6ZUE?oc=5\" target=\"_blank\">Flash flood threat expands across Central, Southern U.S. as storms continue to threaten millions after days of downpours</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZDYxSVlnNVdwV0otZllraDBPZlY3Y3Z2ZklnY2VrWTR2aFRtMDduRjM1ckx4b1FFVnphd3UtNXl3dktaNW9ES2s5ckViVGk2bDR2cjhQN0p2TkdqWXBpVU9tZ2ZfZDR3X1NuVTBOeTEycnNlV1JHNkk1NHItZDZMMEZKNUVZcHlaekN3NGE2ZFI1bWRjaF9MTFRoYnpkaW42SHFQVg?oc=5",
-        "date": "2026-06-09",
-        "title": "Some Mid-Missouri roads reopen as flooding subsides - ABC17NEWS",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNZDYxSVlnNVdwV0otZllraDBPZlY3Y3Z2ZklnY2VrWTR2aFRtMDduRjM1ckx4b1FFVnphd3UtNXl3dktaNW9ES2s5ckViVGk2bDR2cjhQN0p2TkdqWXBpVU9tZ2ZfZDR3X1NuVTBOeTEycnNlV1JHNkk1NHItZDZMMEZKNUVZcHlaekN3NGE2ZFI1bWRjaF9MTFRoYnpkaW42SHFQVg?oc=5\" target=\"_blank\">Some Mid-Missouri roads reopen as flooding subsides</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ABC17NEWS</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOaUpwY2hLOG8xM0gzbElRbWNzWjNLUjVHTVVxei1UeG9JODMyM19HbnJwT2U3bElLUlRydVVtZ2xkXzdUcGw2OWR5YkFVbEJzSFp2YmxDd2VvSjVzYzNZaUM0NjZGN1ZuZWVHbU0yUDc5cXNnVUxvQTdrTjJGVXVPcmVScjNLeEUtWjNoc2w3S2otUQ?oc=5",
-        "date": "2026-06-09",
-        "title": "DMVs to close statewide in observance of Juneteenth - KQ2",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxOaUpwY2hLOG8xM0gzbElRbWNzWjNLUjVHTVVxei1UeG9JODMyM19HbnJwT2U3bElLUlRydVVtZ2xkXzdUcGw2OWR5YkFVbEJzSFp2YmxDd2VvSjVzYzNZaUM0NjZGN1ZuZWVHbU0yUDc5cXNnVUxvQTdrTjJGVXVPcmVScjNLeEUtWjNoc2w3S2otUQ?oc=5\" target=\"_blank\">DMVs to close statewide in observance of Juneteenth</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KQ2</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPbE1DYTJRNGlrQWhVN2NoLUprcmU0MVI1dVEwY2lhMHM0QTNuc0dUQWlRWUFKR0FXRmpGRG9ybTVTaE8xV1dhV1pEdnlPM3ZuUVM4bnEyQ1BYRmFmQWRaM0UxM280bmtBNUFhdFdJamFiOVktWFhIcWtfWjM5NzlZeFRSNzBya3V1ZHR0WkxVTEQ1RWEz?oc=5",
-        "date": "2026-06-09",
-        "title": "St. Joseph cooling centers open amid summer conditions - KQ2",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxPbE1DYTJRNGlrQWhVN2NoLUprcmU0MVI1dVEwY2lhMHM0QTNuc0dUQWlRWUFKR0FXRmpGRG9ybTVTaE8xV1dhV1pEdnlPM3ZuUVM4bnEyQ1BYRmFmQWRaM0UxM280bmtBNUFhdFdJamFiOVktWFhIcWtfWjM5NzlZeFRSNzBya3V1ZHR0WkxVTEQ1RWEz?oc=5\" target=\"_blank\">St. Joseph cooling centers open amid summer conditions</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KQ2</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOQmR2bUhVSW9naUpwQmc4OGFWYWt4ZVRZcWxFbTlsSW1xeWtNaGY5aVR0TS1MVWQyQTVJYl9fQnZOYnhnLVJhYm9uWU4xYUlQc1FPTVpxYXZzU3MzdDJIczVid1Y4X2w5bnlRNzJydmlXRDlKRGNyRlVIb0pna2FHZ2llc2Q1bFJpdTJEQzZWWQ?oc=5",
-        "date": "2026-06-09",
-        "title": "Sandbagging underway in flood-ravaged Manitoba town - CTV News",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxOQmR2bUhVSW9naUpwQmc4OGFWYWt4ZVRZcWxFbTlsSW1xeWtNaGY5aVR0TS1MVWQyQTVJYl9fQnZOYnhnLVJhYm9uWU4xYUlQc1FPTVpxYXZzU3MzdDJIczVid1Y4X2w5bnlRNzJydmlXRDlKRGNyRlVIb0pna2FHZ2llc2Q1bFJpdTJEQzZWWQ?oc=5\" target=\"_blank\">Sandbagging underway in flood-ravaged Manitoba town</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CTV News</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNcEpjNENacUlMZzVreG9TSVJYRnhxS25JdDg1ZWNEUUxvMUhlMHppS3NNdmo3SVRUN0pRSXdVNVd2cm1TbmpnUW0zMjEtemtPSGEzUGk0XzBlQnNTNVhlQmpkc1JzdDBNWnI2WkxBU1ZEcEhTLXZjU2kwNG1PZmpsRjlhR19hbzUtTXpJOUVxVUF5TzFaaWQ5Q0hzX09HS29WR0RZ?oc=5",
-        "date": "2026-06-09",
-        "title": "South China Sea monsoon signals flood season - news.cgtn.com",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNcEpjNENacUlMZzVreG9TSVJYRnhxS25JdDg1ZWNEUUxvMUhlMHppS3NNdmo3SVRUN0pRSXdVNVd2cm1TbmpnUW0zMjEtemtPSGEzUGk0XzBlQnNTNVhlQmpkc1JzdDBNWnI2WkxBU1ZEcEhTLXZjU2kwNG1PZmpsRjlhR19hbzUtTXpJOUVxVUF5TzFaaWQ5Q0hzX09HS29WR0RZ?oc=5\" target=\"_blank\">South China Sea monsoon signals flood season</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">news.cgtn.com</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5Ba2t6cXRuZUtDR2dGOU1vVFM2XzhYME9va3ZNYXl4cm4yYmZFYzZTckNiVFJ0Uk1QMjEzcjBhYkxpN0l4NWgxVUFEN29LMEZnTU1WdG5iQlFUMWtSb2t4VmFmVVZ4UEhJNEFHdnd3?oc=5",
-        "date": "2026-06-09",
-        "title": "Thailand Issues Heavy Rain Warning for Bangkok, Phuket and Coastal Tourist Regions as Strong Southwest Monsoon Brings Flood Risks, Travel Disruptions and Dangerous Sea Conditions - Travel And Tour World",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE5Ba2t6cXRuZUtDR2dGOU1vVFM2XzhYME9va3ZNYXl4cm4yYmZFYzZTckNiVFJ0Uk1QMjEzcjBhYkxpN0l4NWgxVUFEN29LMEZnTU1WdG5iQlFUMWtSb2t4VmFmVVZ4UEhJNEFHdnd3?oc=5\" target=\"_blank\">Thailand Issues Heavy Rain Warning for Bangkok, Phuket and Coastal Tourist Regions as Strong Southwest Monsoon Brings Flood Risks, Travel Disruptions and Dangerous Sea Conditions</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Travel And Tour World</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE41bDJqa0NvQjlUd0FpcUd1ZHd1a3VPYXBJSm82dm5XUnpueE5UdWgxT0xoWDJhRElBdXp0emlJXzVJekVTRkRhTWVFY1ZBT214dHZhVWRhQzdlbTZ5WVY5R0plV1d3VTJaa0tSZVl1ZVhlZ9IBckFVX3lxTE5zcWlNS1QydjlRUHNCVDJ3dndMRVAzZm5IV0RtRXBsMkdMMk9XLWY5aGlSallCOGkwZjRWUkNOM0ZBMEFEN1Jsc1QwelpQTURJVjZWNUZVbmdReUpSY3NVMW9LRmgtWFJrcnRYZ0FXc0dfQQ?oc=5",
-        "date": "2026-06-09",
-        "title": "Lexington under flash flooding warning after continued rain downpour - Lexington Herald Leader",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE41bDJqa0NvQjlUd0FpcUd1ZHd1a3VPYXBJSm82dm5XUnpueE5UdWgxT0xoWDJhRElBdXp0emlJXzVJekVTRkRhTWVFY1ZBT214dHZhVWRhQzdlbTZ5WVY5R0plV1d3VTJaa0tSZVl1ZVhlZ9IBckFVX3lxTE5zcWlNS1QydjlRUHNCVDJ3dndMRVAzZm5IV0RtRXBsMkdMMk9XLWY5aGlSallCOGkwZjRWUkNOM0ZBMEFEN1Jsc1QwelpQTURJVjZWNUZVbmdReUpSY3NVMW9LRmgtWFJrcnRYZ0FXc0dfQQ?oc=5\" target=\"_blank\">Lexington under flash flooding warning after continued rain downpour</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Lexington Herald Leader</font>",
-        "similarity_excluded": "No",
-        "score": 8,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOdVZzZF9NMXNSS3JVWGczT012MFl0Nl9ERnZMVjMxYWEteFo1azZ6ektFRXV0d2JJdGhNbVdmR1g0NDFLbVZGa3U2Sjk2WFQ1RU5tV3lZX202ejRxVVNjTTBMWEpvVGlqN3ozdENsWmRKVVpIZk9vVTdnUmZiSXV4OE4xSEdTVFhwbjNlaUxrUDc3UzRT?oc=5",
-        "date": "2026-06-09",
-        "title": "Extreme flooding forces evacuations onto rooftops in Lanesville, Indiana - WLKY",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxOdVZzZF9NMXNSS3JVWGczT012MFl0Nl9ERnZMVjMxYWEteFo1azZ6ektFRXV0d2JJdGhNbVdmR1g0NDFLbVZGa3U2Sjk2WFQ1RU5tV3lZX202ejRxVVNjTTBMWEpvVGlqN3ozdENsWmRKVVpIZk9vVTdnUmZiSXV4OE4xSEdTVFhwbjNlaUxrUDc3UzRT?oc=5\" target=\"_blank\">Extreme flooding forces evacuations onto rooftops in Lanesville, Indiana</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WLKY</font>",
-        "similarity_excluded": "No",
-        "score": 9,
-        "status": "processed",
-        "tweet": null,
-        "tweet_id": "2064404252395458826",
-        "geo": {
-            "country": "United States",
-            "name": "Lanesville, Indiana",
-            "latitude": 38.237,
-            "longitude": -85.9855,
-            "confidence": 0.95
-        }
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOaDdBY2prSEhOcW1GSnB3TTRxejk1eGhRTmt5elNmTnl5dXg3a09TT2UwMU91eUJPdWZaVnJTVkU4V2Q2NU5CVEh4VzZxTWY5X0FReDJPOWhLaWQyX2EtY3FYYWZycm9OSEZBT2ZMOVZsSmZQMHo4Zjc5YmZBOG9TckRMNXg1QUYxMkxEOU1oZzRJS1lBOG5rVnZzeFNDY013N2NMemg1aGdLWFY0ZzdoN0VkQ1lkLUYtM2F4bGVraGdLbHloOGVYT2VhMy1jNTFWeUVSNUNIOFM2QjdMcGpR?oc=5",
-        "date": "2026-06-09",
-        "title": "Water rescues reported in Lanesville, IN, after heavy rainfall, NWS says - The Courier-Journal",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxOaDdBY2prSEhOcW1GSnB3TTRxejk1eGhRTmt5elNmTnl5dXg3a09TT2UwMU91eUJPdWZaVnJTVkU4V2Q2NU5CVEh4VzZxTWY5X0FReDJPOWhLaWQyX2EtY3FYYWZycm9OSEZBT2ZMOVZsSmZQMHo4Zjc5YmZBOG9TckRMNXg1QUYxMkxEOU1oZzRJS1lBOG5rVnZzeFNDY013N2NMemg1aGdLWFY0ZzdoN0VkQ1lkLUYtM2F4bGVraGdLbHloOGVYT2VhMy1jNTFWeUVSNUNIOFM2QjdMcGpR?oc=5\" target=\"_blank\">Water rescues reported in Lanesville, IN, after heavy rainfall, NWS says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Courier-Journal</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNeXlGNjdLMVVOWEUxc1piTWRzY0g0Y0J2V3hZek9yVjMtSVQ3bWdIVGg5OXhsRHpJUy1Fam94VVVHWGxqX0NLamhFd1FKWGttQ09HejVYZmFQbEVXTXM3MklRa292a2wyNE5ja2RPSUxXM0JzRHY4WFRPTV84Q3Y3dzUtV3ZGYkhhTVdkNnc4b2lCU281SDJvQXU3THEtOEs3Rll0X2VDV2FZYjN5blgzRzQxbHU1Q1pUOFhkLXF1YWVqaWFSeW01T0diT28zSWYwNXotU1FQeXlTTkp4OUxXOWU5QjdKUEk4Yl9JWA?oc=5",
-        "date": "2026-06-09",
-        "title": "Residents evacuate to rooftops amid extreme flash flooding in Lanesville, Indiana - WDRB",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxNeXlGNjdLMVVOWEUxc1piTWRzY0g0Y0J2V3hZek9yVjMtSVQ3bWdIVGg5OXhsRHpJUy1Fam94VVVHWGxqX0NLamhFd1FKWGttQ09HejVYZmFQbEVXTXM3MklRa292a2wyNE5ja2RPSUxXM0JzRHY4WFRPTV84Q3Y3dzUtV3ZGYkhhTVdkNnc4b2lCU281SDJvQXU3THEtOEs3Rll0X2VDV2FZYjN5blgzRzQxbHU1Q1pUOFhkLXF1YWVqaWFSeW01T0diT28zSWYwNXotU1FQeXlTTkp4OUxXOWU5QjdKUEk4Yl9JWA?oc=5\" target=\"_blank\">Residents evacuate to rooftops amid extreme flash flooding in Lanesville, Indiana</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WDRB</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9LNjRKdTE5bTdjcGhlRkZkSm1UbnlyNzN5WDdHVjFaSjl4MzJaSldXT1NDOG8yVm50QjkwRFNhOWdGMVJ4SU1KSUVuY2VPTm1IeFFYOFBNMUY0Tzl4YzhkbV9RZnRGa0E2djFfY0twaDM5a21OSmZJbzc0bzU?oc=5",
-        "date": "2026-06-09",
-        "title": "Parts of Kentucky under flash flood warning. Here's what to know - AOL.com",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE9LNjRKdTE5bTdjcGhlRkZkSm1UbnlyNzN5WDdHVjFaSjl4MzJaSldXT1NDOG8yVm50QjkwRFNhOWdGMVJ4SU1KSUVuY2VPTm1IeFFYOFBNMUY0Tzl4YzhkbV9RZnRGa0E2djFfY0twaDM5a21OSmZJbzc0bzU?oc=5\" target=\"_blank\">Parts of Kentucky under flash flood warning. Here's what to know</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AOL.com</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNQ3p4S29rZjdIUWQ0NDQ2TG5ORWVnQWdheVgtUG1kU0QwdEo0VlpVU1N3a05WMUI5MU9pdTZvZU1XNmo3Nldwd0VzUkVWbGpUSElGMlFMdVozVGlhNGROeW9mVld1U1dRbmxuWnF6N3NMUEdYMERlT0owVFZrNDlLQlV2WU9MTHR0S0FTZmhIVFRROHIzRGhabllHYW5QWklFU2tjbE12aElkUGZRaURvb1k3U2hQd01OV0s0ZGtUdTFUTzE4bk9RU2RBTkhLQTdpcXc?oc=5",
-        "date": "2026-06-09",
-        "title": "List of active weather alerts as storms move through Southeast Michigan on Tuesday - ClickOnDetroit | WDIV Local 4",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxNQ3p4S29rZjdIUWQ0NDQ2TG5ORWVnQWdheVgtUG1kU0QwdEo0VlpVU1N3a05WMUI5MU9pdTZvZU1XNmo3Nldwd0VzUkVWbGpUSElGMlFMdVozVGlhNGROeW9mVld1U1dRbmxuWnF6N3NMUEdYMERlT0owVFZrNDlLQlV2WU9MTHR0S0FTZmhIVFRROHIzRGhabllHYW5QWklFU2tjbE12aElkUGZRaURvb1k3U2hQd01OV0s0ZGtUdTFUTzE4bk9RU2RBTkhLQTdpcXc?oc=5\" target=\"_blank\">List of active weather alerts as storms move through Southeast Michigan on Tuesday</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ClickOnDetroit | WDIV Local 4</font>",
-        "similarity_excluded": "No",
-        "score": 2,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOSkdGMFViWjZwYWlWOTdCaXFOazBsNzJtSU5KMWdqMzBOTjJhTTVGazUxQzVZYkhWSlF5QU9hbjVhd2NQaUFYeTZNd3FYVl94WlRsV0hhZHlRa1ZkbE84V0dyeWNUUXI4Q1lSTl94eW9jcjFlOVdRM2dSTFBQb09abTRqemlJTTk0ZlkwNXg4Sk5tUGdnUURWN09mSEFzaHgtNzRUQlNEeGpBdU1EUDRScVRMa1FzTGRBVkpqNXk1Vk9HOFZscFF3MUk2YTF0cTdiMkNaMmhmSjI?oc=5",
-        "date": "2026-06-09",
-        "title": "RAW: MO: FLASH FLOODING AROUND CAPE GIRARDEAU - KXLY.com",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxOSkdGMFViWjZwYWlWOTdCaXFOazBsNzJtSU5KMWdqMzBOTjJhTTVGazUxQzVZYkhWSlF5QU9hbjVhd2NQaUFYeTZNd3FYVl94WlRsV0hhZHlRa1ZkbE84V0dyeWNUUXI4Q1lSTl94eW9jcjFlOVdRM2dSTFBQb09abTRqemlJTTk0ZlkwNXg4Sk5tUGdnUURWN09mSEFzaHgtNzRUQlNEeGpBdU1EUDRScVRMa1FzTGRBVkpqNXk1Vk9HOFZscFF3MUk2YTF0cTdiMkNaMmhmSjI?oc=5\" target=\"_blank\">RAW: MO: FLASH FLOODING AROUND CAPE GIRARDEAU</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KXLY.com</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPclU2SmxmY3ViNTFlWm5rckNUdlRaZ2kwMEh2RThvSHNYY2VyYWVmVXpCUXhxeEpGc2xUSllJOXp5QzZ5eUpmZ3pjTEdRTlo1UzBDVnJJQm15cF9sb0dpZFdYSEszRUFBOER3ZUh0VS1hOVpzSVdhT0h1NlJadC1QRk9mTVpKQQ?oc=5",
-        "date": "2026-06-09",
-        "title": "Understanding Flash Flooding: What You Need to Know - WVLT",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxPclU2SmxmY3ViNTFlWm5rckNUdlRaZ2kwMEh2RThvSHNYY2VyYWVmVXpCUXhxeEpGc2xUSllJOXp5QzZ5eUpmZ3pjTEdRTlo1UzBDVnJJQm15cF9sb0dpZFdYSEszRUFBOER3ZUh0VS1hOVpzSVdhT0h1NlJadC1QRk9mTVpKQQ?oc=5\" target=\"_blank\">Understanding Flash Flooding: What You Need to Know</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WVLT</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNaHkzLWVGblhxQlN4VGE5Vk5Wb1hZa1ZLLXozQ1o2ZnhEckpyUUxaQi1BM0dNSnMyV2FycW8zenBRQmJxM3NGalZTVnBlbjhRc2VLbkJ1bXJwVXpHVkdXV2JxTWtiT1lBamdVTDZJRk1lN3FuaUViQmx1N2pvWUE4Q3BOTW5SQW9QTFk4eGoxR2ZNTGFoSW1sYzQyc210QWY0MkxIYkdnak9qSEVBY0Mwb01tMVl6aGpnZVFySFh1c2I2UHZTT1dGZHV2Yw?oc=5",
-        "date": "2026-06-09",
-        "title": "Rooftop rescues underway in Lanesville, Indiana after extreme flooding - WHAS11",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxNaHkzLWVGblhxQlN4VGE5Vk5Wb1hZa1ZLLXozQ1o2ZnhEckpyUUxaQi1BM0dNSnMyV2FycW8zenBRQmJxM3NGalZTVnBlbjhRc2VLbkJ1bXJwVXpHVkdXV2JxTWtiT1lBamdVTDZJRk1lN3FuaUViQmx1N2pvWUE4Q3BOTW5SQW9QTFk4eGoxR2ZNTGFoSW1sYzQyc210QWY0MkxIYkdnak9qSEVBY0Mwb01tMVl6aGpnZVFySFh1c2I2UHZTT1dGZHV2Yw?oc=5\" target=\"_blank\">Rooftop rescues underway in Lanesville, Indiana after extreme flooding</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WHAS11</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOa3BLLUdrWDBvdV9tWHdBWVJRQm96VEF2cFVUSVJYb1NucGJpdDdCTjlEMVN5UU9EYUFhemgtbWs5SWw4TDh4QWgydVRUNTZOem82eURWbm15THpSR1luTmNEWXJmQkx1Q1pTN2JhRm91d09ZdTRjWjUtSkpIelB2aHRmbWtHaGRkYXJ6NVl5UnU5cFBjeUFvRlRpUFBlaVRUOTQwdnF2aUJPcnNQLXVUOWpfUURjZUhEdjN1YTgtXzB1VkIxeUtTcHlPdl9SSHN0anAzRmhPOGl4M1Btc1NJZzJZSGtwblU?oc=5",
-        "date": "2026-06-09",
-        "title": "PHOTOS: Extreme flooding and heavy rainfall in Lanesville, Indiana - WHAS11",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxOa3BLLUdrWDBvdV9tWHdBWVJRQm96VEF2cFVUSVJYb1NucGJpdDdCTjlEMVN5UU9EYUFhemgtbWs5SWw4TDh4QWgydVRUNTZOem82eURWbm15THpSR1luTmNEWXJmQkx1Q1pTN2JhRm91d09ZdTRjWjUtSkpIelB2aHRmbWtHaGRkYXJ6NVl5UnU5cFBjeUFvRlRpUFBlaVRUOTQwdnF2aUJPcnNQLXVUOWpfUURjZUhEdjN1YTgtXzB1VkIxeUtTcHlPdl9SSHN0anAzRmhPOGl4M1Btc1NJZzJZSGtwblU?oc=5\" target=\"_blank\">PHOTOS: Extreme flooding and heavy rainfall in Lanesville, Indiana</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WHAS11</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOTzVGZFI3OWlYYXY3Wko1MlhnX3QwMmxPS0pWRXJjb1NFNGNuRmZpcWZXMlRjNDVLUF9qaXFFaDhNQ3dnYUxRSTlCTFA1VUJjUnZkVkhTLWVtT1FEUGhSZUlLRzRvS193Nlpaem82TndqT0lzUXJ3LUNNenNNVEdfU255SzZOWWdtd2gyczd4VkhFOHpDVXdaYUNpeXBiM3lsY1Q0WUptOEw3ODNLOG80TXRKNFFKQ015MFFTZy1iQ24zVnAybXZpVEVPWTAwelFGR1E0MFdpRnU5RDE0VUdvWm5US3hITlpuVkNHMk1oQQ?oc=5",
-        "date": "2026-06-09",
-        "title": "IMAGES | Extreme flash flooding causes emergency evacuation in Lanesville, Indiana - WDRB",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxOTzVGZFI3OWlYYXY3Wko1MlhnX3QwMmxPS0pWRXJjb1NFNGNuRmZpcWZXMlRjNDVLUF9qaXFFaDhNQ3dnYUxRSTlCTFA1VUJjUnZkVkhTLWVtT1FEUGhSZUlLRzRvS193Nlpaem82TndqT0lzUXJ3LUNNenNNVEdfU255SzZOWWdtd2gyczd4VkhFOHpDVXdaYUNpeXBiM3lsY1Q0WUptOEw3ODNLOG80TXRKNFFKQ015MFFTZy1iQ24zVnAybXZpVEVPWTAwelFGR1E0MFdpRnU5RDE0VUdvWm5US3hITlpuVkNHMk1oQQ?oc=5\" target=\"_blank\">IMAGES | Extreme flash flooding causes emergency evacuation in Lanesville, Indiana</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WDRB</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPdEp3akJsZnJDSjhlMTY3Wm5LdHIwcHJQUWZCR3NER1JvcURlN25hVFFDWDRqMHNNT25OMktYVkdWZmpfV1hFbmx3U0JPR3UxeF94dTE1STVZemlvRTRveGVGTklWcEx0SjF4MVluZlZmN2JHVWNydHNMa2owQzIyZldReUwyZEQ5Qm1UaEFuVGNmRkwwVXlUQ2FUWm1KNDFpNTAyUVJsaw?oc=5",
-        "date": "2026-06-09",
-        "title": "Lanesville residents evacuate to rooftops due to extreme flash flooding in area - WAVE News",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPdEp3akJsZnJDSjhlMTY3Wm5LdHIwcHJQUWZCR3NER1JvcURlN25hVFFDWDRqMHNNT25OMktYVkdWZmpfV1hFbmx3U0JPR3UxeF94dTE1STVZemlvRTRveGVGTklWcEx0SjF4MVluZlZmN2JHVWNydHNMa2owQzIyZldReUwyZEQ5Qm1UaEFuVGNmRkwwVXlUQ2FUWm1KNDFpNTAyUVJsaw?oc=5\" target=\"_blank\">Lanesville residents evacuate to rooftops due to extreme flash flooding in area</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WAVE News</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOaGlvdzc2ZmltWjFJdi15VHhqck1aU0xIWG5NN2pmRXEyNkRyVlg2ckhyclRjNlhiZGxfTG1HX05CVkZXdmdzNFFTRExITm9EUVlocWdfWTYwZkFHWm9UN1l2NU56bXpBNVFoNGpwZy1CQkJ4bHo5MGtMVHV3Y0VJZVJuSTk2cGc?oc=5",
-        "date": "2026-06-09",
-        "title": "Tornado warning issued for Shiawassee County - AOL.com",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxOaGlvdzc2ZmltWjFJdi15VHhqck1aU0xIWG5NN2pmRXEyNkRyVlg2ckhyclRjNlhiZGxfTG1HX05CVkZXdmdzNFFTRExITm9EUVlocWdfWTYwZkFHWm9UN1l2NU56bXpBNVFoNGpwZy1CQkJ4bHo5MGtMVHV3Y0VJZVJuSTk2cGc?oc=5\" target=\"_blank\">Tornado warning issued for Shiawassee County</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AOL.com</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQM0JpdkRLOUlPRjRUak5PZTdzelllX2hCUkNZUzJ5RXhYcmM1bmVtdFNNYkNnZEY4QnlSX0RkOGJlRFRWdmJPQVExX2dyeXkwRExfbUV4WkVHZ20xZndvcEFQT2JBQ3FhaU1heV83SXN3a2pGaWtUdHViX0tENE5SdEV6ZWVyeXNCT05vVW53TkZmbE43TUFJc09iVWRvakxkWkFjdGZnQWwyVDd1SGFpMHd0QUJTc09HRjdreVJFYk0tcU1UT2p5dURvTDA2TnNHNGc?oc=5",
-        "date": "2026-06-09",
-        "title": "Tropical Depression Boris, Tropical Storm Cristina bringing flooding rain to Mexico, Central America - New York Post",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxQM0JpdkRLOUlPRjRUak5PZTdzelllX2hCUkNZUzJ5RXhYcmM1bmVtdFNNYkNnZEY4QnlSX0RkOGJlRFRWdmJPQVExX2dyeXkwRExfbUV4WkVHZ20xZndvcEFQT2JBQ3FhaU1heV83SXN3a2pGaWtUdHViX0tENE5SdEV6ZWVyeXNCT05vVW53TkZmbE43TUFJc09iVWRvakxkWkFjdGZnQWwyVDd1SGFpMHd0QUJTc09HRjdreVJFYk0tcU1UT2p5dURvTDA2TnNHNGc?oc=5\" target=\"_blank\">Tropical Depression Boris, Tropical Storm Cristina bringing flooding rain to Mexico, Central America</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">New York Post</font>",
-        "similarity_excluded": "No",
-        "score": 8,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOVjJOdGVveEg1RjZ5MHBQc2pkQlUwcmVjWHpoUzNwVFNsaTJ1d0VYNFlyTll2R1ZDRHBkeUdnMDdzdE9nM25QeEh5R2t1andMN3B6VUhSc29PTjVCWGZHUGNiOG5RVVR1MGtNZHZWTUstS0ZQNlBqaDN4LW5iV1ZDemhsUlgtNzdhWEV2S3JkWUctMkcwSFpmbkktVFFBd2Jla3hvYUloT1F3U1VOaHJObnVmaWVyYmNSaXc3N3JtTWlOZkdLUklWME9zTE5QWHPSAdQBQVVfeXFMTWpVZ0JKNkR5ZnRIeG42VHpvTnZ1Rk4tUGJFN1hubXN2THV0SHRubEw3X1NKYU9ZQjg5MGNEdi1Ua0VfTkk1NGN6VV9UdmhCWVJzM0dOWlRNcjJTdDdZYnJoUlpJaEY0TEVING5BdFdGVlJIZnJTbExPWVBwcjA2b0p6bHpFT0hUNUZEdzlDQzRBYmRYekRSend3YlFZOERXQ2ZnaERnWWZFMnQzbmVSN2ZWa3pGaVFGaUpUb2VmVnQwb3ZYeldDclpOWW52ZS14d0NqaEU?oc=5",
-        "date": "2026-06-09",
-        "title": "Flooded Roads, Fresh Potholes Mark Start Of Monsoon; Experts Flag Infrastructure Gaps - ETV Bharat",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxOVjJOdGVveEg1RjZ5MHBQc2pkQlUwcmVjWHpoUzNwVFNsaTJ1d0VYNFlyTll2R1ZDRHBkeUdnMDdzdE9nM25QeEh5R2t1andMN3B6VUhSc29PTjVCWGZHUGNiOG5RVVR1MGtNZHZWTUstS0ZQNlBqaDN4LW5iV1ZDemhsUlgtNzdhWEV2S3JkWUctMkcwSFpmbkktVFFBd2Jla3hvYUloT1F3U1VOaHJObnVmaWVyYmNSaXc3N3JtTWlOZkdLUklWME9zTE5QWHPSAdQBQVVfeXFMTWpVZ0JKNkR5ZnRIeG42VHpvTnZ1Rk4tUGJFN1hubXN2THV0SHRubEw3X1NKYU9ZQjg5MGNEdi1Ua0VfTkk1NGN6VV9UdmhCWVJzM0dOWlRNcjJTdDdZYnJoUlpJaEY0TEVING5BdFdGVlJIZnJTbExPWVBwcjA2b0p6bHpFT0hUNUZEdzlDQzRBYmRYekRSend3YlFZOERXQ2ZnaERnWWZFMnQzbmVSN2ZWa3pGaVFGaUpUb2VmVnQwb3ZYeldDclpOWW52ZS14d0NqaEU?oc=5\" target=\"_blank\">Flooded Roads, Fresh Potholes Mark Start Of Monsoon; Experts Flag Infrastructure Gaps</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ETV Bharat</font>",
-        "similarity_excluded": "No",
-        "score": 6,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOdVZzZF9NMXNSS3JVWGczT012MFl0Nl9ERnZMVjMxYWEteFo1azZ6ektFRXV0d2JJdGhNbVdmR1g0NDFLbVZGa3U2Sjk2WFQ1RU5tV3lZX202ejRxVVNjTTBMWEpvVGlqN3ozdENsWmRKVVpIZk9vVTdnUmZiSXV4OE4xSEdTVFhwbjNlaUxrUDc3UzRT?oc=5",
-        "date": "2026-06-09",
-        "title": "Extreme flooding forces evacuations onto rooftops in Lanesville, Indiana - WLKY",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxOdVZzZF9NMXNSS3JVWGczT012MFl0Nl9ERnZMVjMxYWEteFo1azZ6ektFRXV0d2JJdGhNbVdmR1g0NDFLbVZGa3U2Sjk2WFQ1RU5tV3lZX202ejRxVVNjTTBMWEpvVGlqN3ozdENsWmRKVVpIZk9vVTdnUmZiSXV4OE4xSEdTVFhwbjNlaUxrUDc3UzRT?oc=5\" target=\"_blank\">Extreme flooding forces evacuations onto rooftops in Lanesville, Indiana</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WLKY</font>",
-        "similarity_excluded": "No",
-        "score": 9,
-        "status": "posted",
-        "tweet": "\ud83c\uddfa\ud83c\uddf8 POST-EVENT Lanesville, Indiana: Extreme flooding forces rooftop evacuations. (WLKY)",
-        "type": "news",
-        "tweet_id": "2064404252395458826",
-        "geo": {
-            "country": "United States",
-            "name": "Lanesville, Indiana",
-            "latitude": 38.237,
-            "longitude": -85.9855,
-            "confidence": 0.95
-        }
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNd3g1cndjajBvcnV1WFFEX1NBTWVtbERmUzh5SW9idjJUVFJaYTVEd0x6dzZiUlhNbVNHaGhGT29VZkJOY2lLU3RNa3E4LWE5ajRZc24zMGhpeVN4TGVIdlB1YXNCYkNOMnZZQ24zNUhDUXhVQ3pTeGlhMHIxOTdyb3dGQVF6NUsxMEJma0g4ZnBCRDNmczJyRXh2U3RSUHM?oc=5",
-        "date": "2026-06-09",
-        "title": "Flash Flood Warnings prompted by heavy rain in East Tennessee - WATE 6 On Your Side",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNd3g1cndjajBvcnV1WFFEX1NBTWVtbERmUzh5SW9idjJUVFJaYTVEd0x6dzZiUlhNbVNHaGhGT29VZkJOY2lLU3RNa3E4LWE5ajRZc24zMGhpeVN4TGVIdlB1YXNCYkNOMnZZQ24zNUhDUXhVQ3pTeGlhMHIxOTdyb3dGQVF6NUsxMEJma0g4ZnBCRDNmczJyRXh2U3RSUHM?oc=5\" target=\"_blank\">Flash Flood Warnings prompted by heavy rain in East Tennessee</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WATE 6 On Your Side</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE11aEEzV3N3TXF2a052cEtzU2tzVFRpTE5lMFg3U3loZF9BbkxYWmZkSlVUaXBvaFVMMWd5Y3VnNWlBZVpzTW1BVDAxWDZ4enlEd0JWZ0hCdm42bHlmSTZsZU00WUR1SURZeGdmQm9KZEM2QdIBckFVX3lxTE9FUXJPUlRBeElkQWZ2QzhneEtUUnQ5ak1JY0Z3ZTZaNkJEMVZ6SzJmc1MxUG1OQmk3dHRPM3VaNFZSR3Jha1BVRllWOGdYbzM5c2FoSjduYlFoTUNNS2M5UTVockV1MTc3QWwyYlZKcGNMdw?oc=5",
-        "date": "2026-06-09",
-        "title": "Here are the Lexington roads currently flooded in Tuesday\u2019s rain: Latest updates - Lexington Herald Leader",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE11aEEzV3N3TXF2a052cEtzU2tzVFRpTE5lMFg3U3loZF9BbkxYWmZkSlVUaXBvaFVMMWd5Y3VnNWlBZVpzTW1BVDAxWDZ4enlEd0JWZ0hCdm42bHlmSTZsZU00WUR1SURZeGdmQm9KZEM2QdIBckFVX3lxTE9FUXJPUlRBeElkQWZ2QzhneEtUUnQ5ak1JY0Z3ZTZaNkJEMVZ6SzJmc1MxUG1OQmk3dHRPM3VaNFZSR3Jha1BVRllWOGdYbzM5c2FoSjduYlFoTUNNS2M5UTVockV1MTc3QWwyYlZKcGNMdw?oc=5\" target=\"_blank\">Here are the Lexington roads currently flooded in Tuesday\u2019s rain: Latest updates</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Lexington Herald Leader</font>",
-        "similarity_excluded": "No",
-        "score": 5,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOVjAxdHJVTTVRdi04N3BuTHRBRlg5dHdVM0JPeDRiQl94d1lxNkF2dllHTU5nbzJyTE1DU3YyR0RETi1scXNETEo2TmJqZlIwaEk5N2NvZHhnbTVtMncxcVJQNmRsVGNFYTJMMlRMRnIxOWF3elpmUFpDOGpVOFlWVmh1U1VfN1ltMXFHSGNKNNIBlAFBVV95cUxPY05QYi1pOWY3cHE4djFaNnVvaXVKVVZibjdvR2NWRVhLT28yRHJDT29KTDZ0dUlHLXlnRHNsZ1RVQXBoUmlUY3hKWGtLcVZfYXczVE52VkVRTXAwN3JBbUc3cGwzQnFwVTdvY3BZc2JWZllhOVlDdG85R0NjTjJBb0hKZVhFOHRFcm5JQURpU01NU3lR?oc=5",
-        "date": "2026-06-09",
-        "title": "These Kentucky counties are under a flood warning - FOX 56 News",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxOVjAxdHJVTTVRdi04N3BuTHRBRlg5dHdVM0JPeDRiQl94d1lxNkF2dllHTU5nbzJyTE1DU3YyR0RETi1scXNETEo2TmJqZlIwaEk5N2NvZHhnbTVtMncxcVJQNmRsVGNFYTJMMlRMRnIxOWF3elpmUFpDOGpVOFlWVmh1U1VfN1ltMXFHSGNKNNIBlAFBVV95cUxPY05QYi1pOWY3cHE4djFaNnVvaXVKVVZibjdvR2NWRVhLT28yRHJDT29KTDZ0dUlHLXlnRHNsZ1RVQXBoUmlUY3hKWGtLcVZfYXczVE52VkVRTXAwN3JBbUc3cGwzQnFwVTdvY3BZc2JWZllhOVlDdG85R0NjTjJBb0hKZVhFOHRFcm5JQURpU01NU3lR?oc=5\" target=\"_blank\">These Kentucky counties are under a flood warning</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FOX 56 News</font>",
-        "similarity_excluded": "No",
-        "score": 8,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPWmI1MWVCMkJYMHhKb285bUE5RXVsNnB6WmVTUU9sM1M4QTRIMGdlSlZOTXY5UUJmdXA1d3BYZFpEV0o3dFJubGNXYnlZcFJYOElQWnhJeHlEZ2dETGZZcFdPTnNBaGlUUkFPQmszRE04VkdXejFNSm91VnJscF9yTDVjakFaMDIyZno4UVFMclljaGts0gGaAUFVX3lxTFBOSDRHczUxTDlhTGItMmlfMC1tVlpyT3BWRkhnMy0zYTh1M1dEaWFMNVZHX1NTUDlPVWxoSGdCQ2JVRzMwNEIyM0JRaUgyQWkyVE5vTE5FWTNQbHRhN0Z6UnRhRXJMaHRISExzZy00a0FnOGRJN2djTGhJbk1nTDBSX0lkWURWX1Nrdkw0ZGNtUGdjN1M4RHNyVEE?oc=5",
-        "date": "2026-06-09",
-        "title": "Midwest and Plains bracing for life-threatening flooding - ABC News - Breaking News, Latest News and Videos",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxPWmI1MWVCMkJYMHhKb285bUE5RXVsNnB6WmVTUU9sM1M4QTRIMGdlSlZOTXY5UUJmdXA1d3BYZFpEV0o3dFJubGNXYnlZcFJYOElQWnhJeHlEZ2dETGZZcFdPTnNBaGlUUkFPQmszRE04VkdXejFNSm91VnJscF9yTDVjakFaMDIyZno4UVFMclljaGts0gGaAUFVX3lxTFBOSDRHczUxTDlhTGItMmlfMC1tVlpyT3BWRkhnMy0zYTh1M1dEaWFMNVZHX1NTUDlPVWxoSGdCQ2JVRzMwNEIyM0JRaUgyQWkyVE5vTE5FWTNQbHRhN0Z6UnRhRXJMaHRISExzZy00a0FnOGRJN2djTGhJbk1nTDBSX0lkWURWX1Nrdkw0ZGNtUGdjN1M4RHNyVEE?oc=5\" target=\"_blank\">Midwest and Plains bracing for life-threatening flooding</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ABC News - Breaking News, Latest News and Videos</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9faWpNQUFkcWctbWg4ZGg0WWRsN1lzRjRuTEJzSm0yNWZEWmttd1NuUkU0TWs5SGRwRGdEVUszbHhjbVp0RjV2b1pKN3Jic3ByVjQzdGw2d0g4ZlpZWnhlQzU0Q1g1RHJFR3dTeWZWa3RoX2NBZUpsNmtB?oc=5",
-        "date": "2026-06-09",
-        "title": "Flood warning issued for Chelan County until further notice, says the NWS - Tri-City Herald",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE9faWpNQUFkcWctbWg4ZGg0WWRsN1lzRjRuTEJzSm0yNWZEWmttd1NuUkU0TWs5SGRwRGdEVUszbHhjbVp0RjV2b1pKN3Jic3ByVjQzdGw2d0g4ZlpZWnhlQzU0Q1g1RHJFR3dTeWZWa3RoX2NBZUpsNmtB?oc=5\" target=\"_blank\">Flood warning issued for Chelan County until further notice, says the NWS</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tri-City Herald</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNd0xneElESlZtRGU1Z0hwMkRCYVFHU0REWVZMbFRfeUVFdVFxTHpJWlQ5dl9sTW5UV1Frb1QzY0lHb0ZOT2J5TU5uR0p1VmYyR2d3N1ZxLVZJVVRZNEFwcmYtZkJlUFIzblg0a0RBbjhZWkhlLU5hU1hnUU5uQnZZMl92UXFnVXhoR3Ezeg?oc=5",
-        "date": "2026-06-09",
-        "title": "Flash flooding continues, scattered storms through Tuesday - WLKY",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNd0xneElESlZtRGU1Z0hwMkRCYVFHU0REWVZMbFRfeUVFdVFxTHpJWlQ5dl9sTW5UV1Frb1QzY0lHb0ZOT2J5TU5uR0p1VmYyR2d3N1ZxLVZJVVRZNEFwcmYtZkJlUFIzblg0a0RBbjhZWkhlLU5hU1hnUU5uQnZZMl92UXFnVXhoR3Ezeg?oc=5\" target=\"_blank\">Flash flooding continues, scattered storms through Tuesday</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WLKY</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPWkdFYmlITC1BU0QtNnQyQ2JlclhjaWItNVBSU2pqeEpfQ01IZlJJZE5wVWRQejVxTGQwSXp2NnBZdGhNak85dlpFUTVSSXVBN2N1ZU1DMVYxS20tMlJiT2hMaVVPZjlXYjg3bVhSb3NUc2NXMG9VTkYwaUxkRHFlNngweU5jc2NwMTVWQV9vdGxUTDhRWHc?oc=5",
-        "date": "2026-06-09",
-        "title": "FIRST ALERT WEATHER DAY| Chris Bailey tracks flooding rains - WKYT",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPWkdFYmlITC1BU0QtNnQyQ2JlclhjaWItNVBSU2pqeEpfQ01IZlJJZE5wVWRQejVxTGQwSXp2NnBZdGhNak85dlpFUTVSSXVBN2N1ZU1DMVYxS20tMlJiT2hMaVVPZjlXYjg3bVhSb3NUc2NXMG9VTkYwaUxkRHFlNngweU5jc2NwMTVWQV9vdGxUTDhRWHc?oc=5\" target=\"_blank\">FIRST ALERT WEATHER DAY| Chris Bailey tracks flooding rains</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WKYT</font>",
-        "similarity_excluded": "No",
-        "score": 8,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNd0ZCWG1qLWtMOXVUWmpldWlZN0FlTEFEUkhyZHYtOTlIdGhlUE5OYjhWOGVVQzNxNGZkVmk0Vk5VaDNBT2dNVURYLXBtZFZnVi01VFNvYmNsc0VEbUh3S2ZIU3pQTGJoTjZXLW5wN1hkS3VIWVl1ckROWFRsR052VlhoeXllVE1MSmEyV0cxbUhOSmt5Q0NmamJ0YmJmbHhpTkY2X3FCTnpJRkdOT1F3SjdXSE8zUkhmdEw2d0dpU3RCTENRZkRaeWVCNXIyS1J3WXQyQS1WMDFJcDIwa3RrdWZlRQ?oc=5",
-        "date": "2026-06-09",
-        "title": "Over 8 inches of rain causes extreme flash flooding in Lanesville, Indiana - WDRB",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxNd0ZCWG1qLWtMOXVUWmpldWlZN0FlTEFEUkhyZHYtOTlIdGhlUE5OYjhWOGVVQzNxNGZkVmk0Vk5VaDNBT2dNVURYLXBtZFZnVi01VFNvYmNsc0VEbUh3S2ZIU3pQTGJoTjZXLW5wN1hkS3VIWVl1ckROWFRsR052VlhoeXllVE1MSmEyV0cxbUhOSmt5Q0NmamJ0YmJmbHhpTkY2X3FCTnpJRkdOT1F3SjdXSE8zUkhmdEw2d0dpU3RCTENRZkRaeWVCNXIyS1J3WXQyQS1WMDFJcDIwa3RrdWZlRQ?oc=5\" target=\"_blank\">Over 8 inches of rain causes extreme flash flooding in Lanesville, Indiana</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WDRB</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxOeDF3RV91cWg5aC1mQS1mbmFDNndSSTBfUUt6QjFYUnZvcDNNZFdXVVh1NUN4aWpXemFudE5sMUo4NG9uRmhBYUJ6NkNKRWFrWDZ0bVJCMWFBVlEtZmJ1eGg0T3FKczJxekNCZWo1b3V4TDRoZHI5R3oxWnZOV2hEWjY3T29YNUhQeG1iU0ZUQ1VKTmduYXc1REFCVURvTkdhdEdLdFpiZHp5Njd4UTFnSmNGVHppNll1WGpNX05zR2l1aUVCajc0bzBYTHltS3o0NDEzMHhMZ2hrbnA4a20tRVBjNnAwblJCN2R4OGxzb2lVVWdpTjI3Sk8xZUYwTUFOTjhPTmFfOU9tSVJIYm00Z2h4alJzbUFSNXZ0Ry1DbVhtaHI2S3JzU0V4VW1WS0d0UHRCUmloLXlDYk5sektkX3I4WQ?oc=5",
-        "date": "2026-06-09",
-        "title": "Officials urge caution as flash flood risk rises ahead of storms this week - WTOV",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwJBVV95cUxOeDF3RV91cWg5aC1mQS1mbmFDNndSSTBfUUt6QjFYUnZvcDNNZFdXVVh1NUN4aWpXemFudE5sMUo4NG9uRmhBYUJ6NkNKRWFrWDZ0bVJCMWFBVlEtZmJ1eGg0T3FKczJxekNCZWo1b3V4TDRoZHI5R3oxWnZOV2hEWjY3T29YNUhQeG1iU0ZUQ1VKTmduYXc1REFCVURvTkdhdEdLdFpiZHp5Njd4UTFnSmNGVHppNll1WGpNX05zR2l1aUVCajc0bzBYTHltS3o0NDEzMHhMZ2hrbnA4a20tRVBjNnAwblJCN2R4OGxzb2lVVWdpTjI3Sk8xZUYwTUFOTjhPTmFfOU9tSVJIYm00Z2h4alJzbUFSNXZ0Ry1DbVhtaHI2S3JzU0V4VW1WS0d0UHRCUmloLXlDYk5sektkX3I4WQ?oc=5\" target=\"_blank\">Officials urge caution as flash flood risk rises ahead of storms this week</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WTOV</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxORjdUekFvQ0pwTEZLbTZzUkMyeTZrSU9lY3pwS3VFY1hIcF9MMFpuWkRfN1NqWUdTbnJ4Z2RXZElSanIwbTl6RWN1VHhYM2Jyd25QNERnNnpoeU5pQ3BObklBNXlnWGQ0cndSV3Z2MW5aVGUtOGEzbmxqMElCMmZPZENTY0MyNkxDQlN4dnNUVkVBT21wZ0Z2TzV5N3hlcmJF?oc=5",
-        "date": "2026-06-09",
-        "title": "Weather AWARE: Risk of isolated flash flooding through midnight - WATE 6 On Your Side",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxORjdUekFvQ0pwTEZLbTZzUkMyeTZrSU9lY3pwS3VFY1hIcF9MMFpuWkRfN1NqWUdTbnJ4Z2RXZElSanIwbTl6RWN1VHhYM2Jyd25QNERnNnpoeU5pQ3BObklBNXlnWGQ0cndSV3Z2MW5aVGUtOGEzbmxqMElCMmZPZENTY0MyNkxDQlN4dnNUVkVBT21wZ0Z2TzV5N3hlcmJF?oc=5\" target=\"_blank\">Weather AWARE: Risk of isolated flash flooding through midnight</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WATE 6 On Your Side</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNeWZZT0hwRlJLZm4wN3VGc1dsaXBOQkp6R3lYbEk4VHBMRnd6dUV5eDdxb1BVamZWbFZnZXJiOU5maExJN1E1MzAtMkxOWmV6QmpDbThiTXMtczhwVGtVRl94ei0zb0o0MnpCVm5IUkswVnBYSjY0YS0zSHJpSWVfQ0d1d2RvTnhnU3B6cjVHa3Bldw?oc=5",
-        "date": "2026-06-09",
-        "title": "Flash flooding forces rescues, safety warnings in Indiana - WLWT",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNeWZZT0hwRlJLZm4wN3VGc1dsaXBOQkp6R3lYbEk4VHBMRnd6dUV5eDdxb1BVamZWbFZnZXJiOU5maExJN1E1MzAtMkxOWmV6QmpDbThiTXMtczhwVGtVRl94ei0zb0o0MnpCVm5IUkswVnBYSjY0YS0zSHJpSWVfQ0d1d2RvTnhnU3B6cjVHa3Bldw?oc=5\" target=\"_blank\">Flash flooding forces rescues, safety warnings in Indiana</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WLWT</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNbXBlMHVOcktPNHVoM0pOTkRrXzRUNEo1VXJlV3FJNW1xbUxpODN6VFdUNGJUWmI5RnNpUUtVd3VVeDEtUGQ1U29GSlVJWnhYTXhyZ2tNODQ3M3lpcGVpRE5pcEhLYjY1b2NJdG14aDQ0QzR0SW9sd2taTEN1aWl6NlVNR252ZUtsVGlvTlBicUlkYUhNWHRhYVJBV0NYLVdpNGVEUnVxT0hYZkI0UF9qdExkYXNKYkI2MlBwQnVCczZUcVlyZG5ZczhCMzAtWGhzQmVQYWFiYjY1LVEyRmh6WEZGOWV2eC1aTTZKbA?oc=5",
-        "date": "2026-06-09",
-        "title": "Heavy rain, isolated flash flooding possible across region - Elizabethton Star",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxNbXBlMHVOcktPNHVoM0pOTkRrXzRUNEo1VXJlV3FJNW1xbUxpODN6VFdUNGJUWmI5RnNpUUtVd3VVeDEtUGQ1U29GSlVJWnhYTXhyZ2tNODQ3M3lpcGVpRE5pcEhLYjY1b2NJdG14aDQ0QzR0SW9sd2taTEN1aWl6NlVNR252ZUtsVGlvTlBicUlkYUhNWHRhYVJBV0NYLVdpNGVEUnVxT0hYZkI0UF9qdExkYXNKYkI2MlBwQnVCczZUcVlyZG5ZczhCMzAtWGhzQmVQYWFiYjY1LVEyRmh6WEZGOWV2eC1aTTZKbA?oc=5\" target=\"_blank\">Heavy rain, isolated flash flooding possible across region</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Elizabethton Star</font>",
-        "similarity_excluded": "No",
-        "score": 6,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1QZFN0YW9OUUUwVlJ3eXlOczV2R0JTbVFxYy1oTy1KNUcxVE93b1BvWktCVTRFN19LQ0xLUmJLMXRxaWNrbUxXT2d4NHFwSFVVZGpCRW9aUlJ2WGpmaTlFclNzNA?oc=5",
-        "date": "2026-06-09",
-        "title": "Significant flash flooding, water rescues reported in Lanesville, Indiana - FOX Weather",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE1QZFN0YW9OUUUwVlJ3eXlOczV2R0JTbVFxYy1oTy1KNUcxVE93b1BvWktCVTRFN19LQ0xLUmJLMXRxaWNrbUxXT2d4NHFwSFVVZGpCRW9aUlJ2WGpmaTlFclNzNA?oc=5\" target=\"_blank\">Significant flash flooding, water rescues reported in Lanesville, Indiana</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FOX Weather</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9RQ0p2M2lRVi14SVVwQ2VfVzUyUTZRLXdoTjdhYWtBUTVLU3ZtbnYxdTcyVVZ6Qlk4aVFsd0dyTktlQXdfVXBvWU9LazAyMnVwOEtxbnZNVEpESkQ5QTk3VFBONnlybFZyM3d5SUVLZW1NOVJvU1RpdWRB?oc=5",
-        "date": "2026-06-09",
-        "title": "Real-time data assimilation system outperforms flood early warning system - Phys.org",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE9RQ0p2M2lRVi14SVVwQ2VfVzUyUTZRLXdoTjdhYWtBUTVLU3ZtbnYxdTcyVVZ6Qlk4aVFsd0dyTktlQXdfVXBvWU9LazAyMnVwOEtxbnZNVEpESkQ5QTk3VFBONnlybFZyM3d5SUVLZW1NOVJvU1RpdWRB?oc=5\" target=\"_blank\">Real-time data assimilation system outperforms flood early warning system</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Phys.org</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZnZhd0tZWGJiX2JteWVkamRzSkg1Qkd3X1Z3eXNheFRqQTdwRDgzMHBmZHlhcXBnTUQta2hNOUtIbDBteWszVm10emMwRENlWEdMYWVsYUF5dnFWT2ZYNjBaRG5FMUU5eWR3Nkoya0dRaG9qbVBCeFpKSUNRUkp2TmZncURJMF9kT0RQdHA5Z09iLXF5anE1Xy1NaXdvWHlLOWZWczgyVzA?oc=5",
-        "date": "2026-06-09",
-        "title": "\u2018Turn around don\u2019t drown\u2019: Flash flood warning issued for Lexington amid heavy rainfall - WTVQ",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZnZhd0tZWGJiX2JteWVkamRzSkg1Qkd3X1Z3eXNheFRqQTdwRDgzMHBmZHlhcXBnTUQta2hNOUtIbDBteWszVm10emMwRENlWEdMYWVsYUF5dnFWT2ZYNjBaRG5FMUU5eWR3Nkoya0dRaG9qbVBCeFpKSUNRUkp2TmZncURJMF9kT0RQdHA5Z09iLXF5anE1Xy1NaXdvWHlLOWZWczgyVzA?oc=5\" target=\"_blank\">\u2018Turn around don\u2019t drown\u2019: Flash flood warning issued for Lexington amid heavy rainfall</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WTVQ</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNQnRDZGlRbFI1MVA0VzIxYThkam5HNkcyS2tTSTV6RF9RejE1bEpKd0VWd2U2Z2QzcEFLcXVIcmFQdmNqb0RZWVZtV2FXNTQ4aXBWNUxVZHloMDJiT2Y0ZnluQ00zNFNDR1BmZWFFVTV5VVRIYnBVc3ZLU0NYYjN1eE9zNlJmMERwdmxrd0N2WDcwa0VXeW5rQ1RtdjFjaWJWWGxsQ0puSHpOZG9rR2N5NmFwWVlJSi1yUFAwTXdjdmtxc1RvdExXSGVhcVo3TVk?oc=5",
-        "date": "2026-06-09",
-        "title": "Everything you need to know about Monsoon - 12News",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxNQnRDZGlRbFI1MVA0VzIxYThkam5HNkcyS2tTSTV6RF9RejE1bEpKd0VWd2U2Z2QzcEFLcXVIcmFQdmNqb0RZWVZtV2FXNTQ4aXBWNUxVZHloMDJiT2Y0ZnluQ00zNFNDR1BmZWFFVTV5VVRIYnBVc3ZLU0NYYjN1eE9zNlJmMERwdmxrd0N2WDcwa0VXeW5rQ1RtdjFjaWJWWGxsQ0puSHpOZG9rR2N5NmFwWVlJSi1yUFAwTXdjdmtxc1RvdExXSGVhcVo3TVk?oc=5\" target=\"_blank\">Everything you need to know about Monsoon</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">12News</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNcDdIMFlwWEdoaExOQXRZQnA0QXBfM3k2UGtNZUZKdXBIQzZJM25oUkNNeEZhMGp0SDg4NnhTR3B5VHVMdFpBTFdoUWtCTmszc1RwUHBiX29YQ3c4SGVyT29EbmdkNE5pMDNYX3U4VmlHY3NnNmptNlkwN24yQnI4MzRjUmpDSG5pdGVWX0ZOUQ?oc=5",
-        "date": "2026-06-09",
-        "title": "Flash flood warning issued Tuesday - LEX 18 News",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxNcDdIMFlwWEdoaExOQXRZQnA0QXBfM3k2UGtNZUZKdXBIQzZJM25oUkNNeEZhMGp0SDg4NnhTR3B5VHVMdFpBTFdoUWtCTmszc1RwUHBiX29YQ3c4SGVyT29EbmdkNE5pMDNYX3U4VmlHY3NnNmptNlkwN24yQnI4MzRjUmpDSG5pdGVWX0ZOUQ?oc=5\" target=\"_blank\">Flash flood warning issued Tuesday</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">LEX 18 News</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOYUk0Y3NvR2ZaemdtNkFWQVpFSFA0bUVXRTU2MENxQ0pad29SWkp2QmNtLXdYbGtEZlU1ZGZ3RU0wVk1Dd1NCN2hTc2Jwa1Q2X0JCaVE3ems2MkZsNDk0ZE1TckxINGpVRWJxWDNmUk5BY1ljSWlnLVphR3dMdjBnLTNUR1RpcGpPY3hlMFdoWWNRaFBqOW1HZmxKZzhwODVqaUpIN0JCUEVqcW5TRjZTQUgyNzVvc0J2VXJ5UURUS0c?oc=5",
-        "date": "2026-06-09",
-        "title": "David Karnes' Flash Flood Explainer - Local 3 News",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxOYUk0Y3NvR2ZaemdtNkFWQVpFSFA0bUVXRTU2MENxQ0pad29SWkp2QmNtLXdYbGtEZlU1ZGZ3RU0wVk1Dd1NCN2hTc2Jwa1Q2X0JCaVE3ems2MkZsNDk0ZE1TckxINGpVRWJxWDNmUk5BY1ljSWlnLVphR3dMdjBnLTNUR1RpcGpPY3hlMFdoWWNRaFBqOW1HZmxKZzhwODVqaUpIN0JCUEVqcW5TRjZTQUgyNzVvc0J2VXJ5UURUS0c?oc=5\" target=\"_blank\">David Karnes' Flash Flood Explainer</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Local 3 News</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxON3ZCcU80WFB4LTZaaGViV0IyVlVid2g5ZjdoaUVDY29tbjBLSDJWdEZJNjN0bzVKMG8tcGc4eTZNVTh3Qm5BTjlMQ0pnMVJOU3ZOUTBLQVJNV0F2U1owOU42aUNOM1RFUlFYU1BlZDBpLXZaMndUaDhkSEJzRWJiNmZXVk9XZnpUVG9mUmZOUUxTNHNyTE1sa2lPTUQ5X1RsZFVWRFV3WDhuRnU2Q1JZYVpES1JWcHpSbHJoWXlqSEtFVk5xVjVoR1NEbG40MTA?oc=5",
-        "date": "2026-06-09",
-        "title": "Extreme flash flooding hits small community of Lanesville, Indiana - WDRB",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxON3ZCcU80WFB4LTZaaGViV0IyVlVid2g5ZjdoaUVDY29tbjBLSDJWdEZJNjN0bzVKMG8tcGc4eTZNVTh3Qm5BTjlMQ0pnMVJOU3ZOUTBLQVJNV0F2U1owOU42aUNOM1RFUlFYU1BlZDBpLXZaMndUaDhkSEJzRWJiNmZXVk9XZnpUVG9mUmZOUUxTNHNyTE1sa2lPTUQ5X1RsZFVWRFV3WDhuRnU2Q1JZYVpES1JWcHpSbHJoWXlqSEtFVk5xVjVoR1NEbG40MTA?oc=5\" target=\"_blank\">Extreme flash flooding hits small community of Lanesville, Indiana</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WDRB</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQZVBUTXFUOFBka1p5NmpZWHY4SHFDZ1RuYVE2U2tsWmtLVExiWW9NT1Zod09CSEVnUGgzaU9IZ0dLamtVVTE3cnBuNVFqZUJCMVFxdWRYVDJIV3pSTzhGRm9BcWxCX0Z3Y1ZpYWNOV2oyY0kwNHJ2bXF3YXRxMTgzZzFSNkJiUFBXNlhIS0FsTUpoa3dCdkV3eFl6aXlnUURDZVJ6cFRwSWRjcXpVd2FQX2xSZXlhNUFFbkNvUWJFRTF1eWlNV1VjZmp3?oc=5",
-        "date": "2026-06-09",
-        "title": "RAW: IN: LANESVILLE FLASH FLOODING - KXLY.com",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxQZVBUTXFUOFBka1p5NmpZWHY4SHFDZ1RuYVE2U2tsWmtLVExiWW9NT1Zod09CSEVnUGgzaU9IZ0dLamtVVTE3cnBuNVFqZUJCMVFxdWRYVDJIV3pSTzhGRm9BcWxCX0Z3Y1ZpYWNOV2oyY0kwNHJ2bXF3YXRxMTgzZzFSNkJiUFBXNlhIS0FsTUpoa3dCdkV3eFl6aXlnUURDZVJ6cFRwSWRjcXpVd2FQX2xSZXlhNUFFbkNvUWJFRTF1eWlNV1VjZmp3?oc=5\" target=\"_blank\">RAW: IN: LANESVILLE FLASH FLOODING</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KXLY.com</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUVRBZmJ2NWVsNUFYNzA5eERKeGo5OGJnaDd1YVg5S1VDalVZWi1zaGg1NXB0U3lnb0RlMDVrNndZc1RqalBwS0lTTlBBMkREak4tMFNEQ29EcVh4STVnNmZ0NlZ1WTFqaW9vSDF0UVJld0R2N05kbDRfODczdlJNY0ZNOHJMYk9LWTJwYkNOZ3l1d0hWVjVjems1ZXNvQQ?oc=5",
-        "date": "2026-06-09",
-        "title": "East Tennessee thunderstorms and rain could mean flash flooding - WVLT",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOUVRBZmJ2NWVsNUFYNzA5eERKeGo5OGJnaDd1YVg5S1VDalVZWi1zaGg1NXB0U3lnb0RlMDVrNndZc1RqalBwS0lTTlBBMkREak4tMFNEQ29EcVh4STVnNmZ0NlZ1WTFqaW9vSDF0UVJld0R2N05kbDRfODczdlJNY0ZNOHJMYk9LWTJwYkNOZ3l1d0hWVjVjems1ZXNvQQ?oc=5\" target=\"_blank\">East Tennessee thunderstorms and rain could mean flash flooding</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WVLT</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOSExVcXlSN0U3R05uOWFpcHZyUkJoYjVIZGlrdXBHbVNtbGxOaVRCTE5DcjlWMlEtRnVxY0lHOXR3aU9udkI3NXgwdWlneXlDczFTekVMT3RTOGtWcm1qcFhHSklmS09tTV9KVmN2RXZGWjJqdTZ6Zjk1M2JDV1BOTUlIaThnNnM2Ym1kSmxxZHFOTDE0c2RRVGdYcUloOHZld3RWVEE0cmxqQ0xMMmZ0UDdlWUdPTC14bFZ4R3hpUDJ4X1E0b3NqMmJjdw?oc=5",
-        "date": "2026-06-09",
-        "title": "PHOTOS: Flash flooding covers streets of downtown Lanesville, Indiana - WHAS11",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxOSExVcXlSN0U3R05uOWFpcHZyUkJoYjVIZGlrdXBHbVNtbGxOaVRCTE5DcjlWMlEtRnVxY0lHOXR3aU9udkI3NXgwdWlneXlDczFTekVMT3RTOGtWcm1qcFhHSklmS09tTV9KVmN2RXZGWjJqdTZ6Zjk1M2JDV1BOTUlIaThnNnM2Ym1kSmxxZHFOTDE0c2RRVGdYcUloOHZld3RWVEE0cmxqQ0xMMmZ0UDdlWUdPTC14bFZ4R3hpUDJ4X1E0b3NqMmJjdw?oc=5\" target=\"_blank\">PHOTOS: Flash flooding covers streets of downtown Lanesville, Indiana</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WHAS11</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQako0akJfTlNvTVZQN1FCOExLT2hVZjFVN2JVZ3ZlbWtzMklhNGlPNmxaZmZmSzl0cXE0cTZEMkd1OEctVi1DUFFaWEJXanA2eklYb0hYYURIY0dsM2RvOWZtZXRTTF93bG9CNVVOeWkwZmI0SWtYZXBDSjF2azZVc2F2S1FrUQ?oc=5",
-        "date": "2026-06-09",
-        "title": "Heavy Rain Prompts Flash Flood Warnings Near Lexington, Kentucky - Yahoo",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxQako0akJfTlNvTVZQN1FCOExLT2hVZjFVN2JVZ3ZlbWtzMklhNGlPNmxaZmZmSzl0cXE0cTZEMkd1OEctVi1DUFFaWEJXanA2eklYb0hYYURIY0dsM2RvOWZtZXRTTF93bG9CNVVOeWkwZmI0SWtYZXBDSjF2azZVc2F2S1FrUQ?oc=5\" target=\"_blank\">Heavy Rain Prompts Flash Flood Warnings Near Lexington, Kentucky</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOek9nZG9LZkhiemJRRUs4RlpnZ1FVUzlxWEtTNXk2bkgxcm9pTlRTRkxjTFp6QURZZjZjc1ZDcEdnakx5RWdGN01iVWtZRk01LXdPTUlPU09SRW14YUllRDZCOHlTR1FGTk8xWXZtRjQ4MDVwQzNLSlo0T0d4d3h0clJtOTQ?oc=5",
-        "date": "2026-06-09",
-        "title": "Lexington under flash flooding warning after continued rain downpour - AOL.com",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxOek9nZG9LZkhiemJRRUs4RlpnZ1FVUzlxWEtTNXk2bkgxcm9pTlRTRkxjTFp6QURZZjZjc1ZDcEdnakx5RWdGN01iVWtZRk01LXdPTUlPU09SRW14YUllRDZCOHlTR1FGTk8xWXZtRjQ4MDVwQzNLSlo0T0d4d3h0clJtOTQ?oc=5\" target=\"_blank\">Lexington under flash flooding warning after continued rain downpour</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AOL.com</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNQ1hXOFctUmF1d2FDQnNpZFItWEVwcEdlV3ZnazU2aDZUTklDMnJTdTA2ZE5GNlEwcjRCakxpeEF6dVR6WlB1UXZ4NGVtajVWZE1KMzJ2TzE4bU1tTzhaalZlQXhZRGRucDY4bl9qQjl3eFVVT3RVZ0ExTnFWaVVDYnF2YkRzVi1JTzlDUDZSY3RPLXFXSlJTMHhTWDFJQlBBZDV3cnFRSkNDajlYTVV6UW8tTDNnOHRuaF82UEF3TFpUSExJRlE?oc=5",
-        "date": "2026-06-09",
-        "title": "Water recedes in downtown Corydon after flash flood - WDRB",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxNQ1hXOFctUmF1d2FDQnNpZFItWEVwcEdlV3ZnazU2aDZUTklDMnJTdTA2ZE5GNlEwcjRCakxpeEF6dVR6WlB1UXZ4NGVtajVWZE1KMzJ2TzE4bU1tTzhaalZlQXhZRGRucDY4bl9qQjl3eFVVT3RVZ0ExTnFWaVVDYnF2YkRzVi1JTzlDUDZSY3RPLXFXSlJTMHhTWDFJQlBBZDV3cnFRSkNDajlYTVV6UW8tTDNnOHRuaF82UEF3TFpUSExJRlE?oc=5\" target=\"_blank\">Water recedes in downtown Corydon after flash flood</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WDRB</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPXzFrZDR3OFBFbzhJamlsUjZfNXYyOFB3Q09TR29GN3NvRmpoek1fUGpSdHVqUUN6a3p2QUVLU25pQ0djRm1RSTN5TGZxbXhRcl9rY0Q5TG00UGtFSG9kd25WVkhXMU10VHJIWEQ4cllQZE1HbTlYcEZVeTU4dnFKTmtxUm8xY0Z6ckwxYlJvQS1QMnM1MG9QckpxVk8?oc=5",
-        "date": "2026-06-09",
-        "title": "Flooding in Lanesville, Corydon challenges local businesses, travel - WAVE News",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPXzFrZDR3OFBFbzhJamlsUjZfNXYyOFB3Q09TR29GN3NvRmpoek1fUGpSdHVqUUN6a3p2QUVLU25pQ0djRm1RSTN5TGZxbXhRcl9rY0Q5TG00UGtFSG9kd25WVkhXMU10VHJIWEQ4cllQZE1HbTlYcEZVeTU4dnFKTmtxUm8xY0Z6ckwxYlJvQS1QMnM1MG9QckpxVk8?oc=5\" target=\"_blank\">Flooding in Lanesville, Corydon challenges local businesses, travel</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WAVE News</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOeWpoZ1BNUWVGalFMRDkwR3hDQVVUamtkMWxnUWJUdVJiVXp4WEVVRzdpNzhNUEJDRUgtejNhbEd3aHVvSU0yb1E5TVVBcmdSNUU5VjJUWW02alA4Tm05NWkzclVSMUJDSFRidm5FckIyYldRZU42cXVVYjhobUt2Ty1TX0VJZjd4MlVKNkVuZzRLRjJDeXNfMjNIbTRCWXRDTWR6NEJ6M2FfaW1VcmlmbkFaVFFPNjJqNklDNk5raHozSXJjUkxiU1EwZ2RSQ041OHBnbWw4OFc3a1Rm?oc=5",
-        "date": "2026-06-09",
-        "title": "Flash flooding in southern Indiana after rapid rainfall - WHAS11",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxOeWpoZ1BNUWVGalFMRDkwR3hDQVVUamtkMWxnUWJUdVJiVXp4WEVVRzdpNzhNUEJDRUgtejNhbEd3aHVvSU0yb1E5TVVBcmdSNUU5VjJUWW02alA4Tm05NWkzclVSMUJDSFRidm5FckIyYldRZU42cXVVYjhobUt2Ty1TX0VJZjd4MlVKNkVuZzRLRjJDeXNfMjNIbTRCWXRDTWR6NEJ6M2FfaW1VcmlmbkFaVFFPNjJqNklDNk5raHozSXJjUkxiU1EwZ2RSQ041OHBnbWw4OFc3a1Rm?oc=5\" target=\"_blank\">Flash flooding in southern Indiana after rapid rainfall</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WHAS11</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPWUdqZm1GbkRyQ3ZidlIybTlrQ0NCTllneE04bzY0YWVuQ1JLV3Rhbk5yeS01YVRUUHNOMzN1TTJ5VGROM1dhQS1CMDhCalA1dkhvbk5peVZHOXk3Yk15VzY0YU1FaURuRXpGNXVNeGp0UWhiXzVMVGVLNm1jY1k5cmNZbw?oc=5",
-        "date": "2026-06-09",
-        "title": "Tornado warning issued for Saginaw, Genesee counties. See radar - AOL.com",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxPWUdqZm1GbkRyQ3ZidlIybTlrQ0NCTllneE04bzY0YWVuQ1JLV3Rhbk5yeS01YVRUUHNOMzN1TTJ5VGROM1dhQS1CMDhCalA1dkhvbk5peVZHOXk3Yk15VzY0YU1FaURuRXpGNXVNeGp0UWhiXzVMVGVLNm1jY1k5cmNZbw?oc=5\" target=\"_blank\">Tornado warning issued for Saginaw, Genesee counties. See radar</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AOL.com</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5nMW9jRDRhbXdoWXlCOVg4X1k3UVNOZUxDZEFtTXBCTE1RbnlpV2Z2YlIxQXlrRzc4WmdFVnR0aGxTeXBUcmZnSl9TcERkZGV5aWp6UQ?oc=5",
-        "date": "2026-06-09",
-        "title": "New Tropical Depression Threatens Flooding in Southern Japan - News On Japan",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE5nMW9jRDRhbXdoWXlCOVg4X1k3UVNOZUxDZEFtTXBCTE1RbnlpV2Z2YlIxQXlrRzc4WmdFVnR0aGxTeXBUcmZnSl9TcERkZGV5aWp6UQ?oc=5\" target=\"_blank\">New Tropical Depression Threatens Flooding in Southern Japan</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">News On Japan</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQd2RSSl9Kc2RjYXJlYTFDSWl5RWp5RzUtLUNhNC1CdjJxaVk4R1gyUmVvWHpHOGl0WTZBdTJWdG5BZFkwQmYzeXdYQWdBMFljODF3S1V1RGhtSkh3SXZ0a3pTTmNuNFBUaWwxLU5MXzU0OTdGS0xwcVdvaXBjZTNOZG9qVVdtV0NieG05cXlUaS1QeVRFZEs3T0tqbXJvTnZSTXc2RzFhWERxSE1iQ2NJSDJKVEdvWjh0aVI2WU13eHQ1WE9wbW44a9IBzgFBVV95cUxNVl9PdUlPYXZVUWR2ajd0MTBQU3hYaHBwOGYyX0VvZFpsbGpQb2o1MVNQVWpielJpM0VYZl9DaERUZXdROW91Yy1CNmx2bFNrdnlXOUdCVm9IajlwaWxsVkFDSG5kY1hTam9tejVQVndfby1XQTY3amR2ZHRjS25oTDc2SlluOVFKbnlMVVBEd1k1amNLRTRjUzNQOURIZnBLcFgtRzBqdTRLZzJkczQxc1pDYi00Uld3dkR4Z0Nvd3pSeHh4ZHRjaXZDSUxpZw?oc=5",
-        "date": "2026-06-09",
-        "title": "MC preps for monsoon, sets up 18 flood control teams - The Times of India",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxQd2RSSl9Kc2RjYXJlYTFDSWl5RWp5RzUtLUNhNC1CdjJxaVk4R1gyUmVvWHpHOGl0WTZBdTJWdG5BZFkwQmYzeXdYQWdBMFljODF3S1V1RGhtSkh3SXZ0a3pTTmNuNFBUaWwxLU5MXzU0OTdGS0xwcVdvaXBjZTNOZG9qVVdtV0NieG05cXlUaS1QeVRFZEs3T0tqbXJvTnZSTXc2RzFhWERxSE1iQ2NJSDJKVEdvWjh0aVI2WU13eHQ1WE9wbW44a9IBzgFBVV95cUxNVl9PdUlPYXZVUWR2ajd0MTBQU3hYaHBwOGYyX0VvZFpsbGpQb2o1MVNQVWpielJpM0VYZl9DaERUZXdROW91Yy1CNmx2bFNrdnlXOUdCVm9IajlwaWxsVkFDSG5kY1hTam9tejVQVndfby1XQTY3amR2ZHRjS25oTDc2SlluOVFKbnlMVVBEd1k1amNLRTRjUzNQOURIZnBLcFgtRzBqdTRLZzJkczQxc1pDYi00Uld3dkR4Z0Nvd3pSeHh4ZHRjaXZDSUxpZw?oc=5\" target=\"_blank\">MC preps for monsoon, sets up 18 flood control teams</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of India</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQS2ZzM2dUNnBhNlpUN25BTjkxYnBCZ2hMZnBqRUowcDJyTEl1YnBqVUU0Q2hHcFpZUDh6TG9MRzIxX0E0czZfQS1zUkM1eEF6RDFDdFR3bzRWU2xGOW1pYk1DZDdCem1JcHdpeXV4WlQ1bTN6Q2V2ZzByaUowSEdYajBOVFBiT09pTGxMenRwY3ZiVmEtNkRXcDZ0N2tPbmRYNGJ5YkNPaVdjYm4xa3FBWWFXT0U1ajhMU2ozOU1SbDlMSVRz?oc=5",
-        "date": "2026-06-09",
-        "title": "Monsoon season begins soon. Here's everything you need to know - azcentral.com and The Arizona Republic",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQS2ZzM2dUNnBhNlpUN25BTjkxYnBCZ2hMZnBqRUowcDJyTEl1YnBqVUU0Q2hHcFpZUDh6TG9MRzIxX0E0czZfQS1zUkM1eEF6RDFDdFR3bzRWU2xGOW1pYk1DZDdCem1JcHdpeXV4WlQ1bTN6Q2V2ZzByaUowSEdYajBOVFBiT09pTGxMenRwY3ZiVmEtNkRXcDZ0N2tPbmRYNGJ5YkNPaVdjYm4xa3FBWWFXT0U1ajhMU2ozOU1SbDlMSVRz?oc=5\" target=\"_blank\">Monsoon season begins soon. Here's everything you need to know</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">azcentral.com and The Arizona Republic</font>",
-        "similarity_excluded": "No",
-        "score": 6,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdWE2a3pRUGRNQWlUdFc1Wkc5VU00MUYyUlVRamdMTFZEQmRubDM0OTNVd2lWdEcwQllfSHhZTnZFR09YT0VTUkVUR2hweTdCdzIwc1dLY2FSVFdEVmNjSExlbGMwSFl3MVBiUm8zY29XNWdXdno3SldCZDN3WnRrQmRxSTlWbnktVXI3cUVZa2RhaXIyYWJCVjFDQWl3YkNWR1pF?oc=5",
-        "date": "2026-06-09",
-        "title": "Live Updates: Flooding possible as strong storms impact the Midstate Tuesday - WSMV",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQdWE2a3pRUGRNQWlUdFc1Wkc5VU00MUYyUlVRamdMTFZEQmRubDM0OTNVd2lWdEcwQllfSHhZTnZFR09YT0VTUkVUR2hweTdCdzIwc1dLY2FSVFdEVmNjSExlbGMwSFl3MVBiUm8zY29XNWdXdno3SldCZDN3WnRrQmRxSTlWbnktVXI3cUVZa2RhaXIyYWJCVjFDQWl3YkNWR1pF?oc=5\" target=\"_blank\">Live Updates: Flooding possible as strong storms impact the Midstate Tuesday</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSMV</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOTlg3WVJyR1BONU1mdng4QUgwclotQnp5ZHBsMktCZVpIdF9xNE9WNC1iQWxmVF9BMXB5VjR0TVBGZzludTV3QTBFSU9VSjk1cmlPalZyWGpaOWhTNXd5QUwtNWRKYXd3U256eVpzWFNzSFd3U2lfbVBIaGwyYV9pV1JFdl9VOTVLMkNneDlpWlEta3ZvTlhZdWZGaUw?oc=5",
-        "date": "2026-06-09",
-        "title": "Storms return to Middle Tennessee Tuesday with damaging wind risk, low-end tornado threat - WZTV",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxOTlg3WVJyR1BONU1mdng4QUgwclotQnp5ZHBsMktCZVpIdF9xNE9WNC1iQWxmVF9BMXB5VjR0TVBGZzludTV3QTBFSU9VSjk1cmlPalZyWGpaOWhTNXd5QUwtNWRKYXd3U256eVpzWFNzSFd3U2lfbVBIaGwyYV9pV1JFdl9VOTVLMkNneDlpWlEta3ZvTlhZdWZGaUw?oc=5\" target=\"_blank\">Storms return to Middle Tennessee Tuesday with damaging wind risk, low-end tornado threat</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WZTV</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZl9iNFk5WGNMcm5DNXpBZ3R4elBOQXhuSWxQNGduNXQxUzA0Q05RZVhweFRDdWlsTV9UOHBUWUNON1ZPQll6VmJva01wNXo3bTBDNHpJUWNtZ3hESTNCTVlzcjZjYlVmLTJUZU0zdk56MnN1eEtIWEdIMHEyaHNIaExXNW1qeVN4T2xMREd1MUdiS3pZY0NxY9IBrAFBVV95cUxQLWFQcldOaVJFYXRNZjRQTkswUzBoVjUybUR1SFU4T1lZQjJKVEI5ZGVpSXczRW5VY3Jtd3Z2Q241Z1l5RkNTVjQ4Sk5GSmNqZVdfQkZGcUxsUll5RWYtWURVdDZTOXhuNF9MSGhDanVvWFNwWVptbW5WUG4yeWIta0ZSQUxVZEpXX2FMbWk5RDV2UzRtMnZ0ZWZvZnByR1NXVm5OSUtvb3BjSWct?oc=5",
-        "date": "2026-06-09",
-        "title": "Man rescues driver from submerged vehicle during flash flooding - KFVS12",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNZl9iNFk5WGNMcm5DNXpBZ3R4elBOQXhuSWxQNGduNXQxUzA0Q05RZVhweFRDdWlsTV9UOHBUWUNON1ZPQll6VmJva01wNXo3bTBDNHpJUWNtZ3hESTNCTVlzcjZjYlVmLTJUZU0zdk56MnN1eEtIWEdIMHEyaHNIaExXNW1qeVN4T2xMREd1MUdiS3pZY0NxY9IBrAFBVV95cUxQLWFQcldOaVJFYXRNZjRQTkswUzBoVjUybUR1SFU4T1lZQjJKVEI5ZGVpSXczRW5VY3Jtd3Z2Q241Z1l5RkNTVjQ4Sk5GSmNqZVdfQkZGcUxsUll5RWYtWURVdDZTOXhuNF9MSGhDanVvWFNwWVptbW5WUG4yeWIta0ZSQUxVZEpXX2FMbWk5RDV2UzRtMnZ0ZWZvZnByR1NXVm5OSUtvb3BjSWct?oc=5\" target=\"_blank\">Man rescues driver from submerged vehicle during flash flooding</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KFVS12</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNbkZWUm5XLUxBOERtY1JEUEJOZUkzTGJPZXRfeS1ZalQyOEliX05vSUNzUlVqWGNGQjl6aFZNaG5rMjI1N1h0RUFVNExTYWs1VV9kb3g4bFN1Nk5qZS1QeWZDS0xmOFFSSlJYN2NrZENieWd3X3lVOEc1bURGMWxWUktZaXN0MDVqLVg2cklVZm0zOEd0T1RNOTdlVW5NeHZKcE5Oa2g4eVdSMTNIRG94OXRDSzgyZw?oc=5",
-        "date": "2026-06-09",
-        "title": "Severe storms continue to roll through Middle Tennessee - The Tennessean",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNbkZWUm5XLUxBOERtY1JEUEJOZUkzTGJPZXRfeS1ZalQyOEliX05vSUNzUlVqWGNGQjl6aFZNaG5rMjI1N1h0RUFVNExTYWs1VV9kb3g4bFN1Nk5qZS1QeWZDS0xmOFFSSlJYN2NrZENieWd3X3lVOEc1bURGMWxWUktZaXN0MDVqLVg2cklVZm0zOEd0T1RNOTdlVW5NeHZKcE5Oa2g4eVdSMTNIRG94OXRDSzgyZw?oc=5\" target=\"_blank\">Severe storms continue to roll through Middle Tennessee</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Tennessean</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNNVNUNU1Od3ExT1FiZXlCeDdNZy04cFBnSTBOTGJqX0VJcWo4UTU5Qlpfam0wY1NyQ0gwQktNZWtBM1FDb2tid29DeG50SFM4enlZRE8yODR1QlZjWV9BMVd6MnoyaGI5ZDF6VXJObURfRjFSeGNEZTZLOTdHZHBIRC1kSGpPdzVKOEpSVXZLc3pEYk9IUHA0NDNCc2JUQm42dWNTdDJycUhQNTBxRExPbDVXaVdTTHd1QWZuTUVsNGxBT3hraGdhNk5SZVFab0Y0QWs0TmRsQWNLQU1I?oc=5",
-        "date": "2026-06-09",
-        "title": "'We got out safe': Drag queens and church group survive flash flooding - WHAS11",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxNNVNUNU1Od3ExT1FiZXlCeDdNZy04cFBnSTBOTGJqX0VJcWo4UTU5Qlpfam0wY1NyQ0gwQktNZWtBM1FDb2tid29DeG50SFM4enlZRE8yODR1QlZjWV9BMVd6MnoyaGI5ZDF6VXJObURfRjFSeGNEZTZLOTdHZHBIRC1kSGpPdzVKOEpSVXZLc3pEYk9IUHA0NDNCc2JUQm42dWNTdDJycUhQNTBxRExPbDVXaVdTTHd1QWZuTUVsNGxBT3hraGdhNk5SZVFab0Y0QWs0TmRsQWNLQU1I?oc=5\" target=\"_blank\">'We got out safe': Drag queens and church group survive flash flooding</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WHAS11</font>",
-        "similarity_excluded": "No",
-        "score": 5,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNdjdQMUdiSEZBajdPMjJjaDN6b3lhUTAzOGtzMGN6UTRYVGpJUE5fR19scE83YktUWWVFUVk3N2NwbWpjaEhGZmRfOTNtRXdNSGRCSXZwOG03WkZjeFpxRmEwZDItOGh0MWFXYkFHdzM0N1M1WDZxbWh0aEdlejRwVHl3NDhuczBpaEljaWE5UW5vMzNrc3pxUkJ3?oc=5",
-        "date": "2026-06-09",
-        "title": "Heavy rain, isolated flash flooding possible across region - Elizabethton Star",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNdjdQMUdiSEZBajdPMjJjaDN6b3lhUTAzOGtzMGN6UTRYVGpJUE5fR19scE83YktUWWVFUVk3N2NwbWpjaEhGZmRfOTNtRXdNSGRCSXZwOG03WkZjeFpxRmEwZDItOGh0MWFXYkFHdzM0N1M1WDZxbWh0aEdlejRwVHl3NDhuczBpaEljaWE5UW5vMzNrc3pxUkJ3?oc=5\" target=\"_blank\">Heavy rain, isolated flash flooding possible across region</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Elizabethton Star</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPeDNvYzNRT0hua05qZ3FKVlBWOGU3YVJ2VGxUUE1zTm9sZFRwdVlQQWFvMGtlcDhVSmRXbXpuNC00YVhhVFNldXQwVDRub19QTFAyNENfbDY2Qm9jeVNaeWNYUXVROUVUSWt5aGd2Um0wazJOLXAzZ21ybk5lWkg0SVExaXJweXNZLTdOLWgxa2pUc2dvb3B3bw?oc=5",
-        "date": "2026-06-09",
-        "title": "Cape Girardeau businesses cleaning up after flash flooding - KFVS12",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPeDNvYzNRT0hua05qZ3FKVlBWOGU3YVJ2VGxUUE1zTm9sZFRwdVlQQWFvMGtlcDhVSmRXbXpuNC00YVhhVFNldXQwVDRub19QTFAyNENfbDY2Qm9jeVNaeWNYUXVROUVUSWt5aGd2Um0wazJOLXAzZ21ybk5lWkg0SVExaXJweXNZLTdOLWgxa2pUc2dvb3B3bw?oc=5\" target=\"_blank\">Cape Girardeau businesses cleaning up after flash flooding</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KFVS12</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZUI1TVV1NUtFdWxkVzRvNmkwMXBOR1Y4bzFsMTZpQk5YdFpfQUlNNUowSFBDeS04cVhvMVAzQXhiZTFpUmh6Q1Q5NGwwTWlweG9BQjdrdG1aN3hlejhOcWlFU2swZVlXNW5vbjR2MTJZNjkzQnVPZ25RZ2xJNUdUMkM2QUM1V2xnYkd3VFBmTTdrUlRoZjBtRHktMlgzVzVOWFI1MXh1S05LODhOcTlCeENuTnlFS3MzNEsxZg?oc=5",
-        "date": "2026-06-09",
-        "title": "Water recedes in downtown Corydon after flash flood - WDRB",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxPZUI1TVV1NUtFdWxkVzRvNmkwMXBOR1Y4bzFsMTZpQk5YdFpfQUlNNUowSFBDeS04cVhvMVAzQXhiZTFpUmh6Q1Q5NGwwTWlweG9BQjdrdG1aN3hlejhOcWlFU2swZVlXNW5vbjR2MTJZNjkzQnVPZ25RZ2xJNUdUMkM2QUM1V2xnYkd3VFBmTTdrUlRoZjBtRHktMlgzVzVOWFI1MXh1S05LODhOcTlCeENuTnlFS3MzNEsxZg?oc=5\" target=\"_blank\">Water recedes in downtown Corydon after flash flood</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WDRB</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPYTdBWEc0OXI0RTdsYVdNaWdqTHFrakFDTl93ZkZrVnh0dGZwUXcyMkZPOHhNYnJZZ2cwN2hJbEt5OFEzb1VrSmRsUXhzSEtCdzJ0Z0h0cU1LTkdOcUhxRDhGbktPbi1ScHFWS1IwNXQ1Tl91eFFUcGxvR0wwWnhTSmR5bw?oc=5",
-        "date": "2026-06-09",
-        "title": "These Kentucky counties are under a flood warning - AOL.com",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxPYTdBWEc0OXI0RTdsYVdNaWdqTHFrakFDTl93ZkZrVnh0dGZwUXcyMkZPOHhNYnJZZ2cwN2hJbEt5OFEzb1VrSmRsUXhzSEtCdzJ0Z0h0cU1LTkdOcUhxRDhGbktPbi1ScHFWS1IwNXQ1Tl91eFFUcGxvR0wwWnhTSmR5bw?oc=5\" target=\"_blank\">These Kentucky counties are under a flood warning</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AOL.com</font>",
-        "similarity_excluded": "No",
-        "score": 8,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNWW5CN19EeFVfOHV6YzltZVhfdFk3RGlEWGplTzlNR0c3anU4N2dwZnAyZFQzTEN5bjkwWkxKZF82cWhFMm81dF85bVF4Y2ctRW9kcXFVQzZoNHlMQjhyWWNlRHZwZ2JvMWNMV2NrbjlnN3FJa2E5V2NoYmZ1dVY4YURaYjJNVzZmSlJSUTdUZl8zc1BvM3ZhLXdLWjdidkwzcE5kVmEtZTVxSTFtSDY1aXZwV1BkQlZPNTFjZGtaZ2txWEJGOEE?oc=5",
-        "date": "2026-06-09",
-        "title": "RAW: IN: LANESVILLE FLASH FLOODING - KOAM News Now",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxNWW5CN19EeFVfOHV6YzltZVhfdFk3RGlEWGplTzlNR0c3anU4N2dwZnAyZFQzTEN5bjkwWkxKZF82cWhFMm81dF85bVF4Y2ctRW9kcXFVQzZoNHlMQjhyWWNlRHZwZ2JvMWNMV2NrbjlnN3FJa2E5V2NoYmZ1dVY4YURaYjJNVzZmSlJSUTdUZl8zc1BvM3ZhLXdLWjdidkwzcE5kVmEtZTVxSTFtSDY1aXZwV1BkQlZPNTFjZGtaZ2txWEJGOEE?oc=5\" target=\"_blank\">RAW: IN: LANESVILLE FLASH FLOODING</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KOAM News Now</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUDk1SDNXMGVmRm84Q3lZTVV3MFhWSzZFQ0VZTGxXQWViVkNjZVpTUGFDb3FleWNqM0FKYjJUaUhFRmY2ZExtUXB1ZHIxSzgzU0xFcDRNOEpoZlZDeG5QNmN4eG1HWVNFZ0doYjV5a0F5UlMwNUhiR2xfR1U0VF81d1c3VGRENV9lMXdtbXNMelB2aVJxUGJKNU9ab25wNDRzUl96d29mY1FTMDNhOU43ZHVPQ2QtcGRJZFZZRDZB?oc=5",
-        "date": "2026-06-09",
-        "title": "Flash flooding leaves Indiana towns underwater - AccuWeather",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxPUDk1SDNXMGVmRm84Q3lZTVV3MFhWSzZFQ0VZTGxXQWViVkNjZVpTUGFDb3FleWNqM0FKYjJUaUhFRmY2ZExtUXB1ZHIxSzgzU0xFcDRNOEpoZlZDeG5QNmN4eG1HWVNFZ0doYjV5a0F5UlMwNUhiR2xfR1U0VF81d1c3VGRENV9lMXdtbXNMelB2aVJxUGJKNU9ab25wNDRzUl96d29mY1FTMDNhOU43ZHVPQ2QtcGRJZFZZRDZB?oc=5\" target=\"_blank\">Flash flooding leaves Indiana towns underwater</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AccuWeather</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNenFKaThDTktTMGRsLTFzRlVMT3ZsMTRtWHdZd0RHdHJxMVE2M3lEWjdXQmpEaEVORVhUc0dobkFDYXlnTUo3UTJ6SFJCc25JT0FMVGRTZk5iM0NVZVZzZUxpS25UWGhORENrUmZ6ZDhEelp0ck9VWnY1RTdjNk8waQ?oc=5",
-        "date": "2026-06-09",
-        "title": "Tornado warning issued, canceled for Wayne County. What's happening - AOL.com",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxNenFKaThDTktTMGRsLTFzRlVMT3ZsMTRtWHdZd0RHdHJxMVE2M3lEWjdXQmpEaEVORVhUc0dobkFDYXlnTUo3UTJ6SFJCc25JT0FMVGRTZk5iM0NVZVZzZUxpS25UWGhORENrUmZ6ZDhEelp0ck9VWnY1RTdjNk8waQ?oc=5\" target=\"_blank\">Tornado warning issued, canceled for Wayne County. What's happening</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AOL.com</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOd0ZfRlpYZTgxMmRWSmljNk5QN3B3Y29KVk0wNkVrQWlmT1RPNFoxQXNkcm81dW5CT1A1eWo5eFFrYjd6UGIwRnZDNTNrMVJxcEJmZVNFSVlmaFgzSUNtbW9zQmlHM3FPXzZUV2NHOTRLbWlHak10UmhrOUtRTk1XcFZBM0psX0VfcmFKZjZTUklwcjNRWFh3QzdoU2lTS0p6cnRvMF81MmdPckI1NlJ2eV81b0Q1M20yMjNrUlYzY1FoamctbTJuVnpCbF96X3lPWWlIZ05mTmlaV19vblVXUThNblFQQQ?oc=5",
-        "date": "2026-06-09",
-        "title": "Health center director gives health tips as Cape Girardeau residents, business owners clean up flood damage - seMissourian",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxOd0ZfRlpYZTgxMmRWSmljNk5QN3B3Y29KVk0wNkVrQWlmT1RPNFoxQXNkcm81dW5CT1A1eWo5eFFrYjd6UGIwRnZDNTNrMVJxcEJmZVNFSVlmaFgzSUNtbW9zQmlHM3FPXzZUV2NHOTRLbWlHak10UmhrOUtRTk1XcFZBM0psX0VfcmFKZjZTUklwcjNRWFh3QzdoU2lTS0p6cnRvMF81MmdPckI1NlJ2eV81b0Q1M20yMjNrUlYzY1FoamctbTJuVnpCbF96X3lPWWlIZ05mTmlaV19vblVXUThNblFQQQ?oc=5\" target=\"_blank\">Health center director gives health tips as Cape Girardeau residents, business owners clean up flood damage</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">seMissourian</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": null,
         "date": "2026-06-10",
         "status": "posted",
         "tweet": "Asia monsoon flood displacement (M people/yr, 2020-2025 avg):\n1. \ud83c\uddee\ud83c\uddf3 India: 45\n2. \ud83c\udde7\ud83c\udde9 Bangladesh: 22\n3. \ud83c\uddf5\ud83c\uddf0 Pakistan: 12\n4. \ud83c\udde8\ud83c\uddf3 China: 10\n5. \ud83c\uddfb\ud83c\uddf3 Vietnam: 8",
@@ -18214,5 +17230,222 @@
         "type": "statistical",
         "category": "coverage of flood early warning systems worldwide",
         "tweet_id": "2074994317345673405"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5YaWx4SVBpYTFWLWNOVXZRakNzOHBxb3VFdU5tU04wLU80Wk11bVgyM0phYS1NT05NdFlDTGpMTGpiOUZ6RnRObjlVZzEwM1JmdEp4UWNlWUV3VFhmbV9SMm9tOGFyM3NoT196TmNwRzB0QUN6U2tQVllRMFZ6QQ?oc=5",
+        "date": "2026-07-09",
+        "title": "UPDATE: Surry County under a flash flood warning until Wednesday night - Charlotte Observer",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE5YaWx4SVBpYTFWLWNOVXZRakNzOHBxb3VFdU5tU04wLU80Wk11bVgyM0phYS1NT05NdFlDTGpMTGpiOUZ6RnRObjlVZzEwM1JmdEp4UWNlWUV3VFhmbV9SMm9tOGFyM3NoT196TmNwRzB0QUN6U2tQVllRMFZ6QQ?oc=5\" target=\"_blank\">UPDATE: Surry County under a flash flood warning until Wednesday night</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Charlotte Observer</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQTjRzUnd4SThhYzFDbU5GSjZYRy1zUlAzSHdHYWlWRGJ0RkFkeGc3OWdCTWdUSUZtbGliY2JZS2dIblAxSG5FTi1OTENhNVVuUEJVd1BfNW5LQXBwM3lmMEZlOWJ4YUkwdlBWdEZEQ3YzR1FDc2tGU1dzUWUyTDRHMlI0SkFKemFlSlA2c0RPOWxLUDZweDVoVS1tYWRnems1SmlpQzlB?oc=5",
+        "date": "2026-07-09",
+        "title": "Southern Colorado will see more storm chances ahead with a risk of flooding - KKTV",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQTjRzUnd4SThhYzFDbU5GSjZYRy1zUlAzSHdHYWlWRGJ0RkFkeGc3OWdCTWdUSUZtbGliY2JZS2dIblAxSG5FTi1OTENhNVVuUEJVd1BfNW5LQXBwM3lmMEZlOWJ4YUkwdlBWdEZEQ3YzR1FDc2tGU1dzUWUyTDRHMlI0SkFKemFlSlA2c0RPOWxLUDZweDVoVS1tYWRnems1SmlpQzlB?oc=5\" target=\"_blank\">Southern Colorado will see more storm chances ahead with a risk of flooding</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KKTV</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOQzhRSl9uOFFCUjAwaWw0NFhHbXN5VHV6UjR0VjNlQ0g2WlZHWE9ZY2JMNEstN2pOMTh4ZTFnd0diM2FUNGVWbk1DMzVSaVAyQkM3OFN2TXJ3TmRoek0yWjY5cG80OU1EeGw2UFlJWjROSk41VjdENVBxU3FMbURkaw?oc=5",
+        "date": "2026-07-09",
+        "title": "How meteorologists calculate flash flood risk | Weather Talk - WBAL-TV",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxOQzhRSl9uOFFCUjAwaWw0NFhHbXN5VHV6UjR0VjNlQ0g2WlZHWE9ZY2JMNEstN2pOMTh4ZTFnd0diM2FUNGVWbk1DMzVSaVAyQkM3OFN2TXJ3TmRoek0yWjY5cG80OU1EeGw2UFlJWjROSk41VjdENVBxU3FMbURkaw?oc=5\" target=\"_blank\">How meteorologists calculate flash flood risk | Weather Talk</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WBAL-TV</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUnR2bnFGTHpxNXlMQ3gwSldCTGRVR1BmbzhqT3gxdmR3aFBVR1VzLWNodUhDeERtNlpKZjZkMmUtdnFXT3ZYRElkc29lejMxYkhYUG1hYnJidnBqajk3dGZtVlZrNnNuT1VEVkpvNEJ4RXJBczVOVkdVZVc5cXhuWThkR0xLRlVuaVZqd3RCdGpUYlg2RHIxbko5aVVnREVIMVczUkJOYktmMmw3TEMwVtIBxAFBVV95cUxQZWVKWTFTN3dQNWV1c0xRVnhOZXRyUUs0VGRaa3BIdV9xU3RKUzNqcjlsSFRydDc0U002RlpuZXNoYkxGOXd4dHJ4MzZoUGJoM0U1LVMwX0VKMUJkbDktaFJGLTNJQ1FJM0VXdng3YXJrRGtNYUFFZ1FsR1cwZ3FVbmFla0ZfenhXeUp0akdSdkhCTnJPQkE0VVNnVWZOMEVDM3huWUxnbVdUVlBPVXVWY0UzdUZOQ2ZxNnF3OTJ6anctMGFM?oc=5",
+        "date": "2026-07-09",
+        "title": "FIRST ALERT: Lingering flood risk south before drier days ahead - Upper Michigan's Source",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOUnR2bnFGTHpxNXlMQ3gwSldCTGRVR1BmbzhqT3gxdmR3aFBVR1VzLWNodUhDeERtNlpKZjZkMmUtdnFXT3ZYRElkc29lejMxYkhYUG1hYnJidnBqajk3dGZtVlZrNnNuT1VEVkpvNEJ4RXJBczVOVkdVZVc5cXhuWThkR0xLRlVuaVZqd3RCdGpUYlg2RHIxbko5aVVnREVIMVczUkJOYktmMmw3TEMwVtIBxAFBVV95cUxQZWVKWTFTN3dQNWV1c0xRVnhOZXRyUUs0VGRaa3BIdV9xU3RKUzNqcjlsSFRydDc0U002RlpuZXNoYkxGOXd4dHJ4MzZoUGJoM0U1LVMwX0VKMUJkbDktaFJGLTNJQ1FJM0VXdng3YXJrRGtNYUFFZ1FsR1cwZ3FVbmFla0ZfenhXeUp0akdSdkhCTnJPQkE0VVNnVWZOMEVDM3huWUxnbVdUVlBPVXVWY0UzdUZOQ2ZxNnF3OTJ6anctMGFM?oc=5\" target=\"_blank\">FIRST ALERT: Lingering flood risk south before drier days ahead</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Upper Michigan's Source</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNQ3hadFRqc1ZlcUpKS1BHTDdrNmh2U3I1LUlZZ2dBLWEwcVdDc1FrWEpKeVNOZFVrN1V6MTVUbTFyaGZkeXpTc2o4RHZMc0p0VlRzVDlEY2EwTUNPcVdxNmYtLURwNklmd01SMkplRHh5VFRRd2RKNTFrQmNyQUctZGEwMUZkcEZZZTN2aUh2c1RFdm5Wcnh3UzJsQkJzbUJNLWk0cWdvdmxqS3N4X3R5WlVVRGFxYlR2dDlCVw?oc=5",
+        "date": "2026-07-09",
+        "title": "Flash flood threats continue into the evening - KIMT",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxNQ3hadFRqc1ZlcUpKS1BHTDdrNmh2U3I1LUlZZ2dBLWEwcVdDc1FrWEpKeVNOZFVrN1V6MTVUbTFyaGZkeXpTc2o4RHZMc0p0VlRzVDlEY2EwTUNPcVdxNmYtLURwNklmd01SMkplRHh5VFRRd2RKNTFrQmNyQUctZGEwMUZkcEZZZTN2aUh2c1RFdm5Wcnh3UzJsQkJzbUJNLWk0cWdvdmxqS3N4X3R5WlVVRGFxYlR2dDlCVw?oc=5\" target=\"_blank\">Flash flood threats continue into the evening</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KIMT</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOY1lTVXZ5WHY0dUpqLXZKelJ0dFJybkR4U3VKX3l2bTliaWdkcnZkU2RLYWRGZnV6endndDl5UTFsQlFVTnpzLXp6MlBpOHR5SndrRlY2c0ZrLWVaUjV1a0pPbGN6TWdpTmpaWi13MkpxbTN2TnBBOUU3R2JyMzZHeXZ2WEgyVUp3ejJndlF0V2RaVENuVEptTUhHbFRzM1VIM0VUbXZISC1yTEMxVUlOQV9zREhqR1JfRlJVMy00S3duUQ?oc=5",
+        "date": "2026-07-09",
+        "title": "Downpours may rapidly elevate flash flood risk centered on Kentucky - AccuWeather",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxOY1lTVXZ5WHY0dUpqLXZKelJ0dFJybkR4U3VKX3l2bTliaWdkcnZkU2RLYWRGZnV6endndDl5UTFsQlFVTnpzLXp6MlBpOHR5SndrRlY2c0ZrLWVaUjV1a0pPbGN6TWdpTmpaWi13MkpxbTN2TnBBOUU3R2JyMzZHeXZ2WEgyVUp3ejJndlF0V2RaVENuVEptTUhHbFRzM1VIM0VUbXZISC1yTEMxVUlOQV9zREhqR1JfRlJVMy00S3duUQ?oc=5\" target=\"_blank\">Downpours may rapidly elevate flash flood risk centered on Kentucky</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AccuWeather</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOVVJ2bmlBVGVaUEpMQ0FWZ0c0VW1PMEx3ZW9aeHBxZEl2TDVYOG8wQ2l4UmpUYnRGRDFkek0teEhUbEs3Mk5DaFZBRHZCQzVrNGlESWQ0NnRaM1hzLXh6VVdnU0p4UHAzZHdtWldMdjBfbHpxeXdNRFZGenhoT0lWNllHa0Q2SnBqSEFoS3dNMC0zcjdRYVN5TmRFWEJLdUdWcXppdy1JWm1BZmU3WXl2T1lYUE5IWTNoY2ZWYmxSTUxiZE84dmc?oc=5",
+        "date": "2026-07-09",
+        "title": "Flooded roads prompt travel warning in Mower County - KIMT",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxOVVJ2bmlBVGVaUEpMQ0FWZ0c0VW1PMEx3ZW9aeHBxZEl2TDVYOG8wQ2l4UmpUYnRGRDFkek0teEhUbEs3Mk5DaFZBRHZCQzVrNGlESWQ0NnRaM1hzLXh6VVdnU0p4UHAzZHdtWldMdjBfbHpxeXdNRFZGenhoT0lWNllHa0Q2SnBqSEFoS3dNMC0zcjdRYVN5TmRFWEJLdUdWcXppdy1JWm1BZmU3WXl2T1lYUE5IWTNoY2ZWYmxSTUxiZE84dmc?oc=5\" target=\"_blank\">Flooded roads prompt travel warning in Mower County</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KIMT</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNSm5NOEtqRUdQZW5keFVsYXkxWEJ6NEU3UGdSMEVkT2dLQWd6dk9TUUdJU2E1T1hkRnJuMU5wT0wwMXEyOHg0V19yZ1RBdUh2SU82RjlmT09kcm1IVlRvdXZ0cUFxZkFLeHhNWVlvTmpzOFRYakdfQzFXQ1Z1LUwzb2ZST2MycFlUZEhpTkdRSnNjQjVybjljTkdKWUE3MW9MU0MxMWRteS1zNEpsb05CTXRvd3JaUUZORm5CRnlBa3VwLXZUUXlFMDVZUG9jbjduWkpEcUhrX20wd2lXZ25jcGswRzhrY1JtaGZDd3cyUQ?oc=5",
+        "date": "2026-07-09",
+        "title": "7/8/26: Rutherford County Forecast | Flash Flood Warning: 7\u2026 - Rutherford Source",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxNSm5NOEtqRUdQZW5keFVsYXkxWEJ6NEU3UGdSMEVkT2dLQWd6dk9TUUdJU2E1T1hkRnJuMU5wT0wwMXEyOHg0V19yZ1RBdUh2SU82RjlmT09kcm1IVlRvdXZ0cUFxZkFLeHhNWVlvTmpzOFRYakdfQzFXQ1Z1LUwzb2ZST2MycFlUZEhpTkdRSnNjQjVybjljTkdKWUE3MW9MU0MxMWRteS1zNEpsb05CTXRvd3JaUUZORm5CRnlBa3VwLXZUUXlFMDVZUG9jbjduWkpEcUhrX20wd2lXZ25jcGswRzhrY1JtaGZDd3cyUQ?oc=5\" target=\"_blank\">7/8/26: Rutherford County Forecast | Flash Flood Warning: 7\u2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Rutherford Source</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": null,
+        "tweet_id": "2075027552041640086",
+        "geo": {
+            "country": "United States",
+            "name": "Rutherford County, Tennessee",
+            "latitude": 35.8456,
+            "longitude": -86.3903,
+            "confidence": 0.9
+        }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPTXpYLU5VV3BLZ3hKUnZzczVvUHVLM2xQOEZQdTZoU0RnT09MYVZ3R0dEZ1F5cnF3dGJkUDZCWjlaVXpXZzRLNXVsazdVSFozWW41R0lVaE44WnJ5cHAxRDZvMkpKeXR5aldNSHVhZVdFS2g3c1RadS1FZEJweWFuV0o1b3k5ZzNzVkRtbUtJclA5WU10LUZ5V1cxd3UzXzVqZEJfY1pIUEV1UTk2T1JCX0gwMWpPRDd0eHNoUWRIbXVydUR2RkdnWDEzVkx1azhseFd3ZkUxZXBUN19C?oc=5",
+        "date": "2026-07-09",
+        "title": "10 days into battling Aspen Acres Fire, flash flood risk adds new concern for firefighters, front line crews - Denver7",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxPTXpYLU5VV3BLZ3hKUnZzczVvUHVLM2xQOEZQdTZoU0RnT09MYVZ3R0dEZ1F5cnF3dGJkUDZCWjlaVXpXZzRLNXVsazdVSFozWW41R0lVaE44WnJ5cHAxRDZvMkpKeXR5aldNSHVhZVdFS2g3c1RadS1FZEJweWFuV0o1b3k5ZzNzVkRtbUtJclA5WU10LUZ5V1cxd3UzXzVqZEJfY1pIUEV1UTk2T1JCX0gwMWpPRDd0eHNoUWRIbXVydUR2RkdnWDEzVkx1azhseFd3ZkUxZXBUN19C?oc=5\" target=\"_blank\">10 days into battling Aspen Acres Fire, flash flood risk adds new concern for firefighters, front line crews</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Denver7</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPcGdNSkQtSm4xRHpDbkxPZTRFUzlfamtwQzFqTm9RYl9kQzJCYllFd1ZtdF9heW5QaWd6WG1KU1N4dUV0Uks2ZDFmV1IwYnNjdFRUV2NpMEcwMzdFZ3ZhNzdiSDN1dEtRODZvaGc3LURaMVFaN3RiRklxS0gxRlVxTTIwRlhSZDY4bjVKSVI3WkItMl85eC02b3hqMXBKZDVmdFFRb3doNmZ0TzlLdmlsVUVZUmNROHFVZzdSQlJlLWJhNkE5SlpocXg5dFZYek9zc2hGQ3JRQWtkTjYyeVBUZW1QeGozTlM0TG1tbFZTQjNmSkJIQ0Nj?oc=5",
+        "date": "2026-07-09",
+        "title": "7/8/26: Rutherford County Forecast | Flash Flood Warning: 7\u2026 - Rutherford Source",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9wFBVV95cUxPcGdNSkQtSm4xRHpDbkxPZTRFUzlfamtwQzFqTm9RYl9kQzJCYllFd1ZtdF9heW5QaWd6WG1KU1N4dUV0Uks2ZDFmV1IwYnNjdFRUV2NpMEcwMzdFZ3ZhNzdiSDN1dEtRODZvaGc3LURaMVFaN3RiRklxS0gxRlVxTTIwRlhSZDY4bjVKSVI3WkItMl85eC02b3hqMXBKZDVmdFFRb3doNmZ0TzlLdmlsVUVZUmNROHFVZzdSQlJlLWJhNkE5SlpocXg5dFZYek9zc2hGQ3JRQWtkTjYyeVBUZW1QeGozTlM0TG1tbFZTQjNmSkJIQ0Nj?oc=5\" target=\"_blank\">7/8/26: Rutherford County Forecast | Flash Flood Warning: 7\u2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Rutherford Source</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPcTIxYkFDYzlpVzJ1RVZLcE1rWFgtNFUtMllTTXNUUHhfT3lyMGRzcExWM0xZT1VnTFRLV3NKX3pjRVVqWkh5UU16U3h4RDk3QW9GUkpFYlNYU3dCVW5rV05RYjQ3dENsZEVPamdUV0h4YzlEY3NrQkZZMW1mclFzbWh4OWh4aUlfay1XeG1JM3NOR0g5ZmdVcUN5bmxTUTlJUVVfTQ?oc=5",
+        "date": "2026-07-09",
+        "title": "Flash flood warning issued for northern Freeborn County - Albert Lea Tribune",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPcTIxYkFDYzlpVzJ1RVZLcE1rWFgtNFUtMllTTXNUUHhfT3lyMGRzcExWM0xZT1VnTFRLV3NKX3pjRVVqWkh5UU16U3h4RDk3QW9GUkpFYlNYU3dCVW5rV05RYjQ3dENsZEVPamdUV0h4YzlEY3NrQkZZMW1mclFzbWh4OWh4aUlfay1XeG1JM3NOR0g5ZmdVcUN5bmxTUTlJUVVfTQ?oc=5\" target=\"_blank\">Flash flood warning issued for northern Freeborn County</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Albert Lea Tribune</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZTN3dFpVdjRlMjluYWZaQ255REdJcEhmdW0talUzUE1PNVVZVV9HazM3V0dLdmtqSF9TZGhKR3pBX3JKYVZULW82N3lVbnV5blhMNVJqUE9vTklldVJHeXdTcTJKZDQ4b0dvZm96LWlOd2FaY3owcnpoYmcwb19tWVpmV2ZjYlp1eW1qLTRBNG10SWVTMk5hUjF5NTljd9IBowFBVV95cUxOcWFfZmN3N0J5aDNkYVU0WjQ3bFhleldBaVhkWHlPYURUTUVlMTRhNkkwOHBpMEJiVFQyLXZrRmcwcDByaEFyTGdzSE0yRE4tckQ5LVpQcFlYeFFHVzctVDUyWGZqWjF4OXhyd0tKV1ZTYUc4R1Jac0FRbnkwYkYtSWhlVmFkbHRnMFBCbk1uMWs2VmdJRlpKejlYdVE5TkR2VE5B?oc=5",
+        "date": "2026-07-09",
+        "title": "Kentucky weather tomorrow: Flash flooding threat increases - FOX 56 News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPZTN3dFpVdjRlMjluYWZaQ255REdJcEhmdW0talUzUE1PNVVZVV9HazM3V0dLdmtqSF9TZGhKR3pBX3JKYVZULW82N3lVbnV5blhMNVJqUE9vTklldVJHeXdTcTJKZDQ4b0dvZm96LWlOd2FaY3owcnpoYmcwb19tWVpmV2ZjYlp1eW1qLTRBNG10SWVTMk5hUjF5NTljd9IBowFBVV95cUxOcWFfZmN3N0J5aDNkYVU0WjQ3bFhleldBaVhkWHlPYURUTUVlMTRhNkkwOHBpMEJiVFQyLXZrRmcwcDByaEFyTGdzSE0yRE4tckQ5LVpQcFlYeFFHVzctVDUyWGZqWjF4OXhyd0tKV1ZTYUc4R1Jac0FRbnkwYkYtSWhlVmFkbHRnMFBCbk1uMWs2VmdJRlpKejlYdVE5TkR2VE5B?oc=5\" target=\"_blank\">Kentucky weather tomorrow: Flash flooding threat increases</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FOX 56 News</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPRHhUWEpqeXdtUkNWTUJWdHhfWkNGb2phbWRvWWxuWVF1MWF4c1VFV2I3b3dGT0dSUWs0eEFWeGRKQ1JtTF90YjBLN0h1aDZpd0Z5LXVhM2lTb0ZpRk1PbkJTbThZbEVDYk9kTTZPMWp0YWZFY003R1ZuV3ZrY1VxTG1pT3RHNkhneUhpNkJjU2MzSnRZbm5zUV9KYzZBNXFnMGs1b0Q1VC04RjYtWkRiZGR0ZnBLZzNCNjEyQmF5VDBxMFBXSDY2NA?oc=5",
+        "date": "2026-07-09",
+        "title": "Daily storm chances continue with Flash Flooding Risk for the Aspen Acres burn area - KRDO",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxPRHhUWEpqeXdtUkNWTUJWdHhfWkNGb2phbWRvWWxuWVF1MWF4c1VFV2I3b3dGT0dSUWs0eEFWeGRKQ1JtTF90YjBLN0h1aDZpd0Z5LXVhM2lTb0ZpRk1PbkJTbThZbEVDYk9kTTZPMWp0YWZFY003R1ZuV3ZrY1VxTG1pT3RHNkhneUhpNkJjU2MzSnRZbm5zUV9KYzZBNXFnMGs1b0Q1VC04RjYtWkRiZGR0ZnBLZzNCNjEyQmF5VDBxMFBXSDY2NA?oc=5\" target=\"_blank\">Daily storm chances continue with Flash Flooding Risk for the Aspen Acres burn area</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KRDO</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQcGpMay03NEN6eVh5YjN6TkdtQkZmQlZvRE1KRm9HOGpSdDVEcDZjRl9MWUZIenNDMFBvNzB6ZURwWlpWRHZLODhDcTd6Qk1CbmZyQ2p6RTBSZXgzOHRZTkpMSzZxbnp2NFYxTGwxUVp6Z2tlSC1VdXZfR3NnenNOUFlSb1dRZ1NBMmZnUU5sU2diZS13N1FiMGx0Unk2UnIxdS1idXJEOW5TT0I2U2xXby1adncwZw?oc=5",
+        "date": "2026-07-09",
+        "title": "Afternoon rains put parts of Mower County into flash flood w... - Austin Daily Herald",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQcGpMay03NEN6eVh5YjN6TkdtQkZmQlZvRE1KRm9HOGpSdDVEcDZjRl9MWUZIenNDMFBvNzB6ZURwWlpWRHZLODhDcTd6Qk1CbmZyQ2p6RTBSZXgzOHRZTkpMSzZxbnp2NFYxTGwxUVp6Z2tlSC1VdXZfR3NnenNOUFlSb1dRZ1NBMmZnUU5sU2diZS13N1FiMGx0Unk2UnIxdS1idXJEOW5TT0I2U2xXby1adncwZw?oc=5\" target=\"_blank\">Afternoon rains put parts of Mower County into flash flood w...</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Austin Daily Herald</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPOHdtTWNsLUQxVExRbnNxVlI3ZzR6eGp6YmJHbTJWWFhHSGhTcWE5Nm5IOFVXTl9hdmxCdXRIaUVoYXBEYWtBYzJvdXplX0pzSmlWSDJLb3BiLVRycExpUHM1UnpQZEQySFFhRG5aLVlDcVRtMzNkWC1LajZkYnY1XzY4azAxSmsyNW9FOEhSZnZJNzhsSjVJQjVWMk9LYTV0TUJ6WWlQcEJNQnk0X0M1djA0dGRwd3dyQlAxRnFiQ1NTb3l0NWtYU0RkTm1ULTBDbFE?oc=5",
+        "date": "2026-07-09",
+        "title": "7/8/26: Severe Flash Flood Warning Issued, Overcast with High of 86 and Current Temp 78; Moderate Drizzle Ton\u2026 - Williamson Source",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxPOHdtTWNsLUQxVExRbnNxVlI3ZzR6eGp6YmJHbTJWWFhHSGhTcWE5Nm5IOFVXTl9hdmxCdXRIaUVoYXBEYWtBYzJvdXplX0pzSmlWSDJLb3BiLVRycExpUHM1UnpQZEQySFFhRG5aLVlDcVRtMzNkWC1LajZkYnY1XzY4azAxSmsyNW9FOEhSZnZJNzhsSjVJQjVWMk9LYTV0TUJ6WWlQcEJNQnk0X0M1djA0dGRwd3dyQlAxRnFiQ1NTb3l0NWtYU0RkTm1ULTBDbFE?oc=5\" target=\"_blank\">7/8/26: Severe Flash Flood Warning Issued, Overcast with High of 86 and Current Temp 78; Moderate Drizzle Ton\u2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Williamson Source</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOdmJrcWRla05kUUR2NWdDRm5keDg0dldtU1pkOHNNNXhSeG03TENRS21QUXlIZzl3UFN6N0VfUndmNjd4aHZzeW85SlZueWxodU1hQWM3QnNydXlOYzBPV1gwMnZKN1loOU5UcGVjdGUwZVhyaVMxdkdGN3F2X2NnQ1VVYmpUNFlyaWNnWVN4Y1FvbU9zdjB3alhPWkVHU2o2Ql9MTTk1OGZqQ0MxT1h4RklWT3lLcTlCdjI2ZXVqX19mcTly?oc=5",
+        "date": "2026-07-09",
+        "title": "7/8/26: Severe Flash Flood Warning Issued - Partly Cloudy with Highs Near 86 and Current Temp at 79 - Williamson Source",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxOdmJrcWRla05kUUR2NWdDRm5keDg0dldtU1pkOHNNNXhSeG03TENRS21QUXlIZzl3UFN6N0VfUndmNjd4aHZzeW85SlZueWxodU1hQWM3QnNydXlOYzBPV1gwMnZKN1loOU5UcGVjdGUwZVhyaVMxdkdGN3F2X2NnQ1VVYmpUNFlyaWNnWVN4Y1FvbU9zdjB3alhPWkVHU2o2Ql9MTTk1OGZqQ0MxT1h4RklWT3lLcTlCdjI2ZXVqX19mcTly?oc=5\" target=\"_blank\">7/8/26: Severe Flash Flood Warning Issued - Partly Cloudy with Highs Near 86 and Current Temp at 79</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Williamson Source</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5rOWh5RDhlLTZObjJlR0hURFZmRjFIcVFlUkVlTjBtUXRfS0ZzNFdMWldBcWdQeEJSTlVpOVRMcXd0cVlVMVA5NkxIb00yMUlMQWFtYWVucElYWXlxRU5henRndVlvdDFhUEg0cjB0YXlvOUlqZWp6QQ?oc=5",
+        "date": "2026-07-09",
+        "title": "Bangladesh landslide kills 8 Rohingya students - Diya TV",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE5rOWh5RDhlLTZObjJlR0hURFZmRjFIcVFlUkVlTjBtUXRfS0ZzNFdMWldBcWdQeEJSTlVpOVRMcXd0cVlVMVA5NkxIb00yMUlMQWFtYWVucElYWXlxRU5henRndVlvdDFhUEg0cjB0YXlvOUlqZWp6QQ?oc=5\" target=\"_blank\">Bangladesh landslide kills 8 Rohingya students</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Diya TV</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPOTF6YjVMRnF0WHJKVkFhMFJTSU9NSVFteTNKd3JqQ0VmTlFVUms0R2MxMXlpbWV0YnNUOEJjM1JIRFNOMUV6YVAwOVc1ODRESFRYUWd2b3M2emlMM3dobmlFTDViMFQ0Y2E0NkxTZjk2VlJueFhiUGxlcktmZnU5dC1IVWVISGVTNW5lYjVBa3EyRU9tdFprTmtQTkJzMDI3?oc=5",
+        "date": "2026-07-09",
+        "title": "Seven killed in Cox\u2019s Bazar, Ctg landslides - The Daily Star",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPOTF6YjVMRnF0WHJKVkFhMFJTSU9NSVFteTNKd3JqQ0VmTlFVUms0R2MxMXlpbWV0YnNUOEJjM1JIRFNOMUV6YVAwOVc1ODRESFRYUWd2b3M2emlMM3dobmlFTDViMFQ0Y2E0NkxTZjk2VlJueFhiUGxlcktmZnU5dC1IVWVISGVTNW5lYjVBa3EyRU9tdFprTmtQTkJzMDI3?oc=5\" target=\"_blank\">Seven killed in Cox\u2019s Bazar, Ctg landslides</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Daily Star</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMizgJBVV95cUxPanJCV241cWNBYl9KRTBEWTZyNkxPTTJNby1rSkRrdzBYWG1UM19IUEh1ZGN5aUprRFFYRUl3cnhzSS1DTnBPbExhb3ktVGZUMDZlNnloOTBJcmozaVEwYTk2UmtIN3NrS3dwbnNJZDhGVnRqUzZIb3g5QkdmaG9xU043T1N6TV92YVphbThKaFEtWHBzQ0lsbkVFS0RyZTJDcTdUajBQb1k1VEJ2WGJ5VXVNLS1mcHFCUnJHOW8xVlV5NXVhMngxdEtsZmlDTzQzczNrX3BqM1dUSUpxc0xQQ3FKamhyaXNua1VBQm9FT2NBTW5XWVEyYU5CaFJGT0ZzY19IWDE1d3NPNThITXY2aS12Z3RiaHFYWHhHdFZtTXMxaFRKcDlCZ2pjNGZtRlUwazltZWRGWDl0MnNPUVktRlFYX2tMMm1yT240TFd30gHTAkFVX3lxTE9pMXdkSmpyTTlhYW05Z3NFOUlBY0U4X1JCZjNaM1lwV3BqUE9tdnp1YWcyMTdEbHlWZUZ1WnRfMllBc0RoUU9mZjFIZC1CNXR3ams0VE9UcG82dWVvU0NfNlhhTF9CWkhNWmFyaXRWaURwd21jVUZUcUVWbHk4YnVuemNmQy1yWms2Y3BhMnFrLU56Z0JWSC1mYm1iRmhZb1J6eXJWQTdVUHNSdF9oT05MUzJNUFlzLWF3OVpBRnhsLTd5V0NfTktuaE1pYjFOTzlyUDZXcjN4MV80QUlxaWhISTRvVG1BLUJhVENyRWJWQ20zaTE0T1lLMldSRGoyaUg4cFZobEM1OVg1Zm8zNHFmMTdXNGs0c2dCdEJSTENnT1RncTJXc1U2bnZFeUIwTUZyMXNNVWtKbThOQ2JBQkNpbk5wUnZhaW9zOTdJQ1NJeGd5TQ?oc=5",
+        "date": "2026-07-09",
+        "title": "Heavy rain triggers landslides & flood threat in western Maha; tourist spots shut in Satara till Friday; - The Times of India",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgJBVV95cUxPanJCV241cWNBYl9KRTBEWTZyNkxPTTJNby1rSkRrdzBYWG1UM19IUEh1ZGN5aUprRFFYRUl3cnhzSS1DTnBPbExhb3ktVGZUMDZlNnloOTBJcmozaVEwYTk2UmtIN3NrS3dwbnNJZDhGVnRqUzZIb3g5QkdmaG9xU043T1N6TV92YVphbThKaFEtWHBzQ0lsbkVFS0RyZTJDcTdUajBQb1k1VEJ2WGJ5VXVNLS1mcHFCUnJHOW8xVlV5NXVhMngxdEtsZmlDTzQzczNrX3BqM1dUSUpxc0xQQ3FKamhyaXNua1VBQm9FT2NBTW5XWVEyYU5CaFJGT0ZzY19IWDE1d3NPNThITXY2aS12Z3RiaHFYWHhHdFZtTXMxaFRKcDlCZ2pjNGZtRlUwazltZWRGWDl0MnNPUVktRlFYX2tMMm1yT240TFd30gHTAkFVX3lxTE9pMXdkSmpyTTlhYW05Z3NFOUlBY0U4X1JCZjNaM1lwV3BqUE9tdnp1YWcyMTdEbHlWZUZ1WnRfMllBc0RoUU9mZjFIZC1CNXR3ams0VE9UcG82dWVvU0NfNlhhTF9CWkhNWmFyaXRWaURwd21jVUZUcUVWbHk4YnVuemNmQy1yWms2Y3BhMnFrLU56Z0JWSC1mYm1iRmhZb1J6eXJWQTdVUHNSdF9oT05MUzJNUFlzLWF3OVpBRnhsLTd5V0NfTktuaE1pYjFOTzlyUDZXcjN4MV80QUlxaWhISTRvVG1BLUJhVENyRWJWQ20zaTE0T1lLMldSRGoyaUg4cFZobEM1OVg1Zm8zNHFmMTdXNGs0c2dCdEJSTENnT1RncTJXc1U2bnZFeUIwTUZyMXNNVWtKbThOQ2JBQkNpbk5wUnZhaW9zOTdJQ1NJeGd5TQ?oc=5\" target=\"_blank\">Heavy rain triggers landslides & flood threat in western Maha; tourist spots shut in Satara till Friday;</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of India</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNSm5NOEtqRUdQZW5keFVsYXkxWEJ6NEU3UGdSMEVkT2dLQWd6dk9TUUdJU2E1T1hkRnJuMU5wT0wwMXEyOHg0V19yZ1RBdUh2SU82RjlmT09kcm1IVlRvdXZ0cUFxZkFLeHhNWVlvTmpzOFRYakdfQzFXQ1Z1LUwzb2ZST2MycFlUZEhpTkdRSnNjQjVybjljTkdKWUE3MW9MU0MxMWRteS1zNEpsb05CTXRvd3JaUUZORm5CRnlBa3VwLXZUUXlFMDVZUG9jbjduWkpEcUhrX20wd2lXZ25jcGswRzhrY1JtaGZDd3cyUQ?oc=5",
+        "date": "2026-07-09",
+        "title": "7/8/26: Rutherford County Forecast | Flash Flood Warning: 7\u2026 - Rutherford Source",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxNSm5NOEtqRUdQZW5keFVsYXkxWEJ6NEU3UGdSMEVkT2dLQWd6dk9TUUdJU2E1T1hkRnJuMU5wT0wwMXEyOHg0V19yZ1RBdUh2SU82RjlmT09kcm1IVlRvdXZ0cUFxZkFLeHhNWVlvTmpzOFRYakdfQzFXQ1Z1LUwzb2ZST2MycFlUZEhpTkdRSnNjQjVybjljTkdKWUE3MW9MU0MxMWRteS1zNEpsb05CTXRvd3JaUUZORm5CRnlBa3VwLXZUUXlFMDVZUG9jbjduWkpEcUhrX20wd2lXZ25jcGswRzhrY1JtaGZDd3cyUQ?oc=5\" target=\"_blank\">7/8/26: Rutherford County Forecast | Flash Flood Warning: 7\u2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Rutherford Source</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 FORECAST Rutherford County: Flash flood warning issued for imminent heavy rain risk. Rutherford Source",
+        "type": "news",
+        "tweet_id": "2075027552041640086",
+        "geo": {
+            "country": "United States",
+            "name": "Rutherford County, Tennessee",
+            "latitude": 35.8456,
+            "longitude": -86.3903,
+            "confidence": 0.9
+        }
     }
 ]
