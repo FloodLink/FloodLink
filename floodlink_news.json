@@ -18673,5 +18673,14 @@
             "longitude": 72.8777,
             "confidence": 0.9
         }
+    },
+    {
+        "link": null,
+        "date": "2026-07-09",
+        "status": "posted",
+        "tweet": "By 2035, 480 million people in the world's 100 densest cities will face annual pluvial flooding from extreme rainfall, up 65% since 2020.",
+        "type": "statistical",
+        "category": "pluvial (surface) flooding in dense cities",
+        "tweet_id": "2075274620781920478"
     }
 ]
