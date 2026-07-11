@@ -20539,5 +20539,14 @@
         "score": 0,
         "status": "skipped",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-07-11",
+        "status": "posted",
+        "tweet": "By 2050, extreme rainfall is projected to expose an extra 310 million people in dense cities to pluvial flooding annually, with losses exceeding $200 billion per year.",
+        "type": "statistical",
+        "category": "pluvial (surface) flooding in dense cities",
+        "tweet_id": "2076093381638599016"
     }
 ]
