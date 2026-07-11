@@ -354,7 +354,7 @@
     "rain_mm": 39.88,
     "soil_moisture": 0.724,
     "raw_dynamic_score": 6.633,
-    "last_updated": "2026-07-11T05:43:57.079010Z",
+    "last_updated": "2026-07-11T07:53:49.323203Z",
     "last_tweeted_at": "2026-01-10T03:57:00.498173Z",
     "tweet_id": "2009837394854629837",
     "resolved": false
@@ -12269,22 +12269,6 @@
     "tweet_id": "2042631882043531555",
     "resolved": false
   },
-  "4.8029,8.2534": {
-    "country": "Nigeria",
-    "name": "Esuk Oron",
-    "risk_level": "Low",
-    "tweeted_level": "Low",
-    "latitude": 4.80293,
-    "longitude": 8.25341,
-    "rain_mm": 7.88,
-    "soil_moisture": 0.581,
-    "raw_dynamic_score": 1.208,
-    "last_updated": "2026-07-10T06:44:42.736563Z",
-    "last_tweeted_at": "2026-07-10T06:44:42.736563Z",
-    "tweet_id": "2075471793062830091",
-    "resolved": true,
-    "resolved_at": "2026-07-10T06:44:42.736563Z"
-  },
   "19.2203,-70.5310": {
     "country": "Dominican Republic",
     "name": "La Vega",
@@ -17290,7 +17274,7 @@
     "rain_mm": 58.38,
     "soil_moisture": 0.594,
     "raw_dynamic_score": 9.026,
-    "last_updated": "2026-05-17T06:24:38.706703Z",
+    "last_updated": "2026-07-11T07:53:49.323203Z",
     "last_tweeted_at": "2026-05-17T06:24:38.706703Z",
     "tweet_id": "2055897303010193662",
     "resolved": false
@@ -19825,7 +19809,7 @@
     "rain_mm": 42.5,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 8.128,
-    "last_updated": "2026-07-11T05:43:57.079010Z",
+    "last_updated": "2026-07-11T07:53:49.323203Z",
     "last_tweeted_at": "2026-06-01T03:01:06.051129Z",
     "tweet_id": "2061282403423818143",
     "resolved": false
@@ -21404,38 +21388,6 @@
     "last_tweeted_at": "2026-06-07T07:09:10.413059Z",
     "tweet_id": "2063518894703443994",
     "resolved": false
-  },
-  "5.0513,7.9335": {
-    "country": "Nigeria",
-    "name": "Uyo",
-    "risk_level": "Low",
-    "tweeted_level": "Low",
-    "latitude": 5.05127,
-    "longitude": 7.9335,
-    "rain_mm": 9.12,
-    "soil_moisture": 0.602,
-    "raw_dynamic_score": 1.417,
-    "last_updated": "2026-07-10T06:44:42.736563Z",
-    "last_tweeted_at": "2026-07-10T06:44:42.736563Z",
-    "tweet_id": "2075471793062830091",
-    "resolved": true,
-    "resolved_at": "2026-07-10T06:44:42.736563Z"
-  },
-  "4.9589,8.3270": {
-    "country": "Nigeria",
-    "name": "Calabar",
-    "risk_level": "Low",
-    "tweeted_level": "Low",
-    "latitude": 4.95893,
-    "longitude": 8.32695,
-    "rain_mm": 9.88,
-    "soil_moisture": 0.667,
-    "raw_dynamic_score": 1.592,
-    "last_updated": "2026-07-10T06:44:42.736563Z",
-    "last_tweeted_at": "2026-07-10T06:44:42.736563Z",
-    "tweet_id": "2075471540230209876",
-    "resolved": true,
-    "resolved_at": "2026-07-10T06:44:42.736563Z"
   },
   "35.6151,-87.0353": {
     "country": "United States",
@@ -23322,7 +23274,7 @@
     "rain_mm": 48.81,
     "soil_moisture": 0.734,
     "raw_dynamic_score": 8.161,
-    "last_updated": "2026-07-11T02:04:40.924924Z",
+    "last_updated": "2026-07-11T07:53:49.323203Z",
     "last_tweeted_at": "2026-06-14T07:28:14.385826Z",
     "tweet_id": "2066060672484479383",
     "resolved": false
@@ -28227,7 +28179,7 @@
     "rain_mm": 35.44,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 6.777,
-    "last_updated": "2026-07-10T19:29:00.026882Z",
+    "last_updated": "2026-07-11T07:53:49.323203Z",
     "last_tweeted_at": "2026-06-30T17:12:33.045686Z",
     "tweet_id": "2072005917118222516",
     "resolved": false
@@ -31757,22 +31709,6 @@
     "tweet_id": "2074979849710510265",
     "resolved": false
   },
-  "4.6423,7.9244": {
-    "country": "Nigeria",
-    "name": "Eket",
-    "risk_level": "Low",
-    "tweeted_level": "Low",
-    "latitude": 4.64231,
-    "longitude": 7.92438,
-    "rain_mm": 8.81,
-    "soil_moisture": 0.582,
-    "raw_dynamic_score": 1.353,
-    "last_updated": "2026-07-10T06:44:42.736563Z",
-    "last_tweeted_at": "2026-07-10T06:44:42.736563Z",
-    "tweet_id": "2075471793062830091",
-    "resolved": true,
-    "resolved_at": "2026-07-10T06:44:42.736563Z"
-  },
   "-14.2781,-170.7025": {
     "country": "American Samoa",
     "name": "Pago Pago",
@@ -32246,30 +32182,6 @@
     "last_tweeted_at": "2026-07-09T22:26:30.322326Z",
     "tweet_id": "2075346163348213809",
     "resolved": false
-  },
-  "13.2233,120.5960": {
-    "country": "Philippines",
-    "name": "Mamburao",
-    "risk_level": "Low",
-    "tweeted_level": "High",
-    "latitude": 13.2233,
-    "longitude": 120.596,
-    "rain_mm": 18.88,
-    "soil_moisture": 1.0,
-    "raw_dynamic_score": 3.61,
-    "last_updated": "2026-07-11T02:04:40.924924Z",
-    "last_tweeted_at": "2026-07-10T06:44:42.736563Z",
-    "tweet_id": "2075471287393378544",
-    "resolved": true,
-    "resolved_at": "2026-07-10T06:44:42.736563Z",
-    "pending_downgrade": true,
-    "pending_target_level": "Low",
-    "pending_set_at": "2026-07-11T02:04:40.924924Z",
-    "pending_is_region": false,
-    "pending_observed_level": "Low",
-    "pending_observed_rain_mm": 33.69,
-    "pending_observed_soil_moisture": 1.0,
-    "pending_observed_raw_dynamic_score": 6.443
   },
   "12.8346,120.7690": {
     "country": "Philippines",
