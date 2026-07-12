@@ -20836,5 +20836,14 @@
             "longitude": -92.5,
             "confidence": 0.85
         }
+    },
+    {
+        "link": null,
+        "date": "2026-07-12",
+        "status": "posted",
+        "tweet": "Since 2020, floods and flash floods have killed more than 28,000 people globally, with annual deaths rising 35% above the 2015-2019 average as extreme rainfall intensifies.",
+        "type": "statistical",
+        "category": "global flood fatalities and trends",
+        "tweet_id": "2076395267704954920"
     }
 ]
