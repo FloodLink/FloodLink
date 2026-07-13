@@ -20914,5 +20914,14 @@
             "longitude": -92.5,
             "confidence": 0.7
         }
+    },
+    {
+        "link": null,
+        "date": "2026-07-13",
+        "status": "posted",
+        "tweet": "Global flood fatalities rose 45% since 2020, averaging 8,200 deaths per year through 2025 from extreme rainfall and storm surges.",
+        "type": "statistical",
+        "category": "global flood fatalities and trends",
+        "tweet_id": "2076557372965912871"
     }
 ]
