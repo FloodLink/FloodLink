@@ -14037,7 +14037,7 @@
     "rain_mm": 43.94,
     "soil_moisture": 0.551,
     "raw_dynamic_score": 6.62,
-    "last_updated": "2026-04-29T13:35:46.535837Z",
+    "last_updated": "2026-07-13T21:59:44.335967Z",
     "last_tweeted_at": "2026-04-29T10:56:31.236016Z",
     "tweet_id": "2049442983490003158",
     "resolved": false
@@ -18843,38 +18843,6 @@
     "tweet_id": "2058889829606117512",
     "resolved": false
   },
-  "39.1000,121.7167": {
-    "country": "China",
-    "name": "Jinzhou",
-    "risk_level": "Low",
-    "tweeted_level": "High",
-    "latitude": 39.1,
-    "longitude": 121.71667,
-    "rain_mm": 0.25,
-    "soil_moisture": 1.0,
-    "raw_dynamic_score": 0.048,
-    "last_updated": "2026-07-13T19:26:47.320400Z",
-    "last_tweeted_at": "2026-07-12T21:52:28.696450Z",
-    "tweet_id": "2076424760603402485",
-    "resolved": true,
-    "resolved_at": "2026-07-12T21:52:28.696450Z"
-  },
-  "39.0286,121.6950": {
-    "country": "China",
-    "name": "Dalianwan",
-    "risk_level": "Low",
-    "tweeted_level": "High",
-    "latitude": 39.02861,
-    "longitude": 121.695,
-    "rain_mm": 0.25,
-    "soil_moisture": 1.0,
-    "raw_dynamic_score": 0.048,
-    "last_updated": "2026-07-12T21:52:28.696450Z",
-    "last_tweeted_at": "2026-07-12T21:52:28.696450Z",
-    "tweet_id": "2076424760603402485",
-    "resolved": true,
-    "resolved_at": "2026-07-12T21:52:28.696450Z"
-  },
   "8.4219,-9.7478": {
     "country": "Liberia",
     "name": "Voinjama",
@@ -23496,22 +23464,6 @@
     "tweet_id": "2066806350425059524",
     "resolved": false
   },
-  "41.6892,122.1128": {
-    "country": "China",
-    "name": "Heishan",
-    "risk_level": "Low",
-    "tweeted_level": "High",
-    "latitude": 41.68917,
-    "longitude": 122.11278,
-    "rain_mm": 37.56,
-    "soil_moisture": 0.631,
-    "raw_dynamic_score": 5.932,
-    "last_updated": "2026-07-12T21:52:28.696450Z",
-    "last_tweeted_at": "2026-07-12T21:52:28.696450Z",
-    "tweet_id": "2076424760603402485",
-    "resolved": true,
-    "resolved_at": "2026-07-12T21:52:28.696450Z"
-  },
   "9.7333,-13.4167": {
     "country": "Guinea",
     "name": "Manéah",
@@ -25157,7 +25109,7 @@
     "rain_mm": 48.0,
     "soil_moisture": 0.631,
     "raw_dynamic_score": 7.582,
-    "last_updated": "2026-06-20T16:23:28.441121Z",
+    "last_updated": "2026-07-13T21:59:44.335967Z",
     "last_tweeted_at": "2026-06-20T11:20:37.331373Z",
     "tweet_id": "2068293716133990708",
     "resolved": false
@@ -31352,7 +31304,7 @@
     "rain_mm": 57.44,
     "soil_moisture": 0.676,
     "raw_dynamic_score": 9.305,
-    "last_updated": "2026-07-07T17:19:55.542844Z",
+    "last_updated": "2026-07-13T21:59:44.335967Z",
     "last_tweeted_at": "2026-07-07T17:19:55.542844Z",
     "tweet_id": "2074544998373372264",
     "resolved": false
@@ -31742,7 +31694,7 @@
     "rain_mm": 45.5,
     "soil_moisture": 0.656,
     "raw_dynamic_score": 7.289,
-    "last_updated": "2026-07-09T12:04:55.269565Z",
+    "last_updated": "2026-07-13T21:59:44.335967Z",
     "last_tweeted_at": "2026-07-09T06:46:26.085975Z",
     "tweet_id": "2075110095906603344",
     "resolved": false
@@ -33275,7 +33227,7 @@
     "rain_mm": 74.0,
     "soil_moisture": 0.656,
     "raw_dynamic_score": 11.856,
-    "last_updated": "2026-07-12T21:52:28.696450Z",
+    "last_updated": "2026-07-13T21:59:44.335967Z",
     "last_tweeted_at": "2026-07-12T21:52:28.696450Z",
     "tweet_id": "2076424760603402485",
     "resolved": false
@@ -33598,7 +33550,7 @@
     "rain_mm": 44.12,
     "soil_moisture": 0.698,
     "raw_dynamic_score": 7.237,
-    "last_updated": "2026-07-13T19:26:47.320400Z",
+    "last_updated": "2026-07-13T21:59:44.335967Z",
     "last_tweeted_at": "2026-07-13T17:21:21.416823Z",
     "tweet_id": "2076718669439389760",
     "resolved": false
@@ -33613,9 +33565,24 @@
     "rain_mm": 54.62,
     "soil_moisture": 0.441,
     "raw_dynamic_score": 7.687,
-    "last_updated": "2026-07-13T17:21:21.416823Z",
+    "last_updated": "2026-07-13T21:59:44.335967Z",
     "last_tweeted_at": "2026-07-13T17:21:21.416823Z",
     "tweet_id": "2076718921974206540",
+    "resolved": false
+  },
+  "33.9204,-80.3415": {
+    "country": "United States",
+    "name": "Sumter",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 33.92044,
+    "longitude": -80.34147,
+    "rain_mm": 77.56,
+    "soil_moisture": 0.416,
+    "raw_dynamic_score": 10.746,
+    "last_updated": "2026-07-13T21:59:44.335967Z",
+    "last_tweeted_at": "2026-07-13T21:59:44.335967Z",
+    "tweet_id": "2076788726907461666",
     "resolved": false
   }
 }
