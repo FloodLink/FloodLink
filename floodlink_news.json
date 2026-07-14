@@ -21796,5 +21796,14 @@
             "longitude": null,
             "confidence": 0.6
         }
+    },
+    {
+        "link": null,
+        "date": "2026-07-14",
+        "status": "posted",
+        "tweet": "2025 data: 87% of flood-exposed people in Europe covered by early warning systems vs 29% in sub-Saharan Africa, up modestly from 2020 levels.",
+        "type": "statistical",
+        "category": "coverage of flood early warning systems worldwide",
+        "tweet_id": "2076988289307881566"
     }
 ]
