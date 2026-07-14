@@ -19091,7 +19091,7 @@
     "rain_mm": 50.94,
     "soil_moisture": 0.627,
     "raw_dynamic_score": 8.028,
-    "last_updated": "2026-05-27T18:03:33.214545Z",
+    "last_updated": "2026-07-14T13:25:28.087484Z",
     "last_tweeted_at": "2026-05-27T12:24:34.346023Z",
     "tweet_id": "2059611761192681646",
     "resolved": false
@@ -33959,7 +33959,7 @@
     "rain_mm": 50.56,
     "soil_moisture": 0.533,
     "raw_dynamic_score": 7.537,
-    "last_updated": "2026-07-14T08:01:03.725137Z",
+    "last_updated": "2026-07-14T13:25:28.087484Z",
     "last_tweeted_at": "2026-07-14T08:01:03.725137Z",
     "tweet_id": "2076940567263498613",
     "resolved": false
@@ -33974,18 +33974,18 @@
     "rain_mm": 111.94,
     "soil_moisture": 0.522,
     "raw_dynamic_score": 16.581,
-    "last_updated": "2026-07-14T10:50:18.384851Z",
+    "last_updated": "2026-07-14T13:25:28.087484Z",
     "last_tweeted_at": "2026-07-14T08:01:03.725137Z",
     "tweet_id": "2076940820117180565",
     "resolved": false,
     "pending_downgrade": true,
-    "pending_target_level": "Medium",
-    "pending_set_at": "2026-07-14T10:50:18.384851Z",
+    "pending_target_level": "Low",
+    "pending_set_at": "2026-07-14T13:25:28.087484Z",
     "pending_is_region": false,
-    "pending_observed_level": "Medium",
-    "pending_observed_rain_mm": 46.56,
-    "pending_observed_soil_moisture": 0.634,
-    "pending_observed_raw_dynamic_score": 7.364
+    "pending_observed_level": "Low",
+    "pending_observed_rain_mm": 1.19,
+    "pending_observed_soil_moisture": 0.591,
+    "pending_observed_raw_dynamic_score": 0.183
   },
   "23.4805,111.2885": {
     "country": "China",
@@ -34012,7 +34012,7 @@
     "rain_mm": 55.12,
     "soil_moisture": 0.617,
     "raw_dynamic_score": 8.636,
-    "last_updated": "2026-07-14T10:50:18.384851Z",
+    "last_updated": "2026-07-14T13:25:28.087484Z",
     "last_tweeted_at": "2026-07-14T10:50:18.384851Z",
     "tweet_id": "2076982899019272616",
     "resolved": false
@@ -34027,7 +34027,7 @@
     "rain_mm": 41.38,
     "soil_moisture": 0.729,
     "raw_dynamic_score": 6.899,
-    "last_updated": "2026-07-14T10:50:18.384851Z",
+    "last_updated": "2026-07-14T13:25:28.087484Z",
     "last_tweeted_at": "2026-07-14T10:50:18.384851Z",
     "tweet_id": "2076983151587709270",
     "resolved": false
@@ -34042,9 +34042,39 @@
     "rain_mm": 59.81,
     "soil_moisture": 0.629,
     "raw_dynamic_score": 9.436,
-    "last_updated": "2026-07-14T10:50:18.384851Z",
+    "last_updated": "2026-07-14T13:25:28.087484Z",
     "last_tweeted_at": "2026-07-14T10:50:18.384851Z",
     "tweet_id": "2076983404080644338",
+    "resolved": false
+  },
+  "-39.8142,-73.2459": {
+    "country": "Chile",
+    "name": "Valdivia",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": -39.81422,
+    "longitude": -73.24589,
+    "rain_mm": 39.81,
+    "soil_moisture": 0.734,
+    "raw_dynamic_score": 6.656,
+    "last_updated": "2026-07-14T13:25:28.087484Z",
+    "last_tweeted_at": "2026-07-14T13:25:28.087484Z",
+    "tweet_id": "2077021700999307463",
+    "resolved": false
+  },
+  "-39.8087,-73.2182": {
+    "country": "Chile",
+    "name": "Las Animas",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": -39.80867,
+    "longitude": -73.21821,
+    "rain_mm": 39.81,
+    "soil_moisture": 0.734,
+    "raw_dynamic_score": 6.656,
+    "last_updated": "2026-07-14T13:25:28.087484Z",
+    "last_tweeted_at": "2026-07-14T13:25:28.087484Z",
+    "tweet_id": "2077021700999307463",
     "resolved": false
   }
 }
