@@ -19704,10 +19704,14 @@
     "rain_mm": 64.5,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 12.336,
-    "last_updated": "2026-07-15T13:28:47.499910Z",
+    "last_updated": "2026-07-15T16:26:08.724547Z",
     "last_tweeted_at": "2026-07-15T10:54:21.589005Z",
     "tweet_id": "2077346558954131572",
-    "resolved": false
+    "resolved": false,
+    "pending_downgrade": true,
+    "pending_target_level": "Low",
+    "pending_set_at": "2026-07-15T16:26:08.724547Z",
+    "pending_is_region": true
   },
   "6.8045,-58.1553": {
     "country": "Guyana",
@@ -20019,7 +20023,7 @@
     "rain_mm": 57.88,
     "soil_moisture": 0.723,
     "raw_dynamic_score": 9.621,
-    "last_updated": "2026-07-15T13:28:47.499910Z",
+    "last_updated": "2026-07-15T16:26:08.724547Z",
     "last_tweeted_at": "2026-06-02T18:44:19.532040Z",
     "tweet_id": "2061882405703524749",
     "resolved": false
@@ -33536,7 +33540,7 @@
     "rain_mm": 56.31,
     "soil_moisture": 0.636,
     "raw_dynamic_score": 8.918,
-    "last_updated": "2026-07-15T05:32:52.994956Z",
+    "last_updated": "2026-07-15T16:26:08.724547Z",
     "last_tweeted_at": "2026-07-15T05:32:52.994956Z",
     "tweet_id": "2077265143893839898",
     "resolved": false
@@ -33611,7 +33615,7 @@
     "rain_mm": 96.69,
     "soil_moisture": 0.697,
     "raw_dynamic_score": 15.85,
-    "last_updated": "2026-07-15T10:54:21.589005Z",
+    "last_updated": "2026-07-15T16:26:08.724547Z",
     "last_tweeted_at": "2026-07-15T10:54:21.589005Z",
     "tweet_id": "2077346558954131572",
     "resolved": false
@@ -33626,7 +33630,7 @@
     "rain_mm": 96.69,
     "soil_moisture": 0.697,
     "raw_dynamic_score": 15.85,
-    "last_updated": "2026-07-15T10:54:21.589005Z",
+    "last_updated": "2026-07-15T16:26:08.724547Z",
     "last_tweeted_at": "2026-07-15T10:54:21.589005Z",
     "tweet_id": "2077346558954131572",
     "resolved": false
@@ -33716,7 +33720,7 @@
     "rain_mm": 41.44,
     "soil_moisture": 0.679,
     "raw_dynamic_score": 6.723,
-    "last_updated": "2026-07-15T13:28:47.499910Z",
+    "last_updated": "2026-07-15T16:26:08.724547Z",
     "last_tweeted_at": "2026-07-15T13:28:47.499910Z",
     "tweet_id": "2077384919563501787",
     "resolved": false
@@ -33761,7 +33765,7 @@
     "rain_mm": 46.31,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 8.857,
-    "last_updated": "2026-07-15T13:28:47.499910Z",
+    "last_updated": "2026-07-15T16:26:08.724547Z",
     "last_tweeted_at": "2026-07-15T13:28:47.499910Z",
     "tweet_id": "2077385677398765917",
     "resolved": false
@@ -33779,6 +33783,51 @@
     "last_updated": "2026-07-15T13:28:47.499910Z",
     "last_tweeted_at": "2026-07-15T13:28:47.499910Z",
     "tweet_id": "2077385929950457949",
+    "resolved": false
+  },
+  "26.7037,92.4781": {
+    "country": "India",
+    "name": "Dhekiajuli",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 26.70367,
+    "longitude": 92.47808,
+    "rain_mm": 45.38,
+    "soil_moisture": 0.644,
+    "raw_dynamic_score": 7.219,
+    "last_updated": "2026-07-15T16:26:08.724547Z",
+    "last_tweeted_at": "2026-07-15T16:26:08.724547Z",
+    "tweet_id": "2077429548799439323",
+    "resolved": false
+  },
+  "46.6796,141.8559": {
+    "country": "Russian Federation",
+    "name": "Nevel’sk",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 46.67956,
+    "longitude": 141.85587,
+    "rain_mm": 52.81,
+    "soil_moisture": 1.0,
+    "raw_dynamic_score": 10.1,
+    "last_updated": "2026-07-15T16:26:08.724547Z",
+    "last_tweeted_at": "2026-07-15T16:26:08.724547Z",
+    "tweet_id": "2077429801527259178",
+    "resolved": false
+  },
+  "47.0461,142.0494": {
+    "country": "Russian Federation",
+    "name": "Kholmsk",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 47.04612,
+    "longitude": 142.04938,
+    "rain_mm": 45.06,
+    "soil_moisture": 0.596,
+    "raw_dynamic_score": 6.974,
+    "last_updated": "2026-07-15T16:26:08.724547Z",
+    "last_tweeted_at": "2026-07-15T16:26:08.724547Z",
+    "tweet_id": "2077429801527259178",
     "resolved": false
   }
 }
