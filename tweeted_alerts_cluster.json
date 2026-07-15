@@ -33750,7 +33750,7 @@
     "rain_mm": 34.62,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 6.622,
-    "last_updated": "2026-07-15T13:28:47.499910Z",
+    "last_updated": "2026-07-15T22:02:50.525821Z",
     "last_tweeted_at": "2026-07-15T13:28:47.499910Z",
     "tweet_id": "2077385424784211970",
     "resolved": false
@@ -33828,6 +33828,21 @@
     "last_updated": "2026-07-15T16:26:08.724547Z",
     "last_tweeted_at": "2026-07-15T16:26:08.724547Z",
     "tweet_id": "2077429801527259178",
+    "resolved": false
+  },
+  "14.2836,-91.3606": {
+    "country": "Guatemala",
+    "name": "Tiquisate",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 14.28356,
+    "longitude": -91.36063,
+    "rain_mm": 48.31,
+    "soil_moisture": 0.569,
+    "raw_dynamic_score": 7.358,
+    "last_updated": "2026-07-15T22:02:50.525821Z",
+    "last_tweeted_at": "2026-07-15T22:02:50.525821Z",
+    "tweet_id": "2077514557657067548",
     "resolved": false
   }
 }
