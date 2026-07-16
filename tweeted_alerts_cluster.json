@@ -4884,7 +4884,7 @@
     "rain_mm": 69.94,
     "soil_moisture": 0.6,
     "raw_dynamic_score": 10.849,
-    "last_updated": "2026-07-16T16:18:39.163453Z",
+    "last_updated": "2026-07-16T19:10:09.214139Z",
     "last_tweeted_at": "2026-02-10T16:04:31.374639Z",
     "tweet_id": "2021254749216243832",
     "resolved": false
@@ -7899,7 +7899,7 @@
     "rain_mm": 51.38,
     "soil_moisture": 0.44,
     "raw_dynamic_score": 7.227,
-    "last_updated": "2026-07-16T16:18:39.163453Z",
+    "last_updated": "2026-07-16T19:10:09.214139Z",
     "last_tweeted_at": "2026-03-14T12:42:42.523314Z",
     "tweet_id": "2032800385836978276",
     "resolved": false
@@ -33874,10 +33874,14 @@
     "rain_mm": 109.62,
     "soil_moisture": 0.691,
     "raw_dynamic_score": 17.905,
-    "last_updated": "2026-07-16T16:18:39.163453Z",
+    "last_updated": "2026-07-16T19:10:09.214139Z",
     "last_tweeted_at": "2026-07-16T16:18:39.163453Z",
     "tweet_id": "2077790553375141959",
-    "resolved": false
+    "resolved": false,
+    "pending_downgrade": true,
+    "pending_target_level": "Low",
+    "pending_set_at": "2026-07-16T19:10:09.214139Z",
+    "pending_is_region": true
   },
   "12.5680,-16.2733": {
     "country": "Senegal",
@@ -33904,7 +33908,7 @@
     "rain_mm": 111.44,
     "soil_moisture": 0.679,
     "raw_dynamic_score": 18.083,
-    "last_updated": "2026-07-16T16:18:39.163453Z",
+    "last_updated": "2026-07-16T19:10:09.214139Z",
     "last_tweeted_at": "2026-07-16T16:18:39.163453Z",
     "tweet_id": "2077790046959120724",
     "resolved": false
@@ -33937,6 +33941,36 @@
     "last_updated": "2026-07-16T16:18:39.163453Z",
     "last_tweeted_at": "2026-07-16T16:18:39.163453Z",
     "tweet_id": "2077790300165021725",
+    "resolved": false
+  },
+  "-31.9129,-71.5005": {
+    "country": "Chile",
+    "name": "Los Vilos",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": -31.91292,
+    "longitude": -71.50045,
+    "rain_mm": 39.06,
+    "soil_moisture": 1.0,
+    "raw_dynamic_score": 7.471,
+    "last_updated": "2026-07-16T19:10:09.214139Z",
+    "last_tweeted_at": "2026-07-16T19:10:09.214139Z",
+    "tweet_id": "2077833223275532796",
+    "resolved": false
+  },
+  "19.7179,81.2444": {
+    "country": "India",
+    "name": "Nārāinpur",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 19.71794,
+    "longitude": 81.24437,
+    "rain_mm": 41.19,
+    "soil_moisture": 0.654,
+    "raw_dynamic_score": 6.592,
+    "last_updated": "2026-07-16T19:10:09.214139Z",
+    "last_tweeted_at": "2026-07-16T19:10:09.214139Z",
+    "tweet_id": "2077833475831271689",
     "resolved": false
   }
 }
