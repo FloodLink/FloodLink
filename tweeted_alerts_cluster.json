@@ -13164,7 +13164,7 @@
     "rain_mm": 1.12,
     "soil_moisture": 0.439,
     "raw_dynamic_score": 0.158,
-    "last_updated": "2026-07-16T11:02:35.400479Z",
+    "last_updated": "2026-07-16T13:36:02.349291Z",
     "last_tweeted_at": "2026-07-16T11:02:35.400479Z",
     "tweet_id": "2077710505612075509",
     "resolved": true,
@@ -23966,7 +23966,7 @@
     "rain_mm": 0.19,
     "soil_moisture": 0.48,
     "raw_dynamic_score": 0.027,
-    "last_updated": "2026-07-16T11:02:35.400479Z",
+    "last_updated": "2026-07-16T13:36:02.349291Z",
     "last_tweeted_at": "2026-07-16T11:02:35.400479Z",
     "tweet_id": "2077710505612075509",
     "resolved": true,
@@ -31902,7 +31902,7 @@
     "rain_mm": 9.62,
     "soil_moisture": 0.591,
     "raw_dynamic_score": 1.486,
-    "last_updated": "2026-07-16T11:02:35.400479Z",
+    "last_updated": "2026-07-16T13:36:02.349291Z",
     "last_tweeted_at": "2026-07-16T11:02:35.400479Z",
     "tweet_id": "2077710505612075509",
     "resolved": true,
@@ -32428,7 +32428,7 @@
     "rain_mm": 48.5,
     "soil_moisture": 0.58,
     "raw_dynamic_score": 7.437,
-    "last_updated": "2026-07-12T16:03:05.214409Z",
+    "last_updated": "2026-07-16T13:36:02.349291Z",
     "last_tweeted_at": "2026-07-12T13:09:33.593164Z",
     "tweet_id": "2076293166257598666",
     "resolved": false
@@ -33840,10 +33840,14 @@
     "rain_mm": 47.56,
     "soil_moisture": 0.676,
     "raw_dynamic_score": 7.705,
-    "last_updated": "2026-07-16T11:02:35.400479Z",
+    "last_updated": "2026-07-16T13:36:02.349291Z",
     "last_tweeted_at": "2026-07-16T11:02:35.400479Z",
     "tweet_id": "2077710505612075509",
-    "resolved": false
+    "resolved": false,
+    "pending_downgrade": true,
+    "pending_target_level": "Medium",
+    "pending_set_at": "2026-07-16T13:36:02.349291Z",
+    "pending_is_region": true
   },
   "31.7667,104.7167": {
     "country": "China",
@@ -33855,7 +33859,7 @@
     "rain_mm": 87.06,
     "soil_moisture": 0.685,
     "raw_dynamic_score": 14.176,
-    "last_updated": "2026-07-16T11:02:35.400479Z",
+    "last_updated": "2026-07-16T13:36:02.349291Z",
     "last_tweeted_at": "2026-07-16T11:02:35.400479Z",
     "tweet_id": "2077710505612075509",
     "resolved": false
@@ -33870,7 +33874,7 @@
     "rain_mm": 50.44,
     "soil_moisture": 0.613,
     "raw_dynamic_score": 7.885,
-    "last_updated": "2026-07-16T11:02:35.400479Z",
+    "last_updated": "2026-07-16T13:36:02.349291Z",
     "last_tweeted_at": "2026-07-16T11:02:35.400479Z",
     "tweet_id": "2077710758658634170",
     "resolved": false
@@ -33885,9 +33889,24 @@
     "rain_mm": 58.19,
     "soil_moisture": 0.608,
     "raw_dynamic_score": 9.07,
-    "last_updated": "2026-07-16T11:02:35.400479Z",
+    "last_updated": "2026-07-16T13:36:02.349291Z",
     "last_tweeted_at": "2026-07-16T11:02:35.400479Z",
     "tweet_id": "2077711011503866157",
+    "resolved": false
+  },
+  "6.1781,6.5246": {
+    "country": "Nigeria",
+    "name": "Ogwashi-Uku",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 6.17811,
+    "longitude": 6.52461,
+    "rain_mm": 73.75,
+    "soil_moisture": 0.623,
+    "raw_dynamic_score": 11.594,
+    "last_updated": "2026-07-16T13:36:02.349291Z",
+    "last_tweeted_at": "2026-07-16T13:36:02.349291Z",
+    "tweet_id": "2077749135847887071",
     "resolved": false
   }
 }
