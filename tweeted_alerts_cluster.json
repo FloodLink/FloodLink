@@ -8139,7 +8139,7 @@
     "rain_mm": 44.12,
     "soil_moisture": 0.634,
     "raw_dynamic_score": 6.979,
-    "last_updated": "2026-07-14T22:02:26.834638Z",
+    "last_updated": "2026-07-16T05:43:51.270097Z",
     "last_tweeted_at": "2026-03-15T05:07:21.119309Z",
     "tweet_id": "2033047668822520256",
     "resolved": false
@@ -32088,22 +32088,6 @@
     "tweet_id": "2076902450175324653",
     "resolved": false
   },
-  "16.0769,97.5639": {
-    "country": "Myanmar",
-    "name": "Kyaikkami",
-    "risk_level": "Low",
-    "tweeted_level": "Low",
-    "latitude": 16.07686,
-    "longitude": 97.56388,
-    "rain_mm": 13.38,
-    "soil_moisture": 1.0,
-    "raw_dynamic_score": 2.558,
-    "last_updated": "2026-07-15T05:32:52.994956Z",
-    "last_tweeted_at": "2026-07-15T05:32:52.994956Z",
-    "tweet_id": "2077265903540928524",
-    "resolved": true,
-    "resolved_at": "2026-07-15T05:32:52.994956Z"
-  },
   "14.8292,120.2828": {
     "country": "Philippines",
     "name": "Olongapo",
@@ -33525,7 +33509,7 @@
     "rain_mm": 41.69,
     "soil_moisture": 0.718,
     "raw_dynamic_score": 6.911,
-    "last_updated": "2026-07-16T02:01:01.603111Z",
+    "last_updated": "2026-07-16T05:43:51.270097Z",
     "last_tweeted_at": "2026-07-14T22:02:26.834638Z",
     "tweet_id": "2077151797928763500",
     "resolved": false
