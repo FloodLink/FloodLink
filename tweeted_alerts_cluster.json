@@ -8139,7 +8139,7 @@
     "rain_mm": 44.12,
     "soil_moisture": 0.634,
     "raw_dynamic_score": 6.979,
-    "last_updated": "2026-07-16T05:43:51.270097Z",
+    "last_updated": "2026-07-16T08:10:19.666776Z",
     "last_tweeted_at": "2026-03-15T05:07:21.119309Z",
     "tweet_id": "2033047668822520256",
     "resolved": false
@@ -16959,7 +16959,7 @@
     "rain_mm": 66.25,
     "soil_moisture": 0.615,
     "raw_dynamic_score": 10.368,
-    "last_updated": "2026-06-14T11:35:51.696282Z",
+    "last_updated": "2026-07-16T08:10:19.666776Z",
     "last_tweeted_at": "2026-05-16T08:02:32.779865Z",
     "tweet_id": "2055560304126284252",
     "resolved": false
@@ -18549,7 +18549,7 @@
     "rain_mm": 43.88,
     "soil_moisture": 0.559,
     "raw_dynamic_score": 6.643,
-    "last_updated": "2026-05-24T19:15:25.196619Z",
+    "last_updated": "2026-07-16T08:10:19.666776Z",
     "last_tweeted_at": "2026-05-24T16:06:22.598268Z",
     "tweet_id": "2058580408669761866",
     "resolved": false
@@ -33333,22 +33333,6 @@
     "tweet_id": "2076940567263498613",
     "resolved": false
   },
-  "9.5334,31.6605": {
-    "country": "South Sudan",
-    "name": "Malakal",
-    "risk_level": "None",
-    "tweeted_level": "None",
-    "latitude": 9.53342,
-    "longitude": 31.66049,
-    "rain_mm": 0.0,
-    "soil_moisture": 0.495,
-    "raw_dynamic_score": 0.0,
-    "last_updated": "2026-07-15T08:04:17.424839Z",
-    "last_tweeted_at": "2026-07-15T08:04:17.424839Z",
-    "tweet_id": "2077303768673095689",
-    "resolved": true,
-    "resolved_at": "2026-07-15T08:04:17.424839Z"
-  },
   "23.4805,111.2885": {
     "country": "China",
     "name": "Wuzhou",
@@ -33374,7 +33358,7 @@
     "rain_mm": 55.12,
     "soil_moisture": 0.617,
     "raw_dynamic_score": 8.636,
-    "last_updated": "2026-07-14T13:25:28.087484Z",
+    "last_updated": "2026-07-16T08:10:19.666776Z",
     "last_tweeted_at": "2026-07-14T10:50:18.384851Z",
     "tweet_id": "2076982899019272616",
     "resolved": false
@@ -33494,7 +33478,7 @@
     "rain_mm": 50.5,
     "soil_moisture": 0.718,
     "raw_dynamic_score": 8.372,
-    "last_updated": "2026-07-14T19:17:50.922857Z",
+    "last_updated": "2026-07-16T08:10:19.666776Z",
     "last_tweeted_at": "2026-07-14T19:17:50.922857Z",
     "tweet_id": "2077110383572340995",
     "resolved": false
@@ -33827,6 +33811,21 @@
     "last_updated": "2026-07-16T02:01:01.603111Z",
     "last_tweeted_at": "2026-07-15T22:02:50.525821Z",
     "tweet_id": "2077514557657067548",
+    "resolved": false
+  },
+  "16.8000,121.1192": {
+    "country": "Philippines",
+    "name": "Lagawe",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 16.79997,
+    "longitude": 121.11924,
+    "rain_mm": 56.0,
+    "soil_moisture": 0.684,
+    "raw_dynamic_score": 9.113,
+    "last_updated": "2026-07-16T08:10:19.666776Z",
+    "last_tweeted_at": "2026-07-16T08:10:19.666776Z",
+    "tweet_id": "2077667173569646730",
     "resolved": false
   }
 }
