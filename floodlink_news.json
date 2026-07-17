@@ -22279,5 +22279,14 @@
         "score": 0,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-07-17",
+        "status": "posted",
+        "tweet": "By 2030, intensified monsoon rainfall is projected to expose an extra 65 million people across South Asia to flash floods and storm surges each year.",
+        "type": "statistical",
+        "category": "monsoon flood patterns in Asia",
+        "tweet_id": "2078128686914527546"
     }
 ]
