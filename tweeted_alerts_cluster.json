@@ -33875,7 +33875,7 @@
     "rain_mm": 109.62,
     "soil_moisture": 0.691,
     "raw_dynamic_score": 17.905,
-    "last_updated": "2026-07-17T05:45:23.815033Z",
+    "last_updated": "2026-07-17T08:06:20.899580Z",
     "last_tweeted_at": "2026-07-16T16:18:39.163453Z",
     "tweet_id": "2077790553375141959",
     "resolved": false
@@ -34044,9 +34044,24 @@
     "rain_mm": 70.75,
     "soil_moisture": 0.676,
     "raw_dynamic_score": 11.461,
-    "last_updated": "2026-07-17T05:45:23.815033Z",
+    "last_updated": "2026-07-17T08:06:20.899580Z",
     "last_tweeted_at": "2026-07-17T05:45:23.815033Z",
     "tweet_id": "2077993076505927987",
+    "resolved": false
+  },
+  "30.3000,109.4833": {
+    "country": "China",
+    "name": "Enshi",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 30.3,
+    "longitude": 109.48333,
+    "rain_mm": 50.31,
+    "soil_moisture": 0.696,
+    "raw_dynamic_score": 8.24,
+    "last_updated": "2026-07-17T08:06:20.899580Z",
+    "last_tweeted_at": "2026-07-17T08:06:20.899580Z",
+    "tweet_id": "2078028557469778020",
     "resolved": false
   }
 }
