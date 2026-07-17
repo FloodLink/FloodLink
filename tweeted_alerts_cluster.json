@@ -13181,7 +13181,7 @@
     "rain_mm": 43.56,
     "soil_moisture": 0.709,
     "raw_dynamic_score": 7.188,
-    "last_updated": "2026-07-02T22:12:17.882669Z",
+    "last_updated": "2026-07-17T10:51:16.260870Z",
     "last_tweeted_at": "2026-04-19T18:45:13.497742Z",
     "tweet_id": "2045937075531182171",
     "resolved": false
@@ -24943,7 +24943,7 @@
     "rain_mm": 64.94,
     "soil_moisture": 0.665,
     "raw_dynamic_score": 10.455,
-    "last_updated": "2026-07-17T05:45:23.815033Z",
+    "last_updated": "2026-07-17T10:51:16.260870Z",
     "last_tweeted_at": "2026-07-17T05:45:23.815033Z",
     "tweet_id": "2077993076505927987",
     "resolved": false
@@ -33875,7 +33875,7 @@
     "rain_mm": 109.62,
     "soil_moisture": 0.691,
     "raw_dynamic_score": 17.905,
-    "last_updated": "2026-07-17T08:06:20.899580Z",
+    "last_updated": "2026-07-17T10:51:16.260870Z",
     "last_tweeted_at": "2026-07-16T16:18:39.163453Z",
     "tweet_id": "2077790553375141959",
     "resolved": false
@@ -34059,9 +34059,54 @@
     "rain_mm": 50.31,
     "soil_moisture": 0.696,
     "raw_dynamic_score": 8.24,
-    "last_updated": "2026-07-17T08:06:20.899580Z",
+    "last_updated": "2026-07-17T10:51:16.260870Z",
     "last_tweeted_at": "2026-07-17T08:06:20.899580Z",
     "tweet_id": "2078028557469778020",
+    "resolved": false
+  },
+  "-33.0831,-70.9292": {
+    "country": "Chile",
+    "name": "Tiltil",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": -33.0831,
+    "longitude": -70.92924,
+    "rain_mm": 42.06,
+    "soil_moisture": 0.701,
+    "raw_dynamic_score": 6.909,
+    "last_updated": "2026-07-17T10:51:16.260870Z",
+    "last_tweeted_at": "2026-07-17T10:51:16.260870Z",
+    "tweet_id": "2078070054894158113",
+    "resolved": false
+  },
+  "-32.8404,-70.9562": {
+    "country": "Chile",
+    "name": "Llaillay",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": -32.84043,
+    "longitude": -70.95623,
+    "rain_mm": 40.94,
+    "soil_moisture": 0.719,
+    "raw_dynamic_score": 6.792,
+    "last_updated": "2026-07-17T10:51:16.260870Z",
+    "last_tweeted_at": "2026-07-17T10:51:16.260870Z",
+    "tweet_id": "2078070307508597019",
+    "resolved": false
+  },
+  "24.0242,81.3783": {
+    "country": "India",
+    "name": "Beohāri",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 24.02423,
+    "longitude": 81.37831,
+    "rain_mm": 69.62,
+    "soil_moisture": 0.696,
+    "raw_dynamic_score": 11.401,
+    "last_updated": "2026-07-17T10:51:16.260870Z",
+    "last_tweeted_at": "2026-07-17T10:51:16.260870Z",
+    "tweet_id": "2078070560139993371",
     "resolved": false
   }
 }
