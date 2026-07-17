@@ -10532,17 +10532,18 @@
   "4.1534,9.2423": {
     "country": "Cameroon",
     "name": "Buea",
-    "risk_level": "Medium",
-    "tweeted_level": "High",
+    "risk_level": "Low",
+    "tweeted_level": "Low",
     "latitude": 4.15342,
     "longitude": 9.24231,
-    "rain_mm": 45.75,
-    "soil_moisture": 0.543,
-    "raw_dynamic_score": 6.863,
-    "last_updated": "2026-07-16T22:09:16.372456Z",
-    "last_tweeted_at": "2026-07-08T22:10:55.668824Z",
-    "tweet_id": "2074980102530630029",
-    "resolved": false
+    "rain_mm": 29.69,
+    "soil_moisture": 0.661,
+    "raw_dynamic_score": 4.769,
+    "last_updated": "2026-07-17T02:07:31.258526Z",
+    "last_tweeted_at": "2026-07-17T02:07:31.258526Z",
+    "tweet_id": "2077938253722747025",
+    "resolved": true,
+    "resolved_at": "2026-07-17T02:07:31.258526Z"
   },
   "3.7558,8.7817": {
     "country": "Equatorial Guinea",
@@ -28002,7 +28003,7 @@
     "rain_mm": 57.5,
     "soil_moisture": 0.664,
     "raw_dynamic_score": 9.251,
-    "last_updated": "2026-07-16T22:09:16.372456Z",
+    "last_updated": "2026-07-17T02:07:31.258526Z",
     "last_tweeted_at": "2026-06-30T07:01:28.892659Z",
     "tweet_id": "2071852407110168841",
     "resolved": false
@@ -28017,7 +28018,7 @@
     "rain_mm": 57.5,
     "soil_moisture": 0.664,
     "raw_dynamic_score": 9.251,
-    "last_updated": "2026-07-16T22:09:16.372456Z",
+    "last_updated": "2026-07-17T02:07:31.258526Z",
     "last_tweeted_at": "2026-06-30T07:01:28.892659Z",
     "tweet_id": "2071852660089884687",
     "resolved": false
@@ -33690,7 +33691,7 @@
     "rain_mm": 41.44,
     "soil_moisture": 0.679,
     "raw_dynamic_score": 6.723,
-    "last_updated": "2026-07-15T16:26:08.724547Z",
+    "last_updated": "2026-07-17T02:07:31.258526Z",
     "last_tweeted_at": "2026-07-15T13:28:47.499910Z",
     "tweet_id": "2077384919563501787",
     "resolved": false
@@ -33765,7 +33766,7 @@
     "rain_mm": 45.38,
     "soil_moisture": 0.644,
     "raw_dynamic_score": 7.219,
-    "last_updated": "2026-07-16T22:09:16.372456Z",
+    "last_updated": "2026-07-17T02:07:31.258526Z",
     "last_tweeted_at": "2026-07-15T16:26:08.724547Z",
     "tweet_id": "2077429548799439323",
     "resolved": false
@@ -33874,7 +33875,7 @@
     "rain_mm": 109.62,
     "soil_moisture": 0.691,
     "raw_dynamic_score": 17.905,
-    "last_updated": "2026-07-16T19:10:09.214139Z",
+    "last_updated": "2026-07-17T02:07:31.258526Z",
     "last_tweeted_at": "2026-07-16T16:18:39.163453Z",
     "tweet_id": "2077790553375141959",
     "resolved": false,
@@ -33957,7 +33958,7 @@
     "rain_mm": 39.06,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 7.471,
-    "last_updated": "2026-07-16T19:10:09.214139Z",
+    "last_updated": "2026-07-17T02:07:31.258526Z",
     "last_tweeted_at": "2026-07-16T19:10:09.214139Z",
     "tweet_id": "2077833223275532796",
     "resolved": false
@@ -33987,7 +33988,7 @@
     "rain_mm": 38.31,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 7.327,
-    "last_updated": "2026-07-16T22:09:16.372456Z",
+    "last_updated": "2026-07-17T02:07:31.258526Z",
     "last_tweeted_at": "2026-07-16T22:09:16.372456Z",
     "tweet_id": "2077878288614146098",
     "resolved": false
@@ -34017,7 +34018,7 @@
     "rain_mm": 46.75,
     "soil_moisture": 0.739,
     "raw_dynamic_score": 7.838,
-    "last_updated": "2026-07-16T22:09:16.372456Z",
+    "last_updated": "2026-07-17T02:07:31.258526Z",
     "last_tweeted_at": "2026-07-16T22:09:16.372456Z",
     "tweet_id": "2077878541144760659",
     "resolved": false
