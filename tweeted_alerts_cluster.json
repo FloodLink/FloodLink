@@ -10529,22 +10529,6 @@
     "tweet_id": "2038005963580477774",
     "resolved": false
   },
-  "4.1534,9.2423": {
-    "country": "Cameroon",
-    "name": "Buea",
-    "risk_level": "Low",
-    "tweeted_level": "Low",
-    "latitude": 4.15342,
-    "longitude": 9.24231,
-    "rain_mm": 29.69,
-    "soil_moisture": 0.661,
-    "raw_dynamic_score": 4.769,
-    "last_updated": "2026-07-17T02:07:31.258526Z",
-    "last_tweeted_at": "2026-07-17T02:07:31.258526Z",
-    "tweet_id": "2077938253722747025",
-    "resolved": true,
-    "resolved_at": "2026-07-17T02:07:31.258526Z"
-  },
   "3.7558,8.7817": {
     "country": "Equatorial Guinea",
     "name": "Malabo",
@@ -13165,7 +13149,7 @@
     "rain_mm": 43.56,
     "soil_moisture": 0.709,
     "raw_dynamic_score": 7.188,
-    "last_updated": "2026-07-18T01:57:10.030062Z",
+    "last_updated": "2026-07-18T05:28:41.509068Z",
     "last_tweeted_at": "2026-04-19T18:45:13.497742Z",
     "tweet_id": "2045937075531182171",
     "resolved": false
@@ -33858,14 +33842,18 @@
     "rain_mm": 78.81,
     "soil_moisture": 0.624,
     "raw_dynamic_score": 12.396,
-    "last_updated": "2026-07-18T01:57:10.030062Z",
+    "last_updated": "2026-07-18T05:28:41.509068Z",
     "last_tweeted_at": "2026-07-17T21:52:34.950375Z",
     "tweet_id": "2078237228615049641",
     "resolved": false,
     "pending_downgrade": true,
-    "pending_target_level": "Medium",
-    "pending_set_at": "2026-07-18T01:57:10.030062Z",
-    "pending_is_region": true
+    "pending_target_level": "Low",
+    "pending_set_at": "2026-07-18T05:28:41.509068Z",
+    "pending_is_region": false,
+    "pending_observed_level": "Low",
+    "pending_observed_rain_mm": 0.62,
+    "pending_observed_soil_moisture": 0.557,
+    "pending_observed_raw_dynamic_score": 0.095
   },
   "6.1781,6.5246": {
     "country": "Nigeria",
@@ -34446,9 +34434,24 @@
     "rain_mm": 48.38,
     "soil_moisture": 0.555,
     "raw_dynamic_score": 7.308,
-    "last_updated": "2026-07-17T21:52:34.950375Z",
+    "last_updated": "2026-07-18T05:28:41.509068Z",
     "last_tweeted_at": "2026-07-17T21:52:34.950375Z",
     "tweet_id": "2078237481669931452",
+    "resolved": false
+  },
+  "-30.0354,-70.7127": {
+    "country": "Chile",
+    "name": "Vicuña",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": -30.03541,
+    "longitude": -70.71274,
+    "rain_mm": 42.5,
+    "soil_moisture": 0.642,
+    "raw_dynamic_score": 6.754,
+    "last_updated": "2026-07-18T05:28:41.509068Z",
+    "last_tweeted_at": "2026-07-18T05:28:41.509068Z",
+    "tweet_id": "2078351257069035536",
     "resolved": false
   }
 }
