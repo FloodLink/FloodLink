@@ -23011,5 +23011,14 @@
         "score": 0,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-07-18",
+        "status": "posted",
+        "tweet": "Projected annual flood losses from storm surge (USD bn, 2030 est.):\n1. \ud83c\udde8\ud83c\uddf3 Guangzhou 14.8\n2. \ud83c\uddfa\ud83c\uddf8 Miami 9.1\n3. \ud83c\uddee\ud83c\uddf3 Mumbai 7.4\n4. \ud83c\uddfb\ud83c\uddf3 Ho Chi Minh 5.9\n5. \ud83c\uddfa\ud83c\uddf8 New York 5.3",
+        "type": "statistical",
+        "category": "coastal cities at risk from sea-level rise and storm surge",
+        "tweet_id": "2078420770254921776"
     }
 ]
