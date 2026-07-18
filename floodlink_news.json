@@ -22644,5 +22644,252 @@
         "tweet": "\ud83c\uddf3\ud83c\uddf1 The Netherlands maintains 3,780 km of primary levees and dikes, protecting 9 million people in areas below sea level as of 2026.",
         "type": "infrastructure",
         "tweet_id": "2078337308730794328"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1JNUljZlp3ai02RENwakFmazhHS1pidlUzYi02RWpINmFnMHF0dmtmb2hrQlllSFZnWldBX1psOFczVUdtcXVXSzNvOVZCaHlMVTk0Q2tXUU50V2ppYWNWSjR5amVrVWdBQXhiZTllZ05YSDg?oc=5",
+        "date": "2026-07-18",
+        "title": "UPDATE: Flash flood warning in place for San Bernardino County Friday night - Fresno Bee",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE1JNUljZlp3ai02RENwakFmazhHS1pidlUzYi02RWpINmFnMHF0dmtmb2hrQlllSFZnWldBX1psOFczVUdtcXVXSzNvOVZCaHlMVTk0Q2tXUU50V2ppYWNWSjR5amVrVWdBQXhiZTllZ05YSDg?oc=5\" target=\"_blank\">UPDATE: Flash flood warning in place for San Bernardino County Friday night</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fresno Bee</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": null,
+        "tweet_id": "2078371988238745837",
+        "geo": {
+            "country": "United States",
+            "name": "San Bernardino County",
+            "latitude": 34.1083,
+            "longitude": -117.2898,
+            "confidence": 0.9
+        }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAzZ3ZES0pJLWljREJJczcyTHFzRHhUc21sREJLb1lSSEw5U0JwTWNnNm5GYlZhUzNTbjlwdFV4bUdXYUF5bGlkSU5jaEYxaTBzNmR3MzhrQUF3SU9PWHhubGRfVHZXclpMRXNpZnozUTQ1UnB6bWIyRA?oc=5",
+        "date": "2026-07-18",
+        "title": "UPDATE: The current flash flood warning for San Bernardino County will be expiring at 9:45 p.m. - San Luis Obispo Tribune",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFAzZ3ZES0pJLWljREJJczcyTHFzRHhUc21sREJLb1lSSEw5U0JwTWNnNm5GYlZhUzNTbjlwdFV4bUdXYUF5bGlkSU5jaEYxaTBzNmR3MzhrQUF3SU9PWHhubGRfVHZXclpMRXNpZnozUTQ1UnB6bWIyRA?oc=5\" target=\"_blank\">UPDATE: The current flash flood warning for San Bernardino County will be expiring at 9:45 p.m.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">San Luis Obispo Tribune</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOSV80Y010QU1iZjI1R29Eek9Ld2RkeGlRMGRaclE5djFYall0dlQ3S0lOLVlMN1U3X1pJT0UwQUZHU0dOdjBqTzJBZkNHZVFWdkpNNGN5dXhTRF9XWmJMaU4ydlQ2X2hOeVNrdzRIYzJfS0JmbnQ3SnJjSk9CUTVLQWVzRnVvZW1sTjhvVDVMdHJRTF9hb2ZzbzlGN0x5TGE0ZWQyOFk5TmxBcXN4Vkc3WUczdlpkNUpPOEFBQXVhQnBSRndiWDdpWm5ZYXJMTldBRk9UbmlYNVY2eDljS0VZ?oc=5",
+        "date": "2026-07-18",
+        "title": "Flash Flood Warning issued July 17 at 8:16PM PDT until July 17 at 9:45PM PDT by NWS Las Vegas NV - KESQ",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxOSV80Y010QU1iZjI1R29Eek9Ld2RkeGlRMGRaclE5djFYall0dlQ3S0lOLVlMN1U3X1pJT0UwQUZHU0dOdjBqTzJBZkNHZVFWdkpNNGN5dXhTRF9XWmJMaU4ydlQ2X2hOeVNrdzRIYzJfS0JmbnQ3SnJjSk9CUTVLQWVzRnVvZW1sTjhvVDVMdHJRTF9hb2ZzbzlGN0x5TGE0ZWQyOFk5TmxBcXN4Vkc3WUczdlpkNUpPOEFBQXVhQnBSRndiWDdpWm5ZYXJMTldBRk9UbmlYNVY2eDljS0VZ?oc=5\" target=\"_blank\">Flash Flood Warning issued July 17 at 8:16PM PDT until July 17 at 9:45PM PDT by NWS Las Vegas NV</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KESQ</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9IdGVDZkdnMXRNVFY2d0hlQnB4dDdzMURLZE94Tldja0o2dDFnSWlCZ0xHOEFTOVphT0VlRURJSVFtdjllTUFVclpzRXZ0WlUxQS1BQ25XLXBuRE1UWTFhYUNwWEFaOXNuRnc2VTlYSQ?oc=5",
+        "date": "2026-07-18",
+        "title": "San Bernardino County under a flood warning until 1 a.m. Saturday due to intense rain - Modesto Bee",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE9IdGVDZkdnMXRNVFY2d0hlQnB4dDdzMURLZE94Tldja0o2dDFnSWlCZ0xHOEFTOVphT0VlRURJSVFtdjllTUFVclpzRXZ0WlUxQS1BQ25XLXBuRE1UWTFhYUNwWEFaOXNuRnc2VTlYSQ?oc=5\" target=\"_blank\">San Bernardino County under a flood warning until 1 a.m. Saturday due to intense rain</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Modesto Bee</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQQlZLa0YwX3N1Q0RfX0VGTFN5Q1dxMDBQRG9LdTlPeC02N0s4Qkg0cV91Yjl6cjBnZFVhSjlRUmM0aFU0QVF1NjNPM3Y4VXFDcDJ3RGtEQkxVaVlNdnVpbnFiRWtxVjN4N19yR0tzTjJMa1gycWtLVGZWYXo2aWZ4ZElaNXM5QTU3Zjg0ODk3Y3VsY2s?oc=5",
+        "date": "2026-07-18",
+        "title": "Chief: 40 water rescues, 1 injury reported as roads, homes flood in Cincinnati - WLWT",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQQlZLa0YwX3N1Q0RfX0VGTFN5Q1dxMDBQRG9LdTlPeC02N0s4Qkg0cV91Yjl6cjBnZFVhSjlRUmM0aFU0QVF1NjNPM3Y4VXFDcDJ3RGtEQkxVaVlNdnVpbnFiRWtxVjN4N19yR0tzTjJMa1gycWtLVGZWYXo2aWZ4ZElaNXM5QTU3Zjg0ODk3Y3VsY2s?oc=5\" target=\"_blank\">Chief: 40 water rescues, 1 injury reported as roads, homes flood in Cincinnati</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WLWT</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONjZ5TDU5a2pfT01oNlB2YWxIYTgzRFVRc2kzSjhNcjFHem1Qc2lYV0hSOEJLVDFHU0dObnNGM3lwR24td2JqQ2h1UjRpMVBXMkQ1Unk1Ti0xWHNha0dCZmh6Yk1zSkJoSXJDUVhrYXJ6WjRmcWxFUnp6aC1vbndWbVlYaEEwUnF1d08zQjEtWnlFNXJSWVpJUE5oVUw3UG5obDBQVDJUZGdXMXpN?oc=5",
+        "date": "2026-07-18",
+        "title": "Flash flood kills 4, leaves 4 others missing in Vietnam - Reuters",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxONjZ5TDU5a2pfT01oNlB2YWxIYTgzRFVRc2kzSjhNcjFHem1Qc2lYV0hSOEJLVDFHU0dObnNGM3lwR24td2JqQ2h1UjRpMVBXMkQ1Unk1Ti0xWHNha0dCZmh6Yk1zSkJoSXJDUVhrYXJ6WjRmcWxFUnp6aC1vbndWbVlYaEEwUnF1d08zQjEtWnlFNXJSWVpJUE5oVUw3UG5obDBQVDJUZGdXMXpN?oc=5\" target=\"_blank\">Flash flood kills 4, leaves 4 others missing in Vietnam</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTzNPTXN6N244X1ViMGItZUsyejZfUWpaQ3JneUVIWHdTTFJ3YzhWa216alNDOGNOZ2ZWRjVzZ1U3VlZBeUtqM0NEY1NHSklNU3BiRk81UHktcU9LSHVYQV9ULU1zYnRlejR6enpUcEJjZ2Exck1GUHV3VHpkV2U0N3k1RWV0eDZlTVVaeFdoTzhoLTF4dUwzMDNHR200RDNUcXhrejZjSlZ6MFBuSG5UV1E5Mk8?oc=5",
+        "date": "2026-07-18",
+        "title": "Residents share photos, videos of flooding in Cincinnati after storms - Cincinnati Enquirer",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPTzNPTXN6N244X1ViMGItZUsyejZfUWpaQ3JneUVIWHdTTFJ3YzhWa216alNDOGNOZ2ZWRjVzZ1U3VlZBeUtqM0NEY1NHSklNU3BiRk81UHktcU9LSHVYQV9ULU1zYnRlejR6enpUcEJjZ2Exck1GUHV3VHpkV2U0N3k1RWV0eDZlTVVaeFdoTzhoLTF4dUwzMDNHR200RDNUcXhrejZjSlZ6MFBuSG5UV1E5Mk8?oc=5\" target=\"_blank\">Residents share photos, videos of flooding in Cincinnati after storms</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cincinnati Enquirer</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOMzF6cTZZSzc2X2ZtUXlBdmw2Sko3N1ZJRDFaaUg3d2ZBXzdIYV80TDJnUWJyeHZ1QWtJU3pxOWRBR2o0RzRRdmRnb0xMSWpaTGJlcGdjVXFYSHBaRzVPUHNYcnR2OGZLN3lpSTB3NHZOQzgzSXBJR0ZSMDUzeHVxelVHa2hod9IBiwFBVV95cUxPaXh4SkQzM3BGajA4anltRnowU21ic2laY1l1eHdwOFE3ZFI0TzBkTU9VczVlVV8zY21Cc2ZKUlh4VVNiaTFUUUswMTJSNGk0Q3Z2alNFS0xPVjJLN3JBZTFQWjNjUlJZSDB6NUNFVDI3Tk1mYm1WY3EwOWVlbWVrdm1hUVJPU1Y4VGJr?oc=5",
+        "date": "2026-07-18",
+        "title": "\u2018This is going to do us in\u2019: Flash flooding damages historic resort amid Cottonwood Fire recovery efforts - ABC4 Utah",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxOMzF6cTZZSzc2X2ZtUXlBdmw2Sko3N1ZJRDFaaUg3d2ZBXzdIYV80TDJnUWJyeHZ1QWtJU3pxOWRBR2o0RzRRdmRnb0xMSWpaTGJlcGdjVXFYSHBaRzVPUHNYcnR2OGZLN3lpSTB3NHZOQzgzSXBJR0ZSMDUzeHVxelVHa2hod9IBiwFBVV95cUxPaXh4SkQzM3BGajA4anltRnowU21ic2laY1l1eHdwOFE3ZFI0TzBkTU9VczVlVV8zY21Cc2ZKUlh4VVNiaTFUUUswMTJSNGk0Q3Z2alNFS0xPVjJLN3JBZTFQWjNjUlJZSDB6NUNFVDI3Tk1mYm1WY3EwOWVlbWVrdm1hUVJPU1Y4VGJr?oc=5\" target=\"_blank\">\u2018This is going to do us in\u2019: Flash flooding damages historic resort amid Cottonwood Fire recovery efforts</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ABC4 Utah</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRUZsRWEwb2JDS3lrMVctaG90ZzIwMVUwQVJnRVZnS1Z6UVNReklJNDh1dWsycDRTRUF5eGdTbkpNM1RCZ2VZNTZoS2N1MEl2dUlPRFRJdmp5Y1NzbGJoZGRkT0x2ZFJZeHJkUFpkUG9MM1dUN0dhVUxLa01HbzREQmQyY0hObW5vZWo5ODMyNU9GdlFxaXdDT0lTeUpEUDNQYlU5eHVFLUtJQUJLUlVF?oc=5",
+        "date": "2026-07-18",
+        "title": "Officials warn flash floods can quickly become deadly as monsoon season returns - KSNV",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxNRUZsRWEwb2JDS3lrMVctaG90ZzIwMVUwQVJnRVZnS1Z6UVNReklJNDh1dWsycDRTRUF5eGdTbkpNM1RCZ2VZNTZoS2N1MEl2dUlPRFRJdmp5Y1NzbGJoZGRkT0x2ZFJZeHJkUFpkUG9MM1dUN0dhVUxLa01HbzREQmQyY0hObW5vZWo5ODMyNU9GdlFxaXdDT0lTeUpEUDNQYlU5eHVFLUtJQUJLUlVF?oc=5\" target=\"_blank\">Officials warn flash floods can quickly become deadly as monsoon season returns</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KSNV</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMizAJBVV95cUxNTk5EN21hNVIzR1pVc0ZMc1pIeFQyU0YtNEpvc3BDakxXVU1tdGMwWDdrRW95cUdmeUhlQWtkdmFhYVRSN3BQMWwydXRDMldrVVFUSC1qZ3FjcFJjeC1FcDE5NkRzV1hXeWp1Z0lVT1Rma3BJZE95S0JtLUluYXhjWlpuTDF1VzV0elY1ZEd4NkZ4TUVna25YR0pjSDBINExoWnBnVjNXay1rVS1DMUJZaVo4cXdqUUVMM0pPbDZMNlRSNFJNLTJ6MTFGZ04wRTNoV2dyZlVsQWl5T21OWFF3d09OLXhzTUtxNmJvemFLWlFFaDJwMFFFM3lleF96R0JpMDFSX3kxNGJaSTZfaU85ZUN6dGlpeHlqLTJPejdDR0FoeU1BU0NhcklLMEU3NGFGZHdVeVdlNWVVNmVVME55cDlCTkdZREUwakwtaA?oc=5",
+        "date": "2026-07-18",
+        "title": "Flash flooding injures at least 1, shuts down roads, and strands cars in Cincinnati area - WKRC",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAJBVV95cUxNTk5EN21hNVIzR1pVc0ZMc1pIeFQyU0YtNEpvc3BDakxXVU1tdGMwWDdrRW95cUdmeUhlQWtkdmFhYVRSN3BQMWwydXRDMldrVVFUSC1qZ3FjcFJjeC1FcDE5NkRzV1hXeWp1Z0lVT1Rma3BJZE95S0JtLUluYXhjWlpuTDF1VzV0elY1ZEd4NkZ4TUVna25YR0pjSDBINExoWnBnVjNXay1rVS1DMUJZaVo4cXdqUUVMM0pPbDZMNlRSNFJNLTJ6MTFGZ04wRTNoV2dyZlVsQWl5T21OWFF3d09OLXhzTUtxNmJvemFLWlFFaDJwMFFFM3lleF96R0JpMDFSX3kxNGJaSTZfaU85ZUN6dGlpeHlqLTJPejdDR0FoeU1BU0NhcklLMEU3NGFGZHdVeVdlNWVVNmVVME55cDlCTkdZREUwakwtaA?oc=5\" target=\"_blank\">Flash flooding injures at least 1, shuts down roads, and strands cars in Cincinnati area</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WKRC</font>",
+        "similarity_excluded": "No",
+        "score": 6,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdTdYTmRMSmpRMG5TNlNVSTRyeXNnZ1BKRDFXR2hsOEotSWdYOUpDZzFoeHg0TTExSlJtTjNMUjFjRVo4dGFiRmtmVmdwcnE4RjNLdTFHcjJuUzhGZFZSbFRaUzByYmVkZlpnQWNlUWY2Z0QtSFpWNEdwMU1mNmZ5XzFmSWlMaGVjVmNXOGpFRzVxeXdoMGE5MVBHeTlXNy1ESkVPZ2hRbk4?oc=5",
+        "date": "2026-07-18",
+        "title": "Multiple Putnam County roads impassable after rain brings flash flooding - WSMV",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdTdYTmRMSmpRMG5TNlNVSTRyeXNnZ1BKRDFXR2hsOEotSWdYOUpDZzFoeHg0TTExSlJtTjNMUjFjRVo4dGFiRmtmVmdwcnE4RjNLdTFHcjJuUzhGZFZSbFRaUzByYmVkZlpnQWNlUWY2Z0QtSFpWNEdwMU1mNmZ5XzFmSWlMaGVjVmNXOGpFRzVxeXdoMGE5MVBHeTlXNy1ESkVPZ2hRbk4?oc=5\" target=\"_blank\">Multiple Putnam County roads impassable after rain brings flash flooding</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSMV</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOLVdGblQ3dFBSRlFDQ2l4TkF4Q0p0SXFFWEIwQlNacWh0Qnoxc240ZGlRVlJEdXJOd3N4dWc2TkZpeEM5SE1KbkZYWGpSdHdZdndsVzcxdjFDY3pDX0RBZklOUmxiSzBTMDJpRFh1OFk1U05FY2RTS3ZHVUpYZmhTUXdiTTdST3djbnRkVk5lbUVSR3dfa2pLaU5IeXk4VGRoRkJTcGl6dVFibzY4R0FwLTg3MXNqYlVVN2llUnFnRDFRNXhQb2lLQ1VKYl8?oc=5",
+        "date": "2026-07-18",
+        "title": "Heavy rain floods roads near Country Club and 36th Street - KVOA",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxOLVdGblQ3dFBSRlFDQ2l4TkF4Q0p0SXFFWEIwQlNacWh0Qnoxc240ZGlRVlJEdXJOd3N4dWc2TkZpeEM5SE1KbkZYWGpSdHdZdndsVzcxdjFDY3pDX0RBZklOUmxiSzBTMDJpRFh1OFk1U05FY2RTS3ZHVUpYZmhTUXdiTTdST3djbnRkVk5lbUVSR3dfa2pLaU5IeXk4VGRoRkJTcGl6dVFibzY4R0FwLTg3MXNqYlVVN2llUnFnRDFRNXhQb2lLQ1VKYl8?oc=5\" target=\"_blank\">Heavy rain floods roads near Country Club and 36th Street</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KVOA</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbUhNUElSNVBkN1M3bFZ4UEpSaUtJTjV3R2NZSGxmVUU5Y1BESkRJNHVybUdQM3d5SUowMFQ4cEJNZTlvQmkyOUZoQjFuTWcyX1RuNkVsWWdJZkZSd3o0TUlEUXdaWUUzak44a1g0S2hHQTZSaXl3MFpMN1hUcU9EY2Fwam95b0JF?oc=5",
+        "date": "2026-07-18",
+        "title": "Heavy Rain Triggers Flood Warnings in Seoul Districts - \uc870\uc120\uc77c\ubcf4",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbUhNUElSNVBkN1M3bFZ4UEpSaUtJTjV3R2NZSGxmVUU5Y1BESkRJNHVybUdQM3d5SUowMFQ4cEJNZTlvQmkyOUZoQjFuTWcyX1RuNkVsWWdJZkZSd3o0TUlEUXdaWUUzak44a1g0S2hHQTZSaXl3MFpMN1hUcU9EY2Fwam95b0JF?oc=5\" target=\"_blank\">Heavy Rain Triggers Flood Warnings in Seoul Districts</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">\uc870\uc120\uc77c\ubcf4</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQSnMzY0RBRVQ4WE1ZNWl0bUVDRlNYTnhqZjZWWFhwMkJVczNDQzk0bkludjcyRmpkTUZvcnF2UVZYd1RaWkJZeVlqQnhFUkM2X3hJRjBvbGhTT0dhcHhlT2d4OU1oNjFZNzJhVnBmdWZoQ3Q3ZlZXZDRCeGdyLVI3OTJkS0doa1ZEUU85RHhHOGdDNHlGWF9BYmM0Si1mLWRZZ0QyM1NPWHpfdUk1M1RqWmpDT0pwSjExNUxaOTItWHRZZDBVNXV5SzF2NGplM2tYWGpsTDZEYUg?oc=5",
+        "date": "2026-07-18",
+        "title": "Torrential rain in Seoul triggers flood warnings, road closures as heavy downpours hit Korea - Korea JoongAng Daily",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxQSnMzY0RBRVQ4WE1ZNWl0bUVDRlNYTnhqZjZWWFhwMkJVczNDQzk0bkludjcyRmpkTUZvcnF2UVZYd1RaWkJZeVlqQnhFUkM2X3hJRjBvbGhTT0dhcHhlT2d4OU1oNjFZNzJhVnBmdWZoQ3Q3ZlZXZDRCeGdyLVI3OTJkS0doa1ZEUU85RHhHOGdDNHlGWF9BYmM0Si1mLWRZZ0QyM1NPWHpfdUk1M1RqWmpDT0pwSjExNUxaOTItWHRZZDBVNXV5SzF2NGplM2tYWGpsTDZEYUg?oc=5\" target=\"_blank\">Torrential rain in Seoul triggers flood warnings, road closures as heavy downpours hit Korea</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Korea JoongAng Daily</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQT19VLS1OT01RZ3pRQ1AwVV82Q1VSQV9feGZkb1NucVNuQ3VlR0Qyc18tNFo3MXdPZlFmRmU3NE9KTEZkTURMUXItSVlNYmNLQ19HRGNhY29JcTdwN3EydzFsOWhhZTJjNW91UTNzY051M1JVb3hoRk42TXc1V1ZjSDY1QjV6dXBBR1ZhVWgxUkpGYjJ2LUNXQUNYa3lwQW9fZDNlY1EyTjc0akpZcVA1UDV1TmxFS2JUYmNHTnNNZUhiMXJTM056djg4eHVoemPSAdQBQVVfeXFMTUdrLVdURUxEU1BldEFUMFNqM0NTdmR5WFI5WHNMQmtVV2g1N1NBMXdPM0pSN3NyRjNqVFVtTkhUZ3hxZXgyeldEOUNENTVGUThBQ3ZFWTRqTG8yV2VkWVExa1dRRFVBLU43LVZFaVZCZVlUcWVvTUQ5aEtzcW94WXRFaEVrUURjMnlDWUJ6ajhURG0xOVR1b1kwaXAtaDh0cDNSZjFSU2R4WWRBYzBldV9CTkJROHRibVNmaVlHNUtLdDZYVGVydm9OTkpqVnJrY3JINGg?oc=5",
+        "date": "2026-07-18",
+        "title": "El Nino has disrupted Monsoon: Rain clouds blanket India, but downpour uneven - India Today",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxQT19VLS1OT01RZ3pRQ1AwVV82Q1VSQV9feGZkb1NucVNuQ3VlR0Qyc18tNFo3MXdPZlFmRmU3NE9KTEZkTURMUXItSVlNYmNLQ19HRGNhY29JcTdwN3EydzFsOWhhZTJjNW91UTNzY051M1JVb3hoRk42TXc1V1ZjSDY1QjV6dXBBR1ZhVWgxUkpGYjJ2LUNXQUNYa3lwQW9fZDNlY1EyTjc0akpZcVA1UDV1TmxFS2JUYmNHTnNNZUhiMXJTM056djg4eHVoemPSAdQBQVVfeXFMTUdrLVdURUxEU1BldEFUMFNqM0NTdmR5WFI5WHNMQmtVV2g1N1NBMXdPM0pSN3NyRjNqVFVtTkhUZ3hxZXgyeldEOUNENTVGUThBQ3ZFWTRqTG8yV2VkWVExa1dRRFVBLU43LVZFaVZCZVlUcWVvTUQ5aEtzcW94WXRFaEVrUURjMnlDWUJ6ajhURG0xOVR1b1kwaXAtaDh0cDNSZjFSU2R4WWRBYzBldV9CTkJROHRibVNmaVlHNUtLdDZYVGVydm9OTkpqVnJrY3JINGg?oc=5\" target=\"_blank\">El Nino has disrupted Monsoon: Rain clouds blanket India, but downpour uneven</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">India Today</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1zcmk1YVVmeUR0WGs4RmNjOXNuMlhBVEpuLTcyeXZYbERIcld5Y1V6WXUyOWVwbWppX2JKbGJVOHdab1Njb2VJc1FzRHR3QWdWbmR2dW9GUzFCamNZOU9YbVVXM1FmS3ZHLUREMGdn?oc=5",
+        "date": "2026-07-18",
+        "title": "Vietnam Stands Alongside With China, India and Myanmar as Asia\u2019s Monsoon Fury Intensifies With Severe Rainfall, Thunderstorms, Flood Dangers and New Tourism Challenges Affecting Outdoor Adventures and Holiday Plans - Travel And Tour World",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE1zcmk1YVVmeUR0WGs4RmNjOXNuMlhBVEpuLTcyeXZYbERIcld5Y1V6WXUyOWVwbWppX2JKbGJVOHdab1Njb2VJc1FzRHR3QWdWbmR2dW9GUzFCamNZOU9YbVVXM1FmS3ZHLUREMGdn?oc=5\" target=\"_blank\">Vietnam Stands Alongside With China, India and Myanmar as Asia\u2019s Monsoon Fury Intensifies With Severe Rainfall, Thunderstorms, Flood Dangers and New Tourism Challenges Affecting Outdoor Adventures and Holiday Plans</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Travel And Tour World</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOcVRwQ21adURib1QtSlJlaDFpV3E1Ry1sVGw5V3p4d2ZVeW1YN0lCaXFnbl9RbFZHVFBCenZiWXZTUTNJSS1va0F5ZFU4Qnc2OFBVOVczZkFvcFF3N0RaSmVSZEJLdDFlQ0IxU3BsNmRiVy1iS3Y4UzFWUGY5NDZpVnJmZk9td2lHUks2RS1mQWstZGQxX0FEczFkYjVsdzJZT0R5MkdDUHl2SUk?oc=5",
+        "date": "2026-07-18",
+        "title": "Monsoon: New Flagstaff flood mitigation projects help protect city - Yahoo",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxOcVRwQ21adURib1QtSlJlaDFpV3E1Ry1sVGw5V3p4d2ZVeW1YN0lCaXFnbl9RbFZHVFBCenZiWXZTUTNJSS1va0F5ZFU4Qnc2OFBVOVczZkFvcFF3N0RaSmVSZEJLdDFlQ0IxU3BsNmRiVy1iS3Y4UzFWUGY5NDZpVnJmZk9td2lHUks2RS1mQWstZGQxX0FEczFkYjVsdzJZT0R5MkdDUHl2SUk?oc=5\" target=\"_blank\">Monsoon: New Flagstaff flood mitigation projects help protect city</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNem9XUm1nemZsZE9NT1JtdHplTmE3bWdUMXhscmFFeC1FLTF0TzhOVlpYSGtsQjREZm1udEZjQm1LVTlwZ0xjcWxDTG16ZVluLUdsTlptZmVpbjRJcnZVQ3Jfc192MlB6Y1FBTi1GODhxNURDRWw5aXFrUnVNRGVuRHRYT0VKeGFIeGVTRTk3UXlzeEFsT1NMalJkVnJydTM1b3NKVjJwYVBYczdmYVo2ZHY2cThCSTlPM0tibGY4ejlHbE84bTVxQUhvN2RNdnFDZEI3bHAzNTFSSEk2ZlFENUh4N2M?oc=5",
+        "date": "2026-07-18",
+        "title": "Unidentified man recovered from Santa Cruz County wash after monsoon floods - KVOA",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxNem9XUm1nemZsZE9NT1JtdHplTmE3bWdUMXhscmFFeC1FLTF0TzhOVlpYSGtsQjREZm1udEZjQm1LVTlwZ0xjcWxDTG16ZVluLUdsTlptZmVpbjRJcnZVQ3Jfc192MlB6Y1FBTi1GODhxNURDRWw5aXFrUnVNRGVuRHRYT0VKeGFIeGVTRTk3UXlzeEFsT1NMalJkVnJydTM1b3NKVjJwYVBYczdmYVo2ZHY2cThCSTlPM0tibGY4ejlHbE84bTVxQUhvN2RNdnFDZEI3bHAzNTFSSEk2ZlFENUh4N2M?oc=5\" target=\"_blank\">Unidentified man recovered from Santa Cruz County wash after monsoon floods</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KVOA</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQbmF1aGJtc2U0S3NpQjJEMHo2NmRQWHM2eDNxSWxLQ3VJT3VzU0piRXBIdzBLNkJJcUsycjc1SDhGa0pWR1F4cHJMRldoYURIbGRyMkFUX21ZWjJmUHZURWpKYWZYdmN0Yy03SlZlZEJ6OURWWllOdmRWM1NVN2t2cmtYQ1ZQUHIwWXVVd1h4M1FWQ2UtN2VBOUZ3N2lKNzlMU1ZPeF9RdkZRcTNnOExCSHJEQ01Uei0tWHVRamtqcV9kZVBfeEFWeWIzNXFPbWJxQ2lwOXo5RE5Pa1k?oc=5",
+        "date": "2026-07-18",
+        "title": "IMD warns of extremely heavy rain and landslide risks - MSN",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxQbmF1aGJtc2U0S3NpQjJEMHo2NmRQWHM2eDNxSWxLQ3VJT3VzU0piRXBIdzBLNkJJcUsycjc1SDhGa0pWR1F4cHJMRldoYURIbGRyMkFUX21ZWjJmUHZURWpKYWZYdmN0Yy03SlZlZEJ6OURWWllOdmRWM1NVN2t2cmtYQ1ZQUHIwWXVVd1h4M1FWQ2UtN2VBOUZ3N2lKNzlMU1ZPeF9RdkZRcTNnOExCSHJEQ01Uei0tWHVRamtqcV9kZVBfeEFWeWIzNXFPbWJxQ2lwOXo5RE5Pa1k?oc=5\" target=\"_blank\">IMD warns of extremely heavy rain and landslide risks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOeFRUQWt5dWhkZkdfUjYycjFHQ3UyY01ENXJCbGkzS01ldzRNeHUtV2tMLWNKQS1EYXpwQ2FGeEkzdlVSaDFrUU0wZUtZeTVkckNrcHVOemZlUFRFT2hjNGZRQTNuXzFKYlpqZXRqT0JFQ2NKb3J0TGNxUFVoeVpzaGExNS1ocm1NeEVpSm1zdER4MVlScFk5Mzg3Zl9obHZUOWFvQ2N0eXpGLTNp?oc=5",
+        "date": "2026-07-18",
+        "title": "Rescuers race to find survivors in the rain after a landslide in China kills at least 8 - SRN News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxOeFRUQWt5dWhkZkdfUjYycjFHQ3UyY01ENXJCbGkzS01ldzRNeHUtV2tMLWNKQS1EYXpwQ2FGeEkzdlVSaDFrUU0wZUtZeTVkckNrcHVOemZlUFRFT2hjNGZRQTNuXzFKYlpqZXRqT0JFQ2NKb3J0TGNxUFVoeVpzaGExNS1ocm1NeEVpSm1zdER4MVlScFk5Mzg3Zl9obHZUOWFvQ2N0eXpGLTNp?oc=5\" target=\"_blank\">Rescuers race to find survivors in the rain after a landslide in China kills at least 8</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SRN News</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNNzE0UWFBX0dBUVducUMweW5NRkNtd1dzRnptbTQ1S0VWZ0VSaHpwdnd3cDJPR3ZsTEREZDEwVUJDT25fZ3pBT0w2VkJKTk81VVJ6QUV5REhBV0NRZnZlU0FWZWFOZ0lHRFFtRVZPQlVvMkRsVWM1SC1jdXlSUDVSVTctU1VnbnpPWXNzTExJS2QxWTBaZ0czUzJSYllneHl3UkJVM1kxSDE2Rzg1X2pfYzJ6Z1VjQzhvT3RvcTUyYVFyQWZx0gHKAUFVX3lxTE9XRW9PODVBQ2JYQmtBazhLMjhUcUdIUlVrWFk4LV9MeE05a2pOV2ZpYkxaVUZ2UlhYZXFkQlJyeVQ0N2pfUFZhaWhORGh2YjdIM1RoRzBFRTM3TmFIdm9PcjFjbEJWcHJYRmZYNjhlZDktWGVQcTE2ZE9UQ2U4SFFpYjFSUHRRVW9IdXVrWFAzUzUydkhzMjFiUGxaQjhjMDkwSnhtNms3My1pT0h5UEtKMWtLb1hZcHdSV0hXYmRaV2k5bHhvVl9NV2c?oc=5",
+        "date": "2026-07-18",
+        "title": "China landslide leaves eight dead as rescuers search for 34 missing in Chongqing - Firstpost",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxNNzE0UWFBX0dBUVducUMweW5NRkNtd1dzRnptbTQ1S0VWZ0VSaHpwdnd3cDJPR3ZsTEREZDEwVUJDT25fZ3pBT0w2VkJKTk81VVJ6QUV5REhBV0NRZnZlU0FWZWFOZ0lHRFFtRVZPQlVvMkRsVWM1SC1jdXlSUDVSVTctU1VnbnpPWXNzTExJS2QxWTBaZ0czUzJSYllneHl3UkJVM1kxSDE2Rzg1X2pfYzJ6Z1VjQzhvT3RvcTUyYVFyQWZx0gHKAUFVX3lxTE9XRW9PODVBQ2JYQmtBazhLMjhUcUdIUlVrWFk4LV9MeE05a2pOV2ZpYkxaVUZ2UlhYZXFkQlJyeVQ0N2pfUFZhaWhORGh2YjdIM1RoRzBFRTM3TmFIdm9PcjFjbEJWcHJYRmZYNjhlZDktWGVQcTE2ZE9UQ2U4SFFpYjFSUHRRVW9IdXVrWFAzUzUydkhzMjFiUGxaQjhjMDkwSnhtNms3My1pT0h5UEtKMWtLb1hZcHdSV0hXYmRaV2k5bHhvVl9NV2c?oc=5\" target=\"_blank\">China landslide leaves eight dead as rescuers search for 34 missing in Chongqing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Firstpost</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOa0s5ZEItZmN4SUY3MHRhcHk4RDhpNXdDUjVxUmsxcTZubTE3RGdSRlFGZUNnNzZJRDh4cGtRSUxVbWFBdEJxYXNHVmJDaGl2SGhIU0tJMzdFTVV5clNCZzdjS01lX0hRN0FfZkFwMHJ5QUIwRjRyMDE3Q1c4X1hDc3duQjBvc0hPbTM4X0J2cEl3Q19KN1U2Nl9Kb1dMR0RCUVZGYUdqTXljcXQ2Tm96QkxkWEJ2Zw?oc=5",
+        "date": "2026-07-18",
+        "title": "Heavy rain causes serious landslides in Mu Cang Chai, urgent evacuation of people - Laodong.vn",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxOa0s5ZEItZmN4SUY3MHRhcHk4RDhpNXdDUjVxUmsxcTZubTE3RGdSRlFGZUNnNzZJRDh4cGtRSUxVbWFBdEJxYXNHVmJDaGl2SGhIU0tJMzdFTVV5clNCZzdjS01lX0hRN0FfZkFwMHJ5QUIwRjRyMDE3Q1c4X1hDc3duQjBvc0hPbTM4X0J2cEl3Q19KN1U2Nl9Kb1dMR0RCUVZGYUdqTXljcXQ2Tm96QkxkWEJ2Zw?oc=5\" target=\"_blank\">Heavy rain causes serious landslides in Mu Cang Chai, urgent evacuation of people</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Laodong.vn</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1JNUljZlp3ai02RENwakFmazhHS1pidlUzYi02RWpINmFnMHF0dmtmb2hrQlllSFZnWldBX1psOFczVUdtcXVXSzNvOVZCaHlMVTk0Q2tXUU50V2ppYWNWSjR5amVrVWdBQXhiZTllZ05YSDg?oc=5",
+        "date": "2026-07-18",
+        "title": "UPDATE: Flash flood warning in place for San Bernardino County Friday night - Fresno Bee",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE1JNUljZlp3ai02RENwakFmazhHS1pidlUzYi02RWpINmFnMHF0dmtmb2hrQlllSFZnWldBX1psOFczVUdtcXVXSzNvOVZCaHlMVTk0Q2tXUU50V2ppYWNWSjR5amVrVWdBQXhiZTllZ05YSDg?oc=5\" target=\"_blank\">UPDATE: Flash flood warning in place for San Bernardino County Friday night</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fresno Bee</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 FORECAST San Bernardino County: Flash flood warning in place Friday night \nSource: Fresno Bee",
+        "type": "news",
+        "tweet_id": "2078371988238745837",
+        "geo": {
+            "country": "United States",
+            "name": "San Bernardino County",
+            "latitude": 34.1083,
+            "longitude": -117.2898,
+            "confidence": 0.9
+        }
     }
 ]
