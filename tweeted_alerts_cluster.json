@@ -18429,7 +18429,7 @@
     "rain_mm": 60.56,
     "soil_moisture": 0.538,
     "raw_dynamic_score": 9.056,
-    "last_updated": "2026-07-19T02:05:39.814319Z",
+    "last_updated": "2026-07-19T05:55:01.066973Z",
     "last_tweeted_at": "2026-05-23T19:08:29.560886Z",
     "tweet_id": "2058263860981670172",
     "resolved": false
@@ -27148,7 +27148,7 @@
     "rain_mm": 51.69,
     "soil_moisture": 0.374,
     "raw_dynamic_score": 6.961,
-    "last_updated": "2026-07-19T02:05:39.814319Z",
+    "last_updated": "2026-07-19T05:55:01.066973Z",
     "last_tweeted_at": "2026-06-26T19:40:18.341240Z",
     "tweet_id": "2070593046341701966",
     "resolved": false
@@ -27433,7 +27433,7 @@
     "rain_mm": 58.0,
     "soil_moisture": 0.648,
     "raw_dynamic_score": 9.248,
-    "last_updated": "2026-07-18T21:53:47.266109Z",
+    "last_updated": "2026-07-19T05:55:01.066973Z",
     "last_tweeted_at": "2026-06-28T19:16:06.019577Z",
     "tweet_id": "2071311729871425629",
     "resolved": false
@@ -33261,7 +33261,7 @@
     "rain_mm": 14.81,
     "soil_moisture": 0.618,
     "raw_dynamic_score": 2.322,
-    "last_updated": "2026-07-18T21:53:47.266109Z",
+    "last_updated": "2026-07-19T05:55:01.066973Z",
     "last_tweeted_at": "2026-07-18T21:53:47.266109Z",
     "tweet_id": "2078599929279189239",
     "resolved": true,
@@ -34334,10 +34334,14 @@
     "rain_mm": 49.56,
     "soil_moisture": 0.626,
     "raw_dynamic_score": 7.805,
-    "last_updated": "2026-07-19T02:05:39.814319Z",
+    "last_updated": "2026-07-19T05:55:01.066973Z",
     "last_tweeted_at": "2026-07-18T21:53:47.266109Z",
     "tweet_id": "2078599929279189239",
-    "resolved": false
+    "resolved": false,
+    "pending_downgrade": true,
+    "pending_target_level": "Low",
+    "pending_set_at": "2026-07-19T05:55:01.066973Z",
+    "pending_is_region": true
   },
   "26.4421,92.0305": {
     "country": "India",
@@ -34349,7 +34353,7 @@
     "rain_mm": 70.06,
     "soil_moisture": 0.653,
     "raw_dynamic_score": 11.202,
-    "last_updated": "2026-07-18T21:53:47.266109Z",
+    "last_updated": "2026-07-19T05:55:01.066973Z",
     "last_tweeted_at": "2026-07-18T21:53:47.266109Z",
     "tweet_id": "2078599929279189239",
     "resolved": false
@@ -34364,7 +34368,7 @@
     "rain_mm": 105.56,
     "soil_moisture": 0.657,
     "raw_dynamic_score": 16.918,
-    "last_updated": "2026-07-18T21:53:47.266109Z",
+    "last_updated": "2026-07-19T05:55:01.066973Z",
     "last_tweeted_at": "2026-07-18T21:53:47.266109Z",
     "tweet_id": "2078599929279189239",
     "resolved": false
@@ -34379,7 +34383,7 @@
     "rain_mm": 43.44,
     "soil_moisture": 0.639,
     "raw_dynamic_score": 6.89,
-    "last_updated": "2026-07-18T21:53:47.266109Z",
+    "last_updated": "2026-07-19T05:55:01.066973Z",
     "last_tweeted_at": "2026-07-18T21:53:47.266109Z",
     "tweet_id": "2078599929279189239",
     "resolved": false
@@ -34394,7 +34398,7 @@
     "rain_mm": 50.31,
     "soil_moisture": 0.622,
     "raw_dynamic_score": 7.906,
-    "last_updated": "2026-07-18T21:53:47.266109Z",
+    "last_updated": "2026-07-19T05:55:01.066973Z",
     "last_tweeted_at": "2026-07-18T21:53:47.266109Z",
     "tweet_id": "2078599929279189239",
     "resolved": false
@@ -34409,7 +34413,7 @@
     "rain_mm": 68.31,
     "soil_moisture": 0.644,
     "raw_dynamic_score": 10.866,
-    "last_updated": "2026-07-18T21:53:47.266109Z",
+    "last_updated": "2026-07-19T05:55:01.066973Z",
     "last_tweeted_at": "2026-07-18T21:53:47.266109Z",
     "tweet_id": "2078599929279189239",
     "resolved": false
@@ -34424,7 +34428,7 @@
     "rain_mm": 43.44,
     "soil_moisture": 0.639,
     "raw_dynamic_score": 6.89,
-    "last_updated": "2026-07-18T21:53:47.266109Z",
+    "last_updated": "2026-07-19T05:55:01.066973Z",
     "last_tweeted_at": "2026-07-18T21:53:47.266109Z",
     "tweet_id": "2078599929279189239",
     "resolved": false
@@ -34439,7 +34443,7 @@
     "rain_mm": 44.88,
     "soil_moisture": 0.602,
     "raw_dynamic_score": 6.968,
-    "last_updated": "2026-07-18T21:53:47.266109Z",
+    "last_updated": "2026-07-19T05:55:01.066973Z",
     "last_tweeted_at": "2026-07-18T21:53:47.266109Z",
     "tweet_id": "2078599929279189239",
     "resolved": false
@@ -34454,7 +34458,7 @@
     "rain_mm": 49.56,
     "soil_moisture": 0.626,
     "raw_dynamic_score": 7.805,
-    "last_updated": "2026-07-18T21:53:47.266109Z",
+    "last_updated": "2026-07-19T05:55:01.066973Z",
     "last_tweeted_at": "2026-07-18T21:53:47.266109Z",
     "tweet_id": "2078599929279189239",
     "resolved": false
@@ -34469,7 +34473,7 @@
     "rain_mm": 58.25,
     "soil_moisture": 0.653,
     "raw_dynamic_score": 9.315,
-    "last_updated": "2026-07-19T02:05:39.814319Z",
+    "last_updated": "2026-07-19T05:55:01.066973Z",
     "last_tweeted_at": "2026-07-19T02:05:39.814319Z",
     "tweet_id": "2078662568068198734",
     "resolved": false
@@ -34484,7 +34488,7 @@
     "rain_mm": 47.5,
     "soil_moisture": 0.585,
     "raw_dynamic_score": 7.304,
-    "last_updated": "2026-07-19T02:05:39.814319Z",
+    "last_updated": "2026-07-19T05:55:01.066973Z",
     "last_tweeted_at": "2026-07-19T02:05:39.814319Z",
     "tweet_id": "2078662820535926889",
     "resolved": false
@@ -34499,7 +34503,7 @@
     "rain_mm": 64.94,
     "soil_moisture": 0.569,
     "raw_dynamic_score": 9.891,
-    "last_updated": "2026-07-19T02:05:39.814319Z",
+    "last_updated": "2026-07-19T05:55:01.066973Z",
     "last_tweeted_at": "2026-07-19T02:05:39.814319Z",
     "tweet_id": "2078663073087594764",
     "resolved": false
@@ -34517,6 +34521,36 @@
     "last_updated": "2026-07-19T02:05:39.814319Z",
     "last_tweeted_at": "2026-07-19T02:05:39.814319Z",
     "tweet_id": "2078663325622337933",
+    "resolved": false
+  },
+  "29.8988,116.5457": {
+    "country": "China",
+    "name": "Pengze",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 29.89885,
+    "longitude": 116.54572,
+    "rain_mm": 45.62,
+    "soil_moisture": 1.0,
+    "raw_dynamic_score": 8.726,
+    "last_updated": "2026-07-19T05:55:01.066973Z",
+    "last_tweeted_at": "2026-07-19T05:55:01.066973Z",
+    "tweet_id": "2078720265379262770",
+    "resolved": false
+  },
+  "29.7048,116.0021": {
+    "country": "China",
+    "name": "Jiujiang",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 29.70475,
+    "longitude": 116.00206,
+    "rain_mm": 40.38,
+    "soil_moisture": 0.692,
+    "raw_dynamic_score": 6.597,
+    "last_updated": "2026-07-19T05:55:01.066973Z",
+    "last_tweeted_at": "2026-07-19T05:55:01.066973Z",
+    "tweet_id": "2078720265379262770",
     "resolved": false
   }
 }
