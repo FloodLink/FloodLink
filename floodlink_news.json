@@ -24351,5 +24351,14 @@
             "longitude": 74.1,
             "confidence": 0.85
         }
+    },
+    {
+        "link": null,
+        "date": "2026-07-19",
+        "status": "posted",
+        "tweet": "Top countries by pop. protected from floods via dams/levees (millions, 2025 est.)\n1. China: 92\n2. USA: 65\n3. India: 48\n4. Netherlands: 13\n5. Japan: 11",
+        "type": "statistical",
+        "category": "dams, levees and reservoirs used for flood control",
+        "tweet_id": "2078786133433983138"
     }
 ]
