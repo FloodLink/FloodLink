@@ -25615,5 +25615,142 @@
             "longitude": 74.7973,
             "confidence": 0.9
         }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPdnRHZTB1VFNLUTNyVmxuTkhrT2JrNjdJY1pSd3F6S2ROQ3ZSUjhwYTc5a3FzNnd0RHF3d1Q3alpXNlgwSUttLWVCOUJJZ1FaRWVrYnNmYnZHTUcwYUwzUldtQjVETDBRakh4ZVZEQVV1TjJnVElQSkZUWmc1MnJIWUZqZ0NwYVJaYVRCSVowRzBnNDVzZldz?oc=5",
+        "date": "2026-07-20",
+        "title": "Monsoon storms to bring flash flood risk across Southern Nevada this week - Las Vegas Sun",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPdnRHZTB1VFNLUTNyVmxuTkhrT2JrNjdJY1pSd3F6S2ROQ3ZSUjhwYTc5a3FzNnd0RHF3d1Q3alpXNlgwSUttLWVCOUJJZ1FaRWVrYnNmYnZHTUcwYUwzUldtQjVETDBRakh4ZVZEQVV1TjJnVElQSkZUWmc1MnJIWUZqZ0NwYVJaYVRCSVowRzBnNDVzZldz?oc=5\" target=\"_blank\">Monsoon storms to bring flash flood risk across Southern Nevada this week</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Las Vegas Sun</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRFN4OWlJQjBuRFJ6WERtYTlqeUJVcl9xTlFFZ1hTeHV0SjdkYmJmNzJUR0JsTjdRb2hSc2tsZ1FBNkxWaVBnSENwWVpGSXFpQWtxOHBPVDdhNnNJbVpLT2RpRDZEbDFRWXotaFpJUnRaT3FVUUFGamRjR2x1Z2kwOUF0S0hVSzlaS204clV2M2M5NUhJYTBnTDM1UHkxWmoxUS1kUzJ3ZGlxQTQ?oc=5",
+        "date": "2026-07-20",
+        "title": "Utah fire captain, wife and 3 sons killed in flash flood - AccuWeather",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRFN4OWlJQjBuRFJ6WERtYTlqeUJVcl9xTlFFZ1hTeHV0SjdkYmJmNzJUR0JsTjdRb2hSc2tsZ1FBNkxWaVBnSENwWVpGSXFpQWtxOHBPVDdhNnNJbVpLT2RpRDZEbDFRWXotaFpJUnRaT3FVUUFGamRjR2x1Z2kwOUF0S0hVSzlaS204clV2M2M5NUhJYTBnTDM1UHkxWmoxUS1kUzJ3ZGlxQTQ?oc=5\" target=\"_blank\">Utah fire captain, wife and 3 sons killed in flash flood</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AccuWeather</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9uYXZDWm9lOGcwR3RJNlRBdXdoRXpVVzNVa1NzbjJ0T2ZhSlRIeDV0UDF5NzY4S2U1THZTRDRVeXMzXzgxTXpmdXBOWUpwU2ljT2tRN1B2cHFZRWNYSVZkT2ZZdW1BY3dlMU83UTItUENIc1FnZWwtbHdxa2taVGc?oc=5",
+        "date": "2026-07-20",
+        "title": "Brothers mourn loss of loved ones who died in devastating flash flood accident - The Salt Lake Tribune",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE9uYXZDWm9lOGcwR3RJNlRBdXdoRXpVVzNVa1NzbjJ0T2ZhSlRIeDV0UDF5NzY4S2U1THZTRDRVeXMzXzgxTXpmdXBOWUpwU2ljT2tRN1B2cHFZRWNYSVZkT2ZZdW1BY3dlMU83UTItUENIc1FnZWwtbHdxa2taVGc?oc=5\" target=\"_blank\">Brothers mourn loss of loved ones who died in devastating flash flood accident</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Salt Lake Tribune</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": null,
+        "tweet_id": "2079252727150834042",
+        "geo": {
+            "country": "United States",
+            "name": "Utah",
+            "latitude": 39.321,
+            "longitude": -111.094,
+            "confidence": 0.65
+        }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPNTB6V09lMEdyNW1SSnVUb1ZfLUFBRE5xTzRhUEpfbkhKbHg1WnFZa3NSOGNzZDA0WW9fUU5QV1dYOERnZkdoNUZ4eWhORERaM18wN0hobmNYWVlVN19yVERJTHoxT3hWamNnVV8tQlVJS2pXZUxNWk5Mb2U3WVptNmJ4RTBQMTRteVlhYWptRG0zSzRGbEZpZlAzWkR1UVZzVHE5TkNQeHh3Ml9ub0ZGb1JyaFl0eXNQV0lqRVJUekctYnd5cUhKN3V1ZjdTZnpl?oc=5",
+        "date": "2026-07-20",
+        "title": "Five family members killed by flash flooding in tragedy near Utah campground - Denver Gazette",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxPNTB6V09lMEdyNW1SSnVUb1ZfLUFBRE5xTzRhUEpfbkhKbHg1WnFZa3NSOGNzZDA0WW9fUU5QV1dYOERnZkdoNUZ4eWhORERaM18wN0hobmNYWVlVN19yVERJTHoxT3hWamNnVV8tQlVJS2pXZUxNWk5Mb2U3WVptNmJ4RTBQMTRteVlhYWptRG0zSzRGbEZpZlAzWkR1UVZzVHE5TkNQeHh3Ml9ub0ZGb1JyaFl0eXNQV0lqRVJUekctYnd5cUhKN3V1ZjdTZnpl?oc=5\" target=\"_blank\">Five family members killed by flash flooding in tragedy near Utah campground</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Denver Gazette</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE13RDlnY25oUFBCOWhqeklQeDJOeVFLekpDN2RKdk9QblVGUUNraUtXRW9rWWFURWZfYlpVOVVGNjFRN1R5TGFwWUpaZ3Z3ajB6RGVZZFNqUzVVYWNodkpDczFnTW5hY0ZEMlFlTTAtdTFZOG11Q0VGV0hR?oc=5",
+        "date": "2026-07-20",
+        "title": "The Tropical Depression: Monday, July 20 status update from the National Hurricane Center - Durham Herald Sun",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE13RDlnY25oUFBCOWhqeklQeDJOeVFLekpDN2RKdk9QblVGUUNraUtXRW9rWWFURWZfYlpVOVVGNjFRN1R5TGFwWUpaZ3Z3ajB6RGVZZFNqUzVVYWNodkpDczFnTW5hY0ZEMlFlTTAtdTFZOG11Q0VGV0hR?oc=5\" target=\"_blank\">The Tropical Depression: Monday, July 20 status update from the National Hurricane Center</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Durham Herald Sun</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQVHNQQ2lKQ1VSSkFmcjBwWlpKSDdTMGFidi1CR1JOQjZqOW94ZHJVcHVNSUFfXzZiSkpBUFRxcTRVelN3a3MycmJmSWxZeDZHeDRrX00xYjRNVzI4WWtXOW5lRjVGR25jVEJndGZnd1hSbEdMMTB6Q044VGpnTmpXdVhmT2pUc2tPejNQS3E5VGlqM01PcjA1WlJ4R3g5S3dNbDRZVEN5OGFpVzNqMkd1eU53ejFrajlobWp0UmRzTFg2Y1VRb2Mxc1NfZFh4OV8yV0HSAd8BQVVfeXFMTXZ1aGVxVHJtS05sZEp3dVljWTROMmJjam1SNUhVam0zMG9taUwzNVdvTXpSV2dWNkEyOXk5WXozcXFIaEpKZXJCdjNvcUdZcFRiMHgtVWhhYUt1YzFlNWg0TzBMU01ZejNyY1VYeGJHZHNRNkhiVjM5U2VQb0w3QUVlaXFNeEFaeC02WGIwSGdMdTZtSmJpYzVmX2hsSHF0a1NMNVRaRUNXRURpZHdJdjRkdjRUU2U2UXRhaFBaUXhGamE4aVRlRVh0Yl9mNFdSVUNJbmZ0T3BhOHU1ZXhrYw?oc=5",
+        "date": "2026-07-20",
+        "title": "Nine dead, five injured in landslide triggered by extreme weather in Nagaland, say officials - Down To Earth",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxQVHNQQ2lKQ1VSSkFmcjBwWlpKSDdTMGFidi1CR1JOQjZqOW94ZHJVcHVNSUFfXzZiSkpBUFRxcTRVelN3a3MycmJmSWxZeDZHeDRrX00xYjRNVzI4WWtXOW5lRjVGR25jVEJndGZnd1hSbEdMMTB6Q044VGpnTmpXdVhmT2pUc2tPejNQS3E5VGlqM01PcjA1WlJ4R3g5S3dNbDRZVEN5OGFpVzNqMkd1eU53ejFrajlobWp0UmRzTFg2Y1VRb2Mxc1NfZFh4OV8yV0HSAd8BQVVfeXFMTXZ1aGVxVHJtS05sZEp3dVljWTROMmJjam1SNUhVam0zMG9taUwzNVdvTXpSV2dWNkEyOXk5WXozcXFIaEpKZXJCdjNvcUdZcFRiMHgtVWhhYUt1YzFlNWg0TzBMU01ZejNyY1VYeGJHZHNRNkhiVjM5U2VQb0w3QUVlaXFNeEFaeC02WGIwSGdMdTZtSmJpYzVmX2hsSHF0a1NMNVRaRUNXRURpZHdJdjRkdjRUU2U2UXRhaFBaUXhGamE4aVRlRVh0Yl9mNFdSVUNJbmZ0T3BhOHU1ZXhrYw?oc=5\" target=\"_blank\">Nine dead, five injured in landslide triggered by extreme weather in Nagaland, say officials</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Down To Earth</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNNGI5Mk1MRkg2bjFQb0taeTV6UGpkNGd0SmFVUHY2bVBJblJDMFZIYnV5WEdEYmYxU09RMy1NYW5NcEhwbW51RGNicE96Y3l2c0JmOG0wNFY2dG1KTTNtQ3hhUm5vOWQyZ1lNbkpWNDNVeFVXMEQ0S0Q3QjFGaDJOR25IekJaYVdXWHJWQ2hjcw?oc=5",
+        "date": "2026-07-20",
+        "title": "At Least 25 Killed as Monsoon Rains Trigger Floods and Landslides in India - Dunyo.info",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxNNGI5Mk1MRkg2bjFQb0taeTV6UGpkNGd0SmFVUHY2bVBJblJDMFZIYnV5WEdEYmYxU09RMy1NYW5NcEhwbW51RGNicE96Y3l2c0JmOG0wNFY2dG1KTTNtQ3hhUm5vOWQyZ1lNbkpWNDNVeFVXMEQ0S0Q3QjFGaDJOR25IekJaYVdXWHJWQ2hjcw?oc=5\" target=\"_blank\">At Least 25 Killed as Monsoon Rains Trigger Floods and Landslides in India</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Dunyo.info</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOckJzcWstWkRVbUxKTFNKYVc2NFB3ZGp0OGZDU3I0cmE2LU9iQm5BUml5T0l6ekdWcjVoZ0FCWUw0RE9ZaHVLREFob1MtZzZ1X0ZPZktwVmNyekM3TlFESHBlUVQ3anpkSkpTZ2lqX01sQnREVjM4ajNQdWpTZGxFM2Voc1ZBVzNyNFV6M0lWU1FtWkRLazZYQw?oc=5",
+        "date": "2026-07-20",
+        "title": "Rain fury batters Wokha: Landslides destroy houses, snap power supply - MorungExpress",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOckJzcWstWkRVbUxKTFNKYVc2NFB3ZGp0OGZDU3I0cmE2LU9iQm5BUml5T0l6ekdWcjVoZ0FCWUw0RE9ZaHVLREFob1MtZzZ1X0ZPZktwVmNyekM3TlFESHBlUVQ3anpkSkpTZ2lqX01sQnREVjM4ajNQdWpTZGxFM2Voc1ZBVzNyNFV6M0lWU1FtWkRLazZYQw?oc=5\" target=\"_blank\">Rain fury batters Wokha: Landslides destroy houses, snap power supply</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MorungExpress</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZWczcGVzd0czVWM3SGR3aUdDdDBxUENGOGFoc2VGRWhVZFA3c1NPanBNTWtITDdrY3ZSZ2RLdk5DRVZMWlR1c0JfWWh3VUx3T0haa1FKam5ONVBPZXcteTUtOTZQRE03eEFPbkktLVM2MTNYdzlsM09VbGVOTGFnbUUzeUhnb3pMdWJtZGVaMXYyZm10?oc=5",
+        "date": "2026-07-20",
+        "title": "Nagaland issues statewide rain alert, activates disaster response - MorungExpress",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNZWczcGVzd0czVWM3SGR3aUdDdDBxUENGOGFoc2VGRWhVZFA3c1NPanBNTWtITDdrY3ZSZ2RLdk5DRVZMWlR1c0JfWWh3VUx3T0haa1FKam5ONVBPZXcteTUtOTZQRE03eEFPbkktLVM2MTNYdzlsM09VbGVOTGFnbUUzeUhnb3pMdWJtZGVaMXYyZm10?oc=5\" target=\"_blank\">Nagaland issues statewide rain alert, activates disaster response</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MorungExpress</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNeldrUkFidkJuRHBzS3ZSTkZUeHBBM2h2OTF4R2NEM1BIMWJyT29VUE1zZldSUDJUejJRRTVwcUctMHZDNmppRE9vRHRyU3RqMnFXenZhYnRPUl9KTUdFM0RZTEwtbm1RZmVWbVYxb01QM1Q3bHh6eUQ3U25mSko3ME9JcWFGOFpmZkpzbw?oc=5",
+        "date": "2026-07-20",
+        "title": "Landslides Triggered by Heavy Rain Injure Four in Guwahati - News On AIR",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNeldrUkFidkJuRHBzS3ZSTkZUeHBBM2h2OTF4R2NEM1BIMWJyT29VUE1zZldSUDJUejJRRTVwcUctMHZDNmppRE9vRHRyU3RqMnFXenZhYnRPUl9KTUdFM0RZTEwtbm1RZmVWbVYxb01QM1Q3bHh6eUQ3U25mSko3ME9JcWFGOFpmZkpzbw?oc=5\" target=\"_blank\">Landslides Triggered by Heavy Rain Injure Four in Guwahati</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">News On AIR</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNTm51MVc3QmFpQ0Q2dGtOSW0ta1hMemFTVTgyaXdoQnVJalRUdmFZOERMWDFNS3EtQjhpQ2NsM0k0dFRHV2N6T0l6NjZXdkE4eFhDckgwNTRBZm8zbFRxR2h3TnFMSmhsTWVIdGwyZGItTVNQY0V1NnZ2WWlNaXlobmdlOXAtTkxxSURaS2o4Z3E3VlZuenh4Ylp0X2JfYUUtME1uYzhRMzlHR3ZCUGV4Y3pVVWhaSFJrVkIzY2R5MFJvbXV3ZzdlNld0ckpXRV9QYi1maF9BRDI3dw?oc=5",
+        "date": "2026-07-20",
+        "title": "Manipur: Torrential Rains Trigger Massive Landslide on NH-37, Disrupting Traffic Between Imphal and Jiribam - Northeast Live",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxNTm51MVc3QmFpQ0Q2dGtOSW0ta1hMemFTVTgyaXdoQnVJalRUdmFZOERMWDFNS3EtQjhpQ2NsM0k0dFRHV2N6T0l6NjZXdkE4eFhDckgwNTRBZm8zbFRxR2h3TnFMSmhsTWVIdGwyZGItTVNQY0V1NnZ2WWlNaXlobmdlOXAtTkxxSURaS2o4Z3E3VlZuenh4Ylp0X2JfYUUtME1uYzhRMzlHR3ZCUGV4Y3pVVWhaSFJrVkIzY2R5MFJvbXV3ZzdlNld0ckpXRV9QYi1maF9BRDI3dw?oc=5\" target=\"_blank\">Manipur: Torrential Rains Trigger Massive Landslide on NH-37, Disrupting Traffic Between Imphal and Jiribam</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Northeast Live</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9uYXZDWm9lOGcwR3RJNlRBdXdoRXpVVzNVa1NzbjJ0T2ZhSlRIeDV0UDF5NzY4S2U1THZTRDRVeXMzXzgxTXpmdXBOWUpwU2ljT2tRN1B2cHFZRWNYSVZkT2ZZdW1BY3dlMU83UTItUENIc1FnZWwtbHdxa2taVGc?oc=5",
+        "date": "2026-07-20",
+        "title": "Brothers mourn loss of loved ones who died in devastating flash flood accident - The Salt Lake Tribune",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE9uYXZDWm9lOGcwR3RJNlRBdXdoRXpVVzNVa1NzbjJ0T2ZhSlRIeDV0UDF5NzY4S2U1THZTRDRVeXMzXzgxTXpmdXBOWUpwU2ljT2tRN1B2cHFZRWNYSVZkT2ZZdW1BY3dlMU83UTItUENIc1FnZWwtbHdxa2taVGc?oc=5\" target=\"_blank\">Brothers mourn loss of loved ones who died in devastating flash flood accident</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Salt Lake Tribune</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 POST-EVENT Utah: Brothers mourn loved ones killed in devastating flash flood. \nThe Salt Lake Tribune",
+        "type": "news",
+        "tweet_id": "2079252727150834042",
+        "geo": {
+            "country": "United States",
+            "name": "Utah",
+            "latitude": 39.321,
+            "longitude": -111.094,
+            "confidence": 0.65
+        }
     }
 ]
