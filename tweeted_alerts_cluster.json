@@ -25269,25 +25269,18 @@
   "9.9907,-83.0360": {
     "country": "Costa Rica",
     "name": "Limón",
-    "risk_level": "High",
-    "tweeted_level": "High",
+    "risk_level": "Low",
+    "tweeted_level": "Low",
     "latitude": 9.99074,
     "longitude": -83.03596,
-    "rain_mm": 73.62,
+    "rain_mm": 0.19,
     "soil_moisture": 1.0,
-    "raw_dynamic_score": 14.081,
-    "last_updated": "2026-07-20T16:32:00.721526Z",
-    "last_tweeted_at": "2026-07-20T11:49:11.888063Z",
-    "tweet_id": "2079172046685159642",
-    "resolved": false,
-    "pending_downgrade": true,
-    "pending_target_level": "Low",
-    "pending_set_at": "2026-07-20T16:32:00.721526Z",
-    "pending_is_region": false,
-    "pending_observed_level": "Low",
-    "pending_observed_rain_mm": 32.75,
-    "pending_observed_soil_moisture": 1.0,
-    "pending_observed_raw_dynamic_score": 6.263
+    "raw_dynamic_score": 0.036,
+    "last_updated": "2026-07-21T13:32:11.308719Z",
+    "last_tweeted_at": "2026-07-21T13:32:11.308719Z",
+    "tweet_id": "2079560359946436923",
+    "resolved": true,
+    "resolved_at": "2026-07-21T13:32:11.308719Z"
   },
   "41.5960,14.2340": {
     "country": "Italy",
@@ -33583,7 +33576,7 @@
     "rain_mm": 45.38,
     "soil_moisture": 0.638,
     "raw_dynamic_score": 7.195,
-    "last_updated": "2026-07-21T11:10:48.761056Z",
+    "last_updated": "2026-07-21T13:32:11.308719Z",
     "last_tweeted_at": "2026-07-19T13:11:11.787042Z",
     "tweet_id": "2078830051253239837",
     "resolved": false
@@ -34499,6 +34492,21 @@
     "last_updated": "2026-07-21T11:10:48.761056Z",
     "last_tweeted_at": "2026-07-21T08:22:32.970962Z",
     "tweet_id": "2079482178979684554",
+    "resolved": false
+  },
+  "-30.1811,-50.2056": {
+    "country": "Brazil",
+    "name": "Cidreira",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": -30.18111,
+    "longitude": -50.20556,
+    "rain_mm": 41.25,
+    "soil_moisture": 1.0,
+    "raw_dynamic_score": 7.889,
+    "last_updated": "2026-07-21T13:32:11.308719Z",
+    "last_tweeted_at": "2026-07-21T13:32:11.308719Z",
+    "tweet_id": "2079560106786652634",
     "resolved": false
   }
 }
