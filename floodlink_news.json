@@ -26700,5 +26700,14 @@
             "longitude": 105.5,
             "confidence": 0.85
         }
+    },
+    {
+        "link": null,
+        "date": "2026-07-21",
+        "status": "posted",
+        "tweet": "In 2025, 1.6 billion people lived in Asian floodplains exposed to river floods and storm surge, compared to 210 million in Europe.",
+        "type": "statistical",
+        "category": "population living in floodplains",
+        "tweet_id": "2079684605783810498"
     }
 ]
