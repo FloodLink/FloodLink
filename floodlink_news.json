@@ -26219,5 +26219,486 @@
             "longitude": -110.9747,
             "confidence": 0.85
         }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRnlXZzVXYmtBRnd5UDJFdzhTZDRlLUpQOTRsM3p6WjNRcmRMNm0wSnY2YVZEc3c3aERJQnpqOThuaGtwWDhLdDhpVkdkVTJmSlMtaXVBVjhvdUdSTGRPNlRjLWZGZTg5c2NMcE5wV3J5WjRobkROUDdpNkFmX1AxSjdVbGpzRUxKRGg1ejRYbkZFd3otaGRQUmxQcDJ2ZFM0bkhTctIBqgFBVV95cUxQSUFnOFZISjQ1aktIa0ZkRERFbFU1czJ3Y2JISmFFVkRRdGlGemlwNDZYY1I3amtZMUVHbmFpamgxXzZYRWZKVVR4U3BpVVJ3bC1Pd1hDb0tmeVBiYXhoNnpjaEtPOC1LZkd4dS02bzZJRDBvZGFpcHM4YWJmbFpNcXBZRS04S3g1eUR4NEV3TF9oaHFaaklyLWxoeWZwQ3NBendGd0tsVGtvUQ?oc=5",
+        "date": "2026-07-21",
+        "title": "NYC braces for more flooding as storms roll in Tuesday - FOX 5 New York",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQRnlXZzVXYmtBRnd5UDJFdzhTZDRlLUpQOTRsM3p6WjNRcmRMNm0wSnY2YVZEc3c3aERJQnpqOThuaGtwWDhLdDhpVkdkVTJmSlMtaXVBVjhvdUdSTGRPNlRjLWZGZTg5c2NMcE5wV3J5WjRobkROUDdpNkFmX1AxSjdVbGpzRUxKRGg1ejRYbkZFd3otaGRQUmxQcDJ2ZFM0bkhTctIBqgFBVV95cUxQSUFnOFZISjQ1aktIa0ZkRERFbFU1czJ3Y2JISmFFVkRRdGlGemlwNDZYY1I3amtZMUVHbmFpamgxXzZYRWZKVVR4U3BpVVJ3bC1Pd1hDb0tmeVBiYXhoNnpjaEtPOC1LZkd4dS02bzZJRDBvZGFpcHM4YWJmbFpNcXBZRS04S3g1eUR4NEV3TF9oaHFaaklyLWxoeWZwQ3NBendGd0tsVGtvUQ?oc=5\" target=\"_blank\">NYC braces for more flooding as storms roll in Tuesday</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FOX 5 New York</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOcDZXaW1hdThhTVhjZTg5Z19GZjJjekFyX09Xd2VZTnk3cjgydG9PTjNPTVNFdDNEUUdVenExa25LaFgtWF90Vm5MemdpOW8yYVJlUUw4ZktjcG1NenVkSjRUbEhiVXJuN1ljdmNmbkVxM0tVNjF0SDNFckdxMkhEMQ?oc=5",
+        "date": "2026-07-21",
+        "title": "Stormy weather returns with flood watch for NYC, parts of N.J. - CBS News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxOcDZXaW1hdThhTVhjZTg5Z19GZjJjekFyX09Xd2VZTnk3cjgydG9PTjNPTVNFdDNEUUdVenExa25LaFgtWF90Vm5MemdpOW8yYVJlUUw4ZktjcG1NenVkSjRUbEhiVXJuN1ljdmNmbkVxM0tVNjF0SDNFckdxMkhEMQ?oc=5\" target=\"_blank\">Stormy weather returns with flood watch for NYC, parts of N.J.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CBS News</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONm41Z19Mc3hoa1lHaGZvR2xIT0hxQnNDeGZsWWpXSXN2TU1WRFlKUTVacWFtRzlvMW5KQk9CbS1hbndjOWxzcDdXZWNBeGx6VHlHWGF4SEkzVWRQQVhlQ2F2TWRDQ3F1R1o4LTB1NmhXX2Y3dWZtMEhsd2otZVJaYTh1NElOTjA5ZVJVRHF6THJxNmpJcWwyaTlUbzdIUWIzVXJZVEhyd2NUQm5rSGFoWk5CemRlMGJsZjJn?oc=5",
+        "date": "2026-07-21",
+        "title": "Flash flood warning issued for Beaver following devastating rains - FOX 13 News Utah",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxONm41Z19Mc3hoa1lHaGZvR2xIT0hxQnNDeGZsWWpXSXN2TU1WRFlKUTVacWFtRzlvMW5KQk9CbS1hbndjOWxzcDdXZWNBeGx6VHlHWGF4SEkzVWRQQVhlQ2F2TWRDQ3F1R1o4LTB1NmhXX2Y3dWZtMEhsd2otZVJaYTh1NElOTjA5ZVJVRHF6THJxNmpJcWwyaTlUbzdIUWIzVXJZVEhyd2NUQm5rSGFoWk5CemRlMGJsZjJn?oc=5\" target=\"_blank\">Flash flood warning issued for Beaver following devastating rains</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FOX 13 News Utah</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1mcjVKcW44NmlMS1NQc2dSWDgzMnBnZ0hlSjNOVGJfVFU4WGNpeFhvY2p0TTJUb2JHbXBxTVh2cGFhRnhzbzZOalhLUFZyZ0Rxd3Btc1NvcExSYXMzS1pUZGtNOA?oc=5",
+        "date": "2026-07-21",
+        "title": "Millions under threat again as severe storms, flash flooding charge east - FOX Weather",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE1mcjVKcW44NmlMS1NQc2dSWDgzMnBnZ0hlSjNOVGJfVFU4WGNpeFhvY2p0TTJUb2JHbXBxTVh2cGFhRnhzbzZOalhLUFZyZ0Rxd3Btc1NvcExSYXMzS1pUZGtNOA?oc=5\" target=\"_blank\">Millions under threat again as severe storms, flash flooding charge east</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FOX Weather</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9Ka2R5S1pLRm9HTk1DMHlEbnVUUDljYjJfWFd5bHZDSmctWjVHRjJXVkpuZWxWcVVpVGlad3BMQlJPdm9HdFRFdEVUd01sN18yS0MtRGtWMnpGczJlS0g4YXlLeF82MGVoTjZibEd0bTc5RTdmR0NPbm1JcVY?oc=5",
+        "date": "2026-07-21",
+        "title": "Monsoon Storms Raise Flash Flood Threat - FOX 13 News Utah",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE9Ka2R5S1pLRm9HTk1DMHlEbnVUUDljYjJfWFd5bHZDSmctWjVHRjJXVkpuZWxWcVVpVGlad3BMQlJPdm9HdFRFdEVUd01sN18yS0MtRGtWMnpGczJlS0g4YXlLeF82MGVoTjZibEd0bTc5RTdmR0NPbm1JcVY?oc=5\" target=\"_blank\">Monsoon Storms Raise Flash Flood Threat</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FOX 13 News Utah</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTXlwenYwT3Y2NEhGSEZVWmJQWnc1ZzI1dEJkTVgtU3Q3eTRvd1o5Z09pMnZPdEc3MHFydHpHZC1iRFFsNDhxM21WX2VTZDB0bHZWNDFoRjM5T2ZFZVdOb19uSjNKczNkTkRhZXNLVTlzeWVpbEk1b2xvUDNsbG82SUpVZEladHdPU0Eyc3RRUDgxdkdpZ0kyYXRKZG9iSjFldHhDbGFwTUdfYV9lT21ONjhrOHhGZw?oc=5",
+        "date": "2026-07-21",
+        "title": "Flash Flooding and Severe Weather for the Carolinas This Week - WeatherNation",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPTXlwenYwT3Y2NEhGSEZVWmJQWnc1ZzI1dEJkTVgtU3Q3eTRvd1o5Z09pMnZPdEc3MHFydHpHZC1iRFFsNDhxM21WX2VTZDB0bHZWNDFoRjM5T2ZFZVdOb19uSjNKczNkTkRhZXNLVTlzeWVpbEk1b2xvUDNsbG82SUpVZEladHdPU0Eyc3RRUDgxdkdpZ0kyYXRKZG9iSjFldHhDbGFwTUdfYV9lT21ONjhrOHhGZw?oc=5\" target=\"_blank\">Flash Flooding and Severe Weather for the Carolinas This Week</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WeatherNation</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZXNtQTlqZjRTS2szN2R3WHUwTnppNTE3cEZ5dmRpbkdwNExXaXdaRFRuMUV2RUdTRDNLa19uNldubnZxZ2lxUENFclhlZjJxV0hlaXVjS1J1R05XTTlaMVlFdjdoRTZ2aXBMYXFyQ0ZLZVJxTkZpZUFPSDl1dkl0ZEp1MG0xRHo2eDJUQ3QxUTlFV0RxQllpZXJUYWtiR3VZQXc?oc=5",
+        "date": "2026-07-21",
+        "title": "Texas flash flood emergency triggers rescues, evacuations, and cleanup after 2 die - Yahoo",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQZXNtQTlqZjRTS2szN2R3WHUwTnppNTE3cEZ5dmRpbkdwNExXaXdaRFRuMUV2RUdTRDNLa19uNldubnZxZ2lxUENFclhlZjJxV0hlaXVjS1J1R05XTTlaMVlFdjdoRTZ2aXBMYXFyQ0ZLZVJxTkZpZUFPSDl1dkl0ZEp1MG0xRHo2eDJUQ3QxUTlFV0RxQllpZXJUYWtiR3VZQXc?oc=5\" target=\"_blank\">Texas flash flood emergency triggers rescues, evacuations, and cleanup after 2 die</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQnluTTRHdlJfQTVuU20zd01WanBBZ2xMVFByN0RvUV9vUzMzUzZTRF90OFVUQ3lNU3NRVDZLaXl0NW4yN3pEcGZJZUZRaGcwX25pOTJsZThBODJvdGRhcDVIOGtUWDFWMS1oZ01kNmxrYmllaXotZ2JMRjVpcU4wZEJ1OFlDSXJj?oc=5",
+        "date": "2026-07-21",
+        "title": "In Missouri's flash floods, 2 rescuers lost their boat. It didn't stop them - KCUR",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQnluTTRHdlJfQTVuU20zd01WanBBZ2xMVFByN0RvUV9vUzMzUzZTRF90OFVUQ3lNU3NRVDZLaXl0NW4yN3pEcGZJZUZRaGcwX25pOTJsZThBODJvdGRhcDVIOGtUWDFWMS1oZ01kNmxrYmllaXotZ2JMRjVpcU4wZEJ1OFlDSXJj?oc=5\" target=\"_blank\">In Missouri's flash floods, 2 rescuers lost their boat. It didn't stop them</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KCUR</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPckVaVEVic3lhUDYtdldBMFNFRzYzY1hBNUZ1bVpmWWsySFN5ZWRNS1hxWmpVNUVGQTB3bFo3QmxmX0E3aDdSYTVUYlpvVnQtTUtyNEpVVDBLbXM5VTJtbkpDdVhXWk1qb2k0b1JXY2NPdm9VS0d2NUhJa3llOTR6X0h3Q0FZNDBwVndoYXBDSW8xUnRXX2ZkQ3FaZzRxQ0hFc05KSk95WFVwY3NUMWNMTld5dlJTY19JME94MTlrS1JMeXg3M2hkZV9IbnJ3b0F2RUFYNGpvWnc5MF9sQ01F?oc=5",
+        "date": "2026-07-21",
+        "title": "Storms predicted to sweep northeast across Michigan late on Monday, July 20. Hail, flash floods, tornadoes and strong winds are all possible. See link below \u2b07\ufe0f \ud83d\udcf8 National Weather Service - facebook.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxPckVaVEVic3lhUDYtdldBMFNFRzYzY1hBNUZ1bVpmWWsySFN5ZWRNS1hxWmpVNUVGQTB3bFo3QmxmX0E3aDdSYTVUYlpvVnQtTUtyNEpVVDBLbXM5VTJtbkpDdVhXWk1qb2k0b1JXY2NPdm9VS0d2NUhJa3llOTR6X0h3Q0FZNDBwVndoYXBDSW8xUnRXX2ZkQ3FaZzRxQ0hFc05KSk95WFVwY3NUMWNMTld5dlJTY19JME94MTlrS1JMeXg3M2hkZV9IbnJ3b0F2RUFYNGpvWnc5MF9sQ01F?oc=5\" target=\"_blank\">Storms predicted to sweep northeast across Michigan late on Monday, July 20. Hail, flash floods, tornadoes and strong winds are all possible. See link below \u2b07\ufe0f \ud83d\udcf8 National Weather Service</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">facebook.com</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNU25JOGxFWWFkTjY5clMxYWV5Qm92QUpYcExjSG9sSHFlSk1SekVvYnJ2VC1zNVBTdy1YcGpTemRxR01IWE1LeDYwUWdaeklJdU44ZkN2Q1JvaUtSSlpSVnBhTjBCb2FpV3ZlNEhxTThIN2doTEpPdU9nQmVlcWxfV211VXBnc3BvOGRaM0ZvSFZ3WTVfamdzdjE5aWtJV3B0NnZaYkVtRnhianJsR0UyRw?oc=5",
+        "date": "2026-07-21",
+        "title": "Flood sirens save lives. Sandy Creek residents need them now | Editorial - Austin American-Statesman",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNU25JOGxFWWFkTjY5clMxYWV5Qm92QUpYcExjSG9sSHFlSk1SekVvYnJ2VC1zNVBTdy1YcGpTemRxR01IWE1LeDYwUWdaeklJdU44ZkN2Q1JvaUtSSlpSVnBhTjBCb2FpV3ZlNEhxTThIN2doTEpPdU9nQmVlcWxfV211VXBnc3BvOGRaM0ZvSFZ3WTVfamdzdjE5aWtJV3B0NnZaYkVtRnhianJsR0UyRw?oc=5\" target=\"_blank\">Flood sirens save lives. Sandy Creek residents need them now | Editorial</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Austin American-Statesman</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPX0UxRExUUkN2YXYtemtvaVZFX05WeFoyWS11cTNKLVUyZF9KbHNaQWxsb0ptdlMtYnE3Tm85SnRXTm9KNWYzUWtTSkdmYmNHWU56VGtWb2FCbTRjNXAyU0tTZWRleTlySUtuWUlxOFQ5MFFZRmpHd3llSjgyUWFvS1Q1ejJjU2ZoNmhwUVBuMXA4VnBwZzNyNmhZNDM2R043N2ZZN0MwTmYwWWlMTS1XX0FIVXVXSkpSc3cxYkcyRFNudUxaazNKYg?oc=5",
+        "date": "2026-07-21",
+        "title": "Imjin River flood warning issued after downpour, surprise dam release from North - Korea JoongAng Daily",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxPX0UxRExUUkN2YXYtemtvaVZFX05WeFoyWS11cTNKLVUyZF9KbHNaQWxsb0ptdlMtYnE3Tm85SnRXTm9KNWYzUWtTSkdmYmNHWU56VGtWb2FCbTRjNXAyU0tTZWRleTlySUtuWUlxOFQ5MFFZRmpHd3llSjgyUWFvS1Q1ejJjU2ZoNmhwUVBuMXA4VnBwZzNyNmhZNDM2R043N2ZZN0MwTmYwWWlMTS1XX0FIVXVXSkpSc3cxYkcyRFNudUxaazNKYg?oc=5\" target=\"_blank\">Imjin River flood warning issued after downpour, surprise dam release from North</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Korea JoongAng Daily</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE11Rm5zaWxmSlRxNGc2QVpTS21MSGY3XzVJYTNjc3RpNU5mYWY5OFRTMGR4SFloVWp2aE1LVmI2d3ZFZWszRVhYYmZCQUtnV2IyQXE0elFhNEtOdkxZRVRoTjFrbHlzbFJBMGI0ak15WWdSaVphMW9ObDQyRXg?oc=5",
+        "date": "2026-07-21",
+        "title": "Latest update from the National Hurricane Center on Tropical Storm Bertha for Tuesday, July 21 - Miami Herald",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE11Rm5zaWxmSlRxNGc2QVpTS21MSGY3XzVJYTNjc3RpNU5mYWY5OFRTMGR4SFloVWp2aE1LVmI2d3ZFZWszRVhYYmZCQUtnV2IyQXE0elFhNEtOdkxZRVRoTjFrbHlzbFJBMGI0ak15WWdSaVphMW9ObDQyRXg?oc=5\" target=\"_blank\">Latest update from the National Hurricane Center on Tropical Storm Bertha for Tuesday, July 21</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Miami Herald</font>",
+        "similarity_excluded": "No",
+        "score": 3,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOQk9TYjFwS2w2ZDhLTFI0UkUxbTB5MDZJRklOQ1lMcVBPRHFaTlZJMXFTMjBzZGN5RXExX3ZGNkNNY3R5OXVjU093NnlBUkE1TW5zUm1Eb282UWlwcHNGVDNMcU9DUHFvS0tRTlN5ZTJEdkx3ZjdvVC1YQk50ZDRPcEFpeEFNaVpxT2IwUEhLeVZZc2FMYkxmUzJuaW5ISGI3X2FxZ2RjelVUZmdWUXBJZzdBR3JHeXRoYXN2clN5N1Z0bXE2aUJRSkd0Um5DdHVOZ3RFZFBoX2x1cGVOQUFv?oc=5",
+        "date": "2026-07-21",
+        "title": "Tropical Storm Bertha strengthened in the Gulf of Mexico and was moving slowly toward the Florida Panhandle, causing a tropical storm warning and storm surge watches around the state line between Florida and Alabama, forecasters said. - facebook.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxOQk9TYjFwS2w2ZDhLTFI0UkUxbTB5MDZJRklOQ1lMcVBPRHFaTlZJMXFTMjBzZGN5RXExX3ZGNkNNY3R5OXVjU093NnlBUkE1TW5zUm1Eb282UWlwcHNGVDNMcU9DUHFvS0tRTlN5ZTJEdkx3ZjdvVC1YQk50ZDRPcEFpeEFNaVpxT2IwUEhLeVZZc2FMYkxmUzJuaW5ISGI3X2FxZ2RjelVUZmdWUXBJZzdBR3JHeXRoYXN2clN5N1Z0bXE2aUJRSkd0Um5DdHVOZ3RFZFBoX2x1cGVOQUFv?oc=5\" target=\"_blank\">Tropical Storm Bertha strengthened in the Gulf of Mexico and was moving slowly toward the Florida Panhandle, causing a tropical storm warning and storm surge watches around the state line between Florida and Alabama, forecasters said.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">facebook.com</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQUWpncy1lSWQ1YWhmck0weC03cW9yYjZSRk5HS25jeER1VkRnVVNRYVJCZUFTTHRTSk9LUW1vSXJVcDhkcWRBZ2J6dl95Rm5LazRDOFN5T3dRdjhOOFcwN0RjZlU2YjFMazFvNjZUOEtXYXNtaVZLVTJrN2dEWk5Vckh5czR1eVBNUUNVdEtDbXJMSEQyNzZCVGZjWURwUGFnYjJyUDNqTC1veXh1ZDloRnJzd29OTkRuRGRrRnM3VEtGdHVzM3QwcDdHSkFJTTNjNUVtdUVvTTZtakdDVkwtbUNnYU5QaEtsS3JlblZQMm9qc25Ta0lfZGhnRTVCWnFadjFv?oc=5",
+        "date": "2026-07-21",
+        "title": "Tropical Storm Bertha tracker: Storm surge and flash flooding forecast for parts of Gulf Coast \u2013 see latest path - Yahoo",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwJBVV95cUxQUWpncy1lSWQ1YWhmck0weC03cW9yYjZSRk5HS25jeER1VkRnVVNRYVJCZUFTTHRTSk9LUW1vSXJVcDhkcWRBZ2J6dl95Rm5LazRDOFN5T3dRdjhOOFcwN0RjZlU2YjFMazFvNjZUOEtXYXNtaVZLVTJrN2dEWk5Vckh5czR1eVBNUUNVdEtDbXJMSEQyNzZCVGZjWURwUGFnYjJyUDNqTC1veXh1ZDloRnJzd29OTkRuRGRrRnM3VEtGdHVzM3QwcDdHSkFJTTNjNUVtdUVvTTZtakdDVkwtbUNnYU5QaEtsS3JlblZQMm9qc25Ta0lfZGhnRTVCWnFadjFv?oc=5\" target=\"_blank\">Tropical Storm Bertha tracker: Storm surge and flash flooding forecast for parts of Gulf Coast \u2013 see latest path</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPMWFwLV9rRGlFMlRqRXpTTmIwTDZTYW9hQWFhWmtJOFp3U0UxVVJfVjlpNElsVW1VLXhTcWQwZU52UGdyMzJESDcxTEo2SGIwekpMUV9DelBMcTk2d3BpTzZvMmhOMmkxaEhydE1kdm55NkNJZC05TllLdGVGR3RtX1l0NjBrVUVROEN3Q3Z1cEFfcUpVT0Rnb2ZQcHlSMU1iSXFWbFo0UWZvQjJYLUszSl9IRGMwTklaZ0tMZTJKUHlJYnhTVG9YTUZ3VG4?oc=5",
+        "date": "2026-07-21",
+        "title": "How will Tropical Storm Bertha impact Florida? Will it become hurricane? - Tallahassee Democrat",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxPMWFwLV9rRGlFMlRqRXpTTmIwTDZTYW9hQWFhWmtJOFp3U0UxVVJfVjlpNElsVW1VLXhTcWQwZU52UGdyMzJESDcxTEo2SGIwekpMUV9DelBMcTk2d3BpTzZvMmhOMmkxaEhydE1kdm55NkNJZC05TllLdGVGR3RtX1l0NjBrVUVROEN3Q3Z1cEFfcUpVT0Rnb2ZQcHlSMU1iSXFWbFo0UWZvQjJYLUszSl9IRGMwTklaZ0tMZTJKUHlJYnhTVG9YTUZ3VG4?oc=5\" target=\"_blank\">How will Tropical Storm Bertha impact Florida? Will it become hurricane?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tallahassee Democrat</font>",
+        "similarity_excluded": "No",
+        "score": 3,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNaFBoTEpzUG9MeEg0NV9JOEotVHFZMVhpQ2VqM1FscHd3WGhmZTFiXzBwQ0doMDdLWTNTa1ZJQXgxcnZxeTEtUXpVOHNVZzg2eE1sOFQxNFVFRGhpbUEzYmpUR25kZXFWNExxekVkVDRnV0U2OWhpZTVsNzV5ZGZ1Ym1TM3BLZ3dFWm1sS1lfSlV3RTNWVWN5M1JfdjVUZmNZdnJvR2FiRjVZOHBsTzFGaUdYNkMwdw?oc=5",
+        "date": "2026-07-21",
+        "title": "Tropical Storm Bertha threatens US Gulf Coast with heavy rain, storm surge - Anadolu Ajans\u0131",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNaFBoTEpzUG9MeEg0NV9JOEotVHFZMVhpQ2VqM1FscHd3WGhmZTFiXzBwQ0doMDdLWTNTa1ZJQXgxcnZxeTEtUXpVOHNVZzg2eE1sOFQxNFVFRGhpbUEzYmpUR25kZXFWNExxekVkVDRnV0U2OWhpZTVsNzV5ZGZ1Ym1TM3BLZ3dFWm1sS1lfSlV3RTNWVWN5M1JfdjVUZmNZdnJvR2FiRjVZOHBsTzFGaUdYNkMwdw?oc=5\" target=\"_blank\">Tropical Storm Bertha threatens US Gulf Coast with heavy rain, storm surge</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Anadolu Ajans\u0131</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRDdRZzVEdlJpb0RhRFlETWNHUzQ1WDlDSXFwcjl1cG9qLUgtLUVFWnlFczFmcU9iejI1M0ozZXJCcEFKTGZ2RlA4eENudFJ0aUU0dENSYlRpcmdNQ0FiWVdaWUxzSFJuU3Z0Wm5vYUlEVXZjeDh1aWZkcFBEUTgyZTM1ZlhvVGFRWmdkcjQtMTVRNVI3NGRsMXRuTEFMMUhXaFhwMWNGVlFFUjQ?oc=5",
+        "date": "2026-07-21",
+        "title": "Tropical Storm Bertha Tracker Map Shows Where Landfall Expected This Week - Newsweek",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRDdRZzVEdlJpb0RhRFlETWNHUzQ1WDlDSXFwcjl1cG9qLUgtLUVFWnlFczFmcU9iejI1M0ozZXJCcEFKTGZ2RlA4eENudFJ0aUU0dENSYlRpcmdNQ0FiWVdaWUxzSFJuU3Z0Wm5vYUlEVXZjeDh1aWZkcFBEUTgyZTM1ZlhvVGFRWmdkcjQtMTVRNVI3NGRsMXRuTEFMMUhXaFhwMWNGVlFFUjQ?oc=5\" target=\"_blank\">Tropical Storm Bertha Tracker Map Shows Where Landfall Expected This Week</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Newsweek</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPcUFlQzFkMVdOcER5aDJBZ2Q0Z2s2azU1VTluUGkxM0lxbGpxUTUtdGxEM1dFaUNHTzhCQ0txMDMyUTBTbkw2N05Hbm5yZkhCaDNkcjY4MWpjMFZwYXItWl95Q3VfbVJORGZYSkIxbFdvVWw1VUxhSlN3ZnRaRG5BSEJJeFFWNWV1c3ExTWw2M0hhbko3UHFKNUFqTlpLS2hlQUdEWm5TZVF0Ym44a2JPYVhYSEo?oc=5",
+        "date": "2026-07-21",
+        "title": "Life-threatening storm surge feared as Tropical Storm Bertha nears the Gulf Coast - inkl",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPcUFlQzFkMVdOcER5aDJBZ2Q0Z2s2azU1VTluUGkxM0lxbGpxUTUtdGxEM1dFaUNHTzhCQ0txMDMyUTBTbkw2N05Hbm5yZkhCaDNkcjY4MWpjMFZwYXItWl95Q3VfbVJORGZYSkIxbFdvVWw1VUxhSlN3ZnRaRG5BSEJJeFFWNWV1c3ExTWw2M0hhbko3UHFKNUFqTlpLS2hlQUdEWm5TZVF0Ym44a2JPYVhYSEo?oc=5\" target=\"_blank\">Life-threatening storm surge feared as Tropical Storm Bertha nears the Gulf Coast</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">inkl</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": null,
+        "tweet_id": "2079541314304045100",
+        "geo": {
+            "country": "United States",
+            "name": "Gulf Coast",
+            "latitude": 29.0,
+            "longitude": -90.0,
+            "confidence": 0.75
+        }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9FT0ZnenN2UkhtbWJsR2IwTXUtaUFyQ04zTjdWSVpGMmtZdlV3YlVtWGRVOGhPUE1XcVd3ZENuakhITF9lQUM3eHc3ajlGRnIyaXFJSFk3UHlNdGYxeExESlREQXdhT2FjZHdvRUs3djVodFJpTkprMWhrLWQ?oc=5",
+        "date": "2026-07-21",
+        "title": "Tropical Storm Bertha slowly strengthens, threatening flooding as it trudges toward Gulf Coast - CNN",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE9FT0ZnenN2UkhtbWJsR2IwTXUtaUFyQ04zTjdWSVpGMmtZdlV3YlVtWGRVOGhPUE1XcVd3ZENuakhITF9lQUM3eHc3ajlGRnIyaXFJSFk3UHlNdGYxeExESlREQXdhT2FjZHdvRUs3djVodFJpTkprMWhrLWQ?oc=5\" target=\"_blank\">Tropical Storm Bertha slowly strengthens, threatening flooding as it trudges toward Gulf Coast</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNN</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNa0ZKX3c4OExBbUxjckI1Q096RGJIRTlISmJRdXp4Qm9fU2hUZXltSzExZ1hLRWQ3QjVOQmxpMFdweHMwNEMteEdPcTY0NEZzUS1WUUZLZllnZVY0TFFaNTcwb0FLemlfaGNxV0RsRjJHYW9CWVVVNGN1dU45cmczUFNyeEJIdHNDVDVOVTBjQzl4amdHWHBEOGVhWVpDamVqLWdLWHBsMW9jby1NVGpMV2Y5ZGNuVGJUQjZreXFqYW0yVDNNandFLXF5Q0QxdVp5ejhRVlJjNGQ4YkZ1RGlEWE1lN3pSVm9tbWlWOUhXdTZHZ3hXaWc?oc=5",
+        "date": "2026-07-21",
+        "title": "Rescue crews in Afghanistan search for missing, dead in rubble left by flash flooding - The Tribune-Democrat",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9gFBVV95cUxNa0ZKX3c4OExBbUxjckI1Q096RGJIRTlISmJRdXp4Qm9fU2hUZXltSzExZ1hLRWQ3QjVOQmxpMFdweHMwNEMteEdPcTY0NEZzUS1WUUZLZllnZVY0TFFaNTcwb0FLemlfaGNxV0RsRjJHYW9CWVVVNGN1dU45cmczUFNyeEJIdHNDVDVOVTBjQzl4amdHWHBEOGVhWVpDamVqLWdLWHBsMW9jby1NVGpMV2Y5ZGNuVGJUQjZreXFqYW0yVDNNandFLXF5Q0QxdVp5ejhRVlJjNGQ4YkZ1RGlEWE1lN3pSVm9tbWlWOUhXdTZHZ3hXaWc?oc=5\" target=\"_blank\">Rescue crews in Afghanistan search for missing, dead in rubble left by flash flooding</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Tribune-Democrat</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNUFp6elQtZE9PQU1UYVpGR0RNZzIwS0tQU2VYY1pwZDktTjVNNVo2THRCWVFKZThqRE5wWFhKcy1EVWk4VUVtZE5nalVSNFJWTHdYYzhuMTZDQS0yWVA5dnB2aHNVSjhZSWVGWlFTLTJHTklMVlpQTFI4MEk2OHVIQ2s0Q0xDZHNGcE5MNHFkQURIcUl1bnFsOWdPT0J1NF9yQnVLSWRMdzQ3bFRSSm9OUXQ2VzRqZldsOWJwX2pETklhaFhZT2lRY05MWHd2Z9IB0wFBVV95cUxOZmRQRW4yTkVoN1V2M0xWd1N0b0ZoYWExZHoyOGVhYmsyNWFUZzJTWklqSWxIMXQ3c1did00xOUZsRm9rUWdJVEdtc0p4dW5xUmFIdGZYeDRBdTdvTVlzcWZQTElSNGRTaTRWS2JCSmxTLVBYT18tZG94V0xOVTFwZ1ZZOEdjbkhnLXMzMG5EaWVBVkpZRGxpOFZJak8zT282ZTNLblNKdURVTGJuNVk0YXdOOVlTYnNFVXFBbWg5WWhFbVdZajJ4M25kVnZmTmxHV2pj?oc=5",
+        "date": "2026-07-21",
+        "title": "PhilSA maps show flooding, landslide extent due to Typhoon Inday, monsoon - GMA Network",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxNUFp6elQtZE9PQU1UYVpGR0RNZzIwS0tQU2VYY1pwZDktTjVNNVo2THRCWVFKZThqRE5wWFhKcy1EVWk4VUVtZE5nalVSNFJWTHdYYzhuMTZDQS0yWVA5dnB2aHNVSjhZSWVGWlFTLTJHTklMVlpQTFI4MEk2OHVIQ2s0Q0xDZHNGcE5MNHFkQURIcUl1bnFsOWdPT0J1NF9yQnVLSWRMdzQ3bFRSSm9OUXQ2VzRqZldsOWJwX2pETklhaFhZT2lRY05MWHd2Z9IB0wFBVV95cUxOZmRQRW4yTkVoN1V2M0xWd1N0b0ZoYWExZHoyOGVhYmsyNWFUZzJTWklqSWxIMXQ3c1did00xOUZsRm9rUWdJVEdtc0p4dW5xUmFIdGZYeDRBdTdvTVlzcWZQTElSNGRTaTRWS2JCSmxTLVBYT18tZG94V0xOVTFwZ1ZZOEdjbkhnLXMzMG5EaWVBVkpZRGxpOFZJak8zT282ZTNLblNKdURVTGJuNVk0YXdOOVlTYnNFVXFBbWg5WWhFbVdZajJ4M25kVnZmTmxHV2pj?oc=5\" target=\"_blank\">PhilSA maps show flooding, landslide extent due to Typhoon Inday, monsoon</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GMA Network</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxObWR5V0pWcWRoLV9TcllWTmtSekk4QS1EOXlHMHJXeHBCeVRiWVdYd04wNkMybzhuNFpvSnJ0QWN3TTg0eHJkdnowOG40OFhYZktua2F1ajJROUxCVUNJVDZpRDU4dkpKYkRiTmxkdHAxaFZKYnZTUjRTS0lMdVdCT3pHUVhJVDltelI0LWVFZW05Vk5GdFFOVl9R?oc=5",
+        "date": "2026-07-21",
+        "title": "Kaziranga Flood Status: Park Largely Unaffected by Monsoon - Prag News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxObWR5V0pWcWRoLV9TcllWTmtSekk4QS1EOXlHMHJXeHBCeVRiWVdYd04wNkMybzhuNFpvSnJ0QWN3TTg0eHJkdnowOG40OFhYZktua2F1ajJROUxCVUNJVDZpRDU4dkpKYkRiTmxkdHAxaFZKYnZTUjRTS0lMdVdCT3pHUVhJVDltelI0LWVFZW05Vk5GdFFOVl9R?oc=5\" target=\"_blank\">Kaziranga Flood Status: Park Largely Unaffected by Monsoon</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Prag News</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZFZNUW1MdF8yRW5pMWNYcENxa2dYeXRvZmc2dFlZZFBlcFhtdzlVMWF5eUdhcExYRzdmRkN3NF9BMXdQWnpmZU1ZMTV1eVlQTnBiYzZPRWxnY2NicUNZX0FuRHE2ZUltczVHQ0ZrWXNmZ1QtWjJCX1Y0Qk1qdEVQNWYwRm1QbzJmeExsN0tsMGV5UnI2YTZYQTVCLTkxWDJ1TE81OHpQSFd6WkU?oc=5",
+        "date": "2026-07-21",
+        "title": "Why Matuail drowns every monsoon despite decades of promises - The Business Standard",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZFZNUW1MdF8yRW5pMWNYcENxa2dYeXRvZmc2dFlZZFBlcFhtdzlVMWF5eUdhcExYRzdmRkN3NF9BMXdQWnpmZU1ZMTV1eVlQTnBiYzZPRWxnY2NicUNZX0FuRHE2ZUltczVHQ0ZrWXNmZ1QtWjJCX1Y0Qk1qdEVQNWYwRm1QbzJmeExsN0tsMGV5UnI2YTZYQTVCLTkxWDJ1TE81OHpQSFd6WkU?oc=5\" target=\"_blank\">Why Matuail drowns every monsoon despite decades of promises</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Business Standard</font>",
+        "similarity_excluded": "No",
+        "score": 6,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5DZzFlX29GOE1seDRvcF92ZDZyeFR4MGVaRS1kdkNRQ0RNank0eVJPTWpuSkpkeGJvalZBRWlzOEFPQWF6MWJTVw?oc=5",
+        "date": "2026-07-21",
+        "title": "Monsoon rains kill 12 in KP in past 3 days; nationwide flood warning issued - Dawn",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTE5DZzFlX29GOE1seDRvcF92ZDZyeFR4MGVaRS1kdkNRQ0RNank0eVJPTWpuSkpkeGJvalZBRWlzOEFPQWF6MWJTVw?oc=5\" target=\"_blank\">Monsoon rains kill 12 in KP in past 3 days; nationwide flood warning issued</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Dawn</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": null,
+        "tweet_id": "2079541866261848188",
+        "geo": {
+            "country": "Pakistan",
+            "name": "Khyber Pakhtunkhwa",
+            "latitude": 34.0,
+            "longitude": 71.8,
+            "confidence": 0.75
+        }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSVUwYWFlUkRaejZqbTRJTHUwTUJNLWhuYVMyNHBuYmM0NzRwSTJOTEJ4ZXV2MTNiYTdqRTRQV0JhbmZTem1qOEFlQVY4MnNXMnpxRVJNeDZzTzBLVU53OC1VR0JjNHFKZGl6bWtiSDNlZ2lTSXp4cmdCVElNdkFJSEtyOGJKMlVQQXBZbg?oc=5",
+        "date": "2026-07-21",
+        "title": "Monsoon rains trigger NDMA flood alert till July 24 - | Associated Press Of Pakistan",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQSVUwYWFlUkRaejZqbTRJTHUwTUJNLWhuYVMyNHBuYmM0NzRwSTJOTEJ4ZXV2MTNiYTdqRTRQV0JhbmZTem1qOEFlQVY4MnNXMnpxRVJNeDZzTzBLVU53OC1VR0JjNHFKZGl6bWtiSDNlZ2lTSXp4cmdCVElNdkFJSEtyOGJKMlVQQXBZbg?oc=5\" target=\"_blank\">Monsoon rains trigger NDMA flood alert till July 24</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">| Associated Press Of Pakistan</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOS2xQUjlpY213WnJCYjNTTTd1bEJvUnRxdlJpTXJWeno4MTYxeEdMWkFqSFpfVGMtVENMT2JkaFdmQVhPTnRBdDBOaXVFUk9xcVB5MHRQUnpUSXFSbkdvX0w1a3o4Q2pMOHBoSDJCanl5SUpJS1NybWZKdVBsWE5KQndoMWN3V1ZoOHJ3OUdlTzVDeFotQURQVFdBLWdqYWw0RTdYNWR2UWJmdUNULUFwcmlZcUdvVmdJVEE?oc=5",
+        "date": "2026-07-21",
+        "title": "WATCH: Prescott Valley goes through intense monsoon storm Monday - ABC15 Arizona",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxOS2xQUjlpY213WnJCYjNTTTd1bEJvUnRxdlJpTXJWeno4MTYxeEdMWkFqSFpfVGMtVENMT2JkaFdmQVhPTnRBdDBOaXVFUk9xcVB5MHRQUnpUSXFSbkdvX0w1a3o4Q2pMOHBoSDJCanl5SUpJS1NybWZKdVBsWE5KQndoMWN3V1ZoOHJ3OUdlTzVDeFotQURQVFdBLWdqYWw0RTdYNWR2UWJmdUNULUFwcmlZcUdvVmdJVEE?oc=5\" target=\"_blank\">WATCH: Prescott Valley goes through intense monsoon storm Monday</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ABC15 Arizona</font>",
+        "similarity_excluded": "No",
+        "score": 3,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNVGVCM3B1eUlVV1ZRU0JvcWNIdHdfMEdGWEtQZjN6eE5vMEdERG05UzNXVS1OUzBTNXpXWG9VYVRpX2RIbThmUl9YdVFENTVocnZid2lXY3RScmI5U0h2UmRuUTB6T2NTQW83eDJ2dkNGV0dzUDd2WlFDVWRuU2RvODFRQ1ZJQ2R5emlncTAyTEE3elgxV1YyNTd0NWZLN3FpNTN5QkFVTEtfbnBfQlA4eTY5LVRwQ3JjMXQyYV9UY2tZbmhHbHBwSEhCWjhpMkU?oc=5",
+        "date": "2026-07-21",
+        "title": "Better chance of monsoon storms for Albuquerque today, Ruidoso under a Flood Watch this afternoon - KOAT",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxNVGVCM3B1eUlVV1ZRU0JvcWNIdHdfMEdGWEtQZjN6eE5vMEdERG05UzNXVS1OUzBTNXpXWG9VYVRpX2RIbThmUl9YdVFENTVocnZid2lXY3RScmI5U0h2UmRuUTB6T2NTQW83eDJ2dkNGV0dzUDd2WlFDVWRuU2RvODFRQ1ZJQ2R5emlncTAyTEE3elgxV1YyNTd0NWZLN3FpNTN5QkFVTEtfbnBfQlA4eTY5LVRwQ3JjMXQyYV9UY2tZbmhHbHBwSEhCWjhpMkU?oc=5\" target=\"_blank\">Better chance of monsoon storms for Albuquerque today, Ruidoso under a Flood Watch this afternoon</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KOAT</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOTEYwMk44Z0NyNmo0RFpzZDllSlZpN2U0T2dmSlBJSkwydGlrZWJUUl9aNkIzTHFTRDF6eXQwaEgyMFc5Vlo2QXpVa0daUFhnZUFlWlFBWkJTUnNpdjdPWVVWbGhwUVB5T3Y3WjRyN1JTOUtKaHFoN3loc2t3c25PTU1Ea0dOT2kwWWdsYVppNVBnZ2o0cDJmcWcteUQzRndUY2F2YjZUcnFEdDB3b1pyY3BOdVRuV3MycFNGekIwMVRIWnVnSEdIbGk3VzJDU3dqckFGcWFCTlg3VlRwYm9Ca3l3?oc=5",
+        "date": "2026-07-21",
+        "title": "As Pocket Fire's burn risk declines, flood risk rises - azcentral.com and The Arizona Republic",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxOTEYwMk44Z0NyNmo0RFpzZDllSlZpN2U0T2dmSlBJSkwydGlrZWJUUl9aNkIzTHFTRDF6eXQwaEgyMFc5Vlo2QXpVa0daUFhnZUFlWlFBWkJTUnNpdjdPWVVWbGhwUVB5T3Y3WjRyN1JTOUtKaHFoN3loc2t3c25PTU1Ea0dOT2kwWWdsYVppNVBnZ2o0cDJmcWcteUQzRndUY2F2YjZUcnFEdDB3b1pyY3BOdVRuV3MycFNGekIwMVRIWnVnSEdIbGk3VzJDU3dqckFGcWFCTlg3VlRwYm9Ca3l3?oc=5\" target=\"_blank\">As Pocket Fire's burn risk declines, flood risk rises</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">azcentral.com and The Arizona Republic</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQM3FYb0ZjYUpfS2ZJbkJUUFYxS3FfZnBFSXNzeWhNZjRaUXk4dVZ4V0RBUU9CbmNodGx0SGVjWDEwZTd2dTZrQXhzSWxldlk2ZnVnLXk3MktYcWRZTDdIRUp6eFNncnk2cFpKTlBVdnV1MENlOVBQOF9ON042WXk5MGgxU1lMWVpwa1hpR1lWbXN6YURj?oc=5",
+        "date": "2026-07-21",
+        "title": "MOST ACCURATE FORECAST: Flood Watch for much of Arizona today - ABC15 Arizona",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQM3FYb0ZjYUpfS2ZJbkJUUFYxS3FfZnBFSXNzeWhNZjRaUXk4dVZ4V0RBUU9CbmNodGx0SGVjWDEwZTd2dTZrQXhzSWxldlk2ZnVnLXk3MktYcWRZTDdIRUp6eFNncnk2cFpKTlBVdnV1MENlOVBQOF9ON042WXk5MGgxU1lMWVpwa1hpR1lWbXN6YURj?oc=5\" target=\"_blank\">MOST ACCURATE FORECAST: Flood Watch for much of Arizona today</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ABC15 Arizona</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNYXlSTEJ0ejFUVE9kNHctcTBBRWhYMkpDWllsMEltem9yUjk2VU9GSHpHaGZYcFEwRWZfS0ZuSWlzNmJvZjVyQUgyQnA2VXdsT1VvQkdFcDhUNHVCY0VoaFg4dzgxUHlONTBSWEVlZ0NwZWZmWG5fRkdJMERobmJfUEFUWnl0cWJ3RWZFc2E0M0Y0RmJjMlh5MnVfZFBqaHUzcXZBbW9ETlJLMmtvUzliRG1fbkczcEsxWC1FM9IBwgFBVV95cUxPT1VJRU1nZW5EZjE4My14bG1vdnVEaVZ3S2tGZWwzVF9MTmZIRmJLRVdMT2o3b1U2U29RVW9jQ1QxVnV4SHRUZ0F2Y2J1ejdPaW1WR3Z5UGxobmRzR2FWWHdsejhmRUxwamJIM202WEVLMXFKQlVDOGUxMFpRYllTbFc1eWs0a2NCRGZoWDd3RU82WV80Qk1HSUVqdXBSeXRFbm1rOVlSMHI4bm5ZMmh2LVBpYlhuR0RYSm1WZmdydHJsdw?oc=5",
+        "date": "2026-07-21",
+        "title": "Five more bodies recovered in Mon as rain-triggered landslide toll reaches 9 - The Assam Tribune",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxNYXlSTEJ0ejFUVE9kNHctcTBBRWhYMkpDWllsMEltem9yUjk2VU9GSHpHaGZYcFEwRWZfS0ZuSWlzNmJvZjVyQUgyQnA2VXdsT1VvQkdFcDhUNHVCY0VoaFg4dzgxUHlONTBSWEVlZ0NwZWZmWG5fRkdJMERobmJfUEFUWnl0cWJ3RWZFc2E0M0Y0RmJjMlh5MnVfZFBqaHUzcXZBbW9ETlJLMmtvUzliRG1fbkczcEsxWC1FM9IBwgFBVV95cUxPT1VJRU1nZW5EZjE4My14bG1vdnVEaVZ3S2tGZWwzVF9MTmZIRmJLRVdMT2o3b1U2U29RVW9jQ1QxVnV4SHRUZ0F2Y2J1ejdPaW1WR3Z5UGxobmRzR2FWWHdsejhmRUxwamJIM202WEVLMXFKQlVDOGUxMFpRYllTbFc1eWs0a2NCRGZoWDd3RU82WV80Qk1HSUVqdXBSeXRFbm1rOVlSMHI4bm5ZMmh2LVBpYlhuR0RYSm1WZmdydHJsdw?oc=5\" target=\"_blank\">Five more bodies recovered in Mon as rain-triggered landslide toll reaches 9</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Assam Tribune</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNWGJtaTZ3TWpiQU9iUnRReFQzXzh3Rm1CNlhIVzBUNDlUTTZza05oTHByQUI0UldIQzZFQXM5YktoZlVUMGNiRzBTc1JCVS1LNlN2RDJBWW1qNk9BQTIxTExOOVZwOVFJRGFyc1NMVmdRN1lsVTdPeUVLaUlyR3JEUkxSd3NIeUpMeHZ5LV9ybkhPb25nUXRZZ0ZYTjJmbks0UVcxcU9ydw?oc=5",
+        "date": "2026-07-21",
+        "title": "Northern Vietnam floods leave eight dead or missing, losses top $19m - B\u00e1o VietNamNet",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNWGJtaTZ3TWpiQU9iUnRReFQzXzh3Rm1CNlhIVzBUNDlUTTZza05oTHByQUI0UldIQzZFQXM5YktoZlVUMGNiRzBTc1JCVS1LNlN2RDJBWW1qNk9BQTIxTExOOVZwOVFJRGFyc1NMVmdRN1lsVTdPeUVLaUlyR3JEUkxSd3NIeUpMeHZ5LV9ybkhPb25nUXRZZ0ZYTjJmbks0UVcxcU9ydw?oc=5\" target=\"_blank\">Northern Vietnam floods leave eight dead or missing, losses top $19m</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">B\u00e1o VietNamNet</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": null,
+        "tweet_id": "2079542417963778082",
+        "geo": {
+            "country": "Vietnam",
+            "name": "Northern Vietnam",
+            "latitude": 21.5,
+            "longitude": 105.5,
+            "confidence": 0.85
+        }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNU254R2JNWC1nWDJGdEp3dlhaWlBRT0Jka2h4X1VVeVktZTZMS2NfNHl6Qkc2MzNadGhrMDVtd0dWU2pjYWZBRG9OOEh4M0R5aFJsYjI0MlN1OWxtekF5LWlaeHJuMG1NdGdXVXlLendiZXRsTmNNRmE4Qm1TX0sxOEYxenFOblBKVDltbjZQbFpxYWdaTkNIM0RKX1lTRGFIQVozRURtdUtiOWlReXBJWDJPMDg4M1pRVXd5VlhtOFg4VTkwVVNRbm9BWWF5QdIB0gFBVV95cUxQdGlvUElQWWhkRm9nY3ZKSTRNMkhHYzh3R0UtUk5LekY1QTBmVE5SRzVOMU5nYUNLZndFdkhBU2oyZHUzUEpkck1xNEJVaE8zQVZwUndyQi10UFhJUWVTNzFGU2oyd3FLelBLZEQzVGxRenBoeXRocWhpeWh6N2J5c3ZaYlN1OWNCS2hlVFhpRGtEOUZ4M1RKNnh2Nk11Q29RWlpuOGtmc2J2SkNodVZTVzczVkJGbHhxWkl6YTVJaXJtMk5xMEdyU1NMaEhUQm5TcXc?oc=5",
+        "date": "2026-07-21",
+        "title": "Road connectivity between Nurpur-Chamba district via Lahru snapped with massive landslide - The Tribune",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxNU254R2JNWC1nWDJGdEp3dlhaWlBRT0Jka2h4X1VVeVktZTZMS2NfNHl6Qkc2MzNadGhrMDVtd0dWU2pjYWZBRG9OOEh4M0R5aFJsYjI0MlN1OWxtekF5LWlaeHJuMG1NdGdXVXlLendiZXRsTmNNRmE4Qm1TX0sxOEYxenFOblBKVDltbjZQbFpxYWdaTkNIM0RKX1lTRGFIQVozRURtdUtiOWlReXBJWDJPMDg4M1pRVXd5VlhtOFg4VTkwVVNRbm9BWWF5QdIB0gFBVV95cUxQdGlvUElQWWhkRm9nY3ZKSTRNMkhHYzh3R0UtUk5LekY1QTBmVE5SRzVOMU5nYUNLZndFdkhBU2oyZHUzUEpkck1xNEJVaE8zQVZwUndyQi10UFhJUWVTNzFGU2oyd3FLelBLZEQzVGxRenBoeXRocWhpeWh6N2J5c3ZaYlN1OWNCS2hlVFhpRGtEOUZ4M1RKNnh2Nk11Q29RWlpuOGtmc2J2SkNodVZTVzczVkJGbHhxWkl6YTVJaXJtMk5xMEdyU1NMaEhUQm5TcXc?oc=5\" target=\"_blank\">Road connectivity between Nurpur-Chamba district via Lahru snapped with massive landslide</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Tribune</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQMU1FcnlORnotQmNpN1ZsalUzd2h5c250b3JpeDhjSGhsUllGWUtOMGxkSjdsVzBGelZGWjdvMUVJLUxPemF3SkRDR1dMVVdoRFBiSFlxeUdFaGFmdUQ2Qm5DX29NcVROa3hNenpjdmRRamtsUW95T1ZPRVFTU0wySk9XYVpZczFwcWRRMFBsSU9Pc3A4UF9Nd045RGVWNVpITUJ0N3pyMURhbXNXVTltUHRocEFjd3lkeTVvZ0N6QjdCVW9HRmdvTkdn?oc=5",
+        "date": "2026-07-21",
+        "title": "Fresh Landslides Hamper Traffic on Jammu, Srinagar Highway, Restoration Efforts Continue - Brighter Kashmir",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxQMU1FcnlORnotQmNpN1ZsalUzd2h5c250b3JpeDhjSGhsUllGWUtOMGxkSjdsVzBGelZGWjdvMUVJLUxPemF3SkRDR1dMVVdoRFBiSFlxeUdFaGFmdUQ2Qm5DX29NcVROa3hNenpjdmRRamtsUW95T1ZPRVFTU0wySk9XYVpZczFwcWRRMFBsSU9Pc3A4UF9Nd045RGVWNVpITUJ0N3pyMURhbXNXVTltUHRocEFjd3lkeTVvZ0N6QjdCVW9HRmdvTkdn?oc=5\" target=\"_blank\">Fresh Landslides Hamper Traffic on Jammu, Srinagar Highway, Restoration Efforts Continue</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Brighter Kashmir</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOdjJyemMwc0lMcUU2UWVSTmMzOWVCcldrVnpENDN2S0FGNTB1TzVCUExaTnl0VEtnWE9CMFhGNEVJbWNoUjNEVTI2N1pzRUU1X2hQcUUtTkc5aS04TEJHZXh3dTBTZFphaTNNZUk1bFdvLWU0eXpOcHFPT2tEd1ZvVG1sZ08taUZuTmNFNWItbmZNN3FCZWRhT2s5VWFFWFhCU2JLeS1lUGdLbnFRdTFPeU4ySktfLS1vRjZuWS1fVElydXp1TzJybzJMX2NmanE3eFM2S2ZUT20yQ2VXREF0YjNmQXBObTVoUFFPS2ZyTTd0UdIB9wFBVV95cUxONnVMMlRXYm9PZkZQVHVlSjNDam45REJvTk9jMFpWSWdrNTRReVpOR3BnamdTYmNDejkzaHNaZGtZcEc1bXBTUDVqa29rdEFvVUFFT2Z6SUEyUGxpeTNnWEZrUXk1VmlLVlpfQkpIMy1RWUt0Y0N6Tl9WX0RwSkZHRW5ZMmtsc2FBcEJGNkxsV0lCcXZieUZya2NmY2pidXptNW1RUFNzbUVndnQ0Z1E0cTRWMFF0ei1KbzhJbXJfckRpalNmbXc3N3IxOEl3djhQLXRtVlY0QlEtSVV0bzZfV010cUwtOFFnSnJNVV9lMmNNQU9Lb2JJ?oc=5",
+        "date": "2026-07-21",
+        "title": "Sikkim landslide: Many dead or trapped in teesta hydroelectric project's under-construction tunnel | Hindustan Times - Hindustan Times",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8gFBVV95cUxOdjJyemMwc0lMcUU2UWVSTmMzOWVCcldrVnpENDN2S0FGNTB1TzVCUExaTnl0VEtnWE9CMFhGNEVJbWNoUjNEVTI2N1pzRUU1X2hQcUUtTkc5aS04TEJHZXh3dTBTZFphaTNNZUk1bFdvLWU0eXpOcHFPT2tEd1ZvVG1sZ08taUZuTmNFNWItbmZNN3FCZWRhT2s5VWFFWFhCU2JLeS1lUGdLbnFRdTFPeU4ySktfLS1vRjZuWS1fVElydXp1TzJybzJMX2NmanE3eFM2S2ZUT20yQ2VXREF0YjNmQXBObTVoUFFPS2ZyTTd0UdIB9wFBVV95cUxONnVMMlRXYm9PZkZQVHVlSjNDam45REJvTk9jMFpWSWdrNTRReVpOR3BnamdTYmNDejkzaHNaZGtZcEc1bXBTUDVqa29rdEFvVUFFT2Z6SUEyUGxpeTNnWEZrUXk1VmlLVlpfQkpIMy1RWUt0Y0N6Tl9WX0RwSkZHRW5ZMmtsc2FBcEJGNkxsV0lCcXZieUZya2NmY2pidXptNW1RUFNzbUVndnQ0Z1E0cTRWMFF0ei1KbzhJbXJfckRpalNmbXc3N3IxOEl3djhQLXRtVlY0QlEtSVV0bzZfV010cUwtOFFnSnJNVV9lMmNNQU9Lb2JJ?oc=5\" target=\"_blank\">Sikkim landslide: Many dead or trapped in teesta hydroelectric project's under-construction tunnel | Hindustan Times</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Hindustan Times</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPV1huTC1ROFFUeUZWTTVVb2dwamN0UDZQUmV6em1ORW1EYi1VZUhYMGlNSGk3WktvV1hKcVZOZS1ZeFA3S19nSDZRYjMzQ3d0cnVQMFdaa2pSNVVUaXFGMWcyRnItQzZTZE56eG1TaV8ya295X3g4TUY1UDF4Sko4dktjUC0wX2ZnRWRSOE1HY1hlRFRfdTRHRWtDRFNQRUhTRVB2dE43QTJjNmhqT2YzNnVmNmx5aTRsdFMxNGpPMzhQY2EzM2g4RExWREt0VUNmWGttWnpBSHR0eTJBWlh1UGttTGt1UGNFUTZlRlZCX0t0MVN1d29CYWgtbFM1bG_SAYQCQVVfeXFMTkVRd05xWlJPUk5GOUc4eGVzUHZaZDNjdTFRMWhwb3dvR3l0ektIV0ZPSk1JcnQ4M3dNaDRkR29Qc1RKMTdJb2hZUUVXSW1rQXlmRzhDRUpwSFYxWmNqOVFNR3MxcS1GaHFzZ2puR2lDcmVsUTF2LWRNZVFNOGVDaFc1d0RjNUctQWNvMTItUUVFdFNtcnZCeENlYTNmQ014RXpBSkRGSmFPWUNNTzREaHBJSS12enFlYVlZZGNRMWZoNVJIMmxSVUsyanhMTzVBZ1Z2NkhsV1kzeDl0eW50djRKV1djS09HOS1HUl9nNmhkVHBYRFd4cFZ3TE8yYTJWdU9IaWo?oc=5",
+        "date": "2026-07-21",
+        "title": "Heavy rain batters J&K, disrupts highway traffic; rescue operations continue in Poonch, Katra records 245.6 mm in three days - WION",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_wFBVV95cUxPV1huTC1ROFFUeUZWTTVVb2dwamN0UDZQUmV6em1ORW1EYi1VZUhYMGlNSGk3WktvV1hKcVZOZS1ZeFA3S19nSDZRYjMzQ3d0cnVQMFdaa2pSNVVUaXFGMWcyRnItQzZTZE56eG1TaV8ya295X3g4TUY1UDF4Sko4dktjUC0wX2ZnRWRSOE1HY1hlRFRfdTRHRWtDRFNQRUhTRVB2dE43QTJjNmhqT2YzNnVmNmx5aTRsdFMxNGpPMzhQY2EzM2g4RExWREt0VUNmWGttWnpBSHR0eTJBWlh1UGttTGt1UGNFUTZlRlZCX0t0MVN1d29CYWgtbFM1bG_SAYQCQVVfeXFMTkVRd05xWlJPUk5GOUc4eGVzUHZaZDNjdTFRMWhwb3dvR3l0ektIV0ZPSk1JcnQ4M3dNaDRkR29Qc1RKMTdJb2hZUUVXSW1rQXlmRzhDRUpwSFYxWmNqOVFNR3MxcS1GaHFzZ2puR2lDcmVsUTF2LWRNZVFNOGVDaFc1d0RjNUctQWNvMTItUUVFdFNtcnZCeENlYTNmQ014RXpBSkRGSmFPWUNNTzREaHBJSS12enFlYVlZZGNRMWZoNVJIMmxSVUsyanhMTzVBZ1Z2NkhsV1kzeDl0eW50djRKV1djS09HOS1HUl9nNmhkVHBYRFd4cFZ3TE8yYTJWdU9IaWo?oc=5\" target=\"_blank\">Heavy rain batters J&amp;K, disrupts highway traffic; rescue operations continue in Poonch, Katra records 245.6 mm in three days</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WION</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNSGJsMWk4UWFpbFBZODJfTGc0cWFVNml0cTY2REUyV2x2SnR2WWozZWlPWFVmXzlxN2h5d0dKa1hzTjdQWjU1UEdZQ0VUOHlLVUZPWW1xcEhwMjM4LUxtakdQWkFmUzB0cW5HVV9UbFpKMlhkQUtrUzBrTVZhU3JwS0k0VDI?oc=5",
+        "date": "2026-07-21",
+        "title": "LG mourns Poonch landslide tragedy - Brighter Kashmir",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxNSGJsMWk4UWFpbFBZODJfTGc0cWFVNml0cTY2REUyV2x2SnR2WWozZWlPWFVmXzlxN2h5d0dKa1hzTjdQWjU1UEdZQ0VUOHlLVUZPWW1xcEhwMjM4LUxtakdQWkFmUzB0cW5HVV9UbFpKMlhkQUtrUzBrTVZhU3JwS0k0VDI?oc=5\" target=\"_blank\">LG mourns Poonch landslide tragedy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Brighter Kashmir</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTUtYV25MeVVuQzFDdnJmRHFhUEk0UkVBT0RPUHZyUHl1TmdGTDVBRUJnMjR4NkVIMjR6bGxtaU5XVVRKUXA1YkpXOWpMY3ctTFNIajlkNFNRN2QxcUFpb0pjVDNSZWQ3OXQ4NWRidDk3U0wwMEl5MTl6cS1PWnRBaHFNNDk3dGstR2V0WXhtaF85YUV2RWliYzBqazg3QzJiTEcwUzN3V2YwUXlUWEE?oc=5",
+        "date": "2026-07-21",
+        "title": "2 Kids Among 7 Killed in Poonch Landslide as Heavy Rains Batter J&K - Brighter Kashmir",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQTUtYV25MeVVuQzFDdnJmRHFhUEk0UkVBT0RPUHZyUHl1TmdGTDVBRUJnMjR4NkVIMjR6bGxtaU5XVVRKUXA1YkpXOWpMY3ctTFNIajlkNFNRN2QxcUFpb0pjVDNSZWQ3OXQ4NWRidDk3U0wwMEl5MTl6cS1PWnRBaHFNNDk3dGstR2V0WXhtaF85YUV2RWliYzBqazg3QzJiTEcwUzN3V2YwUXlUWEE?oc=5\" target=\"_blank\">2 Kids Among 7 Killed in Poonch Landslide as Heavy Rains Batter J&amp;K</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Brighter Kashmir</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxONXExWlc5YmJTbE1TRmJlNmVzTVNqcGo3cWxRdVJsV1R2cmhRR1R5S3lOcmZ4dnk3a3hIUDM3a0ZZaDM5Wm9CdTFvRHJRM1lWb1Q5bFVTVUdJZmlVcE9LWTliUDY4QlVGbmktSF9OWXFWdlpOTEJaR0RpTXcwYTUzRENPaEtMX1ZmTzJIOVFOaGo1QXAxNGwxWkJVN2hIU0NDdFg1TWJhRWRLU1V1UldmV2hEanVZQjlVR2wzS182TEpodk8wakHSAcoBQVVfeXFMTlk4ZnlkVkJ6MDdEWlJYZDBWeUUxOU90aUp6NGRadEpaOExTN1FVU1hqUERVNUg2NUk4VWU3dHhVaTJOcnBKbjA1YkNfV1ZsUHh5ZVNPSDlKVWJkUzVGM0tzaE9TbjZHLTUyQnB3eDM4LWNCOUhzcWtPRFZmQjVMTkowcVdrOUc3cEoyLVF0WFBiQkVGVzNQNFN6U29YQTN6YWdfaHp2YldTRktrS2hJSE9UM2VzalNZTmhZazNTWC1iRDR4RFlEMVFPUQ?oc=5",
+        "date": "2026-07-21",
+        "title": "Fresh Landslides Disrupt Jammu-Srinagar Highway; Restoration Work Underway At Multiple Locations - Daily Excelsior",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxONXExWlc5YmJTbE1TRmJlNmVzTVNqcGo3cWxRdVJsV1R2cmhRR1R5S3lOcmZ4dnk3a3hIUDM3a0ZZaDM5Wm9CdTFvRHJRM1lWb1Q5bFVTVUdJZmlVcE9LWTliUDY4QlVGbmktSF9OWXFWdlpOTEJaR0RpTXcwYTUzRENPaEtMX1ZmTzJIOVFOaGo1QXAxNGwxWkJVN2hIU0NDdFg1TWJhRWRLU1V1UldmV2hEanVZQjlVR2wzS182TEpodk8wakHSAcoBQVVfeXFMTlk4ZnlkVkJ6MDdEWlJYZDBWeUUxOU90aUp6NGRadEpaOExTN1FVU1hqUERVNUg2NUk4VWU3dHhVaTJOcnBKbjA1YkNfV1ZsUHh5ZVNPSDlKVWJkUzVGM0tzaE9TbjZHLTUyQnB3eDM4LWNCOUhzcWtPRFZmQjVMTkowcVdrOUc3cEoyLVF0WFBiQkVGVzNQNFN6U29YQTN6YWdfaHp2YldTRktrS2hJSE9UM2VzalNZTmhZazNTWC1iRDR4RFlEMVFPUQ?oc=5\" target=\"_blank\">Fresh Landslides Disrupt Jammu-Srinagar Highway; Restoration Work Underway At Multiple Locations</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Daily Excelsior</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNem9EVXBxTHBub0NUelV6Rk9yREUzam9UVzBUWlY4eEFsNXFoZTlFMnRUWHJac0c5YV81R0FtY2dTNUZwbHdnSjNDU1Q4OGRELXFwLXVma1QtR3NIaS1YMGhmY1IwbUNWUGNDeDFBTWpxX0hFZ3hRTG80X0paeUNBaWFvWGpxNkVod0MtN09fdUI4ckNWR0JoRGpGcldZaWZfeDhQMmZQUVQxMTBhWUE?oc=5",
+        "date": "2026-07-21",
+        "title": "12 killed in flash floods, landslides in J&K; death toll rises to 23 - Brighter Kashmir",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNem9EVXBxTHBub0NUelV6Rk9yREUzam9UVzBUWlY4eEFsNXFoZTlFMnRUWHJac0c5YV81R0FtY2dTNUZwbHdnSjNDU1Q4OGRELXFwLXVma1QtR3NIaS1YMGhmY1IwbUNWUGNDeDFBTWpxX0hFZ3hRTG80X0paeUNBaWFvWGpxNkVod0MtN09fdUI4ckNWR0JoRGpGcldZaWZfeDhQMmZQUVQxMTBhWUE?oc=5\" target=\"_blank\">12 killed in flash floods, landslides in J&amp;K death toll rises to 23</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Brighter Kashmir</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbXk5c0piNG1xdkl4UkRmYzhEd3l1dmtQZXdnMVMwVkRhVXJ1dlJFZk0xc3NxZ1lITnc3bVFqS1NYZk0zQzZGMzd2S3dvRlpaRHplbUNDTG9OZ2hxREp2V0lXWkpCRFFNX2g3R1ZTaW55OGRFVFZocTBrcFJfMVllZlpCQTBYZWNMU2FaWEFLdWl2WTI1WDdFVFpMbFN6NVZnOE0yRmpUblRMZjhWeDJNY1V6U0pIVnc?oc=5",
+        "date": "2026-07-21",
+        "title": "Landslide Blocks Road in Pathankot, Heavy Rain Batters Punjab; Orange Alert Issued - Punjab Newsline",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPbXk5c0piNG1xdkl4UkRmYzhEd3l1dmtQZXdnMVMwVkRhVXJ1dlJFZk0xc3NxZ1lITnc3bVFqS1NYZk0zQzZGMzd2S3dvRlpaRHplbUNDTG9OZ2hxREp2V0lXWkpCRFFNX2g3R1ZTaW55OGRFVFZocTBrcFJfMVllZlpCQTBYZWNMU2FaWEFLdWl2WTI1WDdFVFpMbFN6NVZnOE0yRmpUblRMZjhWeDJNY1V6U0pIVnc?oc=5\" target=\"_blank\">Landslide Blocks Road in Pathankot, Heavy Rain Batters Punjab; Orange Alert Issued</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Punjab Newsline</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPcUFlQzFkMVdOcER5aDJBZ2Q0Z2s2azU1VTluUGkxM0lxbGpxUTUtdGxEM1dFaUNHTzhCQ0txMDMyUTBTbkw2N05Hbm5yZkhCaDNkcjY4MWpjMFZwYXItWl95Q3VfbVJORGZYSkIxbFdvVWw1VUxhSlN3ZnRaRG5BSEJJeFFWNWV1c3ExTWw2M0hhbko3UHFKNUFqTlpLS2hlQUdEWm5TZVF0Ym44a2JPYVhYSEo?oc=5",
+        "date": "2026-07-21",
+        "title": "Life-threatening storm surge feared as Tropical Storm Bertha nears the Gulf Coast - inkl",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPcUFlQzFkMVdOcER5aDJBZ2Q0Z2s2azU1VTluUGkxM0lxbGpxUTUtdGxEM1dFaUNHTzhCQ0txMDMyUTBTbkw2N05Hbm5yZkhCaDNkcjY4MWpjMFZwYXItWl95Q3VfbVJORGZYSkIxbFdvVWw1VUxhSlN3ZnRaRG5BSEJJeFFWNWV1c3ExTWw2M0hhbko3UHFKNUFqTlpLS2hlQUdEWm5TZVF0Ym44a2JPYVhYSEo?oc=5\" target=\"_blank\">Life-threatening storm surge feared as Tropical Storm Bertha nears the Gulf Coast</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">inkl</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 FORECAST Gulf Coast: Life-threatening storm surge expected from Tropical Storm Bertha.",
+        "type": "news",
+        "tweet_id": "2079541314304045100",
+        "geo": {
+            "country": "United States",
+            "name": "Gulf Coast",
+            "latitude": 29.0,
+            "longitude": -90.0,
+            "confidence": 0.75
+        }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5DZzFlX29GOE1seDRvcF92ZDZyeFR4MGVaRS1kdkNRQ0RNank0eVJPTWpuSkpkeGJvalZBRWlzOEFPQWF6MWJTVw?oc=5",
+        "date": "2026-07-21",
+        "title": "Monsoon rains kill 12 in KP in past 3 days; nationwide flood warning issued - Dawn",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTE5DZzFlX29GOE1seDRvcF92ZDZyeFR4MGVaRS1kdkNRQ0RNank0eVJPTWpuSkpkeGJvalZBRWlzOEFPQWF6MWJTVw?oc=5\" target=\"_blank\">Monsoon rains kill 12 in KP in past 3 days; nationwide flood warning issued</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Dawn</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "posted",
+        "tweet": "\ud83c\uddf5\ud83c\uddf0 POST-EVENT Pakistan: Monsoon floods kill 12 in KP past 3 days; nationwide flood warning issued",
+        "type": "news",
+        "tweet_id": "2079541866261848188",
+        "geo": {
+            "country": "Pakistan",
+            "name": "Khyber Pakhtunkhwa",
+            "latitude": 34.0,
+            "longitude": 71.8,
+            "confidence": 0.75
+        }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNWGJtaTZ3TWpiQU9iUnRReFQzXzh3Rm1CNlhIVzBUNDlUTTZza05oTHByQUI0UldIQzZFQXM5YktoZlVUMGNiRzBTc1JCVS1LNlN2RDJBWW1qNk9BQTIxTExOOVZwOVFJRGFyc1NMVmdRN1lsVTdPeUVLaUlyR3JEUkxSd3NIeUpMeHZ5LV9ybkhPb25nUXRZZ0ZYTjJmbks0UVcxcU9ydw?oc=5",
+        "date": "2026-07-21",
+        "title": "Northern Vietnam floods leave eight dead or missing, losses top $19m - B\u00e1o VietNamNet",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNWGJtaTZ3TWpiQU9iUnRReFQzXzh3Rm1CNlhIVzBUNDlUTTZza05oTHByQUI0UldIQzZFQXM5YktoZlVUMGNiRzBTc1JCVS1LNlN2RDJBWW1qNk9BQTIxTExOOVZwOVFJRGFyc1NMVmdRN1lsVTdPeUVLaUlyR3JEUkxSd3NIeUpMeHZ5LV9ybkhPb25nUXRZZ0ZYTjJmbks0UVcxcU9ydw?oc=5\" target=\"_blank\">Northern Vietnam floods leave eight dead or missing, losses top $19m</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">B\u00e1o VietNamNet</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "posted",
+        "tweet": "\ud83c\uddfb\ud83c\uddf3 POST-EVENT Northern Vietnam: Floods leave eight dead or missing, losses top $19m \nB\u00e1o VietNamNet",
+        "type": "news",
+        "tweet_id": "2079542417963778082",
+        "geo": {
+            "country": "Vietnam",
+            "name": "Northern Vietnam",
+            "latitude": 21.5,
+            "longitude": 105.5,
+            "confidence": 0.85
+        }
     }
 ]
