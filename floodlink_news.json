@@ -28908,5 +28908,14 @@
             "longitude": 92.9,
             "confidence": 0.9
         }
+    },
+    {
+        "link": null,
+        "date": "2026-07-23",
+        "status": "posted",
+        "tweet": "% rise in extreme rain days since 2020:\n1. \ud83c\uddee\ud83c\uddf3 Mumbai: +85\n2. \ud83c\udde8\ud83c\uddf3 Guangzhou: +72\n3. \ud83c\uddfa\ud83c\uddf8 Houston: +65\n4. \ud83c\uddec\ud83c\udde7 London: +58\n5. \ud83c\uddef\ud83c\uddf5 Tokyo: +51",
+        "type": "statistical",
+        "category": "extreme rainfall trends in major cities",
+        "tweet_id": "2080280312177885665"
     }
 ]
