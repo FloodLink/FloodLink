@@ -28513,5 +28513,346 @@
         "score": 2,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5EVmt5dkh4Nm9MLTZYUlpCb3BQVGZoWnJVaWhFR29KdW9pZ2c3R3o3MnN4RmVRWHRaLXRHSnphZ1pqbHpnbHRtVGxTanpqTnNmak4yQjJ4T25kcFgxLVhfZUd2RGZWUHZEVVVmRHVVcFZRX28?oc=5",
+        "date": "2026-07-24",
+        "title": "Flood warning in place for Union County until Friday morning caused by intense rainfall - Durham Herald Sun",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE5EVmt5dkh4Nm9MLTZYUlpCb3BQVGZoWnJVaWhFR29KdW9pZ2c3R3o3MnN4RmVRWHRaLXRHSnphZ1pqbHpnbHRtVGxTanpqTnNmak4yQjJ4T25kcFgxLVhfZUd2RGZWUHZEVVVmRHVVcFZRX28?oc=5\" target=\"_blank\">Flood warning in place for Union County until Friday morning caused by intense rainfall</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Durham Herald Sun</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPdWQ2VHlvZXZOR0YyZWl4Yy14WVhaa3NZVnhWNFk3S2JVLUFpdXVzazdybWFGOUdvandxWXZ1aHZvNDlCZVo1aW9MOTZOYVhsVm5YZ1Z2QVNZV1dqR3cxU2N1cy1qd1ZkTmtPQng0czRnSjRhWTduVWxBTWJUdUtITTM2VHFzU2ZUT3NsR1RBS3puWW5ZdDlUOExvSDRTTjZ4OFlBTDVza2JzNDZMUUxZVUU5U1hxLXh4d1RkM0ZRZnJjVENrSS0zLTZhek5wSmlnOVNsUGhpWDJRMTZi0gHiAUFVX3lxTE41dVJhZDRfVk4taS0wTG56RjZ5Q2pRZVhfSWdQN2lhQ1A4Z0lPWmNJaF9tMTJTTklwdFRMUmEtd0gtYTlVRkd2YzBXUUtlZEtCQVNjeXhnMWJxa0pHSzB4XzQ0N2RndWV6SFM5bXRSZ0daZjc3NGY4amlXNVk3MmxEUXRldDkyVlAycmJvWW04SjlNTVZDd3RZTzNrZ3VuNFRrdk1IcWV4eWpZM01IU2VocTVkTXJ2OGRiM0VxclZhclAtNFBnd0EtaTZ0VTVoWjVtci00bjg1WVlvRVBsV3lDT1E?oc=5",
+        "date": "2026-07-24",
+        "title": "Charleston weather: Thunderstorms and flash flooding possible Friday across the Charleston area - WCBD News 2",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxPdWQ2VHlvZXZOR0YyZWl4Yy14WVhaa3NZVnhWNFk3S2JVLUFpdXVzazdybWFGOUdvandxWXZ1aHZvNDlCZVo1aW9MOTZOYVhsVm5YZ1Z2QVNZV1dqR3cxU2N1cy1qd1ZkTmtPQng0czRnSjRhWTduVWxBTWJUdUtITTM2VHFzU2ZUT3NsR1RBS3puWW5ZdDlUOExvSDRTTjZ4OFlBTDVza2JzNDZMUUxZVUU5U1hxLXh4d1RkM0ZRZnJjVENrSS0zLTZhek5wSmlnOVNsUGhpWDJRMTZi0gHiAUFVX3lxTE41dVJhZDRfVk4taS0wTG56RjZ5Q2pRZVhfSWdQN2lhQ1A4Z0lPWmNJaF9tMTJTTklwdFRMUmEtd0gtYTlVRkd2YzBXUUtlZEtCQVNjeXhnMWJxa0pHSzB4XzQ0N2RndWV6SFM5bXRSZ0daZjc3NGY4amlXNVk3MmxEUXRldDkyVlAycmJvWW04SjlNTVZDd3RZTzNrZ3VuNFRrdk1IcWV4eWpZM01IU2VocTVkTXJ2OGRiM0VxclZhclAtNFBnd0EtaTZ0VTVoWjVtci00bjg1WVlvRVBsV3lDT1E?oc=5\" target=\"_blank\">Charleston weather: Thunderstorms and flash flooding possible Friday across the Charleston area</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WCBD News 2</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQZi1FYUp1eTJYdlZES2tJbWpRMVVJZmNnZFplMGxpc28yQnNmOVZxVHctWG15eFQyYk9fWWgtNEkxMUNKRUZYLUhTVTdjNUpfbjNBQlNId21yNXRPWHB6blBiNnZ6LWdWUzdUbGJYZV9ZYzZhR3ZFUXM1MGdLQUdLMUVCZU1CWWI0b2hvVTk5aU02STZGaUlCekp1dUZIdW5qUTFxQXBtUklvd19TWTVpRGlRNDBoTVhiNm9OU2NMWEpWV21xdS1iTUhILWNrVmhXeTI0RXFZckhrTUF0aTM5ZHNrdWh5MmEySGd1eGpEaEpzT0pQ?oc=5",
+        "date": "2026-07-24",
+        "title": "Bertha\u2019s remnants continue to fuel a flood threat in the Southeast - KTEN",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxQZi1FYUp1eTJYdlZES2tJbWpRMVVJZmNnZFplMGxpc28yQnNmOVZxVHctWG15eFQyYk9fWWgtNEkxMUNKRUZYLUhTVTdjNUpfbjNBQlNId21yNXRPWHB6blBiNnZ6LWdWUzdUbGJYZV9ZYzZhR3ZFUXM1MGdLQUdLMUVCZU1CWWI0b2hvVTk5aU02STZGaUlCekp1dUZIdW5qUTFxQXBtUklvd19TWTVpRGlRNDBoTVhiNm9OU2NMWEpWV21xdS1iTUhILWNrVmhXeTI0RXFZckhrTUF0aTM5ZHNrdWh5MmEySGd1eGpEaEpzT0pQ?oc=5\" target=\"_blank\">Bertha\u2019s remnants continue to fuel a flood threat in the Southeast</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KTEN</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPNS1UWC0yRXo1TkhHb1BuNlBscGk3YTJBZlUxUEsybWhJRUY1TGYyTWNVNTNSZThKNXRCeklIOGo5WEZTY0U4VWRFX0Q2RTYwV09idkZoTWk3VlQ5c3ZsTzlLX0FOWTduRV9QWEo4dkpfWkh0OG04cTExUGx5MWUwLVZjY0tGODMycVdUdVRYc1YydHhiOHo5SXg4aGVZVjBjbEpaVW5CR1pVX09mOGRraTd5N2Y5alFsSlJhN3R2R3gwYWZTMXBnNDNfdjlaVXR5eENZ?oc=5",
+        "date": "2026-07-24",
+        "title": "After flash floods drove southern Missouri tourists away, business owners say \u2018Come float!\u2019 - STLPR",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxPNS1UWC0yRXo1TkhHb1BuNlBscGk3YTJBZlUxUEsybWhJRUY1TGYyTWNVNTNSZThKNXRCeklIOGo5WEZTY0U4VWRFX0Q2RTYwV09idkZoTWk3VlQ5c3ZsTzlLX0FOWTduRV9QWEo4dkpfWkh0OG04cTExUGx5MWUwLVZjY0tGODMycVdUdVRYc1YydHhiOHo5SXg4aGVZVjBjbEpaVW5CR1pVX09mOGRraTd5N2Y5alFsSlJhN3R2R3gwYWZTMXBnNDNfdjlaVXR5eENZ?oc=5\" target=\"_blank\">After flash floods drove southern Missouri tourists away, business owners say \u2018Come float!\u2019</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">STLPR</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOLU9SY0xIWUUyWTlPb2JJZl9DQk1YdTRLY3dwWmVqVW5SMmVjQzdISi1YQmo3aFl4TTJnX0NOVE1FS09IMkVSWDlLaExwWFBzanFQYnB4QkJ6N0prLXZTX3poRlh3bkFER3hDZmxueEd6Z0Fyd2p6NmxlSEtRQVhJZNIBlAFBVV95cUxPa1NZaTgyamExWFhvdlY3WHFjaW5BWXBBbElZYmlYRFEzR2tSRGhKSmJuQ0VqTmZfUUc3OF9IY1RwdW9HRl9Pc1JTRzVnX09pQTZZdUR5QkJfaktFVzlZdmF6OG1iYld1YU9MTXY3aGxIVVU0cjRlQ1psSDVZUzl6dEgzaTVIWW5LUE81dHhnNDVSdXNt?oc=5",
+        "date": "2026-07-24",
+        "title": "More downpours Friday; Flood risk continues - WITN",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxOLU9SY0xIWUUyWTlPb2JJZl9DQk1YdTRLY3dwWmVqVW5SMmVjQzdISi1YQmo3aFl4TTJnX0NOVE1FS09IMkVSWDlLaExwWFBzanFQYnB4QkJ6N0prLXZTX3poRlh3bkFER3hDZmxueEd6Z0Fyd2p6NmxlSEtRQVhJZNIBlAFBVV95cUxPa1NZaTgyamExWFhvdlY3WHFjaW5BWXBBbElZYmlYRFEzR2tSRGhKSmJuQ0VqTmZfUUc3OF9IY1RwdW9HRl9Pc1JTRzVnX09pQTZZdUR5QkJfaktFVzlZdmF6OG1iYld1YU9MTXY3aGxIVVU0cjRlQ1psSDVZUzl6dEgzaTVIWW5LUE81dHhnNDVSdXNt?oc=5\" target=\"_blank\">More downpours Friday; Flood risk continues</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WITN</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNMWRLQk11ZFA0R2d2dXE2OFRBNWFVb3NRY1kxLVZaTXVoSHFDbkdXNE9iMmZsMkFsekR0cHg2VjFYZk84UUlpX2tSNFB4OHBhcVFmWVZDTTFGUzlNRnJOTDFDNVdXSllnVktRLWVIbk1yLVkyN094NGprV3A2ME5lbzNDMkdBUjJaTHgtMGw2eXVqbFNsdFFxcUtaRExuNDNNUHZSRE1ueHYyTnVxZ0Q2OE9sckRzY1k?oc=5",
+        "date": "2026-07-24",
+        "title": "Flood Watch for Friday and Saturday, Heavy rains continue - WPDE",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxNMWRLQk11ZFA0R2d2dXE2OFRBNWFVb3NRY1kxLVZaTXVoSHFDbkdXNE9iMmZsMkFsekR0cHg2VjFYZk84UUlpX2tSNFB4OHBhcVFmWVZDTTFGUzlNRnJOTDFDNVdXSllnVktRLWVIbk1yLVkyN094NGprV3A2ME5lbzNDMkdBUjJaTHgtMGw2eXVqbFNsdFFxcUtaRExuNDNNUHZSRE1ueHYyTnVxZ0Q2OE9sckRzY1k?oc=5\" target=\"_blank\">Flood Watch for Friday and Saturday, Heavy rains continue</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WPDE</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1Va2hUR3kyTkc2TUQwTklldjlTTGxzNmhnYTFCYmFFYlZ1SnVJOTRuVnRFeDNZUGFxX20zaFlJRUU1VFZRY0xnUVE4U0lTemNrb3hKR0lEWTR2cFEwYXR6NS1qSQ?oc=5",
+        "date": "2026-07-24",
+        "title": "Millions under flash flood threat along Carolina coast - FOX Weather",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE1Va2hUR3kyTkc2TUQwTklldjlTTGxzNmhnYTFCYmFFYlZ1SnVJOTRuVnRFeDNZUGFxX20zaFlJRUU1VFZRY0xnUVE4U0lTemNrb3hKR0lEWTR2cFEwYXR6NS1qSQ?oc=5\" target=\"_blank\">Millions under flash flood threat along Carolina coast</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FOX Weather</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZFhkb3RNeGhlVW13cTV4ZXpPbXhJVXFHWXVRM3RVXzlKaFY5aHRXdGVzS2xkVHV4WER1bFFlSmdna0Fra3RsdDVjZTZuZkdNNzdvY1hKUjJvd05lT2FWRGhEaDFmR1RmbWplTGtjaUxpS0pMMUtYbmM4aXJhYjFfcmE4ZktHSmFwNnNNV0NzcVZLRE1FMEU5SGItVTFHeVFPM2tzUEZ4ZEd5a1lQQzRIcw?oc=5",
+        "date": "2026-07-24",
+        "title": "Flood Watch Continues Across North Georgia as Heavy Rain Threat Persists - Cobb Courier",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNZFhkb3RNeGhlVW13cTV4ZXpPbXhJVXFHWXVRM3RVXzlKaFY5aHRXdGVzS2xkVHV4WER1bFFlSmdna0Fra3RsdDVjZTZuZkdNNzdvY1hKUjJvd05lT2FWRGhEaDFmR1RmbWplTGtjaUxpS0pMMUtYbmM4aXJhYjFfcmE4ZktHSmFwNnNNV0NzcVZLRE1FMEU5SGItVTFHeVFPM2tzUEZ4ZEd5a1lQQzRIcw?oc=5\" target=\"_blank\">Flood Watch Continues Across North Georgia as Heavy Rain Threat Persists</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cobb Courier</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE15SnRvY1I4RlhNbDB2dHN5N19VMlljN21wa2w2MXBKeUF5a2dmSnNaRm5vVy1ONmY3ZW0wQmlJbldBRkwzVWYzc0Y1RHJ2VUVUcTZqNXJvZ1NObnIxeTltQzlR?oc=5",
+        "date": "2026-07-24",
+        "title": "Bertha Moves Inland, Floods Texas Coast, Threatens Gulf Oil Production - Forth.News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE15SnRvY1I4RlhNbDB2dHN5N19VMlljN21wa2w2MXBKeUF5a2dmSnNaRm5vVy1ONmY3ZW0wQmlJbldBRkwzVWYzc0Y1RHJ2VUVUcTZqNXJvZ1NObnIxeTltQzlR?oc=5\" target=\"_blank\">Bertha Moves Inland, Floods Texas Coast, Threatens Gulf Oil Production</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Forth.News</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxORjZJU0UzN2dwbF9zUDdmVU4zQVVWZzk3TVU1amlTQVpNQVhlR3dBY2NycG5uZnFHaDkwSE5KamdWWUtUS3hTTFBFdVFxSXozamxEQUV1TERFWEJ6NTY2d3RabG4wazdVSzZXc1RBRVRxcWJwZGRIRm5BMHg5NS01NGxZdXhKZ3c5X1pJMHhCN1B5dkJ2RjZnQ2g2Q1hkS0J3dWJGRUNYU3VoeUV1Sk4zQkhhOTZDeklWdGNEaExrOHZwQzFDUDlld3pQWmlWTEM2?oc=5",
+        "date": "2026-07-24",
+        "title": "74-year-old man killed in Uvalde County flash flooding identified - kens5.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxORjZJU0UzN2dwbF9zUDdmVU4zQVVWZzk3TVU1amlTQVpNQVhlR3dBY2NycG5uZnFHaDkwSE5KamdWWUtUS3hTTFBFdVFxSXozamxEQUV1TERFWEJ6NTY2d3RabG4wazdVSzZXc1RBRVRxcWJwZGRIRm5BMHg5NS01NGxZdXhKZ3c5X1pJMHhCN1B5dkJ2RjZnQ2g2Q1hkS0J3dWJGRUNYU3VoeUV1Sk4zQkhhOTZDeklWdGNEaExrOHZwQzFDUDlld3pQWmlWTEM2?oc=5\" target=\"_blank\">74-year-old man killed in Uvalde County flash flooding identified</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">kens5.com</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPTnhSNzd5dW8wUG55UDFBSnZ6SHJIeDU1MFc2THphNlhlTFZvUVVhbV9vT0k2UTBreW5LalZkd3MtOXJrMlB6UVFsQm9xUjctZTdPaE1GREVRamxVSEU0c1g4U24wVWliRFpjenlHVk4yT3UwSGE3bzZGV1J5UHFZRmlFQnc2allsdkZxci01WFM0ZGl4V0tEdy1DQ0Q1Slp4dmdhczR3aFhrTE9kejRUTU9GUQ?oc=5",
+        "date": "2026-07-24",
+        "title": "Flash flood threat Friday for parts of north Georgia - WSB-TV",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPTnhSNzd5dW8wUG55UDFBSnZ6SHJIeDU1MFc2THphNlhlTFZvUVVhbV9vT0k2UTBreW5LalZkd3MtOXJrMlB6UVFsQm9xUjctZTdPaE1GREVRamxVSEU0c1g4U24wVWliRFpjenlHVk4yT3UwSGE3bzZGV1J5UHFZRmlFQnc2allsdkZxci01WFM0ZGl4V0tEdy1DQ0Q1Slp4dmdhczR3aFhrTE9kejRUTU9GUQ?oc=5\" target=\"_blank\">Flash flood threat Friday for parts of north Georgia</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSB-TV</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQVm1RWTU2dUlsOXUyR2ctN0RnUUdPVk9Gb2g1YkpMWFRDYmRHQWFIREFPZVd6aWhZUlFINXc3ai02aWg4cFR5bUphenV4RE55akg1cm1vNHdfMk9SUUhXc1hVVnE3VFIzRlpPWlJkSWthd2ZaaGNnQm1HcXJENTltSVB3U1dXVFhCeFVrcU9EVlZXTEdjQVlIZGlqZXg?oc=5",
+        "date": "2026-07-24",
+        "title": "\u2018Wake-up call\u2019: City wants improvements in response to flood; changes will be slow - The Business Journals",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQVm1RWTU2dUlsOXUyR2ctN0RnUUdPVk9Gb2g1YkpMWFRDYmRHQWFIREFPZVd6aWhZUlFINXc3ai02aWg4cFR5bUphenV4RE55akg1cm1vNHdfMk9SUUhXc1hVVnE3VFIzRlpPWlJkSWthd2ZaaGNnQm1HcXJENTltSVB3U1dXVFhCeFVrcU9EVlZXTEdjQVlIZGlqZXg?oc=5\" target=\"_blank\">\u2018Wake-up call\u2019: City wants improvements in response to flood; changes will be slow</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Business Journals</font>",
+        "similarity_excluded": "No",
+        "score": 6,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQN1lMbTNGNlgzT08yNmtGLVRjTXNIVm5SNng4UWlId09SZHZpazJCQnB4OEpRRGdPSW9jYUc0VzBLUE5Td1E1dG1xLUN3NTVNNklEZ0FsSGQwQjZySXNQY2VtTGY5Y2tOOG1Id2dvMGVYbExKSUJ6RWpCbjFTaEdFUXYxOHp5czRCMm93UmE4TFRqMVdZaVVObU9mZFRMX1ZEaTdtdVJYTC1oLUVhRjlxQ29JYlZmRjE2bEM3LW1mSGhFQ0h2dnNHZDVEVjJQMGxXTzdFNjBJVW5zc19zLUFF?oc=5",
+        "date": "2026-07-24",
+        "title": "As of 4:20 p.m. on July 24, 2026, the Talomo River channel along Purok 6, Barangay Tugbok Proper in Davao City, has overflowed due to heavy rainfall. | via RGP, SunStar Davao \ud83d\udcf7 Isaiah John Guanzon #AllYouNeedToKnow - facebook.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxQN1lMbTNGNlgzT08yNmtGLVRjTXNIVm5SNng4UWlId09SZHZpazJCQnB4OEpRRGdPSW9jYUc0VzBLUE5Td1E1dG1xLUN3NTVNNklEZ0FsSGQwQjZySXNQY2VtTGY5Y2tOOG1Id2dvMGVYbExKSUJ6RWpCbjFTaEdFUXYxOHp5czRCMm93UmE4TFRqMVdZaVVObU9mZFRMX1ZEaTdtdVJYTC1oLUVhRjlxQ29JYlZmRjE2bEM3LW1mSGhFQ0h2dnNHZDVEVjJQMGxXTzdFNjBJVW5zc19zLUFF?oc=5\" target=\"_blank\">As of 4:20 p.m. on July 24, 2026, the Talomo River channel along Purok 6, Barangay Tugbok Proper in Davao City, has overflowed due to heavy rainfall. | via RGP, SunStar Davao \ud83d\udcf7 Isaiah John Guanzon #AllYouNeedToKnow</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">facebook.com</font>",
+        "similarity_excluded": "No",
+        "score": 6,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPcjFpYWd0Z1ZXbkU1eGlIT2ZmYTlnYkd6WEdENUZEUmFSZGhtbFAyOE1LeFhaa25yQlNRRU5QX3F6WEV1VUpKRnczS180UW9WaUhEay1VdTJFV2h5YWpCQjUzNHdmeEhTQkk1dHRkY3NaWlRLVXVheGk2MUFNT1U5YnNVQ1Q3RG1vbFFXdzgzTV9vMi15SERZcTZidkJ1MlJvN2RjN3llUFRDbnlMSEVqMnJaSUxRVHVNNm91bA?oc=5",
+        "date": "2026-07-24",
+        "title": "Tropical Storm Bertha strikes Gulf Coast near the Texas-Louisiana line in second landfall - 10News.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxPcjFpYWd0Z1ZXbkU1eGlIT2ZmYTlnYkd6WEdENUZEUmFSZGhtbFAyOE1LeFhaa25yQlNRRU5QX3F6WEV1VUpKRnczS180UW9WaUhEay1VdTJFV2h5YWpCQjUzNHdmeEhTQkk1dHRkY3NaWlRLVXVheGk2MUFNT1U5YnNVQ1Q3RG1vbFFXdzgzTV9vMi15SERZcTZidkJ1MlJvN2RjN3llUFRDbnlMSEVqMnJaSUxRVHVNNm91bA?oc=5\" target=\"_blank\">Tropical Storm Bertha strikes Gulf Coast near the Texas-Louisiana line in second landfall</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">10News.com</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZFZyRnFtOXRzY1lpRDNQd2NGS2lyQXJ0eDBTZEc4U2Fxd2RZNk9IV2dtMEM2WVl4MHJJZGtoMEROZnI2cXIwUGp5ZldqMVU5MXFlMUJkTkVOU2ZiMmVrNXF0cmI2bUloZlZ4T2dUeWdKdVdHdW5mU2oweXd5SU5SZWhfSHh5RFhra09kYXlOQjNUQ1ZrSUpjc3ZYU19JMkU?oc=5",
+        "date": "2026-07-24",
+        "title": "Tropical Rainstorm Bertha spreads rain into Texas - AccuWeather",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQZFZyRnFtOXRzY1lpRDNQd2NGS2lyQXJ0eDBTZEc4U2Fxd2RZNk9IV2dtMEM2WVl4MHJJZGtoMEROZnI2cXIwUGp5ZldqMVU5MXFlMUJkTkVOU2ZiMmVrNXF0cmI2bUloZlZ4T2dUeWdKdVdHdW5mU2oweXd5SU5SZWhfSHh5RFhra09kYXlOQjNUQ1ZrSUpjc3ZYU19JMkU?oc=5\" target=\"_blank\">Tropical Rainstorm Bertha spreads rain into Texas</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AccuWeather</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxON0RKRkNISFlOdnB0SUlDZUFiWWpraVNEa3gtRmhDeE9IeVhnOVZYT19BbGRhXzlpYzJrX3c0MG1NdGxyck83ZlBlQkFPZ1pXc2tJWk5HcHFpYUNOQW10blZucEVrcDlqZHJoOUFCQU5OVXdvRWF3Z09jMmpBT3l3eGRBeVA1ODBsaWZoQVUwX1FuUE4xVklmUkRaQkxkR3hCX3VRRjJSQjVXQdIBrwFBVV95cUxPT014czFxVk1VbUdDX3Q0QUdjX1J2bmM4Y2hob1BrRUR4LVNXZVBfTGM4eGk3Tm1sOE9TZUpZZVB5blJldmVwa0VzcW4waEdvUHktLWFxWnN0X0txZTItS1FlTzFUaWYyQXlxb3pONlFEMWZYNDJhc2FZMndKRVl4RThRZzVsdjVlS0Q5TzI1VmlTNGdsYWpROVMyeTk3aTBCSlRtZV93d3o5dkRlczAw?oc=5",
+        "date": "2026-07-24",
+        "title": "At least 50 people killed and 700,000 displaced by India floods after monsoon rains - ABC News - Breaking News, Latest News and Videos",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxON0RKRkNISFlOdnB0SUlDZUFiWWpraVNEa3gtRmhDeE9IeVhnOVZYT19BbGRhXzlpYzJrX3c0MG1NdGxyck83ZlBlQkFPZ1pXc2tJWk5HcHFpYUNOQW10blZucEVrcDlqZHJoOUFCQU5OVXdvRWF3Z09jMmpBT3l3eGRBeVA1ODBsaWZoQVUwX1FuUE4xVklmUkRaQkxkR3hCX3VRRjJSQjVXQdIBrwFBVV95cUxPT014czFxVk1VbUdDX3Q0QUdjX1J2bmM4Y2hob1BrRUR4LVNXZVBfTGM4eGk3Tm1sOE9TZUpZZVB5blJldmVwa0VzcW4waEdvUHktLWFxWnN0X0txZTItS1FlTzFUaWYyQXlxb3pONlFEMWZYNDJhc2FZMndKRVl4RThRZzVsdjVlS0Q5TzI1VmlTNGdsYWpROVMyeTk3aTBCSlRtZV93d3o5dkRlczAw?oc=5\" target=\"_blank\">At least 50 people killed and 700,000 displaced by India floods after monsoon rains</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ABC News - Breaking News, Latest News and Videos</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQaXg0NmNTOHhsMzRWbnlSXy1jZmZXQVpvYllOVnZ1UmtyMlBVUzNudFRUNDZsbVlHdWFUMkIxZ1VBeXUtSVgwSk1PWGNzVlJndUZ1ZkJkM2c5bzJhY01ERWxpQlNnTUo2UVNhdjRSR2RaRlJvZGh2YnNleWNWZ2pYMjhqeWtnRS05aTNHbTc3YVo5YzdrNWFfc0pFWXNyTk9BeWlqODNfMjZUQQ?oc=5",
+        "date": "2026-07-24",
+        "title": "Brahmaputra's Dramatic Swelling Intensifies Assam Flood Crisis, Over 9 Lakh Affected - Prag News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQaXg0NmNTOHhsMzRWbnlSXy1jZmZXQVpvYllOVnZ1UmtyMlBVUzNudFRUNDZsbVlHdWFUMkIxZ1VBeXUtSVgwSk1PWGNzVlJndUZ1ZkJkM2c5bzJhY01ERWxpQlNnTUo2UVNhdjRSR2RaRlJvZGh2YnNleWNWZ2pYMjhqeWtnRS05aTNHbTc3YVo5YzdrNWFfc0pFWXNyTk9BeWlqODNfMjZUQQ?oc=5\" target=\"_blank\">Brahmaputra's Dramatic Swelling Intensifies Assam Flood Crisis, Over 9 Lakh Affected</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Prag News</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": null,
+        "tweet_id": "2080627533037326494",
+        "geo": {
+            "country": "India",
+            "name": "Assam",
+            "latitude": 26.14,
+            "longitude": 91.77,
+            "confidence": 0.9
+        }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNazdUUnNRbElYUnU2ME5MRWlMLVh4Vkp1aGowQ0N2VjVLbUthc3JYLVF6TXBNY0o0bGpWTERQOU5pa1BCLV9ncmdrM3FsQTF4aXUtZ3l3NjhUaUgyLWRoempncFV0OXdjcVA0MC0wQVdxbnd6WGhuX3cwcDY5M2cwRzAyMmF0QnVNdW4xeTNkclI5OGZ6b2FTRkdYZ2VMaEJ0OGdHQmZ2RUo4NFV5eGM4OGpXemlfNkdBdEVzOXl30gHEAUFVX3lxTE81OHlsZkVfNXNpOXJleXlYME9xdm8xRVpIRVdGaTk1SURLRHpYaldMY0lyQ3RGaHNvZUx6bW8wNkV1Z28tdGNzbzhfenFvbER0MWhsVEstVVZQazRrWFlrbnl3dnZvSkwzNTNyOGU5RlotQ2IzNUI3bUJtQmlwV05uZ3pscnVlWGZ1ZnJ3T0xjSGJ4cjMwMzF5aFdMNkx4OHYxRHFCUkEyY1ZMMi00bXR4WjdpU3B4SE1DcHE3eWZZc1owaUI?oc=5",
+        "date": "2026-07-24",
+        "title": "Which Indian Rivers Are Flowing Above Their Danger Marks? - Jagran Josh",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxNazdUUnNRbElYUnU2ME5MRWlMLVh4Vkp1aGowQ0N2VjVLbUthc3JYLVF6TXBNY0o0bGpWTERQOU5pa1BCLV9ncmdrM3FsQTF4aXUtZ3l3NjhUaUgyLWRoempncFV0OXdjcVA0MC0wQVdxbnd6WGhuX3cwcDY5M2cwRzAyMmF0QnVNdW4xeTNkclI5OGZ6b2FTRkdYZ2VMaEJ0OGdHQmZ2RUo4NFV5eGM4OGpXemlfNkdBdEVzOXl30gHEAUFVX3lxTE81OHlsZkVfNXNpOXJleXlYME9xdm8xRVpIRVdGaTk1SURLRHpYaldMY0lyQ3RGaHNvZUx6bW8wNkV1Z28tdGNzbzhfenFvbER0MWhsVEstVVZQazRrWFlrbnl3dnZvSkwzNTNyOGU5RlotQ2IzNUI3bUJtQmlwV05uZ3pscnVlWGZ1ZnJ3T0xjSGJ4cjMwMzF5aFdMNkx4OHYxRHFCUkEyY1ZMMi00bXR4WjdpU3B4SE1DcHE3eWZZc1owaUI?oc=5\" target=\"_blank\">Which Indian Rivers Are Flowing Above Their Danger Marks?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Jagran Josh</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": null,
+        "tweet_id": "2080628090120597783",
+        "geo": {
+            "country": null,
+            "name": null,
+            "latitude": null,
+            "longitude": null,
+            "confidence": 0.0
+        }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMG1tN1hDZ0k0VUMyT2JzUTN0cGlpYWpPQ0syMXBWZElGTHlQRDNPY1Y2RFJiaU9pS3hIWldCa09fWlVjVk9GVHJEMDdEQVFSZjZMRERRdzZ4eGFSRE9id2xnTnFzc1F2bVBQSV94WkZuLVN5bUJHb0dCOHZiNkxaZmlFNWhrc2RtWFZPVm1TOEhjNVJoNTN6S0U0VFZOc25tLWRSeDRTMzlnZw?oc=5",
+        "date": "2026-07-24",
+        "title": "Monsoon rains raise river levels in Punjab as low-level flooding continues - The Nation (Pakistan )",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMG1tN1hDZ0k0VUMyT2JzUTN0cGlpYWpPQ0syMXBWZElGTHlQRDNPY1Y2RFJiaU9pS3hIWldCa09fWlVjVk9GVHJEMDdEQVFSZjZMRERRdzZ4eGFSRE9id2xnTnFzc1F2bVBQSV94WkZuLVN5bUJHb0dCOHZiNkxaZmlFNWhrc2RtWFZPVm1TOEhjNVJoNTN6S0U0VFZOc25tLWRSeDRTMzlnZw?oc=5\" target=\"_blank\">Monsoon rains raise river levels in Punjab as low-level flooding continues</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Nation (Pakistan )</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPV1NLS1gzV1RmV2M5VnFnTGpfWTVrN0gta2tCMEl3d0l1MC1aUG1sX1pTaTA0a0d4MzBnUnYtaDJ2NEVLZFl3TXNRYzJ6TW9pdGFmZXdoalpWY2hLd1hfMG1fRjAxSWV4a3JjdXd4UndCbFRUbll0R29yUjM0T1ZYT2I3c19pZWpLQnI3WXlsTWdKdGVMRWRaSTdWcGNjRkVhZ29EWWMxVW1WOXFBTmN5ejNqSHpsSmFmSi1QRmNaTFZleU5HTEk1NnlzdW55VU1PZ1RTMkdyYTlvOVRDazBKZFBHWm50RmFWWHdn?oc=5",
+        "date": "2026-07-24",
+        "title": "At least 50 killed and 700,000 displaced by India floods after monsoon rains - The Tribune-Democrat",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxPV1NLS1gzV1RmV2M5VnFnTGpfWTVrN0gta2tCMEl3d0l1MC1aUG1sX1pTaTA0a0d4MzBnUnYtaDJ2NEVLZFl3TXNRYzJ6TW9pdGFmZXdoalpWY2hLd1hfMG1fRjAxSWV4a3JjdXd4UndCbFRUbll0R29yUjM0T1ZYT2I3c19pZWpLQnI3WXlsTWdKdGVMRWRaSTdWcGNjRkVhZ29EWWMxVW1WOXFBTmN5ejNqSHpsSmFmSi1QRmNaTFZleU5HTEk1NnlzdW55VU1PZ1RTMkdyYTlvOVRDazBKZFBHWm50RmFWWHdn?oc=5\" target=\"_blank\">At least 50 killed and 700,000 displaced by India floods after monsoon rains</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Tribune-Democrat</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPQTVOcXloaERJcXd5LVpXanVENzhNUkl4QVZ1Q2NHeTBCWEdSQ1ZtcFBlQkZWUmp6dFViOGJINTVlcUJ0dm91UFhoTmhCX3Z2UjFCSmM0XzhnWk5LdWxTX1pfWXBsYVNXVEZkbmYzbEhKT2ktTkN2TXZvc1pGLTE3TmxQRlVldzNqb2xfX3BQaTJzWi1SOWw1eUlhOC1wX1pZcXhOMkJlVUhJNVNwY0p6ajJZSjUyejVwT1ZyNVVRaW1mME9oS2gtamMyQ0EyR04zak9pTUZ4OG9LdE43Y2hsd2UtYjJzQXBrdy15aUlLM05JTjN2ZFJ3?oc=5",
+        "date": "2026-07-24",
+        "title": "At least 50 people killed and 700,000 displaced by India floods after monsoon rains - The Killeen Daily Herald",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9wFBVV95cUxPQTVOcXloaERJcXd5LVpXanVENzhNUkl4QVZ1Q2NHeTBCWEdSQ1ZtcFBlQkZWUmp6dFViOGJINTVlcUJ0dm91UFhoTmhCX3Z2UjFCSmM0XzhnWk5LdWxTX1pfWXBsYVNXVEZkbmYzbEhKT2ktTkN2TXZvc1pGLTE3TmxQRlVldzNqb2xfX3BQaTJzWi1SOWw1eUlhOC1wX1pZcXhOMkJlVUhJNVNwY0p6ajJZSjUyejVwT1ZyNVVRaW1mME9oS2gtamMyQ0EyR04zak9pTUZ4OG9LdE43Y2hsd2UtYjJzQXBrdy15aUlLM05JTjN2ZFJ3?oc=5\" target=\"_blank\">At least 50 people killed and 700,000 displaced by India floods after monsoon rains</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Killeen Daily Herald</font>",
+        "similarity_excluded": "No",
+        "score": 10,
+        "status": "processed",
+        "tweet": null,
+        "tweet_id": "2080626981897445592",
+        "geo": {
+            "country": "India",
+            "name": "India",
+            "latitude": null,
+            "longitude": null,
+            "confidence": 0.4
+        }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOOUZWWVZBYWJYUmtRSkFyUm5haXlkRjNrb19pOUM3Wk1TS01LNnd1MDJkN3JuSFVMa3dUUmlGcjVjOUwxMm1JSUlDQmE5a0NCc01xLTdJcGJNd0xhMVdUYnhQVTBXOU1hdlZmb3dMOEd5bG9pZ3JpZW9IeGUxcDBTdjMzU3lrZkZJV21kU1dhRElJT1VYenJzdXk0NUFQempYOGJ4UlZaTHI1UUhyb1FPWHMwN2NVeEs4elB4RjF1OHVpUm8?oc=5",
+        "date": "2026-07-24",
+        "title": "Heavy monsoon rains batter Pakistan, triggering urban flooding and landslides - Anadolu Ajans\u0131",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxOOUZWWVZBYWJYUmtRSkFyUm5haXlkRjNrb19pOUM3Wk1TS01LNnd1MDJkN3JuSFVMa3dUUmlGcjVjOUwxMm1JSUlDQmE5a0NCc01xLTdJcGJNd0xhMVdUYnhQVTBXOU1hdlZmb3dMOEd5bG9pZ3JpZW9IeGUxcDBTdjMzU3lrZkZJV21kU1dhRElJT1VYenJzdXk0NUFQempYOGJ4UlZaTHI1UUhyb1FPWHMwN2NVeEs4elB4RjF1OHVpUm8?oc=5\" target=\"_blank\">Heavy monsoon rains batter Pakistan, triggering urban flooding and landslides</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Anadolu Ajans\u0131</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPa2p0cGlZeWFaZVJzSWtCdXpyZEtLQUJOU19aS0poaHRIN1pvaFdnMDdCRm15VzV6OWVPb2ZLUjBHYVI1SlFTb21pUVB2UkpyVFl3OE95WnV3cVBGbXBINTVoV2diRVR6dlJ6ZWVtb19kSTB3RU5rOGdMM3VSZmpBQWUwTWNwanBJTU8tbFQzQ0NvQTl1dllkVF9TZFpnSVhuay1FVHRmd203ZlBwT1hUZjNxQ2M5ZmdnaTNR?oc=5",
+        "date": "2026-07-24",
+        "title": "Dozens killed and 700,000 displaced in India amid floods after monsoon rain - Herts Advertiser",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPa2p0cGlZeWFaZVJzSWtCdXpyZEtLQUJOU19aS0poaHRIN1pvaFdnMDdCRm15VzV6OWVPb2ZLUjBHYVI1SlFTb21pUVB2UkpyVFl3OE95WnV3cVBGbXBINTVoV2diRVR6dlJ6ZWVtb19kSTB3RU5rOGdMM3VSZmpBQWUwTWNwanBJTU8tbFQzQ0NvQTl1dllkVF9TZFpnSVhuay1FVHRmd203ZlBwT1hUZjNxQ2M5ZmdnaTNR?oc=5\" target=\"_blank\">Dozens killed and 700,000 displaced in India amid floods after monsoon rain</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Herts Advertiser</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNYXJZYjBxS1B5azV2a2hxLWd0M1drNFdfcjRZQjlOcUZVUHF1Nzc0UUE5U1pOeGRsM1JuSTgxVGgyM19oREhaaGNwbHpOUDFzVDF6a1pCYURVWHJhZ1JxRFd1N2tKY2xxV0FXYXMyOHhJZ3R5X3dFeWpXZVA4aWdKbmZJNUJrYlNPTnVyUjZfclBNcWNmR0FSWUVOblgwd24tTld3bnZzUlAwVE4yZXRkWjNR?oc=5",
+        "date": "2026-07-24",
+        "title": "Dozens killed and 700,000 displaced in India amid floods after monsoon rain - Herts Advertiser",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNYXJZYjBxS1B5azV2a2hxLWd0M1drNFdfcjRZQjlOcUZVUHF1Nzc0UUE5U1pOeGRsM1JuSTgxVGgyM19oREhaaGNwbHpOUDFzVDF6a1pCYURVWHJhZ1JxRFd1N2tKY2xxV0FXYXMyOHhJZ3R5X3dFeWpXZVA4aWdKbmZJNUJrYlNPTnVyUjZfclBNcWNmR0FSWUVOblgwd24tTld3bnZzUlAwVE4yZXRkWjNR?oc=5\" target=\"_blank\">Dozens killed and 700,000 displaced in India amid floods after monsoon rain</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Herts Advertiser</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdnl3MWlTS29CRHgwUWsxOUpOQjg3QXB6TEx2dHRHa3Y1ZVRQTlpmdnJxNkdDdDBRNE9nT0ozMHdBLTdCTW9xQ2VaOWt0Z2U2QTBjZHRfOGlUMXRYWksyT0dTVDQ5VE5jRTV6SzBCcDhZd24xR0F6VjJzVy0tU3dwMFAyRzJpczlBWGZNamt2a0I5VXRwMDB5bXdFS25HaDA?oc=5",
+        "date": "2026-07-24",
+        "title": "PMD forecasts more monsoon rain as wet spell continues across Punjab - The Nation (Pakistan )",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxOdnl3MWlTS29CRHgwUWsxOUpOQjg3QXB6TEx2dHRHa3Y1ZVRQTlpmdnJxNkdDdDBRNE9nT0ozMHdBLTdCTW9xQ2VaOWt0Z2U2QTBjZHRfOGlUMXRYWksyT0dTVDQ5VE5jRTV6SzBCcDhZd24xR0F6VjJzVy0tU3dwMFAyRzJpczlBWGZNamt2a0I5VXRwMDB5bXdFS25HaDA?oc=5\" target=\"_blank\">PMD forecasts more monsoon rain as wet spell continues across Punjab</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Nation (Pakistan )</font>",
+        "similarity_excluded": "No",
+        "score": 5,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPeWhfX01nUldrRGVZLVNvc2FJNlRxaVhtNy1IQ1VqZkc2WkZONy1ZX2FZLWFwUy1rY2dfT1B6Y05fMlFlVWk2ZTd0bHBBcHpzNllKN3VJd0NBdzc1eEQ4SktfdTZFSDNaQmlfcUluRi12Xy1qckx0a3I5QzZIZHlXY1JWM3NsUjlxWTBrdXRvZkRRTEJ1MGdGNmN4Y0NEc1B6ZzNxOW9LQXI3U0hZR19nUFd4cFlMLUlGbXNEWS1IbEZTRVE?oc=5",
+        "date": "2026-07-24",
+        "title": "Nagaland Floods: Death Toll, Missing Persons, Worst-Hit Areas and Latest Updates - Northeast Live",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxPeWhfX01nUldrRGVZLVNvc2FJNlRxaVhtNy1IQ1VqZkc2WkZONy1ZX2FZLWFwUy1rY2dfT1B6Y05fMlFlVWk2ZTd0bHBBcHpzNllKN3VJd0NBdzc1eEQ4SktfdTZFSDNaQmlfcUluRi12Xy1qckx0a3I5QzZIZHlXY1JWM3NsUjlxWTBrdXRvZkRRTEJ1MGdGNmN4Y0NEc1B6ZzNxOW9LQXI3U0hZR19nUFd4cFlMLUlGbXNEWS1IbEZTRVE?oc=5\" target=\"_blank\">Nagaland Floods: Death Toll, Missing Persons, Worst-Hit Areas and Latest Updates</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Northeast Live</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPQTVOcXloaERJcXd5LVpXanVENzhNUkl4QVZ1Q2NHeTBCWEdSQ1ZtcFBlQkZWUmp6dFViOGJINTVlcUJ0dm91UFhoTmhCX3Z2UjFCSmM0XzhnWk5LdWxTX1pfWXBsYVNXVEZkbmYzbEhKT2ktTkN2TXZvc1pGLTE3TmxQRlVldzNqb2xfX3BQaTJzWi1SOWw1eUlhOC1wX1pZcXhOMkJlVUhJNVNwY0p6ajJZSjUyejVwT1ZyNVVRaW1mME9oS2gtamMyQ0EyR04zak9pTUZ4OG9LdE43Y2hsd2UtYjJzQXBrdy15aUlLM05JTjN2ZFJ3?oc=5",
+        "date": "2026-07-24",
+        "title": "At least 50 people killed and 700,000 displaced by India floods after monsoon rains - The Killeen Daily Herald",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9wFBVV95cUxPQTVOcXloaERJcXd5LVpXanVENzhNUkl4QVZ1Q2NHeTBCWEdSQ1ZtcFBlQkZWUmp6dFViOGJINTVlcUJ0dm91UFhoTmhCX3Z2UjFCSmM0XzhnWk5LdWxTX1pfWXBsYVNXVEZkbmYzbEhKT2ktTkN2TXZvc1pGLTE3TmxQRlVldzNqb2xfX3BQaTJzWi1SOWw1eUlhOC1wX1pZcXhOMkJlVUhJNVNwY0p6ajJZSjUyejVwT1ZyNVVRaW1mME9oS2gtamMyQ0EyR04zak9pTUZ4OG9LdE43Y2hsd2UtYjJzQXBrdy15aUlLM05JTjN2ZFJ3?oc=5\" target=\"_blank\">At least 50 people killed and 700,000 displaced by India floods after monsoon rains</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Killeen Daily Herald</font>",
+        "similarity_excluded": "No",
+        "score": 10,
+        "status": "posted",
+        "tweet": "\ud83c\uddee\ud83c\uddf3 POST-EVENT India: Floods after monsoon rains kill at least 50 and displace 700,000.",
+        "type": "news",
+        "tweet_id": "2080626981897445592",
+        "geo": {
+            "country": "India",
+            "name": "India",
+            "latitude": null,
+            "longitude": null,
+            "confidence": 0.4
+        }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQaXg0NmNTOHhsMzRWbnlSXy1jZmZXQVpvYllOVnZ1UmtyMlBVUzNudFRUNDZsbVlHdWFUMkIxZ1VBeXUtSVgwSk1PWGNzVlJndUZ1ZkJkM2c5bzJhY01ERWxpQlNnTUo2UVNhdjRSR2RaRlJvZGh2YnNleWNWZ2pYMjhqeWtnRS05aTNHbTc3YVo5YzdrNWFfc0pFWXNyTk9BeWlqODNfMjZUQQ?oc=5",
+        "date": "2026-07-24",
+        "title": "Brahmaputra's Dramatic Swelling Intensifies Assam Flood Crisis, Over 9 Lakh Affected - Prag News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQaXg0NmNTOHhsMzRWbnlSXy1jZmZXQVpvYllOVnZ1UmtyMlBVUzNudFRUNDZsbVlHdWFUMkIxZ1VBeXUtSVgwSk1PWGNzVlJndUZ1ZkJkM2c5bzJhY01ERWxpQlNnTUo2UVNhdjRSR2RaRlJvZGh2YnNleWNWZ2pYMjhqeWtnRS05aTNHbTc3YVo5YzdrNWFfc0pFWXNyTk9BeWlqODNfMjZUQQ?oc=5\" target=\"_blank\">Brahmaputra's Dramatic Swelling Intensifies Assam Flood Crisis, Over 9 Lakh Affected</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Prag News</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "posted",
+        "tweet": "\ud83c\uddee\ud83c\uddf3 POST-EVENT Assam: Brahmaputra swelling intensifies severe flooding, over 9 lakh affected. Prag News",
+        "type": "news",
+        "tweet_id": "2080627533037326494",
+        "geo": {
+            "country": "India",
+            "name": "Assam",
+            "latitude": 26.14,
+            "longitude": 91.77,
+            "confidence": 0.9
+        }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNazdUUnNRbElYUnU2ME5MRWlMLVh4Vkp1aGowQ0N2VjVLbUthc3JYLVF6TXBNY0o0bGpWTERQOU5pa1BCLV9ncmdrM3FsQTF4aXUtZ3l3NjhUaUgyLWRoempncFV0OXdjcVA0MC0wQVdxbnd6WGhuX3cwcDY5M2cwRzAyMmF0QnVNdW4xeTNkclI5OGZ6b2FTRkdYZ2VMaEJ0OGdHQmZ2RUo4NFV5eGM4OGpXemlfNkdBdEVzOXl30gHEAUFVX3lxTE81OHlsZkVfNXNpOXJleXlYME9xdm8xRVpIRVdGaTk1SURLRHpYaldMY0lyQ3RGaHNvZUx6bW8wNkV1Z28tdGNzbzhfenFvbER0MWhsVEstVVZQazRrWFlrbnl3dnZvSkwzNTNyOGU5RlotQ2IzNUI3bUJtQmlwV05uZ3pscnVlWGZ1ZnJ3T0xjSGJ4cjMwMzF5aFdMNkx4OHYxRHFCUkEyY1ZMMi00bXR4WjdpU3B4SE1DcHE3eWZZc1owaUI?oc=5",
+        "date": "2026-07-24",
+        "title": "Which Indian Rivers Are Flowing Above Their Danger Marks? - Jagran Josh",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxNazdUUnNRbElYUnU2ME5MRWlMLVh4Vkp1aGowQ0N2VjVLbUthc3JYLVF6TXBNY0o0bGpWTERQOU5pa1BCLV9ncmdrM3FsQTF4aXUtZ3l3NjhUaUgyLWRoempncFV0OXdjcVA0MC0wQVdxbnd6WGhuX3cwcDY5M2cwRzAyMmF0QnVNdW4xeTNkclI5OGZ6b2FTRkdYZ2VMaEJ0OGdHQmZ2RUo4NFV5eGM4OGpXemlfNkdBdEVzOXl30gHEAUFVX3lxTE81OHlsZkVfNXNpOXJleXlYME9xdm8xRVpIRVdGaTk1SURLRHpYaldMY0lyQ3RGaHNvZUx6bW8wNkV1Z28tdGNzbzhfenFvbER0MWhsVEstVVZQazRrWFlrbnl3dnZvSkwzNTNyOGU5RlotQ2IzNUI3bUJtQmlwV05uZ3pscnVlWGZ1ZnJ3T0xjSGJ4cjMwMzF5aFdMNkx4OHYxRHFCUkEyY1ZMMi00bXR4WjdpU3B4SE1DcHE3eWZZc1owaUI?oc=5\" target=\"_blank\">Which Indian Rivers Are Flowing Above Their Danger Marks?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Jagran Josh</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "posted",
+        "tweet": "\ud83c\uddee\ud83c\uddf3 FORECAST India: Multiple rivers flowing above danger marks, raising flood risks. (Jagran Josh)",
+        "type": "news",
+        "tweet_id": "2080628090120597783",
+        "geo": {
+            "country": null,
+            "name": null,
+            "latitude": null,
+            "longitude": null,
+            "confidence": 0.0
+        }
     }
 ]
