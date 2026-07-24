@@ -28862,5 +28862,302 @@
         "tweet": "\ud83c\uddf3\ud83c\uddf1 The Netherlands maintains 3,800 km of primary dikes and levees, protecting 9 million residents in flood-prone areas as of 2026.",
         "type": "infrastructure",
         "tweet_id": "2080661184177447240"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNl9XbDRoODFwd0NRLVdfMF9CbUtfdEdEU05CMm96OGEtTDZ4NzR3bkczeG9KSVRiaV80ZlNGSWJuQVVHem1USXc1NEJPWXdhd2F1STZILW5LN1dBTTZCZTIyVlFlbzFwTjA1Z1N5Q0VUZlp5aFpTV0p6Y2J3a2lxeUY1QkxCR1ZidjVZVTF0MnN0czhPQTdXd2ZKYi1lbmE4aGR5SlFTUy3SAbwBQVVfeXFMUFlEZG5qU0VrbUpRUXJOaHJRSDlYUnYtS2hTaW9VSUZLd0RVdVVWdERYemNJZ1pNaElmZGVidUxJLTUzZkJRbWp5UlFYempwZGhVSnE3WXJVX3JqVkxVeU45SHFrbmdzYXhMV1J4WEJpWEZ3SGU2MTB4X1QzbUg4bmhiR0FhRG9kN2cwdXpkQm5TbUpUeXRoN2h0dUJEX2V6OUZUN0RMd1ZtZlJSczUtNnRyWWFxNjN6UDA5eXc?oc=5",
+        "date": "2026-07-24",
+        "title": "LIVE UPDATES: Flash Flood Warning issued for multiple metro Atlanta counties - WSB-TV",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNl9XbDRoODFwd0NRLVdfMF9CbUtfdEdEU05CMm96OGEtTDZ4NzR3bkczeG9KSVRiaV80ZlNGSWJuQVVHem1USXc1NEJPWXdhd2F1STZILW5LN1dBTTZCZTIyVlFlbzFwTjA1Z1N5Q0VUZlp5aFpTV0p6Y2J3a2lxeUY1QkxCR1ZidjVZVTF0MnN0czhPQTdXd2ZKYi1lbmE4aGR5SlFTUy3SAbwBQVVfeXFMUFlEZG5qU0VrbUpRUXJOaHJRSDlYUnYtS2hTaW9VSUZLd0RVdVVWdERYemNJZ1pNaElmZGVidUxJLTUzZkJRbWp5UlFYempwZGhVSnE3WXJVX3JqVkxVeU45SHFrbmdzYXhMV1J4WEJpWEZ3SGU2MTB4X1QzbUg4bmhiR0FhRG9kN2cwdXpkQm5TbUpUeXRoN2h0dUJEX2V6OUZUN0RMd1ZtZlJSczUtNnRyWWFxNjN6UDA5eXc?oc=5\" target=\"_blank\">LIVE UPDATES: Flash Flood Warning issued for multiple metro Atlanta counties</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSB-TV</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": null,
+        "tweet_id": "2080772341165072831",
+        "geo": {
+            "country": "United States",
+            "name": "Atlanta",
+            "latitude": 33.749,
+            "longitude": -84.388,
+            "confidence": 0.9
+        }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPSWNRUUZWbHZidllSR0RPYWd3YklNRk9OdnZfZHVOOFpjaC1uYzVlS3RhNFN4X1VUUDhRa2NpMnY5X0oyWjg1cnlVN1hTMUtGU3FXZW9ialJmOVdpWkJsUUszSldGZEkwRU5JRkhqRWRjOG5vVHRySUUyVWRaMlV2UkNRdm0wRDY3dlc2VFJ3YmE5TGZkTDE1b3dYQXAzdw?oc=5",
+        "date": "2026-07-24",
+        "title": "Flooding swamps Hall County; Flash Flood Warning in effect in parts of metro Atlanta - Yahoo",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPSWNRUUZWbHZidllSR0RPYWd3YklNRk9OdnZfZHVOOFpjaC1uYzVlS3RhNFN4X1VUUDhRa2NpMnY5X0oyWjg1cnlVN1hTMUtGU3FXZW9ialJmOVdpWkJsUUszSldGZEkwRU5JRkhqRWRjOG5vVHRySUUyVWRaMlV2UkNRdm0wRDY3dlc2VFJ3YmE5TGZkTDE1b3dYQXAzdw?oc=5\" target=\"_blank\">Flooding swamps Hall County; Flash Flood Warning in effect in parts of metro Atlanta</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRTJBTklndy1vMlpUeFNKTG9waDZlT1ZKRmJ4UjJLalMySTlwaXhzWGNaM3VmclRiMnJzQXg5R09tZXBBRldJX2tpRkFLRVdZZ1RkVEUxeUNwUi1rczNFMlhNS213dzJ6d05HTnFMb1prbzZyYmdkZUVkS09WT2JoTTlGbXZHVklWN3VhcWJxb29ELWxBNUtZNlNjWE9YaTFUSTM0N2cxRUZrNGdQ?oc=5",
+        "date": "2026-07-24",
+        "title": "LIVE: Flash flood warnings issued across metro Atlanta and North Georgia - FOX 5 Atlanta",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNRTJBTklndy1vMlpUeFNKTG9waDZlT1ZKRmJ4UjJLalMySTlwaXhzWGNaM3VmclRiMnJzQXg5R09tZXBBRldJX2tpRkFLRVdZZ1RkVEUxeUNwUi1rczNFMlhNS213dzJ6d05HTnFMb1prbzZyYmdkZUVkS09WT2JoTTlGbXZHVklWN3VhcWJxb29ELWxBNUtZNlNjWE9YaTFUSTM0N2cxRUZrNGdQ?oc=5\" target=\"_blank\">LIVE: Flash flood warnings issued across metro Atlanta and North Georgia</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FOX 5 Atlanta</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWGVJb2plRXFIZXN5VUo4Mm5YZWtDZWdaYURwZjJ0RlpQdjVUY0pXOE02bG83TVBVdnotWll6Y3p5bmZfUmN5Q2ZQNy16S0xnQmk2MjRFVEhRSGRqMlNOSWxKcTQ5NHl3U2Z5TjZGOE1nWFN4OEhHLVI3eS1fWEVaWkFHSkpUTnBVVmxFcjJUS3BHbzRQVFZwdDJqRHZma194bkVhTzY1R0xpM1NZMlHSAbMBQVVfeXFMT3ZHRUJaRFJJRHhCY1ZEYVk2TXc2dFo5QWpkVTg0QUlhc3lCUnNQY3JTeFJqT00wNmRJS2c2RGR0SmJnOEZzZVM0a3NpLVFDakNZNC1pLUN1UzJoVWNZX0Y4NWJyT01QTXNpMFVCN3FYLXdPVHBiaGV0MU5PMFRINkh0RjlEOUQwdEI5UFBMMks5cW1jMzViQ2ZpY0VkRkFaWHRLdFBRTjlmTVRub25lT1FTOG8?oc=5",
+        "date": "2026-07-24",
+        "title": "Flash Flood warning issued for South Fork Burn Scar in Lincoln County - KRQE",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQWGVJb2plRXFIZXN5VUo4Mm5YZWtDZWdaYURwZjJ0RlpQdjVUY0pXOE02bG83TVBVdnotWll6Y3p5bmZfUmN5Q2ZQNy16S0xnQmk2MjRFVEhRSGRqMlNOSWxKcTQ5NHl3U2Z5TjZGOE1nWFN4OEhHLVI3eS1fWEVaWkFHSkpUTnBVVmxFcjJUS3BHbzRQVFZwdDJqRHZma194bkVhTzY1R0xpM1NZMlHSAbMBQVVfeXFMT3ZHRUJaRFJJRHhCY1ZEYVk2TXc2dFo5QWpkVTg0QUlhc3lCUnNQY3JTeFJqT00wNmRJS2c2RGR0SmJnOEZzZVM0a3NpLVFDakNZNC1pLUN1UzJoVWNZX0Y4NWJyT01QTXNpMFVCN3FYLXdPVHBiaGV0MU5PMFRINkh0RjlEOUQwdEI5UFBMMks5cW1jMzViQ2ZpY0VkRkFaWHRLdFBRTjlmTVRub25lT1FTOG8?oc=5\" target=\"_blank\">Flash Flood warning issued for South Fork Burn Scar in Lincoln County</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KRQE</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPV3hBSlZaMFVLQllCaFB3eEJzRHpXbW9QLThQNUVfSzIzT1p1eW9ac0NnTkM5SGF1empzSDFxUWNMZnlFblFHaGJudHJKX1BEX19iSGNNV3BpNVNfNWJsb1RJVFdiSllrbHhjbHJOS1dzbzFjcE5mMGQ3elN2VU1kbHFLclRnQ1prR1BtUEprMjhvRnRhWjVkM1JIVFFLbmFHNTRpdEtta09Ib2ZGY2VWYXRQNjNVUmc4NnY0WW1qbVZ5ZXRRQlk2NUc0VmJ3a0RmTmlEbXY3QkFKWnhY?oc=5",
+        "date": "2026-07-24",
+        "title": "Flooding swamps Hall County; Flash Flood Warning in effect in parts of metro Atlanta - 11Alive.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxPV3hBSlZaMFVLQllCaFB3eEJzRHpXbW9QLThQNUVfSzIzT1p1eW9ac0NnTkM5SGF1empzSDFxUWNMZnlFblFHaGJudHJKX1BEX19iSGNNV3BpNVNfNWJsb1RJVFdiSllrbHhjbHJOS1dzbzFjcE5mMGQ3elN2VU1kbHFLclRnQ1prR1BtUEprMjhvRnRhWjVkM1JIVFFLbmFHNTRpdEtta09Ib2ZGY2VWYXRQNjNVUmc4NnY0WW1qbVZ5ZXRRQlk2NUc0VmJ3a0RmTmlEbXY3QkFKWnhY?oc=5\" target=\"_blank\">Flooding swamps Hall County; Flash Flood Warning in effect in parts of metro Atlanta</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">11Alive.com</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5NSjlDYmZaYjdDeVFRTmE3enliSnVqcjZ6R3IzR0w0d1hielZ5OEh2cU1Gb0Iyd2xsb204eFEtWHFtenJkc3VtRlR2VzdGNUQ2YVplZVcxT253YW0tbDZQZ0VFcFJPUzJyc1d2dnF1THh0R2J1N1lz?oc=5",
+        "date": "2026-07-24",
+        "title": "UPDATE: Flood watch in place for South Carolina until 2 a.m. Saturday - Rock Hill Herald",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE5NSjlDYmZaYjdDeVFRTmE3enliSnVqcjZ6R3IzR0w0d1hielZ5OEh2cU1Gb0Iyd2xsb204eFEtWHFtenJkc3VtRlR2VzdGNUQ2YVplZVcxT253YW0tbDZQZ0VFcFJPUzJyc1d2dnF1THh0R2J1N1lz?oc=5\" target=\"_blank\">UPDATE: Flood watch in place for South Carolina until 2 a.m. Saturday</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Rock Hill Herald</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVUF6QnVwVHg4aDZoU0FPYVFRU2xRWGZfT1pOT2NxZWxkU2sxYTBDaDI3UVdaMkVXci10LTVIbnNqelFIUjJTMjM0NnAzZnhxakd5b0E0S0lZZVFjZVNoaUtGMjd3YzZXYTg3M1gtc3FLa2xKeUliSERhNmpwX2JmVGJrQm4xY0tYdDhBbFJR0gGiAUFVX3lxTE1hS2ZoTmpfMWk2NFoxSUhUR0NDZHZoWC1oQkZqZWdqc1E3ODlHTUduRHo2WVVQbG5LMlJoSUJJR25tM0RNdndLMDI2SzJzWWh4RkVMdFZkbm10dlRZYkZibWtRajQ5M1F5NVNrNzJVUS1MS0YwQXowTmhhRXVoeVN1MnNZQjZUbGYybkFtdWFwLUk4VDFZYTZxNFZoVWlrb1NXdw?oc=5",
+        "date": "2026-07-24",
+        "title": "Flooding leads to road closures, trees down, sinkhole in Hall County - Atlanta News First",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOVUF6QnVwVHg4aDZoU0FPYVFRU2xRWGZfT1pOT2NxZWxkU2sxYTBDaDI3UVdaMkVXci10LTVIbnNqelFIUjJTMjM0NnAzZnhxakd5b0E0S0lZZVFjZVNoaUtGMjd3YzZXYTg3M1gtc3FLa2xKeUliSERhNmpwX2JmVGJrQm4xY0tYdDhBbFJR0gGiAUFVX3lxTE1hS2ZoTmpfMWk2NFoxSUhUR0NDZHZoWC1oQkZqZWdqc1E3ODlHTUduRHo2WVVQbG5LMlJoSUJJR25tM0RNdndLMDI2SzJzWWh4RkVMdFZkbm10dlRZYkZibWtRajQ5M1F5NVNrNzJVUS1MS0YwQXowTmhhRXVoeVN1MnNZQjZUbGYybkFtdWFwLUk4VDFZYTZxNFZoVWlrb1NXdw?oc=5\" target=\"_blank\">Flooding leads to road closures, trees down, sinkhole in Hall County</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Atlanta News First</font>",
+        "similarity_excluded": "No",
+        "score": 5,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOUm12bEVDVV9ERXlleGtheWRrYVI1MTcwdkN5V05tUlN4ZzRyb2ptLVM5WVQ0T3FJc3h2ZWd3eE5YZm11M3ZmeU5KcTZwQmRFMlo5NkRxbDd3ajhpVVZwZjlETmlkZEtEeThGb2VXUTNnQWtOMUpVSGxEVjVnWUd0czZpNlY3N0UyTTF1OGdSVFdQS19oRVhYV3V1ck94eFFmTk0wYm5Tdnk2eVcwOVVFUGRvRm9VMFJpNVpUQ2VCaFdFS1BCdlZiRDVkTUZlbnhoNVJ2RjlHdEpUWGRDeWgwZjlqZVRDVC1xb3RaQWdnd3ZuM0dVVjRmYUlZQ2hsNW5j?oc=5",
+        "date": "2026-07-24",
+        "title": "Flash flood, severe weather alerts issued across Cottonwood Fire burn scar, Beaver County - St. George News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAJBVV95cUxOUm12bEVDVV9ERXlleGtheWRrYVI1MTcwdkN5V05tUlN4ZzRyb2ptLVM5WVQ0T3FJc3h2ZWd3eE5YZm11M3ZmeU5KcTZwQmRFMlo5NkRxbDd3ajhpVVZwZjlETmlkZEtEeThGb2VXUTNnQWtOMUpVSGxEVjVnWUd0czZpNlY3N0UyTTF1OGdSVFdQS19oRVhYV3V1ck94eFFmTk0wYm5Tdnk2eVcwOVVFUGRvRm9VMFJpNVpUQ2VCaFdFS1BCdlZiRDVkTUZlbnhoNVJ2RjlHdEpUWGRDeWgwZjlqZVRDVC1xb3RaQWdnd3ZuM0dVVjRmYUlZQ2hsNW5j?oc=5\" target=\"_blank\">Flash flood, severe weather alerts issued across Cottonwood Fire burn scar, Beaver County</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">St. George News</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZlhlMUhlUnlPby1TWGZES0lacWlGSVRwZmE4V0VUbGtTT19iajVyaWhuMUQ3UF9jQmIwSVcxaTJTanNlTWp1TlAxY3hRYnF5SU15b3BKUjlSWVJPUTExNjlTSnBsVDNuYnJxd0VDbXFobTlHck9OOG5ETl9JZkIzdk83U2wtRThHSGZpa2VaTzBwQXdEa1JIaFB1OEhMTnEzNV9xcERBd0Zqdw?oc=5",
+        "date": "2026-07-24",
+        "title": "Flash flood near Grand Jean Trailhead traps, destroys vehicles and campers - KBOI",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZlhlMUhlUnlPby1TWGZES0lacWlGSVRwZmE4V0VUbGtTT19iajVyaWhuMUQ3UF9jQmIwSVcxaTJTanNlTWp1TlAxY3hRYnF5SU15b3BKUjlSWVJPUTExNjlTSnBsVDNuYnJxd0VDbXFobTlHck9OOG5ETl9JZkIzdk83U2wtRThHSGZpa2VaTzBwQXdEa1JIaFB1OEhMTnEzNV9xcERBd0Zqdw?oc=5\" target=\"_blank\">Flash flood near Grand Jean Trailhead traps, destroys vehicles and campers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KBOI</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUE1lbW1oZ0d1UFlJWWIzNE53UHppWnd1aUNXQmVfbk9wNVh2VWNwOTNscVczVl9yTDlWc3RIZ0Y0dDJSQUtQeTAwcFlfZ0RINWY4QnFYdm1qVTZmT1ZQeThyWVViWExLS2kycTdTNTRnUTRIWktvVEVUeVVhdGlCR2pPcDZQOTVxMVZEMUQwV3ZfX2wxOFNiZnpKWlU4WmVS?oc=5",
+        "date": "2026-07-24",
+        "title": "Flash Flood Warning issued for multiple metro Atlanta counties - Yahoo",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPUE1lbW1oZ0d1UFlJWWIzNE53UHppWnd1aUNXQmVfbk9wNVh2VWNwOTNscVczVl9yTDlWc3RIZ0Y0dDJSQUtQeTAwcFlfZ0RINWY4QnFYdm1qVTZmT1ZQeThyWVViWExLS2kycTdTNTRnUTRIWktvVEVUeVVhdGlCR2pPcDZQOTVxMVZEMUQwV3ZfX2wxOFNiZnpKWlU4WmVS?oc=5\" target=\"_blank\">Flash Flood Warning issued for multiple metro Atlanta counties</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1RNy12ZmI5aEd4THpDTGVjRU96c0N4alZLcTlrd0Rlc0F3cUFzb1plQUdfQUdTWXBETkpwZlcweFRRY01uVlFuRmJfQWNJaTJ6RFRjSEd2U2ZPcmtYYlVNY2c4UmRMcHY0VDBXbHoyc0JoVTA?oc=5",
+        "date": "2026-07-24",
+        "title": "UPDATE: The current flood warning for Rowan County will be expiring at 12:30 p.m. - Durham Herald Sun",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE1RNy12ZmI5aEd4THpDTGVjRU96c0N4alZLcTlrd0Rlc0F3cUFzb1plQUdfQUdTWXBETkpwZlcweFRRY01uVlFuRmJfQWNJaTJ6RFRjSEd2U2ZPcmtYYlVNY2c4UmRMcHY0VDBXbHoyc0JoVTA?oc=5\" target=\"_blank\">UPDATE: The current flood warning for Rowan County will be expiring at 12:30 p.m.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Durham Herald Sun</font>",
+        "similarity_excluded": "No",
+        "score": 6,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQY3Y0eHAyanZHa2NpNmdaRW5UTTlDU0RYMm0zZjQzVWRVdlg3QVdGQWhhTm1oY2tYWkNVQjNsbThydEFFMnJJVnlEWUNNaXUtR1QxbmgySmZsUVk1WEk4UFllSW5YNUdnZHVzaFM1VU5oZ1NZanllNE9FNGFWUjdXVmFSRnZYZ1Q3MjhNTDhvS2hrNk9iQXdrTUdWUTZQY3lQTXlCa3ZMRFFRQl9McXVwT2wtRmZiWmVFSU1vSU44WTZERzFhSWtTNEEwUVA4NkpTY21YZ0hGYm1tanE4U1phUHFmTXVYc1k?oc=5",
+        "date": "2026-07-24",
+        "title": "Flash flood hammers Wapiti Fire burn scar, damages campground, vehicles - KTVB",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxQY3Y0eHAyanZHa2NpNmdaRW5UTTlDU0RYMm0zZjQzVWRVdlg3QVdGQWhhTm1oY2tYWkNVQjNsbThydEFFMnJJVnlEWUNNaXUtR1QxbmgySmZsUVk1WEk4UFllSW5YNUdnZHVzaFM1VU5oZ1NZanllNE9FNGFWUjdXVmFSRnZYZ1Q3MjhNTDhvS2hrNk9iQXdrTUdWUTZQY3lQTXlCa3ZMRFFRQl9McXVwT2wtRmZiWmVFSU1vSU44WTZERzFhSWtTNEEwUVA4NkpTY21YZ0hGYm1tanE4U1phUHFmTXVYc1k?oc=5\" target=\"_blank\">Flash flood hammers Wapiti Fire burn scar, damages campground, vehicles</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KTVB</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1NTUVjUzZublRRSWpBd0xGLVNmaEZYSjFtQXFlYkc3eFd6OHRtQWdta1NZd2pzdmx1Q05KNHFJN09rUVZMaTVaYXRyN0pKZy1jdlU1RjdJXzdLV3VEX3pWNzBSZl_SAWpBVV95cUxOTWhuSS12Nm85NEp0T21WRkVjeGpDenJiblVObEt5ZWNYei1lRkpXNUNrSXhkOHhnMFB4SXNHb3lnanpfQXV5YkNBdi10eXlYYjhSRHFmbmtYRjhtYlpHamJhS0wwN290MXRn?oc=5",
+        "date": "2026-07-24",
+        "title": "Hall County residents deal with massive flood damage - FOX 5 Atlanta",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE1NTUVjUzZublRRSWpBd0xGLVNmaEZYSjFtQXFlYkc3eFd6OHRtQWdta1NZd2pzdmx1Q05KNHFJN09rUVZMaTVaYXRyN0pKZy1jdlU1RjdJXzdLV3VEX3pWNzBSZl_SAWpBVV95cUxOTWhuSS12Nm85NEp0T21WRkVjeGpDenJiblVObEt5ZWNYei1lRkpXNUNrSXhkOHhnMFB4SXNHb3lnanpfQXV5YkNBdi10eXlYYjhSRHFmbmtYRjhtYlpHamJhS0wwN290MXRn?oc=5\" target=\"_blank\">Hall County residents deal with massive flood damage</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FOX 5 Atlanta</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMXlvNnZiMERRZGkxal83VldCajd2b0FWcDJDN19pRnJDd2lrWXlaMzRjdmhhOV9uTUVOLVFvS0otakN5ak9vTVJ4Wk1Rd2g1X0kySHlPeGIzOFlBTmJONkd0STl6Nmc0UVlidWVNaEVjcUVGWXo3RTRkdXJtbjl5RnlRR09keXVzNlk4d0ZLZDd2UU8yYkJNNw?oc=5",
+        "date": "2026-07-24",
+        "title": "Key differences spared Texas lives in second straight July flood - fredericksburgstandard.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOMXlvNnZiMERRZGkxal83VldCajd2b0FWcDJDN19pRnJDd2lrWXlaMzRjdmhhOV9uTUVOLVFvS0otakN5ak9vTVJ4Wk1Rd2g1X0kySHlPeGIzOFlBTmJONkd0STl6Nmc0UVlidWVNaEVjcUVGWXo3RTRkdXJtbjl5RnlRR09keXVzNlk4d0ZLZDd2UU8yYkJNNw?oc=5\" target=\"_blank\">Key differences spared Texas lives in second straight July flood</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">fredericksburgstandard.com</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPU1lrRmFnemQ4emVMLTFYa2dSei01TzFXYk5vSG5xTTl5TzBFZVVpU2tLZDZXNkpzUTd1bmFERmFPbnBNUVZZdzgwdkM4TEFVU3Y5aDdQSTN5d3ZRM2ZzM2ZMQ1oyT2J3RWs5NE9YNjBDWm9rWlA0czF6eTBLUlltREpLRTNmNlFUQVRQc1lYR0tsbVc1dkFvTUZoSC03TXdMbmpJbXMyMmMwZEQyV2V5TA?oc=5",
+        "date": "2026-07-24",
+        "title": "Historic 2016 flood turned Ellicott City\u2019s Main Street into a raging river - WMAR 2 News Baltimore",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPU1lrRmFnemQ4emVMLTFYa2dSei01TzFXYk5vSG5xTTl5TzBFZVVpU2tLZDZXNkpzUTd1bmFERmFPbnBNUVZZdzgwdkM4TEFVU3Y5aDdQSTN5d3ZRM2ZzM2ZMQ1oyT2J3RWs5NE9YNjBDWm9rWlA0czF6eTBLUlltREpLRTNmNlFUQVRQc1lYR0tsbVc1dkFvTUZoSC03TXdMbmpJbXMyMmMwZEQyV2V5TA?oc=5\" target=\"_blank\">Historic 2016 flood turned Ellicott City\u2019s Main Street into a raging river</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WMAR 2 News Baltimore</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPMGtkNHpxTTl1UGZMaWdvUVFKbXhvd1B5VDc1Z3RDQV8wOUlUVDluaEVwSmI3R0ZsaVlsNWNsRmlZXzZ5Mkc0RkJQQ19MVTRIUFZkZHg3YjduMTBOakxyYWhpVlZHOE1CVmcxRVI3akVWNnRiUDB0MXJWLUtYeUxRd1NlRjVBRXd6aEE?oc=5",
+        "date": "2026-07-24",
+        "title": "These resources show Texans changing flood and weather conditions - Midland Reporter-Telegram",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxPMGtkNHpxTTl1UGZMaWdvUVFKbXhvd1B5VDc1Z3RDQV8wOUlUVDluaEVwSmI3R0ZsaVlsNWNsRmlZXzZ5Mkc0RkJQQ19MVTRIUFZkZHg3YjduMTBOakxyYWhpVlZHOE1CVmcxRVI3akVWNnRiUDB0MXJWLUtYeUxRd1NlRjVBRXd6aEE?oc=5\" target=\"_blank\">These resources show Texans changing flood and weather conditions</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Midland Reporter-Telegram</font>",
+        "similarity_excluded": "No",
+        "score": 2,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRWg5T1ZBQmdUNWdRMVhsaEN5MFR4OXVjUkVSTlBvZGJCWVJuWWczNVM4RHJlUXFJRnNuNmlTb1ItbnpEVFRiUVU1WFhjMm1lNVZkMFNDZ25HUzZVZjU3YkpPN0Zwb3h3el9TUU5OdE5Fd1RmYUFxR0huWlZ3MGlNaTFyeEVhMi1jLVVQVDBaNW1IM0VjOHJid21PR0drTzk1Q2FNTA?oc=5",
+        "date": "2026-07-24",
+        "title": "City plans up to $2M in flood relief funds for property owners - WVXU",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPRWg5T1ZBQmdUNWdRMVhsaEN5MFR4OXVjUkVSTlBvZGJCWVJuWWczNVM4RHJlUXFJRnNuNmlTb1ItbnpEVFRiUVU1WFhjMm1lNVZkMFNDZ25HUzZVZjU3YkpPN0Zwb3h3el9TUU5OdE5Fd1RmYUFxR0huWlZ3MGlNaTFyeEVhMi1jLVVQVDBaNW1IM0VjOHJid21PR0drTzk1Q2FNTA?oc=5\" target=\"_blank\">City plans up to $2M in flood relief funds for property owners</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WVXU</font>",
+        "similarity_excluded": "No",
+        "score": 5,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNY3JWcjA5b2VjN1VhelEyWUN5QzVadHk0alpnMkxzSFRWS2ctdTRfa1hXa1I4MDVpVVlZb05zYkl2dDNITDBtWGJEeFQ3cXU2Uk9Ocnh2UDNzeXozRkUzSXliQ1ZQcDBYQTdfOFRtLUJXTEtHWXp3NUdNdlRaNjIxamFSN2h5anVZbHFxSUtoXy1ORGhaOUdzTDVMT1A5X2I5b0JrZ3VSZF9YaUxxdE93c0hGOFhkQQ?oc=5",
+        "date": "2026-07-24",
+        "title": "One of Telluride Film Fest\u2019s Marquee Venues Significantly Damaged by Flash Flood, But Fest Believes It Will Be Operational by Labor Day Weekend - The Hollywood Reporter",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNY3JWcjA5b2VjN1VhelEyWUN5QzVadHk0alpnMkxzSFRWS2ctdTRfa1hXa1I4MDVpVVlZb05zYkl2dDNITDBtWGJEeFQ3cXU2Uk9Ocnh2UDNzeXozRkUzSXliQ1ZQcDBYQTdfOFRtLUJXTEtHWXp3NUdNdlRaNjIxamFSN2h5anVZbHFxSUtoXy1ORGhaOUdzTDVMT1A5X2I5b0JrZ3VSZF9YaUxxdE93c0hGOFhkQQ?oc=5\" target=\"_blank\">One of Telluride Film Fest\u2019s Marquee Venues Significantly Damaged by Flash Flood, But Fest Believes It Will Be Operational by Labor Day Weekend</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Hollywood Reporter</font>",
+        "similarity_excluded": "No",
+        "score": 6,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0wRjBhcXlxY3QyNy1lV1M4aXRzSWQ2Qy1CcWEwQy1hSlZ4NXVGcjMyN0xwTkV4d3A4TEZuZlR3cU1DdlNMSTQ3S0JhRkx0Y3pPVTAwYUk1VmN5bGN5Mi11WHBTaDXSAWpBVV95cUxPaVJrZGRyVFZ1ZnlXUXgybmFELVFIb09IbjV2LWNUOXNocUZqcVpqX20yS0t5NmFHR1hVaHRiMEo5RERJajBYOU9od3Jmb0ZHYnU3VXV0MjVac2Y3ZERldWprYXl1RWZaOEtn?oc=5",
+        "date": "2026-07-24",
+        "title": "Friday afternoon forecast - FOX 5 Atlanta",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE0wRjBhcXlxY3QyNy1lV1M4aXRzSWQ2Qy1CcWEwQy1hSlZ4NXVGcjMyN0xwTkV4d3A4TEZuZlR3cU1DdlNMSTQ3S0JhRkx0Y3pPVTAwYUk1VmN5bGN5Mi11WHBTaDXSAWpBVV95cUxPaVJrZGRyVFZ1ZnlXUXgybmFELVFIb09IbjV2LWNUOXNocUZqcVpqX20yS0t5NmFHR1hVaHRiMEo5RERJajBYOU9od3Jmb0ZHYnU3VXV0MjVac2Y3ZERldWprYXl1RWZaOEtn?oc=5\" target=\"_blank\">Friday afternoon forecast</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FOX 5 Atlanta</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZV9mNW5za1ctV3htdTNjRWRxdFFyYVFzZW5hUFR3alNnQlNRTHNUQ1NWWGFXTDU4WmNXQlU2XzN0QmlhTHRGZ2s3aWdveS14bWtGZTlERVgwZ0hsNFpIMVY4RUtPZXJRU3dOVG4zX2lWTFhLTEVXSEVwaFlOSzE5aG8zN3N3NHF3WmJ4dlotSVJDMExwTFZRcDk5ZUYwal93cUg0NG40eXQwYTJP?oc=5",
+        "date": "2026-07-24",
+        "title": "Heavy rain causes flash flooding, crashes throughout Forsyth County - Forsyth County News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxOZV9mNW5za1ctV3htdTNjRWRxdFFyYVFzZW5hUFR3alNnQlNRTHNUQ1NWWGFXTDU4WmNXQlU2XzN0QmlhTHRGZ2s3aWdveS14bWtGZTlERVgwZ0hsNFpIMVY4RUtPZXJRU3dOVG4zX2lWTFhLTEVXSEVwaFlOSzE5aG8zN3N3NHF3WmJ4dlotSVJDMExwTFZRcDk5ZUYwal93cUg0NG40eXQwYTJP?oc=5\" target=\"_blank\">Heavy rain causes flash flooding, crashes throughout Forsyth County</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Forsyth County News</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNU3RjNVNwcGZKV3JhRjVkMkdWMUZzaFNaYzJrQVlrMUJBN1VYZWJnaFppUG1fVzRoV1hBaGdvVXRrbTV5RlFlbXo3S1c1UFEwOGd2bGFfSmozaWpvS1BSVUlZYTRIems3YjdiVjNacXdLcGVSUEdQdlIxbGFqdi1nX3VhamphUkJUcTNGeVNpN2NGeE9FRW1QOEhXVkp3bmNKWnJtMnlfWFpjZw?oc=5",
+        "date": "2026-07-24",
+        "title": "Flash flood threats continue across North Georgia and metro Atlanta - CBS News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNU3RjNVNwcGZKV3JhRjVkMkdWMUZzaFNaYzJrQVlrMUJBN1VYZWJnaFppUG1fVzRoV1hBaGdvVXRrbTV5RlFlbXo3S1c1UFEwOGd2bGFfSmozaWpvS1BSVUlZYTRIems3YjdiVjNacXdLcGVSUEdQdlIxbGFqdi1nX3VhamphUkJUcTNGeVNpN2NGeE9FRW1QOEhXVkp3bmNKWnJtMnlfWFpjZw?oc=5\" target=\"_blank\">Flash flood threats continue across North Georgia and metro Atlanta</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CBS News</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNOU5XZXFWRWVrNVBlTnNSaHU3WnlZWXhCVldxV0FXazItWFhfSkdqdTZjZF8zWGphTm1LMmVNOE54V3l6UzFSOFJDZDJNT19EUy15eDRINC1WQmxwTDBUb1hOa0U5azdRS0hvZTFQMWU4YWZ4cWE5M3hMYzJ4SnZBQ2hlWDB5OEFjb0dGcHJXWTNoOWE5bkliQkpvbnRQX0loLXQybzdBa1lMSTFfQ0Q4U2RHbkNfd2ZrVElKTnlUZ0JfNllQcVhUT2hmQTZibVdka2luUGR4TXpIY3JDR1p5ekttemg?oc=5",
+        "date": "2026-07-24",
+        "title": "Springfield sewer overflow raises stink at yacht club in Agawam; Conn. lawmaker renews call for action - MassLive",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxNOU5XZXFWRWVrNVBlTnNSaHU3WnlZWXhCVldxV0FXazItWFhfSkdqdTZjZF8zWGphTm1LMmVNOE54V3l6UzFSOFJDZDJNT19EUy15eDRINC1WQmxwTDBUb1hOa0U5azdRS0hvZTFQMWU4YWZ4cWE5M3hMYzJ4SnZBQ2hlWDB5OEFjb0dGcHJXWTNoOWE5bkliQkpvbnRQX0loLXQybzdBa1lMSTFfQ0Q4U2RHbkNfd2ZrVElKTnlUZ0JfNllQcVhUT2hmQTZibVdka2luUGR4TXpIY3JDR1p5ekttemg?oc=5\" target=\"_blank\">Springfield sewer overflow raises stink at yacht club in Agawam; Conn. lawmaker renews call for action</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MassLive</font>",
+        "similarity_excluded": "No",
+        "score": 2,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPek4yNG11bkg5ZnRyMGthNjkyQndHS2V4cDdEWkJPS3ZITk9lX0REMG5XWGR4Qk05TlFoNUZYWFlzREtUb1dGdkNWNGk5enJieUUwSHB2SEpXNHprdWdERWNZLWh1b01SUzAxR1p1VFJaMXljUTl5S3pQMFg5MVhWLTdWRFNuS3JZTDVxTVRjUl9sZzFBMFNoYTdjMG9kQ2dWa0pqTV9EQVVoQU5SVjRVeG15QnQxWHB3RjhJUkRUcW9XNFFranowOHA4Y20yaWtad25KTjFSSdIB5AFBVV95cUxOOFhqQ0tBNWtvZUFXbFExek9oZGxvYWU0NEQySXozdGxvSmwycnR5TENBdVZRSDkybF9oVkpDN1dGaS1EVEhtSm5jTEFGVlJMbk5Td3lCVkFYUFJxa0dtYVRwT0xURkhpZlA4d0I5WUlQSm9HNExhZGlKS0VweWlXbXBJTjc4d2JjMEhzcFNWaFBXZVZpQ0tVaThuQXFkZ3VlTTlDS3ozaFo1VzZmYkgxdmxCMEpsdGtlM3RBb0ZicUV4WHJfdDBtdlltWnFsdm9jOFpOdVVyT2NIZGhfYzNJXzkxVVM?oc=5",
+        "date": "2026-07-24",
+        "title": "India rejects Pakistan's flood claims; says Chenab water rise caused by heavy monsoon rains - The New Indian Express",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxPek4yNG11bkg5ZnRyMGthNjkyQndHS2V4cDdEWkJPS3ZITk9lX0REMG5XWGR4Qk05TlFoNUZYWFlzREtUb1dGdkNWNGk5enJieUUwSHB2SEpXNHprdWdERWNZLWh1b01SUzAxR1p1VFJaMXljUTl5S3pQMFg5MVhWLTdWRFNuS3JZTDVxTVRjUl9sZzFBMFNoYTdjMG9kQ2dWa0pqTV9EQVVoQU5SVjRVeG15QnQxWHB3RjhJUkRUcW9XNFFranowOHA4Y20yaWtad25KTjFSSdIB5AFBVV95cUxOOFhqQ0tBNWtvZUFXbFExek9oZGxvYWU0NEQySXozdGxvSmwycnR5TENBdVZRSDkybF9oVkpDN1dGaS1EVEhtSm5jTEFGVlJMbk5Td3lCVkFYUFJxa0dtYVRwT0xURkhpZlA4d0I5WUlQSm9HNExhZGlKS0VweWlXbXBJTjc4d2JjMEhzcFNWaFBXZVZpQ0tVaThuQXFkZ3VlTTlDS3ozaFo1VzZmYkgxdmxCMEpsdGtlM3RBb0ZicUV4WHJfdDBtdlltWnFsdm9jOFpOdVVyT2NIZGhfYzNJXzkxVVM?oc=5\" target=\"_blank\">India rejects Pakistan's flood claims; says Chenab water rise caused by heavy monsoon rains</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New Indian Express</font>",
+        "similarity_excluded": "No",
+        "score": 6,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZ1JGNU0tTC1VTGJrM2tmY1VfNnhiMGR5bkp3clVkRzZoZ2VsWmZGenIzQ0R1U2RFR3J3WDd1aHNwQW1YdE1WWkdCUzBzU0ZQSDc0RDltOTFrclVDY2JwRm43bE1XdWlsSnNJY0UweDFqZ2ZkUEpxSW9hVjV3Sm1Wck1Sakt3QktjQVpabXhsNmJDRzYyYkZGTTlNcXZndk9UYll0S29EdDRLdy0yY3NMbUFoeWdEZEZJc043akdHVjA?oc=5",
+        "date": "2026-07-24",
+        "title": "India refutes Pak\u2019s allegation of deliberate flooding; says Chenab overflowing due to monsoon rains - News On AIR",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZ1JGNU0tTC1VTGJrM2tmY1VfNnhiMGR5bkp3clVkRzZoZ2VsWmZGenIzQ0R1U2RFR3J3WDd1aHNwQW1YdE1WWkdCUzBzU0ZQSDc0RDltOTFrclVDY2JwRm43bE1XdWlsSnNJY0UweDFqZ2ZkUEpxSW9hVjV3Sm1Wck1Sakt3QktjQVpabXhsNmJDRzYyYkZGTTlNcXZndk9UYll0S29EdDRLdy0yY3NMbUFoeWdEZEZJc043akdHVjA?oc=5\" target=\"_blank\">India refutes Pak\u2019s allegation of deliberate flooding; says Chenab overflowing due to monsoon rains</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">News On AIR</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOSDV5cDJIMUswVHU0MWlyYzI1ZkVFRVJ5ckZrd1hCYXp2UXRGMGV6WEFPWmU0THE3UWhvbTFBZXh3Tzltd1I4WXJ5WU55YldmVFNWcXhKeGRsQW1MR2JFbnFCR3pHdmJsemhUVXRqai1qTTdhN0J3LTV2RzhNU0tneVN4TDZnNlNMZURsRlEzTUlDNkJKMDZmYTlRQlRoLWI0azlBZFQ0U3FGY0dzZ2RqdTJBa0hwNjlfbFBjS3FNbUxvNWVMRmhlRnEwelF1a3ZkY1MzMldn0gHbAUFVX3lxTFBnc3VFbzBzSlhlRWY1X1d5VTdrZHZHNjFyQndSenV0cXYxSTNYNFdkbkJjZ2h6MzIxUFBSSkZocXNhMG9KMy1oNkFCQWNGc0t5M2VPTEVvOENOaTVpUkRUMXZad0puM3BMeFZhRDhpV243cFBqYjhLeWF5N1NsdlQ5a3ZwUkgwNl9Ob3Z4ZWNUWWg4SzlOOUdDMlRpdXIzZWtydWtOQkd2NGkxZmdwbVJqc0ZtWG04UGk4MVI0MXZGb3dvdlF5bFJ4X1RnMC1ialUzVTZ1NzlHQm1iQQ?oc=5",
+        "date": "2026-07-24",
+        "title": "Monsoon, not India: MEA cites Pak\u2019s advisory to rebut its \u2018baseless\u2019 flood claim | India News - Hindustan Times",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxOSDV5cDJIMUswVHU0MWlyYzI1ZkVFRVJ5ckZrd1hCYXp2UXRGMGV6WEFPWmU0THE3UWhvbTFBZXh3Tzltd1I4WXJ5WU55YldmVFNWcXhKeGRsQW1MR2JFbnFCR3pHdmJsemhUVXRqai1qTTdhN0J3LTV2RzhNU0tneVN4TDZnNlNMZURsRlEzTUlDNkJKMDZmYTlRQlRoLWI0azlBZFQ0U3FGY0dzZ2RqdTJBa0hwNjlfbFBjS3FNbUxvNWVMRmhlRnEwelF1a3ZkY1MzMldn0gHbAUFVX3lxTFBnc3VFbzBzSlhlRWY1X1d5VTdrZHZHNjFyQndSenV0cXYxSTNYNFdkbkJjZ2h6MzIxUFBSSkZocXNhMG9KMy1oNkFCQWNGc0t5M2VPTEVvOENOaTVpUkRUMXZad0puM3BMeFZhRDhpV243cFBqYjhLeWF5N1NsdlQ5a3ZwUkgwNl9Ob3Z4ZWNUWWg4SzlOOUdDMlRpdXIzZWtydWtOQkd2NGkxZmdwbVJqc0ZtWG04UGk4MVI0MXZGb3dvdlF5bFJ4X1RnMC1ialUzVTZ1NzlHQm1iQQ?oc=5\" target=\"_blank\">Monsoon, not India: MEA cites Pak\u2019s advisory to rebut its \u2018baseless\u2019 flood claim | India News</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Hindustan Times</font>",
+        "similarity_excluded": "No",
+        "score": 2,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQUI1M243OTNlOXRGcEVyRGk4VmpkSkdaN3d6RWw1QVhINWV6RUhoajRPTXBqbFk4LUlNSGtVdWhUSkk4SXY5ZEJ3UnI2bzBKdnkxUFQxWTJtbnkycVZJMndUZ3ZZd0FLS0F4Q244bW1kblRLaldzTVRON2pRaFFjSGV2Y2R0dzFYR0ZyNWh6WUFDbW52X3hQUUJubw?oc=5",
+        "date": "2026-07-24",
+        "title": "An ATV Washed Down A Flooded Arizona Creek During a Monsoon - Yahoo",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPQUI1M243OTNlOXRGcEVyRGk4VmpkSkdaN3d6RWw1QVhINWV6RUhoajRPTXBqbFk4LUlNSGtVdWhUSkk4SXY5ZEJ3UnI2bzBKdnkxUFQxWTJtbnkycVZJMndUZ3ZZd0FLS0F4Q244bW1kblRLaldzTVRON2pRaFFjSGV2Y2R0dzFYR0ZyNWh6WUFDbW52X3hQUUJubw?oc=5\" target=\"_blank\">An ATV Washed Down A Flooded Arizona Creek During a Monsoon</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo</font>",
+        "similarity_excluded": "No",
+        "score": 5,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQT2lDbEwxY2hfeWNERXI0dHFhcm50Ulh4dUtUTHJjMVhWVmNCczhHYlBvdzMtb24xazZwWWk2UGkzVW9vaGZELXozZHhUejFDb3FYbHdKRXJUSW5UaUFQSzBGMDVFNVItVWlGc2lOeVRxbjNGVVRYcVZjRDNPdzJ3NTQ2QjVRSmZNY3JyZUVJdGRyWWpjQmJxVDJYekNES1lmT0EtVlliNGhtRDFPQlhzWkh1UTJPbWlYYVN2enhiWUpRZlJoLWMycWJaTEJ1QdIB0wFBVV95cUxNd18xYVpQaUdKdFk0LXNpdUdxWFd6R21jNkI3eTlvVFB0cklmNUJGampUaGhid19QQnBsSUhnUUZYalRQMHl1R1o4anVsQWtCQW1yTlRHSUhTaDZhVnh4VzNtb2ZsTndOZjdGZmFOTFp3cmtZUnd4ek5rVHZBaHVrQXUwbWhMVWZFNVZqendVVk9oWHFLQjBEUERRM09lRHZnZ0ZsVWR4ZzlPeW9yWHJRZmNXLU1CajhFZmNMVnJSeHlxZGR0bjVWZllOU2xCNk1PcVJn?oc=5",
+        "date": "2026-07-24",
+        "title": "Amid rain & fresh landslides, Jammu-Srinagar NH closure enters Day 3 - The Times of India",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxQT2lDbEwxY2hfeWNERXI0dHFhcm50Ulh4dUtUTHJjMVhWVmNCczhHYlBvdzMtb24xazZwWWk2UGkzVW9vaGZELXozZHhUejFDb3FYbHdKRXJUSW5UaUFQSzBGMDVFNVItVWlGc2lOeVRxbjNGVVRYcVZjRDNPdzJ3NTQ2QjVRSmZNY3JyZUVJdGRyWWpjQmJxVDJYekNES1lmT0EtVlliNGhtRDFPQlhzWkh1UTJPbWlYYVN2enhiWUpRZlJoLWMycWJaTEJ1QdIB0wFBVV95cUxNd18xYVpQaUdKdFk0LXNpdUdxWFd6R21jNkI3eTlvVFB0cklmNUJGampUaGhid19QQnBsSUhnUUZYalRQMHl1R1o4anVsQWtCQW1yTlRHSUhTaDZhVnh4VzNtb2ZsTndOZjdGZmFOTFp3cmtZUnd4ek5rVHZBaHVrQXUwbWhMVWZFNVZqendVVk9oWHFLQjBEUERRM09lRHZnZ0ZsVWR4ZzlPeW9yWHJRZmNXLU1CajhFZmNMVnJSeHlxZGR0bjVWZllOU2xCNk1PcVJn?oc=5\" target=\"_blank\">Amid rain & fresh landslides, Jammu-Srinagar NH closure enters Day 3</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of India</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNl9XbDRoODFwd0NRLVdfMF9CbUtfdEdEU05CMm96OGEtTDZ4NzR3bkczeG9KSVRiaV80ZlNGSWJuQVVHem1USXc1NEJPWXdhd2F1STZILW5LN1dBTTZCZTIyVlFlbzFwTjA1Z1N5Q0VUZlp5aFpTV0p6Y2J3a2lxeUY1QkxCR1ZidjVZVTF0MnN0czhPQTdXd2ZKYi1lbmE4aGR5SlFTUy3SAbwBQVVfeXFMUFlEZG5qU0VrbUpRUXJOaHJRSDlYUnYtS2hTaW9VSUZLd0RVdVVWdERYemNJZ1pNaElmZGVidUxJLTUzZkJRbWp5UlFYempwZGhVSnE3WXJVX3JqVkxVeU45SHFrbmdzYXhMV1J4WEJpWEZ3SGU2MTB4X1QzbUg4bmhiR0FhRG9kN2cwdXpkQm5TbUpUeXRoN2h0dUJEX2V6OUZUN0RMd1ZtZlJSczUtNnRyWWFxNjN6UDA5eXc?oc=5",
+        "date": "2026-07-24",
+        "title": "LIVE UPDATES: Flash Flood Warning issued for multiple metro Atlanta counties - WSB-TV",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNl9XbDRoODFwd0NRLVdfMF9CbUtfdEdEU05CMm96OGEtTDZ4NzR3bkczeG9KSVRiaV80ZlNGSWJuQVVHem1USXc1NEJPWXdhd2F1STZILW5LN1dBTTZCZTIyVlFlbzFwTjA1Z1N5Q0VUZlp5aFpTV0p6Y2J3a2lxeUY1QkxCR1ZidjVZVTF0MnN0czhPQTdXd2ZKYi1lbmE4aGR5SlFTUy3SAbwBQVVfeXFMUFlEZG5qU0VrbUpRUXJOaHJRSDlYUnYtS2hTaW9VSUZLd0RVdVVWdERYemNJZ1pNaElmZGVidUxJLTUzZkJRbWp5UlFYempwZGhVSnE3WXJVX3JqVkxVeU45SHFrbmdzYXhMV1J4WEJpWEZ3SGU2MTB4X1QzbUg4bmhiR0FhRG9kN2cwdXpkQm5TbUpUeXRoN2h0dUJEX2V6OUZUN0RMd1ZtZlJSczUtNnRyWWFxNjN6UDA5eXc?oc=5\" target=\"_blank\">LIVE UPDATES: Flash Flood Warning issued for multiple metro Atlanta counties</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSB-TV</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 FORECAST Atlanta: Flash flood warning issued for multiple metro counties (WSB-TV)",
+        "type": "news",
+        "tweet_id": "2080772341165072831",
+        "geo": {
+            "country": "United States",
+            "name": "Atlanta",
+            "latitude": 33.749,
+            "longitude": -84.388,
+            "confidence": 0.9
+        }
     }
 ]
