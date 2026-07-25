@@ -29358,5 +29358,14 @@
             "longitude": 125.4553,
             "confidence": 0.9
         }
+    },
+    {
+        "link": null,
+        "date": "2026-07-25",
+        "status": "posted",
+        "tweet": "By 2030, US dams, levees and reservoirs must handle 25% higher extreme rainfall volumes to protect 14 million people from flash floods and storm surge at current risk levels.",
+        "type": "statistical",
+        "category": "dams, levees and reservoirs used for flood control",
+        "tweet_id": "2080946680078496243"
     }
 ]
