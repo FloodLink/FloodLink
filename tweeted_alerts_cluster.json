@@ -18986,7 +18986,7 @@
     "rain_mm": 38.88,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 7.435,
-    "last_updated": "2026-07-25T16:10:35.223641Z",
+    "last_updated": "2026-07-25T19:06:43.561838Z",
     "last_tweeted_at": "2026-05-29T12:19:23.130462Z",
     "tweet_id": "2060335482932768922",
     "resolved": false
@@ -35917,7 +35917,7 @@
     "rain_mm": 42.25,
     "soil_moisture": 0.721,
     "raw_dynamic_score": 7.014,
-    "last_updated": "2026-07-25T16:10:35.223641Z",
+    "last_updated": "2026-07-25T19:06:43.561838Z",
     "last_tweeted_at": "2026-07-24T11:07:18.629486Z",
     "tweet_id": "2080610806232674567",
     "resolved": false
@@ -36367,7 +36367,7 @@
     "rain_mm": 76.81,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 14.69,
-    "last_updated": "2026-07-25T16:10:35.223641Z",
+    "last_updated": "2026-07-25T19:06:43.561838Z",
     "last_tweeted_at": "2026-07-25T10:33:29.469366Z",
     "tweet_id": "2080964682647564565",
     "resolved": false
@@ -38216,9 +38216,39 @@
     "rain_mm": 49.38,
     "soil_moisture": 0.551,
     "raw_dynamic_score": 7.441,
-    "last_updated": "2026-07-25T16:10:35.223641Z",
+    "last_updated": "2026-07-25T19:06:43.561838Z",
     "last_tweeted_at": "2026-07-25T16:10:35.223641Z",
     "tweet_id": "2081053564856901857",
+    "resolved": false
+  },
+  "22.1502,-79.9787": {
+    "country": "Cuba",
+    "name": "Manicaragua",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 22.15021,
+    "longitude": -79.97867,
+    "rain_mm": 63.0,
+    "soil_moisture": 0.498,
+    "raw_dynamic_score": 9.194,
+    "last_updated": "2026-07-25T19:06:43.561838Z",
+    "last_tweeted_at": "2026-07-25T19:06:43.561838Z",
+    "tweet_id": "2081093845043847499",
+    "resolved": false
+  },
+  "20.1997,83.9094": {
+    "country": "India",
+    "name": "Baliguda",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 20.19966,
+    "longitude": 83.90938,
+    "rain_mm": 72.12,
+    "soil_moisture": 0.593,
+    "raw_dynamic_score": 11.141,
+    "last_updated": "2026-07-25T19:06:43.561838Z",
+    "last_tweeted_at": "2026-07-25T19:06:43.561838Z",
+    "tweet_id": "2081094097910030462",
     "resolved": false
   }
 }
