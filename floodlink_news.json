@@ -28810,5 +28810,14 @@
             "longitude": -105.35,
             "confidence": 0.85
         }
+    },
+    {
+        "link": null,
+        "date": "2026-07-27",
+        "status": "posted",
+        "tweet": "By 2050, extreme rainfall is projected to expose 670 million people in dense cities to pluvial flooding at least once every five years, up from 320 million in 2020.",
+        "type": "statistical",
+        "category": "pluvial (surface) flooding in dense cities",
+        "tweet_id": "2081817578037453236"
     }
 ]
