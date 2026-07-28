@@ -28793,5 +28793,14 @@
             "longitude": 78.9629,
             "confidence": 0.5
         }
+    },
+    {
+        "link": null,
+        "date": "2026-07-28",
+        "status": "posted",
+        "tweet": "People in floodplains (2025 proj.):\n1. \ud83c\udde8\ud83c\uddf3 China: 402M\n2. \ud83c\uddee\ud83c\uddf3 India: 338M\n3. \ud83c\udde7\ud83c\udde9 Bangladesh: 109M\n4. \ud83c\uddfa\ud83c\uddf8 USA: 46M\n5. \ud83c\uddfb\ud83c\uddf3 Vietnam: 39M",
+        "type": "statistical",
+        "category": "population living in floodplains",
+        "tweet_id": "2082047354459271579"
     }
 ]
