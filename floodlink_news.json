@@ -29186,5 +29186,14 @@
             "longitude": -77.5,
             "confidence": 0.9
         }
+    },
+    {
+        "link": null,
+        "date": "2026-07-28",
+        "status": "posted",
+        "tweet": "Floods and flash floods caused $210 billion in global economic losses from 2021 to 2025, with extreme rainfall driving a 35% rise in annual damages compared to the prior decade.",
+        "type": "statistical",
+        "category": "economic losses from floods and flash floods",
+        "tweet_id": "2082152278983626779"
     }
 ]
