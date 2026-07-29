@@ -29155,7 +29155,7 @@
     "rain_mm": 58.94,
     "soil_moisture": 0.66,
     "raw_dynamic_score": 9.461,
-    "last_updated": "2026-07-06T17:48:40.471755Z",
+    "last_updated": "2026-07-29T08:36:19.333717Z",
     "last_tweeted_at": "2026-07-06T12:50:05.327027Z",
     "tweet_id": "2074114205674790997",
     "resolved": false
@@ -34256,7 +34256,7 @@
     "rain_mm": 45.5,
     "soil_moisture": 0.592,
     "raw_dynamic_score": 7.024,
-    "last_updated": "2026-07-29T05:56:00.587501Z",
+    "last_updated": "2026-07-29T08:36:19.333717Z",
     "last_tweeted_at": "2026-07-27T17:05:38.174519Z",
     "tweet_id": "2081788148451852648",
     "resolved": false
@@ -34470,7 +34470,7 @@
     "rain_mm": 12.94,
     "soil_moisture": 0.723,
     "raw_dynamic_score": 2.151,
-    "last_updated": "2026-07-29T05:56:00.587501Z",
+    "last_updated": "2026-07-29T08:36:19.333717Z",
     "last_tweeted_at": "2026-07-29T05:56:00.587501Z",
     "tweet_id": "2082344405168771494",
     "resolved": true,
@@ -34753,7 +34753,7 @@
     "rain_mm": 17.81,
     "soil_moisture": 0.717,
     "raw_dynamic_score": 2.951,
-    "last_updated": "2026-07-29T05:56:00.587501Z",
+    "last_updated": "2026-07-29T08:36:19.333717Z",
     "last_tweeted_at": "2026-07-29T02:02:53.757960Z",
     "tweet_id": "2082289539222286804",
     "resolved": true,
@@ -36677,14 +36677,10 @@
     "rain_mm": 103.5,
     "soil_moisture": 0.612,
     "raw_dynamic_score": 16.164,
-    "last_updated": "2026-07-29T05:56:00.587501Z",
+    "last_updated": "2026-07-29T08:36:19.333717Z",
     "last_tweeted_at": "2026-07-28T11:22:50.236346Z",
     "tweet_id": "2082068045212643607",
-    "resolved": false,
-    "pending_downgrade": true,
-    "pending_target_level": "Low",
-    "pending_set_at": "2026-07-28T16:40:56.447779Z",
-    "pending_is_region": true
+    "resolved": false
   },
   "20.9717,81.8588": {
     "country": "India",
@@ -37822,6 +37818,36 @@
     "last_updated": "2026-07-29T05:56:00.587501Z",
     "last_tweeted_at": "2026-07-29T05:56:00.587501Z",
     "tweet_id": "2082344658114601271",
+    "resolved": false
+  },
+  "4.8029,8.2534": {
+    "country": "Nigeria",
+    "name": "Esuk Oron",
+    "risk_level": "High",
+    "tweeted_level": "High",
+    "latitude": 4.80293,
+    "longitude": 8.25341,
+    "rain_mm": 79.25,
+    "soil_moisture": 0.636,
+    "raw_dynamic_score": 12.548,
+    "last_updated": "2026-07-29T08:36:19.333717Z",
+    "last_tweeted_at": "2026-07-29T08:36:19.333717Z",
+    "tweet_id": "2082384753559241031",
+    "resolved": false
+  },
+  "4.9589,8.3270": {
+    "country": "Nigeria",
+    "name": "Calabar",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 4.95893,
+    "longitude": 8.32695,
+    "rain_mm": 39.94,
+    "soil_moisture": 0.691,
+    "raw_dynamic_score": 6.523,
+    "last_updated": "2026-07-29T08:36:19.333717Z",
+    "last_tweeted_at": "2026-07-29T08:36:19.333717Z",
+    "tweet_id": "2082385006333133119",
     "resolved": false
   }
 }
