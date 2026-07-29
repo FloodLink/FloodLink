@@ -28932,5 +28932,496 @@
         "type": "statistical",
         "category": "economic losses from floods and flash floods",
         "tweet_id": "2082152278983626779"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQlpaeFc3TzE0eEZoY0xaSlYzUGJNRjRPa2luME05X094SjAwenJiWUZqWEJadnZkUGFubGg1M0xjLVp0eVNIMFVxMUNMbzNnOVY4ZUU4UERaSHpJX2UyVDU3VkM4NU5oUUhsa0cwQ29XZEJxS1A1NEhRak1zSjBfRGJZUWV5YTg4Um1sdy1qQko0WFhYSHo5MHhNWk1fMm5lbzAwdWpIelViVDhDcVdJ?oc=5",
+        "date": "2026-07-29",
+        "title": "Flash flood warning issued for Socorro and Valencia County until 10:15 p.m. - KOAT",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPQlpaeFc3TzE0eEZoY0xaSlYzUGJNRjRPa2luME05X094SjAwenJiWUZqWEJadnZkUGFubGg1M0xjLVp0eVNIMFVxMUNMbzNnOVY4ZUU4UERaSHpJX2UyVDU3VkM4NU5oUUhsa0cwQ29XZEJxS1A1NEhRak1zSjBfRGJZUWV5YTg4Um1sdy1qQko0WFhYSHo5MHhNWk1fMm5lbzAwdWpIelViVDhDcVdJ?oc=5\" target=\"_blank\">Flash flood warning issued for Socorro and Valencia County until 10:15 p.m.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KOAT</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": null,
+        "tweet_id": "2082329379569324339",
+        "geo": {
+            "country": "United States",
+            "name": "Socorro and Valencia Counties, New Mexico",
+            "latitude": 34.4,
+            "longitude": -106.8,
+            "confidence": 0.9
+        }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOU0poY0E0RkszVUg1UTVKT3hxNkphYlE0OGw3LW5jclp3TEQwdGJaSklFdWFRQk5kUUpfd29hMl83TUlBZXFaVGF4RjdJRW9HS3dCbXpibWo4Rlp4b0REUzFLenlPdG5BaTBpemRHRDdRRERPT0N3aW4tZ29TZmE4dWFZTEVrWWx6NWc0UjdrRjIxUENXb3k2blBzZ0VNdzh4bEthbVl6bHYyT0tBTmc?oc=5",
+        "date": "2026-07-29",
+        "title": "Tornado watch canceled, flash flood threat remains for Philadelphia region | Live updates - 6abc Philadelphia",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxOU0poY0E0RkszVUg1UTVKT3hxNkphYlE0OGw3LW5jclp3TEQwdGJaSklFdWFRQk5kUUpfd29hMl83TUlBZXFaVGF4RjdJRW9HS3dCbXpibWo4Rlp4b0REUzFLenlPdG5BaTBpemRHRDdRRERPT0N3aW4tZ29TZmE4dWFZTEVrWWx6NWc0UjdrRjIxUENXb3k2blBzZ0VNdzh4bEthbVl6bHYyT0tBTmc?oc=5\" target=\"_blank\">Tornado watch canceled, flash flood threat remains for Philadelphia region | Live updates</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">6abc Philadelphia</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1oRG93MHc0WlZhZ3JBaldKTEV3dHY3bzR6MS1hekJEYW5WZHh5WjJtbW1DZ293TWg5MWs5dnVJX3RvYS1RRnJCLVRBMzZfZGFtOWo4WHJ0MUM5QnZBTW5VNktOcUxERWRlTEhscTM2Y3dBVEk?oc=5",
+        "date": "2026-07-29",
+        "title": "Heavy rain expected Wednesday; Flash flooding possible - WMUR",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE1oRG93MHc0WlZhZ3JBaldKTEV3dHY3bzR6MS1hekJEYW5WZHh5WjJtbW1DZ293TWg5MWs5dnVJX3RvYS1RRnJCLVRBMzZfZGFtOWo4WHJ0MUM5QnZBTW5VNktOcUxERWRlTEhscTM2Y3dBVEk?oc=5\" target=\"_blank\">Heavy rain expected Wednesday; Flash flooding possible</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WMUR</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWjhyWGlmaFlZVk9iU01oMDlZVXc2S2U4SnRYYWIzZnFyMDczVXZjZW9CQjFKZUZsUnhDc2lJY3pJaG5lNEVHUFU5Q09iQndvSGxfRUdFN00wSjB4b3FvRFBkSzIwTWU0NTd6WTdsN3JwQ08ySmJvVkVpMzNQOXlENl9xOW4yeFhnbjJ3enhEdVVrWXpzcWFHZk9LcWp5VVZfekZ0dTJVM1BUUjZudFE?oc=5",
+        "date": "2026-07-29",
+        "title": "LIVE updates: Severe thunderstorm, tornado and flash flood warnings issued for Philadelphia area Tuesday - FOX 29 Philadelphia",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPWjhyWGlmaFlZVk9iU01oMDlZVXc2S2U4SnRYYWIzZnFyMDczVXZjZW9CQjFKZUZsUnhDc2lJY3pJaG5lNEVHUFU5Q09iQndvSGxfRUdFN00wSjB4b3FvRFBkSzIwTWU0NTd6WTdsN3JwQ08ySmJvVkVpMzNQOXlENl9xOW4yeFhnbjJ3enhEdVVrWXpzcWFHZk9LcWp5VVZfekZ0dTJVM1BUUjZudFE?oc=5\" target=\"_blank\">LIVE updates: Severe thunderstorm, tornado and flash flood warnings issued for Philadelphia area Tuesday</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FOX 29 Philadelphia</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVkJMcEk2TGE4bjVEenVKRTZmekZQWUptWVcxcjRpTmlCS0JHOGRTRUxQOTFTNmlZQkpjM0I1S2k5bnVHdW1VaHVzOHBQSzZ1dmp0NWVLTEdrWVBmZTlIR0kzRGo1UDF1dFNpemlsY2k5S3RSaFFoUjd5M2U0OXJaNVZHblVVaU9OdUhrVDI3NXhDWElielZxS213ZGltR2NHVFNDVHlSMnBPRVpNTVdr?oc=5",
+        "date": "2026-07-29",
+        "title": "Colorado weather blog: Severe t-storm, flood warnings go into effect - Denver7",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxNVkJMcEk2TGE4bjVEenVKRTZmekZQWUptWVcxcjRpTmlCS0JHOGRTRUxQOTFTNmlZQkpjM0I1S2k5bnVHdW1VaHVzOHBQSzZ1dmp0NWVLTEdrWVBmZTlIR0kzRGo1UDF1dFNpemlsY2k5S3RSaFFoUjd5M2U0OXJaNVZHblVVaU9OdUhrVDI3NXhDWElielZxS213ZGltR2NHVFNDVHlSMnBPRVpNTVdr?oc=5\" target=\"_blank\">Colorado weather blog: Severe t-storm, flood warnings go into effect</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Denver7</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1pcE1ibk9xbjlBMTJyLW12YTBRZHZHZVUtUkQxOGd0ODEwOUVTN0tSajNtTXpRZVItdy1MTWpiT3hRN19ZbDhTYmVaUmFNVkZTTUNKVG00ekg0QkhhMS1nd0kwaGw3SkowbHZxLS1UZlljbFEwckFxVw?oc=5",
+        "date": "2026-07-29",
+        "title": "Heavy rain causes flash flood in Aspen Acres burn scar - Colorado Public Radio",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE1pcE1ibk9xbjlBMTJyLW12YTBRZHZHZVUtUkQxOGd0ODEwOUVTN0tSajNtTXpRZVItdy1MTWpiT3hRN19ZbDhTYmVaUmFNVkZTTUNKVG00ekg0QkhhMS1nd0kwaGw3SkowbHZxLS1UZlljbFEwckFxVw?oc=5\" target=\"_blank\">Heavy rain causes flash flood in Aspen Acres burn scar</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Colorado Public Radio</font>",
+        "similarity_excluded": "No",
+        "score": 6,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNeE5EYVRxV2ROMTNwN0V1QlNLd19mUVZaVkVzUzVfY0tPdzNIM1dqM2NkaHJwVnFOeVI1M3JtZ01ydzVpXy1ZNUtRdmVlNW8yM1pFeGhIY2dTWmw5MnlTcWtXYlB4TnFEQ1ZpaHhpOUpkLS1OdTNCamZwRzJSTlF0TUtzOEdHV1d0dVV4UkREWErSAZYBQVVfeXFMT3FsYWlxaWdZc19CRXpzUm9vbW0zQXJoajlDZ3FJUGpkSE5CVjB1Szcxajh1blFwYlh0VXpfMmNHelhSU0U5VGc2SjNNd0lhUWhCV1VvTWNiQmg3QzBPWlVPSWs1WVJlZzJYNmRCVEJhdWxXNkcyMzMzaUkzWm42MFNzV1VtNW0tem95Rnk4OHBWM2FsM2xR?oc=5",
+        "date": "2026-07-29",
+        "title": "Life-threatening Flash Flood Emergency issued near Colorado burn scar, triggering debris flows - FOX Weather",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNeE5EYVRxV2ROMTNwN0V1QlNLd19mUVZaVkVzUzVfY0tPdzNIM1dqM2NkaHJwVnFOeVI1M3JtZ01ydzVpXy1ZNUtRdmVlNW8yM1pFeGhIY2dTWmw5MnlTcWtXYlB4TnFEQ1ZpaHhpOUpkLS1OdTNCamZwRzJSTlF0TUtzOEdHV1d0dVV4UkREWErSAZYBQVVfeXFMT3FsYWlxaWdZc19CRXpzUm9vbW0zQXJoajlDZ3FJUGpkSE5CVjB1Szcxajh1blFwYlh0VXpfMmNHelhSU0U5VGc2SjNNd0lhUWhCV1VvTWNiQmg3QzBPWlVPSWs1WVJlZzJYNmRCVEJhdWxXNkcyMzMzaUkzWm42MFNzV1VtNW0tem95Rnk4OHBWM2FsM2xR?oc=5\" target=\"_blank\">Life-threatening Flash Flood Emergency issued near Colorado burn scar, triggering debris flows</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FOX Weather</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": null,
+        "tweet_id": "2082329932546429231",
+        "geo": {
+            "country": "United States",
+            "name": "Colorado",
+            "latitude": 39.0,
+            "longitude": -105.5,
+            "confidence": 0.7
+        }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOdERuNGxDM0ZDMFViTXp4eHFnY0RzVUNzZU05UkcyUUZmV3U2RkhRODFzMVo3RHpob0ROVGN5clpEMnV5aXVvZWlwRnR0Y0dRMlhzdmwxTGVkUGRzQTZPT2NtSEFfTWpsZE9Fa1ZtWHFkRXpwSmRhS1A0aXVTYWYtX0lCdnpjcE5EWHRjemZjV2VSRGR30gGaAUFVX3lxTFBzcThoR1E1UEV1SHhWajFVWkhpbTRWYVphRTdpTjlCcHpXZmoxTVNSS0V3dTVSUVo4THhTWXItei1sVUlSdFY4a1M0c2lwSVpPQ1dfcGxDdlN3dXZrTHB4bTR4cGZQM2R5YlZOaWN0SzRhWTZRbWxKcEQ4b3hiN2Vqd3ZISE13R2Zjb2RMRDZGYkdhYlFnWWtDX2c?oc=5",
+        "date": "2026-07-29",
+        "title": "Flash Flood Warning issued for areas of Beaver, Piute counties - ABC4 Utah",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxOdERuNGxDM0ZDMFViTXp4eHFnY0RzVUNzZU05UkcyUUZmV3U2RkhRODFzMVo3RHpob0ROVGN5clpEMnV5aXVvZWlwRnR0Y0dRMlhzdmwxTGVkUGRzQTZPT2NtSEFfTWpsZE9Fa1ZtWHFkRXpwSmRhS1A0aXVTYWYtX0lCdnpjcE5EWHRjemZjV2VSRGR30gGaAUFVX3lxTFBzcThoR1E1UEV1SHhWajFVWkhpbTRWYVphRTdpTjlCcHpXZmoxTVNSS0V3dTVSUVo4THhTWXItei1sVUlSdFY4a1M0c2lwSVpPQ1dfcGxDdlN3dXZrTHB4bTR4cGZQM2R5YlZOaWN0SzRhWTZRbWxKcEQ4b3hiN2Vqd3ZISE13R2Zjb2RMRDZGYkdhYlFnWWtDX2c?oc=5\" target=\"_blank\">Flash Flood Warning issued for areas of Beaver, Piute counties</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ABC4 Utah</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBFT0Qwekh1eHB6YzRFMksyOHpCNVRSRnZTTDJNdDZaR3NfU1V3bmsyWlhmcEVaQXB6aGtGRHFEZ2FURXRleFlDVmR4UTAtYmJrak84OWRCX2N6Yk9QWkNqSmVuLW05Rkl3SHhPVGdCSmNqcGNHQUtiUnF4NA?oc=5",
+        "date": "2026-07-29",
+        "title": "Flash flooding continues around Lehigh Valley as storms dump up to 7 inches of rain; Route 309 \u2018impassable\u2019 - The Morning Call",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTFBFT0Qwekh1eHB6YzRFMksyOHpCNVRSRnZTTDJNdDZaR3NfU1V3bmsyWlhmcEVaQXB6aGtGRHFEZ2FURXRleFlDVmR4UTAtYmJrak84OWRCX2N6Yk9QWkNqSmVuLW05Rkl3SHhPVGdCSmNqcGNHQUtiUnF4NA?oc=5\" target=\"_blank\">Flash flooding continues around Lehigh Valley as storms dump up to 7 inches of rain; Route 309 \u2018impassable\u2019</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Morning Call</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1oZVBTR3BUdlV6Q1lpQW0xQ2ZfRE1XRGFPWTc3dVFUcHlhVW1TYUIzaHhuS2JvX3psSldaMkYyTUtUV09qNVI1ZmVfTXpBQjQ0MWVfeVdGdTR6WmhUSjJOa0o4c3ctVjFxRHRqSzlCQ3NWOVVhNDlqR1lvZTBUQQ?oc=5",
+        "date": "2026-07-29",
+        "title": "Flash flood warning issued for Dare County until 2 a.m. Wednesday caused by thunderstorms - Charlotte Observer",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE1oZVBTR3BUdlV6Q1lpQW0xQ2ZfRE1XRGFPWTc3dVFUcHlhVW1TYUIzaHhuS2JvX3psSldaMkYyTUtUV09qNVI1ZmVfTXpBQjQ0MWVfeVdGdTR6WmhUSjJOa0o4c3ctVjFxRHRqSzlCQ3NWOVVhNDlqR1lvZTBUQQ?oc=5\" target=\"_blank\">Flash flood warning issued for Dare County until 2 a.m. Wednesday caused by thunderstorms</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Charlotte Observer</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBNVFpZOFhFMEV6anBtSHVzZUlYNVhmNi1Hb0xLNThiUEJyN05ndHhvVHBGUUxidXhSeXROaDEwYnh2WktQSGVkU0xiend6SkNyS2tFSUtzUXBrb2RMQktNMy1xVm5ucjdrbFNab2M4WGJ2Y3c?oc=5",
+        "date": "2026-07-29",
+        "title": "Durham and Orange counties placed under a flash flood warning until Tuesday night - Durham Herald Sun",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTFBNVFpZOFhFMEV6anBtSHVzZUlYNVhmNi1Hb0xLNThiUEJyN05ndHhvVHBGUUxidXhSeXROaDEwYnh2WktQSGVkU0xiend6SkNyS2tFSUtzUXBrb2RMQktNMy1xVm5ucjdrbFNab2M4WGJ2Y3c?oc=5\" target=\"_blank\">Durham and Orange counties placed under a flash flood warning until Tuesday night</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Durham Herald Sun</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAwYnpRaVA5OWRneWtCcGxnQV9iUlJFRGozZXlxc1hBZGliWENvbWliWU5jRXRLRmFTQXlSWWNBdThzOGdxTTRCUDdfUmdpalh1MFFpbzF5Q3VoV29JM3lOUDBBSE5BbkcwbXJJc2NObXhIZld2cVVLa0dQd29YUQ?oc=5",
+        "date": "2026-07-29",
+        "title": "The Piedmont region under a flash flood warning until early Wednesday - Charlotte Observer",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTFAwYnpRaVA5OWRneWtCcGxnQV9iUlJFRGozZXlxc1hBZGliWENvbWliWU5jRXRLRmFTQXlSWWNBdThzOGdxTTRCUDdfUmdpalh1MFFpbzF5Q3VoV29JM3lOUDBBSE5BbkcwbXJJc2NObXhIZld2cVVLa0dQd29YUQ?oc=5\" target=\"_blank\">The Piedmont region under a flash flood warning until early Wednesday</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Charlotte Observer</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNQTNfdFByUTMwNTdSbEdlN2JaQWRmaFkyaTNKX01ReXZ2ZktjZ1FSOVRFVUZOTHNOMm02LURhb01aVVVjS1VKc2c4UVJkU1lCNkh0OXRZZ2puWkctTHp0LUlrc2dFcnM3MW1CSUIxcFRPRzUtMmNYdHpIcTN1ZTNKcHVfREJUb0tZazZwVlUwY1laS0t5YTVyWG9TOUNaOU9GNm9hRlo2Q0V5YjAzTlBhdnBKOFRrMDlnOHBsRU8wb3hJNk94MEh6WWU0VnRsZ0NjeDU0bWFDVHZaRmxXc2lkTWhid2cwZGFh?oc=5",
+        "date": "2026-07-29",
+        "title": "Two rounds of storms deliver flash flooding, up to 3-6\" of rain, and damaging wind gusts for some - WFMZ.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxNQTNfdFByUTMwNTdSbEdlN2JaQWRmaFkyaTNKX01ReXZ2ZktjZ1FSOVRFVUZOTHNOMm02LURhb01aVVVjS1VKc2c4UVJkU1lCNkh0OXRZZ2puWkctTHp0LUlrc2dFcnM3MW1CSUIxcFRPRzUtMmNYdHpIcTN1ZTNKcHVfREJUb0tZazZwVlUwY1laS0t5YTVyWG9TOUNaOU9GNm9hRlo2Q0V5YjAzTlBhdnBKOFRrMDlnOHBsRU8wb3hJNk94MEh6WWU0VnRsZ0NjeDU0bWFDVHZaRmxXc2lkTWhid2cwZGFh?oc=5\" target=\"_blank\">Two rounds of storms deliver flash flooding, up to 3-6\" of rain, and damaging wind gusts for some</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WFMZ.com</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOWHZZMHZZb3pYdVJhMHBEQUJTekpra3ROeFl1SGZkeFY2LWYwYlNpaENEZnNUaF9Oc1h2Y0FXLWVONENNUjNjYm9Dc2xqNzl6bzF5d3EyQXJDeVNjbWRaVlZwVjNDcnBmQmZfXzN6WDVZMUVvWnhOM0hJakxqNkNaWFRQS3E1ajZxNTFzcG15czdBSFRoQWljRXlFNHM1Y3JyVEZBbQ?oc=5",
+        "date": "2026-07-29",
+        "title": "Severe storms, flash flood warnings hit Philadelphia area Monday - Northeast Times",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxOWHZZMHZZb3pYdVJhMHBEQUJTekpra3ROeFl1SGZkeFY2LWYwYlNpaENEZnNUaF9Oc1h2Y0FXLWVONENNUjNjYm9Dc2xqNzl6bzF5d3EyQXJDeVNjbWRaVlZwVjNDcnBmQmZfXzN6WDVZMUVvWnhOM0hJakxqNkNaWFRQS3E1ajZxNTFzcG15czdBSFRoQWljRXlFNHM1Y3JyVEZBbQ?oc=5\" target=\"_blank\">Severe storms, flash flood warnings hit Philadelphia area Monday</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Northeast Times</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQeTVIMXdfS01MdjBGSW90RVprWlA4aEM4cjFkTU9qUVo3eU11NGdxUS1ieW1URzRFTjVlZE9GLUc2RHdIa1R1M0E4WVo0TDJ4d25idHNCTFhUcXJiTjdRVEhnSE5zejFXMTZva2ViYU1PbnNCZXpmY25XdEtST1BERWpCRWxuSXNPZkFwZ3pyMThZLTVEa2dsbVI0ajNmelNUMmpCVWNvNURaMHRWUzRnbjNkRE1YMlFwNUN3WTJlQ0wtUFRTeUprVUc5X1FlRzZZUnFv?oc=5",
+        "date": "2026-07-29",
+        "title": "Flood warning affecting Delaware and Sullivan counties until early Wednesday morning - Syracuse.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxQeTVIMXdfS01MdjBGSW90RVprWlA4aEM4cjFkTU9qUVo3eU11NGdxUS1ieW1URzRFTjVlZE9GLUc2RHdIa1R1M0E4WVo0TDJ4d25idHNCTFhUcXJiTjdRVEhnSE5zejFXMTZva2ViYU1PbnNCZXpmY25XdEtST1BERWpCRWxuSXNPZkFwZ3pyMThZLTVEa2dsbVI0ajNmelNUMmpCVWNvNURaMHRWUzRnbjNkRE1YMlFwNUN3WTJlQ0wtUFRTeUprVUc5X1FlRzZZUnFv?oc=5\" target=\"_blank\">Flood warning affecting Delaware and Sullivan counties until early Wednesday morning</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Syracuse.com</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQYnpOaEZOSEpiUlI0NVNtcDRmMXdMM1VpLUJkcWxEcG1RRkNHTUFWdk15OFRjTlFDUHpJQ2VneDRTenNkQmRneXR6a1h3eDRLbzFPOGdhWkZtdEhSS29QMzZoczlzYkNkS0hPUGtWQklnaUdtZENZQjZZNlNxcFBqZUMyajlNT2NPMXpZSml4Q0QzUW5SbGJDTDR3M0x6bklQTjJ4dC1R?oc=5",
+        "date": "2026-07-29",
+        "title": "Flash flood watch and heat advisories in effect for parts of New Mexico - KOB 4",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQYnpOaEZOSEpiUlI0NVNtcDRmMXdMM1VpLUJkcWxEcG1RRkNHTUFWdk15OFRjTlFDUHpJQ2VneDRTenNkQmRneXR6a1h3eDRLbzFPOGdhWkZtdEhSS29QMzZoczlzYkNkS0hPUGtWQklnaUdtZENZQjZZNlNxcFBqZUMyajlNT2NPMXpZSml4Q0QzUW5SbGJDTDR3M0x6bklQTjJ4dC1R?oc=5\" target=\"_blank\">Flash flood watch and heat advisories in effect for parts of New Mexico</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KOB 4</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQkI2bEZUQWItdzFQYU5QM0sxb0tfZW9wUXFkOHlyVFZic0FBOWFHQ1R1TElXSjFfVndnYUl6Qld1andnTjI5M3JFRDcyZW5CS1laMEVXcE9OVGxSdXdnUjBITVZadVNMdnBkc0s2TWhuX0pMT0VGUFJ3bjBDcEtBemE0OEZ1LVB4S2hza0FOQzI4UUVDQmFSdGdqZlNsQjBhQmdvM0MxRG1VaHRy?oc=5",
+        "date": "2026-07-29",
+        "title": "Multiple days with flash flood risk, strong to severe storms possible - WUSF",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPQkI2bEZUQWItdzFQYU5QM0sxb0tfZW9wUXFkOHlyVFZic0FBOWFHQ1R1TElXSjFfVndnYUl6Qld1andnTjI5M3JFRDcyZW5CS1laMEVXcE9OVGxSdXdnUjBITVZadVNMdnBkc0s2TWhuX0pMT0VGUFJ3bjBDcEtBemE0OEZ1LVB4S2hza0FOQzI4UUVDQmFSdGdqZlNsQjBhQmdvM0MxRG1VaHRy?oc=5\" target=\"_blank\">Multiple days with flash flood risk, strong to severe storms possible</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WUSF</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOUVNaUFM1di03ZGpMSzY2UldIcjFNSEIxaTBvT1hvdzZQX3lWZHBheFpIOHR4RktWRW5SU1llWXVBV28zck1aOFdvS1V4YlJrYTlNbHV4cldjLWZKODRqUE5EWEpqQ2p0bkVvZWdFbnNHTERJMmU5MTZpa0NHOVpKWFZucUdrczdxS0I0a3Z2c2NkSzZmR1V1VTFRdWVSNnVwclpLcWVyd3g1czBLTHRDNHlqOXVEamc3RDZMZ09mMlFzNkhWcmI3cUYtejdTRkJScnVMd2VpSDZ5cmNIWlE?oc=5",
+        "date": "2026-07-29",
+        "title": "Flood warning active for St. Lawrence County until Tuesday night due to significant downpours - Syracuse.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxOUVNaUFM1di03ZGpMSzY2UldIcjFNSEIxaTBvT1hvdzZQX3lWZHBheFpIOHR4RktWRW5SU1llWXVBV28zck1aOFdvS1V4YlJrYTlNbHV4cldjLWZKODRqUE5EWEpqQ2p0bkVvZWdFbnNHTERJMmU5MTZpa0NHOVpKWFZucUdrczdxS0I0a3Z2c2NkSzZmR1V1VTFRdWVSNnVwclpLcWVyd3g1czBLTHRDNHlqOXVEamc3RDZMZ09mMlFzNkhWcmI3cUYtejdTRkJScnVMd2VpSDZ5cmNIWlE?oc=5\" target=\"_blank\">Flood warning active for St. Lawrence County until Tuesday night due to significant downpours</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Syracuse.com</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPUDduXzAwREpIUUlSX3ZEWjZKM3kwRHplcDBQMlYtYW1MTGQ4dHdDYkpMVE9aT3dqUHpHMkRDSXBzSGRQaEZIeUhyY3dmOXhheTRTdTJZQ3RTZWlSZkZ1ajBOekZKQWl2aGZxYndWdFJ4dUE2QnVqR09nRndnLXdHMDVBVXFCTUVFWnlYcVdBU3lRTW4zVGFWNk53aUZBZ1N2bHlvSmNXdDlPMmVGVkUw?oc=5",
+        "date": "2026-07-29",
+        "title": "Flash flooding, hail and gusty winds continue into Tuesday night in southern Colorado - KKTV",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPUDduXzAwREpIUUlSX3ZEWjZKM3kwRHplcDBQMlYtYW1MTGQ4dHdDYkpMVE9aT3dqUHpHMkRDSXBzSGRQaEZIeUhyY3dmOXhheTRTdTJZQ3RTZWlSZkZ1ajBOekZKQWl2aGZxYndWdFJ4dUE2QnVqR09nRndnLXdHMDVBVXFCTUVFWnlYcVdBU3lRTW4zVGFWNk53aUZBZ1N2bHlvSmNXdDlPMmVGVkUw?oc=5\" target=\"_blank\">Flash flooding, hail and gusty winds continue into Tuesday night in southern Colorado</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KKTV</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNMmNFVm00akRQM19yaHZ2d2hlQmJER21ELTNtUXgzWmV0Q0xxWVhMTUxVRVVmNDdsTlpVSjQyN3RYcVpEa3c5VGZJeDEwNzQtcWlsaWlnd19nVFFSekhJcnZGWExReDB0MExpdEJGNW9Ha2dJcHdVNFRSUkx0M3lzanNoN3RfMUtqTHVPbXB0VHVtVDNjeTFhTjlVUDgyQnZ6RzNxUUtUN3dpektXR3E1QTVGNWhPcGppcnBzTmtTOWVBUmVKOXpvRm5PQQ?oc=5",
+        "date": "2026-07-29",
+        "title": "Flooding remains a risk on Wednesday following a flash flood emergency at the Aspen Acres Fire Tuesday - KOAA News 5",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxNMmNFVm00akRQM19yaHZ2d2hlQmJER21ELTNtUXgzWmV0Q0xxWVhMTUxVRVVmNDdsTlpVSjQyN3RYcVpEa3c5VGZJeDEwNzQtcWlsaWlnd19nVFFSekhJcnZGWExReDB0MExpdEJGNW9Ha2dJcHdVNFRSUkx0M3lzanNoN3RfMUtqTHVPbXB0VHVtVDNjeTFhTjlVUDgyQnZ6RzNxUUtUN3dpektXR3E1QTVGNWhPcGppcnBzTmtTOWVBUmVKOXpvRm5PQQ?oc=5\" target=\"_blank\">Flooding remains a risk on Wednesday following a flash flood emergency at the Aspen Acres Fire Tuesday</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KOAA News 5</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNOTRYakZ0c01Xdkt5cEd6RG5KaVBlQjNJMHRqOWQ0Nm13T0RWSGpxazhPZ2oxYnN4UEE5V092NmpSWHBlYXdjTWNWb01TYUpncFZtRmF4TUVwZl9TZF9vQ0FSYlZNZnQyOG5wVzZQRlNDWEJVcEJpNnZDY2VDaGtrQ3hHblBoN1RUdGVFLWdDNi1Lck42V2U2WjNYY1FHdDI5NTBPOU1GRnpEVEVScTNrZjBmVXhBVVlfSXpidEk1eXo1U2phYnU5SHpIZW1DQnAwaWFCVkVUald1Q0lGbEJrVVN5Ul9ORkhGR1pLc0ltVnVYS3FvaG5KTFNNMEg?oc=5",
+        "date": "2026-07-29",
+        "title": "Alert: Grove residents urged to leave area as flash flood warning is issued on Beaver River - St. George News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_AFBVV95cUxNOTRYakZ0c01Xdkt5cEd6RG5KaVBlQjNJMHRqOWQ0Nm13T0RWSGpxazhPZ2oxYnN4UEE5V092NmpSWHBlYXdjTWNWb01TYUpncFZtRmF4TUVwZl9TZF9vQ0FSYlZNZnQyOG5wVzZQRlNDWEJVcEJpNnZDY2VDaGtrQ3hHblBoN1RUdGVFLWdDNi1Lck42V2U2WjNYY1FHdDI5NTBPOU1GRnpEVEVScTNrZjBmVXhBVVlfSXpidEk1eXo1U2phYnU5SHpIZW1DQnAwaWFCVkVUald1Q0lGbEJrVVN5Ul9ORkhGR1pLc0ltVnVYS3FvaG5KTFNNMEg?oc=5\" target=\"_blank\">Alert: Grove residents urged to leave area as flash flood warning is issued on Beaver River</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">St. George News</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": null,
+        "tweet_id": "2082330512740233277",
+        "geo": {
+            "country": "United States",
+            "name": "Grove, Utah",
+            "latitude": 38.28,
+            "longitude": -112.64,
+            "confidence": 0.75
+        }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRi1KUlktdGY2MVFwRU42NlVGaE5oWUQxUExuSTBpLXhaQXFXdkVsNVpsOTBiWEwtR2pEUGc3Y29qMExkVU9lVTkyQnF3aEtrNXFLb0lyUmtiZUt4TlBQTWJWRGR1bmFZTkxGY0F1RWxzenBEUWdiZ3J5bHBRV2xPallGU0xkei1YSTRFaDc1aEVvZDZRdmNfZ2tJUEIxMGVCdmU1bXRxWjltRnZEcWJRaHZmVQ?oc=5",
+        "date": "2026-07-29",
+        "title": "Tornado warning for part of Sussex; NCCo under flash flood warning - The News Journal",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQRi1KUlktdGY2MVFwRU42NlVGaE5oWUQxUExuSTBpLXhaQXFXdkVsNVpsOTBiWEwtR2pEUGc3Y29qMExkVU9lVTkyQnF3aEtrNXFLb0lyUmtiZUt4TlBQTWJWRGR1bmFZTkxGY0F1RWxzenBEUWdiZ3J5bHBRV2xPallGU0xkei1YSTRFaDc1aEVvZDZRdmNfZ2tJUEIxMGVCdmU1bXRxWjltRnZEcWJRaHZmVQ?oc=5\" target=\"_blank\">Tornado warning for part of Sussex; NCCo under flash flood warning</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The News Journal</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPcUFVU19kR3c0TXk4YW1feUluei1PMnRsdW1Zb0FMTWdWM3JLd2lRSDBHUnpUeHROLVk1bDZmQlljT2RWZGpzSFpQWnBQZmVwLURYcUFzYkJkNXBmS3JoRXJmX3ZIZ0FDOEdIa3pCUWhZVGg4TVVrdTRObXoyZFpUYkF4ZlhxWWxlbnBsV2s0V2ptUWM?oc=5",
+        "date": "2026-07-29",
+        "title": "Storms bring heavy rain, high winds across Maryland - WBFF",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPcUFVU19kR3c0TXk4YW1feUluei1PMnRsdW1Zb0FMTWdWM3JLd2lRSDBHUnpUeHROLVk1bDZmQlljT2RWZGpzSFpQWnBQZmVwLURYcUFzYkJkNXBmS3JoRXJmX3ZIZ0FDOEdIa3pCUWhZVGg4TVVrdTRObXoyZFpUYkF4ZlhxWWxlbnBsV2s0V2ptUWM?oc=5\" target=\"_blank\">Storms bring heavy rain, high winds across Maryland</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WBFF</font>",
+        "similarity_excluded": "No",
+        "score": 2,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8tWld0UFBTZFM2UWdHWmFBcDQwYnBKOWJJR1FldVBFRm1JTnc3UDJGcmFhajUwRUJrdXkxNzVfZTluWnNXMXd1M2U1MHE1NE1Wb0ZxNHRjSHUtb0txcjNNb294TQ?oc=5",
+        "date": "2026-07-29",
+        "title": "Flash Flood Emergency declared near Colorado burn scar as heavy rain impacts the region - FOX Weather",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE8tWld0UFBTZFM2UWdHWmFBcDQwYnBKOWJJR1FldVBFRm1JTnc3UDJGcmFhajUwRUJrdXkxNzVfZTluWnNXMXd1M2U1MHE1NE1Wb0ZxNHRjSHUtb0txcjNNb294TQ?oc=5\" target=\"_blank\">Flash Flood Emergency declared near Colorado burn scar as heavy rain impacts the region</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FOX Weather</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOR0dXU2ZiNUllOExCMjhRU2piWF93S3NxeGhiREtiYWwxUW1vZHRDZERxWjN2eVZnQWJILVMydkNFd3ZOZ2FIZVZwVEtVeUw1ejJUeUJCUm1fM2gzZ0tmTlkzUVZCU210VlBKQUwycVFpcmFmcERtNW5iVGVGRjVSTkloYm0yZTA0UUJZMUZn?oc=5",
+        "date": "2026-07-29",
+        "title": "Aspen Acres burn scar hit with flooding, road closures - Colorado Springs Gazette",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOR0dXU2ZiNUllOExCMjhRU2piWF93S3NxeGhiREtiYWwxUW1vZHRDZERxWjN2eVZnQWJILVMydkNFd3ZOZ2FIZVZwVEtVeUw1ejJUeUJCUm1fM2gzZ0tmTlkzUVZCU210VlBKQUwycVFpcmFmcERtNW5iVGVGRjVSTkloYm0yZTA0UUJZMUZn?oc=5\" target=\"_blank\">Aspen Acres burn scar hit with flooding, road closures</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Colorado Springs Gazette</font>",
+        "similarity_excluded": "No",
+        "score": 6,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOVHNHdDdIVzZraWVOTlBFaGRPZXhneHkwWlp6QTVpd2NhdGtoM0ZGUmtqWXZyajd1REdPOXJVWHJMSnJQc05LbDRTU1lXWF9rTUtJQ1NtVXdORFk3QzZDRTJmQTJtMFEtSXFUSXliQzZxSWhpOFJURjFmTEdSTjd6bmRkR0xZdVExQ3hsNmd1MGxiOEd3c2I0V05zTEN3aVVmTC1PSWFEVzdQRVF5LS1HaG8xSW5OcGNzNlptYTlxcTVsNVI5QlN4d0dYTWZMT0E5SlRrVEQzWDA0MlU?oc=5",
+        "date": "2026-07-29",
+        "title": "Flash Flood Emergency expires for Aspen Acres burn scar near Beulah - 9News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxOVHNHdDdIVzZraWVOTlBFaGRPZXhneHkwWlp6QTVpd2NhdGtoM0ZGUmtqWXZyajd1REdPOXJVWHJMSnJQc05LbDRTU1lXWF9rTUtJQ1NtVXdORFk3QzZDRTJmQTJtMFEtSXFUSXliQzZxSWhpOFJURjFmTEdSTjd6bmRkR0xZdVExQ3hsNmd1MGxiOEd3c2I0V05zTEN3aVVmTC1PSWFEVzdQRVF5LS1HaG8xSW5OcGNzNlptYTlxcTVsNVI5QlN4d0dYTWZMT0E5SlRrVEQzWDA0MlU?oc=5\" target=\"_blank\">Flash Flood Emergency expires for Aspen Acres burn scar near Beulah</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">9News</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPRXVCUHNjaThkYjBTMEZvcXdFMmd4QkNyTEZ2U0xJY2hIUFNqRXpkWjlVSDBHcUoyR3ZNc2U2TTY4M1VVcTJyLUN3dWVtdXlFU2ktOENDcDhoaFAyLVpYSjZTcUNhYzI3b2gzWEpxY0ZjRm9QU0JGbzZ4SEQzRHBNRG5LaTQ5enF4OHNtekJSX1MwdXFWZDBrOGRVYzdJN2Zhb0puUnRhVmpxbVR6?oc=5",
+        "date": "2026-07-29",
+        "title": "Storms shower the Lehigh Valley, elsewhere amid flash flood warnings | PHOTOS - The Morning Call",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPRXVCUHNjaThkYjBTMEZvcXdFMmd4QkNyTEZ2U0xJY2hIUFNqRXpkWjlVSDBHcUoyR3ZNc2U2TTY4M1VVcTJyLUN3dWVtdXlFU2ktOENDcDhoaFAyLVpYSjZTcUNhYzI3b2gzWEpxY0ZjRm9QU0JGbzZ4SEQzRHBNRG5LaTQ5enF4OHNtekJSX1MwdXFWZDBrOGRVYzdJN2Zhb0puUnRhVmpxbVR6?oc=5\" target=\"_blank\">Storms shower the Lehigh Valley, elsewhere amid flash flood warnings | PHOTOS</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Morning Call</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNMXdoWl8tR1k0ZnNvVVdPWlpNNTRVQVIyYldMd3dKSEZ6QXZWWXB0T1Z2NDZ2ZHpOMFNCeVA3NjJILWdKRTJGZW9kUklnNHh6SjVUR3M2YjQ4UFB5WFg2Wnd6dng2SUtndVhPX2RHdHNtRHNfeWNrdnVZcXUwN0ZyWDg1LWJ2X3lOV3llUmlWUHUyZ0syOE9YUEJKdEh3Zw?oc=5",
+        "date": "2026-07-29",
+        "title": "Photos: Strong storms bring flooding, hail, damage and power outages across Maryland - CBS News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNMXdoWl8tR1k0ZnNvVVdPWlpNNTRVQVIyYldMd3dKSEZ6QXZWWXB0T1Z2NDZ2ZHpOMFNCeVA3NjJILWdKRTJGZW9kUklnNHh6SjVUR3M2YjQ4UFB5WFg2Wnd6dng2SUtndVhPX2RHdHNtRHNfeWNrdnVZcXUwN0ZyWDg1LWJ2X3lOV3llUmlWUHUyZ0syOE9YUEJKdEh3Zw?oc=5\" target=\"_blank\">Photos: Strong storms bring flooding, hail, damage and power outages across Maryland</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CBS News</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRHQ5Nl83X1FZamFIakZXRXNmMDh0TzBiS0JHR0FvTkdZT3BzTF9OTzBsR0o4eHBGOTBsUjBUQmROQjRQVWZKU1Z5MUpYc3lLdUZYcFJSVWZGVUJXZVJsQV9yTnM2YUlrWnNVdGU2UkhGRS1menNrby1qV2pobDN5d2tnc3R0Z28xUlV6bHhJVEtqNE1oOHdzajUxR3NiR0dfUDBrNjdsSlZLYzA?oc=5",
+        "date": "2026-07-29",
+        "title": "Flash flood emergency issued for areas near Aspen Acres Fire burn scar - KOAA News 5",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRHQ5Nl83X1FZamFIakZXRXNmMDh0TzBiS0JHR0FvTkdZT3BzTF9OTzBsR0o4eHBGOTBsUjBUQmROQjRQVWZKU1Z5MUpYc3lLdUZYcFJSVWZGVUJXZVJsQV9yTnM2YUlrWnNVdGU2UkhGRS1menNrby1qV2pobDN5d2tnc3R0Z28xUlV6bHhJVEtqNE1oOHdzajUxR3NiR0dfUDBrNjdsSlZLYzA?oc=5\" target=\"_blank\">Flash flood emergency issued for areas near Aspen Acres Fire burn scar</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KOAA News 5</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPMVVqUDQ1MmwwRE1LRlpNa2pNbndZLUJuaVZKZUZXeWhTMHdmeE5vYUZ0WkNDR3d6bnRJVERSZ3NEeENUZm01MjhzM2tNSm1KSWxWRHBNSmsxZ2UwY3lIX3JheFVtS1hPbHZLTUV3V0tLaXFHTmN6ZVJNN0RUV0prcy1kcFZwNHRyZFpHMFhUWjBpM2xKR3h3VXQzMFNEaERVSTdaSTFwWVByR01yWGRRcUtRaEdDTEZUd29vYjBOTEVYSHJtbDhQYzBxbUNxb2RkYmh3NVNSWE5iNFRPZVhWUEQyZnRqUi1QeE13cmNMMmZ3Ukl4?oc=5",
+        "date": "2026-07-29",
+        "title": "New York City, Philadelphia are at the center of a serious Northeast flash flood threat - WXOW",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxPMVVqUDQ1MmwwRE1LRlpNa2pNbndZLUJuaVZKZUZXeWhTMHdmeE5vYUZ0WkNDR3d6bnRJVERSZ3NEeENUZm01MjhzM2tNSm1KSWxWRHBNSmsxZ2UwY3lIX3JheFVtS1hPbHZLTUV3V0tLaXFHTmN6ZVJNN0RUV0prcy1kcFZwNHRyZFpHMFhUWjBpM2xKR3h3VXQzMFNEaERVSTdaSTFwWVByR01yWGRRcUtRaEdDTEZUd29vYjBOTEVYSHJtbDhQYzBxbUNxb2RkYmh3NVNSWE5iNFRPZVhWUEQyZnRqUi1QeE13cmNMMmZ3Ukl4?oc=5\" target=\"_blank\">New York City, Philadelphia are at the center of a serious Northeast flash flood threat</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WXOW</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPV0hveFNHYWhZYml3Mlo1XzR3U1pTcExING80N09yRXU2dlpQS21oMnhFcHE3ODdNQmhBSWFiTTlyeGxzRHQ4NmppZVRpcGlNWkV3OTMtLVhmZVIzU0F1Z3pjclVBY0tHWncyVVZCd3o4cTFMWGg5Y0EzcHdaVlNFdUsxVHBlWnRTRGpWY01VQ1V5bFpQcWRaS3ZGWWI2bzRjeXVUU1plMF9Hbjc1RV9TR3NLbXJqNXhUaHdRY2k3cDA0MGtoM3BWN1BEZk5hT1A2UlZ4QWJIdU1JOWZxclJrejVlTjNzQQ?oc=5",
+        "date": "2026-07-29",
+        "title": "36+ MILLION THREATENED BY NORTHEAST FLASH FLOODS (930pE) - KXLY.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxPV0hveFNHYWhZYml3Mlo1XzR3U1pTcExING80N09yRXU2dlpQS21oMnhFcHE3ODdNQmhBSWFiTTlyeGxzRHQ4NmppZVRpcGlNWkV3OTMtLVhmZVIzU0F1Z3pjclVBY0tHWncyVVZCd3o4cTFMWGg5Y0EzcHdaVlNFdUsxVHBlWnRTRGpWY01VQ1V5bFpQcWRaS3ZGWWI2bzRjeXVUU1plMF9Hbjc1RV9TR3NLbXJqNXhUaHdRY2k3cDA0MGtoM3BWN1BEZk5hT1A2UlZ4QWJIdU1JOWZxclJrejVlTjNzQQ?oc=5\" target=\"_blank\">36+ MILLION THREATENED BY NORTHEAST FLASH FLOODS (930pE)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KXLY.com</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTHM5R2hYWXRLQmo5cC1lc1FlcmN5WGYwaGNjZUpNeG9pMWpjS2RqcTZ0RVMwa3dtVGJxbEUybl9ITW5jR25UTjRzMUhlMWNrNUxHNGI3Z3RmU25sR2otLURnN25LSmRWZ3ZmWXExY1IzUUZmdWktZ25rMC1xRkZVb3VFcU1qRXdfNHc5WXR4amfSAaQBQVVfeXFMT0Q5SHRMVmJKVWpPckxnWFFlN2JIZjZ2dkZRTWtkanZsSGtMMlZicVRDdzVkYmo0T29MZ0hvdWplUUU5b0gwc1JPbVoxc1l3Rm8zRWY0M0lyR1ZzMU9BWjd6MDZpdlZBSlotdzhFaU9zSTdmUHhDdXkyaDJMUXhlWkxOR3BmMW9FaE03V1c1UTdFYUpfUHBqVTkzeFRsZHRXOTJBcVI?oc=5",
+        "date": "2026-07-29",
+        "title": "Why the Pocket Fire raises flood risk in Oak Creek Canyon - AZ Family",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNTHM5R2hYWXRLQmo5cC1lc1FlcmN5WGYwaGNjZUpNeG9pMWpjS2RqcTZ0RVMwa3dtVGJxbEUybl9ITW5jR25UTjRzMUhlMWNrNUxHNGI3Z3RmU25sR2otLURnN25LSmRWZ3ZmWXExY1IzUUZmdWktZ25rMC1xRkZVb3VFcU1qRXdfNHc5WXR4amfSAaQBQVVfeXFMT0Q5SHRMVmJKVWpPckxnWFFlN2JIZjZ2dkZRTWtkanZsSGtMMlZicVRDdzVkYmo0T29MZ0hvdWplUUU5b0gwc1JPbVoxc1l3Rm8zRWY0M0lyR1ZzMU9BWjd6MDZpdlZBSlotdzhFaU9zSTdmUHhDdXkyaDJMUXhlWkxOR3BmMW9FaE03V1c1UTdFYUpfUHBqVTkzeFRsZHRXOTJBcVI?oc=5\" target=\"_blank\">Why the Pocket Fire raises flood risk in Oak Creek Canyon</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AZ Family</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQY2ZKdzFyaW1idXl4QnFCSkR6cFNVT2s4MnVXQUhLb3dzeFNzbWc5c01YaGJDM3FpOFBQX0xXVHdFUUg5MHpFNkktLXllNW1haHBwdnVET1BmUWFYZW1uR3V3eDAxc2VIY2NSczhGN1pSQjlRMF9vb3lYYnJZUDFGaGF3UVpRZGlDM1JZeFY3b2k?oc=5",
+        "date": "2026-07-29",
+        "title": "Forecast maps: Storms to bring flooding rains, soaking commutes to Massachusetts on Wednesday - The Boston Globe",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxQY2ZKdzFyaW1idXl4QnFCSkR6cFNVT2s4MnVXQUhLb3dzeFNzbWc5c01YaGJDM3FpOFBQX0xXVHdFUUg5MHpFNkktLXllNW1haHBwdnVET1BmUWFYZW1uR3V3eDAxc2VIY2NSczhGN1pSQjlRMF9vb3lYYnJZUDFGaGF3UVpRZGlDM1JZeFY3b2k?oc=5\" target=\"_blank\">Forecast maps: Storms to bring flooding rains, soaking commutes to Massachusetts on Wednesday</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Boston Globe</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNGZGcGdHaWQ3ZWFBOHh0T3o3RGtQZzdIc3c3M3lqcENhendXc0R2VmxfbTBMZ2VvbHFSVFFxb0x0LVQ2c1FSQjJsSUFFNFNzSWM2bEJvVFFJZ25yVXlhQkZubzBLekNTYzBKSWFKRDZDamFyUkpBa3RjdkR2MExHVjVCQi1mYkF0Y1JtSUNlbDlIeEJFeXk5RU1FQ29qRW5zVnRiT2VIa055ZVpTQkpLelFfUy1FRjcz?oc=5",
+        "date": "2026-07-29",
+        "title": "Always Ready: West Virginia Guard Leads Flood Recovery Efforts - U.S. Department of War (.gov)",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNGZGcGdHaWQ3ZWFBOHh0T3o3RGtQZzdIc3c3M3lqcENhendXc0R2VmxfbTBMZ2VvbHFSVFFxb0x0LVQ2c1FSQjJsSUFFNFNzSWM2bEJvVFFJZ25yVXlhQkZubzBLekNTYzBKSWFKRDZDamFyUkpBa3RjdkR2MExHVjVCQi1mYkF0Y1JtSUNlbDlIeEJFeXk5RU1FQ29qRW5zVnRiT2VIa055ZVpTQkpLelFfUy1FRjcz?oc=5\" target=\"_blank\">Always Ready: West Virginia Guard Leads Flood Recovery Efforts</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">U.S. Department of War (.gov)</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVk4xSXltYlk3ZlJwRlVNNE5fbHFKUmRwRWVXQ3EyVDVEbUkwbkpaYllmNUhrWG9nZ3RfUHBkMGhtZjJ1TjRjci15OFJTMDV0Z3owUU5iaWxWMFpRQlNINlpGa1dTZndNUGJGMHJmb1VmOFIyQ09uTnhWUGV5ZDZiMGJfZWNoaUZTLUpmSmZR0gGnAUFVX3lxTE5xa3RyZXU4RUNxNVhSbThzQ3hmaVVfVFNtUTVRN21NdDFiXzNpR0h0SmNRZGxtNW1wbzhWX0NNMDBfRHctdjllVUdIRmtpQzljUjBrVkp1cHdzczQwYW5Nc3hfNDUtZXJsNGJWRGFiN3BET3o3R2tLZmQzblpYSDMyb0JmaUFKZzl2N1lTZkt3NXBaaHZ5WDdJREFCYkI3YjlMcW4xdjc0?oc=5",
+        "date": "2026-07-29",
+        "title": "Woman In Wheelchair Rescued As Storms Flood NJ Again - Patch",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQVk4xSXltYlk3ZlJwRlVNNE5fbHFKUmRwRWVXQ3EyVDVEbUkwbkpaYllmNUhrWG9nZ3RfUHBkMGhtZjJ1TjRjci15OFJTMDV0Z3owUU5iaWxWMFpRQlNINlpGa1dTZndNUGJGMHJmb1VmOFIyQ09uTnhWUGV5ZDZiMGJfZWNoaUZTLUpmSmZR0gGnAUFVX3lxTE5xa3RyZXU4RUNxNVhSbThzQ3hmaVVfVFNtUTVRN21NdDFiXzNpR0h0SmNRZGxtNW1wbzhWX0NNMDBfRHctdjllVUdIRmtpQzljUjBrVkp1cHdzczQwYW5Nc3hfNDUtZXJsNGJWRGFiN3BET3o3R2tLZmQzblpYSDMyb0JmaUFKZzl2N1lTZkt3NXBaaHZ5WDdJREFCYkI3YjlMcW4xdjc0?oc=5\" target=\"_blank\">Woman In Wheelchair Rescued As Storms Flood NJ Again</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Patch</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNNzM3Skp5dDVGb2ExRFNPaGxseTlPZGNLLWRFdU9tOXRhOC1SdjNXVXhTTEZEWDV6TXZ5QjhWLTVyekFEdlZfOEdlaFkxdUNMb1ByOEVya09uT0hHbVEzZ3JBaTJtSGZmWUdLNHRhQXF3Q3U0aFRhQURHQ2wtdW1UbkNBREZUakNDdHFCRllKb0XSAZYBQVVfeXFMT0ZYbEMxMTg1VVlxSlRCaEcyTVV2eVpvQ0Q4MjI5SGFfTUhvUEI5WUtFWHlkSEZ1Ri1xdHVGUkxiZGIyaW1TZEZiRnVNaTJjaGU2Y2l5QlRDUG9fOFByOF96eVU0Wk5YSTcxeWZyTWdhbkJzRTRaaC1NLWVzSlNsVEROWXJnSXpaVWxXNHFMMWxkMl90MHBR?oc=5",
+        "date": "2026-07-29",
+        "title": "Loved ones remember Provo Fire Captain and his family killed in flash flood ahead of funeral service - ABC4 Utah",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNNzM3Skp5dDVGb2ExRFNPaGxseTlPZGNLLWRFdU9tOXRhOC1SdjNXVXhTTEZEWDV6TXZ5QjhWLTVyekFEdlZfOEdlaFkxdUNMb1ByOEVya09uT0hHbVEzZ3JBaTJtSGZmWUdLNHRhQXF3Q3U0aFRhQURHQ2wtdW1UbkNBREZUakNDdHFCRllKb0XSAZYBQVVfeXFMT0ZYbEMxMTg1VVlxSlRCaEcyTVV2eVpvQ0Q4MjI5SGFfTUhvUEI5WUtFWHlkSEZ1Ri1xdHVGUkxiZGIyaW1TZEZiRnVNaTJjaGU2Y2l5QlRDUG9fOFByOF96eVU0Wk5YSTcxeWZyTWdhbkJzRTRaaC1NLWVzSlNsVEROWXJnSXpaVWxXNHFMMWxkMl90MHBR?oc=5\" target=\"_blank\">Loved ones remember Provo Fire Captain and his family killed in flash flood ahead of funeral service</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ABC4 Utah</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbU5HR3VTSmdkM3QzVUZiZjFjQllQeVNYQ2NpSXhHZ18wM2lTYWFNRVRLaXN3S1lMdG9zeVpjLTdxVDJZUVdibklpMi1IZlV1Vzg5emJUSW1pSkFrZDlPYXoxOXdueEd4OUE0ZnMxNXdrZUpTS0RYRHJ6TXo3NXBadkxZSFlOamtGbVR0V0JzQU41ckxoZXdHSnBwLXN4dnNFMi1wNWhB?oc=5",
+        "date": "2026-07-29",
+        "title": "AKFP Pakistan: Monsoon Flood 2026 - Situation Report 01 (28 July, 2026) - ReliefWeb",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPbU5HR3VTSmdkM3QzVUZiZjFjQllQeVNYQ2NpSXhHZ18wM2lTYWFNRVRLaXN3S1lMdG9zeVpjLTdxVDJZUVdibklpMi1IZlV1Vzg5emJUSW1pSkFrZDlPYXoxOXdueEd4OUE0ZnMxNXdrZUpTS0RYRHJ6TXo3NXBadkxZSFlOamtGbVR0V0JzQU41ckxoZXdHSnBwLXN4dnNFMi1wNWhB?oc=5\" target=\"_blank\">AKFP Pakistan: Monsoon Flood 2026 - Situation Report 01 (28 July, 2026)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ReliefWeb</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNZzBYdXlLbTNEeEg3Yy1FNVlReFo5Q2VZcVV5V3JDOE5vbTlMby0yMnMxem1fcWlsTUV5MmlVcWd2cXQ0UnlIcUI0b1lfcVU2LUhvNkt5NGRCQ3hNcVJ4LWJGVldVQ082eGotcDNkQ2JBeUFWQl95UjRJcXJrQi1NNlV2Z1ppUk5BM0YyTHFXeVjSAU5BVV95cUxPRTh6a2RqRVpLUnVnZXpDeTJPTlVNVUI2a0lyTkhxUlF1NEgyY2QtVmxQTHlwN3JOb3RJU2dUNEJ3am41dDg4ZlZKVFRCMVE?oc=5",
+        "date": "2026-07-29",
+        "title": "Rivers may swell again as fresh monsoon spell arrives - Dawn",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNZzBYdXlLbTNEeEg3Yy1FNVlReFo5Q2VZcVV5V3JDOE5vbTlMby0yMnMxem1fcWlsTUV5MmlVcWd2cXQ0UnlIcUI0b1lfcVU2LUhvNkt5NGRCQ3hNcVJ4LWJGVldVQ082eGotcDNkQ2JBeUFWQl95UjRJcXJrQi1NNlV2Z1ppUk5BM0YyTHFXeVjSAU5BVV95cUxPRTh6a2RqRVpLUnVnZXpDeTJPTlVNVUI2a0lyTkhxUlF1NEgyY2QtVmxQTHlwN3JOb3RJU2dUNEJ3am41dDg4ZlZKVFRCMVE?oc=5\" target=\"_blank\">Rivers may swell again as fresh monsoon spell arrives</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Dawn</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRGY0S2I0RjhSaFJFOHctdFBHU0VVVUo2M3d4aEJSdFNNd3hFVjlLOVlDTmFaNk5zLUFQaHpkak5vYUNoMF9nRnFHb3JwYTJXN2hpbm5vVVQ4MEdZXzdNLTcwY1V1VWFKZ055eXVWTEVCMEVvbHQ0X2Q0cDJZMjZpZHRsaDlBbFRZOGZrMGlmOFBVdTJFTlZVYWlIWGhjd3dqXzFFVWxhanVDdTRCRVktSGw4dnM1Z0dPMGptQUZET1HSAc4BQVVfeXFMTXpUcThBM0ZVR0ZDZzNGSEpmTGFJMVVyZ2FnS1Ntbm02a1pHaUZHNW96cG55d1k5TE14VUV0bk5uNkpyS2FRMEVvd0N3SV92R3FDdG9SLVVYSmQyMXF6bVFCRHZHTEozeDFWc0tkLU9mLW5CMnRQT3BhM1kwblB4bFYybFo1M19pUWZYc0U3Y3JpVGNncDdESnJrRUduMGNqdUhxVVNUdThMM1ZKWTZDcmYyaXhxd09raGliTXlSRmdKT04zSW4ybHU2NThSeWc?oc=5",
+        "date": "2026-07-29",
+        "title": "Water Resources Department begins desilting of Adyar, Buckingham Canal ahead of monsoon - DT Next",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRGY0S2I0RjhSaFJFOHctdFBHU0VVVUo2M3d4aEJSdFNNd3hFVjlLOVlDTmFaNk5zLUFQaHpkak5vYUNoMF9nRnFHb3JwYTJXN2hpbm5vVVQ4MEdZXzdNLTcwY1V1VWFKZ055eXVWTEVCMEVvbHQ0X2Q0cDJZMjZpZHRsaDlBbFRZOGZrMGlmOFBVdTJFTlZVYWlIWGhjd3dqXzFFVWxhanVDdTRCRVktSGw4dnM1Z0dPMGptQUZET1HSAc4BQVVfeXFMTXpUcThBM0ZVR0ZDZzNGSEpmTGFJMVVyZ2FnS1Ntbm02a1pHaUZHNW96cG55d1k5TE14VUV0bk5uNkpyS2FRMEVvd0N3SV92R3FDdG9SLVVYSmQyMXF6bVFCRHZHTEozeDFWc0tkLU9mLW5CMnRQT3BhM1kwblB4bFYybFo1M19pUWZYc0U3Y3JpVGNncDdESnJrRUduMGNqdUhxVVNUdThMM1ZKWTZDcmYyaXhxd09raGliTXlSRmdKT04zSW4ybHU2NThSeWc?oc=5\" target=\"_blank\">Water Resources Department begins desilting of Adyar, Buckingham Canal ahead of monsoon</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DT Next</font>",
+        "similarity_excluded": "No",
+        "score": 6,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPbVJTM0h5MXB0WkhnMmMwNWRHWGk2UklTUkRrWG11N2dWaVdHUDNJVEV5M1ZHWEF1bUZ5V1dseHl6WFpLWnF3UXR1Q0p5akF2ODlRVmdEaU5HT1FkMXl5V1d5Y1J3M0xxZTkxOFNKV0Z0OEh6QWdld2x0YnZtNDVSOWdB?oc=5",
+        "date": "2026-07-29",
+        "title": "Impact heat, monsoon storms, & flooding threats - Yahoo News Canada",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxPbVJTM0h5MXB0WkhnMmMwNWRHWGk2UklTUkRrWG11N2dWaVdHUDNJVEV5M1ZHWEF1bUZ5V1dseHl6WFpLWnF3UXR1Q0p5akF2ODlRVmdEaU5HT1FkMXl5V1d5Y1J3M0xxZTkxOFNKV0Z0OEh6QWdld2x0YnZtNDVSOWdB?oc=5\" target=\"_blank\">Impact heat, monsoon storms, & flooding threats</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo News Canada</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQUDFlTnhmYnpYcV9LZU5ZenlzdDZmOWlNUDdzWnR4Y1Y4X2FoQklBTVo0ZmNCdUhaT2FpcmNsbktMY1dUWUhEOEloMWoyci1QSDNadnl6VXFBc2U1S0pJYzNiOXdfTWc4WTFpMDNaNkpBQ0UtYlA1c1FQUEFCSmQ3OTdxdjIxUVdtX3fSAZIBQVVfeXFMUHh2ak9LcmNvQzNfR0g1VVZtTmlPajRUOHpYVTVrSnBMZHlDNXZQaTBwZi1FY3RGMkQ1SUJ6ajJsa3NaamdLTlZXZEhwZG1rbzk5LWRqbmVUZmJCOFRyeG1WQm1lQ2puTGgwSHBUTUc1MXRpdTk0NnV1cFJkRmV5N2dwUmVCbkJnZXgtTFdjR2N4QUE?oc=5",
+        "date": "2026-07-29",
+        "title": "Ferozewala battles floods as fresh rains loom - The Express Tribune",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxQUDFlTnhmYnpYcV9LZU5ZenlzdDZmOWlNUDdzWnR4Y1Y4X2FoQklBTVo0ZmNCdUhaT2FpcmNsbktMY1dUWUhEOEloMWoyci1QSDNadnl6VXFBc2U1S0pJYzNiOXdfTWc4WTFpMDNaNkpBQ0UtYlA1c1FQUEFCSmQ3OTdxdjIxUVdtX3fSAZIBQVVfeXFMUHh2ak9LcmNvQzNfR0g1VVZtTmlPajRUOHpYVTVrSnBMZHlDNXZQaTBwZi1FY3RGMkQ1SUJ6ajJsa3NaamdLTlZXZEhwZG1rbzk5LWRqbmVUZmJCOFRyeG1WQm1lQ2puTGgwSHBUTUc1MXRpdTk0NnV1cFJkRmV5N2dwUmVCbkJnZXgtTFdjR2N4QUE?oc=5\" target=\"_blank\">Ferozewala battles floods as fresh rains loom</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Express Tribune</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQlpaeFc3TzE0eEZoY0xaSlYzUGJNRjRPa2luME05X094SjAwenJiWUZqWEJadnZkUGFubGg1M0xjLVp0eVNIMFVxMUNMbzNnOVY4ZUU4UERaSHpJX2UyVDU3VkM4NU5oUUhsa0cwQ29XZEJxS1A1NEhRak1zSjBfRGJZUWV5YTg4Um1sdy1qQko0WFhYSHo5MHhNWk1fMm5lbzAwdWpIelViVDhDcVdJ?oc=5",
+        "date": "2026-07-29",
+        "title": "Flash flood warning issued for Socorro and Valencia County until 10:15 p.m. - KOAT",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPQlpaeFc3TzE0eEZoY0xaSlYzUGJNRjRPa2luME05X094SjAwenJiWUZqWEJadnZkUGFubGg1M0xjLVp0eVNIMFVxMUNMbzNnOVY4ZUU4UERaSHpJX2UyVDU3VkM4NU5oUUhsa0cwQ29XZEJxS1A1NEhRak1zSjBfRGJZUWV5YTg4Um1sdy1qQko0WFhYSHo5MHhNWk1fMm5lbzAwdWpIelViVDhDcVdJ?oc=5\" target=\"_blank\">Flash flood warning issued for Socorro and Valencia County until 10:15 p.m.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KOAT</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 FORECAST Socorro and Valencia Counties: Flash flood warning until 10:15 p.m. (KOAT)",
+        "type": "news",
+        "tweet_id": "2082329379569324339",
+        "geo": {
+            "country": "United States",
+            "name": "Socorro and Valencia Counties, New Mexico",
+            "latitude": 34.4,
+            "longitude": -106.8,
+            "confidence": 0.9
+        }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNeE5EYVRxV2ROMTNwN0V1QlNLd19mUVZaVkVzUzVfY0tPdzNIM1dqM2NkaHJwVnFOeVI1M3JtZ01ydzVpXy1ZNUtRdmVlNW8yM1pFeGhIY2dTWmw5MnlTcWtXYlB4TnFEQ1ZpaHhpOUpkLS1OdTNCamZwRzJSTlF0TUtzOEdHV1d0dVV4UkREWErSAZYBQVVfeXFMT3FsYWlxaWdZc19CRXpzUm9vbW0zQXJoajlDZ3FJUGpkSE5CVjB1Szcxajh1blFwYlh0VXpfMmNHelhSU0U5VGc2SjNNd0lhUWhCV1VvTWNiQmg3QzBPWlVPSWs1WVJlZzJYNmRCVEJhdWxXNkcyMzMzaUkzWm42MFNzV1VtNW0tem95Rnk4OHBWM2FsM2xR?oc=5",
+        "date": "2026-07-29",
+        "title": "Life-threatening Flash Flood Emergency issued near Colorado burn scar, triggering debris flows - FOX Weather",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNeE5EYVRxV2ROMTNwN0V1QlNLd19mUVZaVkVzUzVfY0tPdzNIM1dqM2NkaHJwVnFOeVI1M3JtZ01ydzVpXy1ZNUtRdmVlNW8yM1pFeGhIY2dTWmw5MnlTcWtXYlB4TnFEQ1ZpaHhpOUpkLS1OdTNCamZwRzJSTlF0TUtzOEdHV1d0dVV4UkREWErSAZYBQVVfeXFMT3FsYWlxaWdZc19CRXpzUm9vbW0zQXJoajlDZ3FJUGpkSE5CVjB1Szcxajh1blFwYlh0VXpfMmNHelhSU0U5VGc2SjNNd0lhUWhCV1VvTWNiQmg3QzBPWlVPSWs1WVJlZzJYNmRCVEJhdWxXNkcyMzMzaUkzWm42MFNzV1VtNW0tem95Rnk4OHBWM2FsM2xR?oc=5\" target=\"_blank\">Life-threatening Flash Flood Emergency issued near Colorado burn scar, triggering debris flows</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FOX Weather</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 FORECAST Colorado: Life-threatening flash flood emergency near burn scar triggering debris flows. FOX Weather",
+        "type": "news",
+        "tweet_id": "2082329932546429231",
+        "geo": {
+            "country": "United States",
+            "name": "Colorado",
+            "latitude": 39.0,
+            "longitude": -105.5,
+            "confidence": 0.7
+        }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNOTRYakZ0c01Xdkt5cEd6RG5KaVBlQjNJMHRqOWQ0Nm13T0RWSGpxazhPZ2oxYnN4UEE5V092NmpSWHBlYXdjTWNWb01TYUpncFZtRmF4TUVwZl9TZF9vQ0FSYlZNZnQyOG5wVzZQRlNDWEJVcEJpNnZDY2VDaGtrQ3hHblBoN1RUdGVFLWdDNi1Lck42V2U2WjNYY1FHdDI5NTBPOU1GRnpEVEVScTNrZjBmVXhBVVlfSXpidEk1eXo1U2phYnU5SHpIZW1DQnAwaWFCVkVUald1Q0lGbEJrVVN5Ul9ORkhGR1pLc0ltVnVYS3FvaG5KTFNNMEg?oc=5",
+        "date": "2026-07-29",
+        "title": "Alert: Grove residents urged to leave area as flash flood warning is issued on Beaver River - St. George News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_AFBVV95cUxNOTRYakZ0c01Xdkt5cEd6RG5KaVBlQjNJMHRqOWQ0Nm13T0RWSGpxazhPZ2oxYnN4UEE5V092NmpSWHBlYXdjTWNWb01TYUpncFZtRmF4TUVwZl9TZF9vQ0FSYlZNZnQyOG5wVzZQRlNDWEJVcEJpNnZDY2VDaGtrQ3hHblBoN1RUdGVFLWdDNi1Lck42V2U2WjNYY1FHdDI5NTBPOU1GRnpEVEVScTNrZjBmVXhBVVlfSXpidEk1eXo1U2phYnU5SHpIZW1DQnAwaWFCVkVUald1Q0lGbEJrVVN5Ul9ORkhGR1pLc0ltVnVYS3FvaG5KTFNNMEg?oc=5\" target=\"_blank\">Alert: Grove residents urged to leave area as flash flood warning is issued on Beaver River</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">St. George News</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 FORECAST Grove, Utah: flash flood warning issued on Beaver River, residents urged to leave area. St. George News",
+        "type": "news",
+        "tweet_id": "2082330512740233277",
+        "geo": {
+            "country": "United States",
+            "name": "Grove, Utah",
+            "latitude": 38.28,
+            "longitude": -112.64,
+            "confidence": 0.75
+        }
     }
 ]
