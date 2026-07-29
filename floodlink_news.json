@@ -29727,5 +29727,13 @@
             "longitude": null,
             "confidence": 0.7
         }
+    },
+    {
+        "link": null,
+        "date": "2026-07-29",
+        "status": "posted",
+        "tweet": "\ud83c\uddf3\ud83c\uddf1 The Netherlands maintains 3,800 km of primary dikes and levees protecting 9 million residents below sea level in 2026.",
+        "type": "infrastructure",
+        "tweet_id": "2082557727122031015"
     }
 ]
