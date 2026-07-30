@@ -30295,5 +30295,14 @@
             "longitude": 91.74,
             "confidence": 0.9
         }
+    },
+    {
+        "link": null,
+        "date": "2026-07-30",
+        "status": "posted",
+        "tweet": "Projected urban residents exposed to river flooding (millions, 2025):\n1. \ud83c\udde8\ud83c\uddf3 China: 95\n2. \ud83c\uddee\ud83c\uddf3 India: 70\n3. \ud83c\uddee\ud83c\udde9 Indonesia: 35\n4. \ud83c\udde7\ud83c\udde9 Bangladesh: 25\n5. \ud83c\uddf5\ud83c\uddf0 Pakistan: 22",
+        "type": "statistical",
+        "category": "urban areas exposed to river flooding",
+        "tweet_id": "2082947350096396449"
     }
 ]
