@@ -17019,7 +17019,7 @@
     "rain_mm": 58.0,
     "soil_moisture": 0.625,
     "raw_dynamic_score": 9.127,
-    "last_updated": "2026-05-18T17:37:03.811115Z",
+    "last_updated": "2026-07-30T11:11:50.127826Z",
     "last_tweeted_at": "2026-05-18T12:33:00.776090Z",
     "tweet_id": "2056354156881818046",
     "resolved": false
@@ -34324,7 +34324,7 @@
     "rain_mm": 6.38,
     "soil_moisture": 0.714,
     "raw_dynamic_score": 1.055,
-    "last_updated": "2026-07-30T08:22:10.141443Z",
+    "last_updated": "2026-07-30T11:11:50.127826Z",
     "last_tweeted_at": "2026-07-29T14:01:58.761164Z",
     "tweet_id": "2082466962689708141",
     "resolved": true,
@@ -36637,7 +36637,7 @@
     "rain_mm": 40.88,
     "soil_moisture": 0.728,
     "raw_dynamic_score": 6.812,
-    "last_updated": "2026-07-30T08:22:10.141443Z",
+    "last_updated": "2026-07-30T11:11:50.127826Z",
     "last_tweeted_at": "2026-07-28T14:43:39.099059Z",
     "tweet_id": "2082116078159929414",
     "resolved": false
@@ -37506,25 +37506,18 @@
   "4.8029,8.2534": {
     "country": "Nigeria",
     "name": "Esuk Oron",
-    "risk_level": "High",
-    "tweeted_level": "High",
+    "risk_level": "Low",
+    "tweeted_level": "Low",
     "latitude": 4.80293,
     "longitude": 8.25341,
-    "rain_mm": 79.25,
-    "soil_moisture": 0.636,
-    "raw_dynamic_score": 12.548,
-    "last_updated": "2026-07-29T11:27:51.572588Z",
-    "last_tweeted_at": "2026-07-29T08:36:19.333717Z",
-    "tweet_id": "2082384753559241031",
-    "resolved": false,
-    "pending_downgrade": true,
-    "pending_target_level": "Low",
-    "pending_set_at": "2026-07-29T11:27:51.572588Z",
-    "pending_is_region": false,
-    "pending_observed_level": "Low",
-    "pending_observed_rain_mm": 26.31,
-    "pending_observed_soil_moisture": 0.629,
-    "pending_observed_raw_dynamic_score": 4.151
+    "rain_mm": 3.06,
+    "soil_moisture": 0.552,
+    "raw_dynamic_score": 0.462,
+    "last_updated": "2026-07-30T11:11:50.127826Z",
+    "last_tweeted_at": "2026-07-30T11:11:50.127826Z",
+    "tweet_id": "2082786514971382184",
+    "resolved": true,
+    "resolved_at": "2026-07-30T11:11:50.127826Z"
   },
   "4.9589,8.3270": {
     "country": "Nigeria",
@@ -37806,7 +37799,7 @@
     "rain_mm": 42.69,
     "soil_moisture": 0.719,
     "raw_dynamic_score": 7.081,
-    "last_updated": "2026-07-30T08:22:10.141443Z",
+    "last_updated": "2026-07-30T11:11:50.127826Z",
     "last_tweeted_at": "2026-07-30T01:55:33.045259Z",
     "tweet_id": "2082646291796869537",
     "resolved": false
@@ -37986,7 +37979,7 @@
     "rain_mm": 84.88,
     "soil_moisture": 0.714,
     "raw_dynamic_score": 14.041,
-    "last_updated": "2026-07-30T08:22:10.141443Z",
+    "last_updated": "2026-07-30T11:11:50.127826Z",
     "last_tweeted_at": "2026-07-30T08:22:10.141443Z",
     "tweet_id": "2082743833826050330",
     "resolved": false
@@ -38109,6 +38102,21 @@
     "last_updated": "2026-07-30T08:22:10.141443Z",
     "last_tweeted_at": "2026-07-30T08:22:10.141443Z",
     "tweet_id": "2082743833826050330",
+    "resolved": false
+  },
+  "12.0724,106.4208": {
+    "country": "Cambodia",
+    "name": "Snuol",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 12.07244,
+    "longitude": 106.42078,
+    "rain_mm": 54.62,
+    "soil_moisture": 0.628,
+    "raw_dynamic_score": 8.612,
+    "last_updated": "2026-07-30T11:11:50.127826Z",
+    "last_tweeted_at": "2026-07-30T11:11:50.127826Z",
+    "tweet_id": "2082786262054756645",
     "resolved": false
   }
 }
