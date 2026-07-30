@@ -8109,7 +8109,7 @@
     "rain_mm": 44.12,
     "soil_moisture": 0.634,
     "raw_dynamic_score": 6.979,
-    "last_updated": "2026-07-16T11:02:35.400479Z",
+    "last_updated": "2026-07-30T22:12:32.391125Z",
     "last_tweeted_at": "2026-03-15T05:07:21.119309Z",
     "tweet_id": "2033047668822520256",
     "resolved": false
@@ -20304,7 +20304,7 @@
     "rain_mm": 63.19,
     "soil_moisture": 0.667,
     "raw_dynamic_score": 10.182,
-    "last_updated": "2026-07-30T16:31:00.735950Z",
+    "last_updated": "2026-07-30T22:12:32.391125Z",
     "last_tweeted_at": "2026-06-05T22:20:58.767487Z",
     "tweet_id": "2063024338496856406",
     "resolved": false
@@ -25000,7 +25000,7 @@
     "rain_mm": 54.0,
     "soil_moisture": 0.516,
     "raw_dynamic_score": 7.965,
-    "last_updated": "2026-07-12T21:52:28.696450Z",
+    "last_updated": "2026-07-30T22:12:32.391125Z",
     "last_tweeted_at": "2026-06-24T02:42:55.300718Z",
     "tweet_id": "2069613000747557181",
     "resolved": false
@@ -30580,7 +30580,7 @@
     "rain_mm": 41.69,
     "soil_moisture": 0.718,
     "raw_dynamic_score": 6.911,
-    "last_updated": "2026-07-30T19:24:30.631712Z",
+    "last_updated": "2026-07-30T22:12:32.391125Z",
     "last_tweeted_at": "2026-07-14T22:02:26.834638Z",
     "tweet_id": "2077151797928763500",
     "resolved": false
@@ -34125,22 +34125,6 @@
     "tweet_id": "2081788653693435926",
     "resolved": false
   },
-  "14.9060,105.0784": {
-    "country": "Thailand",
-    "name": "Det Udom",
-    "risk_level": "Low",
-    "tweeted_level": "Low",
-    "latitude": 14.90598,
-    "longitude": 105.07836,
-    "rain_mm": 0.88,
-    "soil_moisture": 0.513,
-    "raw_dynamic_score": 0.129,
-    "last_updated": "2026-07-29T22:05:36.817706Z",
-    "last_tweeted_at": "2026-07-29T22:05:36.817706Z",
-    "tweet_id": "2082588663678963730",
-    "resolved": true,
-    "resolved_at": "2026-07-29T22:05:36.817706Z"
-  },
   "14.7707,-91.1834": {
     "country": "Guatemala",
     "name": "Sololá",
@@ -36594,38 +36578,6 @@
     "tweet_id": "2082186436871365086",
     "resolved": false
   },
-  "15.1932,104.8628": {
-    "country": "Thailand",
-    "name": "Warin Chamrap",
-    "risk_level": "Low",
-    "tweeted_level": "Low",
-    "latitude": 15.19319,
-    "longitude": 104.8628,
-    "rain_mm": 0.81,
-    "soil_moisture": 0.571,
-    "raw_dynamic_score": 0.124,
-    "last_updated": "2026-07-29T22:05:36.817706Z",
-    "last_tweeted_at": "2026-07-29T22:05:36.817706Z",
-    "tweet_id": "2082588663678963730",
-    "resolved": true,
-    "resolved_at": "2026-07-29T22:05:36.817706Z"
-  },
-  "15.2384,104.8487": {
-    "country": "Thailand",
-    "name": "Ubon Ratchathani",
-    "risk_level": "Low",
-    "tweeted_level": "Low",
-    "latitude": 15.23844,
-    "longitude": 104.84866,
-    "rain_mm": 0.81,
-    "soil_moisture": 0.571,
-    "raw_dynamic_score": 0.124,
-    "last_updated": "2026-07-29T22:05:36.817706Z",
-    "last_tweeted_at": "2026-07-29T22:05:36.817706Z",
-    "tweet_id": "2082588663678963730",
-    "resolved": true,
-    "resolved_at": "2026-07-29T22:05:36.817706Z"
-  },
   "22.2513,112.7799": {
     "country": "China",
     "name": "Taishan",
@@ -37931,7 +37883,7 @@
     "rain_mm": 46.69,
     "soil_moisture": 0.714,
     "raw_dynamic_score": 7.725,
-    "last_updated": "2026-07-30T19:24:30.631712Z",
+    "last_updated": "2026-07-30T22:12:32.391125Z",
     "last_tweeted_at": "2026-07-30T16:31:00.735950Z",
     "tweet_id": "2082866588022387076",
     "resolved": false
@@ -37946,7 +37898,7 @@
     "rain_mm": 146.0,
     "soil_moisture": 0.761,
     "raw_dynamic_score": 24.769,
-    "last_updated": "2026-07-30T19:24:30.631712Z",
+    "last_updated": "2026-07-30T22:12:32.391125Z",
     "last_tweeted_at": "2026-07-30T16:31:00.735950Z",
     "tweet_id": "2082866841530278082",
     "resolved": false
@@ -38381,7 +38333,7 @@
     "rain_mm": 52.12,
     "soil_moisture": 0.349,
     "raw_dynamic_score": 6.906,
-    "last_updated": "2026-07-30T16:31:00.735950Z",
+    "last_updated": "2026-07-30T22:12:32.391125Z",
     "last_tweeted_at": "2026-07-30T16:31:00.735950Z",
     "tweet_id": "2082867095302557914",
     "resolved": false
@@ -38396,7 +38348,7 @@
     "rain_mm": 48.31,
     "soil_moisture": 0.597,
     "raw_dynamic_score": 7.48,
-    "last_updated": "2026-07-30T19:24:30.631712Z",
+    "last_updated": "2026-07-30T22:12:32.391125Z",
     "last_tweeted_at": "2026-07-30T19:24:30.631712Z",
     "tweet_id": "2082910768656257083",
     "resolved": false
@@ -38411,7 +38363,7 @@
     "rain_mm": 51.94,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 9.933,
-    "last_updated": "2026-07-30T19:24:30.631712Z",
+    "last_updated": "2026-07-30T22:12:32.391125Z",
     "last_tweeted_at": "2026-07-30T19:24:30.631712Z",
     "tweet_id": "2082911021434306790",
     "resolved": false
@@ -38426,9 +38378,69 @@
     "rain_mm": 59.56,
     "soil_moisture": 0.432,
     "raw_dynamic_score": 8.334,
-    "last_updated": "2026-07-30T19:24:30.631712Z",
+    "last_updated": "2026-07-30T22:12:32.391125Z",
     "last_tweeted_at": "2026-07-30T19:24:30.631712Z",
     "tweet_id": "2082911273981821110",
+    "resolved": false
+  },
+  "47.1333,129.2743": {
+    "country": "China",
+    "name": "Lianhe",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 47.13333,
+    "longitude": 129.27426,
+    "rain_mm": 49.12,
+    "soil_moisture": 0.631,
+    "raw_dynamic_score": 7.759,
+    "last_updated": "2026-07-30T22:12:32.391125Z",
+    "last_tweeted_at": "2026-07-30T22:12:32.391125Z",
+    "tweet_id": "2082952535506104659",
+    "resolved": false
+  },
+  "30.6944,-88.0430": {
+    "country": "United States",
+    "name": "Mobile",
+    "risk_level": "High",
+    "tweeted_level": "High",
+    "latitude": 30.69436,
+    "longitude": -88.04305,
+    "rain_mm": 85.19,
+    "soil_moisture": 0.541,
+    "raw_dynamic_score": 12.764,
+    "last_updated": "2026-07-30T22:12:32.391125Z",
+    "last_tweeted_at": "2026-07-30T22:12:32.391125Z",
+    "tweet_id": "2082952788007322033",
+    "resolved": false
+  },
+  "30.7388,-88.0789": {
+    "country": "United States",
+    "name": "Prichard",
+    "risk_level": "High",
+    "tweeted_level": "High",
+    "latitude": 30.7388,
+    "longitude": -88.07889,
+    "rain_mm": 85.19,
+    "soil_moisture": 0.541,
+    "raw_dynamic_score": 12.764,
+    "last_updated": "2026-07-30T22:12:32.391125Z",
+    "last_tweeted_at": "2026-07-30T22:12:32.391125Z",
+    "tweet_id": "2082952788007322033",
+    "resolved": false
+  },
+  "43.7094,-98.0298": {
+    "country": "United States",
+    "name": "Mitchell",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 43.70943,
+    "longitude": -98.0298,
+    "rain_mm": 73.75,
+    "soil_moisture": 0.411,
+    "raw_dynamic_score": 10.182,
+    "last_updated": "2026-07-30T22:12:32.391125Z",
+    "last_tweeted_at": "2026-07-30T22:12:32.391125Z",
+    "tweet_id": "2082953040684781640",
     "resolved": false
   }
 }
