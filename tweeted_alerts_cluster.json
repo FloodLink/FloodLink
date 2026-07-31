@@ -30587,7 +30587,7 @@
     "rain_mm": 56.31,
     "soil_moisture": 0.636,
     "raw_dynamic_score": 8.918,
-    "last_updated": "2026-07-31T06:09:32.233311Z",
+    "last_updated": "2026-07-31T08:56:40.534899Z",
     "last_tweeted_at": "2026-07-15T05:32:52.994956Z",
     "tweet_id": "2077265143893839898",
     "resolved": false
@@ -37563,7 +37563,7 @@
     "rain_mm": 84.88,
     "soil_moisture": 0.714,
     "raw_dynamic_score": 14.041,
-    "last_updated": "2026-07-31T06:09:32.233311Z",
+    "last_updated": "2026-07-31T08:56:40.534899Z",
     "last_tweeted_at": "2026-07-30T08:22:10.141443Z",
     "tweet_id": "2082743833826050330",
     "resolved": false
@@ -37762,7 +37762,7 @@
     "rain_mm": 146.0,
     "soil_moisture": 0.761,
     "raw_dynamic_score": 24.769,
-    "last_updated": "2026-07-31T06:09:32.233311Z",
+    "last_updated": "2026-07-31T08:56:40.534899Z",
     "last_tweeted_at": "2026-07-30T16:31:00.735950Z",
     "tweet_id": "2082866841530278082",
     "resolved": false
@@ -38257,7 +38257,7 @@
     "rain_mm": 49.12,
     "soil_moisture": 0.631,
     "raw_dynamic_score": 7.759,
-    "last_updated": "2026-07-31T06:09:32.233311Z",
+    "last_updated": "2026-07-31T08:56:40.534899Z",
     "last_tweeted_at": "2026-07-30T22:12:32.391125Z",
     "tweet_id": "2082952535506104659",
     "resolved": false
@@ -38381,9 +38381,39 @@
     "rain_mm": 51.38,
     "soil_moisture": 0.6,
     "raw_dynamic_score": 7.971,
-    "last_updated": "2026-07-31T06:09:32.233311Z",
+    "last_updated": "2026-07-31T08:56:40.534899Z",
     "last_tweeted_at": "2026-07-31T06:09:32.233311Z",
     "tweet_id": "2083072834968981838",
+    "resolved": false
+  },
+  "32.6800,109.0172": {
+    "country": "China",
+    "name": "Ankang",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 32.68,
+    "longitude": 109.01722,
+    "rain_mm": 54.44,
+    "soil_moisture": 0.431,
+    "raw_dynamic_score": 7.614,
+    "last_updated": "2026-07-31T08:56:40.534899Z",
+    "last_tweeted_at": "2026-07-31T08:56:40.534899Z",
+    "tweet_id": "2083114655380115952",
+    "resolved": false
+  },
+  "4.1752,73.5092": {
+    "country": "Maldives",
+    "name": "Male",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 4.17521,
+    "longitude": 73.50916,
+    "rain_mm": 36.81,
+    "soil_moisture": 1.0,
+    "raw_dynamic_score": 7.04,
+    "last_updated": "2026-07-31T08:56:40.534899Z",
+    "last_tweeted_at": "2026-07-31T08:56:40.534899Z",
+    "tweet_id": "2083114907856248936",
     "resolved": false
   }
 }
