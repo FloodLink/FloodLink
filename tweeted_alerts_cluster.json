@@ -8109,7 +8109,7 @@
     "rain_mm": 44.12,
     "soil_moisture": 0.634,
     "raw_dynamic_score": 6.979,
-    "last_updated": "2026-07-31T02:13:21.125018Z",
+    "last_updated": "2026-07-31T06:09:32.233311Z",
     "last_tweeted_at": "2026-03-15T05:07:21.119309Z",
     "tweet_id": "2033047668822520256",
     "resolved": false
@@ -22334,22 +22334,6 @@
     "tweet_id": "2065877262243922315",
     "resolved": false
   },
-  "25.3833,97.3964": {
-    "country": "Myanmar",
-    "name": "Myitkyina",
-    "risk_level": "Low",
-    "tweeted_level": "Low",
-    "latitude": 25.38327,
-    "longitude": 97.39637,
-    "rain_mm": 6.62,
-    "soil_moisture": 0.589,
-    "raw_dynamic_score": 1.021,
-    "last_updated": "2026-07-30T05:44:11.820273Z",
-    "last_tweeted_at": "2026-07-30T05:44:11.820273Z",
-    "tweet_id": "2082704327655751927",
-    "resolved": true,
-    "resolved_at": "2026-07-30T05:44:11.820273Z"
-  },
   "20.3411,-102.0225": {
     "country": "Mexico",
     "name": "La Piedad de Cabadas",
@@ -25000,7 +24984,7 @@
     "rain_mm": 54.0,
     "soil_moisture": 0.516,
     "raw_dynamic_score": 7.965,
-    "last_updated": "2026-07-30T22:12:32.391125Z",
+    "last_updated": "2026-07-31T06:09:32.233311Z",
     "last_tweeted_at": "2026-06-24T02:42:55.300718Z",
     "tweet_id": "2069613000747557181",
     "resolved": false
@@ -30603,7 +30587,7 @@
     "rain_mm": 56.31,
     "soil_moisture": 0.636,
     "raw_dynamic_score": 8.918,
-    "last_updated": "2026-07-27T02:19:01.591095Z",
+    "last_updated": "2026-07-31T06:09:32.233311Z",
     "last_tweeted_at": "2026-07-15T05:32:52.994956Z",
     "tweet_id": "2077265143893839898",
     "resolved": false
@@ -36490,22 +36474,6 @@
     "tweet_id": "2082186436871365086",
     "resolved": false
   },
-  "22.2513,112.7799": {
-    "country": "China",
-    "name": "Taishan",
-    "risk_level": "Low",
-    "tweeted_level": "Low",
-    "latitude": 22.25135,
-    "longitude": 112.7799,
-    "rain_mm": 5.25,
-    "soil_moisture": 0.675,
-    "raw_dynamic_score": 0.85,
-    "last_updated": "2026-07-30T05:44:11.820273Z",
-    "last_tweeted_at": "2026-07-30T05:44:11.820273Z",
-    "tweet_id": "2082704580685529135",
-    "resolved": true,
-    "resolved_at": "2026-07-30T05:44:11.820273Z"
-  },
   "20.0699,79.6783": {
     "country": "India",
     "name": "Mūl",
@@ -36626,22 +36594,6 @@
     "last_tweeted_at": "2026-07-28T22:19:07.742590Z",
     "tweet_id": "2082230678775833042",
     "resolved": false
-  },
-  "22.3812,112.6849": {
-    "country": "China",
-    "name": "Changsha",
-    "risk_level": "Low",
-    "tweeted_level": "Low",
-    "latitude": 22.38124,
-    "longitude": 112.68492,
-    "rain_mm": 6.56,
-    "soil_moisture": 0.694,
-    "raw_dynamic_score": 1.074,
-    "last_updated": "2026-07-30T05:44:11.820273Z",
-    "last_tweeted_at": "2026-07-30T05:44:11.820273Z",
-    "tweet_id": "2082704580685529135",
-    "resolved": true,
-    "resolved_at": "2026-07-30T05:44:11.820273Z"
   },
   "14.3792,121.0525": {
     "country": "Philippines",
@@ -37611,14 +37563,10 @@
     "rain_mm": 84.88,
     "soil_moisture": 0.714,
     "raw_dynamic_score": 14.041,
-    "last_updated": "2026-07-30T19:24:30.631712Z",
+    "last_updated": "2026-07-31T06:09:32.233311Z",
     "last_tweeted_at": "2026-07-30T08:22:10.141443Z",
     "tweet_id": "2082743833826050330",
-    "resolved": false,
-    "pending_downgrade": true,
-    "pending_target_level": "Low",
-    "pending_set_at": "2026-07-30T19:24:30.631712Z",
-    "pending_is_region": true
+    "resolved": false
   },
   "23.2631,72.6739": {
     "country": "India",
@@ -37814,7 +37762,7 @@
     "rain_mm": 146.0,
     "soil_moisture": 0.761,
     "raw_dynamic_score": 24.769,
-    "last_updated": "2026-07-31T02:13:21.125018Z",
+    "last_updated": "2026-07-31T06:09:32.233311Z",
     "last_tweeted_at": "2026-07-30T16:31:00.735950Z",
     "tweet_id": "2082866841530278082",
     "resolved": false
@@ -38309,7 +38257,7 @@
     "rain_mm": 49.12,
     "soil_moisture": 0.631,
     "raw_dynamic_score": 7.759,
-    "last_updated": "2026-07-31T02:13:21.125018Z",
+    "last_updated": "2026-07-31T06:09:32.233311Z",
     "last_tweeted_at": "2026-07-30T22:12:32.391125Z",
     "tweet_id": "2082952535506104659",
     "resolved": false
@@ -38361,6 +38309,81 @@
     "last_updated": "2026-07-31T02:13:21.125018Z",
     "last_tweeted_at": "2026-07-30T22:12:32.391125Z",
     "tweet_id": "2082953040684781640",
+    "resolved": false
+  },
+  "20.2739,72.9967": {
+    "country": "India",
+    "name": "Silvassa",
+    "risk_level": "High",
+    "tweeted_level": "High",
+    "latitude": 20.27386,
+    "longitude": 72.99673,
+    "rain_mm": 82.19,
+    "soil_moisture": 0.759,
+    "raw_dynamic_score": 13.927,
+    "last_updated": "2026-07-31T06:09:32.233311Z",
+    "last_tweeted_at": "2026-07-31T06:09:32.233311Z",
+    "tweet_id": "2083072582329204921",
+    "resolved": false
+  },
+  "20.3833,72.8667": {
+    "country": "India",
+    "name": "Khali Kachigam",
+    "risk_level": "High",
+    "tweeted_level": "High",
+    "latitude": 20.38333,
+    "longitude": 72.86667,
+    "rain_mm": 95.62,
+    "soil_moisture": 1.0,
+    "raw_dynamic_score": 18.288,
+    "last_updated": "2026-07-31T06:09:32.233311Z",
+    "last_tweeted_at": "2026-07-31T06:09:32.233311Z",
+    "tweet_id": "2083072582329204921",
+    "resolved": false
+  },
+  "20.4143,72.8324": {
+    "country": "India",
+    "name": "Daman",
+    "risk_level": "High",
+    "tweeted_level": "High",
+    "latitude": 20.41431,
+    "longitude": 72.83236,
+    "rain_mm": 95.62,
+    "soil_moisture": 1.0,
+    "raw_dynamic_score": 18.288,
+    "last_updated": "2026-07-31T06:09:32.233311Z",
+    "last_tweeted_at": "2026-07-31T06:09:32.233311Z",
+    "tweet_id": "2083072582329204921",
+    "resolved": false
+  },
+  "20.2833,73.0167": {
+    "country": "India",
+    "name": "Āmli",
+    "risk_level": "High",
+    "tweeted_level": "High",
+    "latitude": 20.28333,
+    "longitude": 73.01667,
+    "rain_mm": 82.19,
+    "soil_moisture": 0.759,
+    "raw_dynamic_score": 13.927,
+    "last_updated": "2026-07-31T06:09:32.233311Z",
+    "last_tweeted_at": "2026-07-31T06:09:32.233311Z",
+    "tweet_id": "2083072582329204921",
+    "resolved": false
+  },
+  "45.1219,-95.0433": {
+    "country": "United States",
+    "name": "Willmar",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 45.12191,
+    "longitude": -95.04334,
+    "rain_mm": 51.38,
+    "soil_moisture": 0.6,
+    "raw_dynamic_score": 7.971,
+    "last_updated": "2026-07-31T06:09:32.233311Z",
+    "last_tweeted_at": "2026-07-31T06:09:32.233311Z",
+    "tweet_id": "2083072834968981838",
     "resolved": false
   }
 }
