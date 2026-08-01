@@ -38217,7 +38217,7 @@
     "rain_mm": 61.25,
     "soil_moisture": 0.636,
     "raw_dynamic_score": 9.703,
-    "last_updated": "2026-08-01T08:18:38.329027Z",
+    "last_updated": "2026-08-01T10:39:54.354464Z",
     "last_tweeted_at": "2026-07-31T11:34:05.810091Z",
     "tweet_id": "2083154250834808832",
     "resolved": false
@@ -38721,9 +38721,24 @@
     "rain_mm": 45.38,
     "soil_moisture": 0.7,
     "raw_dynamic_score": 7.45,
-    "last_updated": "2026-08-01T08:18:38.329027Z",
+    "last_updated": "2026-08-01T10:39:54.354464Z",
     "last_tweeted_at": "2026-08-01T08:18:38.329027Z",
     "tweet_id": "2083467468987568551",
+    "resolved": false
+  },
+  "11.1342,2.9386": {
+    "country": "Benin",
+    "name": "Kandi",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 11.13417,
+    "longitude": 2.93861,
+    "rain_mm": 62.94,
+    "soil_moisture": 0.493,
+    "raw_dynamic_score": 9.157,
+    "last_updated": "2026-08-01T10:39:54.354464Z",
+    "last_tweeted_at": "2026-08-01T10:39:54.354464Z",
+    "tweet_id": "2083503012711190704",
     "resolved": false
   }
 }
