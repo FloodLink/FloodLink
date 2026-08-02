@@ -30425,5 +30425,82 @@
         "score": 8,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPWUE4OVZFQnRfQ1poWlFQTnpzNEN6bEcyOEViUmNjWXNtT3BGNEdSWnR3WkdZNlJuaXppWWFlQThNY0lVaWhnWXY5YmNXVVluajdtdWNodHlWa215QkxTLWhKSmVhVjZvd0l1b1BDUUZfVWpUVW5HelNra3pFZXFJcjhaM3FDSE0?oc=5",
+        "date": "2026-08-02",
+        "title": "Sunday Forecast: Flood WATCH posted until 2am Monday - WKBW",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxPWUE4OVZFQnRfQ1poWlFQTnpzNEN6bEcyOEViUmNjWXNtT3BGNEdSWnR3WkdZNlJuaXppWWFlQThNY0lVaWhnWXY5YmNXVVluajdtdWNodHlWa215QkxTLWhKSmVhVjZvd0l1b1BDUUZfVWpUVW5HelNra3pFZXFJcjhaM3FDSE0?oc=5\" target=\"_blank\">Sunday Forecast: Flood WATCH posted until 2am Monday</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WKBW</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPQXlsRHd6S0U1eTNjWFJnMFZxT0dyUDJrTnpXckJidkwta1JkTmJRNFZKOHN4eW11MHFXd2lXUjdIeUNWSm5PdE5IS1BPbFFidWZSOUxlTEpYNEN5TEQwS1phOFRQTTZZNXpGMTFQc1R2MUtqVjE4YURiRUV3OGhXZzFZTTdVeDJqbTVpVWFabHJmYy1TZ2RHM0VqUWtpLUd3Y0NaVDRPX1MzRVFfb1JjR1A0S3Y3YWFKaXJOOUJDaHB2MjFfNEtKNWZQN0xmbVI2ZmFleHFCMkdkRUhFd2Zrb0NKZTF6SVFwNHc?oc=5",
+        "date": "2026-08-02",
+        "title": "\u2018Extreme flooding\u2019 spurs Mount Airy state of emergency; water rescues, damage after Ararat River jumps 15+ feet - Queen City News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6gFBVV95cUxPQXlsRHd6S0U1eTNjWFJnMFZxT0dyUDJrTnpXckJidkwta1JkTmJRNFZKOHN4eW11MHFXd2lXUjdIeUNWSm5PdE5IS1BPbFFidWZSOUxlTEpYNEN5TEQwS1phOFRQTTZZNXpGMTFQc1R2MUtqVjE4YURiRUV3OGhXZzFZTTdVeDJqbTVpVWFabHJmYy1TZ2RHM0VqUWtpLUd3Y0NaVDRPX1MzRVFfb1JjR1A0S3Y3YWFKaXJOOUJDaHB2MjFfNEtKNWZQN0xmbVI2ZmFleHFCMkdkRUhFd2Zrb0NKZTF6SVFwNHc?oc=5\" target=\"_blank\">\u2018Extreme flooding\u2019 spurs Mount Airy state of emergency; water rescues, damage after Ararat River jumps 15+ feet</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Queen City News</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": null,
+        "tweet_id": "2083956093307514984",
+        "geo": {
+            "country": "United States",
+            "name": "Mount Airy, North Carolina",
+            "latitude": 36.4993,
+            "longitude": -80.6073,
+            "confidence": 0.9
+        }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE82SHotV2NjWlpGc3hoVVg5MEtTUGh2MnNtaUg5YUMxWDRyNlpYYU1hZGw0Q0tPT09LY0s2QlYwcmZ1amp6SUdVOFlrdDVCczl5aGdaSW1rMGRlTFQ0WjZoZ2lCcjRrblBqVlFhZ3VqVHh3UnJnYVI5SU1DbnbSAXxBVV95cUxPNTlFdl9pajAtZFFIRTR6dG1qS3huUTdqQkxXX0tWMm0xdERxTmV0SWMwZnVvOGlwVS1VLUhEeXN1WTN0MkxfTUJZNzU2ZHVrX0RJMXhfVW5Yb3VLLVd3cWJkV21INVU4NEp1TWJRaUFQM25fNzBFRnIxUkdW?oc=5",
+        "date": "2026-08-02",
+        "title": "China: Dozens dead in Gansu flash floods - dw.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE82SHotV2NjWlpGc3hoVVg5MEtTUGh2MnNtaUg5YUMxWDRyNlpYYU1hZGw0Q0tPT09LY0s2QlYwcmZ1amp6SUdVOFlrdDVCczl5aGdaSW1rMGRlTFQ0WjZoZ2lCcjRrblBqVlFhZ3VqVHh3UnJnYVI5SU1DbnbSAXxBVV95cUxPNTlFdl9pajAtZFFIRTR6dG1qS3huUTdqQkxXX0tWMm0xdERxTmV0SWMwZnVvOGlwVS1VLUhEeXN1WTN0MkxfTUJZNzU2ZHVrX0RJMXhfVW5Yb3VLLVd3cWJkV21INVU4NEp1TWJRaUFQM25fNzBFRnIxUkdW?oc=5\" target=\"_blank\">China: Dozens dead in Gansu flash floods</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">dw.com</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA0SnJxYV93cWtRLWIwUmh2NXdoVm12aTZtVTgteG5PVEwxNW9wN1N2MFdFcGswUnlzWnRmd3VUV1ZjVUEwRUIzNzdGY3BlUWNXbmhnN2JaenZ5MGtr?oc=5",
+        "date": "2026-08-02",
+        "title": "Flood Watch Through Tonight - New River Valley News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTFA0SnJxYV93cWtRLWIwUmh2NXdoVm12aTZtVTgteG5PVEwxNW9wN1N2MFdFcGswUnlzWnRmd3VUV1ZjVUEwRUIzNzdGY3BlUWNXbmhnN2JaenZ5MGtr?oc=5\" target=\"_blank\">Flood Watch Through Tonight</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">New River Valley News</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPQ2lZVmJiWVRfT0dSaUNSMEVNOEpHb3NHOUZwYnprNC02UENDZHVtOV93cV9RS3JNVGFsdF94QkNGTFZOZ3NyXzktNlFmQzB5VEJKZC12aTI0Qkx6X3oyam9tOVU1aU1sTVFrVDdTMkdGUXBmSmwwemZ3bjhlOVNaR3hZMXBOV2FGbEVuQ19sSEZDQm5hUlU0MG1Kb0dQbFBUWk1RTHhwT185aGxaYmpRYU01LTFGT2Y3aUlyZmVDb1pjaEVteE1QU3V1VXBPbHNlZ3FmUHBaalJucG1DT1FMajVoWVRwbHJ2NnNERWVxTVBTbm9NaDBRM1FZUndiUUZOWEVN?oc=5",
+        "date": "2026-08-02",
+        "title": "Monsoon mayhem across India: Assam flood toll rises to 82, Kerala reports 8 deaths, IMD warns of more heavy rain - ANI News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwJBVV95cUxPQ2lZVmJiWVRfT0dSaUNSMEVNOEpHb3NHOUZwYnprNC02UENDZHVtOV93cV9RS3JNVGFsdF94QkNGTFZOZ3NyXzktNlFmQzB5VEJKZC12aTI0Qkx6X3oyam9tOVU1aU1sTVFrVDdTMkdGUXBmSmwwemZ3bjhlOVNaR3hZMXBOV2FGbEVuQ19sSEZDQm5hUlU0MG1Kb0dQbFBUWk1RTHhwT185aGxaYmpRYU01LTFGT2Y3aUlyZmVDb1pjaEVteE1QU3V1VXBPbHNlZ3FmUHBaalJucG1DT1FMajVoWVRwbHJ2NnNERWVxTVBTbm9NaDBRM1FZUndiUUZOWEVN?oc=5\" target=\"_blank\">Monsoon mayhem across India: Assam flood toll rises to 82, Kerala reports 8 deaths, IMD warns of more heavy rain</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ANI News</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPQXlsRHd6S0U1eTNjWFJnMFZxT0dyUDJrTnpXckJidkwta1JkTmJRNFZKOHN4eW11MHFXd2lXUjdIeUNWSm5PdE5IS1BPbFFidWZSOUxlTEpYNEN5TEQwS1phOFRQTTZZNXpGMTFQc1R2MUtqVjE4YURiRUV3OGhXZzFZTTdVeDJqbTVpVWFabHJmYy1TZ2RHM0VqUWtpLUd3Y0NaVDRPX1MzRVFfb1JjR1A0S3Y3YWFKaXJOOUJDaHB2MjFfNEtKNWZQN0xmbVI2ZmFleHFCMkdkRUhFd2Zrb0NKZTF6SVFwNHc?oc=5",
+        "date": "2026-08-02",
+        "title": "\u2018Extreme flooding\u2019 spurs Mount Airy state of emergency; water rescues, damage after Ararat River jumps 15+ feet - Queen City News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6gFBVV95cUxPQXlsRHd6S0U1eTNjWFJnMFZxT0dyUDJrTnpXckJidkwta1JkTmJRNFZKOHN4eW11MHFXd2lXUjdIeUNWSm5PdE5IS1BPbFFidWZSOUxlTEpYNEN5TEQwS1phOFRQTTZZNXpGMTFQc1R2MUtqVjE4YURiRUV3OGhXZzFZTTdVeDJqbTVpVWFabHJmYy1TZ2RHM0VqUWtpLUd3Y0NaVDRPX1MzRVFfb1JjR1A0S3Y3YWFKaXJOOUJDaHB2MjFfNEtKNWZQN0xmbVI2ZmFleHFCMkdkRUhFd2Zrb0NKZTF6SVFwNHc?oc=5\" target=\"_blank\">\u2018Extreme flooding\u2019 spurs Mount Airy state of emergency; water rescues, damage after Ararat River jumps 15+ feet</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Queen City News</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 POST-EVENT Mount Airy: Extreme river flooding after Ararat River jumps 15+ feet triggers state of emergency, water rescues and damage (Queen City News)",
+        "type": "news",
+        "tweet_id": "2083956093307514984",
+        "geo": {
+            "country": "United States",
+            "name": "Mount Airy, North Carolina",
+            "latitude": 36.4993,
+            "longitude": -80.6073,
+            "confidence": 0.9
+        }
     }
 ]
