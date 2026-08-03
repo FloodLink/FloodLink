@@ -30206,5 +30206,336 @@
             "longitude": 76.27,
             "confidence": 0.9
         }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRjdUQlFOdEwtOTNVdDdiZTBiQWpncUd0d3YybVRsSG5XaDZCbkhfMXdIcDJlZHY0ZW5UemZZQjlzLXV6cmdLb01RY0dQVDBtYkQ0cHBzUXJZYjRBUXJBNG02Tjdac01WU2JoUHpmdzBJd2NOZmF2aW45REh4S3laMkpGcjVwZFlaNHktTFZPQWpjVzZ2TTNfWGNFZ2NrM3lSUkE?oc=5",
+        "date": "2026-08-03",
+        "title": "DMV thunderstorms: Flash flood warnings issued for DC, Maryland and Virginia Sunday - FOX 5 DC",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPRjdUQlFOdEwtOTNVdDdiZTBiQWpncUd0d3YybVRsSG5XaDZCbkhfMXdIcDJlZHY0ZW5UemZZQjlzLXV6cmdLb01RY0dQVDBtYkQ0cHBzUXJZYjRBUXJBNG02Tjdac01WU2JoUHpmdzBJd2NOZmF2aW45REh4S3laMkpGcjVwZFlaNHktTFZPQWpjVzZ2TTNfWGNFZ2NrM3lSUkE?oc=5\" target=\"_blank\">DMV thunderstorms: Flash flood warnings issued for DC, Maryland and Virginia Sunday</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FOX 5 DC</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE80dlRzZS16bzJ4czE3WlVxMmxEcWxfbFE1dEg1MlBIYm1JbzVOeDN2QU05QVBnZGF0SkVxU3hyRXJ4bDFGV3ZMelcyZmlsZjJ4LWN1Y1lIVWY2U3ZSYmp1QWVuSDZyU1RBQzEzYWd6N3hKZkl1cVJZ?oc=5",
+        "date": "2026-08-03",
+        "title": "UPDATE: Flash flood warning issued for Avery and Caldwell counties until 2 a.m. Monday - Raleigh News & Observer",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE80dlRzZS16bzJ4czE3WlVxMmxEcWxfbFE1dEg1MlBIYm1JbzVOeDN2QU05QVBnZGF0SkVxU3hyRXJ4bDFGV3ZMelcyZmlsZjJ4LWN1Y1lIVWY2U3ZSYmp1QWVuSDZyU1RBQzEzYWd6N3hKZkl1cVJZ?oc=5\" target=\"_blank\">UPDATE: Flash flood warning issued for Avery and Caldwell counties until 2 a.m. Monday</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Raleigh News & Observer</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": null,
+        "tweet_id": "2084148228539199817",
+        "geo": {
+            "country": "United States",
+            "name": "Avery and Caldwell counties, North Carolina",
+            "latitude": 36.02,
+            "longitude": -81.73,
+            "confidence": 0.9
+        }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPd1Z6NmJyLTZTdG5lTmhfaERnMDEwaW5ZUTdiM0lNc3E2SHQ1OWVUeHJEQzIzNEJDQ0RNUmRkTGp6cjlSR29wc1ZJQThKVm9tY3ZEc01JeXIzUGJFd2N0RW41Y3JmOW15RG5OR0pGd1ZoS2lnY0dxSVJqNE9fdzFCb3Y5OGhqTWpmcnQxQW1BT3g1STg3elE5enBSOEFLWjc3VzZxVk1KUXF4RnFZM2xsQ3owNC1hWVMwRzNRNmE2TzBxRWkzSUE?oc=5",
+        "date": "2026-08-03",
+        "title": "Update: Flash flood warning for Broome and Chenango counties Sunday night \u2014 high damage threat - Syracuse.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxPd1Z6NmJyLTZTdG5lTmhfaERnMDEwaW5ZUTdiM0lNc3E2SHQ1OWVUeHJEQzIzNEJDQ0RNUmRkTGp6cjlSR29wc1ZJQThKVm9tY3ZEc01JeXIzUGJFd2N0RW41Y3JmOW15RG5OR0pGd1ZoS2lnY0dxSVJqNE9fdzFCb3Y5OGhqTWpmcnQxQW1BT3g1STg3elE5enBSOEFLWjc3VzZxVk1KUXF4RnFZM2xsQ3owNC1hWVMwRzNRNmE2TzBxRWkzSUE?oc=5\" target=\"_blank\">Update: Flash flood warning for Broome and Chenango counties Sunday night \u2014 high damage threat</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Syracuse.com</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBhVDBoQ3JXMU0tZnRQLTYzcUxLOTJOd082TkplU25TVTAzaGtQWEU3N0VFVXRKQmtrME1YNkl2LUhXazZLRkF2YU5DSFI1Um44aDFzTEpReThzN3ZwY2M4QTFZRTBtczlhT3pYREZkdHVDVFZYbUstOGJRQ2dkdw?oc=5",
+        "date": "2026-08-03",
+        "title": "UPDATE: Western North Carolina placed under a flash flood warning until 2 a.m. Monday - Charlotte Observer",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTFBhVDBoQ3JXMU0tZnRQLTYzcUxLOTJOd082TkplU25TVTAzaGtQWEU3N0VFVXRKQmtrME1YNkl2LUhXazZLRkF2YU5DSFI1Um44aDFzTEpReThzN3ZwY2M4QTFZRTBtczlhT3pYREZkdHVDVFZYbUstOGJRQ2dkdw?oc=5\" target=\"_blank\">UPDATE: Western North Carolina placed under a flash flood warning until 2 a.m. Monday</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Charlotte Observer</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5pNUxmYlNXaWpCRlJYblR4SHFYeldhUncwMWFTSWlreFR4Q0xiS0pVdVl1TmFzNmhzN2R2MkVDcFJtTTJoeFljQ014YXp3aHdRLXFzQVNWcTlNTGR0TV9WUGZsY2ExTmV3UFFibHd5dGJjOFE?oc=5",
+        "date": "2026-08-03",
+        "title": "Flash flood warning issued for Avery and Caldwell counties until 2 a.m. Monday - Durham Herald Sun",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE5pNUxmYlNXaWpCRlJYblR4SHFYeldhUncwMWFTSWlreFR4Q0xiS0pVdVl1TmFzNmhzN2R2MkVDcFJtTTJoeFljQ014YXp3aHdRLXFzQVNWcTlNTGR0TV9WUGZsY2ExTmV3UFFibHd5dGJjOFE?oc=5\" target=\"_blank\">Flash flood warning issued for Avery and Caldwell counties until 2 a.m. Monday</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Durham Herald Sun</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQc0R5ejdOVjBONmZBMmdxa1VQTUppOHF5V1k4UkN0UHkwckJhb1oyRVVMN3oxZFhqY095dnh2RG1POERFOTJFWElNN0stbXlsY1BydDZRNnZraE0zR1NEU3dDdlVtOURRNzU1OTFoWHZLYjhNWDlTOGduaUJIdWtvdDV2WUJJTWZPbGtKV0pYSVVxV25ZVW9oc2xFNlk4bjRsSlNrOXp0eWQtZUFCNGk1ZEp3?oc=5",
+        "date": "2026-08-03",
+        "title": "Flood Watch issued for Berks County as heavy rain threatens flash flooding - Berks Weekly",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQc0R5ejdOVjBONmZBMmdxa1VQTUppOHF5V1k4UkN0UHkwckJhb1oyRVVMN3oxZFhqY095dnh2RG1POERFOTJFWElNN0stbXlsY1BydDZRNnZraE0zR1NEU3dDdlVtOURRNzU1OTFoWHZLYjhNWDlTOGduaUJIdWtvdDV2WUJJTWZPbGtKV0pYSVVxV25ZVW9oc2xFNlk4bjRsSlNrOXp0eWQtZUFCNGk1ZEp3?oc=5\" target=\"_blank\">Flood Watch issued for Berks County as heavy rain threatens flash flooding</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Berks Weekly</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNzFveU9vN0UtS1I2S3hMcXdjN2dkRU9Sd2xJOVpDTVhGNGVMWDNnTGRPeFVSZXBCWllabzZkQWE2ckFjdW5wSnMwWlhIYmVtMVRkWDRYTzlVaVJ6VTlIWmZBLWRjQWhUMkVsV0dBSVRCdGNpZzVHVTFCZ0toYzhENFpvNVFHdzlBTmJuY1ktSDVBVTRpd0dLWUw2RmU3bUt0VzZZYkRlX0VWM25xeXEzby1vdmY?oc=5",
+        "date": "2026-08-03",
+        "title": "Severe storms, flash flooding possible in DC area as wet pattern settles in - WTOP",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPNzFveU9vN0UtS1I2S3hMcXdjN2dkRU9Sd2xJOVpDTVhGNGVMWDNnTGRPeFVSZXBCWllabzZkQWE2ckFjdW5wSnMwWlhIYmVtMVRkWDRYTzlVaVJ6VTlIWmZBLWRjQWhUMkVsV0dBSVRCdGNpZzVHVTFCZ0toYzhENFpvNVFHdzlBTmJuY1ktSDVBVTRpd0dLWUw2RmU3bUt0VzZZYkRlX0VWM25xeXEzby1vdmY?oc=5\" target=\"_blank\">Severe storms, flash flooding possible in DC area as wet pattern settles in</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WTOP</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPOERYRjlycGZXV2ZKR0V1d3UteElSUWhKQnY4ekpKakJVUDM2dnpUeWp3ZzM0WVhiS3dURVR5akZxT0lPdjhtTnlWYzRqYXZOVE1TSEVadlJSM0lySmRGdnFXeFQwUXBJY3hPb3d1UDFpZHhybHRPUVAxaE83U1JkVjdBUGRnZ0lyLWfSAZIBQVVfeXFMT1hOWWktRTJmaFFnenZPRXo5UGNvcW9MSmFxbXo1V2VNWkZOR0tRREszX0VPNl9tZFlKSlJJX0xyN1YteHB0MTdtSTRJeTFZcFEyUlVJZmduMkpvRURaRUlEcUN1WFE4bERwMG9pYWRWZFdPSy1iZk1qTkp3c3ZIOTBWdWM3RkpyT2tYQkJNbGxpZ2c?oc=5",
+        "date": "2026-08-03",
+        "title": "Flood Watch until 8 p.m. Monday - NBC10 Philadelphia",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxPOERYRjlycGZXV2ZKR0V1d3UteElSUWhKQnY4ekpKakJVUDM2dnpUeWp3ZzM0WVhiS3dURVR5akZxT0lPdjhtTnlWYzRqYXZOVE1TSEVadlJSM0lySmRGdnFXeFQwUXBJY3hPb3d1UDFpZHhybHRPUVAxaE83U1JkVjdBUGRnZ0lyLWfSAZIBQVVfeXFMT1hOWWktRTJmaFFnenZPRXo5UGNvcW9MSmFxbXo1V2VNWkZOR0tRREszX0VPNl9tZFlKSlJJX0xyN1YteHB0MTdtSTRJeTFZcFEyUlVJZmduMkpvRURaRUlEcUN1WFE4bERwMG9pYWRWZFdPSy1iZk1qTkp3c3ZIOTBWdWM3RkpyT2tYQkJNbGxpZ2c?oc=5\" target=\"_blank\">Flood Watch until 8 p.m. Monday</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NBC10 Philadelphia</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNT3RUR0lsb2tNN1ZrYV9WdmZyWjI1cHgwYWYtX1JPWlZMaE0tUWNfVHpiUXBQY1pSYmp1UG53UW4xclluUFJGYTJuUzNNOEhYd1c5UGNXSEY3VEdmeUtKZmxTdW1HbFl5a0xjR29xVkJZeVlVcm9jRHhVZWMzdEw4TGVjWGpmYjh6T3hNZ2NXcTBEb2xyLTRMVFR4aFhTS1kybzRRbFMzWnRGY1YtYmJJeFQ3dDRzVVpTV1HSAc4BQVVfeXFMUGhOVG9GSkxYWGVFODZxeFhZOTdsbkJlcVRRTFMtWnFURlA5RGUtV2xXSFNYZFRkTHd0ZkdUTkkzOEd2STRGOUF1VnJRWjRlTE5OUEM0RmtXXzU5VEd2YUVzMlgyeGxDbHlmaXBQRnRsbTVtSGk1UnJXSGRLdTh0ZWxMRUZzTkxIdFJHYi05VFBDSkZ3TkpoNWowdWYyb1pOS3REYmNRSWxtdGZlbDl2OEhWLUZCTTQ1RHZPWTA1OGppQ3E3RkJzdnFmSVBSdEE?oc=5",
+        "date": "2026-08-03",
+        "title": "LIVE UPDATES: Flash flood warning in north Georgia; storms dumped up to 6 inches overnight - WSB-TV",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNT3RUR0lsb2tNN1ZrYV9WdmZyWjI1cHgwYWYtX1JPWlZMaE0tUWNfVHpiUXBQY1pSYmp1UG53UW4xclluUFJGYTJuUzNNOEhYd1c5UGNXSEY3VEdmeUtKZmxTdW1HbFl5a0xjR29xVkJZeVlVcm9jRHhVZWMzdEw4TGVjWGpmYjh6T3hNZ2NXcTBEb2xyLTRMVFR4aFhTS1kybzRRbFMzWnRGY1YtYmJJeFQ3dDRzVVpTV1HSAc4BQVVfeXFMUGhOVG9GSkxYWGVFODZxeFhZOTdsbkJlcVRRTFMtWnFURlA5RGUtV2xXSFNYZFRkTHd0ZkdUTkkzOEd2STRGOUF1VnJRWjRlTE5OUEM0RmtXXzU5VEd2YUVzMlgyeGxDbHlmaXBQRnRsbTVtSGk1UnJXSGRLdTh0ZWxMRUZzTkxIdFJHYi05VFBDSkZ3TkpoNWowdWYyb1pOS3REYmNRSWxtdGZlbDl2OEhWLUZCTTQ1RHZPWTA1OGppQ3E3RkJzdnFmSVBSdEE?oc=5\" target=\"_blank\">LIVE UPDATES: Flash flood warning in north Georgia; storms dumped up to 6 inches overnight</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSB-TV</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9uc3VSQ0Fyb1FvdDAwRHpaMGh6VFFqcWZmdHVDckZmUUlpV1hSWVlXSG9QMlE1SnpiWGhNZlptWlpJUzA3dHpVcGRDN09IRXJnNjUyaUZzRGtuNDU2N1A3VjU5a1luV1lrUjU4bG9ZNFgwY1dweU04?oc=5",
+        "date": "2026-08-03",
+        "title": "Flood warning issued for Western North Carolina until 2 a.m. Monday, says the NWS - Raleigh News & Observer",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE9uc3VSQ0Fyb1FvdDAwRHpaMGh6VFFqcWZmdHVDckZmUUlpV1hSWVlXSG9QMlE1SnpiWGhNZlptWlpJUzA3dHpVcGRDN09IRXJnNjUyaUZzRGtuNDU2N1A3VjU5a1luV1lrUjU4bG9ZNFgwY1dweU04?oc=5\" target=\"_blank\">Flood warning issued for Western North Carolina until 2 a.m. Monday, says the NWS</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Raleigh News & Observer</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNZjJrVTRibEdnZ2dDTmtJemRmTi0zdXNac000MTl2VjFBWEZoY0JHS0lrLTkydFJvV2NFY3E0MllCMVJEak9tZlBkYS1WS3Bua1BncTNoYk5UTWtMR3psaDM2SU1oaVZ6Y0ZQQ19nTVVKS1NSczRuMWEwSlJacGZqcHNBUlpDcmljOXBkUWRESHZPdklNV0M2RE04TF91MDc5cFRyZXlJd05IZTJSRXhoVnFqZGM1d0pxZk80RWc2enJmNWNQZy1STVRuZWM5a1BpMDd1YjNOREZ0bERvSkVtU1VGSjl5enhyOEtqc2VyVzVZUQ?oc=5",
+        "date": "2026-08-03",
+        "title": "Flash Flood Warning issued August 2 at 9:37PM EDT until August 3 at 2:45AM EDT by NWS Greenville-Spartanburg SC - The Avery Journal-Times",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8gFBVV95cUxNZjJrVTRibEdnZ2dDTmtJemRmTi0zdXNac000MTl2VjFBWEZoY0JHS0lrLTkydFJvV2NFY3E0MllCMVJEak9tZlBkYS1WS3Bua1BncTNoYk5UTWtMR3psaDM2SU1oaVZ6Y0ZQQ19nTVVKS1NSczRuMWEwSlJacGZqcHNBUlpDcmljOXBkUWRESHZPdklNV0M2RE04TF91MDc5cFRyZXlJd05IZTJSRXhoVnFqZGM1d0pxZk80RWc2enJmNWNQZy1STVRuZWM5a1BpMDd1YjNOREZ0bERvSkVtU1VGSjl5enhyOEtqc2VyVzVZUQ?oc=5\" target=\"_blank\">Flash Flood Warning issued August 2 at 9:37PM EDT until August 3 at 2:45AM EDT by NWS Greenville-Spartanburg SC</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Avery Journal-Times</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": null,
+        "tweet_id": "2084148772800483763",
+        "geo": {
+            "country": "United States",
+            "name": "Avery County, North Carolina",
+            "latitude": 36.05,
+            "longitude": -81.92,
+            "confidence": 0.7
+        }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQdG00akhhUUtXVEtZOFFSNDZ4WEhQOUNsWHBJTWYzREFpVm9HWHVBQzE4YjNSS2xMVXlDWGhMRHFDalRWbUdaejJob3kxT3I1LXE1MjhVY2xqeTFNRDRlTy04aml6a2VnNVlkcUtTX2RZVE9NeFpGVHB2OF9WYkJhTllWRmVVZlBZNWlHbFRILUNFTmtWXzdUQWVWM1FxYTdNZnFyeFRRYXBUME96YzVVTWE4NVpQcHlJR2QtZzNFLUFEWmlLV0VrNmpoREYxd0tYemtuLXZ1VDdabXJZY0I1bXdndHdEY2NCUVNSSnNlQXFjZXM?oc=5",
+        "date": "2026-08-03",
+        "title": "Flash Flood Warning issued August 2 at 8:49PM EDT until August 3 at 2:45AM EDT by NWS Greenville-Spartanburg SC - The Avery Journal-Times",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8wFBVV95cUxQdG00akhhUUtXVEtZOFFSNDZ4WEhQOUNsWHBJTWYzREFpVm9HWHVBQzE4YjNSS2xMVXlDWGhMRHFDalRWbUdaejJob3kxT3I1LXE1MjhVY2xqeTFNRDRlTy04aml6a2VnNVlkcUtTX2RZVE9NeFpGVHB2OF9WYkJhTllWRmVVZlBZNWlHbFRILUNFTmtWXzdUQWVWM1FxYTdNZnFyeFRRYXBUME96YzVVTWE4NVpQcHlJR2QtZzNFLUFEWmlLV0VrNmpoREYxd0tYemtuLXZ1VDdabXJZY0I1bXdndHdEY2NCUVNSSnNlQXFjZXM?oc=5\" target=\"_blank\">Flash Flood Warning issued August 2 at 8:49PM EDT until August 3 at 2:45AM EDT by NWS Greenville-Spartanburg SC</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Avery Journal-Times</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNSlFwUmF1VjNnN1JDMFZhNUdHZEN4RzJUazRrRTZ1MVg5UHExczdteGhKd3NpeTlYaXNpSEJveTNWN041SDUwOGJDSzFJS2R2NXFSM0ZINEhiQktvdlA5YkZIU09lMjJ5YWFnV3BLZlJUUE1tRkNpWDhaTHRuRUN0U29sakVIc0tWTHRoV2pfYjktQnd4bWF3Tk5mT1Z3bGZNZGNTR2ZwWl8ycnItTHg3cGUxTlRicm9zZElQdGlxLXkzN3ZfU2pCckV3YzZGOHJKSU9DbnozTFliblNXeDJOcGRhdk5JdERkRVN4S1pn?oc=5",
+        "date": "2026-08-03",
+        "title": "McCaysville begins cleanup after flash flood turns downtown streets into rivers - WSB-TV",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7gFBVV95cUxNSlFwUmF1VjNnN1JDMFZhNUdHZEN4RzJUazRrRTZ1MVg5UHExczdteGhKd3NpeTlYaXNpSEJveTNWN041SDUwOGJDSzFJS2R2NXFSM0ZINEhiQktvdlA5YkZIU09lMjJ5YWFnV3BLZlJUUE1tRkNpWDhaTHRuRUN0U29sakVIc0tWTHRoV2pfYjktQnd4bWF3Tk5mT1Z3bGZNZGNTR2ZwWl8ycnItTHg3cGUxTlRicm9zZElQdGlxLXkzN3ZfU2pCckV3YzZGOHJKSU9DbnozTFliblNXeDJOcGRhdk5JdERkRVN4S1pn?oc=5\" target=\"_blank\">McCaysville begins cleanup after flash flood turns downtown streets into rivers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSB-TV</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQV1BlYVJNQ1lkTUdFOHpQVHRFMGRGTTRqbm9laWhrSkloMDZkOF82anhWU0tBY1pKTGtIV2pNZFFzdjAtLURqOFBPcWNETmkzSl9FT25XVHl3dUhuUEg5VkUtV1NoQ2xxNDdFTlphYTJBOGdOUFJFOXd4eHlhZ3FDbHJuR3pYSDI3MXBjWWFHREg4SndOeEVRUTlLT2hUWUExeWRiRzdBWWxDbWQ2?oc=5",
+        "date": "2026-08-03",
+        "title": "Storms could bring localized flooding, severe weather to Pittsburgh region - Pittsburgh Post-Gazette",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQV1BlYVJNQ1lkTUdFOHpQVHRFMGRGTTRqbm9laWhrSkloMDZkOF82anhWU0tBY1pKTGtIV2pNZFFzdjAtLURqOFBPcWNETmkzSl9FT25XVHl3dUhuUEg5VkUtV1NoQ2xxNDdFTlphYTJBOGdOUFJFOXd4eHlhZ3FDbHJuR3pYSDI3MXBjWWFHREg4SndOeEVRUTlLT2hUWUExeWRiRzdBWWxDbWQ2?oc=5\" target=\"_blank\">Storms could bring localized flooding, severe weather to Pittsburgh region</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Pittsburgh Post-Gazette</font>",
+        "similarity_excluded": "No",
+        "score": 6,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOX3FXNnB2N3p6ekZLNmtJTWpKZ2NxVmdZY0wwXzdyLVdlRWxBVDh3cGVaWFlMeWJxTTlWenhzSjNBWlkwNU1GdXNsdTJCcGZycUFKQ3ZLVnBZdExmcHEtRTQtTlFLZlRKU1VIbHZJOUsyaVRwMWRWcFRldWx2ZG5HZmd5ZlU4bHV4WG9XR21NYVdhTVpkOXdIcDFsNHJITFNWc0hvd0V3UDM5SV8zd0FhN3VCYWhmdw?oc=5",
+        "date": "2026-08-03",
+        "title": "State of Emergency issued for Mount Airy as overnight heavy rain causes major flooding - abc45.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxOX3FXNnB2N3p6ekZLNmtJTWpKZ2NxVmdZY0wwXzdyLVdlRWxBVDh3cGVaWFlMeWJxTTlWenhzSjNBWlkwNU1GdXNsdTJCcGZycUFKQ3ZLVnBZdExmcHEtRTQtTlFLZlRKU1VIbHZJOUsyaVRwMWRWcFRldWx2ZG5HZmd5ZlU4bHV4WG9XR21NYVdhTVpkOXdIcDFsNHJITFNWc0hvd0V3UDM5SV8zd0FhN3VCYWhmdw?oc=5\" target=\"_blank\">State of Emergency issued for Mount Airy as overnight heavy rain causes major flooding</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">abc45.com</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQeEUyMkdsTmUyMmFQOWdJelowTXFBVExWT3RwZUl4d2ZTTHppUWhoS1FkdVpwNnZhNzFzRWlXcWZwSHZZbXczaTFYTmdGbEtlZ1JIY1pfM0VqS21Ba2lRdzJCakN0MDNOcG92b09nbEVBTm5zQXliQjBvNW04bE5HU3hHQTFaemN4WlBCdkZpVE5KQ21JVHc?oc=5",
+        "date": "2026-08-03",
+        "title": "FLASH FLOOD WARNING for Banks and Jackson counties until10:15 tonight - 97.5 Glory FM",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxQeEUyMkdsTmUyMmFQOWdJelowTXFBVExWT3RwZUl4d2ZTTHppUWhoS1FkdVpwNnZhNzFzRWlXcWZwSHZZbXczaTFYTmdGbEtlZ1JIY1pfM0VqS21Ba2lRdzJCakN0MDNOcG92b09nbEVBTm5zQXliQjBvNW04bE5HU3hHQTFaemN4WlBCdkZpVE5KQ21JVHc?oc=5\" target=\"_blank\">FLASH FLOOD WARNING for Banks and Jackson counties until10:15 tonight</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">97.5 Glory FM</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": null,
+        "tweet_id": "2084149314289381515",
+        "geo": {
+            "country": "United States",
+            "name": "Banks and Jackson counties, Georgia",
+            "latitude": 34.35,
+            "longitude": -83.55,
+            "confidence": 0.75
+        }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQWVdKRjJibl9jZnRlOW1STkVuRHNzNlpnZzNEeEx6akw2ejlmdEtxSER0dUhtN3lhMElnVjFEZGlqRlBOZ3Jfd0NGaDJGWjZVQjRCUTViaVpNakxpVV9HTEZ1X1pCQTlEVVlkb3RsNlBHS2JsZDg2V1J3UTF2MkxGcTdnYlJNYlNoNklvTW9oUDRxYjZpWFE5RVZhSXI0ZDZxNHIwTWRNQVhRVHk3ZlZJMEx3SDNnZXkxcjBkcWd1MzJhbDNseDZPbWxCWUlnSUpiMGhyQWh6em13ZlFhZWp4Y1hwdWR2Wm9iY0d3?oc=5",
+        "date": "2026-08-03",
+        "title": "Flooding in Niagara Falls devastates homes, residents demand town action - WGRZ",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxQWVdKRjJibl9jZnRlOW1STkVuRHNzNlpnZzNEeEx6akw2ejlmdEtxSER0dUhtN3lhMElnVjFEZGlqRlBOZ3Jfd0NGaDJGWjZVQjRCUTViaVpNakxpVV9HTEZ1X1pCQTlEVVlkb3RsNlBHS2JsZDg2V1J3UTF2MkxGcTdnYlJNYlNoNklvTW9oUDRxYjZpWFE5RVZhSXI0ZDZxNHIwTWRNQVhRVHk3ZlZJMEx3SDNnZXkxcjBkcWd1MzJhbDNseDZPbWxCWUlnSUpiMGhyQWh6em13ZlFhZWp4Y1hwdWR2Wm9iY0d3?oc=5\" target=\"_blank\">Flooding in Niagara Falls devastates homes, residents demand town action</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WGRZ</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxObjczelNxbkRYYmpCZl9EWDRfQlFTYVRaOWMxYkMyOFZyYVlCMTBnUXJpczlCT3UwUlY1VmZZdXI1TnRIYnpmOGVOTHpueGpHNUpjOEdoVHZmQTVaY2tTUkQwQzRzMGpKcExQUmxfSmZnc0Rib2RGbFltZ29ZOGU0VmNIZENmSG1KQW54TXM2azR1U2xmbGRaMlJOTmlkNGVvY05oODlmTFFsbnN6LWJwdHRfbzQwb0s3d2hqSkFlZEdUZ1U2RkFIUzRla1BxT3VN0gHXAUFVX3lxTE9nTGdHQmhlSDhja0xVNk5IX2JReXo0SWp6aDFhWlU4N2RJbXFaZGRMcnc4Y2ZjM093S1VaNFZlNnFoUnBYWnAtODFqbkRBSlZzVFk3aGtuUExNd1dyMjJaMUFWeEJxOUs0cjM4OEdGVkJFOTRUUkt1SzNEajlhTEZHVVdyWXJCWURha2JtS1pBbTJWR3dGRkdTRXZRUUgxTEVLS1RHazRoNE50Q0J6bzZ0bTVXYmNnc0lfYTBXMWtGTVh4SzNCRDJOVkFfeE13OGp1ZUdQLW5z?oc=5",
+        "date": "2026-08-03",
+        "title": "Kerala on alert as heavy monsoon rains raise widespread flooding concerns - BusinessLine",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxObjczelNxbkRYYmpCZl9EWDRfQlFTYVRaOWMxYkMyOFZyYVlCMTBnUXJpczlCT3UwUlY1VmZZdXI1TnRIYnpmOGVOTHpueGpHNUpjOEdoVHZmQTVaY2tTUkQwQzRzMGpKcExQUmxfSmZnc0Rib2RGbFltZ29ZOGU0VmNIZENmSG1KQW54TXM2azR1U2xmbGRaMlJOTmlkNGVvY05oODlmTFFsbnN6LWJwdHRfbzQwb0s3d2hqSkFlZEdUZ1U2RkFIUzRla1BxT3VN0gHXAUFVX3lxTE9nTGdHQmhlSDhja0xVNk5IX2JReXo0SWp6aDFhWlU4N2RJbXFaZGRMcnc4Y2ZjM093S1VaNFZlNnFoUnBYWnAtODFqbkRBSlZzVFk3aGtuUExNd1dyMjJaMUFWeEJxOUs0cjM4OEdGVkJFOTRUUkt1SzNEajlhTEZHVVdyWXJCWURha2JtS1pBbTJWR3dGRkdTRXZRUUgxTEVLS1RHazRoNE50Q0J6bzZ0bTVXYmNnc0lfYTBXMWtGTVh4SzNCRDJOVkFfeE13OGp1ZUdQLW5z?oc=5\" target=\"_blank\">Kerala on alert as heavy monsoon rains raise widespread flooding concerns</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BusinessLine</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVWY2bGNUYUxpN0dVUTMyNmEyajh1UWtCaHR6bHJNTmJrcDRBaG00Rmk3TUxTQjV0WklyY19QRlZPdWNVOFg0UEwtbU91RzF0Q0hMTUtlWDBJN0YxaWVVU2FkeTlUUnB6bm1CTl9NclVZZ1pqVTV6WVdMYlQxRTNUUThvLTJRbjZGX053bzktZE1yeWVfZmVLNFhQWVJWZE1GeFBwNDhkWmlvaWtzS2lidGM4Mk4?oc=5",
+        "date": "2026-08-03",
+        "title": "Kerala and coastal Karnataka reel under monsoon fury, Assam floods ease - The Federal",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQVWY2bGNUYUxpN0dVUTMyNmEyajh1UWtCaHR6bHJNTmJrcDRBaG00Rmk3TUxTQjV0WklyY19QRlZPdWNVOFg0UEwtbU91RzF0Q0hMTUtlWDBJN0YxaWVVU2FkeTlUUnB6bm1CTl9NclVZZ1pqVTV6WVdMYlQxRTNUUThvLTJRbjZGX053bzktZE1yeWVfZmVLNFhQWVJWZE1GeFBwNDhkWmlvaWtzS2lidGM4Mk4?oc=5\" target=\"_blank\">Kerala and coastal Karnataka reel under monsoon fury, Assam floods ease</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Federal</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPLXA3S3loMFBPYWFlOXYzWUtpakJLUVVNSDNCNFQxUDlMcnJrQS1nYWJXWFFDVHh4QUJ0NDJPRkJhVXFzekJjc2xvazVQT041TXQtUFFYS083czBna1duNXk0ZENyckxMYmtPeGQ1RDdfTkk3d0VDYU5zMFpzWlRaWGZiOGtkQjdUV2FxWjQtcW50UjZMQXRuRnctZUdsX0FMenJmODlQVE9QMXFGbzFLMm0tRUtEUW1WTDZZMkc3YTRwOHR3cUFaRzJn?oc=5",
+        "date": "2026-08-03",
+        "title": "Video | Assam Flood Death Toll Rises To 85 As Over 1.36 Lakh People Continue To Reel Under Monsoon Fury - NDTV",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxPLXA3S3loMFBPYWFlOXYzWUtpakJLUVVNSDNCNFQxUDlMcnJrQS1nYWJXWFFDVHh4QUJ0NDJPRkJhVXFzekJjc2xvazVQT041TXQtUFFYS083czBna1duNXk0ZENyckxMYmtPeGQ1RDdfTkk3d0VDYU5zMFpzWlRaWGZiOGtkQjdUV2FxWjQtcW50UjZMQXRuRnctZUdsX0FMenJmODlQVE9QMXFGbzFLMm0tRUtEUW1WTDZZMkc3YTRwOHR3cUFaRzJn?oc=5\" target=\"_blank\">Video | Assam Flood Death Toll Rises To 85 As Over 1.36 Lakh People Continue To Reel Under Monsoon Fury</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NDTV</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOQldCLU1mbXU0WHYxRTZaWDI5cko3cVRDdHNiWWlkOFQwQkVqVlhXUHEyWmxWOEx3YjZZYzRsMU1lR1ozUFBKWjZzZjZ0VkR2N3VwSTFYYUQzbTZOQ3Rhc1A3RGtIN1cwanNWc2RqRjZBY1JVbmZvMlkyTGVwMWVucm5GUVJKN3JxcjhXcVdHeXh3OWFUMWVxZGpaSk1vM1BySThzN3MxRHJjSkk5S3N1UE5HRkxNU2gxYy1PM0Y5Ukk0Yk9pYjVUR1M0R0tOc1JJQUlHcnZGQlVSQUJEamVEbmlR?oc=5",
+        "date": "2026-08-03",
+        "title": "Pakistan's civic incompetence exposed as monsoon rains paralyse Hyderabad despite early warnings - ANI News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxOQldCLU1mbXU0WHYxRTZaWDI5cko3cVRDdHNiWWlkOFQwQkVqVlhXUHEyWmxWOEx3YjZZYzRsMU1lR1ozUFBKWjZzZjZ0VkR2N3VwSTFYYUQzbTZOQ3Rhc1A3RGtIN1cwanNWc2RqRjZBY1JVbmZvMlkyTGVwMWVucm5GUVJKN3JxcjhXcVdHeXh3OWFUMWVxZGpaSk1vM1BySThzN3MxRHJjSkk5S3N1UE5HRkxNU2gxYy1PM0Y5Ukk0Yk9pYjVUR1M0R0tOc1JJQUlHcnZGQlVSQUJEamVEbmlR?oc=5\" target=\"_blank\">Pakistan's civic incompetence exposed as monsoon rains paralyse Hyderabad despite early warnings</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ANI News</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNTEItbTJfX3FtQXlWMTM0ZVhkdjkyc0UxOHFCdlZSX2liOVRXWTB0ekhYZHhiU0l6RlZzdWVzYXhYeG9jeGZoaEdmdmlHYVFDcU9ya1UwdlBuYm9TbXktUFJZNWxQMm5SOXI1WG5YOE9iUjFkQWNXRE1CVjJfeFhGWExhbkU2N2l1VzNEblJ1ZWc0VFhJT2xKSHlxV1JmdGppbUJMSTZ0dG9oZV9fZ0M1RnpHNkZ6dS1iekpXUlFxTkFlX3hvcEdfb1AtY0ZvakxNRmVZUzNxcnk?oc=5",
+        "date": "2026-08-03",
+        "title": "Monsoon firing on all cylinders: Active phase in East India, rain deficit to dip - India Today",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxNTEItbTJfX3FtQXlWMTM0ZVhkdjkyc0UxOHFCdlZSX2liOVRXWTB0ekhYZHhiU0l6RlZzdWVzYXhYeG9jeGZoaEdmdmlHYVFDcU9ya1UwdlBuYm9TbXktUFJZNWxQMm5SOXI1WG5YOE9iUjFkQWNXRE1CVjJfeFhGWExhbkU2N2l1VzNEblJ1ZWc0VFhJT2xKSHlxV1JmdGppbUJMSTZ0dG9oZV9fZ0M1RnpHNkZ6dS1iekpXUlFxTkFlX3hvcEdfb1AtY0ZvakxNRmVZUzNxcnk?oc=5\" target=\"_blank\">Monsoon firing on all cylinders: Active phase in East India, rain deficit to dip</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">India Today</font>",
+        "similarity_excluded": "No",
+        "score": 4,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQX2ZTeWUxcE9mQ3lOOTRJZEJ4dE9oUnkzR01TOERmbUFQSXdCU2dLaUNlS0ZzUFVZT1VLRmV0WkVSZDVDRUZjdjRHQUwwcHJrVTJFOGpjT2lxTWFYOGN5SzJ6NUpXQk12RkRBWmFUVjQ3bU9JQXdrWmxVZHNKTWxZWDFQVVFIWkV30gGQAUFVX3lxTE9uSlhDZ1BrS2Zpd1BnajhEamg1RG91cjNrVFlsZVpQR0xnYTNVeEJVSmZqTmlzZE05LWVmWW1sbUZ4aFZzUDdnRTZoVXluQ1lxd2dmSlo5UUs5c1F2alJQd01vbzBSelBUMlFvOHRud0tZVXAwUEFzNGNES3l2SkdvT2E2RVZWSVZYOWE0dDJnXw?oc=5",
+        "date": "2026-08-03",
+        "title": "Monsoon swamps Hyderabad, leaves city reeling - The Express Tribune",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQX2ZTeWUxcE9mQ3lOOTRJZEJ4dE9oUnkzR01TOERmbUFQSXdCU2dLaUNlS0ZzUFVZT1VLRmV0WkVSZDVDRUZjdjRHQUwwcHJrVTJFOGpjT2lxTWFYOGN5SzJ6NUpXQk12RkRBWmFUVjQ3bU9JQXdrWmxVZHNKTWxZWDFQVVFIWkV30gGQAUFVX3lxTE9uSlhDZ1BrS2Zpd1BnajhEamg1RG91cjNrVFlsZVpQR0xnYTNVeEJVSmZqTmlzZE05LWVmWW1sbUZ4aFZzUDdnRTZoVXluQ1lxd2dmSlo5UUs5c1F2alJQd01vbzBSelBUMlFvOHRud0tZVXAwUEFzNGNES3l2SkdvT2E2RVZWSVZYOWE0dDJnXw?oc=5\" target=\"_blank\">Monsoon swamps Hyderabad, leaves city reeling</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Express Tribune</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQdWpOR212UDFfYl9fRDV1WlJVeW9CUlVhbV9ramZ3WUNQaGlrS2pPdnNfV3BSbkZFTW1RMUVyMTBlLTY4LTdMM19pdnlnTDBYRWh1TmI0MzR3QjdiLTd6bVI3ejROLXNRTlpuX2ZTU0RpVGVWZkdmdGc1cnJXZy1zMUFmU3Z0R3kzZE5MTDBXYTF3cHRBWFdHSFU4ZzVxOFV4OHFjdjBDbTNZSXd0VkwtZl9yS0IyOFdxTVFSSFR2QdIBzAFBVV95cUxOazM0RjNoaldRUFhlS3BHMjhETW1FN0c5MGZNTE5PVEVNNE5NRndPeTNqeGtzVUdiZ3Y4RW53NEhYRlhsdk4xVHdGazBaNTRLMGdwZmZBRkFmcjF3YUxiQklwWEtFVGVtbnBxc2lfb2dFeTI0eWRQeEw0UHlIUFVWZlhvenc4X2FfYnByN0JFVHpzSUdDb1ludDA2VzRSMVE3Y1VydDVUeUpiTjF4b0k1ZnlJbS1rUzJTckJTcno1OXctdnNOYzFTeGZtOTQ?oc=5",
+        "date": "2026-08-03",
+        "title": "Three of family killed as landslide buries shed in Karnataka - newindianexpress.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQdWpOR212UDFfYl9fRDV1WlJVeW9CUlVhbV9ramZ3WUNQaGlrS2pPdnNfV3BSbkZFTW1RMUVyMTBlLTY4LTdMM19pdnlnTDBYRWh1TmI0MzR3QjdiLTd6bVI3ejROLXNRTlpuX2ZTU0RpVGVWZkdmdGc1cnJXZy1zMUFmU3Z0R3kzZE5MTDBXYTF3cHRBWFdHSFU4ZzVxOFV4OHFjdjBDbTNZSXd0VkwtZl9yS0IyOFdxTVFSSFR2QdIBzAFBVV95cUxOazM0RjNoaldRUFhlS3BHMjhETW1FN0c5MGZNTE5PVEVNNE5NRndPeTNqeGtzVUdiZ3Y4RW53NEhYRlhsdk4xVHdGazBaNTRLMGdwZmZBRkFmcjF3YUxiQklwWEtFVGVtbnBxc2lfb2dFeTI0eWRQeEw0UHlIUFVWZlhvenc4X2FfYnByN0JFVHpzSUdDb1ludDA2VzRSMVE3Y1VydDVUeUpiTjF4b0k1ZnlJbS1rUzJTckJTcno1OXctdnNOYzFTeGZtOTQ?oc=5\" target=\"_blank\">Three of family killed as landslide buries shed in Karnataka</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">newindianexpress.com</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbE1mY1d3U2Yyay1wSElseU9WSUhpUDdMUGtCa0V6T1o3SkdkOEt3SlQ0bllwQVFpLVlHSlM1QWdBQjZUdGxWTEtkb3RjZjhvRlF1NkZGNE5EV1BYbWROVFNFZTg0RzZHbndLTmx1TjdJcjcyd1E0TzY2aVlFb2tBS1Vid2M2RDJtWHZvUGtuRVdVTjFCTVFCVWMwNmFfenpTa2wxUVBnQk5KTXVVNzlUVTFzY3pUUzF1cEhTcUJSdU5OTk0?oc=5",
+        "date": "2026-08-03",
+        "title": "Heavy rain triggers landslides in Kasaragod; 325 people shifted to relief camps - Udayavani",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbE1mY1d3U2Yyay1wSElseU9WSUhpUDdMUGtCa0V6T1o3SkdkOEt3SlQ0bllwQVFpLVlHSlM1QWdBQjZUdGxWTEtkb3RjZjhvRlF1NkZGNE5EV1BYbWROVFNFZTg0RzZHbndLTmx1TjdJcjcyd1E0TzY2aVlFb2tBS1Vid2M2RDJtWHZvUGtuRVdVTjFCTVFCVWMwNmFfenpTa2wxUVBnQk5KTXVVNzlUVTFzY3pUUzF1cEhTcUJSdU5OTk0?oc=5\" target=\"_blank\">Heavy rain triggers landslides in Kasaragod; 325 people shifted to relief camps</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Udayavani</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE80dlRzZS16bzJ4czE3WlVxMmxEcWxfbFE1dEg1MlBIYm1JbzVOeDN2QU05QVBnZGF0SkVxU3hyRXJ4bDFGV3ZMelcyZmlsZjJ4LWN1Y1lIVWY2U3ZSYmp1QWVuSDZyU1RBQzEzYWd6N3hKZkl1cVJZ?oc=5",
+        "date": "2026-08-03",
+        "title": "UPDATE: Flash flood warning issued for Avery and Caldwell counties until 2 a.m. Monday - Raleigh News & Observer",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE80dlRzZS16bzJ4czE3WlVxMmxEcWxfbFE1dEg1MlBIYm1JbzVOeDN2QU05QVBnZGF0SkVxU3hyRXJ4bDFGV3ZMelcyZmlsZjJ4LWN1Y1lIVWY2U3ZSYmp1QWVuSDZyU1RBQzEzYWd6N3hKZkl1cVJZ?oc=5\" target=\"_blank\">UPDATE: Flash flood warning issued for Avery and Caldwell counties until 2 a.m. Monday</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Raleigh News & Observer</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 FORECAST Avery and Caldwell counties, NC: Flash flood warning until 2 a.m. Monday (Raleigh News & Observer)",
+        "type": "news",
+        "tweet_id": "2084148228539199817",
+        "geo": {
+            "country": "United States",
+            "name": "Avery and Caldwell counties, North Carolina",
+            "latitude": 36.02,
+            "longitude": -81.73,
+            "confidence": 0.9
+        }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNZjJrVTRibEdnZ2dDTmtJemRmTi0zdXNac000MTl2VjFBWEZoY0JHS0lrLTkydFJvV2NFY3E0MllCMVJEak9tZlBkYS1WS3Bua1BncTNoYk5UTWtMR3psaDM2SU1oaVZ6Y0ZQQ19nTVVKS1NSczRuMWEwSlJacGZqcHNBUlpDcmljOXBkUWRESHZPdklNV0M2RE04TF91MDc5cFRyZXlJd05IZTJSRXhoVnFqZGM1d0pxZk80RWc2enJmNWNQZy1STVRuZWM5a1BpMDd1YjNOREZ0bERvSkVtU1VGSjl5enhyOEtqc2VyVzVZUQ?oc=5",
+        "date": "2026-08-03",
+        "title": "Flash Flood Warning issued August 2 at 9:37PM EDT until August 3 at 2:45AM EDT by NWS Greenville-Spartanburg SC - The Avery Journal-Times",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8gFBVV95cUxNZjJrVTRibEdnZ2dDTmtJemRmTi0zdXNac000MTl2VjFBWEZoY0JHS0lrLTkydFJvV2NFY3E0MllCMVJEak9tZlBkYS1WS3Bua1BncTNoYk5UTWtMR3psaDM2SU1oaVZ6Y0ZQQ19nTVVKS1NSczRuMWEwSlJacGZqcHNBUlpDcmljOXBkUWRESHZPdklNV0M2RE04TF91MDc5cFRyZXlJd05IZTJSRXhoVnFqZGM1d0pxZk80RWc2enJmNWNQZy1STVRuZWM5a1BpMDd1YjNOREZ0bERvSkVtU1VGSjl5enhyOEtqc2VyVzVZUQ?oc=5\" target=\"_blank\">Flash Flood Warning issued August 2 at 9:37PM EDT until August 3 at 2:45AM EDT by NWS Greenville-Spartanburg SC</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Avery Journal-Times</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 FORECAST Avery County NC: Flash flood warning until 2:45AM EDT August 3 by NWS Greenville-Spartanburg",
+        "type": "news",
+        "tweet_id": "2084148772800483763",
+        "geo": {
+            "country": "United States",
+            "name": "Avery County, North Carolina",
+            "latitude": 36.05,
+            "longitude": -81.92,
+            "confidence": 0.7
+        }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQeEUyMkdsTmUyMmFQOWdJelowTXFBVExWT3RwZUl4d2ZTTHppUWhoS1FkdVpwNnZhNzFzRWlXcWZwSHZZbXczaTFYTmdGbEtlZ1JIY1pfM0VqS21Ba2lRdzJCakN0MDNOcG92b09nbEVBTm5zQXliQjBvNW04bE5HU3hHQTFaemN4WlBCdkZpVE5KQ21JVHc?oc=5",
+        "date": "2026-08-03",
+        "title": "FLASH FLOOD WARNING for Banks and Jackson counties until10:15 tonight - 97.5 Glory FM",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxQeEUyMkdsTmUyMmFQOWdJelowTXFBVExWT3RwZUl4d2ZTTHppUWhoS1FkdVpwNnZhNzFzRWlXcWZwSHZZbXczaTFYTmdGbEtlZ1JIY1pfM0VqS21Ba2lRdzJCakN0MDNOcG92b09nbEVBTm5zQXliQjBvNW04bE5HU3hHQTFaemN4WlBCdkZpVE5KQ21JVHc?oc=5\" target=\"_blank\">FLASH FLOOD WARNING for Banks and Jackson counties until10:15 tonight</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">97.5 Glory FM</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 FORECAST Banks and Jackson counties: Flash flood warning until 10:15 tonight - 97.5 Glory FM",
+        "type": "news",
+        "tweet_id": "2084149314289381515",
+        "geo": {
+            "country": "United States",
+            "name": "Banks and Jackson counties, Georgia",
+            "latitude": 34.35,
+            "longitude": -83.55,
+            "confidence": 0.75
+        }
     }
 ]
