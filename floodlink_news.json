@@ -31201,5 +31201,14 @@
             "longitude": 92.5,
             "confidence": 0.75
         }
+    },
+    {
+        "link": null,
+        "date": "2026-08-03",
+        "status": "posted",
+        "tweet": "Top reservoir flood storage (km\u00b3, 2025)\n1. \ud83c\udde8\ud83c\uddf3 China: 465\n2. \ud83c\uddfa\ud83c\uddf8 US: 310\n3. \ud83c\uddee\ud83c\uddf3 India: 165\n4. \ud83c\udde7\ud83c\uddf7 Brazil: 125\n5. \ud83c\uddf7\ud83c\uddfa Russia: 105",
+        "type": "statistical",
+        "category": "dams, levees and reservoirs used for flood control",
+        "tweet_id": "2084330989015511225"
     }
 ]
