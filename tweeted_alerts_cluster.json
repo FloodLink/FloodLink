@@ -29388,7 +29388,7 @@
     "rain_mm": 56.12,
     "soil_moisture": 0.675,
     "raw_dynamic_score": 9.085,
-    "last_updated": "2026-07-12T08:14:55.582458Z",
+    "last_updated": "2026-08-04T11:28:54.933487Z",
     "last_tweeted_at": "2026-07-12T06:00:14.000028Z",
     "tweet_id": "2076185643840164293",
     "resolved": false
@@ -38290,7 +38290,7 @@
     "rain_mm": 116.06,
     "soil_moisture": 0.653,
     "raw_dynamic_score": 18.554,
-    "last_updated": "2026-08-04T08:36:20.537349Z",
+    "last_updated": "2026-08-04T11:28:54.933487Z",
     "last_tweeted_at": "2026-08-04T01:59:04.901699Z",
     "tweet_id": "2084459116735385970",
     "resolved": false
@@ -38436,6 +38436,21 @@
     "last_updated": "2026-08-04T08:36:20.537349Z",
     "last_tweeted_at": "2026-08-04T08:36:20.537349Z",
     "tweet_id": "2084559587512828079",
+    "resolved": false
+  },
+  "34.7553,113.0114": {
+    "country": "China",
+    "name": "Gongyi",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 34.75534,
+    "longitude": 113.01137,
+    "rain_mm": 56.69,
+    "soil_moisture": 0.594,
+    "raw_dynamic_score": 8.761,
+    "last_updated": "2026-08-04T11:28:54.933487Z",
+    "last_tweeted_at": "2026-08-04T11:28:54.933487Z",
+    "tweet_id": "2084602505581711827",
     "resolved": false
   }
 }
