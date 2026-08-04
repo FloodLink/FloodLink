@@ -30759,5 +30759,14 @@
             "longitude": 72.71,
             "confidence": 0.9
         }
+    },
+    {
+        "link": null,
+        "date": "2026-08-04",
+        "status": "posted",
+        "tweet": "2025 flood EWS coverage rates\n1. \ud83c\uddef\ud83c\uddf5 Japan: 96%\n2. \ud83c\udde9\ud83c\uddea Germany: 91%\n3. \ud83c\udde7\ud83c\uddf7 Brazil: 54%\n4. \ud83c\uddf5\ud83c\udded Philippines: 37%\n5. \ud83c\uddea\ud83c\uddf9 Ethiopia: 12%",
+        "type": "statistical",
+        "category": "coverage of flood early warning systems worldwide",
+        "tweet_id": "2084658482695790719"
     }
 ]
