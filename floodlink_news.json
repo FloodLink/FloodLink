@@ -30539,5 +30539,14 @@
             "longitude": 74.3436,
             "confidence": 0.9
         }
+    },
+    {
+        "link": null,
+        "date": "2026-08-04",
+        "status": "posted",
+        "tweet": "By 2050, 300 million people in low-lying coastal areas will face annual flooding from sea-level rise and storm surges, according to updated climate projections.",
+        "type": "statistical",
+        "category": "coastal cities at risk from sea-level rise and storm surge",
+        "tweet_id": "2084501887290679711"
     }
 ]
