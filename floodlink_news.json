@@ -29384,5 +29384,14 @@
         "score": 6,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-08-05",
+        "status": "posted",
+        "tweet": "Only 42% of the global population at risk of floods, flash floods, and storm surges is covered by early warning systems in 2026.",
+        "type": "statistical",
+        "category": "coverage of flood early warning systems worldwide",
+        "tweet_id": "2084979725970326001"
     }
 ]
