@@ -29131,5 +29131,14 @@
         "tweet": "\ud83c\uddf3\ud83c\uddf1 The Netherlands maintains 3,700 km of primary levees and dikes that protect 9 million residents in areas below sea level.",
         "type": "infrastructure",
         "tweet_id": "2084809035447160933"
+    },
+    {
+        "link": null,
+        "date": "2026-08-05",
+        "status": "posted",
+        "tweet": "Pluvial flood exposure in dense cities (2025 projections):\n1. \ud83c\uddf5\ud83c\udded Manila: 2.8M people\n2. \ud83c\udde7\ud83c\udde9 Dhaka: 2.1M\n3. \ud83c\uddee\ud83c\uddf3 Mumbai: 1.9M\n4. \ud83c\udde8\ud83c\uddf3 Shanghai: 1.7M\n5. \ud83c\uddfb\ud83c\uddf3 Ho Chi Minh: 1.5M",
+        "type": "statistical",
+        "category": "pluvial (surface) flooding in dense cities",
+        "tweet_id": "2084864245599277275"
     }
 ]
