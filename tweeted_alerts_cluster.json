@@ -36995,7 +36995,7 @@
     "rain_mm": 38.69,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 7.399,
-    "last_updated": "2026-08-06T11:25:30.526086Z",
+    "last_updated": "2026-08-06T13:58:59.805917Z",
     "last_tweeted_at": "2026-08-06T11:25:30.526086Z",
     "tweet_id": "2085326427495284831",
     "resolved": false
@@ -37043,6 +37043,21 @@
     "last_updated": "2026-08-06T11:25:30.526086Z",
     "last_tweeted_at": "2026-08-06T11:25:30.526086Z",
     "tweet_id": "2085326427495284831",
+    "resolved": false
+  },
+  "13.5728,-8.0339": {
+    "country": "Mali",
+    "name": "Kolokani",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 13.5728,
+    "longitude": -8.0339,
+    "rain_mm": 45.12,
+    "soil_moisture": 0.501,
+    "raw_dynamic_score": 6.598,
+    "last_updated": "2026-08-06T13:58:59.805917Z",
+    "last_tweeted_at": "2026-08-06T13:58:59.805917Z",
+    "tweet_id": "2085365052656480355",
     "resolved": false
   }
 }
