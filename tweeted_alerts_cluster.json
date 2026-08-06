@@ -14553,18 +14553,17 @@
   "19.7333,105.9000": {
     "country": "Viet Nam",
     "name": "Sầm Sơn",
-    "risk_level": "Low",
-    "tweeted_level": "Low",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
     "latitude": 19.73333,
     "longitude": 105.9,
-    "rain_mm": 1.5,
+    "rain_mm": 47.62,
     "soil_moisture": 1.0,
-    "raw_dynamic_score": 0.287,
-    "last_updated": "2026-08-05T17:03:04.231854Z",
-    "last_tweeted_at": "2026-08-05T17:03:04.231854Z",
-    "tweet_id": "2085052277057015892",
-    "resolved": true,
-    "resolved_at": "2026-08-05T17:03:04.231854Z"
+    "raw_dynamic_score": 9.108,
+    "last_updated": "2026-08-06T08:30:59.613003Z",
+    "last_tweeted_at": "2026-08-06T08:30:59.613003Z",
+    "tweet_id": "2085282775330861503",
+    "resolved": false
   },
   "20.9167,106.0833": {
     "country": "Viet Nam",
@@ -19265,7 +19264,7 @@
     "rain_mm": 72.88,
     "soil_moisture": 0.749,
     "raw_dynamic_score": 12.283,
-    "last_updated": "2026-08-06T02:01:03.272980Z",
+    "last_updated": "2026-08-06T08:30:59.613003Z",
     "last_tweeted_at": "2026-08-05T22:19:12.012626Z",
     "tweet_id": "2085129052789334139",
     "resolved": false
@@ -34466,7 +34465,7 @@
     "rain_mm": 49.12,
     "soil_moisture": 0.631,
     "raw_dynamic_score": 7.759,
-    "last_updated": "2026-07-31T08:56:40.534899Z",
+    "last_updated": "2026-08-06T08:30:59.613003Z",
     "last_tweeted_at": "2026-07-30T22:12:32.391125Z",
     "tweet_id": "2082952535506104659",
     "resolved": false
@@ -36941,13 +36940,13 @@
     "rain_mm": 49.31,
     "soil_moisture": 0.737,
     "raw_dynamic_score": 8.259,
-    "last_updated": "2026-08-06T05:53:15.573818Z",
+    "last_updated": "2026-08-06T08:30:59.613003Z",
     "last_tweeted_at": "2026-08-05T22:19:12.012626Z",
     "tweet_id": "2085129052789334139",
     "resolved": false,
     "pending_downgrade": true,
     "pending_target_level": "Low",
-    "pending_set_at": "2026-08-06T02:01:03.272980Z",
+    "pending_set_at": "2026-08-06T08:30:59.613003Z",
     "pending_is_region": true
   },
   "14.3575,-16.4123": {
@@ -37008,6 +37007,21 @@
     "last_updated": "2026-08-06T02:01:03.272980Z",
     "last_tweeted_at": "2026-08-06T02:01:03.272980Z",
     "tweet_id": "2085184388782821866",
+    "resolved": false
+  },
+  "19.9087,109.6872": {
+    "country": "China",
+    "name": "Lingao",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 19.90873,
+    "longitude": 109.68717,
+    "rain_mm": 56.5,
+    "soil_moisture": 1.0,
+    "raw_dynamic_score": 10.806,
+    "last_updated": "2026-08-06T08:30:59.613003Z",
+    "last_tweeted_at": "2026-08-06T08:30:59.613003Z",
+    "tweet_id": "2085282522670215651",
     "resolved": false
   }
 }
