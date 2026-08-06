@@ -28894,5 +28894,122 @@
             "longitude": 91.77,
             "confidence": 0.9
         }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQNDJoTU5fTlFYTV9XWmREX0VEaU9tSWNIN24zZXJ0UDNaNm5tTUxuODRUMjAyWGJ2bmFqMUhfRDlMQlRSUnVaNXFrWmtYcXl6b2lWbC1JVnJMNnptelM4TnZNb0FTY1QyMXBFU3NWWF9IUmlWWGVsRDdhZWtweTBlR0djMDJVOU44TE5DN29Tb2syanpRTm9oa2VpeTg3Sy0xZGI5QlUzSmxwNkR3NVIybHdrV3p1ZW9yVVhpRndockJQWVg5eW9fa08wa2VBZlpEM0dfMmFGWGV5N2cwaWhNbEFYNF9YZm5LbTF0dA?oc=5",
+        "date": "2026-08-06",
+        "title": "Flash Flood Warning issued August 6 at 5:04AM CDT until August 6 at 8:30AM CDT by NWS St Louis MO - abc17news.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxQNDJoTU5fTlFYTV9XWmREX0VEaU9tSWNIN24zZXJ0UDNaNm5tTUxuODRUMjAyWGJ2bmFqMUhfRDlMQlRSUnVaNXFrWmtYcXl6b2lWbC1JVnJMNnptelM4TnZNb0FTY1QyMXBFU3NWWF9IUmlWWGVsRDdhZWtweTBlR0djMDJVOU44TE5DN29Tb2syanpRTm9oa2VpeTg3Sy0xZGI5QlUzSmxwNkR3NVIybHdrV3p1ZW9yVVhpRndockJQWVg5eW9fa08wa2VBZlpEM0dfMmFGWGV5N2cwaWhNbEFYNF9YZm5LbTF0dA?oc=5\" target=\"_blank\">Flash Flood Warning issued August 6 at 5:04AM CDT until August 6 at 8:30AM CDT by NWS St Louis MO</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">abc17news.com</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": null,
+        "tweet_id": "2085343035160744439",
+        "geo": {
+            "country": "United States",
+            "name": "St. Louis, Missouri",
+            "latitude": 38.627,
+            "longitude": -90.1994,
+            "confidence": 0.75
+        }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQcThJM05kZFdMRkY2RzJ3NHZ1R005UC10RlpUSnlfYjN3MmFFU2pqVDZhNWhMRUR1OTRUSmI5QmxFTEpzcjJyRjRpdXVER29HREE1ckRGVEhvMXhQMHJVdlFDUVc2aHNMeHpoWU5qaDEtMjBkNjU1NFhoUWFwZlpENjhPbzFHOVpNaUFr?oc=5",
+        "date": "2026-08-06",
+        "title": "Heat advisory issued for NYC-area as stormy weather brings flash flood risk - CBS News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxQcThJM05kZFdMRkY2RzJ3NHZ1R005UC10RlpUSnlfYjN3MmFFU2pqVDZhNWhMRUR1OTRUSmI5QmxFTEpzcjJyRjRpdXVER29HREE1ckRGVEhvMXhQMHJVdlFDUVc2aHNMeHpoWU5qaDEtMjBkNjU1NFhoUWFwZlpENjhPbzFHOVpNaUFr?oc=5\" target=\"_blank\">Heat advisory issued for NYC-area as stormy weather brings flash flood risk</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CBS News</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNZjM1aGJ4eXpPSUF3LTZ3MFExSERWa1l3Z2ItbjBtXy1TMVNpVS1xRnVyRjVaQnBZb3g0Q1JlRGI5bWVLb3lPZXRsV2UxWTZPMDFWZFFDSm5BMFZFTU1nX1RfYi12NHl1QUdQLWFiVXBtNF9pX1RYNVFILV93anNFc2ZiUGRkOEstdFcyV2ZXaWl2UXEtdU1MS2VlZ0hkMXAzUWxzZ3JlTGFaU3FqbE5OaDBxa1Rodjh4WXBscnlnLVV1RTdCY0NOMHowQ1dVdWZNemRkcGNDV3hUUW9hWHZLbEUzUEZwdWxIbXNqZA?oc=5",
+        "date": "2026-08-06",
+        "title": "Flash Flood Warning issued August 6 at 5:43AM CDT until August 6 at 8:30AM CDT by NWS St Louis MO - abc17news.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxNZjM1aGJ4eXpPSUF3LTZ3MFExSERWa1l3Z2ItbjBtXy1TMVNpVS1xRnVyRjVaQnBZb3g0Q1JlRGI5bWVLb3lPZXRsV2UxWTZPMDFWZFFDSm5BMFZFTU1nX1RfYi12NHl1QUdQLWFiVXBtNF9pX1RYNVFILV93anNFc2ZiUGRkOEstdFcyV2ZXaWl2UXEtdU1MS2VlZ0hkMXAzUWxzZ3JlTGFaU3FqbE5OaDBxa1Rodjh4WXBscnlnLVV1RTdCY0NOMHowQ1dVdWZNemRkcGNDV3hUUW9hWHZLbEUzUEZwdWxIbXNqZA?oc=5\" target=\"_blank\">Flash Flood Warning issued August 6 at 5:43AM CDT until August 6 at 8:30AM CDT by NWS St Louis MO</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">abc17news.com</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPeFppRm5qN3RoVTRnMVYzOVExS1dMdERaWTNHNkNycm9OZkxBQ2xCNk41dy0ybFNLY2oyeElTVVVNX2lLUTlNeFJndmN0SEZESVlCcmV1R3Bqay04bTAzdktIZDk5cHl3N2JTUWZzMl9JdEFuX1dFZDdFWmtrSGJUS1lXcmJRYk5sUWhxcHBxMGtpNXlQYWl5cjE3SmRXTHlHN1VHU3dGaENackJYeDR6a19GSUZMbzRnYlR2Q242THhTVHp3MERNTzlmdzE?oc=5",
+        "date": "2026-08-06",
+        "title": "Central NY weather: Flash flooding, storms, heat index in the 90s for Thursday and Friday - Syracuse.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxPeFppRm5qN3RoVTRnMVYzOVExS1dMdERaWTNHNkNycm9OZkxBQ2xCNk41dy0ybFNLY2oyeElTVVVNX2lLUTlNeFJndmN0SEZESVlCcmV1R3Bqay04bTAzdktIZDk5cHl3N2JTUWZzMl9JdEFuX1dFZDdFWmtrSGJUS1lXcmJRYk5sUWhxcHBxMGtpNXlQYWl5cjE3SmRXTHlHN1VHU3dGaENackJYeDR6a19GSUZMbzRnYlR2Q242THhTVHp3MERNTzlmdzE?oc=5\" target=\"_blank\">Central NY weather: Flash flooding, storms, heat index in the 90s for Thursday and Friday</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Syracuse.com</font>",
+        "similarity_excluded": "No",
+        "score": 6,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNamJjS25ZMXRNYno3a2I4VDFqNnlzazVvNi15RU9NejkxWkYtSm5lX0doM1ZDSGJBbnVLY3JDaVBhbTdpYzFlV3pMZ19yZ2V4RGc5Wk9QcW9nOEZQMHRRVUlmMGFGRUl3d3EtRVV3TjI2dGFVTm1TYmJObEo4M016M0xQOGx5YmZZdFk1QTlOWE9Dd2lZaU5MWnRXckJQd0l4RmdXWlpkV2xiUkhMS0pmUjJEWF9LUGlfZUtyVXd2dV9uclRjeXpxV3Rocno2S0dXai1N?oc=5",
+        "date": "2026-08-06",
+        "title": "Morning Roundup: Verona man faces charges for robbery and assault; flash flood warnings continue for some areas - TribLIVE.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxNamJjS25ZMXRNYno3a2I4VDFqNnlzazVvNi15RU9NejkxWkYtSm5lX0doM1ZDSGJBbnVLY3JDaVBhbTdpYzFlV3pMZ19yZ2V4RGc5Wk9QcW9nOEZQMHRRVUlmMGFGRUl3d3EtRVV3TjI2dGFVTm1TYmJObEo4M016M0xQOGx5YmZZdFk1QTlOWE9Dd2lZaU5MWnRXckJQd0l4RmdXWlpkV2xiUkhMS0pmUjJEWF9LUGlfZUtyVXd2dV9uclRjeXpxV3Rocno2S0dXai1N?oc=5\" target=\"_blank\">Morning Roundup: Verona man faces charges for robbery and assault; flash flood warnings continue for some areas</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TribLIVE.com</font>",
+        "similarity_excluded": "No",
+        "score": 5,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSVVGWWNIdWI0RWFPazAyY29hMGdleERRZlVTdHdRbmw5RUNfanU2d050Mnd3TVJtaGxDb2lxVjdGZ0hfdkliNnFlcGxKQnczdVlRRmxJUXFOSF9ramg5U0xsY2pQdVdkX1NTZ0RuMmZkSGxuOXpSRnRWX2cyVzUzN2w1Q3oxa2JDaDRldFhhbC1Ga0FrdlowWW5xMU5UVHh1Zzl2WGk3a2Q?oc=5",
+        "date": "2026-08-06",
+        "title": "Drenching Downpours Will Raise Flash-Flood Threat Across Northeast: Timing - DailyVoice.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSVVGWWNIdWI0RWFPazAyY29hMGdleERRZlVTdHdRbmw5RUNfanU2d050Mnd3TVJtaGxDb2lxVjdGZ0hfdkliNnFlcGxKQnczdVlRRmxJUXFOSF9ramg5U0xsY2pQdVdkX1NTZ0RuMmZkSGxuOXpSRnRWX2cyVzUzN2w1Q3oxa2JDaDRldFhhbC1Ga0FrdlowWW5xMU5UVHh1Zzl2WGk3a2Q?oc=5\" target=\"_blank\">Drenching Downpours Will Raise Flash-Flood Threat Across Northeast: Timing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DailyVoice.com</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOR0NKOXI2WE1YV0hLSzNXRmMza3VMVW96V0x0UVpGejhTejRHb1FhUWlkcFRaM0tNM0czWDJLODVSTE54elNlTEd3TXpYcVB0elZYS1RuSkNtdDJxbHpZdEUxNmVIanY2RWJtWEhYWFdhMlhzQ3djOWZyNWV1cGxYSW0yUDVjckEyMmttTXNoRDhNVVNEbTlya3FaRXl6TnczZzY2bnZiSFBsTHZyZDh2b2dB0gG3AUFVX3lxTFBfa1ZDYlhKaDVpRlZOTUdCT1VSTTVNOEl2bnExOUZJY2RrMmk5MWoyQlZ5cWx6Sl9jaElDel9jSVBCSjNqQmVfRVJ3SExDLWhCQlE5MnppaWlwMnZkSlJGQW1SQ1dRY0diZC1qTEo3dmZhX20tVExLeTI0NDE3N2R2d212RVdCZzJqektHUGJxNW5sdTVtY1I1Q2x2OWRyc2VZQnpmUFJ3dlNycDVUN1NqR3BvS2FuSQ?oc=5",
+        "date": "2026-08-06",
+        "title": "'Small Battle Won, But War Still Ahead': Kerala High Court Lauds Flood-Prevention Efforts In Kochi, Urges ... - livelaw.in",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOR0NKOXI2WE1YV0hLSzNXRmMza3VMVW96V0x0UVpGejhTejRHb1FhUWlkcFRaM0tNM0czWDJLODVSTE54elNlTEd3TXpYcVB0elZYS1RuSkNtdDJxbHpZdEUxNmVIanY2RWJtWEhYWFdhMlhzQ3djOWZyNWV1cGxYSW0yUDVjckEyMmttTXNoRDhNVVNEbTlya3FaRXl6TnczZzY2bnZiSFBsTHZyZDh2b2dB0gG3AUFVX3lxTFBfa1ZDYlhKaDVpRlZOTUdCT1VSTTVNOEl2bnExOUZJY2RrMmk5MWoyQlZ5cWx6Sl9jaElDel9jSVBCSjNqQmVfRVJ3SExDLWhCQlE5MnppaWlwMnZkSlJGQW1SQ1dRY0diZC1qTEo3dmZhX20tVExLeTI0NDE3N2R2d212RVdCZzJqektHUGJxNW5sdTVtY1I1Q2x2OWRyc2VZQnpmUFJ3dlNycDVUN1NqR3BvS2FuSQ?oc=5\" target=\"_blank\">'Small Battle Won, But War Still Ahead': Kerala High Court Lauds Flood-Prevention Efforts In Kochi, Urges ...</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">livelaw.in</font>",
+        "similarity_excluded": "No",
+        "score": 6,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPQ3VEYWRNRHQyWm1CcWFFVVVkMENCUWR5LUdWV0dGbGF0cHBqd1RhUGRQUHFGTDFraVpkVmZrS3FWcXlDX3MzZXpyTFo0ZkJXMzdnX2VCVVVJQUtWUE9qdHRxa29mdzIteExpTzJOMHgtTUt2Q1F5U2xoXzVsR0xiT0Z4VEI1YzJ2VmdUZHliVXB0QUVHcnBoaFdSSUI4ZFp1UkJib3dUY0N4REtnTHEzc2dkTURfRVFnaXdOelBxVlpwc1poMlo5cVZ4bzZicjdwZFNwS2l1djNVQQ?oc=5",
+        "date": "2026-08-06",
+        "title": "Monsoon surge floods Guam, triggers Nimitz Hill landslide - The Guam Daily Post",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxPQ3VEYWRNRHQyWm1CcWFFVVVkMENCUWR5LUdWV0dGbGF0cHBqd1RhUGRQUHFGTDFraVpkVmZrS3FWcXlDX3MzZXpyTFo0ZkJXMzdnX2VCVVVJQUtWUE9qdHRxa29mdzIteExpTzJOMHgtTUt2Q1F5U2xoXzVsR0xiT0Z4VEI1YzJ2VmdUZHliVXB0QUVHcnBoaFdSSUI4ZFp1UkJib3dUY0N4REtnTHEzc2dkTURfRVFnaXdOelBxVlpwc1poMlo5cVZ4bzZicjdwZFNwS2l1djNVQQ?oc=5\" target=\"_blank\">Monsoon surge floods Guam, triggers Nimitz Hill landslide</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guam Daily Post</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBpSk5UaUJ1bUhjSHYzSXpRbHpUZ2VOcnVCYW83UjBaTEZLdWc4NF9qUU9TaE4xYVktYnBENGxNSGZPOTlFV29qbEN6WXJuRHV0TXRwa09tUWIwUlJ3cmtXRG1nelZVRFVvOEYw?oc=5",
+        "date": "2026-08-06",
+        "title": "Heavy rain forecast in four divisions; landslide risk in Chattogram - Banglanews24",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTFBpSk5UaUJ1bUhjSHYzSXpRbHpUZ2VOcnVCYW83UjBaTEZLdWc4NF9qUU9TaE4xYVktYnBENGxNSGZPOTlFV29qbEN6WXJuRHV0TXRwa09tUWIwUlJ3cmtXRG1nelZVRFVvOEYw?oc=5\" target=\"_blank\">Heavy rain forecast in four divisions; landslide risk in Chattogram</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Banglanews24</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQNDJoTU5fTlFYTV9XWmREX0VEaU9tSWNIN24zZXJ0UDNaNm5tTUxuODRUMjAyWGJ2bmFqMUhfRDlMQlRSUnVaNXFrWmtYcXl6b2lWbC1JVnJMNnptelM4TnZNb0FTY1QyMXBFU3NWWF9IUmlWWGVsRDdhZWtweTBlR0djMDJVOU44TE5DN29Tb2syanpRTm9oa2VpeTg3Sy0xZGI5QlUzSmxwNkR3NVIybHdrV3p1ZW9yVVhpRndockJQWVg5eW9fa08wa2VBZlpEM0dfMmFGWGV5N2cwaWhNbEFYNF9YZm5LbTF0dA?oc=5",
+        "date": "2026-08-06",
+        "title": "Flash Flood Warning issued August 6 at 5:04AM CDT until August 6 at 8:30AM CDT by NWS St Louis MO - abc17news.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxQNDJoTU5fTlFYTV9XWmREX0VEaU9tSWNIN24zZXJ0UDNaNm5tTUxuODRUMjAyWGJ2bmFqMUhfRDlMQlRSUnVaNXFrWmtYcXl6b2lWbC1JVnJMNnptelM4TnZNb0FTY1QyMXBFU3NWWF9IUmlWWGVsRDdhZWtweTBlR0djMDJVOU44TE5DN29Tb2syanpRTm9oa2VpeTg3Sy0xZGI5QlUzSmxwNkR3NVIybHdrV3p1ZW9yVVhpRndockJQWVg5eW9fa08wa2VBZlpEM0dfMmFGWGV5N2cwaWhNbEFYNF9YZm5LbTF0dA?oc=5\" target=\"_blank\">Flash Flood Warning issued August 6 at 5:04AM CDT until August 6 at 8:30AM CDT by NWS St Louis MO</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">abc17news.com</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 FORECAST St. Louis MO: Flash flood warning until 8:30AM CDT by NWS",
+        "type": "news",
+        "tweet_id": "2085343035160744439",
+        "geo": {
+            "country": "United States",
+            "name": "St. Louis, Missouri",
+            "latitude": 38.627,
+            "longitude": -90.1994,
+            "confidence": 0.75
+        }
     }
 ]
