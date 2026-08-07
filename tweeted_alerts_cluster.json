@@ -14544,7 +14544,7 @@
     "rain_mm": 47.62,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 9.108,
-    "last_updated": "2026-08-06T11:25:30.526086Z",
+    "last_updated": "2026-08-07T15:58:18.580918Z",
     "last_tweeted_at": "2026-08-06T08:30:59.613003Z",
     "tweet_id": "2085282775330861503",
     "resolved": false
@@ -26412,7 +26412,7 @@
     "rain_mm": 43.56,
     "soil_moisture": 0.635,
     "raw_dynamic_score": 6.896,
-    "last_updated": "2026-08-07T10:06:24.900277Z",
+    "last_updated": "2026-08-07T15:58:18.580918Z",
     "last_tweeted_at": "2026-07-01T17:19:19.849474Z",
     "tweet_id": "2072370766880837744",
     "resolved": false
@@ -34634,7 +34634,7 @@
     "rain_mm": 60.25,
     "soil_moisture": 0.544,
     "raw_dynamic_score": 9.039,
-    "last_updated": "2026-08-07T10:06:24.900277Z",
+    "last_updated": "2026-08-07T15:58:18.580918Z",
     "last_tweeted_at": "2026-08-02T06:00:15.717302Z",
     "tweet_id": "2083795531189395827",
     "resolved": false
@@ -36171,7 +36171,7 @@
     "rain_mm": 68.25,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 13.053,
-    "last_updated": "2026-08-07T10:06:24.900277Z",
+    "last_updated": "2026-08-07T15:58:18.580918Z",
     "last_tweeted_at": "2026-08-07T05:01:19.200559Z",
     "tweet_id": "2085592132971335716",
     "resolved": false,
@@ -36475,9 +36475,39 @@
     "rain_mm": 58.12,
     "soil_moisture": 0.636,
     "raw_dynamic_score": 9.205,
-    "last_updated": "2026-08-07T10:06:24.900277Z",
+    "last_updated": "2026-08-07T15:58:18.580918Z",
     "last_tweeted_at": "2026-08-07T10:06:24.900277Z",
     "tweet_id": "2085668907722084377",
+    "resolved": false
+  },
+  "11.1039,5.2556": {
+    "country": "Nigeria",
+    "name": "Rijau",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 11.10389,
+    "longitude": 5.25556,
+    "rain_mm": 46.25,
+    "soil_moisture": 0.473,
+    "raw_dynamic_score": 6.643,
+    "last_updated": "2026-08-07T15:58:18.580918Z",
+    "last_tweeted_at": "2026-08-07T15:58:18.580918Z",
+    "tweet_id": "2085757460996923420",
+    "resolved": false
+  },
+  "12.9908,7.6018": {
+    "country": "Nigeria",
+    "name": "Katsina",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 12.99082,
+    "longitude": 7.60177,
+    "rain_mm": 63.38,
+    "soil_moisture": 0.391,
+    "raw_dynamic_score": 8.634,
+    "last_updated": "2026-08-07T15:58:18.580918Z",
+    "last_tweeted_at": "2026-08-07T15:58:18.580918Z",
+    "tweet_id": "2085757713594667308",
     "resolved": false
   }
 }
