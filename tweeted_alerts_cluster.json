@@ -20854,7 +20854,7 @@
     "rain_mm": 42.94,
     "soil_moisture": 0.722,
     "raw_dynamic_score": 7.136,
-    "last_updated": "2026-08-07T00:03:54.131000Z",
+    "last_updated": "2026-08-07T02:25:36.635301Z",
     "last_tweeted_at": "2026-06-09T12:04:39.944649Z",
     "tweet_id": "2064318037910495435",
     "resolved": false
@@ -30953,7 +30953,7 @@
     "rain_mm": 45.06,
     "soil_moisture": 0.703,
     "raw_dynamic_score": 7.411,
-    "last_updated": "2026-08-07T00:03:54.131000Z",
+    "last_updated": "2026-08-07T02:25:36.635301Z",
     "last_tweeted_at": "2026-07-20T19:39:23.247229Z",
     "tweet_id": "2079291145096692082",
     "resolved": false
@@ -36133,7 +36133,7 @@
     "rain_mm": 42.69,
     "soil_moisture": 0.587,
     "raw_dynamic_score": 6.572,
-    "last_updated": "2026-08-07T00:03:54.131000Z",
+    "last_updated": "2026-08-07T02:25:36.635301Z",
     "last_tweeted_at": "2026-08-05T11:22:48.749735Z",
     "tweet_id": "2084963605460791386",
     "resolved": false
@@ -36148,7 +36148,7 @@
     "rain_mm": 42.69,
     "soil_moisture": 0.587,
     "raw_dynamic_score": 6.572,
-    "last_updated": "2026-08-07T00:03:54.131000Z",
+    "last_updated": "2026-08-07T02:25:36.635301Z",
     "last_tweeted_at": "2026-08-05T11:22:48.749735Z",
     "tweet_id": "2084963857957863858",
     "resolved": false
@@ -36622,7 +36622,7 @@
     "rain_mm": 42.25,
     "soil_moisture": 0.616,
     "raw_dynamic_score": 6.614,
-    "last_updated": "2026-08-07T00:03:54.131000Z",
+    "last_updated": "2026-08-07T02:25:36.635301Z",
     "last_tweeted_at": "2026-08-07T00:03:54.131000Z",
     "tweet_id": "2085517294998843450",
     "resolved": false
@@ -36640,6 +36640,21 @@
     "last_updated": "2026-08-07T00:03:54.131000Z",
     "last_tweeted_at": "2026-08-07T00:03:54.131000Z",
     "tweet_id": "2085517547563041067",
+    "resolved": false
+  },
+  "16.6017,-15.3487": {
+    "country": "Mauritania",
+    "name": "Tékane",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 16.60175,
+    "longitude": -15.34866,
+    "rain_mm": 52.81,
+    "soil_moisture": 0.375,
+    "raw_dynamic_score": 7.121,
+    "last_updated": "2026-08-07T02:25:36.635301Z",
+    "last_tweeted_at": "2026-08-07T02:25:36.635301Z",
+    "tweet_id": "2085552957031125379",
     "resolved": false
   }
 }
