@@ -1,1142 +1,5 @@
 [
     {
-        "link": null,
-        "date": "2026-07-08",
-        "status": "posted",
-        "tweet": "Flood-exposed population by country (millions, 2025 proj.)\n1. \ud83c\uddee\ud83c\uddf3 India: 400\n2. \ud83c\udde8\ud83c\uddf3 China: 350\n3. \ud83c\udde7\ud83c\udde9 Bangladesh: 85\n4. \ud83c\uddfb\ud83c\uddf3 Vietnam: 60\n5. \ud83c\uddf5\ud83c\uddf0 Pakistan: 50",
-        "type": "statistical",
-        "category": "population living in floodplains",
-        "tweet_id": "2074718443148873800"
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5ZdzdKNmE0cC1LaWZxVXdzZ21GanpuODd3WVRLVV9fc0tkZTlWcmdBMFVMTEM5czNoWUNhWmxyYWVUZk9FY0JVcnoxUnN5R3RYc2hYSzlPVEx1Q2ZaV3JQYVVDRkJNdnREdHdQOE90OXYzYjJWdHdF?oc=5",
-        "date": "2026-07-08",
-        "title": "Flash flood warning affecting Eastern North Carolina until 2 a.m. Wednesday - Raleigh News & Observer",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE5ZdzdKNmE0cC1LaWZxVXdzZ21GanpuODd3WVRLVV9fc0tkZTlWcmdBMFVMTEM5czNoWUNhWmxyYWVUZk9FY0JVcnoxUnN5R3RYc2hYSzlPVEx1Q2ZaV3JQYVVDRkJNdnREdHdQOE90OXYzYjJWdHdF?oc=5\" target=\"_blank\">Flash flood warning affecting Eastern North Carolina until 2 a.m. Wednesday</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Raleigh News & Observer</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNRGFXU2I3bWFnWVY2OHlHMG9IanFfM09lbzUyZUtoblNvX1dibVhCbERqWEpKNW9rNDhFcEVhSFBRamw4MFk3SWlmSGtjTXZ3UnFQdjR1S1hxd2VETVF0ZGx1Z3JnNmJaNmxlMUUtZTJ4TWkzSmd4VEZPd0lYS25wSmdHX3cyUkNoZXc?oc=5",
-        "date": "2026-07-08",
-        "title": "Impact weather: More scattered storms Wednesday to bring more threats for flash flooding - WLKY",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxNRGFXU2I3bWFnWVY2OHlHMG9IanFfM09lbzUyZUtoblNvX1dibVhCbERqWEpKNW9rNDhFcEVhSFBRamw4MFk3SWlmSGtjTXZ3UnFQdjR1S1hxd2VETVF0ZGx1Z3JnNmJaNmxlMUUtZTJ4TWkzSmd4VEZPd0lYS25wSmdHX3cyUkNoZXc?oc=5\" target=\"_blank\">Impact weather: More scattered storms Wednesday to bring more threats for flash flooding</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WLKY</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQS1hBNlJ3ZkVlT1hySjRvRUFhdklUVDJfU1MtWTJFWWx0MHZ6aXNwLVIyWm5QU3BoR2FudGlLTTgxTzI1akpTZGRBcWd2Z1JqUVJaaXJlWFI3bkNMMW12QnRacVp3N3EtTGN4ejBZckZRbU94RXc3SkZMZVZpSmEyMktqX2FkVXBwalpoeGR5X1JyUm5RM2JNcmFKaFBKaEdUT1NzZXdwazJ0Y2IwYXBpM2lsMnEyUVRFV0tjc9IBwgFBVV95cUxPTGxTZjJueVJwYU1Ld2d1UUVzRE1BOTNjbkoxd2xEbDF4cWlEM2UzQmVBTVlGdlpfV0JMQmxNN0dsYkpRWFJEZ01RNXhYYUFnd2Z6dVhjSmZoanhZY0drNE45OGxjbjRDMzZTX3c5aWJERjcyRkNuT2JZNkNaUmRGYkM4WVlyeGVYUzhCMDdMUjJsQlh0UXRQU1liQVlwZzBTR2cxWmVRcDVoUXhRVzBxVTk5aXJRVTZGa1FfTmZ3NWltZw?oc=5",
-        "date": "2026-07-08",
-        "title": "Coastal flood advisory active for San Francisco County from Thursday to Thursday - The Mercury News",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQS1hBNlJ3ZkVlT1hySjRvRUFhdklUVDJfU1MtWTJFWWx0MHZ6aXNwLVIyWm5QU3BoR2FudGlLTTgxTzI1akpTZGRBcWd2Z1JqUVJaaXJlWFI3bkNMMW12QnRacVp3N3EtTGN4ejBZckZRbU94RXc3SkZMZVZpSmEyMktqX2FkVXBwalpoeGR5X1JyUm5RM2JNcmFKaFBKaEdUT1NzZXdwazJ0Y2IwYXBpM2lsMnEyUVRFV0tjc9IBwgFBVV95cUxPTGxTZjJueVJwYU1Ld2d1UUVzRE1BOTNjbkoxd2xEbDF4cWlEM2UzQmVBTVlGdlpfV0JMQmxNN0dsYkpRWFJEZ01RNXhYYUFnd2Z6dVhjSmZoanhZY0drNE45OGxjbjRDMzZTX3c5aWJERjcyRkNuT2JZNkNaUmRGYkM4WVlyeGVYUzhCMDdMUjJsQlh0UXRQU1liQVlwZzBTR2cxWmVRcDVoUXhRVzBxVTk5aXJRVTZGa1FfTmZ3NWltZw?oc=5\" target=\"_blank\">Coastal flood advisory active for San Francisco County from Thursday to Thursday</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Mercury News</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRW4ycG8xYWw3OEhzcmROem54VXJyNkdIVWZ4OFZtdnRHZkJKQjM0ZWRDVXdEeWhrbFZEa2dxaE53bl9uX2tYNU8tdGVFd2NxLUZYNWo2cXpmSW5MZEFrNmllRmZWT0NhZnU4b0x3U2Nvdy05enlaUWhKcVZuZFZxS1hVak8yYlFvT2RzT1ZnTjFCQndMMHRzRHBPREJLZTA?oc=5",
-        "date": "2026-07-08",
-        "title": "Wednesday brings flash flood and debris flow risk to Aspen Acres Fire - KOAA News 5",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQRW4ycG8xYWw3OEhzcmROem54VXJyNkdIVWZ4OFZtdnRHZkJKQjM0ZWRDVXdEeWhrbFZEa2dxaE53bl9uX2tYNU8tdGVFd2NxLUZYNWo2cXpmSW5MZEFrNmllRmZWT0NhZnU4b0x3U2Nvdy05enlaUWhKcVZuZFZxS1hVak8yYlFvT2RzT1ZnTjFCQndMMHRzRHBPREJLZTA?oc=5\" target=\"_blank\">Wednesday brings flash flood and debris flow risk to Aspen Acres Fire</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KOAA News 5</font>",
-        "similarity_excluded": "No",
-        "score": 8,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVVZrd2VTSGN3TWVXMjBIUFdiQWRkY1FENEZCNEFoZllhdXhhdk5OMTNtZmx2Z1h4enB0VWlUODR6SkNIaGgtTkJVR0Z5VUc1M0x1SnRHcUJrZEdTTEViTE1WZExPZGNFYlJna2xxXzN0M3Q4TTVBV2xPTUFkUHlOc0JKUDYxcDZ6cVlkRzBLc3VYanprWVRJOFo1Q3NjWHpLU3YwMUNCYnY?oc=5",
-        "date": "2026-07-08",
-        "title": "Wednesday brings flash flood and debris flow risk to Aspen Acres Fire - KOAA News 5",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVVZrd2VTSGN3TWVXMjBIUFdiQWRkY1FENEZCNEFoZllhdXhhdk5OMTNtZmx2Z1h4enB0VWlUODR6SkNIaGgtTkJVR0Z5VUc1M0x1SnRHcUJrZEdTTEViTE1WZExPZGNFYlJna2xxXzN0M3Q4TTVBV2xPTUFkUHlOc0JKUDYxcDZ6cVlkRzBLc3VYanprWVRJOFo1Q3NjWHpLU3YwMUNCYnY?oc=5\" target=\"_blank\">Wednesday brings flash flood and debris flow risk to Aspen Acres Fire</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KOAA News 5</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQcDg3aGIzZVF6SjJEU1g3a3ZySjFpV3kyeHJYcUgtVTlpaFk2QllwS2JRRGp4SV9RSGZrZENxS3I3bDBKOHlLaWxoeUdvLU1XZUNBbTkyWGxmd3hUX0hJV0F3UWxpbHRINFFnMUphOWFUN3RveUtkYW40VDFDZHlPNzlKQzlTTEhyLXlqS0w1cm1uTldPUUFrek1UaDZFZ2xIMUdZNmlRelQtdVM5eFZwZUYtRUlhT1VBc25Yci1hQdIBxAFBVV95cUxNZlZTeml4VlZvTG00UlBXdEdObHFpQVdfam1fOC01M0dHV2p1TUxEZXJHS053aEdhb0lCOHBIRDJTdGg3VlBsV2dQM3VfQllYVXVLSm90T05zVXJsZm5tZ1NwcjlkVkxMRVQySzh4UjY1Y1lSV01UaGpBTWU1MmVSM0hYa2w4ak5nVnlDYnRSeUZ3M2thTjljSUtMa3puYXJlOWcyZlpOT2ZDejVjZGZWU3RUUl95YlR2SzNjUHM0aS1pUW9h?oc=5",
-        "date": "2026-07-08",
-        "title": "Coastal flood advisory in place for Northern California from Saturday to Wednesday - The Mercury News",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQcDg3aGIzZVF6SjJEU1g3a3ZySjFpV3kyeHJYcUgtVTlpaFk2QllwS2JRRGp4SV9RSGZrZENxS3I3bDBKOHlLaWxoeUdvLU1XZUNBbTkyWGxmd3hUX0hJV0F3UWxpbHRINFFnMUphOWFUN3RveUtkYW40VDFDZHlPNzlKQzlTTEhyLXlqS0w1cm1uTldPUUFrek1UaDZFZ2xIMUdZNmlRelQtdVM5eFZwZUYtRUlhT1VBc25Yci1hQdIBxAFBVV95cUxNZlZTeml4VlZvTG00UlBXdEdObHFpQVdfam1fOC01M0dHV2p1TUxEZXJHS053aEdhb0lCOHBIRDJTdGg3VlBsV2dQM3VfQllYVXVLSm90T05zVXJsZm5tZ1NwcjlkVkxMRVQySzh4UjY1Y1lSV01UaGpBTWU1MmVSM0hYa2w4ak5nVnlDYnRSeUZ3M2thTjljSUtMa3puYXJlOWcyZlpOT2ZDejVjZGZWU3RUUl95YlR2SzNjUHM0aS1pUW9h?oc=5\" target=\"_blank\">Coastal flood advisory in place for Northern California from Saturday to Wednesday</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Mercury News</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPQWI1TU1vbG9SdkN5OURlaklXaU9mSFlSVzhvYU1LblljVTlhM01ZRXR4enlhN0hsMzVVTHZrYzRfMlF1dG1BTGR0RTN0T29JSFJVSmpUalR5MGs1SlJGb1RtbXNLZXJ5al9iMTFWdWxCZXdoSFZhQ0FmRDNNeU9oSi00bktpWXZFX196Qy1rMlVkZHAtc3dwQXp2ZU0wSFpMWHUxVDd2ZlFfbEI5b1VWXzRCdXZnTlpjck52Y0VXRmF0R1dXaFZVZ2RWdG5NVldZWE5YUDZUYWY4X21tTUVlWGRZWkrSAeoBQVVfeXFMTzRJLVRmOW1wZ1JBME9iR3FiRnRrMDdLRGNLZEFnU2RJb25IUWtWQnE0aHVxQWU2RExHUW1ESTB1bGdMbmRXV3RMRzZqYjRBVUU4aW5mdmhuUnNmV0pTRUFReUFkcWNNRFF6N0dnZmJyc1JhOVZmMWVnM1VtcWJSRlBWOURLSXFsNWdQbFN4YmVzTjhQdWhMU1JtRm9oTTdRYWNWU3p3MGQ5Y2Zqbk5rbktISnQzbnNrd25EbnFsX1l0SHB6VmlMTW53bFllbXJ0SnRjNVgzXzVLcXFsb3pIOWFEWXVrNnI4NnRR?oc=5",
-        "date": "2026-07-08",
-        "title": "India Monsoon 2026: IMD warns of flash floods in 3 states over next 24 hours amid heavy rain - Moneycontrol.com",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxPQWI1TU1vbG9SdkN5OURlaklXaU9mSFlSVzhvYU1LblljVTlhM01ZRXR4enlhN0hsMzVVTHZrYzRfMlF1dG1BTGR0RTN0T29JSFJVSmpUalR5MGs1SlJGb1RtbXNLZXJ5al9iMTFWdWxCZXdoSFZhQ0FmRDNNeU9oSi00bktpWXZFX196Qy1rMlVkZHAtc3dwQXp2ZU0wSFpMWHUxVDd2ZlFfbEI5b1VWXzRCdXZnTlpjck52Y0VXRmF0R1dXaFZVZ2RWdG5NVldZWE5YUDZUYWY4X21tTUVlWGRZWkrSAeoBQVVfeXFMTzRJLVRmOW1wZ1JBME9iR3FiRnRrMDdLRGNLZEFnU2RJb25IUWtWQnE0aHVxQWU2RExHUW1ESTB1bGdMbmRXV3RMRzZqYjRBVUU4aW5mdmhuUnNmV0pTRUFReUFkcWNNRFF6N0dnZmJyc1JhOVZmMWVnM1VtcWJSRlBWOURLSXFsNWdQbFN4YmVzTjhQdWhMU1JtRm9oTTdRYWNWU3p3MGQ5Y2Zqbk5rbktISnQzbnNrd25EbnFsX1l0SHB6VmlMTW53bFllbXJ0SnRjNVgzXzVLcXFsb3pIOWFEWXVrNnI4NnRR?oc=5\" target=\"_blank\">India Monsoon 2026: IMD warns of flash floods in 3 states over next 24 hours amid heavy rain</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Moneycontrol.com</font>",
-        "similarity_excluded": "No",
-        "score": 9,
-        "status": "processed",
-        "tweet": null,
-        "tweet_id": "2074758381219250379",
-        "geo": {
-            "country": "India",
-            "name": null,
-            "latitude": null,
-            "longitude": null,
-            "confidence": 0.4
-        }
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPQ3ROUVRmZ2R5RXhoSG9uNkNmclV6dXJacV9OcVB6UmItSmRlb1NyLTljU1dVRXlFQkVWR3VTemlWcWdBN040bGM2QlNfaEVuQ2VNT2RMYUd0STcwa1BuOTlyeDF5RXEwTUo1UVhOT0ZadVJIckxmTGRuYTJ2X2sxMjdiekRiVjA?oc=5",
-        "date": "2026-07-08",
-        "title": "At Least 17 Dead in China After Flooding and Tornadoes During Typhoon Maysak - The New York Times",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxPQ3ROUVRmZ2R5RXhoSG9uNkNmclV6dXJacV9OcVB6UmItSmRlb1NyLTljU1dVRXlFQkVWR3VTemlWcWdBN040bGM2QlNfaEVuQ2VNT2RMYUd0STcwa1BuOTlyeDF5RXEwTUo1UVhOT0ZadVJIckxmTGRuYTJ2X2sxMjdiekRiVjA?oc=5\" target=\"_blank\">At Least 17 Dead in China After Flooding and Tornadoes During Typhoon Maysak</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPYWxISVRmV1dyaHBtdGloYzd3VGxNRjZlMTVhMlhSYkNRX0RUUElxeDZFWG90cGpqWlUzd2NZUHplanFpY0w1cTRxSG5aTGRIZ1JXbU9BX2g2Z00ybjRvZ09kYzhOMVdzWHM3eC04ZjFSZ1loSE5iREhRdjV0M3lXT0NZS1VsQXZDTG16OW1TVGdDRnVkanREY1Q1N2RTSkVOWFA3TUlTN2FyWFhoY0V6RQ?oc=5",
-        "date": "2026-07-08",
-        "title": "THA: Flood - 07-2026 - Windstorm and Flooding caused by Typhoon Maysak (2026-07-07) - ReliefWeb",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPYWxISVRmV1dyaHBtdGloYzd3VGxNRjZlMTVhMlhSYkNRX0RUUElxeDZFWG90cGpqWlUzd2NZUHplanFpY0w1cTRxSG5aTGRIZ1JXbU9BX2g2Z00ybjRvZ09kYzhOMVdzWHM3eC04ZjFSZ1loSE5iREhRdjV0M3lXT0NZS1VsQXZDTG16OW1TVGdDRnVkanREY1Q1N2RTSkVOWFA3TUlTN2FyWFhoY0V6RQ?oc=5\" target=\"_blank\">THA: Flood - 07-2026 - Windstorm and Flooding caused by Typhoon Maysak (2026-07-07)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ReliefWeb</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOZVBxUElLMzZabW9NSGhTVTFVN3lkc0xVRW1kZFlQSURkOVRJMURnTTJKVXZjcE02V2dUalAzN0hWSFhxUHZxR0o1MURUblRDMDJvT1dmNmtLcGhGUGRxRXNoMGVWTTFSaVd6NG8zNFBzNC1SUlpac2daUEx1eGF6d0x1c2xYUk1qdUk4VmZhYUREeFlJZTdBcXBma25VSlBEbFRBUlZHbTB0S0tRT2VWeDlJR1phWm95aEZsQjB5NF9LSk8tZ2RZclpHeDg1VHBBdFdJ?oc=5",
-        "date": "2026-07-08",
-        "title": "Around 900 snakes escape flooded farm after Typhoon Maysak hits southern China - VnExpress International",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxOZVBxUElLMzZabW9NSGhTVTFVN3lkc0xVRW1kZFlQSURkOVRJMURnTTJKVXZjcE02V2dUalAzN0hWSFhxUHZxR0o1MURUblRDMDJvT1dmNmtLcGhGUGRxRXNoMGVWTTFSaVd6NG8zNFBzNC1SUlpac2daUEx1eGF6d0x1c2xYUk1qdUk4VmZhYUREeFlJZTdBcXBma25VSlBEbFRBUlZHbTB0S0tRT2VWeDlJR1phWm95aEZsQjB5NF9LSk8tZ2RZclpHeDg1VHBBdFdJ?oc=5\" target=\"_blank\">Around 900 snakes escape flooded farm after Typhoon Maysak hits southern China</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VnExpress International</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBiZDJOa0FnZTRtN0oyQTlNUG1aYkRzY05ZWnZHcjhyZlg2a0NYNEVTRk5TTHNWODZlb0pQYzQ3b2RoXzVReGIyZGl4Um5sTXhMRFJxcA?oc=5",
-        "date": "2026-07-08",
-        "title": "Typhoon triggers floods and rare tornadoes in China, leaving 17 dead and hundreds injured - Saudi Gazette",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTFBiZDJOa0FnZTRtN0oyQTlNUG1aYkRzY05ZWnZHcjhyZlg2a0NYNEVTRk5TTHNWODZlb0pQYzQ3b2RoXzVReGIyZGl4Um5sTXhMRFJxcA?oc=5\" target=\"_blank\">Typhoon triggers floods and rare tornadoes in China, leaving 17 dead and hundreds injured</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Saudi Gazette</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPWHRPNzMwME5PUS02TmRWN0cxYkdjaVpVMmotaktwR013a2N6OGVmZ1E0YUNiWFJhY1RBZktvY1hUdzJfcGVRZXAtVVpzODA3MmFIVXBGTWE0X245cEw0WUJqRGcySTdZUnV3TG1LRVNZX21qZWlYbENXQmsyV3czUEM5ZUxPSU9zWG5nV1JrUjJFMnFrRURTaTJTRmZSWlBBSF9vRng5VktDeC1VblI1TExjTFVJT3VyYnlITnF6b9IBxAFBVV95cUxNbHA0TEMxZW5QQ19RbHplU2toa1JLRWxxU1UxM2U4MG1CR0Z4R2ZnTktWZFA1ZGpiNTZGNWlrNVVUaXFDNXUtZGVneGt6cWxBSHlSSDVZMWdaSUJsRUhWak1hNzQwZnNOU09ELUtyUG90d2RQQURfeWlqdVYzWXVfaGdvZnQ0cE1tRWgxQ2FYeDVHXzd4OUVoeUI3eTI4Skt3OF9ZMXY1YkJpZzBYMDNrQW04RE1TbVZYRG1iOEw0MThkdm9B?oc=5",
-        "date": "2026-07-08",
-        "title": "Monsoon rains bring Gurugram to a halt as school bus partially sinks into caved-in road | Watch - livemint.com",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxPWHRPNzMwME5PUS02TmRWN0cxYkdjaVpVMmotaktwR013a2N6OGVmZ1E0YUNiWFJhY1RBZktvY1hUdzJfcGVRZXAtVVpzODA3MmFIVXBGTWE0X245cEw0WUJqRGcySTdZUnV3TG1LRVNZX21qZWlYbENXQmsyV3czUEM5ZUxPSU9zWG5nV1JrUjJFMnFrRURTaTJTRmZSWlBBSF9vRng5VktDeC1VblI1TExjTFVJT3VyYnlITnF6b9IBxAFBVV95cUxNbHA0TEMxZW5QQ19RbHplU2toa1JLRWxxU1UxM2U4MG1CR0Z4R2ZnTktWZFA1ZGpiNTZGNWlrNVVUaXFDNXUtZGVneGt6cWxBSHlSSDVZMWdaSUJsRUhWak1hNzQwZnNOU09ELUtyUG90d2RQQURfeWlqdVYzWXVfaGdvZnQ0cE1tRWgxQ2FYeDVHXzd4OUVoeUI3eTI4Skt3OF9ZMXY1YkJpZzBYMDNrQW04RE1TbVZYRG1iOEw0MThkdm9B?oc=5\" target=\"_blank\">Monsoon rains bring Gurugram to a halt as school bus partially sinks into caved-in road | Watch</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">livemint.com</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQb0FNSjhtMGdQVWFxMnZMMkFsdVp0ZC0teHN0U0JQOWR1TVp4VWwzelVqS0xxN05NWDhaWTJnSjRDQmlTOWFqRmVFbl9ESm5qd3BSb252TU1FMkRxMjFCZzRmczk5MWtjM1M5OGt0eHNGcTk2Z3VtMlJzV09sTjJ5RElwQ3RUT0FORmlGd19qZ1JTelhXX3dlOTNYcU5uTzR6ZDI0RFY4bS1QT1h5YVNDYV8tTzFVckZBaTdtYWtBSkNtd3VBSlIxQ2xKZktxQQ?oc=5",
-        "date": "2026-07-08",
-        "title": "Monsoon Risks Rise: Experts Warn of Droughts, Floods, and Landslides in HKH Region - Ratopati",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxQb0FNSjhtMGdQVWFxMnZMMkFsdVp0ZC0teHN0U0JQOWR1TVp4VWwzelVqS0xxN05NWDhaWTJnSjRDQmlTOWFqRmVFbl9ESm5qd3BSb252TU1FMkRxMjFCZzRmczk5MWtjM1M5OGt0eHNGcTk2Z3VtMlJzV09sTjJ5RElwQ3RUT0FORmlGd19qZ1JTelhXX3dlOTNYcU5uTzR6ZDI0RFY4bS1QT1h5YVNDYV8tTzFVckZBaTdtYWtBSkNtd3VBSlIxQ2xKZktxQQ?oc=5\" target=\"_blank\">Monsoon Risks Rise: Experts Warn of Droughts, Floods, and Landslides in HKH Region</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Ratopati</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQS1ZsVWpoTDJyV1BtNVBuSFJ2ZHhMVXpkQ0dScTFuZGpHeFZ5V0VNVmw5UkwxcFpFV0czYlBfcVZaREVQSFZ2dExmQnY2ZXNna1ByYUh0N2lBMGdQNjVOelNMYVBkRF9NN2dYdXd3VllpaHZubGJES21JaG53STZyc3RLMC1ELUJVQjZrQWRKeDVMeC15aXA5LWJfbGtKSUtBYl9kU2tlNUJpa2R6WGllVERua3haU1lhZFAwN0xiemstY29MUUM0bnFIdmJLNUdnSm5XMTBLaDY1YllZdGN6elg0N21HX0h2NEV5a2xVQmxJTGh2ZEtVU0JMZFVtU09KZ3JmT1I4UdIBjAJBVV95cUxQSFFzRHFqNENHcHl2ZUROUUZCNExTQjlrUmRTbFRPeTVKa3NlaWcxN01QNHdyS1BaTGtFOEtSVHd0UHgxS1RzZnZWR3hhZHIydkJJQlRBckVDdUpkZGdkckRXUXhFT0psUU9rLUFJblRFLTI5NlFxbm5RbGxEODZoR3pMYmEyQWtuRDczV19oMHdsM2V1Qy1fWTRJbUI3Y0ppcVhKSUFiR1p4UUl6Tlo1c05YbDJhWVhOQmdZanJYNGRNZlBKSWJfUmxKU3pGbUFtcTNEU2VRWTNnZWtJZ2JBTm1pekd1V1BIc2xFSWpIQmVNQVlac2dZWkZ0UW03bi12RjVwLUVxTnp0SlVE?oc=5",
-        "date": "2026-07-08",
-        "title": "Mumbai Monsoon Big Update: Mumbai, Thane, Pune, Nagpur, Nashik, Satara, Sangli, Palghar to receive light rain - India.Com",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwJBVV95cUxQS1ZsVWpoTDJyV1BtNVBuSFJ2ZHhMVXpkQ0dScTFuZGpHeFZ5V0VNVmw5UkwxcFpFV0czYlBfcVZaREVQSFZ2dExmQnY2ZXNna1ByYUh0N2lBMGdQNjVOelNMYVBkRF9NN2dYdXd3VllpaHZubGJES21JaG53STZyc3RLMC1ELUJVQjZrQWRKeDVMeC15aXA5LWJfbGtKSUtBYl9kU2tlNUJpa2R6WGllVERua3haU1lhZFAwN0xiemstY29MUUM0bnFIdmJLNUdnSm5XMTBLaDY1YllZdGN6elg0N21HX0h2NEV5a2xVQmxJTGh2ZEtVU0JMZFVtU09KZ3JmT1I4UdIBjAJBVV95cUxQSFFzRHFqNENHcHl2ZUROUUZCNExTQjlrUmRTbFRPeTVKa3NlaWcxN01QNHdyS1BaTGtFOEtSVHd0UHgxS1RzZnZWR3hhZHIydkJJQlRBckVDdUpkZGdkckRXUXhFT0psUU9rLUFJblRFLTI5NlFxbm5RbGxEODZoR3pMYmEyQWtuRDczV19oMHdsM2V1Qy1fWTRJbUI3Y0ppcVhKSUFiR1p4UUl6Tlo1c05YbDJhWVhOQmdZanJYNGRNZlBKSWJfUmxKU3pGbUFtcTNEU2VRWTNnZWtJZ2JBTm1pekd1V1BIc2xFSWpIQmVNQVlac2dZWkZ0UW03bi12RjVwLUVxTnp0SlVE?oc=5\" target=\"_blank\">Mumbai Monsoon Big Update: Mumbai, Thane, Pune, Nagpur, Nashik, Satara, Sangli, Palghar to receive light rain</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">India.Com</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9MV05EazR1VXdPUi1Xakp2RVB6UE14cVZ2aDlWRVZENHlPUExMSTFjdURMREhhVnVjb3RQR3E2WkRwWkVkMDZKMnBiOFpHU3JCRDY2emE3QS1VbjlYOUdF?oc=5",
-        "date": "2026-07-08",
-        "title": "At least 21 killed in landslide in China's Gansu province as rescue efforts end, Xinhua says - The Jerusalem Post",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE9MV05EazR1VXdPUi1Xakp2RVB6UE14cVZ2aDlWRVZENHlPUExMSTFjdURMREhhVnVjb3RQR3E2WkRwWkVkMDZKMnBiOFpHU3JCRDY2emE3QS1VbjlYOUdF?oc=5\" target=\"_blank\">At least 21 killed in landslide in China's Gansu province as rescue efforts end, Xinhua says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Jerusalem Post</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSGFDQ1o2eHJHVFNnckRVeXI2OVYzUFhHb3lxU0I5Y1BldjBwZkZpc2szQlpGZllXbmY2YVBEUWQ0aUd2NVM5ZGdvU1ZrMnNESjg1MldzLThmVk5GRVRlT19NUHR1TjRLRzdXamdhNlJfU3FRcm5NUEROemZ0T0lOcVREZGlwSWpQZ1JWS3A2V0ZwNFRqVEdjaU9pWUo?oc=5",
-        "date": "2026-07-08",
-        "title": "Four killed, seven missing in rain-triggered landslide in India\u2019s Kerala - Asia News Network",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPSGFDQ1o2eHJHVFNnckRVeXI2OVYzUFhHb3lxU0I5Y1BldjBwZkZpc2szQlpGZllXbmY2YVBEUWQ0aUd2NVM5ZGdvU1ZrMnNESjg1MldzLThmVk5GRVRlT19NUHR1TjRLRzdXamdhNlJfU3FRcm5NUEROemZ0T0lOcVREZGlwSWpQZ1JWS3A2V0ZwNFRqVEdjaU9pWUo?oc=5\" target=\"_blank\">Four killed, seven missing in rain-triggered landslide in India\u2019s Kerala</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Asia News Network</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQd1FJOC0xLTFIclV4R1gwSFZDWjI3MjFwWnVJdXNqM1dvN2dTdG1iLWVMb0xDVHJzMF9YOGVFSGhtYVU4TEU5ZmJsYjlETktkS1V5ZEFXR1Joc3F4Zk1pbG5JeUY3c01iX3dmTF83MkIyd3Z6Z25leGNjMWZNVmQzZnFwRzQ0d0FoYndtMTJsSXZveERkWmlTTlRKQUlaUUNTeFU4Tlo4N0l1Tld1RjFpeEVfa0pTYVZHTkoxaTF2U1ltSDhlb1dORmlhNFFxX1NZTFBVVjlHMW9obDRSUHfSAeMBQVVfeXFMUDBGMmppTlRhV1JsZG45UUwyV0lFUW5mODlxOW1FcEFkWmgyZE9yQUdWeWFaZ1dETmVadkZJY2VDTThHQ2RiZHlxV2E5ZEFRNDBlOXl6ZS1QN3FSc21scXVUX2s3b2JXby1hX0xHclBWOXlMM01TWWJWWVJXbmtoWUhtQlMtU2ZyU0ZtMUdvc2xqZW9SbWZqMllaQ2NhZldJdFNISnJVbVQ0TW43SjdTTHdNeGhnU200bUhhdGhnZDVpaWRZc3RwMVZDdVhHUmxZRWdLSXl6X0FiNU43VHc2VUNXZUk?oc=5",
-        "date": "2026-07-08",
-        "title": "Rain continues to pound ghats in Maharashtra, landslides hit Mahabaleshwar - The Times of India",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxQd1FJOC0xLTFIclV4R1gwSFZDWjI3MjFwWnVJdXNqM1dvN2dTdG1iLWVMb0xDVHJzMF9YOGVFSGhtYVU4TEU5ZmJsYjlETktkS1V5ZEFXR1Joc3F4Zk1pbG5JeUY3c01iX3dmTF83MkIyd3Z6Z25leGNjMWZNVmQzZnFwRzQ0d0FoYndtMTJsSXZveERkWmlTTlRKQUlaUUNTeFU4Tlo4N0l1Tld1RjFpeEVfa0pTYVZHTkoxaTF2U1ltSDhlb1dORmlhNFFxX1NZTFBVVjlHMW9obDRSUHfSAeMBQVVfeXFMUDBGMmppTlRhV1JsZG45UUwyV0lFUW5mODlxOW1FcEFkWmgyZE9yQUdWeWFaZ1dETmVadkZJY2VDTThHQ2RiZHlxV2E5ZEFRNDBlOXl6ZS1QN3FSc21scXVUX2s3b2JXby1hX0xHclBWOXlMM01TWWJWWVJXbmtoWUhtQlMtU2ZyU0ZtMUdvc2xqZW9SbWZqMllaQ2NhZldJdFNISnJVbVQ0TW43SjdTTHdNeGhnU200bUhhdGhnZDVpaWRZc3RwMVZDdVhHUmxZRWdLSXl6X0FiNU43VHc2VUNXZUk?oc=5\" target=\"_blank\">Rain continues to pound ghats in Maharashtra, landslides hit Mahabaleshwar</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of India</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQYmxlcWhSdmZSZEtXWlFacEFEVm1yNUtjZU4tYjY5NmJWN1J3RWp1ei1yU1FPZW1yTFZzX25wRy11ZnF1cUExN1FGTkFrYnJIM2ZjTURrY2ptWnZoV2M0MlY4N2YxNUJxUk04Y3ZFZGtCZmJMRlo5aHk1cXdDRTQzTlppb1c4M0g4Z1R1Qmh4WVo?oc=5",
-        "date": "2026-07-08",
-        "title": "Landslide Hits Kerala\u2019s Wayanad Amid Heavy Rain - Myanmar International TV",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxQYmxlcWhSdmZSZEtXWlFacEFEVm1yNUtjZU4tYjY5NmJWN1J3RWp1ei1yU1FPZW1yTFZzX25wRy11ZnF1cUExN1FGTkFrYnJIM2ZjTURrY2ptWnZoV2M0MlY4N2YxNUJxUk04Y3ZFZGtCZmJMRlo5aHk1cXdDRTQzTlppb1c4M0g4Z1R1Qmh4WVo?oc=5\" target=\"_blank\">Landslide Hits Kerala\u2019s Wayanad Amid Heavy Rain</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Myanmar International TV</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONDhUVDBqODEyMWlpTDNjZ3ZRc08zdXNONmQ4YnhxNDhEQlpzeEFZSXpfZXR6dU1nMzNRb01WWUNYMGlQR1gwLXVBTFhDaFN2NnQzdnJFdkJJX1VOWGVIcVBhUXdGd2N4QWZVSVRKYXZ4bzZHX21KZmVUVjBTM2F5VVJmdzJvS0xoNEx5ZGo5VFhMM2J3X2J2OGVLQ1oyYThQTVp0ajZreW5hUdIBtwFBVV95cUxOM01UeTg4eTJjOV9za3pCYUxhdFlFY2NDWWx5R2oxWTFZS2FQZzBkcUk1YzhkSzJDb3ZMc1hJNnpvZGdHVVlnOWxhUFJ4MV9TbzBPUTlVM1J4dndSSXBFOXNpX1NycGczMjJhNjZRMmNndllLQ3g2RFB4YVVNeUZuMWFaOV9yek45cnR6b3E0SEFnQi02QUFUcVd6WmIwRC1lbkFnNzd4WE9Bd1d1bk94OE9LMjhvM1k?oc=5",
-        "date": "2026-07-08",
-        "title": "Wayanad landslide: Who was watching the watchers? - The New Indian Express",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxONDhUVDBqODEyMWlpTDNjZ3ZRc08zdXNONmQ4YnhxNDhEQlpzeEFZSXpfZXR6dU1nMzNRb01WWUNYMGlQR1gwLXVBTFhDaFN2NnQzdnJFdkJJX1VOWGVIcVBhUXdGd2N4QWZVSVRKYXZ4bzZHX21KZmVUVjBTM2F5VVJmdzJvS0xoNEx5ZGo5VFhMM2J3X2J2OGVLQ1oyYThQTVp0ajZreW5hUdIBtwFBVV95cUxOM01UeTg4eTJjOV9za3pCYUxhdFlFY2NDWWx5R2oxWTFZS2FQZzBkcUk1YzhkSzJDb3ZMc1hJNnpvZGdHVVlnOWxhUFJ4MV9TbzBPUTlVM1J4dndSSXBFOXNpX1NycGczMjJhNjZRMmNndllLQ3g2RFB4YVVNeUZuMWFaOV9yek45cnR6b3E0SEFnQi02QUFUcVd6WmIwRC1lbkFnNzd4WE9Bd1d1bk94OE9LMjhvM1k?oc=5\" target=\"_blank\">Wayanad landslide: Who was watching the watchers?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New Indian Express</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPenRpUUlkdnB3WndwTmNnVkZSdTR1Mjc2T2VUQmQ5N0lYdkRiWWM1VTVZTVI3Y1g4Q01CTW1NSTBTS2I0eDNwUUdRcXMzenZsTVB6YTBYd194UnNCUkpGVG9jQWNETktLQ0gwZEllVzJIcXBYU2x6QUQ1RkVFZmZMNzR6enRLTUVHLVpkWlJBYURha25jZXRGSDhJUlQ2dHNlV2UwaExESzNkX1NfanRhNmh5MDE2SjFlWDVMV2xaYnB6N0dkOHFUcDRnODNWSklkRW50b2VRdjBPd9IB3wFBVV95cUxOaDQzRGxSWU9VaDlNZFloVkV6UXpNOUtkMlk4YTZYekZId2dLRmluVVZrVGFHOFktR1pDWnlMQ2RqZFBqOXVqQk1WQVNuR0QtVEdCYTFpVnhsaThDM0hUUnF3N0dpcFpRekgxNkV6SXozei1xMXZrQnBORUdnSlA1MlBibDVkWm96N045SVB3THA5M2RXQjVoWlZWdlkyOENscU1GRVUtVUVQU25Qbm9IX29IQVVmNlI5aGVZelRYSXVoLXgxemlDeUkyY3RNX1lqWlJjVlZMUUwwZDRyQ2tF?oc=5",
-        "date": "2026-07-08",
-        "title": "Wayanad landslide: Dilip Buildcon says tunnel project adhered to safety, environmental norms - ET Infra",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxPenRpUUlkdnB3WndwTmNnVkZSdTR1Mjc2T2VUQmQ5N0lYdkRiWWM1VTVZTVI3Y1g4Q01CTW1NSTBTS2I0eDNwUUdRcXMzenZsTVB6YTBYd194UnNCUkpGVG9jQWNETktLQ0gwZEllVzJIcXBYU2x6QUQ1RkVFZmZMNzR6enRLTUVHLVpkWlJBYURha25jZXRGSDhJUlQ2dHNlV2UwaExESzNkX1NfanRhNmh5MDE2SjFlWDVMV2xaYnB6N0dkOHFUcDRnODNWSklkRW50b2VRdjBPd9IB3wFBVV95cUxOaDQzRGxSWU9VaDlNZFloVkV6UXpNOUtkMlk4YTZYekZId2dLRmluVVZrVGFHOFktR1pDWnlMQ2RqZFBqOXVqQk1WQVNuR0QtVEdCYTFpVnhsaThDM0hUUnF3N0dpcFpRekgxNkV6SXozei1xMXZrQnBORUdnSlA1MlBibDVkWm96N045SVB3THA5M2RXQjVoWlZWdlkyOENscU1GRVUtVUVQU25Qbm9IX29IQVVmNlI5aGVZelRYSXVoLXgxemlDeUkyY3RNX1lqWlJjVlZMUUwwZDRyQ2tF?oc=5\" target=\"_blank\">Wayanad landslide: Dilip Buildcon says tunnel project adhered to safety, environmental norms</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ET Infra</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQQlV2WlNVaFNLWnQ4aGd4eS1NX1VwSC0zQWllSlZ1R3lqNXBJYVNzVVlQZENzM1ZrbS1HM2JzMlk4R2Q5OGdPQVM5Ri1oeEpXaU93elBmSzBWWWZETnpna1JkMG0wMU9lS0p6Z1FMSUJ4T3dzclVvY1RVelpwUXJxSmZicG05T2tGczFnX2xncUNkLTZObTN5dERhZDZTbnZLNi1UZXU2dzNXRk9iMlgwMlU0SmtELUtUVFpFUi1vdEVxUmNXQkRMTW1pZVo2QUx0eEo1cHpYcFN4MGNJRmdDNHhZbzZzZ9IB6wFBVV95cUxNZ1A0eUk1ZHhTdDNCQVo5OUpXNENkNHJObWUtalFoeG5NamRnX2ljREE0Vk85c1NEWGQ1ZVNSTXRiSnRRa0M5ZEdvbmhLeXI0ZURDY2pud3FMT200bGdDRTYwTU1tYkcyWW5UY1JuQVJpMG9McHVNNE91Z1F2QzR2T3h2OHJyUHlWY05SV1JRWXlRVmNmWWQ5MDhRWjNjWHJGZ3FfTEdOaktLSUd1eHpUVlRDYXRTdmUwVHRuZ3lMY2NELWRCTEVXS0dMaWVlM2p6dTBUNm1XNWl3R296a2VFZGxlN3QxMjdnVzU0?oc=5",
-        "date": "2026-07-08",
-        "title": "Monsoon continues to wreak havoc across India, Delhi witnesses heavy rain - Business Standard",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxQQlV2WlNVaFNLWnQ4aGd4eS1NX1VwSC0zQWllSlZ1R3lqNXBJYVNzVVlQZENzM1ZrbS1HM2JzMlk4R2Q5OGdPQVM5Ri1oeEpXaU93elBmSzBWWWZETnpna1JkMG0wMU9lS0p6Z1FMSUJ4T3dzclVvY1RVelpwUXJxSmZicG05T2tGczFnX2xncUNkLTZObTN5dERhZDZTbnZLNi1UZXU2dzNXRk9iMlgwMlU0SmtELUtUVFpFUi1vdEVxUmNXQkRMTW1pZVo2QUx0eEo1cHpYcFN4MGNJRmdDNHhZbzZzZ9IB6wFBVV95cUxNZ1A0eUk1ZHhTdDNCQVo5OUpXNENkNHJObWUtalFoeG5NamRnX2ljREE0Vk85c1NEWGQ1ZVNSTXRiSnRRa0M5ZEdvbmhLeXI0ZURDY2pud3FMT200bGdDRTYwTU1tYkcyWW5UY1JuQVJpMG9McHVNNE91Z1F2QzR2T3h2OHJyUHlWY05SV1JRWXlRVmNmWWQ5MDhRWjNjWHJGZ3FfTEdOaktLSUd1eHpUVlRDYXRTdmUwVHRuZ3lMY2NELWRCTEVXS0dMaWVlM2p6dTBUNm1XNWl3R296a2VFZGxlN3QxMjdnVzU0?oc=5\" target=\"_blank\">Monsoon continues to wreak havoc across India, Delhi witnesses heavy rain</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Standard</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9QM0hrN2k4ZF9lX0hZZUN1V0RPTTU1M3hXMHFUVGFpc3ZiWUJxRmlVNlpHVlRvM2FxUUJVcXdocXh6UERQeXZXZHlLQmJGNWJRVUFqRU1YTWpucnFMQ0IyUmVuWWIzM3ZWLUllV1NB?oc=5",
-        "date": "2026-07-08",
-        "title": "Wayanad Landslide, Causes, Impact, Environmental Consequences - Vajiram & Ravi",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE9QM0hrN2k4ZF9lX0hZZUN1V0RPTTU1M3hXMHFUVGFpc3ZiWUJxRmlVNlpHVlRvM2FxUUJVcXdocXh6UERQeXZXZHlLQmJGNWJRVUFqRU1YTWpucnFMQ0IyUmVuWWIzM3ZWLUllV1NB?oc=5\" target=\"_blank\">Wayanad Landslide, Causes, Impact, Environmental Consequences</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Vajiram & Ravi</font>",
-        "similarity_excluded": "No",
-        "score": 9,
-        "status": "processed",
-        "tweet": null,
-        "tweet_id": "2074758936461201448",
-        "geo": {
-            "country": "India",
-            "name": "Wayanad, Kerala",
-            "latitude": 11.685,
-            "longitude": 76.132,
-            "confidence": 0.65
-        }
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQZkZxUGZhaW9CWHdqbFpVM2FDbHZTc2ZWLXFGWEVXanFGSW8zUGRCM0hJeTN4b0VxaUNxbF9HSzhJNGNoTWFrbUlpWnhVVVZNSG9pUnl4TWpYSkswd2hnTElhU1I4SXNPVzk4MmNfMzM0b0p3VkhyZjNCZDFHdklsdHk5WWl6WDVtVHh2TmlOZ3MxUVdua0l5blVRU096VnFvcmdIMUZsTWZYY0Vmb2NmaFpMbXlPb183cm8wM0FSLXZIb2didklsOWplcDdJdVNkOC1KVUllT1ZuSzJ1djVxYXJia9IB6AFBVV95cUxPcm1oYkNIZWFvMXgzNHFId2VLTi1wMHlkVkdMOEtTTDJFblMxdHY5UklRQnBzUTBvZkh0WjJmVDgySnJ3Y2VweWF6OTdXQ2thd2p2NHJoZExPYzVySXNBanZyRVhYNjF5TGhPTzdMWjltd1pxTVltMDVaNDlONzdaTDNIYk5ySmdYSHo4TjMtcTVUdzVCU09DT3hiUjZYVnZCWGtnTGhlcHk1T0Mxd0VPZ2FMQy02U0YtcmVKeWNHQk8yVUJ3aTVwdEQxRkUzel9aSkdVZnA5VGlMYmNkWUxxTDFWTE5GMDhK?oc=5",
-        "date": "2026-07-08",
-        "title": "Fresh rain triggers floods, landslides in Arunachal Pradesh; over 94,000 affected - India Today NE",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxQZkZxUGZhaW9CWHdqbFpVM2FDbHZTc2ZWLXFGWEVXanFGSW8zUGRCM0hJeTN4b0VxaUNxbF9HSzhJNGNoTWFrbUlpWnhVVVZNSG9pUnl4TWpYSkswd2hnTElhU1I4SXNPVzk4MmNfMzM0b0p3VkhyZjNCZDFHdklsdHk5WWl6WDVtVHh2TmlOZ3MxUVdua0l5blVRU096VnFvcmdIMUZsTWZYY0Vmb2NmaFpMbXlPb183cm8wM0FSLXZIb2didklsOWplcDdJdVNkOC1KVUllT1ZuSzJ1djVxYXJia9IB6AFBVV95cUxPcm1oYkNIZWFvMXgzNHFId2VLTi1wMHlkVkdMOEtTTDJFblMxdHY5UklRQnBzUTBvZkh0WjJmVDgySnJ3Y2VweWF6OTdXQ2thd2p2NHJoZExPYzVySXNBanZyRVhYNjF5TGhPTzdMWjltd1pxTVltMDVaNDlONzdaTDNIYk5ySmdYSHo4TjMtcTVUdzVCU09DT3hiUjZYVnZCWGtnTGhlcHk1T0Mxd0VPZ2FMQy02U0YtcmVKeWNHQk8yVUJ3aTVwdEQxRkUzel9aSkdVZnA5VGlMYmNkWUxxTDFWTE5GMDhK?oc=5\" target=\"_blank\">Fresh rain triggers floods, landslides in Arunachal Pradesh; over 94,000 affected</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">India Today NE</font>",
-        "similarity_excluded": "No",
-        "score": 9,
-        "status": "processed",
-        "tweet": null,
-        "tweet_id": "2074759507192770798",
-        "geo": {
-            "country": "India",
-            "name": "Arunachal Pradesh",
-            "latitude": 28.0,
-            "longitude": 95.0,
-            "confidence": 0.9
-        }
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOb3BSZ0RWdDJJdHNGLWZJd21XV0dnQjJ5VDRud1d5ZUl2cTJkNUozOEdqdFFnZnhxb0ZscnVMMzZNVGVGaEM2b3I5SnVpY3JVN1BuWjFjcjI0Q3EwMmEyaGdfTEE2czdsc1pSdlo4bkIydVR0Q0NvNFVxd1dncGJkRy11bHczUmptbXJiOFIwTUlQQXBvT28tQjY2M3B2d0xGcU5pRG1WNXlEUzAwQ2dUc0k3V0t6aFdfeksycEc3RVJpTTlpRG1J0gHMAUFVX3lxTE9yb3JzNnBfV1hoZGFHa05DbTRwdjBnemJRRzFoekxxTTFyUnRXNktNQWdXU3pwd1lwTUxXR3JkZmswZXYtWTJLR3FMVDFxbVF5R0lhVVNTX3gzUHdjVTRuM0hMOE5MTDZadDdtRGwzbkEwT3FBVTZFMnpuM3dTbGpwX3NzbzlHeEo4cWRIdHVxSlp3NFM0cEI4MG1EYW54M3JMLUpzY3dlMWpKLXZldXAtYlJwbVBMdmJZRXFBX0F6eUU5VEdCdkprZzZseg?oc=5",
-        "date": "2026-07-08",
-        "title": "Wayanad tunnel site landslide: Search on for five missing a day after three workers killed - CNBC TV18",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxOb3BSZ0RWdDJJdHNGLWZJd21XV0dnQjJ5VDRud1d5ZUl2cTJkNUozOEdqdFFnZnhxb0ZscnVMMzZNVGVGaEM2b3I5SnVpY3JVN1BuWjFjcjI0Q3EwMmEyaGdfTEE2czdsc1pSdlo4bkIydVR0Q0NvNFVxd1dncGJkRy11bHczUmptbXJiOFIwTUlQQXBvT28tQjY2M3B2d0xGcU5pRG1WNXlEUzAwQ2dUc0k3V0t6aFdfeksycEc3RVJpTTlpRG1J0gHMAUFVX3lxTE9yb3JzNnBfV1hoZGFHa05DbTRwdjBnemJRRzFoekxxTTFyUnRXNktNQWdXU3pwd1lwTUxXR3JkZmswZXYtWTJLR3FMVDFxbVF5R0lhVVNTX3gzUHdjVTRuM0hMOE5MTDZadDdtRGwzbkEwT3FBVTZFMnpuM3dTbGpwX3NzbzlHeEo4cWRIdHVxSlp3NFM0cEI4MG1EYW54M3JMLUpzY3dlMWpKLXZldXAtYlJwbVBMdmJZRXFBX0F6eUU5VEdCdkprZzZseg?oc=5\" target=\"_blank\">Wayanad tunnel site landslide: Search on for five missing a day after three workers killed</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC TV18</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPQWI1TU1vbG9SdkN5OURlaklXaU9mSFlSVzhvYU1LblljVTlhM01ZRXR4enlhN0hsMzVVTHZrYzRfMlF1dG1BTGR0RTN0T29JSFJVSmpUalR5MGs1SlJGb1RtbXNLZXJ5al9iMTFWdWxCZXdoSFZhQ0FmRDNNeU9oSi00bktpWXZFX196Qy1rMlVkZHAtc3dwQXp2ZU0wSFpMWHUxVDd2ZlFfbEI5b1VWXzRCdXZnTlpjck52Y0VXRmF0R1dXaFZVZ2RWdG5NVldZWE5YUDZUYWY4X21tTUVlWGRZWkrSAeoBQVVfeXFMTzRJLVRmOW1wZ1JBME9iR3FiRnRrMDdLRGNLZEFnU2RJb25IUWtWQnE0aHVxQWU2RExHUW1ESTB1bGdMbmRXV3RMRzZqYjRBVUU4aW5mdmhuUnNmV0pTRUFReUFkcWNNRFF6N0dnZmJyc1JhOVZmMWVnM1VtcWJSRlBWOURLSXFsNWdQbFN4YmVzTjhQdWhMU1JtRm9oTTdRYWNWU3p3MGQ5Y2Zqbk5rbktISnQzbnNrd25EbnFsX1l0SHB6VmlMTW53bFllbXJ0SnRjNVgzXzVLcXFsb3pIOWFEWXVrNnI4NnRR?oc=5",
-        "date": "2026-07-08",
-        "title": "India Monsoon 2026: IMD warns of flash floods in 3 states over next 24 hours amid heavy rain - Moneycontrol.com",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxPQWI1TU1vbG9SdkN5OURlaklXaU9mSFlSVzhvYU1LblljVTlhM01ZRXR4enlhN0hsMzVVTHZrYzRfMlF1dG1BTGR0RTN0T29JSFJVSmpUalR5MGs1SlJGb1RtbXNLZXJ5al9iMTFWdWxCZXdoSFZhQ0FmRDNNeU9oSi00bktpWXZFX196Qy1rMlVkZHAtc3dwQXp2ZU0wSFpMWHUxVDd2ZlFfbEI5b1VWXzRCdXZnTlpjck52Y0VXRmF0R1dXaFZVZ2RWdG5NVldZWE5YUDZUYWY4X21tTUVlWGRZWkrSAeoBQVVfeXFMTzRJLVRmOW1wZ1JBME9iR3FiRnRrMDdLRGNLZEFnU2RJb25IUWtWQnE0aHVxQWU2RExHUW1ESTB1bGdMbmRXV3RMRzZqYjRBVUU4aW5mdmhuUnNmV0pTRUFReUFkcWNNRFF6N0dnZmJyc1JhOVZmMWVnM1VtcWJSRlBWOURLSXFsNWdQbFN4YmVzTjhQdWhMU1JtRm9oTTdRYWNWU3p3MGQ5Y2Zqbk5rbktISnQzbnNrd25EbnFsX1l0SHB6VmlMTW53bFllbXJ0SnRjNVgzXzVLcXFsb3pIOWFEWXVrNnI4NnRR?oc=5\" target=\"_blank\">India Monsoon 2026: IMD warns of flash floods in 3 states over next 24 hours amid heavy rain</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Moneycontrol.com</font>",
-        "similarity_excluded": "No",
-        "score": 9,
-        "status": "posted",
-        "tweet": "\ud83c\uddee\ud83c\uddf3 FORECAST India: Flash floods warned in 3 states over next 24 hours amid heavy rain - IMD",
-        "type": "news",
-        "tweet_id": "2074758381219250379",
-        "geo": {
-            "country": "India",
-            "name": null,
-            "latitude": null,
-            "longitude": null,
-            "confidence": 0.4
-        }
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9QM0hrN2k4ZF9lX0hZZUN1V0RPTTU1M3hXMHFUVGFpc3ZiWUJxRmlVNlpHVlRvM2FxUUJVcXdocXh6UERQeXZXZHlLQmJGNWJRVUFqRU1YTWpucnFMQ0IyUmVuWWIzM3ZWLUllV1NB?oc=5",
-        "date": "2026-07-08",
-        "title": "Wayanad Landslide, Causes, Impact, Environmental Consequences - Vajiram & Ravi",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE9QM0hrN2k4ZF9lX0hZZUN1V0RPTTU1M3hXMHFUVGFpc3ZiWUJxRmlVNlpHVlRvM2FxUUJVcXdocXh6UERQeXZXZHlLQmJGNWJRVUFqRU1YTWpucnFMQ0IyUmVuWWIzM3ZWLUllV1NB?oc=5\" target=\"_blank\">Wayanad Landslide, Causes, Impact, Environmental Consequences</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Vajiram & Ravi</font>",
-        "similarity_excluded": "No",
-        "score": 9,
-        "status": "posted",
-        "tweet": "\ud83c\uddee\ud83c\uddf3 POST-EVENT Wayanad: landslide from rain causes deaths damage and environmental harm \nSource: Vajiram & Ravi",
-        "type": "news",
-        "tweet_id": "2074758936461201448",
-        "geo": {
-            "country": "India",
-            "name": "Wayanad, Kerala",
-            "latitude": 11.685,
-            "longitude": 76.132,
-            "confidence": 0.65
-        }
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQZkZxUGZhaW9CWHdqbFpVM2FDbHZTc2ZWLXFGWEVXanFGSW8zUGRCM0hJeTN4b0VxaUNxbF9HSzhJNGNoTWFrbUlpWnhVVVZNSG9pUnl4TWpYSkswd2hnTElhU1I4SXNPVzk4MmNfMzM0b0p3VkhyZjNCZDFHdklsdHk5WWl6WDVtVHh2TmlOZ3MxUVdua0l5blVRU096VnFvcmdIMUZsTWZYY0Vmb2NmaFpMbXlPb183cm8wM0FSLXZIb2didklsOWplcDdJdVNkOC1KVUllT1ZuSzJ1djVxYXJia9IB6AFBVV95cUxPcm1oYkNIZWFvMXgzNHFId2VLTi1wMHlkVkdMOEtTTDJFblMxdHY5UklRQnBzUTBvZkh0WjJmVDgySnJ3Y2VweWF6OTdXQ2thd2p2NHJoZExPYzVySXNBanZyRVhYNjF5TGhPTzdMWjltd1pxTVltMDVaNDlONzdaTDNIYk5ySmdYSHo4TjMtcTVUdzVCU09DT3hiUjZYVnZCWGtnTGhlcHk1T0Mxd0VPZ2FMQy02U0YtcmVKeWNHQk8yVUJ3aTVwdEQxRkUzel9aSkdVZnA5VGlMYmNkWUxxTDFWTE5GMDhK?oc=5",
-        "date": "2026-07-08",
-        "title": "Fresh rain triggers floods, landslides in Arunachal Pradesh; over 94,000 affected - India Today NE",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxQZkZxUGZhaW9CWHdqbFpVM2FDbHZTc2ZWLXFGWEVXanFGSW8zUGRCM0hJeTN4b0VxaUNxbF9HSzhJNGNoTWFrbUlpWnhVVVZNSG9pUnl4TWpYSkswd2hnTElhU1I4SXNPVzk4MmNfMzM0b0p3VkhyZjNCZDFHdklsdHk5WWl6WDVtVHh2TmlOZ3MxUVdua0l5blVRU096VnFvcmdIMUZsTWZYY0Vmb2NmaFpMbXlPb183cm8wM0FSLXZIb2didklsOWplcDdJdVNkOC1KVUllT1ZuSzJ1djVxYXJia9IB6AFBVV95cUxPcm1oYkNIZWFvMXgzNHFId2VLTi1wMHlkVkdMOEtTTDJFblMxdHY5UklRQnBzUTBvZkh0WjJmVDgySnJ3Y2VweWF6OTdXQ2thd2p2NHJoZExPYzVySXNBanZyRVhYNjF5TGhPTzdMWjltd1pxTVltMDVaNDlONzdaTDNIYk5ySmdYSHo4TjMtcTVUdzVCU09DT3hiUjZYVnZCWGtnTGhlcHk1T0Mxd0VPZ2FMQy02U0YtcmVKeWNHQk8yVUJ3aTVwdEQxRkUzel9aSkdVZnA5VGlMYmNkWUxxTDFWTE5GMDhK?oc=5\" target=\"_blank\">Fresh rain triggers floods, landslides in Arunachal Pradesh; over 94,000 affected</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">India Today NE</font>",
-        "similarity_excluded": "No",
-        "score": 9,
-        "status": "posted",
-        "tweet": "\ud83c\uddee\ud83c\uddf3 POST-EVENT Arunachal Pradesh: floods and landslides from rain affect over 94,000 - India Today NE",
-        "type": "news",
-        "tweet_id": "2074759507192770798",
-        "geo": {
-            "country": "India",
-            "name": "Arunachal Pradesh",
-            "latitude": 28.0,
-            "longitude": 95.0,
-            "confidence": 0.9
-        }
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdW9nOW4wc2RYN20xQldkSkxDSXlRVTJBNExBeFhKR3ZkWFRXRjFNNFBPWnJwNnFRUWhiMVQxNUtxZHUyLWg4MkNZN2tranJLMVdLYi12V2tsTm54Z1RqQ29XS0xRc2NyaUl6X3ZONDJ4a2ZVQWREcW8xZUh3T1lCZ0lkZW1HYjhvZGl1UVdyZk8yd1A3TzBTZVlB0gGuAUFVX3lxTE5CV0JaSWNLV1pDMGNUajhmM0htazJNNmlIZ2JrTkZLX0lzRXNXQjRxVUZabzRGUUlRLWpmamg4MjBVY2M1ckNLRjRhaXA4Mk95Y2duOHhNX1FYaFJXd2RPN1ZMbTBTUjZueEUxazZDNktyRm5YaFJPWFV6a0REQXF0OXNFSnk1VGpmbEwwZWFSM1pQN0o0UFRYZGRYNC1UbjFOR0E2X1dmSWdZT1piQQ?oc=5",
-        "date": "2026-07-08",
-        "title": "Flash Flood risk on this First Alert Weather Day - Upper Michigan's Source",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxOdW9nOW4wc2RYN20xQldkSkxDSXlRVTJBNExBeFhKR3ZkWFRXRjFNNFBPWnJwNnFRUWhiMVQxNUtxZHUyLWg4MkNZN2tranJLMVdLYi12V2tsTm54Z1RqQ29XS0xRc2NyaUl6X3ZONDJ4a2ZVQWREcW8xZUh3T1lCZ0lkZW1HYjhvZGl1UVdyZk8yd1A3TzBTZVlB0gGuAUFVX3lxTE5CV0JaSWNLV1pDMGNUajhmM0htazJNNmlIZ2JrTkZLX0lzRXNXQjRxVUZabzRGUUlRLWpmamg4MjBVY2M1ckNLRjRhaXA4Mk95Y2duOHhNX1FYaFJXd2RPN1ZMbTBTUjZueEUxazZDNktyRm5YaFJPWFV6a0REQXF0OXNFSnk1VGpmbEwwZWFSM1pQN0o0UFRYZGRYNC1UbjFOR0E2X1dmSWdZT1piQQ?oc=5\" target=\"_blank\">Flash Flood risk on this First Alert Weather Day</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Upper Michigan's Source</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQa2NtdzZwZVhBSjNjZG9nN21mblItUGdQSnRIMzVTQml5TjduSTF1bjVnMVo4VDJHdDQxUEdfT0Z5S1J4ekxxbndpVTU4TC1DdUVlVktJeXdYMzgxX2hEOWdkV18zYkx0SEkzem9BX3k2SGwxcWk1R1Nram5rZnRTTHVJd3VYb1lqbmt6TU9veC1UTkxFZWp3eUZmZ1pxMzczTThOeHRVdFplMHlvWTBBT1NMZ2QxcXZVNDl0al9OY0gwaVNIT0RZ?oc=5",
-        "date": "2026-07-08",
-        "title": "Aspen Acres Fire burn scar areas at risk of dangerous flash flooding - Pueblo Chieftain",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxQa2NtdzZwZVhBSjNjZG9nN21mblItUGdQSnRIMzVTQml5TjduSTF1bjVnMVo4VDJHdDQxUEdfT0Z5S1J4ekxxbndpVTU4TC1DdUVlVktJeXdYMzgxX2hEOWdkV18zYkx0SEkzem9BX3k2SGwxcWk1R1Nram5rZnRTTHVJd3VYb1lqbmt6TU9veC1UTkxFZWp3eUZmZ1pxMzczTThOeHRVdFplMHlvWTBBT1NMZ2QxcXZVNDl0al9OY0gwaVNIT0RZ?oc=5\" target=\"_blank\">Aspen Acres Fire burn scar areas at risk of dangerous flash flooding</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Pueblo Chieftain</font>",
-        "similarity_excluded": "No",
-        "score": 8,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNLXNza1NqMmxZZEV4ZWptOWJvV2dWUkx6NjFNYUVubGJNNk55bVF5ekh6b2lVMXVzMnRkMkZ4Z3JXakFOZV9TdENFWnJ4SnpGcHRPb0R6UzI5NnRSOHJPOW5nUC1mWjRpT19xMzZudlFYXzg5ZHY1OGllT2ZlX1lGVU45eHdaMmdYdTlwbzREN0FaRzJnWEJBb0pWeUh4NG9CVE9qWTAzbTJFSUJhZ2J2bDYxMGFBV0dLeUFlcmJqQXFsSHhPS3B6THliUnlPQjRqb2tvZUNDSUF5eTA?oc=5",
-        "date": "2026-07-08",
-        "title": "Tornado or flood shelter\u2014what to do when a tornado and flash flood warning hit at once - MSN",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxNLXNza1NqMmxZZEV4ZWptOWJvV2dWUkx6NjFNYUVubGJNNk55bVF5ekh6b2lVMXVzMnRkMkZ4Z3JXakFOZV9TdENFWnJ4SnpGcHRPb0R6UzI5NnRSOHJPOW5nUC1mWjRpT19xMzZudlFYXzg5ZHY1OGllT2ZlX1lGVU45eHdaMmdYdTlwbzREN0FaRzJnWEJBb0pWeUh4NG9CVE9qWTAzbTJFSUJhZ2J2bDYxMGFBV0dLeUFlcmJqQXFsSHhPS3B6THliUnlPQjRqb2tvZUNDSUF5eTA?oc=5\" target=\"_blank\">Tornado or flood shelter\u2014what to do when a tornado and flash flood warning hit at once</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNGF3UjF0eVVfV2hHM2RzUjJOUG9BeFJRa29kT1J1ZEwtMVRjVVBPY0dRNFRoQmJvNXE1ektDcmtpcWkyZ3loRmZtamstckpGY2wtMlhSYTY5bjJCbFJoamtKWlFlVDc2WlRNdkY5YnBQNlVYRW9WdEF1ZDgzYXFIUnVnRGxyaXB4SlZYVFdWTmwwMjZRY19tOE9DMGpJOVV6WGpObXNiTFNBZ0twaFJYX25ZVXROYXlOTUE?oc=5",
-        "date": "2026-07-08",
-        "title": "Taiwan officials on high alert for flooding from Typhoon Bavi - MSN",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQNGF3UjF0eVVfV2hHM2RzUjJOUG9BeFJRa29kT1J1ZEwtMVRjVVBPY0dRNFRoQmJvNXE1ektDcmtpcWkyZ3loRmZtamstckpGY2wtMlhSYTY5bjJCbFJoamtKWlFlVDc2WlRNdkY5YnBQNlVYRW9WdEF1ZDgzYXFIUnVnRGxyaXB4SlZYVFdWTmwwMjZRY19tOE9DMGpJOVV6WGpObXNiTFNBZ0twaFJYX25ZVXROYXlOTUE?oc=5\" target=\"_blank\">Taiwan officials on high alert for flooding from Typhoon Bavi</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQRHdHdjBhbXhyVHZTYWlFNExBUV82aXJ2eVNrUG56OVNSR2xRNW01eXp2Z1FUcUlURGlZNk9WVVRkQmJxQ3N1TjBwNlZ6XzFNYTg5VUFGRUhOWmliUDRkUDV6YjJwcFNYNmVZcHIzaUh3WDdmSS1LcEdidlYwR2picnBidHhTbmg0MkhxcTVrd2hCMTNwSUVMdDRTd3ZtUjRIaGtfYU1nZ3ZHX1k2eEpldl9DcDdTd2FMYzZQNnlSRnJOLW5jR1AxWmJCaFJrOVhB0gHeAUFVX3lxTE9SRi01cWdNeU1MNEY2R1o4dHE0XzNwR2NrdERic1Z6bmJvdUtwQXJsRmdWSjRfOC14eHp2T2p1bUpaQzBhOE40TGhXQ0E0eVJIYUYwYWJzMVZPeU5veWl4NXYzNUU3YWoxdWtqQndWVW85UlhxaDdVbnY4blF4Z1c4RjNRbzk3c0hnV24zb0hVVVktbkgwS3BKRlgxTXR3Q2xpZkV0WWRsbmhJWV80Z2FBbUVXOVZvUUFiZUVRY1NibC0zOEJDQVFUdzVwRDU2R3dJTTZnSXBfNmFWMlItUQ?oc=5",
-        "date": "2026-07-08",
-        "title": "Torrential rains wreak havoc across Gujarat as Surat floods leave nine dead - The New Indian Express",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxQRHdHdjBhbXhyVHZTYWlFNExBUV82aXJ2eVNrUG56OVNSR2xRNW01eXp2Z1FUcUlURGlZNk9WVVRkQmJxQ3N1TjBwNlZ6XzFNYTg5VUFGRUhOWmliUDRkUDV6YjJwcFNYNmVZcHIzaUh3WDdmSS1LcEdidlYwR2picnBidHhTbmg0MkhxcTVrd2hCMTNwSUVMdDRTd3ZtUjRIaGtfYU1nZ3ZHX1k2eEpldl9DcDdTd2FMYzZQNnlSRnJOLW5jR1AxWmJCaFJrOVhB0gHeAUFVX3lxTE9SRi01cWdNeU1MNEY2R1o4dHE0XzNwR2NrdERic1Z6bmJvdUtwQXJsRmdWSjRfOC14eHp2T2p1bUpaQzBhOE40TGhXQ0E0eVJIYUYwYWJzMVZPeU5veWl4NXYzNUU3YWoxdWtqQndWVW85UlhxaDdVbnY4blF4Z1c4RjNRbzk3c0hnV24zb0hVVVktbkgwS3BKRlgxTXR3Q2xpZkV0WWRsbmhJWV80Z2FBbUVXOVZvUUFiZUVRY1NibC0zOEJDQVFUdzVwRDU2R3dJTTZnSXBfNmFWMlItUQ?oc=5\" target=\"_blank\">Torrential rains wreak havoc across Gujarat as Surat floods leave nine dead</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New Indian Express</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQZVFPZWVYMS1NZ2hzUG1ZbzJ2THFBX3d3T3l2X21hQVRRbGFKdFYtYnJJVmlPUHdLSkVEYkZGcHZjcE15SGUzSHlUVC0wMkVKeThaYkV1ak9CUU9kOUR4WkdYT2hBTm5GaGNUX084XzlyeV9FcjJLR1pKbXRXcTZIUVpwTU5Cb3YtQ0N6QlhjaTFVOU1LZ2xiUGZXN2R6WVkwc1JiNkdSYnFxNWRVRTBJMEozMU5OTHk2aUcxZ0hhMmM3Tlk2Z3NlVHZzbXhobFZiYkJrYmEtVU9veG5zeTFaU3BUUHVyZ01GRDVQazFDd3HSAf4BQVVfeXFMTlhWbXQwa3FGZ09NcngxOFp2Zkl4YTZqbVZHM2V2X3FKZlFUbzRkNVJKbm8wUGlVN05yV1FTQ2Z2c0tRdGlXb0syaDVlM3VzczhaVFI5X0VDbERxV2VMRGxETTZlMUdMbzBIZXIydkxTVHJXVUk5NklDa1dxN2t3TmNOMUZQaWdGU3UtcFZZbGNYeTUtMmZHQWZ6Z2E2OUJVbENheTlEUzJoX3hCLU9CUUExRzJvanNLUDc5QTA2Z0txZXg4Yl9DczVhclNpSVQxaVJSa2NDWTVwX1o4OUZ5V0hlSmVhNU1kT3FDc0U0RFJRYzJsdWpreDdiX2FMbFE?oc=5",
-        "date": "2026-07-08",
-        "title": "Daily weather tracker: Monsoon intensifies across India; IMD issues red, orange and yellow alerts for several states - Down To Earth",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8AFBVV95cUxQZVFPZWVYMS1NZ2hzUG1ZbzJ2THFBX3d3T3l2X21hQVRRbGFKdFYtYnJJVmlPUHdLSkVEYkZGcHZjcE15SGUzSHlUVC0wMkVKeThaYkV1ak9CUU9kOUR4WkdYT2hBTm5GaGNUX084XzlyeV9FcjJLR1pKbXRXcTZIUVpwTU5Cb3YtQ0N6QlhjaTFVOU1LZ2xiUGZXN2R6WVkwc1JiNkdSYnFxNWRVRTBJMEozMU5OTHk2aUcxZ0hhMmM3Tlk2Z3NlVHZzbXhobFZiYkJrYmEtVU9veG5zeTFaU3BUUHVyZ01GRDVQazFDd3HSAf4BQVVfeXFMTlhWbXQwa3FGZ09NcngxOFp2Zkl4YTZqbVZHM2V2X3FKZlFUbzRkNVJKbm8wUGlVN05yV1FTQ2Z2c0tRdGlXb0syaDVlM3VzczhaVFI5X0VDbERxV2VMRGxETTZlMUdMbzBIZXIydkxTVHJXVUk5NklDa1dxN2t3TmNOMUZQaWdGU3UtcFZZbGNYeTUtMmZHQWZ6Z2E2OUJVbENheTlEUzJoX3hCLU9CUUExRzJvanNLUDc5QTA2Z0txZXg4Yl9DczVhclNpSVQxaVJSa2NDWTVwX1o4OUZ5V0hlSmVhNU1kT3FDc0U0RFJRYzJsdWpreDdiX2FMbFE?oc=5\" target=\"_blank\">Daily weather tracker: Monsoon intensifies across India; IMD issues red, orange and yellow alerts for several states</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Down To Earth</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQV0RnUWNoNDgxOVBuNk41UDliNFg0Q0wzOTFrT3NUcXhzSUYtMzVveE5Ia2I5a1MzMi1sc0w2ZDlmWjg0ODFiUkItNDFJOTdORzZsemhacTUtVWpXSXM4RUR0dkJ6bzRZV1hzTzRQNkZGNDdYVzJjbklCVkVhS3ZnWTh4TGtjWG1nQzNXMDJGUEMzV1FlVlpua29BNGpFYUVNWWM4N0hEejI0UFNoTlljU3NkSjcxUE43MmhUVThHX1ZFNEJWMFRMR2IxX2pFcWVLTi1vT1g5TS1nLWdQdXpPX3J4ZUd6SzdTTkVZbUI4dUnSAfYBQVVfeXFMT3pwWHdMZVAwUEJsaG1BY2FfZzRyTVRLY0JETHVWOXYwbkkyR0hoeUlZT0Z3MFRJUXd2NW1lRU53WFpOdEdsR2lPdjJpN2VzR0hSQ3FXTkZsY2k4bzExUUZOOWc5NzZiUE9UYld2OUhBVTRCb0RPTWhsQmh0YmVGZkhUaDcyUzM2UHVMWEVobDFoS1ktdEZvdHp0U1VjUm1FdkxxaEU2VjJZVURkNUtUc3BUTERjUkh1U1Q1RFFIYVBrUnhneWJZZEw4ZVpERlpxLVV1VktWMFFoTzVnNEVwdkQ2dUhpb3NpVmpCNnJ6Y3duMlVlUThR?oc=5",
-        "date": "2026-07-08",
-        "title": "Monsoon floods leave trail of damage: What your car and home insurance actually covers - Moneycontrol.com",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8AFBVV95cUxQV0RnUWNoNDgxOVBuNk41UDliNFg0Q0wzOTFrT3NUcXhzSUYtMzVveE5Ia2I5a1MzMi1sc0w2ZDlmWjg0ODFiUkItNDFJOTdORzZsemhacTUtVWpXSXM4RUR0dkJ6bzRZV1hzTzRQNkZGNDdYVzJjbklCVkVhS3ZnWTh4TGtjWG1nQzNXMDJGUEMzV1FlVlpua29BNGpFYUVNWWM4N0hEejI0UFNoTlljU3NkSjcxUE43MmhUVThHX1ZFNEJWMFRMR2IxX2pFcWVLTi1vT1g5TS1nLWdQdXpPX3J4ZUd6SzdTTkVZbUI4dUnSAfYBQVVfeXFMT3pwWHdMZVAwUEJsaG1BY2FfZzRyTVRLY0JETHVWOXYwbkkyR0hoeUlZT0Z3MFRJUXd2NW1lRU53WFpOdEdsR2lPdjJpN2VzR0hSQ3FXTkZsY2k4bzExUUZOOWc5NzZiUE9UYld2OUhBVTRCb0RPTWhsQmh0YmVGZkhUaDcyUzM2UHVMWEVobDFoS1ktdEZvdHp0U1VjUm1FdkxxaEU2VjJZVURkNUtUc3BUTERjUkh1U1Q1RFFIYVBrUnhneWJZZEw4ZVpERlpxLVV1VktWMFFoTzVnNEVwdkQ2dUhpb3NpVmpCNnJ6Y3duMlVlUThR?oc=5\" target=\"_blank\">Monsoon floods leave trail of damage: What your car and home insurance actually covers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Moneycontrol.com</font>",
-        "similarity_excluded": "No",
-        "score": 6,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPcHV1ZjEydjVfb1h1ZzdoNVRQY2FIVmxHWlBGWmxmZ3d4ZEtrXy1xRHNJZDF3dFlBT0lheXBuVy1lajdmc21WdVdQUVdMcmxWcDFSMkVfU3U1Q3UzbldvRjJrYlRlZ1JURHFOSVpQWktLYm5xbnl3SW0tQUpUVFF4c0lSVzV4RjJxVmpaTXhISmtEcVpuS2g1eWIxOHZzTUpKZE9PZnd6N1hMYVhucHN5LWhXcmNZT0Q5TlJxclZDR3FsclVJSnd4VVFGQmg?oc=5",
-        "date": "2026-07-08",
-        "title": "Monsoon Set To Cover Entire Country In 2-3 Days; IMD Warns Of Extremely Heavy Rain - ETV Bharat",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxPcHV1ZjEydjVfb1h1ZzdoNVRQY2FIVmxHWlBGWmxmZ3d4ZEtrXy1xRHNJZDF3dFlBT0lheXBuVy1lajdmc21WdVdQUVdMcmxWcDFSMkVfU3U1Q3UzbldvRjJrYlRlZ1JURHFOSVpQWktLYm5xbnl3SW0tQUpUVFF4c0lSVzV4RjJxVmpaTXhISmtEcVpuS2g1eWIxOHZzTUpKZE9PZnd6N1hMYVhucHN5LWhXcmNZT0Q5TlJxclZDR3FsclVJSnd4VVFGQmg?oc=5\" target=\"_blank\">Monsoon Set To Cover Entire Country In 2-3 Days; IMD Warns Of Extremely Heavy Rain</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ETV Bharat</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQOEVUZ2FUVUtla212bnhtVDZMWnJtUGR1Sm14TXgxMHlLSFFxMzdZNEtOUl9ZeFNtekhERzNzOEROTjVjU1lLNTNzX0VwM2luaGU2VFVmTTNhQnBsLUlsYWlnNm00bC1XOGFDb0VpMXFCNWM2a1gxYzdzQm5wMmdjMzNScXV2UTJHZGtzYmRJQ1FHT3hhb04yeGd5VnhTenJGc0VHeFVR0gGsAUFVX3lxTE5EblhMYXNHczBkM21fVkN3N2daRTRtSkdYUjdoUDFEQ1dsQWpSZkdodEt2eGtxaE5OWkc3bDJHeEx5UlAwWGh2YTY2X1QyQXE3WEpaekYwMkpwT1NwWmhudFVZMjZsRFBUVGtnR0tNdUl5c09BX2ZsVGRwTmRnbjdnSGRnX3JtcWNpSEpBRC1xT3ZMUC1GbTJxczhQMmZFU2RTMUFYR2prZjR3b0o?oc=5",
-        "date": "2026-07-08",
-        "title": "Watch: Explained: Why does Mumbai flood every monsoon? - The Hindu",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQOEVUZ2FUVUtla212bnhtVDZMWnJtUGR1Sm14TXgxMHlLSFFxMzdZNEtOUl9ZeFNtekhERzNzOEROTjVjU1lLNTNzX0VwM2luaGU2VFVmTTNhQnBsLUlsYWlnNm00bC1XOGFDb0VpMXFCNWM2a1gxYzdzQm5wMmdjMzNScXV2UTJHZGtzYmRJQ1FHT3hhb04yeGd5VnhTenJGc0VHeFVR0gGsAUFVX3lxTE5EblhMYXNHczBkM21fVkN3N2daRTRtSkdYUjdoUDFEQ1dsQWpSZkdodEt2eGtxaE5OWkc3bDJHeEx5UlAwWGh2YTY2X1QyQXE3WEpaekYwMkpwT1NwWmhudFVZMjZsRFBUVGtnR0tNdUl5c09BX2ZsVGRwTmRnbjdnSGRnX3JtcWNpSEpBRC1xT3ZMUC1GbTJxczhQMmZFU2RTMUFYR2prZjR3b0o?oc=5\" target=\"_blank\">Watch: Explained: Why does Mumbai flood every monsoon?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Hindu</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOYXJRRno5WklpQW9rdEphQV9MeE9oM3pDMFpfTmQ0aFJOdTQ3bUtQNVRSM2dyOVlrNnNmSGppTGJyZXE5QTIxOGNfajhfNzNscG5sb2xidWp2bUVZN1YzNWVBMlFxbjB5N09YSGNVYTNxQnlwc3JJcm0yTlZmd0g2dkk4VlE0dlNDSDhPZ3hDNkt0ZDEzdWp3YTRqUTVIeVhJWGhDRm5LYXVuamFOeXdib25IZ2ZuRkJoWGZwTWViNmtueGxGRE4ySl80dm90QQ?oc=5",
-        "date": "2026-07-08",
-        "title": "IN PHOTOS | Maharashtra rains: Vasai-Virar reels under heavy rainfall; flooding disrupts normal life - Mid-day",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxOYXJRRno5WklpQW9rdEphQV9MeE9oM3pDMFpfTmQ0aFJOdTQ3bUtQNVRSM2dyOVlrNnNmSGppTGJyZXE5QTIxOGNfajhfNzNscG5sb2xidWp2bUVZN1YzNWVBMlFxbjB5N09YSGNVYTNxQnlwc3JJcm0yTlZmd0g2dkk4VlE0dlNDSDhPZ3hDNkt0ZDEzdWp3YTRqUTVIeVhJWGhDRm5LYXVuamFOeXdib25IZ2ZuRkJoWGZwTWViNmtueGxGRE4ySl80dm90QQ?oc=5\" target=\"_blank\">IN PHOTOS | Maharashtra rains: Vasai-Virar reels under heavy rainfall; flooding disrupts normal life</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mid-day</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOcE5pbHhYZF91ejJoREdXVHRLOUNuYkhlcFlvZUtOTkZuaUczSGgyUDlNdW9pWWdnSEV2aVBxSE93dWNTUThkYWRsbDJNNlNFeEN2cmExMnZIcUloWEZxcHFwOV9Fa255bFZtSXJFMTdrbVUybE5mVGxZMnRtUkxmRHRHWWlYUW1VNEl5Q29xeXFkd0JKcUhfdkZPbFdQeG5MTDFkMGs0Q3QtcmZiUXMwckoxNTFrSW4tUmFpMVI2eWR6dlY5aDRoOW5PQWJTWEF0MlhSR2VZVU1yV2p5ZVdRTjhub2VxelZiRjJCLVdDM2NjZVNUdmRqUS1mcWtBazZVZUJoNGc4VQ?oc=5",
-        "date": "2026-07-08",
-        "title": "Illegal encroachments, blocked drains as responsible for Mumbai waterlogging as civic lapses: Bombay High Court - India Legal",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwJBVV95cUxOcE5pbHhYZF91ejJoREdXVHRLOUNuYkhlcFlvZUtOTkZuaUczSGgyUDlNdW9pWWdnSEV2aVBxSE93dWNTUThkYWRsbDJNNlNFeEN2cmExMnZIcUloWEZxcHFwOV9Fa255bFZtSXJFMTdrbVUybE5mVGxZMnRtUkxmRHRHWWlYUW1VNEl5Q29xeXFkd0JKcUhfdkZPbFdQeG5MTDFkMGs0Q3QtcmZiUXMwckoxNTFrSW4tUmFpMVI2eWR6dlY5aDRoOW5PQWJTWEF0MlhSR2VZVU1yV2p5ZVdRTjhub2VxelZiRjJCLVdDM2NjZVNUdmRqUS1mcWtBazZVZUJoNGc4VQ?oc=5\" target=\"_blank\">Illegal encroachments, blocked drains as responsible for Mumbai waterlogging as civic lapses: Bombay High Court</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">India Legal</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBFSktsNl9OOW9HOHh3TGJkMWtYR3FIdzJvRTZLbUlzam1TMXFOOXpkOGd2a0dsbVI1TkozLWxxYUtneU5XMmdYdkdFVUp2Z2tXWTU2YmZfbkpUNUo4cXVhaG03MWVfSS1ZYkdLZU9MSW9teGMzdmFz?oc=5",
-        "date": "2026-07-08",
-        "title": "It\u2019s Our Own Creation, We Should Stop Blaming the Corporation: Bombay High Court on Mumbai\u2019s Monsoon Flooding - LawChakra",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTFBFSktsNl9OOW9HOHh3TGJkMWtYR3FIdzJvRTZLbUlzam1TMXFOOXpkOGd2a0dsbVI1TkozLWxxYUtneU5XMmdYdkdFVUp2Z2tXWTU2YmZfbkpUNUo4cXVhaG03MWVfSS1ZYkdLZU9MSW9teGMzdmFz?oc=5\" target=\"_blank\">It\u2019s Our Own Creation, We Should Stop Blaming the Corporation: Bombay High Court on Mumbai\u2019s Monsoon Flooding</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">LawChakra</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQbVhrM3pwR0F5bTB6UkdUQ1F2YUlCTklKMmppMEtHNXlLbnRzVVg3cjZOX0l3Sk9xZ2RYdGFuZEd6cEZnTmRENFZESVRwLXpLdXhWbHBkalVubVhlMFlOY0hBUnhuYTc2d0tfVDg0d185Ri04a0NTcXJ2cERwZklJcE5HNEs2WElwMGNWdUpwSzRsaGlfWjBYT050SDJtY0pHcWxSSEoyT2dhR3NsQ0ZGLUlQN3ZabUU3R0o5aGRGcXZqZlNuUzlZSXVMeUpyRVNuT1FtMk96WE1qOHRJ?oc=5",
-        "date": "2026-07-08",
-        "title": "Chattogram Flooding | Relentless monsoon rain inundates Ctg, disrupts transport and education - The Daily Star",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxQbVhrM3pwR0F5bTB6UkdUQ1F2YUlCTklKMmppMEtHNXlLbnRzVVg3cjZOX0l3Sk9xZ2RYdGFuZEd6cEZnTmRENFZESVRwLXpLdXhWbHBkalVubVhlMFlOY0hBUnhuYTc2d0tfVDg0d185Ri04a0NTcXJ2cERwZklJcE5HNEs2WElwMGNWdUpwSzRsaGlfWjBYT050SDJtY0pHcWxSSEoyT2dhR3NsQ0ZGLUlQN3ZabUU3R0o5aGRGcXZqZlNuUzlZSXVMeUpyRVNuT1FtMk96WE1qOHRJ?oc=5\" target=\"_blank\">Chattogram Flooding | Relentless monsoon rain inundates Ctg, disrupts transport and education</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Daily Star</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZzJXRTgxZndMNDlYUEpUNEFZa0VRNWZlaC02Nkd6eVh5WjJSYUtuVXlodjM0NVpJR1dnSFhZNWRZWFctdEJNbzNHTnY0d1pkT3JJYzlwbDU3R1NNd29xbDJEQkxGekRNQUMwU2cxUWxZaDlXdGdISzFUQnh3Unk5MVBMbDFaN0NEdldOUjBXZFNObUsyVHRvY29xWkVvVzVNQndSdEZkNmd2a2_SAasBQVVfeXFMTmcyV0U4MWZ3TDQ5WFBKVDRBWWtFUTVmZWgtNjZHenlYeVoyUmFLblV5aHYzNDVaSUdXZ0hYWTVkWVhXLXRCTW8zR052NHdaZE9ySWM5cGw1N0dTTXdvcWwyREJMRnpETUFDMFNnMVFsWWg5V3RnSEsxVEJ4d1J5OTFQTGwxWjdDRHZXTlIwV2RTTm1LMlR0b2NvcVpFb1c1TUJ3UnRGZDZndmtv?oc=5",
-        "date": "2026-07-08",
-        "title": "IN PICS | Monsoon fury: Landslide in Wayanad, flooding in Mumbai - DT Next",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZzJXRTgxZndMNDlYUEpUNEFZa0VRNWZlaC02Nkd6eVh5WjJSYUtuVXlodjM0NVpJR1dnSFhZNWRZWFctdEJNbzNHTnY0d1pkT3JJYzlwbDU3R1NNd29xbDJEQkxGekRNQUMwU2cxUWxZaDlXdGdISzFUQnh3Unk5MVBMbDFaN0NEdldOUjBXZFNObUsyVHRvY29xWkVvVzVNQndSdEZkNmd2a2_SAasBQVVfeXFMTmcyV0U4MWZ3TDQ5WFBKVDRBWWtFUTVmZWgtNjZHenlYeVoyUmFLblV5aHYzNDVaSUdXZ0hYWTVkWVhXLXRCTW8zR052NHdaZE9ySWM5cGw1N0dTTXdvcWwyREJMRnpETUFDMFNnMVFsWWg5V3RnSEsxVEJ4d1J5OTFQTGwxWjdDRHZXTlIwV2RTTm1LMlR0b2NvcVpFb1c1TUJ3UnRGZDZndmtv?oc=5\" target=\"_blank\">IN PICS | Monsoon fury: Landslide in Wayanad, flooding in Mumbai</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DT Next</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxONXUwU1NqYTBscE54TUFpOTM4OTZFbjhqTE5WTUlocDBYTWZtSnZZQUtvYzhrVG1BTGFOTGVDV1JERGduTHF1aWdHQ09pSUpKVENOT2RnYzAwN0FER0xZaS1TdUJIT0dLWnJ2OHJmZFdPSzZuOFpRMWxSaHF0YzJmWElnaWJsYy1fdkFTY2lPakREUXAwdjBNTFI2ckkwcEFES0FaTURSTkpsUlBtWGZhelBHMzM3N3F4U2V2aWZPMThBUXhhWlZ1X2dBVEFYblpCSnVDSkcwaE5pZnd2N0FlRml4WU5MbnM?oc=5",
-        "date": "2026-07-08",
-        "title": "Car Flooded This Monsoon? Avoid These Insurance Mistakes Or Your Claim Could Be Rejected - Business Today",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxONXUwU1NqYTBscE54TUFpOTM4OTZFbjhqTE5WTUlocDBYTWZtSnZZQUtvYzhrVG1BTGFOTGVDV1JERGduTHF1aWdHQ09pSUpKVENOT2RnYzAwN0FER0xZaS1TdUJIT0dLWnJ2OHJmZFdPSzZuOFpRMWxSaHF0YzJmWElnaWJsYy1fdkFTY2lPakREUXAwdjBNTFI2ckkwcEFES0FaTURSTkpsUlBtWGZhelBHMzM3N3F4U2V2aWZPMThBUXhhWlZ1X2dBVEFYblpCSnVDSkcwaE5pZnd2N0FlRml4WU5MbnM?oc=5\" target=\"_blank\">Car Flooded This Monsoon? Avoid These Insurance Mistakes Or Your Claim Could Be Rejected</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Today</font>",
-        "similarity_excluded": "No",
-        "score": 2,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNbzZhUW8zWTNDRTVxcEpmRFZpOUJRczVnbGFZZy00S19ERm5SakRGRi15Uk5kVmVwVWNCdmoyempYcWM1cE5qQ1ZkWjM0MlExYWJyVkZBZDFDMkx1TnVtN0kyckhlNmxjWkVfSXgtWV9nOVV2dzdpRHJYVENhNXJwWnRYVFUzUlM4STdwT1V6T1ZGcXNTeGFEaGhycw?oc=5",
-        "date": "2026-07-08",
-        "title": "Monsoon causes landslides, floods in Bangladesh, India - The Arkansas Democrat-Gazette",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNbzZhUW8zWTNDRTVxcEpmRFZpOUJRczVnbGFZZy00S19ERm5SakRGRi15Uk5kVmVwVWNCdmoyempYcWM1cE5qQ1ZkWjM0MlExYWJyVkZBZDFDMkx1TnVtN0kyckhlNmxjWkVfSXgtWV9nOVV2dzdpRHJYVENhNXJwWnRYVFUzUlM4STdwT1V6T1ZGcXNTeGFEaGhycw?oc=5\" target=\"_blank\">Monsoon causes landslides, floods in Bangladesh, India</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Arkansas Democrat-Gazette</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQaE42d1FfaHZGUDJacmRBckZkSGV0QXN6NjdkYWY3UkxVeUpCRHJWYWczZm01cnJkOGRKTll5VXBMRllDMFdfY2w4SUd4YVJvMVJMNGI4Y0U5RWFBVnpuQy1DVHl5VjNrVFlTVGxYeUtQTWRsYlRFTXVrdjA3N0FWbVF2cTVuMUtma0w5YkllQTBoWHVCUFNHdWgwdzlEYkppTVltZ3BKZmF1MHYtLTlpZndGMHF6UXBoMjFBczNZUVFaTnFoalBFNUppRTdVdXByMnRr?oc=5",
-        "date": "2026-07-08",
-        "title": "As Colorado wildfires rage, monsoon, super El Ni\u00f1o relief approaches - The Coloradoan",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxQaE42d1FfaHZGUDJacmRBckZkSGV0QXN6NjdkYWY3UkxVeUpCRHJWYWczZm01cnJkOGRKTll5VXBMRllDMFdfY2w4SUd4YVJvMVJMNGI4Y0U5RWFBVnpuQy1DVHl5VjNrVFlTVGxYeUtQTWRsYlRFTXVrdjA3N0FWbVF2cTVuMUtma0w5YkllQTBoWHVCUFNHdWgwdzlEYkppTVltZ3BKZmF1MHYtLTlpZndGMHF6UXBoMjFBczNZUVFaTnFoalBFNUppRTdVdXByMnRr?oc=5\" target=\"_blank\">As Colorado wildfires rage, monsoon, super El Ni\u00f1o relief approaches</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Coloradoan</font>",
-        "similarity_excluded": "No",
-        "score": 2,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNcnlJRkwxQ09DQkdMbm0takNHSk1XeVlaV3NMTTZiWS1BLUhlMGlVUUkwOGp6YVRldGVOMERmbV9TWVhyM3FteHYwQ2J5Y2s2bkE0SXAtYnJMRDVmWWpIWTFxdFFXX2dqWnlybTFVcHZsby1kSEx2R2hSSE1aMVRNWU1sVWRQaEVBLWN0VUxMRHpyUk9YN2VjV1oyYVQweWgxLXdBX3FTVm9Zc05BZWfSAbMBQVVfeXFMT1JnUDF4TmJQbmI5Ujl4WWttc1pTMi05NlZzeFByRGFxTGpham9ZS25QYVp6ZEE1b3lOeENRQTlocVpWRWRFUHR3QnZxeE5Mb3BzakFjcFV6dmEtbFpaWkhkNkRCMkpuQlE5S0V1YWRZRm9sVU42N2dzS1hvNTJuSUNwQkMzbXF1SzZIRGlLX0h6X1hicWhqVGV5R0N1dzJ5Z1dKOFQtb3hLUXBmRVlPT2ZkUzA?oc=5",
-        "date": "2026-07-08",
-        "title": "Rescuers search for 5 missing people after a deadly landslide in India's Kerala state - ABC News - Breaking News, Latest News and Videos",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNcnlJRkwxQ09DQkdMbm0takNHSk1XeVlaV3NMTTZiWS1BLUhlMGlVUUkwOGp6YVRldGVOMERmbV9TWVhyM3FteHYwQ2J5Y2s2bkE0SXAtYnJMRDVmWWpIWTFxdFFXX2dqWnlybTFVcHZsby1kSEx2R2hSSE1aMVRNWU1sVWRQaEVBLWN0VUxMRHpyUk9YN2VjV1oyYVQweWgxLXdBX3FTVm9Zc05BZWfSAbMBQVVfeXFMT1JnUDF4TmJQbmI5Ujl4WWttc1pTMi05NlZzeFByRGFxTGpham9ZS25QYVp6ZEE1b3lOeENRQTlocVpWRWRFUHR3QnZxeE5Mb3BzakFjcFV6dmEtbFpaWkhkNkRCMkpuQlE5S0V1YWRZRm9sVU42N2dzS1hvNTJuSUNwQkMzbXF1SzZIRGlLX0h6X1hicWhqVGV5R0N1dzJ5Z1dKOFQtb3hLUXBmRVlPT2ZkUzA?oc=5\" target=\"_blank\">Rescuers search for 5 missing people after a deadly landslide in India's Kerala state</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ABC News - Breaking News, Latest News and Videos</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTzZiZURzVEJiWHpEYmFCaWVEZHl6ZUh3V1pQQnhuQkNSSHhMQS0wanA2WlVMMFA3NVY1Xzd2VU95VmdJczFWbkh5dm9KdnVDX2NlUU9kVUM3a2hfZ3ZBdkNxWXltUEFTazAwaEVnRGUzeGVmMlFnUW1MdTRNRktKR2xuUUVUUElxTHMtWUpvVV9obFJYRnVUVHNUQktTZmNaYnZxUDd2TWNPSFM4QnBmWlAyTFo?oc=5",
-        "date": "2026-07-08",
-        "title": "The 7 July 2026 landslide at Renzang Village in Longnan City, Gansu Province, China - eos.org",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNTzZiZURzVEJiWHpEYmFCaWVEZHl6ZUh3V1pQQnhuQkNSSHhMQS0wanA2WlVMMFA3NVY1Xzd2VU95VmdJczFWbkh5dm9KdnVDX2NlUU9kVUM3a2hfZ3ZBdkNxWXltUEFTazAwaEVnRGUzeGVmMlFnUW1MdTRNRktKR2xuUUVUUElxTHMtWUpvVV9obFJYRnVUVHNUQktTZmNaYnZxUDd2TWNPSFM4QnBmWlAyTFo?oc=5\" target=\"_blank\">The 7 July 2026 landslide at Renzang Village in Longnan City, Gansu Province, China</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">eos.org</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSk5BdHdnUUNHRW5PNkc1RnpBTnNlV2lVWjliMmczTGV1aWlNR1BnVXZHMUJibk4yRUpfMTY4WlpQV3JXVDRwYU9ZVGNILVJiOGtHRTNQWmN5WFRNQV9YVXdid2tWUC1ZbzQtNXRWTjNRUW5NZzBuTHdqb2hablV0QW01eFFxaFhCZWhSelVzNWZacFh5b0tDUlpFWURGMzlr?oc=5",
-        "date": "2026-07-08",
-        "title": "Two children killed as heavy rain triggers Chattogram landslides today - The Climate Watch",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOSk5BdHdnUUNHRW5PNkc1RnpBTnNlV2lVWjliMmczTGV1aWlNR1BnVXZHMUJibk4yRUpfMTY4WlpQV3JXVDRwYU9ZVGNILVJiOGtHRTNQWmN5WFRNQV9YVXdid2tWUC1ZbzQtNXRWTjNRUW5NZzBuTHdqb2hablV0QW01eFFxaFhCZWhSelVzNWZacFh5b0tDUlpFWURGMzlr?oc=5\" target=\"_blank\">Two children killed as heavy rain triggers Chattogram landslides today</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Climate Watch</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTEM5QlkzUDVYaUk4REZhekZDRzJrX0N2YkFvRmh6dUxtRUN0TUlMQTJxNHQ2ekVSQkR6Y3VHNm1zTjJNXzZTYmpQeC14SEtZZnRuYm43cDVFTkpYTlBaVnpaMFV6TWNtZ3J6R0k3cG1RSW9mbDY2YVFPcWVreDAyZzVaVFJQdHhtNjdmUEdOR2hpNTlKLTk4X3h0UThiR2dx0gGmAUFVX3lxTFBJOGRyUG5UV1lzNzFteTdSY25ZbjVhdFNJQkpkZlpxbjhoSHNtVkxicWdKZm0wdHdXVXh1UUlVaUtLNGNwZURYS2RwcnNYR0dfelA1Z2JHNEVYMkF1ZmUwNUtyelFoaG9mUmREOFFlcHhFY0szd2hqOERZdWEzc2NKZ2tHYTZJeWhRWEFlM1pyc0dRMlc0ZGhnZG9ncmZUYVVncUtkZ0E?oc=5",
-        "date": "2026-07-08",
-        "title": "2 children killed in landslides triggered by rain in Ctg - The Business Standard",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQTEM5QlkzUDVYaUk4REZhekZDRzJrX0N2YkFvRmh6dUxtRUN0TUlMQTJxNHQ2ekVSQkR6Y3VHNm1zTjJNXzZTYmpQeC14SEtZZnRuYm43cDVFTkpYTlBaVnpaMFV6TWNtZ3J6R0k3cG1RSW9mbDY2YVFPcWVreDAyZzVaVFJQdHhtNjdmUEdOR2hpNTlKLTk4X3h0UThiR2dx0gGmAUFVX3lxTFBJOGRyUG5UV1lzNzFteTdSY25ZbjVhdFNJQkpkZlpxbjhoSHNtVkxicWdKZm0wdHdXVXh1UUlVaUtLNGNwZURYS2RwcnNYR0dfelA1Z2JHNEVYMkF1ZmUwNUtyelFoaG9mUmREOFFlcHhFY0szd2hqOERZdWEzc2NKZ2tHYTZJeWhRWEFlM1pyc0dRMlc0ZGhnZG9ncmZUYVVncUtkZ0E?oc=5\" target=\"_blank\">2 children killed in landslides triggered by rain in Ctg</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Business Standard</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPOVB1QWRSdEhUSHotUUczYTZXQWRBbHFaSm5fRE0tVU1mV19pcDQ1QjNHbWdCSFFZaEFraEdzSTFsanFiS1dLajB4dUQ5R19MS0Q1VC1XU0puWVpSVFJkMzNROXZnSXlqZDA3YllRODlxN2NkY09fT0NZSG9icFJjemtobTVjT1ZleDFETzBnYjNEZw?oc=5",
-        "date": "2026-07-08",
-        "title": "DPWH clears landslides in Zamboanga del Norte town - Inquirer.net",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPOVB1QWRSdEhUSHotUUczYTZXQWRBbHFaSm5fRE0tVU1mV19pcDQ1QjNHbWdCSFFZaEFraEdzSTFsanFiS1dLajB4dUQ5R19MS0Q1VC1XU0puWVpSVFJkMzNROXZnSXlqZDA3YllRODlxN2NkY09fT0NZSG9icFJjemtobTVjT1ZleDFETzBnYjNEZw?oc=5\" target=\"_blank\">DPWH clears landslides in Zamboanga del Norte town</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Inquirer.net</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSTlUTlpKcEJKdjZ5VjhRMUpMOFF6V1FRLVRVWDNEOENTWEp3Mm1wRmoweG56NGtBY252V2wtNVJXQWxWYUtlNEowSTZ0U0JvckJJNWhUOENDSTNaNHVldmZkLXdvcVlUa0tYemZuZGNUa3VSVkp1REtTUU5ZSHF1OV9aMG9zOEQ1aThOd0pCZVl6SnhBTjB0bFJkbzMzN1pGSUlR?oc=5",
-        "date": "2026-07-08",
-        "title": "Rain-triggered landslides kill two children in Chattogram - The Financial Express",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNSTlUTlpKcEJKdjZ5VjhRMUpMOFF6V1FRLVRVWDNEOENTWEp3Mm1wRmoweG56NGtBY252V2wtNVJXQWxWYUtlNEowSTZ0U0JvckJJNWhUOENDSTNaNHVldmZkLXdvcVlUa0tYemZuZGNUa3VSVkp1REtTUU5ZSHF1OV9aMG9zOEQ1aThOd0pCZVl6SnhBTjB0bFJkbzMzN1pGSUlR?oc=5\" target=\"_blank\">Rain-triggered landslides kill two children in Chattogram</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Financial Express</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQZi1fZVJxaGxweXRHQy1IV0d0VF9GaUpnTzEzWlgzV1U5WEdwQ3VDVVVXRGlUTjJ1UzdUeTJkOG5TY2VYNk42eTY0Ynl1QlR4d21UZXBSWXJiTjNhcTNQdGxVRWIzRWY1dHVRNW9HMWRyMnRFd19JUXZjME5pTTRGRGNGS0g1SFo4MmtJQlRMX1ZpOHhzSThEVjVDT1BRLXkydk1BYWZfWE9hSzcySTFDWXBIM3pEa1Judld0NVFBTkt3cTgwUFVfOUNXUDlnRXNW0gHWAUFVX3lxTE5DZ2M0MExTY3FiakV4TnlrZk9GbmQwZTJwOGRJNERKVTVNTk4xaE8tbkZRREhmVU1GMXdnZXV0dUhKaXFTUWEtWm92Wm9CMmtoX09CZEdQdktOa2t5ZThxNE9hXzl1NkNxVlJKanJlSFhjN19PdlF4cTZvN0Nfd0NZQWRmcUpZNEtBaHljb0tKSzlwMGZpOTdHWTBvZHZZN1RuT0pHYS1kNHNJSy12Vkh5M25zaEJSZkJRa3lyMzExSDJuQVlXeE5tREszMVBoSlBWNEFCRUE?oc=5",
-        "date": "2026-07-08",
-        "title": "IIT Mandi develops landslide early warning system for Himalayan region - The Economic Times",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxQZi1fZVJxaGxweXRHQy1IV0d0VF9GaUpnTzEzWlgzV1U5WEdwQ3VDVVVXRGlUTjJ1UzdUeTJkOG5TY2VYNk42eTY0Ynl1QlR4d21UZXBSWXJiTjNhcTNQdGxVRWIzRWY1dHVRNW9HMWRyMnRFd19JUXZjME5pTTRGRGNGS0g1SFo4MmtJQlRMX1ZpOHhzSThEVjVDT1BRLXkydk1BYWZfWE9hSzcySTFDWXBIM3pEa1Judld0NVFBTkt3cTgwUFVfOUNXUDlnRXNW0gHWAUFVX3lxTE5DZ2M0MExTY3FiakV4TnlrZk9GbmQwZTJwOGRJNERKVTVNTk4xaE8tbkZRREhmVU1GMXdnZXV0dUhKaXFTUWEtWm92Wm9CMmtoX09CZEdQdktOa2t5ZThxNE9hXzl1NkNxVlJKanJlSFhjN19PdlF4cTZvN0Nfd0NZQWRmcUpZNEtBaHljb0tKSzlwMGZpOTdHWTBvZHZZN1RuT0pHYS1kNHNJSy12Vkh5M25zaEJSZkJRa3lyMzExSDJuQVlXeE5tREszMVBoSlBWNEFCRUE?oc=5\" target=\"_blank\">IIT Mandi develops landslide early warning system for Himalayan region</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Economic Times</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQa255cFZoS01OeVBhNVpyLWNjSVIzMmFJVmoxZU5hZzhkLW9ZdS1aSC1ENU1FemhPWGtqeVdueVhZRDB3U0VDZktnOWZpZlZjM3hld0N5dGYtVnFKTjBZM2lwTURndjBvZ1V3YkNWQTF3Wkc0TzRDYTA2SWg1Nmo0RkpwUnAzdUtoa1AyNGVxRdIBkgFBVV95cUxPQ1VqR0xHcHNaRHNjTnhTSVVyWW80WmFfQTZnd0VZMDBDNlRXVTBxS1ZTV050c0Y2eXpJc3NNUDNYR2JrRm9Zb21ZbHpwbzM1Y0tYV1gycmI4ZTl4MVBPNVJwY1hQVTJ6UkR3ZFRDcXRFQlJjVnp5NHlXTlowTmNvMG9MbWx2eElVN1QtdWdqeDRrUQ?oc=5",
-        "date": "2026-07-08",
-        "title": "Race Against Time in Wayanad Landslide - Rediff",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxQa255cFZoS01OeVBhNVpyLWNjSVIzMmFJVmoxZU5hZzhkLW9ZdS1aSC1ENU1FemhPWGtqeVdueVhZRDB3U0VDZktnOWZpZlZjM3hld0N5dGYtVnFKTjBZM2lwTURndjBvZ1V3YkNWQTF3Wkc0TzRDYTA2SWg1Nmo0RkpwUnAzdUtoa1AyNGVxRdIBkgFBVV95cUxPQ1VqR0xHcHNaRHNjTnhTSVVyWW80WmFfQTZnd0VZMDBDNlRXVTBxS1ZTV050c0Y2eXpJc3NNUDNYR2JrRm9Zb21ZbHpwbzM1Y0tYV1gycmI4ZTl4MVBPNVJwY1hQVTJ6UkR3ZFRDcXRFQlJjVnp5NHlXTlowTmNvMG9MbWx2eElVN1QtdWdqeDRrUQ?oc=5\" target=\"_blank\">Race Against Time in Wayanad Landslide</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Rediff</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNeTNjS0JGUUw4NHlRWm9BajdYM29NVzBmdWZWaU16b0FFQVhRbUdwNG1VMzJfZGtHazFZRU5qX004WWpsV3JYOVdPY2dsNFpFQ25Zd3RBdVctb3ZLZjFrUWljZWtRSkNNRmR6YVVvODBBS09PVVVkbW1SY1NoemN3Vk02YmJReGphX19MZ1JBTmdkT240ZE5ENjBWcHlsb3FHSUZUYUtkQ3V2TGE5UWxhWHpCd2syck51ZUpCZF9DYmlRNG5FUU1BN2hENjdxT2Zub3Vkb05hOEdBeWlHa1lJV2pKTk1GeW5PS3JQNHdZZkVlbkJPTkVCV0QwR1NDNFVReDBwR2lqTzBzd19s0gGSAkFVX3lxTFBaMlVDeGJYT25YZlJEYVRjWFFpLXRTMEo0M0VOTjY5ZUpfLUZfZVBLUFplcThjRXU5WDNfX3dEY1hjOFBmWl9kam1FUkQydTI5a1k0M3pGc1l1c3lPRUhWaUVSSVFrVlN3TTRFZmI2MUprVDVJT0VPWVdVMWtSUXZXWTNkV0F6RFdXWlBydXFPajA4aHdVSTFEMUw4LWRzbzZWTEVQY3JVNl9OS0dVNkU0MzFTZzRIWURRSEV3N3pBTk1NWG5tYUdsMWdUVGt6b2NMek5SenJyWThmd2xrVXMtWk5RYlpMbEZPMXhsbFRoUXNUVmhJbllvYjlKNWtZVEJ1SmhpM1F1Yi15WnRqTGw1VlE?oc=5",
-        "date": "2026-07-08",
-        "title": "Amit Shah dials Maha CM Fadnavis, Kerala CM Satheesan; assures Centre's full support amid rain and landsl - The Times of India",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAJBVV95cUxNeTNjS0JGUUw4NHlRWm9BajdYM29NVzBmdWZWaU16b0FFQVhRbUdwNG1VMzJfZGtHazFZRU5qX004WWpsV3JYOVdPY2dsNFpFQ25Zd3RBdVctb3ZLZjFrUWljZWtRSkNNRmR6YVVvODBBS09PVVVkbW1SY1NoemN3Vk02YmJReGphX19MZ1JBTmdkT240ZE5ENjBWcHlsb3FHSUZUYUtkQ3V2TGE5UWxhWHpCd2syck51ZUpCZF9DYmlRNG5FUU1BN2hENjdxT2Zub3Vkb05hOEdBeWlHa1lJV2pKTk1GeW5PS3JQNHdZZkVlbkJPTkVCV0QwR1NDNFVReDBwR2lqTzBzd19s0gGSAkFVX3lxTFBaMlVDeGJYT25YZlJEYVRjWFFpLXRTMEo0M0VOTjY5ZUpfLUZfZVBLUFplcThjRXU5WDNfX3dEY1hjOFBmWl9kam1FUkQydTI5a1k0M3pGc1l1c3lPRUhWaUVSSVFrVlN3TTRFZmI2MUprVDVJT0VPWVdVMWtSUXZXWTNkV0F6RFdXWlBydXFPajA4aHdVSTFEMUw4LWRzbzZWTEVQY3JVNl9OS0dVNkU0MzFTZzRIWURRSEV3N3pBTk1NWG5tYUdsMWdUVGt6b2NMek5SenJyWThmd2xrVXMtWk5RYlpMbEZPMXhsbFRoUXNUVmhJbllvYjlKNWtZVEJ1SmhpM1F1Yi15WnRqTGw1VlE?oc=5\" target=\"_blank\">Amit Shah dials Maha CM Fadnavis, Kerala CM Satheesan; assures Centre's full support amid rain and landsl</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of India</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPM3JCUVY0MVNpM1BRX3B5Nm5PbDBLSmt2aF85SHAzTmVfUUVydkhMVENtRzRBRHpRYjNST1p1VE1oUHhJeGZUWGg2cDFpMFZTXzdzZDc3VmZUeVg4STRNazREakRkT1l4N21ZMmN2ZHc0THlXUGVmVXVpdklRUzNsSENSeGMwVDc0MEFFMzRPTngyVl9sZ0hLa0daaFQ0LVp5RVI0VEtvVzgtUGVTVnc?oc=5",
-        "date": "2026-07-08",
-        "title": "IMD forecasts heavy rainfall and landslide risks in Himachal Pradesh - The News Mill",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPM3JCUVY0MVNpM1BRX3B5Nm5PbDBLSmt2aF85SHAzTmVfUUVydkhMVENtRzRBRHpRYjNST1p1VE1oUHhJeGZUWGg2cDFpMFZTXzdzZDc3VmZUeVg4STRNazREakRkT1l4N21ZMmN2ZHc0THlXUGVmVXVpdklRUzNsSENSeGMwVDc0MEFFMzRPTngyVl9sZ0hLa0daaFQ0LVp5RVI0VEtvVzgtUGVTVnc?oc=5\" target=\"_blank\">IMD forecasts heavy rainfall and landslide risks in Himachal Pradesh</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The News Mill</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5CUDVBSFltU3J6UDFsT3hUZmJ6RjFYM1E5SXdYaldSV2xIdjFwVE84eUM4SzIyZ0pqbVdoVXUtVWtTOWY4Q0p0OFVlc09TRHdDaVFvMXkwdVVjNXhOWUHSAVBBVV95cUxONFVUVXVGcW5Mb091cXc0OHpHY2NvLVhBdjNCdWpiejBpSGlnNjdKUllvNWVCZ0hnN3Nja0NxNmpJOWVHTnRGdzJLcTNtaTY2TA?oc=5",
-        "date": "2026-07-08",
-        "title": "2 students killed in Rohingya camp landslide - Jagonews24.com",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE5CUDVBSFltU3J6UDFsT3hUZmJ6RjFYM1E5SXdYaldSV2xIdjFwVE84eUM4SzIyZ0pqbVdoVXUtVWtTOWY4Q0p0OFVlc09TRHdDaVFvMXkwdVVjNXhOWUHSAVBBVV95cUxONFVUVXVGcW5Mb091cXc0OHpHY2NvLVhBdjNCdWpiejBpSGlnNjdKUllvNWVCZ0hnN3Nja0NxNmpJOWVHTnRGdzJLcTNtaTY2TA?oc=5\" target=\"_blank\">2 students killed in Rohingya camp landslide</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Jagonews24.com</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNbmdiZGNCSFpPcGlJcjBVTkdRQzYtTG9tYTg5X3ZMWnZPUVpCVjNTcG1yR3AxMEhNWDhUM19hd05ITUNtY1BMbW45VlZ4V2dQdG9lUFJwVjlIWDk5eVJtWDU3RFlrUVdFeG1yZncxVV9ELTNiWUYzT0lDQ01BWkh6Q2Z6b3JVMGthcXZZVjZCemo5S3hhRW81Y0E4eC1pUTBfdHhQadIBuAFBVV95cUxPNW1kYzYzbUZGWk5yTTgzWXdnRkE3aTRuMlBOZ2ZOM1NLWEZLZUFCUTc1ZzF5czJiR0ZxTHNlUUZqQjVZVml0SjcxQU5fcGN6dVlWV0pUa2tJWS1uaUp5MzVwUS1GcFpOSkpleXZKdS1kbU10d0t3aTdyTVBmS1JDUk0yZmttN1BNRHp6X3M4a0F4dkxoM2ZKVGRBbXVIOVJ5MmlZTXp6RldOUmVvSUZMdTROQmJKWWVW?oc=5",
-        "date": "2026-07-08",
-        "title": "\u2018Stay aware and prepare\u2019: county officials urge safety during flash flooding - WKYT",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNbmdiZGNCSFpPcGlJcjBVTkdRQzYtTG9tYTg5X3ZMWnZPUVpCVjNTcG1yR3AxMEhNWDhUM19hd05ITUNtY1BMbW45VlZ4V2dQdG9lUFJwVjlIWDk5eVJtWDU3RFlrUVdFeG1yZncxVV9ELTNiWUYzT0lDQ01BWkh6Q2Z6b3JVMGthcXZZVjZCemo5S3hhRW81Y0E4eC1pUTBfdHhQadIBuAFBVV95cUxPNW1kYzYzbUZGWk5yTTgzWXdnRkE3aTRuMlBOZ2ZOM1NLWEZLZUFCUTc1ZzF5czJiR0ZxTHNlUUZqQjVZVml0SjcxQU5fcGN6dVlWV0pUa2tJWS1uaUp5MzVwUS1GcFpOSkpleXZKdS1kbU10d0t3aTdyTVBmS1JDUk0yZmttN1BNRHp6X3M4a0F4dkxoM2ZKVGRBbXVIOVJ5MmlZTXp6RldOUmVvSUZMdTROQmJKWWVW?oc=5\" target=\"_blank\">\u2018Stay aware and prepare\u2019: county officials urge safety during flash flooding</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WKYT</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVksxNTk4S2dmcTFKTFdBd2RMckNtY3FMU0ZRb0h4c1pQY1BrZkJ6cVlBb2ZncVFTaTh0TmZPZkhfVU53UHptZ3Jkems0ZS0yZUxwby0zaDU5RXhKMWMxRmdwSlFRMlQ3Qlp4S2QyaUh1QWFGU0daZDdOOTBIbGNfNVZYUE9fVDFNMHVQamZkVFhOcERQc2dRNXV1ZXVHcXZpN1gyTExBTQ?oc=5",
-        "date": "2026-07-08",
-        "title": "FIRST ALERT WEATHER DAY: Potential for flash flooding lasts through Saturday - WYMT",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxOVksxNTk4S2dmcTFKTFdBd2RMckNtY3FMU0ZRb0h4c1pQY1BrZkJ6cVlBb2ZncVFTaTh0TmZPZkhfVU53UHptZ3Jkems0ZS0yZUxwby0zaDU5RXhKMWMxRmdwSlFRMlQ3Qlp4S2QyaUh1QWFGU0daZDdOOTBIbGNfNVZYUE9fVDFNMHVQamZkVFhOcERQc2dRNXV1ZXVHcXZpN1gyTExBTQ?oc=5\" target=\"_blank\">FIRST ALERT WEATHER DAY: Potential for flash flooding lasts through Saturday</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WYMT</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQQmo1SVVBT3Atd2hNNjNjU19jRUtxaVotcDNoMkRRWXQtbzlBMmdBSFd4Tm1WRE14ZG5pSmY0X3A4S0ZMYktSZGdqXzlSM18ydGRPLXo4UUhQZ2poMjBOLXhpN290XzFVUDBVV2V1dzJKQ2pvUmhRVnN0UVhQM2NJOTNJZHF6MzdlRnk0QklwU1hlSDZ5NEdJTWFINktZRFJkMzd3OU9ZWnI5di04X3VCSk5Kald4R0xZTDZhd0JuX0RhT0F1SldQYnJEMFVKX0tZTDR2MjlxX2FvV0wwcnQw?oc=5",
-        "date": "2026-07-08",
-        "title": "Victim of rare intestinal illness and massive flash flood says \u2018It is OK to ask for help\u2019 - Toledo Blade",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxQQmo1SVVBT3Atd2hNNjNjU19jRUtxaVotcDNoMkRRWXQtbzlBMmdBSFd4Tm1WRE14ZG5pSmY0X3A4S0ZMYktSZGdqXzlSM18ydGRPLXo4UUhQZ2poMjBOLXhpN290XzFVUDBVV2V1dzJKQ2pvUmhRVnN0UVhQM2NJOTNJZHF6MzdlRnk0QklwU1hlSDZ5NEdJTWFINktZRFJkMzd3OU9ZWnI5di04X3VCSk5Kald4R0xZTDZhd0JuX0RhT0F1SldQYnJEMFVKX0tZTDR2MjlxX2FvV0wwcnQw?oc=5\" target=\"_blank\">Victim of rare intestinal illness and massive flash flood says \u2018It is OK to ask for help\u2019</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Toledo Blade</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNeURmRm5oV01rRV9fTllpeGNQQWxUS3Z6Wng0Z2FmRHFmaGNRVU0zWFJmc0hXMl9FQk1vQ3VPRjJUQTZ5RU9lSGFwcW9JbkYxVXRaNkdkaGRUX3M1ZjFya1VxZC1jelJtOG9TSk1mNFQtQi02T2ZTeTRudFpfN0x2dGxTVnoyaUZ4aGpN?oc=5",
-        "date": "2026-07-08",
-        "title": "Scattered storms again, flood threat Wednesday - WLKY",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxNeURmRm5oV01rRV9fTllpeGNQQWxUS3Z6Wng0Z2FmRHFmaGNRVU0zWFJmc0hXMl9FQk1vQ3VPRjJUQTZ5RU9lSGFwcW9JbkYxVXRaNkdkaGRUX3M1ZjFya1VxZC1jelJtOG9TSk1mNFQtQi02T2ZTeTRudFpfN0x2dGxTVnoyaUZ4aGpN?oc=5\" target=\"_blank\">Scattered storms again, flood threat Wednesday</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WLKY</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOdnRPM3RKOGJFSVY1X1BlM1llTkEwOWVTWThmbXJfOEpCQl9UTGlmRWV4YURXdkQ0czhpNjlOazhQUXVfNm9tdG5KSFlNai1ZYzlfUm5fVTFqWUN1VG5COVdlcUJ2QTk5MktJNlZ3THAwajBvbDg0MlVOWHJHbkJmeXUwWldUcVhwRmgwRkdPN0JaMzVsejdoMTcxSTFRRF9zYnhseVlDUW9Dc0FGMkZhWWx3WUVNbkw1bnFLUDEyanJPZjZI?oc=5",
-        "date": "2026-07-08",
-        "title": "City Addresses Impact and Response after Sudden 6-Inch Downpour Causes Flash Flooding - TalkOfTitusville.com",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxOdnRPM3RKOGJFSVY1X1BlM1llTkEwOWVTWThmbXJfOEpCQl9UTGlmRWV4YURXdkQ0czhpNjlOazhQUXVfNm9tdG5KSFlNai1ZYzlfUm5fVTFqWUN1VG5COVdlcUJ2QTk5MktJNlZ3THAwajBvbDg0MlVOWHJHbkJmeXUwWldUcVhwRmgwRkdPN0JaMzVsejdoMTcxSTFRRF9zYnhseVlDUW9Dc0FGMkZhWWx3WUVNbkw1bnFLUDEyanJPZjZI?oc=5\" target=\"_blank\">City Addresses Impact and Response after Sudden 6-Inch Downpour Causes Flash Flooding</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TalkOfTitusville.com</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxORlBFT0RvWE9iVzIwakpMMXRKUW1pQ2RCUWd4b21Qb0VDLWdERFh5X0kzTVB4RjZaODZmdUtVNDVLV2wxSnhPRllaeno3blVFdThCcEpidDBOdGpLMTZxbU5LRE5OSGZjVFlyZWlmM2t5SW5TbEMzUFNUakM2emxQSUlmMnkxWDU3aGpRSjVUX2FITWtBMGY2UmlDYkw4X3JsY2UydnJEekJIejJhYXo1aGV4X3hCSkROcERTOXJ1c0d3R3ZHcDdqT2g2eVd2RGprd2RacmVJN0pwN00?oc=5",
-        "date": "2026-07-08",
-        "title": "Louisville to see another flash flooding risk as rain moves in late week - The Courier-Journal",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxORlBFT0RvWE9iVzIwakpMMXRKUW1pQ2RCUWd4b21Qb0VDLWdERFh5X0kzTVB4RjZaODZmdUtVNDVLV2wxSnhPRllaeno3blVFdThCcEpidDBOdGpLMTZxbU5LRE5OSGZjVFlyZWlmM2t5SW5TbEMzUFNUakM2emxQSUlmMnkxWDU3aGpRSjVUX2FITWtBMGY2UmlDYkw4X3JsY2UydnJEekJIejJhYXo1aGV4X3hCSkROcERTOXJ1c0d3R3ZHcDdqT2g2eVd2RGprd2RacmVJN0pwN00?oc=5\" target=\"_blank\">Louisville to see another flash flooding risk as rain moves in late week</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Courier-Journal</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNbHJWRWdIRHV5QkVPZTlneFM0UGd4V1Y5RUVlajZobnZYV3MwTW50NHpDTVktTGVvTHUwRkhHZXRlYWJDYXlJSkdyc1Y4VVl6T2Y2d0M2OGM4bjRaaW1zS0FqZmpiZ2k2WTh4bURYNVM3X0ppSklEWWNVbFN1UDRxbERIYXhfUlZpOTZYSkNfR3J2VFlOcHFyZlE3ZkxtTk41U1ZoOW1FSVozNFFYekdOOFY1Tzhmdm1kOHBWOElORElsUXdTRTM4?oc=5",
-        "date": "2026-07-08",
-        "title": "Flash flooding pours into SEPTA bus near Philadelphia - AccuWeather",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxNbHJWRWdIRHV5QkVPZTlneFM0UGd4V1Y5RUVlajZobnZYV3MwTW50NHpDTVktTGVvTHUwRkhHZXRlYWJDYXlJSkdyc1Y4VVl6T2Y2d0M2OGM4bjRaaW1zS0FqZmpiZ2k2WTh4bURYNVM3X0ppSklEWWNVbFN1UDRxbERIYXhfUlZpOTZYSkNfR3J2VFlOcHFyZlE3ZkxtTk41U1ZoOW1FSVozNFFYekdOOFY1Tzhmdm1kOHBWOElORElsUXdTRTM4?oc=5\" target=\"_blank\">Flash flooding pours into SEPTA bus near Philadelphia</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AccuWeather</font>",
-        "similarity_excluded": "No",
-        "score": 5,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQOW1DUVJZZ3JNcUxzemk1ZG9QckNSQkFTQU5IRlM0ODdLQkxBdGlTZHJfeGJ4MURGMDNwTUN1U245Ym12TFNNT2FybjlkcUxmNmFKdkVRTzdDZzlxdC1Zd05zeHI2V2RZdGladlYwUTBrTlNiQnRqQVNxZE1CZUN3TDBwQ05QcGIteHNGSE9ycUV2QmgwejhLc0FPcFhNbkNPalM1d0p0UkE2YTk2VWE2dUVnQ1RSZHJoTno5V1JiMlBHSkhNQXlHMkVMSWJBOFZ6UlBGX0ZwWG5pVGxhNGxVYVQxNjVtUGVqVWIyYVJZZkh1eUxqSjgyRFNETWE1anY5bGtKdA?oc=5",
-        "date": "2026-07-08",
-        "title": "Mumbai Rains Live Updates: Red alert for Palghar, Raigad, Nashik ghats and Pune for today - The Times of India",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAJBVV95cUxQOW1DUVJZZ3JNcUxzemk1ZG9QckNSQkFTQU5IRlM0ODdLQkxBdGlTZHJfeGJ4MURGMDNwTUN1U245Ym12TFNNT2FybjlkcUxmNmFKdkVRTzdDZzlxdC1Zd05zeHI2V2RZdGladlYwUTBrTlNiQnRqQVNxZE1CZUN3TDBwQ05QcGIteHNGSE9ycUV2QmgwejhLc0FPcFhNbkNPalM1d0p0UkE2YTk2VWE2dUVnQ1RSZHJoTno5V1JiMlBHSkhNQXlHMkVMSWJBOFZ6UlBGX0ZwWG5pVGxhNGxVYVQxNjVtUGVqVWIyYVJZZkh1eUxqSjgyRFNETWE1anY5bGtKdA?oc=5\" target=\"_blank\">Mumbai Rains Live Updates: Red alert for Palghar, Raigad, Nashik ghats and Pune for today</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of India</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQcnkteTUwNmE3Umd1Mk1PQ0g2RTNnbDc1UUpzVVV2eGNvUFdVTWVYODduU2txUXQxd3FvRFotSVk1SnY2N0haS2w0UlY3YWl5aFVPYXlSMWU1WlBsUDkzU2J5SGV4cTMxRUFNaFZjR3JGRGU5VjN0RTU2V2k3OG5JMkVsMHJjZWlYSTlMQ1dDZThzVW5lV3BMYnN1dE1wWmZZbndrR1FlMUlrVnZsaEU4WA?oc=5",
-        "date": "2026-07-08",
-        "title": "China braces for Super Typhoon Bavi after severe flooding and thunderstorms - Sky News",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQcnkteTUwNmE3Umd1Mk1PQ0g2RTNnbDc1UUpzVVV2eGNvUFdVTWVYODduU2txUXQxd3FvRFotSVk1SnY2N0haS2w0UlY3YWl5aFVPYXlSMWU1WlBsUDkzU2J5SGV4cTMxRUFNaFZjR3JGRGU5VjN0RTU2V2k3OG5JMkVsMHJjZWlYSTlMQ1dDZThzVW5lV3BMYnN1dE1wWmZZbndrR1FlMUlrVnZsaEU4WA?oc=5\" target=\"_blank\">China braces for Super Typhoon Bavi after severe flooding and thunderstorms</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sky News</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTHVIY1dRaHpxbmcxUUlEaFBPWDFRYldHUHNMcFptVVhfaWd6QmJwT2JwcWc1cjl3c2NFUWtHaUR6RFNKRllfanlEYUpGNkxUUEhtbGh1VjVqdDUwN2FHS0JhVlN6Y3pTcVhfaENrWEdTTUstTXNEaXJ2VVg2bVJkSlRfV05iZ0ZrcTdqVjdydmtUNUdzTm5WUUdZWFRZOXU1UGc?oc=5",
-        "date": "2026-07-08",
-        "title": "Hundreds of escaped snakes plague flooded village - The Telegraph",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxOTHVIY1dRaHpxbmcxUUlEaFBPWDFRYldHUHNMcFptVVhfaWd6QmJwT2JwcWc1cjl3c2NFUWtHaUR6RFNKRllfanlEYUpGNkxUUEhtbGh1VjVqdDUwN2FHS0JhVlN6Y3pTcVhfaENrWEdTTUstTXNEaXJ2VVg2bVJkSlRfV05iZ0ZrcTdqVjdydmtUNUdzTm5WUUdZWFRZOXU1UGc?oc=5\" target=\"_blank\">Hundreds of escaped snakes plague flooded village</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Telegraph</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQU2FiaUJVZUctMVlLLTBzcWh0NzlhWlc3NDJLTTVXRkk0cnZUX0hfOHV6S09xdTRwT3pGNENtX1cwUjZBSng1RXdmN25vX0xrcHhOQ0lCM1ZuWG5sWjZ5SzZBTGY4MXM4MURLeXNPSXRKUFVUYlBveHR5QVBFZjQ1bXhHZ2xELVlvc3VKeFRQdFl4UURuUndSMVNaR2dSaWh3Qy1KTWNXdm5XYm1hSVZfc1lkNXBYbWxiZzhqbDRxbVpQdW41S0d1cXBWYl9saGVVTldfX0RB?oc=5",
-        "date": "2026-07-08",
-        "title": "China braces for super typhoon after severe flooding and thunderstorms leave multiple people dead - Inbox.eu",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxQU2FiaUJVZUctMVlLLTBzcWh0NzlhWlc3NDJLTTVXRkk0cnZUX0hfOHV6S09xdTRwT3pGNENtX1cwUjZBSng1RXdmN25vX0xrcHhOQ0lCM1ZuWG5sWjZ5SzZBTGY4MXM4MURLeXNPSXRKUFVUYlBveHR5QVBFZjQ1bXhHZ2xELVlvc3VKeFRQdFl4UURuUndSMVNaR2dSaWh3Qy1KTWNXdm5XYm1hSVZfc1lkNXBYbWxiZzhqbDRxbVpQdW41S0d1cXBWYl9saGVVTldfX0RB?oc=5\" target=\"_blank\">China braces for super typhoon after severe flooding and thunderstorms leave multiple people dead</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Inbox.eu</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOV2g2ZnNWUTZXQzZBUTNTNXJ1a0lhZU55UG1ybGFtZE9QQzNleXcxb1Z5emdHdldBQWRxdWhBWktxSmZWLUNuZGV5OElsWC04Nk9GSksta0xsVUFOb2wwQi1DcURZZjIyX0ItdTZzUVNxLV9vNEhzblVDOE1lcDhUMVpaZE9zZ3F3bGttag?oc=5",
-        "date": "2026-07-08",
-        "title": "17 killed as typhoon triggers floods, tornadoes across China - TheCable",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxOV2g2ZnNWUTZXQzZBUTNTNXJ1a0lhZU55UG1ybGFtZE9QQzNleXcxb1Z5emdHdldBQWRxdWhBWktxSmZWLUNuZGV5OElsWC04Nk9GSksta0xsVUFOb2wwQi1DcURZZjIyX0ItdTZzUVNxLV9vNEhzblVDOE1lcDhUMVpaZE9zZ3F3bGttag?oc=5\" target=\"_blank\">17 killed as typhoon triggers floods, tornadoes across China</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TheCable</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPZHh2NkdrMU9pc3lDNU9aSDNLa3ZQZTk5WmRtWDVWdy0tcU9FUDhPaGdfM3h0dFBka2JNSFIxdnJkTHBfRFJtU3V4bHNRQ05oYU04RENSQ0Zmd2Q1S0RyUXJ2aTZfUzlXR2pMYTV4Q3NCZk1Nc3BiaW9Rd1dWSVk2aGpoakFod0ZOeVpJSDJIaE5LLUpMMk9jTTNadXJqSjNoM3RCcktWdlRKUUpvZWNzY2pMMjdSVTZHdUVkcDFhNFpCQ0Rwd2pZamJ2SFJ3UUNsYnfSAdcBQVVfeXFMT1RVV3UycXprY3NHd2pvQlpaLVFkX0JlcHM1M3dkYUFRUUFBWWVaVzRTeGN6azMyVDZhd2NEQzVjcW1TSTdvajh2aHlmWndwSVFzQmlwLThqU0gzNzQ5c2pEaVo1WU4zNF9KYzk2enFrVUZwSmtVeURiaTM5dnFDa21sbUZJcWgzajRxLW5NRlY2dHZWcVlPZVdaRVM5UG1fbFRuVXN0UnMzTzZsWkY2WDdmZjVfUlZNQ1RjY01rSjNGT18tQzh3N3c4OHJkdXZpeklBVTRlMUU?oc=5",
-        "date": "2026-07-08",
-        "title": "Satellite images show why Mumbai floods in the same areas every monsoon - India Today",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxPZHh2NkdrMU9pc3lDNU9aSDNLa3ZQZTk5WmRtWDVWdy0tcU9FUDhPaGdfM3h0dFBka2JNSFIxdnJkTHBfRFJtU3V4bHNRQ05oYU04RENSQ0Zmd2Q1S0RyUXJ2aTZfUzlXR2pMYTV4Q3NCZk1Nc3BiaW9Rd1dWSVk2aGpoakFod0ZOeVpJSDJIaE5LLUpMMk9jTTNadXJqSjNoM3RCcktWdlRKUUpvZWNzY2pMMjdSVTZHdUVkcDFhNFpCQ0Rwd2pZamJ2SFJ3UUNsYnfSAdcBQVVfeXFMT1RVV3UycXprY3NHd2pvQlpaLVFkX0JlcHM1M3dkYUFRUUFBWWVaVzRTeGN6azMyVDZhd2NEQzVjcW1TSTdvajh2aHlmWndwSVFzQmlwLThqU0gzNzQ5c2pEaVo1WU4zNF9KYzk2enFrVUZwSmtVeURiaTM5dnFDa21sbUZJcWgzajRxLW5NRlY2dHZWcVlPZVdaRVM5UG1fbFRuVXN0UnMzTzZsWkY2WDdmZjVfUlZNQ1RjY01rSjNGT18tQzh3N3c4OHJkdXZpeklBVTRlMUU?oc=5\" target=\"_blank\">Satellite images show why Mumbai floods in the same areas every monsoon</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">India Today</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNcUpVQ3ZlZ0xRQlVFbzBjNnQ0eUxtbDhQU3UzUWlpN0ZDblNLaEtjVUJ5a2FmcldPYk04Vk9xV0Rieml4X2ZySzl5ODJJZE94Wm5INVFDMXMwc0ZwTUp1RGFlSkFNaFpYVUpLWVBMWEtZR195SUg2LS1oME1SZmtBR0lBZlFVSm5qeWxObTAyV0o5aGhKdXJROXE5X2JMSDlubVNWZUNwRTBJOF94eWpweVM0bzljU1ZRckVRQVpERmJvdFkyQk9QX0szX3I4MmtISlp0eGtjVmFsR3h6Z0liVERiU19zMk1WV2RTNGcwNlPSAfABQVVfeXFMTXFKVUN2ZWdMUUJVRW8wYzZ0NHlMbWw4UFN1M1FpaTdGQ25TS2hLY1VCeWthZnJXT2JNOFZPcVdEYnppeF9mcks5eTgySWRPeFpuSDVRQzFzMHNGcE1KdURhZUpBTWhaWFVKS1lQTFhLWUdfeUlINi0taDBNUmZrQUdJQWZRVUpuanlsTm0wMldKOWhoSnVyUTlxOV9iTEg5bm1TVmVDcEUwSThfeHlqcHlTNG85Y1NWUXJFUUFaREZib3RZMkJPUF9LM19yODJrSEpadHhrY1ZhbEd4emdJYlREYlNfczJNVldkUzRnMDZT?oc=5",
-        "date": "2026-07-08",
-        "title": "Cold food, knee-deep water, 72-hour power cuts: Inside Vasai-Virar's flood nightmare - Mid-day",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8AFBVV95cUxNcUpVQ3ZlZ0xRQlVFbzBjNnQ0eUxtbDhQU3UzUWlpN0ZDblNLaEtjVUJ5a2FmcldPYk04Vk9xV0Rieml4X2ZySzl5ODJJZE94Wm5INVFDMXMwc0ZwTUp1RGFlSkFNaFpYVUpLWVBMWEtZR195SUg2LS1oME1SZmtBR0lBZlFVSm5qeWxObTAyV0o5aGhKdXJROXE5X2JMSDlubVNWZUNwRTBJOF94eWpweVM0bzljU1ZRckVRQVpERmJvdFkyQk9QX0szX3I4MmtISlp0eGtjVmFsR3h6Z0liVERiU19zMk1WV2RTNGcwNlPSAfABQVVfeXFMTXFKVUN2ZWdMUUJVRW8wYzZ0NHlMbWw4UFN1M1FpaTdGQ25TS2hLY1VCeWthZnJXT2JNOFZPcVdEYnppeF9mcks5eTgySWRPeFpuSDVRQzFzMHNGcE1KdURhZUpBTWhaWFVKS1lQTFhLWUdfeUlINi0taDBNUmZrQUdJQWZRVUpuanlsTm0wMldKOWhoSnVyUTlxOV9iTEg5bm1TVmVDcEUwSThfeHlqcHlTNG85Y1NWUXJFUUFaREZib3RZMkJPUF9LM19yODJrSEpadHhrY1ZhbEd4emdJYlREYlNfczJNVldkUzRnMDZT?oc=5\" target=\"_blank\">Cold food, knee-deep water, 72-hour power cuts: Inside Vasai-Virar's flood nightmare</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mid-day</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOSjVhUENEZEdHdmtaTzE1SUVSVm9FQVNBYVgyaTBnRkVGSEV1RGhkcGdSWl9ISDZVZ1BmajRteV9BOVpWX2J1eGFOR1hCdmkxQ3Y4MWtBWW1wb2l3R3BWV0dBdks1WVpnQlpqcFl1bVNMWlFySmROYmhWZzg3TzVFREd4V3A4M0lmRWdCSHBTS0Y4Z0VYbkF0SWZFdGdHaUs3ekNqRlQtc2d5cW9YTFNVN2Z0Wk1JdjFOSXJOc2JybElKc1JSdkg1VzVCZDdLNEdISkdiQ1l0Zw?oc=5",
-        "date": "2026-07-08",
-        "title": "Landslide in Rohingya camp kills three children as floods worsen in southern Bangladesh - ANI News",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxOSjVhUENEZEdHdmtaTzE1SUVSVm9FQVNBYVgyaTBnRkVGSEV1RGhkcGdSWl9ISDZVZ1BmajRteV9BOVpWX2J1eGFOR1hCdmkxQ3Y4MWtBWW1wb2l3R3BWV0dBdks1WVpnQlpqcFl1bVNMWlFySmROYmhWZzg3TzVFREd4V3A4M0lmRWdCSHBTS0Y4Z0VYbkF0SWZFdGdHaUs3ekNqRlQtc2d5cW9YTFNVN2Z0Wk1JdjFOSXJOc2JybElKc1JSdkg1VzVCZDdLNEdISkdiQ1l0Zw?oc=5\" target=\"_blank\">Landslide in Rohingya camp kills three children as floods worsen in southern Bangladesh</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ANI News</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNNjZOU2FuaThlYlZNTWNxTFZKSk04Sl8yQjFzdkdGdkZkbl9tbWhsTThmNUxQRUxVcEtvMDFadXU4UncxdXlKb2NRbFlObUVNeHRVVUE5bTgxVUZBTThfMVI5R0F2cTIxWXpJNTZKeW5jMk9oRGtnaG5rZFhzeWY2T18yODQ3NVhJY1ktX3dJTG9YMEtZdGNIMlUxVVEzeEpXb0YwT1R4aWZQemZMeUI5MzdWbS1hRzZkbHNNbWdtdVhkelRNYmZ6YjZ6YUF0YzJFaDZOYXVBZk1DQdIB3wFBVV95cUxPSE5VaDNrVU9wdXBRaUcxeW9HRVZGVVdUUlFfZnhxY01GcHVTSHdhc19YbnJfdEx6UVpXcnJnWVkyR3A1cXoxMXF4VGlkYjQ0cGhENG9TelBxOVh4bHhYdUhVdDJvX1BZNnBLRzVSOUFSWFlGdmRXbjI1R3RrUENQVGstYlZYRVNleXNmZGhPLTJrWERubDBUanE2dm5QUXJHTGlrcUgwczlZamNXRjRGdHBfemdhTVpYVjB3MHctMU9OVm5BZ2dHcERUUThsb2xkdUR1WnpkUkJmZ3pnakpn?oc=5",
-        "date": "2026-07-08",
-        "title": "Maharashtra rains: 'No power, no food, no help': Flood-hit Virar, Vasai cry for rescue - Mid-day",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxNNjZOU2FuaThlYlZNTWNxTFZKSk04Sl8yQjFzdkdGdkZkbl9tbWhsTThmNUxQRUxVcEtvMDFadXU4UncxdXlKb2NRbFlObUVNeHRVVUE5bTgxVUZBTThfMVI5R0F2cTIxWXpJNTZKeW5jMk9oRGtnaG5rZFhzeWY2T18yODQ3NVhJY1ktX3dJTG9YMEtZdGNIMlUxVVEzeEpXb0YwT1R4aWZQemZMeUI5MzdWbS1hRzZkbHNNbWdtdVhkelRNYmZ6YjZ6YUF0YzJFaDZOYXVBZk1DQdIB3wFBVV95cUxPSE5VaDNrVU9wdXBRaUcxeW9HRVZGVVdUUlFfZnhxY01GcHVTSHdhc19YbnJfdEx6UVpXcnJnWVkyR3A1cXoxMXF4VGlkYjQ0cGhENG9TelBxOVh4bHhYdUhVdDJvX1BZNnBLRzVSOUFSWFlGdmRXbjI1R3RrUENQVGstYlZYRVNleXNmZGhPLTJrWERubDBUanE2dm5QUXJHTGlrcUgwczlZamNXRjRGdHBfemdhTVpYVjB3MHctMU9OVm5BZ2dHcERUUThsb2xkdUR1WnpkUkJmZ3pnakpn?oc=5\" target=\"_blank\">Maharashtra rains: 'No power, no food, no help': Flood-hit Virar, Vasai cry for rescue</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mid-day</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOYlRSLTkzVlY5U2taSTg5SUtuY09GbFNnTnA4S1l2dDh2NFY0MGlobVpuUnlvcHliUHpnV0pHVWN3NF9MUnE4MV9vd2V1S2FLVXE0Vi0tbk15TndZSEJtd1NfTDdCUGs2NTVtRndIUFNXQVhJa1dDUy1PQ2VzejVVU1pFNDg4a2NCai1va3RHZ3U1UGQzeEdUUE1MXy1UX0k1VkhBVnVkVWctZFZHSkxGaE5EWFMwcXZ6TWFGd0k5S1ZNck9xaWp5LW1zdUh1NXZHTGwwNndVNjE?oc=5",
-        "date": "2026-07-08",
-        "title": "After Monsoon Mayhem, Gujarat Rains Ease as South Gujarat Records Highest Showers - GujaratSamachar English",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxOYlRSLTkzVlY5U2taSTg5SUtuY09GbFNnTnA4S1l2dDh2NFY0MGlobVpuUnlvcHliUHpnV0pHVWN3NF9MUnE4MV9vd2V1S2FLVXE0Vi0tbk15TndZSEJtd1NfTDdCUGs2NTVtRndIUFNXQVhJa1dDUy1PQ2VzejVVU1pFNDg4a2NCai1va3RHZ3U1UGQzeEdUUE1MXy1UX0k1VkhBVnVkVWctZFZHSkxGaE5EWFMwcXZ6TWFGd0k5S1ZNck9xaWp5LW1zdUh1NXZHTGwwNndVNjE?oc=5\" target=\"_blank\">After Monsoon Mayhem, Gujarat Rains Ease as South Gujarat Records Highest Showers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GujaratSamachar English</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObWFZTk9DblBkeG1KQlRrc0RUOG5PUW9ORHJvWV9DSklmWndSU1lwLXhNWXlyMHpBZ0NuNWJJSGZSU2Q3b0pfNnJjQk84M1gtaXRRWnRoUGpnVWhQTmhtWVA3MXc2TlhPdHZ4UFdvZlRWQ2NNVUsyMFZ5VzNOQXhiZExHQWlESzRuNDBuMS1kU2F0WGUwOWw1MDluU2JMZGdocG9CZ0VmbWJPaW1FNnV5bFN6aDNvcnFvZzlSWVNUWmN0a092?oc=5",
-        "date": "2026-07-08",
-        "title": "Mumbai Monsoon | Water everywhere, help nowhere: Virar-Vasai residents` flood nightmare - Mid-day",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxObWFZTk9DblBkeG1KQlRrc0RUOG5PUW9ORHJvWV9DSklmWndSU1lwLXhNWXlyMHpBZ0NuNWJJSGZSU2Q3b0pfNnJjQk84M1gtaXRRWnRoUGpnVWhQTmhtWVA3MXc2TlhPdHZ4UFdvZlRWQ2NNVUsyMFZ5VzNOQXhiZExHQWlESzRuNDBuMS1kU2F0WGUwOWw1MDluU2JMZGdocG9CZ0VmbWJPaW1FNnV5bFN6aDNvcnFvZzlSWVNUWmN0a092?oc=5\" target=\"_blank\">Mumbai Monsoon | Water everywhere, help nowhere: Virar-Vasai residents` flood nightmare</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mid-day</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1kSzFYY0plc3htY2RnamNPZGpKYy00Y05CMU5Qb3VxbTRWR1VjRERqbW5mUWhtUnJaemx4QjNVYWhHSk0yWGdva0d6Q1lfVVFHMlI4Xy1OWldfSVVxWnNfUldEWThRcngxcTJGMFdR?oc=5",
-        "date": "2026-07-08",
-        "title": "India Monsoon Travel Alert Deepens As IMD Warns Of Extreme Rain, Flash Flood Risk, Urban Flooding And Highway Disruption Across Gujarat, Maharashtra, Goa, Madhya Pradesh, West Bengal And Other Key Travel States - Travel And Tour World",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE1kSzFYY0plc3htY2RnamNPZGpKYy00Y05CMU5Qb3VxbTRWR1VjRERqbW5mUWhtUnJaemx4QjNVYWhHSk0yWGdva0d6Q1lfVVFHMlI4Xy1OWldfSVVxWnNfUldEWThRcngxcTJGMFdR?oc=5\" target=\"_blank\">India Monsoon Travel Alert Deepens As IMD Warns Of Extreme Rain, Flash Flood Risk, Urban Flooding And Highway Disruption Across Gujarat, Maharashtra, Goa, Madhya Pradesh, West Bengal And Other Key Travel States</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Travel And Tour World</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNXZnZndRMTBiNnM5OFRvc0dzWXR1dmRUM1ppbjZsWEtubVBYM1JyMXlNa1RCdzY2YTd2cTl3WU9Xem9acGY0M0Q1ZFlqMzdkRWZYRHdSTS1IY0NBa1RSQzgydHgzX0FBLVZ2bWVlNVRLRm8tWDlVQjRVYkNUUVMtZmxfcFJxRTI0T2dNT2NFZ0VzSktzTFRXY0tSdnVtRFpYcUF1b0E4NU9wYW1xbjVGeU9ualRZRk1sYnRV?oc=5",
-        "date": "2026-07-08",
-        "title": "India Extreme Weather Monsoon - Journal-News.com",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNXZnZndRMTBiNnM5OFRvc0dzWXR1dmRUM1ppbjZsWEtubVBYM1JyMXlNa1RCdzY2YTd2cTl3WU9Xem9acGY0M0Q1ZFlqMzdkRWZYRHdSTS1IY0NBa1RSQzgydHgzX0FBLVZ2bWVlNVRLRm8tWDlVQjRVYkNUUVMtZmxfcFJxRTI0T2dNT2NFZ0VzSktzTFRXY0tSdnVtRFpYcUF1b0E4NU9wYW1xbjVGeU9ualRZRk1sYnRV?oc=5\" target=\"_blank\">India Extreme Weather Monsoon</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Journal-News.com</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9OWEdQRExJTklXWngwOHJHSFhUQ29VX2hsbnpPWk9xbVBlRGs0NG1kenlpV2owQzRyVXZjeWRsUk9QTkpwTXNyLVVDRWRFaXhzVXhVcFBJRjc2Nl9IR2dCalJUNDB3c0VoUFM2emNR?oc=5",
-        "date": "2026-07-08",
-        "title": "Thailand Issues Strong Monsoon Travel Alert as Four-Metre Waves, Heavy Rain, Flash Flood Risks, and Dangerous Sea Conditions Prompt Warnings for Tourists, Cruise Operators, and Coastal Communities Across the Andaman Sea and Gulf of Thailand - Travel And Tour World",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE9OWEdQRExJTklXWngwOHJHSFhUQ29VX2hsbnpPWk9xbVBlRGs0NG1kenlpV2owQzRyVXZjeWRsUk9QTkpwTXNyLVVDRWRFaXhzVXhVcFBJRjc2Nl9IR2dCalJUNDB3c0VoUFM2emNR?oc=5\" target=\"_blank\">Thailand Issues Strong Monsoon Travel Alert as Four-Metre Waves, Heavy Rain, Flash Flood Risks, and Dangerous Sea Conditions Prompt Warnings for Tourists, Cruise Operators, and Coastal Communities Across the Andaman Sea and Gulf of Thailand</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Travel And Tour World</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNOGp1elRZZHlGVVhlNVVKZHU1UEF6NU1vdm1NcXVlRV9BWVNZZ0RuTUFvMmZvU2MyMlhCbnUwZWJCTTVheXRYbHlXN29Vd1duZm5HY2pIdWNxcm15bVhiakJlQ014Z3czZXJROEZqbmozRGJKaXNsdVV4V0NmYjBhbkV1Wkx2NlBZa3o3bUdNM1VvWWRLTUw3Z3YxOTJ3WkZ4cy1GdDRqNEdUNmVzM3Rud2RpM2M5cnhEZmZlSVY0bGY?oc=5",
-        "date": "2026-07-08",
-        "title": "India Extreme Weather Monsoon - GazetteXtra",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNOGp1elRZZHlGVVhlNVVKZHU1UEF6NU1vdm1NcXVlRV9BWVNZZ0RuTUFvMmZvU2MyMlhCbnUwZWJCTTVheXRYbHlXN29Vd1duZm5HY2pIdWNxcm15bVhiakJlQ014Z3czZXJROEZqbmozRGJKaXNsdVV4V0NmYjBhbkV1Wkx2NlBZa3o3bUdNM1VvWWRLTUw3Z3YxOTJ3WkZ4cy1GdDRqNEdUNmVzM3Rud2RpM2M5cnhEZmZlSVY0bGY?oc=5\" target=\"_blank\">India Extreme Weather Monsoon</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GazetteXtra</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOdThLRjJxclVLNGR3WUo5dHlpVjlmU2U3QnZ2U01rUXo1ZnlmX0FiWDc5OVJaQ25oRVFGb0dJU0twb3lkM0VmUGYxOGdJUnYyQXg1ZzlmdkJsd0w3aHJXSUxVb1J3bUtfenRLV200OHUyS1pwRFdOZDc2UTNfNkJuT19tUzlYV003WWk5RE5uTjJWSk1MMFJSZl9KSExWVEtzNWFLS2ZfNnhiNTRhSy1BNTdfaXdNaHBScW92THhxN0xCTHA2dUZscVI3QzZLZXJTaU5sVksxZFhjOENiLUtSbG1YOEN3ekFpM2fSAe8BQVVfeXFMUHZNdVdoMU03WnhYNHdlYjhFZnZSbk1sRlpNcE1GNjBoN3dDUWVCd2R3NW9YYjhEcVppLVBEeEcxVEgzbWlNSmJxdDdlZUdYcDlWLW9KRzUweWNReWN3Vzc1NHhWYldHQmhleEZHblRHTEo1SUNtbk9Kei00U0hKQ2VJbUxESGdmcG1LWHJ2eS1KbklDOGJ3VnYtT0tRVndOcFlnU0NqWkZlRVhpTVJxaFVSMW1BdEludXdNM1QyV0tJX05JclFaYXMtN1IySUhYNzRYN1BoYUhVcl91cnBKNUJWZmxqcS1PeXhSNHd6ekk?oc=5",
-        "date": "2026-07-08",
-        "title": "Gurgaon turns into 'Venice' after just two hours of rain; viral videos capture flood chaos - Business Today",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6gFBVV95cUxOdThLRjJxclVLNGR3WUo5dHlpVjlmU2U3QnZ2U01rUXo1ZnlmX0FiWDc5OVJaQ25oRVFGb0dJU0twb3lkM0VmUGYxOGdJUnYyQXg1ZzlmdkJsd0w3aHJXSUxVb1J3bUtfenRLV200OHUyS1pwRFdOZDc2UTNfNkJuT19tUzlYV003WWk5RE5uTjJWSk1MMFJSZl9KSExWVEtzNWFLS2ZfNnhiNTRhSy1BNTdfaXdNaHBScW92THhxN0xCTHA2dUZscVI3QzZLZXJTaU5sVksxZFhjOENiLUtSbG1YOEN3ekFpM2fSAe8BQVVfeXFMUHZNdVdoMU03WnhYNHdlYjhFZnZSbk1sRlpNcE1GNjBoN3dDUWVCd2R3NW9YYjhEcVppLVBEeEcxVEgzbWlNSmJxdDdlZUdYcDlWLW9KRzUweWNReWN3Vzc1NHhWYldHQmhleEZHblRHTEo1SUNtbk9Kei00U0hKQ2VJbUxESGdmcG1LWHJ2eS1KbklDOGJ3VnYtT0tRVndOcFlnU0NqWkZlRVhpTVJxaFVSMW1BdEludXdNM1QyV0tJX05JclFaYXMtN1IySUhYNzRYN1BoYUhVcl91cnBKNUJWZmxqcS1PeXhSNHd6ekk?oc=5\" target=\"_blank\">Gurgaon turns into 'Venice' after just two hours of rain; viral videos capture flood chaos</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Today</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOM29mUDA1NVVPdV9ZT05aeXc4NXlaaXVLZnVsYm5rcl9jU3dqUUFKZFRnY2FiMkpMMHBtaEpSYzA3V2E0d3Zxa0h1VE5kS3J0ZG4zdVZJYVk2NmpSS1dnSy1PRm9TWDBUZ2VJY3p3SHB3TW1rMXVCRGZFbnlpWU8wWThabFpTZFl5TlE3RzViUlVfcUs5UGZ1dHdDMHZNOVhNOTlrVmZ5VFo3OTU0WVNPY0JCbExsbWo2QWhtc3hn?oc=5",
-        "date": "2026-07-08",
-        "title": "Eight children killed in landslide at Rohingya refugee camp in Bangladesh - Reuters",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxOM29mUDA1NVVPdV9ZT05aeXc4NXlaaXVLZnVsYm5rcl9jU3dqUUFKZFRnY2FiMkpMMHBtaEpSYzA3V2E0d3Zxa0h1VE5kS3J0ZG4zdVZJYVk2NmpSS1dnSy1PRm9TWDBUZ2VJY3p3SHB3TW1rMXVCRGZFbnlpWU8wWThabFpTZFl5TlE3RzViUlVfcUs5UGZ1dHdDMHZNOVhNOTlrVmZ5VFo3OTU0WVNPY0JCbExsbWo2QWhtc3hn?oc=5\" target=\"_blank\">Eight children killed in landslide at Rohingya refugee camp in Bangladesh</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbkk0d0dvS2Vhd0xSS1VpTGQ4LVZKSnlWdlhVVTFHVlcxeklZVVRMY3ZLcVVFOExYX05abV9haXNMQkdrb1poRU1rNE9CemwyMmoxaXdFQ0luT29BTTdKOC1TQXk4WE9JcWFjWFR6Tm1rYnI4U0pNd0dGaTc4X1BrUG5RNWtmblV6M1AyNnptVmdvUjBPcUtyZDRFb3RrTmV6YVNxLVRwM1FKaHE0VjJj?oc=5",
-        "date": "2026-07-08",
-        "title": "Record Rains and Precarious Hillsides Expose Rohingya Camp Safety Failures - impactpolicies.org",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxNbkk0d0dvS2Vhd0xSS1VpTGQ4LVZKSnlWdlhVVTFHVlcxeklZVVRMY3ZLcVVFOExYX05abV9haXNMQkdrb1poRU1rNE9CemwyMmoxaXdFQ0luT29BTTdKOC1TQXk4WE9JcWFjWFR6Tm1rYnI4U0pNd0dGaTc4X1BrUG5RNWtmblV6M1AyNnptVmdvUjBPcUtyZDRFb3RrTmV6YVNxLVRwM1FKaHE0VjJj?oc=5\" target=\"_blank\">Record Rains and Precarious Hillsides Expose Rohingya Camp Safety Failures</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">impactpolicies.org</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUUVEbnFSOXFMblpDTlhyaUszRWVvWHlDRUVmbWI5VDZDY010QXdGNkFnamF6MksweVRwSG1tVm96bmdIRDhOZ3BTb0s5cFc4SmFTTGFwMGJqY3hiVndIV2V3RE82V3VRZTlDZ19LTEFCdkY5Rmt1cUtoNlZlaEV5MV81MFBNMkx1em15VDgzOXVyckZxemxaaWFCTUFXQWpi?oc=5",
-        "date": "2026-07-08",
-        "title": "Ten children among at least 13 killed in separate Bangladesh landslides - Sky News",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPUUVEbnFSOXFMblpDTlhyaUszRWVvWHlDRUVmbWI5VDZDY010QXdGNkFnamF6MksweVRwSG1tVm96bmdIRDhOZ3BTb0s5cFc4SmFTTGFwMGJqY3hiVndIV2V3RE82V3VRZTlDZ19LTEFCdkY5Rmt1cUtoNlZlaEV5MV81MFBNMkx1em15VDgzOXVyckZxemxaaWFCTUFXQWpi?oc=5\" target=\"_blank\">Ten children among at least 13 killed in separate Bangladesh landslides</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sky News</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNbWVkYV91YXB4cDkzaEdJYUlHejJpODMyc2lrZzA1M3EyT2RfX09qSjNQcndJM0ZmZ3RpWXpnNzRHZkt1UEtPbWZqX0V2eDFYNjJ3T0prVW1IQzFCRVEtRU5zQ1JCQ3hnTFozWVNVSEVzalVrakZJSnNzRC1HWTBhVkJoTmgxUjZfNVg2U1p0UDhncnZGZkpqcktVSWtRSkw0SGpxMFdpelJ6MHdmWWhaanhudnQ1YTFxWTVEUkk5ajdOaFJFMkJSN1Q4V2VuWXRHenZHeGJfcEZkV3RqQkl6NXNLSnR3eVdjWGhhTHFR0gH0AUFVX3lxTFBpTlY0dlpMOXJydDdIclBlSEttaEs5cUtkZFdjR2F0X3ZxRXJ1R2o4VkNycEFGVk9FZ0ZOcHhMbC1aUlBzUEFzR2s5LVdkdm1qT3F3Z3Z0dExXUWdlQ2hnRnc1cEpWNDFVdEp1d25LYnBTbEUxa1B0R3piVXBvUTZENkJlV2pqdURlZlVPc3luM2FOSWFodkYzOFptS3Zvb1ppNnNvNTl2YkpMU3JkSE1uUDJFQ1VyNjJFVGg0aVZiUUdhQ0lINXNkanp2ZEVHb1hScnNBSFNURGRYb1ZoRjJ3YVdOamxXUGJ5a2hkVEtxLVFmOGU?oc=5",
-        "date": "2026-07-08",
-        "title": "Landslides will continue unless there is accountability, say scientists, environmentalists - The Hindu",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7gFBVV95cUxNbWVkYV91YXB4cDkzaEdJYUlHejJpODMyc2lrZzA1M3EyT2RfX09qSjNQcndJM0ZmZ3RpWXpnNzRHZkt1UEtPbWZqX0V2eDFYNjJ3T0prVW1IQzFCRVEtRU5zQ1JCQ3hnTFozWVNVSEVzalVrakZJSnNzRC1HWTBhVkJoTmgxUjZfNVg2U1p0UDhncnZGZkpqcktVSWtRSkw0SGpxMFdpelJ6MHdmWWhaanhudnQ1YTFxWTVEUkk5ajdOaFJFMkJSN1Q4V2VuWXRHenZHeGJfcEZkV3RqQkl6NXNLSnR3eVdjWGhhTHFR0gH0AUFVX3lxTFBpTlY0dlpMOXJydDdIclBlSEttaEs5cUtkZFdjR2F0X3ZxRXJ1R2o4VkNycEFGVk9FZ0ZOcHhMbC1aUlBzUEFzR2s5LVdkdm1qT3F3Z3Z0dExXUWdlQ2hnRnc1cEpWNDFVdEp1d25LYnBTbEUxa1B0R3piVXBvUTZENkJlV2pqdURlZlVPc3luM2FOSWFodkYzOFptS3Zvb1ppNnNvNTl2YkpMU3JkSE1uUDJFQ1VyNjJFVGg0aVZiUUdhQ0lINXNkanp2ZEVHb1hScnNBSFNURGRYb1ZoRjJ3YVdOamxXUGJ5a2hkVEtxLVFmOGU?oc=5\" target=\"_blank\">Landslides will continue unless there is accountability, say scientists, environmentalists</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Hindu</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQjd5N1BQNURndFAwd25na1ZlenNSZ2VHbkVwSnF2RmtidDN6dnd2RWI4TVZjZFBUUk44TnRybWtEdFh1bU9jYmd0UG5wWjA5ZjNlQ2JKRkZxcWNfdzY0M09SYXdMSFVpZVlVU0lHQ0Z0WXZsaG5QZnMwUGxTalRqZ184d1lGb2ZILWktZ3lrUHdjRnUtZjRSWFB6VkdybUhkbkVZUTBCVDg1VWUwMk1Odm50dWtjU1ZaRU9v0gHIAUFVX3lxTE42YUVYZW12RldiLWVyWjVqS3BjUDBmYTg3bGlnbENJdnUyQlVhSUVtV1pfYVpIVWNMZHh3VnNmYTR0aFFWMjI1MVFRQUN4X0JRVnJob2IwcXQ5RkM1R0ZqMnNaQkwzZEFFbTc0R29GQmNaWjROci1QWXNCel9ITUo3bUZGTlY1cXdrYTVXd2hNWW5TNE1SQTRFU2psQW9lZGZsSGw2RFpnTnZLZVNVcnpBYmVfSTBndTNRZWR4dEQwVzBVUmtvOXRC?oc=5",
-        "date": "2026-07-08",
-        "title": "Wayanad landslides: Weather-related disaster or man-made tragedy? - The New Indian Express",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQjd5N1BQNURndFAwd25na1ZlenNSZ2VHbkVwSnF2RmtidDN6dnd2RWI4TVZjZFBUUk44TnRybWtEdFh1bU9jYmd0UG5wWjA5ZjNlQ2JKRkZxcWNfdzY0M09SYXdMSFVpZVlVU0lHQ0Z0WXZsaG5QZnMwUGxTalRqZ184d1lGb2ZILWktZ3lrUHdjRnUtZjRSWFB6VkdybUhkbkVZUTBCVDg1VWUwMk1Odm50dWtjU1ZaRU9v0gHIAUFVX3lxTE42YUVYZW12RldiLWVyWjVqS3BjUDBmYTg3bGlnbENJdnUyQlVhSUVtV1pfYVpIVWNMZHh3VnNmYTR0aFFWMjI1MVFRQUN4X0JRVnJob2IwcXQ5RkM1R0ZqMnNaQkwzZEFFbTc0R29GQmNaWjROci1QWXNCel9ITUo3bUZGTlY1cXdrYTVXd2hNWW5TNE1SQTRFU2psQW9lZGZsSGw2RFpnTnZLZVNVcnpBYmVfSTBndTNRZWR4dEQwVzBVUmtvOXRC?oc=5\" target=\"_blank\">Wayanad landslides: Weather-related disaster or man-made tragedy?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New Indian Express</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5VMDB5clNSSVBXUDhfbXlTSlFqNkNwRFM0WDlaY0pENGdOVlBpaHRSbmNENU9pMzduclpaZmFyOFlqUkFmaFV5SU50THdOOE84?oc=5",
-        "date": "2026-07-08",
-        "title": "Eight killed in landslide at Rohingya camp in Ukhiya - Bangladesh Sangbad Sangstha (BSS)",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTE5VMDB5clNSSVBXUDhfbXlTSlFqNkNwRFM0WDlaY0pENGdOVlBpaHRSbmNENU9pMzduclpaZmFyOFlqUkFmaFV5SU50THdOOE84?oc=5\" target=\"_blank\">Eight killed in landslide at Rohingya camp in Ukhiya</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bangladesh Sangbad Sangstha (BSS)</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOczhseVcteHQ1TVdqdVE5dzBfSE54S3R6ZVNpbmUxUVUtM0hyUndNUUYzdVEzN1NBTFJBcWlDYVBDRFhSTXpGeThrWWdBZHBYRzJqdk1DLUVfeDRXbGRFd2lDR2I1aUVLSExrMzhEejlyTE1ock0wQXFaX1diSm1haFVKYkdvNzB4NVZpandiRUE0NWdvaU1UZkh4dWJoZ2FzWFB1V3NmZGVRSDBWVkM0V0cteF8tWHZWSWc?oc=5",
-        "date": "2026-07-08",
-        "title": "Landslide kills eight at refugee school in Bangladesh - The Straits Times",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxOczhseVcteHQ1TVdqdVE5dzBfSE54S3R6ZVNpbmUxUVUtM0hyUndNUUYzdVEzN1NBTFJBcWlDYVBDRFhSTXpGeThrWWdBZHBYRzJqdk1DLUVfeDRXbGRFd2lDR2I1aUVLSExrMzhEejlyTE1ock0wQXFaX1diSm1haFVKYkdvNzB4NVZpandiRUE0NWdvaU1UZkh4dWJoZ2FzWFB1V3NmZGVRSDBWVkM0V0cteF8tWHZWSWc?oc=5\" target=\"_blank\">Landslide kills eight at refugee school in Bangladesh</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Straits Times</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMisAJBVV95cUxQYmllZzB6VGs4MWtOQVJ1Z3hLUWJDNUVfN20zVHJkMmJPdjJydk9UVVBnLWJEYVlESThsb01KaHoyNmdYRklJbkpiWXBaMGlNLVNxanBWdHpEX1ZnYnp3S0lmOFRaWl83cHdFSlg1ZFd2TDJ1WEhhTjlwdGtxd2E1MHJsbWtFQUROQ243bU1XWnMzaTFGeUJJMHRNQ2E0UWh4X2Z1ejN0LUZSVGM4bloxRWdSVWU1eGFEalBCaklJZ1N5RGJPN3FnS1NDS0RpNHNPRUszbFRDWkdwQkk4VFE4SlZ0U1M1M3ZYWGxCLVctM0d6N2hfMm0zbG41eDBrOG5UZ2lMUXpzVUxSdFhiM2lDZ2NJMjBwTXFjM1h0N21JM0p5R3gxY29kbjhvUmN0dC1P0gG2AkFVX3lxTE5fc18tNXRXc256anNLZVRMTmZVU0c0WG1WbEtnX2phdlZvSTkyRHAwdjRhVmhaeFZJM2F5NGw0ZjJVUVdnZ3AybmlUMk10SmhlUjJYb1k3dnpRU0E4d1pHODM1N3A3aThNdFU4Snpqc0Fueko3c0dLMWY2U2pvdFpJUExkUkpiOUJHZE5XZlNid0FJeVp5RTM4V25icFZKTHpzeG5lMjVFUjdIaGdKZzVSUW1ESHUyWF9VdHNIZ1ZrVlhRNXpKeWE2S0RqWFpIUWl6OXYtYm9WTDc3dUFoTHRmSXJKa01tRnpGSi1CdEVZWXpJN3JjYTdSQ2NLdUpZamg3Q3dDcW5PV0ZmaTh6eG5vSmNkNEZzY3FfNm8ydVAyeDFXY1pjN2hjcGpIS0pMMDJYRTNRZGc?oc=5",
-        "date": "2026-07-08",
-        "title": "Monsoon havoc across India: Wayanad landslide, Pune building collapse, Delhi highway cave-in and Mumbai d - The Times of India",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAJBVV95cUxQYmllZzB6VGs4MWtOQVJ1Z3hLUWJDNUVfN20zVHJkMmJPdjJydk9UVVBnLWJEYVlESThsb01KaHoyNmdYRklJbkpiWXBaMGlNLVNxanBWdHpEX1ZnYnp3S0lmOFRaWl83cHdFSlg1ZFd2TDJ1WEhhTjlwdGtxd2E1MHJsbWtFQUROQ243bU1XWnMzaTFGeUJJMHRNQ2E0UWh4X2Z1ejN0LUZSVGM4bloxRWdSVWU1eGFEalBCaklJZ1N5RGJPN3FnS1NDS0RpNHNPRUszbFRDWkdwQkk4VFE4SlZ0U1M1M3ZYWGxCLVctM0d6N2hfMm0zbG41eDBrOG5UZ2lMUXpzVUxSdFhiM2lDZ2NJMjBwTXFjM1h0N21JM0p5R3gxY29kbjhvUmN0dC1P0gG2AkFVX3lxTE5fc18tNXRXc256anNLZVRMTmZVU0c0WG1WbEtnX2phdlZvSTkyRHAwdjRhVmhaeFZJM2F5NGw0ZjJVUVdnZ3AybmlUMk10SmhlUjJYb1k3dnpRU0E4d1pHODM1N3A3aThNdFU4Snpqc0Fueko3c0dLMWY2U2pvdFpJUExkUkpiOUJHZE5XZlNid0FJeVp5RTM4V25icFZKTHpzeG5lMjVFUjdIaGdKZzVSUW1ESHUyWF9VdHNIZ1ZrVlhRNXpKeWE2S0RqWFpIUWl6OXYtYm9WTDc3dUFoTHRmSXJKa01tRnpGSi1CdEVZWXpJN3JjYTdSQ2NLdUpZamg3Q3dDcW5PV0ZmaTh6eG5vSmNkNEZzY3FfNm8ydVAyeDFXY1pjN2hjcGpIS0pMMDJYRTNRZGc?oc=5\" target=\"_blank\">Monsoon havoc across India: Wayanad landslide, Pune building collapse, Delhi highway cave-in and Mumbai d</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of India</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxONHNlUWJBNG5lMkpoNFFIeG1IMWQtSzlTdHBlbERlTl9aNFkzV2JadXZGNTJqRHhOejNUYTV6OTVDSjNVLXNsaFZtZVVyYW9PTHBzUG0wVUNNRjFleDZ2R0lHdnppY0VRLTVFeFRBQTh2dGxCZFJNdk1xU0NoWVZPTF9MUUctZ3FSa2tDRjFzV1lmTV9HY1hsMUJzUC1XX09MUkNHYUhPTTJ1M0NwTk56cUdqQlk4czBFT0FOUUQxa1NvWXJkRWxLZw?oc=5",
-        "date": "2026-07-08",
-        "title": "Chattogram authorities urge residents in landslide-prone hill areas to move to safety - The Financial Express",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxONHNlUWJBNG5lMkpoNFFIeG1IMWQtSzlTdHBlbERlTl9aNFkzV2JadXZGNTJqRHhOejNUYTV6OTVDSjNVLXNsaFZtZVVyYW9PTHBzUG0wVUNNRjFleDZ2R0lHdnppY0VRLTVFeFRBQTh2dGxCZFJNdk1xU0NoWVZPTF9MUUctZ3FSa2tDRjFzV1lmTV9HY1hsMUJzUC1XX09MUkNHYUhPTTJ1M0NwTk56cUdqQlk4czBFT0FOUUQxa1NvWXJkRWxLZw?oc=5\" target=\"_blank\">Chattogram authorities urge residents in landslide-prone hill areas to move to safety</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Financial Express</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQYnlqX1FYMlh6ZjBfY2VBcDFqYTBlV0RLQUVDeURLbjJMb3JjRmI3M0E4REF5MlNVOThBSWdlejFTTVdlejBTOUw2Z2V0cGFmMHRpY3B3RWhEQU5nQV9kT3JGNVFENzVWUmxIdm5TdVBSZFdzUnZ2OThTREtFNDVaNWlQZWU0bFltVmdmOG9GNmQyYXFGd3BlODJneGZNRGtBT0xrdFVNQkEydlBzeHdrMXh3TklCcWtrZDMzUE9Sdjh0Yk9zWTdvMFdSb9IB0AFBVV95cUxOcVR4LWlyclNac2VKSzFqUGw5Y25DWlZ5Q0xPWi1WQlA3LU5KdEdPUmE5S1FNUWV4U0VmM280XzlyLTlzSjQtMmY3ZjAyOWVhd2pfU3k4dmtVNVA1SXExdk5jbHd6WFowanlUSU9SbFBxTU9vM1dfamY2R0R1U3NIMmVrMkxPc21mQWdCbTVGSGx2eVQybWRjV0MtbUNNekFCb0xvbWEzYWo2Y3hGMzh4VFlsQjNweVFkRWVvN1RqN3JWOFp1VTJoNDJlQ0V5Y0E0?oc=5",
-        "date": "2026-07-08",
-        "title": "Natural or man-made? Wayanad landslide near 2024 disaster site raises questions on tunnel project - ThePrint",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxQYnlqX1FYMlh6ZjBfY2VBcDFqYTBlV0RLQUVDeURLbjJMb3JjRmI3M0E4REF5MlNVOThBSWdlejFTTVdlejBTOUw2Z2V0cGFmMHRpY3B3RWhEQU5nQV9kT3JGNVFENzVWUmxIdm5TdVBSZFdzUnZ2OThTREtFNDVaNWlQZWU0bFltVmdmOG9GNmQyYXFGd3BlODJneGZNRGtBT0xrdFVNQkEydlBzeHdrMXh3TklCcWtrZDMzUE9Sdjh0Yk9zWTdvMFdSb9IB0AFBVV95cUxOcVR4LWlyclNac2VKSzFqUGw5Y25DWlZ5Q0xPWi1WQlA3LU5KdEdPUmE5S1FNUWV4U0VmM280XzlyLTlzSjQtMmY3ZjAyOWVhd2pfU3k4dmtVNVA1SXExdk5jbHd6WFowanlUSU9SbFBxTU9vM1dfamY2R0R1U3NIMmVrMkxPc21mQWdCbTVGSGx2eVQybWRjV0MtbUNNekFCb0xvbWEzYWo2Y3hGMzh4VFlsQjNweVFkRWVvN1RqN3JWOFp1VTJoNDJlQ0V5Y0E0?oc=5\" target=\"_blank\">Natural or man-made? Wayanad landslide near 2024 disaster site raises questions on tunnel project</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ThePrint</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcmtReGFHbVltT3BEZmRvdzEwdkEtTTBqQ0ZTRWd6c2o5ZV9yUnA1dnhyTHVPVmdUR2FPMVRsLV91UnY2cnI5YUNoZkNDUjNCQnlyQkZ5Ykt4d0RURi0yRnFYU00tQW1NM210NDhzVkxITE1NSXAzQ3dnTVRjWGpMcnBXTTljZ3BHcHF2ZGZ6SzNsb2RCYzJtQU1WZG1Nc1ZxUzNIa1B0aTdmT3ZTeWpWR1Zpbw?oc=5",
-        "date": "2026-07-08",
-        "title": "Eight killed as landslide hits madrasah in Cox\u2019s Bazar Rohingya camp - United News of Bangladesh",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOcmtReGFHbVltT3BEZmRvdzEwdkEtTTBqQ0ZTRWd6c2o5ZV9yUnA1dnhyTHVPVmdUR2FPMVRsLV91UnY2cnI5YUNoZkNDUjNCQnlyQkZ5Ykt4d0RURi0yRnFYU00tQW1NM210NDhzVkxITE1NSXAzQ3dnTVRjWGpMcnBXTTljZ3BHcHF2ZGZ6SzNsb2RCYzJtQU1WZG1Nc1ZxUzNIa1B0aTdmT3ZTeWpWR1Zpbw?oc=5\" target=\"_blank\">Eight killed as landslide hits madrasah in Cox\u2019s Bazar Rohingya camp</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">United News of Bangladesh</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNU0FTNWpVOHRJRjZvX2xhdzJkaXNkVmJkLXhZRkR4OU1SanZKSWk4TGFhU2xJaWxRRFJnRFMwdnBhbnVENE1vZlZITW8yR3RLNEhWaTNpV1ZvWjJDREhaWm1DcFFUbHBCWUdRZlJYajFmRVJBUWJMTVNvTFYwZjhTZ1l1YnVsYkJYNTRKNGxIaUUtdzV60gGaAUFVX3lxTE5PMk1WalZRXy1hRGptRWF4clo5SENEckRwTkl0ZV9oc1hERTRYQ21LUWVqYVZ5SHNXbk9aWW5HTUZJYlJVOW9tTTJTdDF2V3BwQUFzSzBRakpaTko4eHFkdVo5VjdSWEtIcG5ONHlYY0MxMWF4WnZ4Y0U0WWxsV21VY0YteXE2X2FtZXlaVDkyV1p2YmhMVm5DcHc?oc=5",
-        "date": "2026-07-08",
-        "title": "8 madrasah students killed in Cox\u2019s Bazar Rohingya camp landslide - The Daily Ittefaq",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNU0FTNWpVOHRJRjZvX2xhdzJkaXNkVmJkLXhZRkR4OU1SanZKSWk4TGFhU2xJaWxRRFJnRFMwdnBhbnVENE1vZlZITW8yR3RLNEhWaTNpV1ZvWjJDREhaWm1DcFFUbHBCWUdRZlJYajFmRVJBUWJMTVNvTFYwZjhTZ1l1YnVsYkJYNTRKNGxIaUUtdzV60gGaAUFVX3lxTE5PMk1WalZRXy1hRGptRWF4clo5SENEckRwTkl0ZV9oc1hERTRYQ21LUWVqYVZ5SHNXbk9aWW5HTUZJYlJVOW9tTTJTdDF2V3BwQUFzSzBRakpaTko4eHFkdVo5VjdSWEtIcG5ONHlYY0MxMWF4WnZ4Y0U0WWxsV21VY0YteXE2X2FtZXlaVDkyV1p2YmhMVm5DcHc?oc=5\" target=\"_blank\">8 madrasah students killed in Cox\u2019s Bazar Rohingya camp landslide</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Daily Ittefaq</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNNl8zeXZ4Y0tnVFl0Y0hoWVNtTjZOUUtRdmJSUHQ0Z3JWQWpLcU1tWFJnaFlIcVRfMHc5REpiNFo2Mk5xX1djVGM5VXQ4clZPNlR1OFRjYnQ4eUx2WWlSMWN2aTFKWEJBbFFpMDNFbnBwaGtzb19zNGFpZlozVjBtWEYwS3JzSFJpWGN2SnVjQ1djamRoWmc4SFBmMm8zR2c1Vm5Ebm81TGtuQ3RxMDN6WENLMkQzR3BfQ3BoODBpRHViRVJ3bkpENnlRNVYySlRsY0M4VjcyTUVRWVR0U3Vmb0ZnZTlpbkpyMjZtSktyYno2Zw?oc=5",
-        "date": "2026-07-08",
-        "title": "Flash Flood Warning issued for these Kentucky counties - whas11.com",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8gFBVV95cUxNNl8zeXZ4Y0tnVFl0Y0hoWVNtTjZOUUtRdmJSUHQ0Z3JWQWpLcU1tWFJnaFlIcVRfMHc5REpiNFo2Mk5xX1djVGM5VXQ4clZPNlR1OFRjYnQ4eUx2WWlSMWN2aTFKWEJBbFFpMDNFbnBwaGtzb19zNGFpZlozVjBtWEYwS3JzSFJpWGN2SnVjQ1djamRoWmc4SFBmMm8zR2c1Vm5Ebm81TGtuQ3RxMDN6WENLMkQzR3BfQ3BoODBpRHViRVJ3bkpENnlRNVYySlRsY0M4VjcyTUVRWVR0U3Vmb0ZnZTlpbkpyMjZtSktyYno2Zw?oc=5\" target=\"_blank\">Flash Flood Warning issued for these Kentucky counties</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">whas11.com</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOOUIzME5ITU1BOUMzVmdVcVVzdTh6YVAxNF9rd1lMbmI5N3VxZnBrZXJKQzBUdGFHd0loTlZmZGpUUHNhVnlTMlkyODFWQjZwalFpQXlrSlBONG4yLTNOV2MwTHN6TzlCa2VjM1p5N0VBUzBfQ1ZaSDJRa0F1amVhc2pibFUtS2NXc3hvb2RfQ3JzQjZNcnMxVlNrMFM4SmtGQnhKQVpIZUtCQ0xJSjV5bU93?oc=5",
-        "date": "2026-07-08",
-        "title": "Flood watch in effect through Sunday as heavy rain threatens saturated areas of Midstate - WSMV",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOOUIzME5ITU1BOUMzVmdVcVVzdTh6YVAxNF9rd1lMbmI5N3VxZnBrZXJKQzBUdGFHd0loTlZmZGpUUHNhVnlTMlkyODFWQjZwalFpQXlrSlBONG4yLTNOV2MwTHN6TzlCa2VjM1p5N0VBUzBfQ1ZaSDJRa0F1amVhc2pibFUtS2NXc3hvb2RfQ3JzQjZNcnMxVlNrMFM4SmtGQnhKQVpIZUtCQ0xJSjV5bU93?oc=5\" target=\"_blank\">Flood watch in effect through Sunday as heavy rain threatens saturated areas of Midstate</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSMV</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPa21yRWMxb3U4MVYxMHk0aExQNjdzRGktNWItRW9DNDhubVpnNGxsYnNkbmNkQ3NBSm5Rc3FlMlQ1OG1EUmFhamtPdUhBSm1JN1RlZE9YM0pEYzJ6RXdjMFpSVzRwYUliYmpKckExZGY1Y0JUTU1qM2YyWmtqdVNxcGs5SklBSGt1bThMOGZhbXUxRGhmZFAtTkY3aGRSUXl0YmI4WlIyV2duQ1RJ?oc=5",
-        "date": "2026-07-08",
-        "title": "The Deep Dive on Flash Flooding: When Rain Hits Fast, Water Hits Faster - Action News 5",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPa21yRWMxb3U4MVYxMHk0aExQNjdzRGktNWItRW9DNDhubVpnNGxsYnNkbmNkQ3NBSm5Rc3FlMlQ1OG1EUmFhamtPdUhBSm1JN1RlZE9YM0pEYzJ6RXdjMFpSVzRwYUliYmpKckExZGY1Y0JUTU1qM2YyWmtqdVNxcGs5SklBSGt1bThMOGZhbXUxRGhmZFAtTkY3aGRSUXl0YmI4WlIyV2duQ1RJ?oc=5\" target=\"_blank\">The Deep Dive on Flash Flooding: When Rain Hits Fast, Water Hits Faster</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Action News 5</font>",
-        "similarity_excluded": "No",
-        "score": 6,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOQkppaUh0eDkzRUZmMndqYmdVdld5RU4zMGxGNXEzWDFZNmpYSnZRUUs2eUs0Q0VObmlJRUh6cVNMajlBSTIzSjgya1VReU13WDdMTHNOUmg4RkljNWtwVEplVF80ZVFHdmlNbkR1djRvY0pRNGlUM0ZBa3YzWkkwaWN4NWlRVERiN2Y3NTdSTQ?oc=5",
-        "date": "2026-07-08",
-        "title": "Traffic: 3rd Street shut down at the \u2018can opener\u2019 due to flooding - WAVE News",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxOQkppaUh0eDkzRUZmMndqYmdVdld5RU4zMGxGNXEzWDFZNmpYSnZRUUs2eUs0Q0VObmlJRUh6cVNMajlBSTIzSjgya1VReU13WDdMTHNOUmg4RkljNWtwVEplVF80ZVFHdmlNbkR1djRvY0pRNGlUM0ZBa3YzWkkwaWN4NWlRVERiN2Y3NTdSTQ?oc=5\" target=\"_blank\">Traffic: 3rd Street shut down at the \u2018can opener\u2019 due to flooding</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WAVE News</font>",
-        "similarity_excluded": "No",
-        "score": 3,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQX1l2MllNcjROMFlWWWZtUWVvSFZDeS1EVEIwTTlMSVEtVlBLaEs0M3VFdHlXajdoMWIwdi1sV3hVVE1hcW9OVG12aWk0aDJlRTVGc0NUX1Rscm5VeUJwamd1S3hxSHR1dDhfMkR4TTE5d1JZalFVdU5XbzQxaVpzVGRtdTVLS2lBUW54bW5tN3lseTcwcWd0WnEzZWZ3MGhKWUV0bERTZ01DdktZUnhsS3VhbUJPQQ?oc=5",
-        "date": "2026-07-08",
-        "title": "Louisville area hit by heavy rain ahead of flash flood risk - The Courier-Journal",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQX1l2MllNcjROMFlWWWZtUWVvSFZDeS1EVEIwTTlMSVEtVlBLaEs0M3VFdHlXajdoMWIwdi1sV3hVVE1hcW9OVG12aWk0aDJlRTVGc0NUX1Rscm5VeUJwamd1S3hxSHR1dDhfMkR4TTE5d1JZalFVdU5XbzQxaVpzVGRtdTVLS2lBUW54bW5tN3lseTcwcWd0WnEzZWZ3MGhKWUV0bERTZ01DdktZUnhsS3VhbUJPQQ?oc=5\" target=\"_blank\">Louisville area hit by heavy rain ahead of flash flood risk</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Courier-Journal</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPX3RJMzRxbHhxYmZ1MElTOV9WWU4zUGl0djVOUy1YWG5KbW9uWTJMVU9zRzZTU19lcC1ianF5NUY4WVJPWU9yeC03ZTJpYUE4NUdkNjBKX2xUanJYd3Rpd19VN0pLLXFKU1RXNUkzSDFaSkNHX1V1aWo0TU1fdXkyVFZydkUtTktXb3lKTUl0dHJuRFRyaWtMaVl4cjRDSFRBM2JZRUZnVHEzWmk2Y3Azdmx6eWRUc3lubDQyTUN2N3FmQ092NjdMaHB2QmRpQ25YT1hjNGRn?oc=5",
-        "date": "2026-07-08",
-        "title": "Americans face possible flash floods as relentless storms target 20M in the US - New York Post",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxPX3RJMzRxbHhxYmZ1MElTOV9WWU4zUGl0djVOUy1YWG5KbW9uWTJMVU9zRzZTU19lcC1ianF5NUY4WVJPWU9yeC03ZTJpYUE4NUdkNjBKX2xUanJYd3Rpd19VN0pLLXFKU1RXNUkzSDFaSkNHX1V1aWo0TU1fdXkyVFZydkUtTktXb3lKTUl0dHJuRFRyaWtMaVl4cjRDSFRBM2JZRUZnVHEzWmk2Y3Azdmx6eWRUc3lubDQyTUN2N3FmQ092NjdMaHB2QmRpQ25YT1hjNGRn?oc=5\" target=\"_blank\">Americans face possible flash floods as relentless storms target 20M in the US</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">New York Post</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9XelZKbmdDYWFHeHQweUFmaDVpX25ZSnB5VDVvVkdVajJmVGZOV0phbTRlSklldDhRczZ2RnZHS3M0MmNHNm9MMDBiYWFPYUtSTVQwbGJIcGlwa3BpQ0ZhUW80OE5ldUxJOGtPYktB?oc=5",
-        "date": "2026-07-08",
-        "title": "China Faces Deadly Floods, Super Typhoon Bavi Threatens Zhejiang and Fujian as Guangxi, Hubei and Gansu Battle Extreme Weather, Travel Disruptions and Massive Rescue Operations: Exclusive - Travel And Tour World",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE9XelZKbmdDYWFHeHQweUFmaDVpX25ZSnB5VDVvVkdVajJmVGZOV0phbTRlSklldDhRczZ2RnZHS3M0MmNHNm9MMDBiYWFPYUtSTVQwbGJIcGlwa3BpQ0ZhUW80OE5ldUxJOGtPYktB?oc=5\" target=\"_blank\">China Faces Deadly Floods, Super Typhoon Bavi Threatens Zhejiang and Fujian as Guangxi, Hubei and Gansu Battle Extreme Weather, Travel Disruptions and Massive Rescue Operations: Exclusive</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Travel And Tour World</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNOTJwT1RMUG5iRUl2RkJzQmY3bzluZWRzSkF4bjQ4RzNFUWZ6VHRRdjRUcnVoanZjLW04MHh5WUtQblZESzFFMGFMd3NpYUt1MnlaMnY2bDVJYjhNX2ptc0VCcjRhYXRxVm1Jd0xZOWtneXNSWkdtYVlzTGJ2cUFidTV4OFo2U292WlpBZE5pazU5aXJkNFNkVWtKeWJTb2I1RlRhb0hIZk45QlhwbFVj0gG3AUFVX3lxTE1wOVBBQ2FCX0VZaFBJTGdMRGJleXpTc0xIY24zTG1tLVo0NkphV3NLWlA2MkgtRlRCa3YtTEFkaVlaNDVMSFNPcGRnczhfOVIzd3VNQ1JNVnAtYUlCem1PUmtWeDh3VTQyclVrQ0RLTmRDY3haU0RjZFZONWE4N3p0SVRWTm5oS2xpUXdZVnVsMUJjMUNxUHJaVFk3ZzBEcVAxaEpGX0NnZ3NHUkZ1Tk1mVEJuZ25QRQ?oc=5",
-        "date": "2026-07-08",
-        "title": "Monsoon In Bursts: Why Several States Are Flooded In 'Below-Normal' Year - NDTV",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxNOTJwT1RMUG5iRUl2RkJzQmY3bzluZWRzSkF4bjQ4RzNFUWZ6VHRRdjRUcnVoanZjLW04MHh5WUtQblZESzFFMGFMd3NpYUt1MnlaMnY2bDVJYjhNX2ptc0VCcjRhYXRxVm1Jd0xZOWtneXNSWkdtYVlzTGJ2cUFidTV4OFo2U292WlpBZE5pazU5aXJkNFNkVWtKeWJTb2I1RlRhb0hIZk45QlhwbFVj0gG3AUFVX3lxTE1wOVBBQ2FCX0VZaFBJTGdMRGJleXpTc0xIY24zTG1tLVo0NkphV3NLWlA2MkgtRlRCa3YtTEFkaVlaNDVMSFNPcGRnczhfOVIzd3VNQ1JNVnAtYUlCem1PUmtWeDh3VTQyclVrQ0RLTmRDY3haU0RjZFZONWE4N3p0SVRWTm5oS2xpUXdZVnVsMUJjMUNxUHJaVFk3ZzBEcVAxaEpGX0NnZ3NHUkZ1Tk1mVEJuZ25QRQ?oc=5\" target=\"_blank\">Monsoon In Bursts: Why Several States Are Flooded In 'Below-Normal' Year</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NDTV</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOTnpVTDd0S0kydTN0eERHdDh1WmkxdUdQX1NHaGQ3cWVUZTlqQ1FKa3ZzYmtrV3pXMzNHUEZrUW9iaXNXb1RHMlpGc0dJNkl5dWk3Nzd6Tm85dmpDWWpzMVo4U1VDS3BjeVQweElFSk9uZFFwRHFNSkVSV2c1YWQ2LW9fRFBOQU9ZTUdaTlVta3hnZ3VYOU9tYm13V05BNzZ6eHpzUk5kdkxCRUNGSG9EMDVPaFRGZ2NwMnRTQ1haX0c0Y2NGd0ZZM0VhNnFONzhKOGpqOGxSWU1Ga2VUcjNnSFlzMkxyTUp1MGtz0gHwAUFVX3lxTE1aWnhWejZBR3RJSndTWHJfS1JZRnBsRmNQTGNWU0ItX2h4MElNYXlTdUJ1ekdxZm9tLVFlTjVkYzVuRW9NRlc1VlBSR2MweXAxTERadlNxOHhKd1YwLUp1eWpQQldpY3ZBMVppVTRlc2w1M0VuVURUWGtqNXRiZDBfdzZFRzFJSVdRNWFoRlB2cG9IUmlYVTltWE9qU0R2bmNKbFNPdzJPcUdGaU1aRVlINTRlTDVXRVFSYlUxSWd2NjdQcEVnQXlmQjZfSGRCM1FodXJwR3dWRnJXYldfWXRMLWFiUWJ6aTJ3REE2RC03Ug?oc=5",
-        "date": "2026-07-08",
-        "title": "Below-normal monsoon no guarantee against floods, landslides in Himalayas: ICIMOD - The Times of India",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxOTnpVTDd0S0kydTN0eERHdDh1WmkxdUdQX1NHaGQ3cWVUZTlqQ1FKa3ZzYmtrV3pXMzNHUEZrUW9iaXNXb1RHMlpGc0dJNkl5dWk3Nzd6Tm85dmpDWWpzMVo4U1VDS3BjeVQweElFSk9uZFFwRHFNSkVSV2c1YWQ2LW9fRFBOQU9ZTUdaTlVta3hnZ3VYOU9tYm13V05BNzZ6eHpzUk5kdkxCRUNGSG9EMDVPaFRGZ2NwMnRTQ1haX0c0Y2NGd0ZZM0VhNnFONzhKOGpqOGxSWU1Ga2VUcjNnSFlzMkxyTUp1MGtz0gHwAUFVX3lxTE1aWnhWejZBR3RJSndTWHJfS1JZRnBsRmNQTGNWU0ItX2h4MElNYXlTdUJ1ekdxZm9tLVFlTjVkYzVuRW9NRlc1VlBSR2MweXAxTERadlNxOHhKd1YwLUp1eWpQQldpY3ZBMVppVTRlc2w1M0VuVURUWGtqNXRiZDBfdzZFRzFJSVdRNWFoRlB2cG9IUmlYVTltWE9qU0R2bmNKbFNPdzJPcUdGaU1aRVlINTRlTDVXRVFSYlUxSWd2NjdQcEVnQXlmQjZfSGRCM1FodXJwR3dWRnJXYldfWXRMLWFiUWJ6aTJ3REE2RC03Ug?oc=5\" target=\"_blank\">Below-normal monsoon no guarantee against floods, landslides in Himalayas: ICIMOD</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of India</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxOSnpyenpLQUJrSWE1aGZwVXVUeDRjMGlrekcxRFJfcnQxTTFMU0ZXYnNpR2VSRUhRZ29TT0lJQVVHTXQ0czBQZzl0VFNvTk1DNHRXc21xNUJPMVpvVS1haG15N1QtTTRBZU0zamNsWjN4LWd0NUpTVzY2ZEZubVNIQ29ZdEVJUmhLOWd6ajNLUTJWVUZGNkJZMHRDN0VwakU4V2NSUjBqaVkwa3ZIMGU1QWU2QXoxUUJQYy1qUFY1U2lfdG14WlAySEdheGhhMkczbnZtRlVqaTlDMFhYYXlRSzJWd3BjMDhuVlduTFpzVjlhcXpHLTF6eHd4Qi1Vbkl1bkxpZzhaMXpXZDJsT1JNNWkzNmlSNEXSAZwCQVVfeXFMTWJDWVdTa0d1WmpRQ3RIUHZycWR3dkpWRl9JZDRzT3FiZjBSaEs1ZEtxUHJNNDRGNVJPU1hNbHlMNFNuckxpNlU2dGRkbElzLWFCOXBfUk1jQ3ZBSWtWSmR0a3VzNzd5OVM0VnlhMmdmS1JnV0Y5UEFYMXpjNGpybW5sUzJkMUJnMldrQzcwdWxib0x2YjBnVkNMbVV4d0h2eDFDMWpRS3ozUDNJWDFmbHJRajdjZDdkNEVHamVTVng1bDZkQjhJblR6ZUdLSUZUZ0xieE5VZ01BYzdkNkMwN2dPbjRkZmNSZDJiVUtoeHB0R2tpUWJZQTBCWHh1OVQ4M2Q0YXpKQUdjMTRmQTVNTC1aY2RNNExLRllCQlM?oc=5",
-        "date": "2026-07-08",
-        "title": "Why does Mumbai continue to face severe flooding during the monsoon despite years of infrastructure upgrades? - India.Com",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwJBVV95cUxOSnpyenpLQUJrSWE1aGZwVXVUeDRjMGlrekcxRFJfcnQxTTFMU0ZXYnNpR2VSRUhRZ29TT0lJQVVHTXQ0czBQZzl0VFNvTk1DNHRXc21xNUJPMVpvVS1haG15N1QtTTRBZU0zamNsWjN4LWd0NUpTVzY2ZEZubVNIQ29ZdEVJUmhLOWd6ajNLUTJWVUZGNkJZMHRDN0VwakU4V2NSUjBqaVkwa3ZIMGU1QWU2QXoxUUJQYy1qUFY1U2lfdG14WlAySEdheGhhMkczbnZtRlVqaTlDMFhYYXlRSzJWd3BjMDhuVlduTFpzVjlhcXpHLTF6eHd4Qi1Vbkl1bkxpZzhaMXpXZDJsT1JNNWkzNmlSNEXSAZwCQVVfeXFMTWJDWVdTa0d1WmpRQ3RIUHZycWR3dkpWRl9JZDRzT3FiZjBSaEs1ZEtxUHJNNDRGNVJPU1hNbHlMNFNuckxpNlU2dGRkbElzLWFCOXBfUk1jQ3ZBSWtWSmR0a3VzNzd5OVM0VnlhMmdmS1JnV0Y5UEFYMXpjNGpybW5sUzJkMUJnMldrQzcwdWxib0x2YjBnVkNMbVV4d0h2eDFDMWpRS3ozUDNJWDFmbHJRajdjZDdkNEVHamVTVng1bDZkQjhJblR6ZUdLSUZUZ0xieE5VZ01BYzdkNkMwN2dPbjRkZmNSZDJiVUtoeHB0R2tpUWJZQTBCWHh1OVQ4M2Q0YXpKQUdjMTRmQTVNTC1aY2RNNExLRllCQlM?oc=5\" target=\"_blank\">Why does Mumbai continue to face severe flooding during the monsoon despite years of infrastructure upgrades?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">India.Com</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQRFBBNmh1X2tHRmgySXVTU3lSWERNSS1zTlRZYnhkRG9jalBvUkhfLV9jblNqMkF4WG5QeFdLMjJKSUk3UElJMmlrMmd3RGJVMmpzQUd2N1FJWFVsYXlabFhnb05rX3J5eUZDSUNJRm1fTVNrRmxzcC16ZWdtLXJKaVVrOC1PaXlxNXBJVXpUV1BDUkdFdUlFN2FBM0lEM2NFMUdnQk9qRmFMdG5fRWRUTmZoRUk1RkZvTFVuTnlaeWNwa01PQmlNeFpyblNBdEpkdElwMlhjTGt1dVFrbzNKNnhqYS1nQUJrbXJVS3hCUnJuanNoS0cxNlp1dVh4Q211RXRRa1B2aU1vcG9hSnfSAZMCQVVfeXFMUERFRUxfWFY1enlnaFJSUG9MUUtlZ3RPQldtazJLLUhQemNwS1B2Z3pMcldWVGlNenRmOHF0ZXF4dE1sRUpWZjJRQ2lnZkEwZE5ta2NEUVh0U1lPS2hqM2k1c0RGNlpFNE9YQWhrbkNyQ29pZWk2TGFKa0Z2SkRGOER2R3J0VF9IY21ad3BvS21tWm0tR2xhcktGMkFXNzFmY2lWYzBrRGg3Q1B5S2p5cV9PUUR6QVE4RVdFdWtvd0EtcGhjbFBLYVpjOHBCcEh1cURyWDFrU2ozVG9HOXNDbGJweG03X2g2S1dVNHVLamZHTFBiSkczVzE5T3c3TlpVSnJWV29seS1MdlI3MnZaWkwtY2c?oc=5",
-        "date": "2026-07-08",
-        "title": "Mumbai monsoon fury: Flooding disrupts Central Railway services as Western Railway sees marginal improvem - The Times of India",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgJBVV95cUxQRFBBNmh1X2tHRmgySXVTU3lSWERNSS1zTlRZYnhkRG9jalBvUkhfLV9jblNqMkF4WG5QeFdLMjJKSUk3UElJMmlrMmd3RGJVMmpzQUd2N1FJWFVsYXlabFhnb05rX3J5eUZDSUNJRm1fTVNrRmxzcC16ZWdtLXJKaVVrOC1PaXlxNXBJVXpUV1BDUkdFdUlFN2FBM0lEM2NFMUdnQk9qRmFMdG5fRWRUTmZoRUk1RkZvTFVuTnlaeWNwa01PQmlNeFpyblNBdEpkdElwMlhjTGt1dVFrbzNKNnhqYS1nQUJrbXJVS3hCUnJuanNoS0cxNlp1dVh4Q211RXRRa1B2aU1vcG9hSnfSAZMCQVVfeXFMUERFRUxfWFY1enlnaFJSUG9MUUtlZ3RPQldtazJLLUhQemNwS1B2Z3pMcldWVGlNenRmOHF0ZXF4dE1sRUpWZjJRQ2lnZkEwZE5ta2NEUVh0U1lPS2hqM2k1c0RGNlpFNE9YQWhrbkNyQ29pZWk2TGFKa0Z2SkRGOER2R3J0VF9IY21ad3BvS21tWm0tR2xhcktGMkFXNzFmY2lWYzBrRGg3Q1B5S2p5cV9PUUR6QVE4RVdFdWtvd0EtcGhjbFBLYVpjOHBCcEh1cURyWDFrU2ozVG9HOXNDbGJweG03X2g2S1dVNHVLamZHTFBiSkczVzE5T3c3TlpVSnJWV29seS1MdlI3MnZaWkwtY2c?oc=5\" target=\"_blank\">Mumbai monsoon fury: Flooding disrupts Central Railway services as Western Railway sees marginal improvem</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of India</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOMV9kQk9ieEtsZzRMRTZUbFhGWWd4cXN0UUd5M0F5T2JvX24wNGJXRkpkLUQ0MkdvUWhMajFDLVdYTFZMVERrdFViRHZURVp4T2ZFYTh4ZGNGalk3MDZkT1RtdXVtUHg2Sy10WWluME9lMnEyeTFrNEtwZ3BlWmpQZWVKWFlIWnBzWlZqNFhTOXltdk9SVFRQWWFrbDZkdzFWQnZOazZLQzgwOGRxUU1LZ3FWMzJWbUdKY2VDWA?oc=5",
-        "date": "2026-07-08",
-        "title": "Rivers swell, heavy inflows in dams, flood threats loom as monsoon intensifies across Karnataka - IBTimes India",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOMV9kQk9ieEtsZzRMRTZUbFhGWWd4cXN0UUd5M0F5T2JvX24wNGJXRkpkLUQ0MkdvUWhMajFDLVdYTFZMVERrdFViRHZURVp4T2ZFYTh4ZGNGalk3MDZkT1RtdXVtUHg2Sy10WWluME9lMnEyeTFrNEtwZ3BlWmpQZWVKWFlIWnBzWlZqNFhTOXltdk9SVFRQWWFrbDZkdzFWQnZOazZLQzgwOGRxUU1LZ3FWMzJWbUdKY2VDWA?oc=5\" target=\"_blank\">Rivers swell, heavy inflows in dams, flood threats loom as monsoon intensifies across Karnataka</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">IBTimes India</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQQ3JQdG12NEdFVFIyOEpYRG55VlBYQTlaWTI0R213NWJtOGExdWNDczRIWkhxcERrSTZqRHMtNGhOMWJiLU1qc19TaGM1S0dfZHdpSkN2VzduVkFkc041ZlNJT1IxUXZSQ25XbDBOamZGWlJQdG8wNEctN0hRdlM3LUpuMnFtSDQ0WEluNlA5NGN2bXJ1SGNRRkphWkpHU1RRVHJ0Qlo0V0dOS0x2QkIwVmlDV1VaYm5rM19vRkJTeG1ZOW9PdDM3MjVNYm9Cd283R19iSWR6SlpJSUV0YXQtbzRLVFMzdE9I0gHuAUFVX3lxTE1nRGJNNjl5OWgwMFZsaGFGdjJSSkdVdzg1WUpGaV9LMzUzSmhPRkNkNVN4RkdrRXgwSE91b0c0OVd2SHl6cjItN0tld2VPTUFhMHo4dlA3X3o0bGhvTFAwWHVkenRzX3JGakxld2RJb3B1WFBlbFJCWHV1OXR4Z2h3LWFTNXdNVDBYRlp4b1lUbFFkT3RadjVsdmdxbEJKU3pCRFdzZG9mYlFwYUpWYS1yZTdKNWV2UTBrNXRwMUtJU01PdzhOcjFwNEt3SE9ubE5xOEtsMmhUemtCR0xueGhXQUhidl9OQzJjZFRBNEE?oc=5",
-        "date": "2026-07-08",
-        "title": "Hassan monsoon rains trigger landslide, authorities ban trekking near waterfalls - The Times of India",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxQQ3JQdG12NEdFVFIyOEpYRG55VlBYQTlaWTI0R213NWJtOGExdWNDczRIWkhxcERrSTZqRHMtNGhOMWJiLU1qc19TaGM1S0dfZHdpSkN2VzduVkFkc041ZlNJT1IxUXZSQ25XbDBOamZGWlJQdG8wNEctN0hRdlM3LUpuMnFtSDQ0WEluNlA5NGN2bXJ1SGNRRkphWkpHU1RRVHJ0Qlo0V0dOS0x2QkIwVmlDV1VaYm5rM19vRkJTeG1ZOW9PdDM3MjVNYm9Cd283R19iSWR6SlpJSUV0YXQtbzRLVFMzdE9I0gHuAUFVX3lxTE1nRGJNNjl5OWgwMFZsaGFGdjJSSkdVdzg1WUpGaV9LMzUzSmhPRkNkNVN4RkdrRXgwSE91b0c0OVd2SHl6cjItN0tld2VPTUFhMHo4dlA3X3o0bGhvTFAwWHVkenRzX3JGakxld2RJb3B1WFBlbFJCWHV1OXR4Z2h3LWFTNXdNVDBYRlp4b1lUbFFkT3RadjVsdmdxbEJKU3pCRFdzZG9mYlFwYUpWYS1yZTdKNWV2UTBrNXRwMUtJU01PdzhOcjFwNEt3SE9ubE5xOEtsMmhUemtCR0xueGhXQUhidl9OQzJjZFRBNEE?oc=5\" target=\"_blank\">Hassan monsoon rains trigger landslide, authorities ban trekking near waterfalls</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of India</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQT0hEUlA0Uk9rckpPd2pKVEU1RXptdDhGTkNmZ3V2NWVKanZjRFlkeXF1ZXpJckpmYU40NEFmSkxiZ2hPTkIxV1hqT01Rd0V0SXJoTVpWS29kQzRqYUx5eDhBSW1LVVp3X3RKTlg3UGdRUno3Rl9OSHFacmtDQTM2bHJJSThYYnlmX1hSbGxtLTdDU1BZYndseTNxZU1wS0tlNTV1Y0N1U2RfTG1kd0daektTT2Z3VVhVeGpDTEFMQmN2TURHUmlSLWQ4OXnSAdIBQVVfeXFMTUNMenFxSUVuZ0tZU1lsSlVkMk5NTkt3TnlXSDgtNkdHQ2YtQWNidzZORDlscWVQd05BVjhFS0FiTGVDZmt6VlVneG55Si1aOExIRHdweTdrRFlQaTctWTVMUlhSOWhlNnMtX1dtYXdEcWplYTQwenJSTERxT1pSMWZGc2c0Ul9UcGo2SHhjNlhoc2MxYVRTcm96Szg5MUlSNmNrME1saXp2WnJQR05wYVlSUUU4MmtlSlpDc2tXaDlVMDNMb09vNUFHaVRtWENWd0dB?oc=5",
-        "date": "2026-07-08",
-        "title": "Heavy rain triggers landslides, disrupts roads in Mizoram - The Times of India",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxQT0hEUlA0Uk9rckpPd2pKVEU1RXptdDhGTkNmZ3V2NWVKanZjRFlkeXF1ZXpJckpmYU40NEFmSkxiZ2hPTkIxV1hqT01Rd0V0SXJoTVpWS29kQzRqYUx5eDhBSW1LVVp3X3RKTlg3UGdRUno3Rl9OSHFacmtDQTM2bHJJSThYYnlmX1hSbGxtLTdDU1BZYndseTNxZU1wS0tlNTV1Y0N1U2RfTG1kd0daektTT2Z3VVhVeGpDTEFMQmN2TURHUmlSLWQ4OXnSAdIBQVVfeXFMTUNMenFxSUVuZ0tZU1lsSlVkMk5NTkt3TnlXSDgtNkdHQ2YtQWNidzZORDlscWVQd05BVjhFS0FiTGVDZmt6VlVneG55Si1aOExIRHdweTdrRFlQaTctWTVMUlhSOWhlNnMtX1dtYXdEcWplYTQwenJSTERxT1pSMWZGc2c0Ul9UcGo2SHhjNlhoc2MxYVRTcm96Szg5MUlSNmNrME1saXp2WnJQR05wYVlSUUU4MmtlSlpDc2tXaDlVMDNMb09vNUFHaVRtWENWd0dB?oc=5\" target=\"_blank\">Heavy rain triggers landslides, disrupts roads in Mizoram</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of India</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOWWthWjdIb19YVDExaVZnV1FwSl91T3ZTUzBmN3NBUHlmY0RkZmYxR2ZyaURzYUlUcWQ0NExoQkJLRmlzQzdabkp6RzVPLTQwUTFGZFBUeUdLMGZYZ0FTMWlKYlliUE1DMkp3UjJOWHhtVVY3Nmx2QzF6WXZSLUM1TExseWQzZUVpWEdZc3lvWHM1d3lYSUwxcHJqRmhZeUg3VTA2Zw?oc=5",
-        "date": "2026-07-08",
-        "title": "Landslide kills eight at refugee school in Bangladesh - The Peninsula Qatar",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxOWWthWjdIb19YVDExaVZnV1FwSl91T3ZTUzBmN3NBUHlmY0RkZmYxR2ZyaURzYUlUcWQ0NExoQkJLRmlzQzdabkp6RzVPLTQwUTFGZFBUeUdLMGZYZ0FTMWlKYlliUE1DMkp3UjJOWHhtVVY3Nmx2QzF6WXZSLUM1TExseWQzZUVpWEdZc3lvWHM1d3lYSUwxcHJqRmhZeUg3VTA2Zw?oc=5\" target=\"_blank\">Landslide kills eight at refugee school in Bangladesh</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Peninsula Qatar</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQc3dpZFpwa3Rham8tMXBQeHJ4TFZwcTNkREF5Y0NXWjZsOFlKR3QtaVNsM3RCZk01R2hJdmtjaFlndWFrSlEyRmdvZWhVVmx5VUh3S0R6Qzl0WjZrNFlZS05rYkE3T3N4REJyYXdmWFRRbDQzVTlxWUVQZklLdFJVNHdMLVE2QU0?oc=5",
-        "date": "2026-07-08",
-        "title": "Pilgrims continue trek despite Vaishno Devi landslide - Telangana Today",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxQc3dpZFpwa3Rham8tMXBQeHJ4TFZwcTNkREF5Y0NXWjZsOFlKR3QtaVNsM3RCZk01R2hJdmtjaFlndWFrSlEyRmdvZWhVVmx5VUh3S0R6Qzl0WjZrNFlZS05rYkE3T3N4REJyYXdmWFRRbDQzVTlxWUVQZklLdFJVNHdMLVE2QU0?oc=5\" target=\"_blank\">Pilgrims continue trek despite Vaishno Devi landslide</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Telangana Today</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": null,
-        "date": "2026-07-08",
-        "status": "posted",
-        "tweet": "\ud83c\uddf3\ud83c\uddf1 Netherlands maintains 3,700 km of primary dikes and barriers protecting 9 million residents in areas below sea level.",
-        "type": "infrastructure",
-        "tweet_id": "2074952859918217408"
-    },
-    {
-        "link": null,
-        "date": "2026-07-08",
-        "status": "posted",
-        "tweet": "Global flood EWS coverage (% at-risk pop., 2025 est.):\n1. Europe: 91%\n2. East Asia: 79%\n3. North America: 74%\n4. South Asia: 47%\n5. Sub-Saharan Africa: 24%",
-        "type": "statistical",
-        "category": "coverage of flood early warning systems worldwide",
-        "tweet_id": "2074994317345673405"
-    },
-    {
         "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5YaWx4SVBpYTFWLWNOVXZRakNzOHBxb3VFdU5tU04wLU80Wk11bVgyM0phYS1NT05NdFlDTGpMTGpiOUZ6RnRObjlVZzEwM1JmdEp4UWNlWUV3VFhmbV9SMm9tOGFyM3NoT196TmNwRzB0QUN6U2tQVllRMFZ6QQ?oc=5",
         "date": "2026-07-09",
         "title": "UPDATE: Surry County under a flash flood warning until Wednesday night - Charlotte Observer",
@@ -29010,6 +27873,260 @@
             "latitude": 38.627,
             "longitude": -90.1994,
             "confidence": 0.75
+        }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONzZoc1VYN1dOUUlLMlF1ZDBzXzdHRVhXVy1Fa0NnQUNHdzhHbW9iczJIaFZBSUI3d2NITWxwXzU1SUJlRnVNd2pKYUhVNFVpQTRjTmNFemZ1RzBWaXo0bDdyUE1qS3k0bk8xcXBfdDFTcGZkN1JaMXdiZUJHNE1ablZDaDN6bGY1QjRWSFc0eEtoNk96bUpabXBzQV9kcHBrcHU1eTJDZw?oc=5",
+        "date": "2026-08-07",
+        "title": "Flash flood warning expires for Columbia area as heavy rain winds down - WLTX",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxONzZoc1VYN1dOUUlLMlF1ZDBzXzdHRVhXVy1Fa0NnQUNHdzhHbW9iczJIaFZBSUI3d2NITWxwXzU1SUJlRnVNd2pKYUhVNFVpQTRjTmNFemZ1RzBWaXo0bDdyUE1qS3k0bk8xcXBfdDFTcGZkN1JaMXdiZUJHNE1ablZDaDN6bGY1QjRWSFc0eEtoNk96bUpabXBzQV9kcHBrcHU1eTJDZw?oc=5\" target=\"_blank\">Flash flood warning expires for Columbia area as heavy rain winds down</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WLTX</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPc05rS0p4MU5ORGIxUFhQTDlqZkE4ZUk5VVc4V01nODNfclIzTjhBWFkxZnVFWFhwVWRGTTQtdk45T19aTGNtTUpQTmVtVVVtRi1EbTAwZHlmYnZLMXNzeGRfLVY5YkFPa0tfdUNUTHZ0c2VoWlBMaU9sdGxjc0diU195WG0?oc=5",
+        "date": "2026-08-07",
+        "title": "Flash flood warning | Cumberland County - WGAL",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPc05rS0p4MU5ORGIxUFhQTDlqZkE4ZUk5VVc4V01nODNfclIzTjhBWFkxZnVFWFhwVWRGTTQtdk45T19aTGNtTUpQTmVtVVVtRi1EbTAwZHlmYnZLMXNzeGRfLVY5YkFPa0tfdUNUTHZ0c2VoWlBMaU9sdGxjc0diU195WG0?oc=5\" target=\"_blank\">Flash flood warning | Cumberland County</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WGAL</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQcWRrTDF0emFsZ0x4dC12Z1Bhc2dJVFEtM3VQdnRBTkNzQ2dxcWMtUVgzMnB0S3ZnSGo4TlNIbUVvVUY4ZmFRUzEzME9XNk1lYzMwX0d0ZmY4YjhkVFEyOFRmRUF0MzlhaVgzRFNxWU1NZnhyRUJZV09tSFVJSTkwZFVVOW1BODNKcFdTMU1FeGJnb3JzR25vQ3NhSmkxMDlQQ0dXclVJUUtGcXR1alZlSGFvaVNBYTFGU3A3YzNHdmpYMy0tUlo4ajBjbS1wMUhBX2JSTjVKbjktTjR0bUFzMDJjcnRsY29QbGV3?oc=5",
+        "date": "2026-08-07",
+        "title": "Thunderstorm, flash flood warnings issued for northern Arizona, including Sedona - azcentral.com and The Arizona Republic",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxQcWRrTDF0emFsZ0x4dC12Z1Bhc2dJVFEtM3VQdnRBTkNzQ2dxcWMtUVgzMnB0S3ZnSGo4TlNIbUVvVUY4ZmFRUzEzME9XNk1lYzMwX0d0ZmY4YjhkVFEyOFRmRUF0MzlhaVgzRFNxWU1NZnhyRUJZV09tSFVJSTkwZFVVOW1BODNKcFdTMU1FeGJnb3JzR25vQ3NhSmkxMDlQQ0dXclVJUUtGcXR1alZlSGFvaVNBYTFGU3A3YzNHdmpYMy0tUlo4ajBjbS1wMUhBX2JSTjVKbjktTjR0bUFzMDJjcnRsY29QbGV3?oc=5\" target=\"_blank\">Thunderstorm, flash flood warnings issued for northern Arizona, including Sedona</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">azcentral.com and The Arizona Republic</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9XbmtRb2x4T19fSHhRT0pwdWpzbm9FckUyR1FZOVlIUHJoVnZaRGhlRlFWMlRjaG10c3NYaThwQV9ORFIzZURpeHFkMWFnYTlBVkJwcm55bURUOGN6VHRFUXRlTnd4M0dxbkQ4cG5YWUNUdw?oc=5",
+        "date": "2026-08-07",
+        "title": "UPDATE: Flash flood warning for Lexington and Richland counties early Thursday evening - The State",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE9XbmtRb2x4T19fSHhRT0pwdWpzbm9FckUyR1FZOVlIUHJoVnZaRGhlRlFWMlRjaG10c3NYaThwQV9ORFIzZURpeHFkMWFnYTlBVkJwcm55bURUOGN6VHRFUXRlTnd4M0dxbkQ4cG5YWUNUdw?oc=5\" target=\"_blank\">UPDATE: Flash flood warning for Lexington and Richland counties early Thursday evening</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The State</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPNW5Fb3g0eEhmSHNGYWJyQzhaeVpwZ3ZxSTN5N2d3dXVGWjIwUmJGSXhpRDdueFdYWUxMckdndF9jUW5GbmVPbjlKTG14TEFDT2Z3RjFEOTBiUXFBeUVpblN2ZlI3OUxpZzhWTHdVNmdSOWx0SUNQRzNtYzBwZUVLaEc1V201ZFBMSEtjYTE5Vk51SHR2MG9WZzNEeURlTTRjX2hnZjRyUmxSQzFjbkNBaGF6OEhvdkJvQUJ1ZTVqLXVDX1FqNi0tS0dfQ3N4X2t6RlNrSjc5dGRVdDRmS1p2MmdMd05CVm05?oc=5",
+        "date": "2026-08-07",
+        "title": "Flash flood warning active for Columbia and Rensselaer counties Thursday evening triggered by thunderstorms - Syracuse.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxPNW5Fb3g0eEhmSHNGYWJyQzhaeVpwZ3ZxSTN5N2d3dXVGWjIwUmJGSXhpRDdueFdYWUxMckdndF9jUW5GbmVPbjlKTG14TEFDT2Z3RjFEOTBiUXFBeUVpblN2ZlI3OUxpZzhWTHdVNmdSOWx0SUNQRzNtYzBwZUVLaEc1V201ZFBMSEtjYTE5Vk51SHR2MG9WZzNEeURlTTRjX2hnZjRyUmxSQzFjbkNBaGF6OEhvdkJvQUJ1ZTVqLXVDX1FqNi0tS0dfQ3N4X2t6RlNrSjc5dGRVdDRmS1p2MmdMd05CVm05?oc=5\" target=\"_blank\">Flash flood warning active for Columbia and Rensselaer counties Thursday evening triggered by thunderstorms</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Syracuse.com</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQcXpXT2JKZld1MmhoVUZZU3FBUFdiLXFFYndJVXhUNnViUDFwTVJVVkJpR2NmMXo0TWI1MXYwV21SeHYwU2xFdF8ybERtS2djZjJXRGFuRGdSNjJzWHZOYjliMEpCc1ZXbGhHZ2NRT3ctbUhVTFVkZXktb3VDR2VjU0hoZGpaYjZqUk42eTJqRnFPYlBWcFhqdjBoZ3M2ekJON0xwZXowdDZWX2hEdUQtRDJzblQ4bHhSYm9hdFhTX1lONDBlVjNjVENEVkNSci1FVHNsdzdKZkhCS2tndEhXVkVwR0NHLVBmLWx0Q04tZm5ockVVVzVieU5nN0stZzdG?oc=5",
+        "date": "2026-08-07",
+        "title": "Heavy storms lead to possible flash flooding through mid-evening; A drier, hotter pattern returns to the CSRA - WFXG",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAJBVV95cUxQcXpXT2JKZld1MmhoVUZZU3FBUFdiLXFFYndJVXhUNnViUDFwTVJVVkJpR2NmMXo0TWI1MXYwV21SeHYwU2xFdF8ybERtS2djZjJXRGFuRGdSNjJzWHZOYjliMEpCc1ZXbGhHZ2NRT3ctbUhVTFVkZXktb3VDR2VjU0hoZGpaYjZqUk42eTJqRnFPYlBWcFhqdjBoZ3M2ekJON0xwZXowdDZWX2hEdUQtRDJzblQ4bHhSYm9hdFhTX1lONDBlVjNjVENEVkNSci1FVHNsdzdKZkhCS2tndEhXVkVwR0NHLVBmLWx0Q04tZm5ockVVVzVieU5nN0stZzdG?oc=5\" target=\"_blank\">Heavy storms lead to possible flash flooding through mid-evening; A drier, hotter pattern returns to the CSRA</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WFXG</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1jcW8wQzd4Wkx6MjFYZjZON2FMaGN5TEtSOEhhckQ1THNfNGtQb3dQR0wwUDViVnVwM3I2WjRvNmdPQ0E5WE1aelZKQy1CSTlubzFNTUR0NXFxYlFidkZ6NVhELUlmVUxDZ0xXWFZnbmpHMTdCUTFz?oc=5",
+        "date": "2026-08-07",
+        "title": "UPDATE: Flash flood warning issued for Aiken and Edgefield counties Thursday evening - Hilton Head Island Packet",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE1jcW8wQzd4Wkx6MjFYZjZON2FMaGN5TEtSOEhhckQ1THNfNGtQb3dQR0wwUDViVnVwM3I2WjRvNmdPQ0E5WE1aelZKQy1CSTlubzFNTUR0NXFxYlFidkZ6NVhELUlmVUxDZ0xXWFZnbmpHMTdCUTFz?oc=5\" target=\"_blank\">UPDATE: Flash flood warning issued for Aiken and Edgefield counties Thursday evening</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Hilton Head Island Packet</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNNFZMS3J6ZkRTS3RuZWY4SnRJRUFiWEVzc3REbnhGV25kRlVfY3lDcHY5VHpzQzNGNXMxZnBhdlFrNHk2NTNuYzVWOFJMcVBnSnNBN0ZzMk5TZzdndkctMUhaR1NPbDgxX3hJLXIzY1l1UkRVM2RUSWJrYVJUTXllTXJCUEJnSURiRnZ2VkJ3?oc=5",
+        "date": "2026-08-07",
+        "title": "Expert says number of flash floods likely to increase in NYC - WNYC",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNNFZMS3J6ZkRTS3RuZWY4SnRJRUFiWEVzc3REbnhGV25kRlVfY3lDcHY5VHpzQzNGNXMxZnBhdlFrNHk2NTNuYzVWOFJMcVBnSnNBN0ZzMk5TZzdndkctMUhaR1NPbDgxX3hJLXIzY1l1UkRVM2RUSWJrYVJUTXllTXJCUEJnSURiRnZ2VkJ3?oc=5\" target=\"_blank\">Expert says number of flash floods likely to increase in NYC</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WNYC</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMXVtQzJVM3dXRnEtRW5SVTFoSXFZaTNISm8tQTJQRkVkc3RUQzFzc21TaFZkb0V6cHoxQjFMNjJZWGRRQUR1WjZNd1RWX2MwaXZpcndNeThuVDY2TWw1ZjByUG9GVEZLRVJqMHZkeXo5dU0tSmVqc1EtdTFmc3dlRFQxb2thNlk2MDZ4a1FuaHctYUY1WGhhRkY2VWI3RjZuT0NN0gGoAUFVX3lxTFBtaVpNMDhUeVkzbVpqWElXUjJQam9NZTBTNTZaWTNzX0toWVVSV3lIYm85T1k3WXRkY2wzZWc2WnFjcms5R19YWEs5X2lLaF9zbF9iRkVfOUZZQjNhaWhOY2YwZG5ITm9mLVJoMklSOTBzTHFKa3JjNkdFeGVOc05fTlFpcEdMbWxyNWd2VFJ6Q3hBMXRCWW9pZWp2TFQyYTBqazAxZ29QaA?oc=5",
+        "date": "2026-08-07",
+        "title": "Another round of storms threatens the East Coast with heavy rain and flooding amid sweltering summer heat - FOX Weather",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNMXVtQzJVM3dXRnEtRW5SVTFoSXFZaTNISm8tQTJQRkVkc3RUQzFzc21TaFZkb0V6cHoxQjFMNjJZWGRRQUR1WjZNd1RWX2MwaXZpcndNeThuVDY2TWw1ZjByUG9GVEZLRVJqMHZkeXo5dU0tSmVqc1EtdTFmc3dlRFQxb2thNlk2MDZ4a1FuaHctYUY1WGhhRkY2VWI3RjZuT0NN0gGoAUFVX3lxTFBtaVpNMDhUeVkzbVpqWElXUjJQam9NZTBTNTZaWTNzX0toWVVSV3lIYm85T1k3WXRkY2wzZWc2WnFjcms5R19YWEs5X2lLaF9zbF9iRkVfOUZZQjNhaWhOY2YwZG5ITm9mLVJoMklSOTBzTHFKa3JjNkdFeGVOc05fTlFpcEdMbWxyNWd2VFJ6Q3hBMXRCWW9pZWp2TFQyYTBqazAxZ29QaA?oc=5\" target=\"_blank\">Another round of storms threatens the East Coast with heavy rain and flooding amid sweltering summer heat</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FOX Weather</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQZEhmWkVGYnZSeC1LTmpLeUpHazhvby1Ra3Q3TDNzR3NPVEtIQ2hRTUpGdEIzcGg3bjAtMHljSElOYTQtdUwxUF9CN0JqMWNJa1c3dHkwYW9RTDJNRDQzU3JhRU1sd0dvQk80alpDM1FYQkthVkVNazBNSV95WXpVbVNIampLXzFSNHBMV3hNRk8tYUQteTN0WEYxTmZSckllYTY0OGdncV9xLWozaXdPbC1VcS0tS1pSa3JIeEZYdWRPUC1fUXk3MGdIczBXUDZ0emR0TmpBczBtRktQQ3FaWVBibDlBSEJx?oc=5",
+        "date": "2026-08-07",
+        "title": "Delaware and Otsego counties placed under a flash flood warning Thursday night caused by thunderstorms - Syracuse.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxQZEhmWkVGYnZSeC1LTmpLeUpHazhvby1Ra3Q3TDNzR3NPVEtIQ2hRTUpGdEIzcGg3bjAtMHljSElOYTQtdUwxUF9CN0JqMWNJa1c3dHkwYW9RTDJNRDQzU3JhRU1sd0dvQk80alpDM1FYQkthVkVNazBNSV95WXpVbVNIampLXzFSNHBMV3hNRk8tYUQteTN0WEYxTmZSckllYTY0OGdncV9xLWozaXdPbC1VcS0tS1pSa3JIeEZYdWRPUC1fUXk3MGdIczBXUDZ0emR0TmpBczBtRktQQ3FaWVBibDlBSEJx?oc=5\" target=\"_blank\">Delaware and Otsego counties placed under a flash flood warning Thursday night caused by thunderstorms</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Syracuse.com</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNT3VoYTZxcVRZVjZXWjMyLXlvNUtVNnhNaVdYZ0dUYjNIb0c3YjFoXzJoWXBzUVVjTzlzVFljekZSblpfYTVfbklnY0tkSFp1TFQzbUZmaWJ3Mzk5eGxJQ2dTSTdIcTB2a0R1RDVpbk9LVEl3V0RzVWpBOFh3WERkTzVvTmcyOG9UZzBYZWd2amxDMGFFVU83UXBWeWRPYm5JQVFYbm1tRQ?oc=5",
+        "date": "2026-08-07",
+        "title": "Search underway for missing woman swept away in Cochise County flash flooding - FOX 10 Phoenix",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNT3VoYTZxcVRZVjZXWjMyLXlvNUtVNnhNaVdYZ0dUYjNIb0c3YjFoXzJoWXBzUVVjTzlzVFljekZSblpfYTVfbklnY0tkSFp1TFQzbUZmaWJ3Mzk5eGxJQ2dTSTdIcTB2a0R1RDVpbk9LVEl3V0RzVWpBOFh3WERkTzVvTmcyOG9UZzBYZWd2amxDMGFFVU83UXBWeWRPYm5JQVFYbm1tRQ?oc=5\" target=\"_blank\">Search underway for missing woman swept away in Cochise County flash flooding</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FOX 10 Phoenix</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": null,
+        "tweet_id": "2085541270676549645",
+        "geo": {
+            "country": "United States",
+            "name": "Cochise County, Arizona",
+            "latitude": 31.88,
+            "longitude": -109.75,
+            "confidence": 0.9
+        }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTjVna2xMcHJvQXl6V3FaUGF3c0NiaHFaeWdBTDd2NUtZU25jaEV1d3BEOXB2VU5JUGNRa3JEUUJjNHpuNUhoTG91NXFsRU43a09KRHdyTWpoTWhVcnlfRWF0SklDNG1FMDJqWHgzX2JtY3VMY3hna2FwaUZWMmE3RjhLb2lmcGE1Yi1saF9WM2s5ejR1bmk0LTZlQXZvVXhYQURkZmJKV0M?oc=5",
+        "date": "2026-08-07",
+        "title": "New Mexico heat wave brings high temps, storm risk, and flash flood chances - KOB 4",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTjVna2xMcHJvQXl6V3FaUGF3c0NiaHFaeWdBTDd2NUtZU25jaEV1d3BEOXB2VU5JUGNRa3JEUUJjNHpuNUhoTG91NXFsRU43a09KRHdyTWpoTWhVcnlfRWF0SklDNG1FMDJqWHgzX2JtY3VMY3hna2FwaUZWMmE3RjhLb2lmcGE1Yi1saF9WM2s5ejR1bmk0LTZlQXZvVXhYQURkZmJKV0M?oc=5\" target=\"_blank\">New Mexico heat wave brings high temps, storm risk, and flash flood chances</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KOB 4</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE94MUFfWlhSMHljcTgza0FFUkdzOVprbFR5VTE2a1pMT3FZblYtdEhGY1RFN0FCR25PSDdiNEhPMGQ1Wld5YkN3eFZEcVg0bXBXdEVuUWRYVnUtS09aeUctaXNFbw?oc=5",
+        "date": "2026-08-07",
+        "title": "East Coast braces for another round of heavy rain and flash flooding - FOX Weather",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE94MUFfWlhSMHljcTgza0FFUkdzOVprbFR5VTE2a1pMT3FZblYtdEhGY1RFN0FCR25PSDdiNEhPMGQ1Wld5YkN3eFZEcVg0bXBXdEVuUWRYVnUtS09aeUctaXNFbw?oc=5\" target=\"_blank\">East Coast braces for another round of heavy rain and flash flooding</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FOX Weather</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxONGxiRzFiaFdWaVUxcWhyRHZwanlrOUVUV1NKSGMyS2xDZVUyZGJOVm55V0NlelRhRm0xa1VHN1NDNnRKeUg4Z3ljTGduQ21YODBDaDdzSHlnWkVCSFJrSUoxelRtdUc5VW0wZFp3QnZ3RFZsMVZYR2doNjNEOXpEellQZHNDWmdYdWhKRGZCS0o3Y2J3UVBYd2lwcTZGNVkxMjI3TTlySzVULTc5QTFZ?oc=5",
+        "date": "2026-08-07",
+        "title": "Hill Country official who pushed for flood sirens dies after cancer battle - San Antonio Express-News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxONGxiRzFiaFdWaVUxcWhyRHZwanlrOUVUV1NKSGMyS2xDZVUyZGJOVm55V0NlelRhRm0xa1VHN1NDNnRKeUg4Z3ljTGduQ21YODBDaDdzSHlnWkVCSFJrSUoxelRtdUc5VW0wZFp3QnZ3RFZsMVZYR2doNjNEOXpEellQZHNDWmdYdWhKRGZCS0o3Y2J3UVBYd2lwcTZGNVkxMjI3TTlySzVULTc5QTFZ?oc=5\" target=\"_blank\">Hill Country official who pushed for flood sirens dies after cancer battle</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">San Antonio Express-News</font>",
+        "similarity_excluded": "No",
+        "score": 2,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUlotbm5Wcld2YzlsZG1lcmJXT1ZFb1pUZDh6dFNoTFZDcktQRjFDQkk2OEZ4Y08zdVhWMDFnWU8tN1VSVFFwbzlXVE1PTWJBMGI4UFZfeDRzRWlXcURFdl82RFMxUWlNZ1ZsT1lmQXZkMUtvSHoyd01lcV9ORlBKa0JnWHpWdVdwSW1KRVpvUlQteTFlWDM5UG5mWDQ?oc=5",
+        "date": "2026-08-07",
+        "title": "Flash flooding impacts Callaway County after heavy storms - ABC17NEWS",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNUlotbm5Wcld2YzlsZG1lcmJXT1ZFb1pUZDh6dFNoTFZDcktQRjFDQkk2OEZ4Y08zdVhWMDFnWU8tN1VSVFFwbzlXVE1PTWJBMGI4UFZfeDRzRWlXcURFdl82RFMxUWlNZ1ZsT1lmQXZkMUtvSHoyd01lcV9ORlBKa0JnWHpWdVdwSW1KRVpvUlQteTFlWDM5UG5mWDQ?oc=5\" target=\"_blank\">Flash flooding impacts Callaway County after heavy storms</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ABC17NEWS</font>",
+        "similarity_excluded": "No",
+        "score": 6,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPT184LUx5LWhsVTIyVGM3c0FhbE93ZmxVN3A2a09WbXppVFdiYU5RbnVWWkFnUUU1bDBnMVBQd3VHWXktdkU5MFZKcHUwQ09YS0VZYmVUckgxQkIzMWRybnYzam9hM2VtZUFVamhyUThsV05xSDJYRFBFcEtKelQyb0g1dGVWbWxROXBWZVEtdkY3YUJOcDJmbkVfRlBnUmFJMFIxZml6aDYtTEFNaUREZmhUY2RvYmlta1dxRWIyMHpZei1SX1c2QVRmbF9TN0JhdnRDZklWenItQWVvMEp3ZzE2bmk4YjZhWi16V1AyWdIB7wFBVV95cUxPT184LUx5LWhsVTIyVGM3c0FhbE93ZmxVN3A2a09WbXppVFdiYU5RbnVWWkFnUUU1bDBnMVBQd3VHWXktdkU5MFZKcHUwQ09YS0VZYmVUckgxQkIzMWRybnYzam9hM2VtZUFVamhyUThsV05xSDJYRFBFcEtKelQyb0g1dGVWbWxROXBWZVEtdkY3YUJOcDJmbkVfRlBnUmFJMFIxZml6aDYtTEFNaUREZmhUY2RvYmlta1dxRWIyMHpZei1SX1c2QVRmbF9TN0JhdnRDZklWenItQWVvMEp3ZzE2bmk4YjZhWi16V1AyWQ?oc=5",
+        "date": "2026-08-07",
+        "title": "LIVE UPDATES: 60 storm-related 911 calls came in Thursday in Boone County - KOMU 8",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxPT184LUx5LWhsVTIyVGM3c0FhbE93ZmxVN3A2a09WbXppVFdiYU5RbnVWWkFnUUU1bDBnMVBQd3VHWXktdkU5MFZKcHUwQ09YS0VZYmVUckgxQkIzMWRybnYzam9hM2VtZUFVamhyUThsV05xSDJYRFBFcEtKelQyb0g1dGVWbWxROXBWZVEtdkY3YUJOcDJmbkVfRlBnUmFJMFIxZml6aDYtTEFNaUREZmhUY2RvYmlta1dxRWIyMHpZei1SX1c2QVRmbF9TN0JhdnRDZklWenItQWVvMEp3ZzE2bmk4YjZhWi16V1AyWdIB7wFBVV95cUxPT184LUx5LWhsVTIyVGM3c0FhbE93ZmxVN3A2a09WbXppVFdiYU5RbnVWWkFnUUU1bDBnMVBQd3VHWXktdkU5MFZKcHUwQ09YS0VZYmVUckgxQkIzMWRybnYzam9hM2VtZUFVamhyUThsV05xSDJYRFBFcEtKelQyb0g1dGVWbWxROXBWZVEtdkY3YUJOcDJmbkVfRlBnUmFJMFIxZml6aDYtTEFNaUREZmhUY2RvYmlta1dxRWIyMHpZei1SX1c2QVRmbF9TN0JhdnRDZklWenItQWVvMEp3ZzE2bmk4YjZhWi16V1AyWQ?oc=5\" target=\"_blank\">LIVE UPDATES: 60 storm-related 911 calls came in Thursday in Boone County</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KOMU 8</font>",
+        "similarity_excluded": "No",
+        "score": 2,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQX0RLWFhJSGpzQ1M5OXJjdmU5SDlweTJEbjVzQlkzS0k1Nm5NMzJmOEs1aHdzYWx6aXhtejc1ODBSUkloYngxYWZPc1ZEcEFZUjhET09UN1cxT0ZteGJ3N3oyVTdicFU3ek9waFVxLWhVVHR6QlFDMllmVzRneUc4Zmc1SGNqZk1UeUNMZ1hlYVZueHVSa0J3?oc=5",
+        "date": "2026-08-07",
+        "title": "Flooding closes sections of Route 20 in Guilderland - Times Union",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQX0RLWFhJSGpzQ1M5OXJjdmU5SDlweTJEbjVzQlkzS0k1Nm5NMzJmOEs1aHdzYWx6aXhtejc1ODBSUkloYngxYWZPc1ZEcEFZUjhET09UN1cxT0ZteGJ3N3oyVTdicFU3ek9waFVxLWhVVHR6QlFDMllmVzRneUc4Zmc1SGNqZk1UeUNMZ1hlYVZueHVSa0J3?oc=5\" target=\"_blank\">Flooding closes sections of Route 20 in Guilderland</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Times Union</font>",
+        "similarity_excluded": "No",
+        "score": 5,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5IdWZYRFJmakFBcTlaeHM4ZkxBNV9xRndPb2NJdjBmZnd4Vl9qRDdFSWRTVWF1WHgxTjgydm1QS3d5UHlEWUVFVDhDcDY4UEJuWnRHbENhT2Fudw?oc=5",
+        "date": "2026-08-07",
+        "title": "Sunday\u2019s flash flooding believed to be Dublin\u2019s worst in a half-century - The Courier Herald",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE5IdWZYRFJmakFBcTlaeHM4ZkxBNV9xRndPb2NJdjBmZnd4Vl9qRDdFSWRTVWF1WHgxTjgydm1QS3d5UHlEWUVFVDhDcDY4UEJuWnRHbENhT2Fudw?oc=5\" target=\"_blank\">Sunday\u2019s flash flooding believed to be Dublin\u2019s worst in a half-century</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Courier Herald</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": null,
+        "tweet_id": "2085541821803815060",
+        "geo": {
+            "country": "United States",
+            "name": "Dublin, Georgia",
+            "latitude": 32.5404,
+            "longitude": -82.9038,
+            "confidence": 0.85
+        }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPczNJMks4ZEcySnpQWXZCNVhTT2tKcDVhdmtCaURTT0RubV9YM1hJSld5Mnh4NVBPLVZ5ajFibjFGd1ZySGN5ZFlHRVBiZC1BYUg2Wk80ZmFxMkJSbVNOamdDYlo3d0hzQjN6SktJY01GZHMxemZjRU1LODZBSUZWT002NGhsVXA1ZlVDYl80QWNBai11dHFVV1NrTFdGOW9aVFRlUjljT0o1OTExMFYwWG14QVVHb0lYWVBYZmJta29tdnRwa2x4Y05DVGdIUmhhQl82dnRSYnlKYkU5Mmc?oc=5",
+        "date": "2026-08-07",
+        "title": "Richmond County warns of possible bus delays amid severe weather - WFXG",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxPczNJMks4ZEcySnpQWXZCNVhTT2tKcDVhdmtCaURTT0RubV9YM1hJSld5Mnh4NVBPLVZ5ajFibjFGd1ZySGN5ZFlHRVBiZC1BYUg2Wk80ZmFxMkJSbVNOamdDYlo3d0hzQjN6SktJY01GZHMxemZjRU1LODZBSUZWT002NGhsVXA1ZlVDYl80QWNBai11dHFVV1NrTFdGOW9aVFRlUjljT0o1OTExMFYwWG14QVVHb0lYWVBYZmJta29tdnRwa2x4Y05DVGdIUmhhQl82dnRSYnlKYkU5Mmc?oc=5\" target=\"_blank\">Richmond County warns of possible bus delays amid severe weather</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WFXG</font>",
+        "similarity_excluded": "No",
+        "score": 1,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQV1RHQ2swX0oxRExuakp4anBLcDNadC1JRzdYVW1zanl0ckM5S3pVR204MGh2aW1IMUlQMHhZNHo2YkNxdHJTOTVVRGc5YVU0b09OOG1BT0ZQcU9ldFg3a3phWTB4ZDI5bUNJcGhtdTA0c2NlU0NTcHRmMmhHbnRxZ1p2V2lXT2t3dnlfRFRBdi1LTl9FX2RGMGxfcUdUaF9IYV91bmQwQ1hMNkdVcHhKZ0dNanQ1aUpBbThiSWN3?oc=5",
+        "date": "2026-08-07",
+        "title": "Monsoon to bring rain across most of Nepal today; flood and landslide risk remains - Nepalnews.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxQV1RHQ2swX0oxRExuakp4anBLcDNadC1JRzdYVW1zanl0ckM5S3pVR204MGh2aW1IMUlQMHhZNHo2YkNxdHJTOTVVRGc5YVU0b09OOG1BT0ZQcU9ldFg3a3phWTB4ZDI5bUNJcGhtdTA0c2NlU0NTcHRmMmhHbnRxZ1p2V2lXT2t3dnlfRFRBdi1LTl9FX2RGMGxfcUdUaF9IYV91bmQwQ1hMNkdVcHhKZ0dNanQ1aUpBbThiSWN3?oc=5\" target=\"_blank\">Monsoon to bring rain across most of Nepal today; flood and landslide risk remains</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Nepalnews.com</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNT3VoYTZxcVRZVjZXWjMyLXlvNUtVNnhNaVdYZ0dUYjNIb0c3YjFoXzJoWXBzUVVjTzlzVFljekZSblpfYTVfbklnY0tkSFp1TFQzbUZmaWJ3Mzk5eGxJQ2dTSTdIcTB2a0R1RDVpbk9LVEl3V0RzVWpBOFh3WERkTzVvTmcyOG9UZzBYZWd2amxDMGFFVU83UXBWeWRPYm5JQVFYbm1tRQ?oc=5",
+        "date": "2026-08-07",
+        "title": "Search underway for missing woman swept away in Cochise County flash flooding - FOX 10 Phoenix",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNT3VoYTZxcVRZVjZXWjMyLXlvNUtVNnhNaVdYZ0dUYjNIb0c3YjFoXzJoWXBzUVVjTzlzVFljekZSblpfYTVfbklnY0tkSFp1TFQzbUZmaWJ3Mzk5eGxJQ2dTSTdIcTB2a0R1RDVpbk9LVEl3V0RzVWpBOFh3WERkTzVvTmcyOG9UZzBYZWd2amxDMGFFVU83UXBWeWRPYm5JQVFYbm1tRQ?oc=5\" target=\"_blank\">Search underway for missing woman swept away in Cochise County flash flooding</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FOX 10 Phoenix</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 POST-EVENT Cochise County: Woman missing after being swept away in flash flood. FOX 10 Phoenix",
+        "type": "news",
+        "tweet_id": "2085541270676549645",
+        "geo": {
+            "country": "United States",
+            "name": "Cochise County, Arizona",
+            "latitude": 31.88,
+            "longitude": -109.75,
+            "confidence": 0.9
+        }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5IdWZYRFJmakFBcTlaeHM4ZkxBNV9xRndPb2NJdjBmZnd4Vl9qRDdFSWRTVWF1WHgxTjgydm1QS3d5UHlEWUVFVDhDcDY4UEJuWnRHbENhT2Fudw?oc=5",
+        "date": "2026-08-07",
+        "title": "Sunday\u2019s flash flooding believed to be Dublin\u2019s worst in a half-century - The Courier Herald",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE5IdWZYRFJmakFBcTlaeHM4ZkxBNV9xRndPb2NJdjBmZnd4Vl9qRDdFSWRTVWF1WHgxTjgydm1QS3d5UHlEWUVFVDhDcDY4UEJuWnRHbENhT2Fudw?oc=5\" target=\"_blank\">Sunday\u2019s flash flooding believed to be Dublin\u2019s worst in a half-century</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Courier Herald</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "posted",
+        "tweet": "\ud83c\uddee\ud83c\uddea POST-EVENT Dublin: Flash flooding Sunday worst in half-century with major impacts. Courier Herald",
+        "type": "news",
+        "tweet_id": "2085541821803815060",
+        "geo": {
+            "country": "United States",
+            "name": "Dublin, Georgia",
+            "latitude": 32.5404,
+            "longitude": -82.9038,
+            "confidence": 0.85
         }
     }
 ]
