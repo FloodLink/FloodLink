@@ -28128,5 +28128,14 @@
             "longitude": -82.9038,
             "confidence": 0.85
         }
+    },
+    {
+        "link": null,
+        "date": "2026-08-07",
+        "status": "posted",
+        "tweet": "2025 WMO data: flood early warning systems cover 82% of at-risk populations in Europe versus 29% across Africa, leaving 340 million exposed to flash floods and storm surges.",
+        "type": "statistical",
+        "category": "coverage of flood early warning systems worldwide",
+        "tweet_id": "2085607113913512019"
     }
 ]
