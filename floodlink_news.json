@@ -27409,5 +27409,14 @@
             "longitude": null,
             "confidence": 0.0
         }
+    },
+    {
+        "link": null,
+        "date": "2026-08-08",
+        "status": "posted",
+        "tweet": "Projected pluvial flood exposure in dense cities (2030):\n1. \ud83c\udde7\ud83c\udde9 Dhaka 65% pop.\n2. \ud83c\uddf3\ud83c\uddec Lagos 52%\n3. \ud83c\uddee\ud83c\uddf3 Mumbai 48%\n4. \ud83c\uddf5\ud83c\udded Manila 41%\n5. \ud83c\uddee\ud83c\udde9 Jakarta 37%",
+        "type": "statistical",
+        "category": "pluvial (surface) flooding in dense cities",
+        "tweet_id": "2085938744134344853"
     }
 ]
