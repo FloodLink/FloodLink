@@ -27002,5 +27002,25 @@
         "score": 6,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSWtjQU93NW0zdWlSYVVfZUZ5SUtsd0l0WGVVa01Nc0dFTEt6a0E0WnhLdU1sMFFFMDN0czVvMEFlODkzV2lFekdNZ2pDNFllNnlIYW1oSElYQmdiLTg3RmZnYkNwdVA4dzlQZmdwa1U2UHVVMExycnJycGttcUtNSTBsZmdnTXVkLUtsNTR0WVg0TFhWTWc?oc=5",
+        "date": "2026-08-09",
+        "title": "Typhoon Dolphin set to hit China\u2019s east coast, triggering flood warnings - SRN News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxNSWtjQU93NW0zdWlSYVVfZUZ5SUtsd0l0WGVVa01Nc0dFTEt6a0E0WnhLdU1sMFFFMDN0czVvMEFlODkzV2lFekdNZ2pDNFllNnlIYW1oSElYQmdiLTg3RmZnYkNwdVA4dzlQZmdwa1U2UHVVMExycnJycGttcUtNSTBsZmdnTXVkLUtsNTR0WVg0TFhWTWc?oc=5\" target=\"_blank\">Typhoon Dolphin set to hit China\u2019s east coast, triggering flood warnings</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SRN News</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQNFdDODZ4YlNmWUpTZU8yWXFNRUNlSWhWdGhMNGJpUnE1aS1RZXVCTVNWdDh1OVBzZkgzeFItYmd1MWJCY1N4S3ozZnYwbTdHM3JmX2l2UG1kN09OaHd5ODM0b0RCOW80VWJwckdqbXRfY2QtakNNYXZRSnU5NVJUakdkUFVZdW9LQ1ZwVllmNW5kX0stOTlDa3JkTGY4LV9Td0liMTA5WmpKNWYtT29ReEFXTUhnWU1qZVpLQnBFT0JWSXRyZWVSZWh4ODlVSVhYdHV5Q3BTckJVQQ?oc=5",
+        "date": "2026-08-09",
+        "title": "Major flooding alert as southwest monsoon brings heavy rains across Philippines - The Star",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxQNFdDODZ4YlNmWUpTZU8yWXFNRUNlSWhWdGhMNGJpUnE1aS1RZXVCTVNWdDh1OVBzZkgzeFItYmd1MWJCY1N4S3ozZnYwbTdHM3JmX2l2UG1kN09OaHd5ODM0b0RCOW80VWJwckdqbXRfY2QtakNNYXZRSnU5NVJUakdkUFVZdW9LQ1ZwVllmNW5kX0stOTlDa3JkTGY4LV9Td0liMTA5WmpKNWYtT29ReEFXTUhnWU1qZVpLQnBFT0JWSXRyZWVSZWh4ODlVSVhYdHV5Q3BTckJVQQ?oc=5\" target=\"_blank\">Major flooding alert as southwest monsoon brings heavy rains across Philippines</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Star</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
     }
 ]
