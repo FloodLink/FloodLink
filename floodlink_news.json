@@ -27296,5 +27296,14 @@
             "longitude": 122.0,
             "confidence": 0.7
         }
+    },
+    {
+        "link": null,
+        "date": "2026-08-09",
+        "status": "posted",
+        "tweet": "Global flood fatalities 2020-2025\n1. \ud83c\uddf5\ud83c\uddf0 Pakistan: 2,800 deaths\n2. \ud83c\uddee\ud83c\uddf3 India: 2,400 deaths\n3. \ud83c\udde7\ud83c\udde9 Bangladesh: 1,100 deaths\n4. \ud83c\uddf3\ud83c\uddec Nigeria: 950 deaths\n5. \ud83c\udde8\ud83c\uddf3 China: 890 deaths",
+        "type": "statistical",
+        "category": "global flood fatalities and trends",
+        "tweet_id": "2086471567408587171"
     }
 ]
