@@ -27112,5 +27112,14 @@
         "score": 6,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-08-09",
+        "status": "posted",
+        "tweet": "In 2025, 68 million urban residents across South Asia faced river flood and flash flood exposure, compared to 21 million in Europe.",
+        "type": "statistical",
+        "category": "urban areas exposed to river flooding",
+        "tweet_id": "2086410930238214392"
     }
 ]
