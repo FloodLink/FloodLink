@@ -27305,5 +27305,102 @@
         "type": "statistical",
         "category": "global flood fatalities and trends",
         "tweet_id": "2086471567408587171"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPXzNGRWFRcXlZQVBuMGpIVGg2aERaZVl0VTlHczZfTHJhbDVwWHlEbHhPNnpqTExGUHUxNHBKNUtCZjk4SGViWGZZMlQyNFktYWlqWnk1SzVIODA0X0dmeHRNa0dYRnNNSlFoS04ta003UmxZeVJCUy01LUdQYWg1WlNxcGVTVGsxLS13eDU1X3c3OEVNVVVUcEFKZGE1V0ljTG5NUExKdHFud9IBrwFBVV95cUxQSTZhbklkWDVRZlVBWFlibmRjancyeTRWUUtNT2VLNG56QlpfMlVlcExfZGJCYzIxbXozM2J0VEYtNm9saFBQYUJCSkhFZnR0ZFVmSElUb1FJU1M1dmk5TGx6WnFDb2VUOVNoWGczUWlyZzRnUWxZb1pfZ0lDZmRzWUsxR2Z6bjczR2NPaUpkYXJReE1mbG9lVlpEQjZpZWpJZG1nQmtkSVZaOWtBaEh3?oc=5",
+        "date": "2026-08-09",
+        "title": "Major flooding, evacuations after heavy rainfall in Williamson County - WKRN News 2",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPXzNGRWFRcXlZQVBuMGpIVGg2aERaZVl0VTlHczZfTHJhbDVwWHlEbHhPNnpqTExGUHUxNHBKNUtCZjk4SGViWGZZMlQyNFktYWlqWnk1SzVIODA0X0dmeHRNa0dYRnNNSlFoS04ta003UmxZeVJCUy01LUdQYWg1WlNxcGVTVGsxLS13eDU1X3c3OEVNVVVUcEFKZGE1V0ljTG5NUExKdHFud9IBrwFBVV95cUxQSTZhbklkWDVRZlVBWFlibmRjancyeTRWUUtNT2VLNG56QlpfMlVlcExfZGJCYzIxbXozM2J0VEYtNm9saFBQYUJCSkhFZnR0ZFVmSElUb1FJU1M1dmk5TGx6WnFDb2VUOVNoWGczUWlyZzRnUWxZb1pfZ0lDZmRzWUsxR2Z6bjczR2NPaUpkYXJReE1mbG9lVlpEQjZpZWpJZG1nQmtkSVZaOWtBaEh3?oc=5\" target=\"_blank\">Major flooding, evacuations after heavy rainfall in Williamson County</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WKRN News 2</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": null,
+        "tweet_id": "2086502104118522317",
+        "geo": {
+            "country": "United States",
+            "name": "Williamson County, Tennessee",
+            "latitude": 35.9251,
+            "longitude": -86.8689,
+            "confidence": 0.9
+        }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPM010Q3Z6YnE0ZXBLZDFDQldpYjNfZUppY2Fldnd4azJRdzlkbVJUNlFSNFZUcjNOYnRmbTAwbEYwVC1kYkY4MFlLWjdMUHIyRDVYSUdxcGhTSWZrYmRJcG44WDlCaV9lZmhXX1hkZzdLVGtwa0szc241MFZuY21FbnZtMDRZVkZfSDBRMUZnekM1a1JxRUhUeHJwd0tPNDJQRjNUQlFZcnNWdTFfcDExSGE1eV9iQQ?oc=5",
+        "date": "2026-08-09",
+        "title": "Severe storms, possible flooding target Midwest - The Weather Channel",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPM010Q3Z6YnE0ZXBLZDFDQldpYjNfZUppY2Fldnd4azJRdzlkbVJUNlFSNFZUcjNOYnRmbTAwbEYwVC1kYkY4MFlLWjdMUHIyRDVYSUdxcGhTSWZrYmRJcG44WDlCaV9lZmhXX1hkZzdLVGtwa0szc241MFZuY21FbnZtMDRZVkZfSDBRMUZnekM1a1JxRUhUeHJwd0tPNDJQRjNUQlFZcnNWdTFfcDExSGE1eV9iQQ?oc=5\" target=\"_blank\">Severe storms, possible flooding target Midwest</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Weather Channel</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcTQ5SXU0YlVuMHU0MGlqOHhLelBnSzYzRDllblVwNi1CQUM2YkYyclg0VjQtOG9CU2c1M0lNWXFmR0stQmVQLXBBUndUX1RIN3FtWGdPcDQ3dzdyMENDS2hteXpFd2RCLXRBYVk0ek1lLXFIVDRvSHJzVUs1MGhvTjRadmxMOEk4SGR2ZkVnV2Z2TjNwcDNqaXFzU1Iyay1Ia3ZHX2JCWlJNQQ?oc=5",
+        "date": "2026-08-09",
+        "title": "Typhoon Dolphin triggers heavy flooding in Shanghai, China - Anadolu Ajans\u0131",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcTQ5SXU0YlVuMHU0MGlqOHhLelBnSzYzRDllblVwNi1CQUM2YkYyclg0VjQtOG9CU2c1M0lNWXFmR0stQmVQLXBBUndUX1RIN3FtWGdPcDQ3dzdyMENDS2hteXpFd2RCLXRBYVk0ek1lLXFIVDRvSHJzVUs1MGhvTjRadmxMOEk4SGR2ZkVnV2Z2TjNwcDNqaXFzU1Iyay1Ia3ZHX2JCWlJNQQ?oc=5\" target=\"_blank\">Typhoon Dolphin triggers heavy flooding in Shanghai, China</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Anadolu Ajans\u0131</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVk1iVEp3TjNabFVvMnNoT2NpcFV4dUF5OUNFbGJFbnNTVk8wbEEwRVZjcUViUUphTlJuMXNRR0I5dmpvVXYyWUlpbWI2Rmp4VWljMnlYOER3MHAtOVJBOWE1dXhSOHh2cTRzZ0x4dVhmOGtqZWtXLW1Pdjg0Ui16d3NrVEtMczF30gGOAUFVX3lxTFBvLXdOdjMzaHB0dkZ5RUNONUlOY1BtQWVMUVhoUmxsbG1jdWRmTTZPYVh4cG91NF9QNmIzWlVGVUtPa1JfTUU4MFRnZzR2bEpjdDFlVGFNbl9HZ2Q2Z0poMXM4OTMzUXFXdjl4eXlBb2g4eXh2bXVUbkFkNmp5M0tGeHU0T0VlLTZ5a2FoUFE?oc=5",
+        "date": "2026-08-09",
+        "title": "1 rescued after landslide hits Atok, Benguet - Inquirer.net",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVk1iVEp3TjNabFVvMnNoT2NpcFV4dUF5OUNFbGJFbnNTVk8wbEEwRVZjcUViUUphTlJuMXNRR0I5dmpvVXYyWUlpbWI2Rmp4VWljMnlYOER3MHAtOVJBOWE1dXhSOHh2cTRzZ0x4dVhmOGtqZWtXLW1Pdjg0Ui16d3NrVEtMczF30gGOAUFVX3lxTFBvLXdOdjMzaHB0dkZ5RUNONUlOY1BtQWVMUVhoUmxsbG1jdWRmTTZPYVh4cG91NF9QNmIzWlVGVUtPa1JfTUU4MFRnZzR2bEpjdDFlVGFNbl9HZ2Q2Z0poMXM4OTMzUXFXdjl4eXlBb2g4eXh2bXVUbkFkNmp5M0tGeHU0T0VlLTZ5a2FoUFE?oc=5\" target=\"_blank\">1 rescued after landslide hits Atok, Benguet</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Inquirer.net</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNWHk1Vi12djFobkNwd2NOSUFVWWhLRGNFa3ExWWlmNko2NTNmZFExMW10VDRiWmk0S0JZb0Z5OFhLaTdJSkEzaDd3YlVPMTVJX1RSRHM3Z3ZHZDlwSTNtU3JDdnFYWkFVaVQ0VXNYNEVFMy12aWE3V2EyQXA3X3I1bEh5RlloUkYxVHo3WGMwWnplemlzdmdKYmdXSUM?oc=5",
+        "date": "2026-08-09",
+        "title": "LIVE UPDATES: Habagat brings heavy rains, flooding in parts of PH - Inquirer.net",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNWHk1Vi12djFobkNwd2NOSUFVWWhLRGNFa3ExWWlmNko2NTNmZFExMW10VDRiWmk0S0JZb0Z5OFhLaTdJSkEzaDd3YlVPMTVJX1RSRHM3Z3ZHZDlwSTNtU3JDdnFYWkFVaVQ0VXNYNEVFMy12aWE3V2EyQXA3X3I1bEh5RlloUkYxVHo3WGMwWnplemlzdmdKYmdXSUM?oc=5\" target=\"_blank\">LIVE UPDATES: Habagat brings heavy rains, flooding in parts of PH</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Inquirer.net</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNTTlldWsxOUlUUWxON0l5REg4WFkzRUVFQjd6cnFHWmJsVXhDc0ZsUlhlTlpWdmhMMXFLQk5IalNuZmd6U2RmaFpSajk5dW5QYmxLZXVPMm1jcUl1aWtHZENkU1Q5RkY3MWRqbWp6VlAwaDJtRldiRVNZSjhqYUhBVFZCTnlTM1ByUHFBdHpJTVZIWlBMUzNpYjhIVnJfMTlUQXhOR3dRZm1zVFJfMmtoVkFzU3NIeWdwZzA5UFB2d2RLNVnSAcgBQVVfeXFMTy1odExyUGtTc25VTlBkeVdidXhBM3dsdW4wcE1NZUlLbVNmZmpNcHBQdjlaRkM2NDVVSDJ1bFVoUkFXRXl2Wm5HZUl1QXRjVnR5RkVZNWZJS3BrWFEyU0FseGtaMFdnd3I0dDR1YlZ1LVVsblNnSHg1Umt4NFZOXzFNejVvdzNXRWJGNktsdmc5SFpSRTVlSDJ0ZW83QmY2QnYzSTdGMGxycGFQTDJYNm0zbkY2WmVSWTZiXzJ0eDFEQ0laOVdTVVI?oc=5",
+        "date": "2026-08-09",
+        "title": "4 houses & a school damaged in Dima Hasao landslide - The Times of India",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxNTTlldWsxOUlUUWxON0l5REg4WFkzRUVFQjd6cnFHWmJsVXhDc0ZsUlhlTlpWdmhMMXFLQk5IalNuZmd6U2RmaFpSajk5dW5QYmxLZXVPMm1jcUl1aWtHZENkU1Q5RkY3MWRqbWp6VlAwaDJtRldiRVNZSjhqYUhBVFZCTnlTM1ByUHFBdHpJTVZIWlBMUzNpYjhIVnJfMTlUQXhOR3dRZm1zVFJfMmtoVkFzU3NIeWdwZzA5UFB2d2RLNVnSAcgBQVVfeXFMTy1odExyUGtTc25VTlBkeVdidXhBM3dsdW4wcE1NZUlLbVNmZmpNcHBQdjlaRkM2NDVVSDJ1bFVoUkFXRXl2Wm5HZUl1QXRjVnR5RkVZNWZJS3BrWFEyU0FseGtaMFdnd3I0dDR1YlZ1LVVsblNnSHg1Umt4NFZOXzFNejVvdzNXRWJGNktsdmc5SFpSRTVlSDJ0ZW83QmY2QnYzSTdGMGxycGFQTDJYNm0zbkY2WmVSWTZiXzJ0eDFEQ0laOVdTVVI?oc=5\" target=\"_blank\">4 houses & a school damaged in Dima Hasao landslide</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of India</font>",
+        "similarity_excluded": "No",
+        "score": 2,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMmF4RGNMblZ3UXVmRnl4VkJqNjZMcWx3ZUNQMkJVRjE0b2xZa3dFSG1XSXFYaG9zWldQLXkxXzU3ZmhEb3B0OTA0R25yYTdXTDhFRUtPRjJONWpGemdmRjZYYTkta1FpRlBtSlNDUmxWb0pqWUFGZE0tMkstYTFOSFBoam11bTE1VWNrdF9zRzJwcWI3ME5HNWJxd1BDM0FhWU5JRzhR?oc=5",
+        "date": "2026-08-09",
+        "title": "Ten families forced to vacate houses in Rudraprayag as rain triggers landslides - Garhwal Post",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNMmF4RGNMblZ3UXVmRnl4VkJqNjZMcWx3ZUNQMkJVRjE0b2xZa3dFSG1XSXFYaG9zWldQLXkxXzU3ZmhEb3B0OTA0R25yYTdXTDhFRUtPRjJONWpGemdmRjZYYTkta1FpRlBtSlNDUmxWb0pqWUFGZE0tMkstYTFOSFBoam11bTE1VWNrdF9zRzJwcWI3ME5HNWJxd1BDM0FhWU5JRzhR?oc=5\" target=\"_blank\">Ten families forced to vacate houses in Rudraprayag as rain triggers landslides</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Garhwal Post</font>",
+        "similarity_excluded": "No",
+        "score": 5,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPXzNGRWFRcXlZQVBuMGpIVGg2aERaZVl0VTlHczZfTHJhbDVwWHlEbHhPNnpqTExGUHUxNHBKNUtCZjk4SGViWGZZMlQyNFktYWlqWnk1SzVIODA0X0dmeHRNa0dYRnNNSlFoS04ta003UmxZeVJCUy01LUdQYWg1WlNxcGVTVGsxLS13eDU1X3c3OEVNVVVUcEFKZGE1V0ljTG5NUExKdHFud9IBrwFBVV95cUxQSTZhbklkWDVRZlVBWFlibmRjancyeTRWUUtNT2VLNG56QlpfMlVlcExfZGJCYzIxbXozM2J0VEYtNm9saFBQYUJCSkhFZnR0ZFVmSElUb1FJU1M1dmk5TGx6WnFDb2VUOVNoWGczUWlyZzRnUWxZb1pfZ0lDZmRzWUsxR2Z6bjczR2NPaUpkYXJReE1mbG9lVlpEQjZpZWpJZG1nQmtkSVZaOWtBaEh3?oc=5",
+        "date": "2026-08-09",
+        "title": "Major flooding, evacuations after heavy rainfall in Williamson County - WKRN News 2",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPXzNGRWFRcXlZQVBuMGpIVGg2aERaZVl0VTlHczZfTHJhbDVwWHlEbHhPNnpqTExGUHUxNHBKNUtCZjk4SGViWGZZMlQyNFktYWlqWnk1SzVIODA0X0dmeHRNa0dYRnNNSlFoS04ta003UmxZeVJCUy01LUdQYWg1WlNxcGVTVGsxLS13eDU1X3c3OEVNVVVUcEFKZGE1V0ljTG5NUExKdHFud9IBrwFBVV95cUxQSTZhbklkWDVRZlVBWFlibmRjancyeTRWUUtNT2VLNG56QlpfMlVlcExfZGJCYzIxbXozM2J0VEYtNm9saFBQYUJCSkhFZnR0ZFVmSElUb1FJU1M1dmk5TGx6WnFDb2VUOVNoWGczUWlyZzRnUWxZb1pfZ0lDZmRzWUsxR2Z6bjczR2NPaUpkYXJReE1mbG9lVlpEQjZpZWpJZG1nQmtkSVZaOWtBaEh3?oc=5\" target=\"_blank\">Major flooding, evacuations after heavy rainfall in Williamson County</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WKRN News 2</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 POST-EVENT Williamson County: Major flooding and evacuations after heavy rainfall. WKRN News 2",
+        "type": "news",
+        "tweet_id": "2086502104118522317",
+        "geo": {
+            "country": "United States",
+            "name": "Williamson County, Tennessee",
+            "latitude": 35.9251,
+            "longitude": -86.8689,
+            "confidence": 0.9
+        }
     }
 ]
