@@ -26544,5 +26544,169 @@
         "score": 8,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPQzh6dUl5SjQwaTFucjA1Vl9wQWRIUnRFX0dVb3o1OUQzcVEwQkhpZk5uRG5RQUVrOHZGMm0xdXRWWm9yV2dpcjIyOEJ4UjVHSkprZ0w2c0U2eWhKaEw2YUJhbnk3S0dyanAyMEVfX0wwOG5QN2dETWo0MmRRWGpEZFlFQmJ5eEpDR0NRQg?oc=5",
+        "date": "2026-08-10",
+        "title": "Flash flooding in Franklin damages several homes - WAFF",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxPQzh6dUl5SjQwaTFucjA1Vl9wQWRIUnRFX0dVb3o1OUQzcVEwQkhpZk5uRG5RQUVrOHZGMm0xdXRWWm9yV2dpcjIyOEJ4UjVHSkprZ0w2c0U2eWhKaEw2YUJhbnk3S0dyanAyMEVfX0wwOG5QN2dETWo0MmRRWGpEZFlFQmJ5eEpDR0NRQg?oc=5\" target=\"_blank\">Flash flooding in Franklin damages several homes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WAFF</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOOFRUektmRDJJVWVRVWE4MUhpRzdSNUV4RGlQWFMtTnB6b0dqbGc4UXZCc05Qb011ZjVwNDE2cUMtSGZ4bVkzeWw4cDBHekdLbW1JcXNrN0QyNElKMGRkS1pxTlFDVm5WanZDaktLTE8xdUVqc004Zi1Xblp6bUJyVWJvM19fbDBST2hJZk9aWDc4cS1fQ2V2RUNoMHdwRjlyYk5TSW9ndUM2bU01?oc=5",
+        "date": "2026-08-10",
+        "title": "Heavy rain, flash flooding possible in Chicago area overnight - Chicago Sun-Times",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxOOFRUektmRDJJVWVRVWE4MUhpRzdSNUV4RGlQWFMtTnB6b0dqbGc4UXZCc05Qb011ZjVwNDE2cUMtSGZ4bVkzeWw4cDBHekdLbW1JcXNrN0QyNElKMGRkS1pxTlFDVm5WanZDaktLTE8xdUVqc004Zi1Xblp6bUJyVWJvM19fbDBST2hJZk9aWDc4cS1fQ2V2RUNoMHdwRjlyYk5TSW9ndUM2bU01?oc=5\" target=\"_blank\">Heavy rain, flash flooding possible in Chicago area overnight</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Chicago Sun-Times</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORlBjNUhLQWdPRGhzbDJVa2NCWERHY2Rka0pKd1ByckhZM2pFYlhYMGE3eUJfdml5YXVKTFJURUhOcFdoNmk4djhGaG1lTF8yRURfakFRcllCZ2hSVmhFY1hWTlB6UkxzUlZhUjJfM01UYWtzUGtGNmhON19KOGhWMzJuVWplTkxrYVF0NEFSdV9OSG9Sc1BKajB6eTl6X1M1Z1g3cmxvRXRwd1NOV3VaLUhJNFdkbXIwS2c?oc=5",
+        "date": "2026-08-10",
+        "title": "Typhoon Dolphin makes landfall in China as its strongest storm this year - The Guardian",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxORlBjNUhLQWdPRGhzbDJVa2NCWERHY2Rka0pKd1ByckhZM2pFYlhYMGE3eUJfdml5YXVKTFJURUhOcFdoNmk4djhGaG1lTF8yRURfakFRcllCZ2hSVmhFY1hWTlB6UkxzUlZhUjJfM01UYWtzUGtGNmhON19KOGhWMzJuVWplTkxrYVF0NEFSdV9OSG9Sc1BKajB6eTl6X1M1Z1g3cmxvRXRwd1NOV3VaLUhJNFdkbXIwS2c?oc=5\" target=\"_blank\">Typhoon Dolphin makes landfall in China as its strongest storm this year</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQ3ZILXhPdkoxRm0wV1FWLXRGc0tJMkt4dnVlS2xwTS14cXZ4bUZzYXE0WDF3WkFTSUxFRVFqQmEzRmNaQzBmOGljcG5sWGp1Z1RiU3ZvdTVsZVIwQnNYb3pPSGJBWEc4QkEtU2k1c0NheEZXYXlNVXJkNlhaQ3Y0SEVsR21vY290eDJOS0tGeXBUVjdCRUJuYzlvZUJPZ2RQRFZIb2pET1otQVk?oc=5",
+        "date": "2026-08-10",
+        "title": "Typhoon Dolphin brings heavy rain and widespread flooding to Shanghai - South China Morning Post",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQ3ZILXhPdkoxRm0wV1FWLXRGc0tJMkt4dnVlS2xwTS14cXZ4bUZzYXE0WDF3WkFTSUxFRVFqQmEzRmNaQzBmOGljcG5sWGp1Z1RiU3ZvdTVsZVIwQnNYb3pPSGJBWEc4QkEtU2k1c0NheEZXYXlNVXJkNlhaQ3Y0SEVsR21vY290eDJOS0tGeXBUVjdCRUJuYzlvZUJPZ2RQRFZIb2pET1otQVk?oc=5\" target=\"_blank\">Typhoon Dolphin brings heavy rain and widespread flooding to Shanghai</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">South China Morning Post</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": null,
+        "tweet_id": "2086681846327247343",
+        "geo": {
+            "country": "China",
+            "name": "Shanghai",
+            "latitude": 31.2304,
+            "longitude": 121.4737,
+            "confidence": 0.95
+        }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMEFMdWhGY3EyeFpWUngzbEZERlFnWTBoUWxLajNUdlRZTjljX1RZUFVacW90WG5ERC1KSTJiS3B2aTE3LTZSNTJrangzS240VGtzcWw5NHRrak1aamZLbGVQSzdON2t4QVYwX0lobXZZWkVqOUw2X3FfN3RoTXhDVGsxQ25YWE1TUWVxWGtBN0wwU0NzYURaNk40Yzdtdw?oc=5",
+        "date": "2026-08-10",
+        "title": "Typhoon Dolphin: more than a million people evacuated in China as record rainfall dumped on Shanghai - The Guardian",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQMEFMdWhGY3EyeFpWUngzbEZERlFnWTBoUWxLajNUdlRZTjljX1RZUFVacW90WG5ERC1KSTJiS3B2aTE3LTZSNTJrangzS240VGtzcWw5NHRrak1aamZLbGVQSzdON2t4QVYwX0lobXZZWkVqOUw2X3FfN3RoTXhDVGsxQ25YWE1TUWVxWGtBN0wwU0NzYURaNk40Yzdtdw?oc=5\" target=\"_blank\">Typhoon Dolphin: more than a million people evacuated in China as record rainfall dumped on Shanghai</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOeFlXSHNyVDNZZ1ZaVXpXbWc4a2c1eFBYMXNVeVdOa3dUX2M3MTU1SC1idTFSN3FTazdwdG51YzVqSlVyVkdzSHYyRTFzVHBjbVl2c1JWUjE0Sk1raHNBcWRSQ2RQblAxTUZhMmpKQlRncnhZN3JlNEp5RW5lbGhDMXI4N2xYUEZVeHBwb3g2UmNOdjdBYW52VlhCN0J3MFhnSUhMdnp5WUhIN1JoSElhcVQ0M0ctU0FDYVA0OENOUFAzUjdW0gHKAUFVX3lxTE94SHBmMl9MMl82QVpzM3c5bm1RTHFwc3dtS2ExaUVxR1NHVlUyZ0M2UVJpOVpWS2c5aW5EMF82TXI4ZGlOY2F6Y19Nb21nZDNVLTgtU1FHZDJUQmpLV2dYUjR1X09nQWY1OTJWYnp6UGJQRjdLczVnRkRfMWJVZnRoa1U1ckdGLXhqSi1WZG9kQmRiczJiSnlmMURRYlo2YTdVSVlLNUFESTdjTHk1VFZ0RmpMVTRPajdrNHBRNllzRVZJWHk5anNfOXc?oc=5",
+        "date": "2026-08-10",
+        "title": "Assam floods: Climate change is turning the monsoon deluge into an annual disaster. But are we learning its lessons? - livemint.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxOeFlXSHNyVDNZZ1ZaVXpXbWc4a2c1eFBYMXNVeVdOa3dUX2M3MTU1SC1idTFSN3FTazdwdG51YzVqSlVyVkdzSHYyRTFzVHBjbVl2c1JWUjE0Sk1raHNBcWRSQ2RQblAxTUZhMmpKQlRncnhZN3JlNEp5RW5lbGhDMXI4N2xYUEZVeHBwb3g2UmNOdjdBYW52VlhCN0J3MFhnSUhMdnp5WUhIN1JoSElhcVQ0M0ctU0FDYVA0OENOUFAzUjdW0gHKAUFVX3lxTE94SHBmMl9MMl82QVpzM3c5bm1RTHFwc3dtS2ExaUVxR1NHVlUyZ0M2UVJpOVpWS2c5aW5EMF82TXI4ZGlOY2F6Y19Nb21nZDNVLTgtU1FHZDJUQmpLV2dYUjR1X09nQWY1OTJWYnp6UGJQRjdLczVnRkRfMWJVZnRoa1U1ckdGLXhqSi1WZG9kQmRiczJiSnlmMURRYlo2YTdVSVlLNUFESTdjTHk1VFZ0RmpMVTRPajdrNHBRNllzRVZJWHk5anNfOXc?oc=5\" target=\"_blank\">Assam floods: Climate change is turning the monsoon deluge into an annual disaster. But are we learning its lessons?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">livemint.com</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": null,
+        "tweet_id": "2086682381902090569",
+        "geo": {
+            "country": "India",
+            "name": "Assam",
+            "latitude": 26.2006,
+            "longitude": 92.9376,
+            "confidence": 0.9
+        }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTzBGTkxaa2taLWtBSGh5eVI2QUNUemxBRDIxZXFJMFJnazYwOWJsbXExTE5XME1Hbkx0SHJxZFl5MWF3SXpia1RyMnQyYWwtb2tNc3F6VFdtUXZnenFXNlhQMmhBMzA5YUdzbGo0VVltUTZtUWlwWGo4RWlSeTJNQ0NUV1JMRGo5LXZIYjcyZnVQSFMxTFBpVGd5NkhTSm1FejYwYjVvRWwzWmpnR3fSAbMBQVVfeXFMTVNVcjJnWTRuRnNxVGtRbTB5OU5TUWdUNFp6NjViN3RKY1dRTnVpLUk0MFJydDkzWnRhOWQxZEN0OWQxNjlZS09lNlVjS2NjbG11elhUWF9BY2R3YlplN25NWFZ0dkNUWmVRUEdEbXVUYlVSejdjdWlpdUxSeklHOVM1ZnZNVk0yTFJwSWxCbk9XdGYzejFjbDUyNU51MUc2a3lOTlhyN2UtbXlrZjJOOUxYc1U?oc=5",
+        "date": "2026-08-10",
+        "title": "Climate change to bring more frequent, intense floods to Assam: Analysis - The Assam Tribune",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQTzBGTkxaa2taLWtBSGh5eVI2QUNUemxBRDIxZXFJMFJnazYwOWJsbXExTE5XME1Hbkx0SHJxZFl5MWF3SXpia1RyMnQyYWwtb2tNc3F6VFdtUXZnenFXNlhQMmhBMzA5YUdzbGo0VVltUTZtUWlwWGo4RWlSeTJNQ0NUV1JMRGo5LXZIYjcyZnVQSFMxTFBpVGd5NkhTSm1FejYwYjVvRWwzWmpnR3fSAbMBQVVfeXFMTVNVcjJnWTRuRnNxVGtRbTB5OU5TUWdUNFp6NjViN3RKY1dRTnVpLUk0MFJydDkzWnRhOWQxZEN0OWQxNjlZS09lNlVjS2NjbG11elhUWF9BY2R3YlplN25NWFZ0dkNUWmVRUEdEbXVUYlVSejdjdWlpdUxSeklHOVM1ZnZNVk0yTFJwSWxCbk9XdGYzejFjbDUyNU51MUc2a3lOTlhyN2UtbXlrZjJOOUxYc1U?oc=5\" target=\"_blank\">Climate change to bring more frequent, intense floods to Assam: Analysis</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Assam Tribune</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZElCR19xOThJSlY4Z1FqZXp6LTNjbkNOdDQ1SmVUV0J5WUREcUdYVHhnbTJ6VjRTaTE1VlY2S0JoajNoTll6a045S0ppRlpCMDlXdjVPMmlVdDk1bFdZZkxab3lFdUM3VGRZR3dXLUpqWk9rejJGSVo4M3ZaLUZNYWF2b1ZobjZpUWZfT2NvY2l4Z3ZtSEZaQWZpeVpQMVdueHhKLUEzNlNWQdIBsAFBVV95cUxQdmNON1FIaFdiYnRpUlAtU2VNOTdIRGVZenR5R3lqeXVic0ZWUnVTR25KT01wTkJGQnJRaVozUHdrQWFfUnh1YWF2UVE2UHl2a1hWUzZUWE9BbmVEeHVZTHpBOXF1YUJSMkg1V05odlp5OXdkUVp6ZWRFUHdsMG9mbWctZkJNWHBrZFJOY2FaLXJKSTNaTFQza05TeklRb2txMVNncFhmYV96azhWVk03aQ?oc=5",
+        "date": "2026-08-10",
+        "title": "&apos;Habagat&apos; rains continue to pour onto Luzon as week opens - Philstar.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZElCR19xOThJSlY4Z1FqZXp6LTNjbkNOdDQ1SmVUV0J5WUREcUdYVHhnbTJ6VjRTaTE1VlY2S0JoajNoTll6a045S0ppRlpCMDlXdjVPMmlVdDk1bFdZZkxab3lFdUM3VGRZR3dXLUpqWk9rejJGSVo4M3ZaLUZNYWF2b1ZobjZpUWZfT2NvY2l4Z3ZtSEZaQWZpeVpQMVdueHhKLUEzNlNWQdIBsAFBVV95cUxQdmNON1FIaFdiYnRpUlAtU2VNOTdIRGVZenR5R3lqeXVic0ZWUnVTR25KT01wTkJGQnJRaVozUHdrQWFfUnh1YWF2UVE2UHl2a1hWUzZUWE9BbmVEeHVZTHpBOXF1YUJSMkg1V05odlp5OXdkUVp6ZWRFUHdsMG9mbWctZkJNWHBrZFJOY2FaLXJKSTNaTFQza05TeklRb2txMVNncFhmYV96azhWVk03aQ?oc=5\" target=\"_blank\">&apos;Habagat&apos; rains continue to pour onto Luzon as week opens</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Philstar.com</font>",
+        "similarity_excluded": "No",
+        "score": 5,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOM3ZEbVcxLW9RRWhKbmVlN0lXVFFFMGpKMnVMYm1KZ215NG5GaWU2dUU3R0phWTEzTXZ3U1hIdGJLRXE4V0F1YTN4NzlPcElMa19Pb3NxUVJrbjRQWldwZDJPbU5rVGRyaXdHZWxhalpoa2c1QzBMRTB4ODZqbmdRQWxyVGxJekVtUlM1TDJqVnhYaThDWHRpMTMyX3cybkMyMUJVSXc1em5SV3lMVzVqUjRwbjBycE9wQ0ZQRXJmZVBuZVNhVlkxZnR1VGhnMEZv?oc=5",
+        "date": "2026-08-10",
+        "title": "LOOK: Gutter-deep flooding along a portion of Rizal Avenue Extension in Malabon City on Monday, August 10, following rains brought by the enhanced southwest monsoon or habagat. Motorists and commuters are advised to take caution as roads remain wet - facebook.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxOM3ZEbVcxLW9RRWhKbmVlN0lXVFFFMGpKMnVMYm1KZ215NG5GaWU2dUU3R0phWTEzTXZ3U1hIdGJLRXE4V0F1YTN4NzlPcElMa19Pb3NxUVJrbjRQWldwZDJPbU5rVGRyaXdHZWxhalpoa2c1QzBMRTB4ODZqbmdRQWxyVGxJekVtUlM1TDJqVnhYaThDWHRpMTMyX3cybkMyMUJVSXc1em5SV3lMVzVqUjRwbjBycE9wQ0ZQRXJmZVBuZVNhVlkxZnR1VGhnMEZv?oc=5\" target=\"_blank\">LOOK: Gutter-deep flooding along a portion of Rizal Avenue Extension in Malabon City on Monday, August 10, following rains brought by the enhanced southwest monsoon or habagat. Motorists and commuters are advised to take caution as roads remain wet</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">facebook.com</font>",
+        "similarity_excluded": "No",
+        "score": 5,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOelNBQnNtaHM1Uk5ZOV9fcUFoeTFfY3ZFWGxibjF5QnAyZnM3UVBVWko1dDVWX2MzTGxVSDJQS2F3S3plYkUzWnQ0LTlmcTEtNFc0MG1KdERUbFpiQlZVYUR6bmNMcF80QVFDOUlGbkViR0VsWlZWa1ZoWUdGaV9CbjdhaVBhMHR2RDRJcGlaOTVEMzNyQndrVXpwbXlJOVF0cF9uWS1MUkk4eVQ1RGN6R2F1eVRFeWFQdWJEeUlUbldmeXhNZWFRa2dtRGhoQQ?oc=5",
+        "date": "2026-08-10",
+        "title": "Flooding, landslides leave three dead, one missing in Batangas. #ANCHeadlines - facebook.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxOelNBQnNtaHM1Uk5ZOV9fcUFoeTFfY3ZFWGxibjF5QnAyZnM3UVBVWko1dDVWX2MzTGxVSDJQS2F3S3plYkUzWnQ0LTlmcTEtNFc0MG1KdERUbFpiQlZVYUR6bmNMcF80QVFDOUlGbkViR0VsWlZWa1ZoWUdGaV9CbjdhaVBhMHR2RDRJcGlaOTVEMzNyQndrVXpwbXlJOVF0cF9uWS1MUkk4eVQ1RGN6R2F1eVRFeWFQdWJEeUlUbldmeXhNZWFRa2dtRGhoQQ?oc=5\" target=\"_blank\">Flooding, landslides leave three dead, one missing in Batangas. #ANCHeadlines</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">facebook.com</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9qYnpNTmRndFVLRDRiWlQtekprUVJUVEp5d3BsUDBSdzdZYVMzZDNxNU5RYjAtaTlQeUo3RWRkaGg4Rlh1UUYyZ1c2S2RnYnRLMjhlaDUyX2M?oc=5",
+        "date": "2026-08-10",
+        "title": "Road blockages reported in several places, traffic disrupted - Khabarhub",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE9qYnpNTmRndFVLRDRiWlQtekprUVJUVEp5d3BsUDBSdzdZYVMzZDNxNU5RYjAtaTlQeUo3RWRkaGg4Rlh1UUYyZ1c2S2RnYnRLMjhlaDUyX2M?oc=5\" target=\"_blank\">Road blockages reported in several places, traffic disrupted</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Khabarhub</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQ3ZILXhPdkoxRm0wV1FWLXRGc0tJMkt4dnVlS2xwTS14cXZ4bUZzYXE0WDF3WkFTSUxFRVFqQmEzRmNaQzBmOGljcG5sWGp1Z1RiU3ZvdTVsZVIwQnNYb3pPSGJBWEc4QkEtU2k1c0NheEZXYXlNVXJkNlhaQ3Y0SEVsR21vY290eDJOS0tGeXBUVjdCRUJuYzlvZUJPZ2RQRFZIb2pET1otQVk?oc=5",
+        "date": "2026-08-10",
+        "title": "Typhoon Dolphin brings heavy rain and widespread flooding to Shanghai - South China Morning Post",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQ3ZILXhPdkoxRm0wV1FWLXRGc0tJMkt4dnVlS2xwTS14cXZ4bUZzYXE0WDF3WkFTSUxFRVFqQmEzRmNaQzBmOGljcG5sWGp1Z1RiU3ZvdTVsZVIwQnNYb3pPSGJBWEc4QkEtU2k1c0NheEZXYXlNVXJkNlhaQ3Y0SEVsR21vY290eDJOS0tGeXBUVjdCRUJuYzlvZUJPZ2RQRFZIb2pET1otQVk?oc=5\" target=\"_blank\">Typhoon Dolphin brings heavy rain and widespread flooding to Shanghai</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">South China Morning Post</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "posted",
+        "tweet": "\ud83c\udde8\ud83c\uddf3 POST-EVENT Shanghai, China: Widespread flooding from Typhoon Dolphin heavy rain. South China Morning Post",
+        "type": "news",
+        "tweet_id": "2086681846327247343",
+        "geo": {
+            "country": "China",
+            "name": "Shanghai",
+            "latitude": 31.2304,
+            "longitude": 121.4737,
+            "confidence": 0.95
+        }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOeFlXSHNyVDNZZ1ZaVXpXbWc4a2c1eFBYMXNVeVdOa3dUX2M3MTU1SC1idTFSN3FTazdwdG51YzVqSlVyVkdzSHYyRTFzVHBjbVl2c1JWUjE0Sk1raHNBcWRSQ2RQblAxTUZhMmpKQlRncnhZN3JlNEp5RW5lbGhDMXI4N2xYUEZVeHBwb3g2UmNOdjdBYW52VlhCN0J3MFhnSUhMdnp5WUhIN1JoSElhcVQ0M0ctU0FDYVA0OENOUFAzUjdW0gHKAUFVX3lxTE94SHBmMl9MMl82QVpzM3c5bm1RTHFwc3dtS2ExaUVxR1NHVlUyZ0M2UVJpOVpWS2c5aW5EMF82TXI4ZGlOY2F6Y19Nb21nZDNVLTgtU1FHZDJUQmpLV2dYUjR1X09nQWY1OTJWYnp6UGJQRjdLczVnRkRfMWJVZnRoa1U1ckdGLXhqSi1WZG9kQmRiczJiSnlmMURRYlo2YTdVSVlLNUFESTdjTHk1VFZ0RmpMVTRPajdrNHBRNllzRVZJWHk5anNfOXc?oc=5",
+        "date": "2026-08-10",
+        "title": "Assam floods: Climate change is turning the monsoon deluge into an annual disaster. But are we learning its lessons? - livemint.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxOeFlXSHNyVDNZZ1ZaVXpXbWc4a2c1eFBYMXNVeVdOa3dUX2M3MTU1SC1idTFSN3FTazdwdG51YzVqSlVyVkdzSHYyRTFzVHBjbVl2c1JWUjE0Sk1raHNBcWRSQ2RQblAxTUZhMmpKQlRncnhZN3JlNEp5RW5lbGhDMXI4N2xYUEZVeHBwb3g2UmNOdjdBYW52VlhCN0J3MFhnSUhMdnp5WUhIN1JoSElhcVQ0M0ctU0FDYVA0OENOUFAzUjdW0gHKAUFVX3lxTE94SHBmMl9MMl82QVpzM3c5bm1RTHFwc3dtS2ExaUVxR1NHVlUyZ0M2UVJpOVpWS2c5aW5EMF82TXI4ZGlOY2F6Y19Nb21nZDNVLTgtU1FHZDJUQmpLV2dYUjR1X09nQWY1OTJWYnp6UGJQRjdLczVnRkRfMWJVZnRoa1U1ckdGLXhqSi1WZG9kQmRiczJiSnlmMURRYlo2YTdVSVlLNUFESTdjTHk1VFZ0RmpMVTRPajdrNHBRNllzRVZJWHk5anNfOXc?oc=5\" target=\"_blank\">Assam floods: Climate change is turning the monsoon deluge into an annual disaster. But are we learning its lessons?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">livemint.com</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "posted",
+        "tweet": "\ud83c\uddee\ud83c\uddf3 POST-EVENT Assam: Monsoon floods worsened by climate change cause annual widespread damage and displacement.",
+        "type": "news",
+        "tweet_id": "2086682381902090569",
+        "geo": {
+            "country": "India",
+            "name": "Assam",
+            "latitude": 26.2006,
+            "longitude": 92.9376,
+            "confidence": 0.9
+        }
     }
 ]
