@@ -10389,7 +10389,7 @@
     "rain_mm": 49.81,
     "soil_moisture": 0.601,
     "raw_dynamic_score": 7.73,
-    "last_updated": "2026-08-11T04:35:07.027570Z",
+    "last_updated": "2026-08-11T07:14:27.298654Z",
     "last_tweeted_at": "2026-03-28T21:30:50.345292Z",
     "tweet_id": "2038006468746555739",
     "resolved": false
@@ -21026,11 +21026,15 @@
     "rain_mm": 11.12,
     "soil_moisture": 0.712,
     "raw_dynamic_score": 1.838,
-    "last_updated": "2026-08-11T04:35:07.027570Z",
+    "last_updated": "2026-08-11T07:14:27.298654Z",
     "last_tweeted_at": "2026-08-11T01:26:41.152686Z",
     "tweet_id": "2086987933450371447",
     "resolved": true,
-    "resolved_at": "2026-08-11T01:26:41.152686Z"
+    "resolved_at": "2026-08-11T01:26:41.152686Z",
+    "pending_downgrade": true,
+    "pending_target_level": "Low",
+    "pending_set_at": "2026-08-11T07:14:27.298654Z",
+    "pending_is_region": true
   },
   "16.2356,-93.8997": {
     "country": "Mexico",
@@ -26187,7 +26191,7 @@
     "rain_mm": 42.19,
     "soil_moisture": 0.63,
     "raw_dynamic_score": 6.659,
-    "last_updated": "2026-07-01T22:24:49.333703Z",
+    "last_updated": "2026-08-11T07:14:27.298654Z",
     "last_tweeted_at": "2026-07-01T17:19:19.849474Z",
     "tweet_id": "2072370007179239749",
     "resolved": false
@@ -29510,31 +29514,31 @@
   "9.5380,-13.6773": {
     "country": "Guinea",
     "name": "Conakry",
-    "risk_level": "High",
-    "tweeted_level": "High",
+    "risk_level": "Extreme",
+    "tweeted_level": "Extreme",
     "latitude": 9.53795,
     "longitude": -13.67729,
-    "rain_mm": 87.06,
+    "rain_mm": 131.38,
     "soil_moisture": 1.0,
-    "raw_dynamic_score": 16.651,
-    "last_updated": "2026-08-11T04:35:07.027570Z",
-    "last_tweeted_at": "2026-08-11T04:35:07.027570Z",
-    "tweet_id": "2087035086977863949",
+    "raw_dynamic_score": 25.125,
+    "last_updated": "2026-08-11T07:14:27.298654Z",
+    "last_tweeted_at": "2026-08-11T07:14:27.298654Z",
+    "tweet_id": "2087075188194300058",
     "resolved": false
   },
   "9.5350,-13.6878": {
     "country": "Guinea",
     "name": "Camayenne",
-    "risk_level": "High",
-    "tweeted_level": "High",
+    "risk_level": "Extreme",
+    "tweeted_level": "Extreme",
     "latitude": 9.535,
     "longitude": -13.68778,
-    "rain_mm": 87.06,
+    "rain_mm": 131.38,
     "soil_moisture": 1.0,
-    "raw_dynamic_score": 16.651,
-    "last_updated": "2026-08-11T04:35:07.027570Z",
-    "last_tweeted_at": "2026-08-11T04:35:07.027570Z",
-    "tweet_id": "2087035086977863949",
+    "raw_dynamic_score": 25.125,
+    "last_updated": "2026-08-11T07:14:27.298654Z",
+    "last_tweeted_at": "2026-08-11T07:14:27.298654Z",
+    "tweet_id": "2087075188194300058",
     "resolved": false
   },
   "-36.1431,-71.8260": {
@@ -30583,7 +30587,7 @@
     "rain_mm": 28.38,
     "soil_moisture": 0.716,
     "raw_dynamic_score": 4.698,
-    "last_updated": "2026-08-11T01:26:41.152686Z",
+    "last_updated": "2026-08-11T07:14:27.298654Z",
     "last_tweeted_at": "2026-08-11T01:26:41.152686Z",
     "tweet_id": "2086987933450371447",
     "resolved": true,
@@ -32675,22 +32679,6 @@
     "tweet_id": "2083999416470392883",
     "resolved": false
   },
-  "4.6423,7.9244": {
-    "country": "Nigeria",
-    "name": "Eket",
-    "risk_level": "Low",
-    "tweeted_level": "Low",
-    "latitude": 4.64231,
-    "longitude": 7.92438,
-    "rain_mm": 6.38,
-    "soil_moisture": 0.54,
-    "raw_dynamic_score": 0.954,
-    "last_updated": "2026-08-10T04:42:55.718028Z",
-    "last_tweeted_at": "2026-08-10T04:42:55.718028Z",
-    "tweet_id": "2086674918775898583",
-    "resolved": true,
-    "resolved_at": "2026-08-10T04:42:55.718028Z"
-  },
   "11.7808,-0.7339": {
     "country": "Burkina Faso",
     "name": "Béguédo",
@@ -34621,7 +34609,7 @@
     "rain_mm": 45.94,
     "soil_moisture": 0.743,
     "raw_dynamic_score": 7.718,
-    "last_updated": "2026-08-11T04:35:07.027570Z",
+    "last_updated": "2026-08-11T07:14:27.298654Z",
     "last_tweeted_at": "2026-08-03T17:17:17.638701Z",
     "tweet_id": "2084327796252516732",
     "resolved": false
@@ -35026,7 +35014,7 @@
     "rain_mm": 56.69,
     "soil_moisture": 0.594,
     "raw_dynamic_score": 8.761,
-    "last_updated": "2026-08-11T04:35:07.027570Z",
+    "last_updated": "2026-08-11T07:14:27.298654Z",
     "last_tweeted_at": "2026-08-04T11:28:54.933487Z",
     "tweet_id": "2084602505581711827",
     "resolved": false
@@ -35371,7 +35359,7 @@
     "rain_mm": 59.44,
     "soil_moisture": 0.586,
     "raw_dynamic_score": 9.144,
-    "last_updated": "2026-08-11T04:35:07.027570Z",
+    "last_updated": "2026-08-11T07:14:27.298654Z",
     "last_tweeted_at": "2026-08-05T17:03:04.231854Z",
     "tweet_id": "2085050759893454892",
     "resolved": false
@@ -36319,7 +36307,7 @@
     "rain_mm": 35.5,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 6.789,
-    "last_updated": "2026-08-09T01:19:11.864568Z",
+    "last_updated": "2026-08-11T07:14:27.298654Z",
     "last_tweeted_at": "2026-08-08T21:37:30.816500Z",
     "tweet_id": "2086205724317667385",
     "resolved": false
@@ -36428,22 +36416,6 @@
     "last_tweeted_at": "2026-08-09T04:27:39.614942Z",
     "tweet_id": "2086308428004077571",
     "resolved": false
-  },
-  "4.8029,8.2534": {
-    "country": "Nigeria",
-    "name": "Esuk Oron",
-    "risk_level": "Low",
-    "tweeted_level": "Low",
-    "latitude": 4.80293,
-    "longitude": 8.25341,
-    "rain_mm": 6.81,
-    "soil_moisture": 0.551,
-    "raw_dynamic_score": 1.027,
-    "last_updated": "2026-08-10T04:42:55.718028Z",
-    "last_tweeted_at": "2026-08-10T04:42:55.718028Z",
-    "tweet_id": "2086674918775898583",
-    "resolved": true,
-    "resolved_at": "2026-08-10T04:42:55.718028Z"
   },
   "16.0833,120.1000": {
     "country": "Philippines",
@@ -37432,7 +37404,7 @@
     "rain_mm": 84.19,
     "soil_moisture": 0.75,
     "raw_dynamic_score": 14.202,
-    "last_updated": "2026-08-11T01:26:41.152686Z",
+    "last_updated": "2026-08-11T07:14:27.298654Z",
     "last_tweeted_at": "2026-08-11T01:26:41.152686Z",
     "tweet_id": "2086987933450371447",
     "resolved": false
@@ -37477,7 +37449,7 @@
     "rain_mm": 52.69,
     "soil_moisture": 0.704,
     "raw_dynamic_score": 8.67,
-    "last_updated": "2026-08-11T01:26:41.152686Z",
+    "last_updated": "2026-08-11T07:14:27.298654Z",
     "last_tweeted_at": "2026-08-11T01:26:41.152686Z",
     "tweet_id": "2086987933450371447",
     "resolved": false
@@ -37522,7 +37494,7 @@
     "rain_mm": 62.75,
     "soil_moisture": 0.701,
     "raw_dynamic_score": 10.306,
-    "last_updated": "2026-08-11T04:35:07.027570Z",
+    "last_updated": "2026-08-11T07:14:27.298654Z",
     "last_tweeted_at": "2026-08-11T04:35:07.027570Z",
     "tweet_id": "2087035592647331983",
     "resolved": false
@@ -37552,10 +37524,18 @@
     "rain_mm": 77.94,
     "soil_moisture": 0.644,
     "raw_dynamic_score": 12.397,
-    "last_updated": "2026-08-11T04:35:07.027570Z",
+    "last_updated": "2026-08-11T07:14:27.298654Z",
     "last_tweeted_at": "2026-08-11T04:35:07.027570Z",
     "tweet_id": "2087036098656485813",
-    "resolved": false
+    "resolved": false,
+    "pending_downgrade": true,
+    "pending_target_level": "Low",
+    "pending_set_at": "2026-08-11T07:14:27.298654Z",
+    "pending_is_region": false,
+    "pending_observed_level": "Low",
+    "pending_observed_rain_mm": 2.06,
+    "pending_observed_soil_moisture": 0.571,
+    "pending_observed_raw_dynamic_score": 0.315
   },
   "14.4841,-16.1138": {
     "country": "Senegal",
@@ -37567,9 +37547,24 @@
     "rain_mm": 73.19,
     "soil_moisture": 0.511,
     "raw_dynamic_score": 10.762,
-    "last_updated": "2026-08-11T04:35:07.027570Z",
+    "last_updated": "2026-08-11T07:14:27.298654Z",
     "last_tweeted_at": "2026-08-11T04:35:07.027570Z",
     "tweet_id": "2087036351682060297",
+    "resolved": false
+  },
+  "-25.0269,33.0989": {
+    "country": "Mozambique",
+    "name": "Macia",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": -25.02694,
+    "longitude": 33.09889,
+    "rain_mm": 80.25,
+    "soil_moisture": 0.504,
+    "raw_dynamic_score": 11.752,
+    "last_updated": "2026-08-11T07:14:27.298654Z",
+    "last_tweeted_at": "2026-08-11T07:14:27.298654Z",
+    "tweet_id": "2087075441148596255",
     "resolved": false
   }
 }
