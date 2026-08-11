@@ -26855,5 +26855,14 @@
             "longitude": -117.4,
             "confidence": 0.9
         }
+    },
+    {
+        "link": null,
+        "date": "2026-08-11",
+        "status": "posted",
+        "tweet": "2050 coastal flood exposure (millions, 1m SLR + surge):\n1. \ud83c\udde8\ud83c\uddf3 Guangzhou: 12.5\n2. \ud83c\uddfa\ud83c\uddf8 Miami: 4.8\n3. \ud83c\udde8\ud83c\uddf3 Shanghai: 4.2\n4. \ud83c\uddee\ud83c\uddf3 Kolkata: 3.9\n5. \ud83c\uddf9\ud83c\udded Bangkok: 3.5",
+        "type": "statistical",
+        "category": "coastal cities at risk from sea-level rise and storm surge",
+        "tweet_id": "2087126137059082323"
     }
 ]
