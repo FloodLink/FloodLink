@@ -27113,5 +27113,406 @@
             "longitude": -91.0368,
             "confidence": 0.75
         }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4zSno5N3puNS00cGdfYkdGUmZ6cUJVdDBTbjJBaHp1aE8xRENaU1VBTFhuZVJES25fVEoxR3h5d3RMU01fYjdSSnFlemFnc1ZTb0kxRnpic09Ea0VNaEdXWVBpRkQ3bTBkdU9zZGI4Qi1Rc2s?oc=5",
+        "date": "2026-08-12",
+        "title": "UPDATE: Flash flood warning for Inyo County forecast to expire at 7:30 p.m. - Fresno Bee",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE4zSno5N3puNS00cGdfYkdGUmZ6cUJVdDBTbjJBaHp1aE8xRENaU1VBTFhuZVJES25fVEoxR3h5d3RMU01fYjdSSnFlemFnc1ZTb0kxRnpic09Ea0VNaEdXWVBpRkQ3bTBkdU9zZGI4Qi1Rc2s?oc=5\" target=\"_blank\">UPDATE: Flash flood warning for Inyo County forecast to expire at 7:30 p.m.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fresno Bee</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTG0xT21sUHZVYWwyT0JKYVlhakJYZktPeGgyS2xXZGFBbXBPa0FiZmpCeGVPaDFjT0laakg3VnNkUFNCTTJ5dEdMQThkUzRGV2xwd1l1dGZMdTBhRDVzakZYb0dndU1abkplYUN6aTgzNzZ2OEJobFNfMHdFRzY3LVc5NFpCd1dhMjlLT0RMbWlLOERM?oc=5",
+        "date": "2026-08-12",
+        "title": "Suicide Basin Outburst Underway \u2013 Evacuate Advised Tomorrow - City and Borough of Juneau",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxPTG0xT21sUHZVYWwyT0JKYVlhakJYZktPeGgyS2xXZGFBbXBPa0FiZmpCeGVPaDFjT0laakg3VnNkUFNCTTJ5dEdMQThkUzRGV2xwd1l1dGZMdTBhRDVzakZYb0dndU1abkplYUN6aTgzNzZ2OEJobFNfMHdFRzY3LVc5NFpCd1dhMjlLT0RMbWlLOERM?oc=5\" target=\"_blank\">Suicide Basin Outburst Underway \u2013 Evacuate Advised Tomorrow</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">City and Borough of Juneau</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": null,
+        "tweet_id": "2087408915600248868",
+        "geo": {
+            "country": "United States",
+            "name": "Juneau, Alaska",
+            "latitude": 58.3019,
+            "longitude": -134.4197,
+            "confidence": 0.9
+        }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE05TFBiR1loVng2cndQN3N4R3dFMG1UbUdzcmlqTTVXbkVxSG1fZmllUXoydXRTekMwcHlUU3hGdTJuY3dianhmM2kwdDBady03dl9xWlBGZnRSb1dJbFJyMmd6enB3X1VCUkFkWGgzcV9JeGc?oc=5",
+        "date": "2026-08-12",
+        "title": "UPDATE: Flash flood warning in place for Cabarrus County Tuesday night, says the NWS - Durham Herald Sun",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE05TFBiR1loVng2cndQN3N4R3dFMG1UbUdzcmlqTTVXbkVxSG1fZmllUXoydXRTekMwcHlUU3hGdTJuY3dianhmM2kwdDBady03dl9xWlBGZnRSb1dJbFJyMmd6enB3X1VCUkFkWGgzcV9JeGc?oc=5\" target=\"_blank\">UPDATE: Flash flood warning in place for Cabarrus County Tuesday night, says the NWS</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Durham Herald Sun</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQeG9oZTQ0azd5VzczVDFuMHR2LWtTRFZRb2ZrWEhVbWpxbVZhRlNwYlFRQ1ZQTWNybXFwdkE5czdWOHNRVnlrdmp6MGJrZFdONkdGX0JJUlAzYVhRZEU2ZU13SlY1a19hM1lBM1UxVXBpZklhbDhzUjBpNU1mOHEzU0RTS01WdHc?oc=5",
+        "date": "2026-08-12",
+        "title": "LIVE UPDATES: Juneau\u2019s 2026 glacial outburst flood - KTOO",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxQeG9oZTQ0azd5VzczVDFuMHR2LWtTRFZRb2ZrWEhVbWpxbVZhRlNwYlFRQ1ZQTWNybXFwdkE5czdWOHNRVnlrdmp6MGJrZFdONkdGX0JJUlAzYVhRZEU2ZU13SlY1a19hM1lBM1UxVXBpZklhbDhzUjBpNU1mOHEzU0RTS01WdHc?oc=5\" target=\"_blank\">LIVE UPDATES: Juneau\u2019s 2026 glacial outburst flood</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KTOO</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": null,
+        "tweet_id": "2087409466513719681",
+        "geo": {
+            "country": "United States",
+            "name": "Juneau, Alaska",
+            "latitude": 58.3019,
+            "longitude": -134.4197,
+            "confidence": 0.95
+        }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5vYjFBeEdkN1Zsb3NFWm11dDFJanpuYWUzNXZoR1d2Ul9IMXJKT05nSlBLWjhHSTZGVVVLOG5iWW1TaUwyRmttS3N1aDBuVEpBS2JLamJBd1NlMTA5ZXVKRUp2UWVMZE9jUENPYWpjQ1Z3ZTJrOFZkYQ?oc=5",
+        "date": "2026-08-12",
+        "title": "UPDATE: Flash flood warning for Inyo County Tuesday evening, says the NWS - Merced Sun-Star",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE5vYjFBeEdkN1Zsb3NFWm11dDFJanpuYWUzNXZoR1d2Ul9IMXJKT05nSlBLWjhHSTZGVVVLOG5iWW1TaUwyRmttS3N1aDBuVEpBS2JLamJBd1NlMTA5ZXVKRUp2UWVMZE9jUENPYWpjQ1Z3ZTJrOFZkYQ?oc=5\" target=\"_blank\">UPDATE: Flash flood warning for Inyo County Tuesday evening, says the NWS</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Merced Sun-Star</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBCMzFLWEdKZklXRmJnRy1ZaWZfVklpblRxQkdzd1F3MkpEMHdRTU16TFFPLTJqaU9oU1o0NEd1REVDVUNVcHNqYTNLZmhKc3lQSzN1NURrbzFoZVRiaVJSWXVweVc3S2kwUmhZc3NIaThTR0VFMTlJ?oc=5",
+        "date": "2026-08-12",
+        "title": "Flash flood warning in place for Hoke and Moore counties Tuesday night - Raleigh News & Observer",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTFBCMzFLWEdKZklXRmJnRy1ZaWZfVklpblRxQkdzd1F3MkpEMHdRTU16TFFPLTJqaU9oU1o0NEd1REVDVUNVcHNqYTNLZmhKc3lQSzN1NURrbzFoZVRiaVJSWXVweVc3S2kwUmhZc3NIaThTR0VFMTlJ?oc=5\" target=\"_blank\">Flash flood warning in place for Hoke and Moore counties Tuesday night</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Raleigh News & Observer</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQOW5aM3hsQzg0MVkwUV9kVnU0SXhON1BVX0hud214cDBfLTROZDNQYndpdll3RTRIVDlIclhIZnhnb2gwYzhtWm1IZ2VjNFJkcXV2SGx0WDBPZ1ZsY2dTUW9TS25XMmFlSG1IYmkxS0ctSzRUVHMtWDNJa0NDUkVlQ0IwY3dEQ3lvUXRjRC13b1BBVTJkVENFMTFGWXRKZXdxZnZJQ3RlU2JVNUx6X1h0ajltOW53ckNxTjk0Z0NheHV5RzZaa2hkMXFNcmZiWFA5Y0RwUzlkLURBX0xQUzFLNQ?oc=5",
+        "date": "2026-08-12",
+        "title": "Flash flood warning affecting Riverside and San Diego counties early Tuesday evening \u2013 take precautions now - Daily Bulletin",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxQOW5aM3hsQzg0MVkwUV9kVnU0SXhON1BVX0hud214cDBfLTROZDNQYndpdll3RTRIVDlIclhIZnhnb2gwYzhtWm1IZ2VjNFJkcXV2SGx0WDBPZ1ZsY2dTUW9TS25XMmFlSG1IYmkxS0ctSzRUVHMtWDNJa0NDUkVlQ0IwY3dEQ3lvUXRjRC13b1BBVTJkVENFMTFGWXRKZXdxZnZJQ3RlU2JVNUx6X1h0ajltOW53ckNxTjk0Z0NheHV5RzZaa2hkMXFNcmZiWFA5Y0RwUzlkLURBX0xQUzFLNQ?oc=5\" target=\"_blank\">Flash flood warning affecting Riverside and San Diego counties early Tuesday evening \u2013 take precautions now</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Daily Bulletin</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBkN1N5Tlp3Nm1VU3RoajRvcFhvTFNieVdtOWkyeERqOTg3RkpkQ1J1dC1PNlRkVFk1VzkybDZkZHpLbnZJM0VIR25CSGZFMHdLbVlCeHBvUWcyWG1Wa1BvMTJ1THJUS0VZNV90bUluRQ?oc=5",
+        "date": "2026-08-12",
+        "title": "UPDATE: Flood warning in place for San Bernardino County Tuesday night - Modesto Bee",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTFBkN1N5Tlp3Nm1VU3RoajRvcFhvTFNieVdtOWkyeERqOTg3RkpkQ1J1dC1PNlRkVFk1VzkybDZkZHpLbnZJM0VIR25CSGZFMHdLbVlCeHBvUWcyWG1Wa1BvMTJ1THJUS0VZNV90bUluRQ?oc=5\" target=\"_blank\">UPDATE: Flood warning in place for San Bernardino County Tuesday night</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Modesto Bee</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPVlVBcUM4b0d3bk1mNWFUS1Buc2t2RUl4c3ZHX3FZaFZFZUxoVndkbV9QbUROV1hFT3k1TUhMVVpHLTFyRlJaa005WHNIaTlPNENnbjJRSlk3NHVTdzJ3NXVyMHhkak5sVG9lY3NseFRnbTViRFBoTEFTN0ZrU29aTXBjUWJ6N1dzdElIMUtvdVExOVRpaW1MZGZrdFZ4QzdDWjMxOFpmYzM4X2tIRHkzUm5zYVFKdzVaUkh3ZEdqZUttYkxTTF9yTXNpekloZkVYNU55WTdNRQ?oc=5",
+        "date": "2026-08-12",
+        "title": "Thunderstorm brings heavy rain, strong winds, flooding to Barstow - Victorville Daily Press",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxPVlVBcUM4b0d3bk1mNWFUS1Buc2t2RUl4c3ZHX3FZaFZFZUxoVndkbV9QbUROV1hFT3k1TUhMVVpHLTFyRlJaa005WHNIaTlPNENnbjJRSlk3NHVTdzJ3NXVyMHhkak5sVG9lY3NseFRnbTViRFBoTEFTN0ZrU29aTXBjUWJ6N1dzdElIMUtvdVExOVRpaW1MZGZrdFZ4QzdDWjMxOFpmYzM4X2tIRHkzUm5zYVFKdzVaUkh3ZEdqZUttYkxTTF9yTXNpekloZkVYNU55WTdNRQ?oc=5\" target=\"_blank\">Thunderstorm brings heavy rain, strong winds, flooding to Barstow</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Victorville Daily Press</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZzFqQ1YzV0ZfTk96SXVaYTN1Um5hX00tU3ZYWTN1cUduQ1E1cG9Qdmg3SVNVMmp1a0NHeFhmQkVsN2ZVNExIQmZ2TmF4dUFLR0VwZjZfejFfRjZhcVY1RXhac2x0TFBLZEo1X1ZLZl9NTnlaeDlOQ1FwbEhYbXVkaUJrNTU5UjhyR2Q0U2pLa3dEbzJOM0hidDVrVEVqa01hYUJJTlp0QTExRWlXWlFMbk9B?oc=5",
+        "date": "2026-08-12",
+        "title": "Flash Flood Watch has been expanded to include all of southeast Arizona Tuesday - KOLD",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOZzFqQ1YzV0ZfTk96SXVaYTN1Um5hX00tU3ZYWTN1cUduQ1E1cG9Qdmg3SVNVMmp1a0NHeFhmQkVsN2ZVNExIQmZ2TmF4dUFLR0VwZjZfejFfRjZhcVY1RXhac2x0TFBLZEo1X1ZLZl9NTnlaeDlOQ1FwbEhYbXVkaUJrNTU5UjhyR2Q0U2pLa3dEbzJOM0hidDVrVEVqa01hYUJJTlp0QTExRWlXWlFMbk9B?oc=5\" target=\"_blank\">Flash Flood Watch has been expanded to include all of southeast Arizona Tuesday</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KOLD</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9aVXQ4YUNwYXFqcVFDUWFIOTVUbV9NZGJlSURUT0R1VC0zT2VLaG0teDduNXFBSlhiZGszWHl1cG5DUkMxWldUNTFJZUlnQVlDdVBPR1NlWGhMMHJHb3NLMUVndF9jZk1NUGhr0gF_QVVfeXFMUEZXanIySGRaZ2JyM000NkdsUHFwaFllYWgycWl5bE5CZjVlaG1ybTNlWTlqdVM5cjgyRzB1eUdXYzBPWHNTdmNENE92UjduaW9odWRabWZkWFpNVWVlZlNVT3BNNjJabTJJdEtVbWNZUUd5MGdVemZmN1J2d0xScw?oc=5",
+        "date": "2026-08-12",
+        "title": "Tornado warns and Flash Floods - WSAZ",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE9aVXQ4YUNwYXFqcVFDUWFIOTVUbV9NZGJlSURUT0R1VC0zT2VLaG0teDduNXFBSlhiZGszWHl1cG5DUkMxWldUNTFJZUlnQVlDdVBPR1NlWGhMMHJHb3NLMUVndF9jZk1NUGhr0gF_QVVfeXFMUEZXanIySGRaZ2JyM000NkdsUHFwaFllYWgycWl5bE5CZjVlaG1ybTNlWTlqdVM5cjgyRzB1eUdXYzBPWHNTdmNENE92UjduaW9odWRabWZkWFpNVWVlZlNVT3BNNjJabTJJdEtVbWNZUUd5MGdVemZmN1J2d0xScw?oc=5\" target=\"_blank\">Tornado warns and Flash Floods</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSAZ</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPcEo2LVRPNlhEN01CNk4ydXRGY2UwRmJYZE05eTBySkNWMy0weHk1ZVVETk9OUFhGcDRjMWp5MWxVRExvTGwzT2N3UHBqalJ5NGJ6LW1mdTkxdmItODh4MDJ3UENDTzRBZndtTkp6NkgwNlV2R2NFWDV5RVNKZVluc2YwWjJrRnFqVUtkSE40dHE1ZFBObVZlMmZRZkpZN0JkSWxfdmFhUzFwWHc5Rmt6RmNma24wdFFMSjdYeG5fVQ?oc=5",
+        "date": "2026-08-12",
+        "title": "8/11/26: Severe Flash Flood Warning \u2013 Clear Conditions Tonight with Low of 80.8 and Winds Light - Williamson Source",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxPcEo2LVRPNlhEN01CNk4ydXRGY2UwRmJYZE05eTBySkNWMy0weHk1ZVVETk9OUFhGcDRjMWp5MWxVRExvTGwzT2N3UHBqalJ5NGJ6LW1mdTkxdmItODh4MDJ3UENDTzRBZndtTkp6NkgwNlV2R2NFWDV5RVNKZVluc2YwWjJrRnFqVUtkSE40dHE1ZFBObVZlMmZRZkpZN0JkSWxfdmFhUzFwWHc5Rmt6RmNma24wdFFMSjdYeG5fVQ?oc=5\" target=\"_blank\">8/11/26: Severe Flash Flood Warning \u2013 Clear Conditions Tonight with Low of 80.8 and Winds Light</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Williamson Source</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOOXkwODRTWWdheVh1Y0hVanBnRjcwdkt6RTg2Q3hjai1BTVdJWjVXeE5YblBPOVQ1N1kwZFBmUlhSY0VOY3VLQTR2blpBRjhRMUdCWGhXQ1pWeUpWN0d1U0YtcVo3S0dhN2J3MWFGNXMxUnJKSjZQUDBBdThyTUJ1UHdRSUNrQmZtUE9jaEZJUQ?oc=5",
+        "date": "2026-08-12",
+        "title": "Beaver and other fire areas continue to face flooding risk due to burn scars - ABC4 Utah",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxOOXkwODRTWWdheVh1Y0hVanBnRjcwdkt6RTg2Q3hjai1BTVdJWjVXeE5YblBPOVQ1N1kwZFBmUlhSY0VOY3VLQTR2blpBRjhRMUdCWGhXQ1pWeUpWN0d1U0YtcVo3S0dhN2J3MWFGNXMxUnJKSjZQUDBBdThyTUJ1UHdRSUNrQmZtUE9jaEZJUQ?oc=5\" target=\"_blank\">Beaver and other fire areas continue to face flooding risk due to burn scars</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ABC4 Utah</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOMnlPbmZ1S3ZWbDNkWi13V01DVndqbUF6RUdzckwzS1VTXzlJYk56UXhFWWNnUzNPdFktNzZqeXBWMzI4VEx3ekh6OEIyZ0hnVWo1QldlLTk4YWZUOVY2bHc3RjVtQi1XV0lYdHFzQlVyOHg2M1NKVlQ2Ymh1TnU5enotUS1EN19OaVNydGZxMV9xd3dtUUZsTFVDdEcyMjhkZGlkLUhQNEhScUZtYUJJOTJGRlkzcUVDRGpIbUNrLThkZGg4RXBVZDdlcXNzWEE?oc=5",
+        "date": "2026-08-12",
+        "title": "Family home survives wildfire \u2013\u2013 and then came the flash flood - 9News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxOMnlPbmZ1S3ZWbDNkWi13V01DVndqbUF6RUdzckwzS1VTXzlJYk56UXhFWWNnUzNPdFktNzZqeXBWMzI4VEx3ekh6OEIyZ0hnVWo1QldlLTk4YWZUOVY2bHc3RjVtQi1XV0lYdHFzQlVyOHg2M1NKVlQ2Ymh1TnU5enotUS1EN19OaVNydGZxMV9xd3dtUUZsTFVDdEcyMjhkZGlkLUhQNEhScUZtYUJJOTJGRlkzcUVDRGpIbUNrLThkZGg4RXBVZDdlcXNzWEE?oc=5\" target=\"_blank\">Family home survives wildfire \u2013\u2013 and then came the flash flood</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">9News</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5zVjR0dkRIUGg4bUI1Rlp5Y0VSYmpSWHA3LU9lOVRDTTZTTXVsZDJoVzZlSm1RUEpZYVVEQVMyWjFlNUpjX1hCaHQ4VzdDTXpQU011aENTWFJQR1BNRFU3YTcxcw?oc=5",
+        "date": "2026-08-12",
+        "title": "Rounds of severe storms and flash flooding have returned to Ohio - FOX Weather",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE5zVjR0dkRIUGg4bUI1Rlp5Y0VSYmpSWHA3LU9lOVRDTTZTTXVsZDJoVzZlSm1RUEpZYVVEQVMyWjFlNUpjX1hCaHQ4VzdDTXpQU011aENTWFJQR1BNRFU3YTcxcw?oc=5\" target=\"_blank\">Rounds of severe storms and flash flooding have returned to Ohio</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FOX Weather</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPUm4zSXFvNlNzajNVa04xLS1DU3dxLS1aaXM5YTlXOFhSUlpPazltWERyX0N4RWtvLXBmVFQzUVRMSXpZbUZoVEdyOXJZWjhYTnZJWGhzRkkyOEV2eUFOTU9vM0ZmLWNRbmJGYXJtVUV6WTlybTJndFJXY3MzQm5obGtETVpsbm5Zc0xodmc5SHBKdw?oc=5",
+        "date": "2026-08-12",
+        "title": "Old stormwater system to blame for flash flooding near Old City - WVLT",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPUm4zSXFvNlNzajNVa04xLS1DU3dxLS1aaXM5YTlXOFhSUlpPazltWERyX0N4RWtvLXBmVFQzUVRMSXpZbUZoVEdyOXJZWjhYTnZJWGhzRkkyOEV2eUFOTU9vM0ZmLWNRbmJGYXJtVUV6WTlybTJndFJXY3MzQm5obGtETVpsbm5Zc0xodmc5SHBKdw?oc=5\" target=\"_blank\">Old stormwater system to blame for flash flooding near Old City</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WVLT</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPOEEyel9NcmVEWmI2c1dwcmlmUnZsT1FtaGR3WC1CUklaalQzQ0RLZl9odERlNkkwd1IyMktyQjZWWGx2RXVZbWdFcGRhVmd3QTJDbjJZa3ZPR1VwQkhybHBHZXdIZENwQ3pkVHdMcTdDUWhIYjhuTmNRbVRvUUJuUTZHNGJFUFlTSlVFWE1SaXBkcTNOTklNdldkYkxxSUZFekJMdXhiYllPdFBrd2ZtQnY1X2I3amEteUhSNU5SaUsyZVljNWpSeDV2VTVsLW90WnZ5R29uMjJQRW00X21STA?oc=5",
+        "date": "2026-08-12",
+        "title": "Family home survives wildfire \u2013\u2013 and then came the flash flood - 9News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxPOEEyel9NcmVEWmI2c1dwcmlmUnZsT1FtaGR3WC1CUklaalQzQ0RLZl9odERlNkkwd1IyMktyQjZWWGx2RXVZbWdFcGRhVmd3QTJDbjJZa3ZPR1VwQkhybHBHZXdIZENwQ3pkVHdMcTdDUWhIYjhuTmNRbVRvUUJuUTZHNGJFUFlTSlVFWE1SaXBkcTNOTklNdldkYkxxSUZFekJMdXhiYllPdFBrd2ZtQnY1X2I3amEteUhSNU5SaUsyZVljNWpSeDV2VTVsLW90WnZ5R29uMjJQRW00X21STA?oc=5\" target=\"_blank\">Family home survives wildfire \u2013\u2013 and then came the flash flood</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">9News</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNX216MGRhTlhTZDYtbnRZcUNNMGFnWFdRUE1IOE1MVWMza01PNzhMRE56Z1ZHWm9RcmNlYk9SRHM5S29jcTBUbDIwdGE2b2oycUFYYVg3cUk2OUZKb09tTDVuSW53ck1Eb21sRE1VVGVKdlVhSnhlb3hwZ1NTeEI2Slh5NDZhOUF6LW9jUzVQdXR4MGY1bWhtcHd3MlBlOTM0UXZuTHNfMUNHSlkyOGJyQmViRVhqUENBM3NoWVRRQXVwZ25sdWlJMFphdUM0RzdaUGJNLTVBTkw?oc=5",
+        "date": "2026-08-12",
+        "title": "8/11/26: Severe Flash Flood Warning - Violent Rain Showers Today with High of 95, Currently 79, Mainly Clear Tonight - Rutherford Source",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxNX216MGRhTlhTZDYtbnRZcUNNMGFnWFdRUE1IOE1MVWMza01PNzhMRE56Z1ZHWm9RcmNlYk9SRHM5S29jcTBUbDIwdGE2b2oycUFYYVg3cUk2OUZKb09tTDVuSW53ck1Eb21sRE1VVGVKdlVhSnhlb3hwZ1NTeEI2Slh5NDZhOUF6LW9jUzVQdXR4MGY1bWhtcHd3MlBlOTM0UXZuTHNfMUNHSlkyOGJyQmViRVhqUENBM3NoWVRRQXVwZ25sdWlJMFphdUM0RzdaUGJNLTVBTkw?oc=5\" target=\"_blank\">8/11/26: Severe Flash Flood Warning - Violent Rain Showers Today with High of 95, Currently 79, Mainly Clear Tonight</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Rutherford Source</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": null,
+        "tweet_id": "2087410019113320548",
+        "geo": {
+            "country": "United States",
+            "name": "Rutherford, NJ",
+            "latitude": 40.8284,
+            "longitude": -74.1068,
+            "confidence": 0.65
+        }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPS0hQa2NCblRLNVlGeHhZR0NZUUZIYjd2RVZ6VGY0ZGY0MGw1aUZHV1FQeXFfTXJLQ0ppNFU0Q21QZ0ktazNxYk9mdndDYkU4YVVMWFd2QmxkMEUzNjJoRzR1ZW1iSjllRlhLWUdSMnBqNTBiZmpWTFJscm1qWFk0YVl1V2JtMUdFU1l3Wk0yYmkzUnRJT2c2SWlLSEw4NTRUTFBETWpLN3VvTGRsYnZKd3dreVlVLTU3QnRZajhoN0Z5R3JNYkM5ZlRKaEhENGYyZWNpOWNILUdjN2s?oc=5",
+        "date": "2026-08-12",
+        "title": "8/11/26: Severe Flash Flood Warning - Overcast with high of 95, low of 74, currently 79; mainly clear tonight with ligh\u2026 - Rutherford Source",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxPS0hQa2NCblRLNVlGeHhZR0NZUUZIYjd2RVZ6VGY0ZGY0MGw1aUZHV1FQeXFfTXJLQ0ppNFU0Q21QZ0ktazNxYk9mdndDYkU4YVVMWFd2QmxkMEUzNjJoRzR1ZW1iSjllRlhLWUdSMnBqNTBiZmpWTFJscm1qWFk0YVl1V2JtMUdFU1l3Wk0yYmkzUnRJT2c2SWlLSEw4NTRUTFBETWpLN3VvTGRsYnZKd3dreVlVLTU3QnRZajhoN0Z5R3JNYkM5ZlRKaEhENGYyZWNpOWNILUdjN2s?oc=5\" target=\"_blank\">8/11/26: Severe Flash Flood Warning - Overcast with high of 95, low of 74, currently 79; mainly clear tonight with ligh\u2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Rutherford Source</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9IRUkyYzFOdUUxQVRfZC1sZHBmeEp3MEg1UTRyaklCWDM5ZFZERjNYeF9WWHFUM0p3Yzl2ZkVrODVYUGZfdWFRVzBXazV5R1VKeXZINElhYW9wT2p6dWFBRXl5bGc?oc=5",
+        "date": "2026-08-12",
+        "title": "All-out relief efforts underway as Typhoon Dolphin sweeps vast regions in eastern, central China - People's Daily Online",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE9IRUkyYzFOdUUxQVRfZC1sZHBmeEp3MEg1UTRyaklCWDM5ZFZERjNYeF9WWHFUM0p3Yzl2ZkVrODVYUGZfdWFRVzBXazV5R1VKeXZINElhYW9wT2p6dWFBRXl5bGc?oc=5\" target=\"_blank\">All-out relief efforts underway as Typhoon Dolphin sweeps vast regions in eastern, central China</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">People's Daily Online</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5jdUpfSG1yS0V3dVcxbXBMMXZYYWowcDlvQk5EU2p1cnpOM1hUcnVYUXhJXzg5LUdzOHRkM3FVVnhkY1ZBVUJELVk4amw3UWtjQlhGTFMzdXE2WDJ2d3pTVk9R?oc=5",
+        "date": "2026-08-12",
+        "title": "All-out relief efforts underway as Typhoon Dolphin sweeps vast regions in eastern, central China - Global Times",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE5jdUpfSG1yS0V3dVcxbXBMMXZYYWowcDlvQk5EU2p1cnpOM1hUcnVYUXhJXzg5LUdzOHRkM3FVVnhkY1ZBVUJELVk4amw3UWtjQlhGTFMzdXE2WDJ2d3pTVk9R?oc=5\" target=\"_blank\">All-out relief efforts underway as Typhoon Dolphin sweeps vast regions in eastern, central China</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Global Times</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMirAJBVV95cUxQbVVXWkdDSUE3QmhSSXdRSlBGNGhmUTVwQXBjNEI4X2RKSk9tN3hTSWJvZTNkUlQ1X3ZEQnF0cVZjOFlMMGhpNVZVZi1BVFRLU19JaWo5dVFGa3FqN3htb3p4U2pJQmlBNVhDSnpiR2pBUERzdXptaEd2b1JBT09paV9icXNsQkwxZHhVT0oxUFdyYUpHd0EzZUZaMU1pOEFrOXR4RHZFQlE1ZHp4LXA5M3NRX1ZiY19ENGZSOWQ4WGxETEN6WFNOcTI5YV8zcjBCNGpsSkszakV0NjNzSzhjMlJfN3ZVYUQ3WnRmVGxLakdBcVBhUmxOc0djdHBMRnFBMU1kcmFRMFlwajM0VllnRXhYZS1SM0h0M1VIUUwyR1E5RTZ1Q2NPdGExUkTSAbICQVVfeXFMUGUxNVVpNlk4V2hpUnV5ZkRWa0xIa3JMT2pkZGVKTmxhSWpzS3RITFpITjVDcHR3b3VBZkVpVld0T2w1VVR0cGw5NU1RRWt3YTdBUnVxeXhLcFlqTm9OMHcyTUgxRldZMDUzajVsQTk4aXZkTmZYMXBXN01sRElzb05naktmdm1nRUF3Q21pMENCZThuSTY5dVVYMldmdzV5WTFZX05Tbmp1MTlDR1R5eWh6MWVqdXJyTGxqbXVXVTJnaE9ScnBUZ1VaZmxMemluNUtjQ1c1cm80czBkS1FmQWdkb1JjdS14ek9rd1VCaEZUSWFRYlNHaXdiM3BuUHhUbVhjS0RyZkxfR0E2M1c2VmFBaHZQeUdiM0FFR3RKOWhJSFdiM1RKOF9vOERxUXRweFlR?oc=5",
+        "date": "2026-08-12",
+        "title": "Monsoon intensifies: IMD warns of heavy rain, flooding and storms across these Indian states; what travel - The Times of India",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAJBVV95cUxQbVVXWkdDSUE3QmhSSXdRSlBGNGhmUTVwQXBjNEI4X2RKSk9tN3hTSWJvZTNkUlQ1X3ZEQnF0cVZjOFlMMGhpNVZVZi1BVFRLU19JaWo5dVFGa3FqN3htb3p4U2pJQmlBNVhDSnpiR2pBUERzdXptaEd2b1JBT09paV9icXNsQkwxZHhVT0oxUFdyYUpHd0EzZUZaMU1pOEFrOXR4RHZFQlE1ZHp4LXA5M3NRX1ZiY19ENGZSOWQ4WGxETEN6WFNOcTI5YV8zcjBCNGpsSkszakV0NjNzSzhjMlJfN3ZVYUQ3WnRmVGxLakdBcVBhUmxOc0djdHBMRnFBMU1kcmFRMFlwajM0VllnRXhYZS1SM0h0M1VIUUwyR1E5RTZ1Q2NPdGExUkTSAbICQVVfeXFMUGUxNVVpNlk4V2hpUnV5ZkRWa0xIa3JMT2pkZGVKTmxhSWpzS3RITFpITjVDcHR3b3VBZkVpVld0T2w1VVR0cGw5NU1RRWt3YTdBUnVxeXhLcFlqTm9OMHcyTUgxRldZMDUzajVsQTk4aXZkTmZYMXBXN01sRElzb05naktmdm1nRUF3Q21pMENCZThuSTY5dVVYMldmdzV5WTFZX05Tbmp1MTlDR1R5eWh6MWVqdXJyTGxqbXVXVTJnaE9ScnBUZ1VaZmxMemluNUtjQ1c1cm80czBkS1FmQWdkb1JjdS14ek9rd1VCaEZUSWFRYlNHaXdiM3BuUHhUbVhjS0RyZkxfR0E2M1c2VmFBaHZQeUdiM0FFR3RKOWhJSFdiM1RKOF9vOERxUXRweFlR?oc=5\" target=\"_blank\">Monsoon intensifies: IMD warns of heavy rain, flooding and storms across these Indian states; what travel</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of India</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBwcnFSa0I2MDBCTnZLRWJHd2ZXMzJwRWY2RTE4b2VKd3RNbGpTUXdpcWJiR0lvWWRWVEhlTHlMWG1lbU5Ba3BUek5oMFFOT3ZsR0NaQ1JiazA?oc=5",
+        "date": "2026-08-12",
+        "title": "Active monsoon raises flood, landslide and travel concerns - Khabarhub",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTFBwcnFSa0I2MDBCTnZLRWJHd2ZXMzJwRWY2RTE4b2VKd3RNbGpTUXdpcWJiR0lvWWRWVEhlTHlMWG1lbU5Ba3BUek5oMFFOT3ZsR0NaQ1JiazA?oc=5\" target=\"_blank\">Active monsoon raises flood, landslide and travel concerns</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Khabarhub</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQTzN4RHpaRjdLWkh5UmhQZGJJSDNTMU9fQjB1a3R6Sm4wLWpxdl8xS01WUGlhNnBiM3pWeUN0aGg5LWd3VlFvUFM2ZGxOUlBlZ3c0S0ExVGVMcV96N3EzY1JGVlNIb2k5aHdLeFdRbTRLUlpseXZCRHRERGV3NHBsUEFkRmxnRUJEZFlHejk0M2hwNVQ0VV94aWc1UzVoeTU5T2VyaERKdzAtTVNXTi1UMUxlTWI5SVR5UkJwR29lZFN1S1FiUDNWd25zM2taWGp5VWkyam5zV2VEclRG?oc=5",
+        "date": "2026-08-12",
+        "title": "72 TRUCKS OF GARBAGE COLLECTED As of 8 AM today, August 12, 2026, the government has collected 72 trucks of garbage from the sea of trash that appeared on Monday at the Redemptorist Water Channel in Para\u00f1aque. The trash appeared this week ju - facebook.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxQTzN4RHpaRjdLWkh5UmhQZGJJSDNTMU9fQjB1a3R6Sm4wLWpxdl8xS01WUGlhNnBiM3pWeUN0aGg5LWd3VlFvUFM2ZGxOUlBlZ3c0S0ExVGVMcV96N3EzY1JGVlNIb2k5aHdLeFdRbTRLUlpseXZCRHRERGV3NHBsUEFkRmxnRUJEZFlHejk0M2hwNVQ0VV94aWc1UzVoeTU5T2VyaERKdzAtTVNXTi1UMUxlTWI5SVR5UkJwR29lZFN1S1FiUDNWd25zM2taWGp5VWkyam5zV2VEclRG?oc=5\" target=\"_blank\">72 TRUCKS OF GARBAGE COLLECTED As of 8 AM today, August 12, 2026, the government has collected 72 trucks of garbage from the sea of trash that appeared on Monday at the Redemptorist Water Channel in Para\u00f1aque. The trash appeared this week ju</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">facebook.com</font>",
+        "similarity_excluded": "No",
+        "score": 1,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOc2tpRVhNa2R6bHVzd2s2Y3lncVJjczl6cmt0YzdUaTd3TVgzekQ2SVkxdDVxT3JlUnBZRWpvaUJGMEtUOUJ4WjhMZExiRmJkdGo4a1RyRVRiNVdFSFhESWpyb3NRbkhCQVh5UEdhb0MzLTBZczRDYk9LNFZqdnhkdkVnNEg4UlZDT2xERlNEWmtwUnQtbndjenRZdUh3eVUzYkFFRWZLYlJjWlhTWGfSAbABQVVfeXFMT01xNTNwcExSU0EzZDNiLTBBT1lnZ1JIV2M4Y182LUlxUnFxbVVLNUhxNUg1VmpoUktEM19tcmhtQUotLVlSR3NWZEFjeEdCdEJzQ2w3b3hmNnpJb3VMeHhIdVN1Y2F0Q2h2RmN6YVZvcTZNM1NmUUxFdmZTWnA2akVEd294aGY1aVpnT1NQUkJOVGoxNm5qR1FHWUlnRnU1eEVBMTBFVHdXVVJvYlFCRWY?oc=5",
+        "date": "2026-08-12",
+        "title": "2 dead, 6-8 feared trapped after landslide in Mumbai - Rediff",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxOc2tpRVhNa2R6bHVzd2s2Y3lncVJjczl6cmt0YzdUaTd3TVgzekQ2SVkxdDVxT3JlUnBZRWpvaUJGMEtUOUJ4WjhMZExiRmJkdGo4a1RyRVRiNVdFSFhESWpyb3NRbkhCQVh5UEdhb0MzLTBZczRDYk9LNFZqdnhkdkVnNEg4UlZDT2xERlNEWmtwUnQtbndjenRZdUh3eVUzYkFFRWZLYlJjWlhTWGfSAbABQVVfeXFMT01xNTNwcExSU0EzZDNiLTBBT1lnZ1JIV2M4Y182LUlxUnFxbVVLNUhxNUg1VmpoUktEM19tcmhtQUotLVlSR3NWZEFjeEdCdEJzQ2w3b3hmNnpJb3VMeHhIdVN1Y2F0Q2h2RmN6YVZvcTZNM1NmUUxFdmZTWnA2akVEd294aGY1aVpnT1NQUkJOVGoxNm5qR1FHWUlnRnU1eEVBMTBFVHdXVVJvYlFCRWY?oc=5\" target=\"_blank\">2 dead, 6-8 feared trapped after landslide in Mumbai</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Rediff</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQjNsNlZzbzVfbUhJdkUxVFVQX245QS1xUlRiOVlrS3VUMXEyTFNaWVVseGoycVRVQlRMZmdCaXpvdzhHQWw5bmgyVGZhN0Z4bTdycHpVX1B3LXY2R0Z6MS00RWJ4NWZSRXdJZ2V3VFVoNjlXOXlucHMwQXNsa0dCT1V5VmctQW1EdjdFLWZVSVVEaWdHTTJIQmNUWmstdTV5SXJ4VWQ1c9IBugFBVV95cUxNaFB5NGxRTnp2UHVlYUJQWlVlRHBLNGpsdXl3RDhQQWlwNDNlb3hTU05MNzZWVTA0SFFlQUFHLXptQnR3dGRnM3BGdHpYRkpEcWVsODBOell1ajZ1dkNHcTVmTXVUdlA5WFp5eVJCV3dyV1JfaHMwWVBQczA2V3gzZGVIZlNSRVY0TXBNOF9pQmktSk9CNjlaUzRRZFFDQnhfV2daOG5vYmxpSWdYRzZlMUM1Tm1PWFdCdWc?oc=5",
+        "date": "2026-08-12",
+        "title": "Manila cleans up trash-choked river after days of heavy rain - Gulf News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxOQjNsNlZzbzVfbUhJdkUxVFVQX245QS1xUlRiOVlrS3VUMXEyTFNaWVVseGoycVRVQlRMZmdCaXpvdzhHQWw5bmgyVGZhN0Z4bTdycHpVX1B3LXY2R0Z6MS00RWJ4NWZSRXdJZ2V3VFVoNjlXOXlucHMwQXNsa0dCT1V5VmctQW1EdjdFLWZVSVVEaWdHTTJIQmNUWmstdTV5SXJ4VWQ1c9IBugFBVV95cUxNaFB5NGxRTnp2UHVlYUJQWlVlRHBLNGpsdXl3RDhQQWlwNDNlb3hTU05MNzZWVTA0SFFlQUFHLXptQnR3dGRnM3BGdHpYRkpEcWVsODBOell1ajZ1dkNHcTVmTXVUdlA5WFp5eVJCV3dyV1JfaHMwWVBQczA2V3gzZGVIZlNSRVY0TXBNOF9pQmktSk9CNjlaUzRRZFFDQnhfV2daOG5vYmxpSWdYRzZlMUM1Tm1PWFdCdWc?oc=5\" target=\"_blank\">Manila cleans up trash-choked river after days of heavy rain</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Gulf News</font>",
+        "similarity_excluded": "No",
+        "score": 3,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNaUJfSWtPQkJpZXdSbHB3a3NrdXA4Tl9icG9pM0NJQl9QUEJ3NVlROXZxcVNzVWpDQjllMEZhSnM2b2pQd3FLYzFER3F4YUpHYlVSaWZBN0Y5Q0Vkc2lLM0FWU1ZMSUFDa2ZQMk0wVVVwQmRGMDZrSk52QXpvZFdVNzhnZW1uRTQyVldyeFA0UVEwSGhwVGUxVdIBngFBVV95cUxOOTg3ZXZiLVpDWFpjQWhFVVRidk9Wa2dBczJpcGZVS3hOd05za21zS1VTVFk1U1pwRXZKMENzelRsTkFzSDZLdGtZRFE0YjdjbWcyZ1d6QjU4VFlJRTItOHJCcDNSYXRMRWwtcTh2WmhQNXdtQmJidWpUNDk1Z3ZWTUE4OGY3S2FJNUNGRjN0RWxkdkxoQkFXR1Q2V0hWQQ?oc=5",
+        "date": "2026-08-12",
+        "title": "Mumbai landslide: 2 killed, several feared trapped after heavy rain in Kurla - theweek.in",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNaUJfSWtPQkJpZXdSbHB3a3NrdXA4Tl9icG9pM0NJQl9QUEJ3NVlROXZxcVNzVWpDQjllMEZhSnM2b2pQd3FLYzFER3F4YUpHYlVSaWZBN0Y5Q0Vkc2lLM0FWU1ZMSUFDa2ZQMk0wVVVwQmRGMDZrSk52QXpvZFdVNzhnZW1uRTQyVldyeFA0UVEwSGhwVGUxVdIBngFBVV95cUxOOTg3ZXZiLVpDWFpjQWhFVVRidk9Wa2dBczJpcGZVS3hOd05za21zS1VTVFk1U1pwRXZKMENzelRsTkFzSDZLdGtZRFE0YjdjbWcyZ1d6QjU4VFlJRTItOHJCcDNSYXRMRWwtcTh2WmhQNXdtQmJidWpUNDk1Z3ZWTUE4OGY3S2FJNUNGRjN0RWxkdkxoQkFXR1Q2V0hWQQ?oc=5\" target=\"_blank\">Mumbai landslide: 2 killed, several feared trapped after heavy rain in Kurla</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">theweek.in</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQUW5SX0pEc2o5ZXFVS1J1dWRoUEZ1bEd1dzNBdWo5WDh2cGlwZTdUaDNKMzhnSGpuZlpkcUd1NFNMLTNERmRWUnlQc1U4WFpQWlpNLTJ2WUtjQXQ2VTZtSU5reVZuUVdwNVJST3lUVDRDVHkxdUtBUXpxdjBPaEJzbG93ZTM1WmdvY3M2RTVYV2dscDBGYVIzNU1pY0FUYmN5QUlvQUExMnRVU3R5OFNSaFRlVkdVM3gzQXVEaWw1bmVRZ2Zub2fSAcwBQVVfeXFMTWRoUVRma01ua0M5MnNNZDZOM2tHZ0xqSlg5VnFsbTE0ODl0NWN4TE0xSnQzV1hxTWV5MUQydFJHTUg4Tms5dmVhYmtJdjVycHBKbVJwbkZ5SU9iTGFzT1U4dE1lYnVrWXV0YmtMNEozS0xFMU0yUExxLTFJOGpLS05KZmVkM0dQa1ZHcTNDOE81NkpsWDFtYW5zVlJGaGhvQkU0NHdPYzJNRlNidGwzMlZ2UzJ0TVExaHl4eDlicTI1ZGFLdUZXd3RldVQz?oc=5",
+        "date": "2026-08-12",
+        "title": "Mumbai rain triggers landslide in Kurla; 2 dead, several feared trapped under debris - The Indian Express",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxQUW5SX0pEc2o5ZXFVS1J1dWRoUEZ1bEd1dzNBdWo5WDh2cGlwZTdUaDNKMzhnSGpuZlpkcUd1NFNMLTNERmRWUnlQc1U4WFpQWlpNLTJ2WUtjQXQ2VTZtSU5reVZuUVdwNVJST3lUVDRDVHkxdUtBUXpxdjBPaEJzbG93ZTM1WmdvY3M2RTVYV2dscDBGYVIzNU1pY0FUYmN5QUlvQUExMnRVU3R5OFNSaFRlVkdVM3gzQXVEaWw1bmVRZ2Zub2fSAcwBQVVfeXFMTWRoUVRma01ua0M5MnNNZDZOM2tHZ0xqSlg5VnFsbTE0ODl0NWN4TE0xSnQzV1hxTWV5MUQydFJHTUg4Tms5dmVhYmtJdjVycHBKbVJwbkZ5SU9iTGFzT1U4dE1lYnVrWXV0YmtMNEozS0xFMU0yUExxLTFJOGpLS05KZmVkM0dQa1ZHcTNDOE81NkpsWDFtYW5zVlJGaGhvQkU0NHdPYzJNRlNidGwzMlZ2UzJ0TVExaHl4eDlicTI1ZGFLdUZXd3RldVQz?oc=5\" target=\"_blank\">Mumbai rain triggers landslide in Kurla; 2 dead, several feared trapped under debris</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Indian Express</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQQlZPYWVheXgwWm1CRTBJaE0yajNuS0xMUkkwYy1vYW12S0g4TjczRDlTTkJvRGo5ay1Wd21NU2wxTTdHR0RwXzkzb2xscVpXaTVLOW5lQjI4aE41YTRaMzdCOEVvRW9uenM2cXVzUVJJMVAyanF6UmJ0WTJTNU5lbFVYb0NFeTQwajBvcWl2bVptdlB5QlFrTlRCanVpUjZ2RzZMLVplX0tsT3BNWXg1b3I5VUEtcEdmSEtBTktyRUZkNEpFcGgyQWZsaXJCd9IB2wFBVV95cUxPOVlhWmx0UnJVNG5BM0pmSUFnMmVrdHpaWDZXMngzRUJkY1hMZ2prUG55LUd4d3pwQzJ3NVRKQktSVnZqNTVBejlGQUYyLW9Rakd6cldpZndkOWthd09Dejd0eDlVQ0FCNUhhdjJwa0s1Z3BjX1N6LWkxMDZSMzd6Nzg0Q1o2LXJrMW8xRk0xSDRQejN1UFpDUzhuVkRabTlIX29oblVrOThhUTB6MWFseWttbUduOHo0YUhyLUR0bEp4SkpNdjVGUXpLSTE1MVh2QndTNTJkcDFOYTA?oc=5",
+        "date": "2026-08-12",
+        "title": "Mumbai landslide: Two feared dead, several trapped in Kurla after heavy rain - The New Indian Express",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxQQlZPYWVheXgwWm1CRTBJaE0yajNuS0xMUkkwYy1vYW12S0g4TjczRDlTTkJvRGo5ay1Wd21NU2wxTTdHR0RwXzkzb2xscVpXaTVLOW5lQjI4aE41YTRaMzdCOEVvRW9uenM2cXVzUVJJMVAyanF6UmJ0WTJTNU5lbFVYb0NFeTQwajBvcWl2bVptdlB5QlFrTlRCanVpUjZ2RzZMLVplX0tsT3BNWXg1b3I5VUEtcEdmSEtBTktyRUZkNEpFcGgyQWZsaXJCd9IB2wFBVV95cUxPOVlhWmx0UnJVNG5BM0pmSUFnMmVrdHpaWDZXMngzRUJkY1hMZ2prUG55LUd4d3pwQzJ3NVRKQktSVnZqNTVBejlGQUYyLW9Rakd6cldpZndkOWthd09Dejd0eDlVQ0FCNUhhdjJwa0s1Z3BjX1N6LWkxMDZSMzd6Nzg0Q1o2LXJrMW8xRk0xSDRQejN1UFpDUzhuVkRabTlIX29oblVrOThhUTB6MWFseWttbUduOHo0YUhyLUR0bEp4SkpNdjVGUXpLSTE1MVh2QndTNTJkcDFOYTA?oc=5\" target=\"_blank\">Mumbai landslide: Two feared dead, several trapped in Kurla after heavy rain</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New Indian Express</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPblU1S2NJT0JRMmtZX3VWWWFZSzV2WVU5Ujh2QnN2cUhiVXBlMTJnalpHdHNxLUVLUlI4TGQwYTMzUndWUVJJWnExTTNaZ2VCRGFrT0ZPc2Z1M3F0bmlLdlFWUE9Nc1g3Q1BqcktGNm5PVkoxTlNlYVpFVGJpaXh2Q2RwbnBUeTh0bU10d0R2eWxlR0JfQkpPMXp3Sk5ubGxrcXFhcm5GUjc3N3VaNGxHZXdaOA?oc=5",
+        "date": "2026-08-12",
+        "title": "Six to eight people trapped in landslide at Kurla\u2019s Gaushiya Chawl, rescue ongoing - The News Mill",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPblU1S2NJT0JRMmtZX3VWWWFZSzV2WVU5Ujh2QnN2cUhiVXBlMTJnalpHdHNxLUVLUlI4TGQwYTMzUndWUVJJWnExTTNaZ2VCRGFrT0ZPc2Z1M3F0bmlLdlFWUE9Nc1g3Q1BqcktGNm5PVkoxTlNlYVpFVGJpaXh2Q2RwbnBUeTh0bU10d0R2eWxlR0JfQkpPMXp3Sk5ubGxrcXFhcm5GUjc3N3VaNGxHZXdaOA?oc=5\" target=\"_blank\">Six to eight people trapped in landslide at Kurla\u2019s Gaushiya Chawl, rescue ongoing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The News Mill</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNS1dOT3hIbkVEUlBaaGtQeS1heTJwLUtXcFVydjBLY0F4aUdrRlMwNUNEZXFsektvUUlCQnJVNXpjSWlEOHE0RHdjeVE2bktvdHJrU0lORGd1bDcydnBneGk1SFdtS3czZ3lqc1Jnb1NPRnhMaWFhTmFvNUt0Z0Vodmd5V0NuS1BJb0ZKczFwSjIxNVJyaFRKVklKZEhfMDVaVHJJTFhldUctblNsSF9aQmVXUDI5cS1USjFseWl2QmdvdkhvVTF1VUdPRVZoSzdnSlE5MDlFcTZZY2dNNFlkVVNySVhMM0ExS2ZvZVVXSVF6emVwWDJVdUIxRTFmTEFv?oc=5",
+        "date": "2026-08-12",
+        "title": "Mumbai: 6-8 people trapped after rain-triggers landslide at Kurla's Gaushiya Chawl; rescue operations underway - ANI News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAJBVV95cUxNS1dOT3hIbkVEUlBaaGtQeS1heTJwLUtXcFVydjBLY0F4aUdrRlMwNUNEZXFsektvUUlCQnJVNXpjSWlEOHE0RHdjeVE2bktvdHJrU0lORGd1bDcydnBneGk1SFdtS3czZ3lqc1Jnb1NPRnhMaWFhTmFvNUt0Z0Vodmd5V0NuS1BJb0ZKczFwSjIxNVJyaFRKVklKZEhfMDVaVHJJTFhldUctblNsSF9aQmVXUDI5cS1USjFseWl2QmdvdkhvVTF1VUdPRVZoSzdnSlE5MDlFcTZZY2dNNFlkVVNySVhMM0ExS2ZvZVVXSVF6emVwWDJVdUIxRTFmTEFv?oc=5\" target=\"_blank\">Mumbai: 6-8 people trapped after rain-triggers landslide at Kurla's Gaushiya Chawl; rescue operations underway</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ANI News</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNYzJJVGlrUnNvZWNpU1g1cHJuR216VjlfUjR0SW1fS3NqdERnWmRkUnJDQzFsTGNoM3Y5d1lfZnliVFFsWkNjcVpCaHlPVEZhTm1Gc1c1djNsa0k0LU1GRHZka2dpMms3bHpSZ0Vkc1hfSmdXdk5pSEk1OFoydkxiMnUtQmZWR1BaeHMzWl9FdjExRkt1LTZScnVrcUc1WGhBdEE?oc=5",
+        "date": "2026-08-12",
+        "title": "Mumbai landslide: 2 dead, several feared trapped as houses buried under debris - PGurus",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNYzJJVGlrUnNvZWNpU1g1cHJuR216VjlfUjR0SW1fS3NqdERnWmRkUnJDQzFsTGNoM3Y5d1lfZnliVFFsWkNjcVpCaHlPVEZhTm1Gc1c1djNsa0k0LU1GRHZka2dpMms3bHpSZ0Vkc1hfSmdXdk5pSEk1OFoydkxiMnUtQmZWR1BaeHMzWl9FdjExRkt1LTZScnVrcUc1WGhBdEE?oc=5\" target=\"_blank\">Mumbai landslide: 2 dead, several feared trapped as houses buried under debris</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PGurus</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTG0xT21sUHZVYWwyT0JKYVlhakJYZktPeGgyS2xXZGFBbXBPa0FiZmpCeGVPaDFjT0laakg3VnNkUFNCTTJ5dEdMQThkUzRGV2xwd1l1dGZMdTBhRDVzakZYb0dndU1abkplYUN6aTgzNzZ2OEJobFNfMHdFRzY3LVc5NFpCd1dhMjlLT0RMbWlLOERM?oc=5",
+        "date": "2026-08-12",
+        "title": "Suicide Basin Outburst Underway \u2013 Evacuate Advised Tomorrow - City and Borough of Juneau",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxPTG0xT21sUHZVYWwyT0JKYVlhakJYZktPeGgyS2xXZGFBbXBPa0FiZmpCeGVPaDFjT0laakg3VnNkUFNCTTJ5dEdMQThkUzRGV2xwd1l1dGZMdTBhRDVzakZYb0dndU1abkplYUN6aTgzNzZ2OEJobFNfMHdFRzY3LVc5NFpCd1dhMjlLT0RMbWlLOERM?oc=5\" target=\"_blank\">Suicide Basin Outburst Underway \u2013 Evacuate Advised Tomorrow</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">City and Borough of Juneau</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 FORECAST Juneau: Suicide Basin outburst flood underway, evacuate advised tomorrow. City and Borough of Juneau",
+        "type": "news",
+        "tweet_id": "2087408915600248868",
+        "geo": {
+            "country": "United States",
+            "name": "Juneau, Alaska",
+            "latitude": 58.3019,
+            "longitude": -134.4197,
+            "confidence": 0.9
+        }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQeG9oZTQ0azd5VzczVDFuMHR2LWtTRFZRb2ZrWEhVbWpxbVZhRlNwYlFRQ1ZQTWNybXFwdkE5czdWOHNRVnlrdmp6MGJrZFdONkdGX0JJUlAzYVhRZEU2ZU13SlY1a19hM1lBM1UxVXBpZklhbDhzUjBpNU1mOHEzU0RTS01WdHc?oc=5",
+        "date": "2026-08-12",
+        "title": "LIVE UPDATES: Juneau\u2019s 2026 glacial outburst flood - KTOO",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxQeG9oZTQ0azd5VzczVDFuMHR2LWtTRFZRb2ZrWEhVbWpxbVZhRlNwYlFRQ1ZQTWNybXFwdkE5czdWOHNRVnlrdmp6MGJrZFdONkdGX0JJUlAzYVhRZEU2ZU13SlY1a19hM1lBM1UxVXBpZklhbDhzUjBpNU1mOHEzU0RTS01WdHc?oc=5\" target=\"_blank\">LIVE UPDATES: Juneau\u2019s 2026 glacial outburst flood</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KTOO</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 FORECAST Juneau: glacial outburst flood expected in 2026 (KTOO)",
+        "type": "news",
+        "tweet_id": "2087409466513719681",
+        "geo": {
+            "country": "United States",
+            "name": "Juneau, Alaska",
+            "latitude": 58.3019,
+            "longitude": -134.4197,
+            "confidence": 0.95
+        }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNX216MGRhTlhTZDYtbnRZcUNNMGFnWFdRUE1IOE1MVWMza01PNzhMRE56Z1ZHWm9RcmNlYk9SRHM5S29jcTBUbDIwdGE2b2oycUFYYVg3cUk2OUZKb09tTDVuSW53ck1Eb21sRE1VVGVKdlVhSnhlb3hwZ1NTeEI2Slh5NDZhOUF6LW9jUzVQdXR4MGY1bWhtcHd3MlBlOTM0UXZuTHNfMUNHSlkyOGJyQmViRVhqUENBM3NoWVRRQXVwZ25sdWlJMFphdUM0RzdaUGJNLTVBTkw?oc=5",
+        "date": "2026-08-12",
+        "title": "8/11/26: Severe Flash Flood Warning - Violent Rain Showers Today with High of 95, Currently 79, Mainly Clear Tonight - Rutherford Source",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxNX216MGRhTlhTZDYtbnRZcUNNMGFnWFdRUE1IOE1MVWMza01PNzhMRE56Z1ZHWm9RcmNlYk9SRHM5S29jcTBUbDIwdGE2b2oycUFYYVg3cUk2OUZKb09tTDVuSW53ck1Eb21sRE1VVGVKdlVhSnhlb3hwZ1NTeEI2Slh5NDZhOUF6LW9jUzVQdXR4MGY1bWhtcHd3MlBlOTM0UXZuTHNfMUNHSlkyOGJyQmViRVhqUENBM3NoWVRRQXVwZ25sdWlJMFphdUM0RzdaUGJNLTVBTkw?oc=5\" target=\"_blank\">8/11/26: Severe Flash Flood Warning - Violent Rain Showers Today with High of 95, Currently 79, Mainly Clear Tonight</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Rutherford Source</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "posted",
+        "tweet": "FORECAST Rutherford: Severe flash flood warning from violent rain showers today.",
+        "type": "news",
+        "tweet_id": "2087410019113320548",
+        "geo": {
+            "country": "United States",
+            "name": "Rutherford, NJ",
+            "latitude": 40.8284,
+            "longitude": -74.1068,
+            "confidence": 0.65
+        }
     }
 ]
