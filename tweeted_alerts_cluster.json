@@ -28572,7 +28572,7 @@
     "rain_mm": 47.19,
     "soil_moisture": 0.517,
     "raw_dynamic_score": 6.965,
-    "last_updated": "2026-07-09T22:26:30.322326Z",
+    "last_updated": "2026-08-12T13:16:04.025054Z",
     "last_tweeted_at": "2026-07-09T19:36:02.668374Z",
     "tweet_id": "2075303268301873606",
     "resolved": false
@@ -36739,22 +36739,6 @@
     "tweet_id": "2086720560831279170",
     "resolved": false
   },
-  "8.5435,-9.4710": {
-    "country": "Guinea",
-    "name": "Macenta",
-    "risk_level": "Low",
-    "tweeted_level": "Low",
-    "latitude": 8.54351,
-    "longitude": -9.47099,
-    "rain_mm": 4.06,
-    "soil_moisture": 0.645,
-    "raw_dynamic_score": 0.647,
-    "last_updated": "2026-08-11T13:07:34.048282Z",
-    "last_tweeted_at": "2026-08-11T13:07:34.048282Z",
-    "tweet_id": "2087164561581306266",
-    "resolved": true,
-    "resolved_at": "2026-08-11T13:07:34.048282Z"
-  },
   "23.5411,74.4425": {
     "country": "India",
     "name": "Bānswāra",
@@ -37473,10 +37457,18 @@
     "rain_mm": 79.5,
     "soil_moisture": 0.657,
     "raw_dynamic_score": 12.739,
-    "last_updated": "2026-08-11T16:17:32.002292Z",
+    "last_updated": "2026-08-12T13:16:04.025054Z",
     "last_tweeted_at": "2026-08-11T16:17:32.002292Z",
     "tweet_id": "2087211857425977408",
-    "resolved": false
+    "resolved": false,
+    "pending_downgrade": true,
+    "pending_target_level": "Low",
+    "pending_set_at": "2026-08-12T13:16:04.025054Z",
+    "pending_is_region": false,
+    "pending_observed_level": "Low",
+    "pending_observed_rain_mm": 17.5,
+    "pending_observed_soil_moisture": 0.615,
+    "pending_observed_raw_dynamic_score": 2.738
   },
   "33.2532,113.0012": {
     "country": "China",
@@ -37680,7 +37672,7 @@
     "rain_mm": 47.31,
     "soil_moisture": 0.607,
     "raw_dynamic_score": 7.369,
-    "last_updated": "2026-08-11T19:12:55.468118Z",
+    "last_updated": "2026-08-12T13:16:04.025054Z",
     "last_tweeted_at": "2026-08-11T16:17:32.002292Z",
     "tweet_id": "2087212615911211492",
     "resolved": false
