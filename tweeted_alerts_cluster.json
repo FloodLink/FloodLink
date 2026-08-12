@@ -29933,22 +29933,6 @@
     "tweet_id": "2078154430734553169",
     "resolved": false
   },
-  "12.8103,-16.2264": {
-    "country": "Senegal",
-    "name": "Bignona",
-    "risk_level": "Low",
-    "tweeted_level": "Low",
-    "latitude": 12.81028,
-    "longitude": -16.22639,
-    "rain_mm": 1.38,
-    "soil_moisture": 0.581,
-    "raw_dynamic_score": 0.211,
-    "last_updated": "2026-08-11T04:35:07.027570Z",
-    "last_tweeted_at": "2026-08-11T04:35:07.027570Z",
-    "tweet_id": "2087035845597413486",
-    "resolved": true,
-    "resolved_at": "2026-08-11T04:35:07.027570Z"
-  },
   "35.9606,-83.9207": {
     "country": "United States",
     "name": "Knoxville",
@@ -36988,25 +36972,18 @@
   "14.1059,-15.5508": {
     "country": "Senegal",
     "name": "Kaffrine",
-    "risk_level": "High",
-    "tweeted_level": "High",
+    "risk_level": "Low",
+    "tweeted_level": "Low",
     "latitude": 14.10594,
     "longitude": -15.5508,
-    "rain_mm": 77.94,
-    "soil_moisture": 0.644,
-    "raw_dynamic_score": 12.397,
-    "last_updated": "2026-08-11T07:14:27.298654Z",
-    "last_tweeted_at": "2026-08-11T04:35:07.027570Z",
-    "tweet_id": "2087036098656485813",
-    "resolved": false,
-    "pending_downgrade": true,
-    "pending_target_level": "Low",
-    "pending_set_at": "2026-08-11T07:14:27.298654Z",
-    "pending_is_region": false,
-    "pending_observed_level": "Low",
-    "pending_observed_rain_mm": 2.06,
-    "pending_observed_soil_moisture": 0.571,
-    "pending_observed_raw_dynamic_score": 0.315
+    "rain_mm": 0.62,
+    "soil_moisture": 0.486,
+    "raw_dynamic_score": 0.09,
+    "last_updated": "2026-08-12T05:07:54.748816Z",
+    "last_tweeted_at": "2026-08-12T05:07:54.748816Z",
+    "tweet_id": "2087405973811888171",
+    "resolved": true,
+    "resolved_at": "2026-08-12T05:07:54.748816Z"
   },
   "14.4841,-16.1138": {
     "country": "Senegal",
@@ -37473,7 +37450,7 @@
     "rain_mm": 48.75,
     "soil_moisture": 0.683,
     "raw_dynamic_score": 7.928,
-    "last_updated": "2026-08-12T01:36:48.536466Z",
+    "last_updated": "2026-08-12T05:07:54.748816Z",
     "last_tweeted_at": "2026-08-11T16:17:32.002292Z",
     "tweet_id": "2087211857425977408",
     "resolved": false
@@ -37743,6 +37720,21 @@
     "last_updated": "2026-08-12T01:36:48.536466Z",
     "last_tweeted_at": "2026-08-11T22:02:55.051086Z",
     "tweet_id": "2087298769377493043",
+    "resolved": false
+  },
+  "31.1933,120.7176": {
+    "country": "China",
+    "name": "Songling",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 31.1933,
+    "longitude": 120.71758,
+    "rain_mm": 43.31,
+    "soil_moisture": 0.699,
+    "raw_dynamic_score": 7.106,
+    "last_updated": "2026-08-12T05:07:54.748816Z",
+    "last_tweeted_at": "2026-08-12T05:07:54.748816Z",
+    "tweet_id": "2087405720928932239",
     "resolved": false
   }
 }
