@@ -37301,7 +37301,7 @@
     "rain_mm": 43.12,
     "soil_moisture": 0.712,
     "raw_dynamic_score": 7.126,
-    "last_updated": "2026-08-12T19:18:59.300187Z",
+    "last_updated": "2026-08-12T22:01:51.025725Z",
     "last_tweeted_at": "2026-08-12T16:21:17.995682Z",
     "tweet_id": "2087575191790436794",
     "resolved": false
@@ -37319,6 +37319,21 @@
     "last_updated": "2026-08-12T19:18:59.300187Z",
     "last_tweeted_at": "2026-08-12T19:18:59.300187Z",
     "tweet_id": "2087619910289551657",
+    "resolved": false
+  },
+  "21.8018,87.2225": {
+    "country": "India",
+    "name": "Jaleshwar",
+    "risk_level": "High",
+    "tweeted_level": "High",
+    "latitude": 21.80176,
+    "longitude": 87.2225,
+    "rain_mm": 110.5,
+    "soil_moisture": 0.694,
+    "raw_dynamic_score": 18.078,
+    "last_updated": "2026-08-12T22:01:51.025725Z",
+    "last_tweeted_at": "2026-08-12T22:01:51.025725Z",
+    "tweet_id": "2087660886727004658",
     "resolved": false
   }
 }
