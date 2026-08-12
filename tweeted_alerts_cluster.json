@@ -32216,7 +32216,7 @@
     "rain_mm": 60.62,
     "soil_moisture": 0.683,
     "raw_dynamic_score": 9.859,
-    "last_updated": "2026-07-27T22:09:54.431714Z",
+    "last_updated": "2026-08-12T19:18:59.300187Z",
     "last_tweeted_at": "2026-07-27T22:09:54.431714Z",
     "tweet_id": "2081865476058075404",
     "resolved": false
@@ -37256,7 +37256,7 @@
     "rain_mm": 47.31,
     "soil_moisture": 0.607,
     "raw_dynamic_score": 7.369,
-    "last_updated": "2026-08-12T16:21:17.995682Z",
+    "last_updated": "2026-08-12T19:18:59.300187Z",
     "last_tweeted_at": "2026-08-11T16:17:32.002292Z",
     "tweet_id": "2087212615911211492",
     "resolved": false
@@ -37301,9 +37301,24 @@
     "rain_mm": 43.12,
     "soil_moisture": 0.712,
     "raw_dynamic_score": 7.126,
-    "last_updated": "2026-08-12T16:21:17.995682Z",
+    "last_updated": "2026-08-12T19:18:59.300187Z",
     "last_tweeted_at": "2026-08-12T16:21:17.995682Z",
     "tweet_id": "2087575191790436794",
+    "resolved": false
+  },
+  "31.7047,112.2561": {
+    "country": "China",
+    "name": "Yicheng",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 31.70472,
+    "longitude": 112.25611,
+    "rain_mm": 42.12,
+    "soil_moisture": 0.693,
+    "raw_dynamic_score": 6.887,
+    "last_updated": "2026-08-12T19:18:59.300187Z",
+    "last_tweeted_at": "2026-08-12T19:18:59.300187Z",
+    "tweet_id": "2087619910289551657",
     "resolved": false
   }
 }
