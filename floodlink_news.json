@@ -27514,5 +27514,14 @@
             "longitude": -74.1068,
             "confidence": 0.65
         }
+    },
+    {
+        "link": null,
+        "date": "2026-08-12",
+        "status": "posted",
+        "tweet": "Urban pop. exposed to river flooding (% , 2025 proj.)\n1. \ud83c\udde7\ud83c\udde9 Dhaka: 41%\n2. \ud83c\uddee\ud83c\uddf3 Mumbai: 33%\n3. \ud83c\udde8\ud83c\uddf3 Chongqing: 26%\n4. \ud83c\uddfb\ud83c\uddf3 Ho Chi Minh City: 22%\n5. \ud83c\uddf5\ud83c\uddf0 Karachi: 18%",
+        "type": "statistical",
+        "category": "urban areas exposed to river flooding",
+        "tweet_id": "2087476317432283221"
     }
 ]
