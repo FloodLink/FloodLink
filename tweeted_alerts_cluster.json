@@ -36452,22 +36452,6 @@
     "tweet_id": "2087035592647331983",
     "resolved": false
   },
-  "14.1059,-15.5508": {
-    "country": "Senegal",
-    "name": "Kaffrine",
-    "risk_level": "Low",
-    "tweeted_level": "Low",
-    "latitude": 14.10594,
-    "longitude": -15.5508,
-    "rain_mm": 0.62,
-    "soil_moisture": 0.486,
-    "raw_dynamic_score": 0.09,
-    "last_updated": "2026-08-12T05:07:54.748816Z",
-    "last_tweeted_at": "2026-08-12T05:07:54.748816Z",
-    "tweet_id": "2087405973811888171",
-    "resolved": true,
-    "resolved_at": "2026-08-12T05:07:54.748816Z"
-  },
   "14.4841,-16.1138": {
     "country": "Senegal",
     "name": "Gossas Village",
@@ -37259,5 +37243,35 @@
     "pending_target_level": "Low",
     "pending_set_at": "2026-08-13T01:41:04.799903Z",
     "pending_is_region": true
+  },
+  "42.5000,-96.4003": {
+    "country": "United States",
+    "name": "Sioux City",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 42.49999,
+    "longitude": -96.40031,
+    "rain_mm": 55.88,
+    "soil_moisture": 0.361,
+    "raw_dynamic_score": 7.464,
+    "last_updated": "2026-08-13T05:13:44.464186Z",
+    "last_tweeted_at": "2026-08-13T05:13:44.464186Z",
+    "tweet_id": "2087769574649315760",
+    "resolved": false
+  },
+  "34.6100,-112.3157": {
+    "country": "United States",
+    "name": "Prescott Valley",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 34.61002,
+    "longitude": -112.31572,
+    "rain_mm": 50.19,
+    "soil_moisture": 0.626,
+    "raw_dynamic_score": 7.905,
+    "last_updated": "2026-08-13T05:13:44.464186Z",
+    "last_tweeted_at": "2026-08-13T05:13:44.464186Z",
+    "tweet_id": "2087769827305766978",
+    "resolved": false
   }
 }
