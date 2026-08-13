@@ -36899,7 +36899,7 @@
     "rain_mm": 54.0,
     "soil_moisture": 0.651,
     "raw_dynamic_score": 8.623,
-    "last_updated": "2026-08-13T16:23:07.750181Z",
+    "last_updated": "2026-08-13T19:21:58.888503Z",
     "last_tweeted_at": "2026-08-13T16:23:07.750181Z",
     "tweet_id": "2087938542420828239",
     "resolved": false
@@ -36914,7 +36914,7 @@
     "rain_mm": 51.94,
     "soil_moisture": 0.58,
     "raw_dynamic_score": 7.963,
-    "last_updated": "2026-08-13T13:20:15.048034Z",
+    "last_updated": "2026-08-13T19:21:58.888503Z",
     "last_tweeted_at": "2026-08-13T13:20:15.048034Z",
     "tweet_id": "2087892283894940050",
     "resolved": false
@@ -36929,7 +36929,7 @@
     "rain_mm": 54.0,
     "soil_moisture": 0.651,
     "raw_dynamic_score": 8.623,
-    "last_updated": "2026-08-13T16:23:07.750181Z",
+    "last_updated": "2026-08-13T19:21:58.888503Z",
     "last_tweeted_at": "2026-08-13T16:23:07.750181Z",
     "tweet_id": "2087938036323553403",
     "resolved": false
@@ -36959,10 +36959,14 @@
     "rain_mm": 78.56,
     "soil_moisture": 0.673,
     "raw_dynamic_score": 12.701,
-    "last_updated": "2026-08-13T16:23:07.750181Z",
+    "last_updated": "2026-08-13T19:21:58.888503Z",
     "last_tweeted_at": "2026-08-13T16:23:07.750181Z",
     "tweet_id": "2087938542420828239",
-    "resolved": false
+    "resolved": false,
+    "pending_downgrade": true,
+    "pending_target_level": "Low",
+    "pending_set_at": "2026-08-13T19:21:58.888503Z",
+    "pending_is_region": true
   },
   "27.7005,83.4484": {
     "country": "Nepal",
@@ -36974,7 +36978,7 @@
     "rain_mm": 78.56,
     "soil_moisture": 0.673,
     "raw_dynamic_score": 12.701,
-    "last_updated": "2026-08-13T16:23:07.750181Z",
+    "last_updated": "2026-08-13T19:21:58.888503Z",
     "last_tweeted_at": "2026-08-13T16:23:07.750181Z",
     "tweet_id": "2087938542420828239",
     "resolved": false
@@ -36989,9 +36993,24 @@
     "rain_mm": 69.38,
     "soil_moisture": 0.669,
     "raw_dynamic_score": 11.195,
-    "last_updated": "2026-08-13T16:23:07.750181Z",
+    "last_updated": "2026-08-13T19:21:58.888503Z",
     "last_tweeted_at": "2026-08-13T16:23:07.750181Z",
     "tweet_id": "2087938795471548649",
+    "resolved": false
+  },
+  "30.5363,120.6864": {
+    "country": "China",
+    "name": "Haining",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 30.53629,
+    "longitude": 120.68638,
+    "rain_mm": 40.88,
+    "soil_moisture": 0.697,
+    "raw_dynamic_score": 6.699,
+    "last_updated": "2026-08-13T19:21:58.888503Z",
+    "last_tweeted_at": "2026-08-13T19:21:58.888503Z",
+    "tweet_id": "2087983064550952989",
     "resolved": false
   }
 }
