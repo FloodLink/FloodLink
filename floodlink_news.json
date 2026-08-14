@@ -27028,5 +27028,14 @@
             "longitude": null,
             "confidence": 0.6
         }
+    },
+    {
+        "link": null,
+        "date": "2026-08-14",
+        "status": "posted",
+        "tweet": "Global flood deaths rose 35% from 2016-2020 to 2021-2025, reaching 48,000 fatalities amid intensified extreme rainfall and flash floods.",
+        "type": "statistical",
+        "category": "global flood fatalities and trends",
+        "tweet_id": "2088265511242981727"
     }
 ]
