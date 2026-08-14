@@ -12189,7 +12189,7 @@
     "rain_mm": 50.81,
     "soil_moisture": 0.655,
     "raw_dynamic_score": 8.136,
-    "last_updated": "2026-04-15T10:18:44.174677Z",
+    "last_updated": "2026-08-14T01:43:42.183036Z",
     "last_tweeted_at": "2026-04-12T07:12:47.657905Z",
     "tweet_id": "2043225850061926430",
     "resolved": false
@@ -26514,7 +26514,7 @@
     "rain_mm": 50.19,
     "soil_moisture": 0.536,
     "raw_dynamic_score": 7.496,
-    "last_updated": "2026-08-13T22:06:44.951311Z",
+    "last_updated": "2026-08-14T01:43:42.183036Z",
     "last_tweeted_at": "2026-07-04T19:09:44.348912Z",
     "tweet_id": "2073484709816946766",
     "resolved": false
@@ -28524,7 +28524,7 @@
     "rain_mm": 47.19,
     "soil_moisture": 0.517,
     "raw_dynamic_score": 6.965,
-    "last_updated": "2026-08-13T22:06:44.951311Z",
+    "last_updated": "2026-08-14T01:43:42.183036Z",
     "last_tweeted_at": "2026-07-09T19:36:02.668374Z",
     "tweet_id": "2075303268301873606",
     "resolved": false
@@ -36754,7 +36754,7 @@
     "rain_mm": 47.31,
     "soil_moisture": 0.607,
     "raw_dynamic_score": 7.369,
-    "last_updated": "2026-08-13T22:06:44.951311Z",
+    "last_updated": "2026-08-14T01:43:42.183036Z",
     "last_tweeted_at": "2026-08-11T16:17:32.002292Z",
     "tweet_id": "2087212615911211492",
     "resolved": false
@@ -37027,7 +37027,7 @@
     "rain_mm": 70.25,
     "soil_moisture": 0.688,
     "raw_dynamic_score": 11.458,
-    "last_updated": "2026-08-13T22:06:44.951311Z",
+    "last_updated": "2026-08-14T01:43:42.183036Z",
     "last_tweeted_at": "2026-08-13T22:06:44.951311Z",
     "tweet_id": "2088024519273554109",
     "resolved": false
@@ -37035,16 +37035,16 @@
   "1.3943,97.1675": {
     "country": "Indonesia",
     "name": "Lahewa",
-    "risk_level": "Medium",
-    "tweeted_level": "Medium",
+    "risk_level": "High",
+    "tweeted_level": "High",
     "latitude": 1.3943,
     "longitude": 97.1675,
-    "rain_mm": 42.75,
+    "rain_mm": 70.25,
     "soil_moisture": 1.0,
-    "raw_dynamic_score": 8.176,
-    "last_updated": "2026-08-13T22:06:44.951311Z",
-    "last_tweeted_at": "2026-08-13T22:06:44.951311Z",
-    "tweet_id": "2088024771770691918",
+    "raw_dynamic_score": 13.435,
+    "last_updated": "2026-08-14T01:43:42.183036Z",
+    "last_tweeted_at": "2026-08-14T01:43:42.183036Z",
+    "tweet_id": "2088079126758355226",
     "resolved": false
   }
 }
