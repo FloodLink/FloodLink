@@ -36804,7 +36804,7 @@
     "rain_mm": 43.12,
     "soil_moisture": 0.712,
     "raw_dynamic_score": 7.126,
-    "last_updated": "2026-08-14T13:16:47.071219Z",
+    "last_updated": "2026-08-14T16:15:30.268620Z",
     "last_tweeted_at": "2026-08-12T16:21:17.995682Z",
     "tweet_id": "2087575191790436794",
     "resolved": false
@@ -37052,14 +37052,10 @@
     "rain_mm": 58.94,
     "soil_moisture": 0.72,
     "raw_dynamic_score": 9.783,
-    "last_updated": "2026-08-14T10:33:45.423296Z",
+    "last_updated": "2026-08-14T16:15:30.268620Z",
     "last_tweeted_at": "2026-08-14T05:13:39.499085Z",
     "tweet_id": "2088131947058872489",
-    "resolved": false,
-    "pending_downgrade": true,
-    "pending_target_level": "Low",
-    "pending_set_at": "2026-08-14T10:33:45.423296Z",
-    "pending_is_region": true
+    "resolved": false
   },
   "32.3972,119.4358": {
     "country": "China",
@@ -37176,7 +37172,7 @@
     "rain_mm": 59.75,
     "soil_moisture": 0.581,
     "raw_dynamic_score": 9.167,
-    "last_updated": "2026-08-14T13:16:47.071219Z",
+    "last_updated": "2026-08-14T16:15:30.268620Z",
     "last_tweeted_at": "2026-08-14T13:16:47.071219Z",
     "tweet_id": "2088253539403337820",
     "resolved": false
@@ -37194,6 +37190,21 @@
     "last_updated": "2026-08-14T13:16:47.071219Z",
     "last_tweeted_at": "2026-08-14T13:16:47.071219Z",
     "tweet_id": "2088253792269582804",
+    "resolved": false
+  },
+  "27.7682,116.0502": {
+    "country": "China",
+    "name": "Bashan",
+    "risk_level": "High",
+    "tweeted_level": "High",
+    "latitude": 27.76823,
+    "longitude": 116.05017,
+    "rain_mm": 115.38,
+    "soil_moisture": 0.748,
+    "raw_dynamic_score": 19.44,
+    "last_updated": "2026-08-14T16:15:30.268620Z",
+    "last_tweeted_at": "2026-08-14T16:15:30.268620Z",
+    "tweet_id": "2088298511209300056",
     "resolved": false
   }
 }
