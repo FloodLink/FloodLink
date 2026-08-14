@@ -26660,5 +26660,14 @@
             "longitude": 138.2529,
             "confidence": 0.7
         }
+    },
+    {
+        "link": null,
+        "date": "2026-08-14",
+        "status": "posted",
+        "tweet": "Highest flood economic losses 2021-2025 (US$ bn est.):\n\n1. \ud83c\udde8\ud83c\uddf3 China 2021: 32\n2. \ud83c\uddf5\ud83c\uddf0 Pakistan 2022: 30\n3. \ud83c\udde9\ud83c\uddea Germany 2021: 21\n4. \ud83c\uddfa\ud83c\uddf8 USA 2024: 18\n5. \ud83c\udde7\ud83c\udde9 Bangladesh 2024: 12",
+        "type": "statistical",
+        "category": "economic losses from floods and flash floods",
+        "tweet_id": "2088179654889034004"
     }
 ]
