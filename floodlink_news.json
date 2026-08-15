@@ -26260,5 +26260,14 @@
         "score": 0,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-08-15",
+        "status": "posted",
+        "tweet": "By 2030, extreme rainfall is projected to expose 1.6 billion people in dense cities to pluvial flooding, with exposure doubling in many Asian megacities since 2020.",
+        "type": "statistical",
+        "category": "pluvial (surface) flooding in dense cities",
+        "tweet_id": "2088566771758383408"
     }
 ]
