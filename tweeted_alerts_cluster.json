@@ -9099,7 +9099,7 @@
     "rain_mm": 34.5,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 6.598,
-    "last_updated": "2026-03-24T04:55:55.994075Z",
+    "last_updated": "2026-08-15T04:07:51.551277Z",
     "last_tweeted_at": "2026-03-24T01:25:47.060740Z",
     "tweet_id": "2036253404725490133",
     "resolved": false
@@ -11034,7 +11034,7 @@
     "rain_mm": 44.81,
     "soil_moisture": 0.58,
     "raw_dynamic_score": 6.869,
-    "last_updated": "2026-08-08T21:37:30.816500Z",
+    "last_updated": "2026-08-15T04:07:51.551277Z",
     "last_tweeted_at": "2026-04-01T21:42:35.473952Z",
     "tweet_id": "2039459222342267314",
     "resolved": false
@@ -21328,7 +21328,7 @@
     "rain_mm": 64.81,
     "soil_moisture": 0.635,
     "raw_dynamic_score": 10.261,
-    "last_updated": "2026-08-10T04:42:55.718028Z",
+    "last_updated": "2026-08-15T04:07:51.551277Z",
     "last_tweeted_at": "2026-06-11T22:58:00.841941Z",
     "tweet_id": "2065207731082985672",
     "resolved": false
@@ -31935,7 +31935,7 @@
     "rain_mm": 23.12,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 4.423,
-    "last_updated": "2026-08-15T01:20:50.666184Z",
+    "last_updated": "2026-08-15T04:07:51.551277Z",
     "last_tweeted_at": "2026-08-15T01:20:50.666184Z",
     "tweet_id": "2088435763289423935",
     "resolved": true,
@@ -37163,6 +37163,51 @@
     "last_updated": "2026-08-15T01:20:50.666184Z",
     "last_tweeted_at": "2026-08-14T21:53:30.226668Z",
     "tweet_id": "2088384075585241379",
+    "resolved": false
+  },
+  "12.0769,15.0306": {
+    "country": "Cameroon",
+    "name": "Kousséri",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 12.07689,
+    "longitude": 15.03063,
+    "rain_mm": 77.5,
+    "soil_moisture": 0.584,
+    "raw_dynamic_score": 11.907,
+    "last_updated": "2026-08-15T04:07:51.551277Z",
+    "last_tweeted_at": "2026-08-15T04:07:51.551277Z",
+    "tweet_id": "2088477783840157971",
+    "resolved": false
+  },
+  "11.1833,-8.1500": {
+    "country": "Mali",
+    "name": "Yanfolila",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 11.18333,
+    "longitude": -8.15,
+    "rain_mm": 45.62,
+    "soil_moisture": 0.611,
+    "raw_dynamic_score": 7.123,
+    "last_updated": "2026-08-15T04:07:51.551277Z",
+    "last_tweeted_at": "2026-08-15T04:07:51.551277Z",
+    "tweet_id": "2088478036643533151",
+    "resolved": false
+  },
+  "12.1067,15.0444": {
+    "country": "Chad",
+    "name": "N'Djamena",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 12.10672,
+    "longitude": 15.0444,
+    "rain_mm": 77.5,
+    "soil_moisture": 0.584,
+    "raw_dynamic_score": 11.907,
+    "last_updated": "2026-08-15T04:07:51.551277Z",
+    "last_tweeted_at": "2026-08-15T04:07:51.551277Z",
+    "tweet_id": "2088478289232846943",
     "resolved": false
   }
 }
