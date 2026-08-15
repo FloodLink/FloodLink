@@ -9099,7 +9099,7 @@
     "rain_mm": 34.5,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 6.598,
-    "last_updated": "2026-08-15T04:07:51.551277Z",
+    "last_updated": "2026-08-15T09:55:17.936560Z",
     "last_tweeted_at": "2026-03-24T01:25:47.060740Z",
     "tweet_id": "2036253404725490133",
     "resolved": false
@@ -11034,7 +11034,7 @@
     "rain_mm": 44.81,
     "soil_moisture": 0.58,
     "raw_dynamic_score": 6.869,
-    "last_updated": "2026-08-15T04:07:51.551277Z",
+    "last_updated": "2026-08-15T09:55:17.936560Z",
     "last_tweeted_at": "2026-04-01T21:42:35.473952Z",
     "tweet_id": "2039459222342267314",
     "resolved": false
@@ -16214,22 +16214,6 @@
     "tweet_id": "2055680188298780835",
     "resolved": false
   },
-  "41.0200,-92.4113": {
-    "country": "United States",
-    "name": "Ottumwa",
-    "risk_level": "None",
-    "tweeted_level": "Low",
-    "latitude": 41.02001,
-    "longitude": -92.4113,
-    "rain_mm": 0.0,
-    "soil_moisture": 0.21,
-    "raw_dynamic_score": 0.0,
-    "last_updated": "2026-08-14T07:46:46.983053Z",
-    "last_tweeted_at": "2026-08-14T07:46:46.983053Z",
-    "tweet_id": "2088170739015016912",
-    "resolved": true,
-    "resolved_at": "2026-08-14T07:46:46.983053Z"
-  },
   "41.1367,-95.8908": {
     "country": "United States",
     "name": "Bellevue",
@@ -19485,22 +19469,6 @@
     "tweet_id": "2062663425264673126",
     "resolved": false
   },
-  "42.4928,-92.3430": {
-    "country": "United States",
-    "name": "Waterloo",
-    "risk_level": "Low",
-    "tweeted_level": "Low",
-    "latitude": 42.49276,
-    "longitude": -92.34296,
-    "rain_mm": 9.12,
-    "soil_moisture": 0.52,
-    "raw_dynamic_score": 1.349,
-    "last_updated": "2026-08-14T07:46:46.983053Z",
-    "last_tweeted_at": "2026-08-14T07:46:46.983053Z",
-    "tweet_id": "2088170739015016912",
-    "resolved": true,
-    "resolved_at": "2026-08-14T07:46:46.983053Z"
-  },
   "21.3860,103.0230": {
     "country": "Viet Nam",
     "name": "Dien Bien Phu",
@@ -20897,22 +20865,6 @@
     "tweet_id": "2064845251928260913",
     "resolved": false
   },
-  "40.8075,-91.1129": {
-    "country": "United States",
-    "name": "Burlington",
-    "risk_level": "None",
-    "tweeted_level": "Low",
-    "latitude": 40.80754,
-    "longitude": -91.11292,
-    "rain_mm": 0.0,
-    "soil_moisture": 0.363,
-    "raw_dynamic_score": 0.0,
-    "last_updated": "2026-08-14T07:46:46.983053Z",
-    "last_tweeted_at": "2026-08-14T07:46:46.983053Z",
-    "tweet_id": "2088170739015016912",
-    "resolved": true,
-    "resolved_at": "2026-08-14T07:46:46.983053Z"
-  },
   "13.3833,-88.3500": {
     "country": "El Salvador",
     "name": "San Rafael Oriente",
@@ -21328,10 +21280,18 @@
     "rain_mm": 79.38,
     "soil_moisture": 0.688,
     "raw_dynamic_score": 12.946,
-    "last_updated": "2026-08-15T06:55:55.853701Z",
+    "last_updated": "2026-08-15T09:55:17.936560Z",
     "last_tweeted_at": "2026-08-15T06:55:55.853701Z",
     "tweet_id": "2088520074961297431",
-    "resolved": false
+    "resolved": false,
+    "pending_downgrade": true,
+    "pending_target_level": "Medium",
+    "pending_set_at": "2026-08-15T09:55:17.936560Z",
+    "pending_is_region": false,
+    "pending_observed_level": "Medium",
+    "pending_observed_rain_mm": 58.31,
+    "pending_observed_soil_moisture": 0.706,
+    "pending_observed_raw_dynamic_score": 9.602
   },
   "-27.0675,-53.1611": {
     "country": "Brazil",
@@ -23057,22 +23017,6 @@
     "last_tweeted_at": "2026-06-21T03:04:09.635361Z",
     "tweet_id": "2068533199676842191",
     "resolved": false
-  },
-  "41.2619,-95.8608": {
-    "country": "United States",
-    "name": "Council Bluffs",
-    "risk_level": "Low",
-    "tweeted_level": "Low",
-    "latitude": 41.26194,
-    "longitude": -95.86083,
-    "rain_mm": 0.75,
-    "soil_moisture": 0.341,
-    "raw_dynamic_score": 0.099,
-    "last_updated": "2026-08-14T07:46:46.983053Z",
-    "last_tweeted_at": "2026-08-14T07:46:46.983053Z",
-    "tweet_id": "2088170739015016912",
-    "resolved": true,
-    "resolved_at": "2026-08-14T07:46:46.983053Z"
   },
   "6.1198,1.1901": {
     "country": "Ghana",
@@ -28530,7 +28474,7 @@
     "rain_mm": 47.19,
     "soil_moisture": 0.517,
     "raw_dynamic_score": 6.965,
-    "last_updated": "2026-08-14T01:43:42.183036Z",
+    "last_updated": "2026-08-15T09:55:17.936560Z",
     "last_tweeted_at": "2026-07-09T19:36:02.668374Z",
     "tweet_id": "2075303268301873606",
     "resolved": false
@@ -36686,22 +36630,6 @@
     "tweet_id": "2087619910289551657",
     "resolved": false
   },
-  "42.5000,-96.4003": {
-    "country": "United States",
-    "name": "Sioux City",
-    "risk_level": "Low",
-    "tweeted_level": "Low",
-    "latitude": 42.49999,
-    "longitude": -96.40031,
-    "rain_mm": 1.19,
-    "soil_moisture": 0.479,
-    "raw_dynamic_score": 0.171,
-    "last_updated": "2026-08-14T07:46:46.983053Z",
-    "last_tweeted_at": "2026-08-14T07:46:46.983053Z",
-    "tweet_id": "2088170739015016912",
-    "resolved": true,
-    "resolved_at": "2026-08-14T07:46:46.983053Z"
-  },
   "34.6100,-112.3157": {
     "country": "United States",
     "name": "Prescott Valley",
@@ -37165,7 +37093,7 @@
     "rain_mm": 77.5,
     "soil_moisture": 0.584,
     "raw_dynamic_score": 11.907,
-    "last_updated": "2026-08-15T04:07:51.551277Z",
+    "last_updated": "2026-08-15T09:55:17.936560Z",
     "last_tweeted_at": "2026-08-15T04:07:51.551277Z",
     "tweet_id": "2088477783840157971",
     "resolved": false
@@ -37195,7 +37123,7 @@
     "rain_mm": 77.5,
     "soil_moisture": 0.584,
     "raw_dynamic_score": 11.907,
-    "last_updated": "2026-08-15T04:07:51.551277Z",
+    "last_updated": "2026-08-15T09:55:17.936560Z",
     "last_tweeted_at": "2026-08-15T04:07:51.551277Z",
     "tweet_id": "2088478289232846943",
     "resolved": false
