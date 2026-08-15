@@ -21280,18 +21280,18 @@
     "rain_mm": 79.38,
     "soil_moisture": 0.688,
     "raw_dynamic_score": 12.946,
-    "last_updated": "2026-08-15T09:55:17.936560Z",
+    "last_updated": "2026-08-15T12:56:46.151878Z",
     "last_tweeted_at": "2026-08-15T06:55:55.853701Z",
     "tweet_id": "2088520074961297431",
     "resolved": false,
     "pending_downgrade": true,
-    "pending_target_level": "Medium",
-    "pending_set_at": "2026-08-15T09:55:17.936560Z",
+    "pending_target_level": "Low",
+    "pending_set_at": "2026-08-15T12:56:46.151878Z",
     "pending_is_region": false,
-    "pending_observed_level": "Medium",
-    "pending_observed_rain_mm": 58.31,
-    "pending_observed_soil_moisture": 0.706,
-    "pending_observed_raw_dynamic_score": 9.602
+    "pending_observed_level": "Low",
+    "pending_observed_rain_mm": 11.12,
+    "pending_observed_soil_moisture": 0.671,
+    "pending_observed_raw_dynamic_score": 1.797
   },
   "-27.0675,-53.1611": {
     "country": "Brazil",
@@ -36644,22 +36644,6 @@
     "last_tweeted_at": "2026-08-13T05:13:44.464186Z",
     "tweet_id": "2087769827305766978",
     "resolved": false
-  },
-  "27.0992,84.0900": {
-    "country": "India",
-    "name": "Bagaha",
-    "risk_level": "Low",
-    "tweeted_level": "Low",
-    "latitude": 27.09918,
-    "longitude": 84.09003,
-    "rain_mm": 1.0,
-    "soil_moisture": 0.543,
-    "raw_dynamic_score": 0.15,
-    "last_updated": "2026-08-14T10:33:45.423296Z",
-    "last_tweeted_at": "2026-08-14T10:33:45.423296Z",
-    "tweet_id": "2088212503734186202",
-    "resolved": true,
-    "resolved_at": "2026-08-14T10:33:45.423296Z"
   },
   "27.5000,83.4500": {
     "country": "Nepal",
