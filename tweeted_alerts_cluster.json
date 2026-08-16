@@ -9099,7 +9099,7 @@
     "rain_mm": 34.5,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 6.598,
-    "last_updated": "2026-08-16T07:04:08.762226Z",
+    "last_updated": "2026-08-16T10:00:31.631215Z",
     "last_tweeted_at": "2026-03-24T01:25:47.060740Z",
     "tweet_id": "2036253404725490133",
     "resolved": false
@@ -11261,18 +11261,10 @@
     "rain_mm": 84.06,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 16.077,
-    "last_updated": "2026-08-16T07:04:08.762226Z",
+    "last_updated": "2026-08-16T10:00:31.631215Z",
     "last_tweeted_at": "2026-08-16T01:26:01.966054Z",
     "tweet_id": "2088799710584717436",
-    "resolved": false,
-    "pending_downgrade": true,
-    "pending_target_level": "Medium",
-    "pending_set_at": "2026-08-16T07:04:08.762226Z",
-    "pending_is_region": false,
-    "pending_observed_level": "Medium",
-    "pending_observed_rain_mm": 57.94,
-    "pending_observed_soil_moisture": 1.0,
-    "pending_observed_raw_dynamic_score": 11.081
+    "resolved": false
   },
   "43.5544,43.8550": {
     "country": "Russian Federation",
@@ -17757,16 +17749,16 @@
   "8.7661,-12.7870": {
     "country": "Sierra Leone",
     "name": "Port Loko",
-    "risk_level": "Medium",
-    "tweeted_level": "Medium",
+    "risk_level": "High",
+    "tweeted_level": "High",
     "latitude": 8.76609,
     "longitude": -12.78696,
-    "rain_mm": 46.06,
-    "soil_moisture": 0.616,
-    "raw_dynamic_score": 7.214,
-    "last_updated": "2026-08-10T19:05:55.167543Z",
-    "last_tweeted_at": "2026-05-25T07:15:56.121402Z",
-    "tweet_id": "2058809816374522114",
+    "rain_mm": 82.81,
+    "soil_moisture": 0.635,
+    "raw_dynamic_score": 13.11,
+    "last_updated": "2026-08-16T10:00:31.631215Z",
+    "last_tweeted_at": "2026-08-16T10:00:31.631215Z",
+    "tweet_id": "2088929430227816876",
     "resolved": false
   },
   "25.7466,89.2517": {
@@ -25581,10 +25573,14 @@
     "rain_mm": 90.5,
     "soil_moisture": 0.669,
     "raw_dynamic_score": 14.6,
-    "last_updated": "2026-08-16T04:24:47.356351Z",
+    "last_updated": "2026-08-16T10:00:31.631215Z",
     "last_tweeted_at": "2026-08-16T04:24:47.356351Z",
     "tweet_id": "2088844427204919484",
-    "resolved": false
+    "resolved": false,
+    "pending_downgrade": true,
+    "pending_target_level": "Medium",
+    "pending_set_at": "2026-08-16T10:00:31.631215Z",
+    "pending_is_region": true
   },
   "35.4061,129.1686": {
     "country": "Republic of Korea",
@@ -25596,7 +25592,7 @@
     "rain_mm": 90.5,
     "soil_moisture": 0.669,
     "raw_dynamic_score": 14.6,
-    "last_updated": "2026-08-16T04:24:47.356351Z",
+    "last_updated": "2026-08-16T10:00:31.631215Z",
     "last_tweeted_at": "2026-08-16T04:24:47.356351Z",
     "tweet_id": "2088844427204919484",
     "resolved": false
@@ -35032,7 +35028,7 @@
     "rain_mm": 54.06,
     "soil_moisture": 0.696,
     "raw_dynamic_score": 8.856,
-    "last_updated": "2026-08-08T21:37:30.816500Z",
+    "last_updated": "2026-08-16T10:00:31.631215Z",
     "last_tweeted_at": "2026-08-08T09:42:46.353949Z",
     "tweet_id": "2086026105748938956",
     "resolved": false
@@ -35569,7 +35565,7 @@
     "rain_mm": 46.31,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 8.857,
-    "last_updated": "2026-08-09T12:48:20.840179Z",
+    "last_updated": "2026-08-16T10:00:31.631215Z",
     "last_tweeted_at": "2026-08-09T06:56:15.770393Z",
     "tweet_id": "2086346092862435353",
     "resolved": false
@@ -36964,7 +36960,7 @@
     "rain_mm": 121.56,
     "soil_moisture": 0.67,
     "raw_dynamic_score": 19.629,
-    "last_updated": "2026-08-16T07:04:08.762226Z",
+    "last_updated": "2026-08-16T10:00:31.631215Z",
     "last_tweeted_at": "2026-08-16T01:26:01.966054Z",
     "tweet_id": "2088799457483579547",
     "resolved": false,
@@ -37058,7 +37054,7 @@
     "rain_mm": 59.38,
     "soil_moisture": 0.578,
     "raw_dynamic_score": 9.094,
-    "last_updated": "2026-08-16T04:24:47.356351Z",
+    "last_updated": "2026-08-16T10:00:31.631215Z",
     "last_tweeted_at": "2026-08-16T04:24:47.356351Z",
     "tweet_id": "2088844679957840013",
     "resolved": false
@@ -37076,6 +37072,36 @@
     "last_updated": "2026-08-16T07:04:08.762226Z",
     "last_tweeted_at": "2026-08-16T04:24:47.356351Z",
     "tweet_id": "2088844932484395497",
+    "resolved": false
+  },
+  "4.1534,9.2423": {
+    "country": "Cameroon",
+    "name": "Buea",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 4.15342,
+    "longitude": 9.24231,
+    "rain_mm": 46.75,
+    "soil_moisture": 0.61,
+    "raw_dynamic_score": 7.293,
+    "last_updated": "2026-08-16T10:00:31.631215Z",
+    "last_tweeted_at": "2026-08-16T10:00:31.631215Z",
+    "tweet_id": "2088928924164047222",
+    "resolved": false
+  },
+  "16.4164,120.5931": {
+    "country": "Philippines",
+    "name": "Baguio",
+    "risk_level": "High",
+    "tweeted_level": "High",
+    "latitude": 16.41639,
+    "longitude": 120.59306,
+    "rain_mm": 90.31,
+    "soil_moisture": 0.698,
+    "raw_dynamic_score": 14.81,
+    "last_updated": "2026-08-16T10:00:31.631215Z",
+    "last_tweeted_at": "2026-08-16T10:00:31.631215Z",
+    "tweet_id": "2088929177076449521",
     "resolved": false
   }
 }
