@@ -25903,5 +25903,14 @@
             "longitude": -155.5,
             "confidence": 0.9
         }
+    },
+    {
+        "link": null,
+        "date": "2026-08-16",
+        "status": "posted",
+        "tweet": "Pluvial flood exposure in dense cities (2025 projections, % population):\n1. \ud83c\uddee\ud83c\uddf3 Mumbai: 48%\n2. \ud83c\udde7\ud83c\udde9 Dhaka: 41%\n3. \ud83c\udde8\ud83c\uddf3 Shanghai: 35%\n4. \ud83c\uddfb\ud83c\uddf3 Ho Chi Minh City: 33%\n5. \ud83c\uddf5\ud83c\uddf0 Karachi: 31%",
+        "type": "statistical",
+        "category": "pluvial (surface) flooding in dense cities",
+        "tweet_id": "2089125097583866178"
     }
 ]
