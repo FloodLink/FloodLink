@@ -25502,5 +25502,14 @@
         "score": 0,
         "status": "skipped",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-08-16",
+        "status": "posted",
+        "tweet": "By 2030, 480 million urban residents across Asia are projected to face river flood exposure from intensified extreme rainfall, up 35% from 2020 levels.",
+        "type": "statistical",
+        "category": "urban areas exposed to river flooding",
+        "tweet_id": "2088872117840556337"
     }
 ]
