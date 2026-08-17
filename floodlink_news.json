@@ -25617,5 +25617,14 @@
             "longitude": 122.0,
             "confidence": 0.7
         }
+    },
+    {
+        "link": null,
+        "date": "2026-08-17",
+        "status": "posted",
+        "tweet": "Flood early warning coverage (% pop., 2025):\n1. Europe: 84%\n2. North America: 77%\n3. East Asia: 49%\n4. Latin America: 33%\n5. Sub-Saharan Africa: 19%",
+        "type": "statistical",
+        "category": "coverage of flood early warning systems worldwide",
+        "tweet_id": "2089282340417581340"
     }
 ]
