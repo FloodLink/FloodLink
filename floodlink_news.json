@@ -25286,5 +25286,14 @@
         "score": 8,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-08-17",
+        "status": "posted",
+        "tweet": "From 2020 to 2025, urban populations exposed to river flooding grew by 92 million across Asian cities, compared to 24 million across African cities.",
+        "type": "statistical",
+        "category": "urban areas exposed to river flooding",
+        "tweet_id": "2089207304348418401"
     }
 ]
