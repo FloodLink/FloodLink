@@ -24308,5 +24308,112 @@
         "score": 6,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQNDRucmJZTWRnLTZxNWhhX1JYX1owVkxJTHowV0Q1blV4ZUw3cXZYRHVzeEEyM2dTX01qS1cxM1FJQWROZ0JqREZiMDBwVThDdURuYW1rTlloRkJ0ek5vZ2F6QkxSSWxtN1ItQVo1X2J5V1lsbFYySUFydXJ1ZDIzXy0tb1R1NHVzVDR2SXRkMzdTcHU1b3NR?oc=5",
+        "date": "2026-08-19",
+        "title": "Though the strong wind and hail have moved on, rain and flooding continues - KMBC",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQNDRucmJZTWRnLTZxNWhhX1JYX1owVkxJTHowV0Q1blV4ZUw3cXZYRHVzeEEyM2dTX01qS1cxM1FJQWROZ0JqREZiMDBwVThDdURuYW1rTlloRkJ0ek5vZ2F6QkxSSWxtN1ItQVo1X2J5V1lsbFYySUFydXJ1ZDIzXy0tb1R1NHVzVDR2SXRkMzdTcHU1b3NR?oc=5\" target=\"_blank\">Though the strong wind and hail have moved on, rain and flooding continues</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KMBC</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNaE1fNXF4NnNzc1BjQ2FobDA0S1Nlck16WVNBblNQRmZLSDhBWmlic00yLTQ2YzRuSTdCRFFXTlV6TWNmcWpNRV9GMlFJVmxhYnM4WFBLbDdmd1V2aFlRbXdXYmtVa2RpOWRwa1lfVmNIcThJWUl1NlVad1VaY1poejlrQldZZmVlcGxBb1lJVmMyY3A5czNKS1F6dDhqeGFLdllCd3l1ZWRmT3NySEhrVmhubEdhX3RQY2FhRkZ1OHFWazZVYl9HNVVWQWlEQkV4WnFSVFBnOHhxenN5WWF0ZEwycHo?oc=5",
+        "date": "2026-08-19",
+        "title": "Flash Update: No. 1 \u2013 Flooding in Northern, Central, and Southern Provinces, Lao PDR \u2013 19 August 2026 - consultaelectoral.onpe.gob.pe",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxNaE1fNXF4NnNzc1BjQ2FobDA0S1Nlck16WVNBblNQRmZLSDhBWmlic00yLTQ2YzRuSTdCRFFXTlV6TWNmcWpNRV9GMlFJVmxhYnM4WFBLbDdmd1V2aFlRbXdXYmtVa2RpOWRwa1lfVmNIcThJWUl1NlVad1VaY1poejlrQldZZmVlcGxBb1lJVmMyY3A5czNKS1F6dDhqeGFLdllCd3l1ZWRmT3NySEhrVmhubEdhX3RQY2FhRkZ1OHFWazZVYl9HNVVWQWlEQkV4WnFSVFBnOHhxenN5WWF0ZEwycHo?oc=5\" target=\"_blank\">Flash Update: No. 1 \u2013 Flooding in Northern, Central, and Southern Provinces, Lao PDR \u2013 19 August 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">consultaelectoral.onpe.gob.pe</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": null,
+        "tweet_id": "2090049751534444836",
+        "geo": {
+            "country": "Laos",
+            "name": "Northern, Central and Southern Provinces",
+            "latitude": 18.0,
+            "longitude": 105.0,
+            "confidence": 0.6
+        }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNMjZwcHJSVFZmU0k5eVZSUzZGLVVFT2dJMlF2aTc5WUlJRDJmSloyemNJck15UnNRbkI0ZW1ZZ1EwNlNOSVVZZTJ5U0x1QXhIRUtoU180aFNsRWNXUXRQbDdFSVpjUDMyd3Q3d0hUdlg1M3lBQWJiV1prRXhib2NXbjRNU05mUk9JQ28tVDNtVzBIWEdDNU4wYS1DTTRBYU0?oc=5",
+        "date": "2026-08-19",
+        "title": "After Lala's flooding, another storm or hurricane could hit Hawaii this weekend - Yahoo",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNMjZwcHJSVFZmU0k5eVZSUzZGLVVFT2dJMlF2aTc5WUlJRDJmSloyemNJck15UnNRbkI0ZW1ZZ1EwNlNOSVVZZTJ5U0x1QXhIRUtoU180aFNsRWNXUXRQbDdFSVpjUDMyd3Q3d0hUdlg1M3lBQWJiV1prRXhib2NXbjRNU05mUk9JQ28tVDNtVzBIWEdDNU4wYS1DTTRBYU0?oc=5\" target=\"_blank\">After Lala's flooding, another storm or hurricane could hit Hawaii this weekend</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQc0MwMW5PVVQzYnNpeVpjOU1CN1ZqTkRwN2J3TTZOQ2JpMEpPNTdkWGJLMkRkTl8tUmlGUDdvaGw2a2VqSDBLVXdnYVQ2MEZHelNBbGwxZEhVaU11UElVQ0VLX2dtNC1rbm5KdHY1Sjc0a0tzV3FmWWtQMUpOYmJ5b2xQLUlwT2pNZzRHSlV5NEt2aDJjSXNicXVNZEtWeVZnamZabEE3ZWIycWc?oc=5",
+        "date": "2026-08-19",
+        "title": "Flooding Hits Pakistan Capital After Heavy Monsoon Rains - WION",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQc0MwMW5PVVQzYnNpeVpjOU1CN1ZqTkRwN2J3TTZOQ2JpMEpPNTdkWGJLMkRkTl8tUmlGUDdvaGw2a2VqSDBLVXdnYVQ2MEZHelNBbGwxZEhVaU11UElVQ0VLX2dtNC1rbm5KdHY1Sjc0a0tzV3FmWWtQMUpOYmJ5b2xQLUlwT2pNZzRHSlV5NEt2aDJjSXNicXVNZEtWeVZnamZabEE3ZWIycWc?oc=5\" target=\"_blank\">Flooding Hits Pakistan Capital After Heavy Monsoon Rains</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WION</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPenZFRjVSRU5kc2RLUTJ4dGxDNURCMXk1aUtTS2tmcXR6WGl0aTJ4TVN4WEwzRUFhMUQ5Y1lReGFSNUQ3OEVSVHpYRW9HYzRCaF9LTGl4M3NWRXdwZjB5RldDQUg4TllvQmxjRkNwOEFCWEFmeDNxcFRxZDBjUW9VTWdhU0V2WVhNalRmWkhNcTZGenBuWXBkbE11MFYtQ19jTmZyV0oxNHFGZw?oc=5",
+        "date": "2026-08-19",
+        "title": "Heavy monsoon rains flood Pakistan\u2019s Islamabad, Rawalpindi - Anadolu Ajans\u0131",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPenZFRjVSRU5kc2RLUTJ4dGxDNURCMXk1aUtTS2tmcXR6WGl0aTJ4TVN4WEwzRUFhMUQ5Y1lReGFSNUQ3OEVSVHpYRW9HYzRCaF9LTGl4M3NWRXdwZjB5RldDQUg4TllvQmxjRkNwOEFCWEFmeDNxcFRxZDBjUW9VTWdhU0V2WVhNalRmWkhNcTZGenBuWXBkbE11MFYtQ19jTmZyV0oxNHFGZw?oc=5\" target=\"_blank\">Heavy monsoon rains flood Pakistan\u2019s Islamabad, Rawalpindi</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Anadolu Ajans\u0131</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPeW8tXzBwbm42bGNYQ1FyalhmLVZ4LU1pZFpaM1UxR2RBVmF2bU5POWNhbFROdzNQNjRMMVhTUUIzRDd6QTJVeFpjMlM4ZTZBQkQ3OUo5N3NHQjM2S1BWMHNMYUxwdmxPU1lOdEN0alNZaGtIRkwyNjFvUDJsZ1FWSnhfMzgxYjBVU1dSeVRqcFlUQTFka3BOLUZVTkRhMWdmY1JUYlRtZjg2R25uaG5EMHdnb09wczMxRmw1UG5YbnVYOWc?oc=5",
+        "date": "2026-08-19",
+        "title": "Pakistan Extreme Weather Monsoon - Dayton Daily News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxPeW8tXzBwbm42bGNYQ1FyalhmLVZ4LU1pZFpaM1UxR2RBVmF2bU5POWNhbFROdzNQNjRMMVhTUUIzRDd6QTJVeFpjMlM4ZTZBQkQ3OUo5N3NHQjM2S1BWMHNMYUxwdmxPU1lOdEN0alNZaGtIRkwyNjFvUDJsZ1FWSnhfMzgxYjBVU1dSeVRqcFlUQTFka3BOLUZVTkRhMWdmY1JUYlRtZjg2R25uaG5EMHdnb09wczMxRmw1UG5YbnVYOWc?oc=5\" target=\"_blank\">Pakistan Extreme Weather Monsoon</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Dayton Daily News</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQOXJ5QlJKT1BTbndHWWRiUmgydGFuYjJjaW0xMEMtV2MwNkpPY0F2SE9CbXBVSk5IMnVULWdnWTQ5NW5wLUxmNElpeFY5bUlNMHd1RWxzaTlUU3B5SmE3bHRESEktMFIxUnB0SHVndFp3Tk1TYzRvMjlId1hWU1pUNlFGdEZMWE0taTF5NGlqUzZzbWYyekQ5Z0RkbkU0VG4wdmNkRG5raXk5dFVpS0FHZEtGbHBTeFJkWEdxaWUyUEdaanc?oc=5",
+        "date": "2026-08-19",
+        "title": "Pakistan Extreme Weather Monsoon - Dayton Daily News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxQOXJ5QlJKT1BTbndHWWRiUmgydGFuYjJjaW0xMEMtV2MwNkpPY0F2SE9CbXBVSk5IMnVULWdnWTQ5NW5wLUxmNElpeFY5bUlNMHd1RWxzaTlUU3B5SmE3bHRESEktMFIxUnB0SHVndFp3Tk1TYzRvMjlId1hWU1pUNlFGdEZMWE0taTF5NGlqUzZzbWYyekQ5Z0RkbkU0VG4wdmNkRG5raXk5dFVpS0FHZEtGbHBTeFJkWEdxaWUyUEdaanc?oc=5\" target=\"_blank\">Pakistan Extreme Weather Monsoon</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Dayton Daily News</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNUEExVFkxTEQ3Nk8wNFVORHQyMmRKX2NiQnJmZ2Y2a1AycVB0NXdYVEZ0emotTkY4UkFFS19FT0hmRmhaLVdwTEx4VWdzQmY0cTg1OHFjMTR5enJCa3YzdlQ2cElRcFF2SGlfY0xwTDVrVTFEV09TWE1ZWFBnVkh0bnVQOGk2OUh1VDdYOFBqM3lWa2JlejBtVzBqY0swLUM4VEJlUHhQN1N6X0VVa0p6a0tUNkZQTnpCVWFWWjBYTjFWR2FzTGRyaFdpMnRkTG5hZG1Bd09oOVhaN1JO?oc=5",
+        "date": "2026-08-19",
+        "title": "A mobile pumping station in E. Rodriguez, Quezon City drains floodwater from G. Araneta Avenue into the San Juan River on Wednesday following heavy monsoon rains. (Photos by Michael Varcas/The Philippine STAR) - facebook.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxNUEExVFkxTEQ3Nk8wNFVORHQyMmRKX2NiQnJmZ2Y2a1AycVB0NXdYVEZ0emotTkY4UkFFS19FT0hmRmhaLVdwTEx4VWdzQmY0cTg1OHFjMTR5enJCa3YzdlQ2cElRcFF2SGlfY0xwTDVrVTFEV09TWE1ZWFBnVkh0bnVQOGk2OUh1VDdYOFBqM3lWa2JlejBtVzBqY0swLUM4VEJlUHhQN1N6X0VVa0p6a0tUNkZQTnpCVWFWWjBYTjFWR2FzTGRyaFdpMnRkTG5hZG1Bd09oOVhaN1JO?oc=5\" target=\"_blank\">A mobile pumping station in E. Rodriguez, Quezon City drains floodwater from G. Araneta Avenue into the San Juan River on Wednesday following heavy monsoon rains. (Photos by Michael Varcas/The Philippine STAR)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">facebook.com</font>",
+        "similarity_excluded": "No",
+        "score": 6,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNaE1fNXF4NnNzc1BjQ2FobDA0S1Nlck16WVNBblNQRmZLSDhBWmlic00yLTQ2YzRuSTdCRFFXTlV6TWNmcWpNRV9GMlFJVmxhYnM4WFBLbDdmd1V2aFlRbXdXYmtVa2RpOWRwa1lfVmNIcThJWUl1NlVad1VaY1poejlrQldZZmVlcGxBb1lJVmMyY3A5czNKS1F6dDhqeGFLdllCd3l1ZWRmT3NySEhrVmhubEdhX3RQY2FhRkZ1OHFWazZVYl9HNVVWQWlEQkV4WnFSVFBnOHhxenN5WWF0ZEwycHo?oc=5",
+        "date": "2026-08-19",
+        "title": "Flash Update: No. 1 \u2013 Flooding in Northern, Central, and Southern Provinces, Lao PDR \u2013 19 August 2026 - consultaelectoral.onpe.gob.pe",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxNaE1fNXF4NnNzc1BjQ2FobDA0S1Nlck16WVNBblNQRmZLSDhBWmlic00yLTQ2YzRuSTdCRFFXTlV6TWNmcWpNRV9GMlFJVmxhYnM4WFBLbDdmd1V2aFlRbXdXYmtVa2RpOWRwa1lfVmNIcThJWUl1NlVad1VaY1poejlrQldZZmVlcGxBb1lJVmMyY3A5czNKS1F6dDhqeGFLdllCd3l1ZWRmT3NySEhrVmhubEdhX3RQY2FhRkZ1OHFWazZVYl9HNVVWQWlEQkV4WnFSVFBnOHhxenN5WWF0ZEwycHo?oc=5\" target=\"_blank\">Flash Update: No. 1 \u2013 Flooding in Northern, Central, and Southern Provinces, Lao PDR \u2013 19 August 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">consultaelectoral.onpe.gob.pe</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "posted",
+        "tweet": "\ud83c\uddf1\ud83c\udde6 POST-EVENT Lao PDR: Flooding reported across northern, central and southern provinces.",
+        "type": "news",
+        "tweet_id": "2090049751534444836",
+        "geo": {
+            "country": "Laos",
+            "name": "Northern, Central and Southern Provinces",
+            "latitude": 18.0,
+            "longitude": 105.0,
+            "confidence": 0.6
+        }
     }
 ]
