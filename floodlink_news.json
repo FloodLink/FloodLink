@@ -24522,5 +24522,25 @@
             "longitude": -85.0,
             "confidence": 0.75
         }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdzFDQ3V5a2F6ajBJdkRTaUVyam1RZ1BrX1lJU2JqNXBfa0FLc0MwNDJBejBxVndTektRa1VRYmVraG54Y1lmTXpVUkhZTmExMDZOaTA3YjMxMktDQWF4Q2VTN3JFOUhEYVg4azFJQlhpZGlzR2pVSWY5azlrUGNQUHNNRlVvVzA5aEthbEZsRHFjZnRoTGVFcHQ1ZnJvU1hRaV9NZFdyaw?oc=5",
+        "date": "2026-08-19",
+        "title": "Kansas City weather: Flash flooding warning this morning - KMBC",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxOdzFDQ3V5a2F6ajBJdkRTaUVyam1RZ1BrX1lJU2JqNXBfa0FLc0MwNDJBejBxVndTektRa1VRYmVraG54Y1lmTXpVUkhZTmExMDZOaTA3YjMxMktDQWF4Q2VTN3JFOUhEYVg4azFJQlhpZGlzR2pVSWY5azlrUGNQUHNNRlVvVzA5aEthbEZsRHFjZnRoTGVFcHQ1ZnJvU1hRaV9NZFdyaw?oc=5\" target=\"_blank\">Kansas City weather: Flash flooding warning this morning</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KMBC</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOckwxTUxhRFhEeGlPZUhyZzZET2RQcV90QU83Tm5XeE1jUFhZc2R0VWVJamVOOUphdDNvOVpQWFpIa0RqbjlhMjFKTlNaYVQzamhzcU1NZTRSbE5kLVF0TWgtLTZkRk9vTEFLYWEwT2tqal9mVWJIOEVCclFJYWYwOGI2MmtwQ2l1Y1lKbVJGMUdTcnNqdHd6MHFQSjFnYU0?oc=5",
+        "date": "2026-08-19",
+        "title": "Heavy monsoon rains flood Pakistan\u2019s Islamabad, Rawalpindi - Anadolu Ajans\u0131",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxOckwxTUxhRFhEeGlPZUhyZzZET2RQcV90QU83Tm5XeE1jUFhZc2R0VWVJamVOOUphdDNvOVpQWFpIa0RqbjlhMjFKTlNaYVQzamhzcU1NZTRSbE5kLVF0TWgtLTZkRk9vTEFLYWEwT2tqal9mVWJIOEVCclFJYWYwOGI2MmtwQ2l1Y1lKbVJGMUdTcnNqdHd6MHFQSjFnYU0?oc=5\" target=\"_blank\">Heavy monsoon rains flood Pakistan\u2019s Islamabad, Rawalpindi</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Anadolu Ajans\u0131</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
     }
 ]
