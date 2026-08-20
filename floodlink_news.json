@@ -24412,5 +24412,14 @@
         "score": 0,
         "status": "skipped",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-08-20",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 New York City saw extreme rainfall events (>2 inches in an hour) rise 45% from 2020-2025, with flash floods now occurring every 2-3 years instead of once per decade.",
+        "type": "statistical",
+        "category": "extreme rainfall trends in major cities",
+        "tweet_id": "2090381837885403260"
     }
 ]
