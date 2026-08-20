@@ -23956,5 +23956,14 @@
             "longitude": -84.0,
             "confidence": 0.85
         }
+    },
+    {
+        "link": null,
+        "date": "2026-08-20",
+        "status": "posted",
+        "tweet": "Flood fatalities 2020-2025 by region:\n1. South Asia: 51,000\n2. East Asia: 27,000\n3. Sub-Saharan Africa: 19,000\n4. Americas: 8,500\n5. Europe: 3,200",
+        "type": "statistical",
+        "category": "global flood fatalities and trends",
+        "tweet_id": "2090280954707476884"
     }
 ]
