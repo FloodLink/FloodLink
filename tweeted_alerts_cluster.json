@@ -7659,7 +7659,7 @@
     "rain_mm": 46.25,
     "soil_moisture": 0.71,
     "raw_dynamic_score": 7.633,
-    "last_updated": "2026-03-14T18:33:37.310691Z",
+    "last_updated": "2026-08-20T12:44:33.186001Z",
     "last_tweeted_at": "2026-03-14T12:42:42.523314Z",
     "tweet_id": "2032799628039532979",
     "resolved": false
@@ -24557,7 +24557,7 @@
     "rain_mm": 45.69,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 8.738,
-    "last_updated": "2026-07-01T22:24:49.333703Z",
+    "last_updated": "2026-08-20T12:44:33.186001Z",
     "last_tweeted_at": "2026-06-26T17:06:43.965528Z",
     "tweet_id": "2070554402604175690",
     "resolved": false
@@ -28206,22 +28206,6 @@
     "last_tweeted_at": "2026-07-12T02:07:47.798512Z",
     "tweet_id": "2076126386599669831",
     "resolved": false
-  },
-  "14.6789,120.2661": {
-    "country": "Philippines",
-    "name": "Morong",
-    "risk_level": "Low",
-    "tweeted_level": "Low",
-    "latitude": 14.67889,
-    "longitude": 120.26611,
-    "rain_mm": 11.44,
-    "soil_moisture": 1.0,
-    "raw_dynamic_score": 2.187,
-    "last_updated": "2026-08-19T10:27:35.208295Z",
-    "last_tweeted_at": "2026-08-19T10:27:35.208295Z",
-    "tweet_id": "2090023408402645077",
-    "resolved": true,
-    "resolved_at": "2026-08-19T10:27:35.208295Z"
   },
   "13.9667,-14.8167": {
     "country": "Senegal",
@@ -38291,6 +38275,51 @@
     "last_updated": "2026-08-20T10:11:27.969122Z",
     "last_tweeted_at": "2026-08-20T10:11:27.969122Z",
     "tweet_id": "2090381476844241053",
+    "resolved": false
+  },
+  "46.0101,8.9600": {
+    "country": "Switzerland",
+    "name": "Lugano",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 46.01008,
+    "longitude": 8.96004,
+    "rain_mm": 58.12,
+    "soil_moisture": 0.559,
+    "raw_dynamic_score": 8.802,
+    "last_updated": "2026-08-20T12:44:33.186001Z",
+    "last_tweeted_at": "2026-08-20T12:44:33.186001Z",
+    "tweet_id": "2090419749918290401",
+    "resolved": false
+  },
+  "45.8046,13.5329": {
+    "country": "Italy",
+    "name": "Monfalcone",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 45.80463,
+    "longitude": 13.53292,
+    "rain_mm": 45.0,
+    "soil_moisture": 1.0,
+    "raw_dynamic_score": 8.606,
+    "last_updated": "2026-08-20T12:44:33.186001Z",
+    "last_tweeted_at": "2026-08-20T12:44:33.186001Z",
+    "tweet_id": "2090420002683797686",
+    "resolved": false
+  },
+  "16.2562,97.7246": {
+    "country": "Myanmar",
+    "name": "Mudon",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 16.25624,
+    "longitude": 97.7246,
+    "rain_mm": 39.06,
+    "soil_moisture": 0.739,
+    "raw_dynamic_score": 6.551,
+    "last_updated": "2026-08-20T12:44:33.186001Z",
+    "last_tweeted_at": "2026-08-20T12:44:33.186001Z",
+    "tweet_id": "2090420255608688723",
     "resolved": false
   }
 }
