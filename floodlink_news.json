@@ -24382,5 +24382,35 @@
         "score": 7,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNLVc3cHBkT1dZeF9WQ085M1laZHNBSmlYbW56TlNpNVlkTjJhWnpaSDNHV3RrV2dmdWxDLXJIbW14MVE2aHQ4WEloRDVpU1NDRDdWanJzYWhTUnVsZGFoQU1GOWlYTDA3YnNiYTJMd3gzYmVOZGc1d3hQUWNQcjJRV0YtYmN4dmd2MlhjWWY5Sm90YXZaRC1fVHUyRkdfOUJhS3p4NWtVRC00TGVvQUk1N1E1YkpoU3B3STBpVndBSXc4SExjZTBQaXF4Z1Bvd29oV0k4TncwSnI4dTgyQm1oR0c3Ym53RkZQRW9XSXRrRQ?oc=5",
+        "date": "2026-08-20",
+        "title": "Hey Neighbor Market to bring \u2018heirloom-quality\u2019 clothing to Oakwood - Dayton Daily News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxNLVc3cHBkT1dZeF9WQ085M1laZHNBSmlYbW56TlNpNVlkTjJhWnpaSDNHV3RrV2dmdWxDLXJIbW14MVE2aHQ4WEloRDVpU1NDRDdWanJzYWhTUnVsZGFoQU1GOWlYTDA3YnNiYTJMd3gzYmVOZGc1d3hQUWNQcjJRV0YtYmN4dmd2MlhjWWY5Sm90YXZaRC1fVHUyRkdfOUJhS3p4NWtVRC00TGVvQUk1N1E1YkpoU3B3STBpVndBSXc4SExjZTBQaXF4Z1Bvd29oV0k4TncwSnI4dTgyQm1oR0c3Ym53RkZQRW9XSXRrRQ?oc=5\" target=\"_blank\">Hey Neighbor Market to bring \u2018heirloom-quality\u2019 clothing to Oakwood</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Dayton Daily News</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZDNxNGNqalQzX0gxdlVndndWUExIM252WEFFNE9DR2xrd2hOOU1kcnlCU0ROTGZ3YjYyQjQ3NTg4Zy0zVnJpNmRSYllQRGRJdHpEYmNvQmktbG84MHdwcVhWMnBlREtCNzhlN2VrOV9NTW1MOEdpZV9pVmNCQzVON0t1aFYxQkZmQVltcQ?oc=5",
+        "date": "2026-08-20",
+        "title": "Months-old flood video misrepresented as monsoon impact in northern Philippines - Yahoo",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQZDNxNGNqalQzX0gxdlVndndWUExIM252WEFFNE9DR2xrd2hOOU1kcnlCU0ROTGZ3YjYyQjQ3NTg4Zy0zVnJpNmRSYllQRGRJdHpEYmNvQmktbG84MHdwcVhWMnBlREtCNzhlN2VrOV9NTW1MOEdpZV9pVmNCQzVON0t1aFYxQkZmQVltcQ?oc=5\" target=\"_blank\">Months-old flood video misrepresented as monsoon impact in northern Philippines</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9Ia0lvV1Noak5iTlpDSzdReTc2LTBPZENROWJEZkRTUVI0WUpvTmJBZW5va2ZfWF9WdjNPbXJod2NUekJmbkxaT0J0Y1EwSGt4?oc=5",
+        "date": "2026-08-20",
+        "title": "Iloilo PDRRMO on heightened alert as monsoon affects 3K families - Philippine News Agency",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTE9Ia0lvV1Noak5iTlpDSzdReTc2LTBPZENROWJEZkRTUVI0WUpvTmJBZW5va2ZfWF9WdjNPbXJod2NUekJmbkxaT0J0Y1EwSGt4?oc=5\" target=\"_blank\">Iloilo PDRRMO on heightened alert as monsoon affects 3K families</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Philippine News Agency</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
     }
 ]
