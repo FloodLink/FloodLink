@@ -23933,5 +23933,14 @@
             "longitude": -75.5,
             "confidence": 0.8
         }
+    },
+    {
+        "link": null,
+        "date": "2026-08-21",
+        "status": "posted",
+        "tweet": "US levees and reservoirs currently shield 14 million people from flooding. By 2035, they must handle 30% higher peak flows from extreme rainfall or lose that protection.",
+        "type": "statistical",
+        "category": "dams, levees and reservoirs used for flood control",
+        "tweet_id": "2090644457225957858"
     }
 ]
