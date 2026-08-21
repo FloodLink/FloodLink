@@ -14475,7 +14475,7 @@
     "rain_mm": 46.69,
     "soil_moisture": 0.641,
     "raw_dynamic_score": 7.413,
-    "last_updated": "2026-05-03T15:47:59.936370Z",
+    "last_updated": "2026-08-21T18:36:00.859645Z",
     "last_tweeted_at": "2026-05-03T13:00:46.833562Z",
     "tweet_id": "2050925077042991236",
     "resolved": false
@@ -22598,7 +22598,7 @@
     "rain_mm": 61.75,
     "soil_moisture": 0.448,
     "raw_dynamic_score": 8.732,
-    "last_updated": "2026-06-20T16:23:28.441121Z",
+    "last_updated": "2026-08-21T18:36:00.859645Z",
     "last_tweeted_at": "2026-06-20T13:54:17.453407Z",
     "tweet_id": "2068332154195746949",
     "resolved": false
@@ -24984,7 +24984,7 @@
     "rain_mm": 52.0,
     "soil_moisture": 0.486,
     "raw_dynamic_score": 7.529,
-    "last_updated": "2026-08-21T15:36:15.005781Z",
+    "last_updated": "2026-08-21T18:36:00.859645Z",
     "last_tweeted_at": "2026-06-29T13:09:59.552409Z",
     "tweet_id": "2071582251008090488",
     "resolved": false
@@ -27804,7 +27804,7 @@
     "rain_mm": 45.81,
     "soil_moisture": 0.499,
     "raw_dynamic_score": 6.691,
-    "last_updated": "2026-07-11T21:52:50.913697Z",
+    "last_updated": "2026-08-21T18:36:00.859645Z",
     "last_tweeted_at": "2026-07-07T17:19:55.542844Z",
     "tweet_id": "2074545250857812471",
     "resolved": false
@@ -29335,7 +29335,7 @@
     "rain_mm": 74.19,
     "soil_moisture": 0.668,
     "raw_dynamic_score": 11.962,
-    "last_updated": "2026-07-18T01:57:10.030062Z",
+    "last_updated": "2026-08-21T18:36:00.859645Z",
     "last_tweeted_at": "2026-07-17T16:20:33.629687Z",
     "tweet_id": "2078153418112200834",
     "resolved": false
@@ -31869,7 +31869,7 @@
     "rain_mm": 43.5,
     "soil_moisture": 0.721,
     "raw_dynamic_score": 7.225,
-    "last_updated": "2026-07-28T19:25:15.790319Z",
+    "last_updated": "2026-08-21T18:36:00.859645Z",
     "last_tweeted_at": "2026-07-28T08:30:14.245802Z",
     "tweet_id": "2082020840879657248",
     "resolved": false
@@ -33924,7 +33924,7 @@
     "rain_mm": 60.06,
     "soil_moisture": 0.629,
     "raw_dynamic_score": 9.475,
-    "last_updated": "2026-08-04T01:59:04.901699Z",
+    "last_updated": "2026-08-21T18:36:00.859645Z",
     "last_tweeted_at": "2026-08-03T22:11:53.078307Z",
     "tweet_id": "2084401930231533779",
     "resolved": false
@@ -37243,7 +37243,7 @@
     "rain_mm": 46.56,
     "soil_moisture": 0.729,
     "raw_dynamic_score": 7.764,
-    "last_updated": "2026-08-21T15:36:15.005781Z",
+    "last_updated": "2026-08-21T18:36:00.859645Z",
     "last_tweeted_at": "2026-08-19T13:23:33.597767Z",
     "tweet_id": "2090067443972501911",
     "resolved": false
@@ -38223,7 +38223,7 @@
     "rain_mm": 41.94,
     "soil_moisture": 0.707,
     "raw_dynamic_score": 6.91,
-    "last_updated": "2026-08-20T21:31:22.797814Z",
+    "last_updated": "2026-08-21T18:36:00.859645Z",
     "last_tweeted_at": "2026-08-20T19:04:24.477036Z",
     "tweet_id": "2090516624801411387",
     "resolved": false
@@ -38461,7 +38461,7 @@
     "rain_mm": 46.06,
     "soil_moisture": 0.577,
     "raw_dynamic_score": 7.052,
-    "last_updated": "2026-08-21T15:36:15.005781Z",
+    "last_updated": "2026-08-21T18:36:00.859645Z",
     "last_tweeted_at": "2026-08-21T15:36:15.005781Z",
     "tweet_id": "2090825600822845566",
     "resolved": false
@@ -38521,7 +38521,7 @@
     "rain_mm": 42.12,
     "soil_moisture": 0.644,
     "raw_dynamic_score": 6.701,
-    "last_updated": "2026-08-21T15:36:15.005781Z",
+    "last_updated": "2026-08-21T18:36:00.859645Z",
     "last_tweeted_at": "2026-08-21T15:36:15.005781Z",
     "tweet_id": "2090826105787699448",
     "resolved": false
@@ -38554,6 +38554,66 @@
     "last_updated": "2026-08-21T15:36:15.005781Z",
     "last_tweeted_at": "2026-08-21T15:36:15.005781Z",
     "tweet_id": "2090826358452625581",
+    "resolved": false
+  },
+  "50.4113,14.9032": {
+    "country": "Czechia",
+    "name": "Mladá Boleslav",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 50.41135,
+    "longitude": 14.90318,
+    "rain_mm": 45.31,
+    "soil_moisture": 0.536,
+    "raw_dynamic_score": 6.767,
+    "last_updated": "2026-08-21T18:36:00.859645Z",
+    "last_tweeted_at": "2026-08-21T18:36:00.859645Z",
+    "tweet_id": "2090870600843825603",
+    "resolved": false
+  },
+  "50.7243,15.1711": {
+    "country": "Czechia",
+    "name": "Jablonec nad Nisou",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 50.72431,
+    "longitude": 15.17108,
+    "rain_mm": 42.38,
+    "soil_moisture": 0.591,
+    "raw_dynamic_score": 6.538,
+    "last_updated": "2026-08-21T18:36:00.859645Z",
+    "last_tweeted_at": "2026-08-21T18:36:00.859645Z",
+    "tweet_id": "2090870853433237574",
+    "resolved": false
+  },
+  "35.2627,-77.5816": {
+    "country": "United States",
+    "name": "Kinston",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 35.26266,
+    "longitude": -77.58164,
+    "rain_mm": 77.69,
+    "soil_moisture": 0.527,
+    "raw_dynamic_score": 11.541,
+    "last_updated": "2026-08-21T18:36:00.859645Z",
+    "last_tweeted_at": "2026-08-21T18:36:00.859645Z",
+    "tweet_id": "2090871106018443446",
+    "resolved": false
+  },
+  "8.1621,-63.5654": {
+    "country": "Bolivarian Republic of Venezuela",
+    "name": "Soledad",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 8.16206,
+    "longitude": -63.5654,
+    "rain_mm": 67.19,
+    "soil_moisture": 0.459,
+    "raw_dynamic_score": 9.565,
+    "last_updated": "2026-08-21T18:36:00.859645Z",
+    "last_tweeted_at": "2026-08-21T18:36:00.859645Z",
+    "tweet_id": "2090871358628700511",
     "resolved": false
   }
 }
