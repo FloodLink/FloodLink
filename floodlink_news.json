@@ -24169,5 +24169,82 @@
             "longitude": 98.5667,
             "confidence": 0.9
         }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNZDFDRlZDS0hqcmlGZXJmTHo2MWF4Ui14enJqeDdEelJqdVRoNlF0ck9HY2lCV1VBb0JiZldCcjJaNFltWFhHcnJFNVBydFdMcWt3ZDhHNHk0VWJ4WDJncWkzVjAzOWVwSWFXRmdoMm82Tm5VWkxDYkQtZ0JvaFFiU0NvYVJLX3ZnVGt6WUozSlJ6NHlsRGotSDQ1MmUtbU41Ti1icXZLYWtGVGhtTG5kV0dncmpKQnJUTlNxNXZWbGhlNFdYa3RaSW5ndUJBWFgxVW5XXzBoV0xNVzZ1ZWdBc194NS1qWVZFbllMSEtyMnMtWTM2TzBDaE9CRTA?oc=5",
+        "date": "2026-08-21",
+        "title": "Intense rain puts much of Tennessee Valley under overnight Flash Flood Warning - rocketcitynow.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_AFBVV95cUxNZDFDRlZDS0hqcmlGZXJmTHo2MWF4Ui14enJqeDdEelJqdVRoNlF0ck9HY2lCV1VBb0JiZldCcjJaNFltWFhHcnJFNVBydFdMcWt3ZDhHNHk0VWJ4WDJncWkzVjAzOWVwSWFXRmdoMm82Tm5VWkxDYkQtZ0JvaFFiU0NvYVJLX3ZnVGt6WUozSlJ6NHlsRGotSDQ1MmUtbU41Ti1icXZLYWtGVGhtTG5kV0dncmpKQnJUTlNxNXZWbGhlNFdYa3RaSW5ndUJBWFgxVW5XXzBoV0xNVzZ1ZWdBc194NS1qWVZFbllMSEtyMnMtWTM2TzBDaE9CRTA?oc=5\" target=\"_blank\">Intense rain puts much of Tennessee Valley under overnight Flash Flood Warning</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">rocketcitynow.com</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": null,
+        "tweet_id": "2090669857310114279",
+        "geo": {
+            "country": "United States",
+            "name": "Tennessee Valley",
+            "latitude": 35.0,
+            "longitude": -86.0,
+            "confidence": 0.85
+        }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9rdnFxcFYtMUd0c1ZZZkZhVFF5NXVZaU1lblRPV3J4aGNyUTlHUy1RaXpvcXhKelpmdUl0X25pQVVGV0JQdnRmckdRWGx1TFlycHhKSWh1ZmNjYlJoc3FWVm1R?oc=5",
+        "date": "2026-08-21",
+        "title": "Flash Flood Warning Issued for Coconino County Amid Heavy Rain Over White Sage Fire Scar - Forth.News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE9rdnFxcFYtMUd0c1ZZZkZhVFF5NXVZaU1lblRPV3J4aGNyUTlHUy1RaXpvcXhKelpmdUl0X25pQVVGV0JQdnRmckdRWGx1TFlycHhKSWh1ZmNjYlJoc3FWVm1R?oc=5\" target=\"_blank\">Flash Flood Warning Issued for Coconino County Amid Heavy Rain Over White Sage Fire Scar</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Forth.News</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBkcEVSRjNrMHRWU0l5UkcxeURCQVJucnFreUhNVmwzaGtoOG9aU2I2aVlaN2xlVjZXbUdxMmc4VjdMTzZicWVuNnFoVEhpNmhkdXY4NU5LTzNyMnlDNFhacUNB?oc=5",
+        "date": "2026-08-21",
+        "title": "Severe Flash Flood Warning for Paria River, Arizona - Forth.News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTFBkcEVSRjNrMHRWU0l5UkcxeURCQVJucnFreUhNVmwzaGtoOG9aU2I2aVlaN2xlVjZXbUdxMmc4VjdMTzZicWVuNnFoVEhpNmhkdXY4NU5LTzNyMnlDNFhacUNB?oc=5\" target=\"_blank\">Severe Flash Flood Warning for Paria River, Arizona</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Forth.News</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPSXRHcUI1cHNKdnZGUTRoOWRMMWJfam9oMG5wV0ZicWZiWkFfcnZ0bk1QcFB5bXB2dDJqV3c4b19FdEZkNGZsWi1aNEdadHNqbWttdE5QVGVxam50U0RYSnVWYmY2ME40TmhXenU2NzRRV2RydXZqbWpnQlBSOWlHS1VhRE52NS1NRkxYTGY4TXNhTW0tQkk3NXVPVk52TzhpRlhsMDlKNFdYeXB0OUY3MW45Y3J5X1NlaGJqT2lRdHB6akd5N0Rfc0RB?oc=5",
+        "date": "2026-08-21",
+        "title": "Moei River overflows, prompting border market vendors in Mae Sot to move goods - Bangkok Post",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxPSXRHcUI1cHNKdnZGUTRoOWRMMWJfam9oMG5wV0ZicWZiWkFfcnZ0bk1QcFB5bXB2dDJqV3c4b19FdEZkNGZsWi1aNEdadHNqbWttdE5QVGVxam50U0RYSnVWYmY2ME40TmhXenU2NzRRV2RydXZqbWpnQlBSOWlHS1VhRE52NS1NRkxYTGY4TXNhTW0tQkk3NXVPVk52TzhpRlhsMDlKNFdYeXB0OUY3MW45Y3J5X1NlaGJqT2lRdHB6akd5N0Rfc0RB?oc=5\" target=\"_blank\">Moei River overflows, prompting border market vendors in Mae Sot to move goods</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bangkok Post</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNcjZuS3RoaVRXWmYzUGJqSWxTODlZVGRzWUdwRkU5VjRadFdzckZ2R0JXY3h2bFhxYVREVDktNE1UOWxyQ0twRU9uODEzem1TS01GTnNhR1VpSk8tdlpMNEludWVVRWw5MGU2VjNUOXZJa3g2YVRVU3hHeHI4S1ZSTHN0RjBRSmVkQzRZdjZWUEZCbnFIR3hsVHktbmlnV254T2VaUzRJTW5RU2cwVkJRdzQwMk1ZM0RUeG1CWm1fdjJKT05Da0HSAcYBQVVfeXFMUExKZEFmOGJmZm9uOFEtVDF6ZVNJcFgyRnM1ZzRfdzFMdnZnMHlTT05WWTVkTFJySW0zWk1hblJ0T2RweVhkeXpRZ21SWFFMSHM1VmhBc0s4SlRDWWx2bVFWLV93Wl8yb1ZXMGZIeHg0NGNxWXNTd1BRTVowUWRLV18xVWhNNk1nTmNvd3NNc0drUHREMDBpalZuN2RrV2RIRFNoWTFCSnVGcDNlaUR0ZUY4Zy1vTWVFTWxSa1kxUnNZRFJnS1J3?oc=5",
+        "date": "2026-08-21",
+        "title": "Philippine flood-control scandal resurfaces after latest monsoon deluge - South China Morning Post",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxNcjZuS3RoaVRXWmYzUGJqSWxTODlZVGRzWUdwRkU5VjRadFdzckZ2R0JXY3h2bFhxYVREVDktNE1UOWxyQ0twRU9uODEzem1TS01GTnNhR1VpSk8tdlpMNEludWVVRWw5MGU2VjNUOXZJa3g2YVRVU3hHeHI4S1ZSTHN0RjBRSmVkQzRZdjZWUEZCbnFIR3hsVHktbmlnV254T2VaUzRJTW5RU2cwVkJRdzQwMk1ZM0RUeG1CWm1fdjJKT05Da0HSAcYBQVVfeXFMUExKZEFmOGJmZm9uOFEtVDF6ZVNJcFgyRnM1ZzRfdzFMdnZnMHlTT05WWTVkTFJySW0zWk1hblJ0T2RweVhkeXpRZ21SWFFMSHM1VmhBc0s4SlRDWWx2bVFWLV93Wl8yb1ZXMGZIeHg0NGNxWXNTd1BRTVowUWRLV18xVWhNNk1nTmNvd3NNc0drUHREMDBpalZuN2RrV2RIRFNoWTFCSnVGcDNlaUR0ZUY4Zy1vTWVFTWxSa1kxUnNZRFJnS1J3?oc=5\" target=\"_blank\">Philippine flood-control scandal resurfaces after latest monsoon deluge</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">South China Morning Post</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNZDFDRlZDS0hqcmlGZXJmTHo2MWF4Ui14enJqeDdEelJqdVRoNlF0ck9HY2lCV1VBb0JiZldCcjJaNFltWFhHcnJFNVBydFdMcWt3ZDhHNHk0VWJ4WDJncWkzVjAzOWVwSWFXRmdoMm82Tm5VWkxDYkQtZ0JvaFFiU0NvYVJLX3ZnVGt6WUozSlJ6NHlsRGotSDQ1MmUtbU41Ti1icXZLYWtGVGhtTG5kV0dncmpKQnJUTlNxNXZWbGhlNFdYa3RaSW5ndUJBWFgxVW5XXzBoV0xNVzZ1ZWdBc194NS1qWVZFbllMSEtyMnMtWTM2TzBDaE9CRTA?oc=5",
+        "date": "2026-08-21",
+        "title": "Intense rain puts much of Tennessee Valley under overnight Flash Flood Warning - rocketcitynow.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_AFBVV95cUxNZDFDRlZDS0hqcmlGZXJmTHo2MWF4Ui14enJqeDdEelJqdVRoNlF0ck9HY2lCV1VBb0JiZldCcjJaNFltWFhHcnJFNVBydFdMcWt3ZDhHNHk0VWJ4WDJncWkzVjAzOWVwSWFXRmdoMm82Tm5VWkxDYkQtZ0JvaFFiU0NvYVJLX3ZnVGt6WUozSlJ6NHlsRGotSDQ1MmUtbU41Ti1icXZLYWtGVGhtTG5kV0dncmpKQnJUTlNxNXZWbGhlNFdYa3RaSW5ndUJBWFgxVW5XXzBoV0xNVzZ1ZWdBc194NS1qWVZFbllMSEtyMnMtWTM2TzBDaE9CRTA?oc=5\" target=\"_blank\">Intense rain puts much of Tennessee Valley under overnight Flash Flood Warning</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">rocketcitynow.com</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 FORECAST Tennessee Valley: Flash flood warning issued due to intense overnight rain.",
+        "type": "news",
+        "tweet_id": "2090669857310114279",
+        "geo": {
+            "country": "United States",
+            "name": "Tennessee Valley",
+            "latitude": 35.0,
+            "longitude": -86.0,
+            "confidence": 0.85
+        }
     }
 ]
