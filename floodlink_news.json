@@ -23382,5 +23382,14 @@
             "longitude": -90.5,
             "confidence": 0.85
         }
+    },
+    {
+        "link": null,
+        "date": "2026-08-22",
+        "status": "posted",
+        "tweet": "Floodplain pop. exposure share (2024 est.):\n1. \ud83c\udde7\ud83c\udde9 Bangladesh: 68%\n2. \ud83c\uddf3\ud83c\uddf1 Netherlands: 59%\n3. \ud83c\uddfb\ud83c\uddf3 Vietnam: 46%\n4. \ud83c\uddee\ud83c\uddf3 India: 24%",
+        "type": "statistical",
+        "category": "population living in floodplains",
+        "tweet_id": "2091016921739301373"
     }
 ]
