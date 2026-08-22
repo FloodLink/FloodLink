@@ -14341,18 +14341,10 @@
     "rain_mm": 64.19,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 12.276,
-    "last_updated": "2026-08-21T06:41:44.547110Z",
+    "last_updated": "2026-08-22T21:26:20.799732Z",
     "last_tweeted_at": "2026-08-21T03:54:37.298430Z",
     "tweet_id": "2090649280126009497",
-    "resolved": false,
-    "pending_downgrade": true,
-    "pending_target_level": "Low",
-    "pending_set_at": "2026-08-21T06:41:44.547110Z",
-    "pending_is_region": false,
-    "pending_observed_level": "Low",
-    "pending_observed_rain_mm": 26.44,
-    "pending_observed_soil_moisture": 1.0,
-    "pending_observed_raw_dynamic_score": 5.056
+    "resolved": false
   },
   "20.9167,106.0833": {
     "country": "Viet Nam",
@@ -14394,13 +14386,13 @@
     "rain_mm": 84.06,
     "soil_moisture": 0.747,
     "raw_dynamic_score": 14.158,
-    "last_updated": "2026-08-22T18:28:54.409956Z",
+    "last_updated": "2026-08-22T21:26:20.799732Z",
     "last_tweeted_at": "2026-08-22T03:48:35.063140Z",
     "tweet_id": "2091010909598879777",
     "resolved": false,
     "pending_downgrade": true,
     "pending_target_level": "Low",
-    "pending_set_at": "2026-08-22T12:33:16.266984Z",
+    "pending_set_at": "2026-08-22T21:26:20.799732Z",
     "pending_is_region": true
   },
   "21.0667,106.3167": {
@@ -14413,7 +14405,7 @@
     "rain_mm": 84.06,
     "soil_moisture": 0.747,
     "raw_dynamic_score": 14.158,
-    "last_updated": "2026-08-22T12:33:16.266984Z",
+    "last_updated": "2026-08-22T21:26:20.799732Z",
     "last_tweeted_at": "2026-08-22T03:48:35.063140Z",
     "tweet_id": "2091010909598879777",
     "resolved": false
@@ -19876,7 +19868,7 @@
     "rain_mm": 61.06,
     "soil_moisture": 0.657,
     "raw_dynamic_score": 9.785,
-    "last_updated": "2026-08-22T12:33:16.266984Z",
+    "last_updated": "2026-08-22T21:26:20.799732Z",
     "last_tweeted_at": "2026-06-08T13:10:38.353852Z",
     "tweet_id": "2063973024684965957",
     "resolved": false
@@ -22723,7 +22715,7 @@
     "rain_mm": 53.19,
     "soil_moisture": 0.724,
     "raw_dynamic_score": 8.846,
-    "last_updated": "2026-08-22T18:28:54.409956Z",
+    "last_updated": "2026-08-22T21:26:20.799732Z",
     "last_tweeted_at": "2026-06-21T07:38:25.224791Z",
     "tweet_id": "2068600194459992502",
     "resolved": false
@@ -28982,7 +28974,7 @@
     "rain_mm": 41.5,
     "soil_moisture": 0.732,
     "raw_dynamic_score": 6.934,
-    "last_updated": "2026-08-22T18:28:54.409956Z",
+    "last_updated": "2026-08-22T21:26:20.799732Z",
     "last_tweeted_at": "2026-07-15T13:28:47.499910Z",
     "tweet_id": "2077385172329120088",
     "resolved": false
@@ -35364,7 +35356,7 @@
     "rain_mm": 74.5,
     "soil_moisture": 0.606,
     "raw_dynamic_score": 11.596,
-    "last_updated": "2026-08-15T01:20:50.666184Z",
+    "last_updated": "2026-08-22T21:26:20.799732Z",
     "last_tweeted_at": "2026-08-14T21:53:30.226668Z",
     "tweet_id": "2088383569345368348",
     "resolved": false
@@ -37287,7 +37279,7 @@
     "rain_mm": 57.19,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 10.937,
-    "last_updated": "2026-08-22T09:30:31.248237Z",
+    "last_updated": "2026-08-22T21:26:20.799732Z",
     "last_tweeted_at": "2026-08-22T03:48:35.063140Z",
     "tweet_id": "2091011162746007769",
     "resolved": false
@@ -37332,7 +37324,7 @@
     "rain_mm": 58.25,
     "soil_moisture": 0.693,
     "raw_dynamic_score": 9.526,
-    "last_updated": "2026-08-22T12:33:16.266984Z",
+    "last_updated": "2026-08-22T21:26:20.799732Z",
     "last_tweeted_at": "2026-08-21T06:41:44.547110Z",
     "tweet_id": "2090691085882307047",
     "resolved": false
@@ -37362,7 +37354,7 @@
     "rain_mm": 46.12,
     "soil_moisture": 0.675,
     "raw_dynamic_score": 7.468,
-    "last_updated": "2026-08-22T12:33:16.266984Z",
+    "last_updated": "2026-08-22T21:26:20.799732Z",
     "last_tweeted_at": "2026-08-21T06:41:44.547110Z",
     "tweet_id": "2090691845047083186",
     "resolved": false
@@ -37779,7 +37771,7 @@
     "rain_mm": 40.88,
     "soil_moisture": 0.652,
     "raw_dynamic_score": 6.531,
-    "last_updated": "2026-08-22T18:28:54.409956Z",
+    "last_updated": "2026-08-22T21:26:20.799732Z",
     "last_tweeted_at": "2026-08-22T03:48:35.063140Z",
     "tweet_id": "2091010656699085044",
     "resolved": false
