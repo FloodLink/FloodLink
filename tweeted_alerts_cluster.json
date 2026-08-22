@@ -12389,22 +12389,6 @@
     "tweet_id": "2044130903388033067",
     "resolved": false
   },
-  "7.8769,-11.1903": {
-    "country": "Sierra Leone",
-    "name": "Kenema",
-    "risk_level": "Low",
-    "tweeted_level": "Low",
-    "latitude": 7.87687,
-    "longitude": -11.19025,
-    "rain_mm": 0.12,
-    "soil_moisture": 0.534,
-    "raw_dynamic_score": 0.019,
-    "last_updated": "2026-08-21T03:54:37.298430Z",
-    "last_tweeted_at": "2026-08-21T03:54:37.298430Z",
-    "tweet_id": "2090649533294264422",
-    "resolved": true,
-    "resolved_at": "2026-08-21T03:54:37.298430Z"
-  },
   "-30.9562,-58.7797": {
     "country": "Argentina",
     "name": "Federal",
@@ -19956,7 +19940,7 @@
     "rain_mm": 61.06,
     "soil_moisture": 0.657,
     "raw_dynamic_score": 9.785,
-    "last_updated": "2026-08-22T03:48:35.063140Z",
+    "last_updated": "2026-08-22T06:36:21.919548Z",
     "last_tweeted_at": "2026-06-08T13:10:38.353852Z",
     "tweet_id": "2063973024684965957",
     "resolved": false
@@ -36655,22 +36639,6 @@
     "tweet_id": "2089838557393293586",
     "resolved": false
   },
-  "19.5056,108.9505": {
-    "country": "China",
-    "name": "Haitou",
-    "risk_level": "Low",
-    "tweeted_level": "Low",
-    "latitude": 19.50563,
-    "longitude": 108.95054,
-    "rain_mm": 3.69,
-    "soil_moisture": 0.648,
-    "raw_dynamic_score": 0.588,
-    "last_updated": "2026-08-21T03:54:37.298430Z",
-    "last_tweeted_at": "2026-08-21T03:54:37.298430Z",
-    "tweet_id": "2090649786399572026",
-    "resolved": true,
-    "resolved_at": "2026-08-21T03:54:37.298430Z"
-  },
   "14.0341,-0.0326": {
     "country": "Burkina Faso",
     "name": "Dori",
@@ -37165,22 +37133,6 @@
     "last_tweeted_at": "2026-08-20T00:59:40.339620Z",
     "tweet_id": "2090242615669412018",
     "resolved": false
-  },
-  "19.1027,108.6656": {
-    "country": "China",
-    "name": "Basuo",
-    "risk_level": "Low",
-    "tweeted_level": "Low",
-    "latitude": 19.10267,
-    "longitude": 108.66565,
-    "rain_mm": 7.88,
-    "soil_moisture": 0.617,
-    "raw_dynamic_score": 1.234,
-    "last_updated": "2026-08-21T03:54:37.298430Z",
-    "last_tweeted_at": "2026-08-21T03:54:37.298430Z",
-    "tweet_id": "2090650039672533103",
-    "resolved": true,
-    "resolved_at": "2026-08-21T03:54:37.298430Z"
   },
   "13.4527,-16.5780": {
     "country": "Gambia",
@@ -37818,7 +37770,7 @@
     "rain_mm": 79.44,
     "soil_moisture": 0.69,
     "raw_dynamic_score": 12.966,
-    "last_updated": "2026-08-21T09:39:07.921802Z",
+    "last_updated": "2026-08-22T06:36:21.919548Z",
     "last_tweeted_at": "2026-08-21T06:41:44.547110Z",
     "tweet_id": "2090690832961548312",
     "resolved": false,
@@ -37841,7 +37793,7 @@
     "rain_mm": 79.44,
     "soil_moisture": 0.69,
     "raw_dynamic_score": 12.966,
-    "last_updated": "2026-08-21T09:39:07.921802Z",
+    "last_updated": "2026-08-22T06:36:21.919548Z",
     "last_tweeted_at": "2026-08-21T06:41:44.547110Z",
     "tweet_id": "2090691592138973596",
     "resolved": false,
@@ -38339,7 +38291,7 @@
     "rain_mm": 48.88,
     "soil_moisture": 0.376,
     "raw_dynamic_score": 6.593,
-    "last_updated": "2026-08-22T03:48:35.063140Z",
+    "last_updated": "2026-08-22T06:36:21.919548Z",
     "last_tweeted_at": "2026-08-22T00:56:01.913352Z",
     "tweet_id": "2090967745923834040",
     "resolved": false
@@ -38369,7 +38321,7 @@
     "rain_mm": 46.94,
     "soil_moisture": 0.547,
     "raw_dynamic_score": 7.057,
-    "last_updated": "2026-08-22T03:48:35.063140Z",
+    "last_updated": "2026-08-22T06:36:21.919548Z",
     "last_tweeted_at": "2026-08-22T03:48:35.063140Z",
     "tweet_id": "2091009898922607028",
     "resolved": false
@@ -38384,7 +38336,7 @@
     "rain_mm": 37.19,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 7.112,
-    "last_updated": "2026-08-22T03:48:35.063140Z",
+    "last_updated": "2026-08-22T06:36:21.919548Z",
     "last_tweeted_at": "2026-08-22T03:48:35.063140Z",
     "tweet_id": "2091010151470034988",
     "resolved": false
@@ -38399,7 +38351,7 @@
     "rain_mm": 40.88,
     "soil_moisture": 0.652,
     "raw_dynamic_score": 6.531,
-    "last_updated": "2026-08-22T03:48:35.063140Z",
+    "last_updated": "2026-08-22T06:36:21.919548Z",
     "last_tweeted_at": "2026-08-22T03:48:35.063140Z",
     "tweet_id": "2091010656699085044",
     "resolved": false
