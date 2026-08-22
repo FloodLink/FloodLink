@@ -11601,58 +11601,6 @@
     "tweet_id": "2041820807761162747",
     "resolved": false
   },
-  "11.4833,37.5833": {
-    "country": "Ethiopia",
-    "name": "T’īs Isat",
-    "risk_level": "Low",
-    "tweeted_level": "High",
-    "latitude": 11.48333,
-    "longitude": 37.58333,
-    "rain_mm": 11.0,
-    "soil_moisture": 0.618,
-    "raw_dynamic_score": 1.725,
-    "last_updated": "2026-08-21T21:28:04.509652Z",
-    "last_tweeted_at": "2026-08-21T15:36:15.005781Z",
-    "tweet_id": "2090825347977638353",
-    "resolved": true,
-    "resolved_at": "2026-08-21T15:36:15.005781Z",
-    "pending_downgrade": true,
-    "pending_target_level": "Low",
-    "pending_set_at": "2026-08-21T21:28:04.509652Z",
-    "pending_is_region": true
-  },
-  "11.5936,37.3908": {
-    "country": "Ethiopia",
-    "name": "Bahir Dar",
-    "risk_level": "Low",
-    "tweeted_level": "High",
-    "latitude": 11.59364,
-    "longitude": 37.39077,
-    "rain_mm": 11.0,
-    "soil_moisture": 0.618,
-    "raw_dynamic_score": 1.725,
-    "last_updated": "2026-08-21T21:28:04.509652Z",
-    "last_tweeted_at": "2026-08-21T15:36:15.005781Z",
-    "tweet_id": "2090825347977638353",
-    "resolved": true,
-    "resolved_at": "2026-08-21T15:36:15.005781Z"
-  },
-  "11.2667,37.4833": {
-    "country": "Ethiopia",
-    "name": "Ādēt",
-    "risk_level": "Low",
-    "tweeted_level": "High",
-    "latitude": 11.26667,
-    "longitude": 37.48333,
-    "rain_mm": 3.81,
-    "soil_moisture": 0.692,
-    "raw_dynamic_score": 0.623,
-    "last_updated": "2026-08-21T21:28:04.509652Z",
-    "last_tweeted_at": "2026-08-21T15:36:15.005781Z",
-    "tweet_id": "2090825347977638353",
-    "resolved": true,
-    "resolved_at": "2026-08-21T15:36:15.005781Z"
-  },
   "5.9600,-1.7779": {
     "country": "Ghana",
     "name": "Dunkwa",
@@ -11937,22 +11885,6 @@
     "last_tweeted_at": "2026-04-10T15:50:35.785827Z",
     "tweet_id": "2042631629403799603",
     "resolved": false
-  },
-  "11.6667,38.8000": {
-    "country": "Ethiopia",
-    "name": "Filakit",
-    "risk_level": "Low",
-    "tweeted_level": "High",
-    "latitude": 11.66667,
-    "longitude": 38.8,
-    "rain_mm": 4.62,
-    "soil_moisture": 0.555,
-    "raw_dynamic_score": 0.699,
-    "last_updated": "2026-08-21T21:28:04.509652Z",
-    "last_tweeted_at": "2026-08-21T15:36:15.005781Z",
-    "tweet_id": "2090825347977638353",
-    "resolved": true,
-    "resolved_at": "2026-08-21T15:36:15.005781Z"
   },
   "19.2203,-70.5310": {
     "country": "Dominican Republic",
@@ -14462,7 +14394,7 @@
     "rain_mm": 84.06,
     "soil_moisture": 0.747,
     "raw_dynamic_score": 14.158,
-    "last_updated": "2026-08-22T12:33:16.266984Z",
+    "last_updated": "2026-08-22T18:28:54.409956Z",
     "last_tweeted_at": "2026-08-22T03:48:35.063140Z",
     "tweet_id": "2091010909598879777",
     "resolved": false,
@@ -15516,7 +15448,7 @@
     "rain_mm": 53.81,
     "soil_moisture": 0.733,
     "raw_dynamic_score": 8.993,
-    "last_updated": "2026-05-12T02:21:18.150216Z",
+    "last_updated": "2026-08-22T18:28:54.409956Z",
     "last_tweeted_at": "2026-05-11T22:08:43.702860Z",
     "tweet_id": "2053960551143764024",
     "resolved": false
@@ -21250,7 +21182,7 @@
     "rain_mm": 57.38,
     "soil_moisture": 0.469,
     "raw_dynamic_score": 8.224,
-    "last_updated": "2026-08-04T22:17:54.400271Z",
+    "last_updated": "2026-08-22T18:28:54.409956Z",
     "last_tweeted_at": "2026-06-13T16:20:48.802977Z",
     "tweet_id": "2065832049567551532",
     "resolved": false
@@ -22791,7 +22723,7 @@
     "rain_mm": 53.19,
     "soil_moisture": 0.724,
     "raw_dynamic_score": 8.846,
-    "last_updated": "2026-07-05T22:05:05.422383Z",
+    "last_updated": "2026-08-22T18:28:54.409956Z",
     "last_tweeted_at": "2026-06-21T07:38:25.224791Z",
     "tweet_id": "2068600194459992502",
     "resolved": false
@@ -29050,7 +28982,7 @@
     "rain_mm": 41.5,
     "soil_moisture": 0.732,
     "raw_dynamic_score": 6.934,
-    "last_updated": "2026-08-02T02:10:45.691821Z",
+    "last_updated": "2026-08-22T18:28:54.409956Z",
     "last_tweeted_at": "2026-07-15T13:28:47.499910Z",
     "tweet_id": "2077385172329120088",
     "resolved": false
@@ -29463,22 +29395,6 @@
     "last_tweeted_at": "2026-07-18T13:07:34.011354Z",
     "tweet_id": "2078466748009807982",
     "resolved": false
-  },
-  "12.9842,37.0442": {
-    "country": "Ethiopia",
-    "name": "Tikil Dingay",
-    "risk_level": "Low",
-    "tweeted_level": "High",
-    "latitude": 12.98417,
-    "longitude": 37.04417,
-    "rain_mm": 13.25,
-    "soil_moisture": 0.702,
-    "raw_dynamic_score": 2.177,
-    "last_updated": "2026-08-21T21:28:04.509652Z",
-    "last_tweeted_at": "2026-08-21T15:36:15.005781Z",
-    "tweet_id": "2090825347977638353",
-    "resolved": true,
-    "resolved_at": "2026-08-21T15:36:15.005781Z"
   },
   "56.6140,57.7690": {
     "country": "Russian Federation",
@@ -33842,7 +33758,7 @@
     "rain_mm": 38.69,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 7.399,
-    "last_updated": "2026-08-22T09:30:31.248237Z",
+    "last_updated": "2026-08-22T18:28:54.409956Z",
     "last_tweeted_at": "2026-08-06T11:25:30.526086Z",
     "tweet_id": "2085326427495284831",
     "resolved": false
@@ -35211,22 +35127,6 @@
     "last_tweeted_at": "2026-08-11T22:02:55.051086Z",
     "tweet_id": "2087298769377493043",
     "resolved": false
-  },
-  "11.4167,37.1667": {
-    "country": "Ethiopia",
-    "name": "Mer’āwī",
-    "risk_level": "Low",
-    "tweeted_level": "High",
-    "latitude": 11.41667,
-    "longitude": 37.16667,
-    "rain_mm": 24.44,
-    "soil_moisture": 0.718,
-    "raw_dynamic_score": 4.051,
-    "last_updated": "2026-08-21T21:28:04.509652Z",
-    "last_tweeted_at": "2026-08-21T15:36:15.005781Z",
-    "tweet_id": "2090825347977638353",
-    "resolved": true,
-    "resolved_at": "2026-08-21T15:36:15.005781Z"
   },
   "31.7047,112.2561": {
     "country": "China",
@@ -36919,7 +36819,7 @@
     "rain_mm": 55.94,
     "soil_moisture": 0.659,
     "raw_dynamic_score": 8.975,
-    "last_updated": "2026-08-19T22:12:28.539244Z",
+    "last_updated": "2026-08-22T18:28:54.409956Z",
     "last_tweeted_at": "2026-08-19T19:38:58.451409Z",
     "tweet_id": "2090161920133283964",
     "resolved": false
@@ -37280,7 +37180,7 @@
     "rain_mm": 41.94,
     "soil_moisture": 0.707,
     "raw_dynamic_score": 6.91,
-    "last_updated": "2026-08-22T12:33:16.266984Z",
+    "last_updated": "2026-08-22T18:28:54.409956Z",
     "last_tweeted_at": "2026-08-20T19:04:24.477036Z",
     "tweet_id": "2090516624801411387",
     "resolved": false
@@ -37447,7 +37347,7 @@
     "rain_mm": 39.44,
     "soil_moisture": 0.71,
     "raw_dynamic_score": 6.511,
-    "last_updated": "2026-08-22T12:33:16.266984Z",
+    "last_updated": "2026-08-22T18:28:54.409956Z",
     "last_tweeted_at": "2026-08-21T06:41:44.547110Z",
     "tweet_id": "2090691338534629752",
     "resolved": false
@@ -37507,14 +37407,10 @@
     "rain_mm": 76.81,
     "soil_moisture": 0.626,
     "raw_dynamic_score": 12.095,
-    "last_updated": "2026-08-22T12:33:16.266984Z",
+    "last_updated": "2026-08-22T18:28:54.409956Z",
     "last_tweeted_at": "2026-08-21T15:36:15.005781Z",
     "tweet_id": "2090825853290659893",
-    "resolved": false,
-    "pending_downgrade": true,
-    "pending_target_level": "Low",
-    "pending_set_at": "2026-08-22T12:33:16.266984Z",
-    "pending_is_region": true
+    "resolved": false
   },
   "21.3738,106.5665": {
     "country": "Viet Nam",
@@ -37564,13 +37460,13 @@
     "rain_mm": 108.0,
     "soil_moisture": 0.687,
     "raw_dynamic_score": 17.607,
-    "last_updated": "2026-08-22T12:33:16.266984Z",
+    "last_updated": "2026-08-22T18:28:54.409956Z",
     "last_tweeted_at": "2026-08-22T03:48:35.063140Z",
     "tweet_id": "2091010404113846330",
     "resolved": false,
     "pending_downgrade": true,
-    "pending_target_level": "Medium",
-    "pending_set_at": "2026-08-22T12:33:16.266984Z",
+    "pending_target_level": "Low",
+    "pending_set_at": "2026-08-22T18:28:54.409956Z",
     "pending_is_region": true
   },
   "21.0824,106.5138": {
@@ -37583,7 +37479,7 @@
     "rain_mm": 81.44,
     "soil_moisture": 0.75,
     "raw_dynamic_score": 13.736,
-    "last_updated": "2026-08-22T12:33:16.266984Z",
+    "last_updated": "2026-08-22T18:28:54.409956Z",
     "last_tweeted_at": "2026-08-22T03:48:35.063140Z",
     "tweet_id": "2091010404113846330",
     "resolved": false
@@ -37598,18 +37494,10 @@
     "rain_mm": 76.81,
     "soil_moisture": 0.626,
     "raw_dynamic_score": 12.095,
-    "last_updated": "2026-08-22T12:33:16.266984Z",
+    "last_updated": "2026-08-22T18:28:54.409956Z",
     "last_tweeted_at": "2026-08-21T15:36:15.005781Z",
     "tweet_id": "2090826358452625581",
-    "resolved": false,
-    "pending_downgrade": true,
-    "pending_target_level": "Low",
-    "pending_set_at": "2026-08-22T12:33:16.266984Z",
-    "pending_is_region": true,
-    "pending_observed_level": "Medium",
-    "pending_observed_rain_mm": 70.81,
-    "pending_observed_soil_moisture": 0.687,
-    "pending_observed_raw_dynamic_score": 11.544
+    "resolved": false
   },
   "50.4113,14.9032": {
     "country": "Czechia",
@@ -37891,7 +37779,7 @@
     "rain_mm": 40.88,
     "soil_moisture": 0.652,
     "raw_dynamic_score": 6.531,
-    "last_updated": "2026-08-22T06:36:21.919548Z",
+    "last_updated": "2026-08-22T18:28:54.409956Z",
     "last_tweeted_at": "2026-08-22T03:48:35.063140Z",
     "tweet_id": "2091010656699085044",
     "resolved": false
