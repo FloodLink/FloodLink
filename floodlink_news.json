@@ -23145,5 +23145,242 @@
         "tweet": "\ud83c\uddf3\ud83c\uddf1 The Netherlands maintains 3,700 km of primary dikes and levees that protect 9 million people in areas below sea level.",
         "type": "infrastructure",
         "tweet_id": "2090983763471966412"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOM290Y2VROXFGdWxNVGpDYU5seVY2MGM4YzZaS1hCb084QkV0ODQ1MHYzSUxMcWdaZ1I0WHBMTVI2RzlDNVJkX09iMm5yOGxUUEJLQ25kdlI5S2ZrNVAza3BSRkhZLW4zYmpUN1NnaVdoallJYTZURUhoSFBoTjhFdVpfNDVQcEpWbU03dm1ITS15aUtKVjQxcWRuMjVTcW5UWk5aYlgtRHZwZnM0RUFscWdR?oc=5",
+        "date": "2026-08-22",
+        "title": "Severe thunderstorm, Flash Flood warnings issued across Louisiana, Mississippi - WDSU",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOM290Y2VROXFGdWxNVGpDYU5seVY2MGM4YzZaS1hCb084QkV0ODQ1MHYzSUxMcWdaZ1I0WHBMTVI2RzlDNVJkX09iMm5yOGxUUEJLQ25kdlI5S2ZrNVAza3BSRkhZLW4zYmpUN1NnaVdoallJYTZURUhoSFBoTjhFdVpfNDVQcEpWbU03dm1ITS15aUtKVjQxcWRuMjVTcW5UWk5aYlgtRHZwZnM0RUFscWdR?oc=5\" target=\"_blank\">Severe thunderstorm, Flash Flood warnings issued across Louisiana, Mississippi</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WDSU</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": null,
+        "tweet_id": "2091004839610216572",
+        "geo": {
+            "country": "United States",
+            "name": "Louisiana, Mississippi",
+            "latitude": 31.2,
+            "longitude": -90.5,
+            "confidence": 0.85
+        }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE93X1RtTHVPVUtXcnBjSXJXRFZCUFcyQUxISmdPOVUzN2RabGJPM3FZVm5wOEN0OGlRNk8zQnhJM1ltYlpvdEp0aU5qVGREbHR1NUlXLS1MVTNxcWM1VXBHM2tFc3hsR3Mycm9VZlFaS1djSWhNTXk4?oc=5",
+        "date": "2026-08-22",
+        "title": "Clarendon and Orangeburg counties under a flash flood warning until Friday night - Hilton Head Island Packet",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE93X1RtTHVPVUtXcnBjSXJXRFZCUFcyQUxISmdPOVUzN2RabGJPM3FZVm5wOEN0OGlRNk8zQnhJM1ltYlpvdEp0aU5qVGREbHR1NUlXLS1MVTNxcWM1VXBHM2tFc3hsR3Mycm9VZlFaS1djSWhNTXk4?oc=5\" target=\"_blank\">Clarendon and Orangeburg counties under a flash flood warning until Friday night</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Hilton Head Island Packet</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNTlF4WEpmU3hXcDJYMUptU1JCbTNlTXFZTC1FeGtUQ3FOSkZtYm9PYUpWUXNYWjd2RWdkckZ6VU9DTlBmNGp2Yi11eHF0a1hJT2hqMlVhVjBQaWZlM1hGNFluRFVQbi0zS1hsbGhOYWV4d3Bsemxmc0daU0l3ZWJKSVgyQWNyMW9KNnZLV2ZWWmZnXzlkd25rLW84SVFZZF8yTHoybS1XOS1nXzkyLU1WalZ1a1NDUGo4cEc0Z2dOTUg4a0RiNmlJ0gHbAUFVX3lxTE1kaG9XWTJmV1lfeDJYRVJQZl9vVkVfc2pvNldJcEN1OGMxcmhJNUJMT0tOdmk4c1ZzdThCb3pmMnVHZUJqWVVLR3ZiOGJlaVFtbmNuSW9PWE1SbzVFSmcwelRweWJTMUhpMWpTcXRRcTZORnBYN25fb0lKMEJ1OFhlWG5fSjRaWUs2NW9oY0pXX0R3d1lfSnIxWXI3bjNoYVptVDFacFVZaXBzSU9NQnBLd1M3RW5UNFZqSGxqNWVKa1RkVUtzUlAzRkhwOEhEaVVpQ2xFeXYxY2VYUQ?oc=5",
+        "date": "2026-08-22",
+        "title": "Severe weather, flooding risk continues in Charlotte region through the night: First Alert Forecast here - WBTV",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxNTlF4WEpmU3hXcDJYMUptU1JCbTNlTXFZTC1FeGtUQ3FOSkZtYm9PYUpWUXNYWjd2RWdkckZ6VU9DTlBmNGp2Yi11eHF0a1hJT2hqMlVhVjBQaWZlM1hGNFluRFVQbi0zS1hsbGhOYWV4d3Bsemxmc0daU0l3ZWJKSVgyQWNyMW9KNnZLV2ZWWmZnXzlkd25rLW84SVFZZF8yTHoybS1XOS1nXzkyLU1WalZ1a1NDUGo4cEc0Z2dOTUg4a0RiNmlJ0gHbAUFVX3lxTE1kaG9XWTJmV1lfeDJYRVJQZl9vVkVfc2pvNldJcEN1OGMxcmhJNUJMT0tOdmk4c1ZzdThCb3pmMnVHZUJqWVVLR3ZiOGJlaVFtbmNuSW9PWE1SbzVFSmcwelRweWJTMUhpMWpTcXRRcTZORnBYN25fb0lKMEJ1OFhlWG5fSjRaWUs2NW9oY0pXX0R3d1lfSnIxWXI3bjNoYVptVDFacFVZaXBzSU9NQnBLd1M3RW5UNFZqSGxqNWVKa1RkVUtzUlAzRkhwOEhEaVVpQ2xFeXYxY2VYUQ?oc=5\" target=\"_blank\">Severe weather, flooding risk continues in Charlotte region through the night: First Alert Forecast here</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WBTV</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNaEZOTVRvREFyMHl3VWtjRVhCQlRDck1mX3FQZ196V2YwZEEwVHpMOTVOY3diZ3FRdy1YS3N6bGJyUS1NTzlsSG1OMWJjXzlBYTRGTjdINVhfZjJVakpmSDhfLU1JNElWdzFoVnI2MFR0ZG5pSThwT3l5SUJPMHFJZnI0SDZjVHViVTNsWXNzb2xDcTRZRnBwZHdwYzhPSEh0d2k2Z0t0aVFuQm5vWGtvT2hzb0c4TXhwVXdiU0FjYWxtSzJZbEE?oc=5",
+        "date": "2026-08-22",
+        "title": "Flood advisory issued for San Bernardino County Friday afternoon triggered by heavy downpours - San Bernardino Sun",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxNaEZOTVRvREFyMHl3VWtjRVhCQlRDck1mX3FQZ196V2YwZEEwVHpMOTVOY3diZ3FRdy1YS3N6bGJyUS1NTzlsSG1OMWJjXzlBYTRGTjdINVhfZjJVakpmSDhfLU1JNElWdzFoVnI2MFR0ZG5pSThwT3l5SUJPMHFJZnI0SDZjVHViVTNsWXNzb2xDcTRZRnBwZHdwYzhPSEh0d2k2Z0t0aVFuQm5vWGtvT2hzb0c4TXhwVXdiU0FjYWxtSzJZbEE?oc=5\" target=\"_blank\">Flood advisory issued for San Bernardino County Friday afternoon triggered by heavy downpours</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">San Bernardino Sun</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQVThsXzdpZUV2Y0twcldfZ3VxNjluRGQwVjNjaFBzWS1nM1hDLXlqSFEyZWVvV0c2Ukg5Y0Q1Sk5IUWg5WWpMdktQcGdhOG9CN3lUVG9RdWpYMGxRUmUxSlZJR1VCNDEtb1RxbVpBcWE4NlRGYlZzNi16cGwxczh1TUNn?oc=5",
+        "date": "2026-08-22",
+        "title": "Risk of flash flooding | Heavy rain and damaging wind threat Friday, milder conditions soon - WXII",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxQVThsXzdpZUV2Y0twcldfZ3VxNjluRGQwVjNjaFBzWS1nM1hDLXlqSFEyZWVvV0c2Ukg5Y0Q1Sk5IUWg5WWpMdktQcGdhOG9CN3lUVG9RdWpYMGxRUmUxSlZJR1VCNDEtb1RxbVpBcWE4NlRGYlZzNi16cGwxczh1TUNn?oc=5\" target=\"_blank\">Risk of flash flooding | Heavy rain and damaging wind threat Friday, milder conditions soon</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WXII</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1STnVuYmxldW8xV2doSlc4NmRVOENXeHdwYk5aYnNlSDRGaWxhalh1YnpMbEkyX3N5REhhTm50amY0MEtLQlRMQWZwYUpMRXBqQVd5UjVOQ2ZLbWxLX2ZreWtmODRMOXhoZE12Y1JUN2xjbVpFLVNobkdXTUUydw?oc=5",
+        "date": "2026-08-22",
+        "title": "UPDATE: Flash flood warning active for the Piedmont region Friday evening - Charlotte Observer",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE1STnVuYmxldW8xV2doSlc4NmRVOENXeHdwYk5aYnNlSDRGaWxhalh1YnpMbEkyX3N5REhhTm50amY0MEtLQlRMQWZwYUpMRXBqQVd5UjVOQ2ZLbWxLX2ZreWtmODRMOXhoZE12Y1JUN2xjbVpFLVNobkdXTUUydw?oc=5\" target=\"_blank\">UPDATE: Flash flood warning active for the Piedmont region Friday evening</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Charlotte Observer</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5CMV9KNlBuQWdXMlYxVTd6b2JjZkVyWVNvWDI4c3VCX2t0SkZXTi1Pc2VXQXVhMjJPS0IwVWthMVc4WmpBS3ZyUFhvbUYzT1dvX0MxbjNRb1VoOGpIbmk5MVV3?oc=5",
+        "date": "2026-08-22",
+        "title": "NWS Issues Flash Flood Warning for Montrose and San Juan Counties Amid Heavy Rain - Forth.News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE5CMV9KNlBuQWdXMlYxVTd6b2JjZkVyWVNvWDI4c3VCX2t0SkZXTi1Pc2VXQXVhMjJPS0IwVWthMVc4WmpBS3ZyUFhvbUYzT1dvX0MxbjNRb1VoOGpIbmk5MVV3?oc=5\" target=\"_blank\">NWS Issues Flash Flood Warning for Montrose and San Juan Counties Amid Heavy Rain</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Forth.News</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBRUjZON0piMEY2TTJteU5BaHdOVnFLYzUzY2tkRXAyaXpPb0g2b1k4LW5lOTNOZ2pNZTJ2ZjVVTk9mQ2swTDVfTXIydm85UzI3VFFLRWxEODdneG5lNUtubHN3?oc=5",
+        "date": "2026-08-22",
+        "title": "NWS Issues Flash Flood Warning for Central North Carolina Counties Amid Heavy Rain - Forth.News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTFBRUjZON0piMEY2TTJteU5BaHdOVnFLYzUzY2tkRXAyaXpPb0g2b1k4LW5lOTNOZ2pNZTJ2ZjVVTk9mQ2swTDVfTXIydm85UzI3VFFLRWxEODdneG5lNUtubHN3?oc=5\" target=\"_blank\">NWS Issues Flash Flood Warning for Central North Carolina Counties Amid Heavy Rain</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Forth.News</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOaWlVQ1c1M2pZMk1TM2lrU2VYN1hTZXBnZVBzbFVNcHlGV293XzFVWVNVUmoySzU1OG5TQlZMM3BfQ2xQRmQ1OTZnUGlUSlJkakVpWUozV3pUYWdBZTBLampEaDY5cm5UTU5aZTU1a3ZVNEVjSmxxY2ltQVlaVWFwYVI0OVhHR3hqYTZqd043MlE3WWNDRW5ZRy1pS2oybTljbS0ydmJneVpxWHVZbHE4ZW1TLUdfR1p2cWNuMXBxaEIzUnR6ZWstV0MyZw?oc=5",
+        "date": "2026-08-22",
+        "title": "Valley fever risk rises in Tucson during monsoon season - KVOA",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxOaWlVQ1c1M2pZMk1TM2lrU2VYN1hTZXBnZVBzbFVNcHlGV293XzFVWVNVUmoySzU1OG5TQlZMM3BfQ2xQRmQ1OTZnUGlUSlJkakVpWUozV3pUYWdBZTBLampEaDY5cm5UTU5aZTU1a3ZVNEVjSmxxY2ltQVlaVWFwYVI0OVhHR3hqYTZqd043MlE3WWNDRW5ZRy1pS2oybTljbS0ydmJneVpxWHVZbHE4ZW1TLUdfR1p2cWNuMXBxaEIzUnR6ZWstV0MyZw?oc=5\" target=\"_blank\">Valley fever risk rises in Tucson during monsoon season</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KVOA</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPdThEcVVZLXZQX01MODZjeVlGR1E2TXVwU2dGQ2lUWktTenB3ZkJfVzM4UjJFMzh0cGF4dXBnQ2stWHd1SVZXY3R5eFlzSWFjM1c5LUpoQkJVNktJaWcyalZJbHpodHc0bnlKMzNXTzRHYlpqSHNOMmRxZlRRMDhhZ2lsajcxZjNrcWVtVVNlWmZJNDd3V25DT1UyanRPVDRYMENla1RpVUtaRkJfMHRWRm5B?oc=5",
+        "date": "2026-08-22",
+        "title": "Latest Warnings listed here - starvedrock.media",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPdThEcVVZLXZQX01MODZjeVlGR1E2TXVwU2dGQ2lUWktTenB3ZkJfVzM4UjJFMzh0cGF4dXBnQ2stWHd1SVZXY3R5eFlzSWFjM1c5LUpoQkJVNktJaWcyalZJbHpodHc0bnlKMzNXTzRHYlpqSHNOMmRxZlRRMDhhZ2lsajcxZjNrcWVtVVNlWmZJNDd3V25DT1UyanRPVDRYMENla1RpVUtaRkJfMHRWRm5B?oc=5\" target=\"_blank\">Latest Warnings listed here</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">starvedrock.media</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdzdZdkdKUWE1d3VBUVpOYU5DWmxMcnAyUjMzSzZZR3ZhX0sxdTU5d1RVOF9samZxZE1XcUFrZ3ppbldTMW1TNmJXbFc2NC01YkhPb25BZnMtUUsyQkFnTm05VGxTSFAzUG15cEM1ZjFYUHZRdnVyblJyZnB5SjJxZUI5WHJQSG5qd2tZbDZHY3ZPWkFhY05KMzFHSUZKZHYxNkRxSW5XcDRGTHFEUXA3eTlTaw?oc=5",
+        "date": "2026-08-22",
+        "title": "Mobile Home Fire displaces 2 residents - KVOA",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPdzdZdkdKUWE1d3VBUVpOYU5DWmxMcnAyUjMzSzZZR3ZhX0sxdTU5d1RVOF9samZxZE1XcUFrZ3ppbldTMW1TNmJXbFc2NC01YkhPb25BZnMtUUsyQkFnTm05VGxTSFAzUG15cEM1ZjFYUHZRdnVyblJyZnB5SjJxZUI5WHJQSG5qd2tZbDZHY3ZPWkFhY05KMzFHSUZKZHYxNkRxSW5XcDRGTHFEUXA3eTlTaw?oc=5\" target=\"_blank\">Mobile Home Fire displaces 2 residents</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KVOA</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTld0d3VZZHA5ajFJWlhYaWdVUTg5d2pWZnExRGM3RVlBb3ZVR0FaMUNMa1lkUkx3Qy1lMUNZNjlZUUhRTGozeHNDWk9uYzVNVDJHQU00RFY4QXlJaHJRVUNCT2tOMG1kOWQyS1c0Q21hX3BvelVwZm44ZExXd1dIUFpoQmlnSkJ4X3BBUGlkazFDTVFpVkRoY25DdnhVMHFmdlZwbk9nWlBNbFBYZW13?oc=5",
+        "date": "2026-08-22",
+        "title": "2026 Safety Message Contest Finalists - 8 - KVOA",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQTld0d3VZZHA5ajFJWlhYaWdVUTg5d2pWZnExRGM3RVlBb3ZVR0FaMUNMa1lkUkx3Qy1lMUNZNjlZUUhRTGozeHNDWk9uYzVNVDJHQU00RFY4QXlJaHJRVUNCT2tOMG1kOWQyS1c0Q21hX3BvelVwZm44ZExXd1dIUFpoQmlnSkJ4X3BBUGlkazFDTVFpVkRoY25DdnhVMHFmdlZwbk9nWlBNbFBYZW13?oc=5\" target=\"_blank\">2026 Safety Message Contest Finalists - 8</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KVOA</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOVURxR0Zrd0tCamdQMzlEamc5dUMzZ2o1YzZrMXRheWRzUTFWakVpXzl4WlZnam1QTmxXSU8zWnA2enFpU3hkY016SjM4STJNM0d5TXNBeklsNWZ6cWFTZXhyMXphLThueEFMQnhxUV9ON0k1WGtvNW5RdUFoeU1kZEJ5eDZScGd2a2UzTVRJRkMyUm1KeDB6TGFuTk5Vb0JBUUs3aHpncC04MVp4WlhNeDNOZ3BaQ1YzZmpERTBwb3g5eTNCcHhB?oc=5",
+        "date": "2026-08-22",
+        "title": "Federal plan spares Arizona from CAP water reductions - KVOA",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxOVURxR0Zrd0tCamdQMzlEamc5dUMzZ2o1YzZrMXRheWRzUTFWakVpXzl4WlZnam1QTmxXSU8zWnA2enFpU3hkY016SjM4STJNM0d5TXNBeklsNWZ6cWFTZXhyMXphLThueEFMQnhxUV9ON0k1WGtvNW5RdUFoeU1kZEJ5eDZScGd2a2UzTVRJRkMyUm1KeDB6TGFuTk5Vb0JBUUs3aHpncC04MVp4WlhNeDNOZ3BaQ1YzZmpERTBwb3g5eTNCcHhB?oc=5\" target=\"_blank\">Federal plan spares Arizona from CAP water reductions</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KVOA</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNSVBaejV4Z2ktMnRpaHA0RENxbzQ1QlNuTUdBT0dITm5fTHgwbldzR2FuQXF1dlR2ZUlJRkFhSk9McS1RaWV1cWVOeXhOV1VZWXRYTFpUTnF5dVlXbG8zNDRUay1UMGExRlpxYm1GUkUwZU16ekFDVUZBLVZfN09fNm1NUkVfSXZsQzFlUXJ2RC1saWlh?oc=5",
+        "date": "2026-08-22",
+        "title": "SoMD Weather for Saturday, August 22, 2026 - - The Southern Maryland Chronicle",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNSVBaejV4Z2ktMnRpaHA0RENxbzQ1QlNuTUdBT0dITm5fTHgwbldzR2FuQXF1dlR2ZUlJRkFhSk9McS1RaWV1cWVOeXhOV1VZWXRYTFpUTnF5dVlXbG8zNDRUay1UMGExRlpxYm1GUkUwZU16ekFDVUZBLVZfN09fNm1NUkVfSXZsQzFlUXJ2RC1saWlh?oc=5\" target=\"_blank\">SoMD Weather for Saturday, August 22, 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">- The Southern Maryland Chronicle</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOTlJPRWFrNTNnWkNIWFNxVm9qWjRyaTI3cEZ2a3lDUmg2SjM2QmE2ajVlU2xtTTJYa1lBNjdVNlBmU0hRRnpnUXdfSlNDbkxjSXNaNmlNZ0RsbDM4a0s0cjRQZTJobjluZ0JQZVVRaGVUdWZGYUJQM0Nya0RVSFBSNlFqck5CeGo4YWxyRWViQjVfajVJa3FSeWFBeEY2VDQ2SnhVMnFHU044QlMtUlI1cGVHNTlGbDhYbGRB?oc=5",
+        "date": "2026-08-22",
+        "title": "Marana mourns 11-year-old boy killed on bike - KVOA",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxOTlJPRWFrNTNnWkNIWFNxVm9qWjRyaTI3cEZ2a3lDUmg2SjM2QmE2ajVlU2xtTTJYa1lBNjdVNlBmU0hRRnpnUXdfSlNDbkxjSXNaNmlNZ0RsbDM4a0s0cjRQZTJobjluZ0JQZVVRaGVUdWZGYUJQM0Nya0RVSFBSNlFqck5CeGo4YWxyRWViQjVfajVJa3FSeWFBeEY2VDQ2SnhVMnFHU044QlMtUlI1cGVHNTlGbDhYbGRB?oc=5\" target=\"_blank\">Marana mourns 11-year-old boy killed on bike</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KVOA</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE41N3paMm9qVTZRZXZHc01oQ0x6aDRRVDAtZ1pPLUdMM3FxX1lCNHZoU1NzSHBhNUdab1NQbzlCWEc4ZW1VSTE1bTE3eWRLU1RScFlIY1NObk1ESnlLVERqUVRB?oc=5",
+        "date": "2026-08-22",
+        "title": "21 provinces face heavy rain as depression strengthens - Nation Thailand",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE41N3paMm9qVTZRZXZHc01oQ0x6aDRRVDAtZ1pPLUdMM3FxX1lCNHZoU1NzSHBhNUdab1NQbzlCWEc4ZW1VSTE1bTE3eWRLU1RScFlIY1NObk1ESnlLVERqUVRB?oc=5\" target=\"_blank\">21 provinces face heavy rain as depression strengthens</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Nation Thailand</font>",
+        "similarity_excluded": "No",
+        "score": 5,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAxOVQzZzRBaTVWcm43OXhuaWpqVmJGQzNIZ0xsRUNyM2VNY2F2QnZScWN3cFI0RVpDNXhYQ3NNUmJrLWRHTUtwN0toaW5yLVJEQVBNWGJJaGdJaWVpUlE?oc=5",
+        "date": "2026-08-22",
+        "title": "Tropical Storm Moke \u2013 Hawai\u2018i Emergency Management Agency - Hawaii department of defense (.gov)",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTFAxOVQzZzRBaTVWcm43OXhuaWpqVmJGQzNIZ0xsRUNyM2VNY2F2QnZScWN3cFI0RVpDNXhYQ3NNUmJrLWRHTUtwN0toaW5yLVJEQVBNWGJJaGdJaWVpUlE?oc=5\" target=\"_blank\">Tropical Storm Moke \u2013 Hawai\u2018i Emergency Management Agency</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Hawaii department of defense (.gov)</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQc2Y5LU5OQmZ3ejRhaGRfVnlKc1RCOTh1b1p1NW1tbGRkUThzc25WUzNZMTFtcVFPQk5ZWDMzdHpnVEdPSHk3UEJ6OFhpcXVXN3pOUnJEQlZadkdKOGNrLVc3ZG01UWJDb2I1Q0stVXpSc2pzQTdfTGRnLXBSNG9LVl9Dc2txc016RnJFc1FwRjl3d0xsNzNGNklOYlZMT0NnN3J1SFpQdGlWeVQxZkZqMkZsTFlRTkpvcERQeTJB?oc=5",
+        "date": "2026-08-22",
+        "title": "Tropical Storm Moke forms, threatens heavy rain and surf for Big Island - Honolulu Star-Advertiser",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxQc2Y5LU5OQmZ3ejRhaGRfVnlKc1RCOTh1b1p1NW1tbGRkUThzc25WUzNZMTFtcVFPQk5ZWDMzdHpnVEdPSHk3UEJ6OFhpcXVXN3pOUnJEQlZadkdKOGNrLVc3ZG01UWJDb2I1Q0stVXpSc2pzQTdfTGRnLXBSNG9LVl9Dc2txc016RnJFc1FwRjl3d0xsNzNGNklOYlZMT0NnN3J1SFpQdGlWeVQxZkZqMkZsTFlRTkpvcERQeTJB?oc=5\" target=\"_blank\">Tropical Storm Moke forms, threatens heavy rain and surf for Big Island</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Honolulu Star-Advertiser</font>",
+        "similarity_excluded": "No",
+        "score": 3,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOZVZwaVdVcG9sNXp2UVhiVnJPN1JQTms4Y3BWYzF1dFh3ZUtjdEJRUkNNUW9OOU1sTUdVcnpBc0FXeE9acVhieE80SGZDbzdST2hDTU80NFVLV3VhZ3dPZ3p0TURURkRmSFNWbG1QWTNqcFN0QUtjWkZSZmluWDNiaWtieXBydTF4WXpQSXZUaEhzUHgxczBybG1FZG1fYW40YUJ0NHBjVHZrWHFEUlgtYjdPRmxwcm1xcmpJWkhHMnM3ZDBrck42OW9sWGlqOG1QZy1lOGJVYmxDcWNjR2MtbjBkd1pQdkptTjZYdHFpdUJScXMtM0pxRg?oc=5",
+        "date": "2026-08-22",
+        "title": "Saudel strengthens into typhoon as flooding overtakes wind as Guam's real threat - The Guam Daily Post",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi-AFBVV95cUxOZVZwaVdVcG9sNXp2UVhiVnJPN1JQTms4Y3BWYzF1dFh3ZUtjdEJRUkNNUW9OOU1sTUdVcnpBc0FXeE9acVhieE80SGZDbzdST2hDTU80NFVLV3VhZ3dPZ3p0TURURkRmSFNWbG1QWTNqcFN0QUtjWkZSZmluWDNiaWtieXBydTF4WXpQSXZUaEhzUHgxczBybG1FZG1fYW40YUJ0NHBjVHZrWHFEUlgtYjdPRmxwcm1xcmpJWkhHMnM3ZDBrck42OW9sWGlqOG1QZy1lOGJVYmxDcWNjR2MtbjBkd1pQdkptTjZYdHFpdUJScXMtM0pxRg?oc=5\" target=\"_blank\">Saudel strengthens into typhoon as flooding overtakes wind as Guam's real threat</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guam Daily Post</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNQ25TNHFyNHI1QUVKZ3lhZTE3dm11b2JkVjVDOExxd0R5czlkMmRucEo4TFlqcEpBSDBNcVZGeXliX3pKczRNdzdQQ0JucXpjUzRMd1lnVENmSm5EcGczZlMxbzg4QllVamQzb2VOQloyWGtucDk1cVJfbVhlQ1JjVUhsc0dKWUhTX0xFT25lZDZLUUNjS3BVQlpsM1VHY3QxRkFsZTJIdEZneDZheW5YeGt0YkxrNjJ2QmNELTVDWEI1Q2lKa3pnUmRGUUFBY1lHY3E1V1J5ZGdxZ3VF?oc=5",
+        "date": "2026-08-22",
+        "title": "LUBOG SA LAHAR AT BAHA Only rooftops of houses remain visible as homes are buried under lahar and floodwater in Barangay Sta. Fe, San Marcelino, Zambales on Friday, after the Sta. Fe River overflowed amid nonstop rains brought by the southwest mo - facebook.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxNQ25TNHFyNHI1QUVKZ3lhZTE3dm11b2JkVjVDOExxd0R5czlkMmRucEo4TFlqcEpBSDBNcVZGeXliX3pKczRNdzdQQ0JucXpjUzRMd1lnVENmSm5EcGczZlMxbzg4QllVamQzb2VOQloyWGtucDk1cVJfbVhlQ1JjVUhsc0dKWUhTX0xFT25lZDZLUUNjS3BVQlpsM1VHY3QxRkFsZTJIdEZneDZheW5YeGt0YkxrNjJ2QmNELTVDWEI1Q2lKa3pnUmRGUUFBY1lHY3E1V1J5ZGdxZ3VF?oc=5\" target=\"_blank\">LUBOG SA LAHAR AT BAHA Only rooftops of houses remain visible as homes are buried under lahar and floodwater in Barangay Sta. Fe, San Marcelino, Zambales on Friday, after the Sta. Fe River overflowed amid nonstop rains brought by the southwest mo</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">facebook.com</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBGaktoUEhucldkMFlfOU5aRlF2Q1g2S0Fwc2RyY1BMRXVfZmwyQUlFeGlucEdWMUxIcV9fX3BvRnNFYzQ2UER4ZmU0ZUlnY2I5YVp4cGc0LUt2UGhnUFRSNUFkd2laMUxVLTVWREZmcEdZZ9IBd0FVX3lxTE9HdFduUk5rX1J0OWRGNmV3czB1RUFwS2ZlX3poQXdSb2ZQWUt2eXpWUTBUeUFockxUd0FFSjA2dzAtdVVtYm1OZ1FSemZzYjlNMzNuSHNtVFZnazhGYTEzVlc3TGxzdE9reDVuTFpCOU9YRzZldWdN?oc=5",
+        "date": "2026-08-22",
+        "title": "Shock as landslide consumes Calabar community - The Sun Nigeria",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTFBGaktoUEhucldkMFlfOU5aRlF2Q1g2S0Fwc2RyY1BMRXVfZmwyQUlFeGlucEdWMUxIcV9fX3BvRnNFYzQ2UER4ZmU0ZUlnY2I5YVp4cGc0LUt2UGhnUFRSNUFkd2laMUxVLTVWREZmcEdZZ9IBd0FVX3lxTE9HdFduUk5rX1J0OWRGNmV3czB1RUFwS2ZlX3poQXdSb2ZQWUt2eXpWUTBUeUFockxUd0FFSjA2dzAtdVVtYm1OZ1FSemZzYjlNMzNuSHNtVFZnazhGYTEzVlc3TGxzdE9reDVuTFpCOU9YRzZldWdN?oc=5\" target=\"_blank\">Shock as landslide consumes Calabar community</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Sun Nigeria</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOM290Y2VROXFGdWxNVGpDYU5seVY2MGM4YzZaS1hCb084QkV0ODQ1MHYzSUxMcWdaZ1I0WHBMTVI2RzlDNVJkX09iMm5yOGxUUEJLQ25kdlI5S2ZrNVAza3BSRkhZLW4zYmpUN1NnaVdoallJYTZURUhoSFBoTjhFdVpfNDVQcEpWbU03dm1ITS15aUtKVjQxcWRuMjVTcW5UWk5aYlgtRHZwZnM0RUFscWdR?oc=5",
+        "date": "2026-08-22",
+        "title": "Severe thunderstorm, Flash Flood warnings issued across Louisiana, Mississippi - WDSU",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOM290Y2VROXFGdWxNVGpDYU5seVY2MGM4YzZaS1hCb084QkV0ODQ1MHYzSUxMcWdaZ1I0WHBMTVI2RzlDNVJkX09iMm5yOGxUUEJLQ25kdlI5S2ZrNVAza3BSRkhZLW4zYmpUN1NnaVdoallJYTZURUhoSFBoTjhFdVpfNDVQcEpWbU03dm1ITS15aUtKVjQxcWRuMjVTcW5UWk5aYlgtRHZwZnM0RUFscWdR?oc=5\" target=\"_blank\">Severe thunderstorm, Flash Flood warnings issued across Louisiana, Mississippi</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WDSU</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 FORECAST Louisiana, Mississippi: Flash flood warnings issued amid severe thunderstorms. WDSU",
+        "type": "news",
+        "tweet_id": "2091004839610216572",
+        "geo": {
+            "country": "United States",
+            "name": "Louisiana, Mississippi",
+            "latitude": 31.2,
+            "longitude": -90.5,
+            "confidence": 0.85
+        }
     }
 ]
