@@ -23035,5 +23035,25 @@
         "score": 8,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOR2l6Q3dPUXItVDlwTXoxWFl6VTJwSnVORFRHVS1jcjBqNnE4M0E0NGZJekxiZ3JSaXZsYUM2WW1MZkt5MHY1V1FiaXp3VTBaSnl6UVlsWDJNWVRCUVN0Yy1adGtyT2lxRkxhZEdpSEg3SVNldzlrRExkU0xDZ2hHa2dWYjVveDlnbk1BVlY1clh3ZDdRLWpWelB3N0UzNUN0SXZ5YjhqcXQ2ODZ1Mm1zQ1pOcTBUNkVNeVE5TURwWnBoM0FRWDJxZjJPazlBcHV1em5lWFN6U2NuM3U5Q3J0QmJ3SE1sSm8?oc=5",
+        "date": "2026-08-23",
+        "title": "Tropical Storm Moke weakens slightly Saturday afternoon; however, little change in strength, forecast expected tonight - Big Island Now",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxOR2l6Q3dPUXItVDlwTXoxWFl6VTJwSnVORFRHVS1jcjBqNnE4M0E0NGZJekxiZ3JSaXZsYUM2WW1MZkt5MHY1V1FiaXp3VTBaSnl6UVlsWDJNWVRCUVN0Yy1adGtyT2lxRkxhZEdpSEg3SVNldzlrRExkU0xDZ2hHa2dWYjVveDlnbk1BVlY1clh3ZDdRLWpWelB3N0UzNUN0SXZ5YjhqcXQ2ODZ1Mm1zQ1pOcTBUNkVNeVE5TURwWnBoM0FRWDJxZjJPazlBcHV1em5lWFN6U2NuM3U5Q3J0QmJ3SE1sSm8?oc=5\" target=\"_blank\">Tropical Storm Moke weakens slightly Saturday afternoon; however, little change in strength, forecast expected tonight</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Big Island Now</font>",
+        "similarity_excluded": "No",
+        "score": 2,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPYkFMNnJWelNGMVd0YWVoQV9oeG1lajl2WnNIazNRVzRNcVdqQlRLbVBIZDFxcksxZ0Q2U3UtRm52TjZtMkZ1UFZ1WUo3LUtHYVp4VnBqSThEaUEyQ3lGdVVFdWVpWlppSThNQkhJbTdRY0xhSTFpVlNNUVdrTkFnQUtRbzY1amVVdXE5aGNwczRJb2NYSXRzRTNKTjdVTlpiNFUxREhsSVpqdlhzQ3dOUWFBSmdPazNW?oc=5",
+        "date": "2026-08-23",
+        "title": "Torrential rain in Thailand\u2019s north triggers landslides, severe flooding - CNA",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxPYkFMNnJWelNGMVd0YWVoQV9oeG1lajl2WnNIazNRVzRNcVdqQlRLbVBIZDFxcksxZ0Q2U3UtRm52TjZtMkZ1UFZ1WUo3LUtHYVp4VnBqSThEaUEyQ3lGdVVFdWVpWlppSThNQkhJbTdRY0xhSTFpVlNNUVdrTkFnQUtRbzY1amVVdXE5aGNwczRJb2NYSXRzRTNKTjdVTlpiNFUxREhsSVpqdlhzQ3dOUWFBSmdPazNW?oc=5\" target=\"_blank\">Torrential rain in Thailand\u2019s north triggers landslides, severe flooding</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNA</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
     }
 ]
