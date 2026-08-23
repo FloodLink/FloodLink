@@ -23285,5 +23285,15 @@
         "score": 7,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQcTcwQnNlSGx0dHJHY1d0QlMydVNTdjBtNmN1blNyNFg4b09hVDNJZjFzMC1tN0lGd0pCaXBpOHdZRFhnUUx5Z3MtVkxaZUhWUE5VX1NMRjROYVRmeUNLcFVFV0Q4MUh2U05UTzVXS1R2S0t1R0dxaFpuMXZvS09kZzZlYkQyaW4tZXhiUnhWdHBDMEZ3eFR1c1JId2hKUnRmOFdFQnJaRlNXTWJtalZJWlE5T2o4NUNDbkE?oc=5",
+        "date": "2026-08-23",
+        "title": "India Monsoon Flooding - Bluefield Daily Telegraph",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQcTcwQnNlSGx0dHJHY1d0QlMydVNTdjBtNmN1blNyNFg4b09hVDNJZjFzMC1tN0lGd0pCaXBpOHdZRFhnUUx5Z3MtVkxaZUhWUE5VX1NMRjROYVRmeUNLcFVFV0Q4MUh2U05UTzVXS1R2S0t1R0dxaFpuMXZvS09kZzZlYkQyaW4tZXhiUnhWdHBDMEZ3eFR1c1JId2hKUnRmOFdFQnJaRlNXTWJtalZJWlE5T2o4NUNDbkE?oc=5\" target=\"_blank\">India Monsoon Flooding</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bluefield Daily Telegraph</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
     }
 ]
