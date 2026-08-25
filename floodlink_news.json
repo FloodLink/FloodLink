@@ -23707,5 +23707,35 @@
         "score": 6,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQQ2MxYWpfQ2lZb2R4THZCX0Ytd1hPZGJ6Sy16di0tdHExclNSRkQxdG5acUJUaXNYTHZOU1ZpdnRKWHl4V2xoYmFMSnB0WkZGYVl4M0V0YzlVakh2ZUp6WTloNW5XZlB4ZlNDT1h5Qjd2UTVHRHNyZ3hmd0Myb29HWGhidTlQX0dFQTBUM05wZWplR3RTNEJsMXk4amplWXFrVVA5VjRXUTJlaDRUdS1pckdLLWZ6T3VjZzhHakFXai1xeFdiMWJtZ3JpWHU?oc=5",
+        "date": "2026-08-25",
+        "title": "Flood advisory affecting San Bernardino County early Monday evening due to persistent rain - Daily Bulletin",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxQQ2MxYWpfQ2lZb2R4THZCX0Ytd1hPZGJ6Sy16di0tdHExclNSRkQxdG5acUJUaXNYTHZOU1ZpdnRKWHl4V2xoYmFMSnB0WkZGYVl4M0V0YzlVakh2ZUp6WTloNW5XZlB4ZlNDT1h5Qjd2UTVHRHNyZ3hmd0Myb29HWGhidTlQX0dFQTBUM05wZWplR3RTNEJsMXk4amplWXFrVVA5VjRXUTJlaDRUdS1pckdLLWZ6T3VjZzhHakFXai1xeFdiMWJtZ3JpWHU?oc=5\" target=\"_blank\">Flood advisory affecting San Bernardino County early Monday evening due to persistent rain</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Daily Bulletin</font>",
+        "similarity_excluded": "No",
+        "score": 5,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNc2JVaWFjWi1jNk9mUzA5eWd1dmZJaVJ6T3BMUUhFVUlyNlpjRWcxbi05NkJEaWZ2Y0RhbkYxRDJkMm5vZktSSTI5WFc3azhlTmQyamlBcTg4cE51dF84dTMySGVJUEpZT21FemlxUkk0OUhzcUktQURLSERnRHB2UGhYcw?oc=5",
+        "date": "2026-08-25",
+        "title": "Flash floods in Venezuela turn heavy rain into a humanitarian crisis - AOL.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxNc2JVaWFjWi1jNk9mUzA5eWd1dmZJaVJ6T3BMUUhFVUlyNlpjRWcxbi05NkJEaWZ2Y0RhbkYxRDJkMm5vZktSSTI5WFc3azhlTmQyamlBcTg4cE51dF84dTMySGVJUEpZT21FemlxUkk0OUhzcUktQURLSERnRHB2UGhYcw?oc=5\" target=\"_blank\">Flash floods in Venezuela turn heavy rain into a humanitarian crisis</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AOL.com</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBsYzBSRWtoOVVPeXRiNzQ5YkxrM0s0WnlQQ2lwU3VWc2puNjlQSlY4aG56NllkdER6M3dBeTB1VjI3X0hPUGlhT3ZqT28xQWVtdndBb2s2TjJPTE5qUDhVSmJNWHFfeEwxSUJGMXl3eFlWUTF5SkZaQndIZXlfb3c?oc=5",
+        "date": "2026-08-25",
+        "title": "Indoor Air Quality Alert: Typhoon Narra Flooding in China and Vietnam - IQAir",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFBsYzBSRWtoOVVPeXRiNzQ5YkxrM0s0WnlQQ2lwU3VWc2puNjlQSlY4aG56NllkdER6M3dBeTB1VjI3X0hPUGlhT3ZqT28xQWVtdndBb2s2TjJPTE5qUDhVSmJNWHFfeEwxSUJGMXl3eFlWUTF5SkZaQndIZXlfb3c?oc=5\" target=\"_blank\">Indoor Air Quality Alert: Typhoon Narra Flooding in China and Vietnam</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">IQAir</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
     }
 ]
