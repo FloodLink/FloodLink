@@ -23677,5 +23677,35 @@
             "longitude": 120.6525,
             "confidence": 0.9
         }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5UazBMbTFRR1dlNXFjT3NjVjlQUjJDREhFazBMV1YwX3djaXRYRFpERDM2b0NCR0RDaUlWTFFrLVV0SEVueEx2eVlXOGdPWVEwZlpMbG5XZEYwSUk2NTYxN2pB?oc=5",
+        "date": "2026-08-25",
+        "title": "Flash Flood Warning in South Central Kane County Until 11 PM MDT - Forth.News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE5UazBMbTFRR1dlNXFjT3NjVjlQUjJDREhFazBMV1YwX3djaXRYRFpERDM2b0NCR0RDaUlWTFFrLVV0SEVueEx2eVlXOGdPWVEwZlpMbG5XZEYwSUk2NTYxN2pB?oc=5\" target=\"_blank\">Flash Flood Warning in South Central Kane County Until 11 PM MDT</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Forth.News</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxONkxHRkllZjcybXllMldERVpoWU55NXRPRXpGcGhxRUZSWmRIWXlkTlozZ0I3Y2dTbmF5Z1dsbW02bW5oSTN2aUM0YklZOFFLSWlrVlFmZGhwbUxNU3YtNjRySWFkTzFTSFZaYjZNV3UyWGdCSFZlZWhhNTJvU3J5aVRrWDJtY2s?oc=5",
+        "date": "2026-08-25",
+        "title": "Flash flooding hits Athens, Southeast Ohio - thepostathens.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxONkxHRkllZjcybXllMldERVpoWU55NXRPRXpGcGhxRUZSWmRIWXlkTlozZ0I3Y2dTbmF5Z1dsbW02bW5oSTN2aUM0YklZOFFLSWlrVlFmZGhwbUxNU3YtNjRySWFkTzFTSFZaYjZNV3UyWGdCSFZlZWhhNTJvU3J5aVRrWDJtY2s?oc=5\" target=\"_blank\">Flash flooding hits Athens, Southeast Ohio</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">thepostathens.com</font>",
+        "similarity_excluded": "No",
+        "score": 6,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQTzhJdWhWUXk0YnNQWHNTa2k0MC0zLXdxSUxJZkhhUXFtRm5FUHc5QlVKTC1BY3lRc0VwZGxPNlVTMlNIN1FENW9hRGFVT093M1VrRFZnLWFmZnpsSmFmaTIzYklhMmNqc3ZuamFlSDE0YjktWlhPdHFnd2R2WWJMNGRUVXRCS0hkWXlJUXdPZUQ0NkZvTEdGRWJTRjN4RlNqUHVZ?oc=5",
+        "date": "2026-08-25",
+        "title": "Hill Country July flooding doubles demand at local food pantry - MySA",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQTzhJdWhWUXk0YnNQWHNTa2k0MC0zLXdxSUxJZkhhUXFtRm5FUHc5QlVKTC1BY3lRc0VwZGxPNlVTMlNIN1FENW9hRGFVT093M1VrRFZnLWFmZnpsSmFmaTIzYklhMmNqc3ZuamFlSDE0YjktWlhPdHFnd2R2WWJMNGRUVXRCS0hkWXlJUXdPZUQ0NkZvTEdGRWJTRjN4RlNqUHVZ?oc=5\" target=\"_blank\">Hill Country July flooding doubles demand at local food pantry</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MySA</font>",
+        "similarity_excluded": "No",
+        "score": 6,
+        "status": "processed",
+        "tweet": null
     }
 ]
