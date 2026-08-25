@@ -15979,16 +15979,16 @@
   "39.5208,116.7147": {
     "country": "China",
     "name": "Langfang",
-    "risk_level": "Medium",
-    "tweeted_level": "Medium",
+    "risk_level": "High",
+    "tweeted_level": "High",
     "latitude": 39.52079,
     "longitude": 116.71471,
-    "rain_mm": 45.38,
-    "soil_moisture": 0.649,
-    "raw_dynamic_score": 7.241,
-    "last_updated": "2026-05-17T06:24:38.706703Z",
-    "last_tweeted_at": "2026-05-17T06:24:38.706703Z",
-    "tweet_id": "2055897303010193662",
+    "rain_mm": 77.62,
+    "soil_moisture": 0.648,
+    "raw_dynamic_score": 12.38,
+    "last_updated": "2026-08-25T09:44:15.611726Z",
+    "last_tweeted_at": "2026-08-25T09:44:15.611726Z",
+    "tweet_id": "2092186320575644128",
     "resolved": false
   },
   "38.3490,114.6853": {
@@ -37536,9 +37536,24 @@
     "rain_mm": 43.44,
     "soil_moisture": 0.69,
     "raw_dynamic_score": 7.092,
-    "last_updated": "2026-08-25T03:58:32.237631Z",
+    "last_updated": "2026-08-25T09:44:15.611726Z",
     "last_tweeted_at": "2026-08-25T01:02:22.399315Z",
     "tweet_id": "2092054983449383245",
+    "resolved": false
+  },
+  "28.3667,129.4833": {
+    "country": "Japan",
+    "name": "Naze",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 28.36667,
+    "longitude": 129.48333,
+    "rain_mm": 54.06,
+    "soil_moisture": 0.713,
+    "raw_dynamic_score": 8.94,
+    "last_updated": "2026-08-25T09:44:15.611726Z",
+    "last_tweeted_at": "2026-08-25T09:44:15.611726Z",
+    "tweet_id": "2092186573513031855",
     "resolved": false
   }
 }
