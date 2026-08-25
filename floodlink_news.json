@@ -23912,5 +23912,25 @@
             "longitude": 113.0,
             "confidence": 0.75
         }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUkhfX0xIbVNFQVEtM0dVYU92aHZsMGVzdXVDdkxFNnlyR1g4S2IzS3pYRW5NMmp6MXBwb0JOeHRCUjhfa1UtQ0pMYjJkQkQxZ0V0Sk8tWHYtd2o3T1h3aUVPOVJIVmNOdmh5b3JQV09OVVJYWWtXNnRMSTEtNXF1M3FTajBFM1JUdnpWQzd5cEZ3emhlZGc?oc=5",
+        "date": "2026-08-25",
+        "title": "Homes submerged, tens of thousands relocated in China's south as flooding intensifies - CNA",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxOUkhfX0xIbVNFQVEtM0dVYU92aHZsMGVzdXVDdkxFNnlyR1g4S2IzS3pYRW5NMmp6MXBwb0JOeHRCUjhfa1UtQ0pMYjJkQkQxZ0V0Sk8tWHYtd2o3T1h3aUVPOVJIVmNOdmh5b3JQV09OVVJYWWtXNnRMSTEtNXF1M3FTajBFM1JUdnpWQzd5cEZ3emhlZGc?oc=5\" target=\"_blank\">Homes submerged, tens of thousands relocated in China's south as flooding intensifies</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNA</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQR09NWjQ5MjRQR2t6QVlQYV8xZFVENVVtcklJZVBnQkFvMzFYWmI3Vmg3UVBILUtxR1FEWkY5TE50OElCVjU2eGt6TGF3Zm1KWTJXZklrVHl1NjdRcThNZVhvY1ktU2xUR1BjTkt1NXR5akZTdWJNeVN5cDhieGp2cWVBdHhieWZsREdFbmVMZw?oc=5",
+        "date": "2026-08-25",
+        "title": "Odisha Assembly Monsoon Session to Commence from September 22 - Pragativadi",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxQR09NWjQ5MjRQR2t6QVlQYV8xZFVENVVtcklJZVBnQkFvMzFYWmI3Vmg3UVBILUtxR1FEWkY5TE50OElCVjU2eGt6TGF3Zm1KWTJXZklrVHl1NjdRcThNZVhvY1ktU2xUR1BjTkt1NXR5akZTdWJNeVN5cDhieGp2cWVBdHhieWZsREdFbmVMZw?oc=5\" target=\"_blank\">Odisha Assembly Monsoon Session to Commence from September 22</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Pragativadi</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
     }
 ]
