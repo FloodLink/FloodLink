@@ -36365,7 +36365,7 @@
     "rain_mm": 39.06,
     "soil_moisture": 0.739,
     "raw_dynamic_score": 6.551,
-    "last_updated": "2026-08-22T12:33:16.266984Z",
+    "last_updated": "2026-08-26T00:59:48.595472Z",
     "last_tweeted_at": "2026-08-20T12:44:33.186001Z",
     "tweet_id": "2090420255608688723",
     "resolved": false
@@ -37501,7 +37501,7 @@
     "rain_mm": 61.81,
     "soil_moisture": 0.649,
     "raw_dynamic_score": 9.862,
-    "last_updated": "2026-08-25T19:13:41.835847Z",
+    "last_updated": "2026-08-26T00:59:48.595472Z",
     "last_tweeted_at": "2026-08-25T19:13:41.835847Z",
     "tweet_id": "2092329630615081295",
     "resolved": false
@@ -37606,7 +37606,7 @@
     "rain_mm": 53.88,
     "soil_moisture": 0.302,
     "raw_dynamic_score": 6.908,
-    "last_updated": "2026-08-25T19:13:41.835847Z",
+    "last_updated": "2026-08-26T00:59:48.595472Z",
     "last_tweeted_at": "2026-08-25T19:13:41.835847Z",
     "tweet_id": "2092329883464564893",
     "resolved": false
@@ -37621,7 +37621,7 @@
     "rain_mm": 43.19,
     "soil_moisture": 0.556,
     "raw_dynamic_score": 6.526,
-    "last_updated": "2026-08-25T21:31:09.205790Z",
+    "last_updated": "2026-08-26T00:59:48.595472Z",
     "last_tweeted_at": "2026-08-25T21:31:09.205790Z",
     "tweet_id": "2092364225456869828",
     "resolved": false
@@ -37636,9 +37636,24 @@
     "rain_mm": 47.31,
     "soil_moisture": 0.725,
     "raw_dynamic_score": 7.875,
-    "last_updated": "2026-08-25T21:31:09.205790Z",
+    "last_updated": "2026-08-26T00:59:48.595472Z",
     "last_tweeted_at": "2026-08-25T21:31:09.205790Z",
     "tweet_id": "2092364478381723896",
+    "resolved": false
+  },
+  "27.0706,88.4753": {
+    "country": "India",
+    "name": "Kālimpong",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 27.07059,
+    "longitude": 88.47529,
+    "rain_mm": 57.94,
+    "soil_moisture": 0.647,
+    "raw_dynamic_score": 9.233,
+    "last_updated": "2026-08-26T00:59:48.595472Z",
+    "last_tweeted_at": "2026-08-26T00:59:48.595472Z",
+    "tweet_id": "2092416735874035862",
     "resolved": false
   }
 }
