@@ -23825,5 +23825,14 @@
         "score": 7,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-08-26",
+        "status": "posted",
+        "tweet": "Top flood economic losses 2021-2025 (bn USD):\n1. \ud83c\udde8\ud83c\uddf3 China: 52\n2. \ud83c\uddfa\ud83c\uddf8 US: 41\n3. \ud83c\uddf5\ud83c\uddf0 Pakistan: 30\n4. \ud83c\udde9\ud83c\uddea Germany: 28\n5. \ud83c\uddee\ud83c\uddf3 India: 24",
+        "type": "statistical",
+        "category": "economic losses from floods and flash floods",
+        "tweet_id": "2092528721727234421"
     }
 ]
