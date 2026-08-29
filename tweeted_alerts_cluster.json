@@ -11529,7 +11529,7 @@
     "rain_mm": 51.75,
     "soil_moisture": 0.526,
     "raw_dynamic_score": 7.684,
-    "last_updated": "2026-04-26T02:06:59.251143Z",
+    "last_updated": "2026-08-29T12:13:38.380677Z",
     "last_tweeted_at": "2026-04-09T10:13:45.027258Z",
     "tweet_id": "2042184210019209452",
     "resolved": false
@@ -25485,7 +25485,7 @@
     "rain_mm": 42.38,
     "soil_moisture": 0.605,
     "raw_dynamic_score": 6.593,
-    "last_updated": "2026-08-19T04:28:31.356625Z",
+    "last_updated": "2026-08-29T12:13:38.380677Z",
     "last_tweeted_at": "2026-07-04T13:15:19.051514Z",
     "tweet_id": "2073395779683725552",
     "resolved": false
@@ -28950,7 +28950,7 @@
     "rain_mm": 64.12,
     "soil_moisture": 0.723,
     "raw_dynamic_score": 10.658,
-    "last_updated": "2026-07-20T22:08:12.426962Z",
+    "last_updated": "2026-08-29T12:13:38.380677Z",
     "last_tweeted_at": "2026-07-20T16:32:00.721526Z",
     "tweet_id": "2079242964321075479",
     "resolved": false
@@ -32832,7 +32832,7 @@
     "rain_mm": 41.38,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 7.913,
-    "last_updated": "2026-08-29T05:09:30.426240Z",
+    "last_updated": "2026-08-29T12:13:38.380677Z",
     "last_tweeted_at": "2026-08-05T17:03:04.231854Z",
     "tweet_id": "2085050507392172265",
     "resolved": false
@@ -33237,7 +33237,7 @@
     "rain_mm": 63.12,
     "soil_moisture": 0.699,
     "raw_dynamic_score": 10.354,
-    "last_updated": "2026-08-29T05:09:30.426240Z",
+    "last_updated": "2026-08-29T12:13:38.380677Z",
     "last_tweeted_at": "2026-08-16T13:02:40.247080Z",
     "tweet_id": "2088975020303216799",
     "resolved": false
@@ -33643,7 +33643,7 @@
     "rain_mm": 46.25,
     "soil_moisture": 0.719,
     "raw_dynamic_score": 7.671,
-    "last_updated": "2026-08-29T05:09:30.426240Z",
+    "last_updated": "2026-08-29T12:13:38.380677Z",
     "last_tweeted_at": "2026-08-09T06:56:15.770393Z",
     "tweet_id": "2086345840424038420",
     "resolved": false
@@ -33673,7 +33673,7 @@
     "rain_mm": 46.31,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 8.857,
-    "last_updated": "2026-08-29T05:09:30.426240Z",
+    "last_updated": "2026-08-29T12:13:38.380677Z",
     "last_tweeted_at": "2026-08-09T06:56:15.770393Z",
     "tweet_id": "2086346092862435353",
     "resolved": false
@@ -35633,7 +35633,7 @@
     "rain_mm": 41.44,
     "soil_moisture": 0.681,
     "raw_dynamic_score": 6.73,
-    "last_updated": "2026-08-29T05:09:30.426240Z",
+    "last_updated": "2026-08-29T12:13:38.380677Z",
     "last_tweeted_at": "2026-08-19T04:28:31.356625Z",
     "tweet_id": "2089933281366097943",
     "resolved": false
@@ -38097,6 +38097,51 @@
     "last_updated": "2026-08-29T05:09:30.426240Z",
     "last_tweeted_at": "2026-08-28T23:59:31.832579Z",
     "tweet_id": "2093489474953003060",
+    "resolved": false
+  },
+  "20.1136,85.8315": {
+    "country": "India",
+    "name": "Pipili",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 20.11357,
+    "longitude": 85.83147,
+    "rain_mm": 51.81,
+    "soil_moisture": 0.644,
+    "raw_dynamic_score": 8.244,
+    "last_updated": "2026-08-29T12:13:38.380677Z",
+    "last_tweeted_at": "2026-08-29T12:13:38.380677Z",
+    "tweet_id": "2093673476657737838",
+    "resolved": false
+  },
+  "20.0576,86.0044": {
+    "country": "India",
+    "name": "Nimāparha",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 20.05756,
+    "longitude": 86.00436,
+    "rain_mm": 63.38,
+    "soil_moisture": 0.643,
+    "raw_dynamic_score": 10.074,
+    "last_updated": "2026-08-29T12:13:38.380677Z",
+    "last_tweeted_at": "2026-08-29T12:13:38.380677Z",
+    "tweet_id": "2093673476657737838",
+    "resolved": false
+  },
+  "19.8902,86.0976": {
+    "country": "India",
+    "name": "Konārka",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 19.89021,
+    "longitude": 86.09761,
+    "rain_mm": 63.38,
+    "soil_moisture": 0.643,
+    "raw_dynamic_score": 10.074,
+    "last_updated": "2026-08-29T12:13:38.380677Z",
+    "last_tweeted_at": "2026-08-29T12:13:38.380677Z",
+    "tweet_id": "2093673476657737838",
     "resolved": false
   }
 }
