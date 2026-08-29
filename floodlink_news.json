@@ -23021,5 +23021,14 @@
             "longitude": 85.8,
             "confidence": 0.7
         }
+    },
+    {
+        "link": null,
+        "date": "2026-08-29",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 New York and \ud83c\udde8\ud83c\uddf3 Shanghai each saw extreme rainfall days increase 40% from 2020-2025, raising flash flood exposure for 8 million residents by 2030.",
+        "type": "statistical",
+        "category": "extreme rainfall trends in major cities",
+        "tweet_id": "2093710936032911637"
     }
 ]
