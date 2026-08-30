@@ -23291,5 +23291,14 @@
             "longitude": 84.124,
             "confidence": 0.7
         }
+    },
+    {
+        "link": null,
+        "date": "2026-08-30",
+        "status": "posted",
+        "tweet": "2025 data: 1.1 billion people in Asia live in floodplains exposed to extreme rainfall and storm surges, compared to 290 million across Europe.",
+        "type": "statistical",
+        "category": "population living in floodplains",
+        "tweet_id": "2094212662553153991"
     }
 ]
