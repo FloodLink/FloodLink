@@ -22881,5 +22881,14 @@
             "longitude": 120.683,
             "confidence": 0.9
         }
+    },
+    {
+        "link": null,
+        "date": "2026-08-30",
+        "status": "posted",
+        "tweet": "2025 data: 1.8 billion people live in floodplains across Asia, compared to 420 million in Europe, amid rising extreme rainfall risks.",
+        "type": "statistical",
+        "category": "population living in floodplains",
+        "tweet_id": "2094085057443205555"
     }
 ]
