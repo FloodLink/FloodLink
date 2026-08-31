@@ -23307,5 +23307,699 @@
             "longitude": 83.9,
             "confidence": 0.7
         }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVjJzdUJlNFdHREhOUEkyYVF2Wk5uVVJ1MjVBVk1jWGZRREQ4ZmF4NlplcVEySWRuZjBXSjFEVlRxTjJfeWN1MGRLa09WN1BuTENlWjZPcVZPVm5wX0Y4NlhEZTBxc2lDcHN2ZnBoTkZYZ1BUSDRUOG1Ya2I5bnBGc09QQ0VNUTVXV2lTeDJMUHhqRFY4RUY5UC1lR0R1eERMLXFUcA?oc=5",
+        "date": "2026-08-31",
+        "title": "Flooding threat grows across central, southern Utah as heavy rain continues - KUTV",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQVjJzdUJlNFdHREhOUEkyYVF2Wk5uVVJ1MjVBVk1jWGZRREQ4ZmF4NlplcVEySWRuZjBXSjFEVlRxTjJfeWN1MGRLa09WN1BuTENlWjZPcVZPVm5wX0Y4NlhEZTBxc2lDcHN2ZnBoTkZYZ1BUSDRUOG1Ya2I5bnBGc09QQ0VNUTVXV2lTeDJMUHhqRFY4RUY5UC1lR0R1eERMLXFUcA?oc=5\" target=\"_blank\">Flooding threat grows across central, southern Utah as heavy rain continues</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KUTV</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB5N0cxd181YVpfdHhrUkdhWGY5WVJ3MVdPX3c3RTN0a1VrY3VQczJFY0pZWVpvMDhxNmdWM0VuSElwN2ZpbEp2SXpONWR1b1NPUnJrUjZ5Qkw4bmFrYS15LVB4S2RmOVl6YVJYTg?oc=5",
+        "date": "2026-08-31",
+        "title": "Much of central, southern Utah under flood watch advisory due to heavy rain - FOX 13 News Utah",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTFB5N0cxd181YVpfdHhrUkdhWGY5WVJ3MVdPX3c3RTN0a1VrY3VQczJFY0pZWVpvMDhxNmdWM0VuSElwN2ZpbEp2SXpONWR1b1NPUnJrUjZ5Qkw4bmFrYS15LVB4S2RmOVl6YVJYTg?oc=5\" target=\"_blank\">Much of central, southern Utah under flood watch advisory due to heavy rain</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FOX 13 News Utah</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONGw0ZGdSV3NYOC11dmpFaXB6dUZZVlZEbnpRRE1vU3U1cEx1SUd3MHgwV0RzaHMwa25uODR0ZHNvVFl2Yjl0SmtVNE5XVEFxM3Z1OXZ0SllScUp0aWNGTEZ4Y19aaWIyV05fR2wweWdpQVU3ZU9pTXQzVXVKd0NScDFFQk41OWlvcGxwQUd1c3ljM292NXh2bjQxWVYwRHBuRjR4eERXZVc?oc=5",
+        "date": "2026-08-31",
+        "title": "Family identifies Texas man among those killed in Grand Canyon flood as rescuers search for missing - AP News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxONGw0ZGdSV3NYOC11dmpFaXB6dUZZVlZEbnpRRE1vU3U1cEx1SUd3MHgwV0RzaHMwa25uODR0ZHNvVFl2Yjl0SmtVNE5XVEFxM3Z1OXZ0SllScUp0aWNGTEZ4Y19aaWIyV05fR2wweWdpQVU3ZU9pTXQzVXVKd0NScDFFQk41OWlvcGxwQUd1c3ljM292NXh2bjQxWVYwRHBuRjR4eERXZVc?oc=5\" target=\"_blank\">Family identifies Texas man among those killed in Grand Canyon flood as rescuers search for missing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AP News</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": null,
+        "tweet_id": "2094562161138008345",
+        "geo": {
+            "country": "United States",
+            "name": "Grand Canyon, Arizona",
+            "latitude": 36.1,
+            "longitude": -112.1,
+            "confidence": 0.9
+        }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQQzg1OHQ1ZFB4MWpvdGZPTVQ2S0JqX3dOelppVWlWb2VqaldoS1dCdUs3Z3BtWldXN2VGa1NHd1JybGtIX18yV0hZT0NzQ3FNT2VyNEtXZ1JoMDRfNmJfdzVCbzBZRklaZFpjZnp2RTNaNEk3am5FalJSTVE4MDNlUUM5c9IBiAFBVV95cUxPb3lCbDZXUnVycHVJVDVEajZ1Sy04N1BCSXNncVJDa2hKSlpnSV9fLUYxZUZIRGFYekcwVGdudkN0aHNnYjRQSTdZVE1mUlFCOG1PTVFHUzhjMm54b001bDhwUVdlMnh6X1NCLUd1SHlpM3hwdlRIUE9LQVJjUjdLLXBBSTBGUlR1?oc=5",
+        "date": "2026-08-31",
+        "title": "PHOTOS: Rain floods central, southern Utah as majority of state under flood watch - ABC4 Utah",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxQQzg1OHQ1ZFB4MWpvdGZPTVQ2S0JqX3dOelppVWlWb2VqaldoS1dCdUs3Z3BtWldXN2VGa1NHd1JybGtIX18yV0hZT0NzQ3FNT2VyNEtXZ1JoMDRfNmJfdzVCbzBZRklaZFpjZnp2RTNaNEk3am5FalJSTVE4MDNlUUM5c9IBiAFBVV95cUxPb3lCbDZXUnVycHVJVDVEajZ1Sy04N1BCSXNncVJDa2hKSlpnSV9fLUYxZUZIRGFYekcwVGdudkN0aHNnYjRQSTdZVE1mUlFCOG1PTVFHUzhjMm54b001bDhwUVdlMnh6X1NCLUd1SHlpM3hwdlRIUE9LQVJjUjdLLXBBSTBGUlR1?oc=5\" target=\"_blank\">PHOTOS: Rain floods central, southern Utah as majority of state under flood watch</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ABC4 Utah</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQT2xPSjRHRmtHaVRkbVJBTVc1Ri1Pck8wdmE5Y1JJVDdIeExUOTRCek9EYVFyUno2TjVJbzRhdzV2cmtreW9aeUZhdVJ0YnpoTXVhR0kzYkVENzJWdmx0SlQ2aklINWc5U3hGdXZVX19sZEdTN1hZRWQzZUQ3c1k1NlJIQ0k2aVBzNzdjeEhsQzJvZDRDYzRCblE4TWJEZ2FGWE5tNFJoeFQ2bHU5RVRILVhB0gG3AUFVX3lxTFBWRGx5emFxZ3VPak9DMVJCUXZrajZnU25vbElTb0t0a29uR1NYNUs0S1pOMXhnR0R6OVlNOHRJdFAwQXdkSTNRd2xUQWI2dWhXcF9QbUdCbEx3akFaamRWdHdCT0dpUDN5OXJna3RBVUo1Z0xJdlNUanNqeW9ZNEhfdmxFM1RDNVVIZGxjQkJCcy1nYXhfWmxFWDVlS1Jwd0hSdVpYdERTY3J2cFhRWEEwUUJYRTNzMA?oc=5",
+        "date": "2026-08-31",
+        "title": "The odds of survival for those trapped after Nepal flood, according to experts - PBS",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQT2xPSjRHRmtHaVRkbVJBTVc1Ri1Pck8wdmE5Y1JJVDdIeExUOTRCek9EYVFyUno2TjVJbzRhdzV2cmtreW9aeUZhdVJ0YnpoTXVhR0kzYkVENzJWdmx0SlQ2aklINWc5U3hGdXZVX19sZEdTN1hZRWQzZUQ3c1k1NlJIQ0k2aVBzNzdjeEhsQzJvZDRDYzRCblE4TWJEZ2FGWE5tNFJoeFQ2bHU5RVRILVhB0gG3AUFVX3lxTFBWRGx5emFxZ3VPak9DMVJCUXZrajZnU25vbElTb0t0a29uR1NYNUs0S1pOMXhnR0R6OVlNOHRJdFAwQXdkSTNRd2xUQWI2dWhXcF9QbUdCbEx3akFaamRWdHdCT0dpUDN5OXJna3RBVUo1Z0xJdlNUanNqeW9ZNEhfdmxFM1RDNVVIZGxjQkJCcy1nYXhfWmxFWDVlS1Jwd0hSdVpYdERTY3J2cFhRWEEwUUJYRTNzMA?oc=5\" target=\"_blank\">The odds of survival for those trapped after Nepal flood, according to experts</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PBS</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNzdGOXVKdE1wT2MzYzZlbDVqRWtreE51eHJxa3I4RUEzRGhJaVBUSEwyTktnTUxDNDhSN1oyTy1VY3U0UVJxVEROWFV4Vk9mSklfaTFVOXVuQVBWVzEwbHdhQlZZc3VvcFYwZzNVSUxFR2ZmTW5iZGIwWHlVeXhQS0RDajh3U19YWDdVZzJJTG11MV9IN2NURWtERdIBoAFBVV95cUxONmo0cjJLNUwyQ08wZUFGNXFXQktvWVlJTzRWLV9NTHJQUEx0SV9TRDZsUURHMEJBSi1oNkthVkNTMU9jX2NjMEo2cXlramd4QTdoQmtsV3g4dDRZT3pzVlJDanRjcUpQeGowdXRJRGluZXcyVDhUOG1TR0VFdWhGTks0V0dicGpmS09UMUlCT21VYlFGbVZUMHVEMXY5bEJt?oc=5",
+        "date": "2026-08-31",
+        "title": "At least 2 dead in Grand Canyon flash flooding as urgent search for missing continues - ABC News - Breaking News, Latest News and Videos",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNNzdGOXVKdE1wT2MzYzZlbDVqRWtreE51eHJxa3I4RUEzRGhJaVBUSEwyTktnTUxDNDhSN1oyTy1VY3U0UVJxVEROWFV4Vk9mSklfaTFVOXVuQVBWVzEwbHdhQlZZc3VvcFYwZzNVSUxFR2ZmTW5iZGIwWHlVeXhQS0RDajh3U19YWDdVZzJJTG11MV9IN2NURWtERdIBoAFBVV95cUxONmo0cjJLNUwyQ08wZUFGNXFXQktvWVlJTzRWLV9NTHJQUEx0SV9TRDZsUURHMEJBSi1oNkthVkNTMU9jX2NjMEo2cXlramd4QTdoQmtsV3g4dDRZT3pzVlJDanRjcUpQeGowdXRJRGluZXcyVDhUOG1TR0VFdWhGTks0V0dicGpmS09UMUlCT21VYlFGbVZUMHVEMXY5bEJt?oc=5\" target=\"_blank\">At least 2 dead in Grand Canyon flash flooding as urgent search for missing continues</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ABC News - Breaking News, Latest News and Videos</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQdVVJLUNBaHFvZHVsUk9tX3gyRjlCWVRyUlFzYnlMQ05FVVhQNnVsMEZxQnRJalFtTmxiYjBmZXNsZHBKTUJmQnA2cFZMM1N3NXpINlBVUS1ER1VvMGdham9ZMlZHbG5Ocm9JRXZoeWdOSjZVSG9lLS1XcHloLThOU2E3SXVNdWExNWRiOUVZOWF4aHhfSjlwd0FPVjFBWmgtc0ZOZUpaSXRpRVM3cUlxakRuT05vaDNQVnc?oc=5",
+        "date": "2026-08-31",
+        "title": "Grand Canyon search continues for 15 missing after flash flood destruction, two deaths - NBC News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQdVVJLUNBaHFvZHVsUk9tX3gyRjlCWVRyUlFzYnlMQ05FVVhQNnVsMEZxQnRJalFtTmxiYjBmZXNsZHBKTUJmQnA2cFZMM1N3NXpINlBVUS1ER1VvMGdham9ZMlZHbG5Ocm9JRXZoeWdOSjZVSG9lLS1XcHloLThOU2E3SXVNdWExNWRiOUVZOWF4aHhfSjlwd0FPVjFBWmgtc0ZOZUpaSXRpRVM3cUlxakRuT05vaDNQVnc?oc=5\" target=\"_blank\">Grand Canyon search continues for 15 missing after flash flood destruction, two deaths</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NBC News</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPaVItWjRFdVdoaVhKVFJabWI2dkRqb0hRbEdXQ3JZb0gwZWtxamtWZE5EajZmTWE2WWVWSWt6Ym94Tm40cldhbmZUdERiU0taN0YtLS0yM0RRMVZUN0dLRjlKUklQaFU1ZHlzNG5IWlpVM1Yzdy1JTkROYmNBYjZ3cy1hNjdSME1GcHlVVVhSbi0zTldsWnladmo5OVBjZw?oc=5",
+        "date": "2026-08-31",
+        "title": "Months before fatal Grand Canyon flood, Park Service warned of elevated risk - NBC News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPaVItWjRFdVdoaVhKVFJabWI2dkRqb0hRbEdXQ3JZb0gwZWtxamtWZE5EajZmTWE2WWVWSWt6Ym94Tm40cldhbmZUdERiU0taN0YtLS0yM0RRMVZUN0dLRjlKUklQaFU1ZHlzNG5IWlpVM1Yzdy1JTkROYmNBYjZ3cy1hNjdSME1GcHlVVVhSbi0zTldsWnladmo5OVBjZw?oc=5\" target=\"_blank\">Months before fatal Grand Canyon flood, Park Service warned of elevated risk</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NBC News</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": null,
+        "tweet_id": "2094562698931618172",
+        "geo": {
+            "country": "United States",
+            "name": "Grand Canyon, Arizona",
+            "latitude": 36.0544,
+            "longitude": -112.1401,
+            "confidence": 0.9
+        }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQYTM1bXVHT3psbHc1aWxkWnhhMkVycTBoVUJVMlJOblJwOGtzYVlFYkRXb3RuRzY0VnkzcUIyREUxcng0SkhJS05UcW94ZG1fMG9icTdfVG8wMmF0bWdsd1NEampLa3Y2LTlFdF96SGNsbGozSE1naHh0YVNhNmFDTHdwQ1JoT2dpLW1BRTU5cjZsZHN2NU9HbtIBngFBVV95cUxOM2JmNjJxQXlzMjlCOXlUU1F6Rlh1OW5HXzR3S2E0T3FDM0haUHNDNjhySWRlODZGd3lNMzFaMEJhb3ZKQTRTVDYwN3VZZG5rTzhxMEhmcjM3QkdQWG9KallXcXk0SHVwTXp6bDAyN01Odks1WUYwVnZlMGdiTlkwdkpCYjhTMTEzX2tBY0ROUzVDenhWV1I2UFZiZFJ6UQ?oc=5",
+        "date": "2026-08-31",
+        "title": "Survivors of deadly Grand Canyon flash flood say they ran for their lives - ABC News - Breaking News, Latest News and Videos",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQYTM1bXVHT3psbHc1aWxkWnhhMkVycTBoVUJVMlJOblJwOGtzYVlFYkRXb3RuRzY0VnkzcUIyREUxcng0SkhJS05UcW94ZG1fMG9icTdfVG8wMmF0bWdsd1NEampLa3Y2LTlFdF96SGNsbGozSE1naHh0YVNhNmFDTHdwQ1JoT2dpLW1BRTU5cjZsZHN2NU9HbtIBngFBVV95cUxOM2JmNjJxQXlzMjlCOXlUU1F6Rlh1OW5HXzR3S2E0T3FDM0haUHNDNjhySWRlODZGd3lNMzFaMEJhb3ZKQTRTVDYwN3VZZG5rTzhxMEhmcjM3QkdQWG9KallXcXk0SHVwTXp6bDAyN01Odks1WUYwVnZlMGdiTlkwdkpCYjhTMTEzX2tBY0ROUzVDenhWV1I2UFZiZFJ6UQ?oc=5\" target=\"_blank\">Survivors of deadly Grand Canyon flash flood say they ran for their lives</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ABC News - Breaking News, Latest News and Videos</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOVzBxY0x4SVhaT19iWmdjRWxCRkhFZjlhX2VCbnRXSkdxblMyREpwYTdyeFRzVW9LVU4tenZENTE2Z2xiMkVmMU5Td1Ewa0dwN3E5ZWVON3hHTTc2SU9DQmRiQVJRZ2pibjIxQkp1TVVhQ1QxRVRlU0Y0RlVHNkFNR29SM3FWZw?oc=5",
+        "date": "2026-08-31",
+        "title": "Nepal Flash Floods: Five Days After the Floods, Secondary Health Risks Rise - Direct Relief",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxOVzBxY0x4SVhaT19iWmdjRWxCRkhFZjlhX2VCbnRXSkdxblMyREpwYTdyeFRzVW9LVU4tenZENTE2Z2xiMkVmMU5Td1Ewa0dwN3E5ZWVON3hHTTc2SU9DQmRiQVJRZ2pibjIxQkp1TVVhQ1QxRVRlU0Y0RlVHNkFNR29SM3FWZw?oc=5\" target=\"_blank\">Nepal Flash Floods: Five Days After the Floods, Secondary Health Risks Rise</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Direct Relief</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQcnF5Si0xNnVXUDdIYjBfZllLQlYzcExnTVlQanVaZmtEQ0xUbGtCYlRkdl92c2FUV3ljTkZob1hXdFd2andZN1dWa3dHSUlzTkE1RGZhdllSU01pWFJkVFFzT3V1WUtLWW9TbGxQeHM5aDNhQm8zWFVoNVJfcnU0UjhlTzZDalR0Q1NqMTR3SQ?oc=5",
+        "date": "2026-08-31",
+        "title": "Remote Grand Canyon lodge hit by deadly flash flood boasts fabled history - The Guardian",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxQcnF5Si0xNnVXUDdIYjBfZllLQlYzcExnTVlQanVaZmtEQ0xUbGtCYlRkdl92c2FUV3ljTkZob1hXdFd2andZN1dWa3dHSUlzTkE1RGZhdllSU01pWFJkVFFzT3V1WUtLWW9TbGxQeHM5aDNhQm8zWFVoNVJfcnU0UjhlTzZDalR0Q1NqMTR3SQ?oc=5\" target=\"_blank\">Remote Grand Canyon lodge hit by deadly flash flood boasts fabled history</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPdHkxdEFJZDVPdVBiVFlCUnpzRVFjSnpuWnF0LUh6TjNLd3JoQV9hbnc0NXNfaUJ6ODlkdi1NTWRNVFI0NXpDLTVEdUhUZ01MYjdVVmNaY2JpNG5mR0I1SXJGY2c5THhWbWZLRjJIZ2JzSUNFQzFUMUlldGYyd21sOUN3TjBQdw?oc=5",
+        "date": "2026-08-31",
+        "title": "What to Know About Hiking in Areas Prone to Flash Floods - The New York Times",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxPdHkxdEFJZDVPdVBiVFlCUnpzRVFjSnpuWnF0LUh6TjNLd3JoQV9hbnc0NXNfaUJ6ODlkdi1NTWRNVFI0NXpDLTVEdUhUZ01MYjdVVmNaY2JpNG5mR0I1SXJGY2c5THhWbWZLRjJIZ2JzSUNFQzFUMUlldGYyd21sOUN3TjBQdw?oc=5\" target=\"_blank\">What to Know About Hiking in Areas Prone to Flash Floods</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOLVhVSVA4MWhITTVPd2IzNFJOQk45aEQ0ell3SHJ5UXNvTlljY0NqOVE0RHEyREFmMmVEYXgyYWhWRUUzNV9KSWxIaWJ2VmdySm9ucHQtV25EREJ3Z1oyaXQ2YXZDcWRxX29sN0lwcE04d0NfUGNMSkFSTkg4S244dmFUdmlzNzZudW9qTHp4TVBmN1dqNmQzOVZOMFRfNkFTNUtkQkFFSGlFVzNYNGZzWDhzQkc?oc=5",
+        "date": "2026-08-31",
+        "title": "Two dead in Grand Canyon after flash flood, park service says - Reuters",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxOLVhVSVA4MWhITTVPd2IzNFJOQk45aEQ0ell3SHJ5UXNvTlljY0NqOVE0RHEyREFmMmVEYXgyYWhWRUUzNV9KSWxIaWJ2VmdySm9ucHQtV25EREJ3Z1oyaXQ2YXZDcWRxX29sN0lwcE04d0NfUGNMSkFSTkg4S244dmFUdmlzNzZudW9qTHp4TVBmN1dqNmQzOVZOMFRfNkFTNUtkQkFFSGlFVzNYNGZzWDhzQkc?oc=5\" target=\"_blank\">Two dead in Grand Canyon after flash flood, park service says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA0REtrdXhvSFVvNl9TYzZrWGhGb2pRSU5uWFR4cHViUE1CRHRFUVExMDA3R1k2T1pPLWlSUHhHQWZJbkExanZiMlVOQ1Bob18tTXFZa04xMA?oc=5",
+        "date": "2026-08-31",
+        "title": "Nepal flooding deaths surpass 900 as needs climb - UN News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTFA0REtrdXhvSFVvNl9TYzZrWGhGb2pRSU5uWFR4cHViUE1CRHRFUVExMDA3R1k2T1pPLWlSUHhHQWZJbkExanZiMlVOQ1Bob18tTXFZa04xMA?oc=5\" target=\"_blank\">Nepal flooding deaths surpass 900 as needs climb</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">UN News</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdVZ1czNsVHdQNGJWYjRoRXFwNjUwYk5mSzFFajR3S2Qtekl4MWRIRmN2TVkyaHhidHZhSkpCUUdRaE4zcHFzbjlzQW9NcDFuMDJEcnZKWjJwT3pSX2c2UEpPcU9ydk1TWXQ0eDhOWERaZ3kyelNhUmZCcW5mMGI3M2licTFCRF91WjYwSTlENVpwbXZZenRNNU1xRHNaaTI2?oc=5",
+        "date": "2026-08-31",
+        "title": "Photos: The Aftermath of Nepal\u2019s Flash Floods - The Atlantic",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQdVZ1czNsVHdQNGJWYjRoRXFwNjUwYk5mSzFFajR3S2Qtekl4MWRIRmN2TVkyaHhidHZhSkpCUUdRaE4zcHFzbjlzQW9NcDFuMDJEcnZKWjJwT3pSX2c2UEpPcU9ydk1TWXQ0eDhOWERaZ3kyelNhUmZCcW5mMGI3M2licTFCRF91WjYwSTlENVpwbXZZenRNNU1xRHNaaTI2?oc=5\" target=\"_blank\">Photos: The Aftermath of Nepal\u2019s Flash Floods</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Atlantic</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVzdBczZ0TkJ1bktFNl83THROdWoweHFieDdreVVHY0JBd0wtUzlfSEVUMzZaVFhvMjIxWFdoZmh1SmZNMW1NQklZS01MYlRnZGNzVVAydm5PTVlzcklTY0RORENLX0dtcWxWNDF5X0pLS3BRYnJJOGlNcDV4VHlQdEdwdmtlZnBSaDV0eEhnTl9RNlU4ME1CbkNwRWpTdHR6OURITXVYcVFVR0tzNUdiQ0RQWVBta1A1ZkRfNm9B0gHDAUFVX3lxTFBDUEhFYWtqNFMyUE5EdkhDMkJ2Tk1NZkJYaW5qYmsyR1dMa3JSelc2SDloY2xBRDY2aFJYb2d3aFFjb2dkYThCRjFyeDhsdFR3Q3dQcEVUb2xYb1NCYW1EQTNpSy10NWU3Z0pKRW9aOC0wd2gxLTFRX1U5YnZ5Mnh3MzNsTm92aGQ1TF9LM2ZneURoS3pOQkdyR2VySjAtaDUwYkR0M21ObTRpTHVBcUxZLXRCbUNPc1c2alpmTG45RDlrcw?oc=5",
+        "date": "2026-08-31",
+        "title": "This principal in Nepal evacuated 900 students before flooding swept away their school - PBS",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxPVzdBczZ0TkJ1bktFNl83THROdWoweHFieDdreVVHY0JBd0wtUzlfSEVUMzZaVFhvMjIxWFdoZmh1SmZNMW1NQklZS01MYlRnZGNzVVAydm5PTVlzcklTY0RORENLX0dtcWxWNDF5X0pLS3BRYnJJOGlNcDV4VHlQdEdwdmtlZnBSaDV0eEhnTl9RNlU4ME1CbkNwRWpTdHR6OURITXVYcVFVR0tzNUdiQ0RQWVBta1A1ZkRfNm9B0gHDAUFVX3lxTFBDUEhFYWtqNFMyUE5EdkhDMkJ2Tk1NZkJYaW5qYmsyR1dMa3JSelc2SDloY2xBRDY2aFJYb2d3aFFjb2dkYThCRjFyeDhsdFR3Q3dQcEVUb2xYb1NCYW1EQTNpSy10NWU3Z0pKRW9aOC0wd2gxLTFRX1U5YnZ5Mnh3MzNsTm92aGQ1TF9LM2ZneURoS3pOQkdyR2VySjAtaDUwYkR0M21ObTRpTHVBcUxZLXRCbUNPc1c2alpmTG45RDlrcw?oc=5\" target=\"_blank\">This principal in Nepal evacuated 900 students before flooding swept away their school</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PBS</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPYU52OWpLNVM1UEJuODlOYk0tVlk2ek1TMmU2VzJzZ3NVdnJDYmJURGlwWDU4LS1UOTJFcG1Oc29GMEhjOVZZdmxuSUxPenpWNlF0dGNSeTFBdmRVODUza1VnSlM0Ymt0QzRIeGx4b0xoMi1ZdDJBRzF3djktRm8weVpsUUpqSUxLY0dIeEw3M0NhN0NGeXZVYTJR?oc=5",
+        "date": "2026-08-31",
+        "title": "How intense rains in the Grand Canyon turned into a deadly disaster - The Guardian",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPYU52OWpLNVM1UEJuODlOYk0tVlk2ek1TMmU2VzJzZ3NVdnJDYmJURGlwWDU4LS1UOTJFcG1Oc29GMEhjOVZZdmxuSUxPenpWNlF0dGNSeTFBdmRVODUza1VnSlM0Ymt0QzRIeGx4b0xoMi1ZdDJBRzF3djktRm8weVpsUUpqSUxLY0dIeEw3M0NhN0NGeXZVYTJR?oc=5\" target=\"_blank\">How intense rains in the Grand Canyon turned into a deadly disaster</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQzJwYmFWWGdRckdSNWtvUjNyR0xKNW1pcmZLRFh3d3pPWEowR0NaS0tVREJnVi12MnZsTkIxaW4tSkFKZ2puTGpPbFg4T3RUWW5jenBDQ3Rfcjdvb29hSkZhUEppMUw3RS1kVElRc1hGOFM5X09icjkwMjk3SlVMdWtKamZ3XzBOLThrZ1JtY0h0RDl0WE83WHdKRjhncWw5eHpwTg?oc=5",
+        "date": "2026-08-31",
+        "title": "Two bodies found and search continues after Grand Canyon flash flooding - washingtonpost.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNQzJwYmFWWGdRckdSNWtvUjNyR0xKNW1pcmZLRFh3d3pPWEowR0NaS0tVREJnVi12MnZsTkIxaW4tSkFKZ2puTGpPbFg4T3RUWW5jenBDQ3Rfcjdvb29hSkZhUEppMUw3RS1kVElRc1hGOFM5X09icjkwMjk3SlVMdWtKamZ3XzBOLThrZ1JtY0h0RDl0WE83WHdKRjhncWw5eHpwTg?oc=5\" target=\"_blank\">Two bodies found and search continues after Grand Canyon flash flooding</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">washingtonpost.com</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQUzk0WWEweTlwTXhMYnFVTmg5ZzRIZGk2ZUxRR1otTWU2WHpkUXhzUVBYOUNXQ2txN1BoLUMwc1hfR2lBTWloeGRYWHo4TnNzZTJuZEhraUh5OU1KQjFCYzc0cDR0VkV2R3dIQ3ZUU2FQV2JSWlBDdmNjcmtZdUhRM1NyOFptdTdSSFVMR0FOOWZHRHRsdEE?oc=5",
+        "date": "2026-08-31",
+        "title": "Kerr County, Texas, to Add 30 Sirens, Improve Flood Warnings - govtech.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxQUzk0WWEweTlwTXhMYnFVTmg5ZzRIZGk2ZUxRR1otTWU2WHpkUXhzUVBYOUNXQ2txN1BoLUMwc1hfR2lBTWloeGRYWHo4TnNzZTJuZEhraUh5OU1KQjFCYzc0cDR0VkV2R3dIQ3ZUU2FQV2JSWlBDdmNjcmtZdUhRM1NyOFptdTdSSFVMR0FOOWZHRHRsdEE?oc=5\" target=\"_blank\">Kerr County, Texas, to Add 30 Sirens, Improve Flood Warnings</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">govtech.com</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1WenVjaUVUaFcxaC04WlZ3SnF6NWs3Zm12alA5QzdwdE1GVXZWc1VUNl9oZ3I4cFlSelZ4MV8weFN4QndqcWVyU3Z2Qm1rd2JpYUhfekIxTnZuWklGZmpNaDN3?oc=5",
+        "date": "2026-08-31",
+        "title": "Flash Flood Warning Continues Until 1:15 PM MDT in Garfield and Wayne Counties, Utah - Forth.News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE1WenVjaUVUaFcxaC04WlZ3SnF6NWs3Zm12alA5QzdwdE1GVXZWc1VUNl9oZ3I4cFlSelZ4MV8weFN4QndqcWVyU3Z2Qm1rd2JpYUhfekIxTnZuWklGZmpNaDN3?oc=5\" target=\"_blank\">Flash Flood Warning Continues Until 1:15 PM MDT in Garfield and Wayne Counties, Utah</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Forth.News</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9yQ2Zzd3IxN2VrQjBVZnRYZmJKdFBQS3FpOGYxdnFPcDd0dDNfQWdRRk01ZTREYUFPTnpnR0FKakEwdnUyTjlKRkRJRHJtRFVnMWhjNEF6RkJPd09wQmdrVF9R?oc=5",
+        "date": "2026-08-31",
+        "title": "Flash Flood Warning in Emery and Wayne Counties Remains in Effect Until 2:45 PM MDT - Forth.News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE9yQ2Zzd3IxN2VrQjBVZnRYZmJKdFBQS3FpOGYxdnFPcDd0dDNfQWdRRk01ZTREYUFPTnpnR0FKakEwdnUyTjlKRkRJRHJtRFVnMWhjNEF6RkJPd09wQmdrVF9R?oc=5\" target=\"_blank\">Flash Flood Warning in Emery and Wayne Counties Remains in Effect Until 2:45 PM MDT</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Forth.News</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBTckt1Ykh1S3JWa1JCaDZ4bEhQQ0pTOFZ0TGd1b1J4ZVo0VklDaGJMVlFOeVZYLU5mRmVHZGdhM1Y5aU1QN0tGM0tKc1JrUFRDd05FR0U0NktnclRfNDdNb0FvcEdwR00?oc=5",
+        "date": "2026-08-31",
+        "title": "Flash Flood Warning issued August 31 at 11:16AM MDT until August 31 at 2:15PM MDT by NWS Salt Lake City UT - Forth.News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBTckt1Ykh1S3JWa1JCaDZ4bEhQQ0pTOFZ0TGd1b1J4ZVo0VklDaGJMVlFOeVZYLU5mRmVHZGdhM1Y5aU1QN0tGM0tKc1JrUFRDd05FR0U0NktnclRfNDdNb0FvcEdwR00?oc=5\" target=\"_blank\">Flash Flood Warning issued August 31 at 11:16AM MDT until August 31 at 2:15PM MDT by NWS Salt Lake City UT</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Forth.News</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5HajUwRjJyRDBaUk5nZW9jeFU3cERIZXRWUW15WDlRZG9QQzE4WG10RHZHblNxMFhPSS13NHRJM2pwRjdZeW1MLUVONjhLRnY2Zno5SnloZFpKal9kX3Z2ZzRR?oc=5",
+        "date": "2026-08-31",
+        "title": "Flash Flood Warning Continues in Central Garfield County, Utah, Until 12:45 PM MDT - Forth.News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE5HajUwRjJyRDBaUk5nZW9jeFU3cERIZXRWUW15WDlRZG9QQzE4WG10RHZHblNxMFhPSS13NHRJM2pwRjdZeW1MLUVONjhLRnY2Zno5SnloZFpKal9kX3Z2ZzRR?oc=5\" target=\"_blank\">Flash Flood Warning Continues in Central Garfield County, Utah, Until 12:45 PM MDT</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Forth.News</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB6cnM2X2ZxOHlEUTVLcjZtbm44dnd6bmVETkpoU3RLd016UjJ6QV9TcUZGM1dtTktTdEF1bDIyNWZkYjh3Sk1rTkxxUjRGVEpPVkt6c0NBQ29OMWVWNlFvWmdn?oc=5",
+        "date": "2026-08-31",
+        "title": "Yavapai County Faces Life\u2011Threatening Flash Floods After Heavy Rain - Forth.News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTFB6cnM2X2ZxOHlEUTVLcjZtbm44dnd6bmVETkpoU3RLd016UjJ6QV9TcUZGM1dtTktTdEF1bDIyNWZkYjh3Sk1rTkxxUjRGVEpPVkt6c0NBQ29OMWVWNlFvWmdn?oc=5\" target=\"_blank\">Yavapai County Faces Life\u2011Threatening Flash Floods After Heavy Rain</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Forth.News</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBYSy1pcXVmeHBHYUxGZy1CY2swUE9kSHJ4Wmxpc1FQbDBQNDN5NWdMNGx1dkNPWUZkcnZUbEdzbnRkNW5uQk1FSlR3Q3pXeG1LVFJ0aWRrTHRCZjlfMHRpcXR3?oc=5",
+        "date": "2026-08-31",
+        "title": "Flash Flood Warning Issued for Piute County as Heavy Rain Triggers Debris Flows - Forth.News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTFBYSy1pcXVmeHBHYUxGZy1CY2swUE9kSHJ4Wmxpc1FQbDBQNDN5NWdMNGx1dkNPWUZkcnZUbEdzbnRkNW5uQk1FSlR3Q3pXeG1LVFJ0aWRrTHRCZjlfMHRpcXR3?oc=5\" target=\"_blank\">Flash Flood Warning Issued for Piute County as Heavy Rain Triggers Debris Flows</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Forth.News</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNMkVrRm13MlZtZnVSaHdDU2JLTFd0aWlJRG9oVDNaSUNmbkpXZ1YwNlQ3ZHNSV0M1TDg5My1TUGlIMzVGWUV3Qkt1aVBmRjFwZ2hZYXhpX3pTLVVmLUFUdDJtN2JVMTVVTndZV3lqVE1ialZkU3g3T1Fnc1NvTjVwckxnSkRrTkNCTlhFZl9aVHZ5bkpJcmhfeHZGdzVMYTB3al9acExDVk9RWG5ldzg0TnpFVV9XU2JtX1E?oc=5",
+        "date": "2026-08-31",
+        "title": "More storms possible at Grand Canyon where a flash flood killed at least 2 people - Toledo Blade",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNMkVrRm13MlZtZnVSaHdDU2JLTFd0aWlJRG9oVDNaSUNmbkpXZ1YwNlQ3ZHNSV0M1TDg5My1TUGlIMzVGWUV3Qkt1aVBmRjFwZ2hZYXhpX3pTLVVmLUFUdDJtN2JVMTVVTndZV3lqVE1ialZkU3g3T1Fnc1NvTjVwckxnSkRrTkNCTlhFZl9aVHZ5bkpJcmhfeHZGdzVMYTB3al9acExDVk9RWG5ldzg0TnpFVV9XU2JtX1E?oc=5\" target=\"_blank\">More storms possible at Grand Canyon where a flash flood killed at least 2 people</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Toledo Blade</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNMU5KdEllWjQxMHFIR0RSU0NUay1aUTdLbW9aY2Mzd181RXFQNC1pWUo2TUVIQnFZUHNJWktYeTRiTmlKMmNZV3dnMmV6cHV5RGd0Qm9PS2VpX3h0MS1NUnFpcW5PWFhhM3A4SVNmb0kzbXdHT1N4aFBaRndMUEMyM0lhdlRGN29MckJ6azkwQ2FlRGZFeWN1OU9yRjlFUjhiOW1ERnJlYWJ2Rlh0eFV4Rk1RSWQyenpSQkxpekR0NUdBcTdFVUotSEVQRjdHeXM5MDM3NWx0MnE?oc=5",
+        "date": "2026-08-31",
+        "title": "Deadly Grand Canyon Flash Floods Spark Desperate Search And Rescue - KVOA",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxNMU5KdEllWjQxMHFIR0RSU0NUay1aUTdLbW9aY2Mzd181RXFQNC1pWUo2TUVIQnFZUHNJWktYeTRiTmlKMmNZV3dnMmV6cHV5RGd0Qm9PS2VpX3h0MS1NUnFpcW5PWFhhM3A4SVNmb0kzbXdHT1N4aFBaRndMUEMyM0lhdlRGN29MckJ6azkwQ2FlRGZFeWN1OU9yRjlFUjhiOW1ERnJlYWJ2Rlh0eFV4Rk1RSWQyenpSQkxpekR0NUdBcTdFVUotSEVQRjdHeXM5MDM3NWx0MnE?oc=5\" target=\"_blank\">Deadly Grand Canyon Flash Floods Spark Desperate Search And Rescue</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KVOA</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9HRHBSSnp4SzRIR1F2cmJPajc0TjdKcHp3TEIyRW5ZUy1nWXdHbnF2eUd3NWZrb3o0dExfSjd3ZUFaVjloRTJUOXFnVk1sRllpS1BjZTB2UUVLdF9vVjN0eFhlQQ?oc=5",
+        "date": "2026-08-31",
+        "title": "Deadly flooding recovery continues at the Grand Canyon as Level 3/4 flash flood threat plagues region - FOX Weather",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE9HRHBSSnp4SzRIR1F2cmJPajc0TjdKcHp3TEIyRW5ZUy1nWXdHbnF2eUd3NWZrb3o0dExfSjd3ZUFaVjloRTJUOXFnVk1sRllpS1BjZTB2UUVLdF9vVjN0eFhlQQ?oc=5\" target=\"_blank\">Deadly flooding recovery continues at the Grand Canyon as Level 3/4 flash flood threat plagues region</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FOX Weather</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1HV3Z6NFF3cXROWnBEOC1sREhDdldsdjhtSlBRVDhudVR0V0UxeDNGczJ3LWx2MFhhbFpQWk9KSVpjakJOWlR1YTRXZXRUb1I2TjRYcm1aN2wxWHRzUzlSNU1ORFBlOHFDVloxbmgxTlpOd2loenNMMHBR?oc=5",
+        "date": "2026-08-31",
+        "title": "Watch: Flash flood sweeps through Grand Canyon - CBS News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE1HV3Z6NFF3cXROWnBEOC1sREhDdldsdjhtSlBRVDhudVR0V0UxeDNGczJ3LWx2MFhhbFpQWk9KSVpjakJOWlR1YTRXZXRUb1I2TjRYcm1aN2wxWHRzUzlSNU1ORFBlOHFDVloxbmgxTlpOd2loenNMMHBR?oc=5\" target=\"_blank\">Watch: Flash flood sweeps through Grand Canyon</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CBS News</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9RUlJXTHdNc2JCS2FqeHFTa09qLW9HaUdjbjVrTmU0ZHR4N0pGU05GS2pXc1R5UkdGYVRhYlo4a1htbVdfc2N6S1FnczhsZF8tbFdoQVVQWUpXQUZuMUk1Q1NR?oc=5",
+        "date": "2026-08-31",
+        "title": "Flash Flood Warning for Utah\u2019s Slot Canyons; Drivers Urged to Turn Around - Forth.News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE9RUlJXTHdNc2JCS2FqeHFTa09qLW9HaUdjbjVrTmU0ZHR4N0pGU05GS2pXc1R5UkdGYVRhYlo4a1htbVdfc2N6S1FnczhsZF8tbFdoQVVQWUpXQUZuMUk1Q1NR?oc=5\" target=\"_blank\">Flash Flood Warning for Utah\u2019s Slot Canyons; Drivers Urged to Turn Around</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Forth.News</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOcDhlWU8xeHZDb05Pam4wdHRKeVMtX1pySkhDT3M3ZV9zT2N0eW1BSXBFUnd2M0p3WjFYMEpkR2szR3J4STVuNUE1UDlUYXBJMk4waW9qRGdIYUlkUWdURGxBSHNQc3lSNm1mdlp0MFlGUFJWc3g4eFVicW1ITTVyemM3UW9kU3diNzluY0Q5aURuMDU1LUc2cFhlMGw1WWdVVENVZFk2dDJwcVNkWVNNWm9XTFJwNFg5RjFsR1h2b3NSYmlD?oc=5",
+        "date": "2026-08-31",
+        "title": "Santa Barbara\u2013Based Charities Responding to Nepal Following Devastating Flash Flooding - The Santa Barbara Independent",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxOcDhlWU8xeHZDb05Pam4wdHRKeVMtX1pySkhDT3M3ZV9zT2N0eW1BSXBFUnd2M0p3WjFYMEpkR2szR3J4STVuNUE1UDlUYXBJMk4waW9qRGdIYUlkUWdURGxBSHNQc3lSNm1mdlp0MFlGUFJWc3g4eFVicW1ITTVyemM3UW9kU3diNzluY0Q5aURuMDU1LUc2cFhlMGw1WWdVVENVZFk2dDJwcVNkWVNNWm9XTFJwNFg5RjFsR1h2b3NSYmlD?oc=5\" target=\"_blank\">Santa Barbara\u2013Based Charities Responding to Nepal Following Devastating Flash Flooding</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Santa Barbara Independent</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUHdCZHIxb0E5UmV1T3JCckJHQjhSV3BPamlwRTlSWkp3YnM3aGFnNzI1bE1DOG5BaFpPYjBQX1J5ZDVOeEhFUFh6bkRJVEkxeDRydUg5X0liY0JvQ0NiaDZYTXVjV0J0M3p1SG1ZSHROX3Nzb0FyYVBWcE54NkJyU0hFYVRRRWNOQndN?oc=5",
+        "date": "2026-08-31",
+        "title": "The remote Grand Canyon lodge hit by flash floods has a storied past - The Salt Lake Tribune",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUHdCZHIxb0E5UmV1T3JCckJHQjhSV3BPamlwRTlSWkp3YnM3aGFnNzI1bE1DOG5BaFpPYjBQX1J5ZDVOeEhFUFh6bkRJVEkxeDRydUg5X0liY0JvQ0NiaDZYTXVjV0J0M3p1SG1ZSHROX3Nzb0FyYVBWcE54NkJyU0hFYVRRRWNOQndN?oc=5\" target=\"_blank\">The remote Grand Canyon lodge hit by flash floods has a storied past</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Salt Lake Tribune</font>",
+        "similarity_excluded": "No",
+        "score": 6,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE91YzVXVXlaNDJqUUpwYU1zWUhrYV8wWWJabmYwbEttTVlZbnBSRjFHSnA4c0x1NzFDQkVzZk1tbzBya1BZRERSSGZ0Y2F3dW9EelpRNDFjYXRmcXhmc1JVUW5B?oc=5",
+        "date": "2026-08-31",
+        "title": "Flash Flood Warning Issued for Piute County, Utah, Until 6:15 PM MDT - Forth.News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE91YzVXVXlaNDJqUUpwYU1zWUhrYV8wWWJabmYwbEttTVlZbnBSRjFHSnA4c0x1NzFDQkVzZk1tbzBya1BZRERSSGZ0Y2F3dW9EelpRNDFjYXRmcXhmc1JVUW5B?oc=5\" target=\"_blank\">Flash Flood Warning Issued for Piute County, Utah, Until 6:15 PM MDT</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Forth.News</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPS0J1VjR0QkRyaDRsN0xzZ1Q0cUZEelJUT1JvSGgzWEo3NFdKZGxHZ1JMNTFabTBTenFaZmhpT25KTGFMVDcyS3dBSk0xaWxud3lyZ3BWbXFtUlB3WGRRdFRqWTdqc3dyWHlvRWk4LVpQb0EwMVlJQjRlcURmMDVMeUpDZWw?oc=5",
+        "date": "2026-08-31",
+        "title": "Hikers describe flash flood in Grand Canyon that left 2 dead, 14 others missing - KOCO",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPS0J1VjR0QkRyaDRsN0xzZ1Q0cUZEelJUT1JvSGgzWEo3NFdKZGxHZ1JMNTFabTBTenFaZmhpT25KTGFMVDcyS3dBSk0xaWxud3lyZ3BWbXFtUlB3WGRRdFRqWTdqc3dyWHlvRWk4LVpQb0EwMVlJQjRlcURmMDVMeUpDZWw?oc=5\" target=\"_blank\">Hikers describe flash flood in Grand Canyon that left 2 dead, 14 others missing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KOCO</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNdzJWMkExMjhrRUN2bUhOOTZkNUg2cVMzdlMwYzJGMng3QVF4ZFR4Z2xZNFZqRlRLcUZacnhaRW5XYTN6ZThSczFISDJiUXJHT21xaWtRMzlRNTFSSlFacV83WkFWWjM5TlYzOEw3cjRjNy1JLXRBRkFXaGlVbVpKS1BJdDNwczJkUm9Yd2VCek83NWFQc2hmQnptSnM5Q1MxM3JFdl9KNXNmNXo4a2ozckdPcjVPVVJ4bU1vanBJTjdpSEZob1lHZFh3T05DeTBEMHc?oc=5",
+        "date": "2026-08-31",
+        "title": "More storms possible at Grand Canyon where a flash flood killed 1 person and left 15 missing - Sentinel Colorado",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxNdzJWMkExMjhrRUN2bUhOOTZkNUg2cVMzdlMwYzJGMng3QVF4ZFR4Z2xZNFZqRlRLcUZacnhaRW5XYTN6ZThSczFISDJiUXJHT21xaWtRMzlRNTFSSlFacV83WkFWWjM5TlYzOEw3cjRjNy1JLXRBRkFXaGlVbVpKS1BJdDNwczJkUm9Yd2VCek83NWFQc2hmQnptSnM5Q1MxM3JFdl9KNXNmNXo4a2ozckdPcjVPVVJ4bU1vanBJTjdpSEZob1lHZFh3T05DeTBEMHc?oc=5\" target=\"_blank\">More storms possible at Grand Canyon where a flash flood killed 1 person and left 15 missing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sentinel Colorado</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1GWFZlcWt4V3ZYbGRZejhRMHozTG5UQ1lUREhzTXEwWGRlc05aTmhSV0ppSFBlSHkxVlg5UXhoRVNyMElGektqTi16bHpBcnlHQURMVHNhNU13U1hOZ3FXZml3?oc=5",
+        "date": "2026-08-31",
+        "title": "Flash Flood Warning Issued for Escalante River, Utah, Until 5 PM MDT - Forth.News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE1GWFZlcWt4V3ZYbGRZejhRMHozTG5UQ1lUREhzTXEwWGRlc05aTmhSV0ppSFBlSHkxVlg5UXhoRVNyMElGektqTi16bHpBcnlHQURMVHNhNU13U1hOZ3FXZml3?oc=5\" target=\"_blank\">Flash Flood Warning Issued for Escalante River, Utah, Until 5 PM MDT</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Forth.News</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOdTRSXzIyMUtHS2c0MW9hZVhYbWEtWVpsWmJyRkhoMkx4TFlDSTNETE9CRGJ2R3lWMXQzOU45dGNTbUtzbEhHNnpwdGFZc2xRRXluZklua28xMnppa3NQTVRlRld6Yi1uaHQta2RLRVdSY0s3YzFka1VzMjdsZmNVeG1DS2FXRjVHdzlIMk5kRjd5NVRXbllZd0x2OUFiclVPWFA1cGNWTzdtWTN4cG5jdjJUeVFLOFFCUktGSnZVX3hteV8yU05DZHhKZ082ZUY0QXc?oc=5",
+        "date": "2026-08-31",
+        "title": "Flash floods changed the Grand Canyon. Here's what's closed. - USA Today",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxOdTRSXzIyMUtHS2c0MW9hZVhYbWEtWVpsWmJyRkhoMkx4TFlDSTNETE9CRGJ2R3lWMXQzOU45dGNTbUtzbEhHNnpwdGFZc2xRRXluZklua28xMnppa3NQTVRlRld6Yi1uaHQta2RLRVdSY0s3YzFka1VzMjdsZmNVeG1DS2FXRjVHdzlIMk5kRjd5NVRXbllZd0x2OUFiclVPWFA1cGNWTzdtWTN4cG5jdjJUeVFLOFFCUktGSnZVX3hteV8yU05DZHhKZ082ZUY0QXc?oc=5\" target=\"_blank\">Flash floods changed the Grand Canyon. Here's what's closed.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">USA Today</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNM2xsTWJoeW8ybVUzQ09qZ09hd2RKZWJ5T1psNzlQQnFPM245Zkh3VXN5cnc2dF9pbUxhQ2NqVXd3M0o2YVhRbXl1LXREOHZqLWcwalJzbUJuWE11SkZLdkFYNG9Yc3p6NXAxMGc2d0dvY1ktaTRfbnNZN2JfMERtZWkwQll2V25ZSUozQkROYTBadHZWMjhjRi10MkdBeTRxMVFZeWRoY3d1cXYwRWdkQ0huS3NmR1RPaXhVaGVOUkFtRDNPN3RsNUE1MVBMS19CV1RSSg?oc=5",
+        "date": "2026-08-31",
+        "title": "More storms possible at Grand Canyon where flash flood killed at least 2 people, about 15 still miss - ABC7 WWSB",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxNM2xsTWJoeW8ybVUzQ09qZ09hd2RKZWJ5T1psNzlQQnFPM245Zkh3VXN5cnc2dF9pbUxhQ2NqVXd3M0o2YVhRbXl1LXREOHZqLWcwalJzbUJuWE11SkZLdkFYNG9Yc3p6NXAxMGc2d0dvY1ktaTRfbnNZN2JfMERtZWkwQll2V25ZSUozQkROYTBadHZWMjhjRi10MkdBeTRxMVFZeWRoY3d1cXYwRWdkQ0huS3NmR1RPaXhVaGVOUkFtRDNPN3RsNUE1MVBMS19CV1RSSg?oc=5\" target=\"_blank\">More storms possible at Grand Canyon where flash flood killed at least 2 people, about 15 still miss</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ABC7 WWSB</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQTzY5QmRjaDdzampnQlRjSmp6cVRIRDM5ZEVYZDhWMlIzcmpyOFhfSU5JcHR4MVlqbC1sUzE0UXFFbFltUlBfdlQwVUFreUtISnZBTnYybHllSXpEUENZcm1uSWlsdE9sV1dJSGIxSlU1dXJvVnBLU2EtUlJGcGkxMGtObXFVYlRiTGdodXZLZw?oc=5",
+        "date": "2026-08-31",
+        "title": "Daily news: Floods hit Utah hard over the weekend, and more are coming - Utah Public Radio",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxQTzY5QmRjaDdzampnQlRjSmp6cVRIRDM5ZEVYZDhWMlIzcmpyOFhfSU5JcHR4MVlqbC1sUzE0UXFFbFltUlBfdlQwVUFreUtISnZBTnYybHllSXpEUENZcm1uSWlsdE9sV1dJSGIxSlU1dXJvVnBLU2EtUlJGcGkxMGtObXFVYlRiTGdodXZLZw?oc=5\" target=\"_blank\">Daily news: Floods hit Utah hard over the weekend, and more are coming</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Utah Public Radio</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPWWJaaU5MTW00X3BIbVQ1NlZLOWV6YmxRMzhuRmRqYU93ejlHRUJJdWVUWTJrSkUtMVU5SmVHQy1NVV80bzVkM19IdnZsdGwtbkxiRjdNaUNwNkNfWW1DZEZaMF9VWTQ0UmhHWE90eWdaQk9KOEd5dDVxUHFWNUFlWFdiNWtrTXR2WWdObGlXTUxvd0xZT1E?oc=5",
+        "date": "2026-08-31",
+        "title": "Deadly flash flood forces Grand Canyon evacuations and water restrictions, in photos - TelegraphHerald.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPWWJaaU5MTW00X3BIbVQ1NlZLOWV6YmxRMzhuRmRqYU93ejlHRUJJdWVUWTJrSkUtMVU5SmVHQy1NVV80bzVkM19IdnZsdGwtbkxiRjdNaUNwNkNfWW1DZEZaMF9VWTQ0UmhHWE90eWdaQk9KOEd5dDVxUHFWNUFlWFdiNWtrTXR2WWdObGlXTUxvd0xZT1E?oc=5\" target=\"_blank\">Deadly flash flood forces Grand Canyon evacuations and water restrictions, in photos</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TelegraphHerald.com</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQaFlkZFg2ZmNyc09Lb1BJNFN4a3hCV3RvTFh0NDBkdWREeXBJaG96THl4NDc3NElZQjVzN0xCcGVRWDE0bWNnZVhELUtTWEJPSDVjYWRBdVIyYkcwd2VETW5nSnJ3VGNTN0ZzR05iRi1TYWFkNmlkajN5clVOYlN4UDctWjBMellLN3l4cVh5VkIwYjJ2bEE?oc=5",
+        "date": "2026-08-31",
+        "title": "Two dead in Grand Canyon after flash flood, park service says - WTVB",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxQaFlkZFg2ZmNyc09Lb1BJNFN4a3hCV3RvTFh0NDBkdWREeXBJaG96THl4NDc3NElZQjVzN0xCcGVRWDE0bWNnZVhELUtTWEJPSDVjYWRBdVIyYkcwd2VETW5nSnJ3VGNTN0ZzR05iRi1TYWFkNmlkajN5clVOYlN4UDctWjBMellLN3l4cVh5VkIwYjJ2bEE?oc=5\" target=\"_blank\">Two dead in Grand Canyon after flash flood, park service says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WTVB</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9tZmdaeXZMRjNrc0R3RWM2dHdfLXB2eTl6aUhtU3VYQWw2dEhZaUlnbVhTS1NnR1VaWGtaYkpiMGpKRGNFT3M3VGJpSDc1clNlTjhhUEtKTDJ5TDAzTWZXTVZSaXB1N0d2TzFzc1RKSFRrMkdLdGxz?oc=5",
+        "date": "2026-08-31",
+        "title": "What to Know About the Grand Canyon Flooding - The New York Times",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE9tZmdaeXZMRjNrc0R3RWM2dHdfLXB2eTl6aUhtU3VYQWw2dEhZaUlnbVhTS1NnR1VaWGtaYkpiMGpKRGNFT3M3VGJpSDc1clNlTjhhUEtKTDJ5TDAzTWZXTVZSaXB1N0d2TzFzc1RKSFRrMkdLdGxz?oc=5\" target=\"_blank\">What to Know About the Grand Canyon Flooding</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUkZvMVZ6czRXSWp5OVY2d0tQcnlmUXpINVJZYXpubVhwSVJPMW1iekhlVl8wWXNEWG9kVmY0d3JvYTR2aldsZ0lfUEZuZGxjTkRDcF9NR0JKdWtpLWFHTE1mUVF5cGM4RkI4RUxhdGVXanY5LWNQNlpOTndGQUk1STh2MlBsQ0xWREdIUGF6bkFDQ2xkaXpGRHh4SVVZUzM2SjNRSG9PM3M5aEZpQlE?oc=5",
+        "date": "2026-08-31",
+        "title": "North Texas man killed in Grand Canyon flash flood, 2 friends remain missing - dallasnews.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPUkZvMVZ6czRXSWp5OVY2d0tQcnlmUXpINVJZYXpubVhwSVJPMW1iekhlVl8wWXNEWG9kVmY0d3JvYTR2aldsZ0lfUEZuZGxjTkRDcF9NR0JKdWtpLWFHTE1mUVF5cGM4RkI4RUxhdGVXanY5LWNQNlpOTndGQUk1STh2MlBsQ0xWREdIUGF6bkFDQ2xkaXpGRHh4SVVZUzM2SjNRSG9PM3M5aEZpQlE?oc=5\" target=\"_blank\">North Texas man killed in Grand Canyon flash flood, 2 friends remain missing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">dallasnews.com</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOWlV3U0ZwcWlQZXliRWREZ1VvY1pEdFBZdEltNURzOG9vVUlHTzFyWFhRNzBhWFl2RUExenF4WHZoUjhPZDBYWG5PYkNZZEJIQzlQZW1DM2NfNnY0SmZRc2JiOEM1bjFLNmR1NWQyVWl2ZDVaTk85ZzVlVndyTlpaR25vZ0NaSUU4WWVhQTE3QlNEMnp1elhNdlNFc0NSa3BHVlh0dEVsWm45NEFZMmJwTGItTlFRTWE1SE5xWUYtWTVDdE5HaDNoZjdyc3kyMkhWeVBj?oc=5",
+        "date": "2026-08-31",
+        "title": "Tropical Depression 5 threatens southeast Texas with up to 9 inches of rain, flooding - Click2Houston",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxOWlV3U0ZwcWlQZXliRWREZ1VvY1pEdFBZdEltNURzOG9vVUlHTzFyWFhRNzBhWFl2RUExenF4WHZoUjhPZDBYWG5PYkNZZEJIQzlQZW1DM2NfNnY0SmZRc2JiOEM1bjFLNmR1NWQyVWl2ZDVaTk85ZzVlVndyTlpaR25vZ0NaSUU4WWVhQTE3QlNEMnp1elhNdlNFc0NSa3BHVlh0dEVsWm45NEFZMmJwTGItTlFRTWE1SE5xWUYtWTVDdE5HaDNoZjdyc3kyMkhWeVBj?oc=5\" target=\"_blank\">Tropical Depression 5 threatens southeast Texas with up to 9 inches of rain, flooding</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Click2Houston</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbFpMc01NLTlDQi0zUDFwcVBIcDg5d2hsdXVvTG14QzYyOWZSeGdTYzFoNkVoT2ZyTU9zQUwwVkFXZnhXOFpNczNMWDVTOXpkaGhVSXhUR3QwS0hiQkZLTkN0Z3RuTzVmNWxuSUd0TXctMk1URzRMeWRCVnpTM2cwLTdwWWQtREk3X2E3UWFQWGpzWnhJU3RjM3dPSTA1Tnd0aE5pLW9WUF9BZmluelZCWE9oQ2ZyZFhpS1FfRA?oc=5",
+        "date": "2026-08-31",
+        "title": "Nepal teams seek hundreds trapped in hydropower tunnels after deadly floods - Reuters",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxNbFpMc01NLTlDQi0zUDFwcVBIcDg5d2hsdXVvTG14QzYyOWZSeGdTYzFoNkVoT2ZyTU9zQUwwVkFXZnhXOFpNczNMWDVTOXpkaGhVSXhUR3QwS0hiQkZLTkN0Z3RuTzVmNWxuSUd0TXctMk1URzRMeWRCVnpTM2cwLTdwWWQtREk3X2E3UWFQWGpzWnhJU3RjM3dPSTA1Tnd0aE5pLW9WUF9BZmluelZCWE9oQ2ZyZFhpS1FfRA?oc=5\" target=\"_blank\">Nepal teams seek hundreds trapped in hydropower tunnels after deadly floods</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQREhObjEyT1A2ckxUZ214MF9kSHlDM0tQUVp5dEFMQkdCT0YtcG5qX1prWldBcE1CNElPbUNueDhGSmM3SnBJZ1ZRWGYtTEF6bERHWDk4UzhEMGVxdXFKdnlYQV9YN01xMFdudUlXaUh0N0E3SmUtVHV1ZjdMSDV2UVhLc3A0OUVaZGdpRGxXcVQ?oc=5",
+        "date": "2026-08-31",
+        "title": "Monday, Aug. 31 update from the National Hurricane Center: Latest on the Tropical Depression - islandpacket.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxQREhObjEyT1A2ckxUZ214MF9kSHlDM0tQUVp5dEFMQkdCT0YtcG5qX1prWldBcE1CNElPbUNueDhGSmM3SnBJZ1ZRWGYtTEF6bERHWDk4UzhEMGVxdXFKdnlYQV9YN01xMFdudUlXaUh0N0E3SmUtVHV1ZjdMSDV2UVhLc3A0OUVaZGdpRGxXcVQ?oc=5\" target=\"_blank\">Monday, Aug. 31 update from the National Hurricane Center: Latest on the Tropical Depression</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">islandpacket.com</font>",
+        "similarity_excluded": "No",
+        "score": 3,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQa0RuSkxoeFpVRXF1S3piTDVYNGtZSkZIZ0E2TFM5eFNzZDFnbGdfeDduRlRObGNTaElUY1cxQjk5bzh3OTZ2aDk1WnNrU3h2eHJXTGVndTdpbUZERjFZMzRhVlkwQVo0UXBoSnpmeFB6cUZRWXNKMnBiN1lKSDJoWmRUU0x3MVJQZ0pFcDRjcS1WZG9ndkdBeDhiX2NYVHRycFdz0gGoAUFVX3lxTE1wc0FNUXBaYTROV1VHUFl3bnVSWlRTLXYyem5fRmt3TVJXR3hhbklxeS04TmtVVDFuWWp2UkRscGVaSXIxYVA2TGFrWjZRdURQbHpJc1dxdXI2Z1c3LXNOUjVrYkd3bEl1czJzTE9LSmZzTXI2cXp5bjhPLWxfajNYUG1NbnhOYm8zYUZKaEJoeGxxVWNFMXRjY1Y4aW56MlV5eWZsdUVZdA?oc=5",
+        "date": "2026-08-31",
+        "title": "Potential tropical storm may make landfall in Texas on Tuesday: Latest forecast - ABC News - Breaking News, Latest News and Videos",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQa0RuSkxoeFpVRXF1S3piTDVYNGtZSkZIZ0E2TFM5eFNzZDFnbGdfeDduRlRObGNTaElUY1cxQjk5bzh3OTZ2aDk1WnNrU3h2eHJXTGVndTdpbUZERjFZMzRhVlkwQVo0UXBoSnpmeFB6cUZRWXNKMnBiN1lKSDJoWmRUU0x3MVJQZ0pFcDRjcS1WZG9ndkdBeDhiX2NYVHRycFdz0gGoAUFVX3lxTE1wc0FNUXBaYTROV1VHUFl3bnVSWlRTLXYyem5fRmt3TVJXR3hhbklxeS04TmtVVDFuWWp2UkRscGVaSXIxYVA2TGFrWjZRdURQbHpJc1dxdXI2Z1c3LXNOUjVrYkd3bEl1czJzTE9LSmZzTXI2cXp5bjhPLWxfajNYUG1NbnhOYm8zYUZKaEJoeGxxVWNFMXRjY1Y4aW56MlV5eWZsdUVZdA?oc=5\" target=\"_blank\">Potential tropical storm may make landfall in Texas on Tuesday: Latest forecast</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ABC News - Breaking News, Latest News and Videos</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTHhHX0tPdFZEMlE0LUZLa1pwZUhtb21Jamh6WldlQ19nZkxWRE5YWTFKNU9iWG1Ba09LNGtZb04xMlI2Y05rSEwyYmFtRHEzNUdkUDZTZkRfWE9BTVhJRmtYdnV4Nk1JZl9Tck80WTRoSkdxWEVTTUNsRE84N1RaRzdWbzVORjNxZlRiTU1HRDFtZFpGM201b0xnMFhFX0p2aUIxZmV1bw?oc=5",
+        "date": "2026-08-31",
+        "title": "Tropical storm warning issued for Louisiana, Texas coasts ahead of soaking, potential Edouard - The Weather Channel",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxOTHhHX0tPdFZEMlE0LUZLa1pwZUhtb21Jamh6WldlQ19nZkxWRE5YWTFKNU9iWG1Ba09LNGtZb04xMlI2Y05rSEwyYmFtRHEzNUdkUDZTZkRfWE9BTVhJRmtYdnV4Nk1JZl9Tck80WTRoSkdxWEVTTUNsRE84N1RaRzdWbzVORjNxZlRiTU1HRDFtZFpGM201b0xnMFhFX0p2aUIxZmV1bw?oc=5\" target=\"_blank\">Tropical storm warning issued for Louisiana, Texas coasts ahead of soaking, potential Edouard</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Weather Channel</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWkh0MVRBcmxYNmlIQjY5cncybDVncXdpTVQzSFozUmZoMlNoYkFCT0pTdjN6bkdSWWZwQTJxdVFfS0xRRXM4alVrWlc3WnM5OWlmaDlla0lWR3RCcVE5MHREa2VCSnpSOW1acVVwMHlpZTRFMWFJS0dqY09aRGJRSktGdVlRazdvMEFmOWFXRjluVVduSEUzaENqOWN1bmNsc1d4SXYwU2dGeEE?oc=5",
+        "date": "2026-08-31",
+        "title": "A surprise storm developed in the Gulf and could strengthen to a hurricane - washingtonpost.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWkh0MVRBcmxYNmlIQjY5cncybDVncXdpTVQzSFozUmZoMlNoYkFCT0pTdjN6bkdSWWZwQTJxdVFfS0xRRXM4alVrWlc3WnM5OWlmaDlla0lWR3RCcVE5MHREa2VCSnpSOW1acVVwMHlpZTRFMWFJS0dqY09aRGJRSktGdVlRazdvMEFmOWFXRjluVVduSEUzaENqOWN1bmNsc1d4SXYwU2dGeEE?oc=5\" target=\"_blank\">A surprise storm developed in the Gulf and could strengthen to a hurricane</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">washingtonpost.com</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNbkhJQ19sSnk2TjA4aUZ5NlNsSUIwSGRSZVBFckFaaDExeWhaN0dBNERxTEl3MnR6QkI5M05qQmRkRmxlZzdXTHA4TlZ4UTVPWFdta05DRWh3ZG5zV2I4V3pKQUhZdWJEQWZ6RFgyR0VvQ0p5UmFhd2d3Xzd2aUZKSkV5SUNJejM5cGhnaDRvemVWN1FabkJEc1lOalN1d1RHUUN6RzR2bEdrNU1CV0tzZHFxNTZGdGxwM3dYUFlXaExsWGpvQUdjZQ?oc=5",
+        "date": "2026-08-31",
+        "title": "Strengthening tropical depression to unleash flooding downpours along Gulf Coast - AccuWeather",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxNbkhJQ19sSnk2TjA4aUZ5NlNsSUIwSGRSZVBFckFaaDExeWhaN0dBNERxTEl3MnR6QkI5M05qQmRkRmxlZzdXTHA4TlZ4UTVPWFdta05DRWh3ZG5zV2I4V3pKQUhZdWJEQWZ6RFgyR0VvQ0p5UmFhd2d3Xzd2aUZKSkV5SUNJejM5cGhnaDRvemVWN1FabkJEc1lOalN1d1RHUUN6RzR2bEdrNU1CV0tzZHFxNTZGdGxwM3dYUFlXaExsWGpvQUdjZQ?oc=5\" target=\"_blank\">Strengthening tropical depression to unleash flooding downpours along Gulf Coast</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AccuWeather</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdGx1Mjktd05UUER2c05yc2hRYXo3d0h6NUVUeE93UjZpSE8zMFdNUEZVal9EZHNSWmt2UHJSclo2Qkg5TTl2dHgxNVpOdERXMm4tM3lLNWxMWGJBd3IyZ2JLRTVHbEIzM2k4VGtmYnlYcjRKR2J5WUlEZG4zUTBySGM1NHRFMEsxX1RoYXZFWTVXUGo2dG9HTE1PX1BJUUE?oc=5",
+        "date": "2026-08-31",
+        "title": "Recovery Update on Tropical Cyclone Lala and Tropical Storm Moke - Office of the Governor Josh Green (.gov)",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQdGx1Mjktd05UUER2c05yc2hRYXo3d0h6NUVUeE93UjZpSE8zMFdNUEZVal9EZHNSWmt2UHJSclo2Qkg5TTl2dHgxNVpOdERXMm4tM3lLNWxMWGJBd3IyZ2JLRTVHbEIzM2k4VGtmYnlYcjRKR2J5WUlEZG4zUTBySGM1NHRFMEsxX1RoYXZFWTVXUGo2dG9HTE1PX1BJUUE?oc=5\" target=\"_blank\">Recovery Update on Tropical Cyclone Lala and Tropical Storm Moke</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Office of the Governor Josh Green (.gov)</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNdVdBMk5rTzN5Qm5MVkpEWVI1WGhCakduU0VwSFRjQTJjbnR0QkVDd2ZWbF9GWl83amZTRy1USHJ6ZTFzWjJMQklNSHZUQmcxZnVxNDZPVHNSSmx3ZE5uWDdvUVhaNHpfZnkzc0JmRWVKZDFJLVNCaE5DZTNTUWpJLU45Smt1VTROUGFWa2FDdWc3TzZTYTBnU1N4elpKM3FjanJNVVZ4aDZBWFBjUnVFQzhPQWxMdjVFN3lkdDJsTXk0YVlLU0QxZUtldHNHWXF1VHEySGJHNEdGRUh1eThJTndIUExocUV6SzhvVS1YYWlXWkQ1bGZFeUY4U1ZXVmt6ZFFJQ0pqdjNzdw?oc=5",
+        "date": "2026-08-31",
+        "title": "Tropical storm threatens Louisiana. What to know about path, warnings - Shreveport Times",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigJBVV95cUxNdVdBMk5rTzN5Qm5MVkpEWVI1WGhCakduU0VwSFRjQTJjbnR0QkVDd2ZWbF9GWl83amZTRy1USHJ6ZTFzWjJMQklNSHZUQmcxZnVxNDZPVHNSSmx3ZE5uWDdvUVhaNHpfZnkzc0JmRWVKZDFJLVNCaE5DZTNTUWpJLU45Smt1VTROUGFWa2FDdWc3TzZTYTBnU1N4elpKM3FjanJNVVZ4aDZBWFBjUnVFQzhPQWxMdjVFN3lkdDJsTXk0YVlLU0QxZUtldHNHWXF1VHEySGJHNEdGRUh1eThJTndIUExocUV6SzhvVS1YYWlXWkQ1bGZFeUY4U1ZXVmt6ZFFJQ0pqdjNzdw?oc=5\" target=\"_blank\">Tropical storm threatens Louisiana. What to know about path, warnings</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Shreveport Times</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPYUU3eFhOcXFuMjVwU0RYWkNRMTlSWDZIN3gtRUpWZmNRUm9xdU9BSXg3ampvdXpPRGRtV3dfLVFsT3E0aE1PNUpsMUZKSWxEUVd4TzB2bjhiZGtGMmFCVTlZZkJiV21NWjJJcFFRZHRBVWhIZlJmZlRfUlkweDhvTWRhdFFCaWlHWXQ2VHNtaWlSdUZtWWFaWElFTDBEQQ?oc=5",
+        "date": "2026-08-31",
+        "title": "Potential Tropical Cyclone 5 expected to become Edouard later today - WEAR-TV",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPYUU3eFhOcXFuMjVwU0RYWkNRMTlSWDZIN3gtRUpWZmNRUm9xdU9BSXg3ampvdXpPRGRtV3dfLVFsT3E0aE1PNUpsMUZKSWxEUVd4TzB2bjhiZGtGMmFCVTlZZkJiV21NWjJJcFFRZHRBVWhIZlJmZlRfUlkweDhvTWRhdFFCaWlHWXQ2VHNtaWlSdUZtWWFaWElFTDBEQQ?oc=5\" target=\"_blank\">Potential Tropical Cyclone 5 expected to become Edouard later today</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WEAR-TV</font>",
+        "similarity_excluded": "No",
+        "score": 2,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNNDRDeUFyZVlJMG9YTG04RjdQN0JEcFBJRkY4VHp3QjRrMllxS0VadTdpWWVpSGlvRVRrZHh6SXdWNzRhWjNvcm11R0ZwbzNiY1NvSER3NGR6OVktNlhHNVJNR0lCUVlqM0lFWDlPZGk0djNJTU5mYk1JbVRSZGs2d0dBZGRSdmlFaFdSTGQtNDVBV2VYMTFUaVB1eG1qc29rQldTeFNpVkdjTEdmMldCNHF2UHNROTA5VVVYeFhMcTl1TEIyazhQUkFKbXJxcURyVFpESVVvVWRta1k?oc=5",
+        "date": "2026-08-31",
+        "title": "Tropical Cyclone Five may bring flooding to Brazoria County Tuesday - The Facts",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxNNDRDeUFyZVlJMG9YTG04RjdQN0JEcFBJRkY4VHp3QjRrMllxS0VadTdpWWVpSGlvRVRrZHh6SXdWNzRhWjNvcm11R0ZwbzNiY1NvSER3NGR6OVktNlhHNVJNR0lCUVlqM0lFWDlPZGk0djNJTU5mYk1JbVRSZGs2d0dBZGRSdmlFaFdSTGQtNDVBV2VYMTFUaVB1eG1qc29rQldTeFNpVkdjTEdmMldCNHF2UHNROTA5VVVYeFhMcTl1TEIyazhQUkFKbXJxcURyVFpESVVvVWRta1k?oc=5\" target=\"_blank\">Tropical Cyclone Five may bring flooding to Brazoria County Tuesday</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Facts</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPblhiS1Nuc3d0UU1yRUp5SzFvV29sVTJOOWMxUEJyUGxoWmNzWXF3UmpBSmN5aWZlR1UzTVYySUktekQzbU9XTUFUQXFUQjVNRF9Kd1Z0QkFKbmdXNnhsTnFpNG1kVzFRVmdtQnBoTktNNWpPNEVQRXFmNThMa1hiR3VXVFdqdXNVWmdFUEtPekRvcWttSkVQWk52cFNldXZHUXp1WmNhV1Z2Zw?oc=5",
+        "date": "2026-08-31",
+        "title": "Heavy rain, flooding likely for Tampa Bay from Tropical Storm Dolly remnants - Tampa Bay Times",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPblhiS1Nuc3d0UU1yRUp5SzFvV29sVTJOOWMxUEJyUGxoWmNzWXF3UmpBSmN5aWZlR1UzTVYySUktekQzbU9XTUFUQXFUQjVNRF9Kd1Z0QkFKbmdXNnhsTnFpNG1kVzFRVmdtQnBoTktNNWpPNEVQRXFmNThMa1hiR3VXVFdqdXNVWmdFUEtPekRvcWttSkVQWk52cFNldXZHUXp1WmNhV1Z2Zw?oc=5\" target=\"_blank\">Heavy rain, flooding likely for Tampa Bay from Tropical Storm Dolly remnants</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tampa Bay Times</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUUNTcVgzV0tNUFFxNzZ6Zl9SVFg4cFhmY000UGtBQzI0Y3ZlZEkwUDBDUW1qNTlNYzBKYmdoMFRMY19EZEFZZXBnWHJ3UXRtcnNzZGFkandhQUJPVGo4c0hndUJNVS1IR0U4dUU2SlJoWXh2UGhWZEo5MmQ2T29kMWhZaUdLdlFQUG1FWXZ6RVA3b1BJRmRoLU0tVEl2ckNRRE40?oc=5",
+        "date": "2026-08-31",
+        "title": "Will Tropical Depression 5 bring flooding to Central Texas? Here's what we know - Yahoo",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxOUUNTcVgzV0tNUFFxNzZ6Zl9SVFg4cFhmY000UGtBQzI0Y3ZlZEkwUDBDUW1qNTlNYzBKYmdoMFRMY19EZEFZZXBnWHJ3UXRtcnNzZGFkandhQUJPVGo4c0hndUJNVS1IR0U4dUU2SlJoWXh2UGhWZEo5MmQ2T29kMWhZaUdLdlFQUG1FWXZ6RVA3b1BJRmRoLU0tVEl2ckNRRE40?oc=5\" target=\"_blank\">Will Tropical Depression 5 bring flooding to Central Texas? Here's what we know</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPNVlUUmJpWTY3UDNMY0k5dEl6RDdoblo4TWhLUFFETTNjeWtOWU8zOWc4N0pNcnA2cGM3cm5pNVJ6ZzVXaXk5U3RLMkQ5SEEtaTg4d1BQd01Oekt4ZnloN0diYlZ2ZzZHOFdSRzVwU1lzaHhvRXhodk5Vb0Z3ZElEVXFQSG5uQlhEZHNfNnlwX2RCcU5qNHYwX3RSM0JhQUMtbFVGV09rV05YV2x0UGNRUmlrU3M5azRDdGNlc3RSU1MxZjh1NlVz?oc=5",
+        "date": "2026-08-31",
+        "title": "Tropical weather system could bring heavy rain, flooding to Liberty County, Southeast Texas - - Bluebonnet News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxPNVlUUmJpWTY3UDNMY0k5dEl6RDdoblo4TWhLUFFETTNjeWtOWU8zOWc4N0pNcnA2cGM3cm5pNVJ6ZzVXaXk5U3RLMkQ5SEEtaTg4d1BQd01Oekt4ZnloN0diYlZ2ZzZHOFdSRzVwU1lzaHhvRXhodk5Vb0Z3ZElEVXFQSG5uQlhEZHNfNnlwX2RCcU5qNHYwX3RSM0JhQUMtbFVGV09rV05YV2x0UGNRUmlrU3M5azRDdGNlc3RSU1MxZjh1NlVz?oc=5\" target=\"_blank\">Tropical weather system could bring heavy rain, flooding to Liberty County, Southeast Texas</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">- Bluebonnet News</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOcWU1MElTMVpxM0RpdG1zOEFBS01sOC1MdEJsbXBsbXUweDdpOHNBX0tNSnJmVWo2OTV1amVtWWU4d29XbVBEank5cTZCcmVIWmlCZnkwaklVYVpLbm9UZDh2eE54UUJSa1UyeTAzTDJBSU9yN0tXQVVjVHhiSEFsSWdDY3I3bHNESXg3UVdrWkJBOVYwUEJIaE1DN0MyTWswQWFRRWR2OVVGVUxOdnJvU3BpMVZtbXgzdFYzWjdpUEpNZnF6eGZjVzNOOA?oc=5",
+        "date": "2026-08-31",
+        "title": "Tropical depression forms in Gulf; forecast to become Edouard - USA Today",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxOcWU1MElTMVpxM0RpdG1zOEFBS01sOC1MdEJsbXBsbXUweDdpOHNBX0tNSnJmVWo2OTV1amVtWWU4d29XbVBEank5cTZCcmVIWmlCZnkwaklVYVpLbm9UZDh2eE54UUJSa1UyeTAzTDJBSU9yN0tXQVVjVHhiSEFsSWdDY3I3bHNESXg3UVdrWkJBOVYwUEJIaE1DN0MyTWswQWFRRWR2OVVGVUxOdnJvU3BpMVZtbXgzdFYzWjdpUEpNZnF6eGZjVzNOOA?oc=5\" target=\"_blank\">Tropical depression forms in Gulf; forecast to become Edouard</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">USA Today</font>",
+        "similarity_excluded": "No",
+        "score": 2,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQai03aFlETjBLSlJ6d1YySGM4RExQaXQxUDBRSDBzT1padno3dUNhZE9QTjVhZ2ZpdDUzczJMVXRkQUJvYUdhQkhwV0ZRTWNueGVEbWVEWnk2bU5IOFZqUm9zczRPOGFjZ1VISnhlcnJXS3Z3Zk9rM2Q0SHliWHBTRm5vMUJkQWN0ak9IN0Vpa0lIZjBzN0VMT0dwa09yVFJ4cnhEU21SbmZYVEhzMUtWTV9GWVpSTW02?oc=5",
+        "date": "2026-08-31",
+        "title": "Texas braces for potential tropical storm. See spaghetti models - USA Today",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxQai03aFlETjBLSlJ6d1YySGM4RExQaXQxUDBRSDBzT1padno3dUNhZE9QTjVhZ2ZpdDUzczJMVXRkQUJvYUdhQkhwV0ZRTWNueGVEbWVEWnk2bU5IOFZqUm9zczRPOGFjZ1VISnhlcnJXS3Z3Zk9rM2Q0SHliWHBTRm5vMUJkQWN0ak9IN0Vpa0lIZjBzN0VMT0dwa09yVFJ4cnhEU21SbmZYVEhzMUtWTV9GWVpSTW02?oc=5\" target=\"_blank\">Texas braces for potential tropical storm. See spaghetti models</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">USA Today</font>",
+        "similarity_excluded": "No",
+        "score": 5,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPQmdQanNDaFl4U2tKdklfeTZMLVhMWVdtZ3pNMHFfaTFydi1hTEVjaDR6Y3dKWWVQeEpXT2VUVEFpTlVWNDI4UHYxbWtuQlhCc3ZxTFNqRVpBV3g5NFYyVUpoazZYNDdtN1MtaDg0UnF4MS1tOHVCcTRBZEY4WTBkOXRPX28zMDVHbGxPbEtLTUF1eEJfTmloNmZJN25uaXRteTVkbHBydlVwOFp6bVFVcHNwTzhITTY2YUVKa293?oc=5",
+        "date": "2026-08-31",
+        "title": "Houston-area districts cancel Tuesday classes ahead of tropical weather - Houston Chronicle",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxPQmdQanNDaFl4U2tKdklfeTZMLVhMWVdtZ3pNMHFfaTFydi1hTEVjaDR6Y3dKWWVQeEpXT2VUVEFpTlVWNDI4UHYxbWtuQlhCc3ZxTFNqRVpBV3g5NFYyVUpoazZYNDdtN1MtaDg0UnF4MS1tOHVCcTRBZEY4WTBkOXRPX28zMDVHbGxPbEtLTUF1eEJfTmloNmZJN25uaXRteTVkbHBydlVwOFp6bVFVcHNwTzhITTY2YUVKa293?oc=5\" target=\"_blank\">Houston-area districts cancel Tuesday classes ahead of tropical weather</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Houston Chronicle</font>",
+        "similarity_excluded": "No",
+        "score": 4,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQWWVfX1B6NlBZbV9mQTA3V1pXblhiVFJMV2pOUXdiRlg4RFBJVlNXYlRyNkhvdE9hN1hnelFxdFBiaV91emJubHU2UWhSclVDNmxtZzc4dzJRWXZzcmNXRUpaWGJTcURyZjdfdzlCUWdrZjVjYmh3cmplbW1XdXpqUWFtNXFzWVJMTmxHLVdOUDZqaVQwYnlodHBJUFBhSko0eDFwOWE0emZZeG82RFQ1Z3VtOExKRDNKaFljc1F3dW5Mb2Q0SUI3VE92TDdqbm56VnYtYzd1N2tvUQ?oc=5",
+        "date": "2026-08-31",
+        "title": "School districts announce closures, preparations underway as Tropical Depression 5 heads towards Southeast Texas - ABC13 Houston",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxQWWVfX1B6NlBZbV9mQTA3V1pXblhiVFJMV2pOUXdiRlg4RFBJVlNXYlRyNkhvdE9hN1hnelFxdFBiaV91emJubHU2UWhSclVDNmxtZzc4dzJRWXZzcmNXRUpaWGJTcURyZjdfdzlCUWdrZjVjYmh3cmplbW1XdXpqUWFtNXFzWVJMTmxHLVdOUDZqaVQwYnlodHBJUFBhSko0eDFwOWE0emZZeG82RFQ1Z3VtOExKRDNKaFljc1F3dW5Mb2Q0SUI3VE92TDdqbm56VnYtYzd1N2tvUQ?oc=5\" target=\"_blank\">School districts announce closures, preparations underway as Tropical Depression 5 heads towards Southeast Texas</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ABC13 Houston</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQbnE2T3Q3VVpsdlluTnRNYXJoZHNVQ2g5S1lyNHpOWnc1VU1VeUk1ZHZWYkI5NzhnRkRtVC10Z1VqMFNIZkdJN29PLVVGT3BPaGIzbmxHb0x1SmQ3R0xENEc5bUoyWlRLdzJMSF9IcVBhWnRrazRLX0dLeVRyV0NrTjlyYnp0RXNLWUowMWMxTWRaLUJ5UUY2dkF4RUM5eE5LZzZXVlRXUGl5cHplVXRERHEzR2hjNTRBNlY4UXdZRzB2dmpOOWc4dTE1NA?oc=5",
+        "date": "2026-08-31",
+        "title": "Tucson's Grant Road Project postponed due to monsoon rain - KVOA",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxQbnE2T3Q3VVpsdlluTnRNYXJoZHNVQ2g5S1lyNHpOWnc1VU1VeUk1ZHZWYkI5NzhnRkRtVC10Z1VqMFNIZkdJN29PLVVGT3BPaGIzbmxHb0x1SmQ3R0xENEc5bUoyWlRLdzJMSF9IcVBhWnRrazRLX0dLeVRyV0NrTjlyYnp0RXNLWUowMWMxTWRaLUJ5UUY2dkF4RUM5eE5LZzZXVlRXUGl5cHplVXRERHEzR2hjNTRBNlY4UXdZRzB2dmpOOWc4dTE1NA?oc=5\" target=\"_blank\">Tucson's Grant Road Project postponed due to monsoon rain</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KVOA</font>",
+        "similarity_excluded": "No",
+        "score": 2,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQc0QxNm5UMDdtd05oNFB3blRqUHRYQnF1b0FyRWZIZVptVTU5X05yVmc3LWFmSlV1MDBvRGtQZFRSdFlYcE9JWEM0aVpZa3MzSWxHNGpwSmNZQktXYTZ6S2pUYlNYbHU0SThWcHRfU1FlQlZMMHFwRmszUjJFYUJCZG9Jb0dLanJ5aXc?oc=5",
+        "date": "2026-08-31",
+        "title": "Heavy Rain in Georgia Raises Flood, Landslide Risks - Caspian Post",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxQc0QxNm5UMDdtd05oNFB3blRqUHRYQnF1b0FyRWZIZVptVTU5X05yVmc3LWFmSlV1MDBvRGtQZFRSdFlYcE9JWEM0aVpZa3MzSWxHNGpwSmNZQktXYTZ6S2pUYlNYbHU0SThWcHRfU1FlQlZMMHFwRmszUjJFYUJCZG9Jb0dLanJ5aXc?oc=5\" target=\"_blank\">Heavy Rain in Georgia Raises Flood, Landslide Risks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Caspian Post</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPNnhQMkRDMzVHZ3lDTkNULVc0MUo0QURUV283LV8yWmtTbXoweGpEaU9jY09ZcEV3SVV6WkxKVFQxS2tGNDZycHFnRTI0X2ZKeHlWREFmMndrUzNiZjFxVUdyZ1ZBRWVVZUU3MGd1a2tpbzRiQ09kZUgtX1p4RW5OQVJZcEhaQVhWXzZYX25YVUNlRXFKX09ocl9xR0Q0dmhn?oc=5",
+        "date": "2026-08-31",
+        "title": "Rain Likely to Trigger Flash Floods, Landslides: MeT Office - The Kashmir Horizon",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPNnhQMkRDMzVHZ3lDTkNULVc0MUo0QURUV283LV8yWmtTbXoweGpEaU9jY09ZcEV3SVV6WkxKVFQxS2tGNDZycHFnRTI0X2ZKeHlWREFmMndrUzNiZjFxVUdyZ1ZBRWVVZUU3MGd1a2tpbzRiQ09kZUgtX1p4RW5OQVJZcEhaQVhWXzZYX25YVUNlRXFKX09ocl9xR0Q0dmhn?oc=5\" target=\"_blank\">Rain Likely to Trigger Flash Floods, Landslides: MeT Office</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Kashmir Horizon</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONGw0ZGdSV3NYOC11dmpFaXB6dUZZVlZEbnpRRE1vU3U1cEx1SUd3MHgwV0RzaHMwa25uODR0ZHNvVFl2Yjl0SmtVNE5XVEFxM3Z1OXZ0SllScUp0aWNGTEZ4Y19aaWIyV05fR2wweWdpQVU3ZU9pTXQzVXVKd0NScDFFQk41OWlvcGxwQUd1c3ljM292NXh2bjQxWVYwRHBuRjR4eERXZVc?oc=5",
+        "date": "2026-08-31",
+        "title": "Family identifies Texas man among those killed in Grand Canyon flood as rescuers search for missing - AP News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxONGw0ZGdSV3NYOC11dmpFaXB6dUZZVlZEbnpRRE1vU3U1cEx1SUd3MHgwV0RzaHMwa25uODR0ZHNvVFl2Yjl0SmtVNE5XVEFxM3Z1OXZ0SllScUp0aWNGTEZ4Y19aaWIyV05fR2wweWdpQVU3ZU9pTXQzVXVKd0NScDFFQk41OWlvcGxwQUd1c3ljM292NXh2bjQxWVYwRHBuRjR4eERXZVc?oc=5\" target=\"_blank\">Family identifies Texas man among those killed in Grand Canyon flood as rescuers search for missing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AP News</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 POST-EVENT Grand Canyon, AZ: Flood kills Texas man as rescuers search for missing. AP News",
+        "type": "news",
+        "tweet_id": "2094562161138008345",
+        "geo": {
+            "country": "United States",
+            "name": "Grand Canyon, Arizona",
+            "latitude": 36.1,
+            "longitude": -112.1,
+            "confidence": 0.9
+        }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPaVItWjRFdVdoaVhKVFJabWI2dkRqb0hRbEdXQ3JZb0gwZWtxamtWZE5EajZmTWE2WWVWSWt6Ym94Tm40cldhbmZUdERiU0taN0YtLS0yM0RRMVZUN0dLRjlKUklQaFU1ZHlzNG5IWlpVM1Yzdy1JTkROYmNBYjZ3cy1hNjdSME1GcHlVVVhSbi0zTldsWnladmo5OVBjZw?oc=5",
+        "date": "2026-08-31",
+        "title": "Months before fatal Grand Canyon flood, Park Service warned of elevated risk - NBC News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPaVItWjRFdVdoaVhKVFJabWI2dkRqb0hRbEdXQ3JZb0gwZWtxamtWZE5EajZmTWE2WWVWSWt6Ym94Tm40cldhbmZUdERiU0taN0YtLS0yM0RRMVZUN0dLRjlKUklQaFU1ZHlzNG5IWlpVM1Yzdy1JTkROYmNBYjZ3cy1hNjdSME1GcHlVVVhSbi0zTldsWnladmo5OVBjZw?oc=5\" target=\"_blank\">Months before fatal Grand Canyon flood, Park Service warned of elevated risk</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NBC News</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 POST-EVENT Grand Canyon: Fatal flood after Park Service warning of elevated risk months earlier. NBC News",
+        "type": "news",
+        "tweet_id": "2094562698931618172",
+        "geo": {
+            "country": "United States",
+            "name": "Grand Canyon, Arizona",
+            "latitude": 36.0544,
+            "longitude": -112.1401,
+            "confidence": 0.9
+        }
     }
 ]
