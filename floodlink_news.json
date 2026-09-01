@@ -23198,5 +23198,14 @@
             "longitude": -112.1401,
             "confidence": 0.9
         }
+    },
+    {
+        "link": null,
+        "date": "2026-09-01",
+        "status": "posted",
+        "tweet": "Annual avg. flood economic losses 2021-2025 (bn USD):\n1. \ud83c\udde8\ud83c\uddf3 China: 27\n2. \ud83c\uddfa\ud83c\uddf8 USA: 21\n3. \ud83c\uddee\ud83c\uddf3 India: 14\n4. \ud83c\udde9\ud83c\uddea Germany: 9\n5. \ud83c\uddef\ud83c\uddf5 Japan: 8",
+        "type": "statistical",
+        "category": "economic losses from floods and flash floods",
+        "tweet_id": "2094696729014935681"
     }
 ]
