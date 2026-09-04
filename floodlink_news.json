@@ -23252,5 +23252,346 @@
         "type": "statistical",
         "category": "global flood fatalities and trends",
         "tweet_id": "2095684581013811591"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQSTFwbWZsSkF3SFRMWWQybVBPUWxObXg5NjNPX0Z1MFk3TW9HbDJacmNLWUpZU2xqU3dYbU5aSHJRbGs0UXVZaG9scE52Y0FHWDQ3elRpWU9Pb3dzMVVaUjU3X01PdzBZT3Atazg5ZHVWNFdQeHNJcTJ3a2VwVXZZbVJJZnhpeUdpSm5z?oc=5",
+        "date": "2026-09-04",
+        "title": "Photos show water on Metairie roads during morning flash flooding - WDSU",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxQSTFwbWZsSkF3SFRMWWQybVBPUWxObXg5NjNPX0Z1MFk3TW9HbDJacmNLWUpZU2xqU3dYbU5aSHJRbGs0UXVZaG9scE52Y0FHWDQ3elRpWU9Pb3dzMVVaUjU3X01PdzBZT3Atazg5ZHVWNFdQeHNJcTJ3a2VwVXZZbVJJZnhpeUdpSm5z?oc=5\" target=\"_blank\">Photos show water on Metairie roads during morning flash flooding</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WDSU</font>",
+        "similarity_excluded": "No",
+        "score": 6,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQRl9WVlNxWExLQ2o3WDJrN2FNeXlISE5pUGttSno3VkVpMnVELWxiaDFlZlhhT2xkSXhRaXF1d09oem5xSWRHeW1zMW1XTnQybHhiR3B5QmlLaVJhdTd4N1UtVmFRTTdUanFJZ1dKcVZJNjVpQVBadTItUWhnaXpRLWtwcnZteTlQNk5WanJXYWtWMElxN1ktYkV6eTZWajFh?oc=5",
+        "date": "2026-09-04",
+        "title": "A Flash flood warning stretches across Pearl River county, Mississippi until 1:45 pm - WDSU",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQRl9WVlNxWExLQ2o3WDJrN2FNeXlISE5pUGttSno3VkVpMnVELWxiaDFlZlhhT2xkSXhRaXF1d09oem5xSWRHeW1zMW1XTnQybHhiR3B5QmlLaVJhdTd4N1UtVmFRTTdUanFJZ1dKcVZJNjVpQVBadTItUWhnaXpRLWtwcnZteTlQNk5WanJXYWtWMElxN1ktYkV6eTZWajFh?oc=5\" target=\"_blank\">A Flash flood warning stretches across Pearl River county, Mississippi until 1:45 pm</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WDSU</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQOUN1Z21Oc2VqaU5kbkVJVjZld2VCbjF4aHlTbXFKdVh5ZHVSQ3ZUdWxMQW4tdzdLdlljRzlLelNzZW5KazV1czlGSmw2WG00aXdqdHo5aHJsMkNRaGxFb0Uxd3M4bzlCYUVUZGl6aGg5MDNvWGlmcktPTmh2bXlHeng3Z0lrOGRyU244Z0hkSUlNUk5CLWJZVnVtOUJpVDkyMk9vRkd5cmViSFRWczZZX2NQN3NrZDRNeHc?oc=5",
+        "date": "2026-09-04",
+        "title": "Nepal's catastrophic flash flood: The anatomy of surge water - South Carolina Public Radio",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQOUN1Z21Oc2VqaU5kbkVJVjZld2VCbjF4aHlTbXFKdVh5ZHVSQ3ZUdWxMQW4tdzdLdlljRzlLelNzZW5KazV1czlGSmw2WG00aXdqdHo5aHJsMkNRaGxFb0Uxd3M4bzlCYUVUZGl6aGg5MDNvWGlmcktPTmh2bXlHeng3Z0lrOGRyU244Z0hkSUlNUk5CLWJZVnVtOUJpVDkyMk9vRkd5cmViSFRWczZZX2NQN3NrZDRNeHc?oc=5\" target=\"_blank\">Nepal's catastrophic flash flood: The anatomy of surge water</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">South Carolina Public Radio</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMW5KdmhhUXc5Q3diUmNnNmI3bTZYS0xFOExVZi1BblhuMjFBdzhVU3ZqbloyOUVwWUxKXzFPQ2xhNVlXQzNoU2JlaTlPV3owNjhSTVdTOVJBSG5qTXJjbU5fNTEtRElXNlVaX2ItQldDYTdvVjlaaUgyMGRsOXExZXdRSEdwSGtRTU1wZ18tRXZlUjZmOVZCcjB6amo5MF9OR2VfYk9vUV8wdFh0R2c?oc=5",
+        "date": "2026-09-04",
+        "title": "Philadelphia Records 76 Flood Warnings in 2026, Ranking Among Top 25 Nationally - 92.5 XTU",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPMW5KdmhhUXc5Q3diUmNnNmI3bTZYS0xFOExVZi1BblhuMjFBdzhVU3ZqbloyOUVwWUxKXzFPQ2xhNVlXQzNoU2JlaTlPV3owNjhSTVdTOVJBSG5qTXJjbU5fNTEtRElXNlVaX2ItQldDYTdvVjlaaUgyMGRsOXExZXdRSEdwSGtRTU1wZ18tRXZlUjZmOVZCcjB6amo5MF9OR2VfYk9vUV8wdFh0R2c?oc=5\" target=\"_blank\">Philadelphia Records 76 Flood Warnings in 2026, Ranking Among Top 25 Nationally</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">92.5 XTU</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxONU0xTXVhYWtpWF9La0RrNnpzamR1N2trNmVMMW1mMm01SWc3Q295SWVnTWdzWTFzbUFPSW9tdlNUbm9hSUttZGJyWk5yN3pLb0Z4VzZQQmZzbV8zOFQtZ2l2bWNsT0NrS3l1SHlaLXNsQnJyQXdBSWw4Zm9sOFhuZzhLQ2g3Nnp5V2xRMWc2LTV3Q1hwVWZnZzdLdjdhRlhtek82YjRQTjBaNWJlcFpMazJhZkdhSkZO0gG-AUFVX3lxTE56V01zT3dYS0FOVDRUR3dOSnZkcDBXR2pxRUVrWGdMLWZMejNfNXUxZUtDalhWSEVHUTEzWTBfS0hLVWRMRDRWenNPOVdXRENxVDJKNlAtWGRMSU5wY3cwTmxjbmJ1WGtYbGZrclpMazhXbjB2SlowWHpVR1pGMnpsaEZGclczLWFhMGgyanNhUzE3WmJCanVidHlDUTFPNmZxa1JzZGY4ckM3a3djcU5GSVVGMDFfMGZmcUIxMHc?oc=5",
+        "date": "2026-09-04",
+        "title": "Rescuers pull 2 trapped workers from a hydropower tunnel 9 days after Nepal floods - PBS",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxONU0xTXVhYWtpWF9La0RrNnpzamR1N2trNmVMMW1mMm01SWc3Q295SWVnTWdzWTFzbUFPSW9tdlNUbm9hSUttZGJyWk5yN3pLb0Z4VzZQQmZzbV8zOFQtZ2l2bWNsT0NrS3l1SHlaLXNsQnJyQXdBSWw4Zm9sOFhuZzhLQ2g3Nnp5V2xRMWc2LTV3Q1hwVWZnZzdLdjdhRlhtek82YjRQTjBaNWJlcFpMazJhZkdhSkZO0gG-AUFVX3lxTE56V01zT3dYS0FOVDRUR3dOSnZkcDBXR2pxRUVrWGdMLWZMejNfNXUxZUtDalhWSEVHUTEzWTBfS0hLVWRMRDRWenNPOVdXRENxVDJKNlAtWGRMSU5wY3cwTmxjbmJ1WGtYbGZrclpMazhXbjB2SlowWHpVR1pGMnpsaEZGclczLWFhMGgyanNhUzE3WmJCanVidHlDUTFPNmZxa1JzZGY4ckM3a3djcU5GSVVGMDFfMGZmcUIxMHc?oc=5\" target=\"_blank\">Rescuers pull 2 trapped workers from a hydropower tunnel 9 days after Nepal floods</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PBS</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPNXhLQ21YV2ZneG9sSmY1VEktTmFRM2hGMndsRU15MUZiQndKZ3hGLS1fUFp0LTY1R0UyRzllc1NWR0xvU3NkdzZYSjhURDc4NjAyMEVvdWZScVo4MlBuMUlyeHdzRnBlbVd3VFBHWDFocUM5X1FtZGx5WWRoZU85Q3d1SzF0Y2pSNWNCTE5FaGFpNk0?oc=5",
+        "date": "2026-09-04",
+        "title": "Flash flooding amid heavy downpours in the Pittsburgh area - WTAE",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPNXhLQ21YV2ZneG9sSmY1VEktTmFRM2hGMndsRU15MUZiQndKZ3hGLS1fUFp0LTY1R0UyRzllc1NWR0xvU3NkdzZYSjhURDc4NjAyMEVvdWZScVo4MlBuMUlyeHdzRnBlbVd3VFBHWDFocUM5X1FtZGx5WWRoZU85Q3d1SzF0Y2pSNWNCTE5FaGFpNk0?oc=5\" target=\"_blank\">Flash flooding amid heavy downpours in the Pittsburgh area</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WTAE</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNRGhxZkFobVF4NEp3WEMxcEc0RlNJQlNYcWlpRmZvQWFMMTN5T1VUSXpvMlpRaVJQM2dPYlFKQUdNRXFTS0tVcjRBQS1HM0Y3amNUbDNQQjNnNEZEd3VtTjVLa0dCNjNOQUFqMV9nZU9HbmN5ZndOT19aS0tlVHRrVU9FMEY1UWtqekow?oc=5",
+        "date": "2026-09-04",
+        "title": "One more round of storms for Western Pennsylvania before a dry, comfortable Labor Day weekend - WTAE",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxNRGhxZkFobVF4NEp3WEMxcEc0RlNJQlNYcWlpRmZvQWFMMTN5T1VUSXpvMlpRaVJQM2dPYlFKQUdNRXFTS0tVcjRBQS1HM0Y3amNUbDNQQjNnNEZEd3VtTjVLa0dCNjNOQUFqMV9nZU9HbmN5ZndOT19aS0tlVHRrVU9FMEY1UWtqekow?oc=5\" target=\"_blank\">One more round of storms for Western Pennsylvania before a dry, comfortable Labor Day weekend</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WTAE</font>",
+        "similarity_excluded": "No",
+        "score": 2,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQOG0tVXp3Vnhja1dsTTZiVTRJM0xxY05EcFFNdl9Cemc1OUQ4bXc5eTJza2Q2MnR0ZWJKNlRRaF9ZakVsalA1QjdzWEp3RlRPZ2FLcDFxb2JRRHltWkdsRWVCemtkaW1pTk9BeUtSa1dDQlZfZkYtNDNoR1VMMS1aMW9xWWxxQVpfRkFiU1VEUDBwNXpxQkk4RDRRX2JWSmI4V3hz0gGoAUFVX3lxTFBSd2ZmdWZqanRYdmZQSktYbnJmXzBnT0t2Ulh4WTFiSHNtMmdyRjZkYWxZZl9hS2prTVBDX19CZ21sQVBpSG15T3NwdUJCSUlLTE5DaWk2d3h3TWY5MVlZb0JNR2tWdWJLaTdhWkUxSlJlTWMwc1oycHdUU3ZyN21hTEdKU2NmaWd5amQwTlZORGRpREY1eEl0WjR4TGtTb2FPaDg5OEpWUA?oc=5",
+        "date": "2026-09-04",
+        "title": "2 people rescued alive from tunnel after deadly Nepal-Tibet flash flood - ABC News - Breaking News, Latest News and Videos",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQOG0tVXp3Vnhja1dsTTZiVTRJM0xxY05EcFFNdl9Cemc1OUQ4bXc5eTJza2Q2MnR0ZWJKNlRRaF9ZakVsalA1QjdzWEp3RlRPZ2FLcDFxb2JRRHltWkdsRWVCemtkaW1pTk9BeUtSa1dDQlZfZkYtNDNoR1VMMS1aMW9xWWxxQVpfRkFiU1VEUDBwNXpxQkk4RDRRX2JWSmI4V3hz0gGoAUFVX3lxTFBSd2ZmdWZqanRYdmZQSktYbnJmXzBnT0t2Ulh4WTFiSHNtMmdyRjZkYWxZZl9hS2prTVBDX19CZ21sQVBpSG15T3NwdUJCSUlLTE5DaWk2d3h3TWY5MVlZb0JNR2tWdWJLaTdhWkUxSlJlTWMwc1oycHdUU3ZyN21hTEdKU2NmaWd5amQwTlZORGRpREY1eEl0WjR4TGtTb2FPaDg5OEpWUA?oc=5\" target=\"_blank\">2 people rescued alive from tunnel after deadly Nepal-Tibet flash flood</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ABC News - Breaking News, Latest News and Videos</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQeXBLRThhck1aQWUtckpOY09PV2VkdDhpZkVYVHlUS1NkMVdMcHd3eUFjVzJBU19tbk5mdm1FUFFBSjd4LUladUt1dmNVOEdIcExUMHFKTUJwNDRCSEpBMVVMMTRxMHhDX1phTkJtaXZWR3huTmY1bjROSlJfVEZTUDQ5WURyYmV5TUgwSHlIQ1VISTltUFRKQVNDYU1rdlR2bFZJLdIBqgFBVV95cUxNbzE4UHRMbmplUDZDRXRqREdlZFp0R20yOHVueWRxZ2pHTlVIQUJnOEFNU2RMdUlWLS1TNDRsY0NQNzdZVVV2bVZ0WWczRC1oc0NaZzJxcllXdC1LNk1HeVg0UG5tMkdUdkszanQwMS1rRWUtU01zd2ZzbGw1M3otbFVaWUp3S0ljNklBckhIaTlIRmwtS3dTNW95b0IyRHpHMTFnbkMyT1k5Zw?oc=5",
+        "date": "2026-09-04",
+        "title": "China exerts tight grip on information after floods along the border with Nepal - ABC News - Breaking News, Latest News and Videos",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQeXBLRThhck1aQWUtckpOY09PV2VkdDhpZkVYVHlUS1NkMVdMcHd3eUFjVzJBU19tbk5mdm1FUFFBSjd4LUladUt1dmNVOEdIcExUMHFKTUJwNDRCSEpBMVVMMTRxMHhDX1phTkJtaXZWR3huTmY1bjROSlJfVEZTUDQ5WURyYmV5TUgwSHlIQ1VISTltUFRKQVNDYU1rdlR2bFZJLdIBqgFBVV95cUxNbzE4UHRMbmplUDZDRXRqREdlZFp0R20yOHVueWRxZ2pHTlVIQUJnOEFNU2RMdUlWLS1TNDRsY0NQNzdZVVV2bVZ0WWczRC1oc0NaZzJxcllXdC1LNk1HeVg0UG5tMkdUdkszanQwMS1rRWUtU01zd2ZzbGw1M3otbFVaWUp3S0ljNklBckhIaTlIRmwtS3dTNW95b0IyRHpHMTFnbkMyT1k5Zw?oc=5\" target=\"_blank\">China exerts tight grip on information after floods along the border with Nepal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ABC News - Breaking News, Latest News and Videos</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQX3ZLNWx2dlVWbWhOakRZUVdaVjdObXlXX1lseXdjX0JWOEFQNERUcWR3UWhhZkk1QkJsSjFCRjQzWkRyLXZNRURkVFE3SmhDXzVDcnVzTDJCdmJqRjI1blc0V0FWempObTZGcmhTZ3dhOUt0eGZCbTcwVW9fQ3kzN2tRWG4zUW1Fb19IWHU0WG5CNXpuUEt3dHp4c0FxSFJfS2pjMTNsc3p6UmxzQkFF?oc=5",
+        "date": "2026-09-04",
+        "title": "Parts of 2 popular Grand Canyon trails closed after flash flood - KJZZ",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQX3ZLNWx2dlVWbWhOakRZUVdaVjdObXlXX1lseXdjX0JWOEFQNERUcWR3UWhhZkk1QkJsSjFCRjQzWkRyLXZNRURkVFE3SmhDXzVDcnVzTDJCdmJqRjI1blc0V0FWempObTZGcmhTZ3dhOUt0eGZCbTcwVW9fQ3kzN2tRWG4zUW1Fb19IWHU0WG5CNXpuUEt3dHp4c0FxSFJfS2pjMTNsc3p6UmxzQkFF?oc=5\" target=\"_blank\">Parts of 2 popular Grand Canyon trails closed after flash flood</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KJZZ</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNnpZbG1XaG5nak15OW0tT3pHNlRFdDhkNWZ0amhGb2F3cXJ2TnpQaW55eVBfV3Fhd3dNejllMnJZcVc4d3d3TkJPd0xvU0tyYWNESFFPR004aGFfRm9oYzF5VjBVSlpnZUVtd2NManpwd0szcnBlTnE5a3VwUXBNZGRSTHE3WUQyTFEwVURMN2paZmZGeXc5eG5FbmRUVlN3dFNCZkxXM2N2OHV2a1JFM0VoRUjSAboBQVVfeXFMT3hWNUdmTFBZMnZGSHhFR3FsVzBPUDJCRUxsMDFVeTg2eEpsaUNJUDlMVEcxQlk3ak9jVDRiNmNSY2dtVHIwMDlteXZNUWdJdjRXN1hnUGV3SEJjcElFTGFxTVM4X19tdWU4cUVJS2lJN29TVjRNUTB2SUl0UmQ0YWRfQ056cHNaSkNFRFVYS0EwaTRqVVdVTzNPY0I5SlVOOExVVTRjbDNMX216eTBPMVVMNmR5LXZjcGhB?oc=5",
+        "date": "2026-09-04",
+        "title": "Hurricane Marie to bring dangerous surf to California shores, fuel Southwest monsoon threat through Labor Day - FOX Weather",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPNnpZbG1XaG5nak15OW0tT3pHNlRFdDhkNWZ0amhGb2F3cXJ2TnpQaW55eVBfV3Fhd3dNejllMnJZcVc4d3d3TkJPd0xvU0tyYWNESFFPR004aGFfRm9oYzF5VjBVSlpnZUVtd2NManpwd0szcnBlTnE5a3VwUXBNZGRSTHE3WUQyTFEwVURMN2paZmZGeXc5eG5FbmRUVlN3dFNCZkxXM2N2OHV2a1JFM0VoRUjSAboBQVVfeXFMT3hWNUdmTFBZMnZGSHhFR3FsVzBPUDJCRUxsMDFVeTg2eEpsaUNJUDlMVEcxQlk3ak9jVDRiNmNSY2dtVHIwMDlteXZNUWdJdjRXN1hnUGV3SEJjcElFTGFxTVM4X19tdWU4cUVJS2lJN29TVjRNUTB2SUl0UmQ0YWRfQ056cHNaSkNFRFVYS0EwaTRqVVdVTzNPY0I5SlVOOExVVTRjbDNMX216eTBPMVVMNmR5LXZjcGhB?oc=5\" target=\"_blank\">Hurricane Marie to bring dangerous surf to California shores, fuel Southwest monsoon threat through Labor Day</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FOX Weather</font>",
+        "similarity_excluded": "No",
+        "score": 3,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxObnFzdm5Ma1JaNVNjLVd1SnJhZnk1SFdmQktwNFgwU1lPY3E5djNyVWFwem9hTE1FQTNrZ1ZOa1h5SHZGVW1YSWZQOU10YXFGcXRERkRsMlJWVjJCT3ItT3pPTW16YVFoTUtpVmZUZFJWYi1yOGRtcG1fbnRpYkZOT3RlOU56eXF1TmFTZG5veEVaa0ppVFVhellrcUJ0ZmNNSC1yS2hFWGlpOXpDRmFfZlRnTlYxckt3VjBaV2Q1a29SZ3JsSWh3YkR2ck4tWlhGWVdzcnEwRk1RZw?oc=5",
+        "date": "2026-09-04",
+        "title": "Rapid response by AP dominates breaking news play of Nepal flash floods - ap.org",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxObnFzdm5Ma1JaNVNjLVd1SnJhZnk1SFdmQktwNFgwU1lPY3E5djNyVWFwem9hTE1FQTNrZ1ZOa1h5SHZGVW1YSWZQOU10YXFGcXRERkRsMlJWVjJCT3ItT3pPTW16YVFoTUtpVmZUZFJWYi1yOGRtcG1fbnRpYkZOT3RlOU56eXF1TmFTZG5veEVaa0ppVFVhellrcUJ0ZmNNSC1yS2hFWGlpOXpDRmFfZlRnTlYxckt3VjBaV2Q1a29SZ3JsSWh3YkR2ck4tWlhGWVdzcnEwRk1RZw?oc=5\" target=\"_blank\">Rapid response by AP dominates breaking news play of Nepal flash floods</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ap.org</font>",
+        "similarity_excluded": "No",
+        "score": 2,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9NSXJFM212VjA4RW9qeEVSdlZNVFM3aTV4MnhleDY3TDNfNUIxZ2h0dk80X3N3WHVrelk1eUdhWnA3RU9tWTcyeV9hejZ2OTZrajdHQ3BTQQ?oc=5",
+        "date": "2026-09-04",
+        "title": "'A rare moment of joy': Nepal tunnel rescues bring hope for more flood survivors - BBC",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE9NSXJFM212VjA4RW9qeEVSdlZNVFM3aTV4MnhleDY3TDNfNUIxZ2h0dk80X3N3WHVrelk1eUdhWnA3RU9tWTcyeV9hejZ2OTZrajdHQ3BTQQ?oc=5\" target=\"_blank\">'A rare moment of joy': Nepal tunnel rescues bring hope for more flood survivors</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
+        "similarity_excluded": "No",
+        "score": 6,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPRDV4UXF4bTlSakItYkRESm9qT3hZN01fZG5XeXJWLWlxXzFtOUFuazRydU53SFBVblQtTC0weGNOSlMyRjcwamFiNWF3VVM1RjRfSzk5ZXVFOWVMemJlcElVRTFseGloNkRndEN1MHJDMkwxZEdlU1AtTFZCTEVtbXlJMG04ekV0YUl0aUNJMWg0SkxrNGlwYUR5am94NEFZa1VEQjRvYnNTWXE2YW5ZNWZaY3Z6T2hYVU1QUTdJbG1sekx1cFJaYlFn?oc=5",
+        "date": "2026-09-04",
+        "title": "Nepal floods could cost insurers over $130 million even before death, injury claims - Reuters",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxPRDV4UXF4bTlSakItYkRESm9qT3hZN01fZG5XeXJWLWlxXzFtOUFuazRydU53SFBVblQtTC0weGNOSlMyRjcwamFiNWF3VVM1RjRfSzk5ZXVFOWVMemJlcElVRTFseGloNkRndEN1MHJDMkwxZEdlU1AtTFZCTEVtbXlJMG04ekV0YUl0aUNJMWg0SkxrNGlwYUR5am94NEFZa1VEQjRvYnNTWXE2YW5ZNWZaY3Z6T2hYVU1QUTdJbG1sekx1cFJaYlFn?oc=5\" target=\"_blank\">Nepal floods could cost insurers over $130 million even before death, injury claims</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": null,
+        "tweet_id": "2095944152437448738",
+        "geo": {
+            "country": "Nepal",
+            "name": "Nepal",
+            "latitude": 28.3949,
+            "longitude": 84.124,
+            "confidence": 0.9
+        }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQUGZkN3RPSnJVTjkyLXFNVFFhZnFjY3E4cXFvWTNBT3haWWFoQ0EzeWVXVENGbmN6SERJeVRvc0JCbmFDUmRFRXN5WEUyVFA1N2p5T08yVFJwbGJvQVdrVFpqckdOcnQyeGxxaVFvMkp0VW5WOW1RVHZicm9meDdSTUJhVmZQWFpPOHlvckdtNm5UTkNFNW9lM0FNalg5bnZwRm8xVUp0WFUzX0Y0Y2w5bl9CV1c3YWxPOFJucS1ZZ2ZRMFQxczFnYmdGNHc0TE53TG84?oc=5",
+        "date": "2026-09-04",
+        "title": "\u2018They\u2019ll be finding bodies next year\u2019: a renowned forensic scientist on Nepal\u2019s \u2018extreme challenges\u2019 - The Guardian",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxQUGZkN3RPSnJVTjkyLXFNVFFhZnFjY3E4cXFvWTNBT3haWWFoQ0EzeWVXVENGbmN6SERJeVRvc0JCbmFDUmRFRXN5WEUyVFA1N2p5T08yVFJwbGJvQVdrVFpqckdOcnQyeGxxaVFvMkp0VW5WOW1RVHZicm9meDdSTUJhVmZQWFpPOHlvckdtNm5UTkNFNW9lM0FNalg5bnZwRm8xVUp0WFUzX0Y0Y2w5bl9CV1c3YWxPOFJucS1ZZ2ZRMFQxczFnYmdGNHc0TE53TG84?oc=5\" target=\"_blank\">\u2018They\u2019ll be finding bodies next year\u2019: a renowned forensic scientist on Nepal\u2019s \u2018extreme challenges\u2019</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPbjZHUmphN0gycG9ZT2R2UnJfalZPSm4wWndBaXNqVlByVlpJWDJ6aW5TS3pmcnhwM25PN240UFV1ckduMFROeW9zSmUtZ0JTczBzZDNxLVI4aXJmQUVEeFNfc1Nuc3FKYmlxbDRNa1p3eGxFNW1hczVIUzZ5bFc3UVpFVDNxRm94VmdzaE5oNHhlZ0ZRQ1pycGZVZm1Va0JMMWRlOVNhcjZiY1JGUGZEMjFDNi1CcEItWEhMNm5jdkVIa1JKcktEYlNKMVZKclRIcE1LWG1jcDFBQWVvdG5XaUVOUEMyVWdsczY1bGtlMmlOMWJ0Q2hRd1JhQXJ6RDF3VWdleW9YY1o?oc=5",
+        "date": "2026-09-04",
+        "title": "Grand Canyon National Park expands inner canyon closures following recent flash flood - St. George News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAJBVV95cUxPbjZHUmphN0gycG9ZT2R2UnJfalZPSm4wWndBaXNqVlByVlpJWDJ6aW5TS3pmcnhwM25PN240UFV1ckduMFROeW9zSmUtZ0JTczBzZDNxLVI4aXJmQUVEeFNfc1Nuc3FKYmlxbDRNa1p3eGxFNW1hczVIUzZ5bFc3UVpFVDNxRm94VmdzaE5oNHhlZ0ZRQ1pycGZVZm1Va0JMMWRlOVNhcjZiY1JGUGZEMjFDNi1CcEItWEhMNm5jdkVIa1JKcktEYlNKMVZKclRIcE1LWG1jcDFBQWVvdG5XaUVOUEMyVWdsczY1bGtlMmlOMWJ0Q2hRd1JhQXJ6RDF3VWdleW9YY1o?oc=5\" target=\"_blank\">Grand Canyon National Park expands inner canyon closures following recent flash flood</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">St. George News</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQb3V1Nk5YUEI2RmZ2OFhFVUVjQ25wQTVJbVNDWGJHVEY0Nlc2ek1yQm1hSkU3b3F4OW5kdVE5YThjUmdkdDJJWXgwMlVwNUl6S0k1MTBFUDZ0Z0lYN1Q5eW9vMWM2SGMwcHE5N0hGRzBfNzBsYUFwbmQ1TFd0Z0tBejZXMTNoUHZIM1AtZndISk1KeDJPU0xDTWhfREVOa2JKaVVlb3NlaVVPT2Fab3c?oc=5",
+        "date": "2026-09-04",
+        "title": "\u2018Everyone seems to have forgotten\u2019: In Tibet, flood-hit families search for the missing and grapple with China\u2019s silence - The Guardian",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQb3V1Nk5YUEI2RmZ2OFhFVUVjQ25wQTVJbVNDWGJHVEY0Nlc2ek1yQm1hSkU3b3F4OW5kdVE5YThjUmdkdDJJWXgwMlVwNUl6S0k1MTBFUDZ0Z0lYN1Q5eW9vMWM2SGMwcHE5N0hGRzBfNzBsYUFwbmQ1TFd0Z0tBejZXMTNoUHZIM1AtZndISk1KeDJPU0xDTWhfREVOa2JKaVVlb3NlaVVPT2Fab3c?oc=5\" target=\"_blank\">\u2018Everyone seems to have forgotten\u2019: In Tibet, flood-hit families search for the missing and grapple with China\u2019s silence</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": null,
+        "tweet_id": "2095944694593204374",
+        "geo": {
+            "country": "China",
+            "name": "Tibet",
+            "latitude": 31.0,
+            "longitude": 89.0,
+            "confidence": 0.75
+        }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBGSnFDVWU1QkY0Tkt0QWx1QnpITkVzYjB3alFPMEVBTzFpME1JMTlsR2NHblBlZ1Jwb1JnMERjU0RFcV9wUlpJdE1ReldFTmJfNkNPWWQ0Tk1Yc0xPVk5v?oc=5",
+        "date": "2026-09-04",
+        "title": "No, the Nepal flash flood was not a hoax - Full Fact",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTFBGSnFDVWU1QkY0Tkt0QWx1QnpITkVzYjB3alFPMEVBTzFpME1JMTlsR2NHblBlZ1Jwb1JnMERjU0RFcV9wUlpJdE1ReldFTmJfNkNPWWQ0Tk1Yc0xPVk5v?oc=5\" target=\"_blank\">No, the Nepal flash flood was not a hoax</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Full Fact</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPdExudHFlT1RRZnA3cG5jYWgtdHo4OFIwejJ6UERlaTFHWVNFQTluOVJBRHpaOWEySGRham1WaXBQTHpRdXc5QzlHX1AwZ0NnNjRfNldMNjJSNlJfcnBkam5BSXBHc1owdXlPZWpMN20zLVNta1Azb0Y4SmZESXFWbG9rVTNnWkVxQ1czTllGTzNrdw?oc=5",
+        "date": "2026-09-04",
+        "title": "Edouard\u2019s Remnants Bring Additional Flood Risk to Texas - Program Business",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPdExudHFlT1RRZnA3cG5jYWgtdHo4OFIwejJ6UERlaTFHWVNFQTluOVJBRHpaOWEySGRham1WaXBQTHpRdXc5QzlHX1AwZ0NnNjRfNldMNjJSNlJfcnBkam5BSXBHc1owdXlPZWpMN20zLVNta1Azb0Y4SmZESXFWbG9rVTNnWkVxQ1czTllGTzNrdw?oc=5\" target=\"_blank\">Edouard\u2019s Remnants Bring Additional Flood Risk to Texas</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Program Business</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxONkg3d1FhNkJwSzA3WVc2R1B1T2J1N1NVT2F4QmR1TTBRb3UwajhmYTZZc2psMjBvcm5WSDNteUk4dmFPS0Zwa1lJX0U5Sno4a2FWeGlEYkZxRlEtUWU0NHRyTlFqSGM5NmhPOUMta3M1d2tYWmRlMFdrb2NZOHNXS1hZSWpSUnJSVWE3QTkyVzVyNWxUQmFz?oc=5",
+        "date": "2026-09-04",
+        "title": "The 'end of the world'? No. But after a pair of deluges, it may have felt like it. - Buffalo News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxONkg3d1FhNkJwSzA3WVc2R1B1T2J1N1NVT2F4QmR1TTBRb3UwajhmYTZZc2psMjBvcm5WSDNteUk4dmFPS0Zwa1lJX0U5Sno4a2FWeGlEYkZxRlEtUWU0NHRyTlFqSGM5NmhPOUMta3M1d2tYWmRlMFdrb2NZOHNXS1hZSWpSUnJSVWE3QTkyVzVyNWxUQmFz?oc=5\" target=\"_blank\">The 'end of the world'? No. But after a pair of deluges, it may have felt like it.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Buffalo News</font>",
+        "similarity_excluded": "No",
+        "score": 5,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQamFNX2RuYXY4MDZfVDFpQUxCMkZYQWhtYnhZVmdLQkt2Mjk4ajFqMWw4cFJzWWYzOWk1anc3emZHWHk1RGd5VllDUGJCNGtaYTBmekpzSzRfTUktcjdyOGJ3aG1zcTNIZWRxOHdQVXB3RzA3dW1RX1IzT09fMjJzQ3FtYW9CNmVvTVFRUWNlQ2JCRzQ?oc=5",
+        "date": "2026-09-04",
+        "title": "How close to Hawaii will Hurricane Lowell get? - Yale Climate Connections",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQamFNX2RuYXY4MDZfVDFpQUxCMkZYQWhtYnhZVmdLQkt2Mjk4ajFqMWw4cFJzWWYzOWk1anc3emZHWHk1RGd5VllDUGJCNGtaYTBmekpzSzRfTUktcjdyOGJ3aG1zcTNIZWRxOHdQVXB3RzA3dW1RX1IzT09fMjJzQ3FtYW9CNmVvTVFRUWNlQ2JCRzQ?oc=5\" target=\"_blank\">How close to Hawaii will Hurricane Lowell get?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yale Climate Connections</font>",
+        "similarity_excluded": "No",
+        "score": 3,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOYkdRekFiem5wMUphNHk3WFlJRUhZZFoxN25POG9pMTR4SVhiSV8tTzdsWWMxWHlmczEwLXBTejdyVGJRajNwOXRQTjlHaGctcERqbmZZRnBRVEd5SjZoR1ktSjAyU21YemJ5ZTFqSDVxRUtKMnhWTXktNEZpaTlVTlUzMlRNOHdhQ3kzNng0LS15NjRPckQ5SmphVExqZFBSYW1pNUJFd2RBYXBhVWVFOXJkLTJ5Yjl3UVk4?oc=5",
+        "date": "2026-09-04",
+        "title": "Public urged to prepare now as Hurricane Lowell moves closer to Kaua\u02bbi County - Kauai Now",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxOYkdRekFiem5wMUphNHk3WFlJRUhZZFoxN25POG9pMTR4SVhiSV8tTzdsWWMxWHlmczEwLXBTejdyVGJRajNwOXRQTjlHaGctcERqbmZZRnBRVEd5SjZoR1ktSjAyU21YemJ5ZTFqSDVxRUtKMnhWTXktNEZpaTlVTlUzMlRNOHdhQ3kzNng0LS15NjRPckQ5SmphVExqZFBSYW1pNUJFd2RBYXBhVWVFOXJkLTJ5Yjl3UVk4?oc=5\" target=\"_blank\">Public urged to prepare now as Hurricane Lowell moves closer to Kaua\u02bbi County</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Kauai Now</font>",
+        "similarity_excluded": "No",
+        "score": 5,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPUUo1Q3FEX0NZUWhQck9GSGE2U196aFFGaFktMFItclRaTXZJb0VrVFRPMVBQakw2Z1ZvanB2cFpHWlpISGZjcGtvRUFsRU0xSDFtbWhSVm9DZm8xNjhIcUdqX2Vqb3RndVBGMlg4cWpDMk9zUk5vcWs0RUJ1MkF2ZmlKWVdCRzNsZVh4cEhxNnM2WXhVNjFxd1JsbmV0aGdtU3dZSnRGZEFlbTZtTlFMazU5M2xzcGdxWnNXbW4zbmxOWTV2UE9Way1FRm5QOVZrTy1GSm9YTWc0eERY?oc=5",
+        "date": "2026-09-04",
+        "title": "Two men have been rescued from inside a tunnel of a hydropower plant in Nepal, authorities said Friday, nine days after deadly flash floods ripped through the region. - facebook.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxPUUo1Q3FEX0NZUWhQck9GSGE2U196aFFGaFktMFItclRaTXZJb0VrVFRPMVBQakw2Z1ZvanB2cFpHWlpISGZjcGtvRUFsRU0xSDFtbWhSVm9DZm8xNjhIcUdqX2Vqb3RndVBGMlg4cWpDMk9zUk5vcWs0RUJ1MkF2ZmlKWVdCRzNsZVh4cEhxNnM2WXhVNjFxd1JsbmV0aGdtU3dZSnRGZEFlbTZtTlFMazU5M2xzcGdxWnNXbW4zbmxOWTV2UE9Way1FRm5QOVZrTy1GSm9YTWc0eERY?oc=5\" target=\"_blank\">Two men have been rescued from inside a tunnel of a hydropower plant in Nepal, authorities said Friday, nine days after deadly flash floods ripped through the region.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">facebook.com</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": null,
+        "tweet_id": "2095945241295503604",
+        "geo": {
+            "country": "Nepal",
+            "name": "Nepal",
+            "latitude": 28.3949,
+            "longitude": 84.124,
+            "confidence": 0.6
+        }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQXzhjNHNtQVVlOTcxTUNLWjVnMS1CUl9uWTktbG9yazRlTUpOSmtkSjV1ZXUtTHdxZXRnazZKOF9TY2hVQjd4REF4QUNrc1pwaFo1elpndV9LQTh3bUh1V2JPTHUtX193RTdmV1RobWFMRV9ibEZyNWZmYTRrWGZxeV9oSTY4dmxnWEJGQ3NvTEpPUDBsN3A0QVMwVHNiczkyRTF6RzdfeDYwMzdpNTR1aFNjMWdJUFJVLUxmQm03V1JLQQ?oc=5",
+        "date": "2026-09-04",
+        "title": "Monsoon matrimony | Couple gets married in waist-deep floodwaters - KGW",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxQXzhjNHNtQVVlOTcxTUNLWjVnMS1CUl9uWTktbG9yazRlTUpOSmtkSjV1ZXUtTHdxZXRnazZKOF9TY2hVQjd4REF4QUNrc1pwaFo1elpndV9LQTh3bUh1V2JPTHUtX193RTdmV1RobWFMRV9ibEZyNWZmYTRrWGZxeV9oSTY4dmxnWEJGQ3NvTEpPUDBsN3A0QVMwVHNiczkyRTF6RzdfeDYwMzdpNTR1aFNjMWdJUFJVLUxmQm03V1JLQQ?oc=5\" target=\"_blank\">Monsoon matrimony | Couple gets married in waist-deep floodwaters</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KGW</font>",
+        "similarity_excluded": "No",
+        "score": 5,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOaVZyNUlsejA5UVBsTXJDdGRZZkF6VFlWZTZ5MU5BdHI2TDBlV0VaSk9kZ2E0N0g3T3phS0Ewemg4N2o4RGFqT0ltNUVJUDJIa2ZNNmhPVkp3a1pSczJGZGw1UEcxdXpWRkFrMWVqMW1xYmw3VVdySG5vRXBSWkQ2bmRIQllqUkVUQ002RXJPOWMxbUZRZUkwTHFzTm5peEpreEIyblhvMm80UFJEMGpPOUhqWEVCYUlL0gHAAUFVX3lxTFBFOVZUSXg4VEVWbl9XYmp5QkhNZ2hJMHg5VG1IaEhzNzFwSFpuLXkyUGdUcE4tX2VoSW9JOXhMN0hqMHQ3X1lmY3pRX2JFQXZJa05BWUlUYU5lTlY4UzNkMmNHdVRmZHZ3d1Z6TWhWczAzaldBV3RYbDd4YTlZQTM1TnRwd21CMV9aTmpUXzZMcHd4ZWRuZEhMYjY1VlllMmNpRWlpdWJ3bzhHR1dPdndfeEZOVjRUUTFNZjVuc2lfNg?oc=5",
+        "date": "2026-09-04",
+        "title": "Train Services To Mizoram Suspended After Landslide Hits Rail Track In Assam - NDTV",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxOaVZyNUlsejA5UVBsTXJDdGRZZkF6VFlWZTZ5MU5BdHI2TDBlV0VaSk9kZ2E0N0g3T3phS0Ewemg4N2o4RGFqT0ltNUVJUDJIa2ZNNmhPVkp3a1pSczJGZGw1UEcxdXpWRkFrMWVqMW1xYmw3VVdySG5vRXBSWkQ2bmRIQllqUkVUQ002RXJPOWMxbUZRZUkwTHFzTm5peEpreEIyblhvMm80UFJEMGpPOUhqWEVCYUlL0gHAAUFVX3lxTFBFOVZUSXg4VEVWbl9XYmp5QkhNZ2hJMHg5VG1IaEhzNzFwSFpuLXkyUGdUcE4tX2VoSW9JOXhMN0hqMHQ3X1lmY3pRX2JFQXZJa05BWUlUYU5lTlY4UzNkMmNHdVRmZHZ3d1Z6TWhWczAzaldBV3RYbDd4YTlZQTM1TnRwd21CMV9aTmpUXzZMcHd4ZWRuZEhMYjY1VlllMmNpRWlpdWJ3bzhHR1dPdndfeEZOVjRUUTFNZjVuc2lfNg?oc=5\" target=\"_blank\">Train Services To Mizoram Suspended After Landslide Hits Rail Track In Assam</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NDTV</font>",
+        "similarity_excluded": "No",
+        "score": 1,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNTnl6bjlYY3BIVG5JaXpCZEFaVmEwcENTSk1sdTVuZ3RLdzAyaFo3RXJ0bHhuYXFYWlJmRVljM1NPOERaMHFzNXJ3TDdJaTFGNG5GX1pWNUZvZ2p4Qy13ZVBGalBucjJuUFZkZ05GYVc0ZGtpdGRRaXlaTVdabHNIUTRXUkx3Qk43VTJwakhNcXNMZks1aHU4S0hhUVVpSDROTC1Rd3dVUjVzd3Ru?oc=5",
+        "date": "2026-09-04",
+        "title": "Heavy rain triggers landslides in Uttarakhand; schools in Haridwar closed Saturday - Telangana Today",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNTnl6bjlYY3BIVG5JaXpCZEFaVmEwcENTSk1sdTVuZ3RLdzAyaFo3RXJ0bHhuYXFYWlJmRVljM1NPOERaMHFzNXJ3TDdJaTFGNG5GX1pWNUZvZ2p4Qy13ZVBGalBucjJuUFZkZ05GYVc0ZGtpdGRRaXlaTVdabHNIUTRXUkx3Qk43VTJwakhNcXNMZks1aHU4S0hhUVVpSDROTC1Rd3dVUjVzd3Ru?oc=5\" target=\"_blank\">Heavy rain triggers landslides in Uttarakhand; schools in Haridwar closed Saturday</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Telangana Today</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPRDV4UXF4bTlSakItYkRESm9qT3hZN01fZG5XeXJWLWlxXzFtOUFuazRydU53SFBVblQtTC0weGNOSlMyRjcwamFiNWF3VVM1RjRfSzk5ZXVFOWVMemJlcElVRTFseGloNkRndEN1MHJDMkwxZEdlU1AtTFZCTEVtbXlJMG04ekV0YUl0aUNJMWg0SkxrNGlwYUR5am94NEFZa1VEQjRvYnNTWXE2YW5ZNWZaY3Z6T2hYVU1QUTdJbG1sekx1cFJaYlFn?oc=5",
+        "date": "2026-09-04",
+        "title": "Nepal floods could cost insurers over $130 million even before death, injury claims - Reuters",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxPRDV4UXF4bTlSakItYkRESm9qT3hZN01fZG5XeXJWLWlxXzFtOUFuazRydU53SFBVblQtTC0weGNOSlMyRjcwamFiNWF3VVM1RjRfSzk5ZXVFOWVMemJlcElVRTFseGloNkRndEN1MHJDMkwxZEdlU1AtTFZCTEVtbXlJMG04ekV0YUl0aUNJMWg0SkxrNGlwYUR5am94NEFZa1VEQjRvYnNTWXE2YW5ZNWZaY3Z6T2hYVU1QUTdJbG1sekx1cFJaYlFn?oc=5\" target=\"_blank\">Nepal floods could cost insurers over $130 million even before death, injury claims</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "posted",
+        "tweet": "\ud83c\uddf3\ud83c\uddf5 POST-EVENT Nepal: floods could cost insurers over $130 million",
+        "type": "news",
+        "tweet_id": "2095944152437448738",
+        "geo": {
+            "country": "Nepal",
+            "name": "Nepal",
+            "latitude": 28.3949,
+            "longitude": 84.124,
+            "confidence": 0.9
+        }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQb3V1Nk5YUEI2RmZ2OFhFVUVjQ25wQTVJbVNDWGJHVEY0Nlc2ek1yQm1hSkU3b3F4OW5kdVE5YThjUmdkdDJJWXgwMlVwNUl6S0k1MTBFUDZ0Z0lYN1Q5eW9vMWM2SGMwcHE5N0hGRzBfNzBsYUFwbmQ1TFd0Z0tBejZXMTNoUHZIM1AtZndISk1KeDJPU0xDTWhfREVOa2JKaVVlb3NlaVVPT2Fab3c?oc=5",
+        "date": "2026-09-04",
+        "title": "\u2018Everyone seems to have forgotten\u2019: In Tibet, flood-hit families search for the missing and grapple with China\u2019s silence - The Guardian",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQb3V1Nk5YUEI2RmZ2OFhFVUVjQ25wQTVJbVNDWGJHVEY0Nlc2ek1yQm1hSkU3b3F4OW5kdVE5YThjUmdkdDJJWXgwMlVwNUl6S0k1MTBFUDZ0Z0lYN1Q5eW9vMWM2SGMwcHE5N0hGRzBfNzBsYUFwbmQ1TFd0Z0tBejZXMTNoUHZIM1AtZndISk1KeDJPU0xDTWhfREVOa2JKaVVlb3NlaVVPT2Fab3c?oc=5\" target=\"_blank\">\u2018Everyone seems to have forgotten\u2019: In Tibet, flood-hit families search for the missing and grapple with China\u2019s silence</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "posted",
+        "tweet": "\ud83c\udde8\ud83c\uddf3 POST-EVENT Tibet: Families search for missing after floods, grapple with Chinas silence (The Guardian)",
+        "type": "news",
+        "tweet_id": "2095944694593204374",
+        "geo": {
+            "country": "China",
+            "name": "Tibet",
+            "latitude": 31.0,
+            "longitude": 89.0,
+            "confidence": 0.75
+        }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPUUo1Q3FEX0NZUWhQck9GSGE2U196aFFGaFktMFItclRaTXZJb0VrVFRPMVBQakw2Z1ZvanB2cFpHWlpISGZjcGtvRUFsRU0xSDFtbWhSVm9DZm8xNjhIcUdqX2Vqb3RndVBGMlg4cWpDMk9zUk5vcWs0RUJ1MkF2ZmlKWVdCRzNsZVh4cEhxNnM2WXhVNjFxd1JsbmV0aGdtU3dZSnRGZEFlbTZtTlFMazU5M2xzcGdxWnNXbW4zbmxOWTV2UE9Way1FRm5QOVZrTy1GSm9YTWc0eERY?oc=5",
+        "date": "2026-09-04",
+        "title": "Two men have been rescued from inside a tunnel of a hydropower plant in Nepal, authorities said Friday, nine days after deadly flash floods ripped through the region. - facebook.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxPUUo1Q3FEX0NZUWhQck9GSGE2U196aFFGaFktMFItclRaTXZJb0VrVFRPMVBQakw2Z1ZvanB2cFpHWlpISGZjcGtvRUFsRU0xSDFtbWhSVm9DZm8xNjhIcUdqX2Vqb3RndVBGMlg4cWpDMk9zUk5vcWs0RUJ1MkF2ZmlKWVdCRzNsZVh4cEhxNnM2WXhVNjFxd1JsbmV0aGdtU3dZSnRGZEFlbTZtTlFMazU5M2xzcGdxWnNXbW4zbmxOWTV2UE9Way1FRm5QOVZrTy1GSm9YTWc0eERY?oc=5\" target=\"_blank\">Two men have been rescued from inside a tunnel of a hydropower plant in Nepal, authorities said Friday, nine days after deadly flash floods ripped through the region.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">facebook.com</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "posted",
+        "tweet": "\ud83c\uddf3\ud83c\uddf5 POST-EVENT Nepal: Two men rescued from hydropower tunnel nine days after deadly flash floods hit the region.",
+        "type": "news",
+        "tweet_id": "2095945241295503604",
+        "geo": {
+            "country": "Nepal",
+            "name": "Nepal",
+            "latitude": 28.3949,
+            "longitude": 84.124,
+            "confidence": 0.6
+        }
     }
 ]
