@@ -23665,7 +23665,7 @@
     "rain_mm": 51.88,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 9.921,
-    "last_updated": "2026-09-04T13:15:10.395438Z",
+    "last_updated": "2026-09-04T18:06:56.193946Z",
     "last_tweeted_at": "2026-06-26T14:17:41.336247Z",
     "tweet_id": "2070512122103021940",
     "resolved": false
@@ -24206,7 +24206,7 @@
     "rain_mm": 12.88,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 2.462,
-    "last_updated": "2026-09-04T02:24:14.391794Z",
+    "last_updated": "2026-09-04T18:06:56.193946Z",
     "last_tweeted_at": "2026-09-03T18:29:05.007322Z",
     "tweet_id": "2095579890338738237",
     "resolved": true,
@@ -27276,7 +27276,7 @@
     "rain_mm": 45.94,
     "soil_moisture": 0.698,
     "raw_dynamic_score": 7.531,
-    "last_updated": "2026-07-29T16:28:26.057379Z",
+    "last_updated": "2026-09-04T18:06:56.193946Z",
     "last_tweeted_at": "2026-07-12T08:14:55.582458Z",
     "tweet_id": "2076219032936583290",
     "resolved": false
@@ -34131,7 +34131,7 @@
     "rain_mm": 42.56,
     "soil_moisture": 0.606,
     "raw_dynamic_score": 6.624,
-    "last_updated": "2026-08-17T22:05:27.443929Z",
+    "last_updated": "2026-09-04T18:06:56.193946Z",
     "last_tweeted_at": "2026-08-17T19:13:46.936718Z",
     "tweet_id": "2089431054612676990",
     "resolved": false
@@ -34161,7 +34161,7 @@
     "rain_mm": 51.19,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 9.79,
-    "last_updated": "2026-08-18T13:19:56.365987Z",
+    "last_updated": "2026-09-04T18:06:56.193946Z",
     "last_tweeted_at": "2026-08-17T22:05:27.443929Z",
     "tweet_id": "2089473988091081094",
     "resolved": false
@@ -34266,7 +34266,7 @@
     "rain_mm": 40.81,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 7.805,
-    "last_updated": "2026-08-18T10:15:02.589860Z",
+    "last_updated": "2026-09-04T18:06:56.193946Z",
     "last_tweeted_at": "2026-08-18T04:26:50.016003Z",
     "tweet_id": "2089570231320752293",
     "resolved": false
@@ -35961,7 +35961,7 @@
     "rain_mm": 57.94,
     "soil_moisture": 0.647,
     "raw_dynamic_score": 9.233,
-    "last_updated": "2026-08-26T03:59:23.821400Z",
+    "last_updated": "2026-09-04T18:06:56.193946Z",
     "last_tweeted_at": "2026-08-26T00:59:48.595472Z",
     "tweet_id": "2092416735874035862",
     "resolved": false
@@ -37257,10 +37257,14 @@
     "rain_mm": 80.88,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 15.467,
-    "last_updated": "2026-09-04T13:15:10.395438Z",
+    "last_updated": "2026-09-04T18:06:56.193946Z",
     "last_tweeted_at": "2026-09-03T18:29:05.007322Z",
     "tweet_id": "2095579890338738237",
-    "resolved": false
+    "resolved": false,
+    "pending_downgrade": true,
+    "pending_target_level": "Low",
+    "pending_set_at": "2026-09-04T18:06:56.193946Z",
+    "pending_is_region": true
   },
   "31.4167,130.3167": {
     "country": "Japan",
@@ -37272,7 +37276,7 @@
     "rain_mm": 48.19,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 9.216,
-    "last_updated": "2026-09-04T02:24:14.391794Z",
+    "last_updated": "2026-09-04T18:06:56.193946Z",
     "last_tweeted_at": "2026-09-03T18:29:05.007322Z",
     "tweet_id": "2095579890338738237",
     "resolved": false
@@ -37287,7 +37291,7 @@
     "rain_mm": 48.19,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 9.216,
-    "last_updated": "2026-09-04T02:24:14.391794Z",
+    "last_updated": "2026-09-04T18:06:56.193946Z",
     "last_tweeted_at": "2026-09-03T18:29:05.007322Z",
     "tweet_id": "2095579890338738237",
     "resolved": false
@@ -38838,6 +38842,36 @@
     "last_updated": "2026-09-04T13:15:10.395438Z",
     "last_tweeted_at": "2026-09-04T07:46:20.385830Z",
     "tweet_id": "2095780781323157971",
+    "resolved": false
+  },
+  "20.8918,97.7167": {
+    "country": "Myanmar",
+    "name": "Nansang",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 20.89184,
+    "longitude": 97.71672,
+    "rain_mm": 48.06,
+    "soil_moisture": 0.624,
+    "raw_dynamic_score": 7.561,
+    "last_updated": "2026-09-04T18:06:56.193946Z",
+    "last_tweeted_at": "2026-09-04T18:06:56.193946Z",
+    "tweet_id": "2095936696533623146",
+    "resolved": false
+  },
+  "10.9992,10.4106": {
+    "country": "Nigeria",
+    "name": "Darazo",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 10.9992,
+    "longitude": 10.41062,
+    "rain_mm": 45.88,
+    "soil_moisture": 0.507,
+    "raw_dynamic_score": 6.732,
+    "last_updated": "2026-09-04T18:06:56.193946Z",
+    "last_tweeted_at": "2026-09-04T18:06:56.193946Z",
+    "tweet_id": "2095936949601099781",
     "resolved": false
   }
 }
