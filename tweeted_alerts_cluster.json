@@ -18909,7 +18909,7 @@
     "rain_mm": 45.94,
     "soil_moisture": 0.549,
     "raw_dynamic_score": 6.913,
-    "last_updated": "2026-09-05T12:27:50.665960Z",
+    "last_updated": "2026-09-05T17:16:29.995032Z",
     "last_tweeted_at": "2026-06-05T07:10:47.320609Z",
     "tweet_id": "2062794290636390674",
     "resolved": false
@@ -38838,6 +38838,36 @@
     "last_updated": "2026-09-05T07:28:29.045881Z",
     "last_tweeted_at": "2026-09-05T02:22:45.484896Z",
     "tweet_id": "2096062230206771504",
+    "resolved": false
+  },
+  "33.7333,135.9833": {
+    "country": "Japan",
+    "name": "Shingū",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 33.73333,
+    "longitude": 135.98333,
+    "rain_mm": 67.38,
+    "soil_moisture": 0.738,
+    "raw_dynamic_score": 11.29,
+    "last_updated": "2026-09-05T17:16:29.995032Z",
+    "last_tweeted_at": "2026-09-05T17:16:29.995032Z",
+    "tweet_id": "2096286388308324418",
+    "resolved": false
+  },
+  "33.4684,135.7791": {
+    "country": "Japan",
+    "name": "Kushimoto",
+    "risk_level": "High",
+    "tweeted_level": "High",
+    "latitude": 33.46839,
+    "longitude": 135.77909,
+    "rain_mm": 97.25,
+    "soil_moisture": 0.753,
+    "raw_dynamic_score": 16.428,
+    "last_updated": "2026-09-05T17:16:29.995032Z",
+    "last_tweeted_at": "2026-09-05T17:16:29.995032Z",
+    "tweet_id": "2096286641086447712",
     "resolved": false
   }
 }
