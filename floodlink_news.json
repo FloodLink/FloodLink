@@ -23863,5 +23863,14 @@
             "longitude": -105.6731,
             "confidence": 0.9
         }
+    },
+    {
+        "link": null,
+        "date": "2026-09-05",
+        "status": "posted",
+        "tweet": "By 2030, 570 million people in dense cities are projected to face annual pluvial flood exposure from extreme rainfall, up sharply from 2020 levels due to urbanization.",
+        "type": "statistical",
+        "category": "pluvial (surface) flooding in dense cities",
+        "tweet_id": "2096338715165479176"
     }
 ]
