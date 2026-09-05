@@ -38843,16 +38843,16 @@
   "33.7333,135.9833": {
     "country": "Japan",
     "name": "Shingū",
-    "risk_level": "Medium",
-    "tweeted_level": "Medium",
+    "risk_level": "High",
+    "tweeted_level": "High",
     "latitude": 33.73333,
     "longitude": 135.98333,
-    "rain_mm": 67.38,
-    "soil_moisture": 0.738,
-    "raw_dynamic_score": 11.29,
-    "last_updated": "2026-09-05T17:16:29.995032Z",
-    "last_tweeted_at": "2026-09-05T17:16:29.995032Z",
-    "tweet_id": "2096286388308324418",
+    "rain_mm": 81.25,
+    "soil_moisture": 0.758,
+    "raw_dynamic_score": 13.762,
+    "last_updated": "2026-09-05T19:58:37.837361Z",
+    "last_tweeted_at": "2026-09-05T19:58:37.837361Z",
+    "tweet_id": "2096327205198659965",
     "resolved": false
   },
   "33.4684,135.7791": {
@@ -38868,6 +38868,21 @@
     "last_updated": "2026-09-05T17:16:29.995032Z",
     "last_tweeted_at": "2026-09-05T17:16:29.995032Z",
     "tweet_id": "2096286641086447712",
+    "resolved": false
+  },
+  "33.7000,135.4167": {
+    "country": "Japan",
+    "name": "Asso",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 33.7,
+    "longitude": 135.41667,
+    "rain_mm": 46.25,
+    "soil_moisture": 0.722,
+    "raw_dynamic_score": 7.683,
+    "last_updated": "2026-09-05T19:58:37.837361Z",
+    "last_tweeted_at": "2026-09-05T19:58:37.837361Z",
+    "tweet_id": "2096327457905471930",
     "resolved": false
   }
 }
