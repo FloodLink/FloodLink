@@ -22848,5 +22848,14 @@
             "longitude": -156.3,
             "confidence": 0.9
         }
+    },
+    {
+        "link": null,
+        "date": "2026-09-08",
+        "status": "posted",
+        "tweet": "2025 flood mitigation stats\n1. \ud83c\uddf3\ud83c\uddf1 70% land protected by levees/dams\n2. \ud83c\uddfa\ud83c\uddf8 17M people shielded from floods\n3. \ud83c\udde8\ud83c\uddf3 Reservoirs avert 50% Yangtze peaks\n4. \ud83c\uddef\ud83c\uddf5 Barriers cut storm surge losses 60%\n5. \ud83c\udde9\ud83c\uddea Elbe dams reduce extreme flow 35%",
+        "type": "statistical",
+        "category": "dams, levees and reservoirs used for flood control",
+        "tweet_id": "2097441585554489462"
     }
 ]
