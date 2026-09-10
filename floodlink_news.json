@@ -21768,5 +21768,14 @@
             "longitude": -90.51,
             "confidence": 0.85
         }
+    },
+    {
+        "link": null,
+        "date": "2026-09-10",
+        "status": "posted",
+        "tweet": "Flood EWS coverage for at-risk populations 2025:\n1. Sub-Saharan Africa: 15%\n2. South Asia: 29%\n3. Latin America: 38%\n4. East Asia: 61%\n5. Europe: 84%",
+        "type": "statistical",
+        "category": "coverage of flood early warning systems worldwide",
+        "tweet_id": "2098147693755339118"
     }
 ]
