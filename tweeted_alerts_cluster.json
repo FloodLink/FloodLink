@@ -22196,7 +22196,7 @@
     "rain_mm": 43.88,
     "soil_moisture": 0.667,
     "raw_dynamic_score": 7.07,
-    "last_updated": "2026-07-27T22:09:54.431714Z",
+    "last_updated": "2026-09-13T20:15:06.499470Z",
     "last_tweeted_at": "2026-06-23T02:41:57.639868Z",
     "tweet_id": "2069249866602082659",
     "resolved": false
@@ -22736,7 +22736,7 @@
     "rain_mm": 51.44,
     "soil_moisture": 0.379,
     "raw_dynamic_score": 6.953,
-    "last_updated": "2026-09-13T18:02:29.608294Z",
+    "last_updated": "2026-09-13T20:15:06.499470Z",
     "last_tweeted_at": "2026-06-25T17:41:03.519335Z",
     "tweet_id": "2070202405770387646",
     "resolved": false
@@ -30956,7 +30956,7 @@
     "rain_mm": 50.06,
     "soil_moisture": 0.683,
     "raw_dynamic_score": 8.143,
-    "last_updated": "2026-08-04T22:17:54.400271Z",
+    "last_updated": "2026-09-13T20:15:06.499470Z",
     "last_tweeted_at": "2026-08-04T19:32:32.897351Z",
     "tweet_id": "2084724230118093037",
     "resolved": false
@@ -31106,7 +31106,7 @@
     "rain_mm": 59.44,
     "soil_moisture": 0.586,
     "raw_dynamic_score": 9.144,
-    "last_updated": "2026-08-29T05:09:30.426240Z",
+    "last_updated": "2026-09-13T20:15:06.499470Z",
     "last_tweeted_at": "2026-08-05T17:03:04.231854Z",
     "tweet_id": "2085050759893454892",
     "resolved": false
@@ -33297,18 +33297,18 @@
     "rain_mm": 82.0,
     "soil_moisture": 0.734,
     "raw_dynamic_score": 13.716,
-    "last_updated": "2026-09-13T18:02:29.608294Z",
+    "last_updated": "2026-09-13T20:15:06.499470Z",
     "last_tweeted_at": "2026-09-13T13:45:44.731052Z",
     "tweet_id": "2099132974037918112",
     "resolved": false,
     "pending_downgrade": true,
-    "pending_target_level": "Medium",
-    "pending_set_at": "2026-09-13T18:02:29.608294Z",
+    "pending_target_level": "Low",
+    "pending_set_at": "2026-09-13T20:15:06.499470Z",
     "pending_is_region": false,
-    "pending_observed_level": "Medium",
-    "pending_observed_rain_mm": 64.88,
-    "pending_observed_soil_moisture": 0.744,
-    "pending_observed_raw_dynamic_score": 10.905
+    "pending_observed_level": "Low",
+    "pending_observed_rain_mm": 26.44,
+    "pending_observed_soil_moisture": 0.721,
+    "pending_observed_raw_dynamic_score": 4.39
   },
   "18.5616,121.2319": {
     "country": "Philippines",
@@ -33335,7 +33335,7 @@
     "rain_mm": 45.75,
     "soil_moisture": 0.597,
     "raw_dynamic_score": 7.087,
-    "last_updated": "2026-09-13T08:04:07.191978Z",
+    "last_updated": "2026-09-13T20:15:06.499470Z",
     "last_tweeted_at": "2026-09-13T08:04:07.191978Z",
     "tweet_id": "2099046742595391521",
     "resolved": false
@@ -33365,7 +33365,7 @@
     "rain_mm": 32.62,
     "soil_moisture": 0.741,
     "raw_dynamic_score": 5.478,
-    "last_updated": "2026-09-13T13:45:44.731052Z",
+    "last_updated": "2026-09-13T20:15:06.499470Z",
     "last_tweeted_at": "2026-09-13T13:45:44.731052Z",
     "tweet_id": "2099133985364255061",
     "resolved": true,
@@ -33472,7 +33472,7 @@
     "rain_mm": 2.44,
     "soil_moisture": 0.576,
     "raw_dynamic_score": 0.373,
-    "last_updated": "2026-09-13T13:45:44.731052Z",
+    "last_updated": "2026-09-13T20:15:06.499470Z",
     "last_tweeted_at": "2026-09-13T13:45:44.731052Z",
     "tweet_id": "2099133985364255061",
     "resolved": true,
@@ -33871,16 +33871,16 @@
   "20.2581,105.9797": {
     "country": "Viet Nam",
     "name": "Ninh Bình",
-    "risk_level": "Medium",
-    "tweeted_level": "Medium",
+    "risk_level": "High",
+    "tweeted_level": "High",
     "latitude": 20.25809,
     "longitude": 105.97965,
-    "rain_mm": 39.44,
-    "soil_moisture": 0.71,
-    "raw_dynamic_score": 6.511,
-    "last_updated": "2026-09-13T18:02:29.608294Z",
-    "last_tweeted_at": "2026-08-21T06:41:44.547110Z",
-    "tweet_id": "2090691338534629752",
+    "rain_mm": 87.88,
+    "soil_moisture": 0.75,
+    "raw_dynamic_score": 14.82,
+    "last_updated": "2026-09-13T20:15:06.499470Z",
+    "last_tweeted_at": "2026-09-13T20:15:06.499470Z",
+    "tweet_id": "2099230964031336866",
     "resolved": false
   },
   "20.6464,106.0511": {
@@ -38879,10 +38879,14 @@
     "rain_mm": 102.81,
     "soil_moisture": 0.702,
     "raw_dynamic_score": 16.893,
-    "last_updated": "2026-09-13T18:02:29.608294Z",
+    "last_updated": "2026-09-13T20:15:06.499470Z",
     "last_tweeted_at": "2026-09-13T08:04:07.191978Z",
     "tweet_id": "2099046742595391521",
-    "resolved": false
+    "resolved": false,
+    "pending_downgrade": true,
+    "pending_target_level": "Medium",
+    "pending_set_at": "2026-09-13T20:15:06.499470Z",
+    "pending_is_region": true
   },
   "18.6734,105.6923": {
     "country": "Viet Nam",
@@ -38894,7 +38898,7 @@
     "rain_mm": 102.81,
     "soil_moisture": 0.702,
     "raw_dynamic_score": 16.893,
-    "last_updated": "2026-09-13T08:04:07.191978Z",
+    "last_updated": "2026-09-13T20:15:06.499470Z",
     "last_tweeted_at": "2026-09-13T08:04:07.191978Z",
     "tweet_id": "2099046742595391521",
     "resolved": false
@@ -38939,7 +38943,7 @@
     "rain_mm": 90.0,
     "soil_moisture": 0.652,
     "raw_dynamic_score": 14.388,
-    "last_updated": "2026-09-13T18:02:29.608294Z",
+    "last_updated": "2026-09-13T20:15:06.499470Z",
     "last_tweeted_at": "2026-09-13T13:45:44.731052Z",
     "tweet_id": "2099132720865521910",
     "resolved": false,
@@ -39363,10 +39367,14 @@
     "rain_mm": 88.06,
     "soil_moisture": 0.753,
     "raw_dynamic_score": 14.88,
-    "last_updated": "2026-09-13T18:02:29.608294Z",
+    "last_updated": "2026-09-13T20:15:06.499470Z",
     "last_tweeted_at": "2026-09-13T13:45:44.731052Z",
     "tweet_id": "2099133985364255061",
-    "resolved": false
+    "resolved": false,
+    "pending_downgrade": true,
+    "pending_target_level": "Low",
+    "pending_set_at": "2026-09-13T20:15:06.499470Z",
+    "pending_is_region": true
   },
   "18.4512,105.7797": {
     "country": "Viet Nam",
@@ -39378,7 +39386,7 @@
     "rain_mm": 88.06,
     "soil_moisture": 0.753,
     "raw_dynamic_score": 14.88,
-    "last_updated": "2026-09-13T13:45:44.731052Z",
+    "last_updated": "2026-09-13T20:15:06.499470Z",
     "last_tweeted_at": "2026-09-13T13:45:44.731052Z",
     "tweet_id": "2099133985364255061",
     "resolved": false
@@ -39393,7 +39401,7 @@
     "rain_mm": 42.06,
     "soil_moisture": 0.724,
     "raw_dynamic_score": 6.996,
-    "last_updated": "2026-09-13T18:02:29.608294Z",
+    "last_updated": "2026-09-13T20:15:06.499470Z",
     "last_tweeted_at": "2026-09-13T18:02:29.608294Z",
     "tweet_id": "2099197079117512765",
     "resolved": false
@@ -39408,7 +39416,7 @@
     "rain_mm": 41.69,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 7.973,
-    "last_updated": "2026-09-13T18:02:29.608294Z",
+    "last_updated": "2026-09-13T20:15:06.499470Z",
     "last_tweeted_at": "2026-09-13T18:02:29.608294Z",
     "tweet_id": "2099197331933470956",
     "resolved": false
@@ -39423,7 +39431,7 @@
     "rain_mm": 73.38,
     "soil_moisture": 0.741,
     "raw_dynamic_score": 12.317,
-    "last_updated": "2026-09-13T18:02:29.608294Z",
+    "last_updated": "2026-09-13T20:15:06.499470Z",
     "last_tweeted_at": "2026-09-13T18:02:29.608294Z",
     "tweet_id": "2099197584858325067",
     "resolved": false
@@ -39441,6 +39449,36 @@
     "last_updated": "2026-09-13T18:02:29.608294Z",
     "last_tweeted_at": "2026-09-13T18:02:29.608294Z",
     "tweet_id": "2099197584858325067",
+    "resolved": false
+  },
+  "38.9167,139.8550": {
+    "country": "Japan",
+    "name": "Sakata",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 38.91667,
+    "longitude": 139.855,
+    "rain_mm": 37.94,
+    "soil_moisture": 1.0,
+    "raw_dynamic_score": 7.256,
+    "last_updated": "2026-09-13T20:15:06.499470Z",
+    "last_tweeted_at": "2026-09-13T20:15:06.499470Z",
+    "tweet_id": "2099230457825046954",
+    "resolved": false
+  },
+  "39.6941,140.9844": {
+    "country": "Japan",
+    "name": "Shizukuishi",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 39.69414,
+    "longitude": 140.98442,
+    "rain_mm": 48.88,
+    "soil_moisture": 0.649,
+    "raw_dynamic_score": 7.8,
+    "last_updated": "2026-09-13T20:15:06.499470Z",
+    "last_tweeted_at": "2026-09-13T20:15:06.499470Z",
+    "tweet_id": "2099230710892466481",
     "resolved": false
   }
 }
