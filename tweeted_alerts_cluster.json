@@ -16558,7 +16558,7 @@
     "rain_mm": 44.06,
     "soil_moisture": 0.626,
     "raw_dynamic_score": 6.94,
-    "last_updated": "2026-09-15T08:26:54.560304Z",
+    "last_updated": "2026-09-15T18:50:58.360879Z",
     "last_tweeted_at": "2026-05-20T14:50:34.690866Z",
     "tweet_id": "2057112294081925325",
     "resolved": false
@@ -31273,7 +31273,7 @@
     "rain_mm": 46.25,
     "soil_moisture": 0.473,
     "raw_dynamic_score": 6.643,
-    "last_updated": "2026-09-15T14:38:18.421861Z",
+    "last_updated": "2026-09-15T18:50:58.360879Z",
     "last_tweeted_at": "2026-08-07T15:58:18.580918Z",
     "tweet_id": "2085757460996923420",
     "resolved": false
@@ -38626,38 +38626,6 @@
     "tweet_id": "2099133732485521695",
     "resolved": false
   },
-  "18.5667,105.6833": {
-    "country": "Viet Nam",
-    "name": "Hồng Lĩnh",
-    "risk_level": "Low",
-    "tweeted_level": "Low",
-    "latitude": 18.56667,
-    "longitude": 105.68333,
-    "rain_mm": 5.56,
-    "soil_moisture": 0.705,
-    "raw_dynamic_score": 0.916,
-    "last_updated": "2026-09-14T15:42:05.639896Z",
-    "last_tweeted_at": "2026-09-14T15:42:05.639896Z",
-    "tweet_id": "2099525886957822452",
-    "resolved": true,
-    "resolved_at": "2026-09-14T15:42:05.639896Z"
-  },
-  "18.4512,105.7797": {
-    "country": "Viet Nam",
-    "name": "Nghèn",
-    "risk_level": "Low",
-    "tweeted_level": "Low",
-    "latitude": 18.45119,
-    "longitude": 105.77969,
-    "rain_mm": 5.56,
-    "soil_moisture": 0.705,
-    "raw_dynamic_score": 0.916,
-    "last_updated": "2026-09-14T15:42:05.639896Z",
-    "last_tweeted_at": "2026-09-14T15:42:05.639896Z",
-    "tweet_id": "2099525886957822452",
-    "resolved": true,
-    "resolved_at": "2026-09-14T15:42:05.639896Z"
-  },
   "19.5056,108.9505": {
     "country": "China",
     "name": "Haitou",
@@ -38914,7 +38882,7 @@
     "rain_mm": 50.44,
     "soil_moisture": 0.635,
     "raw_dynamic_score": 7.984,
-    "last_updated": "2026-09-15T02:53:02.917722Z",
+    "last_updated": "2026-09-15T18:50:58.360879Z",
     "last_tweeted_at": "2026-09-14T15:42:05.639896Z",
     "tweet_id": "2099525380155797713",
     "resolved": false
@@ -39049,7 +39017,7 @@
     "rain_mm": 73.31,
     "soil_moisture": 0.657,
     "raw_dynamic_score": 11.751,
-    "last_updated": "2026-09-15T08:26:54.560304Z",
+    "last_updated": "2026-09-15T18:50:58.360879Z",
     "last_tweeted_at": "2026-09-15T08:26:54.560304Z",
     "tweet_id": "2099776997245202833",
     "resolved": false
@@ -39097,6 +39065,21 @@
     "last_updated": "2026-09-15T14:38:18.421861Z",
     "last_tweeted_at": "2026-09-15T08:26:54.560304Z",
     "tweet_id": "2099778009074909375",
+    "resolved": false
+  },
+  "9.3674,-83.6971": {
+    "country": "Costa Rica",
+    "name": "San Isidro",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 9.3674,
+    "longitude": -83.69713,
+    "rain_mm": 47.44,
+    "soil_moisture": 0.676,
+    "raw_dynamic_score": 7.686,
+    "last_updated": "2026-09-15T18:50:58.360879Z",
+    "last_tweeted_at": "2026-09-15T18:50:58.360879Z",
+    "tweet_id": "2099934052870393944",
     "resolved": false
   }
 }
