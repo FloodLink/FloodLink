@@ -19267,5 +19267,14 @@
         "tweet": "\ud83c\uddf3\ud83c\uddf1 The Netherlands maintains 3,700 km of primary dikes and levees protecting 9 million residents in areas below sea level.",
         "type": "infrastructure",
         "tweet_id": "2099741042325016870"
+    },
+    {
+        "link": null,
+        "date": "2026-09-15",
+        "status": "posted",
+        "tweet": "By 2030, extreme rainfall is projected to expose 850 million residents of dense cities to annual pluvial flooding, up 45% from 2020 levels.",
+        "type": "statistical",
+        "category": "pluvial (surface) flooding in dense cities",
+        "tweet_id": "2099834018959397230"
     }
 ]
