@@ -18709,5 +18709,289 @@
         "score": 5,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNUkwtZ1VmZ1o0MW1VREQzOVRtMU9mZHBDM19HV0RkYUpqbXF2VTdvOGxCNlVNYVpqTG5iaXg1Tnd3YkhZSzJNdzV5YkRQUlE0Y3lCcFdXZTAzYW1JcjNBdG42S0hfRzhtbEhOakFHUzYxNTIxVWJaZmVQdDVVYTJRVUpEdEk3UzBEc1p3Z2g4VQ?oc=5",
+        "date": "2026-09-16",
+        "title": "Flash flood warning in effect for parts of the Kansas City metro area until 1 a.m. - KMBC",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxNUkwtZ1VmZ1o0MW1VREQzOVRtMU9mZHBDM19HV0RkYUpqbXF2VTdvOGxCNlVNYVpqTG5iaXg1Tnd3YkhZSzJNdzV5YkRQUlE0Y3lCcFdXZTAzYW1JcjNBdG42S0hfRzhtbEhOakFHUzYxNTIxVWJaZmVQdDVVYTJRVUpEdEk3UzBEc1p3Z2g4VQ?oc=5\" target=\"_blank\">Flash flood warning in effect for parts of the Kansas City metro area until 1 a.m.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KMBC</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9GNU4wY1ByQmZGT21uMmREQWZ2UnJ4YmJ2MS1td0dlcWhUVVdHbmZydkpIZFVhYUVGalhleHNrUFQwTG1YRUtEVUwzMEQ5cDRPVXRydUZ2NmhwNDJJR3dmbGNfblpJcl9fV3NRLUZZT1Vod2Rs?oc=5",
+        "date": "2026-09-16",
+        "title": "Update: Flash flood warning affecting the Kansas City area until 1 a.m. Wednesday - Kansas City Star",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE9GNU4wY1ByQmZGT21uMmREQWZ2UnJ4YmJ2MS1td0dlcWhUVVdHbmZydkpIZFVhYUVGalhleHNrUFQwTG1YRUtEVUwzMEQ5cDRPVXRydUZ2NmhwNDJJR3dmbGNfblpJcl9fV3NRLUZZT1Vod2Rs?oc=5\" target=\"_blank\">Update: Flash flood warning affecting the Kansas City area until 1 a.m. Wednesday</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Kansas City Star</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNM1BHM0ZXVFBLWkpQNEZnUWh5Y292SnplSWFUTGZpdHFKSGFBcXRpNzlqY0Z1OWx4ZFMxLVNIRXRiOUZac3ExaC1VaGRUaWlfb0h5Z09ObUVNVUdya3Z5a04yN0lyU2ZTbHU4VVNJMVJPTk5SSC1ZcGlfa1JhUzFxMF8wNllaYkdWOGpKMzVxVHFXQnZvRWJ1T3Nyb0F6ai1DMUlYVkJpVGxaR0N4UHlfSUdWYTVuTm5QMkFITUNfODEwQkRZLUo2VFFJMVBnc3pBbE9iRHBwdkRjdlhXWnZGeXNBUERtRzBxYUFFSjJOQWlTUEVYNXF6MHQ4bENsYWc?oc=5",
+        "date": "2026-09-16",
+        "title": "Flood Warning issued September 15 at 10:44PM CDT until September 19 at 4:00AM CDT by NWS Kansas City/Pleasant Hill MO - KQ2",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_wFBVV95cUxNM1BHM0ZXVFBLWkpQNEZnUWh5Y292SnplSWFUTGZpdHFKSGFBcXRpNzlqY0Z1OWx4ZFMxLVNIRXRiOUZac3ExaC1VaGRUaWlfb0h5Z09ObUVNVUdya3Z5a04yN0lyU2ZTbHU4VVNJMVJPTk5SSC1ZcGlfa1JhUzFxMF8wNllaYkdWOGpKMzVxVHFXQnZvRWJ1T3Nyb0F6ai1DMUlYVkJpVGxaR0N4UHlfSUdWYTVuTm5QMkFITUNfODEwQkRZLUo2VFFJMVBnc3pBbE9iRHBwdkRjdlhXWnZGeXNBUERtRzBxYUFFSjJOQWlTUEVYNXF6MHQ4bENsYWc?oc=5\" target=\"_blank\">Flood Warning issued September 15 at 10:44PM CDT until September 19 at 4:00AM CDT by NWS Kansas City/Pleasant Hill MO</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KQ2</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": null,
+        "tweet_id": "2100115635581956380",
+        "geo": {
+            "country": "United States",
+            "name": "Kansas City, Missouri",
+            "latitude": 39.0997,
+            "longitude": -94.5786,
+            "confidence": 0.75
+        }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1tb0cwNDUtdmVPTVhZbTl6ajJkTlo3M2RTNXd6bmRWUmVWQ09oNllQRkxlRmZKQ1FNNC1BaThydXFwMXZTd2JYNGlyY0xiY0xSak1MLTE5aHZaWTFmLTN3YzJUWGp3YzZDdTBDWDlMdWtwTmNZ?oc=5",
+        "date": "2026-09-16",
+        "title": "Platte County placed under a flood warning from Friday to Monday, says the NWS - Kansas City Star",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE1tb0cwNDUtdmVPTVhZbTl6ajJkTlo3M2RTNXd6bmRWUmVWQ09oNllQRkxlRmZKQ1FNNC1BaThydXFwMXZTd2JYNGlyY0xiY0xSak1MLTE5aHZaWTFmLTN3YzJUWGp3YzZDdTBDWDlMdWtwTmNZ?oc=5\" target=\"_blank\">Platte County placed under a flood warning from Friday to Monday, says the NWS</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Kansas City Star</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9aaW5mYXhDczJRcjYzalVVc3MtcU05LWl0Mzl1Q2d2VzFXb05KRlBVRGZCV245ODlTclppSFB6amRfUGR6VkJRVmNUZU9odzQ2SmQzMFdWNlRMQzlwMnk3Y05GampjMGlTZzF5aGQ2ZHpQbmZM?oc=5",
+        "date": "2026-09-16",
+        "title": "Flood warning for Platte County from Friday to Monday, says the NWS - Kansas City Star",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE9aaW5mYXhDczJRcjYzalVVc3MtcU05LWl0Mzl1Q2d2VzFXb05KRlBVRGZCV245ODlTclppSFB6amRfUGR6VkJRVmNUZU9odzQ2SmQzMFdWNlRMQzlwMnk3Y05GampjMGlTZzF5aGQ2ZHpQbmZM?oc=5\" target=\"_blank\">Flood warning for Platte County from Friday to Monday, says the NWS</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Kansas City Star</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNdWZiaTV6b0l1NmNrd08xMWxVX2pUaklMOXJleHRQM1hSWjVkYUQyWHJtb2VDWktRODFZa2YtNTlUY0xLOXBQbGprbUdONnBhLXZpb1E3bkdEV3RQaXIzX1VuczRYYTU3elZMMFpBc2NyOEFBY2x5bmc2OHhhc3ROSk5oOGxtZGMycExHWnA3aHh3VjQ?oc=5",
+        "date": "2026-09-16",
+        "title": "Human remains found in Arizona after deadly Grand Canyon flash floods - The Guardian",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNdWZiaTV6b0l1NmNrd08xMWxVX2pUaklMOXJleHRQM1hSWjVkYUQyWHJtb2VDWktRODFZa2YtNTlUY0xLOXBQbGprbUdONnBhLXZpb1E3bkdEV3RQaXIzX1VuczRYYTU3elZMMFpBc2NyOEFBY2x5bmc2OHhhc3ROSk5oOGxtZGMycExHWnA3aHh3VjQ?oc=5\" target=\"_blank\">Human remains found in Arizona after deadly Grand Canyon flash floods</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNm94V3ZkN0pPcUdWb3dzTld0bDlvbzBBazgyOUozRXlVbVU1XzA0UG1YOE1aYnJiaUhSbGtZcFB6QU1BUGNRek1jeTNyOTQydjI5T1ZLV3p5blJfVjNiQjJ1eFZia3UyN1hRcE9Ka2I3RF9kenltc2ZWV3AzSmMxM3M3VzE2SHI0UW5wOXJ2V0hHbm5ubGdKUlNBR3YtZ083LU82VWpFRzFyNDTSAbABQVVfeXFMTzJaQi02czRUenJFNFJwRk8xbUdwSG4yQzZCUmRNSWZOZ0lnVkV6Z2tYdnBKUWxkbGNBdjZ3c3JUcThMazhzVnQ3Q0l2Q0V1a1VHWmtseUViaFlwbUhhLUVEb201bk1PYS1zV1MzdGVTWmhxaDRfNGVOVS1tLWtoekExUlZpQ08tT0VJZzRQQVBaTDNqNHdmd0NrNVdZTVFES05Mbk9iTzJfWmJyS2oybXQ?oc=5",
+        "date": "2026-09-16",
+        "title": "Dragon Bravo fire leaves lasting mark on Arizona - FOX 10 Phoenix",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNm94V3ZkN0pPcUdWb3dzTld0bDlvbzBBazgyOUozRXlVbVU1XzA0UG1YOE1aYnJiaUhSbGtZcFB6QU1BUGNRek1jeTNyOTQydjI5T1ZLV3p5blJfVjNiQjJ1eFZia3UyN1hRcE9Ka2I3RF9kenltc2ZWV3AzSmMxM3M3VzE2SHI0UW5wOXJ2V0hHbm5ubGdKUlNBR3YtZ083LU82VWpFRzFyNDTSAbABQVVfeXFMTzJaQi02czRUenJFNFJwRk8xbUdwSG4yQzZCUmRNSWZOZ0lnVkV6Z2tYdnBKUWxkbGNBdjZ3c3JUcThMazhzVnQ3Q0l2Q0V1a1VHWmtseUViaFlwbUhhLUVEb201bk1PYS1zV1MzdGVTWmhxaDRfNGVOVS1tLWtoekExUlZpQ08tT0VJZzRQQVBaTDNqNHdmd0NrNVdZTVFES05Mbk9iTzJfWmJyS2oybXQ?oc=5\" target=\"_blank\">Dragon Bravo fire leaves lasting mark on Arizona</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FOX 10 Phoenix</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPYVk2ZWlKbFlYSkNmdEpqX3g1bnBuR29lUG9WaFJBUUdXZmloRHJvQ3dCUkU4MmNDRjRnVjFkM1NWM1VLekI1akhMMVcwV0Q3ekRLbWNiVG1ZZkx4U3d6LUFHYzdaQnktVjdJbUVuUkJ3TjlvU0ZpRW95Z3RJZGk1UUswc1hkRkFsWVlSUUprMTkzQWVUcDhEZml0Q1QtNUZ3UWUw?oc=5",
+        "date": "2026-09-16",
+        "title": "Counties provide flood siren updates one year after new state requirements - KEYE",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPYVk2ZWlKbFlYSkNmdEpqX3g1bnBuR29lUG9WaFJBUUdXZmloRHJvQ3dCUkU4MmNDRjRnVjFkM1NWM1VLekI1akhMMVcwV0Q3ekRLbWNiVG1ZZkx4U3d6LUFHYzdaQnktVjdJbUVuUkJ3TjlvU0ZpRW95Z3RJZGk1UUswc1hkRkFsWVlSUUprMTkzQWVUcDhEZml0Q1QtNUZ3UWUw?oc=5\" target=\"_blank\">Counties provide flood siren updates one year after new state requirements</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KEYE</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZFk2aGxZblhpRjVxUElmaWhldXJHeVRFLU9CN3NBWTVnY3FYMVIwMlh0cjFtUDlqRGlXWDBaSElzUG1VLUo1MldmZW5JRTJNRUdJZGdPQWdjLUxYbzVNb2VxU2tEN1BwaE9ibUJNRHM2Zmw0eU1KbkZJc2F1THVLOUpSR0lPZ2lZWVNjYg?oc=5",
+        "date": "2026-09-16",
+        "title": "Question of the Day: Do you think AI is a threat? - KQ2",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQZFk2aGxZblhpRjVxUElmaWhldXJHeVRFLU9CN3NBWTVnY3FYMVIwMlh0cjFtUDlqRGlXWDBaSElzUG1VLUo1MldmZW5JRTJNRUdJZGdPQWdjLUxYbzVNb2VxU2tEN1BwaE9ibUJNRHM2Zmw0eU1KbkZJc2F1THVLOUpSR0lPZ2lZWVNjYg?oc=5\" target=\"_blank\">Question of the Day: Do you think AI is a threat?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KQ2</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPQUxMSFpUMG9hcWFXcWs3Y2pVMXo2WDRKanlBUEpDRnBOZkIySUx1QmVxTXRDS0RWa3ZUelRFaWx4eGZYbGNWZVZIelp4WDB2ajI0Y2t6ZExNeHJWYmx4bTUyWUZ0X3lDSjlEeE1mc2FGb3pUZGtQaVhnZDJaSFJtNlB3?oc=5",
+        "date": "2026-09-16",
+        "title": "Flood bond initiative: Investing in flood control - St Pete Catalyst",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxPQUxMSFpUMG9hcWFXcWs3Y2pVMXo2WDRKanlBUEpDRnBOZkIySUx1QmVxTXRDS0RWa3ZUelRFaWx4eGZYbGNWZVZIelp4WDB2ajI0Y2t6ZExNeHJWYmx4bTUyWUZ0X3lDSjlEeE1mc2FGb3pUZGtQaVhnZDJaSFJtNlB3?oc=5\" target=\"_blank\">Flood bond initiative: Investing in flood control</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">St Pete Catalyst</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUjhFRDFpOWs4TWhTQlhIOW1wWVY3emNKQnc1M0ZLYWRQajRPcWd5NjZwOUJzcERXUjJWMl9DR282cGNCN2N6UkdFalctM0JhVUFjZnY5ZmV0d1N2Y3RuNDNReDNXcVpHS1lKNFBlNkRTdWFqV2JuV25mR3lmU29tQmcyQzhjRG8ydDZYVG01dUpTRHFRMXRHeXh3R0dvTFhxYmpyZWVfOVVCcXlCbEFvZzhHQnFRZw?oc=5",
+        "date": "2026-09-16",
+        "title": "IMD flags flash flood risk in Kutch, says Delhi monsoon withdrawal set to be delayed - CNBC TV18 - LinkedIn",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNUjhFRDFpOWs4TWhTQlhIOW1wWVY3emNKQnc1M0ZLYWRQajRPcWd5NjZwOUJzcERXUjJWMl9DR282cGNCN2N6UkdFalctM0JhVUFjZnY5ZmV0d1N2Y3RuNDNReDNXcVpHS1lKNFBlNkRTdWFqV2JuV25mR3lmU29tQmcyQzhjRG8ydDZYVG01dUpTRHFRMXRHeXh3R0dvTFhxYmpyZWVfOVVCcXlCbEFvZzhHQnFRZw?oc=5\" target=\"_blank\">IMD flags flash flood risk in Kutch, says Delhi monsoon withdrawal set to be delayed - CNBC TV18</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">LinkedIn</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQN3NxVDU4dmo1di1WMWljYy0tN21Tb0ZDQks3NUMyREhHd252aUFwbERlb25BWTVSTjB5emxYMXRCdFpxTHZVMFdfX3hsaW9DSFpGaklQbkpsRFRBZVRseUc4ME4wNkdqLTBKS1E0RzNlWFViMnpncEhkWXVWTmdFTVZUTTdiNDlESDMwb2VGa0t2SUpjSVhMeTFTSG5lQ1FRakR1VmRyekxic2o3Qk1XZHQ0SFlORnPSAbwBQVVfeXFMT2g5a0VOVDlmQVFkX2gyeVNmeG5Ja1dmOHB4d1VKdjdlYnhYcUFCbE9iM0g0SEtBWG5qU2E2emhDQnBHeXYzVFJUUi1LcHVjYVFUZy1QS0t6aEE1eElBSVdZblFJZV81anJURm5fV2VBb3NqdmY3MEdFOFpvSGFNM3l5REI0NVRsMHY4cjR1a3RqQ0FLamUzVENaT0RGTjR4RlZFVVBLWHpZeXo5ZXBucS1EU2MxUm9acTUxSGo?oc=5",
+        "date": "2026-09-16",
+        "title": "IMD flags flash flood risk in Kutch, says Delhi monsoon withdrawal set to be delayed - CNBC TV18",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQN3NxVDU4dmo1di1WMWljYy0tN21Tb0ZDQks3NUMyREhHd252aUFwbERlb25BWTVSTjB5emxYMXRCdFpxTHZVMFdfX3hsaW9DSFpGaklQbkpsRFRBZVRseUc4ME4wNkdqLTBKS1E0RzNlWFViMnpncEhkWXVWTmdFTVZUTTdiNDlESDMwb2VGa0t2SUpjSVhMeTFTSG5lQ1FRakR1VmRyekxic2o3Qk1XZHQ0SFlORnPSAbwBQVVfeXFMT2g5a0VOVDlmQVFkX2gyeVNmeG5Ja1dmOHB4d1VKdjdlYnhYcUFCbE9iM0g0SEtBWG5qU2E2emhDQnBHeXYzVFJUUi1LcHVjYVFUZy1QS0t6aEE1eElBSVdZblFJZV81anJURm5fV2VBb3NqdmY3MEdFOFpvSGFNM3l5REI0NVRsMHY4cjR1a3RqQ0FLamUzVENaT0RGTjR4RlZFVVBLWHpZeXo5ZXBucS1EU2MxUm9acTUxSGo?oc=5\" target=\"_blank\">IMD flags flash flood risk in Kutch, says Delhi monsoon withdrawal set to be delayed</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC TV18</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": null,
+        "tweet_id": "2100116176198307898",
+        "geo": {
+            "country": "India",
+            "name": "Kutch, Gujarat",
+            "latitude": 23.25,
+            "longitude": 69.67,
+            "confidence": 0.9
+        }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPU2w0SUszcGJSQlJwaUhsWTFRb1BKS2ZuQUZvbjR0aGlnREVYMVRYbk1uM3RUZFNrMnloNHpUb1ZEM2VrVl8yU2FZUE90T1JJaHY5R0ZDNEptZ3UtSzR5aktrdmYzR19xOEwwSFpQc1JGRzhBak1aRjFEZ21fNGhpZnhObVcxOF9sc0tadm9JaVR2eGdJTTJodER1aUxHWEVha2ZLVkhhOA?oc=5",
+        "date": "2026-09-16",
+        "title": "Flood control district preparing for Wednesday's Valley monsoon storms - WTVA",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPU2w0SUszcGJSQlJwaUhsWTFRb1BKS2ZuQUZvbjR0aGlnREVYMVRYbk1uM3RUZFNrMnloNHpUb1ZEM2VrVl8yU2FZUE90T1JJaHY5R0ZDNEptZ3UtSzR5aktrdmYzR19xOEwwSFpQc1JGRzhBak1aRjFEZ21fNGhpZnhObVcxOF9sc0tadm9JaVR2eGdJTTJodER1aUxHWEVha2ZLVkhhOA?oc=5\" target=\"_blank\">Flood control district preparing for Wednesday's Valley monsoon storms</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WTVA</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPQ0w3VWRWNzFaV0FybmVsTGZXQTBqTk9TSEtmdXBZbFFNZUlNUDZmbWdmNHBST3BGMmFJc20ya3ZPSEJELVZXdWV0S25UV3FCMkpDRzBhZUpzdjNsLXlkWWRhc3VwTGlYemFzNjFZQTVXTTNvRUF5UVNBQW1RbUwyTEZpbkp0d2pXYkQ2WDBNZlVxcHNpRXJBdDFXQ2hpQ2k4OXN1TkEyMTZfajE0YWNBNDE4NU83Vkg5MzlfUFJpV3VPTTU5Rm4wU2ZZT1dSWGRjUDhTNkllcGx0LUNNUXFNU2xReC1HR2p5cGRWSVY1c0RLaU5RMFZMV1pxczJ5Mk9DVlZzXzAxd3NJX2dmU1VR?oc=5",
+        "date": "2026-09-16",
+        "title": "DSWD DROMIC Report #89 on the Combined Effects of Enhanced Southwest Monsoon and Tropical Cyclones \u201cLuis\u201d, \u201cMaymay\u201d, \u201cNeneng\u201d, and \u201cPilandok\u201d as of 15 September 2026, 6PM - ReliefWeb",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwJBVV95cUxPQ0w3VWRWNzFaV0FybmVsTGZXQTBqTk9TSEtmdXBZbFFNZUlNUDZmbWdmNHBST3BGMmFJc20ya3ZPSEJELVZXdWV0S25UV3FCMkpDRzBhZUpzdjNsLXlkWWRhc3VwTGlYemFzNjFZQTVXTTNvRUF5UVNBQW1RbUwyTEZpbkp0d2pXYkQ2WDBNZlVxcHNpRXJBdDFXQ2hpQ2k4OXN1TkEyMTZfajE0YWNBNDE4NU83Vkg5MzlfUFJpV3VPTTU5Rm4wU2ZZT1dSWGRjUDhTNkllcGx0LUNNUXFNU2xReC1HR2p5cGRWSVY1c0RLaU5RMFZMV1pxczJ5Mk9DVlZzXzAxd3NJX2dmU1VR?oc=5\" target=\"_blank\">DSWD DROMIC Report #89 on the Combined Effects of Enhanced Southwest Monsoon and Tropical Cyclones \u201cLuis\u201d, \u201cMaymay\u201d, \u201cNeneng\u201d, and \u201cPilandok\u201d as of 15 September 2026, 6PM</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ReliefWeb</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1qWTRrdFJXRnlBRWx6UjVmOHdJal9MTFpaaHlrSWNpbW0wcTcxRy1sSUFLbGNhVkZ5Z1dXaE9IN1hqSjlWRHl2UllFdjA1dThUVHdvX3ZYenNIb0p3dGxxUllucw?oc=5",
+        "date": "2026-09-16",
+        "title": "Southwest flood risk grows as heat dome locks in monsoon - FOX Weather",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE1qWTRrdFJXRnlBRWx6UjVmOHdJal9MTFpaaHlrSWNpbW0wcTcxRy1sSUFLbGNhVkZ5Z1dXaE9IN1hqSjlWRHl2UllFdjA1dThUVHdvX3ZYenNIb0p3dGxxUllucw?oc=5\" target=\"_blank\">Southwest flood risk grows as heat dome locks in monsoon</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FOX Weather</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOVFdJRU5XUEpiU2NoejZaMTFveFFhTXktSDJxN2U0UHNqXzBLdmVQMUtEa3FCYkdxb08zTDhBVndrOWJYVnZDQ1FjM0RkZk5QQ2dQZnJ4b0FnQ0ZhYlZEQVVwY2dhd1ZFUmFWaDVUWXRKejhZdm8zVGNaMWdKZU5DTXBQcFJ1Z2s?oc=5",
+        "date": "2026-09-16",
+        "title": "Massive heat dome locks in monsoon flooding over Arizona and New Mexico - Yahoo",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxOVFdJRU5XUEpiU2NoejZaMTFveFFhTXktSDJxN2U0UHNqXzBLdmVQMUtEa3FCYkdxb08zTDhBVndrOWJYVnZDQ1FjM0RkZk5QQ2dQZnJ4b0FnQ0ZhYlZEQVVwY2dhd1ZFUmFWaDVUWXRKejhZdm8zVGNaMWdKZU5DTXBQcFJ1Z2s?oc=5\" target=\"_blank\">Massive heat dome locks in monsoon flooding over Arizona and New Mexico</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQc0hmN0FTR2MwcTBPaHZkbnZ2eEZ5aE1ZcXp5eTlFOElBbmVxTDZWZ0l3dFprWHBfOTQtbTI1d1pTbFIwVF9fNE05aDk1UnZYTkFPQlBLUzFTcjFpdmIyQldqYW5RUVJBVjJHY1NWR0V3WmJjeTFHSVFOSEhrZG9BSEVLSWU3cURpU3g5bUNSZWJEU3ZyZjlfbURIQ2o3VGFKTFYyWC1BUQ?oc=5",
+        "date": "2026-09-16",
+        "title": "Flood control district preparing for Wednesday's Valley monsoon storms - KCRG",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQc0hmN0FTR2MwcTBPaHZkbnZ2eEZ5aE1ZcXp5eTlFOElBbmVxTDZWZ0l3dFprWHBfOTQtbTI1d1pTbFIwVF9fNE05aDk1UnZYTkFPQlBLUzFTcjFpdmIyQldqYW5RUVJBVjJHY1NWR0V3WmJjeTFHSVFOSEhrZG9BSEVLSWU3cURpU3g5bUNSZWJEU3ZyZjlfbURIQ2o3VGFKTFYyWC1BUQ?oc=5\" target=\"_blank\">Flood control district preparing for Wednesday's Valley monsoon storms</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KCRG</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQODd4M2VtbVM0aUtmbDVHX0o1RTVtaXdKNi14aUpTN2xaQldLYkVycmtNVUgzSWJXMUZsZm1PT0J4aDNNWVppNjZybGFjZVhLVTBDcG5FRVVENUJMT2I0bmE0U050amZwUklwN2k1NVJIY0NGU0pxY2NlVEhvUThCMkxtaVlYaEdrdFVISDF1NXhxTkJzRGE2UjZUbmlPT0V6MkZjUk9QUldfRndf?oc=5",
+        "date": "2026-09-16",
+        "title": "Flood control district preparing for Wednesday's Valley monsoon storms - AZ Family",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQODd4M2VtbVM0aUtmbDVHX0o1RTVtaXdKNi14aUpTN2xaQldLYkVycmtNVUgzSWJXMUZsZm1PT0J4aDNNWVppNjZybGFjZVhLVTBDcG5FRVVENUJMT2I0bmE0U050amZwUklwN2k1NVJIY0NGU0pxY2NlVEhvUThCMkxtaVlYaEdrdFVISDF1NXhxTkJzRGE2UjZUbmlPT0V6MkZjUk9QUldfRndf?oc=5\" target=\"_blank\">Flood control district preparing for Wednesday's Valley monsoon storms</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AZ Family</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTjZPZEdrWkpheFJzT1BkTUYwNE9felBSSkkyeVFQeFdVdU5rblI4TVVTbkNOWEt2Y3FRbHBobFBSVHJHcGk1SlNYRGVMaUZ5UzNvb2Y2amxDcWRvWjVrN1hDS0xLejU0QThndHd3U1h3N2xUMk9lUFNjX3J2V0dyLWZoS2ZpUzNaTUs3dU5UT3l4QzFOQlFSWWh3cUx2VlliSTJodFZXUQ?oc=5",
+        "date": "2026-09-16",
+        "title": "Flood control district preparing for Wednesday's Valley monsoon storms - WLOX",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxOTjZPZEdrWkpheFJzT1BkTUYwNE9felBSSkkyeVFQeFdVdU5rblI4TVVTbkNOWEt2Y3FRbHBobFBSVHJHcGk1SlNYRGVMaUZ5UzNvb2Y2amxDcWRvWjVrN1hDS0xLejU0QThndHd3U1h3N2xUMk9lUFNjX3J2V0dyLWZoS2ZpUzNaTUs3dU5UT3l4QzFOQlFSWWh3cUx2VlliSTJodFZXUQ?oc=5\" target=\"_blank\">Flood control district preparing for Wednesday's Valley monsoon storms</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WLOX</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNS09SNHZ5RkRtOWFYUzZON0FYdXFQUjFEdjZuS3VaT3hNdkVzd3hYS0FxY0d5NjJ4UlJDeEdLRGcwa2NJc0MwS3E1eUtWRXk5NkU1RWNoY1JHd3NMRmlXc0Z6S0hkQlpsb3l1S3Q1b0pCaEZkTHpwM2xnS3JvYUhIb1VOQlBObDUzbUFOd3ZldHg3N0IzZHNMMVhMbk9FRFZlS3FjbjZfaUt1dnY4Uk5fQi1Wbw?oc=5",
+        "date": "2026-09-16",
+        "title": "Flood control district preparing for Wednesday's Valley monsoon storms - hawaiinewsnow.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNS09SNHZ5RkRtOWFYUzZON0FYdXFQUjFEdjZuS3VaT3hNdkVzd3hYS0FxY0d5NjJ4UlJDeEdLRGcwa2NJc0MwS3E1eUtWRXk5NkU1RWNoY1JHd3NMRmlXc0Z6S0hkQlpsb3l1S3Q1b0pCaEZkTHpwM2xnS3JvYUhIb1VOQlBObDUzbUFOd3ZldHg3N0IzZHNMMVhMbk9FRFZlS3FjbjZfaUt1dnY4Uk5fQi1Wbw?oc=5\" target=\"_blank\">Flood control district preparing for Wednesday's Valley monsoon storms</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">hawaiinewsnow.com</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPT2tYd2hPdUU3TXlsYzljdl9UXzRZQURtTkRwc3g3cTl5LVg2TS0tT0dfUWVJYXMxdmdSNDJCU1VlbUo4MTBxYlZzU29uVWhVUDF3LTBlLW5MS1dYNVA3akdERXRIaEROTGpSXzRWMGJMYktHQllTREcxNk83UmctQjRiRmVlSzV5STUwWnRkNllpYV9rUl90bmRXRHhXNkc1Yk5SbVo3Zk1BelUyamwtOQ?oc=5",
+        "date": "2026-09-16",
+        "title": "Flood control district preparing for Wednesday's Valley monsoon storms - Cleveland 19 News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPT2tYd2hPdUU3TXlsYzljdl9UXzRZQURtTkRwc3g3cTl5LVg2TS0tT0dfUWVJYXMxdmdSNDJCU1VlbUo4MTBxYlZzU29uVWhVUDF3LTBlLW5MS1dYNVA3akdERXRIaEROTGpSXzRWMGJMYktHQllTREcxNk83UmctQjRiRmVlSzV5STUwWnRkNllpYV9rUl90bmRXRHhXNkc1Yk5SbVo3Zk1BelUyamwtOQ?oc=5\" target=\"_blank\">Flood control district preparing for Wednesday's Valley monsoon storms</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cleveland 19 News</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPV1ZvQjJQaVd3ek93RXFJZFlqNkkyVVV6YVM5WWczWlhIWjhxTndQYmdQTGtpRnJyZW9YbmFkcUx3TkJ0Skc5NkpHd1dFcG5HaDRnLUpoZFJhUk5VTGVBbkZ5WU9feXRQVEJGRmxXalBDU1VNRy1RSGdVNTQ2b3Z1YkpmOGZZb3k0MjJFYXNJQ0tQTjItR3dKUDljSW90MlN0SnJ4dHMzNlBJWHczSmd0cWd2dkFjTG9JN3ppNHUtQUNYRkhj?oc=5",
+        "date": "2026-09-16",
+        "title": "Floods and landslides hit parts of Aceh, killing one, injuring 13 - The Star",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxPV1ZvQjJQaVd3ek93RXFJZFlqNkkyVVV6YVM5WWczWlhIWjhxTndQYmdQTGtpRnJyZW9YbmFkcUx3TkJ0Skc5NkpHd1dFcG5HaDRnLUpoZFJhUk5VTGVBbkZ5WU9feXRQVEJGRmxXalBDU1VNRy1RSGdVNTQ2b3Z1YkpmOGZZb3k0MjJFYXNJQ0tQTjItR3dKUDljSW90MlN0SnJ4dHMzNlBJWHczSmd0cWd2dkFjTG9JN3ppNHUtQUNYRkhj?oc=5\" target=\"_blank\">Floods and landslides hit parts of Aceh, killing one, injuring 13</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Star</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcnl4cTh2OGlrT3dFMEhPbGFQZXU3azdxNHVwUDhTdVhUcE16dXlobVFQM3I3TnNWd05hUDBwY1RVc2xoYXVfRG1TX0NXVEh0ZFRHeHBFaXNMWExCaUJrU1pDRTRlTDBtNURzWDluRUNVQ0NLNTBETzUtT2U0MEtmMC1SUUJTc1JkbWZWZVJhaE1QQmFia1Bmek5VR25CbnozYWozQ1R2aXZWV00?oc=5",
+        "date": "2026-09-16",
+        "title": "Heavy rain causes landslides, cutting off many mountainous roads in Thanh Hoa - Laodong.vn",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcnl4cTh2OGlrT3dFMEhPbGFQZXU3azdxNHVwUDhTdVhUcE16dXlobVFQM3I3TnNWd05hUDBwY1RVc2xoYXVfRG1TX0NXVEh0ZFRHeHBFaXNMWExCaUJrU1pDRTRlTDBtNURzWDluRUNVQ0NLNTBETzUtT2U0MEtmMC1SUUJTc1JkbWZWZVJhaE1QQmFia1Bmek5VR25CbnozYWozQ1R2aXZWV00?oc=5\" target=\"_blank\">Heavy rain causes landslides, cutting off many mountainous roads in Thanh Hoa</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Laodong.vn</font>",
+        "similarity_excluded": "No",
+        "score": 3,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNM1BHM0ZXVFBLWkpQNEZnUWh5Y292SnplSWFUTGZpdHFKSGFBcXRpNzlqY0Z1OWx4ZFMxLVNIRXRiOUZac3ExaC1VaGRUaWlfb0h5Z09ObUVNVUdya3Z5a04yN0lyU2ZTbHU4VVNJMVJPTk5SSC1ZcGlfa1JhUzFxMF8wNllaYkdWOGpKMzVxVHFXQnZvRWJ1T3Nyb0F6ai1DMUlYVkJpVGxaR0N4UHlfSUdWYTVuTm5QMkFITUNfODEwQkRZLUo2VFFJMVBnc3pBbE9iRHBwdkRjdlhXWnZGeXNBUERtRzBxYUFFSjJOQWlTUEVYNXF6MHQ4bENsYWc?oc=5",
+        "date": "2026-09-16",
+        "title": "Flood Warning issued September 15 at 10:44PM CDT until September 19 at 4:00AM CDT by NWS Kansas City/Pleasant Hill MO - KQ2",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_wFBVV95cUxNM1BHM0ZXVFBLWkpQNEZnUWh5Y292SnplSWFUTGZpdHFKSGFBcXRpNzlqY0Z1OWx4ZFMxLVNIRXRiOUZac3ExaC1VaGRUaWlfb0h5Z09ObUVNVUdya3Z5a04yN0lyU2ZTbHU4VVNJMVJPTk5SSC1ZcGlfa1JhUzFxMF8wNllaYkdWOGpKMzVxVHFXQnZvRWJ1T3Nyb0F6ai1DMUlYVkJpVGxaR0N4UHlfSUdWYTVuTm5QMkFITUNfODEwQkRZLUo2VFFJMVBnc3pBbE9iRHBwdkRjdlhXWnZGeXNBUERtRzBxYUFFSjJOQWlTUEVYNXF6MHQ4bENsYWc?oc=5\" target=\"_blank\">Flood Warning issued September 15 at 10:44PM CDT until September 19 at 4:00AM CDT by NWS Kansas City/Pleasant Hill MO</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KQ2</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 FORECAST Kansas City MO: Flood warning in effect until September 19",
+        "type": "news",
+        "tweet_id": "2100115635581956380",
+        "geo": {
+            "country": "United States",
+            "name": "Kansas City, Missouri",
+            "latitude": 39.0997,
+            "longitude": -94.5786,
+            "confidence": 0.75
+        }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQN3NxVDU4dmo1di1WMWljYy0tN21Tb0ZDQks3NUMyREhHd252aUFwbERlb25BWTVSTjB5emxYMXRCdFpxTHZVMFdfX3hsaW9DSFpGaklQbkpsRFRBZVRseUc4ME4wNkdqLTBKS1E0RzNlWFViMnpncEhkWXVWTmdFTVZUTTdiNDlESDMwb2VGa0t2SUpjSVhMeTFTSG5lQ1FRakR1VmRyekxic2o3Qk1XZHQ0SFlORnPSAbwBQVVfeXFMT2g5a0VOVDlmQVFkX2gyeVNmeG5Ja1dmOHB4d1VKdjdlYnhYcUFCbE9iM0g0SEtBWG5qU2E2emhDQnBHeXYzVFJUUi1LcHVjYVFUZy1QS0t6aEE1eElBSVdZblFJZV81anJURm5fV2VBb3NqdmY3MEdFOFpvSGFNM3l5REI0NVRsMHY4cjR1a3RqQ0FLamUzVENaT0RGTjR4RlZFVVBLWHpZeXo5ZXBucS1EU2MxUm9acTUxSGo?oc=5",
+        "date": "2026-09-16",
+        "title": "IMD flags flash flood risk in Kutch, says Delhi monsoon withdrawal set to be delayed - CNBC TV18",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQN3NxVDU4dmo1di1WMWljYy0tN21Tb0ZDQks3NUMyREhHd252aUFwbERlb25BWTVSTjB5emxYMXRCdFpxTHZVMFdfX3hsaW9DSFpGaklQbkpsRFRBZVRseUc4ME4wNkdqLTBKS1E0RzNlWFViMnpncEhkWXVWTmdFTVZUTTdiNDlESDMwb2VGa0t2SUpjSVhMeTFTSG5lQ1FRakR1VmRyekxic2o3Qk1XZHQ0SFlORnPSAbwBQVVfeXFMT2g5a0VOVDlmQVFkX2gyeVNmeG5Ja1dmOHB4d1VKdjdlYnhYcUFCbE9iM0g0SEtBWG5qU2E2emhDQnBHeXYzVFJUUi1LcHVjYVFUZy1QS0t6aEE1eElBSVdZblFJZV81anJURm5fV2VBb3NqdmY3MEdFOFpvSGFNM3l5REI0NVRsMHY4cjR1a3RqQ0FLamUzVENaT0RGTjR4RlZFVVBLWHpZeXo5ZXBucS1EU2MxUm9acTUxSGo?oc=5\" target=\"_blank\">IMD flags flash flood risk in Kutch, says Delhi monsoon withdrawal set to be delayed</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC TV18</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "posted",
+        "tweet": "\ud83c\uddee\ud83c\uddf3 FORECAST Kutch: flash flood risk flagged by IMD amid heavy rains.",
+        "type": "news",
+        "tweet_id": "2100116176198307898",
+        "geo": {
+            "country": "India",
+            "name": "Kutch, Gujarat",
+            "latitude": 23.25,
+            "longitude": 69.67,
+            "confidence": 0.9
+        }
     }
 ]
