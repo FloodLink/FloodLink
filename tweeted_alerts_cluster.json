@@ -18670,7 +18670,7 @@
     "rain_mm": 63.19,
     "soil_moisture": 0.667,
     "raw_dynamic_score": 10.182,
-    "last_updated": "2026-09-15T23:31:41.715402Z",
+    "last_updated": "2026-09-16T02:48:28.973936Z",
     "last_tweeted_at": "2026-06-05T22:20:58.767487Z",
     "tweet_id": "2063024338496856406",
     "resolved": false
@@ -38879,7 +38879,7 @@
     "rain_mm": 50.44,
     "soil_moisture": 0.635,
     "raw_dynamic_score": 7.984,
-    "last_updated": "2026-09-15T18:50:58.360879Z",
+    "last_updated": "2026-09-16T02:48:28.973936Z",
     "last_tweeted_at": "2026-09-14T15:42:05.639896Z",
     "tweet_id": "2099525380155797713",
     "resolved": false
@@ -39090,7 +39090,7 @@
     "rain_mm": 51.0,
     "soil_moisture": 0.564,
     "raw_dynamic_score": 7.748,
-    "last_updated": "2026-09-15T23:31:41.715402Z",
+    "last_updated": "2026-09-16T02:48:28.973936Z",
     "last_tweeted_at": "2026-09-15T23:31:41.715402Z",
     "tweet_id": "2100004687428649116",
     "resolved": false
@@ -39105,9 +39105,39 @@
     "rain_mm": 44.75,
     "soil_moisture": 0.73,
     "raw_dynamic_score": 7.467,
-    "last_updated": "2026-09-15T23:31:41.715402Z",
+    "last_updated": "2026-09-16T02:48:28.973936Z",
     "last_tweeted_at": "2026-09-15T23:31:41.715402Z",
     "tweet_id": "2100004940206788723",
+    "resolved": false
+  },
+  "35.2476,140.3929": {
+    "country": "Japan",
+    "name": "Ōhara",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 35.24761,
+    "longitude": 140.39289,
+    "rain_mm": 43.06,
+    "soil_moisture": 1.0,
+    "raw_dynamic_score": 8.236,
+    "last_updated": "2026-09-16T02:48:28.973936Z",
+    "last_tweeted_at": "2026-09-16T02:48:28.973936Z",
+    "tweet_id": "2100054218308489706",
+    "resolved": false
+  },
+  "35.2300,140.4049": {
+    "country": "Japan",
+    "name": "Isumi",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 35.23005,
+    "longitude": 140.40492,
+    "rain_mm": 43.06,
+    "soil_moisture": 1.0,
+    "raw_dynamic_score": 8.236,
+    "last_updated": "2026-09-16T02:48:28.973936Z",
+    "last_tweeted_at": "2026-09-16T02:48:28.973936Z",
+    "tweet_id": "2100054218308489706",
     "resolved": false
   }
 }
