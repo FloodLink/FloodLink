@@ -19523,5 +19523,14 @@
             "longitude": -109.0514,
             "confidence": 0.9
         }
+    },
+    {
+        "link": null,
+        "date": "2026-09-16",
+        "status": "posted",
+        "tweet": "In 2020, 12 million people lived in US floodplains; by 2025 this rose to 14.5 million amid more frequent extreme rainfall. In contrast, the Netherlands held steady at 3.8 million.",
+        "type": "statistical",
+        "category": "population living in floodplains",
+        "tweet_id": "2100363403357475045"
     }
 ]
