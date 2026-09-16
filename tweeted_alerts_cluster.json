@@ -1479,7 +1479,7 @@
     "rain_mm": 41.94,
     "soil_moisture": 0.663,
     "raw_dynamic_score": 6.745,
-    "last_updated": "2026-09-16T18:47:06.263291Z",
+    "last_updated": "2026-09-16T23:39:18.592656Z",
     "last_tweeted_at": "2026-01-20T04:07:00.460383Z",
     "tweet_id": "2013463778503880911",
     "resolved": false
@@ -16005,22 +16005,6 @@
     "tweet_id": "2056353399562531284",
     "resolved": false
   },
-  "16.1086,102.2581": {
-    "country": "Thailand",
-    "name": "Kaeng Khro",
-    "risk_level": "Low",
-    "tweeted_level": "Low",
-    "latitude": 16.10864,
-    "longitude": 102.25808,
-    "rain_mm": 0.12,
-    "soil_moisture": 0.55,
-    "raw_dynamic_score": 0.019,
-    "last_updated": "2026-09-15T23:31:41.715402Z",
-    "last_tweeted_at": "2026-09-15T23:31:41.715402Z",
-    "tweet_id": "2100005192980721910",
-    "resolved": true,
-    "resolved_at": "2026-09-15T23:31:41.715402Z"
-  },
   "13.9833,108.0000": {
     "country": "Viet Nam",
     "name": "Pleiku",
@@ -28886,7 +28870,7 @@
     "rain_mm": 57.81,
     "soil_moisture": 0.592,
     "raw_dynamic_score": 8.925,
-    "last_updated": "2026-07-28T02:00:14.125708Z",
+    "last_updated": "2026-09-16T23:39:18.592656Z",
     "last_tweeted_at": "2026-07-27T22:09:54.431714Z",
     "tweet_id": "2081867245353865683",
     "resolved": false
@@ -38703,22 +38687,6 @@
     "tweet_id": "2099611223138426935",
     "resolved": false
   },
-  "15.8105,102.0288": {
-    "country": "Thailand",
-    "name": "Chaiyaphum",
-    "risk_level": "Low",
-    "tweeted_level": "Low",
-    "latitude": 15.81047,
-    "longitude": 102.02881,
-    "rain_mm": 0.38,
-    "soil_moisture": 0.537,
-    "raw_dynamic_score": 0.056,
-    "last_updated": "2026-09-15T23:31:41.715402Z",
-    "last_tweeted_at": "2026-09-15T23:31:41.715402Z",
-    "tweet_id": "2100005192980721910",
-    "resolved": true,
-    "resolved_at": "2026-09-15T23:31:41.715402Z"
-  },
   "13.6928,102.5013": {
     "country": "Thailand",
     "name": "Aranyaprathet",
@@ -39007,7 +38975,7 @@
     "rain_mm": 41.56,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 7.949,
-    "last_updated": "2026-09-16T18:47:06.263291Z",
+    "last_updated": "2026-09-16T23:39:18.592656Z",
     "last_tweeted_at": "2026-09-16T18:47:06.263291Z",
     "tweet_id": "2100295470312489434",
     "resolved": false
@@ -39052,7 +39020,7 @@
     "rain_mm": 52.75,
     "soil_moisture": 0.528,
     "raw_dynamic_score": 7.839,
-    "last_updated": "2026-09-16T18:47:06.263291Z",
+    "last_updated": "2026-09-16T23:39:18.592656Z",
     "last_tweeted_at": "2026-09-16T18:47:06.263291Z",
     "tweet_id": "2100295722855776673",
     "resolved": false
@@ -39082,9 +39050,24 @@
     "rain_mm": 64.19,
     "soil_moisture": 0.725,
     "raw_dynamic_score": 10.68,
-    "last_updated": "2026-09-16T18:47:06.263291Z",
+    "last_updated": "2026-09-16T23:39:18.592656Z",
     "last_tweeted_at": "2026-09-16T18:47:06.263291Z",
     "tweet_id": "2100295975570915363",
+    "resolved": false
+  },
+  "9.5506,122.5164": {
+    "country": "Philippines",
+    "name": "Asia",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 9.5506,
+    "longitude": 122.5164,
+    "rain_mm": 37.69,
+    "soil_moisture": 1.0,
+    "raw_dynamic_score": 7.208,
+    "last_updated": "2026-09-16T23:39:18.592656Z",
+    "last_tweeted_at": "2026-09-16T23:39:18.592656Z",
+    "tweet_id": "2100368995148861704",
     "resolved": false
   }
 }
