@@ -32507,7 +32507,7 @@
     "rain_mm": 58.19,
     "soil_moisture": 0.509,
     "raw_dynamic_score": 8.548,
-    "last_updated": "2026-08-15T21:59:36.858738Z",
+    "last_updated": "2026-09-17T23:28:39.007889Z",
     "last_tweeted_at": "2026-08-15T18:50:06.938817Z",
     "tweet_id": "2088700314257903750",
     "resolved": false
@@ -33287,7 +33287,7 @@
     "rain_mm": 59.06,
     "soil_moisture": 0.536,
     "raw_dynamic_score": 8.818,
-    "last_updated": "2026-09-17T18:55:35.229141Z",
+    "last_updated": "2026-09-17T23:28:39.007889Z",
     "last_tweeted_at": "2026-08-19T16:23:43.311495Z",
     "tweet_id": "2090113007863140662",
     "resolved": false
@@ -38672,7 +38672,7 @@
     "rain_mm": 55.69,
     "soil_moisture": 0.647,
     "raw_dynamic_score": 8.873,
-    "last_updated": "2026-09-15T02:53:02.917722Z",
+    "last_updated": "2026-09-17T23:28:39.007889Z",
     "last_tweeted_at": "2026-09-15T02:53:02.917722Z",
     "tweet_id": "2099692986187583622",
     "resolved": false
@@ -39172,9 +39172,24 @@
     "rain_mm": 64.75,
     "soil_moisture": 0.601,
     "raw_dynamic_score": 10.049,
-    "last_updated": "2026-09-17T18:55:35.229141Z",
+    "last_updated": "2026-09-17T23:28:39.007889Z",
     "last_tweeted_at": "2026-09-17T18:55:35.229141Z",
     "tweet_id": "2100660243864682950",
+    "resolved": false
+  },
+  "6.6333,10.6667": {
+    "country": "Cameroon",
+    "name": "Nkambe",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 6.63333,
+    "longitude": 10.66667,
+    "rain_mm": 54.06,
+    "soil_moisture": 0.665,
+    "raw_dynamic_score": 8.702,
+    "last_updated": "2026-09-17T23:28:39.007889Z",
+    "last_tweeted_at": "2026-09-17T23:28:39.007889Z",
+    "tweet_id": "2100728689747214812",
     "resolved": false
   }
 }
