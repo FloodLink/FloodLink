@@ -15069,7 +15069,7 @@
     "rain_mm": 35.56,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 6.801,
-    "last_updated": "2026-07-01T22:24:49.333703Z",
+    "last_updated": "2026-09-17T18:55:35.229141Z",
     "last_tweeted_at": "2026-05-12T06:08:56.091765Z",
     "tweet_id": "2054081654184911249",
     "resolved": false
@@ -29199,7 +29199,7 @@
     "rain_mm": 49.12,
     "soil_moisture": 0.44,
     "raw_dynamic_score": 6.912,
-    "last_updated": "2026-07-28T22:19:07.742590Z",
+    "last_updated": "2026-09-17T18:55:35.229141Z",
     "last_tweeted_at": "2026-07-28T16:40:56.447779Z",
     "tweet_id": "2082145586019708960",
     "resolved": false
@@ -30174,10 +30174,18 @@
     "rain_mm": 76.56,
     "soil_moisture": 0.665,
     "raw_dynamic_score": 12.324,
-    "last_updated": "2026-09-17T14:11:42.683103Z",
+    "last_updated": "2026-09-17T18:55:35.229141Z",
     "last_tweeted_at": "2026-09-17T14:11:42.683103Z",
     "tweet_id": "2100589310151966947",
-    "resolved": false
+    "resolved": false,
+    "pending_downgrade": true,
+    "pending_target_level": "Low",
+    "pending_set_at": "2026-09-17T18:55:35.229141Z",
+    "pending_is_region": false,
+    "pending_observed_level": "Low",
+    "pending_observed_rain_mm": 34.94,
+    "pending_observed_soil_moisture": 0.644,
+    "pending_observed_raw_dynamic_score": 5.557
   },
   "29.6733,91.3453": {
     "country": "China",
@@ -33279,7 +33287,7 @@
     "rain_mm": 59.06,
     "soil_moisture": 0.536,
     "raw_dynamic_score": 8.818,
-    "last_updated": "2026-08-19T19:38:58.451409Z",
+    "last_updated": "2026-09-17T18:55:35.229141Z",
     "last_tweeted_at": "2026-08-19T16:23:43.311495Z",
     "tweet_id": "2090113007863140662",
     "resolved": false
@@ -39070,7 +39078,7 @@
     "rain_mm": 64.56,
     "soil_moisture": 0.741,
     "raw_dynamic_score": 10.838,
-    "last_updated": "2026-09-17T14:11:42.683103Z",
+    "last_updated": "2026-09-17T18:55:35.229141Z",
     "last_tweeted_at": "2026-09-17T14:11:42.683103Z",
     "tweet_id": "2100588551884657023",
     "resolved": false
@@ -39085,10 +39093,14 @@
     "rain_mm": 79.56,
     "soil_moisture": 0.672,
     "raw_dynamic_score": 12.863,
-    "last_updated": "2026-09-17T14:11:42.683103Z",
+    "last_updated": "2026-09-17T18:55:35.229141Z",
     "last_tweeted_at": "2026-09-17T14:11:42.683103Z",
     "tweet_id": "2100588804369227934",
-    "resolved": false
+    "resolved": false,
+    "pending_downgrade": true,
+    "pending_target_level": "Low",
+    "pending_set_at": "2026-09-17T18:55:35.229141Z",
+    "pending_is_region": true
   },
   "16.2805,101.9542": {
     "country": "Thailand",
@@ -39100,7 +39112,7 @@
     "rain_mm": 87.5,
     "soil_moisture": 0.685,
     "raw_dynamic_score": 14.245,
-    "last_updated": "2026-09-17T14:11:42.683103Z",
+    "last_updated": "2026-09-17T18:55:35.229141Z",
     "last_tweeted_at": "2026-09-17T14:11:42.683103Z",
     "tweet_id": "2100588804369227934",
     "resolved": false
@@ -39115,7 +39127,7 @@
     "rain_mm": 58.12,
     "soil_moisture": 0.714,
     "raw_dynamic_score": 9.613,
-    "last_updated": "2026-09-17T14:11:42.683103Z",
+    "last_updated": "2026-09-17T18:55:35.229141Z",
     "last_tweeted_at": "2026-09-17T14:11:42.683103Z",
     "tweet_id": "2100588804369227934",
     "resolved": false
@@ -39130,9 +39142,39 @@
     "rain_mm": 42.69,
     "soil_moisture": 0.67,
     "raw_dynamic_score": 6.892,
-    "last_updated": "2026-09-17T14:11:42.683103Z",
+    "last_updated": "2026-09-17T18:55:35.229141Z",
     "last_tweeted_at": "2026-09-17T14:11:42.683103Z",
     "tweet_id": "2100589057084412268",
+    "resolved": false
+  },
+  "9.9658,98.6348": {
+    "country": "Thailand",
+    "name": "Ranong",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 9.96583,
+    "longitude": 98.63476,
+    "rain_mm": 60.38,
+    "soil_moisture": 0.693,
+    "raw_dynamic_score": 9.872,
+    "last_updated": "2026-09-17T18:55:35.229141Z",
+    "last_tweeted_at": "2026-09-17T18:55:35.229141Z",
+    "tweet_id": "2100659991233310915",
+    "resolved": false
+  },
+  "17.6990,103.2596": {
+    "country": "Thailand",
+    "name": "Ban Dung",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 17.699,
+    "longitude": 103.25957,
+    "rain_mm": 64.75,
+    "soil_moisture": 0.601,
+    "raw_dynamic_score": 10.049,
+    "last_updated": "2026-09-17T18:55:35.229141Z",
+    "last_tweeted_at": "2026-09-17T18:55:35.229141Z",
+    "tweet_id": "2100660243864682950",
     "resolved": false
   }
 }
