@@ -19321,5 +19321,14 @@
             "longitude": -88.82,
             "confidence": 0.9
         }
+    },
+    {
+        "link": null,
+        "date": "2026-09-17",
+        "status": "posted",
+        "tweet": "By 2030, US dams, levees and reservoirs are projected to avert $85 billion in annual flood damages as extreme rainfall events intensify.",
+        "type": "statistical",
+        "category": "dams, levees and reservoirs used for flood control",
+        "tweet_id": "2100685075922768287"
     }
 ]
