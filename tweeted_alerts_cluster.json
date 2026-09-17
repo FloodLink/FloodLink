@@ -13994,22 +13994,6 @@
     "tweet_id": "2050924320147353819",
     "resolved": false
   },
-  "19.7333,105.9000": {
-    "country": "Viet Nam",
-    "name": "Sầm Sơn",
-    "risk_level": "Low",
-    "tweeted_level": "Low",
-    "latitude": 19.73333,
-    "longitude": 105.9,
-    "rain_mm": 2.88,
-    "soil_moisture": 1.0,
-    "raw_dynamic_score": 0.55,
-    "last_updated": "2026-09-16T08:20:27.692789Z",
-    "last_tweeted_at": "2026-09-16T08:20:27.692789Z",
-    "tweet_id": "2100138024021709131",
-    "resolved": true,
-    "resolved_at": "2026-09-16T08:20:27.692789Z"
-  },
   "20.9167,106.0833": {
     "country": "Viet Nam",
     "name": "Mỹ Hào",
@@ -28870,7 +28854,7 @@
     "rain_mm": 57.81,
     "soil_moisture": 0.592,
     "raw_dynamic_score": 8.925,
-    "last_updated": "2026-09-16T23:39:18.592656Z",
+    "last_updated": "2026-09-17T08:26:21.246218Z",
     "last_tweeted_at": "2026-07-27T22:09:54.431714Z",
     "tweet_id": "2081867245353865683",
     "resolved": false
@@ -38430,38 +38414,6 @@
     "tweet_id": "2099197331933470956",
     "resolved": false
   },
-  "19.8000,105.7667": {
-    "country": "Viet Nam",
-    "name": "Thanh Hóa",
-    "risk_level": "Low",
-    "tweeted_level": "Low",
-    "latitude": 19.8,
-    "longitude": 105.76667,
-    "rain_mm": 6.31,
-    "soil_moisture": 0.703,
-    "raw_dynamic_score": 1.038,
-    "last_updated": "2026-09-16T08:20:27.692789Z",
-    "last_tweeted_at": "2026-09-16T08:20:27.692789Z",
-    "tweet_id": "2100138024021709131",
-    "resolved": true,
-    "resolved_at": "2026-09-16T08:20:27.692789Z"
-  },
-  "20.0781,105.8603": {
-    "country": "Viet Nam",
-    "name": "Bỉm Sơn",
-    "risk_level": "Low",
-    "tweeted_level": "Low",
-    "latitude": 20.07806,
-    "longitude": 105.86028,
-    "rain_mm": 5.25,
-    "soil_moisture": 0.674,
-    "raw_dynamic_score": 0.849,
-    "last_updated": "2026-09-16T08:20:27.692789Z",
-    "last_tweeted_at": "2026-09-16T08:20:27.692789Z",
-    "tweet_id": "2100138024021709131",
-    "resolved": true,
-    "resolved_at": "2026-09-16T08:20:27.692789Z"
-  },
   "39.6941,140.9844": {
     "country": "Japan",
     "name": "Shizukuishi",
@@ -39068,6 +39020,51 @@
     "last_updated": "2026-09-17T02:47:04.970016Z",
     "last_tweeted_at": "2026-09-16T23:39:18.592656Z",
     "tweet_id": "2100368995148861704",
+    "resolved": false
+  },
+  "8.4660,-12.2146": {
+    "country": "Sierra Leone",
+    "name": "Mile 91",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 8.46596,
+    "longitude": -12.21457,
+    "rain_mm": 44.88,
+    "soil_moisture": 0.64,
+    "raw_dynamic_score": 7.122,
+    "last_updated": "2026-09-17T08:26:21.246218Z",
+    "last_tweeted_at": "2026-09-17T08:26:21.246218Z",
+    "tweet_id": "2100501638993637569",
+    "resolved": false
+  },
+  "15.5855,102.4259": {
+    "country": "Thailand",
+    "name": "Bua Yai",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 15.58552,
+    "longitude": 102.42587,
+    "rain_mm": 51.06,
+    "soil_moisture": 0.574,
+    "raw_dynamic_score": 7.802,
+    "last_updated": "2026-09-17T08:26:21.246218Z",
+    "last_tweeted_at": "2026-09-17T08:26:21.246218Z",
+    "tweet_id": "2100501891557843419",
+    "resolved": false
+  },
+  "-30.7414,30.4550": {
+    "country": "South Africa",
+    "name": "Port Shepstone",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": -30.74137,
+    "longitude": 30.45499,
+    "rain_mm": 39.0,
+    "soil_moisture": 1.0,
+    "raw_dynamic_score": 7.459,
+    "last_updated": "2026-09-17T08:26:21.246218Z",
+    "last_tweeted_at": "2026-09-17T08:26:21.246218Z",
+    "tweet_id": "2100502144117772638",
     "resolved": false
   }
 }
