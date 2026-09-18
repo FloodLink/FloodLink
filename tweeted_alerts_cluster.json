@@ -31930,7 +31930,7 @@
     "rain_mm": 34.31,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 6.562,
-    "last_updated": "2026-08-10T21:52:19.208512Z",
+    "last_updated": "2026-09-18T20:42:34.301729Z",
     "last_tweeted_at": "2026-08-10T21:52:19.208512Z",
     "tweet_id": "2086935234356883710",
     "resolved": false
@@ -39430,9 +39430,24 @@
     "rain_mm": 34.56,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 6.61,
-    "last_updated": "2026-09-18T18:12:43.142594Z",
+    "last_updated": "2026-09-18T20:42:34.301729Z",
     "last_tweeted_at": "2026-09-18T18:12:43.142594Z",
     "tweet_id": "2101012348773208251",
+    "resolved": false
+  },
+  "21.8514,-78.1172": {
+    "country": "Cuba",
+    "name": "Esmeralda",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 21.85139,
+    "longitude": -78.11725,
+    "rain_mm": 46.5,
+    "soil_moisture": 0.51,
+    "raw_dynamic_score": 6.834,
+    "last_updated": "2026-09-18T20:42:34.301729Z",
+    "last_tweeted_at": "2026-09-18T20:42:34.301729Z",
+    "tweet_id": "2101049302990864844",
     "resolved": false
   }
 }
