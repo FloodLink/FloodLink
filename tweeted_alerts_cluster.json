@@ -38672,7 +38672,7 @@
     "rain_mm": 55.69,
     "soil_moisture": 0.647,
     "raw_dynamic_score": 8.873,
-    "last_updated": "2026-09-17T23:28:39.007889Z",
+    "last_updated": "2026-09-18T02:37:59.714782Z",
     "last_tweeted_at": "2026-09-15T02:53:02.917722Z",
     "tweet_id": "2099692986187583622",
     "resolved": false
@@ -39157,7 +39157,7 @@
     "rain_mm": 60.38,
     "soil_moisture": 0.693,
     "raw_dynamic_score": 9.872,
-    "last_updated": "2026-09-17T18:55:35.229141Z",
+    "last_updated": "2026-09-18T02:37:59.714782Z",
     "last_tweeted_at": "2026-09-17T18:55:35.229141Z",
     "tweet_id": "2100659991233310915",
     "resolved": false
@@ -39187,9 +39187,24 @@
     "rain_mm": 54.06,
     "soil_moisture": 0.665,
     "raw_dynamic_score": 8.702,
-    "last_updated": "2026-09-17T23:28:39.007889Z",
+    "last_updated": "2026-09-18T02:37:59.714782Z",
     "last_tweeted_at": "2026-09-17T23:28:39.007889Z",
     "tweet_id": "2100728689747214812",
+    "resolved": false
+  },
+  "24.1352,74.0444": {
+    "country": "India",
+    "name": "Sālūmbar",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 24.13524,
+    "longitude": 74.04442,
+    "rain_mm": 50.75,
+    "soil_moisture": 0.575,
+    "raw_dynamic_score": 7.758,
+    "last_updated": "2026-09-18T02:37:59.714782Z",
+    "last_tweeted_at": "2026-09-18T02:37:59.714782Z",
+    "tweet_id": "2100776356241944778",
     "resolved": false
   }
 }
