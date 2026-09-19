@@ -17735,5 +17735,14 @@
             "longitude": -108.75,
             "confidence": 0.9
         }
+    },
+    {
+        "link": null,
+        "date": "2026-09-19",
+        "status": "posted",
+        "tweet": "Asia monsoon flood displacement averages (millions, 2022-2025):\n\n1. \ud83c\uddee\ud83c\uddf3 India: 8.2\n2. \ud83c\udde7\ud83c\udde9 Bangladesh: 6.5\n3. \ud83c\uddf5\ud83c\uddf0 Pakistan: 4.1\n4. \ud83c\uddfb\ud83c\uddf3 Vietnam: 2.3\n5. \ud83c\udde8\ud83c\uddf3 China: 1.9",
+        "type": "statistical",
+        "category": "monsoon flood patterns in Asia",
+        "tweet_id": "2101165961525231998"
     }
 ]
