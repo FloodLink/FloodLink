@@ -39449,5 +39449,35 @@
     "last_tweeted_at": "2026-09-18T20:42:34.301729Z",
     "tweet_id": "2101049302990864844",
     "resolved": false
+  },
+  "23.2931,92.8468": {
+    "country": "India",
+    "name": "Serchhīp",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 23.29312,
+    "longitude": 92.84679,
+    "rain_mm": 63.5,
+    "soil_moisture": 0.605,
+    "raw_dynamic_score": 9.878,
+    "last_updated": "2026-09-19T07:55:14.247361Z",
+    "last_tweeted_at": "2026-09-19T07:55:14.247361Z",
+    "tweet_id": "2101218589076586813",
+    "resolved": false
+  },
+  "42.5006,-90.6646": {
+    "country": "United States",
+    "name": "Dubuque",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 42.50056,
+    "longitude": -90.66457,
+    "rain_mm": 44.81,
+    "soil_moisture": 0.578,
+    "raw_dynamic_score": 6.863,
+    "last_updated": "2026-09-19T07:55:14.247361Z",
+    "last_tweeted_at": "2026-09-19T07:55:14.247361Z",
+    "tweet_id": "2101218841779146952",
+    "resolved": false
   }
 }
