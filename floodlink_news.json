@@ -17488,5 +17488,14 @@
         "score": 2,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-09-20",
+        "status": "posted",
+        "tweet": "US floodplain population grew from 13 million in 2020 to 14.8 million in 2025, driven by extreme rainfall and storm surge exposure in coastal zones.",
+        "type": "statistical",
+        "category": "population living in floodplains",
+        "tweet_id": "2101568482240549337"
     }
 ]
