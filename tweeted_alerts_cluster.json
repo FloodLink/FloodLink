@@ -17268,18 +17268,18 @@
     "rain_mm": 97.56,
     "soil_moisture": 0.693,
     "raw_dynamic_score": 15.952,
-    "last_updated": "2026-09-22T23:36:14.711309Z",
+    "last_updated": "2026-09-23T02:44:45.908446Z",
     "last_tweeted_at": "2026-09-22T08:19:33.836343Z",
     "tweet_id": "2102311869507674467",
     "resolved": false,
     "pending_downgrade": true,
     "pending_target_level": "Low",
-    "pending_set_at": "2026-09-22T14:00:42.184737Z",
+    "pending_set_at": "2026-09-23T02:44:45.908446Z",
     "pending_is_region": false,
     "pending_observed_level": "Low",
-    "pending_observed_rain_mm": 23.31,
-    "pending_observed_soil_moisture": 0.676,
-    "pending_observed_raw_dynamic_score": 3.775
+    "pending_observed_rain_mm": 24.88,
+    "pending_observed_soil_moisture": 0.662,
+    "pending_observed_raw_dynamic_score": 3.999
   },
   "6.2468,-10.3564": {
     "country": "Liberia",
@@ -31917,7 +31917,7 @@
     "rain_mm": 62.75,
     "soil_moisture": 0.701,
     "raw_dynamic_score": 10.306,
-    "last_updated": "2026-08-11T07:14:27.298654Z",
+    "last_updated": "2026-09-23T02:44:45.908446Z",
     "last_tweeted_at": "2026-08-11T04:35:07.027570Z",
     "tweet_id": "2087035592647331983",
     "resolved": false
@@ -33312,7 +33312,7 @@
     "rain_mm": 63.81,
     "soil_moisture": 0.619,
     "raw_dynamic_score": 10.011,
-    "last_updated": "2026-08-20T06:42:39.179895Z",
+    "last_updated": "2026-09-23T02:44:45.908446Z",
     "last_tweeted_at": "2026-08-20T03:52:53.154201Z",
     "tweet_id": "2090286964604027055",
     "resolved": false
@@ -37618,7 +37618,7 @@
     "rain_mm": 43.62,
     "soil_moisture": 0.603,
     "raw_dynamic_score": 6.778,
-    "last_updated": "2026-09-10T23:06:25.350611Z",
+    "last_updated": "2026-09-23T02:44:45.908446Z",
     "last_tweeted_at": "2026-09-10T20:41:54.134028Z",
     "tweet_id": "2098150025582809435",
     "resolved": false
@@ -38835,7 +38835,7 @@
     "rain_mm": 44.88,
     "soil_moisture": 0.64,
     "raw_dynamic_score": 7.122,
-    "last_updated": "2026-09-17T14:11:42.683103Z",
+    "last_updated": "2026-09-23T02:44:45.908446Z",
     "last_tweeted_at": "2026-09-17T08:26:21.246218Z",
     "tweet_id": "2100501638993637569",
     "resolved": false
@@ -42700,7 +42700,7 @@
     "rain_mm": 42.94,
     "soil_moisture": 0.659,
     "raw_dynamic_score": 6.891,
-    "last_updated": "2026-09-22T23:36:14.711309Z",
+    "last_updated": "2026-09-23T02:44:45.908446Z",
     "last_tweeted_at": "2026-09-22T23:36:14.711309Z",
     "tweet_id": "2102542807508422753",
     "resolved": false
@@ -42715,7 +42715,7 @@
     "rain_mm": 59.19,
     "soil_moisture": 0.639,
     "raw_dynamic_score": 9.388,
-    "last_updated": "2026-09-22T23:36:14.711309Z",
+    "last_updated": "2026-09-23T02:44:45.908446Z",
     "last_tweeted_at": "2026-09-22T23:36:14.711309Z",
     "tweet_id": "2102543060462637415",
     "resolved": false
@@ -42835,7 +42835,7 @@
     "rain_mm": 43.0,
     "soil_moisture": 0.664,
     "raw_dynamic_score": 6.918,
-    "last_updated": "2026-09-22T23:36:14.711309Z",
+    "last_updated": "2026-09-23T02:44:45.908446Z",
     "last_tweeted_at": "2026-09-22T23:36:14.711309Z",
     "tweet_id": "2102543313198817335",
     "resolved": false
@@ -42880,9 +42880,54 @@
     "rain_mm": 68.56,
     "soil_moisture": 0.731,
     "raw_dynamic_score": 11.449,
-    "last_updated": "2026-09-22T23:36:14.711309Z",
+    "last_updated": "2026-09-23T02:44:45.908446Z",
     "last_tweeted_at": "2026-09-22T23:36:14.711309Z",
     "tweet_id": "2102543819199688787",
+    "resolved": false
+  },
+  "44.6080,33.5213": {
+    "country": "Ukraine",
+    "name": "Sevastopol",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 44.60795,
+    "longitude": 33.52134,
+    "rain_mm": 48.88,
+    "soil_moisture": 1.0,
+    "raw_dynamic_score": 9.347,
+    "last_updated": "2026-09-23T02:44:45.908446Z",
+    "last_tweeted_at": "2026-09-23T02:44:45.908446Z",
+    "tweet_id": "2102589994862792816",
+    "resolved": false
+  },
+  "44.5112,33.5994": {
+    "country": "Ukraine",
+    "name": "Balaklava",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 44.51118,
+    "longitude": 33.59942,
+    "rain_mm": 48.88,
+    "soil_moisture": 1.0,
+    "raw_dynamic_score": 9.347,
+    "last_updated": "2026-09-23T02:44:45.908446Z",
+    "last_tweeted_at": "2026-09-23T02:44:45.908446Z",
+    "tweet_id": "2102589994862792816",
+    "resolved": false
+  },
+  "44.7552,33.8578": {
+    "country": "Ukraine",
+    "name": "Bakhchysarai",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 44.75525,
+    "longitude": 33.85782,
+    "rain_mm": 47.75,
+    "soil_moisture": 0.46,
+    "raw_dynamic_score": 6.802,
+    "last_updated": "2026-09-23T02:44:45.908446Z",
+    "last_tweeted_at": "2026-09-23T02:44:45.908446Z",
+    "tweet_id": "2102590247741673490",
     "resolved": false
   }
 }
