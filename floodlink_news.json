@@ -1,583 +1,6 @@
 [
     {
         "link": null,
-        "date": "2026-08-25",
-        "status": "posted",
-        "tweet": "Only 45% of flood-exposed populations worldwide are covered by early warning systems in 2026, leaving 1.1 billion people without alerts for flash floods or storm surges.",
-        "type": "statistical",
-        "category": "coverage of flood early warning systems worldwide",
-        "tweet_id": "2092039763658264850"
-    },
-    {
-        "link": null,
-        "date": "2026-08-25",
-        "status": "posted",
-        "tweet": "In 2025, economic losses from floods and flash floods totaled $52 billion in \ud83c\udde8\ud83c\uddf3 China, more than double the $24 billion recorded in \ud83c\uddfa\ud83c\uddf8 the United States.",
-        "type": "statistical",
-        "category": "economic losses from floods and flash floods",
-        "tweet_id": "2092071825513775209"
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQN0MySHNRbHBTc3JKQlZ6TElLLUI5VkVoOUZUcF95Z180RmJ3UXBLdlZ3Mmh5R2d2NlA1REFsdTloN2J3ZDFqeGlGSHdjQXd4UW52QWJ0VFpOTGFlajZsUlRaZ0tpNlhHWE1ocHFrMnFfNWxMWWJ6YndvY05XdTdtSTY3R3o1Y21FYkNBX2QzUdIBlAFBVV95cUxOUDZQX2FuQlVFVnBPTEdhWklaNlFlLXUtaDJYaXI2bWJwdlZwcUlEX2hIcDlMY1RtZldwa0NxOEdaZnoxOENfVGw5cWhFRUhaWG41bTJiUm9nUlRPZmNqTzZkRnh2ZjdGS25JOHNDVENqcDJtSVRraTJzZE5QcVFkNGtieXdtT1JXd3lha015SWRRaWlF?oc=5",
-        "date": "2026-08-25",
-        "title": "Flash Flood Warning issued in south-central Utah after reports of rockfalls, mudslides - ABC4 Utah",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxQN0MySHNRbHBTc3JKQlZ6TElLLUI5VkVoOUZUcF95Z180RmJ3UXBLdlZ3Mmh5R2d2NlA1REFsdTloN2J3ZDFqeGlGSHdjQXd4UW52QWJ0VFpOTGFlajZsUlRaZ0tpNlhHWE1ocHFrMnFfNWxMWWJ6YndvY05XdTdtSTY3R3o1Y21FYkNBX2QzUdIBlAFBVV95cUxOUDZQX2FuQlVFVnBPTEdhWklaNlFlLXUtaDJYaXI2bWJwdlZwcUlEX2hIcDlMY1RtZldwa0NxOEdaZnoxOENfVGw5cWhFRUhaWG41bTJiUm9nUlRPZmNqTzZkRnh2ZjdGS25JOHNDVENqcDJtSVRraTJzZE5QcVFkNGtieXdtT1JXd3lha015SWRRaWlF?oc=5\" target=\"_blank\">Flash Flood Warning issued in south-central Utah after reports of rockfalls, mudslides</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ABC4 Utah</font>",
-        "similarity_excluded": "No",
-        "score": 8,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOWG9pY1U0MlJ2dHpnOXpDTWpSM2xfT3hpWGtxMTdHNnN0LTR5UXZUZWV1bTFuNkpUaVVIU2tXWGZXODlEbmhVSGlNQ0xzRkZDdXJmU0Z2eHd5SXlleHFyeGlsT0xZeUNDN2lSSV8wU3IzUk1yejdYNGlTZ1NxN3oxbTZ6MVM3bnQtVUk1Zk04ZnRIYlU1bTVjZk8ybkh0c2txZ0xpR2djeTAxaEY4eWxUZW1SdmhVYkJLNEpDa0ptVlNIUQ?oc=5",
-        "date": "2026-08-25",
-        "title": "Flood advisory affecting San Bernardino County early Monday evening due to persistent rain - San Bernardino Sun",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxOWG9pY1U0MlJ2dHpnOXpDTWpSM2xfT3hpWGtxMTdHNnN0LTR5UXZUZWV1bTFuNkpUaVVIU2tXWGZXODlEbmhVSGlNQ0xzRkZDdXJmU0Z2eHd5SXlleHFyeGlsT0xZeUNDN2lSSV8wU3IzUk1yejdYNGlTZ1NxN3oxbTZ6MVM3bnQtVUk1Zk04ZnRIYlU1bTVjZk8ybkh0c2txZ0xpR2djeTAxaEY4eWxUZW1SdmhVYkJLNEpDa0ptVlNIUQ?oc=5\" target=\"_blank\">Flood advisory affecting San Bernardino County early Monday evening due to persistent rain</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">San Bernardino Sun</font>",
-        "similarity_excluded": "No",
-        "score": 6,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNU3YteXdUQnBTWFZ1QzJfNzhsWUR6bTVUS0QycXM3NzJJT29vUXh6ak5sR0dHRUdVYnRycE5jUWg5QkpMQmV5T3VfSWtvN1ZKWHV1clp0VEk5UlZoS3kxdllpektuT1RKYWRJbGMyb2h3el8wYzR6UkxVb0dyNTc5UDBITTJpRHBtOUhlLVFqMXJ1Zw?oc=5",
-        "date": "2026-08-25",
-        "title": "More storms tonight and through the rest of the week for southern Colorado - KKTV",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNU3YteXdUQnBTWFZ1QzJfNzhsWUR6bTVUS0QycXM3NzJJT29vUXh6ak5sR0dHRUdVYnRycE5jUWg5QkpMQmV5T3VfSWtvN1ZKWHV1clp0VEk5UlZoS3kxdllpektuT1RKYWRJbGMyb2h3el8wYzR6UkxVb0dyNTc5UDBITTJpRHBtOUhlLVFqMXJ1Zw?oc=5\" target=\"_blank\">More storms tonight and through the rest of the week for southern Colorado</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KKTV</font>",
-        "similarity_excluded": "No",
-        "score": 2,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdWxQb0lJbVZnM2Y5Z3VwS1k2d3JBdzA1MHFFc2t3Snc1aGRJaWh0TXJNRXRyNXR1WVI1cGxPel8xdU1wTENnMHlLZV9XMUc4N1JQbGlCRWdzQTJlNkdiUXdwd0JWemVOYVhYd0R0dzMtQXU0RVZ3bU5SempBeHJrNk9OaUh2UXBndFEyNGhZU2F6T1I3VlZrWklpekNnWVZScDhxRUNsTQ?oc=5",
-        "date": "2026-08-25",
-        "title": "Flash Flood Warning issued in Kane County after mudslides, rockfalls reported - KUTV",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxOdWxQb0lJbVZnM2Y5Z3VwS1k2d3JBdzA1MHFFc2t3Snc1aGRJaWh0TXJNRXRyNXR1WVI1cGxPel8xdU1wTENnMHlLZV9XMUc4N1JQbGlCRWdzQTJlNkdiUXdwd0JWemVOYVhYd0R0dzMtQXU0RVZ3bU5SempBeHJrNk9OaUh2UXBndFEyNGhZU2F6T1I3VlZrWklpekNnWVZScDhxRUNsTQ?oc=5\" target=\"_blank\">Flash Flood Warning issued in Kane County after mudslides, rockfalls reported</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KUTV</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOMGJBNm1rbG1NejZsMUh6T280dDc4NmZmbVQzNkVtUW1VNW94RDNGWlhJZFNSRHRlWXpWczdqb1lmLUxCV3ZrR1RSQmJwLU4xVzNkU0lLT2U3M1RkU29hcGZ4Q0NSSUVhMmg0bzB6SFllbzZ6WHBJWTlWV19YNHk3VlNyQ0E5RXltSkdJQXppYXFTOWRTREVoeUo0VVc?oc=5",
-        "date": "2026-08-25",
-        "title": "All Hands and Hearts: \u2018Flash flooding typically doesn\u2019t go for 20 miles\u2019 - The Kerr County Lead",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxOMGJBNm1rbG1NejZsMUh6T280dDc4NmZmbVQzNkVtUW1VNW94RDNGWlhJZFNSRHRlWXpWczdqb1lmLUxCV3ZrR1RSQmJwLU4xVzNkU0lLT2U3M1RkU29hcGZ4Q0NSSUVhMmg0bzB6SFllbzZ6WHBJWTlWV19YNHk3VlNyQ0E5RXltSkdJQXppYXFTOWRTREVoeUo0VVc?oc=5\" target=\"_blank\">All Hands and Hearts: \u2018Flash flooding typically doesn\u2019t go for 20 miles\u2019</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Kerr County Lead</font>",
-        "similarity_excluded": "No",
-        "score": 8,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNbTlJUHVrWU5oSnhEekhtOHBWNElPc0N2QXR3RWVHOVM3Ty13TEMyQXFGUnFUUzg0dUV6a0UtVWl2dThVSF9MenhaXzl4MGdkUnlPUFFUanM2a25RTWJHdEI2VGNNOFdjdjN0c042UmJxVXYxYm1Bc1pfcHpvX0lHNDV1Q0NsSkhqUXc?oc=5",
-        "date": "2026-08-25",
-        "title": "VNM: Flood - 08-2026 - Typhoon Narra #3 (2026-08-24) - ReliefWeb",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxNbTlJUHVrWU5oSnhEekhtOHBWNElPc0N2QXR3RWVHOVM3Ty13TEMyQXFGUnFUUzg0dUV6a0UtVWl2dThVSF9MenhaXzl4MGdkUnlPUFFUanM2a25RTWJHdEI2VGNNOFdjdjN0c042UmJxVXYxYm1Bc1pfcHpvX0lHNDV1Q0NsSkhqUXc?oc=5\" target=\"_blank\">VNM: Flood - 08-2026 - Typhoon Narra #3 (2026-08-24)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ReliefWeb</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMi1IUzI1bXJNZ1h0dm5BV3lhZkN3U0lCUHg0SnRaNkg2a18zcjE5TE9sZGdYZnk4b0R2enBOelpDY2daQzBfTzctNE9mTFAwTW9iN3ZwcFV4MTAtVDZ4T2wwakpiaENyR0dhMkI4NHlCaEVOMm5jbURMNExYd21PV3VsZ21sQ3h6T3pv?oc=5",
-        "date": "2026-08-25",
-        "title": "Maps: Tracking Typhoon Saudel - The New York Times",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMi1IUzI1bXJNZ1h0dm5BV3lhZkN3U0lCUHg0SnRaNkg2a18zcjE5TE9sZGdYZnk4b0R2enBOelpDY2daQzBfTzctNE9mTFAwTW9iN3ZwcFV4MTAtVDZ4T2wwakpiaENyR0dhMkI4NHlCaEVOMm5jbURMNExYd21PV3VsZ21sQ3h6T3pv?oc=5\" target=\"_blank\">Maps: Tracking Typhoon Saudel</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOOU9uc293SERVVlFUeW1FT0xFb3RoZElOVzhWaER4U25UQ0hwLWdnaXdPWU5kZk1LZWJzandvMExyQkxycDVGVi1VZU5OUlJsZ0xsOGcwR2dYVDNsdWUxT3dTSnkxa1lDOEVzYl9ZSXRfRmoxcUZHNl9YVHJFZnVQQ3QzcHZ6ZXlXZTZSdGRSWmtPV2RNal96Ti16OG1ad0RyVHhyc2FvRk5sX2xpdXpoNWFn?oc=5",
-        "date": "2026-08-25",
-        "title": "Heavy rain forecast as Typhoon Saudel girds towards Japan and Taiwan - The Straits Times",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOOU9uc293SERVVlFUeW1FT0xFb3RoZElOVzhWaER4U25UQ0hwLWdnaXdPWU5kZk1LZWJzandvMExyQkxycDVGVi1VZU5OUlJsZ0xsOGcwR2dYVDNsdWUxT3dTSnkxa1lDOEVzYl9ZSXRfRmoxcUZHNl9YVHJFZnVQQ3QzcHZ6ZXlXZTZSdGRSWmtPV2RNal96Ti16OG1ad0RyVHhyc2FvRk5sX2xpdXpoNWFn?oc=5\" target=\"_blank\">Heavy rain forecast as Typhoon Saudel girds towards Japan and Taiwan</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Straits Times</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOdHpkUUh5N0J4cGhlRmdId0k5c1l4eEx2VTFCMEpQTW04NU1uR3lFRUxMeUZmOG9OajBKZy1QeHAzbFFTVGJfR0EweVgzbFY4aWJPdjRjVmJnUy1oREFPM1hFQk5MSmJuelZFbGxXR1BJbnhEVEVROWVzSF84dVJYOXRLd0E1MUNJMlIwcUVILWZfVFpBc1hidUpxd0VUcUlnUGdKeEpGdVN4ZjJvWXdFcno2anJldzh5ZGkzTmpwVXlOSzBCZjlCWmJkT3hTU0xZSG5RMXQ0cVBuU2M0?oc=5",
-        "date": "2026-08-25",
-        "title": "President Marcos on Monday visited evacuees in Bacolor, Pampanga, one of the areas severely affected by massive flooding due to days of heavy rains brought by the enhanced southwest monsoon and other weather disturbances. https://tinyurl.com/45yhw5 - facebook.com",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxOdHpkUUh5N0J4cGhlRmdId0k5c1l4eEx2VTFCMEpQTW04NU1uR3lFRUxMeUZmOG9OajBKZy1QeHAzbFFTVGJfR0EweVgzbFY4aWJPdjRjVmJnUy1oREFPM1hFQk5MSmJuelZFbGxXR1BJbnhEVEVROWVzSF84dVJYOXRLd0E1MUNJMlIwcUVILWZfVFpBc1hidUpxd0VUcUlnUGdKeEpGdVN4ZjJvWXdFcno2anJldzh5ZGkzTmpwVXlOSzBCZjlCWmJkT3hTU0xZSG5RMXQ0cVBuU2M0?oc=5\" target=\"_blank\">President Marcos on Monday visited evacuees in Bacolor, Pampanga, one of the areas severely affected by massive flooding due to days of heavy rains brought by the enhanced southwest monsoon and other weather disturbances. https://tinyurl.com/45yhw5</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">facebook.com</font>",
-        "similarity_excluded": "No",
-        "score": 9,
-        "status": "processed",
-        "tweet": null,
-        "tweet_id": "2092093538926244169",
-        "geo": {
-            "country": "Philippines",
-            "name": "Bacolor, Pampanga",
-            "latitude": 15.0058,
-            "longitude": 120.6525,
-            "confidence": 0.9
-        }
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPRWZNTGZaU01uTkNlYUhlemlidXRfT0w1QVpRYnZ1MEpSZ0tnbGlDX0txUHBXV1RNNGxhMzI3Q2Y4b0FxU1ROM1lWY2l3SkxMUGdlNFBFM3p4dTdDN1VuR3l1Z2FPcnUyb25EQjgtRXRhbmNtX2Rid3JBT2tEM0E3T2RrNFR5U2VLT0tYczlaQWdadw?oc=5",
-        "date": "2026-08-25",
-        "title": "Cross River seeks $25m foreign aid for flood, landslide recovery - The Guardian Nigeria News",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPRWZNTGZaU01uTkNlYUhlemlidXRfT0w1QVpRYnZ1MEpSZ0tnbGlDX0txUHBXV1RNNGxhMzI3Q2Y4b0FxU1ROM1lWY2l3SkxMUGdlNFBFM3p4dTdDN1VuR3l1Z2FPcnUyb25EQjgtRXRhbmNtX2Rid3JBT2tEM0E3T2RrNFR5U2VLT0tYczlaQWdadw?oc=5\" target=\"_blank\">Cross River seeks $25m foreign aid for flood, landslide recovery</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian Nigeria News</font>",
-        "similarity_excluded": "No",
-        "score": 8,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQVGF5cDZjV1gxME9ucVJFSlBYd2p2Qkc1dWd6NzYxYTkzdmlNT0loRGlVcVBMeVgyUnlEMDA1Ulp2QzNVX2MySk52VnQ1VVhoZ29ERVF0T09TYWVkZDcyTkpqNF9QY0Zyd2F1UVVOa2FOcUllTko3bGFGbzZEaXhlcU1OTms4ZS1NUnBxR29zV1g2LTZYcUxQWGFLSWNZSEplUS1UNk9mRmR6THNXeHNYalV2WTlSR2ltRHRPSzdNODEwWjRaeURlQnNZOEkyUdIB2wFBVV95cUxPWUc4SmNrcDNRTFhub21kWlNJVUxiOUNudXhQdFFjZEh6a3hoUmxKUGhZOERaSkEzOHFSTmo5OHd6LTlhaGVEWkgxVU9weUJZSVhDV2QtaEtvOW1mZkZHaW1hWmFsSWo4S2h6bmtfeXdFVlFnVnJ4d2NGZGlOSHZjbzVTeWZUZzRiOVZLNHBJWGcyblJBY0RkOHBEd0FhY2hPLUZNWksyMlJnWlZVUFZlSkVrM0FvdzdTYWg0eEM0TmxIanloamxscEJYMU5LRmdNMDEtN2J4S0RsZW8?oc=5",
-        "date": "2026-08-25",
-        "title": "Heavy rain disrupts normal life in Joda town, residents blame choked drains - The New Indian Express",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxQVGF5cDZjV1gxME9ucVJFSlBYd2p2Qkc1dWd6NzYxYTkzdmlNT0loRGlVcVBMeVgyUnlEMDA1Ulp2QzNVX2MySk52VnQ1VVhoZ29ERVF0T09TYWVkZDcyTkpqNF9QY0Zyd2F1UVVOa2FOcUllTko3bGFGbzZEaXhlcU1OTms4ZS1NUnBxR29zV1g2LTZYcUxQWGFLSWNZSEplUS1UNk9mRmR6THNXeHNYalV2WTlSR2ltRHRPSzdNODEwWjRaeURlQnNZOEkyUdIB2wFBVV95cUxPWUc4SmNrcDNRTFhub21kWlNJVUxiOUNudXhQdFFjZEh6a3hoUmxKUGhZOERaSkEzOHFSTmo5OHd6LTlhaGVEWkgxVU9weUJZSVhDV2QtaEtvOW1mZkZHaW1hWmFsSWo4S2h6bmtfeXdFVlFnVnJ4d2NGZGlOSHZjbzVTeWZUZzRiOVZLNHBJWGcyblJBY0RkOHBEd0FhY2hPLUZNWksyMlJnWlZVUFZlSkVrM0FvdzdTYWg0eEM0TmxIanloamxscEJYMU5LRmdNMDEtN2J4S0RsZW8?oc=5\" target=\"_blank\">Heavy rain disrupts normal life in Joda town, residents blame choked drains</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New Indian Express</font>",
-        "similarity_excluded": "No",
-        "score": 5,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUTY2NklmUUtNUFFYRGRiQXkzQV81OS1WOUFfcG1wbEJocHI1aTN3QlhzeUNYSFZZdUEzT2tKUzduR3h2UEpZeEdvWUhPWXNZaHhycE94aE1wNGVEX1FOMnBXWUNLZDUxWHlxTGEzbXpwNmZKWXkzZE8tcnNXUE1tOTNJNmtSNXdGeGliZVhES2xOcnNMUlA0?oc=5",
-        "date": "2026-08-25",
-        "title": "Benguet under state of calamity as damage reaches over P1B - Rappler",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOUTY2NklmUUtNUFFYRGRiQXkzQV81OS1WOUFfcG1wbEJocHI1aTN3QlhzeUNYSFZZdUEzT2tKUzduR3h2UEpZeEdvWUhPWXNZaHhycE94aE1wNGVEX1FOMnBXWUNLZDUxWHlxTGEzbXpwNmZKWXkzZE8tcnNXUE1tOTNJNmtSNXdGeGliZVhES2xOcnNMUlA0?oc=5\" target=\"_blank\">Benguet under state of calamity as damage reaches over P1B</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Rappler</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOdHpkUUh5N0J4cGhlRmdId0k5c1l4eEx2VTFCMEpQTW04NU1uR3lFRUxMeUZmOG9OajBKZy1QeHAzbFFTVGJfR0EweVgzbFY4aWJPdjRjVmJnUy1oREFPM1hFQk5MSmJuelZFbGxXR1BJbnhEVEVROWVzSF84dVJYOXRLd0E1MUNJMlIwcUVILWZfVFpBc1hidUpxd0VUcUlnUGdKeEpGdVN4ZjJvWXdFcno2anJldzh5ZGkzTmpwVXlOSzBCZjlCWmJkT3hTU0xZSG5RMXQ0cVBuU2M0?oc=5",
-        "date": "2026-08-25",
-        "title": "President Marcos on Monday visited evacuees in Bacolor, Pampanga, one of the areas severely affected by massive flooding due to days of heavy rains brought by the enhanced southwest monsoon and other weather disturbances. https://tinyurl.com/45yhw5 - facebook.com",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxOdHpkUUh5N0J4cGhlRmdId0k5c1l4eEx2VTFCMEpQTW04NU1uR3lFRUxMeUZmOG9OajBKZy1QeHAzbFFTVGJfR0EweVgzbFY4aWJPdjRjVmJnUy1oREFPM1hFQk5MSmJuelZFbGxXR1BJbnhEVEVROWVzSF84dVJYOXRLd0E1MUNJMlIwcUVILWZfVFpBc1hidUpxd0VUcUlnUGdKeEpGdVN4ZjJvWXdFcno2anJldzh5ZGkzTmpwVXlOSzBCZjlCWmJkT3hTU0xZSG5RMXQ0cVBuU2M0?oc=5\" target=\"_blank\">President Marcos on Monday visited evacuees in Bacolor, Pampanga, one of the areas severely affected by massive flooding due to days of heavy rains brought by the enhanced southwest monsoon and other weather disturbances. https://tinyurl.com/45yhw5</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">facebook.com</font>",
-        "similarity_excluded": "No",
-        "score": 9,
-        "status": "posted",
-        "tweet": "\ud83c\uddf5\ud83c\udded POST-EVENT Bacolor, Pampanga: Massive flooding from enhanced southwest monsoon forces evacuations as President Marcos visits affected residents.",
-        "type": "news",
-        "tweet_id": "2092093538926244169",
-        "geo": {
-            "country": "Philippines",
-            "name": "Bacolor, Pampanga",
-            "latitude": 15.0058,
-            "longitude": 120.6525,
-            "confidence": 0.9
-        }
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5UazBMbTFRR1dlNXFjT3NjVjlQUjJDREhFazBMV1YwX3djaXRYRFpERDM2b0NCR0RDaUlWTFFrLVV0SEVueEx2eVlXOGdPWVEwZlpMbG5XZEYwSUk2NTYxN2pB?oc=5",
-        "date": "2026-08-25",
-        "title": "Flash Flood Warning in South Central Kane County Until 11 PM MDT - Forth.News",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE5UazBMbTFRR1dlNXFjT3NjVjlQUjJDREhFazBMV1YwX3djaXRYRFpERDM2b0NCR0RDaUlWTFFrLVV0SEVueEx2eVlXOGdPWVEwZlpMbG5XZEYwSUk2NTYxN2pB?oc=5\" target=\"_blank\">Flash Flood Warning in South Central Kane County Until 11 PM MDT</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Forth.News</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxONkxHRkllZjcybXllMldERVpoWU55NXRPRXpGcGhxRUZSWmRIWXlkTlozZ0I3Y2dTbmF5Z1dsbW02bW5oSTN2aUM0YklZOFFLSWlrVlFmZGhwbUxNU3YtNjRySWFkTzFTSFZaYjZNV3UyWGdCSFZlZWhhNTJvU3J5aVRrWDJtY2s?oc=5",
-        "date": "2026-08-25",
-        "title": "Flash flooding hits Athens, Southeast Ohio - thepostathens.com",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxONkxHRkllZjcybXllMldERVpoWU55NXRPRXpGcGhxRUZSWmRIWXlkTlozZ0I3Y2dTbmF5Z1dsbW02bW5oSTN2aUM0YklZOFFLSWlrVlFmZGhwbUxNU3YtNjRySWFkTzFTSFZaYjZNV3UyWGdCSFZlZWhhNTJvU3J5aVRrWDJtY2s?oc=5\" target=\"_blank\">Flash flooding hits Athens, Southeast Ohio</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">thepostathens.com</font>",
-        "similarity_excluded": "No",
-        "score": 6,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQTzhJdWhWUXk0YnNQWHNTa2k0MC0zLXdxSUxJZkhhUXFtRm5FUHc5QlVKTC1BY3lRc0VwZGxPNlVTMlNIN1FENW9hRGFVT093M1VrRFZnLWFmZnpsSmFmaTIzYklhMmNqc3ZuamFlSDE0YjktWlhPdHFnd2R2WWJMNGRUVXRCS0hkWXlJUXdPZUQ0NkZvTEdGRWJTRjN4RlNqUHVZ?oc=5",
-        "date": "2026-08-25",
-        "title": "Hill Country July flooding doubles demand at local food pantry - MySA",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQTzhJdWhWUXk0YnNQWHNTa2k0MC0zLXdxSUxJZkhhUXFtRm5FUHc5QlVKTC1BY3lRc0VwZGxPNlVTMlNIN1FENW9hRGFVT093M1VrRFZnLWFmZnpsSmFmaTIzYklhMmNqc3ZuamFlSDE0YjktWlhPdHFnd2R2WWJMNGRUVXRCS0hkWXlJUXdPZUQ0NkZvTEdGRWJTRjN4RlNqUHVZ?oc=5\" target=\"_blank\">Hill Country July flooding doubles demand at local food pantry</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MySA</font>",
-        "similarity_excluded": "No",
-        "score": 6,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQQ2MxYWpfQ2lZb2R4THZCX0Ytd1hPZGJ6Sy16di0tdHExclNSRkQxdG5acUJUaXNYTHZOU1ZpdnRKWHl4V2xoYmFMSnB0WkZGYVl4M0V0YzlVakh2ZUp6WTloNW5XZlB4ZlNDT1h5Qjd2UTVHRHNyZ3hmd0Myb29HWGhidTlQX0dFQTBUM05wZWplR3RTNEJsMXk4amplWXFrVVA5VjRXUTJlaDRUdS1pckdLLWZ6T3VjZzhHakFXai1xeFdiMWJtZ3JpWHU?oc=5",
-        "date": "2026-08-25",
-        "title": "Flood advisory affecting San Bernardino County early Monday evening due to persistent rain - Daily Bulletin",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxQQ2MxYWpfQ2lZb2R4THZCX0Ytd1hPZGJ6Sy16di0tdHExclNSRkQxdG5acUJUaXNYTHZOU1ZpdnRKWHl4V2xoYmFMSnB0WkZGYVl4M0V0YzlVakh2ZUp6WTloNW5XZlB4ZlNDT1h5Qjd2UTVHRHNyZ3hmd0Myb29HWGhidTlQX0dFQTBUM05wZWplR3RTNEJsMXk4amplWXFrVVA5VjRXUTJlaDRUdS1pckdLLWZ6T3VjZzhHakFXai1xeFdiMWJtZ3JpWHU?oc=5\" target=\"_blank\">Flood advisory affecting San Bernardino County early Monday evening due to persistent rain</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Daily Bulletin</font>",
-        "similarity_excluded": "No",
-        "score": 5,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNc2JVaWFjWi1jNk9mUzA5eWd1dmZJaVJ6T3BMUUhFVUlyNlpjRWcxbi05NkJEaWZ2Y0RhbkYxRDJkMm5vZktSSTI5WFc3azhlTmQyamlBcTg4cE51dF84dTMySGVJUEpZT21FemlxUkk0OUhzcUktQURLSERnRHB2UGhYcw?oc=5",
-        "date": "2026-08-25",
-        "title": "Flash floods in Venezuela turn heavy rain into a humanitarian crisis - AOL.com",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxNc2JVaWFjWi1jNk9mUzA5eWd1dmZJaVJ6T3BMUUhFVUlyNlpjRWcxbi05NkJEaWZ2Y0RhbkYxRDJkMm5vZktSSTI5WFc3azhlTmQyamlBcTg4cE51dF84dTMySGVJUEpZT21FemlxUkk0OUhzcUktQURLSERnRHB2UGhYcw?oc=5\" target=\"_blank\">Flash floods in Venezuela turn heavy rain into a humanitarian crisis</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AOL.com</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBsYzBSRWtoOVVPeXRiNzQ5YkxrM0s0WnlQQ2lwU3VWc2puNjlQSlY4aG56NllkdER6M3dBeTB1VjI3X0hPUGlhT3ZqT28xQWVtdndBb2s2TjJPTE5qUDhVSmJNWHFfeEwxSUJGMXl3eFlWUTF5SkZaQndIZXlfb3c?oc=5",
-        "date": "2026-08-25",
-        "title": "Indoor Air Quality Alert: Typhoon Narra Flooding in China and Vietnam - IQAir",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFBsYzBSRWtoOVVPeXRiNzQ5YkxrM0s0WnlQQ2lwU3VWc2puNjlQSlY4aG56NllkdER6M3dBeTB1VjI3X0hPUGlhT3ZqT28xQWVtdndBb2s2TjJPTE5qUDhVSmJNWHFfeEwxSUJGMXl3eFlWUTF5SkZaQndIZXlfb3c?oc=5\" target=\"_blank\">Indoor Air Quality Alert: Typhoon Narra Flooding in China and Vietnam</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">IQAir</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": null,
-        "date": "2026-08-25",
-        "status": "posted",
-        "tweet": "\ud83c\uddf3\ud83c\uddf1 The Netherlands maintains 3,700 km of primary dikes and levees, protecting 9 million residents and 60% of its land from flooding as of 2026.",
-        "type": "infrastructure",
-        "tweet_id": "2092166073697124421"
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE51QkRIeTkxZ3lnLXRJVzhQLW5sbEtVcGxXR21pTmxvWXpyWHAtS2YtZzJ4R1B3UURGVEYzaFFWU1FDMkd0WXpXSlQtMHdFNHVnVXIzd3BwY05RekxMY3I0dDJB?oc=5",
-        "date": "2026-08-25",
-        "title": "Flash Flood Warning Issued for Paria River, Coconino County Amid Life\u2011Threatening Conditions - Forth.News",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE51QkRIeTkxZ3lnLXRJVzhQLW5sbEtVcGxXR21pTmxvWXpyWHAtS2YtZzJ4R1B3UURGVEYzaFFWU1FDMkd0WXpXSlQtMHdFNHVnVXIzd3BwY05RekxMY3I0dDJB?oc=5\" target=\"_blank\">Flash Flood Warning Issued for Paria River, Coconino County Amid Life\u2011Threatening Conditions</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Forth.News</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWkRVTFAxcEg4T3A5WFJ0cGhPSmxkbS1hRXBiRFk0ZzRfbU9sYVFSNDhoTmpFNlQ5S05lamRObG1zUkEzUVJEUXlibjlwTXNCSHdzMGVGQklMRXQ1eEtHTjVaSElIclprcjdSMUoxNUEwbjRsX0dtRHdlZGE4SzBXRA?oc=5",
-        "date": "2026-08-25",
-        "title": "Tracking more storms, flash flood chances - KRDO",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPWkRVTFAxcEg4T3A5WFJ0cGhPSmxkbS1hRXBiRFk0ZzRfbU9sYVFSNDhoTmpFNlQ5S05lamRObG1zUkEzUVJEUXlibjlwTXNCSHdzMGVGQklMRXQ1eEtHTjVaSElIclprcjdSMUoxNUEwbjRsX0dtRHdlZGE4SzBXRA?oc=5\" target=\"_blank\">Tracking more storms, flash flood chances</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KRDO</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNRnVSVHFjTmFDTW9WNGo2dy14WmpVbENud0hNYzN2OG5FaXk5UU5fUDR5RjVMd3pTQzh1Mm05dDg0NU5Jb0NaZjlYWjFHRndTZ2FUamZZTXhaYzFybHNUdEhySllNal9MU2l1VV9yWFBkMVJLaDNjd3MzSjl6SHNHODZ3WEhuRWc?oc=5",
-        "date": "2026-08-25",
-        "title": "Indoor Air Quality Alert: Typhoon Narra Flooding in China and Vietnam - IQAir",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxNRnVSVHFjTmFDTW9WNGo2dy14WmpVbENud0hNYzN2OG5FaXk5UU5fUDR5RjVMd3pTQzh1Mm05dDg0NU5Jb0NaZjlYWjFHRndTZ2FUamZZTXhaYzFybHNUdEhySllNal9MU2l1VV9yWFBkMVJLaDNjd3MzSjl6SHNHODZ3WEhuRWc?oc=5\" target=\"_blank\">Indoor Air Quality Alert: Typhoon Narra Flooding in China and Vietnam</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">IQAir</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNGhGcVFHSFV0ajQzTXVUNEtlaUhVYy1WaS1NQXR4NlhHeTFlMGRtSnFCNGpnVk1HbXF0YjZDYjVXU3dzd1RiekpWc0FTVzNTNk9HTHNMdWowczcwZWk4YWpSTlJGQ3RyNUw4bURxM0NTZ2x1U2ZVX2RURkZDc3EtdVdfSFlZR01jZGhWS253?oc=5",
-        "date": "2026-08-25",
-        "title": "Typhoon Narra causes flooding in northern Vietnam - Sky News",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPNGhGcVFHSFV0ajQzTXVUNEtlaUhVYy1WaS1NQXR4NlhHeTFlMGRtSnFCNGpnVk1HbXF0YjZDYjVXU3dzd1RiekpWc0FTVzNTNk9HTHNMdWowczcwZWk4YWpSTlJGQ3RyNUw4bURxM0NTZ2x1U2ZVX2RURkZDc3EtdVdfSFlZR01jZGhWS253?oc=5\" target=\"_blank\">Typhoon Narra causes flooding in northern Vietnam</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sky News</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPa0l1djVoZWpuZVdac29SSG5UQVdZV3M1SHNuMGQ5MjVBWFpZajhPMFFqSlA1RFBsR3ZqOEY0UkdqcjlmV0Q2NlBMYVZ1UnpOUGpUaUN6ZFBkTnpSR1dMRTN1VGp4VmpFVkFLQmY0emtCY3RnTmJBU3djTkNtVzJtRzV0aVc3TE40VUFxcEl4Y2Z6NGxfdGFpVFRhZ0FzajNVY3gzSHJlWkNfdVR0LXdJU0JyNkROUzg?oc=5",
-        "date": "2026-08-25",
-        "title": "China Floods Intensify as Tens of Thousands Evacuate Amid New Typhoon Threats - Modern Diplomacy",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPa0l1djVoZWpuZVdac29SSG5UQVdZV3M1SHNuMGQ5MjVBWFpZajhPMFFqSlA1RFBsR3ZqOEY0UkdqcjlmV0Q2NlBMYVZ1UnpOUGpUaUN6ZFBkTnpSR1dMRTN1VGp4VmpFVkFLQmY0emtCY3RnTmJBU3djTkNtVzJtRzV0aVc3TE40VUFxcEl4Y2Z6NGxfdGFpVFRhZ0FzajNVY3gzSHJlWkNfdVR0LXdJU0JyNkROUzg?oc=5\" target=\"_blank\">China Floods Intensify as Tens of Thousands Evacuate Amid New Typhoon Threats</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Modern Diplomacy</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSkg2aXJtazBRMXlUOTZmWkJzNHpWd1lqOHVpZ21BZDRFc1pta1JUR3F1V3FCN19qd1NTQWlhcWFoaG1tdnhxQzd5NFpnbXRwTmhQbUpvQ3pJOEU4M3BycHJJYmowUlBIQWtzQloycTRERjRsdVlKZ0YwYVlva0JXdm04NW4wcDZGUkxrSHJWOW1yR3RSZHlkRkJqZkhTYU1zX1E?oc=5",
-        "date": "2026-08-25",
-        "title": "Monsoon rains flood northern India from Delhi to Varanasi - T\u00fcrkiye Today",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPSkg2aXJtazBRMXlUOTZmWkJzNHpWd1lqOHVpZ21BZDRFc1pta1JUR3F1V3FCN19qd1NTQWlhcWFoaG1tdnhxQzd5NFpnbXRwTmhQbUpvQ3pJOEU4M3BycHJJYmowUlBIQWtzQloycTRERjRsdVlKZ0YwYVlva0JXdm04NW4wcDZGUkxrSHJWOW1yR3RSZHlkRkJqZkhTYU1zX1E?oc=5\" target=\"_blank\">Monsoon rains flood northern India from Delhi to Varanasi</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">T\u00fcrkiye Today</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOQ01UdGZIYTktRkFwSU53UUwxRmFQLXpGUWRHOGNPNFAxdVp3RGlsSElaZTBYTEJtam9ma09BTDRDUWN5dm1xUUJSV0tXSXc1bkI4cXphTjd2a2ZCQVV3M1NBR1EwcGNhTkNtYW1JSzZ4a3o1NVZyMUpEYmFVQkZFdTdpS0FxN1BWYmdMOERWQXREZnBGRmNwX0NkeWExTmU1MkRQTEtqOUc2R19vTmhNWnBzR1FKc2lhZl9MZXRqS21kWmpqd2duaTZjX0IweDhVc1BQTWZLc3FHdXI2UVFGUDdrSQ?oc=5",
-        "date": "2026-08-25",
-        "title": "Why Does Gurugram Flood So Easily? The Answer Lies in What the City Built Over - The Better India",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxOQ01UdGZIYTktRkFwSU53UUwxRmFQLXpGUWRHOGNPNFAxdVp3RGlsSElaZTBYTEJtam9ma09BTDRDUWN5dm1xUUJSV0tXSXc1bkI4cXphTjd2a2ZCQVV3M1NBR1EwcGNhTkNtYW1JSzZ4a3o1NVZyMUpEYmFVQkZFdTdpS0FxN1BWYmdMOERWQXREZnBGRmNwX0NkeWExTmU1MkRQTEtqOUc2R19vTmhNWnBzR1FKc2lhZl9MZXRqS21kWmpqd2duaTZjX0IweDhVc1BQTWZLc3FHdXI2UVFGUDdrSQ?oc=5\" target=\"_blank\">Why Does Gurugram Flood So Easily? The Answer Lies in What the City Built Over</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Better India</font>",
-        "similarity_excluded": "No",
-        "score": 7,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPdlhpeHpjWXFrMUpBbjN1UnoweUJJN0d3cjVJRHo5d3lWYnJJYUhUZ2c4Xy1ZYjFQakpXQ3FkSDNneXlENjdQNWJvc0d0bkNpaFM0Vm1FblNGbDNRblBzWkhnUFNVc3BnTFRFeVBsUklBSkRmSm5SVEJvX1hwQzhiaktzMFJqUTFvSTk1VlMzQndGZV9Wbk1oUUFfalhLbE9JREhydVB5RGJaR0FwN3hpOVNSR1pqTWExSjZxNQ?oc=5",
-        "date": "2026-08-25",
-        "title": "How Sanath Road stayed dry while the rest of Gurugram flooded this monsoon - Deccan Herald",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxPdlhpeHpjWXFrMUpBbjN1UnoweUJJN0d3cjVJRHo5d3lWYnJJYUhUZ2c4Xy1ZYjFQakpXQ3FkSDNneXlENjdQNWJvc0d0bkNpaFM0Vm1FblNGbDNRblBzWkhnUFNVc3BnTFRFeVBsUklBSkRmSm5SVEJvX1hwQzhiaktzMFJqUTFvSTk1VlMzQndGZV9Wbk1oUUFfalhLbE9JREhydVB5RGJaR0FwN3hpOVNSR1pqTWExSjZxNQ?oc=5\" target=\"_blank\">How Sanath Road stayed dry while the rest of Gurugram flooded this monsoon</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Deccan Herald</font>",
-        "similarity_excluded": "No",
-        "score": 6,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQbUJzLVpfRnFWS0czalpzMjFUVUlnNXFvWTI5Z3dzU3ZtTjZGUTVkNkwwQWZjU3JPbnNuRC16d2FkMWYycG9RTWVwdF9NcjdQdGhhN2g0RmNZaUdQRUdXbjFmV1g0QW05NjRjTjB0X1M1aktURjhUMmJMSmxfRzNqejZpbXZjQ3BOYWtteDNJOUVEMEROdFhOZDdGNkJnNzQwQmcwMnRQdzFFLUFkN3RjOFVfUVNZVVlmRzJyakhicmxPYkcwZ2VOU3dpd3hwUGxxUXVKRXAyYWNRZmpIMHVpMVRB0gHnAUFVX3lxTE1kbkJoTGZQVzQyRlpCY2g1U010M3dIRjFFaUJya1FrX19jLWRNREI0ekxhaEtYaElZTUJZcHhRSVZ3SnFmeVhCaEZUTG9nUEZ5Y2xNMjdKdzBaRFctdzZHbEdlRTNPdVg3X2J3NzZfTlhONUpDNjQxMm5VYXBYdkZETHA3VDl6Q093Qi1lRVFRZnJwQkVrVGlVXzdjMWxkcTBfZ1NyS01EbkJYLWxHRGU1WmZOSTNqRzJZMFdpWlpjUGwwVlJzeDZ5aHc0akk5TDMwRThmWjNNNnVTeDZNZWRjWFV4Qno0QQ?oc=5",
-        "date": "2026-08-25",
-        "title": "Gurugram\u2019s monsoon paradox: How 'Millennium City of India' built towers but forgot its drainage - Moneycontrol.com",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxQbUJzLVpfRnFWS0czalpzMjFUVUlnNXFvWTI5Z3dzU3ZtTjZGUTVkNkwwQWZjU3JPbnNuRC16d2FkMWYycG9RTWVwdF9NcjdQdGhhN2g0RmNZaUdQRUdXbjFmV1g0QW05NjRjTjB0X1M1aktURjhUMmJMSmxfRzNqejZpbXZjQ3BOYWtteDNJOUVEMEROdFhOZDdGNkJnNzQwQmcwMnRQdzFFLUFkN3RjOFVfUVNZVVlmRzJyakhicmxPYkcwZ2VOU3dpd3hwUGxxUXVKRXAyYWNRZmpIMHVpMVRB0gHnAUFVX3lxTE1kbkJoTGZQVzQyRlpCY2g1U010M3dIRjFFaUJya1FrX19jLWRNREI0ekxhaEtYaElZTUJZcHhRSVZ3SnFmeVhCaEZUTG9nUEZ5Y2xNMjdKdzBaRFctdzZHbEdlRTNPdVg3X2J3NzZfTlhONUpDNjQxMm5VYXBYdkZETHA3VDl6Q093Qi1lRVFRZnJwQkVrVGlVXzdjMWxkcTBfZ1NyS01EbkJYLWxHRGU1WmZOSTNqRzJZMFdpWlpjUGwwVlJzeDZ5aHc0akk5TDMwRThmWjNNNnVTeDZNZWRjWFV4Qno0QQ?oc=5\" target=\"_blank\">Gurugram\u2019s monsoon paradox: How 'Millennium City of India' built towers but forgot its drainage</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Moneycontrol.com</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5Cb18tdXRjb2VNSDVac2FsYWRmX3VoR0d4Skt3aUZ6Z3I2b25tNHM4eUxHSmJoUktYT1ZKMV9DcWxPSm9wa3B4TFFvNFlNbEZ6djNIQnlSaDE?oc=5",
-        "date": "2026-08-25",
-        "title": "Rain-triggered floods and landslides block seven road sections - Khabarhub",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE5Cb18tdXRjb2VNSDVac2FsYWRmX3VoR0d4Skt3aUZ6Z3I2b25tNHM4eUxHSmJoUktYT1ZKMV9DcWxPSm9wa3B4TFFvNFlNbEZ6djNIQnlSaDE?oc=5\" target=\"_blank\">Rain-triggered floods and landslides block seven road sections</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Khabarhub</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9NczdLVmNweHcxYVNyQ1A5VF9OVkVWOEdob3Z1cWpoU2ZTMzNDSXFRaU1zZ0FSX0ZlampubTVpSllCUV9pUlhlS1gtclJFaHRpMl93S2JxTUgzZFU5T0E?oc=5",
-        "date": "2026-08-25",
-        "title": "Yellow weather warnings issued as thunderstorms and flooding forecast - BBC",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE9NczdLVmNweHcxYVNyQ1A5VF9OVkVWOEdob3Z1cWpoU2ZTMzNDSXFRaU1zZ0FSX0ZlampubTVpSllCUV9pUlhlS1gtclJFaHRpMl93S2JxTUgzZFU5T0E?oc=5\" target=\"_blank\">Yellow weather warnings issued as thunderstorms and flooding forecast</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">BBC</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQMG92NzdMRENDVmdKRDVLUkQ2dUc5VlZMTklqSlVuRmhTMlhZNE1IUTFVeXEyX0tVOFpGODFIeWltLWZKTFo4UlNXUlpSSW9CdHFFYVVtcWZkR0pRdFJ3WkRBbjVVV3oyQ3ZKZXJrOEI4VUZQNHZBMHp6UWtoYTVyT1hKd3F5T25uWjR6b2ZrVG9mRWdYakpuQ2VZckhMUWF4MHlqWkJIU1d1SjRqYVJmaWhSVmZYZXBfVEE?oc=5",
-        "date": "2026-08-25",
-        "title": "Homes submerged, tens of thousands relocated in China's south as flooding intensifies - Reuters",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQMG92NzdMRENDVmdKRDVLUkQ2dUc5VlZMTklqSlVuRmhTMlhZNE1IUTFVeXEyX0tVOFpGODFIeWltLWZKTFo4UlNXUlpSSW9CdHFFYVVtcWZkR0pRdFJ3WkRBbjVVV3oyQ3ZKZXJrOEI4VUZQNHZBMHp6UWtoYTVyT1hKd3F5T25uWjR6b2ZrVG9mRWdYakpuQ2VZckhMUWF4MHlqWkJIU1d1SjRqYVJmaWhSVmZYZXBfVEE?oc=5\" target=\"_blank\">Homes submerged, tens of thousands relocated in China's south as flooding intensifies</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBid3N0Z2Y3R09SblM1czNLLTdUaXVJaERVa3dXOUZIUUJac01CaXU5Wm1vMThPbVIxWkVha3UwNzJ4TmZBMTluaTNlWFFnR2lURXgwSlkwbnpCSVhKTmxjdzI4Z244eWFFTDdVMkhIMkpqdGtYS0t0Rlpn?oc=5",
-        "date": "2026-08-25",
-        "title": "More Than 54,000 Evacuated as Typhoon Narra Floods Southern China - teleSUR English",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTFBid3N0Z2Y3R09SblM1czNLLTdUaXVJaERVa3dXOUZIUUJac01CaXU5Wm1vMThPbVIxWkVha3UwNzJ4TmZBMTluaTNlWFFnR2lURXgwSlkwbnpCSVhKTmxjdzI4Z244eWFFTDdVMkhIMkpqdGtYS0t0Rlpn?oc=5\" target=\"_blank\">More Than 54,000 Evacuated as Typhoon Narra Floods Southern China</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">teleSUR English</font>",
-        "similarity_excluded": "No",
-        "score": 9,
-        "status": "processed",
-        "tweet": null,
-        "tweet_id": "2092224718464000197",
-        "geo": {
-            "country": "China",
-            "name": "Southern China",
-            "latitude": 23.0,
-            "longitude": 113.0,
-            "confidence": 0.75
-        }
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNNkVSV1dfUGd4bGkxOUwwZWdfLS1WUjZ1YnlHeTdXdlhaVlBudWUwTXktVmp4WnI4aFVzam1TR1c0YTU3cllTSEpkMXFWVFdJWDFCbTFpNHJhVHIxWnp5a0lySUhvSTYzaVA5YkRTN2ZpUTJiM2hMVjN5YkpKNVlTRmNwWDBtaEdRWXFPMTRGNjR2aEJsbHAzOTR2SEhCRFhVMko4bXVmTC1GRGlGRUhGVGlySDdGUWhuQTc1UVNJVDdDVUxBQzYxa2M1RzZoSW1kcXlUb9IB2gFBVV95cUxOMWQ3cXVKY01PTndwWVpPY1ZycnZxemxySUF2V0tGTUZQWV9GN2JpR0pKLUJOam5nZ1h2Zk45RlRtZllYYVpDdkE3MHZTR1p5aldIc2xiM05RYUh6YXVYV05XeXhvQlB6T1lOQ0tydU9jMk9QRm9fNW5ROHFGVm8tc29COHFfc3g0c2VRQ2V4LVE5aFBtOXo5cjhOcGxxR1lwLWxXMklmWERXaDdVdXZlMnFtQkxEZHcxT0l4ZUJteFlCZm1sYlpNa0s0Y0xuem8zX2FYZWxiUkhHUQ?oc=5",
-        "date": "2026-08-25",
-        "title": "Typhoon Narra floods southern China, 54,000 evacuated as Saudel nears Japan, Taiwan - Moneycontrol.com",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxNNkVSV1dfUGd4bGkxOUwwZWdfLS1WUjZ1YnlHeTdXdlhaVlBudWUwTXktVmp4WnI4aFVzam1TR1c0YTU3cllTSEpkMXFWVFdJWDFCbTFpNHJhVHIxWnp5a0lySUhvSTYzaVA5YkRTN2ZpUTJiM2hMVjN5YkpKNVlTRmNwWDBtaEdRWXFPMTRGNjR2aEJsbHAzOTR2SEhCRFhVMko4bXVmTC1GRGlGRUhGVGlySDdGUWhuQTc1UVNJVDdDVUxBQzYxa2M1RzZoSW1kcXlUb9IB2gFBVV95cUxOMWQ3cXVKY01PTndwWVpPY1ZycnZxemxySUF2V0tGTUZQWV9GN2JpR0pKLUJOam5nZ1h2Zk45RlRtZllYYVpDdkE3MHZTR1p5aldIc2xiM05RYUh6YXVYV05XeXhvQlB6T1lOQ0tydU9jMk9QRm9fNW5ROHFGVm8tc29COHFfc3g0c2VRQ2V4LVE5aFBtOXo5cjhOcGxxR1lwLWxXMklmWERXaDdVdXZlMnFtQkxEZHcxT0l4ZUJteFlCZm1sYlpNa0s0Y0xuem8zX2FYZWxiUkhHUQ?oc=5\" target=\"_blank\">Typhoon Narra floods southern China, 54,000 evacuated as Saudel nears Japan, Taiwan</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Moneycontrol.com</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBid3N0Z2Y3R09SblM1czNLLTdUaXVJaERVa3dXOUZIUUJac01CaXU5Wm1vMThPbVIxWkVha3UwNzJ4TmZBMTluaTNlWFFnR2lURXgwSlkwbnpCSVhKTmxjdzI4Z244eWFFTDdVMkhIMkpqdGtYS0t0Rlpn?oc=5",
-        "date": "2026-08-25",
-        "title": "More Than 54,000 Evacuated as Typhoon Narra Floods Southern China - teleSUR English",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTFBid3N0Z2Y3R09SblM1czNLLTdUaXVJaERVa3dXOUZIUUJac01CaXU5Wm1vMThPbVIxWkVha3UwNzJ4TmZBMTluaTNlWFFnR2lURXgwSlkwbnpCSVhKTmxjdzI4Z244eWFFTDdVMkhIMkpqdGtYS0t0Rlpn?oc=5\" target=\"_blank\">More Than 54,000 Evacuated as Typhoon Narra Floods Southern China</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">teleSUR English</font>",
-        "similarity_excluded": "No",
-        "score": 9,
-        "status": "posted",
-        "tweet": "\ud83c\udde8\ud83c\uddf3 POST-EVENT Southern China: Typhoon Narra floods region, over 54,000 evacuated.",
-        "type": "news",
-        "tweet_id": "2092224718464000197",
-        "geo": {
-            "country": "China",
-            "name": "Southern China",
-            "latitude": 23.0,
-            "longitude": 113.0,
-            "confidence": 0.75
-        }
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUkhfX0xIbVNFQVEtM0dVYU92aHZsMGVzdXVDdkxFNnlyR1g4S2IzS3pYRW5NMmp6MXBwb0JOeHRCUjhfa1UtQ0pMYjJkQkQxZ0V0Sk8tWHYtd2o3T1h3aUVPOVJIVmNOdmh5b3JQV09OVVJYWWtXNnRMSTEtNXF1M3FTajBFM1JUdnpWQzd5cEZ3emhlZGc?oc=5",
-        "date": "2026-08-25",
-        "title": "Homes submerged, tens of thousands relocated in China's south as flooding intensifies - CNA",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxOUkhfX0xIbVNFQVEtM0dVYU92aHZsMGVzdXVDdkxFNnlyR1g4S2IzS3pYRW5NMmp6MXBwb0JOeHRCUjhfa1UtQ0pMYjJkQkQxZ0V0Sk8tWHYtd2o3T1h3aUVPOVJIVmNOdmh5b3JQV09OVVJYWWtXNnRMSTEtNXF1M3FTajBFM1JUdnpWQzd5cEZ3emhlZGc?oc=5\" target=\"_blank\">Homes submerged, tens of thousands relocated in China's south as flooding intensifies</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNA</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQR09NWjQ5MjRQR2t6QVlQYV8xZFVENVVtcklJZVBnQkFvMzFYWmI3Vmg3UVBILUtxR1FEWkY5TE50OElCVjU2eGt6TGF3Zm1KWTJXZklrVHl1NjdRcThNZVhvY1ktU2xUR1BjTkt1NXR5akZTdWJNeVN5cDhieGp2cWVBdHhieWZsREdFbmVMZw?oc=5",
-        "date": "2026-08-25",
-        "title": "Odisha Assembly Monsoon Session to Commence from September 22 - Pragativadi",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxQR09NWjQ5MjRQR2t6QVlQYV8xZFVENVVtcklJZVBnQkFvMzFYWmI3Vmg3UVBILUtxR1FEWkY5TE50OElCVjU2eGt6TGF3Zm1KWTJXZklrVHl1NjdRcThNZVhvY1ktU2xUR1BjTkt1NXR5akZTdWJNeVN5cDhieGp2cWVBdHhieWZsREdFbmVMZw?oc=5\" target=\"_blank\">Odisha Assembly Monsoon Session to Commence from September 22</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Pragativadi</font>",
-        "similarity_excluded": "No",
-        "score": 0,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNUE1NeTh2R0p5bzhROVUwMC1IT0FiLVBfMTcwcjVtVTlPUGtfWEt5RWhyNjZGd1N3OVhmY181cl9halFYMWU0bS1LUklOTTJINXJwcVBuaFdMZHNYRHFXWURaZ2IyYjI5ajk5anE2cUhYMXNLaFRkMmpkMmZyNTd1UWZJQWZybFVZdkEtZnZqZkZQb2hjMnROT05PSFpfNVpyN1BVTjJQRHhrTEYwWURaRUtxdmM?oc=5",
-        "date": "2026-08-25",
-        "title": "Heavy rain, flash flooding trap visitors in Bryce Canyon, 2 hospitalized for hypothermia - KUTV",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNUE1NeTh2R0p5bzhROVUwMC1IT0FiLVBfMTcwcjVtVTlPUGtfWEt5RWhyNjZGd1N3OVhmY181cl9halFYMWU0bS1LUklOTTJINXJwcVBuaFdMZHNYRHFXWURaZ2IyYjI5ajk5anE2cUhYMXNLaFRkMmpkMmZyNTd1UWZJQWZybFVZdkEtZnZqZkZQb2hjMnROT05PSFpfNVpyN1BVTjJQRHhrTEYwWURaRUtxdmM?oc=5\" target=\"_blank\">Heavy rain, flash flooding trap visitors in Bryce Canyon, 2 hospitalized for hypothermia</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KUTV</font>",
-        "similarity_excluded": "No",
-        "score": 6,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRTdZTW9pLXM5SGhJTnhXLW1GV08tQ0xZRmQ2aGkzM2ItYUxMSDIxZDZHVi1YZWxIeUktaWo4UW8xX2NoWW5Gdm1UYTZUdGdjdVRBVE1sWEtjQ05xZGZBcXd4bHVaNTJIUWdKcWhwVTVNVnN0SkVaQ2E3NkkteTJlb1c0d3ZLWWY1RVE3T3JwQ2M1dlE4czZ6VFZWbW04WjQ?oc=5",
-        "date": "2026-08-25",
-        "title": "Flooding averted at Wahiawa dam during Hurricane Lala - Honolulu Star-Advertiser",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPRTdZTW9pLXM5SGhJTnhXLW1GV08tQ0xZRmQ2aGkzM2ItYUxMSDIxZDZHVi1YZWxIeUktaWo4UW8xX2NoWW5Gdm1UYTZUdGdjdVRBVE1sWEtjQ05xZGZBcXd4bHVaNTJIUWdKcWhwVTVNVnN0SkVaQ2E3NkkteTJlb1c0d3ZLWWY1RVE3T3JwQ2M1dlE4czZ6VFZWbW04WjQ?oc=5\" target=\"_blank\">Flooding averted at Wahiawa dam during Hurricane Lala</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Honolulu Star-Advertiser</font>",
-        "similarity_excluded": "No",
-        "score": 6,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOUldQa1dmS3VoOTBTdTZvUEZveFFoSWUtQlpDVlFvOTg0N1RJQ1JoU0R5RmNYUjdfaTIxY29HT3FkSmwwa1BORmx3Unh2ZWx1SnlHQkt0eURwY2NZRHJoTjdoQVl6WGZYajVZU2FUS0hObG0wMWl5ZmFEcHpfaVNORVo3M19TTTNGNUJISXItYmNobVdZWmxxdWo4ZXNseklYMnpHOWNEMWlKcU5LN3g5Q1p5ZjZURE96WXppa2lmLUU1R0Vva0gtT1dOWQ?oc=5",
-        "date": "2026-08-25",
-        "title": "Typhoon Narra Leaves Severe Flooding in Its Wake - The Cairns Post",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxOUldQa1dmS3VoOTBTdTZvUEZveFFoSWUtQlpDVlFvOTg0N1RJQ1JoU0R5RmNYUjdfaTIxY29HT3FkSmwwa1BORmx3Unh2ZWx1SnlHQkt0eURwY2NZRHJoTjdoQVl6WGZYajVZU2FUS0hObG0wMWl5ZmFEcHpfaVNORVo3M19TTTNGNUJISXItYmNobVdZWmxxdWo4ZXNseklYMnpHOWNEMWlKcU5LN3g5Q1p5ZjZURE96WXppa2lmLUU1R0Vva0gtT1dOWQ?oc=5\" target=\"_blank\">Typhoon Narra Leaves Severe Flooding in Its Wake</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Cairns Post</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPUXZvd1JMMVpyekQ4UFpYakFvVkRiLUg3VHRlRW1HVUlTQlc4OW5nb0hTcTJsMmEwcXAwR1UzaDdMbUJKVnJkQjl2RmhxVUdLUXlSNXNXa25lTkpMQVEzZ09hSERFZzd2NUZtQTBQMUZaN1FTYmc5UVY5SVZEU0ZWZ3U1UXRIVUZMQnRQMHJXMTRsQmlFVUFUZzZTYldERngyTEsw?oc=5",
-        "date": "2026-08-25",
-        "title": "A \u2018super El Ni\u00f1o\u2019 could make India\u2019s monsoon drier yet more dangerous - The Conversation",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPUXZvd1JMMVpyekQ4UFpYakFvVkRiLUg3VHRlRW1HVUlTQlc4OW5nb0hTcTJsMmEwcXAwR1UzaDdMbUJKVnJkQjl2RmhxVUdLUXlSNXNXa25lTkpMQVEzZ09hSERFZzd2NUZtQTBQMUZaN1FTYmc5UVY5SVZEU0ZWZ3U1UXRIVUZMQnRQMHJXMTRsQmlFVUFUZzZTYldERngyTEsw?oc=5\" target=\"_blank\">A \u2018super El Ni\u00f1o\u2019 could make India\u2019s monsoon drier yet more dangerous</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Conversation</font>",
-        "similarity_excluded": "No",
-        "score": 2,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUlNBeVJUd3F3WWlqMWdtV0ZVSzJEQjRmUXdtT3JLSExKSkpQbngtVlB0emhfWmpGTWxrMVU1OUdZeWk3UXZmQk42X3RPSzRFdmlwc3RjU0U4TVd2QkFvdFowSVdPaERoUWtTMFhIQ2xxeDkzaS10SVVvcUJWY1N2Q2FDUVZkWVFaZ3h4X1hiR0ZuNHdZWkI4NGZEd3V1YjBkbEVqTVpjVENMZw?oc=5",
-        "date": "2026-08-25",
-        "title": "Sadiq Khan issues dead of night flash flooding warning as thunderstorms threaten London - London Evening Standard",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUlNBeVJUd3F3WWlqMWdtV0ZVSzJEQjRmUXdtT3JLSExKSkpQbngtVlB0emhfWmpGTWxrMVU1OUdZeWk3UXZmQk42X3RPSzRFdmlwc3RjU0U4TVd2QkFvdFowSVdPaERoUWtTMFhIQ2xxeDkzaS10SVVvcUJWY1N2Q2FDUVZkWVFaZ3h4X1hiR0ZuNHdZWkI4NGZEd3V1YjBkbEVqTVpjVENMZw?oc=5\" target=\"_blank\">Sadiq Khan issues dead of night flash flooding warning as thunderstorms threaten London</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">London Evening Standard</font>",
-        "similarity_excluded": "No",
-        "score": 8,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNaXFsMmlUdDhDUEdfdWNxNURFTFhzbXllWGw4NkkwWDc1bGxyRmFZSUVNY0lPeTl2bVdXZkRYcnpPYzVvSGc3b24weXdVYmlhVUo5cC1EM2J4WV9jQm1obG42b0V6d3Z4MjlRWkd3MjhFRGxfaVQ1SURSSUpMQlBCWXlZbDJMc2plLWg0bnpaNmJibUl3QWxtOWpMNlU4MmhnRjVwZ2ZlcnNLT3JhdkM2V20xMFZXUmJ3NDhNNA?oc=5",
-        "date": "2026-08-25",
-        "title": "Typhoon Narra Leaves Severe Flooding in Its Wake - News.com.au",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxNaXFsMmlUdDhDUEdfdWNxNURFTFhzbXllWGw4NkkwWDc1bGxyRmFZSUVNY0lPeTl2bVdXZkRYcnpPYzVvSGc3b24weXdVYmlhVUo5cC1EM2J4WV9jQm1obG42b0V6d3Z4MjlRWkd3MjhFRGxfaVQ1SURSSUpMQlBCWXlZbDJMc2plLWg0bnpaNmJibUl3QWxtOWpMNlU4MmhnRjVwZ2ZlcnNLT3JhdkM2V20xMFZXUmJ3NDhNNA?oc=5\" target=\"_blank\">Typhoon Narra Leaves Severe Flooding in Its Wake</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">News.com.au</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQczdCdHpseXJXMkwyR1JneEZHLXZ3WHRKTjdQY0xiMHc1dmxLUmtEbGYzekxhbDNyVm9EU2tDOWswWnNlSGlyZldacVEwYVFPV3p4bVB1YlU1X2JyaU5DNm1XMXJCcWV6UzBtdzdkcU9vdGFJZGdtOFUweWxXdWI2NENKOUJhZUFhQW9FTTJEV0xJLTJpMTY5OVYzNzRjbGFNbDR2S3JzR0tuY3U5Y1VzeTN3LWg2UUNUUFVQQlhpYzNYQzNLY1gtUk50RlhIYVF2YjRpTTVkNDd0N201bDhVb2VTZGNrY3R4VENhSmV2M1FkUDhXd2o4?oc=5",
-        "date": "2026-08-25",
-        "title": "Crews Create \u2018Human Ladder\u2019 to Rescue Residents Trapped by Typhoon Narra Flooding - Toowoomba Chronicle",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9wFBVV95cUxQczdCdHpseXJXMkwyR1JneEZHLXZ3WHRKTjdQY0xiMHc1dmxLUmtEbGYzekxhbDNyVm9EU2tDOWswWnNlSGlyZldacVEwYVFPV3p4bVB1YlU1X2JyaU5DNm1XMXJCcWV6UzBtdzdkcU9vdGFJZGdtOFUweWxXdWI2NENKOUJhZUFhQW9FTTJEV0xJLTJpMTY5OVYzNzRjbGFNbDR2S3JzR0tuY3U5Y1VzeTN3LWg2UUNUUFVQQlhpYzNYQzNLY1gtUk50RlhIYVF2YjRpTTVkNDd0N201bDhVb2VTZGNrY3R4VENhSmV2M1FkUDhXd2o4?oc=5\" target=\"_blank\">Crews Create \u2018Human Ladder\u2019 to Rescue Residents Trapped by Typhoon Narra Flooding</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Toowoomba Chronicle</font>",
-        "similarity_excluded": "No",
-        "score": 9,
-        "status": "processed",
-        "tweet": null,
-        "tweet_id": "2092300513463185849",
-        "geo": {
-            "country": null,
-            "name": null,
-            "latitude": null,
-            "longitude": null,
-            "confidence": 0.0
-        }
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPWHB6V1BvbTg0ZVhncGFhODlYcTBfU1ZWSFU4U1VDdFJiMnBmbTBoTGVuQmN5Ny1kOGRvdnlEMjhLa2hBc0VMUkdGWXZZV3I1Vk1VUWNyQTRmV0U1UlBkcV9XcVFJdk9nZDNjUGEtYWJhRzlrZVlERi1hTlRPblZBNjV1SndzR0lqcUt2OTZlNGVwcE9SMk96WjdLOFgydw?oc=5",
-        "date": "2026-08-25",
-        "title": "16th ERC meeting steps up flood readiness as monsoon risks mount - | Associated Press Of Pakistan",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPWHB6V1BvbTg0ZVhncGFhODlYcTBfU1ZWSFU4U1VDdFJiMnBmbTBoTGVuQmN5Ny1kOGRvdnlEMjhLa2hBc0VMUkdGWXZZV3I1Vk1VUWNyQTRmV0U1UlBkcV9XcVFJdk9nZDNjUGEtYWJhRzlrZVlERi1hTlRPblZBNjV1SndzR0lqcUt2OTZlNGVwcE9SMk96WjdLOFgydw?oc=5\" target=\"_blank\">16th ERC meeting steps up flood readiness as monsoon risks mount</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">| Associated Press Of Pakistan</font>",
-        "similarity_excluded": "No",
-        "score": 8,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQczdCdHpseXJXMkwyR1JneEZHLXZ3WHRKTjdQY0xiMHc1dmxLUmtEbGYzekxhbDNyVm9EU2tDOWswWnNlSGlyZldacVEwYVFPV3p4bVB1YlU1X2JyaU5DNm1XMXJCcWV6UzBtdzdkcU9vdGFJZGdtOFUweWxXdWI2NENKOUJhZUFhQW9FTTJEV0xJLTJpMTY5OVYzNzRjbGFNbDR2S3JzR0tuY3U5Y1VzeTN3LWg2UUNUUFVQQlhpYzNYQzNLY1gtUk50RlhIYVF2YjRpTTVkNDd0N201bDhVb2VTZGNrY3R4VENhSmV2M1FkUDhXd2o4?oc=5",
-        "date": "2026-08-25",
-        "title": "Crews Create \u2018Human Ladder\u2019 to Rescue Residents Trapped by Typhoon Narra Flooding - Toowoomba Chronicle",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9wFBVV95cUxQczdCdHpseXJXMkwyR1JneEZHLXZ3WHRKTjdQY0xiMHc1dmxLUmtEbGYzekxhbDNyVm9EU2tDOWswWnNlSGlyZldacVEwYVFPV3p4bVB1YlU1X2JyaU5DNm1XMXJCcWV6UzBtdzdkcU9vdGFJZGdtOFUweWxXdWI2NENKOUJhZUFhQW9FTTJEV0xJLTJpMTY5OVYzNzRjbGFNbDR2S3JzR0tuY3U5Y1VzeTN3LWg2UUNUUFVQQlhpYzNYQzNLY1gtUk50RlhIYVF2YjRpTTVkNDd0N201bDhVb2VTZGNrY3R4VENhSmV2M1FkUDhXd2o4?oc=5\" target=\"_blank\">Crews Create \u2018Human Ladder\u2019 to Rescue Residents Trapped by Typhoon Narra Flooding</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Toowoomba Chronicle</font>",
-        "similarity_excluded": "No",
-        "score": 9,
-        "status": "posted",
-        "tweet": "POST-EVENT Narra: Typhoon Narra flooding traps residents; crews form human ladder rescues. Toowoomba Chronicle",
-        "type": "news",
-        "tweet_id": "2092300513463185849",
-        "geo": {
-            "country": null,
-            "name": null,
-            "latitude": null,
-            "longitude": null,
-            "confidence": 0.0
-        }
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNeTE1ckRqcVRjN0VOMWFtUEZ6ZnUxNW90ZWZpU0dXU1VxZUNueVJndExWY3M3bTVZOXF2M2xtMEluRjN1NmVtSjB5ZzVINVhfSlhxVGVPQkZqcU51NmlUVnhVTWM3TFctZzNuMUk5WmFDQ1N0RVlQbU9pMWJtQzBGbFk5Uk1RV1RLdjdZMWo1YWZwbXUyM2VuQ2RYQjF5UzdYcEwxREs3aFFNYlRYT1psS2lQLXFSWWdTWUQwT1l0eDR2MG5nMXBka0hla3g2RlkyNS1tNQ?oc=5",
-        "date": "2026-08-25",
-        "title": "Ashe County accepts grant for flood warning system - Ashe Post & Times",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxNeTE1ckRqcVRjN0VOMWFtUEZ6ZnUxNW90ZWZpU0dXU1VxZUNueVJndExWY3M3bTVZOXF2M2xtMEluRjN1NmVtSjB5ZzVINVhfSlhxVGVPQkZqcU51NmlUVnhVTWM3TFctZzNuMUk5WmFDQ1N0RVlQbU9pMWJtQzBGbFk5Uk1RV1RLdjdZMWo1YWZwbXUyM2VuQ2RYQjF5UzdYcEwxREs3aFFNYlRYT1psS2lQLXFSWWdTWUQwT1l0eDR2MG5nMXBka0hla3g2RlkyNS1tNQ?oc=5\" target=\"_blank\">Ashe County accepts grant for flood warning system</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Ashe Post & Times</font>",
-        "similarity_excluded": "No",
-        "score": 7,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQTlo5MERhN3ZpUlBldW1FSVhiTzZ1eXVMUWJqbW5NM21GYV9MbjRPTzJuNU5zRmlyNFM3MkJxeHVwWWZGeDJuQ2VvNnJmcXZSMXR4OGp1SFR5VWp0cHhUZ01SSTRYeHpzbTBUNWdkNzN4YzQ5Y0IxTEpudmowQWViMnM3RlRBNzNHSmhrTnM5Z3hBY2lJbUViZ1VVeGJETWY4QnRmUy1WSTVpMXhETVBLcWVSaUU4djVXSkhsNS1pQk1iNHp2Nl9rcXZrY1JrZWgzQ08ybFBqeUc?oc=5",
-        "date": "2026-08-25",
-        "title": "Cleanup After Typhoon Causes Major Flooding in Vietnam - The Weekly Times",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxQTlo5MERhN3ZpUlBldW1FSVhiTzZ1eXVMUWJqbW5NM21GYV9MbjRPTzJuNU5zRmlyNFM3MkJxeHVwWWZGeDJuQ2VvNnJmcXZSMXR4OGp1SFR5VWp0cHhUZ01SSTRYeHpzbTBUNWdkNzN4YzQ5Y0IxTEpudmowQWViMnM3RlRBNzNHSmhrTnM5Z3hBY2lJbUViZ1VVeGJETWY4QnRmUy1WSTVpMXhETVBLcWVSaUU4djVXSkhsNS1pQk1iNHp2Nl9rcXZrY1JrZWgzQ08ybFBqeUc?oc=5\" target=\"_blank\">Cleanup After Typhoon Causes Major Flooding in Vietnam</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Weekly Times</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPdjFud1BYLWpzeTBYNFp5MjE5bFdwSUdXeVItM01rYTFIc1B5WWhTT1dQZzJrZXY5SmhRenpMckhjaEVNd2xzN3BGSFFvX0hqZUtGUndwUDBQTUZfcmtPVGx1RGpqS05BXzVpakJQdXVsYWlVeEdHeXNGdEJNcXo3eGxyVTh2alhYaEdrRGxqY3JvQnVsN3pVNTlGazRJNXB1UGs2UnF2RHJaTEJMRVZlanJTY051aXhEdVN0MzQzVkVOdk9tcmo0Um0zWFRpRXF2?oc=5",
-        "date": "2026-08-25",
-        "title": "Typhoon Narra Leaves Severe Flooding in Its Wake - The Weekly Times",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxPdjFud1BYLWpzeTBYNFp5MjE5bFdwSUdXeVItM01rYTFIc1B5WWhTT1dQZzJrZXY5SmhRenpMckhjaEVNd2xzN3BGSFFvX0hqZUtGUndwUDBQTUZfcmtPVGx1RGpqS05BXzVpakJQdXVsYWlVeEdHeXNGdEJNcXo3eGxyVTh2alhYaEdrRGxqY3JvQnVsN3pVNTlGazRJNXB1UGs2UnF2RHJaTEJMRVZlanJTY051aXhEdVN0MzQzVkVOdk9tcmo0Um0zWFRpRXF2?oc=5\" target=\"_blank\">Typhoon Narra Leaves Severe Flooding in Its Wake</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Weekly Times</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQVkY4bTd4RURURzZNNVR0UHJCZmJFTmhjcDk4cTIxeEJqRVVlRk1VRjN0UW41eXZMN1RvZGhjVlZBQlIxdEx4YXc1WHo0anQ1REZ3QWV6VEZieGo4ODM4OXViZEJmUHV4OS1zTmR4YnhGbFN4ckhjYjRXc1VfbTZwdlJCbW9qY2ZyeXN3T1d4RmFidkdGdHZCTU5lM3BTdXNxRTdRVWVkSmVPZDhyeUllSEFKRXZEUndlNDVIdEQtZV9LWUxPenZJa0F3NlhSR2dDZzdFeTRZc0cyelNid1VxSE5xemR0YUhmUG5aVEVJOUM4YVcxYlE?oc=5",
-        "date": "2026-08-25",
-        "title": "Crews Create \u2018Human Ladder\u2019 to Rescue Residents Trapped by Typhoon Narra Flooding - The Courier Mail",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9gFBVV95cUxQVkY4bTd4RURURzZNNVR0UHJCZmJFTmhjcDk4cTIxeEJqRVVlRk1VRjN0UW41eXZMN1RvZGhjVlZBQlIxdEx4YXc1WHo0anQ1REZ3QWV6VEZieGo4ODM4OXViZEJmUHV4OS1zTmR4YnhGbFN4ckhjYjRXc1VfbTZwdlJCbW9qY2ZyeXN3T1d4RmFidkdGdHZCTU5lM3BTdXNxRTdRVWVkSmVPZDhyeUllSEFKRXZEUndlNDVIdEQtZV9LWUxPenZJa0F3NlhSR2dDZzdFeTRZc0cyelNid1VxSE5xemR0YUhmUG5aVEVJOUM4YVcxYlE?oc=5\" target=\"_blank\">Crews Create \u2018Human Ladder\u2019 to Rescue Residents Trapped by Typhoon Narra Flooding</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Courier Mail</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOLThOTTZRMzJaS0ZHSG9uRk8wSWhzQW9aRC1XOHBHc2ZFc2J1LXBzR3FZYnVtWWFzcDcyYXVvTnE5bkFhc2RPNDZJZlRYX2FMZmY1SmtfMG9iRnJucjN5bEZQajhuUmxFaVlmVHVoNHdBWEVMbnF4Q1lvcWtLMkdjekNsN01aX1E3alIzeW9CNlhtazhiQWhQQ29Hc1FLdXpPTERVd1dHWERzVGYybEE?oc=5",
-        "date": "2026-08-25",
-        "title": "11 Rescue, 2 Hospitalized After Flash Flood Hits Utah National Park - Unofficial Networks",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxOLThOTTZRMzJaS0ZHSG9uRk8wSWhzQW9aRC1XOHBHc2ZFc2J1LXBzR3FZYnVtWWFzcDcyYXVvTnE5bkFhc2RPNDZJZlRYX2FMZmY1SmtfMG9iRnJucjN5bEZQajhuUmxFaVlmVHVoNHdBWEVMbnF4Q1lvcWtLMkdjekNsN01aX1E3alIzeW9CNlhtazhiQWhQQ29Hc1FLdXpPTERVd1dHWERzVGYybEE?oc=5\" target=\"_blank\">11 Rescue, 2 Hospitalized After Flash Flood Hits Utah National Park</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Unofficial Networks</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": null,
         "date": "2026-08-26",
         "status": "posted",
         "tweet": "Urban pop. exposed to river flooding (% , 2025 proj.)\n1. \ud83c\udde7\ud83c\udde9 Dhaka: 48%\n2. \ud83c\uddfb\ud83c\uddf3 Ho Chi Minh: 39%\n3. \ud83c\uddee\ud83c\uddf3 Kolkata: 37%\n4. \ud83c\uddf5\ud83c\uddf0 Karachi: 31%\n5. \ud83c\udde8\ud83c\uddf3 Guangzhou: 28%",
@@ -16741,6 +16164,243 @@
             "name": "Hawaii",
             "latitude": 21.31,
             "longitude": -157.86,
+            "confidence": 0.9
+        }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1ZSFhpaV85LUUwZmp4YVpOdDFVellLdldxSnJ2VVVaTnNnSVZ3WTJ0YWhLY1NBOW5RTU9zMHRJdmNyNTN5dE1EbkpyaVBscHNSbzJXcm5vY0thSTlTQ2xoWGtadEdIMGhPUUVF0gF_QVVfeXFMUE9BNGlyRG83SjQ5TXdpQm9mR0t2My12ZUE2WDVwSEFMMnlBVDM4Y1lHX0ZLQ2daNUhsQ3BtNFc1amJhdGYyaHRuNHFVbGJQY3RUa1UwbjlOX2FyY0lNeExOa252dVlSalBDUU9ucDdNZkhKUmpXVGxTS29fUFd5RQ?oc=5",
+        "date": "2026-09-24",
+        "title": "First Alert Forecast | Flood risk heightens in coalfields - WSAZ",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE1ZSFhpaV85LUUwZmp4YVpOdDFVellLdldxSnJ2VVVaTnNnSVZ3WTJ0YWhLY1NBOW5RTU9zMHRJdmNyNTN5dE1EbkpyaVBscHNSbzJXcm5vY0thSTlTQ2xoWGtadEdIMGhPUUVF0gF_QVVfeXFMUE9BNGlyRG83SjQ5TXdpQm9mR0t2My12ZUE2WDVwSEFMMnlBVDM4Y1lHX0ZLQ2daNUhsQ3BtNFc1amJhdGYyaHRuNHFVbGJQY3RUa1UwbjlOX2FyY0lNeExOa252dVlSalBDUU9ucDdNZkhKUmpXVGxTS29fUFd5RQ?oc=5\" target=\"_blank\">First Alert Forecast | Flood risk heightens in coalfields</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSAZ</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdDJMb0toYWlWbmhhQ0FVZWJGcXdvZWxCNGFDUng3d1lFazN2SjZWQnJMbDctbjFXQlNJUGRidmYyWEY5enhlY05FTXpwNDhTSVBad1Y4cVYyb3Bvb3labk41bjNRajY2Y1ZvRkNGbmVibzBSdjd6dTVNSVV5a05nd3BGdEQ3N205Q3AtZ0FEUGM4elBLY3pTQXoteW1sTXRm?oc=5",
+        "date": "2026-09-24",
+        "title": "Expect more rain and possible flooding through Friday in New Mexico - kob.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOdDJMb0toYWlWbmhhQ0FVZWJGcXdvZWxCNGFDUng3d1lFazN2SjZWQnJMbDctbjFXQlNJUGRidmYyWEY5enhlY05FTXpwNDhTSVBad1Y4cVYyb3Bvb3labk41bjNRajY2Y1ZvRkNGbmVibzBSdjd6dTVNSVV5a05nd3BGdEQ3N205Q3AtZ0FEUGM4elBLY3pTQXoteW1sTXRm?oc=5\" target=\"_blank\">Expect more rain and possible flooding through Friday in New Mexico</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">kob.com</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxONkZlSXlLVDNaOXdmU2V6LWNqRVI4NmxGbWs0MktlZC1qTEt4SG1fVmg2M3p3NGcybkwwUGN0bmItdm9oZnY2bHVIYW5iY1p0ZGFmN21wYjFTdkJIWGw0RUZpcWxaOWZOdmxKQkY2cXFKSFhIREFwbEhHbkxQZ1dNdlpiZ2xpQWlVUGR1LTdpWGhIQl8yUXJTUVhCdlBPVXg0eENBTtIBqgFBVV95cUxPX2RhZTVnTHJtakNMVkN2OUtYQzFRUGJrZmdPQ2VkaTFCSnZlcjFtWHRWdE0xSHAzVUZiY2c2dHBLZm1FQzQ3LUJ3VndndGRkUE5adE4tdWNYYTRta0VRT2VvcGpmOG9XVHlGRnRPT09MbW5Wa2JUbUxkTmxRSU0zbTV5MUVyOW1KVXZGMXBISW1hTHdERzVJM1RWcmhteDV3V25NbEZ0MTRjUQ?oc=5",
+        "date": "2026-09-24",
+        "title": "Hampton braces as coastal flood warning goes into effect - WAVY.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxONkZlSXlLVDNaOXdmU2V6LWNqRVI4NmxGbWs0MktlZC1qTEt4SG1fVmg2M3p3NGcybkwwUGN0bmItdm9oZnY2bHVIYW5iY1p0ZGFmN21wYjFTdkJIWGw0RUZpcWxaOWZOdmxKQkY2cXFKSFhIREFwbEhHbkxQZ1dNdlpiZ2xpQWlVUGR1LTdpWGhIQl8yUXJTUVhCdlBPVXg0eENBTtIBqgFBVV95cUxPX2RhZTVnTHJtakNMVkN2OUtYQzFRUGJrZmdPQ2VkaTFCSnZlcjFtWHRWdE0xSHAzVUZiY2c2dHBLZm1FQzQ3LUJ3VndndGRkUE5adE4tdWNYYTRta0VRT2VvcGpmOG9XVHlGRnRPT09MbW5Wa2JUbUxkTmxRSU0zbTV5MUVyOW1KVXZGMXBISW1hTHdERzVJM1RWcmhteDV3V25NbEZ0MTRjUQ?oc=5\" target=\"_blank\">Hampton braces as coastal flood warning goes into effect</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WAVY.com</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQX3Y0QWx3ZFpfQTZiSFVVY0p1aTAtLUEweFhkTDZZZm5DZ2pZblRRT2tLcERFVGU5ZHBRdDg2MDZYLU9adzJfT3c3MkctcW0xYTJuTE5QdmhuUzFseERYanJaWEhCaFFIMDFXQWpjZDRSSGFzSThpeTl2TlAxSG5qc2JpaklZTkxCQ0w0VFkzbw?oc=5",
+        "date": "2026-09-24",
+        "title": "Hampton braces as coastal flood warning in effect - WAVY.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxQX3Y0QWx3ZFpfQTZiSFVVY0p1aTAtLUEweFhkTDZZZm5DZ2pZblRRT2tLcERFVGU5ZHBRdDg2MDZYLU9adzJfT3c3MkctcW0xYTJuTE5QdmhuUzFseERYanJaWEhCaFFIMDFXQWpjZDRSSGFzSThpeTl2TlAxSG5qc2JpaklZTkxCQ0w0VFkzbw?oc=5\" target=\"_blank\">Hampton braces as coastal flood warning in effect</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WAVY.com</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUFNic0RBUkpEY21BOHFhczBfLU1CNFVwN3BaM3F0eFZTOWFETG1PdnM5dDEyNW5PTWF4cUhTeVprTTlSY0lDdUJzekNjc2FkOVZHd1FoZDBXVzB0WTBmNzFIdGpmVm92UmNVa2k3aUl2NzdNd0NHVk9DVU0ydmZkZHBGX21WM1JmaVVQY0tEM2ZnQmJSWFZqSWFyWGlJTWd6TGlzMHJGMkRsTkw3eXRRbjlqM0c?oc=5",
+        "date": "2026-09-24",
+        "title": "First Warning Forecast: Coastal flooding and windy conditions continue - WTKR",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQUFNic0RBUkpEY21BOHFhczBfLU1CNFVwN3BaM3F0eFZTOWFETG1PdnM5dDEyNW5PTWF4cUhTeVprTTlSY0lDdUJzekNjc2FkOVZHd1FoZDBXVzB0WTBmNzFIdGpmVm92UmNVa2k3aUl2NzdNd0NHVk9DVU0ydmZkZHBGX21WM1JmaVVQY0tEM2ZnQmJSWFZqSWFyWGlJTWd6TGlzMHJGMkRsTkw3eXRRbjlqM0c?oc=5\" target=\"_blank\">First Warning Forecast: Coastal flooding and windy conditions continue</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WTKR</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5mdmgzX0ZpYWNVRmZCVjJjNVRka2ZUUVl4ZHB0dGt1S1dUWk4yZHl5bVA4YVRYSTFTLU9vV1h1R2ZpNTNnTkM2M0c4czRPNGQ2S2ZVR0dicmxwdFhkR1HSAWNBVV95cUxPUlllZHduaXVMU3ZlbUoxeVRBZ2xWSTVvVzFXRmhTWUpEamY4TU8xY1psNVprY1FOT05OeDRqZ1JxNGFTTGl4OTZuX29QYl9POTVxWUxoRU9vSnc0a3pOc29fdVE?oc=5",
+        "date": "2026-09-24",
+        "title": "Coastal Flood Warning in Annapolis after DMV gets days of rain - FOX 5 DC",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE5mdmgzX0ZpYWNVRmZCVjJjNVRka2ZUUVl4ZHB0dGt1S1dUWk4yZHl5bVA4YVRYSTFTLU9vV1h1R2ZpNTNnTkM2M0c4czRPNGQ2S2ZVR0dicmxwdFhkR1HSAWNBVV95cUxPUlllZHduaXVMU3ZlbUoxeVRBZ2xWSTVvVzFXRmhTWUpEamY4TU8xY1psNVprY1FOT05OeDRqZ1JxNGFTTGl4OTZuX29QYl9POTVxWUxoRU9vSnc0a3pOc29fdVE?oc=5\" target=\"_blank\">Coastal Flood Warning in Annapolis after DMV gets days of rain</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FOX 5 DC</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdTZHVjFBS19sMXUwckhtMTVxS3AyLUFseG5TMFpnWkM3SU5lSFZEQnJBSUVoVWJBZTlFNUNCUmh2NmNVcGtUVWFDNHVVYW1VN215TU10dUcwcDB1VjRoZDlyMnpCaVo5QlpodXo4N0dieEU5Yy0wOWpqc0pJcERJMlljN3FCZF81RUpLZTNoT1Z0TThTbFNjVW1BMVdOenFfbGg2a21RaEZPMFUtcEF1Ym9n?oc=5",
+        "date": "2026-09-24",
+        "title": "Strong Winds, Flooding Threaten Beaches - wrde.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQdTZHVjFBS19sMXUwckhtMTVxS3AyLUFseG5TMFpnWkM3SU5lSFZEQnJBSUVoVWJBZTlFNUNCUmh2NmNVcGtUVWFDNHVVYW1VN215TU10dUcwcDB1VjRoZDlyMnpCaVo5QlpodXo4N0dieEU5Yy0wOWpqc0pJcERJMlljN3FCZF81RUpLZTNoT1Z0TThTbFNjVW1BMVdOenFfbGg2a21RaEZPMFUtcEF1Ym9n?oc=5\" target=\"_blank\">Strong Winds, Flooding Threaten Beaches</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">wrde.com</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQUzBEdEo5Wk1VVFJzTks5ajBwcFgweTg5S3RjT1dOZ0p0bzZnVnIwVFdxRXJYOThzMXFZRHFCSExqbXpNX29ScWdwcC1QbGRGX1d3X2MwNk93NVZBbW9zbkJzSUNNVWlZZVY2ekRiRWtDakU3RDFQZFJSaUNZdUozTlM0WGtMbFoyNGtsTkR3djd6TzNLa2wyd1NCOHFiQmhHWGxoYUEwTkZENmVVMWJYX3pwcXNJUjNueUxKZjdfY2luTjV2UG9mVXNyUi1Gd1Ji0gHWAUFVX3lxTFBiZ1g3Vl9XZFc3UW1jUlBYT3ZUQUFFdVgtaWw5eTFtOTJ4Z0hZbV9uLUNTNzBTUEZxWVZaM0RpMkFGZG90SWxtNGNxeGZqQmxZSmF2QXEyN2pTa2JKNnp0dUlHQWUyTG1UMWZlUmpEeDJ2aGI3X1ZzMGdmTGJBRmVHWUUwMzU4M3kyVzdOOEpPSlp3dWxtSXR1TjlqWjdxZU5XUEpRTWVXTVJoTHFVQmdQOW9tbFZmSGRtNm5pbWhVbW13QzRXNGRGOVlHMVBJUEJ4UkxZX1E?oc=5",
+        "date": "2026-09-24",
+        "title": "Rain and storms chances are going up! Flash Flood Watch for Oklahoma Panhandle. Great weather pattern for rainfall! - KFOR",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxQUzBEdEo5Wk1VVFJzTks5ajBwcFgweTg5S3RjT1dOZ0p0bzZnVnIwVFdxRXJYOThzMXFZRHFCSExqbXpNX29ScWdwcC1QbGRGX1d3X2MwNk93NVZBbW9zbkJzSUNNVWlZZVY2ekRiRWtDakU3RDFQZFJSaUNZdUozTlM0WGtMbFoyNGtsTkR3djd6TzNLa2wyd1NCOHFiQmhHWGxoYUEwTkZENmVVMWJYX3pwcXNJUjNueUxKZjdfY2luTjV2UG9mVXNyUi1Gd1Ji0gHWAUFVX3lxTFBiZ1g3Vl9XZFc3UW1jUlBYT3ZUQUFFdVgtaWw5eTFtOTJ4Z0hZbV9uLUNTNzBTUEZxWVZaM0RpMkFGZG90SWxtNGNxeGZqQmxZSmF2QXEyN2pTa2JKNnp0dUlHQWUyTG1UMWZlUmpEeDJ2aGI3X1ZzMGdmTGJBRmVHWUUwMzU4M3kyVzdOOEpPSlp3dWxtSXR1TjlqWjdxZU5XUEpRTWVXTVJoTHFVQmdQOW9tbFZmSGRtNm5pbWhVbW13QzRXNGRGOVlHMVBJUEJ4UkxZX1E?oc=5\" target=\"_blank\">Rain and storms chances are going up! Flash Flood Watch for Oklahoma Panhandle. Great weather pattern for rainfall!</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KFOR</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOb2xpLXJTc1V2V0NXZkhtcWZrdXJDMUR0TE9uT2c1NWxFTEVnMnZfeG1adFA4V1NoMTN3M0o5NzFvVmI2YllIWk9wb3dwTHRic2VMMHlfTThDWnc2OW05Y3g3aEVUOG1ISkdKTjJRR3VvWXBSN0kwSUZ5SVp2YUVyQ011WXcyU2hQVTJQRWFBS0tHcFJsbzMyUWlwSWVHQ3V6bW1abU1nY05adE03MlNhM0JWN19ydzJEb1AyZGxtYVJtQkJCM2xGVGlKM19iVjB2SHkteU1LVjRMU21u?oc=5",
+        "date": "2026-09-24",
+        "title": "Pinal County sheriff testifies before Senate on Flock camera concerns - KVOA",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxOb2xpLXJTc1V2V0NXZkhtcWZrdXJDMUR0TE9uT2c1NWxFTEVnMnZfeG1adFA4V1NoMTN3M0o5NzFvVmI2YllIWk9wb3dwTHRic2VMMHlfTThDWnc2OW05Y3g3aEVUOG1ISkdKTjJRR3VvWXBSN0kwSUZ5SVp2YUVyQ011WXcyU2hQVTJQRWFBS0tHcFJsbzMyUWlwSWVHQ3V6bW1abU1nY05adE03MlNhM0JWN19ydzJEb1AyZGxtYVJtQkJCM2xGVGlKM19iVjB2SHkteU1LVjRMU21u?oc=5\" target=\"_blank\">Pinal County sheriff testifies before Senate on Flock camera concerns</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KVOA</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOLS02bUFWSjFWZ2dqbV91TS1rYW1GM2l6dUVRYnZtOXdVcGI3Wk5NTUJyZ2lxNXpGOGJDUnM3cFBfOTIzNDZCU3hDSDBxOHE3TF9mTVBwZnRPUjJFeXV3M1BpY0ZfVFExRzctc3VkaWRYTGRkNEo4OEpoeklOaEZLLVdKWUI1TmxwLXhEcVYtdkpZTjlaNUtyUXh30gGfAUFVX3lxTE5kclRISGdHWmtSSUM3RTdvdVd1X0J6b1lWM1NqQUUxMEdKLVROOWsxdmVvaHZHbU80WG9TZzByU01xUW5RMXB6cWVTby1wcE05bTJaOUVJdWd5Ry1zVlo4VDlVU29XLUhfQTJEX0RxN0JHUTNMd01WWEpqbHlOMDlKOTBLUEsxQ3RFTmdmaU9vNGp1bzlGNjdYaEFjSV82dw?oc=5",
+        "date": "2026-09-24",
+        "title": "Weekend nor'easter: Flooding, beach erosion concerns along the Jersey shore - 6abc Philadelphia",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxOLS02bUFWSjFWZ2dqbV91TS1rYW1GM2l6dUVRYnZtOXdVcGI3Wk5NTUJyZ2lxNXpGOGJDUnM3cFBfOTIzNDZCU3hDSDBxOHE3TF9mTVBwZnRPUjJFeXV3M1BpY0ZfVFExRzctc3VkaWRYTGRkNEo4OEpoeklOaEZLLVdKWUI1TmxwLXhEcVYtdkpZTjlaNUtyUXh30gGfAUFVX3lxTE5kclRISGdHWmtSSUM3RTdvdVd1X0J6b1lWM1NqQUUxMEdKLVROOWsxdmVvaHZHbU80WG9TZzByU01xUW5RMXB6cWVTby1wcE05bTJaOUVJdWd5Ry1zVlo4VDlVU29XLUhfQTJEX0RxN0JHUTNMd01WWEpqbHlOMDlKOTBLUEsxQ3RFTmdmaU9vNGp1bzlGNjdYaEFjSV82dw?oc=5\" target=\"_blank\">Weekend nor'easter: Flooding, beach erosion concerns along the Jersey shore</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">6abc Philadelphia</font>",
+        "similarity_excluded": "No",
+        "score": 6,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNOXc0eVl5WGwwSDRNZjFXdndERFhQcTNiOW5BZEhTc05IaVhGN09NcG5pMmlObkpDaGVfMzVBb2FYbXVIS3lULWdOMHd5RGRpb3paWm1mdERNa09OTHZSVFJPNnV6UG1ZWEo1Uk9OSkRJZTlpUElka2tyZVhPVnRtSzlPTGYtT3BEUFo3b1N4SnJyLWVBWnBOMWQzckY1Ui1KV043Uko0X1YxVVpSMHkyRkNfTnlvMlVMZ1JtYUs3aURtdHB2?oc=5",
+        "date": "2026-09-24",
+        "title": "Neighbors join search for missing Three Points teen - KVOA",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxNOXc0eVl5WGwwSDRNZjFXdndERFhQcTNiOW5BZEhTc05IaVhGN09NcG5pMmlObkpDaGVfMzVBb2FYbXVIS3lULWdOMHd5RGRpb3paWm1mdERNa09OTHZSVFJPNnV6UG1ZWEo1Uk9OSkRJZTlpUElka2tyZVhPVnRtSzlPTGYtT3BEUFo3b1N4SnJyLWVBWnBOMWQzckY1Ui1KV043Uko0X1YxVVpSMHkyRkNfTnlvMlVMZ1JtYUs3aURtdHB2?oc=5\" target=\"_blank\">Neighbors join search for missing Three Points teen</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KVOA</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1seUxXdXM2QjgwQ3dVYThMbmNPVExxTnJfSUNHNnlpQll6cWtWYkd2ZWZUZlBXMmNSY1RxdW1xT1JPZTBhUnY5Y2dKMDhrdUp4cmtPRkhRdnR5SWVxY3ZXOGpmWEZxNDZtVGR1Z09ldi1oc1At0gF6QVVfeXFMUHRrcmM3ZmlBVmh4aXMzNldKV1dyVDk5OFZaemR2Zmdzc09GallpMWRqXzk1WkpwajliLUdQMUFVdVJfUWg5TjNOR2dXSDN0SXZXaXh2Z3RTTUIwWklsdk5rQzNKU3UzWl9aeWh5Z3Rta2NEektWa2YxUWc?oc=5",
+        "date": "2026-09-24",
+        "title": "Maui County officials prepare for heavy rain, flash flooding - KHON2",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE1seUxXdXM2QjgwQ3dVYThMbmNPVExxTnJfSUNHNnlpQll6cWtWYkd2ZWZUZlBXMmNSY1RxdW1xT1JPZTBhUnY5Y2dKMDhrdUp4cmtPRkhRdnR5SWVxY3ZXOGpmWEZxNDZtVGR1Z09ldi1oc1At0gF6QVVfeXFMUHRrcmM3ZmlBVmh4aXMzNldKV1dyVDk5OFZaemR2Zmdzc09GallpMWRqXzk1WkpwajliLUdQMUFVdVJfUWg5TjNOR2dXSDN0SXZXaXh2Z3RTTUIwWklsdk5rQzNKU3UzWl9aeWh5Z3Rta2NEektWa2YxUWc?oc=5\" target=\"_blank\">Maui County officials prepare for heavy rain, flash flooding</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KHON2</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPWXRvcFQ3ODZ1LWF2RHNlSVhjNjlEQUM2Z3plNVFoQmlIenJEQUhOUlVob0ViVXU2dG43Yy1PbHMxOEkxOXRoaUZfN1E5SWRBTmNQbHhIM3Fsei1Wd2tLZDhJWmpPUFd6dWs0N2szQVVYZUtoMzRPcGphdVhOV2ZQQUZCTkZDa29FYUZqNFFoOExWSHozeHJkbHRwN282WUczazVYNEh5dzd3RTh6Y1dPaHBLeTdLaktXTTFOVTN6aFFmaGgwdV9qZDlnOWxIUFdIYVNoT3FERVRSMHhZbmFoRWFBOUJOU25ja0NXb1N3aVBGU3JHYW9aVk96Qk4xQ3ZERVE?oc=5",
+        "date": "2026-09-24",
+        "title": "Stafford OEM Issues Storm Advisory: Coastal Flood Warning in Effect, Gusts up to 50 MPH Expected - tapinto.net",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggJBVV95cUxPWXRvcFQ3ODZ1LWF2RHNlSVhjNjlEQUM2Z3plNVFoQmlIenJEQUhOUlVob0ViVXU2dG43Yy1PbHMxOEkxOXRoaUZfN1E5SWRBTmNQbHhIM3Fsei1Wd2tLZDhJWmpPUFd6dWs0N2szQVVYZUtoMzRPcGphdVhOV2ZQQUZCTkZDa29FYUZqNFFoOExWSHozeHJkbHRwN282WUczazVYNEh5dzd3RTh6Y1dPaHBLeTdLaktXTTFOVTN6aFFmaGgwdV9qZDlnOWxIUFdIYVNoT3FERVRSMHhZbmFoRWFBOUJOU25ja0NXb1N3aVBGU3JHYW9aVk96Qk4xQ3ZERVE?oc=5\" target=\"_blank\">Stafford OEM Issues Storm Advisory: Coastal Flood Warning in Effect, Gusts up to 50 MPH Expected</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">tapinto.net</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOdGJnLVktcVlZdGp0ZElZUXVDLURHclhZVHcyWXRWNjJzdmxFR2MyTEprbDhiY2RtNGdIbHMxZGJWbHF4SXBkSXJpUnRMdU8xM05BTThuaHhaTVd2bjVGQWp4R3J2cWlCYmpBVkpNamdBbjRyNnMzQzk2bjVseWdfUGlJOHVURFpZWVhLNHUweUZSWkRRZkU5RzZqZUVncG11VDk2QVhmU0RvWjRIR3pOSHI2MlMtVW80N1REUHZNa3NMazFFYzh0OGRfejVCWEE?oc=5",
+        "date": "2026-09-24",
+        "title": "Search for missing Three Points teen Ryker Lee grows urgent - KVOA",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxOdGJnLVktcVlZdGp0ZElZUXVDLURHclhZVHcyWXRWNjJzdmxFR2MyTEprbDhiY2RtNGdIbHMxZGJWbHF4SXBkSXJpUnRMdU8xM05BTThuaHhaTVd2bjVGQWp4R3J2cWlCYmpBVkpNamdBbjRyNnMzQzk2bjVseWdfUGlJOHVURFpZWVhLNHUweUZSWkRRZkU5RzZqZUVncG11VDk2QVhmU0RvWjRIR3pOSHI2MlMtVW80N1REUHZNa3NMazFFYzh0OGRfejVCWEE?oc=5\" target=\"_blank\">Search for missing Three Points teen Ryker Lee grows urgent</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KVOA</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxObW11N3RxQ3dSYkxET1ItWXpIQmxyV0gyUXlxb1hOSzNEZ3FYMXNfalQ3NC00ZG52V181M3dLZHQ4RWN1WTZCeHhmblNWbUFhV2djdDc3Qk1vZThIU1piOFFqcTIyVjROWUdZMFFKQzlOYkt2U0cyV2g3c1J5b1V0YWYybk40ZXZCVGhjU1NXdmxqWDFGb1NBRlhFYWRBNWEwcjZHYm5WZlNlckRITk1sc3VYWkVvVEdCaTgwcEZKNTZxTEt1dXNXdlUyaDFvcEN2Z0ZEdGc2UmR5eExPcHY5RFZETnZiS1k?oc=5",
+        "date": "2026-09-24",
+        "title": "Coastal Flood Warnings Issued Across NJ as Strong Winds and Tidal Flooding Threaten Shore Communities - tapinto.net",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxObW11N3RxQ3dSYkxET1ItWXpIQmxyV0gyUXlxb1hOSzNEZ3FYMXNfalQ3NC00ZG52V181M3dLZHQ4RWN1WTZCeHhmblNWbUFhV2djdDc3Qk1vZThIU1piOFFqcTIyVjROWUdZMFFKQzlOYkt2U0cyV2g3c1J5b1V0YWYybk40ZXZCVGhjU1NXdmxqWDFGb1NBRlhFYWRBNWEwcjZHYm5WZlNlckRITk1sc3VYWkVvVEdCaTgwcEZKNTZxTEt1dXNXdlUyaDFvcEN2Z0ZEdGc2UmR5eExPcHY5RFZETnZiS1k?oc=5\" target=\"_blank\">Coastal Flood Warnings Issued Across NJ as Strong Winds and Tidal Flooding Threaten Shore Communities</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">tapinto.net</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": null,
+        "tweet_id": "2102980457654878248",
+        "geo": {
+            "country": "United States",
+            "name": "New Jersey",
+            "latitude": 40.0583,
+            "longitude": -74.4057,
+            "confidence": 0.9
+        }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOWklyN0swcTRCeEt1b2U4cXJTeHRUUWxWa2NtX29vcXp2N0d6LWxza2F5Z3cxMHZvYThPWEp0MEQxZElsckNmb09ldnRFUTRyTF9OSXpsSUd1MkZpTFdlWTloTnVCdFJueUdJZkdSZFdwWEUwNWNxTm1kNXBOTjFFZlpIMHI1eDNYTVdkWVdXWTA0YVE?oc=5",
+        "date": "2026-09-24",
+        "title": "Ruidoso avoids major flooding after steady rainfall - KOAT",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxOWklyN0swcTRCeEt1b2U4cXJTeHRUUWxWa2NtX29vcXp2N0d6LWxza2F5Z3cxMHZvYThPWEp0MEQxZElsckNmb09ldnRFUTRyTF9OSXpsSUd1MkZpTFdlWTloTnVCdFJueUdJZkdSZFdwWEUwNWNxTm1kNXBOTjFFZlpIMHI1eDNYTVdkWVdXWTA0YVE?oc=5\" target=\"_blank\">Ruidoso avoids major flooding after steady rainfall</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KOAT</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSVJlNnpoTk40MlhadExPR0dlLXFFV09pRVNFUUhtQzF3UjZlcFZOWTZ4S3YzWTctWnZoTkVfdkJITHBlZjFrOUxxYVdvZWZ0RWt0VUkxLWFMV2t0YTIzQWZLdEJ5eFc2UERObDFtZnhTa2p1Qjh6Q0ZuOUNMdDM5cHlITl9VWVlE?oc=5",
+        "date": "2026-09-24",
+        "title": "Maps: Tracking Hurricane Polo - The New York Times",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSVJlNnpoTk40MlhadExPR0dlLXFFV09pRVNFUUhtQzF3UjZlcFZOWTZ4S3YzWTctWnZoTkVfdkJITHBlZjFrOUxxYVdvZWZ0RWt0VUkxLWFMV2t0YTIzQWZLdEJ5eFc2UERObDFtZnhTa2p1Qjh6Q0ZuOUNMdDM5cHlITl9VWVlE?oc=5\" target=\"_blank\">Maps: Tracking Hurricane Polo</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOQXlUTzR4ck4tbnlKdEdHWTA0WnM0Y0FmWm92OC1nUVZrNkhuVUY5UUYtaURhZ2RvOU5kWG9HTFdzbWhBaGFjRzBkQWl3SGwwZVVEdGFxdW5NWjZ3X2loN294c29aSDdaUU1TMGt5Q0hHR3Z1QWdGeFpjcGF5RVl4V1MwZ3dBQ2VXcWZCdy1sUFlLZ2lf?oc=5",
+        "date": "2026-09-24",
+        "title": "Off Mexico, Hurricane Polo surges to Category 5, threatens flooding as it skirts the coast - The Cool Down",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxOQXlUTzR4ck4tbnlKdEdHWTA0WnM0Y0FmWm92OC1nUVZrNkhuVUY5UUYtaURhZ2RvOU5kWG9HTFdzbWhBaGFjRzBkQWl3SGwwZVVEdGFxdW5NWjZ3X2loN294c29aSDdaUU1TMGt5Q0hHR3Z1QWdGeFpjcGF5RVl4V1MwZ3dBQ2VXcWZCdy1sUFlLZ2lf?oc=5\" target=\"_blank\">Off Mexico, Hurricane Polo surges to Category 5, threatens flooding as it skirts the coast</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Cool Down</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQaVF6bUt6V0pRbUpYWExSNVg3bW40U29uTlFpb0hoaUxwMWZITmF6UUxTM1RtS2U3emlmd3o0STZLcG5uLWYxdnA3Q01qenhwaFF5NjNVOUZjaWJTVHZxSmV0UGEzeXgtNlVRdDJfZzlPOXhQaVRCbVRRZjRhMklBTG9tZjg5UjVoYVVIV29vUVJWdw?oc=5",
+        "date": "2026-09-24",
+        "title": "Hurricane Polo, an extremely powerful Category 4 storm, swirls off Mexico's Pacific coast. See its path. - CBS News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQaVF6bUt6V0pRbUpYWExSNVg3bW40U29uTlFpb0hoaUxwMWZITmF6UUxTM1RtS2U3emlmd3o0STZLcG5uLWYxdnA3Q01qenhwaFF5NjNVOUZjaWJTVHZxSmV0UGEzeXgtNlVRdDJfZzlPOXhQaVRCbVRRZjRhMklBTG9tZjg5UjVoYVVIV29vUVJWdw?oc=5\" target=\"_blank\">Hurricane Polo, an extremely powerful Category 4 storm, swirls off Mexico's Pacific coast. See its path.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CBS News</font>",
+        "similarity_excluded": "No",
+        "score": 3,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNXJXclRidUVXMDNDTzVScF9OS3dZbU5OREhGZEVPR3dna0gzUlZOM01kMURFWFpuQ0xORVZpZmR4Q0o5OVdRMTZVNFZlVk9YYmg4R0E3QWNqczRkZ2dTRUROMUZWOV9kNHJHT2FpQl9VNnJkRWRMTGdjbGVWSG93Vk9GZDNNTW1hVkEtbFZSdkxkVC15VnF3emdNMFdILXNjZk9HQmR2VVPSAbwBQVVfeXFMTmtTUFl2QjFqRWxITENMUFpMcnljSG9KYlVibnBaVVFmY2dvVUU0d2xteGN3dlE0Sjl6UktnbXFFd29oNHhjLWZ3T0NCNEdZLUdkeHlwZDNOQnJxU1hxcjN4VExuQnVTNTQtOUhhN2FlZVZtQzFxQS16Z250RGlZZFdfc0hRRXdTNTdVN3djY3lXOTlkdURkbHdRTUJGWkZKVTNsMFpsNnpKSUt5QlEwWlh6TFVlZ3dxZERfcmo?oc=5",
+        "date": "2026-09-24",
+        "title": "Officials prepare for flooding as Tropical Storm Nolo threatens Hawaii - Hawaii News Now",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNXJXclRidUVXMDNDTzVScF9OS3dZbU5OREhGZEVPR3dna0gzUlZOM01kMURFWFpuQ0xORVZpZmR4Q0o5OVdRMTZVNFZlVk9YYmg4R0E3QWNqczRkZ2dTRUROMUZWOV9kNHJHT2FpQl9VNnJkRWRMTGdjbGVWSG93Vk9GZDNNTW1hVkEtbFZSdkxkVC15VnF3emdNMFdILXNjZk9HQmR2VVPSAbwBQVVfeXFMTmtTUFl2QjFqRWxITENMUFpMcnljSG9KYlVibnBaVVFmY2dvVUU0d2xteGN3dlE0Sjl6UktnbXFFd29oNHhjLWZ3T0NCNEdZLUdkeHlwZDNOQnJxU1hxcjN4VExuQnVTNTQtOUhhN2FlZVZtQzFxQS16Z250RGlZZFdfc0hRRXdTNTdVN3djY3lXOTlkdURkbHdRTUJGWkZKVTNsMFpsNnpKSUt5QlEwWlh6TFVlZ3dxZERfcmo?oc=5\" target=\"_blank\">Officials prepare for flooding as Tropical Storm Nolo threatens Hawaii</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Hawaii News Now</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNEI5UzM0TUtvcjNRZkw1TUNxcFR6UVBnNFQ4WGx6Slc2QnhzQzBoMlV1YmN4U0dVbFhQTjVxRUZxMjJSOWE0SEJFS0RNY2twanI2Y0ZxaDgyT1V2SWFKaWc1MVZjUkRLNXdmOTRrdmlhRm5QWmkyV215MkduSFhjTmJiTU1XOVJ0T3dFT0JmYlY5TmFzbE84R2VhbE4tX2hOUTZOalBfS09jZ1UyNXdMM2J3NS15VlY2NlpMeQ?oc=5",
+        "date": "2026-09-24",
+        "title": "Tropical Storm Nolo threatens Hawaii with possible catastrophic flooding - WISH-TV",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxPNEI5UzM0TUtvcjNRZkw1TUNxcFR6UVBnNFQ4WGx6Slc2QnhzQzBoMlV1YmN4U0dVbFhQTjVxRUZxMjJSOWE0SEJFS0RNY2twanI2Y0ZxaDgyT1V2SWFKaWc1MVZjUkRLNXdmOTRrdmlhRm5QWmkyV215MkduSFhjTmJiTU1XOVJ0T3dFT0JmYlY5TmFzbE84R2VhbE4tX2hOUTZOalBfS09jZ1UyNXdMM2J3NS15VlY2NlpMeQ?oc=5\" target=\"_blank\">Tropical Storm Nolo threatens Hawaii with possible catastrophic flooding</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WISH-TV</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxObW11N3RxQ3dSYkxET1ItWXpIQmxyV0gyUXlxb1hOSzNEZ3FYMXNfalQ3NC00ZG52V181M3dLZHQ4RWN1WTZCeHhmblNWbUFhV2djdDc3Qk1vZThIU1piOFFqcTIyVjROWUdZMFFKQzlOYkt2U0cyV2g3c1J5b1V0YWYybk40ZXZCVGhjU1NXdmxqWDFGb1NBRlhFYWRBNWEwcjZHYm5WZlNlckRITk1sc3VYWkVvVEdCaTgwcEZKNTZxTEt1dXNXdlUyaDFvcEN2Z0ZEdGc2UmR5eExPcHY5RFZETnZiS1k?oc=5",
+        "date": "2026-09-24",
+        "title": "Coastal Flood Warnings Issued Across NJ as Strong Winds and Tidal Flooding Threaten Shore Communities - tapinto.net",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxObW11N3RxQ3dSYkxET1ItWXpIQmxyV0gyUXlxb1hOSzNEZ3FYMXNfalQ3NC00ZG52V181M3dLZHQ4RWN1WTZCeHhmblNWbUFhV2djdDc3Qk1vZThIU1piOFFqcTIyVjROWUdZMFFKQzlOYkt2U0cyV2g3c1J5b1V0YWYybk40ZXZCVGhjU1NXdmxqWDFGb1NBRlhFYWRBNWEwcjZHYm5WZlNlckRITk1sc3VYWkVvVEdCaTgwcEZKNTZxTEt1dXNXdlUyaDFvcEN2Z0ZEdGc2UmR5eExPcHY5RFZETnZiS1k?oc=5\" target=\"_blank\">Coastal Flood Warnings Issued Across NJ as Strong Winds and Tidal Flooding Threaten Shore Communities</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">tapinto.net</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 FORECAST New Jersey: Coastal flood warnings issued for shore communities due to strong winds and tidal flooding.",
+        "type": "news",
+        "tweet_id": "2102980457654878248",
+        "geo": {
+            "country": "United States",
+            "name": "New Jersey",
+            "latitude": 40.0583,
+            "longitude": -74.4057,
             "confidence": 0.9
         }
     }
