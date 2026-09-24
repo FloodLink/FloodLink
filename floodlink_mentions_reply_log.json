@@ -1,6 +1,6 @@
 {
     "metadata": {
-        "last_mention_id": 2101374966130466916
+        "last_mention_id": 2103223841573199877
     },
     "1996315914485055960": {
         "date": "2025-12-03",
@@ -226,5 +226,10 @@
         "date": "2026-09-19",
         "replied": true,
         "text": "No active flood alerts for Ninh Binh, including Hoa Lu and Tam Coc. Water levels remain within normal range. We'll monitor and update if conditions shift."
+    },
+    "2103223841573199877": {
+        "date": "2026-09-24",
+        "replied": true,
+        "text": "Thanks, we're set to begin API testing next week. Looking forward to exploring how the integration can strengthen real-time flood alerts."
     }
 }
