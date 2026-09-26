@@ -16664,5 +16664,14 @@
             "longitude": -105.273,
             "confidence": 0.9
         }
+    },
+    {
+        "link": null,
+        "date": "2026-09-26",
+        "status": "posted",
+        "tweet": "Extreme rainfall (>100mm/day) frequency rose 42% in \ud83c\uddf5\ud83c\udded Manila from 2020-2025 versus 2015-2019, outpacing \ud83c\uddf9\ud83c\udded Bangkok's 31% increase.",
+        "type": "statistical",
+        "category": "extreme rainfall trends in major cities",
+        "tweet_id": "2103925207895318766"
     }
 ]
