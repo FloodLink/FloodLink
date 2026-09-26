@@ -1,22 +1,5 @@
 [
     {
-        "link": null,
-        "date": "2026-08-27",
-        "status": "posted",
-        "tweet": "\ud83c\uddf3\ud83c\uddf1 The Netherlands maintains 3,700 km of primary dikes as its core flood defense network.",
-        "type": "infrastructure",
-        "tweet_id": "2092797900460093456"
-    },
-    {
-        "link": null,
-        "date": "2026-08-27",
-        "status": "posted",
-        "tweet": "In 2020, 41 million people lived in US floodplains. By 2025 projections, this rose to 44 million due to continued development in zones exposed to river flooding and storm surge.",
-        "type": "statistical",
-        "category": "population living in floodplains",
-        "tweet_id": "2092962238776611103"
-    },
-    {
         "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxON0ljZ25TOEpEQ0hQVktEejVVeDRJVll2Y1J2UjQ2S2N0a1ludl9ieDdJQWJEZ1Y0NjNoMVVKSkxnNE5ON20tX2VDTnJ4VHNYV3AwNVJQM1BEbVJTcmVrWERuUnZTYWZvc0pkNkdudFNIOU9aRksxSnV2RnkwckNEcnBwbjU4RnFCV0kya2NTeHVtbXoteF81bGhFb3AyUE1MNTJfMVM1bWJmRG8zNnVuTFhFM3BmcER3a0wyMm1yRmxEUQ?oc=5",
         "date": "2026-08-28",
         "title": "Storm and flood warnings for heavy rain, strong storms | Live updates - ABC7 Eyewitness News",
@@ -16478,5 +16461,14 @@
         "score": 3,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-09-26",
+        "status": "posted",
+        "tweet": "\ud83c\uddee\ud83c\uddf3 Mumbai recorded 32% more extreme rainfall events in 2024-2026 than in 2020-2023, compared to a 19% rise in \ud83c\udde7\ud83c\uddf7 Rio de Janeiro, driving higher flash flood exposure.",
+        "type": "statistical",
+        "category": "extreme rainfall trends in major cities",
+        "tweet_id": "2103654590155551113"
     }
 ]
