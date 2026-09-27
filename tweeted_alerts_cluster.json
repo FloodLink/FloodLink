@@ -18569,7 +18569,7 @@
     "rain_mm": 59.88,
     "soil_moisture": 0.429,
     "raw_dynamic_score": 8.361,
-    "last_updated": "2026-06-06T19:18:02.014642Z",
+    "last_updated": "2026-09-27T14:42:24.988873Z",
     "last_tweeted_at": "2026-06-06T13:23:30.446900Z",
     "tweet_id": "2063250468843794772",
     "resolved": false
@@ -28760,7 +28760,7 @@
     "rain_mm": 49.62,
     "soil_moisture": 0.334,
     "raw_dynamic_score": 6.505,
-    "last_updated": "2026-07-28T16:40:56.447779Z",
+    "last_updated": "2026-09-27T14:42:24.988873Z",
     "last_tweeted_at": "2026-07-28T14:43:39.099059Z",
     "tweet_id": "2082114813988393254",
     "resolved": false
@@ -31565,7 +31565,7 @@
     "rain_mm": 52.69,
     "soil_moisture": 0.704,
     "raw_dynamic_score": 8.67,
-    "last_updated": "2026-08-11T07:14:27.298654Z",
+    "last_updated": "2026-09-27T14:42:24.988873Z",
     "last_tweeted_at": "2026-08-11T01:26:41.152686Z",
     "tweet_id": "2086987933450371447",
     "resolved": false
@@ -35110,22 +35110,6 @@
     "last_tweeted_at": "2026-09-08T23:18:00.138030Z",
     "tweet_id": "2097464778620907857",
     "resolved": false
-  },
-  "33.9167,134.6500": {
-    "country": "Japan",
-    "name": "Anan",
-    "risk_level": "Low",
-    "tweeted_level": "Low",
-    "latitude": 33.91667,
-    "longitude": 134.65,
-    "rain_mm": 2.81,
-    "soil_moisture": 1.0,
-    "raw_dynamic_score": 0.538,
-    "last_updated": "2026-09-26T13:43:01.169010Z",
-    "last_tweeted_at": "2026-09-26T13:43:01.169010Z",
-    "tweet_id": "2103842818355495298",
-    "resolved": true,
-    "resolved_at": "2026-09-26T13:43:01.169010Z"
   },
   "34.1385,134.5018": {
     "country": "Japan",
@@ -43879,9 +43863,24 @@
     "rain_mm": 58.75,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 11.236,
-    "last_updated": "2026-09-27T08:58:48.088770Z",
+    "last_updated": "2026-09-27T14:42:24.988873Z",
     "last_tweeted_at": "2026-09-27T08:58:48.088770Z",
     "tweet_id": "2104133940726362428",
+    "resolved": false
+  },
+  "12.0616,0.3584": {
+    "country": "Burkina Faso",
+    "name": "Fada N'gourma",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 12.06157,
+    "longitude": 0.35843,
+    "rain_mm": 55.94,
+    "soil_moisture": 0.432,
+    "raw_dynamic_score": 7.83,
+    "last_updated": "2026-09-27T14:42:24.988873Z",
+    "last_tweeted_at": "2026-09-27T14:42:24.988873Z",
+    "tweet_id": "2104220165395362045",
     "resolved": false
   }
 }
