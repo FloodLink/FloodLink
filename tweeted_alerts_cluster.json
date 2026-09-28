@@ -15759,7 +15759,7 @@
     "rain_mm": 3.31,
     "soil_moisture": 0.553,
     "raw_dynamic_score": 0.5,
-    "last_updated": "2026-09-28T09:21:26.404953Z",
+    "last_updated": "2026-09-28T19:26:21.270180Z",
     "last_tweeted_at": "2026-09-28T09:21:26.404953Z",
     "tweet_id": "2104502268162666713",
     "resolved": true,
@@ -21085,10 +21085,14 @@
     "rain_mm": 64.25,
     "soil_moisture": 0.689,
     "raw_dynamic_score": 10.484,
-    "last_updated": "2026-09-28T09:21:26.404953Z",
+    "last_updated": "2026-09-28T19:26:21.270180Z",
     "last_tweeted_at": "2026-09-28T09:21:26.404953Z",
     "tweet_id": "2104502268162666713",
-    "resolved": false
+    "resolved": false,
+    "pending_downgrade": true,
+    "pending_target_level": "Low",
+    "pending_set_at": "2026-09-28T19:26:21.270180Z",
+    "pending_is_region": true
   },
   "31.1501,-81.4915": {
     "country": "United States",
@@ -27850,7 +27854,7 @@
     "rain_mm": 47.25,
     "soil_moisture": 0.69,
     "raw_dynamic_score": 7.714,
-    "last_updated": "2026-09-28T09:21:26.404953Z",
+    "last_updated": "2026-09-28T19:26:21.270180Z",
     "last_tweeted_at": "2026-07-27T06:31:27.325644Z",
     "tweet_id": "2081629059633631314",
     "resolved": false
@@ -28990,7 +28994,7 @@
     "rain_mm": 91.56,
     "soil_moisture": 0.741,
     "raw_dynamic_score": 15.373,
-    "last_updated": "2026-09-28T09:21:26.404953Z",
+    "last_updated": "2026-09-28T19:26:21.270180Z",
     "last_tweeted_at": "2026-09-28T09:21:26.404953Z",
     "tweet_id": "2104502268162666713",
     "resolved": false
@@ -31518,17 +31522,18 @@
   "5.2013,7.9837": {
     "country": "Nigeria",
     "name": "Itu",
-    "risk_level": "Medium",
-    "tweeted_level": "Extreme",
+    "risk_level": "Low",
+    "tweeted_level": "Low",
     "latitude": 5.20131,
     "longitude": 7.98373,
-    "rain_mm": 42.19,
-    "soil_moisture": 0.696,
-    "raw_dynamic_score": 6.908,
-    "last_updated": "2026-09-28T09:21:26.404953Z",
-    "last_tweeted_at": "2026-08-16T15:54:53.343968Z",
-    "tweet_id": "2089018090960863532",
-    "resolved": false
+    "rain_mm": 1.25,
+    "soil_moisture": 0.649,
+    "raw_dynamic_score": 0.199,
+    "last_updated": "2026-09-28T19:26:21.270180Z",
+    "last_tweeted_at": "2026-09-28T19:26:21.270180Z",
+    "tweet_id": "2104654253650596241",
+    "resolved": true,
+    "resolved_at": "2026-09-28T19:26:21.270180Z"
   },
   "28.5967,81.6166": {
     "country": "Nepal",
@@ -34105,7 +34110,7 @@
     "rain_mm": 41.62,
     "soil_moisture": 0.641,
     "raw_dynamic_score": 6.612,
-    "last_updated": "2026-09-28T09:21:26.404953Z",
+    "last_updated": "2026-09-28T19:26:21.270180Z",
     "last_tweeted_at": "2026-09-02T02:22:43.251363Z",
     "tweet_id": "2094974821398630407",
     "resolved": false
@@ -39336,17 +39341,18 @@
   "16.1495,94.7590": {
     "country": "Myanmar",
     "name": "Labutta",
-    "risk_level": "Medium",
-    "tweeted_level": "High",
+    "risk_level": "Low",
+    "tweeted_level": "Low",
     "latitude": 16.14948,
     "longitude": 94.75898,
-    "rain_mm": 50.25,
-    "soil_moisture": 0.744,
-    "raw_dynamic_score": 8.451,
-    "last_updated": "2026-09-28T09:21:26.404953Z",
-    "last_tweeted_at": "2026-09-21T02:46:33.454495Z",
-    "tweet_id": "2101867955097161763",
-    "resolved": false
+    "rain_mm": 2.81,
+    "soil_moisture": 0.711,
+    "raw_dynamic_score": 0.465,
+    "last_updated": "2026-09-28T19:26:21.270180Z",
+    "last_tweeted_at": "2026-09-28T19:26:21.270180Z",
+    "tweet_id": "2104654000591356100",
+    "resolved": true,
+    "resolved_at": "2026-09-28T19:26:21.270180Z"
   },
   "3.5249,16.0458": {
     "country": "Central African Republic",
@@ -39478,15 +39484,19 @@
     "rain_mm": 8.44,
     "soil_moisture": 0.661,
     "raw_dynamic_score": 1.355,
-    "last_updated": "2026-09-28T09:21:26.404953Z",
+    "last_updated": "2026-09-28T19:26:21.270180Z",
     "last_tweeted_at": "2026-09-27T23:39:27.833390Z",
     "tweet_id": "2104356550773207293",
     "resolved": true,
     "resolved_at": "2026-09-27T23:39:27.833390Z",
     "pending_downgrade": true,
-    "pending_target_level": "Medium",
-    "pending_set_at": "2026-09-28T03:00:04.083535Z",
-    "pending_is_region": true
+    "pending_target_level": "Low",
+    "pending_set_at": "2026-09-28T19:26:21.270180Z",
+    "pending_is_region": false,
+    "pending_observed_level": "Low",
+    "pending_observed_rain_mm": 17.62,
+    "pending_observed_soil_moisture": 0.712,
+    "pending_observed_raw_dynamic_score": 2.913
   },
   "40.6550,29.2769": {
     "country": "Türkiye",
@@ -41061,10 +41071,14 @@
     "rain_mm": 110.12,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 21.061,
-    "last_updated": "2026-09-28T09:21:26.404953Z",
+    "last_updated": "2026-09-28T19:26:21.270180Z",
     "last_tweeted_at": "2026-09-27T23:39:27.833390Z",
     "tweet_id": "2104356297940619695",
-    "resolved": false
+    "resolved": false,
+    "pending_downgrade": true,
+    "pending_target_level": "Low",
+    "pending_set_at": "2026-09-28T19:26:21.270180Z",
+    "pending_is_region": true
   },
   "35.1500,139.0667": {
     "country": "Japan",
@@ -41695,7 +41709,7 @@
     "rain_mm": 44.69,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 8.546,
-    "last_updated": "2026-09-28T09:21:26.404953Z",
+    "last_updated": "2026-09-28T19:26:21.270180Z",
     "last_tweeted_at": "2026-09-28T09:21:26.404953Z",
     "tweet_id": "2104501762551927090",
     "resolved": false
@@ -41710,7 +41724,7 @@
     "rain_mm": 42.88,
     "soil_moisture": 0.634,
     "raw_dynamic_score": 6.783,
-    "last_updated": "2026-09-28T09:21:26.404953Z",
+    "last_updated": "2026-09-28T19:26:21.270180Z",
     "last_tweeted_at": "2026-09-28T09:21:26.404953Z",
     "tweet_id": "2104502015036448812",
     "resolved": false
@@ -41770,7 +41784,7 @@
     "rain_mm": 59.69,
     "soil_moisture": 0.658,
     "raw_dynamic_score": 9.57,
-    "last_updated": "2026-09-28T09:21:26.404953Z",
+    "last_updated": "2026-09-28T19:26:21.270180Z",
     "last_tweeted_at": "2026-09-28T09:21:26.404953Z",
     "tweet_id": "2104502521347666320",
     "resolved": false
@@ -41785,7 +41799,7 @@
     "rain_mm": 52.81,
     "soil_moisture": 0.67,
     "raw_dynamic_score": 8.528,
-    "last_updated": "2026-09-28T09:21:26.404953Z",
+    "last_updated": "2026-09-28T19:26:21.270180Z",
     "last_tweeted_at": "2026-09-28T09:21:26.404953Z",
     "tweet_id": "2104502774280892442",
     "resolved": false
