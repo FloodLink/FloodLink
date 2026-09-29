@@ -17080,5 +17080,14 @@
             "longitude": 84.0,
             "confidence": 0.85
         }
+    },
+    {
+        "link": null,
+        "date": "2026-09-29",
+        "status": "posted",
+        "tweet": "In 2022, monsoon rainfall in \ud83c\uddf5\ud83c\uddf0 Pakistan reached five times normal levels, flooding one-third of the country and affecting 33 million people.",
+        "type": "statistical",
+        "category": "monsoon flood patterns in Asia",
+        "tweet_id": "2104966984744009955"
     }
 ]
