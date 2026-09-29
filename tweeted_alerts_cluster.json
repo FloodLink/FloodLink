@@ -4044,7 +4044,7 @@
     "rain_mm": 50.12,
     "soil_moisture": 0.641,
     "raw_dynamic_score": 7.96,
-    "last_updated": "2026-09-29T09:32:24.314809Z",
+    "last_updated": "2026-09-29T17:34:57.094827Z",
     "last_tweeted_at": "2026-02-05T01:22:36.088797Z",
     "tweet_id": "2019220626871918722",
     "resolved": false
@@ -12744,7 +12744,7 @@
     "rain_mm": 43.5,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 8.319,
-    "last_updated": "2026-09-29T09:32:24.314809Z",
+    "last_updated": "2026-09-29T17:34:57.094827Z",
     "last_tweeted_at": "2026-04-21T19:09:26.640297Z",
     "tweet_id": "2046667680321560584",
     "resolved": false
@@ -28090,7 +28090,7 @@
     "rain_mm": 46.0,
     "soil_moisture": 0.543,
     "raw_dynamic_score": 6.897,
-    "last_updated": "2026-09-29T09:32:24.314809Z",
+    "last_updated": "2026-09-29T17:34:57.094827Z",
     "last_tweeted_at": "2026-07-28T02:00:14.125708Z",
     "tweet_id": "2081923452064461022",
     "resolved": false
@@ -37779,7 +37779,7 @@
     "rain_mm": 39.56,
     "soil_moisture": 0.707,
     "raw_dynamic_score": 6.52,
-    "last_updated": "2026-09-29T09:32:24.314809Z",
+    "last_updated": "2026-09-29T17:34:57.094827Z",
     "last_tweeted_at": "2026-09-19T12:58:38.412051Z",
     "tweet_id": "2101295440503152841",
     "resolved": false
@@ -41547,7 +41547,7 @@
     "rain_mm": 47.31,
     "soil_moisture": 0.678,
     "raw_dynamic_score": 7.672,
-    "last_updated": "2026-09-29T09:32:24.314809Z",
+    "last_updated": "2026-09-29T17:34:57.094827Z",
     "last_tweeted_at": "2026-09-28T03:00:04.083535Z",
     "tweet_id": "2104405804723966434",
     "resolved": false
@@ -41721,9 +41721,24 @@
     "rain_mm": 44.12,
     "soil_moisture": 0.562,
     "raw_dynamic_score": 6.693,
-    "last_updated": "2026-09-29T09:32:24.314809Z",
+    "last_updated": "2026-09-29T17:34:57.094827Z",
     "last_tweeted_at": "2026-09-29T09:32:24.314809Z",
     "tweet_id": "2104866916422578382",
+    "resolved": false
+  },
+  "12.9908,7.6018": {
+    "country": "Nigeria",
+    "name": "Katsina",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 12.99082,
+    "longitude": 7.60177,
+    "rain_mm": 82.94,
+    "soil_moisture": 0.481,
+    "raw_dynamic_score": 11.971,
+    "last_updated": "2026-09-29T17:34:57.094827Z",
+    "last_tweeted_at": "2026-09-29T17:34:57.094827Z",
+    "tweet_id": "2104988349869985867",
     "resolved": false
   }
 }
