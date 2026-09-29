@@ -19383,15 +19383,15 @@
     "country": "Mexico",
     "name": "Ixtapa",
     "risk_level": "Medium",
-    "tweeted_level": "Medium",
+    "tweeted_level": "High",
     "latitude": 20.71598,
     "longitude": -105.20508,
-    "rain_mm": 48.0,
-    "soil_moisture": 0.622,
-    "raw_dynamic_score": 7.541,
-    "last_updated": "2026-06-10T18:03:30.100149Z",
-    "last_tweeted_at": "2026-06-10T12:25:40.217844Z",
-    "tweet_id": "2064685977575301461",
+    "rain_mm": 65.0,
+    "soil_moisture": 0.571,
+    "raw_dynamic_score": 9.914,
+    "last_updated": "2026-09-29T21:50:36.801288Z",
+    "last_tweeted_at": "2026-09-29T21:50:36.801288Z",
+    "tweet_id": "2105052672172916903",
     "resolved": false
   },
   "10.3042,1.3796": {
@@ -20117,17 +20117,18 @@
   "20.8820,-103.8360": {
     "country": "Mexico",
     "name": "Tequila",
-    "risk_level": "Medium",
-    "tweeted_level": "Medium",
+    "risk_level": "Low",
+    "tweeted_level": "High",
     "latitude": 20.88205,
     "longitude": -103.83599,
-    "rain_mm": 45.0,
-    "soil_moisture": 0.601,
-    "raw_dynamic_score": 6.983,
-    "last_updated": "2026-07-14T05:30:39.618659Z",
-    "last_tweeted_at": "2026-06-14T03:00:21.503043Z",
-    "tweet_id": "2065993000862282142",
-    "resolved": false
+    "rain_mm": 0.81,
+    "soil_moisture": 0.485,
+    "raw_dynamic_score": 0.118,
+    "last_updated": "2026-09-29T21:50:36.801288Z",
+    "last_tweeted_at": "2026-09-29T21:50:36.801288Z",
+    "tweet_id": "2105052672172916903",
+    "resolved": true,
+    "resolved_at": "2026-09-29T21:50:36.801288Z"
   },
   "3.7396,96.8361": {
     "country": "Indonesia",
@@ -31501,22 +31502,6 @@
     "tweet_id": "2088928924164047222",
     "resolved": false
   },
-  "5.2013,7.9837": {
-    "country": "Nigeria",
-    "name": "Itu",
-    "risk_level": "Low",
-    "tweeted_level": "Low",
-    "latitude": 5.20131,
-    "longitude": 7.98373,
-    "rain_mm": 1.25,
-    "soil_moisture": 0.649,
-    "raw_dynamic_score": 0.199,
-    "last_updated": "2026-09-28T19:26:21.270180Z",
-    "last_tweeted_at": "2026-09-28T19:26:21.270180Z",
-    "tweet_id": "2104654253650596241",
-    "resolved": true,
-    "resolved_at": "2026-09-28T19:26:21.270180Z"
-  },
   "28.5967,81.6166": {
     "country": "Nepal",
     "name": "Birendranagar",
@@ -36939,7 +36924,7 @@
     "rain_mm": 46.0,
     "soil_moisture": 0.556,
     "raw_dynamic_score": 6.952,
-    "last_updated": "2026-09-14T08:35:16.192143Z",
+    "last_updated": "2026-09-29T21:50:36.801288Z",
     "last_tweeted_at": "2026-09-14T03:06:31.916003Z",
     "tweet_id": "2099334491630420043",
     "resolved": false
@@ -39283,22 +39268,6 @@
     "last_tweeted_at": "2026-09-21T02:46:33.454495Z",
     "tweet_id": "2101867955097161763",
     "resolved": false
-  },
-  "16.1495,94.7590": {
-    "country": "Myanmar",
-    "name": "Labutta",
-    "risk_level": "Low",
-    "tweeted_level": "Low",
-    "latitude": 16.14948,
-    "longitude": 94.75898,
-    "rain_mm": 2.81,
-    "soil_moisture": 0.711,
-    "raw_dynamic_score": 0.465,
-    "last_updated": "2026-09-28T19:26:21.270180Z",
-    "last_tweeted_at": "2026-09-28T19:26:21.270180Z",
-    "tweet_id": "2104654000591356100",
-    "resolved": true,
-    "resolved_at": "2026-09-28T19:26:21.270180Z"
   },
   "3.5249,16.0458": {
     "country": "Central African Republic",
@@ -41739,6 +41708,36 @@
     "last_updated": "2026-09-29T17:34:57.094827Z",
     "last_tweeted_at": "2026-09-29T17:34:57.094827Z",
     "tweet_id": "2104988349869985867",
+    "resolved": false
+  },
+  "20.6170,-105.2302": {
+    "country": "Mexico",
+    "name": "Puerto Vallarta",
+    "risk_level": "High",
+    "tweeted_level": "High",
+    "latitude": 20.617,
+    "longitude": -105.23018,
+    "rain_mm": 138.5,
+    "soil_moisture": 0.672,
+    "raw_dynamic_score": 22.385,
+    "last_updated": "2026-09-29T21:50:36.801288Z",
+    "last_tweeted_at": "2026-09-29T21:50:36.801288Z",
+    "tweet_id": "2105052672172916903",
+    "resolved": false
+  },
+  "33.3944,-104.5249": {
+    "country": "United States",
+    "name": "Roswell",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 33.39437,
+    "longitude": -104.52491,
+    "rain_mm": 49.62,
+    "soil_moisture": 0.576,
+    "raw_dynamic_score": 7.589,
+    "last_updated": "2026-09-29T21:50:36.801288Z",
+    "last_tweeted_at": "2026-09-29T21:50:36.801288Z",
+    "tweet_id": "2105052925131427950",
     "resolved": false
   }
 }
