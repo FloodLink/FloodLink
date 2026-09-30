@@ -34295,7 +34295,7 @@
     "rain_mm": 41.56,
     "soil_moisture": 0.643,
     "raw_dynamic_score": 6.61,
-    "last_updated": "2026-09-30T11:52:03.183102Z",
+    "last_updated": "2026-09-30T17:39:28.276326Z",
     "last_tweeted_at": "2026-09-02T23:07:20.279772Z",
     "tweet_id": "2095288287090946065",
     "resolved": false
@@ -37580,7 +37580,7 @@
     "rain_mm": 42.62,
     "soil_moisture": 0.717,
     "raw_dynamic_score": 7.063,
-    "last_updated": "2026-09-30T11:52:03.183102Z",
+    "last_updated": "2026-09-30T17:39:28.276326Z",
     "last_tweeted_at": "2026-09-19T19:57:15.926447Z",
     "tweet_id": "2101400277652062603",
     "resolved": false
@@ -41260,6 +41260,51 @@
     "last_updated": "2026-09-30T11:52:03.183102Z",
     "last_tweeted_at": "2026-09-30T03:26:25.694676Z",
     "tweet_id": "2105137200127991986",
+    "resolved": false
+  },
+  "-5.3522,21.4219": {
+    "country": "The Democratic Republic of the Congo",
+    "name": "Luebo",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": -5.35218,
+    "longitude": 21.42192,
+    "rain_mm": 48.94,
+    "soil_moisture": 0.47,
+    "raw_dynamic_score": 7.017,
+    "last_updated": "2026-09-30T17:39:28.276326Z",
+    "last_tweeted_at": "2026-09-30T17:39:28.276326Z",
+    "tweet_id": "2105351876183310583",
+    "resolved": false
+  },
+  "26.5833,106.7167": {
+    "country": "China",
+    "name": "Guiyang",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 26.58333,
+    "longitude": 106.71667,
+    "rain_mm": 68.81,
+    "soil_moisture": 0.679,
+    "raw_dynamic_score": 11.163,
+    "last_updated": "2026-09-30T17:39:28.276326Z",
+    "last_tweeted_at": "2026-09-30T17:39:28.276326Z",
+    "tweet_id": "2105352128843882799",
+    "resolved": false
+  },
+  "20.9881,-77.4260": {
+    "country": "Cuba",
+    "name": "Colombia",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 20.98812,
+    "longitude": -77.42598,
+    "rain_mm": 51.44,
+    "soil_moisture": 0.543,
+    "raw_dynamic_score": 7.716,
+    "last_updated": "2026-09-30T17:39:28.276326Z",
+    "last_tweeted_at": "2026-09-30T17:39:28.276326Z",
+    "tweet_id": "2105352381328445816",
     "resolved": false
   }
 }
