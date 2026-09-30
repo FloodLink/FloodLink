@@ -7584,7 +7584,7 @@
     "rain_mm": 54.19,
     "soil_moisture": 0.506,
     "raw_dynamic_score": 7.944,
-    "last_updated": "2026-03-13T15:41:48.701212Z",
+    "last_updated": "2026-09-30T21:53:57.243586Z",
     "last_tweeted_at": "2026-03-13T12:45:29.103832Z",
     "tweet_id": "2032437939947368500",
     "resolved": false
@@ -20114,26 +20114,6 @@
     "tweet_id": "2065919560457617563",
     "resolved": false
   },
-  "20.8820,-103.8360": {
-    "country": "Mexico",
-    "name": "Tequila",
-    "risk_level": "Low",
-    "tweeted_level": "High",
-    "latitude": 20.88205,
-    "longitude": -103.83599,
-    "rain_mm": 0.81,
-    "soil_moisture": 0.485,
-    "raw_dynamic_score": 0.118,
-    "last_updated": "2026-09-30T03:26:25.694676Z",
-    "last_tweeted_at": "2026-09-29T21:50:36.801288Z",
-    "tweet_id": "2105052672172916903",
-    "resolved": true,
-    "resolved_at": "2026-09-29T21:50:36.801288Z",
-    "pending_downgrade": true,
-    "pending_target_level": "Low",
-    "pending_set_at": "2026-09-30T03:26:25.694676Z",
-    "pending_is_region": true
-  },
   "3.7396,96.8361": {
     "country": "Indonesia",
     "name": "Blangpidie",
@@ -23670,7 +23650,7 @@
     "rain_mm": 47.81,
     "soil_moisture": 0.495,
     "raw_dynamic_score": 6.964,
-    "last_updated": "2026-07-04T02:17:16.852394Z",
+    "last_updated": "2026-09-30T21:53:57.243586Z",
     "last_tweeted_at": "2026-07-03T22:10:08.566301Z",
     "tweet_id": "2073168484549501118",
     "resolved": false
@@ -29570,7 +29550,7 @@
     "rain_mm": 56.75,
     "soil_moisture": 0.498,
     "raw_dynamic_score": 8.279,
-    "last_updated": "2026-08-02T06:00:15.717302Z",
+    "last_updated": "2026-09-30T21:53:57.243586Z",
     "last_tweeted_at": "2026-08-02T02:10:45.691821Z",
     "tweet_id": "2083737286844280935",
     "resolved": false
@@ -35855,7 +35835,7 @@
     "rain_mm": 49.06,
     "soil_moisture": 0.724,
     "raw_dynamic_score": 8.16,
-    "last_updated": "2026-09-10T13:26:42.574480Z",
+    "last_updated": "2026-09-30T21:53:57.243586Z",
     "last_tweeted_at": "2026-09-10T07:53:53.835591Z",
     "tweet_id": "2097957046465475013",
     "resolved": false
@@ -41287,7 +41267,7 @@
     "rain_mm": 68.81,
     "soil_moisture": 0.679,
     "raw_dynamic_score": 11.163,
-    "last_updated": "2026-09-30T17:39:28.276326Z",
+    "last_updated": "2026-09-30T21:53:57.243586Z",
     "last_tweeted_at": "2026-09-30T17:39:28.276326Z",
     "tweet_id": "2105352128843882799",
     "resolved": false
