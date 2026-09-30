@@ -21064,22 +21064,6 @@
     "tweet_id": "2068369183201468519",
     "resolved": false
   },
-  "5.8087,8.0810": {
-    "country": "Nigeria",
-    "name": "Ugep",
-    "risk_level": "Low",
-    "tweeted_level": "Low",
-    "latitude": 5.80865,
-    "longitude": 8.08098,
-    "rain_mm": 6.38,
-    "soil_moisture": 0.622,
-    "raw_dynamic_score": 1.002,
-    "last_updated": "2026-09-29T09:32:24.314809Z",
-    "last_tweeted_at": "2026-09-29T09:32:24.314809Z",
-    "tweet_id": "2104867169167143173",
-    "resolved": true,
-    "resolved_at": "2026-09-29T09:32:24.314809Z"
-  },
   "31.1501,-81.4915": {
     "country": "United States",
     "name": "Brunswick",
@@ -22680,7 +22664,7 @@
     "rain_mm": 0.5,
     "soil_moisture": 0.434,
     "raw_dynamic_score": 0.07,
-    "last_updated": "2026-09-30T03:26:25.694676Z",
+    "last_updated": "2026-09-30T11:52:03.183102Z",
     "last_tweeted_at": "2026-09-30T03:26:25.694676Z",
     "tweet_id": "2105137200127991986",
     "resolved": true,
@@ -25681,11 +25665,15 @@
     "rain_mm": 0.0,
     "soil_moisture": 0.593,
     "raw_dynamic_score": 0.0,
-    "last_updated": "2026-09-30T03:26:25.694676Z",
+    "last_updated": "2026-09-30T11:52:03.183102Z",
     "last_tweeted_at": "2026-09-30T03:26:25.694676Z",
     "tweet_id": "2105137200127991986",
     "resolved": true,
-    "resolved_at": "2026-09-30T03:26:25.694676Z"
+    "resolved_at": "2026-09-30T03:26:25.694676Z",
+    "pending_downgrade": true,
+    "pending_target_level": "Low",
+    "pending_set_at": "2026-09-30T11:52:03.183102Z",
+    "pending_is_region": true
   },
   "7.5008,134.6238": {
     "country": "Palau",
@@ -28971,22 +28959,6 @@
     "last_tweeted_at": "2026-07-29T05:56:00.587501Z",
     "tweet_id": "2082344658114601271",
     "resolved": false
-  },
-  "4.9589,8.3270": {
-    "country": "Nigeria",
-    "name": "Calabar",
-    "risk_level": "Low",
-    "tweeted_level": "Low",
-    "latitude": 4.95893,
-    "longitude": 8.32695,
-    "rain_mm": 4.38,
-    "soil_moisture": 0.659,
-    "raw_dynamic_score": 0.702,
-    "last_updated": "2026-09-29T09:32:24.314809Z",
-    "last_tweeted_at": "2026-09-29T09:32:24.314809Z",
-    "tweet_id": "2104867169167143173",
-    "resolved": true,
-    "resolved_at": "2026-09-29T09:32:24.314809Z"
   },
   "41.9270,-73.9974": {
     "country": "United States",
@@ -34323,7 +34295,7 @@
     "rain_mm": 41.56,
     "soil_moisture": 0.643,
     "raw_dynamic_score": 6.61,
-    "last_updated": "2026-09-03T02:29:35.103242Z",
+    "last_updated": "2026-09-30T11:52:03.183102Z",
     "last_tweeted_at": "2026-09-02T23:07:20.279772Z",
     "tweet_id": "2095288287090946065",
     "resolved": false
@@ -37608,7 +37580,7 @@
     "rain_mm": 42.62,
     "soil_moisture": 0.717,
     "raw_dynamic_score": 7.063,
-    "last_updated": "2026-09-25T02:54:30.493600Z",
+    "last_updated": "2026-09-30T11:52:03.183102Z",
     "last_tweeted_at": "2026-09-19T19:57:15.926447Z",
     "tweet_id": "2101400277652062603",
     "resolved": false
@@ -39468,7 +39440,7 @@
     "rain_mm": 12.25,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 2.343,
-    "last_updated": "2026-09-30T03:26:25.694676Z",
+    "last_updated": "2026-09-30T11:52:03.183102Z",
     "last_tweeted_at": "2026-09-30T03:26:25.694676Z",
     "tweet_id": "2105137200127991986",
     "resolved": true,
@@ -41270,7 +41242,7 @@
     "rain_mm": 42.31,
     "soil_moisture": 0.675,
     "raw_dynamic_score": 6.851,
-    "last_updated": "2026-09-30T03:26:25.694676Z",
+    "last_updated": "2026-09-30T11:52:03.183102Z",
     "last_tweeted_at": "2026-09-30T03:26:25.694676Z",
     "tweet_id": "2105137200127991986",
     "resolved": false
@@ -41285,7 +41257,7 @@
     "rain_mm": 119.81,
     "soil_moisture": 0.662,
     "raw_dynamic_score": 19.253,
-    "last_updated": "2026-09-30T03:26:25.694676Z",
+    "last_updated": "2026-09-30T11:52:03.183102Z",
     "last_tweeted_at": "2026-09-30T03:26:25.694676Z",
     "tweet_id": "2105137200127991986",
     "resolved": false
