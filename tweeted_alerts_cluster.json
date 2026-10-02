@@ -6504,7 +6504,7 @@
     "rain_mm": 44.5,
     "soil_moisture": 0.723,
     "raw_dynamic_score": 7.398,
-    "last_updated": "2026-02-27T12:44:36.834013Z",
+    "last_updated": "2026-10-02T17:22:53.825143Z",
     "last_tweeted_at": "2026-02-27T04:47:37.320316Z",
     "tweet_id": "2027244487937028350",
     "resolved": false
@@ -10734,7 +10734,7 @@
     "rain_mm": 44.38,
     "soil_moisture": 0.577,
     "raw_dynamic_score": 6.79,
-    "last_updated": "2026-04-01T01:59:10.272214Z",
+    "last_updated": "2026-10-02T17:22:53.825143Z",
     "last_tweeted_at": "2026-03-31T21:39:08.343028Z",
     "tweet_id": "2039095207854235731",
     "resolved": false
@@ -11394,7 +11394,7 @@
     "rain_mm": 51.75,
     "soil_moisture": 0.526,
     "raw_dynamic_score": 7.684,
-    "last_updated": "2026-08-29T18:16:27.011686Z",
+    "last_updated": "2026-10-02T17:22:53.825143Z",
     "last_tweeted_at": "2026-04-09T10:13:45.027258Z",
     "tweet_id": "2042184210019209452",
     "resolved": false
@@ -11927,25 +11927,18 @@
   "15.2123,145.7545": {
     "country": "Northern Mariana Islands",
     "name": "Saipan",
-    "risk_level": "High",
-    "tweeted_level": "High",
+    "risk_level": "Low",
+    "tweeted_level": "Low",
     "latitude": 15.21233,
     "longitude": 145.7545,
-    "rain_mm": 94.25,
+    "rain_mm": 11.81,
     "soil_moisture": 1.0,
-    "raw_dynamic_score": 18.025,
-    "last_updated": "2026-10-02T09:23:22.454711Z",
-    "last_tweeted_at": "2026-10-01T12:19:28.347804Z",
-    "tweet_id": "2105633979856482533",
-    "resolved": false,
-    "pending_downgrade": true,
-    "pending_target_level": "Low",
-    "pending_set_at": "2026-10-01T20:10:54.883773Z",
-    "pending_is_region": false,
-    "pending_observed_level": "Low",
-    "pending_observed_rain_mm": 18.94,
-    "pending_observed_soil_moisture": 1.0,
-    "pending_observed_raw_dynamic_score": 3.622
+    "raw_dynamic_score": 2.259,
+    "last_updated": "2026-10-02T17:22:53.825143Z",
+    "last_tweeted_at": "2026-10-02T17:22:53.825143Z",
+    "tweet_id": "2106072478875521370",
+    "resolved": true,
+    "resolved_at": "2026-10-02T17:22:53.825143Z"
   },
   "-3.9373,103.8046": {
     "country": "Indonesia",
@@ -18228,7 +18221,7 @@
     "rain_mm": 91.25,
     "soil_moisture": 0.722,
     "raw_dynamic_score": 15.162,
-    "last_updated": "2026-06-04T22:28:48.873488Z",
+    "last_updated": "2026-10-02T17:22:53.825143Z",
     "last_tweeted_at": "2026-06-04T22:28:48.873488Z",
     "tweet_id": "2062662919783874806",
     "resolved": false
@@ -37443,7 +37436,7 @@
     "rain_mm": 44.38,
     "soil_moisture": 0.726,
     "raw_dynamic_score": 7.389,
-    "last_updated": "2026-09-27T23:39:27.833390Z",
+    "last_updated": "2026-10-02T17:22:53.825143Z",
     "last_tweeted_at": "2026-09-19T17:49:22.471301Z",
     "tweet_id": "2101368096661307770",
     "resolved": false
@@ -40908,7 +40901,7 @@
     "rain_mm": 47.31,
     "soil_moisture": 0.678,
     "raw_dynamic_score": 7.672,
-    "last_updated": "2026-09-28T09:21:26.404953Z",
+    "last_updated": "2026-10-02T17:22:53.825143Z",
     "last_tweeted_at": "2026-09-28T03:00:04.083535Z",
     "tweet_id": "2104406057380409537",
     "resolved": false
@@ -41238,7 +41231,7 @@
     "rain_mm": 41.62,
     "soil_moisture": 0.679,
     "raw_dynamic_score": 6.753,
-    "last_updated": "2026-10-02T09:23:22.454711Z",
+    "last_updated": "2026-10-02T17:22:53.825143Z",
     "last_tweeted_at": "2026-10-02T09:23:22.454711Z",
     "tweet_id": "2105951798871662595",
     "resolved": false
@@ -41253,7 +41246,7 @@
     "rain_mm": 43.62,
     "soil_moisture": 0.677,
     "raw_dynamic_score": 7.069,
-    "last_updated": "2026-10-02T09:23:22.454711Z",
+    "last_updated": "2026-10-02T17:22:53.825143Z",
     "last_tweeted_at": "2026-10-02T09:23:22.454711Z",
     "tweet_id": "2105952051519721719",
     "resolved": false
@@ -41268,7 +41261,7 @@
     "rain_mm": 36.69,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 7.016,
-    "last_updated": "2026-10-02T09:23:22.454711Z",
+    "last_updated": "2026-10-02T17:22:53.825143Z",
     "last_tweeted_at": "2026-10-02T09:23:22.454711Z",
     "tweet_id": "2105952304427831712",
     "resolved": false
