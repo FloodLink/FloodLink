@@ -6504,7 +6504,7 @@
     "rain_mm": 44.5,
     "soil_moisture": 0.723,
     "raw_dynamic_score": 7.398,
-    "last_updated": "2026-10-02T17:22:53.825143Z",
+    "last_updated": "2026-10-02T21:49:59.218924Z",
     "last_tweeted_at": "2026-02-27T04:47:37.320316Z",
     "tweet_id": "2027244487937028350",
     "resolved": false
@@ -10734,7 +10734,7 @@
     "rain_mm": 44.38,
     "soil_moisture": 0.577,
     "raw_dynamic_score": 6.79,
-    "last_updated": "2026-10-02T17:22:53.825143Z",
+    "last_updated": "2026-10-02T21:49:59.218924Z",
     "last_tweeted_at": "2026-03-31T21:39:08.343028Z",
     "tweet_id": "2039095207854235731",
     "resolved": false
@@ -11394,7 +11394,7 @@
     "rain_mm": 51.75,
     "soil_moisture": 0.526,
     "raw_dynamic_score": 7.684,
-    "last_updated": "2026-10-02T17:22:53.825143Z",
+    "last_updated": "2026-10-02T21:49:59.218924Z",
     "last_tweeted_at": "2026-04-09T10:13:45.027258Z",
     "tweet_id": "2042184210019209452",
     "resolved": false
@@ -14914,16 +14914,16 @@
   "3.5833,-77.0000": {
     "country": "Colombia",
     "name": "Buenaventura",
-    "risk_level": "Medium",
-    "tweeted_level": "Medium",
+    "risk_level": "High",
+    "tweeted_level": "High",
     "latitude": 3.58333,
     "longitude": -77.0,
-    "rain_mm": 53.81,
-    "soil_moisture": 0.733,
-    "raw_dynamic_score": 8.993,
-    "last_updated": "2026-08-23T01:03:48.698995Z",
-    "last_tweeted_at": "2026-05-11T22:08:43.702860Z",
-    "tweet_id": "2053960551143764024",
+    "rain_mm": 89.88,
+    "soil_moisture": 0.75,
+    "raw_dynamic_score": 15.159,
+    "last_updated": "2026-10-02T21:49:59.218924Z",
+    "last_tweeted_at": "2026-10-02T21:49:59.218924Z",
+    "tweet_id": "2106139683826897037",
     "resolved": false
   },
   "9.9824,98.5503": {
@@ -18281,7 +18281,7 @@
     "rain_mm": 50.81,
     "soil_moisture": 0.713,
     "raw_dynamic_score": 8.4,
-    "last_updated": "2026-07-03T22:10:08.566301Z",
+    "last_updated": "2026-10-02T21:49:59.218924Z",
     "last_tweeted_at": "2026-06-05T02:49:40.860856Z",
     "tweet_id": "2062728568254202008",
     "resolved": false
@@ -36866,7 +36866,7 @@
     "rain_mm": 47.44,
     "soil_moisture": 0.676,
     "raw_dynamic_score": 7.686,
-    "last_updated": "2026-09-20T02:50:49.818851Z",
+    "last_updated": "2026-10-02T21:49:59.218924Z",
     "last_tweeted_at": "2026-09-15T18:50:58.360879Z",
     "tweet_id": "2099934052870393944",
     "resolved": false
@@ -37436,7 +37436,7 @@
     "rain_mm": 44.38,
     "soil_moisture": 0.726,
     "raw_dynamic_score": 7.389,
-    "last_updated": "2026-10-02T17:22:53.825143Z",
+    "last_updated": "2026-10-02T21:49:59.218924Z",
     "last_tweeted_at": "2026-09-19T17:49:22.471301Z",
     "tweet_id": "2101368096661307770",
     "resolved": false
@@ -40316,7 +40316,7 @@
     "rain_mm": 72.19,
     "soil_moisture": 0.741,
     "raw_dynamic_score": 12.12,
-    "last_updated": "2026-09-27T08:58:48.088770Z",
+    "last_updated": "2026-10-02T21:49:59.218924Z",
     "last_tweeted_at": "2026-09-26T23:29:17.359664Z",
     "tweet_id": "2103990862845759504",
     "resolved": false
@@ -40901,7 +40901,7 @@
     "rain_mm": 47.31,
     "soil_moisture": 0.678,
     "raw_dynamic_score": 7.672,
-    "last_updated": "2026-10-02T17:22:53.825143Z",
+    "last_updated": "2026-10-02T21:49:59.218924Z",
     "last_tweeted_at": "2026-09-28T03:00:04.083535Z",
     "tweet_id": "2104406057380409537",
     "resolved": false
@@ -41264,6 +41264,36 @@
     "last_updated": "2026-10-02T17:22:53.825143Z",
     "last_tweeted_at": "2026-10-02T09:23:22.454711Z",
     "tweet_id": "2105952304427831712",
+    "resolved": false
+  },
+  "9.9003,-84.0017": {
+    "country": "Costa Rica",
+    "name": "San Diego",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 9.90028,
+    "longitude": -84.0017,
+    "rain_mm": 56.06,
+    "soil_moisture": 0.721,
+    "raw_dynamic_score": 9.307,
+    "last_updated": "2026-10-02T21:49:59.218924Z",
+    "last_tweeted_at": "2026-10-02T21:49:59.218924Z",
+    "tweet_id": "2106139936583979503",
+    "resolved": false
+  },
+  "12.9344,-85.2235": {
+    "country": "Nicaragua",
+    "name": "Río Blanco",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 12.93435,
+    "longitude": -85.22354,
+    "rain_mm": 41.88,
+    "soil_moisture": 0.696,
+    "raw_dynamic_score": 6.859,
+    "last_updated": "2026-10-02T21:49:59.218924Z",
+    "last_tweeted_at": "2026-10-02T21:49:59.218924Z",
+    "tweet_id": "2106140189068591556",
     "resolved": false
   }
 }
