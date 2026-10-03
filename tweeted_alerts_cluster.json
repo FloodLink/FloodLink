@@ -159,7 +159,7 @@
     "rain_mm": 50.81,
     "soil_moisture": 0.553,
     "raw_dynamic_score": 7.667,
-    "last_updated": "2026-02-15T18:29:43.770716Z",
+    "last_updated": "2026-10-03T11:05:12.019059Z",
     "last_tweeted_at": "2026-01-08T15:21:25.952498Z",
     "tweet_id": "2009284610958528583",
     "resolved": false
@@ -13214,22 +13214,6 @@
     "last_tweeted_at": "2026-04-29T16:33:13.908252Z",
     "tweet_id": "2049528229266886896",
     "resolved": false
-  },
-  "10.0607,-2.5019": {
-    "country": "Ghana",
-    "name": "Wa",
-    "risk_level": "Low",
-    "tweeted_level": "Low",
-    "latitude": 10.06069,
-    "longitude": -2.50192,
-    "rain_mm": 0.31,
-    "soil_moisture": 0.504,
-    "raw_dynamic_score": 0.046,
-    "last_updated": "2026-10-02T09:23:22.454711Z",
-    "last_tweeted_at": "2026-10-02T09:23:22.454711Z",
-    "tweet_id": "2105952557457690922",
-    "resolved": true,
-    "resolved_at": "2026-10-02T09:23:22.454711Z"
   },
   "-6.8000,110.7167": {
     "country": "Indonesia",
@@ -41316,9 +41300,24 @@
     "rain_mm": 67.38,
     "soil_moisture": 0.627,
     "raw_dynamic_score": 10.619,
-    "last_updated": "2026-10-03T03:20:24.732916Z",
+    "last_updated": "2026-10-03T11:05:12.019059Z",
     "last_tweeted_at": "2026-10-03T03:20:24.732916Z",
     "tweet_id": "2106223104490078444",
+    "resolved": false
+  },
+  "5.6919,-76.6583": {
+    "country": "Colombia",
+    "name": "Quibdó",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 5.69188,
+    "longitude": -76.65835,
+    "rain_mm": 59.31,
+    "soil_moisture": 0.712,
+    "raw_dynamic_score": 9.803,
+    "last_updated": "2026-10-03T11:05:12.019059Z",
+    "last_tweeted_at": "2026-10-03T11:05:12.019059Z",
+    "tweet_id": "2106339812223361226",
     "resolved": false
   }
 }
