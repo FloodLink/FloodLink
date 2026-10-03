@@ -15313,5 +15313,14 @@
         "score": 0,
         "status": "skipped",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-10-03",
+        "status": "posted",
+        "tweet": "By 2030, US reservoirs and levees will need capacity for 25% higher peak flows during extreme rainfall and storm surges, according to USACE projections.",
+        "type": "statistical",
+        "category": "dams, levees and reservoirs used for flood control",
+        "tweet_id": "2106365142917107861"
     }
 ]
