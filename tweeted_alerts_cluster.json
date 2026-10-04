@@ -22229,7 +22229,7 @@
     "rain_mm": 48.88,
     "soil_moisture": 0.376,
     "raw_dynamic_score": 6.593,
-    "last_updated": "2026-10-03T23:37:18.440014Z",
+    "last_updated": "2026-10-04T03:47:07.384462Z",
     "last_tweeted_at": "2026-06-25T19:58:46.355529Z",
     "tweet_id": "2070235817860329873",
     "resolved": false
@@ -22469,7 +22469,7 @@
     "rain_mm": 43.0,
     "soil_moisture": 0.693,
     "raw_dynamic_score": 7.033,
-    "last_updated": "2026-10-03T23:37:18.440014Z",
+    "last_updated": "2026-10-04T03:47:07.384462Z",
     "last_tweeted_at": "2026-06-28T13:31:08.228095Z",
     "tweet_id": "2071224928246919296",
     "resolved": false
@@ -27794,7 +27794,7 @@
     "rain_mm": 45.5,
     "soil_moisture": 0.592,
     "raw_dynamic_score": 7.024,
-    "last_updated": "2026-09-11T18:15:22.980650Z",
+    "last_updated": "2026-10-04T03:47:07.384462Z",
     "last_tweeted_at": "2026-07-27T17:05:38.174519Z",
     "tweet_id": "2081788148451852648",
     "resolved": false
@@ -36974,7 +36974,7 @@
     "rain_mm": 52.75,
     "soil_moisture": 0.528,
     "raw_dynamic_score": 7.839,
-    "last_updated": "2026-09-16T23:39:18.592656Z",
+    "last_updated": "2026-10-04T03:47:07.384462Z",
     "last_tweeted_at": "2026-09-16T18:47:06.263291Z",
     "tweet_id": "2100295722855776673",
     "resolved": false
@@ -38969,7 +38969,7 @@
     "rain_mm": 46.69,
     "soil_moisture": 0.603,
     "raw_dynamic_score": 7.256,
-    "last_updated": "2026-09-22T08:19:33.836343Z",
+    "last_updated": "2026-10-04T03:47:07.384462Z",
     "last_tweeted_at": "2026-09-22T02:46:40.739622Z",
     "tweet_id": "2102228084770414993",
     "resolved": false
@@ -40279,38 +40279,6 @@
     "tweet_id": "2103913510967095805",
     "resolved": false
   },
-  "9.9938,-84.1274": {
-    "country": "Costa Rica",
-    "name": "San Francisco",
-    "risk_level": "Low",
-    "tweeted_level": "Low",
-    "latitude": 9.9938,
-    "longitude": -84.12742,
-    "rain_mm": 0.75,
-    "soil_moisture": 0.682,
-    "raw_dynamic_score": 0.122,
-    "last_updated": "2026-10-03T03:20:24.732916Z",
-    "last_tweeted_at": "2026-10-03T03:20:24.732916Z",
-    "tweet_id": "2106222851510665471",
-    "resolved": true,
-    "resolved_at": "2026-10-03T03:20:24.732916Z"
-  },
-  "10.0061,-84.1302": {
-    "country": "Costa Rica",
-    "name": "Mercedes Norte",
-    "risk_level": "Low",
-    "tweeted_level": "Low",
-    "latitude": 10.00611,
-    "longitude": -84.13018,
-    "rain_mm": 0.75,
-    "soil_moisture": 0.682,
-    "raw_dynamic_score": 0.122,
-    "last_updated": "2026-10-03T03:20:24.732916Z",
-    "last_tweeted_at": "2026-10-03T03:20:24.732916Z",
-    "tweet_id": "2106222851510665471",
-    "resolved": true,
-    "resolved_at": "2026-10-03T03:20:24.732916Z"
-  },
   "8.3770,-82.4295": {
     "country": "Panama",
     "name": "Pedregal",
@@ -41371,7 +41339,7 @@
     "rain_mm": 54.75,
     "soil_moisture": 0.656,
     "raw_dynamic_score": 8.772,
-    "last_updated": "2026-10-03T20:37:09.113433Z",
+    "last_updated": "2026-10-04T03:47:07.384462Z",
     "last_tweeted_at": "2026-10-03T20:37:09.113433Z",
     "tweet_id": "2106483760531157063",
     "resolved": false
@@ -41424,10 +41392,18 @@
     "rain_mm": 77.94,
     "soil_moisture": 0.69,
     "raw_dynamic_score": 12.725,
-    "last_updated": "2026-10-03T23:37:18.440014Z",
+    "last_updated": "2026-10-04T03:47:07.384462Z",
     "last_tweeted_at": "2026-10-03T23:37:18.440014Z",
     "tweet_id": "2106529584799744400",
-    "resolved": false
+    "resolved": false,
+    "pending_downgrade": true,
+    "pending_target_level": "Low",
+    "pending_set_at": "2026-10-04T03:47:07.384462Z",
+    "pending_is_region": false,
+    "pending_observed_level": "Low",
+    "pending_observed_rain_mm": 19.88,
+    "pending_observed_soil_moisture": 0.635,
+    "pending_observed_raw_dynamic_score": 3.145
   },
   "18.5435,-72.3388": {
     "country": "Haiti",
@@ -41544,7 +41520,7 @@
     "rain_mm": 68.44,
     "soil_moisture": 0.686,
     "raw_dynamic_score": 11.147,
-    "last_updated": "2026-10-03T23:37:18.440014Z",
+    "last_updated": "2026-10-04T03:47:07.384462Z",
     "last_tweeted_at": "2026-10-03T23:37:18.440014Z",
     "tweet_id": "2106529078891131138",
     "resolved": false
@@ -41559,9 +41535,24 @@
     "rain_mm": 42.25,
     "soil_moisture": 0.686,
     "raw_dynamic_score": 6.882,
-    "last_updated": "2026-10-03T23:37:18.440014Z",
+    "last_updated": "2026-10-04T03:47:07.384462Z",
     "last_tweeted_at": "2026-10-03T23:37:18.440014Z",
     "tweet_id": "2106529331824439704",
+    "resolved": false
+  },
+  "18.6260,-100.9000": {
+    "country": "Mexico",
+    "name": "Huetamo de Núñez",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 18.62602,
+    "longitude": -100.90004,
+    "rain_mm": 46.06,
+    "soil_moisture": 0.621,
+    "raw_dynamic_score": 7.234,
+    "last_updated": "2026-10-04T03:47:07.384462Z",
+    "last_tweeted_at": "2026-10-04T03:47:07.384462Z",
+    "tweet_id": "2106591962744676861",
     "resolved": false
   }
 }
