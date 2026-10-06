@@ -3759,7 +3759,7 @@
     "rain_mm": 63.62,
     "soil_moisture": 0.718,
     "raw_dynamic_score": 10.55,
-    "last_updated": "2026-10-06T04:16:46.068648Z",
+    "last_updated": "2026-10-06T12:42:50.912428Z",
     "last_tweeted_at": "2026-02-01T21:20:35.585454Z",
     "tweet_id": "2018072049713914265",
     "resolved": false
@@ -18369,7 +18369,7 @@
     "rain_mm": 65.88,
     "soil_moisture": 0.571,
     "raw_dynamic_score": 10.044,
-    "last_updated": "2026-10-06T04:16:46.068648Z",
+    "last_updated": "2026-10-06T12:42:50.912428Z",
     "last_tweeted_at": "2026-06-06T06:33:15.865557Z",
     "tweet_id": "2063147989435392446",
     "resolved": false
@@ -25931,7 +25931,7 @@
     "rain_mm": 41.44,
     "soil_moisture": 0.679,
     "raw_dynamic_score": 6.723,
-    "last_updated": "2026-08-02T02:10:45.691821Z",
+    "last_updated": "2026-10-06T12:42:50.912428Z",
     "last_tweeted_at": "2026-07-15T13:28:47.499910Z",
     "tweet_id": "2077384919563501787",
     "resolved": false
@@ -41629,6 +41629,21 @@
     "last_updated": "2026-10-06T04:16:46.068648Z",
     "last_tweeted_at": "2026-10-05T21:57:52.907815Z",
     "tweet_id": "2107228843517837408",
+    "resolved": false
+  },
+  "-7.3147,16.0024": {
+    "country": "Angola",
+    "name": "Sanza Pombo",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": -7.31473,
+    "longitude": 16.0024,
+    "rain_mm": 61.06,
+    "soil_moisture": 0.592,
+    "raw_dynamic_score": 9.426,
+    "last_updated": "2026-10-06T12:42:50.912428Z",
+    "last_tweeted_at": "2026-10-06T12:42:50.912428Z",
+    "tweet_id": "2107451562041700443",
     "resolved": false
   }
 }
