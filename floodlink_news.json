@@ -14337,5 +14337,14 @@
         "score": 0,
         "status": "skipped",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-10-07",
+        "status": "posted",
+        "tweet": "Climate models project that extreme monsoon rainfall across Asia will intensify by 25% by 2030, placing 150 million more people at direct risk of severe flooding than in 2020.",
+        "type": "statistical",
+        "category": "monsoon flood patterns in Asia",
+        "tweet_id": "2107738738294161909"
     }
 ]
