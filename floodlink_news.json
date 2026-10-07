@@ -1,566 +1,5 @@
 [
     {
-        "link": null,
-        "date": "2026-09-07",
-        "status": "posted",
-        "tweet": "Flood EWS coverage (% at-risk populations, 2025):\n1. Europe: 88%\n2. North America: 81%\n3. East Asia: 67%\n4. South Asia: 52%\n5. Sub-Saharan Africa: 31%",
-        "type": "statistical",
-        "category": "coverage of flood early warning systems worldwide",
-        "tweet_id": "2096756062749634625"
-    },
-    {
-        "link": null,
-        "date": "2026-09-07",
-        "status": "posted",
-        "tweet": "\ud83c\uddfa\ud83c\uddf8 US dams, levees and reservoirs have averted $180 billion in flood losses since 2020, yet a projected 40% rise in extreme rainfall by 2035 risks overwhelming 25% of structures.",
-        "type": "statistical",
-        "category": "dams, levees and reservoirs used for flood control",
-        "tweet_id": "2096830072057483639"
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5Idzh0bW1seDNucllFb2RWSkRNaEZyVXVQOFFMbDdrZzcwYU1Rd2JPQ2FOa3ZLbW94aUcwS1Z5V1o0cFZ4TUhXNFktMVJwSVp2bThDLTZNLXlrRFlTUlI1M0R5NnpuVVhfZGwwT1lMNjYwTjRNT0lIbnJmZFR6Zw?oc=5",
-        "date": "2026-09-07",
-        "title": "McDowell and Rutherford counties placed under a flash flood warning until Monday morning - Charlotte Observer",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE5Idzh0bW1seDNucllFb2RWSkRNaEZyVXVQOFFMbDdrZzcwYU1Rd2JPQ2FOa3ZLbW94aUcwS1Z5V1o0cFZ4TUhXNFktMVJwSVp2bThDLTZNLXlrRFlTUlI1M0R5NnpuVVhfZGwwT1lMNjYwTjRNT0lIbnJmZFR6Zw?oc=5\" target=\"_blank\">McDowell and Rutherford counties placed under a flash flood warning until Monday morning</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Charlotte Observer</font>",
-        "similarity_excluded": "No",
-        "score": 8,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRlJveGVZS095QW9DNThLWGh4dlU1MzJMeWtwRHBRTzlOMXRKeklkVl8wNEh6aVlfdzNRajJlQ2JmekkteGRxbjBCV3hyOWU2VEpXc2k4RklPZFJSdFZtZTZQR2xBM3ZfLUN3cERMcGk0bVdYNDNKb3Y4bXZneGNNTGdaSXdYWTB3Vmt6LWZsa1U1M1JjU0dCcWV0UElyUnFuU2FvWkNuUW56TEtQLXc?oc=5",
-        "date": "2026-09-07",
-        "title": "Nepal marks national mourning day after deadly flood - Reuters",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQRlJveGVZS095QW9DNThLWGh4dlU1MzJMeWtwRHBRTzlOMXRKeklkVl8wNEh6aVlfdzNRajJlQ2JmekkteGRxbjBCV3hyOWU2VEpXc2k4RklPZFJSdFZtZTZQR2xBM3ZfLUN3cERMcGk0bVdYNDNKb3Y4bXZneGNNTGdaSXdYWTB3Vmt6LWZsa1U1M1JjU0dCcWV0UElyUnFuU2FvWkNuUW56TEtQLXc?oc=5\" target=\"_blank\">Nepal marks national mourning day after deadly flood</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQR0ltM200b3p3dnVTZ1NXMk84SHphNG9fTl9PX1dUTVlPY3lpX19QeDg1SFpLaVdpQ0RycU94MkdCcXFtY21LNVdZODl5R0xUVVpRVkctdVEyMzlaY0ZaRk5Sc1pYX0tjWFlYMUtJeEM3X3p3d3ZlOGtZR2N2Qmk3cW9hSDlrV3pLZDI5X3BHcnU5b1dwQnc?oc=5",
-        "date": "2026-09-07",
-        "title": "Community-based warning saves lives during Nepal floods - Mongabay India",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxQR0ltM200b3p3dnVTZ1NXMk84SHphNG9fTl9PX1dUTVlPY3lpX19QeDg1SFpLaVdpQ0RycU94MkdCcXFtY21LNVdZODl5R0xUVVpRVkctdVEyMzlaY0ZaRk5Sc1pYX0tjWFlYMUtJeEM3X3p3d3ZlOGtZR2N2Qmk3cW9hSDlrV3pLZDI5X3BHcnU5b1dwQnc?oc=5\" target=\"_blank\">Community-based warning saves lives during Nepal floods</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mongabay India</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPZmZ3NGpzTXVVczRQcFJjWl9lZVRGU0Nzd2txZ0NQNHA5LWltZTdaN1R3bnYxWlFJdXA5R01adFJLd2doeDJaN3hVemxpbkwtem5TREt2U2tEbVhJMnQ2YUx5Q3hnMUZfRUhSdk91enZqUjR3QUoxVUtSSW9EYl9SbzNDSnNJSGZuOXgyZ2d4OHZCRGVLQ1B4QXNRSUhfS0lGcUx5LWh0ZlRXa3Q4eWJTYUJJWVRXd2hkSThNZWNzX3p6NzhNTkZJUUxFc2ZmU0ZrWl8xTmJoUTdobE9W?oc=5",
-        "date": "2026-09-07",
-        "title": "Monday Starter: Nun leading Caritas Nepal calls for international aid after floods - Global Sisters Report",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxPZmZ3NGpzTXVVczRQcFJjWl9lZVRGU0Nzd2txZ0NQNHA5LWltZTdaN1R3bnYxWlFJdXA5R01adFJLd2doeDJaN3hVemxpbkwtem5TREt2U2tEbVhJMnQ2YUx5Q3hnMUZfRUhSdk91enZqUjR3QUoxVUtSSW9EYl9SbzNDSnNJSGZuOXgyZ2d4OHZCRGVLQ1B4QXNRSUhfS0lGcUx5LWh0ZlRXa3Q4eWJTYUJJWVRXd2hkSThNZWNzX3p6NzhNTkZJUUxFc2ZmU0ZrWl8xTmJoUTdobE9W?oc=5\" target=\"_blank\">Monday Starter: Nun leading Caritas Nepal calls for international aid after floods</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Global Sisters Report</font>",
-        "similarity_excluded": "No",
-        "score": 7,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNNXZoNU1iV3JBRHk1N2REZ19CRTk2cXpPR3RjQUhrN2VWZ3FUZ2xxT2tUNEdyb0tTaVhvOWVMYVRtUUlQeVlsWWJ0dFNMWDZiNG1lazVhWVhXejFQRlluM21jWWFHZkJ4OV9FZEtPYkhBR2F2LUJuOWx4U3o2cThNODQ1QlViWTktQXFUemt1VTBmS096S0lpQXNWOXJXX3FIOHotSkt4NGJoUnh2YzdwelJUbHJ2TE1Pb3lXVE16WnF5YU9qeTFsWTRzUFN2NF9Q?oc=5",
-        "date": "2026-09-07",
-        "title": "Kauai, Niihau under hurricane watch as Lowell approaches - Honolulu Star-Advertiser",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxNNXZoNU1iV3JBRHk1N2REZ19CRTk2cXpPR3RjQUhrN2VWZ3FUZ2xxT2tUNEdyb0tTaVhvOWVMYVRtUUlQeVlsWWJ0dFNMWDZiNG1lazVhWVhXejFQRlluM21jWWFHZkJ4OV9FZEtPYkhBR2F2LUJuOWx4U3o2cThNODQ1QlViWTktQXFUemt1VTBmS096S0lpQXNWOXJXX3FIOHotSkt4NGJoUnh2YzdwelJUbHJ2TE1Pb3lXVE16WnF5YU9qeTFsWTRzUFN2NF9Q?oc=5\" target=\"_blank\">Kauai, Niihau under hurricane watch as Lowell approaches</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Honolulu Star-Advertiser</font>",
-        "similarity_excluded": "No",
-        "score": 7,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQQkF1QjhRZHk1SzVKVlhUOHdrU3dxX0J5dHl4Wm9zQ2NIS0tKU0taRENPSVNIWmQ4d2c1amdwc3EtMTVHeVhKcV9HcHZKVVlqVDUwdWpGdUoySEZxUDVGd3UxRDNweGlxaFROUHU2MmUzeVdhOUhqcTJMTGJSalMwTU9wX19wbkFfWkRlZw?oc=5",
-        "date": "2026-09-07",
-        "title": "UGRA, Kerr finalize flood warning system agreement - hccommunityjournal.com",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQQkF1QjhRZHk1SzVKVlhUOHdrU3dxX0J5dHl4Wm9zQ2NIS0tKU0taRENPSVNIWmQ4d2c1amdwc3EtMTVHeVhKcV9HcHZKVVlqVDUwdWpGdUoySEZxUDVGd3UxRDNweGlxaFROUHU2MmUzeVdhOUhqcTJMTGJSalMwTU9wX19wbkFfWkRlZw?oc=5\" target=\"_blank\">UGRA, Kerr finalize flood warning system agreement</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">hccommunityjournal.com</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPeDJtZU0yNXBpNjRUeXVNdW9mdUFpRWdCeUdBMURQWkI0b3k2WGp1RVlBZjN6dFdQVGtEa0RqNkRDZHR0NnZseDZsbjgtYmpJZnk1MW1xTkduTmJjY2dEOFN2Rm9oc0cxaEJCRlc0eDlnTm80OWw2eE8zMnNxQm9IUHpZV2FUa21DdE9jeGttVjJjY0xXMXVzWEJPVlN4cVF5NlN2VnlFVTI0bjZwS0d2WU9Ob0Z0d1VnZHlPbXNDWjBLTW1PdURPdkdkbVZvdzU1TFNINtIB1AFBVV95cUxOblVPVXEzaEtXTDVLZmxFVnBYRXZpbEp3OEI2VUFVOG1FQjgyZ3RMay1rdk9jTkNnS1pmMTdyeTJiTXJuQzc5cTFMY0hyUDhmSzlmclBJZWVRWUh2SWpPWkc4ZkhqQU5qQVNGdXJETEVGelhvclZaYm1yM0FPQmViN2xnZk0tNnBNdTJUS1RHUjlacjlTbHdNdmE3WEFXVU1venZKcUFSbk9hZXRLMlI4aENqdVhNTW40TWFQN3hzSGt1dVl0UGo5OGUzelY2LVBYb3ZjNg?oc=5",
-        "date": "2026-09-07",
-        "title": "Nepal puts UN climate fund to test after fatal US$2.5 billion flood - South China Morning Post",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxPeDJtZU0yNXBpNjRUeXVNdW9mdUFpRWdCeUdBMURQWkI0b3k2WGp1RVlBZjN6dFdQVGtEa0RqNkRDZHR0NnZseDZsbjgtYmpJZnk1MW1xTkduTmJjY2dEOFN2Rm9oc0cxaEJCRlc0eDlnTm80OWw2eE8zMnNxQm9IUHpZV2FUa21DdE9jeGttVjJjY0xXMXVzWEJPVlN4cVF5NlN2VnlFVTI0bjZwS0d2WU9Ob0Z0d1VnZHlPbXNDWjBLTW1PdURPdkdkbVZvdzU1TFNINtIB1AFBVV95cUxOblVPVXEzaEtXTDVLZmxFVnBYRXZpbEp3OEI2VUFVOG1FQjgyZ3RMay1rdk9jTkNnS1pmMTdyeTJiTXJuQzc5cTFMY0hyUDhmSzlmclBJZWVRWUh2SWpPWkc4ZkhqQU5qQVNGdXJETEVGelhvclZaYm1yM0FPQmViN2xnZk0tNnBNdTJUS1RHUjlacjlTbHdNdmE3WEFXVU1venZKcUFSbk9hZXRLMlI4aENqdVhNTW40TWFQN3hzSGt1dVl0UGo5OGUzelY2LVBYb3ZjNg?oc=5\" target=\"_blank\">Nepal puts UN climate fund to test after fatal US$2.5 billion flood</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">South China Morning Post</font>",
-        "similarity_excluded": "No",
-        "score": 10,
-        "status": "processed",
-        "tweet": null,
-        "tweet_id": "2096913156320755749",
-        "geo": {
-            "country": "Nepal",
-            "name": "Nepal",
-            "latitude": 28.3949,
-            "longitude": 84.124,
-            "confidence": 0.7
-        }
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQY1dubVdjTHh5d29PLV9Ta1JRbkE1VXdLRUpTbVA3NnppRGxXdm5rcWFva3Y0ZmdiTVFIUVlYbHdMLWl3NVZSSUs4cFFrVFA0Qk0xb3k5OEMxZHU3Y2F2TEdvZXUwVUdoZEVjSHcxemM2UVdjWWM4ckw4ZGZWU0k0cWxnVjFwNFFfYkxSdVRrdWxSSkdOVTNRa0dXMmk1cXQ4MFBreEhwMUR5bW8?oc=5",
-        "date": "2026-09-07",
-        "title": "Nepal holds a day of mourning after floods kill at least 1,300 people - San Antonio Express-News",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQY1dubVdjTHh5d29PLV9Ta1JRbkE1VXdLRUpTbVA3NnppRGxXdm5rcWFva3Y0ZmdiTVFIUVlYbHdMLWl3NVZSSUs4cFFrVFA0Qk0xb3k5OEMxZHU3Y2F2TEdvZXUwVUdoZEVjSHcxemM2UVdjWWM4ckw4ZGZWU0k0cWxnVjFwNFFfYkxSdVRrdWxSSkdOVTNRa0dXMmk1cXQ4MFBreEhwMUR5bW8?oc=5\" target=\"_blank\">Nepal holds a day of mourning after floods kill at least 1,300 people</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">San Antonio Express-News</font>",
-        "similarity_excluded": "No",
-        "score": 10,
-        "status": "processed",
-        "tweet": null,
-        "tweet_id": "2096913698979754150",
-        "geo": {
-            "country": "Nepal",
-            "name": "Nepal",
-            "latitude": 28.3949,
-            "longitude": 84.124,
-            "confidence": 0.9
-        }
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOY0t0YzdrSEZlSmJIcTVNRnVsWUNWdkFETzY5N2RIS1Z4TnlCTnlkeFVLaHB3TEtYNlZkdjFjTF9PcDNEUU9QRXZPWnBpeUVWbUVmQldLMjVMUFNRenB1bjJzSzF6WExWdjNMU1VJV05aVzZkc1AwOWQ5VzkzRDh1XzFFSy01NnNIdzN4bXV4ZUcxWEVu0gGaAUFVX3lxTFBoeFVHV0MwSFdWdktMNF8yR0w0cE9Db0o3anlrUUFiTkd2UFQ2NjlYNHpGdXV1NEozc042M3FRb1pkTzVXdnU2WGN2dTRrS1dhWXBubzRTMVJxeWR5d1BUeTV4MXc4ajlkY2ZTZDV2Z3BPdVdFaHo2X3Zfc1BpRjk3VTVLV1l3Uy11Y2hTeFVBb1JOX0RYQXc5cWc?oc=5",
-        "date": "2026-09-07",
-        "title": "Powerful Category 3 Hurricane Lowell barrels toward Hawaii, prompting Hurricane Warning for Kaua\u02bbi - FOX Weather",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxOY0t0YzdrSEZlSmJIcTVNRnVsWUNWdkFETzY5N2RIS1Z4TnlCTnlkeFVLaHB3TEtYNlZkdjFjTF9PcDNEUU9QRXZPWnBpeUVWbUVmQldLMjVMUFNRenB1bjJzSzF6WExWdjNMU1VJV05aVzZkc1AwOWQ5VzkzRDh1XzFFSy01NnNIdzN4bXV4ZUcxWEVu0gGaAUFVX3lxTFBoeFVHV0MwSFdWdktMNF8yR0w0cE9Db0o3anlrUUFiTkd2UFQ2NjlYNHpGdXV1NEozc042M3FRb1pkTzVXdnU2WGN2dTRrS1dhWXBubzRTMVJxeWR5d1BUeTV4MXc4ajlkY2ZTZDV2Z3BPdVdFaHo2X3Zfc1BpRjk3VTVLV1l3Uy11Y2hTeFVBb1JOX0RYQXc5cWc?oc=5\" target=\"_blank\">Powerful Category 3 Hurricane Lowell barrels toward Hawaii, prompting Hurricane Warning for Kaua\u02bbi</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FOX Weather</font>",
-        "similarity_excluded": "No",
-        "score": 8,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPQndUZmxFOE1yOWlZT3RaUFVqREpzX0p4b0VoR0pBM05EamxZRjI2dkVSSXIwWVhjQ0dycDRSWnlfZGVWeTNJVEVNLWhGZmgwZmhiMXIwMWVabHNxbnZDRnRNNEFvVlpIX3p1Qm1STVFxQ3V3ZWtCRWpCMTdDbF8ySXBFYkVxeDdmcklVc2lQMU02Z09BdXZjeVNORTBBTjd5WGtLWXdHbkU2OU5Oa1lwQ1JxdUlfR3lvNjZHZ1A4Zw?oc=5",
-        "date": "2026-09-07",
-        "title": "Nepal holds a day of mourning after flash floods kill more than 1,300 - Euronews.com",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxPQndUZmxFOE1yOWlZT3RaUFVqREpzX0p4b0VoR0pBM05EamxZRjI2dkVSSXIwWVhjQ0dycDRSWnlfZGVWeTNJVEVNLWhGZmgwZmhiMXIwMWVabHNxbnZDRnRNNEFvVlpIX3p1Qm1STVFxQ3V3ZWtCRWpCMTdDbF8ySXBFYkVxeDdmcklVc2lQMU02Z09BdXZjeVNORTBBTjd5WGtLWXdHbkU2OU5Oa1lwQ1JxdUlfR3lvNjZHZ1A4Zw?oc=5\" target=\"_blank\">Nepal holds a day of mourning after flash floods kill more than 1,300</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Euronews.com</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdnZOWVd4LTBvb2JhU0dFOEllMVVOaXV6NF9McDhGVVRtUVRIRkVGbVUteUhuLXRfZ1RIVFFiX2dIRVFVRW9iMXlCNHpWSlI5cjdJalJJTWVyMU5vVEE1LUV5R1B2NHktTFU4OW9USU1IaVNhcjdFTFRRdUpPSm5iMk5RUEVsZ0dSdzRhU0NHR3JQRTVGWE1RRFdCbHM?oc=5",
-        "date": "2026-09-07",
-        "title": "Nepal holds a day of mourning after floods kill 1,300 - KSAT",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPdnZOWVd4LTBvb2JhU0dFOEllMVVOaXV6NF9McDhGVVRtUVRIRkVGbVUteUhuLXRfZ1RIVFFiX2dIRVFVRW9iMXlCNHpWSlI5cjdJalJJTWVyMU5vVEE1LUV5R1B2NHktTFU4OW9USU1IaVNhcjdFTFRRdUpPSm5iMk5RUEVsZ0dSdzRhU0NHR3JQRTVGWE1RRFdCbHM?oc=5\" target=\"_blank\">Nepal holds a day of mourning after floods kill 1,300</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KSAT</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPakNKTnhwSERhUGUwNWVRX0ZSazREeFYya0M3bkhzaUoyQUE1ejkwc1lYZ1B1R2NoU2YxWUNIOWI1a1ZfeEJsUUdjWlBxY2g0MXMxT0hHYjIxdU5mcEc3TEo2b1hvWGhqMmJfVUxVMzJXSDg0RjBPU0pXV3JUb29UeEYxaUNZbmdqNFdnbno3T0ltN092YTlLWTZHM0JZOHNKdXdkMlVqZ25iTkVKeXZyb3lGbDE2TW9hVEtWb0tnOUg5TWtIUk9tYVpDUHRUMTFESnQtR1lEUElULTlR?oc=5",
-        "date": "2026-09-07",
-        "title": "Residents continue to endure flooding in Barangay San Pedro Cutud, Pampanga on Monday, as their community remains inundated after nearly three weeks of southwest monsoon rains. (Photos by Edd Gumban/The Philippine STAR) - facebook.com",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxPakNKTnhwSERhUGUwNWVRX0ZSazREeFYya0M3bkhzaUoyQUE1ejkwc1lYZ1B1R2NoU2YxWUNIOWI1a1ZfeEJsUUdjWlBxY2g0MXMxT0hHYjIxdU5mcEc3TEo2b1hvWGhqMmJfVUxVMzJXSDg0RjBPU0pXV3JUb29UeEYxaUNZbmdqNFdnbno3T0ltN092YTlLWTZHM0JZOHNKdXdkMlVqZ25iTkVKeXZyb3lGbDE2TW9hVEtWb0tnOUg5TWtIUk9tYVpDUHRUMTFESnQtR1lEUElULTlR?oc=5\" target=\"_blank\">Residents continue to endure flooding in Barangay San Pedro Cutud, Pampanga on Monday, as their community remains inundated after nearly three weeks of southwest monsoon rains. (Photos by Edd Gumban/The Philippine STAR)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">facebook.com</font>",
-        "similarity_excluded": "No",
-        "score": 6,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUm5VZW9DWF8wSzduZDBiQzhqNWFVNHFRVE1nRUo3aGhzM2dTemd1UGtJeDJneFFsTk1yTngzdHQySVAxczJ5SVVBdWRNZjJJUG9aQ1BPaFpWYmpIcjgwSWY4eEVGUHI5dFFzU2Z0S3lRODhNTmwyMGRjWGl5M0FyVTl3TldHZFBu?oc=5",
-        "date": "2026-09-07",
-        "title": "Hawaii braces for tropical storm - The Arkansas Democrat-Gazette",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUm5VZW9DWF8wSzduZDBiQzhqNWFVNHFRVE1nRUo3aGhzM2dTemd1UGtJeDJneFFsTk1yTngzdHQySVAxczJ5SVVBdWRNZjJJUG9aQ1BPaFpWYmpIcjgwSWY4eEVGUHI5dFFzU2Z0S3lRODhNTmwyMGRjWGl5M0FyVTl3TldHZFBu?oc=5\" target=\"_blank\">Hawaii braces for tropical storm</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Arkansas Democrat-Gazette</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONkRxSHZUWjlWeC1nSzB1WlVHWGl1ZFpQVGd0eXZOQjAwZHBFdWdTTDhXTVFPcnFPc3dCMWo1Yk9GcGZLakJBMlFnalRNYWlmb05jcVprQkc5OUNCa1hHNnZac25saWFySjhJOTRpNWZMcms0ZFphRXJkcGRwZmdSZHpuRVpRNjlYejZqNGk3MW9sT3VScEZVLTluNkpRZkwtNC1MRnB2eVhTQ1F2RGItN1pzaTExdw?oc=5",
-        "date": "2026-09-07",
-        "title": "Marie batters SoCal coast, leaving communities flooded due to high surf - ABC7 Los Angeles",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxONkRxSHZUWjlWeC1nSzB1WlVHWGl1ZFpQVGd0eXZOQjAwZHBFdWdTTDhXTVFPcnFPc3dCMWo1Yk9GcGZLakJBMlFnalRNYWlmb05jcVprQkc5OUNCa1hHNnZac25saWFySjhJOTRpNWZMcms0ZFphRXJkcGRwZmdSZHpuRVpRNjlYejZqNGk3MW9sT3VScEZVLTluNkpRZkwtNC1MRnB2eVhTQ1F2RGItN1pzaTExdw?oc=5\" target=\"_blank\">Marie batters SoCal coast, leaving communities flooded due to high surf</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ABC7 Los Angeles</font>",
-        "similarity_excluded": "No",
-        "score": 7,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNV0VfcFBSVFY1cTNnVGJRdWNsRExCNW1COXlLanFnVEtUUXRUS2E5aE1sUG5vU05QM2UzTzJlR2dHRklHeVZqMXd6eFZUNFNpQmx1aE12UXdzS3VDd0N3cXYxMUtMajNmYkpoU010OWdyaHFKQXNaVjVnQlA5NlJ4Z1JEQ20yY1pkZUZmMzllRDFCY2daNFgxQzFUYjdkc0ZEbFFXTDRrSUc3Nk90T0Zn?oc=5",
-        "date": "2026-09-07",
-        "title": "Weather tracker: Typhoon Saudel causes mass evacuations in south-east China - The Guardian",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxNV0VfcFBSVFY1cTNnVGJRdWNsRExCNW1COXlLanFnVEtUUXRUS2E5aE1sUG5vU05QM2UzTzJlR2dHRklHeVZqMXd6eFZUNFNpQmx1aE12UXdzS3VDd0N3cXYxMUtMajNmYkpoU010OWdyaHFKQXNaVjVnQlA5NlJ4Z1JEQ20yY1pkZUZmMzllRDFCY2daNFgxQzFUYjdkc0ZEbFFXTDRrSUc3Nk90T0Zn?oc=5\" target=\"_blank\">Weather tracker: Typhoon Saudel causes mass evacuations in south-east China</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font>",
-        "similarity_excluded": "No",
-        "score": 9,
-        "status": "processed",
-        "tweet": null,
-        "tweet_id": "2096914253445734753",
-        "geo": {
-            "country": "China",
-            "name": "south-east China",
-            "latitude": 25.0,
-            "longitude": 115.0,
-            "confidence": 0.75
-        }
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdjdaQnZTd21aMHZ4TWlMSVNpVjl3eU5tOVozdXY3Y1MzV2lfOTRhemVNM3JqSVhiZHoxOEU3M25aUzU5OVRiOFJuMHFfQURobWRuX2gwak9xZWRtdkNNYkRlY2I3VXVxVExvS2NiN2lyNWhhRGpWQ0VSeGJrMkdZNVJQdFk3QlVoZVVHWXVndjJSdEwyeWo5aS10UXN5OFpVM0hmbkIwTWVOVE0?oc=5",
-        "date": "2026-09-07",
-        "title": "Severe flooding shuts down Kamehameha Highway in Windward Oahu - Hawaii News Now",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdjdaQnZTd21aMHZ4TWlMSVNpVjl3eU5tOVozdXY3Y1MzV2lfOTRhemVNM3JqSVhiZHoxOEU3M25aUzU5OVRiOFJuMHFfQURobWRuX2gwak9xZWRtdkNNYkRlY2I3VXVxVExvS2NiN2lyNWhhRGpWQ0VSeGJrMkdZNVJQdFk3QlVoZVVHWXVndjJSdEwyeWo5aS10UXN5OFpVM0hmbkIwTWVOVE0?oc=5\" target=\"_blank\">Severe flooding shuts down Kamehameha Highway in Windward Oahu</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Hawaii News Now</font>",
-        "similarity_excluded": "No",
-        "score": 7,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPUHBDTzkybzYtaGRYUU5TbmFaMjFrcXNSaThucXVDZmJKVzFDNW45TmYxQ1FDMlV5bkIxdkJST2w5bjlEWFZpOVlqTFNOTWNOSFhDVEF1QU5yaUg2aVVqTWtadmtaVXJZOWNVRHJ4Z1lvZDhPVVJKc2ltSGF3dnpEcm9BSUZ5bW5zRU92Z3g3VURoYW4yNno5RTBqYW45dXBtX3gzUDN5Ql82OG5FaUI5TzVKa3RLdC04TTVKU0p2NDFQVkhfVzI0ODJvTDBnc254TUFjTzI0cGIxdUgyYVFDYk4zRndabC1PdXJfMW9MNnljV2JQdEtVMEFHYzRaRlFCdkVpQkV2a0czVGV5SWhr?oc=5",
-        "date": "2026-09-07",
-        "title": "DSWD DROMIC Report #72 on the Combined Effects of Enhanced Southwest Monsoon and Tropical Cyclones \u201cLuis\u201d, \u201cMaymay\u201d, \u201cNeneng\u201d, and \u201cPilandok\u201d as of 07 September 2026, 6AM - reliefweb.int",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwJBVV95cUxPUHBDTzkybzYtaGRYUU5TbmFaMjFrcXNSaThucXVDZmJKVzFDNW45TmYxQ1FDMlV5bkIxdkJST2w5bjlEWFZpOVlqTFNOTWNOSFhDVEF1QU5yaUg2aVVqTWtadmtaVXJZOWNVRHJ4Z1lvZDhPVVJKc2ltSGF3dnpEcm9BSUZ5bW5zRU92Z3g3VURoYW4yNno5RTBqYW45dXBtX3gzUDN5Ql82OG5FaUI5TzVKa3RLdC04TTVKU0p2NDFQVkhfVzI0ODJvTDBnc254TUFjTzI0cGIxdUgyYVFDYk4zRndabC1PdXJfMW9MNnljV2JQdEtVMEFHYzRaRlFCdkVpQkV2a0czVGV5SWhr?oc=5\" target=\"_blank\">DSWD DROMIC Report #72 on the Combined Effects of Enhanced Southwest Monsoon and Tropical Cyclones \u201cLuis\u201d, \u201cMaymay\u201d, \u201cNeneng\u201d, and \u201cPilandok\u201d as of 07 September 2026, 6AM</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">reliefweb.int</font>",
-        "similarity_excluded": "No",
-        "score": 9,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5NQTk5UnpKLWc0S3ZqTjZjMmRkSzRqYVhiSGhNdkZDbmo1Uk9aUGVYNlVQQmZfcUFkNnBmSDktZGNRUzZQXzd1aWNMTW14VTZJZFgweGhtdGREaHdn?oc=5",
-        "date": "2026-09-07",
-        "title": "Level 5 Landslide Warnings Issued for Islands South of Tokyo - nippon.com",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE5NQTk5UnpKLWc0S3ZqTjZjMmRkSzRqYVhiSGhNdkZDbmo1Uk9aUGVYNlVQQmZfcUFkNnBmSDktZGNRUzZQXzd1aWNMTW14VTZJZFgweGhtdGREaHdn?oc=5\" target=\"_blank\">Level 5 Landslide Warnings Issued for Islands South of Tokyo</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">nippon.com</font>",
-        "similarity_excluded": "No",
-        "score": 8,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOejZLN1loSHFwY3JsODFWWmhuX1dfMTdYb1Fnbk9DdmZlVVZjSVRiMXRpR0VDaVJGRTc4RjhzRVV5c2ppSEt2TGFBNXZxWHpxYk54R2hUbm5NWlpSOGFPRjMxdE5qUDZLSmMtb3R5aWcxTG4zY0VKLU9EeVZhWFpPY1Z3ejVZRllUNTZaQU05bG9CVzZOVFBlbU5GcDJBbXhSTy1B?oc=5",
-        "date": "2026-09-07",
-        "title": "Torrential rain triggers emergency landslide warnings in Japan - \u0130lke Haber Ajans\u0131",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxOejZLN1loSHFwY3JsODFWWmhuX1dfMTdYb1Fnbk9DdmZlVVZjSVRiMXRpR0VDaVJGRTc4RjhzRVV5c2ppSEt2TGFBNXZxWHpxYk54R2hUbm5NWlpSOGFPRjMxdE5qUDZLSmMtb3R5aWcxTG4zY0VKLU9EeVZhWFpPY1Z3ejVZRllUNTZaQU05bG9CVzZOVFBlbU5GcDJBbXhSTy1B?oc=5\" target=\"_blank\">Torrential rain triggers emergency landslide warnings in Japan</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">\u0130lke Haber Ajans\u0131</font>",
-        "similarity_excluded": "No",
-        "score": 7,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9ZWHd5TUlnbWZFcTlKV25Dam9JM3JkTmNiWHNNbG94S3RGU0UxdGtoR3NjckI0X2h3MUEzTzlFRzV1RUpCbEcxemgwUFF0Rk1G?oc=5",
-        "date": "2026-09-07",
-        "title": "Landslide disrupts roads and power supply in Bajura - The Rising Nepal",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTE9ZWHd5TUlnbWZFcTlKV25Dam9JM3JkTmNiWHNNbG94S3RGU0UxdGtoR3NjckI0X2h3MUEzTzlFRzV1RUpCbEcxemgwUFF0Rk1G?oc=5\" target=\"_blank\">Landslide disrupts roads and power supply in Bajura</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Rising Nepal</font>",
-        "similarity_excluded": "No",
-        "score": 2,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMkxfVXVFVVJtMTFFRjdJVkwtQlRUMTF1Vk5nQ3hhY2NFNlhXOE1lT05CYmpUc05HNy1FVkhyVkRsTGg4ZzZLNVZoUkdFVFBYRmdHV3pPX2owZ185X1dmWG1zUmdjb2Yxc2RZS2c5OFNIa2xxSmdpcWVvMEZfdDYyQXB5ZlJSTVRxZERCUllCVWlTSXZm?oc=5",
-        "date": "2026-09-07",
-        "title": "Continuous rainfall disrupts normal life in Bajura - Nepalnews.com",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQMkxfVXVFVVJtMTFFRjdJVkwtQlRUMTF1Vk5nQ3hhY2NFNlhXOE1lT05CYmpUc05HNy1FVkhyVkRsTGg4ZzZLNVZoUkdFVFBYRmdHV3pPX2owZ185X1dmWG1zUmdjb2Yxc2RZS2c5OFNIa2xxSmdpcWVvMEZfdDYyQXB5ZlJSTVRxZERCUllCVWlTSXZm?oc=5\" target=\"_blank\">Continuous rainfall disrupts normal life in Bajura</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Nepalnews.com</font>",
-        "similarity_excluded": "No",
-        "score": 3,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPS0x2Mkl0MEZNZlRvRFU3YTBWYUxqMV9jLVdCYk8wZGtJMDdOeHNxa0Y5T01JTWdyQkN6c00zSk81OHREQW94aEZ3S1J3UHJpcFk3RTl6WXZ3TG9LNjMzeW9PeDJlUi1GQUVGM1BsZmZkbG1CNUdkVEIxeDBETzZYbHpiTlVCcE8wRWY0SFNPUzVxUVU?oc=5",
-        "date": "2026-09-07",
-        "title": "Landslides disrupt roads and power supply in Bajura - Onlinekhabar English",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPS0x2Mkl0MEZNZlRvRFU3YTBWYUxqMV9jLVdCYk8wZGtJMDdOeHNxa0Y5T01JTWdyQkN6c00zSk81OHREQW94aEZ3S1J3UHJpcFk3RTl6WXZ3TG9LNjMzeW9PeDJlUi1GQUVGM1BsZmZkbG1CNUdkVEIxeDBETzZYbHpiTlVCcE8wRWY0SFNPUzVxUVU?oc=5\" target=\"_blank\">Landslides disrupt roads and power supply in Bajura</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Onlinekhabar English</font>",
-        "similarity_excluded": "No",
-        "score": 4,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORE1EUkU0eWY4ZGVMV1c2a1VkRE1VN0ZHOUFJeGFjTlAzZUhjNUt1eF9uUnc5UTQtLVlTdWVtSFhqRlgySGNaaXlUVFdBSHkwNXNDLU1WZEF2cFhpNkpkcjN2aHl3S0dBZHlQNTFNc2FhQnpTNGVXVkdQT3lubmhwWm9lSjRnUUJDSHpCUklnZThKZzEtc0lQaGZFeTVPaUNfZE10dHlhTTBldmZuQXc?oc=5",
-        "date": "2026-09-07",
-        "title": "Landslide disrupts roads and power supply in Bajura - Hamro Patro",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxORE1EUkU0eWY4ZGVMV1c2a1VkRE1VN0ZHOUFJeGFjTlAzZUhjNUt1eF9uUnc5UTQtLVlTdWVtSFhqRlgySGNaaXlUVFdBSHkwNXNDLU1WZEF2cFhpNkpkcjN2aHl3S0dBZHlQNTFNc2FhQnpTNGVXVkdQT3lubmhwWm9lSjRnUUJDSHpCUklnZThKZzEtc0lQaGZFeTVPaUNfZE10dHlhTTBldmZuQXc?oc=5\" target=\"_blank\">Landslide disrupts roads and power supply in Bajura</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Hamro Patro</font>",
-        "similarity_excluded": "No",
-        "score": 1,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPeDJtZU0yNXBpNjRUeXVNdW9mdUFpRWdCeUdBMURQWkI0b3k2WGp1RVlBZjN6dFdQVGtEa0RqNkRDZHR0NnZseDZsbjgtYmpJZnk1MW1xTkduTmJjY2dEOFN2Rm9oc0cxaEJCRlc0eDlnTm80OWw2eE8zMnNxQm9IUHpZV2FUa21DdE9jeGttVjJjY0xXMXVzWEJPVlN4cVF5NlN2VnlFVTI0bjZwS0d2WU9Ob0Z0d1VnZHlPbXNDWjBLTW1PdURPdkdkbVZvdzU1TFNINtIB1AFBVV95cUxOblVPVXEzaEtXTDVLZmxFVnBYRXZpbEp3OEI2VUFVOG1FQjgyZ3RMay1rdk9jTkNnS1pmMTdyeTJiTXJuQzc5cTFMY0hyUDhmSzlmclBJZWVRWUh2SWpPWkc4ZkhqQU5qQVNGdXJETEVGelhvclZaYm1yM0FPQmViN2xnZk0tNnBNdTJUS1RHUjlacjlTbHdNdmE3WEFXVU1venZKcUFSbk9hZXRLMlI4aENqdVhNTW40TWFQN3hzSGt1dVl0UGo5OGUzelY2LVBYb3ZjNg?oc=5",
-        "date": "2026-09-07",
-        "title": "Nepal puts UN climate fund to test after fatal US$2.5 billion flood - South China Morning Post",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxPeDJtZU0yNXBpNjRUeXVNdW9mdUFpRWdCeUdBMURQWkI0b3k2WGp1RVlBZjN6dFdQVGtEa0RqNkRDZHR0NnZseDZsbjgtYmpJZnk1MW1xTkduTmJjY2dEOFN2Rm9oc0cxaEJCRlc0eDlnTm80OWw2eE8zMnNxQm9IUHpZV2FUa21DdE9jeGttVjJjY0xXMXVzWEJPVlN4cVF5NlN2VnlFVTI0bjZwS0d2WU9Ob0Z0d1VnZHlPbXNDWjBLTW1PdURPdkdkbVZvdzU1TFNINtIB1AFBVV95cUxOblVPVXEzaEtXTDVLZmxFVnBYRXZpbEp3OEI2VUFVOG1FQjgyZ3RMay1rdk9jTkNnS1pmMTdyeTJiTXJuQzc5cTFMY0hyUDhmSzlmclBJZWVRWUh2SWpPWkc4ZkhqQU5qQVNGdXJETEVGelhvclZaYm1yM0FPQmViN2xnZk0tNnBNdTJUS1RHUjlacjlTbHdNdmE3WEFXVU1venZKcUFSbk9hZXRLMlI4aENqdVhNTW40TWFQN3hzSGt1dVl0UGo5OGUzelY2LVBYb3ZjNg?oc=5\" target=\"_blank\">Nepal puts UN climate fund to test after fatal US$2.5 billion flood</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">South China Morning Post</font>",
-        "similarity_excluded": "No",
-        "score": 10,
-        "status": "posted",
-        "tweet": "\ud83c\uddf3\ud83c\uddf5 POST-EVENT Nepal: Fatal flood causes US$2.5 billion damage, testing UN climate fund (SCMP)",
-        "type": "news",
-        "tweet_id": "2096913156320755749",
-        "geo": {
-            "country": "Nepal",
-            "name": "Nepal",
-            "latitude": 28.3949,
-            "longitude": 84.124,
-            "confidence": 0.7
-        }
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQY1dubVdjTHh5d29PLV9Ta1JRbkE1VXdLRUpTbVA3NnppRGxXdm5rcWFva3Y0ZmdiTVFIUVlYbHdMLWl3NVZSSUs4cFFrVFA0Qk0xb3k5OEMxZHU3Y2F2TEdvZXUwVUdoZEVjSHcxemM2UVdjWWM4ckw4ZGZWU0k0cWxnVjFwNFFfYkxSdVRrdWxSSkdOVTNRa0dXMmk1cXQ4MFBreEhwMUR5bW8?oc=5",
-        "date": "2026-09-07",
-        "title": "Nepal holds a day of mourning after floods kill at least 1,300 people - San Antonio Express-News",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQY1dubVdjTHh5d29PLV9Ta1JRbkE1VXdLRUpTbVA3NnppRGxXdm5rcWFva3Y0ZmdiTVFIUVlYbHdMLWl3NVZSSUs4cFFrVFA0Qk0xb3k5OEMxZHU3Y2F2TEdvZXUwVUdoZEVjSHcxemM2UVdjWWM4ckw4ZGZWU0k0cWxnVjFwNFFfYkxSdVRrdWxSSkdOVTNRa0dXMmk1cXQ4MFBreEhwMUR5bW8?oc=5\" target=\"_blank\">Nepal holds a day of mourning after floods kill at least 1,300 people</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">San Antonio Express-News</font>",
-        "similarity_excluded": "No",
-        "score": 10,
-        "status": "posted",
-        "tweet": "\ud83c\uddf3\ud83c\uddf5 POST-EVENT Nepal: Floods kill at least 1,300 people, national day of mourning. San Antonio Express-News",
-        "type": "news",
-        "tweet_id": "2096913698979754150",
-        "geo": {
-            "country": "Nepal",
-            "name": "Nepal",
-            "latitude": 28.3949,
-            "longitude": 84.124,
-            "confidence": 0.9
-        }
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNV0VfcFBSVFY1cTNnVGJRdWNsRExCNW1COXlLanFnVEtUUXRUS2E5aE1sUG5vU05QM2UzTzJlR2dHRklHeVZqMXd6eFZUNFNpQmx1aE12UXdzS3VDd0N3cXYxMUtMajNmYkpoU010OWdyaHFKQXNaVjVnQlA5NlJ4Z1JEQ20yY1pkZUZmMzllRDFCY2daNFgxQzFUYjdkc0ZEbFFXTDRrSUc3Nk90T0Zn?oc=5",
-        "date": "2026-09-07",
-        "title": "Weather tracker: Typhoon Saudel causes mass evacuations in south-east China - The Guardian",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxNV0VfcFBSVFY1cTNnVGJRdWNsRExCNW1COXlLanFnVEtUUXRUS2E5aE1sUG5vU05QM2UzTzJlR2dHRklHeVZqMXd6eFZUNFNpQmx1aE12UXdzS3VDd0N3cXYxMUtMajNmYkpoU010OWdyaHFKQXNaVjVnQlA5NlJ4Z1JEQ20yY1pkZUZmMzllRDFCY2daNFgxQzFUYjdkc0ZEbFFXTDRrSUc3Nk90T0Zn?oc=5\" target=\"_blank\">Weather tracker: Typhoon Saudel causes mass evacuations in south-east China</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font>",
-        "similarity_excluded": "No",
-        "score": 9,
-        "status": "posted",
-        "tweet": "\ud83c\udde8\ud83c\uddf3 POST-EVENT SE China: Typhoon Saudel triggers mass evacuations amid flooding and storm surge.",
-        "type": "news",
-        "tweet_id": "2096914253445734753",
-        "geo": {
-            "country": "China",
-            "name": "south-east China",
-            "latitude": 25.0,
-            "longitude": 115.0,
-            "confidence": 0.75
-        }
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdmZqUkM1ZjJsZlNILUs0aFU2dnRiU1RvN1ZBMEhhRWM4T0x2d1VBVmZYMktnVXVDMHBQQ2ZtMG1xak1pZi0yR3h4MS1VZnRhTnNtZ0toaUZRUDFsQ0RXNHNvMHJnMlBwN2ZjdWN1Wko2R1pheUNmT1ctUDlPOEh3RkdZS1k5Yl9kUm5DdFF1Y1hPQWZZOEFTc1hNbw?oc=5",
-        "date": "2026-09-07",
-        "title": "Test will sound flash flood warning in the Juneau area - Juneau Empire",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPdmZqUkM1ZjJsZlNILUs0aFU2dnRiU1RvN1ZBMEhhRWM4T0x2d1VBVmZYMktnVXVDMHBQQ2ZtMG1xak1pZi0yR3h4MS1VZnRhTnNtZ0toaUZRUDFsQ0RXNHNvMHJnMlBwN2ZjdWN1Wko2R1pheUNmT1ctUDlPOEh3RkdZS1k5Yl9kUm5DdFF1Y1hPQWZZOEFTc1hNbw?oc=5\" target=\"_blank\">Test will sound flash flood warning in the Juneau area</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Juneau Empire</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQMS1uNk00akk3dTlST1piRlctbEZFWVBqa1p5X0tGRVhqd1ZWQVVkUWMzMm5mZ2UyX0hhYXoyaTg2S1NjdHRhV19UUVU0QURsdFZPVjVpeHc5VnFCVWpCSlFMZTMxMVlYN1NkZklydlVUZS0wRmVoS3hWTWg0WGEyS19YN1F5bFVHejFoWkhOMW9CWmNNZllyM2dYSms2SWlQZGJ1T2VB0gGrAUFVX3lxTE1zZUJ4TG9idmFLVm1lWngtcGdUZjFfaDVtMkV1b2RScUhUZTFkRTBVSFRvaUNzelg5OWRrbW1udHAwT0JaLXp6T2NOMXl4anh4RmJUQmg4YkVMZm5vQVdnOHlSc0VuWEpGUTlpczFVOVBoQUpmWDRXSFZIdmVjMWUwenNXOVBKb1kyN3NCSWgxWUhrcEN5LWttcWlhSWVmeGVtUXFOT1I4ZTVNRQ?oc=5",
-        "date": "2026-09-07",
-        "title": "Nepal holds a day of mourning after floods kill at least 1,300 people - PBS",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQMS1uNk00akk3dTlST1piRlctbEZFWVBqa1p5X0tGRVhqd1ZWQVVkUWMzMm5mZ2UyX0hhYXoyaTg2S1NjdHRhV19UUVU0QURsdFZPVjVpeHc5VnFCVWpCSlFMZTMxMVlYN1NkZklydlVUZS0wRmVoS3hWTWg0WGEyS19YN1F5bFVHejFoWkhOMW9CWmNNZllyM2dYSms2SWlQZGJ1T2VB0gGrAUFVX3lxTE1zZUJ4TG9idmFLVm1lWngtcGdUZjFfaDVtMkV1b2RScUhUZTFkRTBVSFRvaUNzelg5OWRrbW1udHAwT0JaLXp6T2NOMXl4anh4RmJUQmg4YkVMZm5vQVdnOHlSc0VuWEpGUTlpczFVOVBoQUpmWDRXSFZIdmVjMWUwenNXOVBKb1kyN3NCSWgxWUhrcEN5LWttcWlhSWVmeGVtUXFOT1I4ZTVNRQ?oc=5\" target=\"_blank\">Nepal holds a day of mourning after floods kill at least 1,300 people</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PBS</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5XeDJfZTFLbEQwTmExbUhCNmVQZ0lzdmExQ2ptYlJRVk9hQW5vbUtfYzZ5RDFCdU96MVhrRFIwYnYwemVxU0xPczM1cG12c0U5RDVsZnROaUkxaVgyaXNZNW93?oc=5",
-        "date": "2026-09-07",
-        "title": "Vega Baja County Faces Life\u2011Threatening Flash Floods as Warning Remains in Effect - Forth.News",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE5XeDJfZTFLbEQwTmExbUhCNmVQZ0lzdmExQ2ptYlJRVk9hQW5vbUtfYzZ5RDFCdU96MVhrRFIwYnYwemVxU0xPczM1cG12c0U5RDVsZnROaUkxaVgyaXNZNW93?oc=5\" target=\"_blank\">Vega Baja County Faces Life\u2011Threatening Flash Floods as Warning Remains in Effect</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Forth.News</font>",
-        "similarity_excluded": "No",
-        "score": 9,
-        "status": "processed",
-        "tweet": null,
-        "tweet_id": "2097055384259174749",
-        "geo": {
-            "country": "United States",
-            "name": "Vega Baja, Puerto Rico",
-            "latitude": 18.4444,
-            "longitude": -66.3899,
-            "confidence": 0.9
-        }
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQQjJzY1Y5U1p0TWNfWEd5WTM0YVJjWWU2QmhwdjcwV0RvTGZialJKa0xrQzBvUjVjV01fY0x2RDhMRHZESkFBdTdGNGpOazR0LXVwcFdJQVhySGRuVVAzOUg5VVJBelRLbDB1d3EycTVnZnZiSjc2bGZYRGc0VVdIRW5GX05vTmJXVUg4TG1LRXV1Mnc?oc=5",
-        "date": "2026-09-07",
-        "title": "The Nepal flash flood and a cricket team in a state of shock: \u2018If one person is cut, they all bleed\u2019 - The New York Times",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQQjJzY1Y5U1p0TWNfWEd5WTM0YVJjWWU2QmhwdjcwV0RvTGZialJKa0xrQzBvUjVjV01fY0x2RDhMRHZESkFBdTdGNGpOazR0LXVwcFdJQVhySGRuVVAzOUg5VVJBelRLbDB1d3EycTVnZnZiSjc2bGZYRGc0VVdIRW5GX05vTmJXVUg4TG1LRXV1Mnc?oc=5\" target=\"_blank\">The Nepal flash flood and a cricket team in a state of shock: \u2018If one person is cut, they all bleed\u2019</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>",
-        "similarity_excluded": "No",
-        "score": 9,
-        "status": "processed",
-        "tweet": null,
-        "tweet_id": "2097055948200100329",
-        "geo": {
-            "country": "Nepal",
-            "name": "Nepal",
-            "latitude": 28.3949,
-            "longitude": 84.124,
-            "confidence": 0.85
-        }
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPRy1NUDhMQi0tQmQ0azZTTlVlSDRMZGZqdHpIVjM1WUdnYVZ3WGIzcHE2WWNTcUtNcnRjcHJPZHdJUTZ1OFFzckFiajBvZktxMzVjX2p3TWJCNG5keWtNcWM5bVFaRmVkMUk3NFNIRFFuWUZVTjZobkt3ejhhRU1HeGxWMDRnRUx0U3JwSEdFVEtWcm5jTV9n?oc=5",
-        "date": "2026-09-07",
-        "title": "High Surf Warning and Flood Watch in Effect for Hawai\u02bbi Island - KWXX",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPRy1NUDhMQi0tQmQ0azZTTlVlSDRMZGZqdHpIVjM1WUdnYVZ3WGIzcHE2WWNTcUtNcnRjcHJPZHdJUTZ1OFFzckFiajBvZktxMzVjX2p3TWJCNG5keWtNcWM5bVFaRmVkMUk3NFNIRFFuWUZVTjZobkt3ejhhRU1HeGxWMDRnRUx0U3JwSEdFVEtWcm5jTV9n?oc=5\" target=\"_blank\">High Surf Warning and Flood Watch in Effect for Hawai\u02bbi Island</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KWXX</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOamo0aXdqRkVDWTdxbzJ3eko0d084RkNEYl9uV1ZVdGRYVC16cnMxckhIWjJ2YTZsZXo0SjViNUFxdERSZGNMM1NfQ1VTSnJTamdzRmRYWG5kMnlkYktRWHJUQmRGZ3VuOVZsWkx1ZUptYkZZZVhXOFc2Wi12ak9FdFlZdTFNQ3FuVWN0cmktNEdGTWlnZVE?oc=5",
-        "date": "2026-09-07",
-        "title": "The Tibet-Nepal flood is a warning against defying nature - Stagecraft and Statecraft",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxOamo0aXdqRkVDWTdxbzJ3eko0d084RkNEYl9uV1ZVdGRYVC16cnMxckhIWjJ2YTZsZXo0SjViNUFxdERSZGNMM1NfQ1VTSnJTamdzRmRYWG5kMnlkYktRWHJUQmRGZ3VuOVZsWkx1ZUptYkZZZVhXOFc2Wi12ak9FdFlZdTFNQ3FuVWN0cmktNEdGTWlnZVE?oc=5\" target=\"_blank\">The Tibet-Nepal flood is a warning against defying nature</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Stagecraft and Statecraft</font>",
-        "similarity_excluded": "No",
-        "score": 6,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOZlJwZnY2ZU1QdEZ1Zm1Odk1KZm9yNUR0NWZmTGF0aGtPQTVyYmxWSmlSQS12UGdlZmxSb1NoWTNsOUJjWFlfQ2ZOMXhVRVJRbmU4ZkRpNzdUZVdZdkRiS29GZGhQVVl5N3JOYl91SHNqY3ZsY2Rfc29GTHkxdnlDdk1XTXlyZkhXWlJTWTE5dTdaZXdtVzBnNlpTOUo3U2VUNC1rS2J4a3R6R0VrV1psUk16S05qaWJkQ3VvNVk1ZWdOUVJ5OGV2NDBPeTFIc01jdVUtMEpXNHZRcGFo?oc=5",
-        "date": "2026-09-07",
-        "title": "Survivor discovered in collapsed home amid flood devastation in Nepal A 64-year-old woman was found alive on Saturday, September 5, after her family believed she had died in the floods that devastated Betrawati, Nepal. Full story: https://www.rappler.com/w - facebook.com",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxOZlJwZnY2ZU1QdEZ1Zm1Odk1KZm9yNUR0NWZmTGF0aGtPQTVyYmxWSmlSQS12UGdlZmxSb1NoWTNsOUJjWFlfQ2ZOMXhVRVJRbmU4ZkRpNzdUZVdZdkRiS29GZGhQVVl5N3JOYl91SHNqY3ZsY2Rfc29GTHkxdnlDdk1XTXlyZkhXWlJTWTE5dTdaZXdtVzBnNlpTOUo3U2VUNC1rS2J4a3R6R0VrV1psUk16S05qaWJkQ3VvNVk1ZWdOUVJ5OGV2NDBPeTFIc01jdVUtMEpXNHZRcGFo?oc=5\" target=\"_blank\">Survivor discovered in collapsed home amid flood devastation in Nepal A 64-year-old woman was found alive on Saturday, September 5, after her family believed she had died in the floods that devastated Betrawati, Nepal. Full story: https://www.rappler.com/w</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">facebook.com</font>",
-        "similarity_excluded": "No",
-        "score": 8,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSjQxeHJyTUtHbElRX2NLQzM3MHRlVTdMWHFQNHgzdEl4NkVXUXhlSFZiNFJnWmsxRFQxcGcybEsyVGhMMndTN1cwdzVTM3pYdXFwUlJFcG8wNEVtSExabVMwZG9VU1ZNRDd0TUxDU3ljVEpGem4wUWs3LXRlbE9NVGcxS0V0UXZoajlESlUwRjFOdkJLak9oRDhVaUpCRjJiWWpmeg?oc=5",
-        "date": "2026-09-07",
-        "title": "Stein encourages NC residents to prepare for emergencies - The Johnstonian News",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxOSjQxeHJyTUtHbElRX2NLQzM3MHRlVTdMWHFQNHgzdEl4NkVXUXhlSFZiNFJnWmsxRFQxcGcybEsyVGhMMndTN1cwdzVTM3pYdXFwUlJFcG8wNEVtSExabVMwZG9VU1ZNRDd0TUxDU3ljVEpGem4wUWs3LXRlbE9NVGcxS0V0UXZoajlESlUwRjFOdkJLak9oRDhVaUpCRjJiWWpmeg?oc=5\" target=\"_blank\">Stein encourages NC residents to prepare for emergencies</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Johnstonian News</font>",
-        "similarity_excluded": "Yes",
-        "score": 0,
-        "status": "skipped",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQcUd2Y2dkeEpmamtMNWNpSENwWVJicFFZbVdEcTExVDlrYUNOZ0lwd3NqY3F5NGhEYmJGQnZ4aG13bGlwTHlTbXVHTzk4UFdZQ3h1YUlZVkhvUlYxckVrc1VKMlRPaGo1NnBTa3NqN0xZMnNQa2NfcmF4TkZKQXNGT0JzQnhpOFRmLW04NG91cklQeHJMM0VibElYb0pTNm1SVzRlN1U4UEJsbHZYUWxBUWtrRdIBxwFBVV95cUxNc0JZWUs1ZXcwTDNPUjJ4MlVobE9FSG5maEN6TzZpRGw4Y3RtZVVaSEZ0RlVZa3I5V1J0dWxFU2laQ3Z1YWxaT3F0TEd5V2ZyQzd3ellOVGhTX2JHZlQxUFVRU1o0a0pSemF6OFVSak16SW9HbDNCbVlZOXRzRVRBaEk0YzFTbVl6TXlNUDFBU3M4MlR5X0MxU0FVelB3dkphUUZEajlNSUY5dmpBZWNkT3FwbHVKR01qdVpnVktJQkV4MElkX2xv?oc=5",
-        "date": "2026-09-07",
-        "title": "Nepal flood victims to be honoured prior to this week\u2019s Champions League games - Diario AS",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQcUd2Y2dkeEpmamtMNWNpSENwWVJicFFZbVdEcTExVDlrYUNOZ0lwd3NqY3F5NGhEYmJGQnZ4aG13bGlwTHlTbXVHTzk4UFdZQ3h1YUlZVkhvUlYxckVrc1VKMlRPaGo1NnBTa3NqN0xZMnNQa2NfcmF4TkZKQXNGT0JzQnhpOFRmLW04NG91cklQeHJMM0VibElYb0pTNm1SVzRlN1U4UEJsbHZYUWxBUWtrRdIBxwFBVV95cUxNc0JZWUs1ZXcwTDNPUjJ4MlVobE9FSG5maEN6TzZpRGw4Y3RtZVVaSEZ0RlVZa3I5V1J0dWxFU2laQ3Z1YWxaT3F0TEd5V2ZyQzd3ellOVGhTX2JHZlQxUFVRU1o0a0pSemF6OFVSak16SW9HbDNCbVlZOXRzRVRBaEk0YzFTbVl6TXlNUDFBU3M4MlR5X0MxU0FVelB3dkphUUZEajlNSUY5dmpBZWNkT3FwbHVKR01qdVpnVktJQkV4MElkX2xv?oc=5\" target=\"_blank\">Nepal flood victims to be honoured prior to this week\u2019s Champions League games</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Diario AS</font>",
-        "similarity_excluded": "No",
-        "score": 1,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNdjhkdmV6VmtPOTB6ZjA4ZjhpNVloRWlGQjhRMkR5TWkzRTFXYWVFZlZsMllHZVVEZ3ZxeEZNMm9vd2dVbEExM0YtOTNybVU2c21PYlFrWGcyRlJDMHRkWU41NWxSeFpKY083SmtnVzBMRG05YXdmWnp6OEZEcG5oNjZqV3ZiZXRFbzJDXzlWa2ZhUEVPLVIta2h6RlNENWFXcjIyUXFHQVMyaWpfdzA4Rml2eGNTbkdOMV9tUVRFdDRlWGp4ZnA2MzE5QUxGdHFLV2xHUkxUbw?oc=5",
-        "date": "2026-09-07",
-        "title": "Category 3 Hurricane Lowell forecast to pass near or just west of Ni\u02bbihau tonight into Tuesday morning - Kauai Now",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxNdjhkdmV6VmtPOTB6ZjA4ZjhpNVloRWlGQjhRMkR5TWkzRTFXYWVFZlZsMllHZVVEZ3ZxeEZNMm9vd2dVbEExM0YtOTNybVU2c21PYlFrWGcyRlJDMHRkWU41NWxSeFpKY083SmtnVzBMRG05YXdmWnp6OEZEcG5oNjZqV3ZiZXRFbzJDXzlWa2ZhUEVPLVIta2h6RlNENWFXcjIyUXFHQVMyaWpfdzA4Rml2eGNTbkdOMV9tUVRFdDRlWGp4ZnA2MzE5QUxGdHFLV2xHUkxUbw?oc=5\" target=\"_blank\">Category 3 Hurricane Lowell forecast to pass near or just west of Ni\u02bbihau tonight into Tuesday morning</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Kauai Now</font>",
-        "similarity_excluded": "No",
-        "score": 3,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOUDJWeXM5akNWZGRxSDBnOU9EZF93RVYyZWc1S3QwYVFqQ1JUQk9PT2pQSVpYUnBjZUNmWjNVZWJUZXlGbDlVRkhLQmpXMkptSnlsbnFlVXF5MElBeWFSTGRQaGN1UGdJbWJUdHNXdmFXaFJiUi1ObnowbUYxSkZNWS1jeGpzOVNzeHB5U3Zwdw?oc=5",
-        "date": "2026-09-07",
-        "title": "Hurricane Lowell prompts hurricane warnings for Hawaii - The Weather Channel",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxOUDJWeXM5akNWZGRxSDBnOU9EZF93RVYyZWc1S3QwYVFqQ1JUQk9PT2pQSVpYUnBjZUNmWjNVZWJUZXlGbDlVRkhLQmpXMkptSnlsbnFlVXF5MElBeWFSTGRQaGN1UGdJbWJUdHNXdmFXaFJiUi1ObnowbUYxSkZNWS1jeGpzOVNzeHB5U3Zwdw?oc=5\" target=\"_blank\">Hurricane Lowell prompts hurricane warnings for Hawaii</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Weather Channel</font>",
-        "similarity_excluded": "No",
-        "score": 5,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNTnFqa2ZqT1NKcUZGMGdSVjNvaXFfVVdMOXExbkt1bzNhRmhLUzJNcmgtTkkzZ3RxQ1lVcjZEd0g3cFI1ZWkwWTBPRnFvLWkxaGtuRjVTeGQ2VEwySTBTTDRNVEdjU0NSV0RITnRCeVFkbXM1ZkFwNmlld0Z4dnZ5a0owMmhoaEs1YkVBbF9lRUpDMmE5MGI5dklVLTBYckwtUnBDY2RrdW84UTFfM3BpVWtLbWJrU2t1WkZndHQxazBNQ1JkWUliVkx3?oc=5",
-        "date": "2026-09-07",
-        "title": "Oahu now under tropical storm warning as Hurricane Lowell moves closer - Honolulu Star-Advertiser",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxNTnFqa2ZqT1NKcUZGMGdSVjNvaXFfVVdMOXExbkt1bzNhRmhLUzJNcmgtTkkzZ3RxQ1lVcjZEd0g3cFI1ZWkwWTBPRnFvLWkxaGtuRjVTeGQ2VEwySTBTTDRNVEdjU0NSV0RITnRCeVFkbXM1ZkFwNmlld0Z4dnZ5a0owMmhoaEs1YkVBbF9lRUpDMmE5MGI5dklVLTBYckwtUnBDY2RrdW84UTFfM3BpVWtLbWJrU2t1WkZndHQxazBNQ1JkWUliVkx3?oc=5\" target=\"_blank\">Oahu now under tropical storm warning as Hurricane Lowell moves closer</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Honolulu Star-Advertiser</font>",
-        "similarity_excluded": "No",
-        "score": 7,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPcGJOTWZtVDZ0RzJVVkNGN3lnRmtrS0ZMc2xiYW1sY1FXMmwxUEVpdkY5eHVVb0Mwd3ZmNzBuQ2JBcEU2akI3VWs2bE92UTItZnp5VHU2V3ZzejNvLTVFZnptRDBPVnNJSFN0b3p4dHE1ckh1RE9kNDdBMXp1WVVqOU12V1p5X3FWeFdmTnZ0N1RwRzUxZWxKVU1FLWJEWkozc2Z5djF3MzRRdmVfNU9HTzRjRzExZmphTzJrclNxcGRtbTNBZ0dBTURoUjVzN0U?oc=5",
-        "date": "2026-09-07",
-        "title": "Hurricane Marie Brings 10-Foot Waves And Flooding To Southern California (Photos) - Forbes",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxPcGJOTWZtVDZ0RzJVVkNGN3lnRmtrS0ZMc2xiYW1sY1FXMmwxUEVpdkY5eHVVb0Mwd3ZmNzBuQ2JBcEU2akI3VWs2bE92UTItZnp5VHU2V3ZzejNvLTVFZnptRDBPVnNJSFN0b3p4dHE1ckh1RE9kNDdBMXp1WVVqOU12V1p5X3FWeFdmTnZ0N1RwRzUxZWxKVU1FLWJEWkozc2Z5djF3MzRRdmVfNU9HTzRjRzExZmphTzJrclNxcGRtbTNBZ0dBTURoUjVzN0U?oc=5\" target=\"_blank\">Hurricane Marie Brings 10-Foot Waves And Flooding To Southern California (Photos)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Forbes</font>",
-        "similarity_excluded": "No",
-        "score": 6,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQWFA1MHZ3cmhFVVg2S0JKdTRnN2E5QWdNQThxYWU2VmJtZDhOTWQxWmVBa05BWHZ5Yk5YTVc4ckdHVVlTb3lvWkp3eUR5Ylp0S1Q0TXN3aU9EYUZiRXVCYlVySzRFOEVSU0RuelhUcWliTFZHSFB5UmRNZE02QWZVLVU0eGwzQzJFU3p0MFV0UmMyQXRqZVpXZWhJNFhoeWRBTkNKcG1aQUNVTkpTbkNXNlllWkpkVnFqaGFaaVJBYlAzUTRSZFBQcXNTTnFZVjVf?oc=5",
-        "date": "2026-09-07",
-        "title": "Hurricane Lowell tracker: Hawaii warned to expect heavy rain and flooding - Yahoo",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxQWFA1MHZ3cmhFVVg2S0JKdTRnN2E5QWdNQThxYWU2VmJtZDhOTWQxWmVBa05BWHZ5Yk5YTVc4ckdHVVlTb3lvWkp3eUR5Ylp0S1Q0TXN3aU9EYUZiRXVCYlVySzRFOEVSU0RuelhUcWliTFZHSFB5UmRNZE02QWZVLVU0eGwzQzJFU3p0MFV0UmMyQXRqZVpXZWhJNFhoeWRBTkNKcG1aQUNVTkpTbkNXNlllWkpkVnFqaGFaaVJBYlAzUTRSZFBQcXNTTnFZVjVf?oc=5\" target=\"_blank\">Hurricane Lowell tracker: Hawaii warned to expect heavy rain and flooding</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo</font>",
-        "similarity_excluded": "No",
-        "score": 8,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZ3piLTI1TUZxWkJoMGhGSkZ3UXJZQTNmcVpYV0NhejJCSHYzZ0lZdlp6eTA3T1ptX2tVQU96UlZtcC1jdmpmYW1SRmgxQzY0c2RXT0lqamtKaGdaNHhhUTFDVUxfMl9zNXVoeVNzUHRGX2xQVEFtbUdwWklsNzdVay14NXdydENVN3FKekVSVTk0RXFJLVRjc1dTMDZQcGhhY200MEZDV2Njc1M0b0Rva2lWeS1IcXNMeld30gHAAUFVX3lxTE4yNFdMOFNTaEQ4eHRzTUw5aHZpaW5yRDNjTW1PNXpidGN3eFZKZ3hpb3pxdXVKREM2NnF3Q3ctOXBoeWdFc3BkQUdLWDRRcXdReFN1UHpTVEppVENCWEF4Ry12M3poTVlIMVgwT2Y2ZlZCM2hTcmJXcU9fMHdzTDV3WkVDZkRXdGVucV9QWHNqeUhWbnhKTjN6Tm5vcmVOWWtRMWRYNFRpOFpfODhldXpxd0tVQ0RyTmplTm1pX3o0dg?oc=5",
-        "date": "2026-09-07",
-        "title": "Storms causing high surf and coastal flooding in Long Beach: \u2018Really dangerous out here\u2019 - KTLA",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZ3piLTI1TUZxWkJoMGhGSkZ3UXJZQTNmcVpYV0NhejJCSHYzZ0lZdlp6eTA3T1ptX2tVQU96UlZtcC1jdmpmYW1SRmgxQzY0c2RXT0lqamtKaGdaNHhhUTFDVUxfMl9zNXVoeVNzUHRGX2xQVEFtbUdwWklsNzdVay14NXdydENVN3FKekVSVTk0RXFJLVRjc1dTMDZQcGhhY200MEZDV2Njc1M0b0Rva2lWeS1IcXNMeld30gHAAUFVX3lxTE4yNFdMOFNTaEQ4eHRzTUw5aHZpaW5yRDNjTW1PNXpidGN3eFZKZ3hpb3pxdXVKREM2NnF3Q3ctOXBoeWdFc3BkQUdLWDRRcXdReFN1UHpTVEppVENCWEF4Ry12M3poTVlIMVgwT2Y2ZlZCM2hTcmJXcU9fMHdzTDV3WkVDZkRXdGVucV9QWHNqeUhWbnhKTjN6Tm5vcmVOWWtRMWRYNFRpOFpfODhldXpxd0tVQ0RyTmplTm1pX3o0dg?oc=5\" target=\"_blank\">Storms causing high surf and coastal flooding in Long Beach: \u2018Really dangerous out here\u2019</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KTLA</font>",
-        "similarity_excluded": "No",
-        "score": 6,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPT1JKQmhrQmdYczdFODhvLVpsQUYzUGJ6NG54OTB5bU5aNFV4MU1TdjlpWGFoZXlPb3pDSzFRSU5KaFhCRlM1YkRTT3F5cTBOU3pkaEcyRDJsVFZUaVNHVVVGZFJQZ3c1TUFEcjBxN2JqWWw1Y19jb2hZWmxIV19UNlhnZUdoQ01TcVZJWnVFaXFyN1I3OHBlZXlUOXZFZWxpY0R0My1MbzU4dlViS1NmNDhUY19vbktMT0g1SVotMk8xak5U?oc=5",
-        "date": "2026-09-07",
-        "title": "Jiangxi expressway set to reopen after heavy rain triggers landslides - news.cgtn.com",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxPT1JKQmhrQmdYczdFODhvLVpsQUYzUGJ6NG54OTB5bU5aNFV4MU1TdjlpWGFoZXlPb3pDSzFRSU5KaFhCRlM1YkRTT3F5cTBOU3pkaEcyRDJsVFZUaVNHVVVGZFJQZ3c1TUFEcjBxN2JqWWw1Y19jb2hZWmxIV19UNlhnZUdoQ01TcVZJWnVFaXFyN1I3OHBlZXlUOXZFZWxpY0R0My1MbzU4dlViS1NmNDhUY19vbktMT0g1SVotMk8xak5U?oc=5\" target=\"_blank\">Jiangxi expressway set to reopen after heavy rain triggers landslides</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">news.cgtn.com</font>",
-        "similarity_excluded": "No",
-        "score": 5,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE52TXJHSFYzT19sbTNZdU1vZmFSeFhmWVBtNFZLVXhTVmFrVmlMZEFsaFI1RG5TYkhTOHhDcTBYT3QzdDR2QWNPZWRFWkJzN05qajB4WE8tNUdpTnZaUGl1WNIBXEFVX3lxTE5FeVJQNDVZYU92QWtHeEllSXVwZDI3T1NYMy1hT1hZaE9EWkswM05YcUk3VktMQnZXN1JtZzFNS3ZodGV2OTIxeU5KQ2UxZ0dMYVVab0QzMzJxQ0R4?oc=5",
-        "date": "2026-09-07",
-        "title": "Jiangxi expressway set to reopen after heavy rain triggers landslides - Modern Ghana",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE52TXJHSFYzT19sbTNZdU1vZmFSeFhmWVBtNFZLVXhTVmFrVmlMZEFsaFI1RG5TYkhTOHhDcTBYT3QzdDR2QWNPZWRFWkJzN05qajB4WE8tNUdpTnZaUGl1WNIBXEFVX3lxTE5FeVJQNDVZYU92QWtHeEllSXVwZDI3T1NYMy1hT1hZaE9EWkswM05YcUk3VktMQnZXN1JtZzFNS3ZodGV2OTIxeU5KQ2UxZ0dMYVVab0QzMzJxQ0R4?oc=5\" target=\"_blank\">Jiangxi expressway set to reopen after heavy rain triggers landslides</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Modern Ghana</font>",
-        "similarity_excluded": "No",
-        "score": 5,
-        "status": "processed",
-        "tweet": null
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5XeDJfZTFLbEQwTmExbUhCNmVQZ0lzdmExQ2ptYlJRVk9hQW5vbUtfYzZ5RDFCdU96MVhrRFIwYnYwemVxU0xPczM1cG12c0U5RDVsZnROaUkxaVgyaXNZNW93?oc=5",
-        "date": "2026-09-07",
-        "title": "Vega Baja County Faces Life\u2011Threatening Flash Floods as Warning Remains in Effect - Forth.News",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE5XeDJfZTFLbEQwTmExbUhCNmVQZ0lzdmExQ2ptYlJRVk9hQW5vbUtfYzZ5RDFCdU96MVhrRFIwYnYwemVxU0xPczM1cG12c0U5RDVsZnROaUkxaVgyaXNZNW93?oc=5\" target=\"_blank\">Vega Baja County Faces Life\u2011Threatening Flash Floods as Warning Remains in Effect</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Forth.News</font>",
-        "similarity_excluded": "No",
-        "score": 9,
-        "status": "posted",
-        "tweet": "\ud83c\uddf5\ud83c\uddf7 FORECAST Vega Baja County: Life-threatening flash flood warning remains in effect.",
-        "type": "news",
-        "tweet_id": "2097055384259174749",
-        "geo": {
-            "country": "United States",
-            "name": "Vega Baja, Puerto Rico",
-            "latitude": 18.4444,
-            "longitude": -66.3899,
-            "confidence": 0.9
-        }
-    },
-    {
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQQjJzY1Y5U1p0TWNfWEd5WTM0YVJjWWU2QmhwdjcwV0RvTGZialJKa0xrQzBvUjVjV01fY0x2RDhMRHZESkFBdTdGNGpOazR0LXVwcFdJQVhySGRuVVAzOUg5VVJBelRLbDB1d3EycTVnZnZiSjc2bGZYRGc0VVdIRW5GX05vTmJXVUg4TG1LRXV1Mnc?oc=5",
-        "date": "2026-09-07",
-        "title": "The Nepal flash flood and a cricket team in a state of shock: \u2018If one person is cut, they all bleed\u2019 - The New York Times",
-        "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQQjJzY1Y5U1p0TWNfWEd5WTM0YVJjWWU2QmhwdjcwV0RvTGZialJKa0xrQzBvUjVjV01fY0x2RDhMRHZESkFBdTdGNGpOazR0LXVwcFdJQVhySGRuVVAzOUg5VVJBelRLbDB1d3EycTVnZnZiSjc2bGZYRGc0VVdIRW5GX05vTmJXVUg4TG1LRXV1Mnc?oc=5\" target=\"_blank\">The Nepal flash flood and a cricket team in a state of shock: \u2018If one person is cut, they all bleed\u2019</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>",
-        "similarity_excluded": "No",
-        "score": 9,
-        "status": "posted",
-        "tweet": "\ud83c\uddf3\ud83c\uddf5 POST-EVENT Nepal: Flash flood leaves cricket team in shock",
-        "type": "news",
-        "tweet_id": "2097055948200100329",
-        "geo": {
-            "country": "Nepal",
-            "name": "Nepal",
-            "latitude": 28.3949,
-            "longitude": 84.124,
-            "confidence": 0.85
-        }
-    },
-    {
-        "link": null,
-        "date": "2026-09-07",
-        "status": "posted",
-        "tweet": "\ud83c\uddf3\ud83c\uddf1 The Netherlands maintains 3,700 km of primary dikes and levees as of 2026, protecting areas where two-thirds of the population lives below sea level.",
-        "type": "infrastructure",
-        "tweet_id": "2097098205888487705"
-    },
-    {
         "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPME9tQnpERnZKLVRmNF9qV3BVWGx3YW5tRlE3Y3dQRnJhUXQ5M044bXp2eWgzTWltbUFFSE9NdDRvazVjSlB2Qk9uenlxSm5RU0txZllyc2ExQW1kUjRESWRSV1RfMVo2ZFBzX3Z0UjRibUM0WFRZd3ItX0ZEZW4wS3V2WkJCSkVKck5jNUFYelBDNC0wQ1FJaEtB?oc=5",
         "date": "2026-09-08",
         "title": "Test will sound flash flood warning in the Juneau area - Juneau Empire",
@@ -14807,6 +14246,96 @@
         "similarity_excluded": "No",
         "score": 6,
         "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE85VWRZZG5wVXc1RWJvdV80aEo5UkZLZi1NRW1SNUtaVTFDWXRHQ2YwVmNUdGY5MUxNNjZ1WjJnQ3NJeEoza0Z5MjNZN00xUUptLWNOdHBLdktqZFFzNFBvbExLUzA2bjVaRnVOZFJ6aEdPQ2FJNnJKVw?oc=5",
+        "date": "2026-10-07",
+        "title": "AI techniques behind image creation improve flash flood forecasts across U.S. river basins - Phys.org",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE85VWRZZG5wVXc1RWJvdV80aEo5UkZLZi1NRW1SNUtaVTFDWXRHQ2YwVmNUdGY5MUxNNjZ1WjJnQ3NJeEoza0Z5MjNZN00xUUptLWNOdHBLdktqZFFzNFBvbExLUzA2bjVaRnVOZFJ6aEdPQ2FJNnJKVw?oc=5\" target=\"_blank\">AI techniques behind image creation improve flash flood forecasts across U.S. river basins</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Phys.org</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQUWxFREJqTEFob3VfbE9VenpCYUtzaUZHVURCRnJmWi1hNVZ3ZFRrYXpQUkJsUFFXLVRxUEVEQ01nZ1NSX0szSERkaDFxYXZEc3ZXdTdQM1RQZWlKZXl3UlNydW5CbC1oWDkxVkU2YVRZZ2ItTUg3NmxZbnp3S19Fc2E2QmpfdklZRjF3S3lZQnl6c3N1ZkpkSUlyX3ZWWnRuSGVZY29n0gGrAUFVX3lxTE1lMzFEMmxmeFIyT0JvWEc5NUc4NE4xMUlQY2Z5TjJkUkdkb1RBbzBhUHBCWWlfX3hwcERGZHdObXllTjlqRDVNcEk5aGVyMkwwRTlyZTJLQ0JwVEViVkJveU0xYWt2b09aTG9qWEZ2TjZNdks3X1lodE8zc0t4eG9lWllfVjZHLW55T0hpY2ZLamdLbW9sd3FqVmYyNmlzVUJLTTYxcVFCVEZXSQ?oc=5",
+        "date": "2026-10-07",
+        "title": "Future Hurricane Isaias tracker: Storm path, forecast cone, spaghetti models, wind and flood threat - FOX Weather",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQUWxFREJqTEFob3VfbE9VenpCYUtzaUZHVURCRnJmWi1hNVZ3ZFRrYXpQUkJsUFFXLVRxUEVEQ01nZ1NSX0szSERkaDFxYXZEc3ZXdTdQM1RQZWlKZXl3UlNydW5CbC1oWDkxVkU2YVRZZ2ItTUg3NmxZbnp3S19Fc2E2QmpfdklZRjF3S3lZQnl6c3N1ZkpkSUlyX3ZWWnRuSGVZY29n0gGrAUFVX3lxTE1lMzFEMmxmeFIyT0JvWEc5NUc4NE4xMUlQY2Z5TjJkUkdkb1RBbzBhUHBCWWlfX3hwcERGZHdObXllTjlqRDVNcEk5aGVyMkwwRTlyZTJLQ0JwVEViVkJveU0xYWt2b09aTG9qWEZ2TjZNdks3X1lodE8zc0t4eG9lWllfVjZHLW55T0hpY2ZLamdLbW9sd3FqVmYyNmlzVUJLTTYxcVFCVEZXSQ?oc=5\" target=\"_blank\">Future Hurricane Isaias tracker: Storm path, forecast cone, spaghetti models, wind and flood threat</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FOX Weather</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxObjZWUGxtR1dkTXFHR2FRdGd0MmpsaV9VSXBHejBUM3N0N1h3ZG1rd3c2WUJEMDZKa0hPVm43UFFwY2J1d2NmQUtuZnRSazYwdnFqU2Vna01QY21lbWNjLVhDelJVR2JTcUJRQUF4ZDY2TGl3M1RKU1VqeFV2emE3dzRRSjNQWnZPS1ZuY0tTNS1ldFZua3otTjhHZGlUZGlSbkl6U1NBdS1xWEUy?oc=5",
+        "date": "2026-10-07",
+        "title": "Tropical Storm Isaias to develop, head toward Gulf Coast - The Weather Channel",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxObjZWUGxtR1dkTXFHR2FRdGd0MmpsaV9VSXBHejBUM3N0N1h3ZG1rd3c2WUJEMDZKa0hPVm43UFFwY2J1d2NmQUtuZnRSazYwdnFqU2Vna01QY21lbWNjLVhDelJVR2JTcUJRQUF4ZDY2TGl3M1RKU1VqeFV2emE3dzRRSjNQWnZPS1ZuY0tTNS1ldFZua3otTjhHZGlUZGlSbkl6U1NBdS1xWEUy?oc=5\" target=\"_blank\">Tropical Storm Isaias to develop, head toward Gulf Coast</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Weather Channel</font>",
+        "similarity_excluded": "No",
+        "score": 3,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNb0xhemUzNmlfYjdXUGt6V1RRT0tlY0dPQ29wOThWeWluc2RIS0RDTHhhRzUzUTNxUzF6MVc3VjNodWhUV09Qdm4wR1V3U041MmlISUNmNGstTER0c3RfcWpzSFVCWlFkWW1xU1VGZ2ZYbzBLeDg0Sk9weHZNaW5uUlpQS04xenotdzEwQ3FDQmZRbXFBT3A4eFYzV2pnY3FLQVg4eW83Y2tBM2d0U2hhamtZelVpOXo2RmlWaTlTVy1RSF9YaFg1Vm1CVjNSOHd4cFVnYUpyRjNDd0NDeGxSX0xQMHJGdUFBcGpCblV2cVZ6VDM2c1FudUhR?oc=5",
+        "date": "2026-10-07",
+        "title": "Tropical Storm Isaias could form and threaten the Gulf Coast. Here are the latest scenarios - WKOW",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi-gFBVV95cUxNb0xhemUzNmlfYjdXUGt6V1RRT0tlY0dPQ29wOThWeWluc2RIS0RDTHhhRzUzUTNxUzF6MVc3VjNodWhUV09Qdm4wR1V3U041MmlISUNmNGstTER0c3RfcWpzSFVCWlFkWW1xU1VGZ2ZYbzBLeDg0Sk9weHZNaW5uUlpQS04xenotdzEwQ3FDQmZRbXFBT3A4eFYzV2pnY3FLQVg4eW83Y2tBM2d0U2hhamtZelVpOXo2RmlWaTlTVy1RSF9YaFg1Vm1CVjNSOHd4cFVnYUpyRjNDd0NDeGxSX0xQMHJGdUFBcGpCblV2cVZ6VDM2c1FudUhR?oc=5\" target=\"_blank\">Tropical Storm Isaias could form and threaten the Gulf Coast. Here are the latest scenarios</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WKOW</font>",
+        "similarity_excluded": "No",
+        "score": 5,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOSktlN0RVZkktRjFVOFlSSEVuclc3dEZ3SVRtTlNQLWJIMldrNkt1NV83TWRYMXhZZ1p4M1RYaVgzYmNqaXJTeHlTUmY0dHY2MXZ1dXlEbEd4bUZHa2Z2SXRPZWgyVWE0OFZrUUtwV2NMelVCRlM1STBOenpSOGNTbUlsYXVpLW5jMXlrZlBkYWpydW80ZVZxUlRCTHZTellHM3gxVjMtN3g3MklTekNjb195MWFNcjAtbktpcjlsNE5UdFBhY3ZyZ1FvWGxLUmpOUEFmVUtR?oc=5",
+        "date": "2026-10-07",
+        "title": "Tropical Depression 9 forms in Gulf, to become Atlantic's first hurricane before striking US - AccuWeather",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxOSktlN0RVZkktRjFVOFlSSEVuclc3dEZ3SVRtTlNQLWJIMldrNkt1NV83TWRYMXhZZ1p4M1RYaVgzYmNqaXJTeHlTUmY0dHY2MXZ1dXlEbEd4bUZHa2Z2SXRPZWgyVWE0OFZrUUtwV2NMelVCRlM1STBOenpSOGNTbUlsYXVpLW5jMXlrZlBkYWpydW80ZVZxUlRCTHZTellHM3gxVjMtN3g3MklTekNjb195MWFNcjAtbktpcjlsNE5UdFBhY3ZyZ1FvWGxLUmpOUEFmVUtR?oc=5\" target=\"_blank\">Tropical Depression 9 forms in Gulf, to become Atlantic's first hurricane before striking US</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AccuWeather</font>",
+        "similarity_excluded": "No",
+        "score": 5,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNWWQwWlNqV3NTM2dkOW5iZFg3aDVEVlhRXy12UXRTRUVaQTZMdGo1UFpjN3JaOTdhanhxckJJNjRfR2o4d2dQUFU5a2ZJd0NkSVJvQzItNVVtLXhveFNmcWJ2TG5weWRxZEVva2paLVB3QWVaQ2F3NTlTOFFWaXNDLVRYSWZBcEdoekkzUDZ5LUhxRGNjM25aeDYzQnZMUQ?oc=5",
+        "date": "2026-10-07",
+        "title": "Track future Gulf Hurricane Isaias: spaghetti models, maps - The Weather Channel",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNWWQwWlNqV3NTM2dkOW5iZFg3aDVEVlhRXy12UXRTRUVaQTZMdGo1UFpjN3JaOTdhanhxckJJNjRfR2o4d2dQUFU5a2ZJd0NkSVJvQzItNVVtLXhveFNmcWJ2TG5weWRxZEVva2paLVB3QWVaQ2F3NTlTOFFWaXNDLVRYSWZBcEdoekkzUDZ5LUhxRGNjM25aeDYzQnZMUQ?oc=5\" target=\"_blank\">Track future Gulf Hurricane Isaias: spaghetti models, maps</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Weather Channel</font>",
+        "similarity_excluded": "No",
+        "score": 3,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPSUQ2SjhCd09Ha0RoQ3Z4dGtuMGl2MkRZNkNEM3lzTW1JUUZ0cXJELWdIb1haZ1lrTmxPNGQ2UkpTdFU2U1hIeFNBcE5WQ3JlaUgzc3ZHYmo3Zi1XcmhrUlZvY2lnaEl3NHQ0cjdNMmtNT3c2eEVCRFZkSDM5ZnpDZEdtNVNkSTFmWEE?oc=5",
+        "date": "2026-10-07",
+        "title": "Flooding possible as storms intensify across South Florida this week - WPBF",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxPSUQ2SjhCd09Ha0RoQ3Z4dGtuMGl2MkRZNkNEM3lzTW1JUUZ0cXJELWdIb1haZ1lrTmxPNGQ2UkpTdFU2U1hIeFNBcE5WQ3JlaUgzc3ZHYmo3Zi1XcmhrUlZvY2lnaEl3NHQ0cjdNMmtNT3c2eEVCRFZkSDM5ZnpDZEdtNVNkSTFmWEE?oc=5\" target=\"_blank\">Flooding possible as storms intensify across South Florida this week</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WPBF</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQdjJ0OEVrNkF2SGlCclU2WGpUYTV1M25pQndZU2FfVVpPRGZEaHVfSVhoZ2t2ak0tNzRCV2RQS3dlbWE3TUViZGZCbmExWXZRMDI2dDBrVnhfUTVsVFRYLTVnaVJtMjFJWFpZOGRWUVcxNHNoVVB4aTNneTB1Y1ZiXzBmUG1vOFUxdjBIWGFZNDA1cGdWelVFSEs3VTQ1REVzNmJKNHdMSXVWVGdiWlFFLUpvaHctekVsam10ZXdMWXloeGx3cWozNE9aUFhuaGM5S2VHUnpkemVXQ3ZTNFpWOGU0blNnVUhSdG5IOFFKVQ?oc=5",
+        "date": "2026-10-07",
+        "title": "Tropical Depression Nine forms, expected to become Hurricane Isaias by end of week - WLOS",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxQdjJ0OEVrNkF2SGlCclU2WGpUYTV1M25pQndZU2FfVVpPRGZEaHVfSVhoZ2t2ak0tNzRCV2RQS3dlbWE3TUViZGZCbmExWXZRMDI2dDBrVnhfUTVsVFRYLTVnaVJtMjFJWFpZOGRWUVcxNHNoVVB4aTNneTB1Y1ZiXzBmUG1vOFUxdjBIWGFZNDA1cGdWelVFSEs3VTQ1REVzNmJKNHdMSXVWVGdiWlFFLUpvaHctekVsam10ZXdMWXloeGx3cWozNE9aUFhuaGM5S2VHUnpkemVXQ3ZTNFpWOGU0blNnVUhSdG5IOFFKVQ?oc=5\" target=\"_blank\">Tropical Depression Nine forms, expected to become Hurricane Isaias by end of week</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WLOS</font>",
+        "similarity_excluded": "No",
+        "score": 2,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWXlpQk5oRzcwd2xmTDNWVVFDLWhnRU5tMWQ5eUszbjFkNGpCYlJKWFVvcWpLcndjQ1NQYmtHTHI3ek9zdXNJNXFsVHROVC1ZQVY1LV9VUjd2Y2FqeHc0VGVnOFhRUTFSMHl1ZE50RmRIMGJCbXhYNlBFRG4wams2bzN0SnZYT0twcXNGcjZEUDU0NmxOSnZuMWxUU2ZXNWtMU3ZtZDdXWW9Kdw?oc=5",
+        "date": "2026-10-07",
+        "title": "FIRST ALERT WEATHER DAYS THIS WEEKEND: Tropical rain & flooding - FOX Carolina News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWXlpQk5oRzcwd2xmTDNWVVFDLWhnRU5tMWQ5eUszbjFkNGpCYlJKWFVvcWpLcndjQ1NQYmtHTHI3ek9zdXNJNXFsVHROVC1ZQVY1LV9VUjd2Y2FqeHc0VGVnOFhRUTFSMHl1ZE50RmRIMGJCbXhYNlBFRG4wams2bzN0SnZYT0twcXNGcjZEUDU0NmxOSnZuMWxUU2ZXNWtMU3ZtZDdXWW9Kdw?oc=5\" target=\"_blank\">FIRST ALERT WEATHER DAYS THIS WEEKEND: Tropical rain & flooding</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FOX Carolina News</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
         "tweet": null
     }
 ]
