@@ -10914,7 +10914,7 @@
     "rain_mm": 50.62,
     "soil_moisture": 0.609,
     "raw_dynamic_score": 7.893,
-    "last_updated": "2026-10-08T00:50:14.762316Z",
+    "last_updated": "2026-10-08T09:58:14.608629Z",
     "last_tweeted_at": "2026-04-04T01:31:34.941321Z",
     "tweet_id": "2040240874345333038",
     "resolved": false
@@ -14845,7 +14845,7 @@
     "rain_mm": 47.94,
     "soil_moisture": 0.655,
     "raw_dynamic_score": 7.674,
-    "last_updated": "2026-05-12T02:21:18.150216Z",
+    "last_updated": "2026-10-08T09:58:14.608629Z",
     "last_tweeted_at": "2026-05-11T19:38:31.240401Z",
     "tweet_id": "2053923010642362849",
     "resolved": false
@@ -18370,7 +18370,7 @@
     "rain_mm": 65.88,
     "soil_moisture": 0.571,
     "raw_dynamic_score": 10.044,
-    "last_updated": "2026-10-08T00:50:14.762316Z",
+    "last_updated": "2026-10-08T09:58:14.608629Z",
     "last_tweeted_at": "2026-06-06T06:33:15.865557Z",
     "tweet_id": "2063147989435392446",
     "resolved": false
@@ -19229,22 +19229,6 @@
     "last_tweeted_at": "2026-06-10T12:25:40.217844Z",
     "tweet_id": "2064685724746858514",
     "resolved": false
-  },
-  "20.7160,-105.2051": {
-    "country": "Mexico",
-    "name": "Ixtapa",
-    "risk_level": "Low",
-    "tweeted_level": "Low",
-    "latitude": 20.71598,
-    "longitude": -105.20508,
-    "rain_mm": 2.25,
-    "soil_moisture": 0.54,
-    "raw_dynamic_score": 0.337,
-    "last_updated": "2026-10-07T09:48:01.388107Z",
-    "last_tweeted_at": "2026-10-07T09:48:01.388107Z",
-    "tweet_id": "2107770446179422228",
-    "resolved": true,
-    "resolved_at": "2026-10-07T09:48:01.388107Z"
   },
   "10.3042,1.3796": {
     "country": "Benin",
@@ -24251,7 +24235,7 @@
     "rain_mm": 64.56,
     "soil_moisture": 0.66,
     "raw_dynamic_score": 10.365,
-    "last_updated": "2026-10-08T00:50:14.762316Z",
+    "last_updated": "2026-10-08T09:58:14.608629Z",
     "last_tweeted_at": "2026-07-05T22:05:05.422383Z",
     "tweet_id": "2073892228150198642",
     "resolved": false
@@ -30416,7 +30400,7 @@
     "rain_mm": 35.5,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 6.789,
-    "last_updated": "2026-10-08T00:50:14.762316Z",
+    "last_updated": "2026-10-08T09:58:14.608629Z",
     "last_tweeted_at": "2026-08-08T21:37:30.816500Z",
     "tweet_id": "2086205724317667385",
     "resolved": false
@@ -31961,7 +31945,7 @@
     "rain_mm": 67.06,
     "soil_moisture": 0.344,
     "raw_dynamic_score": 8.852,
-    "last_updated": "2026-10-08T00:50:14.762316Z",
+    "last_updated": "2026-10-08T09:58:14.608629Z",
     "last_tweeted_at": "2026-08-19T19:38:58.451409Z",
     "tweet_id": "2090162173318144432",
     "resolved": false
@@ -37226,7 +37210,7 @@
     "rain_mm": 39.56,
     "soil_moisture": 0.707,
     "raw_dynamic_score": 6.52,
-    "last_updated": "2026-10-03T23:37:18.440014Z",
+    "last_updated": "2026-10-08T09:58:14.608629Z",
     "last_tweeted_at": "2026-09-19T12:58:38.412051Z",
     "tweet_id": "2101295440503152841",
     "resolved": false
@@ -41663,7 +41647,7 @@
     "rain_mm": 48.44,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 9.264,
-    "last_updated": "2026-10-08T00:50:14.762316Z",
+    "last_updated": "2026-10-08T09:58:14.608629Z",
     "last_tweeted_at": "2026-10-07T18:20:17.802934Z",
     "tweet_id": "2107899614456054180",
     "resolved": false
@@ -41723,7 +41707,7 @@
     "rain_mm": 48.44,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 9.264,
-    "last_updated": "2026-10-07T18:20:17.802934Z",
+    "last_updated": "2026-10-08T09:58:14.608629Z",
     "last_tweeted_at": "2026-10-07T18:20:17.802934Z",
     "tweet_id": "2107899867188047891",
     "resolved": false
@@ -41738,7 +41722,7 @@
     "rain_mm": 49.38,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 9.443,
-    "last_updated": "2026-10-08T00:50:14.762316Z",
+    "last_updated": "2026-10-08T09:58:14.608629Z",
     "last_tweeted_at": "2026-10-08T00:50:14.762316Z",
     "tweet_id": "2107996998389370978",
     "resolved": false
@@ -41753,7 +41737,7 @@
     "rain_mm": 56.75,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 10.853,
-    "last_updated": "2026-10-08T00:50:14.762316Z",
+    "last_updated": "2026-10-08T09:58:14.608629Z",
     "last_tweeted_at": "2026-10-08T00:50:14.762316Z",
     "tweet_id": "2107997250865471638",
     "resolved": false
@@ -41801,6 +41785,66 @@
     "last_updated": "2026-10-08T00:50:14.762316Z",
     "last_tweeted_at": "2026-10-08T00:50:14.762316Z",
     "tweet_id": "2107997250865471638",
+    "resolved": false
+  },
+  "-28.5510,-56.0412": {
+    "country": "Argentina",
+    "name": "Santo Tomé",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": -28.55104,
+    "longitude": -56.04125,
+    "rain_mm": 53.19,
+    "soil_moisture": 0.696,
+    "raw_dynamic_score": 8.711,
+    "last_updated": "2026-10-08T09:58:14.608629Z",
+    "last_tweeted_at": "2026-10-08T09:58:14.608629Z",
+    "tweet_id": "2108134902415659370",
+    "resolved": false
+  },
+  "6.5831,79.9593": {
+    "country": "Sri Lanka",
+    "name": "Kalutara",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 6.5831,
+    "longitude": 79.9593,
+    "rain_mm": 47.19,
+    "soil_moisture": 0.649,
+    "raw_dynamic_score": 7.531,
+    "last_updated": "2026-10-08T09:58:14.608629Z",
+    "last_tweeted_at": "2026-10-08T09:58:14.608629Z",
+    "tweet_id": "2108135154866704736",
+    "resolved": false
+  },
+  "6.4788,79.9828": {
+    "country": "Sri Lanka",
+    "name": "Beruwala",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 6.4788,
+    "longitude": 79.9828,
+    "rain_mm": 47.19,
+    "soil_moisture": 0.649,
+    "raw_dynamic_score": 7.531,
+    "last_updated": "2026-10-08T09:58:14.608629Z",
+    "last_tweeted_at": "2026-10-08T09:58:14.608629Z",
+    "tweet_id": "2108135154866704736",
+    "resolved": false
+  },
+  "6.4260,79.9958": {
+    "country": "Sri Lanka",
+    "name": "Bentota",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 6.42598,
+    "longitude": 79.99575,
+    "rain_mm": 47.19,
+    "soil_moisture": 0.649,
+    "raw_dynamic_score": 7.531,
+    "last_updated": "2026-10-08T09:58:14.608629Z",
+    "last_tweeted_at": "2026-10-08T09:58:14.608629Z",
+    "tweet_id": "2108135407443476773",
     "resolved": false
   }
 }
