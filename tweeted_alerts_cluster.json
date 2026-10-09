@@ -5139,7 +5139,7 @@
     "rain_mm": 68.56,
     "soil_moisture": 0.614,
     "raw_dynamic_score": 10.723,
-    "last_updated": "2026-10-09T10:05:11.910319Z",
+    "last_updated": "2026-10-09T17:59:42.342560Z",
     "last_tweeted_at": "2026-02-13T18:40:27.979617Z",
     "tweet_id": "2022380410190053531",
     "resolved": false
@@ -6954,7 +6954,7 @@
     "rain_mm": 60.38,
     "soil_moisture": 0.706,
     "raw_dynamic_score": 9.946,
-    "last_updated": "2026-10-06T04:16:46.068648Z",
+    "last_updated": "2026-10-09T17:59:42.342560Z",
     "last_tweeted_at": "2026-03-07T21:20:13.372825Z",
     "tweet_id": "2030393145792381317",
     "resolved": false
@@ -31929,7 +31929,7 @@
     "rain_mm": 67.06,
     "soil_moisture": 0.344,
     "raw_dynamic_score": 8.852,
-    "last_updated": "2026-10-09T01:10:26.839719Z",
+    "last_updated": "2026-10-09T17:59:42.342560Z",
     "last_tweeted_at": "2026-08-19T19:38:58.451409Z",
     "tweet_id": "2090162173318144432",
     "resolved": false
@@ -37164,7 +37164,7 @@
     "rain_mm": 46.69,
     "soil_moisture": 0.713,
     "raw_dynamic_score": 7.718,
-    "last_updated": "2026-10-09T10:05:11.910319Z",
+    "last_updated": "2026-10-09T17:59:42.342560Z",
     "last_tweeted_at": "2026-09-19T12:58:38.412051Z",
     "tweet_id": "2101294934661743082",
     "resolved": false
@@ -37179,7 +37179,7 @@
     "rain_mm": 41.69,
     "soil_moisture": 0.713,
     "raw_dynamic_score": 6.892,
-    "last_updated": "2026-10-09T10:05:11.910319Z",
+    "last_updated": "2026-10-09T17:59:42.342560Z",
     "last_tweeted_at": "2026-09-19T12:58:38.412051Z",
     "tweet_id": "2101295187607564694",
     "resolved": false
@@ -37194,7 +37194,7 @@
     "rain_mm": 39.56,
     "soil_moisture": 0.707,
     "raw_dynamic_score": 6.52,
-    "last_updated": "2026-10-09T10:05:11.910319Z",
+    "last_updated": "2026-10-09T17:59:42.342560Z",
     "last_tweeted_at": "2026-09-19T12:58:38.412051Z",
     "tweet_id": "2101295440503152841",
     "resolved": false
@@ -41877,9 +41877,24 @@
     "rain_mm": 40.0,
     "soil_moisture": 0.727,
     "raw_dynamic_score": 6.663,
-    "last_updated": "2026-10-09T10:05:11.910319Z",
+    "last_updated": "2026-10-09T17:59:42.342560Z",
     "last_tweeted_at": "2026-10-09T10:05:11.910319Z",
     "tweet_id": "2108499047887876493",
+    "resolved": false
+  },
+  "36.3742,9.9065": {
+    "country": "Tunisia",
+    "name": "El Fahs",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 36.37419,
+    "longitude": 9.90651,
+    "rain_mm": 53.19,
+    "soil_moisture": 0.599,
+    "raw_dynamic_score": 8.245,
+    "last_updated": "2026-10-09T17:59:42.342560Z",
+    "last_tweeted_at": "2026-10-09T17:59:42.342560Z",
+    "tweet_id": "2108618458518765917",
     "resolved": false
   }
 }
