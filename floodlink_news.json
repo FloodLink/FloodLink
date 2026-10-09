@@ -14651,5 +14651,872 @@
             "longitude": -81.7,
             "confidence": 0.75
         }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOeVZzcUxjU1dzbVUyamdBVTRFVS15V1FTMmFJd0h2VmFBVHJBR0dpTDNpWEJ2RVM3UGVKUUVHaGlWdkJQbGVFVndMQkdCMWFCaFlmZFBXb0p3MUtVTFJkU2JYeW5VcHVTaXZMQnJWRXc3QjBLSFdZRnRlektqRnR1Qmw2WV9MTEF1SndEenk1ek9LTi1NbHJheDZ1VnNoalNnZEZiOVc2NzRDMVp0Z2xfOU0zbUhsVHFtdlAxcA?oc=5",
+        "date": "2026-10-09",
+        "title": "Heavy rain from tropical storm remnants could raise flood risk across Utah - KUTV",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOeVZzcUxjU1dzbVUyamdBVTRFVS15V1FTMmFJd0h2VmFBVHJBR0dpTDNpWEJ2RVM3UGVKUUVHaGlWdkJQbGVFVndMQkdCMWFCaFlmZFBXb0p3MUtVTFJkU2JYeW5VcHVTaXZMQnJWRXc3QjBLSFdZRnRlektqRnR1Qmw2WV9MTEF1SndEenk1ek9LTi1NbHJheDZ1VnNoalNnZEZiOVc2NzRDMVp0Z2xfOU0zbUhsVHFtdlAxcA?oc=5\" target=\"_blank\">Heavy rain from tropical storm remnants could raise flood risk across Utah</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KUTV</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOb1hqV0xzYUpJakhIWjYwZF9OM2FhT1EyaEVpZS1UZ01tUmY5QVNUc0dJTmdYSzBpMmtkUzQxMlEzT2ZDYWtUZ3Z5aVlZMS1wY0liNWY5cndVV0l2YTZJaDJtWDFnb2QyeEtwSHZzcnFNZ2hwS2J6WVJJWExQRzhKS3F0WW0wUGRNZ2s5SGY2VGtXb3ZLTVExMmtoMmJtLUdGWWc?oc=5",
+        "date": "2026-10-09",
+        "title": "Utah under Flood Watch as remnants of Tropical Storm Rachel move in - FOX 13 News Utah",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxOb1hqV0xzYUpJakhIWjYwZF9OM2FhT1EyaEVpZS1UZ01tUmY5QVNUc0dJTmdYSzBpMmtkUzQxMlEzT2ZDYWtUZ3Z5aVlZMS1wY0liNWY5cndVV0l2YTZJaDJtWDFnb2QyeEtwSHZzcnFNZ2hwS2J6WVJJWExQRzhKS3F0WW0wUGRNZ2s5SGY2VGtXb3ZLTVExMmtoMmJtLUdGWWc?oc=5\" target=\"_blank\">Utah under Flood Watch as remnants of Tropical Storm Rachel move in</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FOX 13 News Utah</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOeVFFQzdkdVlGdVFDYlBDeHV3eWJLLWFDM1pRbHBMZ1ZqY2lnVjVxOXNzeDBoZDZ1TzFTMVVIQ3ZUQ0lEb3ZPN3NtRW03M2RFbXUzNjFManMxZUJnOXZrNkhYaXQ0U0x3QzhibS1ONlpSMk50SzNNek83RE9LR29vcWNDN1B2dEhQSkhwSXplNXJ6N3lPT05CT29sVEtCRnNTTVdMRHdpeDB3VXBDaUpMUFMtRldCSHRiQkRlcGhkWWVTZmEtQjlSN3Y3eGo4a3ZfNjhMY2lJd3BXWEdiUExoSV9YVQ?oc=5",
+        "date": "2026-10-09",
+        "title": "Coastal flood warning active for Orange County Coast and San Diego County Coastal Areas until Sunday afternoon - Orange County Register",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxOeVFFQzdkdVlGdVFDYlBDeHV3eWJLLWFDM1pRbHBMZ1ZqY2lnVjVxOXNzeDBoZDZ1TzFTMVVIQ3ZUQ0lEb3ZPN3NtRW03M2RFbXUzNjFManMxZUJnOXZrNkhYaXQ0U0x3QzhibS1ONlpSMk50SzNNek83RE9LR29vcWNDN1B2dEhQSkhwSXplNXJ6N3lPT05CT29sVEtCRnNTTVdMRHdpeDB3VXBDaUpMUFMtRldCSHRiQkRlcGhkWWVTZmEtQjlSN3Y3eGo4a3ZfNjhMY2lJd3BXWEdiUExoSV9YVQ?oc=5\" target=\"_blank\">Coastal flood warning active for Orange County Coast and San Diego County Coastal Areas until Sunday afternoon</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Orange County Register</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNNzQyQWJ6cWhSVVdNYkVWN3Vfald1UHBhSElzMVl5dTdzWVpVQlJ5OWdZaUtkcGZLMnFOVEdpVVJLajgwdWt3V01TRGFxdVhReGtlQ2RlbVMxeHNhblR2Zk5fdDlBZFFpRkpUMkJUbWNORF9WaHpQQVlFaG1HWXZibk5fSkZ4NGhzVVJuRw?oc=5",
+        "date": "2026-10-09",
+        "title": "Flood watch, wind alerts issued for Asheville, WNC - 828 News Now",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNNzQyQWJ6cWhSVVdNYkVWN3Vfald1UHBhSElzMVl5dTdzWVpVQlJ5OWdZaUtkcGZLMnFOVEdpVVJLajgwdWt3V01TRGFxdVhReGtlQ2RlbVMxeHNhblR2Zk5fdDlBZFFpRkpUMkJUbWNORF9WaHpQQVlFaG1HWXZibk5fSkZ4NGhzVVJuRw?oc=5\" target=\"_blank\">Flood watch, wind alerts issued for Asheville, WNC</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">828 News Now</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1JNG5aU0dkSEY5UjBiWkVlZ1JxWDU4U3RITjh4TVc2UDBaazdjQXNhUmhsV1lZRGdCNmFlY2dzaFozLXRwcTNTQjM4VU9OMkVQMEFwQlVFNmJidURJczNFdHNkbzZlVWxHV0x4ZlFMWQ?oc=5",
+        "date": "2026-10-09",
+        "title": "Southern California placed under a flood watch Saturday and Sunday, says the NWS - Sacramento Bee",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE1JNG5aU0dkSEY5UjBiWkVlZ1JxWDU4U3RITjh4TVc2UDBaazdjQXNhUmhsV1lZRGdCNmFlY2dzaFozLXRwcTNTQjM4VU9OMkVQMEFwQlVFNmJidURJczNFdHNkbzZlVWxHV0x4ZlFMWQ?oc=5\" target=\"_blank\">Southern California placed under a flood watch Saturday and Sunday, says the NWS</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sacramento Bee</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9yZU5sS21UWGlJNmhYWnpsNWZTWElUZUZsREtUb2ZOWlpab2JBNEs3a1lxX2lBM2hEaDRrYTdCWmpNbnV5Z3NkQkdxcTY2Qi1KZjhjeDRaUjdKdjJZX1d2R1VFeUNVTUZUbXdkTG5sYw?oc=5",
+        "date": "2026-10-09",
+        "title": "Coastal flood warning in place for Malibu Coast and Los Angeles until Sunday afternoon - Sacramento Bee",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE9yZU5sS21UWGlJNmhYWnpsNWZTWElUZUZsREtUb2ZOWlpab2JBNEs3a1lxX2lBM2hEaDRrYTdCWmpNbnV5Z3NkQkdxcTY2Qi1KZjhjeDRaUjdKdjJZX1d2R1VFeUNVTUZUbXdkTG5sYw?oc=5\" target=\"_blank\">Coastal flood warning in place for Malibu Coast and Los Angeles until Sunday afternoon</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sacramento Bee</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9LX1c3WmNSN2t2dnZiS1lyM0JUR3B1WXlRRE44QlhfalNoYmxCNW5xQ3dqZFlrQ21LWWZ5TlI0WVhWVjFtZFBqY05HeXNLWXJHTDJBQzVTLU1VY0dSWjFLS0tSemRBSHBHMHhjcmZ3cHhPSE5zTVY0?oc=5",
+        "date": "2026-10-09",
+        "title": "Flood watch for McCormick and Edgefield counties for Saturday due to intense downpours - Hilton Head Island Packet",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE9LX1c3WmNSN2t2dnZiS1lyM0JUR3B1WXlRRE44QlhfalNoYmxCNW5xQ3dqZFlrQ21LWWZ5TlI0WVhWVjFtZFBqY05HeXNLWXJHTDJBQzVTLU1VY0dSWjFLS0tSemRBSHBHMHhjcmZ3cHhPSE5zTVY0?oc=5\" target=\"_blank\">Flood watch for McCormick and Edgefield counties for Saturday due to intense downpours</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Hilton Head Island Packet</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNNnRwU1RGRzl0ZlI0enhhNVFVZ1BWSmRvVUlNMTNqcUtidnhEaFVoQnU3MGlXRVBPaVNuMkd1QnltU2x4MWxSR09SbnNiVkJnenJGbTRfRFFHdllKbHFjTndVcXRTZmNHOWM2T1d5UFhsTEVjUmNZVUV4VVRlMHhlOHpWVTF3cDc5LU8wX0ZSSlNJVGJxc2Vma3FGSU5ramt5X0h6TU9BSzhpemh4My1FNkgwempubThYM1JIcHU2RmhfcVlB?oc=5",
+        "date": "2026-10-09",
+        "title": "Coastal flood warning for Malibu and Los Angeles County Beaches until Sunday afternoon - Daily Breeze",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxNNnRwU1RGRzl0ZlI0enhhNVFVZ1BWSmRvVUlNMTNqcUtidnhEaFVoQnU3MGlXRVBPaVNuMkd1QnltU2x4MWxSR09SbnNiVkJnenJGbTRfRFFHdllKbHFjTndVcXRTZmNHOWM2T1d5UFhsTEVjUmNZVUV4VVRlMHhlOHpWVTF3cDc5LU8wX0ZSSlNJVGJxc2Vma3FGSU5ramt5X0h6TU9BSzhpemh4My1FNkgwempubThYM1JIcHU2RmhfcVlB?oc=5\" target=\"_blank\">Coastal flood warning for Malibu and Los Angeles County Beaches until Sunday afternoon</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Daily Breeze</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbDN1WkpOOTZpTGtRZTVGZHBxRjdVR3Q0U1E1dzRiWUotNXF5VnpRLXMxNThtNW9GQkROc3hvTjBsR2FkdHpNSTd5N1JBWTF6RllwNGxTaU12R2NlV0c3UUVRN2pIbFpRMVZYU1N4cW9McjJVM3NISnhna2lsV3pvbXpQYnBwaWJpaG5nYWxsNjRTSEJqWTNPX2MxQWY1VjI3Uy1JOFBWVQ?oc=5",
+        "date": "2026-10-09",
+        "title": "Nashville OEM warns of 1-3 inch rains, downed trees and outages this weekend - WZTV",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNbDN1WkpOOTZpTGtRZTVGZHBxRjdVR3Q0U1E1dzRiWUotNXF5VnpRLXMxNThtNW9GQkROc3hvTjBsR2FkdHpNSTd5N1JBWTF6RllwNGxTaU12R2NlV0c3UUVRN2pIbFpRMVZYU1N4cW9McjJVM3NISnhna2lsV3pvbXpQYnBwaWJpaG5nYWxsNjRTSEJqWTNPX2MxQWY1VjI3Uy1JOFBWVQ?oc=5\" target=\"_blank\">Nashville OEM warns of 1-3 inch rains, downed trees and outages this weekend</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WZTV</font>",
+        "similarity_excluded": "No",
+        "score": 2,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRVBiMjh3YU5mVlZacHA2ZWZ4X25JQ0JyZkh4TkRqbVltOE9YbVJxdEFUSFNjaXJoTlRKN1ZsSVFtaUd6dXFBXzJval9WTV8yVTNvQ2Z0WF9kRFlCMWxPcUVWX0ZObUxwMWFscHZCOWFKMVNEa0xmN1ZuY2ZPVVlybHJya1RfVTZYRkhsUW9TSWVHSkZGVkpHeGdtV3Y4a2Q5al9KQTcwYlAwdzYtSVRJ?oc=5",
+        "date": "2026-10-09",
+        "title": "FIRST ALERT: Moisture from Tropical Storm Rachel prompts Flood Watch for Las Vegas - FOX5 Vegas",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxNRVBiMjh3YU5mVlZacHA2ZWZ4X25JQ0JyZkh4TkRqbVltOE9YbVJxdEFUSFNjaXJoTlRKN1ZsSVFtaUd6dXFBXzJval9WTV8yVTNvQ2Z0WF9kRFlCMWxPcUVWX0ZObUxwMWFscHZCOWFKMVNEa0xmN1ZuY2ZPVVlybHJya1RfVTZYRkhsUW9TSWVHSkZGVkpHeGdtV3Y4a2Q5al9KQTcwYlAwdzYtSVRJ?oc=5\" target=\"_blank\">FIRST ALERT: Moisture from Tropical Storm Rachel prompts Flood Watch for Las Vegas</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FOX5 Vegas</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBIOG1WZUt3NzFya0RscXJVaTJFMTdDMmxUTWpzUzY4dWZwOWk3MjNNVGRoNzRqVHR4dzMxRW50UkkxbGNDZEFXMGc2czgzcmVMdG9IUXhQNF9Dbl83UFRYcmhaZlUtbUxkNlVQSE5WQQ?oc=5",
+        "date": "2026-10-09",
+        "title": "Coastal flood warning active for San Diego County Coastal Areas and Orange County Coastal - Sacramento Bee",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTFBIOG1WZUt3NzFya0RscXJVaTJFMTdDMmxUTWpzUzY4dWZwOWk3MjNNVGRoNzRqVHR4dzMxRW50UkkxbGNDZEFXMGc2czgzcmVMdG9IUXhQNF9Dbl83UFRYcmhaZlUtbUxkNlVQSE5WQQ?oc=5\" target=\"_blank\">Coastal flood warning active for San Diego County Coastal Areas and Orange County Coastal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sacramento Bee</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5XaFp2d19TdEdXVFo2Y2tzUDhIdXpqMVpuSEhLc1hUZE45SEQ3UEYzQVZJMjQ4d2d2UWtHQUhYeTF1eHQyWkw0MF9rMlBjTWJiMGdmaUUyYUZ5U0MxZVZRbUJaTkdHZnNXWHNRTm1SUQ?oc=5",
+        "date": "2026-10-09",
+        "title": "Coastal flood warning affecting Catalina and Santa Barbara Islands until Sunday afternoon - Sacramento Bee",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE5XaFp2d19TdEdXVFo2Y2tzUDhIdXpqMVpuSEhLc1hUZE45SEQ3UEYzQVZJMjQ4d2d2UWtHQUhYeTF1eHQyWkw0MF9rMlBjTWJiMGdmaUUyYUZ5U0MxZVZRbUJaTkdHZnNXWHNRTm1SUQ?oc=5\" target=\"_blank\">Coastal flood warning affecting Catalina and Santa Barbara Islands until Sunday afternoon</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sacramento Bee</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNeTk0NmNwWWJxZVhsVUswRlMyVURVNzFYRjBsSU9WXzFnTno0LS1KV0JEY2lZM21NRTUyYkZGZGZXd3NOQ1NGMThNLVh2eS1mMWpKYzNvMGE3dEFWZUZQVkI0UFpRLTJmbllqdExaN0Y3bEJjNWRzM0VyWGlTd3JlWG9ZZ0lzRFdWOXVtNkdTYXh6alpNbkhPaW9QZ2lobVVSUnZaT0xKSmNEWDJqaTBGNg?oc=5",
+        "date": "2026-10-09",
+        "title": "Las Vegas valley under flood watch as Tropical Storm Rachel takes aim at US Southwest - KTNV Las Vegas",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNeTk0NmNwWWJxZVhsVUswRlMyVURVNzFYRjBsSU9WXzFnTno0LS1KV0JEY2lZM21NRTUyYkZGZGZXd3NOQ1NGMThNLVh2eS1mMWpKYzNvMGE3dEFWZUZQVkI0UFpRLTJmbllqdExaN0Y3bEJjNWRzM0VyWGlTd3JlWG9ZZ0lzRFdWOXVtNkdTYXh6alpNbkhPaW9QZ2lobVVSUnZaT0xKSmNEWDJqaTBGNg?oc=5\" target=\"_blank\">Las Vegas valley under flood watch as Tropical Storm Rachel takes aim at US Southwest</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KTNV Las Vegas</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOeE5Jc2NISTZMdE51WkV6Y0t2MWN0WHU3N2FNVmYzcTZYR21Zb0ZWT2ZkdllVeTk2alBxN2o4OGlsdEJWSnJUX0tQVkNDQUNTcUlDOEpCNlpidy1pT09jcm5HcWhSbVYxcDBVZWRBMExxTTlKZXh0ZEd4NnpyeG9IWElNWV9QVk9QZjl1RDRPdGpBQkVQbFFjdGhGeExRdkNubzdCNkw4QS1Yel91X1lvcGk2U0ZVMVJOZnU3Rg?oc=5",
+        "date": "2026-10-09",
+        "title": "'Siren of last resort': Flood warning systems now in place across Haywood County - WLOS",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOeE5Jc2NISTZMdE51WkV6Y0t2MWN0WHU3N2FNVmYzcTZYR21Zb0ZWT2ZkdllVeTk2alBxN2o4OGlsdEJWSnJUX0tQVkNDQUNTcUlDOEpCNlpidy1pT09jcm5HcWhSbVYxcDBVZWRBMExxTTlKZXh0ZEd4NnpyeG9IWElNWV9QVk9QZjl1RDRPdGpBQkVQbFFjdGhGeExRdkNubzdCNkw4QS1Yel91X1lvcGk2U0ZVMVJOZnU3Rg?oc=5\" target=\"_blank\">'Siren of last resort': Flood warning systems now in place across Haywood County</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WLOS</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNWkpiMDdxRnREMXBhNXQxS2tCamdZVTFLQnluQzVTWnRsYXpJbGFVTDBZM256TDd0UklnYU9vUVhJZ3l0VVpWYnFIWTN5ZkFoeVJIR292QXJ1VGJ5ZlNrVDVvZ0JGa0JmUVFNLWk1YnQ5blYxSmNQenBTazV1alZLamsxSk5tdzdXRnBxMzZ0a1ozQQ?oc=5",
+        "date": "2026-10-09",
+        "title": "California under second-ever tropical storm watch; San Diego, L.A. brace for flooding - San Francisco Chronicle",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNWkpiMDdxRnREMXBhNXQxS2tCamdZVTFLQnluQzVTWnRsYXpJbGFVTDBZM256TDd0UklnYU9vUVhJZ3l0VVpWYnFIWTN5ZkFoeVJIR292QXJ1VGJ5ZlNrVDVvZ0JGa0JmUVFNLWk1YnQ5blYxSmNQenBTazV1alZLamsxSk5tdzdXRnBxMzZ0a1ozQQ?oc=5\" target=\"_blank\">California under second-ever tropical storm watch; San Diego, L.A. brace for flooding</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">San Francisco Chronicle</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQM0pSSDhuZjJITnJyWHFqaVI0dDktV1NCNWxtN1VneUV5aUNtQmxxdDRJano2SGFQXzhfaHJLcmFzUTlwenJBbUo0X0N4bW1TZjFzSTluVEJRQVBrRG9kd1FiQUJCWUdUVDRlcXhDZDNuX241OE9GalQwRlJGN0x4Tk92WmM4NTRrUUtlVmhfR0EtWGdqLVBSN1VIYWpiVGE3cVlyOGtuTE51TmRBQTdqcmZRdWduNEI4RERGaUQxMDVkcGZIUUVJbTE2SEk?oc=5",
+        "date": "2026-10-09",
+        "title": "Hurricane Isaias weather remnants cancel, postpone weekend events, flood watch issued - Port City Daily",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxQM0pSSDhuZjJITnJyWHFqaVI0dDktV1NCNWxtN1VneUV5aUNtQmxxdDRJano2SGFQXzhfaHJLcmFzUTlwenJBbUo0X0N4bW1TZjFzSTluVEJRQVBrRG9kd1FiQUJCWUdUVDRlcXhDZDNuX241OE9GalQwRlJGN0x4Tk92WmM4NTRrUUtlVmhfR0EtWGdqLVBSN1VIYWpiVGE3cVlyOGtuTE51TmRBQTdqcmZRdWduNEI4RERGaUQxMDVkcGZIUUVJbTE2SEk?oc=5\" target=\"_blank\">Hurricane Isaias weather remnants cancel, postpone weekend events, flood watch issued</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Port City Daily</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNWhuaGk3SjJmUldPUTh5SjRDTkZVTzhZMjZoWUJCTlE2cjd5ZG5iTDM3dkhZN09uVDdZd000UkM1SzJsdnVFUlByWDY5XzEwOVFZVlpwVEFKelVxbXFYRWhhdEliNDhHRjloTWtPMkJiRXhCMXdGamttYnZkNzM3QkdDVnVGallvTGdraHRacHVpRFFmMzl3dHFwT0g4TC1NSVlCeVVUaUdqOXNBUVNyZ0M0ZEJvYm5q?oc=5",
+        "date": "2026-10-09",
+        "title": "Hurricane Isaias triggers widespread outages, flash flood warning in effect in Tallahassee - wtwcfox",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNWhuaGk3SjJmUldPUTh5SjRDTkZVTzhZMjZoWUJCTlE2cjd5ZG5iTDM3dkhZN09uVDdZd000UkM1SzJsdnVFUlByWDY5XzEwOVFZVlpwVEFKelVxbXFYRWhhdEliNDhHRjloTWtPMkJiRXhCMXdGamttYnZkNzM3QkdDVnVGallvTGdraHRacHVpRFFmMzl3dHFwT0g4TC1NSVlCeVVUaUdqOXNBUVNyZ0M0ZEJvYm5q?oc=5\" target=\"_blank\">Hurricane Isaias triggers widespread outages, flash flood warning in effect in Tallahassee</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">wtwcfox</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxQUmRzLTVGUUlQSjh2WlFuNnZ5QnBINzljNGE1b1c4bnhZVktBd1ZkUUFVbkQ2azA5dno5YzhOZzdMSHNDblFmNTlYSTFtYVE3YUMybjBqSjVETlBIWnE4bENVano2aGdjaFpYVTlETWs2UWRVNms1V043Y2NBQVlVM2NIZFFYSTBTSEdCMFdiU1pWRXhoZVJkc25YVWd5dS00NHdEVG01ZFNid3NoZFNQbGY5VS1vRUN6Z2hfbTMtNzFlMFdQRGtZX3R2dS1rTmI0cEtTTzMzWkdxdzhnSmNpMDA4UlJkc2NXWDIxR01GR1phbUVMYkNnNHVHMGxMdlo2ZXNUWmVGdnE3cjBWSEVtc29rMFFQX2draGpsWkJHdU1tSDZXdHhqR1h3?oc=5",
+        "date": "2026-10-09",
+        "title": "Weather watches, warnings issued for wind, possible flooding ahead of Isaias - WLOS",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgJBVV95cUxQUmRzLTVGUUlQSjh2WlFuNnZ5QnBINzljNGE1b1c4bnhZVktBd1ZkUUFVbkQ2azA5dno5YzhOZzdMSHNDblFmNTlYSTFtYVE3YUMybjBqSjVETlBIWnE4bENVano2aGdjaFpYVTlETWs2UWRVNms1V043Y2NBQVlVM2NIZFFYSTBTSEdCMFdiU1pWRXhoZVJkc25YVWd5dS00NHdEVG01ZFNid3NoZFNQbGY5VS1vRUN6Z2hfbTMtNzFlMFdQRGtZX3R2dS1rTmI0cEtTTzMzWkdxdzhnSmNpMDA4UlJkc2NXWDIxR01GR1phbUVMYkNnNHVHMGxMdlo2ZXNUWmVGdnE3cjBWSEVtc29rMFFQX2draGpsWkJHdU1tSDZXdHhqR1h3?oc=5\" target=\"_blank\">Weather watches, warnings issued for wind, possible flooding ahead of Isaias</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WLOS</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBjMUZhN2xXb1dydnhHYUNfVTN0ei1TMVFQYW5EWVRySzl5Rndic25uNTZUTVBvWWdBZDk0U3d4X3JodW1mZloxLXdBMnpGNm12dU9ENWJwcU16NU83SjdSdHRHc21TM3duQnpZOE4zbmtkeFg5NFNxdmZla1FBQ0XSAYcBQVVfeXFMTkdjYURGckFDODI3SDNHSFoweGJ4OTZ6SnZQV1pnMDJYTU93QXVGSTk5NHFmeThZQTBDXzlva2MwakR5Vk5GOXJneHdwUHo0dV9YaFZZbms1RVk5enYtLWhoeVJPMnF6Z3Z3NDFxQThfTkRzS2N0U2xJc2RkOW16STZGd21FZXlJ?oc=5",
+        "date": "2026-10-09",
+        "title": "Residents urged to avoid Balboa Peninsula due to high surf and flooding in Newport Beach - NBC Los Angeles",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFBjMUZhN2xXb1dydnhHYUNfVTN0ei1TMVFQYW5EWVRySzl5Rndic25uNTZUTVBvWWdBZDk0U3d4X3JodW1mZloxLXdBMnpGNm12dU9ENWJwcU16NU83SjdSdHRHc21TM3duQnpZOE4zbmtkeFg5NFNxdmZla1FBQ0XSAYcBQVVfeXFMTkdjYURGckFDODI3SDNHSFoweGJ4OTZ6SnZQV1pnMDJYTU93QXVGSTk5NHFmeThZQTBDXzlva2MwakR5Vk5GOXJneHdwUHo0dV9YaFZZbms1RVk5enYtLWhoeVJPMnF6Z3Z3NDFxQThfTkRzS2N0U2xJc2RkOW16STZGd21FZXlJ?oc=5\" target=\"_blank\">Residents urged to avoid Balboa Peninsula due to high surf and flooding in Newport Beach</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NBC Los Angeles</font>",
+        "similarity_excluded": "No",
+        "score": 6,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNbEZRWEdTVDFoM1VoZlVwckFGeDJzYTV5U0Iza0tNS2JSNEh5NVd6NmhjQUJETUR5QzJMTnNxQnIxVlRtZElNU2dlZlJWaDlfTjJTVHhfN2lYd2tseW5raHNKaldCUm9TNWF3eFB5U3VnRVZIcDdnNlpRUjlNNkhmOHZ4Xy1NYWZzMS1oOVVMWHdUSTBV?oc=5",
+        "date": "2026-10-09",
+        "title": "A Flood Watch and Tropical Storm Warning for Friday night - WAKA Action 8 News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNbEZRWEdTVDFoM1VoZlVwckFGeDJzYTV5U0Iza0tNS2JSNEh5NVd6NmhjQUJETUR5QzJMTnNxQnIxVlRtZElNU2dlZlJWaDlfTjJTVHhfN2lYd2tseW5raHNKaldCUm9TNWF3eFB5U3VnRVZIcDdnNlpRUjlNNkhmOHZ4Xy1NYWZzMS1oOVVMWHdUSTBV?oc=5\" target=\"_blank\">A Flood Watch and Tropical Storm Warning for Friday night</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WAKA Action 8 News</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOUDM1MkZQNUI0ZE9mODIxanRYajFuSWdvbDFuZXRheGdrSVRoQnk3NjdpWjVfSVFObi1ieGxQUTQ0Zjl6MnUyMjVkcUVxQ1RqbzN3eC12bzB0STFud1EwZ1lKbkVCSkNJaHBWWVNyeW1iS3RpWmtyVDZsdmRGTDVhNnp1cHdPZFNVRnRvTDFHOXdwWUY2R3diWl9R?oc=5",
+        "date": "2026-10-09",
+        "title": "Mount Juliet photographer braces for flooding ahead of weekend storm - WSMV",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxOUDM1MkZQNUI0ZE9mODIxanRYajFuSWdvbDFuZXRheGdrSVRoQnk3NjdpWjVfSVFObi1ieGxQUTQ0Zjl6MnUyMjVkcUVxQ1RqbzN3eC12bzB0STFud1EwZ1lKbkVCSkNJaHBWWVNyeW1iS3RpWmtyVDZsdmRGTDVhNnp1cHdPZFNVRnRvTDFHOXdwWUY2R3diWl9R?oc=5\" target=\"_blank\">Mount Juliet photographer braces for flooding ahead of weekend storm</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSMV</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdXU4TnNEVUttanNSYTBnaWg2cmJDek1Dc1dkNmhLRDl3WGR1eXNUT25mUjJMQjAtRjcxUndKdlM4YkM3X2lpM3pLdWFnOVFvNl95SDY5X0sxVXBhMlg2UndCZDQ0LUdscXhhQy1NRFNzQVpTbHNtWkIwRGtpbUR4ZWRVdFZvRmx6UzRXZFU1bEZWa3FTYWlj?oc=5",
+        "date": "2026-10-09",
+        "title": "Rachel\u2019s remnants to bring rain, wind and flash flood risk to Las Vegas this weekend - Las Vegas Sun",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOdXU4TnNEVUttanNSYTBnaWg2cmJDek1Dc1dkNmhLRDl3WGR1eXNUT25mUjJMQjAtRjcxUndKdlM4YkM3X2lpM3pLdWFnOVFvNl95SDY5X0sxVXBhMlg2UndCZDQ0LUdscXhhQy1NRFNzQVpTbHNtWkIwRGtpbUR4ZWRVdFZvRmx6UzRXZFU1bEZWa3FTYWlj?oc=5\" target=\"_blank\">Rachel\u2019s remnants to bring rain, wind and flash flood risk to Las Vegas this weekend</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Las Vegas Sun</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPRzN0NEt4SExSRlRxWU85TF9NUUFhbXJFZzZmbUVaU0RoR0VKb295ZUlXa25XaXBkNldFaERJczVhZ2VBbkozMk9WWGhMcTgyUkIxMXZyei1wczZmcndITGxBc3BxaDUyRmoxb2Nmd3d5eGd4R1dHMHhxZ0xxdV8zeWRLY2F2a0ZMcktuclZR?oc=5",
+        "date": "2026-10-09",
+        "title": "Flood watch issued for Polk County, Upstate - The Tryon Daily Bulletin",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPRzN0NEt4SExSRlRxWU85TF9NUUFhbXJFZzZmbUVaU0RoR0VKb295ZUlXa25XaXBkNldFaERJczVhZ2VBbkozMk9WWGhMcTgyUkIxMXZyei1wczZmcndITGxBc3BxaDUyRmoxb2Nmd3d5eGd4R1dHMHhxZ0xxdV8zeWRLY2F2a0ZMcktuclZR?oc=5\" target=\"_blank\">Flood watch issued for Polk County, Upstate</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Tryon Daily Bulletin</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNTJMTHJIUzFPWkgxVjgwcmJuVUxycC1ZRTF6LTNhQ1JiSi1wVnY1dWRTRUd6TnQzeHV6NHFreU9zNDdKTm9WTDE0dmpFQXI3RG9JUmViaTd0YndsNG9mVmxxTF9WUmpCNTFSSTJPeTcwYXRpdFJ1ZjRGYjVFWVRWN1lKM19CLXRIVkJRb2c2cjk2cjRXRDF2LXlwbVVBOENRZ2hiT25iZUdVek5vV2lzQzdB?oc=5",
+        "date": "2026-10-09",
+        "title": "Coastal California Braces for High Tides, Flooding - MyNewsLA.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPNTJMTHJIUzFPWkgxVjgwcmJuVUxycC1ZRTF6LTNhQ1JiSi1wVnY1dWRTRUd6TnQzeHV6NHFreU9zNDdKTm9WTDE0dmpFQXI3RG9JUmViaTd0YndsNG9mVmxxTF9WUmpCNTFSSTJPeTcwYXRpdFJ1ZjRGYjVFWVRWN1lKM19CLXRIVkJRb2c2cjk2cjRXRDF2LXlwbVVBOENRZ2hiT25iZUdVek5vV2lzQzdB?oc=5\" target=\"_blank\">Coastal California Braces for High Tides, Flooding</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MyNewsLA.com</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOeExPMEt4VnlOZ2F4VndWdmlmTjEtb05uTDR0Q0NrLVVkbElFYjZDSDNZMEpJYUlrUGs1RnpaNzktcmo3a2ctUGdTRU5LLU1MNnVuMm95TndINExXcHIwWWdHTGdiR01aVllYWVRxN3dQUzdnNlRmTTlQVUtXUU84NGF4Y3V1Z0FkY3BWd3dFeVQxWXo1bFZrbHk2dnpXeHhnSUk5VUVzb1lnemhjdndHTG50TTVQQ3Z0YnBiOEE4dk5fUThOWWxR?oc=5",
+        "date": "2026-10-09",
+        "title": "Heavy rain from tropical storm remnants could raise flood risk across Utah - kjzz.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxOeExPMEt4VnlOZ2F4VndWdmlmTjEtb05uTDR0Q0NrLVVkbElFYjZDSDNZMEpJYUlrUGs1RnpaNzktcmo3a2ctUGdTRU5LLU1MNnVuMm95TndINExXcHIwWWdHTGdiR01aVllYWVRxN3dQUzdnNlRmTTlQVUtXUU84NGF4Y3V1Z0FkY3BWd3dFeVQxWXo1bFZrbHk2dnpXeHhnSUk5VUVzb1lnemhjdndHTG50TTVQQ3Z0YnBiOEE4dk5fUThOWWxR?oc=5\" target=\"_blank\">Heavy rain from tropical storm remnants could raise flood risk across Utah</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">kjzz.com</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNeWM1TFYtQmp3QlFNSDRBazBRN0ZIaUJGYXR6bHlJUGloV1Bvcmg5NVhGRUkwU2VlaTIzVTI4aTh2TGtMdG1ndmN3WVFCenFVVFFZTVgwSE05X0pBX21oekhZM1E3WGYzOHVFbnlCS01IRklZQlVKVEJQZzdPWjUxZEdRcHE1Y0ktVEhaU1ZnaDhnYzFMSmw1LUtn?oc=5",
+        "date": "2026-10-09",
+        "title": "Newport Beach Flooding: High Tides Swamp Balboa Peninsula - LAmag",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNeWM1TFYtQmp3QlFNSDRBazBRN0ZIaUJGYXR6bHlJUGloV1Bvcmg5NVhGRUkwU2VlaTIzVTI4aTh2TGtMdG1ndmN3WVFCenFVVFFZTVgwSE05X0pBX21oekhZM1E3WGYzOHVFbnlCS01IRklZQlVKVEJQZzdPWjUxZEdRcHE1Y0ktVEhaU1ZnaDhnYzFMSmw1LUtn?oc=5\" target=\"_blank\">Newport Beach Flooding: High Tides Swamp Balboa Peninsula</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">LAmag</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbzZjRGkxdFR0S1hmd1NnVWNwZmdNX2RMU3hKa3c0N1hfUG1sQ0x5dUR3ekdVN3Y1Yy1Kb1JBam1pTV9vZnY1VTdWQXo3RTdNRVdLdHMxVDlpd00wWUxsVnFsV3VOVFNyTTZmc3Fqa1A4WEw2UnZ4eEdZY1BhVEw0eGhjVlE0X2ozQmlXMVNYUmZWWS15bXRVYUlxWVFHSzdWYjFtenl3dkNzZkU?oc=5",
+        "date": "2026-10-09",
+        "title": "Hurricane Isaias prompts flood watch in Memphis. How much rain to expect - The Commercial Appeal",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbzZjRGkxdFR0S1hmd1NnVWNwZmdNX2RMU3hKa3c0N1hfUG1sQ0x5dUR3ekdVN3Y1Yy1Kb1JBam1pTV9vZnY1VTdWQXo3RTdNRVdLdHMxVDlpd00wWUxsVnFsV3VOVFNyTTZmc3Fqa1A4WEw2UnZ4eEdZY1BhVEw0eGhjVlE0X2ozQmlXMVNYUmZWWS15bXRVYUlxWVFHSzdWYjFtenl3dkNzZkU?oc=5\" target=\"_blank\">Hurricane Isaias prompts flood watch in Memphis. How much rain to expect</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Commercial Appeal</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQaGkzVXdKYW1xQWFEUEMxdjVrRGYtSnRXM0hISDVnblM5ZHJiVVY1SlhUc1pHNVVpeVBxc0VoREE3MU56Zk92MVV0MEcwbXBDM0RwaTFieEtCSDExZHJiUmZ4TEdtalBMb2h2Z1ZKZ2xuLTUtbm1VR0dEdDJfOGUwMjdUazk5a1dkVmZKY2xuYWlZNVVtSTlHNG13ekt6WnROOFplXzZLMmFPS2t5VEwwTG5QNnk2TWJiMFRYWGJtVVZmenN1ZF9NblZ3d1hVcld6LUdkY0ViOTVqem90YUtraTBXdC1tMDNjRjFqeExLUTZYUnM?oc=5",
+        "date": "2026-10-09",
+        "title": "Wildfire danger and flooding threats put parts of Nevada on alert this weekend - KTVN",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8wFBVV95cUxQaGkzVXdKYW1xQWFEUEMxdjVrRGYtSnRXM0hISDVnblM5ZHJiVVY1SlhUc1pHNVVpeVBxc0VoREE3MU56Zk92MVV0MEcwbXBDM0RwaTFieEtCSDExZHJiUmZ4TEdtalBMb2h2Z1ZKZ2xuLTUtbm1VR0dEdDJfOGUwMjdUazk5a1dkVmZKY2xuYWlZNVVtSTlHNG13ekt6WnROOFplXzZLMmFPS2t5VEwwTG5QNnk2TWJiMFRYWGJtVVZmenN1ZF9NblZ3d1hVcld6LUdkY0ViOTVqem90YUtraTBXdC1tMDNjRjFqeExLUTZYUnM?oc=5\" target=\"_blank\">Wildfire danger and flooding threats put parts of Nevada on alert this weekend</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KTVN</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOODhrd0Nrdk5SbUtrNGpPQlBRdkxRRkQ1VkdaWUg1NXpRWEp6alB3MVZTUVY3Y0VGaGtOWHhZXzl6TEdwTmRMYUtodThPcTdfdW5qd0trME85Zm8wRE54N09VVnJ4SDQ5SXNWOVJKQmFDay11NTJtVGJTZmp1YVRYb1dRYTRRYXdNdzFIbUNSMUp0RG5nQlMxdXA3VUZIbmdOQjlGa1llT0NHejNRS3pJTkttSDgySkFhZmhaYkdQd2R5aFVUckp3cDBRREpncXAyblZYQ2VFQUhadGpUaEtpRUJpUEZGUU51QXlJbXEya0Y4QQ?oc=5",
+        "date": "2026-10-09",
+        "title": "Flood Watch issued October 9 at 2:00PM EDT until October 11 at 2:00PM EDT by NWS Greenville-Spartanburg SC - The Avery Journal-Times",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8gFBVV95cUxOODhrd0Nrdk5SbUtrNGpPQlBRdkxRRkQ1VkdaWUg1NXpRWEp6alB3MVZTUVY3Y0VGaGtOWHhZXzl6TEdwTmRMYUtodThPcTdfdW5qd0trME85Zm8wRE54N09VVnJ4SDQ5SXNWOVJKQmFDay11NTJtVGJTZmp1YVRYb1dRYTRRYXdNdzFIbUNSMUp0RG5nQlMxdXA3VUZIbmdOQjlGa1llT0NHejNRS3pJTkttSDgySkFhZmhaYkdQd2R5aFVUckp3cDBRREpncXAyblZYQ2VFQUhadGpUaEtpRUJpUEZGUU51QXlJbXEya0Y4QQ?oc=5\" target=\"_blank\">Flood Watch issued October 9 at 2:00PM EDT until October 11 at 2:00PM EDT by NWS Greenville-Spartanburg SC</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Avery Journal-Times</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPLWhPOUd3dzlIQjNoT0RUTVUxTEhyLUVoM1Y1YmN6RXBMV0hWMXJrMndUNjBxc2VfeVlNaWVLeGJ4Wm42ejAtNjdjck9qOXloM0tvdFZEeVUyYXdQNm9PUkU4bnM3ZTBBRU9OV3lXV003X0hqVVZqVGpfRmJqYXdsMEcwZ3NkWW45dWRuM2tCRkFLOTBWMTdTRkI4QnBuXzNCQWV0QUlnVjFXNjZmWmFVZW5ZMXI3U3k3V2JqNkpXZlBCd3NUMWxRcllKaWx1eDhGQnJXbHRTNV9qQXJyZ3hFUFR2aWVMNThFZG9rWFYyOWM2QUg4Mmk1UEZ2MUVQMEEwaUhF?oc=5",
+        "date": "2026-10-09",
+        "title": "A Florida city breakdown of impacts to expect from Hurricane Isaias - Tallahassee Democrat",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwJBVV95cUxPLWhPOUd3dzlIQjNoT0RUTVUxTEhyLUVoM1Y1YmN6RXBMV0hWMXJrMndUNjBxc2VfeVlNaWVLeGJ4Wm42ejAtNjdjck9qOXloM0tvdFZEeVUyYXdQNm9PUkU4bnM3ZTBBRU9OV3lXV003X0hqVVZqVGpfRmJqYXdsMEcwZ3NkWW45dWRuM2tCRkFLOTBWMTdTRkI4QnBuXzNCQWV0QUlnVjFXNjZmWmFVZW5ZMXI3U3k3V2JqNkpXZlBCd3NUMWxRcllKaWx1eDhGQnJXbHRTNV9qQXJyZ3hFUFR2aWVMNThFZG9rWFYyOWM2QUg4Mmk1UEZ2MUVQMEEwaUhF?oc=5\" target=\"_blank\">A Florida city breakdown of impacts to expect from Hurricane Isaias</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tallahassee Democrat</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMXlSN183RE1qM2JwbHNxUGJBS1VjckFNT3BDMTU5aVJMc0pxY2ZOLXhOc1FsS3VCekIyaDBkN1lnZkUzZ1hIdXRCTTk2RWNydlA0ZFprQ29QaXpwSkN6N1VQVnl5dzU5VnhrbHMtYUpaQWkxSl9tZDRGSHBfM3V0OWE4WnhvcEVJZS0wSE5LNnQyMWg2MzhfS0VQbDNDcGl4?oc=5",
+        "date": "2026-10-09",
+        "title": "Ocean floods into Newport Beach; streets fill with salt water - Orange County Register",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOMXlSN183RE1qM2JwbHNxUGJBS1VjckFNT3BDMTU5aVJMc0pxY2ZOLXhOc1FsS3VCekIyaDBkN1lnZkUzZ1hIdXRCTTk2RWNydlA0ZFprQ29QaXpwSkN6N1VQVnl5dzU5VnhrbHMtYUpaQWkxSl9tZDRGSHBfM3V0OWE4WnhvcEVJZS0wSE5LNnQyMWg2MzhfS0VQbDNDcGl4?oc=5\" target=\"_blank\">Ocean floods into Newport Beach; streets fill with salt water</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Orange County Register</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPTjMtTFQyanZFbGcwSTI1YXR5dkN6cGo3Ylp0TjNNQktVWmprRTJXSS13bjRWUURKUnNMb1RqR25LamJWWUxZMmhtYWZtUUg2a09WRHU5TWh0OU9VT2UtN0dFZTN5QzJqZUxrZlBtUVd6eWlkRFduZUFIZDN6dG1QUG5PVGg5TE5Tc2Q0eVk2VFpWajkwMk5jREtCTXNlZnhhM1Z5ZVozenF0T2JLWFhTWFJjZVdSRVFNLWNQMnJiQVdCa1l1Ymc?oc=5",
+        "date": "2026-10-09",
+        "title": "Isaias may be 'prolific tornado producer' for Tallahassee, Big Bend - Tallahassee Democrat",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxPTjMtTFQyanZFbGcwSTI1YXR5dkN6cGo3Ylp0TjNNQktVWmprRTJXSS13bjRWUURKUnNMb1RqR25LamJWWUxZMmhtYWZtUUg2a09WRHU5TWh0OU9VT2UtN0dFZTN5QzJqZUxrZlBtUVd6eWlkRFduZUFIZDN6dG1QUG5PVGg5TE5Tc2Q0eVk2VFpWajkwMk5jREtCTXNlZnhhM1Z5ZVozenF0T2JLWFhTWFJjZVdSRVFNLWNQMnJiQVdCa1l1Ymc?oc=5\" target=\"_blank\">Isaias may be 'prolific tornado producer' for Tallahassee, Big Bend</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tallahassee Democrat</font>",
+        "similarity_excluded": "No",
+        "score": 2,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZW5jQ0pDM3UtcmxLd0JBSDdsVnBzYnc2QjE4V09SMjFHMWZWS1ZCdVhXTTQtNnhNbWt3QV80aV9mR3BjcFdGTkRyQzU0Vm1WZm5OcUFleml1c0JsbGxlV1BXc3R3UlhrdkxKbEd0eU9ISWp3VGlGN0pJeW9NcVl6WnpoUldqZTJ5M3RsdTlKRFR3ejZHWlV2UVlXVWRPWjFJVEFZODQ0RXJzSnNBd1hGVDJkbkJYejdfWFNsZkRUcUxEZm81ZHJv?oc=5",
+        "date": "2026-10-09",
+        "title": "Heavy rain from tropical storm remnants raises flood risk across Utah - KUTV",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxQZW5jQ0pDM3UtcmxLd0JBSDdsVnBzYnc2QjE4V09SMjFHMWZWS1ZCdVhXTTQtNnhNbWt3QV80aV9mR3BjcFdGTkRyQzU0Vm1WZm5OcUFleml1c0JsbGxlV1BXc3R3UlhrdkxKbEd0eU9ISWp3VGlGN0pJeW9NcVl6WnpoUldqZTJ5M3RsdTlKRFR3ejZHWlV2UVlXVWRPWjFJVEFZODQ0RXJzSnNBd1hGVDJkbkJYejdfWFNsZkRUcUxEZm81ZHJv?oc=5\" target=\"_blank\">Heavy rain from tropical storm remnants raises flood risk across Utah</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KUTV</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOa0lyNXdHRkZPWFRiNmpjNkdqSlRNR3d1YVRYWnlVazgzbVVwcV95b2NWcHBJSzIyWXFVY3pxTFNDampkV1ZGZFd2bU5lRk40RjBReWZoZ3NSSDBPcl9sQmtodzd4dTdrVWNXQnR0dVRONk9XYXFTZE9BLW80ZlJPVGZKZ0JXOWI5cS1oUnZ2WmtmWjNTZHRSOFIwTXl0alZYTDdHTnpR?oc=5",
+        "date": "2026-10-09",
+        "title": "Newport Beach Declares Local Emergency Amid Flooding - MyNewsLA.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxOa0lyNXdHRkZPWFRiNmpjNkdqSlRNR3d1YVRYWnlVazgzbVVwcV95b2NWcHBJSzIyWXFVY3pxTFNDampkV1ZGZFd2bU5lRk40RjBReWZoZ3NSSDBPcl9sQmtodzd4dTdrVWNXQnR0dVRONk9XYXFTZE9BLW80ZlJPVGZKZ0JXOWI5cS1oUnZ2WmtmWjNTZHRSOFIwTXl0alZYTDdHTnpR?oc=5\" target=\"_blank\">Newport Beach Declares Local Emergency Amid Flooding</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MyNewsLA.com</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQeHdHNkE3WDRFVWZkZnY5ZXV4dnlnTmcyUklMbTZKbVhjRHRJZ2cxcVhpbVVuMXRvSDJkMFFScXV1d0dJbW55Y3gzNzFrQjUzWlRBc3lCU3dUN1VNSjlldE9RMDRlalZzXzZGQWprZUV3TjlTa2dBT29PMWExVDlsN1Y0RTZ6X3k4QWFlVW1xM0lVdjltWlFEVTZVM2NHSkV4dmtyN3ZKT3dmeDRTZGdSSXE4SGdHRUdBWEZyVjVCV0VZcnJZSjhNTkdTcXFpQ1N2cGlHN2lzUEFNRE9oaGZueWZPMllNZw?oc=5",
+        "date": "2026-10-09",
+        "title": "Flood watch, wind advisory issued for Mohave County as storms approach - HavasuNews.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxQeHdHNkE3WDRFVWZkZnY5ZXV4dnlnTmcyUklMbTZKbVhjRHRJZ2cxcVhpbVVuMXRvSDJkMFFScXV1d0dJbW55Y3gzNzFrQjUzWlRBc3lCU3dUN1VNSjlldE9RMDRlalZzXzZGQWprZUV3TjlTa2dBT29PMWExVDlsN1Y0RTZ6X3k4QWFlVW1xM0lVdjltWlFEVTZVM2NHSkV4dmtyN3ZKT3dmeDRTZGdSSXE4SGdHRUdBWEZyVjVCV0VZcnJZSjhNTkdTcXFpQ1N2cGlHN2lzUEFNRE9oaGZueWZPMllNZw?oc=5\" target=\"_blank\">Flood watch, wind advisory issued for Mohave County as storms approach</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">HavasuNews.com</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPUmY4VHZzUjgxcnItdkJJRmtMRVdHU0VUc3RaTUgwcHZvbHdZUWo5TFpnaG1yVTZrNHFod0F2OFBqZTI3NFlCb0tiaU9UUG9BekpvN041RkhYZVZxZHB2dC1TR1pLcE1zcnhDVVVyNEF3WTZfNmxGcVZldk9CMnFTbGM5SWQxOFgzc21qQVo4QXlFWDlsQWlhb1pFN2d0UFhCa2pnUXhPWUYzTGlLSW9kMTJOV3ExR01oUWdqelhDd3lJeTNaeTFFV2ZUbmN3QVFoUXc?oc=5",
+        "date": "2026-10-09",
+        "title": "Heavy rain from tropical storm remnants could raise flood risk across Utah - KUTV",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxPUmY4VHZzUjgxcnItdkJJRmtMRVdHU0VUc3RaTUgwcHZvbHdZUWo5TFpnaG1yVTZrNHFod0F2OFBqZTI3NFlCb0tiaU9UUG9BekpvN041RkhYZVZxZHB2dC1TR1pLcE1zcnhDVVVyNEF3WTZfNmxGcVZldk9CMnFTbGM5SWQxOFgzc21qQVo4QXlFWDlsQWlhb1pFN2d0UFhCa2pnUXhPWUYzTGlLSW9kMTJOV3ExR01oUWdqelhDd3lJeTNaeTFFV2ZUbmN3QVFoUXc?oc=5\" target=\"_blank\">Heavy rain from tropical storm remnants could raise flood risk across Utah</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KUTV</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxObm50aVNlcGJRYjJtTFJtRXlQQ1NEVXBmblg1aVBNY0twT3I2c0czOUJxWXpyaHF2dVI5MnpaaUtUYVVRRFZBdWNjVXVUQmJlZlFzTDVyOWthMkh1bDVkdkktUlh6ZzFHdzVEWV9EemVSV25KcGoyckdpU0VOSzh5MWp1ek52eU4tSUtKYUd1OXpXcWU0eDlRa05YU0JidnNhQnBLTTVXRm9MVXI3Z2VBaVg0ZWxyb0lsSENLb1ZOZDE3aTdhRXpB?oc=5",
+        "date": "2026-10-09",
+        "title": "'Siren of last resort': Flood warning systems now in place across Haywood County - WLOS",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxObm50aVNlcGJRYjJtTFJtRXlQQ1NEVXBmblg1aVBNY0twT3I2c0czOUJxWXpyaHF2dVI5MnpaaUtUYVVRRFZBdWNjVXVUQmJlZlFzTDVyOWthMkh1bDVkdkktUlh6ZzFHdzVEWV9EemVSV25KcGoyckdpU0VOSzh5MWp1ek52eU4tSUtKYUd1OXpXcWU0eDlRa05YU0JidnNhQnBLTTVXRm9MVXI3Z2VBaVg0ZWxyb0lsSENLb1ZOZDE3aTdhRXpB?oc=5\" target=\"_blank\">'Siren of last resort': Flood warning systems now in place across Haywood County</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WLOS</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQT24yNU9WMWtlRnk2Vnk3cGQzTlluTk8tZDRjcUZZdjdKOVo1azFTdGhlY0ZWZnQ0a1pXdG51LXVkMTA4SDRqZ0lGUTF1N2hTdTNaWk1SZ2FqRmtiRzFXazBZeThCMjItYy1jV2g5UUl5dTJhZDU1NFV5eHJVXzc4eV9jcmtkeXRIQ0hfejlWallDY1B5?oc=5",
+        "date": "2026-10-09",
+        "title": "Cars swept away by flash floods in Chile - NBC News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQT24yNU9WMWtlRnk2Vnk3cGQzTlluTk8tZDRjcUZZdjdKOVo1azFTdGhlY0ZWZnQ0a1pXdG51LXVkMTA4SDRqZ0lGUTF1N2hTdTNaWk1SZ2FqRmtiRzFXazBZeThCMjItYy1jV2g5UUl5dTJhZDU1NFV5eHJVXzc4eV9jcmtkeXRIQ0hfejlWallDY1B5?oc=5\" target=\"_blank\">Cars swept away by flash floods in Chile</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NBC News</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPZXdfQUJybTE2a1RlN29HaURYMzJzWW5wUmRUOThaTFpUOFNOR2FUc3V6ckRNR1VmNkNJRWROTlAxRXM3WWc4aWZvdndCYVlEMl8tZXhVS1pyTUM0VTBUTExwbjZVX0V0OTFBWng0THlDV2NIT3BvYTM4OXE1a2NQM2tkMTlRMlVaSDFkalFMQzh0dGZFT2ZDZ3BnanYwTU9laU1wT0M2emZveEd6VWJMRlZMUXpkeml1V0VjcVFnUlRBbUtEdWxUczRnOW84bk52OG5KUzh1cGVMQQ?oc=5",
+        "date": "2026-10-09",
+        "title": "Castle Country prepares for potential flood conditions due to remnants of Tropical Storm Rachel - Castle Country Radio",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxPZXdfQUJybTE2a1RlN29HaURYMzJzWW5wUmRUOThaTFpUOFNOR2FUc3V6ckRNR1VmNkNJRWROTlAxRXM3WWc4aWZvdndCYVlEMl8tZXhVS1pyTUM0VTBUTExwbjZVX0V0OTFBWng0THlDV2NIT3BvYTM4OXE1a2NQM2tkMTlRMlVaSDFkalFMQzh0dGZFT2ZDZ3BnanYwTU9laU1wT0M2emZveEd6VWJMRlZMUXpkeml1V0VjcVFnUlRBbUtEdWxUczRnOW84bk52OG5KUzh1cGVMQQ?oc=5\" target=\"_blank\">Castle Country prepares for potential flood conditions due to remnants of Tropical Storm Rachel</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Castle Country Radio</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQOEZuRW02ZGVTR21LSXRtY3FzcTFOaHR4aXJZb0pyczZBem85T0hlWkpzTjVQd3V3d3A2cUs4VjZMWnFWVmlZNzFXQjkyTjlLeDRiQkdSMkxXemF1dzl5U1NVX3dMVmFReGo1amNaOU5lcEhfbXE1Y1Z6Zk1ZNFhUMDFyVFgzUlM2UHNsYTJDcHlrUV80eURld2Rfb0JfU2ppLWVpdUlwb0k0ZDF6eUxOejNMbXlyV1d6SXlqdlJ0aXpGQzRsUmIwZkIybmhTRDAyR3BF?oc=5",
+        "date": "2026-10-09",
+        "title": "WATCH: A flash flood surging through streets in eastern Santiago, Chile, on Thursday, Oct. 8, leaving felled trees and poles along the way. A torrent of water, mud and rocks tore through the Las Condes district of the capital after heavy rain. The flooding swept - Facebook",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxQOEZuRW02ZGVTR21LSXRtY3FzcTFOaHR4aXJZb0pyczZBem85T0hlWkpzTjVQd3V3d3A2cUs4VjZMWnFWVmlZNzFXQjkyTjlLeDRiQkdSMkxXemF1dzl5U1NVX3dMVmFReGo1amNaOU5lcEhfbXE1Y1Z6Zk1ZNFhUMDFyVFgzUlM2UHNsYTJDcHlrUV80eURld2Rfb0JfU2ppLWVpdUlwb0k0ZDF6eUxOejNMbXlyV1d6SXlqdlJ0aXpGQzRsUmIwZkIybmhTRDAyR3BF?oc=5\" target=\"_blank\">WATCH: A flash flood surging through streets in eastern Santiago, Chile, on Thursday, Oct. 8, leaving felled trees and poles along the way. A torrent of water, mud and rocks tore through the Las Condes district of the capital after heavy rain. The flooding swept</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Facebook</font>",
+        "similarity_excluded": "No",
+        "score": 6,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNRkt1eWhLSU9uTDRWdGU3ZTJTVThHNXZHeTJIMnZrbjNqeV9qMjlMcGFfMUIwVVBxbjN6WVc5OG1Rd0F0Y1phVFkyci1GVElfVWdqT3hMZ2F5VEJwVWxDSXFteXZwWVpnUFIyYXItNkt0YXczTkV2NDVYdGE3eTRha3d4RW5TSFpfUnJzREJRRUwxYy1PbUNUenZ0SzNwa09SQlhMbmdSRk5DU0F6RzltWW5ON3FxSmJGRnY5d1psN0pBdzRESXJJ?oc=5",
+        "date": "2026-10-09",
+        "title": "Isaias strengthens into a dangerous Category 3 hurricane on track toward the US Gulf Coast - 6abc Philadelphia",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxNRkt1eWhLSU9uTDRWdGU3ZTJTVThHNXZHeTJIMnZrbjNqeV9qMjlMcGFfMUIwVVBxbjN6WVc5OG1Rd0F0Y1phVFkyci1GVElfVWdqT3hMZ2F5VEJwVWxDSXFteXZwWVpnUFIyYXItNkt0YXczTkV2NDVYdGE3eTRha3d4RW5TSFpfUnJzREJRRUwxYy1PbUNUenZ0SzNwa09SQlhMbmdSRk5DU0F6RzltWW5ON3FxSmJGRnY5d1psN0pBdzRESXJJ?oc=5\" target=\"_blank\">Isaias strengthens into a dangerous Category 3 hurricane on track toward the US Gulf Coast</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">6abc Philadelphia</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQOHZJY1VITkFCU3ZTVXBUemxNTVFqb2xuOGFmdjFDNkhCRHFXdnFsendHNlBYMkdlVG54R0MzUzgyNWVyX0hFVG52ZVpOV2t4VHlMV0tqUWEtY3B5dEpXVkZObjlUbDVNSjlSMHhENTZFU0w5eVdLaWR4Z0ZTRHIxTG1rT0poUlJjRWZ5dHFtNWZ5dTdfTGFaTERWN2I2VGNzengtbWw1YjktclZMNldUaWlOc3dOaEFO?oc=5",
+        "date": "2026-10-09",
+        "title": "Crystal River monitors storm surge as coastal flood advisory remains - Bay News 9",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxQOHZJY1VITkFCU3ZTVXBUemxNTVFqb2xuOGFmdjFDNkhCRHFXdnFsendHNlBYMkdlVG54R0MzUzgyNWVyX0hFVG52ZVpOV2t4VHlMV0tqUWEtY3B5dEpXVkZObjlUbDVNSjlSMHhENTZFU0w5eVdLaWR4Z0ZTRHIxTG1rT0poUlJjRWZ5dHFtNWZ5dTdfTGFaTERWN2I2VGNzengtbWw1YjktclZMNldUaWlOc3dOaEFO?oc=5\" target=\"_blank\">Crystal River monitors storm surge as coastal flood advisory remains</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bay News 9</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNOWpPcThMRC1sTU9rOWdLYmd4RG4wQm1GUERqc1dUVGZQTGRCZ3pxeGo1VVRFRVRzNVYzRzA1a3lkSjRlYU9SYVZmVjRUd1dKajJtTlkwUk5GZXNOMkJ5Ny1oLWxnX2ZUcEtnaUhyYkVIY05hLXVsN0tpUVM2Mm5BTXlEaU1DTXdVckhpQ1lqMXd6SmpyVzRUSHB6VmZIV1RwWFJyN2FpanoxQlB5RnEtSnY5RVlqMHFkYWVGdkhlTE9BMjI0azJDTWppSGhFSzdRR0I1dHJB?oc=5",
+        "date": "2026-10-09",
+        "title": "King tide flooding possible in South Florida as Hurricane Isaias barrels toward Gulf coast - CBS News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxNOWpPcThMRC1sTU9rOWdLYmd4RG4wQm1GUERqc1dUVGZQTGRCZ3pxeGo1VVRFRVRzNVYzRzA1a3lkSjRlYU9SYVZmVjRUd1dKajJtTlkwUk5GZXNOMkJ5Ny1oLWxnX2ZUcEtnaUhyYkVIY05hLXVsN0tpUVM2Mm5BTXlEaU1DTXdVckhpQ1lqMXd6SmpyVzRUSHB6VmZIV1RwWFJyN2FpanoxQlB5RnEtSnY5RVlqMHFkYWVGdkhlTE9BMjI0azJDTWppSGhFSzdRR0I1dHJB?oc=5\" target=\"_blank\">King tide flooding possible in South Florida as Hurricane Isaias barrels toward Gulf coast</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CBS News</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNLTh0WkZfUGRGc291ODdXRGZyQzZPUXRweDZRVmJvVi1kd2FfcmhKUFpPWFRQLXdTV3ZTOVZaWHBNNEtuck5tVnhIX2JiZkV3aGVuUkFFVnRSa01tZ1FHcmxRSUpodWJYMEVpSlV0LTFidjBibUxZeHhKLXFjQ2VhYXV4YTVjUjNIQ1NlWnhWVjVtUWw5RHNsT2VPRHVicWNKYm1ZODZWZklBLVQ0NG5iSjF3aGpJeFhhNTEyVldaVDlhN2dT?oc=5",
+        "date": "2026-10-09",
+        "title": "Climate change supercharged the warm Gulf waters fueling Hurricane Isaias - Climate Central",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxNLTh0WkZfUGRGc291ODdXRGZyQzZPUXRweDZRVmJvVi1kd2FfcmhKUFpPWFRQLXdTV3ZTOVZaWHBNNEtuck5tVnhIX2JiZkV3aGVuUkFFVnRSa01tZ1FHcmxRSUpodWJYMEVpSlV0LTFidjBibUxZeHhKLXFjQ2VhYXV4YTVjUjNIQ1NlWnhWVjVtUWw5RHNsT2VPRHVicWNKYm1ZODZWZklBLVQ0NG5iSjF3aGpJeFhhNTEyVldaVDlhN2dT?oc=5\" target=\"_blank\">Climate change supercharged the warm Gulf waters fueling Hurricane Isaias</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Climate Central</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1iaUJmbi1XNWc5anhXaE91NU45Ri1xcHBrX21RMWdJdERMaGczUkdYbTRTT3J5RUdWaHFyRHBEaWxaaFlSVFB4UUZVdWxrNExtcW1odVdEMFpVSkt0eV9rOGlZYUV1dlRHdWpfa0doUEhWV3hrY0HSAXtBVV95cUxNajdZZ0N3TWJvNW5DbXdoREQxVGVXVTI1ZFlwbXE1SHp1bXlHdFFXVjFldGplT3hDNXI3OGlqTFNiVnZyWjZYemVxNVlNV1hMME5aQ1ZqSmRxNFRnUTMyb0NYb2U5WlZxUHlTeGg3Q0tNdnBET3ZuOWo1RkU?oc=5",
+        "date": "2026-10-09",
+        "title": "Satellite timelapse shows Tropical Storm Rachel closing in on Southern California - KTLA",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE1iaUJmbi1XNWc5anhXaE91NU45Ri1xcHBrX21RMWdJdERMaGczUkdYbTRTT3J5RUdWaHFyRHBEaWxaaFlSVFB4UUZVdWxrNExtcW1odVdEMFpVSkt0eV9rOGlZYUV1dlRHdWpfa0doUEhWV3hrY0HSAXtBVV95cUxNajdZZ0N3TWJvNW5DbXdoREQxVGVXVTI1ZFlwbXE1SHp1bXlHdFFXVjFldGplT3hDNXI3OGlqTFNiVnZyWjZYemVxNVlNV1hMME5aQ1ZqSmRxNFRnUTMyb0NYb2U5WlZxUHlTeGg3Q0tNdnBET3ZuOWo1RkU?oc=5\" target=\"_blank\">Satellite timelapse shows Tropical Storm Rachel closing in on Southern California</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KTLA</font>",
+        "similarity_excluded": "No",
+        "score": 2,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPV1c1ZlFBMS14eU5vbnlnTjA5RURyWTREc0lPT3JiYmt0bVFISDVnQkZBUkFiR1g4RGNwdkZuY1ZrTnJTWW1LdXVUQVVNa3dZSzR3OVJBRDdxOFZWVkVtaFFUTjkxUV9ydmR1NExRRWRRMTVMMDJUY0hiYUprS0ZxSFNoV2VuWjdneW41ZUIwblNWRHhIcktmblNkZFFncDRFc1BlUE9HalhDX1lTTTVxSTRhYi1ZMTB6WnVTb2xwQnhMTUxkclhTRXdfc0llbWVBMl80SWhJcw?oc=5",
+        "date": "2026-10-09",
+        "title": "Sarasota businesses prepare for flooding amid Hurricane Isaias - Sarasota Herald-Tribune",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxPV1c1ZlFBMS14eU5vbnlnTjA5RURyWTREc0lPT3JiYmt0bVFISDVnQkZBUkFiR1g4RGNwdkZuY1ZrTnJTWW1LdXVUQVVNa3dZSzR3OVJBRDdxOFZWVkVtaFFUTjkxUV9ydmR1NExRRWRRMTVMMDJUY0hiYUprS0ZxSFNoV2VuWjdneW41ZUIwblNWRHhIcktmblNkZFFncDRFc1BlUE9HalhDX1lTTTVxSTRhYi1ZMTB6WnVTb2xwQnhMTUxkclhTRXdfc0llbWVBMl80SWhJcw?oc=5\" target=\"_blank\">Sarasota businesses prepare for flooding amid Hurricane Isaias</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sarasota Herald-Tribune</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOc3hsVzA2cXhpTERCT0FRZzZMWktPVUtwZ1VSSEQ4UXRaSmVwb0gzcUxBS1FmU3JoVHI1WTBvbUZ2cUhHX0lxMnBqaXg3YndYU2V5WXBSaXZFMXp4Z3ZGYmJuSFRycWt6TFRBdmxnTTFBX3RraExqM2VSWUwxRWZjbnN0Q3MxSG85a3ow?oc=5",
+        "date": "2026-10-09",
+        "title": "Friday, Oct. 9 update from the National Hurricane Center: Latest on Category 3 Hurricane Isaias - The State",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxOc3hsVzA2cXhpTERCT0FRZzZMWktPVUtwZ1VSSEQ4UXRaSmVwb0gzcUxBS1FmU3JoVHI1WTBvbUZ2cUhHX0lxMnBqaXg3YndYU2V5WXBSaXZFMXp4Z3ZGYmJuSFRycWt6TFRBdmxnTTFBX3RraExqM2VSWUwxRWZjbnN0Q3MxSG85a3ow?oc=5\" target=\"_blank\">Friday, Oct. 9 update from the National Hurricane Center: Latest on Category 3 Hurricane Isaias</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The State</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNVW1JSGNsRE5WS0FvN0dfb3VyNjFFTU1VSHg4UWRKeDF1b295TXB0RlRKSjAxTmtiblJLV1h0amFaenpQaWw5SFRUXzZod2pnd3Zmc3MwcVBGNVFWUzNpQjB6TGE3OUpXUVRTYUVkbjN1ajRyeDNEeXJFVjExQXdJQjMzYm5aWGVYVlMtTGhsMy1NN1hjdktkY1FoSnI4WThYUWRHaGNnc19YUTlPYkJybFlHWUYtQ1IxbWo4UU9EMnowc2UzeDEtYmVR?oc=5",
+        "date": "2026-10-09",
+        "title": "Isaias remains a Category 3 hurricane as storm approaches Florida Panhandle - WKMG",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxNVW1JSGNsRE5WS0FvN0dfb3VyNjFFTU1VSHg4UWRKeDF1b295TXB0RlRKSjAxTmtiblJLV1h0amFaenpQaWw5SFRUXzZod2pnd3Zmc3MwcVBGNVFWUzNpQjB6TGE3OUpXUVRTYUVkbjN1ajRyeDNEeXJFVjExQXdJQjMzYm5aWGVYVlMtTGhsMy1NN1hjdktkY1FoSnI4WThYUWRHaGNnc19YUTlPYkJybFlHWUYtQ1IxbWo4UU9EMnowc2UzeDEtYmVR?oc=5\" target=\"_blank\">Isaias remains a Category 3 hurricane as storm approaches Florida Panhandle</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WKMG</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQSHdxZmdHYVMzSlNzQ0tQaUVCbmt4NzVCd3BiSThfVHkyRFN0N0JNQVdwRkZhekp6UURQaC1oUk5Rcm14ei1jSWFOdzJCLTRJVTlXZ1N5cWgwZG41N0tKb0pQWVNqYUxtSkhjWWwwZkUySWxYb0k3X2tVV0hnMnlzb21HQS1QM3E4S1Q3bGw5R2tqeGvSAZgBQVVfeXFMT3hhVFR1WUpmbGduakZ1UjhNNjlVamR1eXZrMEIyLXk0VU5ZSzhqemUxTU0zUmUtNEUzZGhwOTNrU1NFM0tUc3JuOUhCWWlnczhGTk9idHRMbjdmSXh1cl9GSjluSUY0Sk5HRlJZSWxTaDQ5YmJIelk4NkxKemVYd05FNEpXZGNUTzF5amp4Q3NJOUtJUGx4NVc?oc=5",
+        "date": "2026-10-09",
+        "title": "High surf floods Newport Beach as Tropical Storm Rachel-driven waves pound coast - KTLA",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQSHdxZmdHYVMzSlNzQ0tQaUVCbmt4NzVCd3BiSThfVHkyRFN0N0JNQVdwRkZhekp6UURQaC1oUk5Rcm14ei1jSWFOdzJCLTRJVTlXZ1N5cWgwZG41N0tKb0pQWVNqYUxtSkhjWWwwZkUySWxYb0k3X2tVV0hnMnlzb21HQS1QM3E4S1Q3bGw5R2tqeGvSAZgBQVVfeXFMT3hhVFR1WUpmbGduakZ1UjhNNjlVamR1eXZrMEIyLXk0VU5ZSzhqemUxTU0zUmUtNEUzZGhwOTNrU1NFM0tUc3JuOUhCWWlnczhGTk9idHRMbjdmSXh1cl9GSjluSUY0Sk5HRlJZSWxTaDQ5YmJIelk4NkxKemVYd05FNEpXZGNUTzF5amp4Q3NJOUtJUGx4NVc?oc=5\" target=\"_blank\">High surf floods Newport Beach as Tropical Storm Rachel-driven waves pound coast</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KTLA</font>",
+        "similarity_excluded": "No",
+        "score": 6,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWmNHRDlIRU5JdEFIQnFPUEhfbGMtT3lqRUtvLThkeHh6WWE3TVh4S2s2bkZLRHNVcXBSM0pYaGwwNlpGd3NMSTNVQ2hDMV9nWURWMXVha29zUUpzdjdiYUxLMGpXcEdZZEVteVRwQkYzOTBsWjhFVnJyc2dJaG9ySXl5ZXNiQWhMYVRyNW1DdnVBaExNVUxkVVQwME94YnpIbGRVZ3hfQzV0UQ?oc=5",
+        "date": "2026-10-09",
+        "title": "Category 3 Hurricane Isaias closes in on the Florida Panhandle - Yale Climate Connections",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWmNHRDlIRU5JdEFIQnFPUEhfbGMtT3lqRUtvLThkeHh6WWE3TVh4S2s2bkZLRHNVcXBSM0pYaGwwNlpGd3NMSTNVQ2hDMV9nWURWMXVha29zUUpzdjdiYUxLMGpXcEdZZEVteVRwQkYzOTBsWjhFVnJyc2dJaG9ySXl5ZXNiQWhMYVRyNW1DdnVBaExNVUxkVVQwME94YnpIbGRVZ3hfQzV0UQ?oc=5\" target=\"_blank\">Category 3 Hurricane Isaias closes in on the Florida Panhandle</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yale Climate Connections</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiygJBVV95cUxPTlhJWjVhU0VFM3k5SVFBNnd3b25UZ1p4N1dJOW14MTdIS2pTb3pzMEh3R2V2OFdvQVVBSUNOUWFMVDgwZHVRZVFOVXRRc1p5aDk1QnlnYnVGUmRPT1E3akpQNzJTX204Y0t0SzIza2VmT19hRlpZMjJIVU5vUFk5c0ZQOTI4X2dIRUNTajhjSE11T0tSTk1INU9rRkJRMm4wZmhVN3IwUVJPdU0wMThvdTJZbl82QTkzeTNCaW9VSWpjd1QzRFR5UzZBWENDSnZfZW1PWU1lckJWQ3d4d0FpSjVrMjV3czNEQ1ZzeEJKUDgtdkRCZ2NFX20yS19KbWc3V3FRVjRWaEUzQVZPZG1hMHdNYVBSWXFOTmkzTHVqSEhrUlJiUkZ5eFBzTGVEMmRXQVVYVGt6Z0pidjNjemtwdlNhUlZmem9xTmc?oc=5",
+        "date": "2026-10-09",
+        "title": "Hurricane Isaias nears Florida Panhandle as Pensacola residents brace for landfall - WPEC",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygJBVV95cUxPTlhJWjVhU0VFM3k5SVFBNnd3b25UZ1p4N1dJOW14MTdIS2pTb3pzMEh3R2V2OFdvQVVBSUNOUWFMVDgwZHVRZVFOVXRRc1p5aDk1QnlnYnVGUmRPT1E3akpQNzJTX204Y0t0SzIza2VmT19hRlpZMjJIVU5vUFk5c0ZQOTI4X2dIRUNTajhjSE11T0tSTk1INU9rRkJRMm4wZmhVN3IwUVJPdU0wMThvdTJZbl82QTkzeTNCaW9VSWpjd1QzRFR5UzZBWENDSnZfZW1PWU1lckJWQ3d4d0FpSjVrMjV3czNEQ1ZzeEJKUDgtdkRCZ2NFX20yS19KbWc3V3FRVjRWaEUzQVZPZG1hMHdNYVBSWXFOTmkzTHVqSEhrUlJiUkZ5eFBzTGVEMmRXQVVYVGt6Z0pidjNjemtwdlNhUlZmem9xTmc?oc=5\" target=\"_blank\">Hurricane Isaias nears Florida Panhandle as Pensacola residents brace for landfall</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WPEC</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNY3pVQTZPMjZLaTJwV29jM1lCVnJrTkdpYlUyaHBIUVZmWXktaWRIbl9HOUFmZE9jQXlNU1YzTXA2MHFCSEZRbVZxdVpIdllXMVRTV0dnRDJEZEd2bFlreGZNakE0OFBrUEpqQlVVZjNFQW13T0MwRFl0bXlfYnprRGgzNjJhUTROUXZTckhjc0Ixend0c09zOFFkZw?oc=5",
+        "date": "2026-10-09",
+        "title": "Hurricane Isaias nears Florida Panhandle as a major Category 3 storm - Sun Sentinel",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNY3pVQTZPMjZLaTJwV29jM1lCVnJrTkdpYlUyaHBIUVZmWXktaWRIbl9HOUFmZE9jQXlNU1YzTXA2MHFCSEZRbVZxdVpIdllXMVRTV0dnRDJEZEd2bFlreGZNakE0OFBrUEpqQlVVZjNFQW13T0MwRFl0bXlfYnprRGgzNjJhUTROUXZTckhjc0Ixend0c09zOFFkZw?oc=5\" target=\"_blank\">Hurricane Isaias nears Florida Panhandle as a major Category 3 storm</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sun Sentinel</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNeVhOVXk2SlJtYUZoWFhhVkdRR0hpQnFTeEdKU1JDR0hJb245eG5NdXp2TG5pQW9fSm5JOUduNU1PRTVuUHFSQmtwUVpRSTBoRGJENTUzeHlVN0FUS29SaG0ydTg0cHFGRjI5enpnV29yOGtvTjZDWmNHUmVDRUl0YkZpSVFmZExmazgyeGtMRWpMT294ZEVaYnR4QUJ3Mi1GbGtXaWUza1ZhQ0liMzRWQTRUbw?oc=5",
+        "date": "2026-10-09",
+        "title": "Hurricane Isaias approaching northern Gulf Coast, Tropical Storm conditions begin - Gulf Coast News and Weather",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNeVhOVXk2SlJtYUZoWFhhVkdRR0hpQnFTeEdKU1JDR0hJb245eG5NdXp2TG5pQW9fSm5JOUduNU1PRTVuUHFSQmtwUVpRSTBoRGJENTUzeHlVN0FUS29SaG0ydTg0cHFGRjI5enpnV29yOGtvTjZDWmNHUmVDRUl0YkZpSVFmZExmazgyeGtMRWpMT294ZEVaYnR4QUJ3Mi1GbGtXaWUza1ZhQ0liMzRWQTRUbw?oc=5\" target=\"_blank\">Hurricane Isaias approaching northern Gulf Coast, Tropical Storm conditions begin</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Gulf Coast News and Weather</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPbDVGMWo2cnBGNDl0d3ZXd1dQR2poaldrbjEzaFFBVU1OcXhteUZkMFpqSzNUcjcxLW1lOEUwUERVb0piczJmaVV1cmlZSTdzTVhaNHpXeWQyam1MWEgybWdMbV81azF6QVQ3eEROWVB3QTh4TC1lRWRlNW9hSTNZWFZ0cFFWemdPbEZBTWJ1ODJoRjdsSHFhaWdOSEFWRmY4RWVjWWNERGdxOGYzNWhZQWpoVTRrMjNwbXFjNEc5UUp6Q1E4NUhLdm4tc25pX25wa25zODRkaENsOEVpaTFEaDZZRmZlaFJmR0pTdlNHcXFMRU0?oc=5",
+        "date": "2026-10-09",
+        "title": "What to Know About Hurricane Isaias, the 'Life-Threatening' Category 3 Storm Headed for the Gulf Coast - U.S. News & World Report",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8wFBVV95cUxPbDVGMWo2cnBGNDl0d3ZXd1dQR2poaldrbjEzaFFBVU1OcXhteUZkMFpqSzNUcjcxLW1lOEUwUERVb0piczJmaVV1cmlZSTdzTVhaNHpXeWQyam1MWEgybWdMbV81azF6QVQ3eEROWVB3QTh4TC1lRWRlNW9hSTNZWFZ0cFFWemdPbEZBTWJ1ODJoRjdsSHFhaWdOSEFWRmY4RWVjWWNERGdxOGYzNWhZQWpoVTRrMjNwbXFjNEc5UUp6Q1E4NUhLdm4tc25pX25wa25zODRkaENsOEVpaTFEaDZZRmZlaFJmR0pTdlNHcXFMRU0?oc=5\" target=\"_blank\">What to Know About Hurricane Isaias, the 'Life-Threatening' Category 3 Storm Headed for the Gulf Coast</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">U.S. News & World Report</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPb0UzcmJKenp1OWVGQ3ZFY2QyYmJnUEItYlV2dGo1NnhieUQ3Y1hsbWMtdHdyWDBodlZfdHRZWnE5ZjlHdHJyTE85UEc4THcxclRTdW02VXMxd3hMc3lZNW1OTUh2WGhkNE55QVc0djhLZk5Eb0lwNjB6UjVaaW1pb3pqVDQyMkRJUWdYU2dLVEc5SUtzcVplNElyRWtidk9OaTF1bEFJUXR2dDQ?oc=5",
+        "date": "2026-10-09",
+        "title": "Major Category 3 Hurricane Isaias nears Pensacola with storm surge and tornado threat along Gulf Coast - WPBF",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPb0UzcmJKenp1OWVGQ3ZFY2QyYmJnUEItYlV2dGo1NnhieUQ3Y1hsbWMtdHdyWDBodlZfdHRZWnE5ZjlHdHJyTE85UEc4THcxclRTdW02VXMxd3hMc3lZNW1OTUh2WGhkNE55QVc0djhLZk5Eb0lwNjB6UjVaaW1pb3pqVDQyMkRJUWdYU2dLVEc5SUtzcVplNElyRWtidk9OaTF1bEFJUXR2dDQ?oc=5\" target=\"_blank\">Major Category 3 Hurricane Isaias nears Pensacola with storm surge and tornado threat along Gulf Coast</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WPBF</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1CVU8tN24yUGNBS1ducVhvQmE3WTdVd3pXZDI1eHZ5NGp3TDdWUXZOcmZYVVZPenJyRlQ4MG93RF9RakZoVGxVSjJZdW9iMjdDbTBSYkxkZWFSVThXU3EtRGJwcm1iY2d3eV93b0VoSm0zU3FfZ0NjLXpudUE?oc=5",
+        "date": "2026-10-09",
+        "title": "Latest on Category 3 Hurricane Isaias: Friday, Oct. 9 update from the National Hurricane Center - Miami Herald",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE1CVU8tN24yUGNBS1ducVhvQmE3WTdVd3pXZDI1eHZ5NGp3TDdWUXZOcmZYVVZPenJyRlQ4MG93RF9RakZoVGxVSjJZdW9iMjdDbTBSYkxkZWFSVThXU3EtRGJwcm1iY2d3eV93b0VoSm0zU3FfZ0NjLXpudUE?oc=5\" target=\"_blank\">Latest on Category 3 Hurricane Isaias: Friday, Oct. 9 update from the National Hurricane Center</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Miami Herald</font>",
+        "similarity_excluded": "No",
+        "score": 4,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOQlp3RVdWekh2dnZwQXNtQW5ydy16TG5UWm9nZnQ4T1hCejh4amFSTFNld2I2NTFPX3VEU01Fd3pFOUduWHowVW54XzVWVlVfMzZIN3hvekZ5ektIczZZbWF2Sl9GcG1HYjA4VlBuTklHNTRmVG5DX2N4QkQ2ZG1oZFlYWVdlWmJKendpM9IBkgFBVV95cUxNWkVQaFlZdWRvTmU5WjFpc1ZFeElTSGI1QjF3ZEVwWVMwYm1wUVFDOU5RZzU0eHN6RTNjOThhWjhhUXVQUGhlaUNSZDdKNmZ4SWhxTFpxMDRfM0MtRHlOQUJ1NVJzbUtvQVNYeXN2TEtNdlBueFdJcmU4U05CVndsZWhVRGpnWTkyRjZuY1JPVmNuQQ?oc=5",
+        "date": "2026-10-09",
+        "title": "Hurricane Isaias upgraded to Category 3 as Gulf braces for impact - NewsNation",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxOQlp3RVdWekh2dnZwQXNtQW5ydy16TG5UWm9nZnQ4T1hCejh4amFSTFNld2I2NTFPX3VEU01Fd3pFOUduWHowVW54XzVWVlVfMzZIN3hvekZ5ektIczZZbWF2Sl9GcG1HYjA4VlBuTklHNTRmVG5DX2N4QkQ2ZG1oZFlYWVdlWmJKendpM9IBkgFBVV95cUxNWkVQaFlZdWRvTmU5WjFpc1ZFeElTSGI1QjF3ZEVwWVMwYm1wUVFDOU5RZzU0eHN6RTNjOThhWjhhUXVQUGhlaUNSZDdKNmZ4SWhxTFpxMDRfM0MtRHlOQUJ1NVJzbUtvQVNYeXN2TEtNdlBueFdJcmU4U05CVndsZWhVRGpnWTkyRjZuY1JPVmNuQQ?oc=5\" target=\"_blank\">Hurricane Isaias upgraded to Category 3 as Gulf braces for impact</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NewsNation</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZXVYckdmX1NxaVhnYl9mSkJJLVRoXzdaVHJ6X2tFM2R3eE5qWEkzRW9HSHRZeUJTNUZfb240NEt5Wld0UkJsTWVLdjZneFM4REhQTlpmYmFtUXNDbU15Y3N4ZHBBZ3pORFZKYXBjNUZ3MU9pQmVXY2hvcVVjckhfMm1hUDlCUy1fdGRidEpkYTJnWklXTUMtUnlOR01PaVV1eTZmZGpFOFBla3VLOUFnVDd3?oc=5",
+        "date": "2026-10-09",
+        "title": "Florida braces for Hurricane Isaias landfall - Tallahassee Democrat",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNZXVYckdmX1NxaVhnYl9mSkJJLVRoXzdaVHJ6X2tFM2R3eE5qWEkzRW9HSHRZeUJTNUZfb240NEt5Wld0UkJsTWVLdjZneFM4REhQTlpmYmFtUXNDbU15Y3N4ZHBBZ3pORFZKYXBjNUZ3MU9pQmVXY2hvcVVjckhfMm1hUDlCUy1fdGRidEpkYTJnWklXTUMtUnlOR01PaVV1eTZmZGpFOFBla3VLOUFnVDd3?oc=5\" target=\"_blank\">Florida braces for Hurricane Isaias landfall</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tallahassee Democrat</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQRG51eThONDVLcDNMZUpqenJGelgtbDBJWjgwZHlvWV9hbW1hc0UtZWZENVBpMzdUNE1lR3oza2xVV2J4NXNpcTRoSmNYdEZVVzNqVFZUZXNCSHRzYUd2b1JtTU5rbElLQl9EU3MzSXRMWlYxOVIzbm1GSkJMM1BLQS1NTXVtUkdndnVYdGRRZUhXMGctMFZyaEd2aU55WHE3TkRIQ0hveHo2dVRyRGo4NllTR3FKVUZud1BhX0VsSHdpSzU5azJHYUhGNXZwY2xJZlpHTFg5UnFaRVpDZ3Y5S3lJTkR4cER4VzRlQ2hFU3NTX1dmeUVvcXRBZUQzc1MyNjJFa1dUU0NFdWJJay1JbA?oc=5",
+        "date": "2026-10-09",
+        "title": "Hurricane Isaias expected to bring powerful storm surge, coastal flooding and waves - Central Oregon Daily",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAJBVV95cUxQRG51eThONDVLcDNMZUpqenJGelgtbDBJWjgwZHlvWV9hbW1hc0UtZWZENVBpMzdUNE1lR3oza2xVV2J4NXNpcTRoSmNYdEZVVzNqVFZUZXNCSHRzYUd2b1JtTU5rbElLQl9EU3MzSXRMWlYxOVIzbm1GSkJMM1BLQS1NTXVtUkdndnVYdGRRZUhXMGctMFZyaEd2aU55WHE3TkRIQ0hveHo2dVRyRGo4NllTR3FKVUZud1BhX0VsSHdpSzU5azJHYUhGNXZwY2xJZlpHTFg5UnFaRVpDZ3Y5S3lJTkR4cER4VzRlQ2hFU3NTX1dmeUVvcXRBZUQzc1MyNjJFa1dUU0NFdWJJay1JbA?oc=5\" target=\"_blank\">Hurricane Isaias expected to bring powerful storm surge, coastal flooding and waves</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Central Oregon Daily</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbHhxMXU0N1ljTndCVlpNQ0E2NUt1RTZ4a0xHYXctVWFZbkFNaDBHM0Y2cEttZ09oMmg3RjRhcS1SRlk1V2RoaUFPN2FPdVlZNlFmS1UwdV9WcGRFdHFmQUpFTjgwZ0tlXzJPVGo2T25hQjVGTWtLVDhDcVpic2JoR2JxTlRZdWZaUW50bHRnSmNJbmhIQzZySEFLaTgtekVndTJkTnd1UnI2VVlJc2xwSTAtWEF1cEN6cE1aZGZHY1JXa0HSAdcBQVVfeXFMUGx2VnpjQWR1M1Y5WFlvZG54OVMwb3hENVc1SWctTnZJRzZra2V2a09uRDREOTJsSHQ3MmNoWjc1QWtESV9OdWxFRDlPYXdlYi1XYjA4VjhoeEdTbE1HaWJkWGVpMVRkVkF1S0ZpQU4tMWhwa0VCcFI1NUFsdTBZTlFaNVNQaU93SlNfWm5LM3R1OU1rREVieHFUT1BwZU5nMDhBbUQxSDIzU3VRdzllNi1feE1FTmR0YndCeEtLcDliLUlsc0ZQNWJBWGd4N2xORGM1eThPRTg?oc=5",
+        "date": "2026-10-09",
+        "title": "Hurricane Isaias nears Florida Panhandle as a 115 mph Category 3 storm - WFTV",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbHhxMXU0N1ljTndCVlpNQ0E2NUt1RTZ4a0xHYXctVWFZbkFNaDBHM0Y2cEttZ09oMmg3RjRhcS1SRlk1V2RoaUFPN2FPdVlZNlFmS1UwdV9WcGRFdHFmQUpFTjgwZ0tlXzJPVGo2T25hQjVGTWtLVDhDcVpic2JoR2JxTlRZdWZaUW50bHRnSmNJbmhIQzZySEFLaTgtekVndTJkTnd1UnI2VVlJc2xwSTAtWEF1cEN6cE1aZGZHY1JXa0HSAdcBQVVfeXFMUGx2VnpjQWR1M1Y5WFlvZG54OVMwb3hENVc1SWctTnZJRzZra2V2a09uRDREOTJsSHQ3MmNoWjc1QWtESV9OdWxFRDlPYXdlYi1XYjA4VjhoeEdTbE1HaWJkWGVpMVRkVkF1S0ZpQU4tMWhwa0VCcFI1NUFsdTBZTlFaNVNQaU93SlNfWm5LM3R1OU1rREVieHFUT1BwZU5nMDhBbUQxSDIzU3VRdzllNi1feE1FTmR0YndCeEtLcDliLUlsc0ZQNWJBWGd4N2xORGM1eThPRTg?oc=5\" target=\"_blank\">Hurricane Isaias nears Florida Panhandle as a 115 mph Category 3 storm</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WFTV</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPcGRIVHJqNGNoVjNRSi1Ta2ZEdmJZT3BkUVVOTThVNTFXV2g0WG1UUHJ0a2ZGZlh6aGwxVXFnR1ZHLXVXeTJ4blZVUXNiZ2RoWi1KdlhrX2h2d192S01OWjVWWjF4X2U3ME9yTVg3d3dmSDJxUDNSS3RXUEJLeTl0UHdVZEwxNEg0YnZYQVV5ZnFkT0lFM0M1R2xIUmxhUjF2VzIwQlRCTGl0Zk0tRzRTbHhpdm5xaXdBTVMza1lBbW5nOFpiTlE?oc=5",
+        "date": "2026-10-09",
+        "title": "Hurricane Isaias in a minute: Strength, speed, where it's going - Pensacola News Journal",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxPcGRIVHJqNGNoVjNRSi1Ta2ZEdmJZT3BkUVVOTThVNTFXV2g0WG1UUHJ0a2ZGZlh6aGwxVXFnR1ZHLXVXeTJ4blZVUXNiZ2RoWi1KdlhrX2h2d192S01OWjVWWjF4X2U3ME9yTVg3d3dmSDJxUDNSS3RXUEJLeTl0UHdVZEwxNEg0YnZYQVV5ZnFkT0lFM0M1R2xIUmxhUjF2VzIwQlRCTGl0Zk0tRzRTbHhpdm5xaXdBTVMza1lBbW5nOFpiTlE?oc=5\" target=\"_blank\">Hurricane Isaias in a minute: Strength, speed, where it's going</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Pensacola News Journal</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQYWlKZHFwZVdiYWxwT1RJYnVIRDhrRTlWbGM4WnNyQ1RLUWxPVmgzaV9hUllSY1YyVV9pMldjRkpBSGxTbExsVjJlRURLeklxSi1KUkF6Tk5vNndBYnBqUW1hcDI2U0ZjWVY1SF9temF4blRJeVZnVFg5OXZaRW5SeE5Udks1T0Zsa2pYbTNkOWo5Y1pFM1lEemR6N3Mxb1U4LU0weEhyN1M5eDByeVR5UDY1RWoxQTZoNXRYeWlZcW8?oc=5",
+        "date": "2026-10-09",
+        "title": "Latest NHC warnings for Tallahassee area - Tallahassee Democrat",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxQYWlKZHFwZVdiYWxwT1RJYnVIRDhrRTlWbGM4WnNyQ1RLUWxPVmgzaV9hUllSY1YyVV9pMldjRkpBSGxTbExsVjJlRURLeklxSi1KUkF6Tk5vNndBYnBqUW1hcDI2U0ZjWVY1SF9temF4blRJeVZnVFg5OXZaRW5SeE5Udks1T0Zsa2pYbTNkOWo5Y1pFM1lEemR6N3Mxb1U4LU0weEhyN1M5eDByeVR5UDY1RWoxQTZoNXRYeWlZcW8?oc=5\" target=\"_blank\">Latest NHC warnings for Tallahassee area</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tallahassee Democrat</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQN2VQT2VGcmJtOWRkSmJWTkN5Y1RWbk5rZkE0NW5vU3pUdW8yaW42WEtlS2RZQmMzX2FOUTFvTGpzMGdpclpHc2l5bjlrXzNFVjVHb19JOGxoNHFhdVp3YWVDTkFrc2FpNS1aSDBtakU2allTSGtwZGRvNV96Z2JLSmtweTNMMk9sSzlCVDJCYnlwRkFxYVZIbUlqVVBCWEdVeTF4MktFTV9CazMtQXFZallvbXFSVlF0RzVMbEJsazRfWFlaLVo1XzRXY3VSRG16OEdjMktqWGVXUFI3YWc?oc=5",
+        "date": "2026-10-09",
+        "title": "Hurricane Isaias' Eye Within 100 Miles of Pensacola, Winds Down Slightly: 4 pm CDT - 1290 WJNO",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxQN2VQT2VGcmJtOWRkSmJWTkN5Y1RWbk5rZkE0NW5vU3pUdW8yaW42WEtlS2RZQmMzX2FOUTFvTGpzMGdpclpHc2l5bjlrXzNFVjVHb19JOGxoNHFhdVp3YWVDTkFrc2FpNS1aSDBtakU2allTSGtwZGRvNV96Z2JLSmtweTNMMk9sSzlCVDJCYnlwRkFxYVZIbUlqVVBCWEdVeTF4MktFTV9CazMtQXFZallvbXFSVlF0RzVMbEJsazRfWFlaLVo1XzRXY3VSRG16OEdjMktqWGVXUFI3YWc?oc=5\" target=\"_blank\">Hurricane Isaias' Eye Within 100 Miles of Pensacola, Winds Down Slightly: 4 pm CDT</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">1290 WJNO</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNOTdJOVM0YXpYcEZnS1dZMjBfMGJOVjV6RS1sR29nd1lXWmNyc1B6WmJ3aEY5dGt1UXhady13di1wUjJmVzFTdFgtWHlGT3NjNVpiTXVFa2Q1endrSWxsOGJZRnVsWXdPM3FRQkg3TWhxb29DZ2lVczhTX2JTdjBsaVBCVDlnN3FmeWQxZ3pUMkF4QTJkRGk1V3ZubGRjRkRSTzZWb2wzYmJmZzhTd3kzS1dRbTVfSHFyVXphWWl4YnVvd0dqMkNuRUxzdUlXQkV5MlF2TnFLR1NyRW52WmV3YkNLV1BkeHZy?oc=5",
+        "date": "2026-10-09",
+        "title": "Hurricane Isaias watches, warnings across Alabama as storm nears coast - Montgomery Advertiser",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxNOTdJOVM0YXpYcEZnS1dZMjBfMGJOVjV6RS1sR29nd1lXWmNyc1B6WmJ3aEY5dGt1UXhady13di1wUjJmVzFTdFgtWHlGT3NjNVpiTXVFa2Q1endrSWxsOGJZRnVsWXdPM3FRQkg3TWhxb29DZ2lVczhTX2JTdjBsaVBCVDlnN3FmeWQxZ3pUMkF4QTJkRGk1V3ZubGRjRkRSTzZWb2wzYmJmZzhTd3kzS1dRbTVfSHFyVXphWWl4YnVvd0dqMkNuRUxzdUlXQkV5MlF2TnFLR1NyRW52WmV3YkNLV1BkeHZy?oc=5\" target=\"_blank\">Hurricane Isaias watches, warnings across Alabama as storm nears coast</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Montgomery Advertiser</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQLWNmUG1XM3NPMWFQckNIaWVaaG8yaUZZYldEWV9KVEZYbUt5cGJEY2h5QU9BZ0o4cVZtNHlJWmlUcW92OTJVckppSzFwMU85c21CQ000TlhIZ2RQQWFXeTF2MHdoY3dZRmZfaE1NWlBYLVNqZmU2S1FpYjNSR21zMHVqRUUtLW1EVXVoak9EQ3dSamtObnUtdFBtLTA0M1FTbTBIYktMUjBTMFVtS0tQcGppLWxxTWNfODhPVHAyTEZpM0s3elZOdlpNdkx4amhFY2t3R3g4d1p0X3c?oc=5",
+        "date": "2026-10-09",
+        "title": "Spaghetti models on Hurricane Isaias. Florida prepares for impacts - Pensacola News Journal",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxQLWNmUG1XM3NPMWFQckNIaWVaaG8yaUZZYldEWV9KVEZYbUt5cGJEY2h5QU9BZ0o4cVZtNHlJWmlUcW92OTJVckppSzFwMU85c21CQ000TlhIZ2RQQWFXeTF2MHdoY3dZRmZfaE1NWlBYLVNqZmU2S1FpYjNSR21zMHVqRUUtLW1EVXVoak9EQ3dSamtObnUtdFBtLTA0M1FTbTBIYktMUjBTMFVtS0tQcGppLWxxTWNfODhPVHAyTEZpM0s3elZOdlpNdkx4amhFY2t3R3g4d1p0X3c?oc=5\" target=\"_blank\">Spaghetti models on Hurricane Isaias. Florida prepares for impacts</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Pensacola News Journal</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAtSVUxMzhvbWNOVF9VM2Y5cldWRG1BYTFPV1F4eGVPVzlBcDVsbk1kWnVydDV0emVIUU0tcUdlVmlVc3MyM1dRNHlqNHE2T1NPZkxNbEt3?oc=5",
+        "date": "2026-10-09",
+        "title": "Hurricane Isaias expected to bring dangerous storm surge and severe flooding to Gulf states - Fox News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTFAtSVUxMzhvbWNOVF9VM2Y5cldWRG1BYTFPV1F4eGVPVzlBcDVsbk1kWnVydDV0emVIUU0tcUdlVmlVc3MyM1dRNHlqNHE2T1NPZkxNbEt3?oc=5\" target=\"_blank\">Hurricane Isaias expected to bring dangerous storm surge and severe flooding to Gulf states</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fox News</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQRDZzaHRoc010NGdUVjhpSmdvTmtGNnlkY0RQNVU3MUxxOHkyRTc5N3B6WnB3WEdjLVpzRTRsaTI1UzBVczd6WWhkNmhxYWpYNUxGVEVKR0cxczEwUGc0dmtjZm43cnJpVDJia1JYbnpEcUs1dE85dGZna2Nqb3ZneWU5V3VNbHBNTTM4UUVhNjFYYjhjUmE0QmNFdTc4S2tEWHhHb3F5QUE2ek5XYnlNUmdNaXpLanpULXRCU2plRDZhdkVidS1wMlA1a2E0LUNQQXFieUEzamZCeXVFQWh0QnFDWWQzN0k?oc=5",
+        "date": "2026-10-09",
+        "title": "Hurricane Center tracking Isaias, 2 tropical waves - Pensacola News Journal",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxQRDZzaHRoc010NGdUVjhpSmdvTmtGNnlkY0RQNVU3MUxxOHkyRTc5N3B6WnB3WEdjLVpzRTRsaTI1UzBVczd6WWhkNmhxYWpYNUxGVEVKR0cxczEwUGc0dmtjZm43cnJpVDJia1JYbnpEcUs1dE85dGZna2Nqb3ZneWU5V3VNbHBNTTM4UUVhNjFYYjhjUmE0QmNFdTc4S2tEWHhHb3F5QUE2ek5XYnlNUmdNaXpLanpULXRCU2plRDZhdkVidS1wMlA1a2E0LUNQQXFieUEzamZCeXVFQWh0QnFDWWQzN0k?oc=5\" target=\"_blank\">Hurricane Center tracking Isaias, 2 tropical waves</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Pensacola News Journal</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQTZVc3AydGJ1dmZwOHlfemgxaG96VEZtd3NDWnBxRV9ha1NBeHNqZWw5Tk5iRGNHU2FDeW5feGFzOGEwMUdMTWtyY0RCNnFYSk1qT0VEMGpqNURsazhJUEZKSWg0T3h0OFhDZThnV3h2eHAteGZUVDVGaFl6eWlfellFekphRlByNGdYVG8wUXdWbVkxaXdlM0hLdUVRLWtsNUg2RmdkRGJ5V1U?oc=5",
+        "date": "2026-10-09",
+        "title": "Tropical storm conditions begin for Gulf Coast as Isaias closes in - The Weather Channel",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQTZVc3AydGJ1dmZwOHlfemgxaG96VEZtd3NDWnBxRV9ha1NBeHNqZWw5Tk5iRGNHU2FDeW5feGFzOGEwMUdMTWtyY0RCNnFYSk1qT0VEMGpqNURsazhJUEZKSWg0T3h0OFhDZThnV3h2eHAteGZUVDVGaFl6eWlfellFekphRlByNGdYVG8wUXdWbVkxaXdlM0hLdUVRLWtsNUg2RmdkRGJ5V1U?oc=5\" target=\"_blank\">Tropical storm conditions begin for Gulf Coast as Isaias closes in</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Weather Channel</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNbVF2TmlDVHVnQTJoVEhfYU1fUTVHcUJ3ajNMeWRyMXdqMVFCbTBEYzlseDc2SUdvcF9RM0VsQWZXNm1vUXhJRHZNRTRHcENRLVd1TVNfVlhCdERoNnpBRDFmTFJJSndtRFMzZW0wSHlNOS1FVzhSM2hXcDdtMVJZd0xYeWNfV1Brc2JoUDAxUU02cHU0bU1kQS1IU2VOcjhOLUtTdmlud2U2amI3WUN5XzJPUXBWQ0doMWlDSm5SYmtpcGdtSzFiZ3pEcEhOTXg3N3JYSGJTZWVsTHdIVTRVVjNiWQ?oc=5",
+        "date": "2026-10-09",
+        "title": "Hurricane Isaias' Eye Within 100 Miles of Pensacola, Winds Down Slightly: 4 pm CDT - NewsRadio WFLA",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxNbVF2TmlDVHVnQTJoVEhfYU1fUTVHcUJ3ajNMeWRyMXdqMVFCbTBEYzlseDc2SUdvcF9RM0VsQWZXNm1vUXhJRHZNRTRHcENRLVd1TVNfVlhCdERoNnpBRDFmTFJJSndtRFMzZW0wSHlNOS1FVzhSM2hXcDdtMVJZd0xYeWNfV1Brc2JoUDAxUU02cHU0bU1kQS1IU2VOcjhOLUtTdmlud2U2amI3WUN5XzJPUXBWQ0doMWlDSm5SYmtpcGdtSzFiZ3pEcEhOTXg3N3JYSGJTZWVsTHdIVTRVVjNiWQ?oc=5\" target=\"_blank\">Hurricane Isaias' Eye Within 100 Miles of Pensacola, Winds Down Slightly: 4 pm CDT</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NewsRadio WFLA</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQUEtc0ZTMmx2OGM3ajZRVHM0Slo2eUp2S3JSRTgyVFpVNTgzWkFocFU3T0ZxZ0NsNmhQYWFQeWpybkpGSzg3X2RkNkRoaW5KeW1kM3Y2MTdkb1Fwc0ZTUjNBQTU3Z1JEMjVKSEVtWE0yOHhEWEM4Mm5Zdl8zbVZxWHRYNUcxeTczTGkwdEdEUTgzNFQ4bkZRYng4Z1RfX2dqRmhTXzRrY0xxb21MclVEVWhjWVBtdw?oc=5",
+        "date": "2026-10-09",
+        "title": "How to prepare as Tropical Cyclone Rachel heads toward San Diego - KPBS",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxOQUEtc0ZTMmx2OGM3ajZRVHM0Slo2eUp2S3JSRTgyVFpVNTgzWkFocFU3T0ZxZ0NsNmhQYWFQeWpybkpGSzg3X2RkNkRoaW5KeW1kM3Y2MTdkb1Fwc0ZTUjNBQTU3Z1JEMjVKSEVtWE0yOHhEWEM4Mm5Zdl8zbVZxWHRYNUcxeTczTGkwdEdEUTgzNFQ4bkZRYng4Z1RfX2dqRmhTXzRrY0xxb21MclVEVWhjWVBtdw?oc=5\" target=\"_blank\">How to prepare as Tropical Cyclone Rachel heads toward San Diego</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KPBS</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQbGZXaEk0TUN6cG9zbGxwdGJ6dk9EcWVHVF9vQmJkTFhJa095eXlEUHNFRkpiTUhiRHh4d3lYVllTQUtXWGJ0Z3h6WGNPYmhNRklLREdiOHZ6OERKVFNKSHRiSHg4ekVhYWpwdXliWUFyWVRCRGRPWGczMDBpX2x5ODl0d01QZUpzbEdfU2kzM244eG1oSVFEbnpqR0lJdFUtZEVUZ0N1OXBZOUlYMHRwWFctTFRWT3NQOVNwRG16SQ?oc=5",
+        "date": "2026-10-09",
+        "title": "High tide from Tropical Storm Rachel floods Newport Beach streets; residents brace for more impacts - ABC7 Los Angeles",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQbGZXaEk0TUN6cG9zbGxwdGJ6dk9EcWVHVF9vQmJkTFhJa095eXlEUHNFRkpiTUhiRHh4d3lYVllTQUtXWGJ0Z3h6WGNPYmhNRklLREdiOHZ6OERKVFNKSHRiSHg4ekVhYWpwdXliWUFyWVRCRGRPWGczMDBpX2x5ODl0d01QZUpzbEdfU2kzM244eG1oSVFEbnpqR0lJdFUtZEVUZ0N1OXBZOUlYMHRwWFctTFRWT3NQOVNwRG16SQ?oc=5\" target=\"_blank\">High tide from Tropical Storm Rachel floods Newport Beach streets; residents brace for more impacts</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ABC7 Los Angeles</font>",
+        "similarity_excluded": "No",
+        "score": 6,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQa0I0ZWMyS3JHNS1lNEdSdVVBR3pUYVZvS3oyaW9OdFpZS3Z5WGhUWlNHSFVvX2R6VFVieENzc3pVdEppelUtRUtNcWZtb0psNGlfOWVfUjNpTTRCSEJhb2UweVpmT2ptNllhbXp1R0pxNkc1b2RoQllrSmVkU2hFSHhEaHB3THU4SzdzRENyclJXZm0tcS15TUkydXhyMGdqbzEwdGNWRm16LWlUeDc2NWhNR0xLSWpJVlo0?oc=5",
+        "date": "2026-10-09",
+        "title": "Flooding in California as Tropical Storm Rachel heads for coast - NBC News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQa0I0ZWMyS3JHNS1lNEdSdVVBR3pUYVZvS3oyaW9OdFpZS3Z5WGhUWlNHSFVvX2R6VFVieENzc3pVdEppelUtRUtNcWZtb0psNGlfOWVfUjNpTTRCSEJhb2UweVpmT2ptNllhbXp1R0pxNkc1b2RoQllrSmVkU2hFSHhEaHB3THU4SzdzRENyclJXZm0tcS15TUkydXhyMGdqbzEwdGNWRm16LWlUeDc2NWhNR0xLSWpJVlo0?oc=5\" target=\"_blank\">Flooding in California as Tropical Storm Rachel heads for coast</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NBC News</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWk5KZzhuT0dpSE80S0VPWERUaG5GdHhnQUk0b0JPSGxqNnc3VzRZVE1MWHYxMjJFRDZ4TmlNZ3F4MzdkVmdrRlR0LWRwek9SaGlwVW96dzFSUGRTZWpXdzhEWkk5SWxfWDZobXItUERsYVBITUpya0VRTXlBZGpwQVNJR0lGN2JWZjdJcHFtZWNKY01keTFxT1pjN0dvVE9vUGZkeUhUQ0QzbnZIbi16RFZXMFQ5U1NCMkgyVDBaVkw?oc=5",
+        "date": "2026-10-09",
+        "title": "Large waves pummel Southern California coast, flooding homes - The Washington Post",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWk5KZzhuT0dpSE80S0VPWERUaG5GdHhnQUk0b0JPSGxqNnc3VzRZVE1MWHYxMjJFRDZ4TmlNZ3F4MzdkVmdrRlR0LWRwek9SaGlwVW96dzFSUGRTZWpXdzhEWkk5SWxfWDZobXItUERsYVBITUpya0VRTXlBZGpwQVNJR0lGN2JWZjdJcHFtZWNKY01keTFxT1pjN0dvVE9vUGZkeUhUQ0QzbnZIbi16RFZXMFQ5U1NCMkgyVDBaVkw?oc=5\" target=\"_blank\">Large waves pummel Southern California coast, flooding homes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Washington Post</font>",
+        "similarity_excluded": "No",
+        "score": 6,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQV0FUMmg1SW05R19JWXpwRHpuZkhQSEZvWHFzSFIyLU9sOGVlWkdwMUhJb2N4bUNsVlF0eVY0RDRPZTZ6cWVsckVKTkdvVUlNTzJneUxETkNJdjJUam1FcFhibVo3ZTlVOU9ldnZBQ0tCazQtWW9mZGtmU0FrbEM0aWpOY0Q2MmIwTlQ2Z3pfeDVsYmpSSUpCdzJ2aWJBOHB4ZTNYMFJrN0Vndw?oc=5",
+        "date": "2026-10-09",
+        "title": "Tropical Storm Rachel floods Southern California streets, damages homes - San Francisco Chronicle",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQV0FUMmg1SW05R19JWXpwRHpuZkhQSEZvWHFzSFIyLU9sOGVlWkdwMUhJb2N4bUNsVlF0eVY0RDRPZTZ6cWVsckVKTkdvVUlNTzJneUxETkNJdjJUam1FcFhibVo3ZTlVOU9ldnZBQ0tCazQtWW9mZGtmU0FrbEM0aWpOY0Q2MmIwTlQ2Z3pfeDVsYmpSSUpCdzJ2aWJBOHB4ZTNYMFJrN0Vndw?oc=5\" target=\"_blank\">Tropical Storm Rachel floods Southern California streets, damages homes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">San Francisco Chronicle</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNMFVvTmRFNVpqRWpJZmoyWTNJZi1UWFAzb2sxX0p2a19HMG93dHF1MHlFU0dwWHNmRlFfWDE5V0dyY0sxTFVIR0Q3b0dZdWhmZVhjbGc0U0RIN0Y4REI2ZlppU3VreEczRGxlQUltaDdoaUc1eG50bEVQNVJFeGF4bFJzZnlvd2FWOGgtZlpZX3VxR3NwUVRxT2NES0J1amVLaTVQd2loUzJ4MVRfbVVHakpoWTVna1RHWFZvMEtWMzdYY0ZhWUNFcEZRVWd0aDA?oc=5",
+        "date": "2026-10-09",
+        "title": "Tropical storm watch issued for San Diego County from Friday evening through Tuesday - Times of San Diego",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxNMFVvTmRFNVpqRWpJZmoyWTNJZi1UWFAzb2sxX0p2a19HMG93dHF1MHlFU0dwWHNmRlFfWDE5V0dyY0sxTFVIR0Q3b0dZdWhmZVhjbGc0U0RIN0Y4REI2ZlppU3VreEczRGxlQUltaDdoaUc1eG50bEVQNVJFeGF4bFJzZnlvd2FWOGgtZlpZX3VxR3NwUVRxT2NES0J1amVLaTVQd2loUzJ4MVRfbVVHakpoWTVna1RHWFZvMEtWMzdYY0ZhWUNFcEZRVWd0aDA?oc=5\" target=\"_blank\">Tropical storm watch issued for San Diego County from Friday evening through Tuesday</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Times of San Diego</font>",
+        "similarity_excluded": "No",
+        "score": 6,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMTYyR3pmLThyR1V5eFRIbXI4YzNOdEROWnprS01aME00NkZzaVZYUEx3c0J4SEZ1ai1TZFZmU0tMU2ZfZDl4RFA3UGlBSGs0SVQtOGV2REY1QzRPcEVPd2dEeUNjaVhoVkNxYWhKaUxwb2V5S21saTRjYTFDVVZ0Qk9jUmFXaUxJa0hVQjVBYlBFUdIBlwFBVV95cUxNUnZqblBrQ0V6M3U2Si1JZEpoS05uSXJldmlaU0hoQWl1Sm9uQ0pOSGh1c0xwY0s3MGdiYVNZb1hwNkt2Z1AyVEZEV1N3NHpBZ3hoUHpUR0FFYjhLYVoyX29SUDliUW9XZ1pSd3ZQWE5rUkJlcjh1UmZCdVBkNW5pTjBCbDZEZEV2Zk41R25sSDVUMjU5X0RJ?oc=5",
+        "date": "2026-10-09",
+        "title": "North Carolina activates emergency response ahead of storm - ABC11 News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQMTYyR3pmLThyR1V5eFRIbXI4YzNOdEROWnprS01aME00NkZzaVZYUEx3c0J4SEZ1ai1TZFZmU0tMU2ZfZDl4RFA3UGlBSGs0SVQtOGV2REY1QzRPcEVPd2dEeUNjaVhoVkNxYWhKaUxwb2V5S21saTRjYTFDVVZ0Qk9jUmFXaUxJa0hVQjVBYlBFUdIBlwFBVV95cUxNUnZqblBrQ0V6M3U2Si1JZEpoS05uSXJldmlaU0hoQWl1Sm9uQ0pOSGh1c0xwY0s3MGdiYVNZb1hwNkt2Z1AyVEZEV1N3NHpBZ3hoUHpUR0FFYjhLYVoyX29SUDliUW9XZ1pSd3ZQWE5rUkJlcjh1UmZCdVBkNW5pTjBCbDZEZEV2Zk41R25sSDVUMjU5X0RJ?oc=5\" target=\"_blank\">North Carolina activates emergency response ahead of storm</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ABC11 News</font>",
+        "similarity_excluded": "No",
+        "score": 5,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQYVdoMW9YZmxleFNsQnlwZ18wX25KemFKSmgwdTA2akNaYkhnaUo5YUJXclJRZzU0RlpqeFFNSUwwUWFBbWoycUc4UE9teTg5VjRhTmZCMHdGYURwTUMtZjR5MUVuRHRhUHc4NlJQN2NETUZZcWlqOG82ZnlSUEtqRnVnaGtKLTViMTlGbHBoVEdQS1NXY05uLWlZUGpYTkdsdVhwdldWeW1pdmR2aDhQam96ejc4U2FJ?oc=5",
+        "date": "2026-10-09",
+        "title": "Franklin County officials urge caution as Hurricane Isaias brings rain, flooding concerns - WCTV",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxQYVdoMW9YZmxleFNsQnlwZ18wX25KemFKSmgwdTA2akNaYkhnaUo5YUJXclJRZzU0RlpqeFFNSUwwUWFBbWoycUc4UE9teTg5VjRhTmZCMHdGYURwTUMtZjR5MUVuRHRhUHc4NlJQN2NETUZZcWlqOG82ZnlSUEtqRnVnaGtKLTViMTlGbHBoVEdQS1NXY05uLWlZUGpYTkdsdVhwdldWeW1pdmR2aDhQam96ejc4U2FJ?oc=5\" target=\"_blank\">Franklin County officials urge caution as Hurricane Isaias brings rain, flooding concerns</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WCTV</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPaDZBWExXM1F5el83cG9mdmdIMnN1c195V3pJMlVpb0U2em5LcHB4TGMwb2VMRjJtXzU1TzUzLTg4NTdxdTJOT2NMcmdkMkVOdm9EbllsSkVhTlBxeWoyS21QRFBDdzNOd28tVndabzFSN082WWpEV3VBeFFTVnl1am9INXlfOGdvSWdrM2dwNVRMMkpkWmppVnBZTXhsR2RUeTlySF9Yak5OckYxb1NZN2d5cVpkT0NBX0JPcFotbXRNZlVmUUJmUkc1WU4ySDZnV0Q4TlM3dmQzWHZoTzI1QQ?oc=5",
+        "date": "2026-10-09",
+        "title": "Hurricane Isaias brings Sarasota beach dangers, North Port flooding - Sarasota Herald-Tribune",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxPaDZBWExXM1F5el83cG9mdmdIMnN1c195V3pJMlVpb0U2em5LcHB4TGMwb2VMRjJtXzU1TzUzLTg4NTdxdTJOT2NMcmdkMkVOdm9EbllsSkVhTlBxeWoyS21QRFBDdzNOd28tVndabzFSN082WWpEV3VBeFFTVnl1am9INXlfOGdvSWdrM2dwNVRMMkpkWmppVnBZTXhsR2RUeTlySF9Yak5OckYxb1NZN2d5cVpkT0NBX0JPcFotbXRNZlVmUUJmUkc1WU4ySDZnV0Q4TlM3dmQzWHZoTzI1QQ?oc=5\" target=\"_blank\">Hurricane Isaias brings Sarasota beach dangers, North Port flooding</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sarasota Herald-Tribune</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTDl6WU9CbmlldG9oNk41NzNINmlIZHJRZXFaRW1MTl9MWS1IVDNNbU53c3Vza09aOHRKZEVMSlh2R2VjcV9xUWg4NElFS2NIT29TS3Y3eG5IY1hRb1ZFSE1vRHJBczNiWk8yLTV6emRITEtLX0otd3RpU2hwMS1fbElQYVh1YjhDMmw5UnA2ZktDbWU4U1RxNHVqamVsUV9WZ2IxUlZiQ0tGbXFWbXFOa1Zn?oc=5",
+        "date": "2026-10-09",
+        "title": "Atlanta residents concerned about possible flooding from Hurricane Isaias - CBS News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOTDl6WU9CbmlldG9oNk41NzNINmlIZHJRZXFaRW1MTl9MWS1IVDNNbU53c3Vza09aOHRKZEVMSlh2R2VjcV9xUWg4NElFS2NIT29TS3Y3eG5IY1hRb1ZFSE1vRHJBczNiWk8yLTV6emRITEtLX0otd3RpU2hwMS1fbElQYVh1YjhDMmw5UnA2ZktDbWU4U1RxNHVqamVsUV9WZ2IxUlZiQ0tGbXFWbXFOa1Zn?oc=5\" target=\"_blank\">Atlanta residents concerned about possible flooding from Hurricane Isaias</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CBS News</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQeWFCM2h6MU5ZSm16aURWTmd4bWUzNnZEbkI2ZTVIaFV1dTBScjZmSG9FUGxpaXgyTDhGVzRtVUFzN203QmJpdUNKTVNWOGdYallfYTdLenpPUzl2SmV0WHhlVGlmdFBzc1k5VzNJQVE1ZFY5Q0NfZjJjNktOSUMzWUJTTVVFODVuZE5LSkdSVGs2OFpkS0IzUQ?oc=5",
+        "date": "2026-10-09",
+        "title": "Where to get sandbags ahead of Utah storms, possible flooding - FOX 13 News Utah",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQeWFCM2h6MU5ZSm16aURWTmd4bWUzNnZEbkI2ZTVIaFV1dTBScjZmSG9FUGxpaXgyTDhGVzRtVUFzN203QmJpdUNKTVNWOGdYallfYTdLenpPUzl2SmV0WHhlVGlmdFBzc1k5VzNJQVE1ZFY5Q0NfZjJjNktOSUMzWUJTTVVFODVuZE5LSkdSVGs2OFpkS0IzUQ?oc=5\" target=\"_blank\">Where to get sandbags ahead of Utah storms, possible flooding</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FOX 13 News Utah</font>",
+        "similarity_excluded": "No",
+        "score": 6,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNbVRRN2JLWEIxSVg2aHVZZGZ6WlB1UEF4cU9UNjd1dllDZGtJRVdOWjhIbHEyY3owei1yRjdqZmhvVmxoaURWdGhvMFNCRjlFbFFleDRnZE5tU1ZaY1FlSmlBRDhzOXp1TG5IaEZ2SThpT1Rwd0RXYl9zM2Zva0FYVjUwR0U1MFo2QWRtUFYtbHdYd2ZIZlhmaGFWY2l2dDJudkRweGJTbWZSdjZpYlYzbFAxY3ZWWFRjWEM1LVJRSlRQZ1ozVzc2VUVobTZvVHpoN195MGYySQ?oc=5",
+        "date": "2026-10-09",
+        "title": "Utah cities brace for excessive rainfall by sandbagging ahead of tropical storm remnants - KJZZ",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxNbVRRN2JLWEIxSVg2aHVZZGZ6WlB1UEF4cU9UNjd1dllDZGtJRVdOWjhIbHEyY3owei1yRjdqZmhvVmxoaURWdGhvMFNCRjlFbFFleDRnZE5tU1ZaY1FlSmlBRDhzOXp1TG5IaEZ2SThpT1Rwd0RXYl9zM2Zva0FYVjUwR0U1MFo2QWRtUFYtbHdYd2ZIZlhmaGFWY2l2dDJudkRweGJTbWZSdjZpYlYzbFAxY3ZWWFRjWEM1LVJRSlRQZ1ozVzc2VUVobTZvVHpoN195MGYySQ?oc=5\" target=\"_blank\">Utah cities brace for excessive rainfall by sandbagging ahead of tropical storm remnants</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KJZZ</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQd2dralF2SjU0Z0s4OHo4cWYwaGMxRjFCU1NGeS1NM3JpSlp5YjNIbVpLcG9DODg0eFk3YjJiZ2FwaTZJeDhnNTEzeW1nY0FDb1BDa0ZqRFRiandKc0dkaGR4VUFWUm9pSnI2anV6VlE2enVvZnRpYjlRR1BGbnU1eVV6eHNHYXpBaFM4NTA3WEN2VVdYdEd3WkdrUlUyaE9IUmhzakJkNWRWUXdL?oc=5",
+        "date": "2026-10-09",
+        "title": "LIVE RADAR: Tornado Watch as Category 3 Hurricane Isaias heads toward the Panhandle - News4JAX",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQd2dralF2SjU0Z0s4OHo4cWYwaGMxRjFCU1NGeS1NM3JpSlp5YjNIbVpLcG9DODg0eFk3YjJiZ2FwaTZJeDhnNTEzeW1nY0FDb1BDa0ZqRFRiandKc0dkaGR4VUFWUm9pSnI2anV6VlE2enVvZnRpYjlRR1BGbnU1eVV6eHNHYXpBaFM4NTA3WEN2VVdYdEd3WkdrUlUyaE9IUmhzakJkNWRWUXdL?oc=5\" target=\"_blank\">LIVE RADAR: Tornado Watch as Category 3 Hurricane Isaias heads toward the Panhandle</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">News4JAX</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQbUNETnZRVy10RVdBS0NQWVIyT3ctLUlXTnFQSy1VeTE1UHNTNUItZ3JuamtwMHgxUjZ6SzdkVE9JUmZtaUxGVFRNV3NNZnZYNmUzWDhCTlhEeHh3STNZT1BGZVg2UTNBOEZITktkY0tDQ2pRZGI4eGc3NUVQTTNxNUZn?oc=5",
+        "date": "2026-10-09",
+        "title": "Flooding hits California coast from high tides ahead of Tropical Storm Rachel - Yahoo News Canada",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxQbUNETnZRVy10RVdBS0NQWVIyT3ctLUlXTnFQSy1VeTE1UHNTNUItZ3JuamtwMHgxUjZ6SzdkVE9JUmZtaUxGVFRNV3NNZnZYNmUzWDhCTlhEeHh3STNZT1BGZVg2UTNBOEZITktkY0tDQ2pRZGI4eGc3NUVQTTNxNUZn?oc=5\" target=\"_blank\">Flooding hits California coast from high tides ahead of Tropical Storm Rachel</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo News Canada</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxPMFQzbTZQRGhvby0wTG8ybzFMdHg1aGJIaXBSbERjRUhuMHlLbnRqeHpfX25hQ1lJWV92d2ItX2tHX1BDY251ci1iNFFzNTl3M01vdmlVNmdsdFA3aHhZUk16ODhCbE1OVXNyNVppM3hicHJzRkQ2RXNlVUNuanZ4WVZCREs3SlM0LW9abzRfY2ZvcDljY3RocjcyaGtZZE1ORXhDUEYtMlJIOWtwVl84UTJ5M3I3dDhVbzFFZUt5MWtYSFU1cTlFaDVzaGFrS3VDQ29yQ2RpWl82bG9VbXI3ZTE1TU1ZWUZsT29HclNfM3RxZFVWR1R3Z3dISEVTajdxQTBHN2hTblVGLVdMQ1RFN0Z6YXZ0dndIdWM0MG5PSjVDb09JSFJkdHkwRmZ5QnYtNnRZTDhkUENEV0FkclUxbXJFazFUbVk?oc=5",
+        "date": "2026-10-09",
+        "title": "Where is hurricane Isaias now? Check landfall time, place as thousands evacuated following warning of life-threatening storm surges, tornadoes, flooding - The Economic Times",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwJBVV95cUxPMFQzbTZQRGhvby0wTG8ybzFMdHg1aGJIaXBSbERjRUhuMHlLbnRqeHpfX25hQ1lJWV92d2ItX2tHX1BDY251ci1iNFFzNTl3M01vdmlVNmdsdFA3aHhZUk16ODhCbE1OVXNyNVppM3hicHJzRkQ2RXNlVUNuanZ4WVZCREs3SlM0LW9abzRfY2ZvcDljY3RocjcyaGtZZE1ORXhDUEYtMlJIOWtwVl84UTJ5M3I3dDhVbzFFZUt5MWtYSFU1cTlFaDVzaGFrS3VDQ29yQ2RpWl82bG9VbXI3ZTE1TU1ZWUZsT29HclNfM3RxZFVWR1R3Z3dISEVTajdxQTBHN2hTblVGLVdMQ1RFN0Z6YXZ0dndIdWM0MG5PSjVDb09JSFJkdHkwRmZ5QnYtNnRZTDhkUENEV0FkclUxbXJFazFUbVk?oc=5\" target=\"_blank\">Where is hurricane Isaias now? Check landfall time, place as thousands evacuated following warning of life-threatening storm surges, tornadoes, flooding</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Economic Times</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": null,
+        "tweet_id": "2108703897111929013",
+        "geo": {
+            "country": "United States",
+            "name": "North Carolina",
+            "latitude": 34.0,
+            "longitude": -78.0,
+            "confidence": 0.7
+        }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxPMFQzbTZQRGhvby0wTG8ybzFMdHg1aGJIaXBSbERjRUhuMHlLbnRqeHpfX25hQ1lJWV92d2ItX2tHX1BDY251ci1iNFFzNTl3M01vdmlVNmdsdFA3aHhZUk16ODhCbE1OVXNyNVppM3hicHJzRkQ2RXNlVUNuanZ4WVZCREs3SlM0LW9abzRfY2ZvcDljY3RocjcyaGtZZE1ORXhDUEYtMlJIOWtwVl84UTJ5M3I3dDhVbzFFZUt5MWtYSFU1cTlFaDVzaGFrS3VDQ29yQ2RpWl82bG9VbXI3ZTE1TU1ZWUZsT29HclNfM3RxZFVWR1R3Z3dISEVTajdxQTBHN2hTblVGLVdMQ1RFN0Z6YXZ0dndIdWM0MG5PSjVDb09JSFJkdHkwRmZ5QnYtNnRZTDhkUENEV0FkclUxbXJFazFUbVk?oc=5",
+        "date": "2026-10-09",
+        "title": "Where is hurricane Isaias now? Check landfall time, place as thousands evacuated following warning of life-threatening storm surges, tornadoes, flooding - The Economic Times",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwJBVV95cUxPMFQzbTZQRGhvby0wTG8ybzFMdHg1aGJIaXBSbERjRUhuMHlLbnRqeHpfX25hQ1lJWV92d2ItX2tHX1BDY251ci1iNFFzNTl3M01vdmlVNmdsdFA3aHhZUk16ODhCbE1OVXNyNVppM3hicHJzRkQ2RXNlVUNuanZ4WVZCREs3SlM0LW9abzRfY2ZvcDljY3RocjcyaGtZZE1ORXhDUEYtMlJIOWtwVl84UTJ5M3I3dDhVbzFFZUt5MWtYSFU1cTlFaDVzaGFrS3VDQ29yQ2RpWl82bG9VbXI3ZTE1TU1ZWUZsT29HclNfM3RxZFVWR1R3Z3dISEVTajdxQTBHN2hTblVGLVdMQ1RFN0Z6YXZ0dndIdWM0MG5PSjVDb09JSFJkdHkwRmZ5QnYtNnRZTDhkUENEV0FkclUxbXJFazFUbVk?oc=5\" target=\"_blank\">Where is hurricane Isaias now? Check landfall time, place as thousands evacuated following warning of life-threatening storm surges, tornadoes, flooding</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Economic Times</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 FORECAST US East Coast: Hurricane Isaias threatens life-threatening storm surges, tornadoes and flooding, thousands evacuated.",
+        "type": "news",
+        "tweet_id": "2108703897111929013",
+        "geo": {
+            "country": "United States",
+            "name": "North Carolina",
+            "latitude": 34.0,
+            "longitude": -78.0,
+            "confidence": 0.7
+        }
     }
 ]
