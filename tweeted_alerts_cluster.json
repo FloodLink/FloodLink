@@ -13889,22 +13889,6 @@
     "tweet_id": "2051123451541250491",
     "resolved": false
   },
-  "44.1249,4.0808": {
-    "country": "France",
-    "name": "Alès",
-    "risk_level": "Low",
-    "tweeted_level": "Low",
-    "latitude": 44.12489,
-    "longitude": 4.08082,
-    "rain_mm": 1.0,
-    "soil_moisture": 0.572,
-    "raw_dynamic_score": 0.153,
-    "last_updated": "2026-10-08T00:50:14.762316Z",
-    "last_tweeted_at": "2026-10-08T00:50:14.762316Z",
-    "tweet_id": "2107997503933043122",
-    "resolved": true,
-    "resolved_at": "2026-10-08T00:50:14.762316Z"
-  },
   "32.6448,-16.9384": {
     "country": "Portugal",
     "name": "São Martinho",
@@ -31945,7 +31929,7 @@
     "rain_mm": 67.06,
     "soil_moisture": 0.344,
     "raw_dynamic_score": 8.852,
-    "last_updated": "2026-10-08T18:26:45.349906Z",
+    "last_updated": "2026-10-09T01:10:26.839719Z",
     "last_tweeted_at": "2026-08-19T19:38:58.451409Z",
     "tweet_id": "2090162173318144432",
     "resolved": false
@@ -35860,7 +35844,7 @@
     "rain_mm": 40.31,
     "soil_moisture": 0.735,
     "raw_dynamic_score": 6.746,
-    "last_updated": "2026-10-08T18:26:45.349906Z",
+    "last_updated": "2026-10-09T01:10:26.839719Z",
     "last_tweeted_at": "2026-09-13T18:02:29.608294Z",
     "tweet_id": "2099197079117512765",
     "resolved": false
@@ -37195,7 +37179,7 @@
     "rain_mm": 41.69,
     "soil_moisture": 0.713,
     "raw_dynamic_score": 6.892,
-    "last_updated": "2026-10-08T18:26:45.349906Z",
+    "last_updated": "2026-10-09T01:10:26.839719Z",
     "last_tweeted_at": "2026-09-19T12:58:38.412051Z",
     "tweet_id": "2101295187607564694",
     "resolved": false
@@ -41848,9 +41832,39 @@
     "rain_mm": 61.25,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 11.714,
-    "last_updated": "2026-10-08T18:26:45.349906Z",
+    "last_updated": "2026-10-09T01:10:26.839719Z",
     "last_tweeted_at": "2026-10-08T18:26:45.349906Z",
     "tweet_id": "2108262887923888622",
+    "resolved": false
+  },
+  "41.1856,19.5569": {
+    "country": "Albania",
+    "name": "Kavajë",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 41.18556,
+    "longitude": 19.55694,
+    "rain_mm": 38.38,
+    "soil_moisture": 1.0,
+    "raw_dynamic_score": 7.339,
+    "last_updated": "2026-10-09T01:10:26.839719Z",
+    "last_tweeted_at": "2026-10-09T01:10:26.839719Z",
+    "tweet_id": "2108364478752719028",
+    "resolved": false
+  },
+  "41.3235,19.4547": {
+    "country": "Albania",
+    "name": "Durrës",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 41.32355,
+    "longitude": 19.45469,
+    "rain_mm": 38.38,
+    "soil_moisture": 1.0,
+    "raw_dynamic_score": 7.339,
+    "last_updated": "2026-10-09T01:10:26.839719Z",
+    "last_tweeted_at": "2026-10-09T01:10:26.839719Z",
+    "tweet_id": "2108364731266613267",
     "resolved": false
   }
 }
