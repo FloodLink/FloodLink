@@ -7269,7 +7269,7 @@
     "rain_mm": 38.56,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 7.375,
-    "last_updated": "2026-10-10T16:51:35.999541Z",
+    "last_updated": "2026-10-10T21:09:24.946100Z",
     "last_tweeted_at": "2026-03-09T21:31:39.166288Z",
     "tweet_id": "2031121055243292873",
     "resolved": false
@@ -14889,7 +14889,7 @@
     "rain_mm": 50.31,
     "soil_moisture": 0.639,
     "raw_dynamic_score": 7.984,
-    "last_updated": "2026-10-10T16:51:35.999541Z",
+    "last_updated": "2026-10-10T21:09:24.946100Z",
     "last_tweeted_at": "2026-05-12T14:11:44.724458Z",
     "tweet_id": "2054203417783074906",
     "resolved": false
@@ -16374,7 +16374,7 @@
     "rain_mm": 42.12,
     "soil_moisture": 0.688,
     "raw_dynamic_score": 6.87,
-    "last_updated": "2026-10-10T16:51:35.999541Z",
+    "last_updated": "2026-10-10T21:09:24.946100Z",
     "last_tweeted_at": "2026-05-21T19:56:53.634895Z",
     "tweet_id": "2057551271641673765",
     "resolved": false
@@ -41235,7 +41235,7 @@
     "rain_mm": 46.06,
     "soil_moisture": 0.621,
     "raw_dynamic_score": 7.234,
-    "last_updated": "2026-10-10T16:51:35.999541Z",
+    "last_updated": "2026-10-10T21:09:24.946100Z",
     "last_tweeted_at": "2026-10-04T03:47:07.384462Z",
     "tweet_id": "2106591962744676861",
     "resolved": false
@@ -42064,7 +42064,7 @@
     "rain_mm": 44.69,
     "soil_moisture": 0.597,
     "raw_dynamic_score": 6.92,
-    "last_updated": "2026-10-10T16:51:35.999541Z",
+    "last_updated": "2026-10-10T21:09:24.946100Z",
     "last_tweeted_at": "2026-10-10T16:51:35.999541Z",
     "tweet_id": "2108963691047825889",
     "resolved": false
@@ -42079,7 +42079,7 @@
     "rain_mm": 40.94,
     "soil_moisture": 0.699,
     "raw_dynamic_score": 6.718,
-    "last_updated": "2026-10-10T16:51:35.999541Z",
+    "last_updated": "2026-10-10T21:09:24.946100Z",
     "last_tweeted_at": "2026-10-10T16:51:35.999541Z",
     "tweet_id": "2108963943540797563",
     "resolved": false
@@ -42094,7 +42094,7 @@
     "rain_mm": 40.94,
     "soil_moisture": 0.699,
     "raw_dynamic_score": 6.718,
-    "last_updated": "2026-10-10T16:51:35.999541Z",
+    "last_updated": "2026-10-10T21:09:24.946100Z",
     "last_tweeted_at": "2026-10-10T16:51:35.999541Z",
     "tweet_id": "2108964195979116744",
     "resolved": false
@@ -42124,7 +42124,7 @@
     "rain_mm": 40.94,
     "soil_moisture": 0.699,
     "raw_dynamic_score": 6.718,
-    "last_updated": "2026-10-10T16:51:35.999541Z",
+    "last_updated": "2026-10-10T21:09:24.946100Z",
     "last_tweeted_at": "2026-10-10T16:51:35.999541Z",
     "tweet_id": "2108964448513978502",
     "resolved": false
@@ -42139,7 +42139,7 @@
     "rain_mm": 46.25,
     "soil_moisture": 0.501,
     "raw_dynamic_score": 6.76,
-    "last_updated": "2026-10-10T16:51:35.999541Z",
+    "last_updated": "2026-10-10T21:09:24.946100Z",
     "last_tweeted_at": "2026-10-10T16:51:35.999541Z",
     "tweet_id": "2108964700986003853",
     "resolved": false
@@ -42154,9 +42154,54 @@
     "rain_mm": 37.12,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 7.1,
-    "last_updated": "2026-10-10T16:51:35.999541Z",
+    "last_updated": "2026-10-10T21:09:24.946100Z",
     "last_tweeted_at": "2026-10-10T16:51:35.999541Z",
     "tweet_id": "2108964953634095391",
+    "resolved": false
+  },
+  "18.9161,-103.8771": {
+    "country": "Mexico",
+    "name": "Tecomán",
+    "risk_level": "Medium",
+    "tweeted_level": "High",
+    "latitude": 18.91614,
+    "longitude": -103.87713,
+    "rain_mm": 67.56,
+    "soil_moisture": 0.639,
+    "raw_dynamic_score": 10.72,
+    "last_updated": "2026-10-10T21:09:24.946100Z",
+    "last_tweeted_at": "2026-10-10T21:09:24.946100Z",
+    "tweet_id": "2109028594873733393",
+    "resolved": false
+  },
+  "19.1169,-104.3421": {
+    "country": "Mexico",
+    "name": "Manzanillo",
+    "risk_level": "High",
+    "tweeted_level": "High",
+    "latitude": 19.11695,
+    "longitude": -104.34214,
+    "rain_mm": 98.0,
+    "soil_moisture": 1.0,
+    "raw_dynamic_score": 18.743,
+    "last_updated": "2026-10-10T21:09:24.946100Z",
+    "last_tweeted_at": "2026-10-10T21:09:24.946100Z",
+    "tweet_id": "2109028594873733393",
+    "resolved": false
+  },
+  "18.9378,-103.9642": {
+    "country": "Mexico",
+    "name": "Ciudad de Armería",
+    "risk_level": "Medium",
+    "tweeted_level": "High",
+    "latitude": 18.9378,
+    "longitude": -103.96417,
+    "rain_mm": 67.56,
+    "soil_moisture": 0.639,
+    "raw_dynamic_score": 10.72,
+    "last_updated": "2026-10-10T21:09:24.946100Z",
+    "last_tweeted_at": "2026-10-10T21:09:24.946100Z",
+    "tweet_id": "2109028594873733393",
     "resolved": false
   }
 }
