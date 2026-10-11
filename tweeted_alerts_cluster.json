@@ -5409,7 +5409,7 @@
     "rain_mm": 34.69,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 6.634,
-    "last_updated": "2026-02-16T12:48:03.243624Z",
+    "last_updated": "2026-10-11T09:45:13.866511Z",
     "last_tweeted_at": "2026-02-16T09:48:37.070770Z",
     "tweet_id": "2023334473186582864",
     "resolved": false
@@ -35215,7 +35215,7 @@
     "rain_mm": 40.94,
     "soil_moisture": 0.719,
     "raw_dynamic_score": 6.789,
-    "last_updated": "2026-09-09T13:28:30.128632Z",
+    "last_updated": "2026-10-11T09:45:13.866511Z",
     "last_tweeted_at": "2026-09-09T07:54:50.668343Z",
     "tweet_id": "2097595619552416151",
     "resolved": false
@@ -42094,7 +42094,7 @@
     "rain_mm": 98.0,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 18.743,
-    "last_updated": "2026-10-11T00:16:36.708239Z",
+    "last_updated": "2026-10-11T09:45:13.866511Z",
     "last_tweeted_at": "2026-10-10T21:09:24.946100Z",
     "tweet_id": "2109028594873733393",
     "resolved": false
@@ -42124,7 +42124,7 @@
     "rain_mm": 46.88,
     "soil_moisture": 0.557,
     "raw_dynamic_score": 7.089,
-    "last_updated": "2026-10-11T00:16:36.708239Z",
+    "last_updated": "2026-10-11T09:45:13.866511Z",
     "last_tweeted_at": "2026-10-11T00:16:36.708239Z",
     "tweet_id": "2109075701454516723",
     "resolved": false
@@ -42169,9 +42169,54 @@
     "rain_mm": 47.88,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 9.156,
-    "last_updated": "2026-10-11T00:16:36.708239Z",
+    "last_updated": "2026-10-11T09:45:13.866511Z",
     "last_tweeted_at": "2026-10-11T00:16:36.708239Z",
     "tweet_id": "2109075954211631288",
+    "resolved": false
+  },
+  "19.2366,-104.5651": {
+    "country": "Mexico",
+    "name": "Cihuatlán",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 19.2366,
+    "longitude": -104.56512,
+    "rain_mm": 73.81,
+    "soil_moisture": 0.652,
+    "raw_dynamic_score": 11.798,
+    "last_updated": "2026-10-11T09:45:13.866511Z",
+    "last_tweeted_at": "2026-10-11T09:45:13.866511Z",
+    "tweet_id": "2109218781641801881",
+    "resolved": false
+  },
+  "5.7167,116.4000": {
+    "country": "Malaysia",
+    "name": "Tambunan",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 5.71667,
+    "longitude": 116.4,
+    "rain_mm": 41.75,
+    "soil_moisture": 0.705,
+    "raw_dynamic_score": 6.873,
+    "last_updated": "2026-10-11T09:45:13.866511Z",
+    "last_tweeted_at": "2026-10-11T09:45:13.866511Z",
+    "tweet_id": "2109219034570903954",
+    "resolved": false
+  },
+  "38.4732,-77.9967": {
+    "country": "United States",
+    "name": "Culpeper",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 38.47318,
+    "longitude": -77.99666,
+    "rain_mm": 43.31,
+    "soil_moisture": 0.545,
+    "raw_dynamic_score": 6.504,
+    "last_updated": "2026-10-11T09:45:13.866511Z",
+    "last_tweeted_at": "2026-10-11T09:45:13.866511Z",
+    "tweet_id": "2109219287172825344",
     "resolved": false
   }
 }
