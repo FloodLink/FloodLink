@@ -5409,7 +5409,7 @@
     "rain_mm": 34.69,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 6.634,
-    "last_updated": "2026-10-11T09:45:13.866511Z",
+    "last_updated": "2026-10-11T17:19:35.553652Z",
     "last_tweeted_at": "2026-02-16T09:48:37.070770Z",
     "tweet_id": "2023334473186582864",
     "resolved": false
@@ -35215,7 +35215,7 @@
     "rain_mm": 40.94,
     "soil_moisture": 0.719,
     "raw_dynamic_score": 6.789,
-    "last_updated": "2026-10-11T09:45:13.866511Z",
+    "last_updated": "2026-10-11T17:19:35.553652Z",
     "last_tweeted_at": "2026-09-09T07:54:50.668343Z",
     "tweet_id": "2097595619552416151",
     "resolved": false
@@ -42094,10 +42094,18 @@
     "rain_mm": 98.0,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 18.743,
-    "last_updated": "2026-10-11T09:45:13.866511Z",
+    "last_updated": "2026-10-11T17:19:35.553652Z",
     "last_tweeted_at": "2026-10-10T21:09:24.946100Z",
     "tweet_id": "2109028594873733393",
-    "resolved": false
+    "resolved": false,
+    "pending_downgrade": true,
+    "pending_target_level": "Low",
+    "pending_set_at": "2026-10-11T17:19:35.553652Z",
+    "pending_is_region": false,
+    "pending_observed_level": "Low",
+    "pending_observed_rain_mm": 10.88,
+    "pending_observed_soil_moisture": 1.0,
+    "pending_observed_raw_dynamic_score": 2.08
   },
   "18.9378,-103.9642": {
     "country": "Mexico",
@@ -42199,7 +42207,7 @@
     "rain_mm": 41.75,
     "soil_moisture": 0.705,
     "raw_dynamic_score": 6.873,
-    "last_updated": "2026-10-11T09:45:13.866511Z",
+    "last_updated": "2026-10-11T17:19:35.553652Z",
     "last_tweeted_at": "2026-10-11T09:45:13.866511Z",
     "tweet_id": "2109219034570903954",
     "resolved": false
@@ -42214,7 +42222,7 @@
     "rain_mm": 43.31,
     "soil_moisture": 0.545,
     "raw_dynamic_score": 6.504,
-    "last_updated": "2026-10-11T09:45:13.866511Z",
+    "last_updated": "2026-10-11T17:19:35.553652Z",
     "last_tweeted_at": "2026-10-11T09:45:13.866511Z",
     "tweet_id": "2109219287172825344",
     "resolved": false
