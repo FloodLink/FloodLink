@@ -9024,7 +9024,7 @@
     "rain_mm": 46.75,
     "soil_moisture": 0.655,
     "raw_dynamic_score": 7.484,
-    "last_updated": "2026-10-12T03:39:14.607196Z",
+    "last_updated": "2026-10-12T14:12:52.551391Z",
     "last_tweeted_at": "2026-03-24T09:54:44.881877Z",
     "tweet_id": "2036381223421976994",
     "resolved": false
@@ -12249,7 +12249,7 @@
     "rain_mm": 32.75,
     "soil_moisture": 0.656,
     "raw_dynamic_score": 5.247,
-    "last_updated": "2026-10-12T03:39:14.607196Z",
+    "last_updated": "2026-10-12T14:12:52.551391Z",
     "last_tweeted_at": "2026-10-12T03:39:14.607196Z",
     "tweet_id": "2109489060519845902",
     "resolved": true,
@@ -18910,7 +18910,7 @@
     "rain_mm": 56.38,
     "soil_moisture": 0.731,
     "raw_dynamic_score": 9.41,
-    "last_updated": "2026-10-12T03:39:14.607196Z",
+    "last_updated": "2026-10-12T14:12:52.551391Z",
     "last_tweeted_at": "2026-10-12T03:39:14.607196Z",
     "tweet_id": "2109489060519845902",
     "resolved": false
@@ -23320,7 +23320,7 @@
     "rain_mm": 41.31,
     "soil_moisture": 0.659,
     "raw_dynamic_score": 6.629,
-    "last_updated": "2026-10-12T03:39:14.607196Z",
+    "last_updated": "2026-10-12T14:12:52.551391Z",
     "last_tweeted_at": "2026-07-03T11:38:42.890274Z",
     "tweet_id": "2073009069762203801",
     "resolved": false
@@ -34615,10 +34615,14 @@
     "rain_mm": 70.25,
     "soil_moisture": 0.716,
     "raw_dynamic_score": 11.634,
-    "last_updated": "2026-10-12T03:39:14.607196Z",
+    "last_updated": "2026-10-12T14:12:52.551391Z",
     "last_tweeted_at": "2026-10-12T03:39:14.607196Z",
     "tweet_id": "2109489060519845902",
-    "resolved": false
+    "resolved": false,
+    "pending_downgrade": true,
+    "pending_target_level": "Low",
+    "pending_set_at": "2026-10-12T14:12:52.551391Z",
+    "pending_is_region": true
   },
   "-1.3655,-79.9051": {
     "country": "Ecuador",
@@ -35440,7 +35444,7 @@
     "rain_mm": 49.06,
     "soil_moisture": 0.724,
     "raw_dynamic_score": 8.16,
-    "last_updated": "2026-10-12T03:39:14.607196Z",
+    "last_updated": "2026-10-12T14:12:52.551391Z",
     "last_tweeted_at": "2026-09-10T07:53:53.835591Z",
     "tweet_id": "2097957046465475013",
     "resolved": false
@@ -37060,7 +37064,7 @@
     "rain_mm": 46.69,
     "soil_moisture": 0.713,
     "raw_dynamic_score": 7.718,
-    "last_updated": "2026-10-09T17:59:42.342560Z",
+    "last_updated": "2026-10-12T14:12:52.551391Z",
     "last_tweeted_at": "2026-09-19T12:58:38.412051Z",
     "tweet_id": "2101294934661743082",
     "resolved": false
@@ -39715,7 +39719,7 @@
     "rain_mm": 49.62,
     "soil_moisture": 0.681,
     "raw_dynamic_score": 8.06,
-    "last_updated": "2026-10-12T03:39:14.607196Z",
+    "last_updated": "2026-10-12T14:12:52.551391Z",
     "last_tweeted_at": "2026-10-12T03:39:14.607196Z",
     "tweet_id": "2109489060519845902",
     "resolved": false
@@ -40885,7 +40889,7 @@
     "rain_mm": 43.62,
     "soil_moisture": 0.677,
     "raw_dynamic_score": 7.069,
-    "last_updated": "2026-10-12T03:39:14.607196Z",
+    "last_updated": "2026-10-12T14:12:52.551391Z",
     "last_tweeted_at": "2026-10-02T09:23:22.454711Z",
     "tweet_id": "2105952051519721719",
     "resolved": false
@@ -42148,7 +42152,7 @@
     "rain_mm": 77.38,
     "soil_moisture": 0.746,
     "raw_dynamic_score": 13.024,
-    "last_updated": "2026-10-12T03:39:14.607196Z",
+    "last_updated": "2026-10-12T14:12:52.551391Z",
     "last_tweeted_at": "2026-10-12T03:39:14.607196Z",
     "tweet_id": "2109489060519845902",
     "resolved": false
@@ -42163,9 +42167,39 @@
     "rain_mm": 56.75,
     "soil_moisture": 0.697,
     "raw_dynamic_score": 9.302,
-    "last_updated": "2026-10-12T03:39:14.607196Z",
+    "last_updated": "2026-10-12T14:12:52.551391Z",
     "last_tweeted_at": "2026-10-12T03:39:14.607196Z",
     "tweet_id": "2109489060519845902",
+    "resolved": false
+  },
+  "-27.6346,-52.2754": {
+    "country": "Brazil",
+    "name": "Erechim",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": -27.63461,
+    "longitude": -52.2754,
+    "rain_mm": 39.44,
+    "soil_moisture": 0.722,
+    "raw_dynamic_score": 6.552,
+    "last_updated": "2026-10-12T14:12:52.551391Z",
+    "last_tweeted_at": "2026-10-12T14:12:52.551391Z",
+    "tweet_id": "2109648547066921441",
+    "resolved": false
+  },
+  "4.8844,101.9686": {
+    "country": "Malaysia",
+    "name": "Gua Musang",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 4.88441,
+    "longitude": 101.96857,
+    "rain_mm": 69.94,
+    "soil_moisture": 0.634,
+    "raw_dynamic_score": 11.063,
+    "last_updated": "2026-10-12T14:12:52.551391Z",
+    "last_tweeted_at": "2026-10-12T14:12:52.551391Z",
+    "tweet_id": "2109648799970763131",
     "resolved": false
   }
 }
