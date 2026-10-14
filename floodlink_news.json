@@ -16188,5 +16188,55 @@
         "score": 2,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNTXdyUU1rTGlTa0I2UDZ3VGRaMVpObGpEUkx3QzZGdXdOMlNjVERaWlBFRjhVQUFubW1xVU1UVlJBdmlheHF5VnZ2RFFYcElweEIySEIxSmNLbS1rbGozS0xwWl8xR2RrbjVTQ2tHOUJkS2FjNXhfbjJJdHQzOVcwQjFVdnB5Y1BFaXRvMVNXRWpYc1p1?oc=5",
+        "date": "2026-10-14",
+        "title": "Kansas City severe weather threat fades, but heavy rain and flooding concerns remain - KMBC",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNTXdyUU1rTGlTa0I2UDZ3VGRaMVpObGpEUkx3QzZGdXdOMlNjVERaWlBFRjhVQUFubW1xVU1UVlJBdmlheHF5VnZ2RFFYcElweEIySEIxSmNLbS1rbGozS0xwWl8xR2RrbjVTQ2tHOUJkS2FjNXhfbjJJdHQzOVcwQjFVdnB5Y1BFaXRvMVNXRWpYc1p1?oc=5\" target=\"_blank\">Kansas City severe weather threat fades, but heavy rain and flooding concerns remain</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KMBC</font>",
+        "similarity_excluded": "No",
+        "score": 6,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVXFkZVg5c3AxZENkUkdtMWF3TGJIYndnOGZDQURVMTlvV1RrNXQ3TnJSTmZzcnkwT2tBMk1DREQ4d0kxZnRJcnpPUElGS0xlUHg5MVFUWnEtSFVGMkJnaFB5dzM3MWljOXhNckVzWmJEYzdzeVppcVJvcERvSmZTOEozbWY5SGhrQzlOV0lBazZmaloxV1NYTWhmY2pIbDV6Y1BjVExzby1qVnNjRTV3WWtn?oc=5",
+        "date": "2026-10-14",
+        "title": "Flood prevention efforts help protect Pine Valley homes while recreation area floods - KUTV",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQVXFkZVg5c3AxZENkUkdtMWF3TGJIYndnOGZDQURVMTlvV1RrNXQ3TnJSTmZzcnkwT2tBMk1DREQ4d0kxZnRJcnpPUElGS0xlUHg5MVFUWnEtSFVGMkJnaFB5dzM3MWljOXhNckVzWmJEYzdzeVppcVJvcERvSmZTOEozbWY5SGhrQzlOV0lBazZmaloxV1NYTWhmY2pIbDV6Y1BjVExzby1qVnNjRTV3WWtn?oc=5\" target=\"_blank\">Flood prevention efforts help protect Pine Valley homes while recreation area floods</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KUTV</font>",
+        "similarity_excluded": "No",
+        "score": 6,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNQnZnWlU0Q3k0ZHpfOTFnczFrVHBlYjJ1WWcyZHd2VmZzOENrbEpndktvM0NLalFMeDJnaXd6SGN6OVR6OXFPRllnRnBNSlhGb1F3S1B0eFdBWTRidzB3X01zbTRjVDhrd3RUY0o0UkFDSmFfeTFBX1o2SC13NmlaTlhMXzNaQ1pkRl81Tk1sWUktRzV4VjdrTTFhdVo2MDhCRWY2eDM1bnd0NDlLRzJvMw?oc=5",
+        "date": "2026-10-14",
+        "title": "Nepal: Gorkha\u2013Budhi Gandaki Flash Flood - Humanitarian Snapshot (As of 12 October 2026) - ReliefWeb",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNQnZnWlU0Q3k0ZHpfOTFnczFrVHBlYjJ1WWcyZHd2VmZzOENrbEpndktvM0NLalFMeDJnaXd6SGN6OVR6OXFPRllnRnBNSlhGb1F3S1B0eFdBWTRidzB3X01zbTRjVDhrd3RUY0o0UkFDSmFfeTFBX1o2SC13NmlaTlhMXzNaQ1pkRl81Tk1sWUktRzV4VjdrTTFhdVo2MDhCRWY2eDM1bnd0NDlLRzJvMw?oc=5\" target=\"_blank\">Nepal: Gorkha\u2013Budhi Gandaki Flash Flood - Humanitarian Snapshot (As of 12 October 2026)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ReliefWeb</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQWTVPRGlJaHRfQVFsSmpXd2RPbmdmQXBlYzR4TG5xYllrN3hGUDBVY21ZcUJuTzFTUC1la283c0tFTlQyWkFMVDVuY2VhMkFSdjM0Q25aOVlVUTgwUnhrZTVaMnN0a3lmTFdSYWE2eWd6TGFRek4tVjZMbVJaRDVlcmsyYktNTnhaVXc?oc=5",
+        "date": "2026-10-14",
+        "title": "Maps: Tracking Tropical Storm Trudy - The New York Times",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxQWTVPRGlJaHRfQVFsSmpXd2RPbmdmQXBlYzR4TG5xYllrN3hGUDBVY21ZcUJuTzFTUC1la283c0tFTlQyWkFMVDVuY2VhMkFSdjM0Q25aOVlVUTgwUnhrZTVaMnN0a3lmTFdSYWE2eWd6TGFRek4tVjZMbVJaRDVlcmsyYktNTnhaVXc?oc=5\" target=\"_blank\">Maps: Tracking Tropical Storm Trudy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNcE1vVVAwSE9sWTZEeG1fWFM2WnE3SVdYaFlhWU9rSmtUSTFrS0JXdjZhNTlHejJhNTZoUWt0NExZc24zSGRXNmlMZmdneXlwQlI0cmRFaXRrNkpYWXJPVldMUEtSeHFuSXlsV05NaGlOYzgza1hLeG10WmFzdjROY2dtN2FOd294WmhCa3N5eTJJdzRqS2JiTWI5aWg5SlREaldXS2Fn?oc=5",
+        "date": "2026-10-14",
+        "title": "Could climate change bring more landslides to High Mountain Asia? - Stanford Doerr School of Sustainability",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNcE1vVVAwSE9sWTZEeG1fWFM2WnE3SVdYaFlhWU9rSmtUSTFrS0JXdjZhNTlHejJhNTZoUWt0NExZc24zSGRXNmlMZmdneXlwQlI0cmRFaXRrNkpYWXJPVldMUEtSeHFuSXlsV05NaGlOYzgza1hLeG10WmFzdjROY2dtN2FOd294WmhCa3N5eTJJdzRqS2JiTWI5aWg5SlREaldXS2Fn?oc=5\" target=\"_blank\">Could climate change bring more landslides to High Mountain Asia?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Stanford Doerr School of Sustainability</font>",
+        "similarity_excluded": "No",
+        "score": 1,
+        "status": "processed",
+        "tweet": null
     }
 ]
