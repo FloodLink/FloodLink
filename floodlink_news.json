@@ -16238,5 +16238,14 @@
         "score": 1,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-10-14",
+        "status": "posted",
+        "tweet": "By 2050, 300 million people in coastal cities are projected to face annual flooding from sea-level rise and storm surges.",
+        "type": "statistical",
+        "category": "coastal cities at risk from sea-level rise and storm surge",
+        "tweet_id": "2110393349962183125"
     }
 ]
