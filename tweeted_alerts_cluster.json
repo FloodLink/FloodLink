@@ -42373,7 +42373,7 @@
     "rain_mm": 57.94,
     "soil_moisture": 0.456,
     "raw_dynamic_score": 8.233,
-    "last_updated": "2026-10-14T19:19:04.807000Z",
+    "last_updated": "2026-10-15T02:45:33.516871Z",
     "last_tweeted_at": "2026-10-14T19:19:04.807000Z",
     "tweet_id": "2110450635023765629",
     "resolved": false
@@ -42418,7 +42418,7 @@
     "rain_mm": 44.5,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 8.511,
-    "last_updated": "2026-10-14T23:46:57.158622Z",
+    "last_updated": "2026-10-15T02:45:33.516871Z",
     "last_tweeted_at": "2026-10-14T23:46:57.158622Z",
     "tweet_id": "2110518032787255766",
     "resolved": false
@@ -42448,9 +42448,24 @@
     "rain_mm": 47.94,
     "soil_moisture": 0.422,
     "raw_dynamic_score": 6.667,
-    "last_updated": "2026-10-14T23:46:57.158622Z",
+    "last_updated": "2026-10-15T02:45:33.516871Z",
     "last_tweeted_at": "2026-10-14T23:46:57.158622Z",
     "tweet_id": "2110518285536002318",
+    "resolved": false
+  },
+  "60.3930,5.3242": {
+    "country": "Norway",
+    "name": "Bergen",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 60.39299,
+    "longitude": 5.32415,
+    "rain_mm": 34.56,
+    "soil_moisture": 1.0,
+    "raw_dynamic_score": 6.61,
+    "last_updated": "2026-10-15T02:45:33.516871Z",
+    "last_tweeted_at": "2026-10-15T02:45:33.516871Z",
+    "tweet_id": "2110562738384822438",
     "resolved": false
   }
 }
