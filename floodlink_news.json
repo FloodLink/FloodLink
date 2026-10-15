@@ -16077,5 +16077,14 @@
             "longitude": 28.955,
             "confidence": 0.95
         }
+    },
+    {
+        "link": null,
+        "date": "2026-10-15",
+        "status": "posted",
+        "tweet": "\ud83c\udde8\ud83c\uddf3 Shanghai pluvial flood exposure reached 5.1 million in 2025, up 38% from 2020. \ud83c\uddfa\ud83c\uddf8 New York reached 2.0 million, up 19% over the same period.",
+        "type": "statistical",
+        "category": "pluvial (surface) flooding in dense cities",
+        "tweet_id": "2110815021991067800"
     }
 ]
