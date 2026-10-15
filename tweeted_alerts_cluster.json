@@ -20185,7 +20185,7 @@
     "rain_mm": 56.94,
     "soil_moisture": 0.634,
     "raw_dynamic_score": 9.007,
-    "last_updated": "2026-10-15T19:02:26.210852Z",
+    "last_updated": "2026-10-15T23:36:36.917200Z",
     "last_tweeted_at": "2026-06-18T12:28:22.071804Z",
     "tweet_id": "2067586001350824223",
     "resolved": false
@@ -28928,16 +28928,16 @@
   "4.1752,73.5092": {
     "country": "Maldives",
     "name": "Male",
-    "risk_level": "Medium",
-    "tweeted_level": "Medium",
+    "risk_level": "High",
+    "tweeted_level": "High",
     "latitude": 4.17521,
     "longitude": 73.50916,
-    "rain_mm": 36.81,
+    "rain_mm": 79.31,
     "soil_moisture": 1.0,
-    "raw_dynamic_score": 7.04,
-    "last_updated": "2026-07-31T11:34:05.810091Z",
-    "last_tweeted_at": "2026-07-31T08:56:40.534899Z",
-    "tweet_id": "2083114907856248936",
+    "raw_dynamic_score": 15.169,
+    "last_updated": "2026-10-15T23:36:36.917200Z",
+    "last_tweeted_at": "2026-10-15T23:36:36.917200Z",
+    "tweet_id": "2110877556023210073",
     "resolved": false
   },
   "1.2209,19.8021": {
@@ -42626,7 +42626,7 @@
     "rain_mm": 60.12,
     "soil_moisture": 0.618,
     "raw_dynamic_score": 9.423,
-    "last_updated": "2026-10-15T19:02:26.210852Z",
+    "last_updated": "2026-10-15T23:36:36.917200Z",
     "last_tweeted_at": "2026-10-15T19:02:26.210852Z",
     "tweet_id": "2110808578319622373",
     "resolved": false
@@ -42641,7 +42641,7 @@
     "rain_mm": 86.38,
     "soil_moisture": 0.646,
     "raw_dynamic_score": 13.756,
-    "last_updated": "2026-10-15T19:02:26.210852Z",
+    "last_updated": "2026-10-15T23:36:36.917200Z",
     "last_tweeted_at": "2026-10-15T19:02:26.210852Z",
     "tweet_id": "2110808831043219950",
     "resolved": false
@@ -42686,7 +42686,7 @@
     "rain_mm": 56.19,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 10.746,
-    "last_updated": "2026-10-15T19:02:26.210852Z",
+    "last_updated": "2026-10-15T23:36:36.917200Z",
     "last_tweeted_at": "2026-10-15T19:02:26.210852Z",
     "tweet_id": "2110809084249231746",
     "resolved": false
@@ -42701,9 +42701,24 @@
     "rain_mm": 52.25,
     "soil_moisture": 0.594,
     "raw_dynamic_score": 8.076,
-    "last_updated": "2026-10-15T19:02:26.210852Z",
+    "last_updated": "2026-10-15T23:36:36.917200Z",
     "last_tweeted_at": "2026-10-15T19:02:26.210852Z",
     "tweet_id": "2110809336972734944",
+    "resolved": false
+  },
+  "26.9302,-105.6664": {
+    "country": "Mexico",
+    "name": "Parral",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 26.93022,
+    "longitude": -105.6664,
+    "rain_mm": 51.12,
+    "soil_moisture": 0.615,
+    "raw_dynamic_score": 8.001,
+    "last_updated": "2026-10-15T23:36:36.917200Z",
+    "last_tweeted_at": "2026-10-15T23:36:36.917200Z",
+    "tweet_id": "2110877808805433850",
     "resolved": false
   }
 }
