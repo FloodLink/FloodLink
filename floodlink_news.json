@@ -15273,5 +15273,14 @@
         "score": 0,
         "status": "skipped",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-10-16",
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 US Atlantic coast: 2.9M exposed to storm surge in 2025, rising to 4.6M by 2040. \ud83c\udde8\ud83c\uddf3 East China coast: 8.4M now, projected at 13.1M.",
+        "type": "statistical",
+        "category": "coastal cities at risk from sea-level rise and storm surge",
+        "tweet_id": "2111036677451907530"
     }
 ]
