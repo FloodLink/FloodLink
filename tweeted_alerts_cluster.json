@@ -28935,10 +28935,18 @@
     "rain_mm": 79.31,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 15.169,
-    "last_updated": "2026-10-15T23:36:36.917200Z",
+    "last_updated": "2026-10-16T02:37:43.624187Z",
     "last_tweeted_at": "2026-10-15T23:36:36.917200Z",
     "tweet_id": "2110877556023210073",
-    "resolved": false
+    "resolved": false,
+    "pending_downgrade": true,
+    "pending_target_level": "Low",
+    "pending_set_at": "2026-10-16T02:37:43.624187Z",
+    "pending_is_region": false,
+    "pending_observed_level": "Low",
+    "pending_observed_rain_mm": 23.81,
+    "pending_observed_soil_moisture": 1.0,
+    "pending_observed_raw_dynamic_score": 4.554
   },
   "1.2209,19.8021": {
     "country": "The Democratic Republic of the Congo",
@@ -42716,7 +42724,7 @@
     "rain_mm": 51.12,
     "soil_moisture": 0.615,
     "raw_dynamic_score": 8.001,
-    "last_updated": "2026-10-15T23:36:36.917200Z",
+    "last_updated": "2026-10-16T02:37:43.624187Z",
     "last_tweeted_at": "2026-10-15T23:36:36.917200Z",
     "tweet_id": "2110877808805433850",
     "resolved": false
