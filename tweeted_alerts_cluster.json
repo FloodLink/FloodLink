@@ -18324,7 +18324,7 @@
     "rain_mm": 65.88,
     "soil_moisture": 0.571,
     "raw_dynamic_score": 10.044,
-    "last_updated": "2026-10-08T09:58:14.608629Z",
+    "last_updated": "2026-10-16T23:18:58.034421Z",
     "last_tweeted_at": "2026-06-06T06:33:15.865557Z",
     "tweet_id": "2063147989435392446",
     "resolved": false
@@ -22558,22 +22558,6 @@
     "last_tweeted_at": "2026-06-29T19:56:31.485636Z",
     "tweet_id": "2071684290560033081",
     "resolved": false
-  },
-  "18.2540,77.4176": {
-    "country": "India",
-    "name": "Aurād",
-    "risk_level": "None",
-    "tweeted_level": "High",
-    "latitude": 18.25397,
-    "longitude": 77.41761,
-    "rain_mm": 0.0,
-    "soil_moisture": 0.262,
-    "raw_dynamic_score": 0.0,
-    "last_updated": "2026-10-15T19:02:26.210852Z",
-    "last_tweeted_at": "2026-10-15T19:02:26.210852Z",
-    "tweet_id": "2110808831043219950",
-    "resolved": true,
-    "resolved_at": "2026-10-15T19:02:26.210852Z"
   },
   "19.4051,-99.5281": {
     "country": "Mexico",
@@ -30770,7 +30754,7 @@
     "rain_mm": 48.75,
     "soil_moisture": 0.683,
     "raw_dynamic_score": 7.928,
-    "last_updated": "2026-08-12T10:21:05.491825Z",
+    "last_updated": "2026-10-16T23:18:58.034421Z",
     "last_tweeted_at": "2026-08-11T16:17:32.002292Z",
     "tweet_id": "2087211857425977408",
     "resolved": false
@@ -38560,22 +38544,6 @@
     "tweet_id": "2102061357470556169",
     "resolved": false
   },
-  "15.9913,77.0503": {
-    "country": "India",
-    "name": "Mānvi",
-    "risk_level": "Low",
-    "tweeted_level": "High",
-    "latitude": 15.99126,
-    "longitude": 77.05034,
-    "rain_mm": 1.56,
-    "soil_moisture": 0.283,
-    "raw_dynamic_score": 0.198,
-    "last_updated": "2026-10-15T19:02:26.210852Z",
-    "last_tweeted_at": "2026-10-15T19:02:26.210852Z",
-    "tweet_id": "2110808831043219950",
-    "resolved": true,
-    "resolved_at": "2026-10-15T19:02:26.210852Z"
-  },
   "14.2436,-16.2723": {
     "country": "Senegal",
     "name": "Gandiaye",
@@ -38826,7 +38794,7 @@
     "rain_mm": 35.62,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 6.813,
-    "last_updated": "2026-09-23T14:11:51.546167Z",
+    "last_updated": "2026-10-16T23:18:58.034421Z",
     "last_tweeted_at": "2026-09-23T08:24:38.899813Z",
     "tweet_id": "2102676036194312476",
     "resolved": false
@@ -40585,22 +40553,6 @@
     "last_tweeted_at": "2026-09-28T09:21:26.404953Z",
     "tweet_id": "2104502774280892442",
     "resolved": false
-  },
-  "13.6107,77.5174": {
-    "country": "India",
-    "name": "Gauribidanur",
-    "risk_level": "Low",
-    "tweeted_level": "High",
-    "latitude": 13.61072,
-    "longitude": 77.51738,
-    "rain_mm": 2.12,
-    "soil_moisture": 0.543,
-    "raw_dynamic_score": 0.319,
-    "last_updated": "2026-10-15T19:02:26.210852Z",
-    "last_tweeted_at": "2026-10-15T19:02:26.210852Z",
-    "tweet_id": "2110808831043219950",
-    "resolved": true,
-    "resolved_at": "2026-10-15T19:02:26.210852Z"
   },
   "12.9908,7.6018": {
     "country": "Nigeria",
@@ -42531,22 +42483,6 @@
     "tweet_id": "2110733277636006224",
     "resolved": false
   },
-  "11.8100,76.6903": {
-    "country": "India",
-    "name": "Gundlupēt",
-    "risk_level": "Low",
-    "tweeted_level": "High",
-    "latitude": 11.81004,
-    "longitude": 76.69027,
-    "rain_mm": 13.25,
-    "soil_moisture": 0.658,
-    "raw_dynamic_score": 2.125,
-    "last_updated": "2026-10-15T19:02:26.210852Z",
-    "last_tweeted_at": "2026-10-15T19:02:26.210852Z",
-    "tweet_id": "2110808831043219950",
-    "resolved": true,
-    "resolved_at": "2026-10-15T19:02:26.210852Z"
-  },
   "-6.2667,14.2383": {
     "country": "Angola",
     "name": "Mbanza Kongo",
@@ -42752,7 +42688,7 @@
     "rain_mm": 38.12,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 7.291,
-    "last_updated": "2026-10-16T18:45:59.852773Z",
+    "last_updated": "2026-10-16T23:18:58.034421Z",
     "last_tweeted_at": "2026-10-16T18:45:59.852773Z",
     "tweet_id": "2111166835194307000",
     "resolved": false
@@ -42767,9 +42703,24 @@
     "rain_mm": 53.88,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 10.304,
-    "last_updated": "2026-10-16T18:45:59.852773Z",
+    "last_updated": "2026-10-16T23:18:58.034421Z",
     "last_tweeted_at": "2026-10-16T18:45:59.852773Z",
     "tweet_id": "2111167087817244972",
+    "resolved": false
+  },
+  "-4.3665,-70.1919": {
+    "country": "Brazil",
+    "name": "Atalaia do Norte",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": -4.36652,
+    "longitude": -70.19186,
+    "rain_mm": 42.94,
+    "soil_moisture": 0.579,
+    "raw_dynamic_score": 6.58,
+    "last_updated": "2026-10-16T23:18:58.034421Z",
+    "last_tweeted_at": "2026-10-16T23:18:58.034421Z",
+    "tweet_id": "2111235500031778914",
     "resolved": false
   }
 }
