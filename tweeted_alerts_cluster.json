@@ -14649,7 +14649,7 @@
     "rain_mm": 8.75,
     "soil_moisture": 0.56,
     "raw_dynamic_score": 1.326,
-    "last_updated": "2026-10-17T02:33:42.810507Z",
+    "last_updated": "2026-10-17T07:34:36.279543Z",
     "last_tweeted_at": "2026-10-17T02:33:42.810507Z",
     "tweet_id": "2111285036951732255",
     "resolved": true,
@@ -18325,7 +18325,7 @@
     "rain_mm": 10.31,
     "soil_moisture": 0.553,
     "raw_dynamic_score": 1.556,
-    "last_updated": "2026-10-17T02:33:42.810507Z",
+    "last_updated": "2026-10-17T07:34:36.279543Z",
     "last_tweeted_at": "2026-10-17T02:33:42.810507Z",
     "tweet_id": "2111285036951732255",
     "resolved": true,
@@ -20051,7 +20051,7 @@
     "rain_mm": 50.75,
     "soil_moisture": 0.592,
     "raw_dynamic_score": 7.836,
-    "last_updated": "2026-10-17T02:33:42.810507Z",
+    "last_updated": "2026-10-17T07:34:36.279543Z",
     "last_tweeted_at": "2026-06-16T08:51:17.835184Z",
     "tweet_id": "2066806098062151844",
     "resolved": false
@@ -30742,17 +30742,18 @@
   "34.4500,115.6500": {
     "country": "China",
     "name": "Shangqiu",
-    "risk_level": "Medium",
-    "tweeted_level": "High",
+    "risk_level": "Low",
+    "tweeted_level": "Low",
     "latitude": 34.45,
     "longitude": 115.65,
-    "rain_mm": 48.75,
-    "soil_moisture": 0.683,
-    "raw_dynamic_score": 7.928,
-    "last_updated": "2026-10-17T02:33:42.810507Z",
-    "last_tweeted_at": "2026-08-11T16:17:32.002292Z",
-    "tweet_id": "2087211857425977408",
-    "resolved": false
+    "rain_mm": 4.44,
+    "soil_moisture": 0.593,
+    "raw_dynamic_score": 0.685,
+    "last_updated": "2026-10-17T07:34:36.279543Z",
+    "last_tweeted_at": "2026-10-17T07:34:36.279543Z",
+    "tweet_id": "2111360258862096875",
+    "resolved": true,
+    "resolved_at": "2026-10-17T07:34:36.279543Z"
   },
   "34.1628,113.4639": {
     "country": "China",
@@ -38789,7 +38790,7 @@
     "rain_mm": 35.62,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 6.813,
-    "last_updated": "2026-10-16T23:18:58.034421Z",
+    "last_updated": "2026-10-17T07:34:36.279543Z",
     "last_tweeted_at": "2026-09-23T08:24:38.899813Z",
     "tweet_id": "2102676036194312476",
     "resolved": false
@@ -42728,7 +42729,7 @@
     "rain_mm": 48.19,
     "soil_moisture": 0.452,
     "raw_dynamic_score": 6.83,
-    "last_updated": "2026-10-17T02:33:42.810507Z",
+    "last_updated": "2026-10-17T07:34:36.279543Z",
     "last_tweeted_at": "2026-10-17T02:33:42.810507Z",
     "tweet_id": "2111284531475141069",
     "resolved": false
@@ -42833,7 +42834,7 @@
     "rain_mm": 42.12,
     "soil_moisture": 0.7,
     "raw_dynamic_score": 6.916,
-    "last_updated": "2026-10-17T02:33:42.810507Z",
+    "last_updated": "2026-10-17T07:34:36.279543Z",
     "last_tweeted_at": "2026-10-17T02:33:42.810507Z",
     "tweet_id": "2111284784072896569",
     "resolved": false
@@ -42848,10 +42849,14 @@
     "rain_mm": 100.38,
     "soil_moisture": 0.707,
     "raw_dynamic_score": 16.545,
-    "last_updated": "2026-10-17T02:33:42.810507Z",
+    "last_updated": "2026-10-17T07:34:36.279543Z",
     "last_tweeted_at": "2026-10-17T02:33:42.810507Z",
     "tweet_id": "2111285036951732255",
-    "resolved": false
+    "resolved": false,
+    "pending_downgrade": true,
+    "pending_target_level": "Low",
+    "pending_set_at": "2026-10-17T07:34:36.279543Z",
+    "pending_is_region": true
   },
   "20.0708,-97.0608": {
     "country": "Mexico",
@@ -42863,7 +42868,7 @@
     "rain_mm": 61.06,
     "soil_moisture": 0.731,
     "raw_dynamic_score": 10.194,
-    "last_updated": "2026-10-17T02:33:42.810507Z",
+    "last_updated": "2026-10-17T07:34:36.279543Z",
     "last_tweeted_at": "2026-10-17T02:33:42.810507Z",
     "tweet_id": "2111285036951732255",
     "resolved": false
@@ -42878,9 +42883,24 @@
     "rain_mm": 61.06,
     "soil_moisture": 0.731,
     "raw_dynamic_score": 10.194,
-    "last_updated": "2026-10-17T02:33:42.810507Z",
+    "last_updated": "2026-10-17T07:34:36.279543Z",
     "last_tweeted_at": "2026-10-17T02:33:42.810507Z",
     "tweet_id": "2111285036951732255",
+    "resolved": false
+  },
+  "40.2939,118.2714": {
+    "country": "China",
+    "name": "Songlingcun",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 40.29394,
+    "longitude": 118.27143,
+    "rain_mm": 56.19,
+    "soil_moisture": 0.554,
+    "raw_dynamic_score": 8.482,
+    "last_updated": "2026-10-17T07:34:36.279543Z",
+    "last_tweeted_at": "2026-10-17T07:34:36.279543Z",
+    "tweet_id": "2111360511585767729",
     "resolved": false
   }
 }
