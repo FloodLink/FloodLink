@@ -14328,5 +14328,35 @@
         "score": 8,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBLc0JQNzdGSzFVcFNqXzQwY1ZOd19sOTc0RE5SZWNUQ3hEN0J6NV95SHRHX1l1OUR5TmRITi1RZEM4TTU5U2N1N25hSHZqdTY2S29icDJKeE1PSUtoN1p1Mm9VRmo3NElhTkg1MEQ3V2ZEZFBOem5kcVEza2pxQQ?oc=5",
+        "date": "2026-10-17",
+        "title": "UPDATE: Coastal flood warning issued for Hatteras Island until Tuesday morning - Charlotte Observer",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTFBLc0JQNzdGSzFVcFNqXzQwY1ZOd19sOTc0RE5SZWNUQ3hEN0J6NV95SHRHX1l1OUR5TmRITi1RZEM4TTU5U2N1N25hSHZqdTY2S29icDJKeE1PSUtoN1p1Mm9VRmo3NElhTkg1MEQ3V2ZEZFBOem5kcVEza2pxQQ?oc=5\" target=\"_blank\">UPDATE: Coastal flood warning issued for Hatteras Island until Tuesday morning</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Charlotte Observer</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5qcUtjemFaekVkS21IZnN1cGc4ZWRnZzBfQVAwSUYzZkQ3V3UtbnRsQ2pnUEk1c19pajN2cWthbElnN0M1WjU5WXplVjdTUVZxcnllOEkzVF85QmpPRmRjVGN3?oc=5",
+        "date": "2026-10-17",
+        "title": "TMD warns of eight days of heavy rain, flood and landslide risks - Nation Thailand",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE5qcUtjemFaekVkS21IZnN1cGc4ZWRnZzBfQVAwSUYzZkQ3V3UtbnRsQ2pnUEk1c19pajN2cWthbElnN0M1WjU5WXplVjdTUVZxcnllOEkzVF85QmpPRmRjVGN3?oc=5\" target=\"_blank\">TMD warns of eight days of heavy rain, flood and landslide risks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Nation Thailand</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxONzZVMkpweTBGNXE3TXV2a1FVTE5LdVc0VlBqbTJ2T0dEYjczdFJ5V0NzakdVc0dxOVVVWVl5WDlITGlpZU9ZTXd6bkFfRjR3Q282VjNEbkRNbDluYlhxbmlZSHliOHgwQnZabUdwZUM3MktoZHBLVFI2NWRwcDJ2MVhYbGY5akw3Sjlyd0ZobFpzeHVlR3FlQ1NCdG5WNlRwbkM4aEFIUy12Nl9kbnRvVFVKRTZyVzBx?oc=5",
+        "date": "2026-10-17",
+        "title": "Deadly 'flesh-eating' bacteria can surge after hurricanes. Here's why - USA Today",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxONzZVMkpweTBGNXE3TXV2a1FVTE5LdVc0VlBqbTJ2T0dEYjczdFJ5V0NzakdVc0dxOVVVWVl5WDlITGlpZU9ZTXd6bkFfRjR3Q282VjNEbkRNbDluYlhxbmlZSHliOHgwQnZabUdwZUM3MktoZHBLVFI2NWRwcDJ2MVhYbGY5akw3Sjlyd0ZobFpzeHVlR3FlQ1NCdG5WNlRwbkM4aEFIUy12Nl9kbnRvVFVKRTZyVzBx?oc=5\" target=\"_blank\">Deadly 'flesh-eating' bacteria can surge after hurricanes. Here's why</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">USA Today</font>",
+        "similarity_excluded": "No",
+        "score": 1,
+        "status": "processed",
+        "tweet": null
     }
 ]
