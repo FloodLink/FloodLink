@@ -13877,5 +13877,85 @@
         "type": "statistical",
         "category": "global flood fatalities and trends",
         "tweet_id": "2111832949494558902"
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOaDZCZVM2ak44NmhTbGtSc0xPVG1TNDlaSWtOOXlNaFVqWTdfNVBqbkliR05QVWZreUZGdVlMZUhQdWtPdDg0LXZpeGtIRGlTS3pRZmI0M1RqYjc1VW5JdXl1eFpCZnRCOV9Od2wtUEJvSzh3UW5Hd3lUQzJGeWdLREFZVElXRldoNllUV1U0SlhMbXhuOGdmb3Baemt0YXM?oc=5",
+        "date": "2026-10-18",
+        "title": "Incoming storm to bring renewed flood risk to California, Southwest - Yahoo",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxOaDZCZVM2ak44NmhTbGtSc0xPVG1TNDlaSWtOOXlNaFVqWTdfNVBqbkliR05QVWZreUZGdVlMZUhQdWtPdDg0LXZpeGtIRGlTS3pRZmI0M1RqYjc1VW5JdXl1eFpCZnRCOV9Od2wtUEJvSzh3UW5Hd3lUQzJGeWdLREFZVElXRldoNllUV1U0SlhMbXhuOGdmb3Baemt0YXM?oc=5\" target=\"_blank\">Incoming storm to bring renewed flood risk to California, Southwest</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNERCb3B0em03UXRhQi1UVE9kUzdDUXh2Mjh0TWZmaUNoWVloSDJ2cW5zRUpTa1MxX0RmZWlDWkthb3FFNExiNnpyVDNwNDYyVW4yX0h0OFdPamotLTlMcEY3VVQ4cU1rYlVHd0l6aHdFZVhBcEdyUnBhcG42VF9Fb2IzaEg0S0VKWEZjWmkzS3FaMFNJSlZ6dGdPWTdkMFlVNGdIVw?oc=5",
+        "date": "2026-10-18",
+        "title": "Hurricane Trudy may bring \"life-threatening\" flooding, mudslides to Mexico's Pacific coast - CBS News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPNERCb3B0em03UXRhQi1UVE9kUzdDUXh2Mjh0TWZmaUNoWVloSDJ2cW5zRUpTa1MxX0RmZWlDWkthb3FFNExiNnpyVDNwNDYyVW4yX0h0OFdPamotLTlMcEY3VVQ4cU1rYlVHd0l6aHdFZVhBcEdyUnBhcG42VF9Fb2IzaEg0S0VKWEZjWmkzS3FaMFNJSlZ6dGdPWTdkMFlVNGdIVw?oc=5\" target=\"_blank\">Hurricane Trudy may bring \"life-threatening\" flooding, mudslides to Mexico's Pacific coast</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CBS News</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQYUw4akk4Ul8xNE8yelA1RG55Z19URllRYTFwTkJZUzhhQ0ZzVE4zWFgyOHlLRmlqajNxSExEcDZKX2FjR19OR1ZwU1R0UnJmd2pZM25KcGdrZGVnSzdUSkx1a2dISEJzemdrbTBFN01DRkpUQWxHZ01kLUdtWnQ3ckd2Sm1CYVdDWEdjVGN5bUpfQ2IxamxGSk5FdnFmdnAtMnFkaXlqV0pwNWh2SERpRXc5aHd5dw?oc=5",
+        "date": "2026-10-18",
+        "title": "Hurricane Trudy threatens Mexican coast with flooding, mudslides - South China Morning Post",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQYUw4akk4Ul8xNE8yelA1RG55Z19URllRYTFwTkJZUzhhQ0ZzVE4zWFgyOHlLRmlqajNxSExEcDZKX2FjR19OR1ZwU1R0UnJmd2pZM25KcGdrZGVnSzdUSkx1a2dISEJzemdrbTBFN01DRkpUQWxHZ01kLUdtWnQ3ckd2Sm1CYVdDWEdjVGN5bUpfQ2IxamxGSk5FdnFmdnAtMnFkaXlqV0pwNWh2SERpRXc5aHd5dw?oc=5\" target=\"_blank\">Hurricane Trudy threatens Mexican coast with flooding, mudslides</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">South China Morning Post</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPZnVMVmhPRTh4ZUZ0U01sOUo3Y0ZVVjVrT284N3F4QlkxN0hXbWtfc2dyeHR5WG9kdzEzZkUzOE1NdXJHS29VTGJOWE5OM21DY0l1YS1hazZUa3BlY1VPUXc0M2l5UFYtWllvZXdhd3B1VzBwdHZ2SWY5bEpESHRJQXI2THJRVFJwNThjS2NpYWlGVFdBSjNES0lSNno0clc0QmhTUDVYaVMtTFNKZG9NdFhFQ2NDeEEtRkJKckxGY0g3eUh4LXpacEE4b0RxTTlHRVpUQ2ZNRmJqeG5pZGw0aTh30gHoAUFVX3lxTFBnZndodWpoRmlkQUZ2aEFUc3I4clUwZm5vN3RWa2gzZDB4OWlKR2FmZ0t2MUkwNU9qdHFNb2tDeU9USDR6cUgwMkZ1cTA3ZFBEbGhWZnFycWc4UkdTS2lSSVJHNDc3clgtb2tvM3RQM1dueTI1UG5oa0JSYlV5Q2hIWDNlVE5XMjliTHNzeWRScU5GdlYxVlRVb3NxZmhYVVJCNGR6SzVpTHhFUHpsYy1URFU2MjhBLUlzSG1tM0M5YjR4Z0VfS2Qyb2ZZWFFXRDR3VUlfVW80LXp6WllEWF9KMl9lV1VHa18?oc=5",
+        "date": "2026-10-18",
+        "title": "Heavy overnight rain batters Chennai as Northeast monsoon gets active in Tamil Nadu - The Hindu",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxPZnVMVmhPRTh4ZUZ0U01sOUo3Y0ZVVjVrT284N3F4QlkxN0hXbWtfc2dyeHR5WG9kdzEzZkUzOE1NdXJHS29VTGJOWE5OM21DY0l1YS1hazZUa3BlY1VPUXc0M2l5UFYtWllvZXdhd3B1VzBwdHZ2SWY5bEpESHRJQXI2THJRVFJwNThjS2NpYWlGVFdBSjNES0lSNno0clc0QmhTUDVYaVMtTFNKZG9NdFhFQ2NDeEEtRkJKckxGY0g3eUh4LXpacEE4b0RxTTlHRVpUQ2ZNRmJqeG5pZGw0aTh30gHoAUFVX3lxTFBnZndodWpoRmlkQUZ2aEFUc3I4clUwZm5vN3RWa2gzZDB4OWlKR2FmZ0t2MUkwNU9qdHFNb2tDeU9USDR6cUgwMkZ1cTA3ZFBEbGhWZnFycWc4UkdTS2lSSVJHNDc3clgtb2tvM3RQM1dueTI1UG5oa0JSYlV5Q2hIWDNlVE5XMjliTHNzeWRScU5GdlYxVlRVb3NxZmhYVVJCNGR6SzVpTHhFUHpsYy1URFU2MjhBLUlzSG1tM0M5YjR4Z0VfS2Qyb2ZZWFFXRDR3VUlfVW80LXp6WllEWF9KMl9lV1VHa18?oc=5\" target=\"_blank\">Heavy overnight rain batters Chennai as Northeast monsoon gets active in Tamil Nadu</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Hindu</font>",
+        "similarity_excluded": "No",
+        "score": 5,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcXo0VVJzbnZVcVRDV2N1M0FfQkVKc0xOUkRqX3cwUFZRbVQwbS1DaENBNDBFV0VSU2ZHcU9OSnRxRzBubDJ3SGNVUWRrVjUxTnFRTmpLMmRBd2pLaGNfWXRWbUlyMEZ2enAxQm9VYXdXVW9mSnZHSnJObXNYalY4VjlVc2VublVYS0d5NUtHVVZnQUZjakdPU2laZDg1Zk9IQmdZZ3hzcW0weXMtUldKNHBUa0ViQlZVRFJv?oc=5",
+        "date": "2026-10-18",
+        "title": "Tamil Nadu CM reviews Chennai monsoon readiness as PMK demands release of flood report - The News Mill",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcXo0VVJzbnZVcVRDV2N1M0FfQkVKc0xOUkRqX3cwUFZRbVQwbS1DaENBNDBFV0VSU2ZHcU9OSnRxRzBubDJ3SGNVUWRrVjUxTnFRTmpLMmRBd2pLaGNfWXRWbUlyMEZ2enAxQm9VYXdXVW9mSnZHSnJObXNYalY4VjlVc2VublVYS0d5NUtHVVZnQUZjakdPU2laZDg1Zk9IQmdZZ3hzcW0weXMtUldKNHBUa0ViQlZVRFJv?oc=5\" target=\"_blank\">Tamil Nadu CM reviews Chennai monsoon readiness as PMK demands release of flood report</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The News Mill</font>",
+        "similarity_excluded": "No",
+        "score": 6,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNLVRpYWpYVkMxUHZ1aWYzQW04dWJlVENEZElRTHlnYy05OWpiN24xWnVJeTJFeUxoNnlSc0M3bnhJSnZ0NlpyYU1lYUVLTWNfT1BKbVp0RlVFa0NTV0huN2JIaFRaaDlsUUNpMmVqd092NEI2bzR5cHZFek9XTGpvb0k4VnlaZkJfaWRadUQxVk8?oc=5",
+        "date": "2026-10-18",
+        "title": "Chennai Activates 220 Relief Centres as Monsoon Flood Risk Rises - Urban Acres",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNLVRpYWpYVkMxUHZ1aWYzQW04dWJlVENEZElRTHlnYy05OWpiN24xWnVJeTJFeUxoNnlSc0M3bnhJSnZ0NlpyYU1lYUVLTWNfT1BKbVp0RlVFa0NTV0huN2JIaFRaaDlsUUNpMmVqd092NEI2bzR5cHZFek9XTGpvb0k4VnlaZkJfaWRadUQxVk8?oc=5\" target=\"_blank\">Chennai Activates 220 Relief Centres as Monsoon Flood Risk Rises</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Urban Acres</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxObHI4eDcwN0VfMmlsaHIzeS1YX19NTnRqUjVqbGQ4OXBleThfSkl0cTJsR2ZxZUJUUndLMXVSV1BHM0h3M2ZrMkdqTlQzZ1pwU3NxQnlZSWZvZUdRMW16c1JEdThPODZZcEZSTlhiaTk4dHVrZDIyWDFONTNvc00zN2NFUzBaVFQ4NFJtVmhIajFUeEdRSzBEQzdrNkNxX2ZtanRxOHdIck53WWY5TnJseDhrUlpMdEQ0aDJVWkp5elZXbkJ3Ym5wT0t0RkQxaUduOElES19PWV9xRWcx0gHjAUFVX3lxTE5PWXFJdmJuNWxhT0JFb1pHYkFyRjRmNXltM28zbS0tSk4yVzVaOVdLZXNaVE82R2xiTl9GejM0SGRxeVpSZEpzZFhuYXlGdi11dUZSSG42V1RXeFBtMzJ2VXdDSkhDblIwZXhLcnBiY2J2RHk4clBXejhtdzhISWZTVk4xTjJ0YTExWWFVTGZBVVhvWG8xNFBQd1VUZ1J3QlpCa2hiUTNzdDNYOEIxSlJUY1pOaDBBa2VJMGFzbjlJcHZJV19kRFFndEpHdmo4YmJoS2JzY2xOMzFfN1lWSzAyTm1z?oc=5",
+        "date": "2026-10-18",
+        "title": "Official machinery in Nagapattinam district braces for northeast monsoon - The Hindu",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxObHI4eDcwN0VfMmlsaHIzeS1YX19NTnRqUjVqbGQ4OXBleThfSkl0cTJsR2ZxZUJUUndLMXVSV1BHM0h3M2ZrMkdqTlQzZ1pwU3NxQnlZSWZvZUdRMW16c1JEdThPODZZcEZSTlhiaTk4dHVrZDIyWDFONTNvc00zN2NFUzBaVFQ4NFJtVmhIajFUeEdRSzBEQzdrNkNxX2ZtanRxOHdIck53WWY5TnJseDhrUlpMdEQ0aDJVWkp5elZXbkJ3Ym5wT0t0RkQxaUduOElES19PWV9xRWcx0gHjAUFVX3lxTE5PWXFJdmJuNWxhT0JFb1pHYkFyRjRmNXltM28zbS0tSk4yVzVaOVdLZXNaVE82R2xiTl9GejM0SGRxeVpSZEpzZFhuYXlGdi11dUZSSG42V1RXeFBtMzJ2VXdDSkhDblIwZXhLcnBiY2J2RHk4clBXejhtdzhISWZTVk4xTjJ0YTExWWFVTGZBVVhvWG8xNFBQd1VUZ1J3QlpCa2hiUTNzdDNYOEIxSlJUY1pOaDBBa2VJMGFzbjlJcHZJV19kRFFndEpHdmo4YmJoS2JzY2xOMzFfN1lWSzAyTm1z?oc=5\" target=\"_blank\">Official machinery in Nagapattinam district braces for northeast monsoon</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Hindu</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPUzlUTDRWRWZvU3hZWWMwXzhUV3RCZnQ4Q1NBbW5Uall3d2NOR25vZHo1OUZucnJoajQ2V2htMjh6MUVGY3Qyb19RNl9ONUpsRGQ4UWI2RElucWFmTkZObFNMQUJ2V0txRUE0LTBHdVQ1QmFWUGR5SlRhdG1jOFRHUGN6cUVIdVgxaUQtb0NFbnA2bGZyQ2pTcFZOLUF5LUdtYk840gGoAUFVX3lxTFAzTVdBTU5FSXdobTk1RDZvbklrZzdMZHRKVlhMS3ZYUlBiVUNUZ0EwLThuemhaMDlnZm9qazh4TlhscjJNR2dmcFhLa2QxeDAxY0dmWHkzZkdaOC1hb1V4QUpkTlpBYy1OVjJ0QUYxeEEyS1FieHctOGUxSEFkTkJvVU9NRDNLSTg5UEhZYVd4a1pGMGQ0RHhaalNGOGRMUkJMZ0VlY3hYQw?oc=5",
+        "date": "2026-10-18",
+        "title": "Heavy rains flood Chennai as northeast monsoon intensifies | Tap to know more | Inshorts - Inshorts",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPUzlUTDRWRWZvU3hZWWMwXzhUV3RCZnQ4Q1NBbW5Uall3d2NOR25vZHo1OUZucnJoajQ2V2htMjh6MUVGY3Qyb19RNl9ONUpsRGQ4UWI2RElucWFmTkZObFNMQUJ2V0txRUE0LTBHdVQ1QmFWUGR5SlRhdG1jOFRHUGN6cUVIdVgxaUQtb0NFbnA2bGZyQ2pTcFZOLUF5LUdtYk840gGoAUFVX3lxTFAzTVdBTU5FSXdobTk1RDZvbklrZzdMZHRKVlhMS3ZYUlBiVUNUZ0EwLThuemhaMDlnZm9qazh4TlhscjJNR2dmcFhLa2QxeDAxY0dmWHkzZkdaOC1hb1V4QUpkTlpBYy1OVjJ0QUYxeEEyS1FieHctOGUxSEFkTkJvVU9NRDNLSTg5UEhZYVd4a1pGMGQ0RHhaalNGOGRMUkJMZ0VlY3hYQw?oc=5\" target=\"_blank\">Heavy rains flood Chennai as northeast monsoon intensifies | Tap to know more | Inshorts</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Inshorts</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
     }
 ]
