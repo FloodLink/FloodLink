@@ -13868,5 +13868,14 @@
         "score": 7,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-10-18",
+        "status": "posted",
+        "tweet": "Global flood deaths rose from 14,200 in 2020-2022 to 21,800 in 2023-2025. Asia recorded 16,400 fatalities, nearly eight times Europe's total over the five years.",
+        "type": "statistical",
+        "category": "global flood fatalities and trends",
+        "tweet_id": "2111832949494558902"
     }
 ]
