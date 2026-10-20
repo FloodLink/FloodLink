@@ -18089,22 +18089,6 @@
     "tweet_id": "2062664689448788107",
     "resolved": false
   },
-  "5.8815,-71.8917": {
-    "country": "Colombia",
-    "name": "Paz de Ariporo",
-    "risk_level": "None",
-    "tweeted_level": "None",
-    "latitude": 5.88148,
-    "longitude": -71.89167,
-    "rain_mm": 0.0,
-    "soil_moisture": 0.637,
-    "raw_dynamic_score": 0.0,
-    "last_updated": "2026-10-19T02:44:50.486284Z",
-    "last_tweeted_at": "2026-10-19T02:44:50.486284Z",
-    "tweet_id": "2112012357295604087",
-    "resolved": true,
-    "resolved_at": "2026-10-19T02:44:50.486284Z"
-  },
   "16.5414,-92.4729": {
     "country": "Mexico",
     "name": "Teopisca",
@@ -42786,38 +42770,6 @@
     "tweet_id": "2111646648505950678",
     "resolved": false
   },
-  "5.3357,-72.3939": {
-    "country": "Colombia",
-    "name": "Yopal",
-    "risk_level": "None",
-    "tweeted_level": "None",
-    "latitude": 5.33573,
-    "longitude": -72.3939,
-    "rain_mm": 0.0,
-    "soil_moisture": 0.638,
-    "raw_dynamic_score": 0.0,
-    "last_updated": "2026-10-19T02:44:50.486284Z",
-    "last_tweeted_at": "2026-10-19T02:44:50.486284Z",
-    "tweet_id": "2112012357295604087",
-    "resolved": true,
-    "resolved_at": "2026-10-19T02:44:50.486284Z"
-  },
-  "5.1728,-72.5471": {
-    "country": "Colombia",
-    "name": "Aguazul",
-    "risk_level": "None",
-    "tweeted_level": "None",
-    "latitude": 5.17282,
-    "longitude": -72.54706,
-    "rain_mm": 0.0,
-    "soil_moisture": 0.638,
-    "raw_dynamic_score": 0.0,
-    "last_updated": "2026-10-19T02:44:50.486284Z",
-    "last_tweeted_at": "2026-10-19T02:44:50.486284Z",
-    "tweet_id": "2112012357295604087",
-    "resolved": true,
-    "resolved_at": "2026-10-19T02:44:50.486284Z"
-  },
   "38.2092,127.2175": {
     "country": "Republic of Korea",
     "name": "Cheorwon",
@@ -43167,7 +43119,7 @@
     "rain_mm": 54.81,
     "soil_moisture": 0.641,
     "raw_dynamic_score": 8.704,
-    "last_updated": "2026-10-19T22:08:47.837643Z",
+    "last_updated": "2026-10-20T03:00:20.888204Z",
     "last_tweeted_at": "2026-10-19T22:08:47.837643Z",
     "tweet_id": "2112305024772784638",
     "resolved": false
