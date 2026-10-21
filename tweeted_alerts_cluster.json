@@ -489,7 +489,7 @@
     "rain_mm": 43.75,
     "soil_moisture": 0.667,
     "raw_dynamic_score": 7.05,
-    "last_updated": "2026-10-21T02:54:08.040994Z",
+    "last_updated": "2026-10-21T08:18:27.854250Z",
     "last_tweeted_at": "2026-01-11T09:16:59.068628Z",
     "tweet_id": "2010279807016407130",
     "resolved": false
@@ -27569,7 +27569,7 @@
     "rain_mm": 63.69,
     "soil_moisture": 0.716,
     "raw_dynamic_score": 10.544,
-    "last_updated": "2026-10-20T23:45:26.988093Z",
+    "last_updated": "2026-10-21T08:18:27.854250Z",
     "last_tweeted_at": "2026-07-28T02:00:14.125708Z",
     "tweet_id": "2081923199475064916",
     "resolved": false
@@ -31754,7 +31754,7 @@
     "rain_mm": 51.12,
     "soil_moisture": 0.496,
     "raw_dynamic_score": 7.449,
-    "last_updated": "2026-10-20T23:45:26.988093Z",
+    "last_updated": "2026-10-21T08:18:27.854250Z",
     "last_tweeted_at": "2026-08-20T10:11:27.969122Z",
     "tweet_id": "2090381224091254824",
     "resolved": false
@@ -39779,7 +39779,7 @@
     "rain_mm": 51.56,
     "soil_moisture": 0.693,
     "raw_dynamic_score": 8.433,
-    "last_updated": "2026-10-21T02:54:08.040994Z",
+    "last_updated": "2026-10-21T08:18:27.854250Z",
     "last_tweeted_at": "2026-09-27T19:00:37.939402Z",
     "tweet_id": "2104285647804506367",
     "resolved": false
@@ -44124,10 +44124,18 @@
     "rain_mm": 67.0,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 12.814,
-    "last_updated": "2026-10-20T23:45:26.988093Z",
+    "last_updated": "2026-10-21T08:18:27.854250Z",
     "last_tweeted_at": "2026-10-20T23:45:26.988093Z",
     "tweet_id": "2112691720689525164",
-    "resolved": false
+    "resolved": false,
+    "pending_downgrade": true,
+    "pending_target_level": "None",
+    "pending_set_at": "2026-10-21T08:18:27.854250Z",
+    "pending_is_region": false,
+    "pending_observed_level": "None",
+    "pending_observed_rain_mm": 0.0,
+    "pending_observed_soil_moisture": 1.0,
+    "pending_observed_raw_dynamic_score": 0.0
   },
   "45.9541,12.5027": {
     "country": "Italy",
@@ -44139,7 +44147,7 @@
     "rain_mm": 58.69,
     "soil_moisture": 0.641,
     "raw_dynamic_score": 9.323,
-    "last_updated": "2026-10-20T23:45:26.988093Z",
+    "last_updated": "2026-10-21T08:18:27.854250Z",
     "last_tweeted_at": "2026-10-20T23:45:26.988093Z",
     "tweet_id": "2112691973161394538",
     "resolved": false
@@ -44187,6 +44195,51 @@
     "last_updated": "2026-10-21T02:54:08.040994Z",
     "last_tweeted_at": "2026-10-20T23:45:26.988093Z",
     "tweet_id": "2112692226614788546",
+    "resolved": false
+  },
+  "10.2593,-71.3634": {
+    "country": "Bolivarian Republic of Venezuela",
+    "name": "Tía Juana",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 10.25927,
+    "longitude": -71.36343,
+    "rain_mm": 42.19,
+    "soil_moisture": 0.645,
+    "raw_dynamic_score": 6.716,
+    "last_updated": "2026-10-21T08:18:27.854250Z",
+    "last_tweeted_at": "2026-10-21T08:18:27.854250Z",
+    "tweet_id": "2112820832233754681",
+    "resolved": false
+  },
+  "10.1301,-71.2595": {
+    "country": "Bolivarian Republic of Venezuela",
+    "name": "Lagunillas",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 10.13008,
+    "longitude": -71.25946,
+    "rain_mm": 42.19,
+    "soil_moisture": 0.645,
+    "raw_dynamic_score": 6.716,
+    "last_updated": "2026-10-21T08:18:27.854250Z",
+    "last_tweeted_at": "2026-10-21T08:18:27.854250Z",
+    "tweet_id": "2112820832233754681",
+    "resolved": false
+  },
+  "10.2016,-71.3148": {
+    "country": "Bolivarian Republic of Venezuela",
+    "name": "Ciudad Ojeda",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 10.20161,
+    "longitude": -71.3148,
+    "rain_mm": 42.19,
+    "soil_moisture": 0.645,
+    "raw_dynamic_score": 6.716,
+    "last_updated": "2026-10-21T08:18:27.854250Z",
+    "last_tweeted_at": "2026-10-21T08:18:27.854250Z",
+    "tweet_id": "2112820832233754681",
     "resolved": false
   }
 }
