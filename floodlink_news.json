@@ -13239,5 +13239,13 @@
             "longitude": 140.1,
             "confidence": 0.9
         }
+    },
+    {
+        "link": null,
+        "date": "2026-10-21",
+        "status": "posted",
+        "tweet": "\ud83c\uddf3\ud83c\uddf1 Netherlands maintains 3,700 km of primary dikes that shield 60% of its land from river and coastal flooding.",
+        "type": "infrastructure",
+        "tweet_id": "2112962570785001483"
     }
 ]
