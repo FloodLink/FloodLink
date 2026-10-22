@@ -13307,5 +13307,14 @@
         "tweet": "\ud83c\uddf3\ud83c\uddf1 Netherlands maintains 3,700 km of primary dikes and levees, protecting 60% of its land area from flooding.",
         "type": "infrastructure",
         "tweet_id": "2113192774388342838"
+    },
+    {
+        "link": null,
+        "date": "2026-10-22",
+        "status": "posted",
+        "tweet": "Flood EWS coverage (% at-risk pop., 2025):\n1. Europe: 84%\n2. North America: 79%\n3. East Asia: 67%\n4. South Asia: 41%\n5. Sub-Saharan Africa: 28%",
+        "type": "statistical",
+        "category": "coverage of flood early warning systems worldwide",
+        "tweet_id": "2113342925103063156"
     }
 ]
