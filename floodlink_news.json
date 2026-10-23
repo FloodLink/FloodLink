@@ -13218,5 +13218,14 @@
         "score": 6,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-10-23",
+        "status": "posted",
+        "tweet": "By 2030, extreme rainfall is projected to expose 1.4 billion urban residents to pluvial flooding at least once every five years, driven by denser development and intensified storms.",
+        "type": "statistical",
+        "category": "pluvial (surface) flooding in dense cities",
+        "tweet_id": "2113732283173601436"
     }
 ]
