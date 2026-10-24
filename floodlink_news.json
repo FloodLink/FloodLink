@@ -12773,5 +12773,14 @@
         "score": 8,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-10-24",
+        "status": "posted",
+        "tweet": "By 2040, extreme monsoon rainfall is projected to expose an additional 200 million people across Asia to annual flooding, up from 2020 baselines.",
+        "type": "statistical",
+        "category": "monsoon flood patterns in Asia",
+        "tweet_id": "2114070583554265264"
     }
 ]
