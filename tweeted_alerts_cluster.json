@@ -3639,7 +3639,7 @@
     "rain_mm": 45.94,
     "soil_moisture": 0.697,
     "raw_dynamic_score": 7.528,
-    "last_updated": "2026-10-24T02:52:16.007347Z",
+    "last_updated": "2026-10-24T08:00:07.380048Z",
     "last_tweeted_at": "2026-02-01T05:01:05.241309Z",
     "tweet_id": "2017825794077462700",
     "resolved": false
@@ -13299,10 +13299,18 @@
     "rain_mm": 83.81,
     "soil_moisture": 0.739,
     "raw_dynamic_score": 14.055,
-    "last_updated": "2026-10-24T02:52:16.007347Z",
+    "last_updated": "2026-10-24T08:00:07.380048Z",
     "last_tweeted_at": "2026-10-24T02:52:16.007347Z",
     "tweet_id": "2113826166121382051",
-    "resolved": false
+    "resolved": false,
+    "pending_downgrade": true,
+    "pending_target_level": "Low",
+    "pending_set_at": "2026-10-24T08:00:07.380048Z",
+    "pending_is_region": false,
+    "pending_observed_level": "Low",
+    "pending_observed_rain_mm": 1.56,
+    "pending_observed_soil_moisture": 0.68,
+    "pending_observed_raw_dynamic_score": 0.254
   },
   "23.7333,90.4000": {
     "country": "Bangladesh",
@@ -17469,7 +17477,7 @@
     "rain_mm": 54.69,
     "soil_moisture": 0.696,
     "raw_dynamic_score": 8.955,
-    "last_updated": "2026-05-31T22:02:42.857810Z",
+    "last_updated": "2026-10-24T08:00:07.380048Z",
     "last_tweeted_at": "2026-05-31T19:13:05.991821Z",
     "tweet_id": "2061164621076025358",
     "resolved": false
@@ -36582,7 +36590,7 @@
     "rain_mm": 41.69,
     "soil_moisture": 0.713,
     "raw_dynamic_score": 6.892,
-    "last_updated": "2026-10-13T05:02:00.237782Z",
+    "last_updated": "2026-10-24T08:00:07.380048Z",
     "last_tweeted_at": "2026-09-19T12:58:38.412051Z",
     "tweet_id": "2101295187607564694",
     "resolved": false
@@ -41472,7 +41480,7 @@
     "rain_mm": 39.44,
     "soil_moisture": 0.722,
     "raw_dynamic_score": 6.552,
-    "last_updated": "2026-10-12T22:32:52.100480Z",
+    "last_updated": "2026-10-24T08:00:07.380048Z",
     "last_tweeted_at": "2026-10-12T14:12:52.551391Z",
     "tweet_id": "2109648547066921441",
     "resolved": false
@@ -42477,7 +42485,7 @@
     "rain_mm": 34.94,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 6.682,
-    "last_updated": "2026-10-18T07:49:08.609486Z",
+    "last_updated": "2026-10-24T08:00:07.380048Z",
     "last_tweeted_at": "2026-10-18T02:32:36.972738Z",
     "tweet_id": "2111647407381344590",
     "resolved": false
@@ -42522,7 +42530,7 @@
     "rain_mm": 34.19,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 6.538,
-    "last_updated": "2026-10-23T23:53:42.544427Z",
+    "last_updated": "2026-10-24T08:00:07.380048Z",
     "last_tweeted_at": "2026-10-18T13:06:52.901283Z",
     "tweet_id": "2111806769940857326",
     "resolved": false
@@ -42537,7 +42545,7 @@
     "rain_mm": 37.5,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 7.172,
-    "last_updated": "2026-10-23T23:53:42.544427Z",
+    "last_updated": "2026-10-24T08:00:07.380048Z",
     "last_tweeted_at": "2026-10-18T13:06:52.901283Z",
     "tweet_id": "2111807022433808727",
     "resolved": false
@@ -44270,6 +44278,51 @@
     "last_updated": "2026-10-24T02:52:16.007347Z",
     "last_tweeted_at": "2026-10-24T02:52:16.007347Z",
     "tweet_id": "2113826419222437959",
+    "resolved": false
+  },
+  "2.1000,99.8333": {
+    "country": "Indonesia",
+    "name": "Rantauprapat",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 2.1,
+    "longitude": 99.83333,
+    "rain_mm": 44.75,
+    "soil_moisture": 0.734,
+    "raw_dynamic_score": 7.485,
+    "last_updated": "2026-10-24T08:00:07.380048Z",
+    "last_tweeted_at": "2026-10-24T08:00:07.380048Z",
+    "tweet_id": "2113903394200932522",
+    "resolved": false
+  },
+  "2.0500,99.7500": {
+    "country": "Indonesia",
+    "name": "Bandar",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 2.05,
+    "longitude": 99.75,
+    "rain_mm": 44.75,
+    "soil_moisture": 0.734,
+    "raw_dynamic_score": 7.485,
+    "last_updated": "2026-10-24T08:00:07.380048Z",
+    "last_tweeted_at": "2026-10-24T08:00:07.380048Z",
+    "tweet_id": "2113903394200932522",
+    "resolved": false
+  },
+  "5.0393,116.4274": {
+    "country": "Malaysia",
+    "name": "Bandar Nabawan",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 5.0393,
+    "longitude": 116.4274,
+    "rain_mm": 44.62,
+    "soil_moisture": 0.731,
+    "raw_dynamic_score": 7.45,
+    "last_updated": "2026-10-24T08:00:07.380048Z",
+    "last_tweeted_at": "2026-10-24T08:00:07.380048Z",
+    "tweet_id": "2113903647171940736",
     "resolved": false
   }
 }
