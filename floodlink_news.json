@@ -12743,5 +12743,35 @@
             "longitude": -109.045,
             "confidence": 0.85
         }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPcm9VUVhFOHZUSEphU2ZaV0lKamc5M0FSZEJZVkFBWV90UXhoLWY1d0pvMWpvbm01aVowcjFtb3dXVXBLS3JmMWdPN3ZIaGpuSzl0S2RnaFRYV1RhWF9HNHNIVHhFNmpOT1Joc2hyR1VHTDhnLXB1UmpFampzOGtpQ1lFZjRpaWozVC16V21KcDJJNXpfU2NqR3h4MldTLTVVaWdaSVBkR1dfUGJ5c1Z1emRXalI?oc=5",
+        "date": "2026-10-24",
+        "title": "Storms could bring big hail and flash floods to New Mexico overnight into Saturday - KOB 4",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPcm9VUVhFOHZUSEphU2ZaV0lKamc5M0FSZEJZVkFBWV90UXhoLWY1d0pvMWpvbm01aVowcjFtb3dXVXBLS3JmMWdPN3ZIaGpuSzl0S2RnaFRYV1RhWF9HNHNIVHhFNmpOT1Joc2hyR1VHTDhnLXB1UmpFampzOGtpQ1lFZjRpaWozVC16V21KcDJJNXpfU2NqR3h4MldTLTVVaWdaSVBkR1dfUGJ5c1Z1emRXalI?oc=5\" target=\"_blank\">Storms could bring big hail and flash floods to New Mexico overnight into Saturday</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KOB 4</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9rLW00NG9CWVFrMkppeHAtREwxblJEcDFBOENBQXRmQ1k2dnNkMENfQ0Y5U3M5NnJuVENEVDhPRjZFeU9YQVZqYm1GVk51SWdEdWZhSU8yRnRWejZ4NEZKdkVoMkpCLXAtcnQ0YUt2cE9pNWtRUzVpVDBmcDlKSXM?oc=5",
+        "date": "2026-10-24",
+        "title": "They had just finished $80K in flood repairs. Days later, another flash flood tore through their southern Utah home. - The Salt Lake Tribune",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE9rLW00NG9CWVFrMkppeHAtREwxblJEcDFBOENBQXRmQ1k2dnNkMENfQ0Y5U3M5NnJuVENEVDhPRjZFeU9YQVZqYm1GVk51SWdEdWZhSU8yRnRWejZ4NEZKdkVoMkpCLXAtcnQ0YUt2cE9pNWtRUzVpVDBmcDlKSXM?oc=5\" target=\"_blank\">They had just finished $80K in flood repairs. Days later, another flash flood tore through their southern Utah home.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Salt Lake Tribune</font>",
+        "similarity_excluded": "No",
+        "score": 6,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQaXBQT01hdUpuQ0VxY2t2UGN4ck1OQ2NrWHZoRVM0SFJmdUZOUm4zdnRjdkJQZ2RHSnNGRWdfZXpFVHNocDRLaE92ZXEydDRjT3ZhMjhiaFhFRlpPOUFpc0RxRDJ6dUhUUXR5THRnQXRmaU9vdDNHZWQwUFV1WEFJTVdGQkxOREJQd3dyZzZiZEhlX0RrZTQ0MmM2aldVSGl3azlkdVc0OHg3enNMcE50bTRnOEVvYlVjY1U1dHhEaDllNFQ5czJwXzVuUlQxX0dRQVp3OHBBbHZiY1E4cTN4eWJPbjRHTzJMSGFhV2ktdTlCRjhRdklwVw?oc=5",
+        "date": "2026-10-24",
+        "title": "Tamil Nadu rains: Burliar landslide hits Coonoor\u2013Coimbatore bus; girl killed in Virudhunagar, hill districts battered by heavy rain - The South First",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi-AFBVV95cUxQaXBQT01hdUpuQ0VxY2t2UGN4ck1OQ2NrWHZoRVM0SFJmdUZOUm4zdnRjdkJQZ2RHSnNGRWdfZXpFVHNocDRLaE92ZXEydDRjT3ZhMjhiaFhFRlpPOUFpc0RxRDJ6dUhUUXR5THRnQXRmaU9vdDNHZWQwUFV1WEFJTVdGQkxOREJQd3dyZzZiZEhlX0RrZTQ0MmM2aldVSGl3azlkdVc0OHg3enNMcE50bTRnOEVvYlVjY1U1dHhEaDllNFQ5czJwXzVuUlQxX0dRQVp3OHBBbHZiY1E4cTN4eWJPbjRHTzJMSGFhV2ktdTlCRjhRdklwVw?oc=5\" target=\"_blank\">Tamil Nadu rains: Burliar landslide hits Coonoor\u2013Coimbatore bus; girl killed in Virudhunagar, hill districts battered by heavy rain</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The South First</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
     }
 ]
