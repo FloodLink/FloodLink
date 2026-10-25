@@ -8831,7 +8831,7 @@
     "rain_mm": 46.75,
     "soil_moisture": 0.655,
     "raw_dynamic_score": 7.484,
-    "last_updated": "2026-10-12T14:12:52.551391Z",
+    "last_updated": "2026-10-25T23:09:55.293208Z",
     "last_tweeted_at": "2026-03-24T09:54:44.881877Z",
     "tweet_id": "2036381223421976994",
     "resolved": false
@@ -22227,7 +22227,7 @@
     "rain_mm": 42.88,
     "soil_moisture": 0.711,
     "raw_dynamic_score": 7.081,
-    "last_updated": "2026-10-25T18:12:36.538036Z",
+    "last_updated": "2026-10-25T23:09:55.293208Z",
     "last_tweeted_at": "2026-07-01T07:15:24.486807Z",
     "tweet_id": "2072217518446657976",
     "resolved": false
@@ -39125,7 +39125,7 @@
     "rain_mm": 45.44,
     "soil_moisture": 0.718,
     "raw_dynamic_score": 7.532,
-    "last_updated": "2026-10-25T18:12:36.538036Z",
+    "last_updated": "2026-10-25T23:09:55.293208Z",
     "last_tweeted_at": "2026-09-27T19:00:37.939402Z",
     "tweet_id": "2104285395374510370",
     "resolved": false
@@ -44580,6 +44580,36 @@
     "last_updated": "2026-10-25T13:40:38.569772Z",
     "last_tweeted_at": "2026-10-25T08:07:40.024314Z",
     "tweet_id": "2114268171037237622",
+    "resolved": false
+  },
+  "1.2863,-78.8351": {
+    "country": "Ecuador",
+    "name": "San Lorenzo de Esmeraldas",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 1.28626,
+    "longitude": -78.83514,
+    "rain_mm": 44.56,
+    "soil_moisture": 0.713,
+    "raw_dynamic_score": 7.367,
+    "last_updated": "2026-10-25T23:09:55.293208Z",
+    "last_tweeted_at": "2026-10-25T23:09:55.293208Z",
+    "tweet_id": "2114494733447753788",
+    "resolved": false
+  },
+  "18.1920,-73.7495": {
+    "country": "Haiti",
+    "name": "Les Cayes",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 18.19199,
+    "longitude": -73.74948,
+    "rain_mm": 47.69,
+    "soil_moisture": 0.704,
+    "raw_dynamic_score": 7.847,
+    "last_updated": "2026-10-25T23:09:55.293208Z",
+    "last_tweeted_at": "2026-10-25T23:09:55.293208Z",
+    "tweet_id": "2114494986221723819",
     "resolved": false
   }
 }
