@@ -12692,5 +12692,14 @@
             "longitude": -109.5526,
             "confidence": 0.85
         }
+    },
+    {
+        "link": null,
+        "date": "2026-10-26",
+        "status": "posted",
+        "tweet": "Only 42% of flood-exposed populations worldwide receive timely warnings from national systems as of 2025, leaving 1.6 billion people unprotected against flash floods and storm surges.",
+        "type": "statistical",
+        "category": "coverage of flood early warning systems worldwide",
+        "tweet_id": "2114682164419989864"
     }
 ]
