@@ -11053,5 +11053,185 @@
             "longitude": 106.0,
             "confidence": 0.6
         }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA3Ym9WX2xCbVp0S0NXUzB6WDlGX3lUVUQ4N0tBUzY0czNmUlhwRUE3UmptdGZtdlpYZWs3enFkTjZXUnRwTUhzQ1JuYjNvZDlZVmVpbzN6NmFhQ3R4cUJTUmVSM1R4d3dpTDllQ1NaUW1jTjZZYWJB?oc=5",
+        "date": "2026-10-29",
+        "title": "Arizona weather forecast: Flood watch issued as back-to-back storms target the state - FOX 10 Phoenix",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTFA3Ym9WX2xCbVp0S0NXUzB6WDlGX3lUVUQ4N0tBUzY0czNmUlhwRUE3UmptdGZtdlpYZWs3enFkTjZXUnRwTUhzQ1JuYjNvZDlZVmVpbzN6NmFhQ3R4cUJTUmVSM1R4d3dpTDllQ1NaUW1jTjZZYWJB?oc=5\" target=\"_blank\">Arizona weather forecast: Flood watch issued as back-to-back storms target the state</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FOX 10 Phoenix</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNWY4OUViQXNKblNNVFBjUmR1R2lBQk9uMWNabEZkR0JJS3U3UmVwUFFiTlZLaGxnRWswQnFVWUg2ZEZBMHRmWXVOMER4SGVidkh6WE8tR3FoeVlzWkJtN1RDMmR3ZHdKb1ZqcmxVYnJGQXFnWXlGczBjZS1IZ1E4RXBDR05TOWpRWkhXVTR4VU03Z21YWGdzSXlDc3BMMXJIbWNBWm11MnUyLUlTQUdBRUp3?oc=5",
+        "date": "2026-10-29",
+        "title": "New Braunfels takes steps to upgrade flood warning system, sirens - San Antonio Express-News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQNWY4OUViQXNKblNNVFBjUmR1R2lBQk9uMWNabEZkR0JJS3U3UmVwUFFiTlZLaGxnRWswQnFVWUg2ZEZBMHRmWXVOMER4SGVidkh6WE8tR3FoeVlzWkJtN1RDMmR3ZHdKb1ZqcmxVYnJGQXFnWXlGczBjZS1IZ1E4RXBDR05TOWpRWkhXVTR4VU03Z21YWGdzSXlDc3BMMXJIbWNBWm11MnUyLUlTQUdBRUp3?oc=5\" target=\"_blank\">New Braunfels takes steps to upgrade flood warning system, sirens</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">San Antonio Express-News</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUkpJNWVZNDNXcGlySVFWS1dnZk00S2s2bGQyNXg2RENnenB6c21WV0xvbWxyZDV3NzJZY1g4bVJOUWQ0WnVVemZvS1NiWU10MHBZalZpQ3ZHQmNMLTZ5RnJ3Yk1oZ1JlbUN1N01RZ1R4U1dzOWllSUkyVlJya1JHVm81VEhwWDNoeFNpbXlRdDZkbXBkUTh2cmFYTXN2cnhGYmdXb1BXWUQ2UlR6RG1Qazd5MEV3NzRZWXBVRllpcTE?oc=5",
+        "date": "2026-10-29",
+        "title": "After the flood: Neighborhood outside Horizon City cleans up - El Paso Times",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUkpJNWVZNDNXcGlySVFWS1dnZk00S2s2bGQyNXg2RENnenB6c21WV0xvbWxyZDV3NzJZY1g4bVJOUWQ0WnVVemZvS1NiWU10MHBZalZpQ3ZHQmNMLTZ5RnJ3Yk1oZ1JlbUN1N01RZ1R4U1dzOWllSUkyVlJya1JHVm81VEhwWDNoeFNpbXlRdDZkbXBkUTh2cmFYTXN2cnhGYmdXb1BXWUQ2UlR6RG1Qazd5MEV3NzRZWXBVRllpcTE?oc=5\" target=\"_blank\">After the flood: Neighborhood outside Horizon City cleans up</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">El Paso Times</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWmF3V0JCYjZfLWxGWnRYaEtweEpjTmdMNzNFdEZtTEk2aWdhYUR0WXd5dEotcGtGelVHMjRFUWFtS29oczlHbFBSUGc5RmRXN0pSMDFydTJNZGFjbmJSb182cGpUakRrRTB0V1p4dGlyMEJPVVFRVEd5aEUtdlZvM3VUUXF2NDN1X3hnUnJlYmJ3NHpGUmhQT3dfZ2lvdmJUckx3?oc=5",
+        "date": "2026-10-29",
+        "title": "Coastal Flood Warnings Continue Through Saturday Morning - News4JAX",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNWmF3V0JCYjZfLWxGWnRYaEtweEpjTmdMNzNFdEZtTEk2aWdhYUR0WXd5dEotcGtGelVHMjRFUWFtS29oczlHbFBSUGc5RmRXN0pSMDFydTJNZGFjbmJSb182cGpUakRrRTB0V1p4dGlyMEJPVVFRVEd5aEUtdlZvM3VUUXF2NDN1X3hnUnJlYmJ3NHpGUmhQT3dfZ2lvdmJUckx3?oc=5\" target=\"_blank\">Coastal Flood Warnings Continue Through Saturday Morning</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">News4JAX</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUWR0RVhseXM1SXVmUDhTb0RERXhTVFUwdmhkNFpjNl8xYldpRnloNU43eWcxbXg3RXZyTnFpcWc4QnQwTEFCVnZtZXZkTWNBckNpMkJHMjFLV3JPWTJKTUloeGhqdUhGSVgwVTVOeGNOT2ZyeGNtUVd6UWM1X2ZuYmJSc0hwQVhkUFBGbk84TmRrT1NZOW8tX053VkFNQ2hDRWJ0NUVuMEdxVUdSdFdndE1sVdIBuAFBVV95cUxOcG9RYTcxeWlBbUZRX0VmcHRBQkYzaFVQeGV1Q2pWWlpuRGQyQXJaSUdmQ0Q3N0s1a2R0VDlSN0tBUjF3Qkp1dHlPbC1oRkFpbE9Gb240ZHhyTWIzZnJ3N1BReGNpcHRoS2xDVS1rdTNtMkVhTk5ERHFFR05vbWs0YUJkZVc2VHpwYlgtQzQ1MEdsa1JnZnZZYWRnRmc4NkVSUG81bkVEbmpPTXhqOU1jS2puR0poMEpJ?oc=5",
+        "date": "2026-10-29",
+        "title": "November to kick off with major cross-country storm bringing snow, flooding rain as it sweeps US - FOX Weather",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNUWR0RVhseXM1SXVmUDhTb0RERXhTVFUwdmhkNFpjNl8xYldpRnloNU43eWcxbXg3RXZyTnFpcWc4QnQwTEFCVnZtZXZkTWNBckNpMkJHMjFLV3JPWTJKTUloeGhqdUhGSVgwVTVOeGNOT2ZyeGNtUVd6UWM1X2ZuYmJSc0hwQVhkUFBGbk84TmRrT1NZOW8tX053VkFNQ2hDRWJ0NUVuMEdxVUdSdFdndE1sVdIBuAFBVV95cUxOcG9RYTcxeWlBbUZRX0VmcHRBQkYzaFVQeGV1Q2pWWlpuRGQyQXJaSUdmQ0Q3N0s1a2R0VDlSN0tBUjF3Qkp1dHlPbC1oRkFpbE9Gb240ZHhyTWIzZnJ3N1BReGNpcHRoS2xDVS1rdTNtMkVhTk5ERHFFR05vbWs0YUJkZVc2VHpwYlgtQzQ1MEdsa1JnZnZZYWRnRmc4NkVSUG81bkVEbmpPTXhqOU1jS2puR0poMEpJ?oc=5\" target=\"_blank\">November to kick off with major cross-country storm bringing snow, flooding rain as it sweeps US</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FOX Weather</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPcVFnV2dEdU5hUHRUWDh5NVcySGx4TGdoV0xsRmx2XzctM1FsTVp0dkVabEF3Wk1mNTdLLU5XRjdUbnNTZVlGZ1VfOWhsYVptc3BhZ0JyX1RjSzdFN0dOWWkyMHpPX1A0SHFITnB2dmJUZDFCdFJqS1RWMVdQdjYxY051VTd0cmFxYVlhWEJsLV9RTVJGQU1qWFlmQTlHc1ZKZ0lJbzRNWUl0Y1BvZlVJY3BLRl9xSGdlYUZIQmpHOGhPZw?oc=5",
+        "date": "2026-10-29",
+        "title": "Flood advisories posted for parts of Maui as rain soaks Valley Isle - Honolulu Star-Advertiser",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxPcVFnV2dEdU5hUHRUWDh5NVcySGx4TGdoV0xsRmx2XzctM1FsTVp0dkVabEF3Wk1mNTdLLU5XRjdUbnNTZVlGZ1VfOWhsYVptc3BhZ0JyX1RjSzdFN0dOWWkyMHpPX1A0SHFITnB2dmJUZDFCdFJqS1RWMVdQdjYxY051VTd0cmFxYVlhWEJsLV9RTVJGQU1qWFlmQTlHc1ZKZ0lJbzRNWUl0Y1BvZlVJY3BLRl9xSGdlYUZIQmpHOGhPZw?oc=5\" target=\"_blank\">Flood advisories posted for parts of Maui as rain soaks Valley Isle</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Honolulu Star-Advertiser</font>",
+        "similarity_excluded": "No",
+        "score": 6,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxObm9xTlNhVG5pYng3cjNDZm9VdmpjZXJqRWJPRVY3azFEZzJ3Y29xS0s4QWRMcDdhRmlETlUzeWItZWExdE5HVFNKT3h1eFluYVBMUm03cHN4SGxaNkR1S1FBR19jdHpvTVNPSlRYRUItVEtNZzhreTVuaGVVMEtGWEFOY0R2MXAzajVnQm9VRzVVT0N1QTFZVnA0Smpkd3IxN2Ezd1pubGhfMlJvSkdUZ21TMTRNLXV4RFhxM0pKTGo1LTBmeHRLRUM5VlZXX0oyeE5IbmgyMlFNZw?oc=5",
+        "date": "2026-10-29",
+        "title": "Lake Worth Pier and South Port Everglades reach record water levels, King tides flood Florida\u2019s Atlantic coast - The Watchers - Watching the world evolve and transform",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxObm9xTlNhVG5pYng3cjNDZm9VdmpjZXJqRWJPRVY3azFEZzJ3Y29xS0s4QWRMcDdhRmlETlUzeWItZWExdE5HVFNKT3h1eFluYVBMUm03cHN4SGxaNkR1S1FBR19jdHpvTVNPSlRYRUItVEtNZzhreTVuaGVVMEtGWEFOY0R2MXAzajVnQm9VRzVVT0N1QTFZVnA0Smpkd3IxN2Ezd1pubGhfMlJvSkdUZ21TMTRNLXV4RFhxM0pKTGo1LTBmeHRLRUM5VlZXX0oyeE5IbmgyMlFNZw?oc=5\" target=\"_blank\">Lake Worth Pier and South Port Everglades reach record water levels, King tides flood Florida\u2019s Atlantic coast</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Watchers - Watching the world evolve and transform</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNenVOdTg4cG41MHV4TmJ2UU1CNWdxRGRDLUI4Mmw2bjB3aVBaVGdxTzhDY2drblBQWmIwc1JHWXJKclZGRE5OelBjMHNkVnh4X0x6UWFXNm5BX29vOG4wSEdxdmhlQUJGd1RaUWx6TTBJLXV0N3ZpSHVjTjVuUzNUbkNyM3pCbDV0M3NFejItUlg?oc=5",
+        "date": "2026-10-29",
+        "title": "More rain is headed for San Antonio. Here\u2019s how long it could last. - MySA",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNenVOdTg4cG41MHV4TmJ2UU1CNWdxRGRDLUI4Mmw2bjB3aVBaVGdxTzhDY2drblBQWmIwc1JHWXJKclZGRE5OelBjMHNkVnh4X0x6UWFXNm5BX29vOG4wSEdxdmhlQUJGd1RaUWx6TTBJLXV0N3ZpSHVjTjVuUzNUbkNyM3pCbDV0M3NFejItUlg?oc=5\" target=\"_blank\">More rain is headed for San Antonio. Here\u2019s how long it could last.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MySA</font>",
+        "similarity_excluded": "No",
+        "score": 2,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNcGo3d3h1RzZzdFljcnhSSXVyMFhVYkxUbThmcVhwRmkxY2dDR09pRU5UNERHTUsxa21rMlAzc3RBZjg3b21EV3V6andMU1RXVkdNU1pjWU1ObjdjT0VVamg0TDRncnRYdVhicVFHLVphM2pCdWpzT0dQVHQ4TjVCaEVEYw?oc=5",
+        "date": "2026-10-29",
+        "title": "Trump promises more FEMA aid for flood survivors - JAM Broadcasting",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxNcGo3d3h1RzZzdFljcnhSSXVyMFhVYkxUbThmcVhwRmkxY2dDR09pRU5UNERHTUsxa21rMlAzc3RBZjg3b21EV3V6andMU1RXVkdNU1pjWU1ObjdjT0VVamg0TDRncnRYdVhicVFHLVphM2pCdWpzT0dQVHQ4TjVCaEVEYw?oc=5\" target=\"_blank\">Trump promises more FEMA aid for flood survivors</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">JAM Broadcasting</font>",
+        "similarity_excluded": "No",
+        "score": 5,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQY2pua3J2TXVBWi13VzZLVHotUDIyT084S0VOMkJ4emk2Y1FuOVFiZ1NpQjE5MEc2MzN5bUxHcHYxSjVIc2txc2NnaTlKZGQ0eVNfS3hOQXFjRkhjQVZ0WmVVNHpwLW9idFp5RUNNc1NJcXFhS3NhRGVScEl0QTIySHVHV2JzR3RvMGxRSTBFY3BBTG5XRnBUMEN6dWczekFZb2hFWEtuUjhzWC14T21yYlN3V0tYamh5SnVsVzJKVXR6OFJrb2xaMzZZblFZbmIwUk55aDhycw?oc=5",
+        "date": "2026-10-29",
+        "title": "Hurricane Sandy was one of the East Coast\u2019s largest storms on record - The Weather Network",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxQY2pua3J2TXVBWi13VzZLVHotUDIyT084S0VOMkJ4emk2Y1FuOVFiZ1NpQjE5MEc2MzN5bUxHcHYxSjVIc2txc2NnaTlKZGQ0eVNfS3hOQXFjRkhjQVZ0WmVVNHpwLW9idFp5RUNNc1NJcXFhS3NhRGVScEl0QTIySHVHV2JzR3RvMGxRSTBFY3BBTG5XRnBUMEN6dWczekFZb2hFWEtuUjhzWC14T21yYlN3V0tYamh5SnVsVzJKVXR6OFJrb2xaMzZZblFZbmIwUk55aDhycw?oc=5\" target=\"_blank\">Hurricane Sandy was one of the East Coast\u2019s largest storms on record</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Weather Network</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZEtKSUROZ2lUeERZMHNHYjF4bGhUN1pFbnZ0ZDdJUENuQXByQ0p3b0M4RVMzUjhrYXJxTHBzWTFHWTJIX25qTHlPZGNHQk5BYUtNWVRDZngwWnpRaUsxRnoyT3dva2hxcm12TkNKbGwtdlRKSXBLa1NiMTFXallxbDhPZWdFTDFUWFFfRXpXc01DZHRZeXJpQVBmY3ZqQ01mTGlr?oc=5",
+        "date": "2026-10-29",
+        "title": "Another tropical storm is bringing flooding to Hawaii - PropertyCasualty360",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxOZEtKSUROZ2lUeERZMHNHYjF4bGhUN1pFbnZ0ZDdJUENuQXByQ0p3b0M4RVMzUjhrYXJxTHBzWTFHWTJIX25qTHlPZGNHQk5BYUtNWVRDZngwWnpRaUsxRnoyT3dva2hxcm12TkNKbGwtdlRKSXBLa1NiMTFXallxbDhPZWdFTDFUWFFfRXpXc01DZHRZeXJpQVBmY3ZqQ01mTGlr?oc=5\" target=\"_blank\">Another tropical storm is bringing flooding to Hawaii</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PropertyCasualty360</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOM1dPbkY0TWsySEMtQ1NpUFRreFY0bFJKcUJMbDlmRWNtRnRVZHNxa3ZHWDVEZDNKNl84V0JIQ3U5aWJEQUxjRmtma0c4WThhR3M3Y0k1d25Qc1llV003NVc2ZzNMQURqYjlkY1R0SjVDM0lJaTF6bmN5MGlMT0xNNlFHR1FqWnRsOGtWM0d0S1RoWXZHX29jaVlxQ2lDUUlKaE5UeG5oT1hGMUs1RFlRQ2FCUzMyWllla1l1OWxlUHBMS1BBaVNEVnFVNVZQeGlE?oc=5",
+        "date": "2026-10-29",
+        "title": "\u2018Dry Flooding\u2019 along the Space Coast: How strong wind and king tides have broken records - WKMG",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxOM1dPbkY0TWsySEMtQ1NpUFRreFY0bFJKcUJMbDlmRWNtRnRVZHNxa3ZHWDVEZDNKNl84V0JIQ3U5aWJEQUxjRmtma0c4WThhR3M3Y0k1d25Qc1llV003NVc2ZzNMQURqYjlkY1R0SjVDM0lJaTF6bmN5MGlMT0xNNlFHR1FqWnRsOGtWM0d0S1RoWXZHX29jaVlxQ2lDUUlKaE5UeG5oT1hGMUs1RFlRQ2FCUzMyWllla1l1OWxlUHBMS1BBaVNEVnFVNVZQeGlE?oc=5\" target=\"_blank\">\u2018Dry Flooding\u2019 along the Space Coast: How strong wind and king tides have broken records</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WKMG</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQNjJDeWJSOG45eldlQmZJcTF5SFc4SGg0T210alU4T1RDRWQtVkZqNm5YYjFhenNQbURkZVpFblVrUUpVTldFRWl6TGh6dzdFYzBRb2xSNDZ6ekwwNWh5SE1GUllodmpINXpIZHlpQzR1RW9CUGNkVzh1Y3hUMlVvV0lIN1U1TXhfRTFCdWllTUlwZHMxcEY4MVJBR3RObnBpUExsSkYyOVhFeFJ6UjVNWlc3Rzk5ZXQxWGFCek8yeFlJc2xtbDh4eU90aF8yMDBjendpMGtOeDJlNzl3OUlHaQ?oc=5",
+        "date": "2026-10-29",
+        "title": "Heavy Rain Triggers Landslide Near UNESCO Cappadocia, Killing At Least Two: 20 outlets compared - NewsCord",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxQNjJDeWJSOG45eldlQmZJcTF5SFc4SGg0T210alU4T1RDRWQtVkZqNm5YYjFhenNQbURkZVpFblVrUUpVTldFRWl6TGh6dzdFYzBRb2xSNDZ6ekwwNWh5SE1GUllodmpINXpIZHlpQzR1RW9CUGNkVzh1Y3hUMlVvV0lIN1U1TXhfRTFCdWllTUlwZHMxcEY4MVJBR3RObnBpUExsSkYyOVhFeFJ6UjVNWlc3Rzk5ZXQxWGFCek8yeFlJc2xtbDh4eU90aF8yMDBjendpMGtOeDJlNzl3OUlHaQ?oc=5\" target=\"_blank\">Heavy Rain Triggers Landslide Near UNESCO Cappadocia, Killing At Least Two: 20 outlets compared</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NewsCord</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZ0ltTUw3Y0dkR3Y5UWlJTDVnZzM5dmZ2Mmoxek55OFlnekNtR2JrRmF5TE02MFVBU0ZVMEo3OVFVc0UtS08wZkVEQXVPNFhnVEJnSXN1WlhlUUR6MUxwNEp3cnM3YkpSZnJoRFhkR2UtQjRzR2tUNm1Xay00QVNJdE0wUENDNGJ1WmhIT1Fn?oc=5",
+        "date": "2026-10-29",
+        "title": "Three dead in rock spire collapse at Turkey's touristic Cappadocia - Yahoo",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPZ0ltTUw3Y0dkR3Y5UWlJTDVnZzM5dmZ2Mmoxek55OFlnekNtR2JrRmF5TE02MFVBU0ZVMEo3OVFVc0UtS08wZkVEQXVPNFhnVEJnSXN1WlhlUUR6MUxwNEp3cnM3YkpSZnJoRFhkR2UtQjRzR2tUNm1Xay00QVNJdE0wUENDNGJ1WmhIT1Fn?oc=5\" target=\"_blank\">Three dead in rock spire collapse at Turkey's touristic Cappadocia</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONkRQOVVZU1I2RGRRTDhHV1dTT282VzN2MlRHMXliVEZnNmhEQW9MRXVUaENBcUJXblRuV2ZxejAzd1UyREgwTkdTLXVTbFA5X001bUZIV3diMktTM2V4R2VXbURsXzlOWW93SWh2ZUpzQWRzQmJpSkRQdHJGS2Q3S3lXcE54WEo4YVRuVGM0MkhwR0lUOHFqX2FB0gGeAUFVX3lxTE1fMWJNYVE0UzJSSWxTR2hOS3VDQlNzVFZzb0lzUzJadHR1dmxsLXZtUUV4M1lNbXlMVEJMUElEME9zUWw2TURVcTIxb1RkM05nZGdNS0pBNGxlbE15dWFfd3hmRFFfS0NJZlpreXFCcVFzTEgwOGtLWGFLOWZkUV9iZkhXdUxWeURwQnJBRDJET0JlNzFLMXhEaXBrUi1R?oc=5",
+        "date": "2026-10-29",
+        "title": "Rock spire collapse kills 3 in Turkey\u2019s Cappadocia - Kuwait Times",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxONkRQOVVZU1I2RGRRTDhHV1dTT282VzN2MlRHMXliVEZnNmhEQW9MRXVUaENBcUJXblRuV2ZxejAzd1UyREgwTkdTLXVTbFA5X001bUZIV3diMktTM2V4R2VXbURsXzlOWW93SWh2ZUpzQWRzQmJpSkRQdHJGS2Q3S3lXcE54WEo4YVRuVGM0MkhwR0lUOHFqX2FB0gGeAUFVX3lxTE1fMWJNYVE0UzJSSWxTR2hOS3VDQlNzVFZzb0lzUzJadHR1dmxsLXZtUUV4M1lNbXlMVEJMUElEME9zUWw2TURVcTIxb1RkM05nZGdNS0pBNGxlbE15dWFfd3hmRFFfS0NJZlpreXFCcVFzTEgwOGtLWGFLOWZkUV9iZkhXdUxWeURwQnJBRDJET0JlNzFLMXhEaXBrUi1R?oc=5\" target=\"_blank\">Rock spire collapse kills 3 in Turkey\u2019s Cappadocia</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Kuwait Times</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOX1F1ZFlRZjdySlZteVZxWko5d05CY3JHb2g1LWtsV21FZDBHcWFlX1BUSkM4UHR5dDdxSU1iT2ZOR282ZXZlbDJuaTZBZXZHbFk3bkx3WFJwSERycmRKYUNaTlJRNGZuQlBwVDlKeXFHZGJ2aENVdVJhT1NCeEV3QW5SWDA2ZzI1aHF1SFRLMFU5dlNhdjFMZVZtT005bU9ycGdQR2NJZkszV2JPQ2t4M21TcGpKMVHSAcQBQVVfeXFMT19jOWZQQTg5YWdJaHlVRUZOaG1nV1Y2bXhwcEZJSTM2cjFCanZReXJRR0wybnpEbGI0SW13a21TdDRYd05hdFlqNGpxZWdQNFd4QnhTb1ZqWGo5SEtVdEhmRk5oVU9DQnZ6dU9qZkxWOS1ULVZxSWJCU09XMjd6Y3prQlZBTktLbkJzSEpEV19meUhzZzZsdG5aTW05bnRpaE1vbDBWOEFBUDc0bUhoUF8yWEZlVXZzdmkzZFdNTDR0UXdfNw?oc=5",
+        "date": "2026-10-29",
+        "title": "Three dead in rock spire collapse at Turkey's touristic Cappadocia - The New Indian Express",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxOX1F1ZFlRZjdySlZteVZxWko5d05CY3JHb2g1LWtsV21FZDBHcWFlX1BUSkM4UHR5dDdxSU1iT2ZOR282ZXZlbDJuaTZBZXZHbFk3bkx3WFJwSERycmRKYUNaTlJRNGZuQlBwVDlKeXFHZGJ2aENVdVJhT1NCeEV3QW5SWDA2ZzI1aHF1SFRLMFU5dlNhdjFMZVZtT005bU9ycGdQR2NJZkszV2JPQ2t4M21TcGpKMVHSAcQBQVVfeXFMT19jOWZQQTg5YWdJaHlVRUZOaG1nV1Y2bXhwcEZJSTM2cjFCanZReXJRR0wybnpEbGI0SW13a21TdDRYd05hdFlqNGpxZWdQNFd4QnhTb1ZqWGo5SEtVdEhmRk5oVU9DQnZ6dU9qZkxWOS1ULVZxSWJCU09XMjd6Y3prQlZBTktLbkJzSEpEV19meUhzZzZsdG5aTW05bnRpaE1vbDBWOEFBUDc0bUhoUF8yWEZlVXZzdmkzZFdNTDR0UXdfNw?oc=5\" target=\"_blank\">Three dead in rock spire collapse at Turkey's touristic Cappadocia</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New Indian Express</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOMnJtdWdjWHpfZ3RMUVY2RVR1RWRMQjVxalppc3JwbGktNWNaV2dma0VDR1hwcDdjRXdJYXJQV09XY1Q0S3paQnYwczNleV8yTU1xeWtXd0Jlc1Z6ZlJSNTZtRVYyVHEwc3JRVXVvV0VlWTdUeG1KQ0tpRFplTmtsMFR0VmF4VzY3d2xjc2dsdThNTFc4bDQxbTFfb3JuR3Y1bDVJ?oc=5",
+        "date": "2026-10-29",
+        "title": "Heavy rain triggers deadly rock collapse in Turkey\u2019s Cappadocia region - Getaway Magazine",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxOMnJtdWdjWHpfZ3RMUVY2RVR1RWRMQjVxalppc3JwbGktNWNaV2dma0VDR1hwcDdjRXdJYXJQV09XY1Q0S3paQnYwczNleV8yTU1xeWtXd0Jlc1Z6ZlJSNTZtRVYyVHEwc3JRVXVvV0VlWTdUeG1KQ0tpRFplTmtsMFR0VmF4VzY3d2xjc2dsdThNTFc4bDQxbTFfb3JuR3Y1bDVJ?oc=5\" target=\"_blank\">Heavy rain triggers deadly rock collapse in Turkey\u2019s Cappadocia region</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Getaway Magazine</font>",
+        "similarity_excluded": "No",
+        "score": 5,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQbFZXanZLdDMtX2NSQWJPZEJQVnZWRWI1TW1uR18ycVpoZGhnSGxOUWZVeWJzZ0Y3cEwteWJYMTExa0FYZE5DeWhpOVFBRFF4Y0tuMjdUNi1aSnVNZ29LODM1T3c2OGRrdTFzT2VTbDB4Uk1mVjJYejhfMHEyZ1Bzd1ZrU0ZrWDBhX0ZJcDUtSmVyXzNJanY3NExqTnBFNUxMVExKajg5aEN1MFVlZmp6SFM1RFZLY0twNjlQN0JnVmlTYXNnZGs3OXJfZUN2UE1NbVE?oc=5",
+        "date": "2026-10-29",
+        "title": "Odisha: Cyclone Arnab triggers landslide at Taptapani Ghat, NH-326 damaged - ANI News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxQbFZXanZLdDMtX2NSQWJPZEJQVnZWRWI1TW1uR18ycVpoZGhnSGxOUWZVeWJzZ0Y3cEwteWJYMTExa0FYZE5DeWhpOVFBRFF4Y0tuMjdUNi1aSnVNZ29LODM1T3c2OGRrdTFzT2VTbDB4Uk1mVjJYejhfMHEyZ1Bzd1ZrU0ZrWDBhX0ZJcDUtSmVyXzNJanY3NExqTnBFNUxMVExKajg5aEN1MFVlZmp6SFM1RFZLY0twNjlQN0JnVmlTYXNnZGs3OXJfZUN2UE1NbVE?oc=5\" target=\"_blank\">Odisha: Cyclone Arnab triggers landslide at Taptapani Ghat, NH-326 damaged</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ANI News</font>",
+        "similarity_excluded": "No",
+        "score": 5,
+        "status": "processed",
+        "tweet": null
     }
 ]
