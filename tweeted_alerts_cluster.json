@@ -1014,7 +1014,7 @@
     "rain_mm": 61.38,
     "soil_moisture": 0.637,
     "raw_dynamic_score": 9.727,
-    "last_updated": "2026-01-30T18:35:26.309841Z",
+    "last_updated": "2026-10-29T18:34:21.565947Z",
     "last_tweeted_at": "2026-01-16T12:31:31.730376Z",
     "tweet_id": "2012140702679916594",
     "resolved": false
@@ -3265,7 +3265,7 @@
     "rain_mm": 55.19,
     "soil_moisture": 0.731,
     "raw_dynamic_score": 9.213,
-    "last_updated": "2026-03-04T12:43:28.893469Z",
+    "last_updated": "2026-10-29T18:34:21.565947Z",
     "last_tweeted_at": "2026-01-28T21:29:37.245277Z",
     "tweet_id": "2016624772583739719",
     "resolved": false
@@ -44228,7 +44228,7 @@
     "rain_mm": 51.5,
     "soil_moisture": 0.364,
     "raw_dynamic_score": 6.892,
-    "last_updated": "2026-10-29T12:10:42.088310Z",
+    "last_updated": "2026-10-29T18:34:21.565947Z",
     "last_tweeted_at": "2026-10-29T12:10:42.088310Z",
     "tweet_id": "2115778383149723727",
     "resolved": false
@@ -44243,9 +44243,24 @@
     "rain_mm": 69.25,
     "soil_moisture": 0.735,
     "raw_dynamic_score": 11.588,
-    "last_updated": "2026-10-29T12:10:42.088310Z",
+    "last_updated": "2026-10-29T18:34:21.565947Z",
     "last_tweeted_at": "2026-10-29T12:10:42.088310Z",
     "tweet_id": "2115778635835515386",
+    "resolved": false
+  },
+  "-21.8833,47.4333": {
+    "country": "Madagascar",
+    "name": "Ikongo",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": -21.88333,
+    "longitude": 47.43333,
+    "rain_mm": 45.12,
+    "soil_moisture": 0.596,
+    "raw_dynamic_score": 6.983,
+    "last_updated": "2026-10-29T18:34:21.565947Z",
+    "last_tweeted_at": "2026-10-29T18:34:21.565947Z",
+    "tweet_id": "2115874944471183568",
     "resolved": false
   }
 }
