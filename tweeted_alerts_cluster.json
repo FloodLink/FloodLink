@@ -1014,7 +1014,7 @@
     "rain_mm": 61.38,
     "soil_moisture": 0.637,
     "raw_dynamic_score": 9.727,
-    "last_updated": "2026-10-29T18:34:21.565947Z",
+    "last_updated": "2026-10-30T00:44:49.892003Z",
     "last_tweeted_at": "2026-01-16T12:31:31.730376Z",
     "tweet_id": "2012140702679916594",
     "resolved": false
@@ -3104,22 +3104,6 @@
     "tweet_id": "2016035506358730893",
     "resolved": false
   },
-  "-16.9567,-51.8103": {
-    "country": "Brazil",
-    "name": "Caiapônia",
-    "risk_level": "Low",
-    "tweeted_level": "High",
-    "latitude": -16.95667,
-    "longitude": -51.81028,
-    "rain_mm": 0.06,
-    "soil_moisture": 0.388,
-    "raw_dynamic_score": 0.009,
-    "last_updated": "2026-10-29T03:54:45.818058Z",
-    "last_tweeted_at": "2026-10-28T18:49:49.870188Z",
-    "tweet_id": "2115516695620227112",
-    "resolved": true,
-    "resolved_at": "2026-10-28T18:49:49.870188Z"
-  },
   "-13.6690,48.4530": {
     "country": "Madagascar",
     "name": "Ambanja",
@@ -3265,7 +3249,7 @@
     "rain_mm": 55.19,
     "soil_moisture": 0.731,
     "raw_dynamic_score": 9.213,
-    "last_updated": "2026-10-29T18:34:21.565947Z",
+    "last_updated": "2026-10-30T00:44:49.892003Z",
     "last_tweeted_at": "2026-01-28T21:29:37.245277Z",
     "tweet_id": "2016624772583739719",
     "resolved": false
@@ -3524,22 +3508,6 @@
     "last_tweeted_at": "2026-01-31T12:34:11.499310Z",
     "tweet_id": "2017577188384493706",
     "resolved": false
-  },
-  "-14.5489,-49.9692": {
-    "country": "Brazil",
-    "name": "Crixás",
-    "risk_level": "Low",
-    "tweeted_level": "High",
-    "latitude": -14.54889,
-    "longitude": -49.96917,
-    "rain_mm": 1.62,
-    "soil_moisture": 0.385,
-    "raw_dynamic_score": 0.221,
-    "last_updated": "2026-10-29T03:54:45.818058Z",
-    "last_tweeted_at": "2026-10-28T18:49:49.870188Z",
-    "tweet_id": "2115516695620227112",
-    "resolved": true,
-    "resolved_at": "2026-10-28T18:49:49.870188Z"
   },
   "-27.9830,30.7177": {
     "country": "South Africa",
@@ -3960,22 +3928,6 @@
     "last_tweeted_at": "2026-02-04T18:42:21.497810Z",
     "tweet_id": "2019120155339493656",
     "resolved": false
-  },
-  "-16.8050,-49.9258": {
-    "country": "Brazil",
-    "name": "Palmeiras de Goiás",
-    "risk_level": "Low",
-    "tweeted_level": "High",
-    "latitude": -16.805,
-    "longitude": -49.92583,
-    "rain_mm": 2.81,
-    "soil_moisture": 0.365,
-    "raw_dynamic_score": 0.377,
-    "last_updated": "2026-10-29T03:54:45.818058Z",
-    "last_tweeted_at": "2026-10-28T18:49:49.870188Z",
-    "tweet_id": "2115516695620227112",
-    "resolved": true,
-    "resolved_at": "2026-10-28T18:49:49.870188Z"
   },
   "-2.5381,14.7541": {
     "country": "Congo",
@@ -4621,22 +4573,6 @@
     "last_tweeted_at": "2026-02-10T09:58:12.124101Z",
     "tweet_id": "2021161803741348182",
     "resolved": false
-  },
-  "5.7104,6.8094": {
-    "country": "Nigeria",
-    "name": "Oguta",
-    "risk_level": "None",
-    "tweeted_level": "None",
-    "latitude": 5.71044,
-    "longitude": 6.80936,
-    "rain_mm": 0.0,
-    "soil_moisture": 0.563,
-    "raw_dynamic_score": 0.0,
-    "last_updated": "2026-10-28T22:20:13.821083Z",
-    "last_tweeted_at": "2026-10-28T22:20:13.821083Z",
-    "tweet_id": "2115569645994623425",
-    "resolved": true,
-    "resolved_at": "2026-10-28T22:20:13.821083Z"
   },
   "5.8548,6.8594": {
     "country": "Nigeria",
@@ -6228,22 +6164,6 @@
     "tweet_id": "2026469711018422726",
     "resolved": false
   },
-  "-18.2205,-49.7299": {
-    "country": "Brazil",
-    "name": "Bom Jesus de Goiás",
-    "risk_level": "Low",
-    "tweeted_level": "High",
-    "latitude": -18.22047,
-    "longitude": -49.72993,
-    "rain_mm": 0.69,
-    "soil_moisture": 0.338,
-    "raw_dynamic_score": 0.09,
-    "last_updated": "2026-10-29T03:54:45.818058Z",
-    "last_tweeted_at": "2026-10-28T18:49:49.870188Z",
-    "tweet_id": "2115516695620227112",
-    "resolved": true,
-    "resolved_at": "2026-10-28T18:49:49.870188Z"
-  },
   "-1.4916,-78.0034": {
     "country": "Ecuador",
     "name": "Puyo",
@@ -7833,22 +7753,6 @@
     "last_tweeted_at": "2026-03-16T21:39:37.394318Z",
     "tweet_id": "2033659504315842926",
     "resolved": false
-  },
-  "-15.7569,-49.3344": {
-    "country": "Brazil",
-    "name": "Jaraguá",
-    "risk_level": "Low",
-    "tweeted_level": "High",
-    "latitude": -15.75694,
-    "longitude": -49.33444,
-    "rain_mm": 6.25,
-    "soil_moisture": 0.334,
-    "raw_dynamic_score": 0.82,
-    "last_updated": "2026-10-29T03:54:45.818058Z",
-    "last_tweeted_at": "2026-10-28T18:49:49.870188Z",
-    "tweet_id": "2115516695620227112",
-    "resolved": true,
-    "resolved_at": "2026-10-28T18:49:49.870188Z"
   },
   "-16.8099,29.6925": {
     "country": "Zimbabwe",
@@ -20015,22 +19919,6 @@
     "last_tweeted_at": "2026-09-01T23:05:43.845780Z",
     "tweet_id": "2094925985766342868",
     "resolved": false
-  },
-  "5.8292,7.3506": {
-    "country": "Nigeria",
-    "name": "Okigwe",
-    "risk_level": "None",
-    "tweeted_level": "None",
-    "latitude": 5.82917,
-    "longitude": 7.35056,
-    "rain_mm": 0.0,
-    "soil_moisture": 0.501,
-    "raw_dynamic_score": 0.0,
-    "last_updated": "2026-10-28T22:20:13.821083Z",
-    "last_tweeted_at": "2026-10-28T22:20:13.821083Z",
-    "tweet_id": "2115569645994623425",
-    "resolved": true,
-    "resolved_at": "2026-10-28T22:20:13.821083Z"
   },
   "9.6152,6.5478": {
     "country": "Nigeria",
@@ -43657,38 +43545,6 @@
     "tweet_id": "2115139170964541636",
     "resolved": false
   },
-  "7.1135,6.7387": {
-    "country": "Nigeria",
-    "name": "Idah",
-    "risk_level": "Low",
-    "tweeted_level": "Low",
-    "latitude": 7.11345,
-    "longitude": 6.73866,
-    "rain_mm": 0.06,
-    "soil_moisture": 0.598,
-    "raw_dynamic_score": 0.01,
-    "last_updated": "2026-10-28T18:49:49.870188Z",
-    "last_tweeted_at": "2026-10-28T18:49:49.870188Z",
-    "tweet_id": "2115517201331769603",
-    "resolved": true,
-    "resolved_at": "2026-10-28T18:49:49.870188Z"
-  },
-  "5.7592,7.1038": {
-    "country": "Nigeria",
-    "name": "Nkwerre",
-    "risk_level": "None",
-    "tweeted_level": "None",
-    "latitude": 5.75917,
-    "longitude": 7.10384,
-    "rain_mm": 0.0,
-    "soil_moisture": 0.511,
-    "raw_dynamic_score": 0.0,
-    "last_updated": "2026-10-28T22:20:13.821083Z",
-    "last_tweeted_at": "2026-10-28T22:20:13.821083Z",
-    "tweet_id": "2115569645994623425",
-    "resolved": true,
-    "resolved_at": "2026-10-28T22:20:13.821083Z"
-  },
   "8.4333,99.9667": {
     "country": "Thailand",
     "name": "Nakhon Si Thammarat",
@@ -44142,36 +43998,34 @@
   "-17.2997,-48.2794": {
     "country": "Brazil",
     "name": "Pires do Rio",
-    "risk_level": "Medium",
-    "tweeted_level": "High",
+    "risk_level": "Low",
+    "tweeted_level": "Low",
     "latitude": -17.29972,
     "longitude": -48.27944,
-    "rain_mm": 67.56,
-    "soil_moisture": 0.597,
-    "raw_dynamic_score": 10.46,
-    "last_updated": "2026-10-29T03:54:45.818058Z",
-    "last_tweeted_at": "2026-10-28T18:49:49.870188Z",
-    "tweet_id": "2115516695620227112",
-    "resolved": false,
-    "pending_downgrade": true,
-    "pending_target_level": "Low",
-    "pending_set_at": "2026-10-29T03:54:45.818058Z",
-    "pending_is_region": true
+    "rain_mm": 1.0,
+    "soil_moisture": 0.567,
+    "raw_dynamic_score": 0.152,
+    "last_updated": "2026-10-30T00:44:49.892003Z",
+    "last_tweeted_at": "2026-10-30T00:44:49.892003Z",
+    "tweet_id": "2115968172402630982",
+    "resolved": true,
+    "resolved_at": "2026-10-30T00:44:49.892003Z"
   },
   "-17.0314,-48.2958": {
     "country": "Brazil",
     "name": "Orizona",
-    "risk_level": "High",
-    "tweeted_level": "High",
+    "risk_level": "Low",
+    "tweeted_level": "Low",
     "latitude": -17.03139,
     "longitude": -48.29583,
-    "rain_mm": 76.88,
-    "soil_moisture": 0.635,
-    "raw_dynamic_score": 12.166,
-    "last_updated": "2026-10-29T03:54:45.818058Z",
-    "last_tweeted_at": "2026-10-28T18:49:49.870188Z",
-    "tweet_id": "2115516695620227112",
-    "resolved": false
+    "rain_mm": 2.75,
+    "soil_moisture": 0.597,
+    "raw_dynamic_score": 0.426,
+    "last_updated": "2026-10-30T00:44:49.892003Z",
+    "last_tweeted_at": "2026-10-30T00:44:49.892003Z",
+    "tweet_id": "2115968172402630982",
+    "resolved": true,
+    "resolved_at": "2026-10-30T00:44:49.892003Z"
   },
   "-18.6472,-48.1872": {
     "country": "Brazil",
@@ -44258,7 +44112,7 @@
     "rain_mm": 45.12,
     "soil_moisture": 0.596,
     "raw_dynamic_score": 6.983,
-    "last_updated": "2026-10-29T18:34:21.565947Z",
+    "last_updated": "2026-10-30T00:44:49.892003Z",
     "last_tweeted_at": "2026-10-29T18:34:21.565947Z",
     "tweet_id": "2115874944471183568",
     "resolved": false
