@@ -13229,22 +13229,6 @@
     "tweet_id": "2050693440900403244",
     "resolved": false
   },
-  "-4.1289,104.1669": {
-    "country": "Indonesia",
-    "name": "Baturaja",
-    "risk_level": "Low",
-    "tweeted_level": "Low",
-    "latitude": -4.12891,
-    "longitude": 104.16695,
-    "rain_mm": 8.5,
-    "soil_moisture": 0.677,
-    "raw_dynamic_score": 1.377,
-    "last_updated": "2026-10-29T12:10:42.088310Z",
-    "last_tweeted_at": "2026-10-29T12:10:42.088310Z",
-    "tweet_id": "2115778888831787450",
-    "resolved": true,
-    "resolved_at": "2026-10-29T12:10:42.088310Z"
-  },
   "20.9167,106.0833": {
     "country": "Viet Nam",
     "name": "Mỹ Hào",
@@ -44127,7 +44111,7 @@
     "rain_mm": 43.69,
     "soil_moisture": 0.629,
     "raw_dynamic_score": 6.893,
-    "last_updated": "2026-10-30T09:34:40.476153Z",
+    "last_updated": "2026-10-30T17:44:20.976002Z",
     "last_tweeted_at": "2026-10-30T09:34:40.476153Z",
     "tweet_id": "2116101494394990721",
     "resolved": false
@@ -44187,7 +44171,7 @@
     "rain_mm": 43.69,
     "soil_moisture": 0.629,
     "raw_dynamic_score": 6.893,
-    "last_updated": "2026-10-30T09:34:40.476153Z",
+    "last_updated": "2026-10-30T17:44:20.976002Z",
     "last_tweeted_at": "2026-10-30T09:34:40.476153Z",
     "tweet_id": "2116101746854338673",
     "resolved": false
@@ -44220,6 +44204,66 @@
     "last_updated": "2026-10-30T09:34:40.476153Z",
     "last_tweeted_at": "2026-10-30T09:34:40.476153Z",
     "tweet_id": "2116101746854338673",
+    "resolved": false
+  },
+  "-6.1208,14.6209": {
+    "country": "Angola",
+    "name": "Cuímba",
+    "risk_level": "High",
+    "tweeted_level": "High",
+    "latitude": -6.12085,
+    "longitude": 14.62086,
+    "rain_mm": 90.69,
+    "soil_moisture": 0.671,
+    "raw_dynamic_score": 14.648,
+    "last_updated": "2026-10-30T17:44:20.976002Z",
+    "last_tweeted_at": "2026-10-30T17:44:20.976002Z",
+    "tweet_id": "2116224735704928640",
+    "resolved": false
+  },
+  "-5.7652,13.6571": {
+    "country": "The Democratic Republic of the Congo",
+    "name": "Kenge",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": -5.76521,
+    "longitude": 13.65711,
+    "rain_mm": 65.88,
+    "soil_moisture": 0.557,
+    "raw_dynamic_score": 9.963,
+    "last_updated": "2026-10-30T17:44:20.976002Z",
+    "last_tweeted_at": "2026-10-30T17:44:20.976002Z",
+    "tweet_id": "2116224988546007055",
+    "resolved": false
+  },
+  "-1.5911,-78.9990": {
+    "country": "Ecuador",
+    "name": "Guaranda",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": -1.59106,
+    "longitude": -78.99903,
+    "rain_mm": 43.94,
+    "soil_moisture": 0.618,
+    "raw_dynamic_score": 6.887,
+    "last_updated": "2026-10-30T17:44:20.976002Z",
+    "last_tweeted_at": "2026-10-30T17:44:20.976002Z",
+    "tweet_id": "2116225241848431037",
+    "resolved": false
+  },
+  "28.9828,-95.9694": {
+    "country": "United States",
+    "name": "Bay City",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 28.98276,
+    "longitude": -95.9694,
+    "rain_mm": 73.06,
+    "soil_moisture": 0.466,
+    "raw_dynamic_score": 10.449,
+    "last_updated": "2026-10-30T17:44:20.976002Z",
+    "last_tweeted_at": "2026-10-30T17:44:20.976002Z",
+    "tweet_id": "2116225494534238709",
     "resolved": false
   }
 }
