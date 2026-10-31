@@ -6009,10 +6009,18 @@
     "rain_mm": 76.5,
     "soil_moisture": 0.688,
     "raw_dynamic_score": 12.474,
-    "last_updated": "2026-10-30T22:03:15.341020Z",
+    "last_updated": "2026-10-31T03:41:54.084698Z",
     "last_tweeted_at": "2026-10-30T22:03:15.341020Z",
     "tweet_id": "2116290400486846899",
-    "resolved": false
+    "resolved": false,
+    "pending_downgrade": true,
+    "pending_target_level": "Low",
+    "pending_set_at": "2026-10-31T03:41:54.084698Z",
+    "pending_is_region": false,
+    "pending_observed_level": "Low",
+    "pending_observed_rain_mm": 8.06,
+    "pending_observed_soil_moisture": 0.64,
+    "pending_observed_raw_dynamic_score": 1.28
   },
   "6.2248,124.7104": {
     "country": "Philippines",
@@ -8589,7 +8597,7 @@
     "rain_mm": 46.75,
     "soil_moisture": 0.655,
     "raw_dynamic_score": 7.484,
-    "last_updated": "2026-10-30T22:03:15.341020Z",
+    "last_updated": "2026-10-31T03:41:54.084698Z",
     "last_tweeted_at": "2026-03-24T09:54:44.881877Z",
     "tweet_id": "2036381223421976994",
     "resolved": false
@@ -16944,7 +16952,7 @@
     "rain_mm": 48.12,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 9.204,
-    "last_updated": "2026-05-31T02:54:41.003895Z",
+    "last_updated": "2026-10-31T03:41:54.084698Z",
     "last_tweeted_at": "2026-05-30T19:11:19.502893Z",
     "tweet_id": "2060801533483090170",
     "resolved": false
@@ -41619,10 +41627,14 @@
     "rain_mm": 145.56,
     "soil_moisture": 0.734,
     "raw_dynamic_score": 24.337,
-    "last_updated": "2026-10-30T22:03:15.341020Z",
+    "last_updated": "2026-10-31T03:41:54.084698Z",
     "last_tweeted_at": "2026-10-30T22:03:15.341020Z",
     "tweet_id": "2116290147406713022",
-    "resolved": false
+    "resolved": false,
+    "pending_downgrade": true,
+    "pending_target_level": "Low",
+    "pending_set_at": "2026-10-31T03:41:54.084698Z",
+    "pending_is_region": true
   },
   "-1.4428,-79.4627": {
     "country": "Ecuador",
@@ -41634,7 +41646,7 @@
     "rain_mm": 91.25,
     "soil_moisture": 0.734,
     "raw_dynamic_score": 15.256,
-    "last_updated": "2026-10-30T22:03:15.341020Z",
+    "last_updated": "2026-10-31T03:41:54.084698Z",
     "last_tweeted_at": "2026-10-30T22:03:15.341020Z",
     "tweet_id": "2116290147406713022",
     "resolved": false
@@ -41649,7 +41661,7 @@
     "rain_mm": 71.56,
     "soil_moisture": 0.678,
     "raw_dynamic_score": 11.602,
-    "last_updated": "2026-10-30T22:03:15.341020Z",
+    "last_updated": "2026-10-31T03:41:54.084698Z",
     "last_tweeted_at": "2026-10-30T22:03:15.341020Z",
     "tweet_id": "2116290147406713022",
     "resolved": false
@@ -43980,38 +43992,6 @@
     "tweet_id": "2115516442460532946",
     "resolved": false
   },
-  "-17.2997,-48.2794": {
-    "country": "Brazil",
-    "name": "Pires do Rio",
-    "risk_level": "Low",
-    "tweeted_level": "Low",
-    "latitude": -17.29972,
-    "longitude": -48.27944,
-    "rain_mm": 1.0,
-    "soil_moisture": 0.567,
-    "raw_dynamic_score": 0.152,
-    "last_updated": "2026-10-30T00:44:49.892003Z",
-    "last_tweeted_at": "2026-10-30T00:44:49.892003Z",
-    "tweet_id": "2115968172402630982",
-    "resolved": true,
-    "resolved_at": "2026-10-30T00:44:49.892003Z"
-  },
-  "-17.0314,-48.2958": {
-    "country": "Brazil",
-    "name": "Orizona",
-    "risk_level": "Low",
-    "tweeted_level": "Low",
-    "latitude": -17.03139,
-    "longitude": -48.29583,
-    "rain_mm": 2.75,
-    "soil_moisture": 0.597,
-    "raw_dynamic_score": 0.426,
-    "last_updated": "2026-10-30T00:44:49.892003Z",
-    "last_tweeted_at": "2026-10-30T00:44:49.892003Z",
-    "tweet_id": "2115968172402630982",
-    "resolved": true,
-    "resolved_at": "2026-10-30T00:44:49.892003Z"
-  },
   "-18.6472,-48.1872": {
     "country": "Brazil",
     "name": "Araguari",
@@ -44270,7 +44250,7 @@
     "rain_mm": 73.06,
     "soil_moisture": 0.466,
     "raw_dynamic_score": 10.449,
-    "last_updated": "2026-10-30T17:44:20.976002Z",
+    "last_updated": "2026-10-31T03:41:54.084698Z",
     "last_tweeted_at": "2026-10-30T17:44:20.976002Z",
     "tweet_id": "2116225494534238709",
     "resolved": false
@@ -44285,7 +44265,7 @@
     "rain_mm": 47.5,
     "soil_moisture": 0.737,
     "raw_dynamic_score": 7.955,
-    "last_updated": "2026-10-30T22:03:15.341020Z",
+    "last_updated": "2026-10-31T03:41:54.084698Z",
     "last_tweeted_at": "2026-10-30T22:03:15.341020Z",
     "tweet_id": "2116289894494441755",
     "resolved": false
@@ -44345,7 +44325,7 @@
     "rain_mm": 76.5,
     "soil_moisture": 0.688,
     "raw_dynamic_score": 12.474,
-    "last_updated": "2026-10-30T22:03:15.341020Z",
+    "last_updated": "2026-10-31T03:41:54.084698Z",
     "last_tweeted_at": "2026-10-30T22:03:15.341020Z",
     "tweet_id": "2116290147406713022",
     "resolved": false
@@ -44360,7 +44340,7 @@
     "rain_mm": 90.81,
     "soil_moisture": 0.722,
     "raw_dynamic_score": 15.085,
-    "last_updated": "2026-10-30T22:03:15.341020Z",
+    "last_updated": "2026-10-31T03:41:54.084698Z",
     "last_tweeted_at": "2026-10-30T22:03:15.341020Z",
     "tweet_id": "2116290147406713022",
     "resolved": false
@@ -44375,9 +44355,54 @@
     "rain_mm": 39.56,
     "soil_moisture": 0.734,
     "raw_dynamic_score": 6.615,
-    "last_updated": "2026-10-30T22:03:15.341020Z",
+    "last_updated": "2026-10-31T03:41:54.084698Z",
     "last_tweeted_at": "2026-10-30T22:03:15.341020Z",
     "tweet_id": "2116290653327917069",
+    "resolved": false
+  },
+  "-4.7667,12.5500": {
+    "country": "Angola",
+    "name": "Buco Zau",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": -4.76667,
+    "longitude": 12.55,
+    "rain_mm": 66.88,
+    "soil_moisture": 0.612,
+    "raw_dynamic_score": 10.444,
+    "last_updated": "2026-10-31T03:41:54.084698Z",
+    "last_tweeted_at": "2026-10-31T03:41:54.084698Z",
+    "tweet_id": "2116375116955144336",
+    "resolved": false
+  },
+  "-4.7761,11.8635": {
+    "country": "Congo",
+    "name": "Pointe-Noire",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": -4.77609,
+    "longitude": 11.86352,
+    "rain_mm": 34.25,
+    "soil_moisture": 1.0,
+    "raw_dynamic_score": 6.55,
+    "last_updated": "2026-10-31T03:41:54.084698Z",
+    "last_tweeted_at": "2026-10-31T03:41:54.084698Z",
+    "tweet_id": "2116375369477472312",
+    "resolved": false
+  },
+  "-4.7561,11.8578": {
+    "country": "Congo",
+    "name": "Loandjili",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": -4.75611,
+    "longitude": 11.85778,
+    "rain_mm": 34.25,
+    "soil_moisture": 1.0,
+    "raw_dynamic_score": 6.55,
+    "last_updated": "2026-10-31T03:41:54.084698Z",
+    "last_tweeted_at": "2026-10-31T03:41:54.084698Z",
+    "tweet_id": "2116375369477472312",
     "resolved": false
   }
 }
