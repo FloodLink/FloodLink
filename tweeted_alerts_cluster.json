@@ -3699,7 +3699,7 @@
     "rain_mm": 42.06,
     "soil_moisture": 0.639,
     "raw_dynamic_score": 6.675,
-    "last_updated": "2026-02-02T04:56:30.903997Z",
+    "last_updated": "2026-10-31T21:00:54.802334Z",
     "last_tweeted_at": "2026-02-02T01:26:05.138749Z",
     "tweet_id": "2018133829874278406",
     "resolved": false
@@ -44190,25 +44190,18 @@
   "-6.1208,14.6209": {
     "country": "Angola",
     "name": "Cuímba",
-    "risk_level": "High",
-    "tweeted_level": "High",
+    "risk_level": "Low",
+    "tweeted_level": "Low",
     "latitude": -6.12085,
     "longitude": 14.62086,
-    "rain_mm": 90.69,
-    "soil_moisture": 0.671,
-    "raw_dynamic_score": 14.648,
-    "last_updated": "2026-10-30T22:03:15.341020Z",
-    "last_tweeted_at": "2026-10-30T17:44:20.976002Z",
-    "tweet_id": "2116224735704928640",
-    "resolved": false,
-    "pending_downgrade": true,
-    "pending_target_level": "Low",
-    "pending_set_at": "2026-10-30T22:03:15.341020Z",
-    "pending_is_region": false,
-    "pending_observed_level": "Low",
-    "pending_observed_rain_mm": 12.19,
-    "pending_observed_soil_moisture": 0.639,
-    "pending_observed_raw_dynamic_score": 1.934
+    "rain_mm": 0.25,
+    "soil_moisture": 0.522,
+    "raw_dynamic_score": 0.037,
+    "last_updated": "2026-10-31T21:00:54.802334Z",
+    "last_tweeted_at": "2026-10-31T21:00:54.802334Z",
+    "tweet_id": "2116636843714228322",
+    "resolved": true,
+    "resolved_at": "2026-10-31T21:00:54.802334Z"
   },
   "-5.7652,13.6571": {
     "country": "The Democratic Republic of the Congo",
@@ -44299,7 +44292,7 @@
     "rain_mm": 51.0,
     "soil_moisture": 0.726,
     "raw_dynamic_score": 8.491,
-    "last_updated": "2026-10-31T11:42:26.207782Z",
+    "last_updated": "2026-10-31T21:00:54.802334Z",
     "last_tweeted_at": "2026-10-30T22:03:15.341020Z",
     "tweet_id": "2116289894494441755",
     "resolved": false
@@ -44422,6 +44415,21 @@
     "last_updated": "2026-10-31T16:44:19.951895Z",
     "last_tweeted_at": "2026-10-31T11:42:26.207782Z",
     "tweet_id": "2116496047216505123",
+    "resolved": false
+  },
+  "-17.2997,-48.2794": {
+    "country": "Brazil",
+    "name": "Pires do Rio",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": -17.29972,
+    "longitude": -48.27944,
+    "rain_mm": 51.19,
+    "soil_moisture": 0.601,
+    "raw_dynamic_score": 7.947,
+    "last_updated": "2026-10-31T21:00:54.802334Z",
+    "last_tweeted_at": "2026-10-31T21:00:54.802334Z",
+    "tweet_id": "2116636589912658135",
     "resolved": false
   }
 }
