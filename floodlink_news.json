@@ -10216,5 +10216,456 @@
             "longitude": -115.0264,
             "confidence": 0.9
         }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPTEUwQWRZVTYyTlhUN1ZzNS13UW15cVp6TTV1eEJfNk1sMno3MUNFeW1ZbkllSmFzc1hCcG1kZ2gwQmpyeWtoODZIbmF1Y0NPSXJRNmYzdW9Wd1JHODBvTkpPOHgxelZvM2hKWkZ2QUlTbzJ5bUNVa1V2T0hzRk82VDFVbmZoWXFwSE1SN29rZDRVTjY3Q3BzNkNDSDdtSTg2UTlkd1lrdDdVTjBkSDU3T1VDaTJGZXU3bnc4TVg0QjhFYVB6YnNaZzJfemRCZ25tdXJFdnM4X1d4Um9QTUZYU1NNSQ?oc=5",
+        "date": "2026-11-01",
+        "title": "Arizona highway closures: Flooding shuts down major routes now - KVOA",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxPTEUwQWRZVTYyTlhUN1ZzNS13UW15cVp6TTV1eEJfNk1sMno3MUNFeW1ZbkllSmFzc1hCcG1kZ2gwQmpyeWtoODZIbmF1Y0NPSXJRNmYzdW9Wd1JHODBvTkpPOHgxelZvM2hKWkZ2QUlTbzJ5bUNVa1V2T0hzRk82VDFVbmZoWXFwSE1SN29rZDRVTjY3Q3BzNkNDSDdtSTg2UTlkd1lrdDdVTjBkSDU3T1VDaTJGZXU3bnc4TVg0QjhFYVB6YnNaZzJfemRCZ25tdXJFdnM4X1d4Um9QTUZYU1NNSQ?oc=5\" target=\"_blank\">Arizona highway closures: Flooding shuts down major routes now</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KVOA</font>",
+        "similarity_excluded": "No",
+        "score": 6,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNc3lwdzNrV3Vka0xxWFk3ZFJuVFVfcHpLeDRIZ19fUEhYZU9qa29sdm9FcXVIU3NscndsWGhsZ0pxUkUwUWYyeEhNUjY4SVdjVHVad1JiQm9jMWdlTHpKdG5WdEJjQlhVX2FkTUwwVTN6NEtBZ2VnQU1jZE05eldkcTFnblN2OGJ3WHNPUmRrQmZPY1RRTHZHTnZVTVpaS3RM?oc=5",
+        "date": "2026-11-01",
+        "title": "Flood watch issued as South Florida braces for heavy rainfall - WPBF",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNc3lwdzNrV3Vka0xxWFk3ZFJuVFVfcHpLeDRIZ19fUEhYZU9qa29sdm9FcXVIU3NscndsWGhsZ0pxUkUwUWYyeEhNUjY4SVdjVHVad1JiQm9jMWdlTHpKdG5WdEJjQlhVX2FkTUwwVTN6NEtBZ2VnQU1jZE05eldkcTFnblN2OGJ3WHNPUmRrQmZPY1RRTHZHTnZVTVpaS3RM?oc=5\" target=\"_blank\">Flood watch issued as South Florida braces for heavy rainfall</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WPBF</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdTBWc25ldW5adE01czN5RFM4THlvNkd4Vnh4STFLdzVTaUFPQWtQbXh5ZWJZU2RZSDJHZzl2SzdhRkxmaERfejFpZjM1YTA5aHo0ZjdkcWF5ZGtXVllnSElBa2NWVm9HbUhIckFCM3lFdnl5cGpFT25QLU1wMHFNV3FaMXNmdUhsbG9JbzNhMDFmWURXdjVqYUh6QXdRWDNfam1PMlY5Yw?oc=5",
+        "date": "2026-11-01",
+        "title": "Flood Watch issued for much of Southern Utah as storms bring widespread rain - KUTV",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxOdTBWc25ldW5adE01czN5RFM4THlvNkd4Vnh4STFLdzVTaUFPQWtQbXh5ZWJZU2RZSDJHZzl2SzdhRkxmaERfejFpZjM1YTA5aHo0ZjdkcWF5ZGtXVllnSElBa2NWVm9HbUhIckFCM3lFdnl5cGpFT25QLU1wMHFNV3FaMXNmdUhsbG9JbzNhMDFmWURXdjVqYUh6QXdRWDNfam1PMlY5Yw?oc=5\" target=\"_blank\">Flood Watch issued for much of Southern Utah as storms bring widespread rain</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KUTV</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbzd2ZklhUlN1eXUzYkYxMFBhN0lyOVIxRmtxQ29jYUhQTHg2YlZFenVhb2pVV19hck5rYXZodVZmZ3JlVHR5amdMUUFNem1KdmlxZVA2U2IxV3hKeWF5TGtoQzJmNV81eUlNeHNrLXlIUUdPZFRSQWhiNUs3LXAyNkpwcjdIY2l2RFRvYUdpdlFNa0hoMVVINXFRTTdLNUpmVXc1LUdmemxKNE5PSU44QlJNNGd0dzJzdHk5ZmRCMA?oc=5",
+        "date": "2026-11-01",
+        "title": "Flash flood warning issued for Maricopa County as more weather pushes through Valley - KTAR News 92.3 FM",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxPbzd2ZklhUlN1eXUzYkYxMFBhN0lyOVIxRmtxQ29jYUhQTHg2YlZFenVhb2pVV19hck5rYXZodVZmZ3JlVHR5amdMUUFNem1KdmlxZVA2U2IxV3hKeWF5TGtoQzJmNV81eUlNeHNrLXlIUUdPZFRSQWhiNUs3LXAyNkpwcjdIY2l2RFRvYUdpdlFNa0hoMVVINXFRTTdLNUpmVXc1LUdmemxKNE5PSU44QlJNNGd0dzJzdHk5ZmRCMA?oc=5\" target=\"_blank\">Flash flood warning issued for Maricopa County as more weather pushes through Valley</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KTAR News 92.3 FM</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": null,
+        "tweet_id": "2116972585598717955",
+        "geo": {
+            "country": "United States",
+            "name": "Maricopa County, Arizona",
+            "latitude": 33.45,
+            "longitude": -112.07,
+            "confidence": 0.95
+        }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTWRMelNUZDdWWXNoek40bXJEZVAtTWlyM3RKMjFYWXFTb25EeXJwcEt2eUMxdUhmZmMxMXlDQThjam1BM3pfMW4xZTFXOU9lc2dqeXc4Z2xoN3N6WDNMR0pvZkZJYWp0SWpXYzFEd2VkbjB5QXh2aW55Zjd0cFJhZ0JKVFl3eEEtaElGM0ZUMmpXYWpIS0sw?oc=5",
+        "date": "2026-11-01",
+        "title": "EVACUATION ORDER: Sedona Zones 8, 9, and 10 are now in GO - Get Out Now! - Coconino.az.gov",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOTWRMelNUZDdWWXNoek40bXJEZVAtTWlyM3RKMjFYWXFTb25EeXJwcEt2eUMxdUhmZmMxMXlDQThjam1BM3pfMW4xZTFXOU9lc2dqeXc4Z2xoN3N6WDNMR0pvZkZJYWp0SWpXYzFEd2VkbjB5QXh2aW55Zjd0cFJhZ0JKVFl3eEEtaElGM0ZUMmpXYWpIS0sw?oc=5\" target=\"_blank\">EVACUATION ORDER: Sedona Zones 8, 9, and 10 are now in GO - Get Out Now!</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Coconino.az.gov</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQVDI3UkdaakcyOXNOWXV5VWJkRXZlcTdXRTNSOHpDakpuamNNd3ZTUnZYVzhzVFQ0WVFJbUZXMjlobXNXaTI0ZW52MlQwNk9mLXlVZm5vbzFJSWZXLUlzcHp6cVMwNGkweDE0b3g5RTNoNERVLTF2NFJEeFg1dVhZZ3l1d1JZOGhxd0ZDLVJCNXpUSGFvVmxN0gGrAUFVX3lxTE01RDNRczBOY2RBTlNJQUF3MUdKVW5xSzJ2Rmc3RGRvaHdSd013MFp2NEdxWVlIekNJLVJrZW1pQnpCSWNVeE9BNE5kemZDWk0xWUVyY2dvWVVzMm9iTjdvekluMnlBOEZxWk1PdDk5Y2tqcEtQQmI0VGFweHJ1Y3o0TkktZTVDeU5tNHFTQTFjekRPWnJYelhuTHhhTjNyeVJVVVFhcDh1Wms0QQ?oc=5",
+        "date": "2026-11-01",
+        "title": "Flash Flood Watch in effect as widespread rain & storms slam the region - KOLD",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQVDI3UkdaakcyOXNOWXV5VWJkRXZlcTdXRTNSOHpDakpuamNNd3ZTUnZYVzhzVFQ0WVFJbUZXMjlobXNXaTI0ZW52MlQwNk9mLXlVZm5vbzFJSWZXLUlzcHp6cVMwNGkweDE0b3g5RTNoNERVLTF2NFJEeFg1dVhZZ3l1d1JZOGhxd0ZDLVJCNXpUSGFvVmxN0gGrAUFVX3lxTE01RDNRczBOY2RBTlNJQUF3MUdKVW5xSzJ2Rmc3RGRvaHdSd013MFp2NEdxWVlIekNJLVJrZW1pQnpCSWNVeE9BNE5kemZDWk0xWUVyY2dvWVVzMm9iTjdvekluMnlBOEZxWk1PdDk5Y2tqcEtQQmI0VGFweHJ1Y3o0TkktZTVDeU5tNHFTQTFjekRPWnJYelhuTHhhTjNyeVJVVVFhcDh1Wms0QQ?oc=5\" target=\"_blank\">Flash Flood Watch in effect as widespread rain & storms slam the region</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KOLD</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPOG4xTWV0aG83MHI1NjduYXRoMmdKUk5qTmNrUDFMYkFBelM4b0RiRXViMkVodzI5TjdSX0Zrc0JtQm9feU94bVNHdXZ0TXlwZHA2LXhBb0J0Y3FGLWxFdU56cGVGX3V1TzFUajBsaEFGVUVJNVpISTZ2RktLa1U3aXRURTItNTZFYVh3QXBQVm1HdUVyVlVocldwc9IBrwFBVV95cUxPcE5ZaV9FOG5JUjIzYjNWMUJsMlRnYzBBZWl6a1BNeHNXNTRmM1VCb0tac0k0azdoR2xjMkdOQW1SQlNVU215WThDVThKTUNEYWRzc21WMzhrR2FwSXpBaWVmUXZ3cG1LdnRiajc3dFFhUFhzR0VPdjVXb3o2bmRPYlRNTjJMenljREJtTGtQZVBURzFsTW9nblViZ3FJRkFnMGNJT291NnpoSzlPb3Aw?oc=5",
+        "date": "2026-11-01",
+        "title": "Rescues underway, evacuations ordered as Oak Creek floods parts of Sedona - AZ Family",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPOG4xTWV0aG83MHI1NjduYXRoMmdKUk5qTmNrUDFMYkFBelM4b0RiRXViMkVodzI5TjdSX0Zrc0JtQm9feU94bVNHdXZ0TXlwZHA2LXhBb0J0Y3FGLWxFdU56cGVGX3V1TzFUajBsaEFGVUVJNVpISTZ2RktLa1U3aXRURTItNTZFYVh3QXBQVm1HdUVyVlVocldwc9IBrwFBVV95cUxPcE5ZaV9FOG5JUjIzYjNWMUJsMlRnYzBBZWl6a1BNeHNXNTRmM1VCb0tac0k0azdoR2xjMkdOQW1SQlNVU215WThDVThKTUNEYWRzc21WMzhrR2FwSXpBaWVmUXZ3cG1LdnRiajc3dFFhUFhzR0VPdjVXb3o2bmRPYlRNTjJMenljREJtTGtQZVBURzFsTW9nblViZ3FJRkFnMGNJT291NnpoSzlPb3Aw?oc=5\" target=\"_blank\">Rescues underway, evacuations ordered as Oak Creek floods parts of Sedona</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AZ Family</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPOTdicTRHeFlyVWFnX2NzbFBxRzBkdXpDOC1qNG0zTTg2bDZCMm1Sd09jaUxLSUQzRnFRaE9zMkRhQVlSVW9JNEpTQWpoQ3NvYUQwbElERUMzQW5aQ1BOLUpYTHJLMEltVlhwQUtSYmYya0p5dEhpQVpXcEtSX2RXcThQSTkzYV9YUjNabWsxbm54cl9EYThFNGVwODdPb0JkY25wbm1SMzhJU3NhUFdhSU4xTFFzbWc?oc=5",
+        "date": "2026-11-01",
+        "title": "Flood watch in effect as widespread rain soaks Southern Arizona through Monday morning - KGUN 9",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPOTdicTRHeFlyVWFnX2NzbFBxRzBkdXpDOC1qNG0zTTg2bDZCMm1Sd09jaUxLSUQzRnFRaE9zMkRhQVlSVW9JNEpTQWpoQ3NvYUQwbElERUMzQW5aQ1BOLUpYTHJLMEltVlhwQUtSYmYya0p5dEhpQVpXcEtSX2RXcThQSTkzYV9YUjNabWsxbm54cl9EYThFNGVwODdPb0JkY25wbm1SMzhJU3NhUFdhSU4xTFFzbWc?oc=5\" target=\"_blank\">Flood watch in effect as widespread rain soaks Southern Arizona through Monday morning</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KGUN 9</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPM0ozd2JiWWk4Yno1X1IxZmlzalR4cFFyVWZGbjFSMG5jd0Vqcm5JeWpxcHlBemdWcFc0dW1Qa09uOXl0cUZid3N6aE5NWXpxSE1wMF9kcFpGaV96bGtOelF3TDF3Vmx2S1NySzU4VHByb3RfdXVRZ0VFUDI1TzJubjlPX2F5TTROQkFSd1gzY190Y2FkU25MYkhKYlJGYVFHdEg2cGh3?oc=5",
+        "date": "2026-11-01",
+        "title": "New flood warning issued for San Juan County; evacuations expected - KOAT",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPM0ozd2JiWWk4Yno1X1IxZmlzalR4cFFyVWZGbjFSMG5jd0Vqcm5JeWpxcHlBemdWcFc0dW1Qa09uOXl0cUZid3N6aE5NWXpxSE1wMF9kcFpGaV96bGtOelF3TDF3Vmx2S1NySzU4VHByb3RfdXVRZ0VFUDI1TzJubjlPX2F5TTROQkFSd1gzY190Y2FkU25MYkhKYlJGYVFHdEg2cGh3?oc=5\" target=\"_blank\">New flood warning issued for San Juan County; evacuations expected</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KOAT</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOazZRTnVocml6TzNKX1ltOWMzTE1TMVFwRXVCNWRaclUyS25Nc1NabXBncF9GNEhhWVotQWFBd1EwVTlTWkdwSEd1Vzc5QjRMZFBWODk0ZHlQRlVoTjJtWFI4MjJ5T3JKZ0drNHBHcGVWSWhCaGN2QV90Q1g1eFB4SXZmLWpjZ9IBiwFBVV95cUxOOVMxVUVCM3pVRU9zcFhvd0xiRUFsNGtmZU45N0Fja0JhaE9XMnhZUVQxV3QzSVQtNjJaRl9yNDQ3X2hoRjZJT0syc0Z2MkFuUGhkMGQyODJEZ2NuM0NmX3drWjh3NVV5VlB4bVp3N1h0UGxkdS1ycjVINjIxam9hSnVWS29GbVJBV3pr?oc=5",
+        "date": "2026-11-01",
+        "title": "Widespread Flood Threat Sunday & Mountain Snow - ABC4 Utah",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxOazZRTnVocml6TzNKX1ltOWMzTE1TMVFwRXVCNWRaclUyS25Nc1NabXBncF9GNEhhWVotQWFBd1EwVTlTWkdwSEd1Vzc5QjRMZFBWODk0ZHlQRlVoTjJtWFI4MjJ5T3JKZ0drNHBHcGVWSWhCaGN2QV90Q1g1eFB4SXZmLWpjZ9IBiwFBVV95cUxOOVMxVUVCM3pVRU9zcFhvd0xiRUFsNGtmZU45N0Fja0JhaE9XMnhZUVQxV3QzSVQtNjJaRl9yNDQ3X2hoRjZJT0syc0Z2MkFuUGhkMGQyODJEZ2NuM0NmX3drWjh3NVV5VlB4bVp3N1h0UGxkdS1ycjVINjIxam9hSnVWS29GbVJBV3pr?oc=5\" target=\"_blank\">Widespread Flood Threat Sunday & Mountain Snow</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ABC4 Utah</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTWIxQ0pIY3ozVm9NNjBqek1RQVZJU2RwVi04VWJ2V05zTHZXcjdWTzdDS240VHc4OWVkR0dhQ08xWlJFWXU2TVZ3VUFhWjJvX1FDa1FnUjJILUszMXdTTEU3VWk2TmlsRkR0UHpaVWxYeUNIS2tvS1p6OHZRZ2RkMEZjbVlfRU15eTFFRDVXRnU1b2Y4NmQtYmNva3pIelU5aklVd3JXRk4?oc=5",
+        "date": "2026-11-01",
+        "title": "1 dead in Henderson after heavy rain triggers three water rescue operations - Las Vegas Review-Journal",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTWIxQ0pIY3ozVm9NNjBqek1RQVZJU2RwVi04VWJ2V05zTHZXcjdWTzdDS240VHc4OWVkR0dhQ08xWlJFWXU2TVZ3VUFhWjJvX1FDa1FnUjJILUszMXdTTEU3VWk2TmlsRkR0UHpaVWxYeUNIS2tvS1p6OHZRZ2RkMEZjbVlfRU15eTFFRDVXRnU1b2Y4NmQtYmNva3pIelU5aklVd3JXRk4?oc=5\" target=\"_blank\">1 dead in Henderson after heavy rain triggers three water rescue operations</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Las Vegas Review-Journal</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5JYUV0QXdNeHJNM1UybkZZcnZyZEZQdlNyUUZKbzdScU5HdEZORkFzajVaOUVOT2ZoRlFMdGNkY2R5M0I3ODJHeC1zMEI2cXhlMW5HNzI4akYyZHBmcEI5YXZ5TzF4NEZ6cEllSXk0d9IBb0FVX3lxTE54cEJibmdyemVXX3ZqcVNsT29rQU1raDBTbHFJRFpxM0lyZi1TMllfaXJCbHNuLXhnTjgycF91ZS1lSlVTVDlrU0dLd3ctbUh2OHJWd3hXdWNWUUMtMjNyRlNOVm16cEM3a0hhNTQ2UQ?oc=5",
+        "date": "2026-11-01",
+        "title": "Big rains + king tides = Flood Watch Sunday (yes, during the Dolphins game) - Miami Herald",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE5JYUV0QXdNeHJNM1UybkZZcnZyZEZQdlNyUUZKbzdScU5HdEZORkFzajVaOUVOT2ZoRlFMdGNkY2R5M0I3ODJHeC1zMEI2cXhlMW5HNzI4akYyZHBmcEI5YXZ5TzF4NEZ6cEllSXk0d9IBb0FVX3lxTE54cEJibmdyemVXX3ZqcVNsT29rQU1raDBTbHFJRFpxM0lyZi1TMllfaXJCbHNuLXhnTjgycF91ZS1lSlVTVDlrU0dLd3ctbUh2OHJWd3hXdWNWUUMtMjNyRlNOVm16cEM3a0hhNTQ2UQ?oc=5\" target=\"_blank\">Big rains + king tides = Flood Watch Sunday (yes, during the Dolphins game)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Miami Herald</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOc2NkZ3cxMkVObjFwbFFESVpHTi0tYTJiWTByb1ZZbTlPWFFBX0RlTWdFcF81OVRiRVlXMEZQWGtIMTJaSHEwSG5rQTNZZldzTlJ4REVVbExlQWF2UVF4cUJEdmE1azBZSE16N3dlWDZXRVlFVUFzUVJtTkYxb3JqMHVvZGplSmdERXZqQjQ5a0NDaWs?oc=5",
+        "date": "2026-11-01",
+        "title": "Another potentially catastrophic storm threatens southwestern Colorado, prompting evacuations - The Colorado Sun",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxOc2NkZ3cxMkVObjFwbFFESVpHTi0tYTJiWTByb1ZZbTlPWFFBX0RlTWdFcF81OVRiRVlXMEZQWGtIMTJaSHEwSG5rQTNZZldzTlJ4REVVbExlQWF2UVF4cUJEdmE1azBZSE16N3dlWDZXRVlFVUFzUVJtTkYxb3JqMHVvZGplSmdERXZqQjQ5a0NDaWs?oc=5\" target=\"_blank\">Another potentially catastrophic storm threatens southwestern Colorado, prompting evacuations</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Colorado Sun</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9DeF9naU4zT1QxTkZDaDVlbEZMaWk5MzVjdkdvZ21UUE45YTA4Wm9sWnRxSnpTS0RGOUJDbmhtdWNvaGNhMTg4S3BQNU85cS1tSzhxNjFuN0pZcHI3WWtwVjNIc0piekk?oc=5",
+        "date": "2026-11-01",
+        "title": "Flash Flood Warning issued November 1 at 9:15AM EST until November 1 at 11:15AM EST by NWS Tallahassee FL - Forth.News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9DeF9naU4zT1QxTkZDaDVlbEZMaWk5MzVjdkdvZ21UUE45YTA4Wm9sWnRxSnpTS0RGOUJDbmhtdWNvaGNhMTg4S3BQNU85cS1tSzhxNjFuN0pZcHI3WWtwVjNIc0piekk?oc=5\" target=\"_blank\">Flash Flood Warning issued November 1 at 9:15AM EST until November 1 at 11:15AM EST by NWS Tallahassee FL</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Forth.News</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": null,
+        "tweet_id": "2116973146670788680",
+        "geo": {
+            "country": "United States",
+            "name": "Tallahassee",
+            "latitude": 30.4383,
+            "longitude": -84.2807,
+            "confidence": 0.7
+        }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQN3lBZGdfZVlwVkRDSGxZa3RPNDdONmhLZ3h2UDhDTXFXanJVSkFHV29iMi1PYzVPT3N2azJUYUJkb0p3c0NobWxWdEVrU25RVmdKamRmbTF0NlRTcWU1U2JnVEVyRlRpT1kxTjNHOWpFV1ZfZC1hX2czRFBKSkR2aV9Qam9fSl9qSjVrS283V3JnbU8wRjhoSm1sc0xWYTVESnBHS3VZNA?oc=5",
+        "date": "2026-11-01",
+        "title": "Thunderstorms and flash flooding threaten most of New Mexico today. - KOAT",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQN3lBZGdfZVlwVkRDSGxZa3RPNDdONmhLZ3h2UDhDTXFXanJVSkFHV29iMi1PYzVPT3N2azJUYUJkb0p3c0NobWxWdEVrU25RVmdKamRmbTF0NlRTcWU1U2JnVEVyRlRpT1kxTjNHOWpFV1ZfZC1hX2czRFBKSkR2aV9Qam9fSl9qSjVrS283V3JnbU8wRjhoSm1sc0xWYTVESnBHS3VZNA?oc=5\" target=\"_blank\">Thunderstorms and flash flooding threaten most of New Mexico today.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KOAT</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9wVzhNNmpDeXB6M1N6d1ZVdDBnNDB1ZU1PczJzcXZnYUN5d1UtcjNJdC05Nk45eDdJeGM3OTFTSWtQNVp3N3ZhSlFXQXl1TjNETGJ4bFF3MUg0azZTVk9HVHFZa3ZyVVU?oc=5",
+        "date": "2026-11-01",
+        "title": "Flash Flood Warning issued November 1 at 7:26AM MST until November 1 at 10:30AM MST by NWS Phoenix AZ - Forth.News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9wVzhNNmpDeXB6M1N6d1ZVdDBnNDB1ZU1PczJzcXZnYUN5d1UtcjNJdC05Nk45eDdJeGM3OTFTSWtQNVp3N3ZhSlFXQXl1TjNETGJ4bFF3MUg0azZTVk9HVHFZa3ZyVVU?oc=5\" target=\"_blank\">Flash Flood Warning issued November 1 at 7:26AM MST until November 1 at 10:30AM MST by NWS Phoenix AZ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Forth.News</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOc3VDWUtYY2dIcXFUNV9oNkVkcHBtSXVuNzlvTzVCb3pOOVZJbncxY3JnYVFKYW0xdzVTbHRENTlzM2laWVJNck4wb1pxQW1CTWZkR012SFY5LXhPd3VKdFhqT3d5UjJ0c2U4MnZTMm40VTdZdDB6Q0pHU3o2b1g0UXBHeHBDaWdyNmVMNW91bWgxaVNETFNkMWZQOWJwb1NISjlrbkoxQmhSQQ?oc=5",
+        "date": "2026-11-01",
+        "title": "Devastating flooding forces closures of freeways, highways across Arizona - AZ Family",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxOc3VDWUtYY2dIcXFUNV9oNkVkcHBtSXVuNzlvTzVCb3pOOVZJbncxY3JnYVFKYW0xdzVTbHRENTlzM2laWVJNck4wb1pxQW1CTWZkR012SFY5LXhPd3VKdFhqT3d5UjJ0c2U4MnZTMm40VTdZdDB6Q0pHU3o2b1g0UXBHeHBDaWdyNmVMNW91bWgxaVNETFNkMWZQOWJwb1NISjlrbkoxQmhSQQ?oc=5\" target=\"_blank\">Devastating flooding forces closures of freeways, highways across Arizona</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AZ Family</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": null,
+        "tweet_id": "2116973689115967521",
+        "geo": {
+            "country": "United States",
+            "name": "Arizona",
+            "latitude": 34.0489,
+            "longitude": -111.0937,
+            "confidence": 0.85
+        }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQcXNCdU1fc0hadTl4aFJ2RmRWSWRINTVFbnNnc3FmSHY3bERybzZvWXJtckJFVDNDUm56YjhaLTFhUk55RXJxbTlZNmd6ODdQWVBCeGo4MFl2M2ExN2VxQUUtZG1wQVFJdThTbUI3N2pQbDY0VTNETXYtUGJOaVo1eEZtQ29lVDU1MDJQRHp1dHJ6bHdHSXJ1dGJZZjdKRWE5UXZETHlFbGNySUU0WmRB0gHDAUFVX3lxTE9qanpnUENndnJXeHU4anpyTFRiWklFQUYzQVYzMC1jSDZnUFNsYmNKVUxnTkNXUGZLWXQ4aVNNYzBpWnRmR0RNN3RSdENIVDN1MDI4NmgweGI5ZWhfeTVNSVRSa0lYMTlJQXQtcWI0V0JaVHMxeWpEV0NZUW53NVNnQ3ZiUkNQNkJicWlxeGVhVmlVNzl2Z0QwbUZyTmRjZzZNbTdOQ1VCSU0xNlNGWklNbnoxNFpWTkY1VGJOc3RiSTJNdw?oc=5",
+        "date": "2026-11-01",
+        "title": "A rare over 1,000-year rainfall event inundates Pearl River County on Halloween - FOX 8 Local First",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQcXNCdU1fc0hadTl4aFJ2RmRWSWRINTVFbnNnc3FmSHY3bERybzZvWXJtckJFVDNDUm56YjhaLTFhUk55RXJxbTlZNmd6ODdQWVBCeGo4MFl2M2ExN2VxQUUtZG1wQVFJdThTbUI3N2pQbDY0VTNETXYtUGJOaVo1eEZtQ29lVDU1MDJQRHp1dHJ6bHdHSXJ1dGJZZjdKRWE5UXZETHlFbGNySUU0WmRB0gHDAUFVX3lxTE9qanpnUENndnJXeHU4anpyTFRiWklFQUYzQVYzMC1jSDZnUFNsYmNKVUxnTkNXUGZLWXQ4aVNNYzBpWnRmR0RNN3RSdENIVDN1MDI4NmgweGI5ZWhfeTVNSVRSa0lYMTlJQXQtcWI0V0JaVHMxeWpEV0NZUW53NVNnQ3ZiUkNQNkJicWlxeGVhVmlVNzl2Z0QwbUZyTmRjZzZNbTdOQ1VCSU0xNlNGWklNbnoxNFpWTkY1VGJOc3RiSTJNdw?oc=5\" target=\"_blank\">A rare over 1,000-year rainfall event inundates Pearl River County on Halloween</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FOX 8 Local First</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4wQk5DcHZYSFRqYkdaaEtNaFR2TWZqMG1VX3cxR2djZ2VidXBEV3lEZ3lIRng3aFIxaFQtNU9RVFUxTXl4SGlfeUphNjVsRTVpNnlDb3FMOE9VNXNzaV9RTzY3NkFtaGN3dy1uZDVqemhSQUpMOWpIVGY1VmtXQQ?oc=5",
+        "date": "2026-11-01",
+        "title": "Urgent flood warning: Evacuate now - The Pagosa Springs Sun",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE4wQk5DcHZYSFRqYkdaaEtNaFR2TWZqMG1VX3cxR2djZ2VidXBEV3lEZ3lIRng3aFIxaFQtNU9RVFUxTXl4SGlfeUphNjVsRTVpNnlDb3FMOE9VNXNzaV9RTzY3NkFtaGN3dy1uZDVqemhSQUpMOWpIVGY1VmtXQQ?oc=5\" target=\"_blank\">Urgent flood warning: Evacuate now</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Pagosa Springs Sun</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQY3RUdFg1ZDZCc3VjbmVzdjFYaUNITkFLVG5ZOVQ3N1J1aU5PbjYya2UwZllFZ2xMeXNHUm8xR3puMk85LXlMMmdjODJWX1BoMXA4a3BvNi1COXpoOVA5dmhqODdjVTFxcjFzWG9yWFRidVdrSmlNZ3RrZTFJZGR0aFlhWm10SjJSaXFiRFNMWDRIYi1Nc0I0ZkR0V1pmZld6b3E1clNRNm9zUWpETDdTaC1nX1RQTHc5MWJDSkRCaEJUSFBSaEwtTDZZMEJLTUNXaE5DSUctRjI2ZWJYYWJzd2NDWEh6aFB5VE9F?oc=5",
+        "date": "2026-11-01",
+        "title": "Heavy rain and flooding concerns start the week before a quieter pattern develops - WPEC",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxQY3RUdFg1ZDZCc3VjbmVzdjFYaUNITkFLVG5ZOVQ3N1J1aU5PbjYya2UwZllFZ2xMeXNHUm8xR3puMk85LXlMMmdjODJWX1BoMXA4a3BvNi1COXpoOVA5dmhqODdjVTFxcjFzWG9yWFRidVdrSmlNZ3RrZTFJZGR0aFlhWm10SjJSaXFiRFNMWDRIYi1Nc0I0ZkR0V1pmZld6b3E1clNRNm9zUWpETDdTaC1nX1RQTHc5MWJDSkRCaEJUSFBSaEwtTDZZMEJLTUNXaE5DSUctRjI2ZWJYYWJzd2NDWEh6aFB5VE9F?oc=5\" target=\"_blank\">Heavy rain and flooding concerns start the week before a quieter pattern develops</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WPEC</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZ0xKQlVlNXFMRkZJUEZVZ014eG15M3pDaTJVUF9CbTNVVmd4SWhmdHd5UWRJUnQxcWlPUW94QmdfUkdacHdNS0ZJeU9aMTJGSlctMjhyVVNJUmM0S1U5MDZGY1FwSUkyYllJWlQteS0ySzJYaWtCS2ZldEJjVDEtSTBFSUxRb05N?oc=5",
+        "date": "2026-11-01",
+        "title": "First Alert Weather Days Sunday and Monday: Heavy rain, dangerous flooding and mountain snow expected in Colorado - CBS News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZ0xKQlVlNXFMRkZJUEZVZ014eG15M3pDaTJVUF9CbTNVVmd4SWhmdHd5UWRJUnQxcWlPUW94QmdfUkdacHdNS0ZJeU9aMTJGSlctMjhyVVNJUmM0S1U5MDZGY1FwSUkyYllJWlQteS0ySzJYaWtCS2ZldEJjVDEtSTBFSUxRb05N?oc=5\" target=\"_blank\">First Alert Weather Days Sunday and Monday: Heavy rain, dangerous flooding and mountain snow expected in Colorado</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CBS News</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQRXp3em5aLWlTZFctaUFTdk1abXVlOFZRQ2RtdUcxSTZXZ2lZbzhnbUxuckcwWXR3cDRGU1B5c0Q3NmFLdkpnQmNhVVlyR2x1N1lfMndTUVR2VmdTX2tRMU10QVRvREZUbkYtUndzY3hSeEZWSVU2cjhJWWdEVWFLaWFXc3NWLS1mSkpVNUo0WG5DRHhG0gGaAUFVX3lxTE9Ubl9VWWhxTXQ1TG5vTGxoZkhJV1NVcWVSR2pQTWt3a0pRQWVFNjJGV3pvMzBfckI0RmYyN183T1FZU1JxX0FfbXJEZ0lsRnFmM290aEVLbU5FM3lNRG1Hel8yU3JDX1RWYzhtQ3AyU2pKY2tuVDJnb0R5d0Y4YUFNcXFDeXBTUDdzd1Z5TkRyYnJldllTLUhoQlE?oc=5",
+        "date": "2026-11-01",
+        "title": "Cross-country storm could make Election Day soggy in part of central US - ABC News - Breaking News, Latest News and Videos",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQRXp3em5aLWlTZFctaUFTdk1abXVlOFZRQ2RtdUcxSTZXZ2lZbzhnbUxuckcwWXR3cDRGU1B5c0Q3NmFLdkpnQmNhVVlyR2x1N1lfMndTUVR2VmdTX2tRMU10QVRvREZUbkYtUndzY3hSeEZWSVU2cjhJWWdEVWFLaWFXc3NWLS1mSkpVNUo0WG5DRHhG0gGaAUFVX3lxTE9Ubl9VWWhxTXQ1TG5vTGxoZkhJV1NVcWVSR2pQTWt3a0pRQWVFNjJGV3pvMzBfckI0RmYyN183T1FZU1JxX0FfbXJEZ0lsRnFmM290aEVLbU5FM3lNRG1Hel8yU3JDX1RWYzhtQ3AyU2pKY2tuVDJnb0R5d0Y4YUFNcXFDeXBTUDdzd1Z5TkRyYnJldllTLUhoQlE?oc=5\" target=\"_blank\">Cross-country storm could make Election Day soggy in part of central US</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ABC News - Breaking News, Latest News and Videos</font>",
+        "similarity_excluded": "No",
+        "score": 2,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQSUdoWERLMlJLMkdLajJpdldtTGhFRVB1MFBXbnhfWDdZZWJUMWd3N0xQbzJxY1FSMXJyMlJWaE5PSXgybXkwQ1RTbUk2bDNOODAxYmdMUjhOZGtvREZ3VHNFTEdjTkNJMFNIa0JyclFKZEo5V1puRk9MNmVaUnBWVlhtWVRDd05xallCWkdMejlxS1huRW1qV3gzZXo4QTdsaGZ6YzZqT2dkSDA0U19sM0R4b1BiUEJXUkRJWg?oc=5",
+        "date": "2026-11-01",
+        "title": "Flood and severe storms threat peaks for Four Corners Region - The Weather Channel",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQSUdoWERLMlJLMkdLajJpdldtTGhFRVB1MFBXbnhfWDdZZWJUMWd3N0xQbzJxY1FSMXJyMlJWaE5PSXgybXkwQ1RTbUk2bDNOODAxYmdMUjhOZGtvREZ3VHNFTEdjTkNJMFNIa0JyclFKZEo5V1puRk9MNmVaUnBWVlhtWVRDd05xallCWkdMejlxS1huRW1qV3gzZXo4QTdsaGZ6YzZqT2dkSDA0U19sM0R4b1BiUEJXUkRJWg?oc=5\" target=\"_blank\">Flood and severe storms threat peaks for Four Corners Region</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Weather Channel</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOOUdsWFZzRTVEQ0c2WjU3NllVZS1qSUF4OXB6VHdfNVdYTHlhUjZ5LUxNOHM2QVBTbGQ4Q3V5LTZ6bTVrMlZ1ckNrYzhWeGxzS25ocWx5cHVOeDZzTVJEWHNWM1lJUnJuaDVWcEFGcXA5Sm1nMTN6d0pjNWUxNzJrRXc3RjBHUEVQa1k5ZktLWldMNVZlTDlF?oc=5",
+        "date": "2026-11-01",
+        "title": "San Juan County crews gear up for more flooding this weekend - KOB 4",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOOUdsWFZzRTVEQ0c2WjU3NllVZS1qSUF4OXB6VHdfNVdYTHlhUjZ5LUxNOHM2QVBTbGQ4Q3V5LTZ6bTVrMlZ1ckNrYzhWeGxzS25ocWx5cHVOeDZzTVJEWHNWM1lJUnJuaDVWcEFGcXA5Sm1nMTN6d0pjNWUxNzJrRXc3RjBHUEVQa1k5ZktLWldMNVZlTDlF?oc=5\" target=\"_blank\">San Juan County crews gear up for more flooding this weekend</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KOB 4</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZ3JsV3RRa0EzU2pSNHE1WkhkMHBYR0Fwb1pmWV9ldE96MHh3NmNJdmFHWC1pS2tmZjJuQ1BOQ3NyR05xQm9GZTVXODNDMXRLOFg5WGo3T2tBaHFPNDRfa2lZRTAwNTJIdmE4VUJKU1dGYk1oTWJYMlgtaFBTa19TcTNseUV6SDBnWW9vdlRWNk0zaUtmcHc?oc=5",
+        "date": "2026-11-01",
+        "title": "Several highways between Phoenix and Flagstaff closed due to flooding - KTAR News 92.3 FM",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxOZ3JsV3RRa0EzU2pSNHE1WkhkMHBYR0Fwb1pmWV9ldE96MHh3NmNJdmFHWC1pS2tmZjJuQ1BOQ3NyR05xQm9GZTVXODNDMXRLOFg5WGo3T2tBaHFPNDRfa2lZRTAwNTJIdmE4VUJKU1dGYk1oTWJYMlgtaFBTa19TcTNseUV6SDBnWW9vdlRWNk0zaUtmcHc?oc=5\" target=\"_blank\">Several highways between Phoenix and Flagstaff closed due to flooding</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KTAR News 92.3 FM</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQOXlLSTJtUWFQcjBGT2JGV3dqS2hUZU1YektyQmpTS0ZZZjloa1lZZkpPM2Q5c1NETUk4bEc1bF94TXpuVl83V2tDMTR5SXpLcHdaaEQzLUVlU24xMVRrUzl1cmZuU1ZYOEhQWmduSVl0YUVjV1djeEdrYnFFejdtaUhfNjR0anhhOFo0SDZ2Z0xmLVFGNDFINENR?oc=5",
+        "date": "2026-11-01",
+        "title": "Flood update released, mandatory evacuations in effect - The Pagosa Springs Sun",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxQOXlLSTJtUWFQcjBGT2JGV3dqS2hUZU1YektyQmpTS0ZZZjloa1lZZkpPM2Q5c1NETUk4bEc1bF94TXpuVl83V2tDMTR5SXpLcHdaaEQzLUVlU24xMVRrUzl1cmZuU1ZYOEhQWmduSVl0YUVjV1djeEdrYnFFejdtaUhfNjR0anhhOFo0SDZ2Z0xmLVFGNDFINENR?oc=5\" target=\"_blank\">Flood update released, mandatory evacuations in effect</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Pagosa Springs Sun</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOczE2MnRKVHhhajcxN0JlTzZNeTJqc3ZDMzlsdkxJX2cyZ3R1YnhaVHQ1ZnhPU2pOSHB3R1dtbl83S2FoX3lOSVNxdnYwZWdqVUplTkltWDFrWDNacHB1U0xTYWJYN3p5N3RzLXBfbnpxODRiQ25PWEZQTnpoSU9GVUd1T1Y3OE9KWVU3RVZtcTMycEFEVG9Z?oc=5",
+        "date": "2026-11-01",
+        "title": "Evacuations issued for parts of Sedona due to flooding risk - AZ Family",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOczE2MnRKVHhhajcxN0JlTzZNeTJqc3ZDMzlsdkxJX2cyZ3R1YnhaVHQ1ZnhPU2pOSHB3R1dtbl83S2FoX3lOSVNxdnYwZWdqVUplTkltWDFrWDNacHB1U0xTYWJYN3p5N3RzLXBfbnpxODRiQ25PWEZQTnpoSU9GVUd1T1Y3OE9KWVU3RVZtcTMycEFEVG9Z?oc=5\" target=\"_blank\">Evacuations issued for parts of Sedona due to flooding risk</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AZ Family</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNNzA3d0RwWTJkU0c3a1h1cDVudVpUTTNVc2cxRGJrYjlEZUpiNlVrZXp6anU1UTJ0WVJZZTNSc1lNbTZLZy1TZ21qcnBFVjNYSEJpMkNpOUhrSEJvLXJ6bXpoTXNrZG9nVndMb1dVVS1zUTkxVmlMYWE1Ulp1TDZYOHdlWGs1VFhSYnh3b1pkM3c3bGVINXh2bV9xWE1SSjlXeFMxNUZR?oc=5",
+        "date": "2026-11-01",
+        "title": "What to know as Arizona continues to get drenched after rare Halloween rain - AZ Family",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNNzA3d0RwWTJkU0c3a1h1cDVudVpUTTNVc2cxRGJrYjlEZUpiNlVrZXp6anU1UTJ0WVJZZTNSc1lNbTZLZy1TZ21qcnBFVjNYSEJpMkNpOUhrSEJvLXJ6bXpoTXNrZG9nVndMb1dVVS1zUTkxVmlMYWE1Ulp1TDZYOHdlWGs1VFhSYnh3b1pkM3c3bGVINXh2bV9xWE1SSjlXeFMxNUZR?oc=5\" target=\"_blank\">What to know as Arizona continues to get drenched after rare Halloween rain</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AZ Family</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPc0QwUWNXeTBNajhLNy1ldEh1TW9BWGl5eDlmRlNLN2FxSnBIOWRraWtUalBFNnBSLWc0UUpEUGItaWt2UERMVnlhVGZLemk5RmRqZ3Z4VHI0OWtXb1VXcE9mTG1JR1N6cWJIWkJXUWd2U0dUaGo1eTZVc2ZmR3Y4SV81c3Q0Zw?oc=5",
+        "date": "2026-11-01",
+        "title": "Floods tear CO highway in two - The Weather Channel",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxPc0QwUWNXeTBNajhLNy1ldEh1TW9BWGl5eDlmRlNLN2FxSnBIOWRraWtUalBFNnBSLWc0UUpEUGItaWt2UERMVnlhVGZLemk5RmRqZ3Z4VHI0OWtXb1VXcE9mTG1JR1N6cWJIWkJXUWd2U0dUaGo1eTZVc2ZmR3Y4SV81c3Q0Zw?oc=5\" target=\"_blank\">Floods tear CO highway in two</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Weather Channel</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPRGNGcGswd2F2ZHBmQ0J1T3hPa2tPM2VxeWNEdmRaN0pyMzlVX293U0tycExuN3RQNy1NdldMUzF2NkVnRlNLODJ3VFlLY3NucXNQdktDNnE1TS1XM0J6VTUyckpldHhoQzYzQjVoc3lSZnFpWDlrT3NuQ3JOMG1MWkFTYmI4QUtpeXVZV1B0cTRuU1p6VE8tY1k1ZFc0UG93blprek1tMjdUeWloQ0pNbmwzQ1hKY1N6WlJaNVo1UnY3aG4wNk1rTkE0ZDRsQkRQV3VTOGttTGJjLThvLVAtT1FB?oc=5",
+        "date": "2026-11-01",
+        "title": "'We cry out for answers': Savannah Guthrie makes emotional plea - KVOA",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxPRGNGcGswd2F2ZHBmQ0J1T3hPa2tPM2VxeWNEdmRaN0pyMzlVX293U0tycExuN3RQNy1NdldMUzF2NkVnRlNLODJ3VFlLY3NucXNQdktDNnE1TS1XM0J6VTUyckpldHhoQzYzQjVoc3lSZnFpWDlrT3NuQ3JOMG1MWkFTYmI4QUtpeXVZV1B0cTRuU1p6VE8tY1k1ZFc0UG93blprek1tMjdUeWloQ0pNbmwzQ1hKY1N6WlJaNVo1UnY3aG4wNk1rTkE0ZDRsQkRQV3VTOGttTGJjLThvLVAtT1FB?oc=5\" target=\"_blank\">'We cry out for answers': Savannah Guthrie makes emotional plea</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KVOA</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPMFhwdnBEanRsVWNQTzNwZnhscHhmMjJCajRrUldEb0pSOElkcGxsYU82SWNXckpRWmpvQ0R1UVpXRDlyLWtvTEJLN3U5UWo5bVNvc01xQTRYOTdBNFNoUUU3dHNSVHpXazVFXzBlQ2hsYU0yeEJzUVhFUFgwT216NHVhVHJRN3JzcmlDV3REVHc5VUlOQkxmR3pRT1NPTTdaM2VmU0h1NTktb3g5S3JyZmI2Y3BTTUVMSGJrdUtwR2luSVdKVmNGR3QxeFIyMWZ0dHJEblQ2c1k?oc=5",
+        "date": "2026-11-01",
+        "title": "Flash floods trigger evacuations in Arizona and Colorado amid heavy rains in southwest - www.the-journal.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxPMFhwdnBEanRsVWNQTzNwZnhscHhmMjJCajRrUldEb0pSOElkcGxsYU82SWNXckpRWmpvQ0R1UVpXRDlyLWtvTEJLN3U5UWo5bVNvc01xQTRYOTdBNFNoUUU3dHNSVHpXazVFXzBlQ2hsYU0yeEJzUVhFUFgwT216NHVhVHJRN3JzcmlDV3REVHc5VUlOQkxmR3pRT1NPTTdaM2VmU0h1NTktb3g5S3JyZmI2Y3BTTUVMSGJrdUtwR2luSVdKVmNGR3QxeFIyMWZ0dHJEblQ2c1k?oc=5\" target=\"_blank\">Flash floods trigger evacuations in Arizona and Colorado amid heavy rains in southwest</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">www.the-journal.com</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObGhuRjZubVYwN2tkQnlRajZFSmZrYk5yQ0s4Mk9ZSVotRndvc1RCazY5ODBwVTVkNHpPbk5jWHEyWDdyMjFQcE45eXFXdkNoOVV3OEVXZllIclBtWUtUZkxJNGxuUUNIRkVMb2xCU1ZTUUJaSEEwSEZ4OU00UHhaVUNoU2pJY2I2cXBrUkwyb1dqRk1QanZGWWNKSlhjX05D?oc=5",
+        "date": "2026-11-01",
+        "title": "Flash floods trigger evacuations in Arizona and Colorado amid heavy rains in southwest - CT Insider",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxObGhuRjZubVYwN2tkQnlRajZFSmZrYk5yQ0s4Mk9ZSVotRndvc1RCazY5ODBwVTVkNHpPbk5jWHEyWDdyMjFQcE45eXFXdkNoOVV3OEVXZllIclBtWUtUZkxJNGxuUUNIRkVMb2xCU1ZTUUJaSEEwSEZ4OU00UHhaVUNoU2pJY2I2cXBrUkwyb1dqRk1QanZGWWNKSlhjX05D?oc=5\" target=\"_blank\">Flash floods trigger evacuations in Arizona and Colorado amid heavy rains in southwest</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CT Insider</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPaXZSc1ZNWXdueU9td2Z1MDN2eXZLeWlWQXU1aDFuY2padlR4dGw5UzFHQXBMbzdYWDJpYmtlY3F1c205Q1o4SDFkZEtIVnJNRTVXeUlGWTJiNWsxVVpoTmNjZWVYYk16UkZxN2hwdUlDSVFrTGhYOTQ0NWNGVm9pTFVjRlc?oc=5",
+        "date": "2026-11-01",
+        "title": "Narrow escape from AZ floods - The Weather Channel",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPaXZSc1ZNWXdueU9td2Z1MDN2eXZLeWlWQXU1aDFuY2padlR4dGw5UzFHQXBMbzdYWDJpYmtlY3F1c205Q1o4SDFkZEtIVnJNRTVXeUlGWTJiNWsxVVpoTmNjZWVYYk16UkZxN2hwdUlDSVFrTGhYOTQ0NWNGVm9pTFVjRlc?oc=5\" target=\"_blank\">Narrow escape from AZ floods</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Weather Channel</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQYjFBbG83UC1ESTdjYnZYZVg0QzNvaDRwRlBhc2dEUnQ4RGwxc0NvR0VCdXZ4ZUN2MnAyQmpsbTBWX0NUcThPcXVmbEFlLTFpUEJ3YU5VTzg0TEpPeFZpQUk4WmsxRzdYeGZ5QlZITTFmbVJnNzB5TlJTWG1VcUx3T2lUV0k4dDZ4bzFMMDYwVVhPdlV1Z0p1NnJOS2NPWDFqRGlPRWh4eWNkVWNUTDZURkVGTDJraUVqT0g2RU1XSHo4WU1DOGZ5c0pWbGIyV09BRzlCUFpkSmxNdy1DSW8zaWQtS1pvNktxSXN2U3NNX2hudk9HRUdoc0lVa0Q3T2VrZkNEVS15SDZHSjJfd2c?oc=5",
+        "date": "2026-11-01",
+        "title": "Flash floods trigger evacuations in Arizona and Colorado amid heavy rains in southwest - Oskaloosa Herald",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgJBVV95cUxQYjFBbG83UC1ESTdjYnZYZVg0QzNvaDRwRlBhc2dEUnQ4RGwxc0NvR0VCdXZ4ZUN2MnAyQmpsbTBWX0NUcThPcXVmbEFlLTFpUEJ3YU5VTzg0TEpPeFZpQUk4WmsxRzdYeGZ5QlZITTFmbVJnNzB5TlJTWG1VcUx3T2lUV0k4dDZ4bzFMMDYwVVhPdlV1Z0p1NnJOS2NPWDFqRGlPRWh4eWNkVWNUTDZURkVGTDJraUVqT0g2RU1XSHo4WU1DOGZ5c0pWbGIyV09BRzlCUFpkSmxNdy1DSW8zaWQtS1pvNktxSXN2U3NNX2hudk9HRUdoc0lVa0Q3T2VrZkNEVS15SDZHSjJfd2c?oc=5\" target=\"_blank\">Flash floods trigger evacuations in Arizona and Colorado amid heavy rains in southwest</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Oskaloosa Herald</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQjctdG1qaDRDV0cxWHNOWUtzUnIzZmtWaTF6WUEtRVpnMV9NZ1lMUDhRUkQzR0l6SzNaaE9HcEhyQjNRY2szbkdELVl4M3hHR2dpZWZtZUhCb3l3MXlDVHNZWGtOTUxDZWx0OGhvY0xWYnRoUElWU0ZzY2VENTFPT2dVOHY2eTJuLTBoV0JJc1B2dzZyWG85ZjVQNUgySmFzeVBJZVNxd293eDBEWElrSFNR?oc=5",
+        "date": "2026-11-01",
+        "title": "Panama City flooded by heavy rains on Nov. 1 - Panama City News Herald",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNQjctdG1qaDRDV0cxWHNOWUtzUnIzZmtWaTF6WUEtRVpnMV9NZ1lMUDhRUkQzR0l6SzNaaE9HcEhyQjNRY2szbkdELVl4M3hHR2dpZWZtZUhCb3l3MXlDVHNZWGtOTUxDZWx0OGhvY0xWYnRoUElWU0ZzY2VENTFPT2dVOHY2eTJuLTBoV0JJc1B2dzZyWG85ZjVQNUgySmFzeVBJZVNxd293eDBEWElrSFNR?oc=5\" target=\"_blank\">Panama City flooded by heavy rains on Nov. 1</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Panama City News Herald</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5aUThZRURxUF8yRXBiUl9aYnUtSmtjVk1TbG53MUFjOXVrVGFtcWxPY3ppaHk1cnBoM0lRbHlESXlrd2RsVlBQQXNEeS1XREVVcXp2eE1WWDE?oc=5",
+        "date": "2026-11-01",
+        "title": "BP Highway reopens to traffic after landslide debris cleared - Khabarhub",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE5aUThZRURxUF8yRXBiUl9aYnUtSmtjVk1TbG53MUFjOXVrVGFtcWxPY3ppaHk1cnBoM0lRbHlESXlrd2RsVlBQQXNEeS1XREVVcXp2eE1WWDE?oc=5\" target=\"_blank\">BP Highway reopens to traffic after landslide debris cleared</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Khabarhub</font>",
+        "similarity_excluded": "No",
+        "score": 1,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPZ1BwRXZXV1JHT1JaQkpkLXpUUHZSOFR6WlpmX0YtU1FxUThFQ0dSbEdjMVRnNEdQbV90bVViX3ZBNFdXN3dWXzRzbGdFb3U2akZQLU5QVG04bWZlNzJnamhnOEZ4alhFRmM2MEhoTDRYZkxZN2d6ckM5U2xaTWh4WUxWZ0JkXy1pampRa3pHQ2VoZ0wyWlVsWXJPX2NSSHd1R1E5b0FpbGl1TUJlaGVoVFZnV1E1c0pidmN4di1BUjZBZkxITmVoR3p2cWNrbEQ5YS1xLQ?oc=5",
+        "date": "2026-11-01",
+        "title": "Odisha short of equipment, may use explosives to rescue landslide victims - The Hindu",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxPZ1BwRXZXV1JHT1JaQkpkLXpUUHZSOFR6WlpmX0YtU1FxUThFQ0dSbEdjMVRnNEdQbV90bVViX3ZBNFdXN3dWXzRzbGdFb3U2akZQLU5QVG04bWZlNzJnamhnOEZ4alhFRmM2MEhoTDRYZkxZN2d6ckM5U2xaTWh4WUxWZ0JkXy1pampRa3pHQ2VoZ0wyWlVsWXJPX2NSSHd1R1E5b0FpbGl1TUJlaGVoVFZnV1E1c0pidmN4di1BUjZBZkxITmVoR3p2cWNrbEQ5YS1xLQ?oc=5\" target=\"_blank\">Odisha short of equipment, may use explosives to rescue landslide victims</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Hindu</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbzd2ZklhUlN1eXUzYkYxMFBhN0lyOVIxRmtxQ29jYUhQTHg2YlZFenVhb2pVV19hck5rYXZodVZmZ3JlVHR5amdMUUFNem1KdmlxZVA2U2IxV3hKeWF5TGtoQzJmNV81eUlNeHNrLXlIUUdPZFRSQWhiNUs3LXAyNkpwcjdIY2l2RFRvYUdpdlFNa0hoMVVINXFRTTdLNUpmVXc1LUdmemxKNE5PSU44QlJNNGd0dzJzdHk5ZmRCMA?oc=5",
+        "date": "2026-11-01",
+        "title": "Flash flood warning issued for Maricopa County as more weather pushes through Valley - KTAR News 92.3 FM",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxPbzd2ZklhUlN1eXUzYkYxMFBhN0lyOVIxRmtxQ29jYUhQTHg2YlZFenVhb2pVV19hck5rYXZodVZmZ3JlVHR5amdMUUFNem1KdmlxZVA2U2IxV3hKeWF5TGtoQzJmNV81eUlNeHNrLXlIUUdPZFRSQWhiNUs3LXAyNkpwcjdIY2l2RFRvYUdpdlFNa0hoMVVINXFRTTdLNUpmVXc1LUdmemxKNE5PSU44QlJNNGd0dzJzdHk5ZmRCMA?oc=5\" target=\"_blank\">Flash flood warning issued for Maricopa County as more weather pushes through Valley</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KTAR News 92.3 FM</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 FORECAST Maricopa County: Flash flood warning issued as more weather pushes through Valley. KTAR News",
+        "type": "news",
+        "tweet_id": "2116972585598717955",
+        "geo": {
+            "country": "United States",
+            "name": "Maricopa County, Arizona",
+            "latitude": 33.45,
+            "longitude": -112.07,
+            "confidence": 0.95
+        }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9DeF9naU4zT1QxTkZDaDVlbEZMaWk5MzVjdkdvZ21UUE45YTA4Wm9sWnRxSnpTS0RGOUJDbmhtdWNvaGNhMTg4S3BQNU85cS1tSzhxNjFuN0pZcHI3WWtwVjNIc0piekk?oc=5",
+        "date": "2026-11-01",
+        "title": "Flash Flood Warning issued November 1 at 9:15AM EST until November 1 at 11:15AM EST by NWS Tallahassee FL - Forth.News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9DeF9naU4zT1QxTkZDaDVlbEZMaWk5MzVjdkdvZ21UUE45YTA4Wm9sWnRxSnpTS0RGOUJDbmhtdWNvaGNhMTg4S3BQNU85cS1tSzhxNjFuN0pZcHI3WWtwVjNIc0piekk?oc=5\" target=\"_blank\">Flash Flood Warning issued November 1 at 9:15AM EST until November 1 at 11:15AM EST by NWS Tallahassee FL</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Forth.News</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 FORECAST Tallahassee FL: Flash flood warning in effect until 11:15AM EST by NWS.",
+        "type": "news",
+        "tweet_id": "2116973146670788680",
+        "geo": {
+            "country": "United States",
+            "name": "Tallahassee",
+            "latitude": 30.4383,
+            "longitude": -84.2807,
+            "confidence": 0.7
+        }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOc3VDWUtYY2dIcXFUNV9oNkVkcHBtSXVuNzlvTzVCb3pOOVZJbncxY3JnYVFKYW0xdzVTbHRENTlzM2laWVJNck4wb1pxQW1CTWZkR012SFY5LXhPd3VKdFhqT3d5UjJ0c2U4MnZTMm40VTdZdDB6Q0pHU3o2b1g0UXBHeHBDaWdyNmVMNW91bWgxaVNETFNkMWZQOWJwb1NISjlrbkoxQmhSQQ?oc=5",
+        "date": "2026-11-01",
+        "title": "Devastating flooding forces closures of freeways, highways across Arizona - AZ Family",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxOc3VDWUtYY2dIcXFUNV9oNkVkcHBtSXVuNzlvTzVCb3pOOVZJbncxY3JnYVFKYW0xdzVTbHRENTlzM2laWVJNck4wb1pxQW1CTWZkR012SFY5LXhPd3VKdFhqT3d5UjJ0c2U4MnZTMm40VTdZdDB6Q0pHU3o2b1g0UXBHeHBDaWdyNmVMNW91bWgxaVNETFNkMWZQOWJwb1NISjlrbkoxQmhSQQ?oc=5\" target=\"_blank\">Devastating flooding forces closures of freeways, highways across Arizona</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AZ Family</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 POST-EVENT Arizona: Flooding forces closures of freeways and highways across state. AZ Family",
+        "type": "news",
+        "tweet_id": "2116973689115967521",
+        "geo": {
+            "country": "United States",
+            "name": "Arizona",
+            "latitude": 34.0489,
+            "longitude": -111.0937,
+            "confidence": 0.85
+        }
     }
 ]
