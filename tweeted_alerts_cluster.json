@@ -44410,5 +44410,20 @@
     "last_tweeted_at": "2026-10-31T21:00:54.802334Z",
     "tweet_id": "2116636589912658135",
     "resolved": false
+  },
+  "33.4151,-111.5496": {
+    "country": "United States",
+    "name": "Apache Junction",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 33.41505,
+    "longitude": -111.54958,
+    "rain_mm": 44.75,
+    "soil_moisture": 0.618,
+    "raw_dynamic_score": 7.013,
+    "last_updated": "2026-11-01T03:44:23.545304Z",
+    "last_tweeted_at": "2026-11-01T03:44:23.545304Z",
+    "tweet_id": "2116738129201631668",
+    "resolved": false
   }
 }
