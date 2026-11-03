@@ -10836,5 +10836,14 @@
             "longitude": -81.6868,
             "confidence": 0.85
         }
+    },
+    {
+        "link": null,
+        "date": "2026-11-03",
+        "status": "posted",
+        "tweet": "Flood damages averted by dams/levees/reservoirs (2020-2025 est.):\n1. \ud83c\udde8\ud83c\uddf3 Three Gorges: $14.2B\n2. \ud83c\uddfa\ud83c\uddf8 Mississippi system: $9.8B\n3. \ud83c\uddf3\ud83c\uddf1 Delta Works: $4.1B\n4. \ud83c\uddef\ud83c\uddf5 Tone River dams: $2.7B",
+        "type": "statistical",
+        "category": "dams, levees and reservoirs used for flood control",
+        "tweet_id": "2117764632731697201"
     }
 ]
