@@ -234,7 +234,7 @@
     "rain_mm": 38.06,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 7.279,
-    "last_updated": "2026-08-03T17:17:17.638701Z",
+    "last_updated": "2026-11-05T10:19:32.398966Z",
     "last_tweeted_at": "2026-01-08T18:24:52.008774Z",
     "tweet_id": "2009330775594823956",
     "resolved": false
@@ -12354,7 +12354,7 @@
     "rain_mm": 23.19,
     "soil_moisture": 0.597,
     "raw_dynamic_score": 3.592,
-    "last_updated": "2026-11-05T01:24:38.849282Z",
+    "last_updated": "2026-11-05T10:19:32.398966Z",
     "last_tweeted_at": "2026-11-05T01:24:38.849282Z",
     "tweet_id": "2118152523575947639",
     "resolved": true,
@@ -12370,7 +12370,7 @@
     "rain_mm": 23.19,
     "soil_moisture": 0.597,
     "raw_dynamic_score": 3.592,
-    "last_updated": "2026-11-05T01:24:38.849282Z",
+    "last_updated": "2026-11-05T10:19:32.398966Z",
     "last_tweeted_at": "2026-11-05T01:24:38.849282Z",
     "tweet_id": "2118152523575947639",
     "resolved": true,
@@ -32171,7 +32171,7 @@
     "rain_mm": 43.5,
     "soil_moisture": 0.651,
     "raw_dynamic_score": 6.948,
-    "last_updated": "2026-09-01T18:17:57.865278Z",
+    "last_updated": "2026-11-05T10:19:32.398966Z",
     "last_tweeted_at": "2026-09-01T14:01:43.054358Z",
     "tweet_id": "2094787832225136938",
     "resolved": false
@@ -40886,10 +40886,18 @@
     "rain_mm": 79.25,
     "soil_moisture": 0.616,
     "raw_dynamic_score": 12.407,
-    "last_updated": "2026-11-05T01:24:38.849282Z",
+    "last_updated": "2026-11-05T10:19:32.398966Z",
     "last_tweeted_at": "2026-11-05T01:24:38.849282Z",
     "tweet_id": "2118153029232787752",
-    "resolved": false
+    "resolved": false,
+    "pending_downgrade": true,
+    "pending_target_level": "Low",
+    "pending_set_at": "2026-11-05T10:19:32.398966Z",
+    "pending_is_region": false,
+    "pending_observed_level": "Low",
+    "pending_observed_rain_mm": 3.12,
+    "pending_observed_soil_moisture": 0.588,
+    "pending_observed_raw_dynamic_score": 0.481
   },
   "-0.1022,34.7617": {
     "country": "Kenya",
@@ -45590,10 +45598,14 @@
     "rain_mm": 113.81,
     "soil_moisture": 0.735,
     "raw_dynamic_score": 19.046,
-    "last_updated": "2026-11-05T01:24:38.849282Z",
+    "last_updated": "2026-11-05T10:19:32.398966Z",
     "last_tweeted_at": "2026-11-05T01:24:38.849282Z",
     "tweet_id": "2118152523575947639",
-    "resolved": false
+    "resolved": false,
+    "pending_downgrade": true,
+    "pending_target_level": "Low",
+    "pending_set_at": "2026-11-05T10:19:32.398966Z",
+    "pending_is_region": true
   },
   "-4.2186,13.7617": {
     "country": "Congo",
@@ -45605,7 +45617,7 @@
     "rain_mm": 113.81,
     "soil_moisture": 0.735,
     "raw_dynamic_score": 19.046,
-    "last_updated": "2026-11-05T01:24:38.849282Z",
+    "last_updated": "2026-11-05T10:19:32.398966Z",
     "last_tweeted_at": "2026-11-05T01:24:38.849282Z",
     "tweet_id": "2118152523575947639",
     "resolved": false
@@ -45620,7 +45632,7 @@
     "rain_mm": 41.25,
     "soil_moisture": 0.73,
     "raw_dynamic_score": 6.882,
-    "last_updated": "2026-11-05T01:24:38.849282Z",
+    "last_updated": "2026-11-05T10:19:32.398966Z",
     "last_tweeted_at": "2026-11-05T01:24:38.849282Z",
     "tweet_id": "2118152776333013395",
     "resolved": false
