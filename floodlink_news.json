@@ -10531,5 +10531,14 @@
         "score": 0,
         "status": "skipped",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-11-05",
+        "status": "posted",
+        "tweet": "By 2030, extreme rainfall will expose 410 million urban residents worldwide to river flooding each year, up 55% from 2020 levels.",
+        "type": "statistical",
+        "category": "urban areas exposed to river flooding",
+        "tweet_id": "2118243813948826031"
     }
 ]
