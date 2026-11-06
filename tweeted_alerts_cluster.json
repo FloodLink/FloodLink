@@ -11994,7 +11994,7 @@
     "rain_mm": 52.81,
     "soil_moisture": 0.634,
     "raw_dynamic_score": 8.354,
-    "last_updated": "2026-10-04T16:22:52.431862Z",
+    "last_updated": "2026-11-06T10:24:06.561935Z",
     "last_tweeted_at": "2026-04-21T07:33:26.059085Z",
     "tweet_id": "2046492783423152491",
     "resolved": false
@@ -38889,7 +38889,7 @@
     "rain_mm": 90.5,
     "soil_moisture": 0.746,
     "raw_dynamic_score": 15.233,
-    "last_updated": "2026-09-28T03:00:04.083535Z",
+    "last_updated": "2026-11-06T10:24:06.561935Z",
     "last_tweeted_at": "2026-09-27T23:39:27.833390Z",
     "tweet_id": "2104356550773207293",
     "resolved": false
@@ -45047,7 +45047,7 @@
     "rain_mm": 42.19,
     "soil_moisture": 0.671,
     "raw_dynamic_score": 6.815,
-    "last_updated": "2026-11-06T01:36:10.224738Z",
+    "last_updated": "2026-11-06T10:24:06.561935Z",
     "last_tweeted_at": "2026-11-06T01:36:10.224738Z",
     "tweet_id": "2118517813723943254",
     "resolved": false
@@ -45062,7 +45062,7 @@
     "rain_mm": 41.12,
     "soil_moisture": 0.672,
     "raw_dynamic_score": 6.648,
-    "last_updated": "2026-11-06T01:36:10.224738Z",
+    "last_updated": "2026-11-06T10:24:06.561935Z",
     "last_tweeted_at": "2026-11-06T01:36:10.224738Z",
     "tweet_id": "2118518066221113483",
     "resolved": false
@@ -45095,6 +45095,21 @@
     "last_updated": "2026-11-06T01:36:10.224738Z",
     "last_tweeted_at": "2026-11-06T01:36:10.224738Z",
     "tweet_id": "2118518066221113483",
+    "resolved": false
+  },
+  "-12.3543,14.7723": {
+    "country": "Angola",
+    "name": "Balombo",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": -12.35426,
+    "longitude": 14.77232,
+    "rain_mm": 49.94,
+    "soil_moisture": 0.534,
+    "raw_dynamic_score": 7.451,
+    "last_updated": "2026-11-06T10:24:06.561935Z",
+    "last_tweeted_at": "2026-11-06T10:24:06.561935Z",
+    "tweet_id": "2118650660446949630",
     "resolved": false
   }
 }
