@@ -1,23 +1,5 @@
 [
     {
-        "link": null,
-        "date": "2026-10-08",
-        "status": "posted",
-        "tweet": "\ud83c\udde8\ud83c\uddf3 Guangzhou: 4.9 million exposed to pluvial flooding in 2024 extreme rainfall. \ud83c\uddfa\ud83c\uddf8 New York: 1.1 million in 2023 event, despite comparable dense infrastructure.",
-        "type": "statistical",
-        "category": "pluvial (surface) flooding in dense cities",
-        "tweet_id": "2107991407906402635"
-    },
-    {
-        "link": null,
-        "date": "2026-10-08",
-        "status": "posted",
-        "tweet": "By 2030, extreme rainfall is projected to expose 1.6 billion people in dense cities worldwide to pluvial flooding each year, up 40% from 2020 levels.",
-        "type": "statistical",
-        "category": "pluvial (surface) flooding in dense cities",
-        "tweet_id": "2108196962436567200"
-    },
-    {
         "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQOVJJcHZZZmJhbjNkeVVmZVNmRUF3b05Eb0FzWEpoVHdmS0FQalAwMkw5TWNQb0gtb0s0X2NKckpsdWktTjc2Q2ZjZnRwMUxKTk53cm9lRjNSMFZIWjZnVUU1WmMtNjNyVWhWSXpMWkxaWFllRXZQeUtMbnFCRXRUNlp5WkFLYUFzWDlidXQ4M2c5S0N1emRIMXloQldvNVVrS253V1pIN0NrQk9VYnFsLThraHM?oc=5",
         "date": "2026-10-09",
         "title": "Flood watch for Oahu expires as rains ease - Honolulu Star-Advertiser",
@@ -11487,6 +11469,203 @@
             "latitude": 27.7663,
             "longitude": -81.6868,
             "confidence": 0.8
+        }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWEJIcEtsalJpeVdJVVpGNEtNdnZmbnVCT3k4X1k1SHpCMF9ZOU1zWGtYMVh1MEU3ZU1nbEFBdU9ydFVNZW9ObkVRZ3Rwa0ZLQURDTi1PRlh5TXQxTzVUZXp4NHNTYlNtdEx4bGgtTHZ3bUljN1RLdTJ3R0YxSjNxaGw5ZFJKWUs1R3NNdURESlJadDFJWEJCZnd6Tk9Dek5IS1l5YnY1UUpuUkk?oc=5",
+        "date": "2026-11-07",
+        "title": "Coastal flood warning issued through Tuesday for Southern California - Orange County Register",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWEJIcEtsalJpeVdJVVpGNEtNdnZmbnVCT3k4X1k1SHpCMF9ZOU1zWGtYMVh1MEU3ZU1nbEFBdU9ydFVNZW9ObkVRZ3Rwa0ZLQURDTi1PRlh5TXQxTzVUZXp4NHNTYlNtdEx4bGgtTHZ3bUljN1RLdTJ3R0YxSjNxaGw5ZFJKWUs1R3NNdURESlJadDFJWEJCZnd6Tk9Dek5IS1l5YnY1UUpuUkk?oc=5\" target=\"_blank\">Coastal flood warning issued through Tuesday for Southern California</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Orange County Register</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMnhNRDJrbXNRdlVNYkRLdEIyREQ2SnVZeGVKYVAycy1BWnZ6UUpNNkR3Z1dZYWU3SC1TblhPaGc5MmFaR2VhMm9ONHFwajYzeHZwSElGUnZfQ01uWmRzTzU0N0F0aHcyWkJRajZLaDd3d0xrWTR5TmNNRzduQTR5dzJGaWZGSUhfRFdTaE1tN0lTTWdkWkJQdENjR3laV2hYUmtVa1RrY1hSNERCTzJKNE55dVNNZw?oc=5",
+        "date": "2026-11-07",
+        "title": "Track live river levels: Flood warning continues for St. Johns River - WKMG",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPMnhNRDJrbXNRdlVNYkRLdEIyREQ2SnVZeGVKYVAycy1BWnZ6UUpNNkR3Z1dZYWU3SC1TblhPaGc5MmFaR2VhMm9ONHFwajYzeHZwSElGUnZfQ01uWmRzTzU0N0F0aHcyWkJRajZLaDd3d0xrWTR5TmNNRzduQTR5dzJGaWZGSUhfRFdTaE1tN0lTTWdkWkJQdENjR3laV2hYUmtVa1RrY1hSNERCTzJKNE55dVNNZw?oc=5\" target=\"_blank\">Track live river levels: Flood warning continues for St. Johns River</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WKMG</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1FbFhKeEtrd0F1RHFvLXd0M2NfQ28yRzlUaTlqalFvTTB2SHctNTZncU5YZmhKRXJxZEY3bXg1UWYtTzRDcDFaTnU3bGlzVjc2c2JYZVl5SEhVUnRvbjBuVHREMDhPUdIBa0FVX3lxTE9zbUQ3aGU0OV9FdUhRaFdfSFVjUXROM0FhWHd6cUpSRl82UlFaSUJrUTVLemdlNjBvcktBNjRvTUJScWdfSjhFbDE0N0JjOVZ4Q0VUMVVybDAxbnBoZlc1a1NqNXczUUQwNldv?oc=5",
+        "date": "2026-11-07",
+        "title": "Phoenix weather: Pleasant weekend expected - FOX 10 Phoenix",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE1FbFhKeEtrd0F1RHFvLXd0M2NfQ28yRzlUaTlqalFvTTB2SHctNTZncU5YZmhKRXJxZEY3bXg1UWYtTzRDcDFaTnU3bGlzVjc2c2JYZVl5SEhVUnRvbjBuVHREMDhPUdIBa0FVX3lxTE9zbUQ3aGU0OV9FdUhRaFdfSFVjUXROM0FhWHd6cUpSRl82UlFaSUJrUTVLemdlNjBvcktBNjRvTUJScWdfSjhFbDE0N0JjOVZ4Q0VUMVVybDAxbnBoZlc1a1NqNXczUUQwNldv?oc=5\" target=\"_blank\">Phoenix weather: Pleasant weekend expected</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FOX 10 Phoenix</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOZEl3QUg3NTE2UTBmZWZHbTFadE9FbENSWGlKVDFNRW9BS0ZoSGlIZjlvSldqQ2hSZ3NmSzlIemllYUVoTXVUQlRqQ2swTVc0MjNlUWEwZy1kYzNEWW5NYkxaS3lENFYzd0dQTUl2MFI5N0pnQ2VRMUd1UndfQWkyZFdTME9hdElUYTY1bUJudDdFOWtuUmdoeHZDdGNvNlZlYjNCbG9OOWJ3WTFyUlNjQ0dfUi0waDduaFp5d0ZXZTM0bFVpcTlzWlQwMA?oc=5",
+        "date": "2026-11-07",
+        "title": "Cleanup underway after catastrophic flash flood devastates McCaysville - WSB-TV",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxOZEl3QUg3NTE2UTBmZWZHbTFadE9FbENSWGlKVDFNRW9BS0ZoSGlIZjlvSldqQ2hSZ3NmSzlIemllYUVoTXVUQlRqQ2swTVc0MjNlUWEwZy1kYzNEWW5NYkxaS3lENFYzd0dQTUl2MFI5N0pnQ2VRMUd1UndfQWkyZFdTME9hdElUYTY1bUJudDdFOWtuUmdoeHZDdGNvNlZlYjNCbG9OOWJ3WTFyUlNjQ0dfUi0waDduaFp5d0ZXZTM0bFVpcTlzWlQwMA?oc=5\" target=\"_blank\">Cleanup underway after catastrophic flash flood devastates McCaysville</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSB-TV</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOTWpMYzg4UzVrMFl5Y0NLWHlPV0lTSmFMRXB2Ny1VYVlmOWhmZl9PbUZJZTBTUjJhT3RZNXZzSEVwQjNjVzNYQ2pIRzAySXlyOEZTWDF2dGp2cXh1Q3RWd0hwNVhPVENwSmtBLXZzc0xlYVY2TFRZa2lfdjRNVmxmSWNINXJsc3FyeTZiQTFB?oc=5",
+        "date": "2026-11-07",
+        "title": "Cold front may bring flood threat to Texas \u2014 here's where - MySA",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOTWpMYzg4UzVrMFl5Y0NLWHlPV0lTSmFMRXB2Ny1VYVlmOWhmZl9PbUZJZTBTUjJhT3RZNXZzSEVwQjNjVzNYQ2pIRzAySXlyOEZTWDF2dGp2cXh1Q3RWd0hwNVhPVENwSmtBLXZzc0xlYVY2TFRZa2lfdjRNVmxmSWNINXJsc3FyeTZiQTFB?oc=5\" target=\"_blank\">Cold front may bring flood threat to Texas \u2014 here's where</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MySA</font>",
+        "similarity_excluded": "No",
+        "score": 6,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNNU5zMlRnQmFMMlo2LVdHdmJybGNDMFg2b0podUF2a3B0R1M5ODZpRmI0d1h5ci0yN0NrMmZIcS03bFFteUM3Z1BPSUI0aXQxNmxfdGkzRDJkY3lld3BJVWhzRE9ZcHRzWGtUbEpQOHllSUliS2s0VVNqUjh6bmtjRGp2VUhETWozUGY0bFFxc1hpNktQ?oc=5",
+        "date": "2026-11-07",
+        "title": "100+ people, 25 dogs rescued in Tennessee and Georgia flooding: TEMA - WVLT",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNNU5zMlRnQmFMMlo2LVdHdmJybGNDMFg2b0podUF2a3B0R1M5ODZpRmI0d1h5ci0yN0NrMmZIcS03bFFteUM3Z1BPSUI0aXQxNmxfdGkzRDJkY3lld3BJVWhzRE9ZcHRzWGtUbEpQOHllSUliS2s0VVNqUjh6bmtjRGp2VUhETWozUGY0bFFxc1hpNktQ?oc=5\" target=\"_blank\">100+ people, 25 dogs rescued in Tennessee and Georgia flooding: TEMA</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WVLT</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNT2tIaUdXOWdOWHlVVnN4ck9Wd080VG43MHo1dEJfZDhoeWprT1BJY25EakFjX1hnUUE3eU5hSF9Oa21SUUpfMFNSQVpHODdvZFQ3ZWY3aGhVX0o1VnAxRURVQVRMZW1XVXhhR2Jid0R2TGlwYU93UDYtYTJwVmQxV2JPQVJISzlPanREcXl1SUZ6SG5QWTFRSlVwcmZULS1MU2JlMXZYcVoyWUhQYlU3eVpiMWNfY2JpVWNjWnFlQURGclh3UUQyZ1FhMlpCcGpFaU5KOGRud3VSTjNLZnhZVUhB?oc=5",
+        "date": "2026-11-07",
+        "title": "Cleanup underway after catastrophic flash flood devastates McCaysville - WSB-TV",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxNT2tIaUdXOWdOWHlVVnN4ck9Wd080VG43MHo1dEJfZDhoeWprT1BJY25EakFjX1hnUUE3eU5hSF9Oa21SUUpfMFNSQVpHODdvZFQ3ZWY3aGhVX0o1VnAxRURVQVRMZW1XVXhhR2Jid0R2TGlwYU93UDYtYTJwVmQxV2JPQVJISzlPanREcXl1SUZ6SG5QWTFRSlVwcmZULS1MU2JlMXZYcVoyWUhQYlU3eVpiMWNfY2JpVWNjWnFlQURGclh3UUQyZ1FhMlpCcGpFaU5KOGRud3VSTjNLZnhZVUhB?oc=5\" target=\"_blank\">Cleanup underway after catastrophic flash flood devastates McCaysville</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSB-TV</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": null,
+        "tweet_id": "2118875863638802559",
+        "geo": {
+            "country": "United States",
+            "name": "McCaysville, Georgia",
+            "latitude": 34.9829,
+            "longitude": -84.371,
+            "confidence": 0.9
+        }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNVkxraGw5U3ZRemhzSnZKa3pnVEZ6eTMxUnZZcEhiVEFCUFVORUtZZzM1cUpiYVI4NlBHcW1HVU1OT1hqSzkzd0ZQb3U1YkF6UHJUaE1TOUxNZ0stTW9sdlFnYzlwcnZRUGxXQUE2V01La1ZyZk5sbVpMam5NS05fR3JXZWFTTE9lY0hMYTNxVEotT0c1ZzJOaWFBY2RORkppOHN3ZERrYXZfU04zZEt1ZXM4TXkxZTBqZEVLVzJtN3RkVUhTNDhZTElvMi1xSlA3Z0RsYg?oc=5",
+        "date": "2026-11-07",
+        "title": "'How do you know who to trust?' Palm Bay flood victims warned about predatory contractors - WKMG",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxNVkxraGw5U3ZRemhzSnZKa3pnVEZ6eTMxUnZZcEhiVEFCUFVORUtZZzM1cUpiYVI4NlBHcW1HVU1OT1hqSzkzd0ZQb3U1YkF6UHJUaE1TOUxNZ0stTW9sdlFnYzlwcnZRUGxXQUE2V01La1ZyZk5sbVpMam5NS05fR3JXZWFTTE9lY0hMYTNxVEotT0c1ZzJOaWFBY2RORkppOHN3ZERrYXZfU04zZEt1ZXM4TXkxZTBqZEVLVzJtN3RkVUhTNDhZTElvMi1xSlA3Z0RsYg?oc=5\" target=\"_blank\">'How do you know who to trust?' Palm Bay flood victims warned about predatory contractors</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WKMG</font>",
+        "similarity_excluded": "No",
+        "score": 6,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPS3dqVUNMa1drcV9DYUF4eWNYX2NuNml6U3A1Q0EzTVp2X0VPTF80UFFPMW1FMGdhc1I2VXdRUTFiZFV2REZ6Z2J2MmdjOGF5TFBMeE1Pczc2ZExtam5sVzhZSHhpVGpYNGVqMGJKVlJHUm5HclMyS0ZlUGFHemxGMUVOcHQ5SUVlSVpkQ3FkdV8zU2JEcHRBTHVBMkRpU1ZKMWJaOVR0YTViaXhBWlNhNVRhTEZuMUVCNm9qeElnalFfZjhxTXBJNHZkeWtob05tWHlLNGk2Y3hPczlHd3ZFblp3?oc=5",
+        "date": "2026-11-07",
+        "title": "Storms that caused 1-in-1,000 year flood event in Tennessee and Georgia move up Atlantic coast - WKMG",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxPS3dqVUNMa1drcV9DYUF4eWNYX2NuNml6U3A1Q0EzTVp2X0VPTF80UFFPMW1FMGdhc1I2VXdRUTFiZFV2REZ6Z2J2MmdjOGF5TFBMeE1Pczc2ZExtam5sVzhZSHhpVGpYNGVqMGJKVlJHUm5HclMyS0ZlUGFHemxGMUVOcHQ5SUVlSVpkQ3FkdV8zU2JEcHRBTHVBMkRpU1ZKMWJaOVR0YTViaXhBWlNhNVRhTEZuMUVCNm9qeElnalFfZjhxTXBJNHZkeWtob05tWHlLNGk2Y3hPczlHd3ZFblp3?oc=5\" target=\"_blank\">Storms that caused 1-in-1,000 year flood event in Tennessee and Georgia move up Atlantic coast</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WKMG</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1Kdi0tUS1SM2JGQS1Vd3JnSkpEZlRsTEkwZ3ZmZkdsQ1ppMkFUQkdVNmFic0M5V2lIZ1Roc2J2UkdtNGdpc2g0cFBETDZ0SXIxTWRzVUZ6a1RvcDJ4NjIxTGZ1Q3ZYd9IBa0FVX3lxTE9pcF9XN0xQSXJQMlBvSXpGXzhTSFRfNVk0bFIxS3VQaUNBeVNzTWFuMHhMaW9ZZ0hSOFVmRHdJNlF3TzZBaW5WRjNlNnJEc0dFNEFIbWtZbFpDR1hwOERWTWNxVS1TV2dPME9R?oc=5",
+        "date": "2026-11-07",
+        "title": "Castle Hot Springs worker found dead after flooding - FOX 10 Phoenix",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE1Kdi0tUS1SM2JGQS1Vd3JnSkpEZlRsTEkwZ3ZmZkdsQ1ppMkFUQkdVNmFic0M5V2lIZ1Roc2J2UkdtNGdpc2g0cFBETDZ0SXIxTWRzVUZ6a1RvcDJ4NjIxTGZ1Q3ZYd9IBa0FVX3lxTE9pcF9XN0xQSXJQMlBvSXpGXzhTSFRfNVk0bFIxS3VQaUNBeVNzTWFuMHhMaW9ZZ0hSOFVmRHdJNlF3TzZBaW5WRjNlNnJEc0dFNEFIbWtZbFpDR1hwOERWTWNxVS1TV2dPME9R?oc=5\" target=\"_blank\">Castle Hot Springs worker found dead after flooding</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FOX 10 Phoenix</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOekljU215cG1XelE3Z2x1ODRTNTg4UWUybFNGVzBXTVNSdm1xVWNncTctd1JhSXpaRzk5Z01yaGE5aHNGYnpJUmJic3o0VWxsRmI3UmM3cmNjNm5DNEdMeTk1X2ltaUxob2x3NGEtN3RzcnJsby00b0pnRDI2OEFMbHNwOFdDaVFWV0QyNUNtR3lBVUdpcHpYdUVn?oc=5",
+        "date": "2026-11-07",
+        "title": "Cleanup begins in Copperhill, McCaysville after historic flooding - WSMV",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxOekljU215cG1XelE3Z2x1ODRTNTg4UWUybFNGVzBXTVNSdm1xVWNncTctd1JhSXpaRzk5Z01yaGE5aHNGYnpJUmJic3o0VWxsRmI3UmM3cmNjNm5DNEdMeTk1X2ltaUxob2x3NGEtN3RzcnJsby00b0pnRDI2OEFMbHNwOFdDaVFWV0QyNUNtR3lBVUdpcHpYdUVn?oc=5\" target=\"_blank\">Cleanup begins in Copperhill, McCaysville after historic flooding</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSMV</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9zRUxmemxhZ08wMEg2a2dFRjFXV09UMld6RTJTTGd1TDd5X1pGWjRCV0hFbmFNaXpSYy1aS2tqMHRkTmM0M19MVXBEdko3WWpJVWt3NllWZ0d6bmFOMFV1N3FlUUVWZ9IBa0FVX3lxTFAxel96d2ZSR2pFNmZIWWRZV2wxN1Y2aVFDMk42OUVIeXV0blFSSFpfZ1FiQTJIa3k5am5UUUY1LW91X2hWZkVEOHl5LXVFRUlDUkRsTEZLMW5xRjJVYWp1Y0tTS3hBUThtREUw?oc=5",
+        "date": "2026-11-07",
+        "title": "Wearing waders to leave the house, floodwaters stagnant - FOX 35 Orlando",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE9zRUxmemxhZ08wMEg2a2dFRjFXV09UMld6RTJTTGd1TDd5X1pGWjRCV0hFbmFNaXpSYy1aS2tqMHRkTmM0M19MVXBEdko3WWpJVWt3NllWZ0d6bmFOMFV1N3FlUUVWZ9IBa0FVX3lxTFAxel96d2ZSR2pFNmZIWWRZV2wxN1Y2aVFDMk42OUVIeXV0blFSSFpfZ1FiQTJIa3k5am5UUUY1LW91X2hWZkVEOHl5LXVFRUlDUkRsTEZLMW5xRjJVYWp1Y0tTS3hBUThtREUw?oc=5\" target=\"_blank\">Wearing waders to leave the house, floodwaters stagnant</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FOX 35 Orlando</font>",
+        "similarity_excluded": "No",
+        "score": 6,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxObjFPZ0ZhYmxJMUZiZ2RUZ2t4RGNkSWJSVlVlME5RVUI1NFBYaDBzb2EtOVlxemxTM1VVMVBneF94YU1yZGxEb3BtOHllUktYSkQwMW9xX2RVSkJNMjlyNm1nRVJUV1QzOG9LeVRraDl6R08yazgwVU5xVWhra1RkWkp6M2tGWGFDWXZTRjlZUlJxSTFzWE93VWtzdDJSa21zOF9Vby1PeFdVV1c2MzNyRkxLY0VieDA?oc=5",
+        "date": "2026-11-07",
+        "title": "South Brevard residents still under several feet of water, lots not draining: \u2018Scares me\u2019 - FOX 35 Orlando",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxObjFPZ0ZhYmxJMUZiZ2RUZ2t4RGNkSWJSVlVlME5RVUI1NFBYaDBzb2EtOVlxemxTM1VVMVBneF94YU1yZGxEb3BtOHllUktYSkQwMW9xX2RVSkJNMjlyNm1nRVJUV1QzOG9LeVRraDl6R08yazgwVU5xVWhra1RkWkp6M2tGWGFDWXZTRjlZUlJxSTFzWE93VWtzdDJSa21zOF9Vby1PeFdVV1c2MzNyRkxLY0VieDA?oc=5\" target=\"_blank\">South Brevard residents still under several feet of water, lots not draining: \u2018Scares me\u2019</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FOX 35 Orlando</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSFdyX212bzYxblFuVjNPbWtyRkZSNl94elZveURjWXNQQWhENzFZSnhsNkctY3dpaWVjVGlTanVwdWxqbUsxUlBpUjN3SWFlQ2NWVjVnbHRpQ2p2d2xjSmVRWTZhcFVJTWRZLV8zU2tzRk1CTDFGcGRoQnExQnUxYVUtc1hwM01vbG16ejQ4bEp3a0V3c2psSjVuQkVOdmtnOURQd3ZGZGtEclF3Rnc?oc=5",
+        "date": "2026-11-07",
+        "title": "Missing worker Benny Sutton Jr. found dead in Lake Pleasant after wash flooding - FOX 10 Phoenix",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxOSFdyX212bzYxblFuVjNPbWtyRkZSNl94elZveURjWXNQQWhENzFZSnhsNkctY3dpaWVjVGlTanVwdWxqbUsxUlBpUjN3SWFlQ2NWVjVnbHRpQ2p2d2xjSmVRWTZhcFVJTWRZLV8zU2tzRk1CTDFGcGRoQnExQnUxYVUtc1hwM01vbG16ejQ4bEp3a0V3c2psSjVuQkVOdmtnOURQd3ZGZGtEclF3Rnc?oc=5\" target=\"_blank\">Missing worker Benny Sutton Jr. found dead in Lake Pleasant after wash flooding</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FOX 10 Phoenix</font>",
+        "similarity_excluded": "No",
+        "score": 6,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOQXhLT2d2QWxqLW9EYTNtQ3drcjA0X2pPdkdJNThnWlRTODR2MWdVanR2TlBfcmVZblB6SlJ5emR6d0tLbkt1VWJoZHdTQ2Z5YjAtT2tfNEFOMndrNDlRV0kzVlVObEpiakM4d2Mzc2RVVXktX3RxWEczaEwzVXRrSXkxTVU3dW96SWtOelVOZEpWOTdxaWlz?oc=5",
+        "date": "2026-11-07",
+        "title": "Tempe Town Lake closed due to record flooding, E. coli concerns - FOX 10 Phoenix",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOQXhLT2d2QWxqLW9EYTNtQ3drcjA0X2pPdkdJNThnWlRTODR2MWdVanR2TlBfcmVZblB6SlJ5emR6d0tLbkt1VWJoZHdTQ2Z5YjAtT2tfNEFOMndrNDlRV0kzVlVObEpiakM4d2Mzc2RVVXktX3RxWEczaEwzVXRrSXkxTVU3dW96SWtOelVOZEpWOTdxaWlz?oc=5\" target=\"_blank\">Tempe Town Lake closed due to record flooding, E. coli concerns</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FOX 10 Phoenix</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVUdhcGU4TjN3b3ZBWmh5R3B1T1J6NFpBb05UZDFZX29pUHdBcnNKQlpBREFjTUtrX0hCeU1aQk9JdjJBZlZ6ZFFvWFg0VEpWcW9RNnBjdXdmUHN1cjU2ZlNjeHNIaUJNVDJaOFN3SVBLcFRiVk02THdWMDJKWEx3cm9WX1RQeDA2OFpobTJjdWYwNDI5eHJTSDlpcElTWUsxUFVNaEVDa0M4V1l4c0NOYktHNVI?oc=5",
+        "date": "2026-11-07",
+        "title": "Palm Bay flood victims seek answers on insurance, cleanup costs - WKMG",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxOVUdhcGU4TjN3b3ZBWmh5R3B1T1J6NFpBb05UZDFZX29pUHdBcnNKQlpBREFjTUtrX0hCeU1aQk9JdjJBZlZ6ZFFvWFg0VEpWcW9RNnBjdXdmUHN1cjU2ZlNjeHNIaUJNVDJaOFN3SVBLcFRiVk02THdWMDJKWEx3cm9WX1RQeDA2OFpobTJjdWYwNDI5eHJTSDlpcElTWUsxUFVNaEVDa0M4V1l4c0NOYktHNVI?oc=5\" target=\"_blank\">Palm Bay flood victims seek answers on insurance, cleanup costs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WKMG</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVmtaNnRvN0NBbE5DUVVvUFB5WFUzUHJkT3JIQkg1NkxSMExmdnNFZkFIY1FvSi11RHhWVG1yN1dIaXRxTWRteWdEaHUwaXFJTl9CU2NraTJuMmpRaXpSdHRkQmpkb1NGRmFtQXV5U0d2dS1KMFpXTGRvSFlMSjFMOHFWYl80LU1DMlNLSmpR?oc=5",
+        "date": "2026-11-07",
+        "title": "Aid packs out ahead of monsoon - The Star",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQVmtaNnRvN0NBbE5DUVVvUFB5WFUzUHJkT3JIQkg1NkxSMExmdnNFZkFIY1FvSi11RHhWVG1yN1dIaXRxTWRteWdEaHUwaXFJTl9CU2NraTJuMmpRaXpSdHRkQmpkb1NGRmFtQXV5U0d2dS1KMFpXTGRvSFlMSjFMOHFWYl80LU1DMlNLSmpR?oc=5\" target=\"_blank\">Aid packs out ahead of monsoon</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Star</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNT2tIaUdXOWdOWHlVVnN4ck9Wd080VG43MHo1dEJfZDhoeWprT1BJY25EakFjX1hnUUE3eU5hSF9Oa21SUUpfMFNSQVpHODdvZFQ3ZWY3aGhVX0o1VnAxRURVQVRMZW1XVXhhR2Jid0R2TGlwYU93UDYtYTJwVmQxV2JPQVJISzlPanREcXl1SUZ6SG5QWTFRSlVwcmZULS1MU2JlMXZYcVoyWUhQYlU3eVpiMWNfY2JpVWNjWnFlQURGclh3UUQyZ1FhMlpCcGpFaU5KOGRud3VSTjNLZnhZVUhB?oc=5",
+        "date": "2026-11-07",
+        "title": "Cleanup underway after catastrophic flash flood devastates McCaysville - WSB-TV",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxNT2tIaUdXOWdOWHlVVnN4ck9Wd080VG43MHo1dEJfZDhoeWprT1BJY25EakFjX1hnUUE3eU5hSF9Oa21SUUpfMFNSQVpHODdvZFQ3ZWY3aGhVX0o1VnAxRURVQVRMZW1XVXhhR2Jid0R2TGlwYU93UDYtYTJwVmQxV2JPQVJISzlPanREcXl1SUZ6SG5QWTFRSlVwcmZULS1MU2JlMXZYcVoyWUhQYlU3eVpiMWNfY2JpVWNjWnFlQURGclh3UUQyZ1FhMlpCcGpFaU5KOGRud3VSTjNLZnhZVUhB?oc=5\" target=\"_blank\">Cleanup underway after catastrophic flash flood devastates McCaysville</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WSB-TV</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 POST-EVENT McCaysville: Catastrophic flash flood devastates town, cleanup underway. WSB-TV",
+        "type": "news",
+        "tweet_id": "2118875863638802559",
+        "geo": {
+            "country": "United States",
+            "name": "McCaysville, Georgia",
+            "latitude": 34.9829,
+            "longitude": -84.371,
+            "confidence": 0.9
         }
     }
 ]
