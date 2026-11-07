@@ -40845,22 +40845,6 @@
     "tweet_id": "2111092883063243158",
     "resolved": false
   },
-  "-0.7001,10.2406": {
-    "country": "Gabon",
-    "name": "Lambaréné",
-    "risk_level": "Low",
-    "tweeted_level": "Low",
-    "latitude": -0.7001,
-    "longitude": 10.24055,
-    "rain_mm": 0.12,
-    "soil_moisture": 0.532,
-    "raw_dynamic_score": 0.019,
-    "last_updated": "2026-11-06T01:36:10.224738Z",
-    "last_tweeted_at": "2026-11-06T01:36:10.224738Z",
-    "tweet_id": "2118518319099851214",
-    "resolved": true,
-    "resolved_at": "2026-11-06T01:36:10.224738Z"
-  },
   "-0.1022,34.7617": {
     "country": "Kenya",
     "name": "Kisumu",
@@ -44911,38 +44895,6 @@
     "tweet_id": "2118060723624407099",
     "resolved": false
   },
-  "-4.2961,13.8508": {
-    "country": "Congo",
-    "name": "Loutété",
-    "risk_level": "Low",
-    "tweeted_level": "Low",
-    "latitude": -4.29611,
-    "longitude": 13.85083,
-    "rain_mm": 0.06,
-    "soil_moisture": 0.602,
-    "raw_dynamic_score": 0.01,
-    "last_updated": "2026-11-06T01:36:10.224738Z",
-    "last_tweeted_at": "2026-11-06T01:36:10.224738Z",
-    "tweet_id": "2118518571999625637",
-    "resolved": true,
-    "resolved_at": "2026-11-06T01:36:10.224738Z"
-  },
-  "-4.2186,13.7617": {
-    "country": "Congo",
-    "name": "Bouansa",
-    "risk_level": "Low",
-    "tweeted_level": "Low",
-    "latitude": -4.21861,
-    "longitude": 13.76167,
-    "rain_mm": 0.06,
-    "soil_moisture": 0.602,
-    "raw_dynamic_score": 0.01,
-    "last_updated": "2026-11-06T01:36:10.224738Z",
-    "last_tweeted_at": "2026-11-06T01:36:10.224738Z",
-    "tweet_id": "2118518571999625637",
-    "resolved": true,
-    "resolved_at": "2026-11-06T01:36:10.224738Z"
-  },
   "-1.8685,11.0559": {
     "country": "Gabon",
     "name": "Mouila",
@@ -45137,7 +45089,7 @@
     "rain_mm": 62.75,
     "soil_moisture": 0.729,
     "raw_dynamic_score": 10.465,
-    "last_updated": "2026-11-07T00:45:07.903064Z",
+    "last_updated": "2026-11-07T09:38:56.401766Z",
     "last_tweeted_at": "2026-11-07T00:45:07.903064Z",
     "tweet_id": "2118867358022316403",
     "resolved": false
@@ -45155,6 +45107,51 @@
     "last_updated": "2026-11-07T00:45:07.903064Z",
     "last_tweeted_at": "2026-11-07T00:45:07.903064Z",
     "tweet_id": "2118867358022316403",
+    "resolved": false
+  },
+  "-27.0675,-53.1611": {
+    "country": "Brazil",
+    "name": "Palmitos",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": -27.0675,
+    "longitude": -53.16111,
+    "rain_mm": 44.0,
+    "soil_moisture": 0.719,
+    "raw_dynamic_score": 7.298,
+    "last_updated": "2026-11-07T09:38:56.401766Z",
+    "last_tweeted_at": "2026-11-07T09:38:56.401766Z",
+    "tweet_id": "2119001670159904962",
+    "resolved": false
+  },
+  "2.6620,97.8827": {
+    "country": "Indonesia",
+    "name": "Subulussalam",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 2.662,
+    "longitude": 97.8827,
+    "rain_mm": 45.75,
+    "soil_moisture": 0.624,
+    "raw_dynamic_score": 7.196,
+    "last_updated": "2026-11-07T09:38:56.401766Z",
+    "last_tweeted_at": "2026-11-07T09:38:56.401766Z",
+    "tweet_id": "2119001922753409371",
+    "resolved": false
+  },
+  "37.0397,45.0983": {
+    "country": "Islamic Republic of Iran",
+    "name": "Oshnavīyeh",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 37.0397,
+    "longitude": 45.0983,
+    "rain_mm": 48.69,
+    "soil_moisture": 0.586,
+    "raw_dynamic_score": 7.493,
+    "last_updated": "2026-11-07T09:38:56.401766Z",
+    "last_tweeted_at": "2026-11-07T09:38:56.401766Z",
+    "tweet_id": "2119002175334445330",
     "resolved": false
   }
 }
