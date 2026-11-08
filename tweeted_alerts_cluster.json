@@ -5109,7 +5109,7 @@
     "rain_mm": 50.44,
     "soil_moisture": 0.608,
     "raw_dynamic_score": 7.861,
-    "last_updated": "2026-02-15T18:29:43.770716Z",
+    "last_updated": "2026-11-08T19:30:12.149589Z",
     "last_tweeted_at": "2026-02-15T12:36:55.753270Z",
     "tweet_id": "2023013694653731103",
     "resolved": false
@@ -8589,7 +8589,7 @@
     "rain_mm": 58.94,
     "soil_moisture": 0.534,
     "raw_dynamic_score": 8.789,
-    "last_updated": "2026-11-08T12:44:34.483452Z",
+    "last_updated": "2026-11-08T19:30:12.149589Z",
     "last_tweeted_at": "2026-03-24T16:06:27.715614Z",
     "tweet_id": "2036474770020004221",
     "resolved": false
@@ -11979,10 +11979,18 @@
     "rain_mm": 100.25,
     "soil_moisture": 0.682,
     "raw_dynamic_score": 16.293,
-    "last_updated": "2026-11-08T12:44:34.483452Z",
+    "last_updated": "2026-11-08T19:30:12.149589Z",
     "last_tweeted_at": "2026-11-08T12:44:34.483452Z",
     "tweet_id": "2119410798694912052",
-    "resolved": false
+    "resolved": false,
+    "pending_downgrade": true,
+    "pending_target_level": "Low",
+    "pending_set_at": "2026-11-08T19:30:12.149589Z",
+    "pending_is_region": false,
+    "pending_observed_level": "Low",
+    "pending_observed_rain_mm": 0.12,
+    "pending_observed_soil_moisture": 0.597,
+    "pending_observed_raw_dynamic_score": 0.019
   },
   "6.8916,80.5955": {
     "country": "Sri Lanka",
@@ -11994,7 +12002,7 @@
     "rain_mm": 52.81,
     "soil_moisture": 0.634,
     "raw_dynamic_score": 8.354,
-    "last_updated": "2026-11-08T12:44:34.483452Z",
+    "last_updated": "2026-11-08T19:30:12.149589Z",
     "last_tweeted_at": "2026-04-21T07:33:26.059085Z",
     "tweet_id": "2046492783423152491",
     "resolved": false
@@ -14349,7 +14357,7 @@
     "rain_mm": 44.62,
     "soil_moisture": 0.656,
     "raw_dynamic_score": 7.146,
-    "last_updated": "2026-11-08T12:44:34.483452Z",
+    "last_updated": "2026-11-08T19:30:12.149589Z",
     "last_tweeted_at": "2026-05-14T11:19:45.391497Z",
     "tweet_id": "2054884654839206086",
     "resolved": false
@@ -40856,10 +40864,18 @@
     "rain_mm": 102.75,
     "soil_moisture": 0.67,
     "raw_dynamic_score": 16.591,
-    "last_updated": "2026-11-08T12:44:34.483452Z",
+    "last_updated": "2026-11-08T19:30:12.149589Z",
     "last_tweeted_at": "2026-11-08T12:44:34.483452Z",
     "tweet_id": "2119411051817046208",
-    "resolved": false
+    "resolved": false,
+    "pending_downgrade": true,
+    "pending_target_level": "None",
+    "pending_set_at": "2026-11-08T19:30:12.149589Z",
+    "pending_is_region": false,
+    "pending_observed_level": "None",
+    "pending_observed_rain_mm": 0.0,
+    "pending_observed_soil_moisture": 0.569,
+    "pending_observed_raw_dynamic_score": 0.0
   },
   "1.9342,32.1164": {
     "country": "Uganda",
@@ -43511,7 +43527,7 @@
     "rain_mm": 47.19,
     "soil_moisture": 0.55,
     "raw_dynamic_score": 7.107,
-    "last_updated": "2026-11-06T01:36:10.224738Z",
+    "last_updated": "2026-11-08T19:30:12.149589Z",
     "last_tweeted_at": "2026-10-29T03:54:45.818058Z",
     "tweet_id": "2115653564093600197",
     "resolved": false
@@ -45147,9 +45163,54 @@
     "rain_mm": 34.12,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 6.526,
-    "last_updated": "2026-11-08T12:44:34.483452Z",
+    "last_updated": "2026-11-08T19:30:12.149589Z",
     "last_tweeted_at": "2026-11-08T12:44:34.483452Z",
     "tweet_id": "2119411304578363518",
+    "resolved": false
+  },
+  "-16.7081,-49.0931": {
+    "country": "Brazil",
+    "name": "Senador Canedo",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": -16.70806,
+    "longitude": -49.09306,
+    "rain_mm": 48.06,
+    "soil_moisture": 0.606,
+    "raw_dynamic_score": 7.483,
+    "last_updated": "2026-11-08T19:30:12.149589Z",
+    "last_tweeted_at": "2026-11-08T19:30:12.149589Z",
+    "tweet_id": "2119512877111689397",
+    "resolved": false
+  },
+  "-19.1133,-51.7342": {
+    "country": "Brazil",
+    "name": "Cassilândia",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": -19.11333,
+    "longitude": -51.73417,
+    "rain_mm": 50.12,
+    "soil_moisture": 0.51,
+    "raw_dynamic_score": 7.368,
+    "last_updated": "2026-11-08T19:30:12.149589Z",
+    "last_tweeted_at": "2026-11-08T19:30:12.149589Z",
+    "tweet_id": "2119513129692578196",
+    "resolved": false
+  },
+  "39.6244,19.9202": {
+    "country": "Greece",
+    "name": "Corfu",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 39.62441,
+    "longitude": 19.92016,
+    "rain_mm": 34.19,
+    "soil_moisture": 1.0,
+    "raw_dynamic_score": 6.538,
+    "last_updated": "2026-11-08T19:30:12.149589Z",
+    "last_tweeted_at": "2026-11-08T19:30:12.149589Z",
+    "tweet_id": "2119513382407852345",
     "resolved": false
   }
 }
