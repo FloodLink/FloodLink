@@ -8589,7 +8589,7 @@
     "rain_mm": 58.94,
     "soil_moisture": 0.534,
     "raw_dynamic_score": 8.789,
-    "last_updated": "2026-09-06T20:08:02.432253Z",
+    "last_updated": "2026-11-08T12:44:34.483452Z",
     "last_tweeted_at": "2026-03-24T16:06:27.715614Z",
     "tweet_id": "2036474770020004221",
     "resolved": false
@@ -11972,16 +11972,16 @@
   "6.6858,80.4036": {
     "country": "Sri Lanka",
     "name": "Ratnapura",
-    "risk_level": "Medium",
-    "tweeted_level": "Medium",
+    "risk_level": "High",
+    "tweeted_level": "High",
     "latitude": 6.6858,
     "longitude": 80.4036,
-    "rain_mm": 52.62,
-    "soil_moisture": 0.565,
-    "raw_dynamic_score": 7.998,
-    "last_updated": "2026-08-01T02:14:38.633856Z",
-    "last_tweeted_at": "2026-04-21T07:33:26.059085Z",
-    "tweet_id": "2046492530796007777",
+    "rain_mm": 100.25,
+    "soil_moisture": 0.682,
+    "raw_dynamic_score": 16.293,
+    "last_updated": "2026-11-08T12:44:34.483452Z",
+    "last_tweeted_at": "2026-11-08T12:44:34.483452Z",
+    "tweet_id": "2119410798694912052",
     "resolved": false
   },
   "6.8916,80.5955": {
@@ -11994,7 +11994,7 @@
     "rain_mm": 52.81,
     "soil_moisture": 0.634,
     "raw_dynamic_score": 8.354,
-    "last_updated": "2026-11-06T19:03:19.760884Z",
+    "last_updated": "2026-11-08T12:44:34.483452Z",
     "last_tweeted_at": "2026-04-21T07:33:26.059085Z",
     "tweet_id": "2046492783423152491",
     "resolved": false
@@ -14349,7 +14349,7 @@
     "rain_mm": 44.62,
     "soil_moisture": 0.656,
     "raw_dynamic_score": 7.146,
-    "last_updated": "2026-10-16T18:45:59.852773Z",
+    "last_updated": "2026-11-08T12:44:34.483452Z",
     "last_tweeted_at": "2026-05-14T11:19:45.391497Z",
     "tweet_id": "2054884654839206086",
     "resolved": false
@@ -40849,16 +40849,16 @@
   "7.2523,80.3436": {
     "country": "Sri Lanka",
     "name": "Kegalle",
-    "risk_level": "Medium",
-    "tweeted_level": "Medium",
+    "risk_level": "High",
+    "tweeted_level": "High",
     "latitude": 7.2523,
     "longitude": 80.3436,
-    "rain_mm": 56.69,
-    "soil_moisture": 0.617,
-    "raw_dynamic_score": 8.882,
-    "last_updated": "2026-10-16T18:45:59.852773Z",
-    "last_tweeted_at": "2026-10-16T13:52:09.872402Z",
-    "tweet_id": "2111093641028505982",
+    "rain_mm": 102.75,
+    "soil_moisture": 0.67,
+    "raw_dynamic_score": 16.591,
+    "last_updated": "2026-11-08T12:44:34.483452Z",
+    "last_tweeted_at": "2026-11-08T12:44:34.483452Z",
+    "tweet_id": "2119411051817046208",
     "resolved": false
   },
   "1.9342,32.1164": {
@@ -45135,6 +45135,21 @@
     "last_updated": "2026-11-07T17:21:58.167219Z",
     "last_tweeted_at": "2026-11-07T09:38:56.401766Z",
     "tweet_id": "2119002175334445330",
+    "resolved": false
+  },
+  "-13.3500,50.0000": {
+    "country": "Madagascar",
+    "name": "Iharan̈a",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": -13.35,
+    "longitude": 50.0,
+    "rain_mm": 34.12,
+    "soil_moisture": 1.0,
+    "raw_dynamic_score": 6.526,
+    "last_updated": "2026-11-08T12:44:34.483452Z",
+    "last_tweeted_at": "2026-11-08T12:44:34.483452Z",
+    "tweet_id": "2119411304578363518",
     "resolved": false
   }
 }
