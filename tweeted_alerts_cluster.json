@@ -5109,7 +5109,7 @@
     "rain_mm": 50.44,
     "soil_moisture": 0.608,
     "raw_dynamic_score": 7.861,
-    "last_updated": "2026-11-08T19:30:12.149589Z",
+    "last_updated": "2026-11-09T00:35:51.945075Z",
     "last_tweeted_at": "2026-02-15T12:36:55.753270Z",
     "tweet_id": "2023013694653731103",
     "resolved": false
@@ -18201,38 +18201,6 @@
     "last_tweeted_at": "2026-06-09T12:04:39.944649Z",
     "tweet_id": "2064318290470568044",
     "resolved": false
-  },
-  "12.4353,-86.8786": {
-    "country": "Nicaragua",
-    "name": "León",
-    "risk_level": "Low",
-    "tweeted_level": "Low",
-    "latitude": 12.43527,
-    "longitude": -86.87862,
-    "rain_mm": 0.62,
-    "soil_moisture": 0.473,
-    "raw_dynamic_score": 0.09,
-    "last_updated": "2026-11-07T21:24:05.947286Z",
-    "last_tweeted_at": "2026-11-07T21:24:05.947286Z",
-    "tweet_id": "2119179136841216000",
-    "resolved": true,
-    "resolved_at": "2026-11-07T21:24:05.947286Z"
-  },
-  "12.3400,-86.6753": {
-    "country": "Nicaragua",
-    "name": "La Paz Centro",
-    "risk_level": "Low",
-    "tweeted_level": "Low",
-    "latitude": 12.34,
-    "longitude": -86.67528,
-    "rain_mm": 0.5,
-    "soil_moisture": 0.495,
-    "raw_dynamic_score": 0.073,
-    "last_updated": "2026-11-07T21:24:05.947286Z",
-    "last_tweeted_at": "2026-11-07T21:24:05.947286Z",
-    "tweet_id": "2119179136841216000",
-    "resolved": true,
-    "resolved_at": "2026-11-07T21:24:05.947286Z"
   },
   "-8.7522,-67.3978": {
     "country": "Brazil",
@@ -43527,7 +43495,7 @@
     "rain_mm": 47.19,
     "soil_moisture": 0.55,
     "raw_dynamic_score": 7.107,
-    "last_updated": "2026-11-08T19:30:12.149589Z",
+    "last_updated": "2026-11-09T00:35:51.945075Z",
     "last_tweeted_at": "2026-10-29T03:54:45.818058Z",
     "tweet_id": "2115653564093600197",
     "resolved": false
@@ -45032,22 +45000,6 @@
     "tweet_id": "2118781583414940041",
     "resolved": false
   },
-  "12.2659,-86.5647": {
-    "country": "Nicaragua",
-    "name": "Nagarote",
-    "risk_level": "Low",
-    "tweeted_level": "Low",
-    "latitude": 12.26593,
-    "longitude": -86.56474,
-    "rain_mm": 0.12,
-    "soil_moisture": 0.605,
-    "raw_dynamic_score": 0.019,
-    "last_updated": "2026-11-07T21:24:05.947286Z",
-    "last_tweeted_at": "2026-11-07T21:24:05.947286Z",
-    "tweet_id": "2119179136841216000",
-    "resolved": true,
-    "resolved_at": "2026-11-07T21:24:05.947286Z"
-  },
   "11.9145,-86.1446": {
     "country": "Nicaragua",
     "name": "Masatepe",
@@ -45178,7 +45130,7 @@
     "rain_mm": 48.06,
     "soil_moisture": 0.606,
     "raw_dynamic_score": 7.483,
-    "last_updated": "2026-11-08T19:30:12.149589Z",
+    "last_updated": "2026-11-09T00:35:51.945075Z",
     "last_tweeted_at": "2026-11-08T19:30:12.149589Z",
     "tweet_id": "2119512877111689397",
     "resolved": false
@@ -45193,7 +45145,7 @@
     "rain_mm": 50.12,
     "soil_moisture": 0.51,
     "raw_dynamic_score": 7.368,
-    "last_updated": "2026-11-08T19:30:12.149589Z",
+    "last_updated": "2026-11-09T00:35:51.945075Z",
     "last_tweeted_at": "2026-11-08T19:30:12.149589Z",
     "tweet_id": "2119513129692578196",
     "resolved": false
@@ -45208,7 +45160,7 @@
     "rain_mm": 34.19,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 6.538,
-    "last_updated": "2026-11-08T19:30:12.149589Z",
+    "last_updated": "2026-11-09T00:35:51.945075Z",
     "last_tweeted_at": "2026-11-08T19:30:12.149589Z",
     "tweet_id": "2119513382407852345",
     "resolved": false
