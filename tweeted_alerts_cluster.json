@@ -489,7 +489,7 @@
     "rain_mm": 43.75,
     "soil_moisture": 0.667,
     "raw_dynamic_score": 7.05,
-    "last_updated": "2026-10-21T08:18:27.854250Z",
+    "last_updated": "2026-11-09T10:55:06.823382Z",
     "last_tweeted_at": "2026-01-11T09:16:59.068628Z",
     "tweet_id": "2010279807016407130",
     "resolved": false
@@ -12002,7 +12002,7 @@
     "rain_mm": 52.81,
     "soil_moisture": 0.634,
     "raw_dynamic_score": 8.354,
-    "last_updated": "2026-11-08T19:30:12.149589Z",
+    "last_updated": "2026-11-09T10:55:06.823382Z",
     "last_tweeted_at": "2026-04-21T07:33:26.059085Z",
     "tweet_id": "2046492783423152491",
     "resolved": false
@@ -13937,7 +13937,7 @@
     "rain_mm": 54.19,
     "soil_moisture": 0.666,
     "raw_dynamic_score": 8.731,
-    "last_updated": "2026-10-16T18:45:59.852773Z",
+    "last_updated": "2026-11-09T10:55:06.823382Z",
     "last_tweeted_at": "2026-05-08T16:19:00.853334Z",
     "tweet_id": "2052785386250809427",
     "resolved": false
@@ -45163,6 +45163,21 @@
     "last_updated": "2026-11-09T00:35:51.945075Z",
     "last_tweeted_at": "2026-11-08T19:30:12.149589Z",
     "tweet_id": "2119513382407852345",
+    "resolved": false
+  },
+  "1.7402,98.7812": {
+    "country": "Indonesia",
+    "name": "Sibolga",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 1.74016,
+    "longitude": 98.78117,
+    "rain_mm": 42.5,
+    "soil_moisture": 1.0,
+    "raw_dynamic_score": 8.128,
+    "last_updated": "2026-11-09T10:55:06.823382Z",
+    "last_tweeted_at": "2026-11-09T10:55:06.823382Z",
+    "tweet_id": "2119745626267074565",
     "resolved": false
   }
 }
