@@ -9245,5 +9245,14 @@
         "score": 0,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-11-09",
+        "status": "posted",
+        "tweet": "1.8 billion people live in areas exposed to 100-year river floods or storm surges, with exposure rising fastest in Asia and Africa.",
+        "type": "statistical",
+        "category": "population living in floodplains",
+        "tweet_id": "2119690360242749479"
     }
 ]
