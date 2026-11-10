@@ -12010,7 +12010,7 @@
     "rain_mm": 64.88,
     "soil_moisture": 0.587,
     "raw_dynamic_score": 9.989,
-    "last_updated": "2026-10-15T14:03:15.201701Z",
+    "last_updated": "2026-11-10T14:14:43.154191Z",
     "last_tweeted_at": "2026-04-21T10:21:48.576089Z",
     "tweet_id": "2046535149928505675",
     "resolved": false
@@ -45194,6 +45194,36 @@
     "last_updated": "2026-11-10T05:36:49.195368Z",
     "last_tweeted_at": "2026-11-09T22:00:29.390524Z",
     "tweet_id": "2119913330143899980",
+    "resolved": false
+  },
+  "6.0941,-0.2591": {
+    "country": "Ghana",
+    "name": "Koforidua",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 6.09408,
+    "longitude": -0.25913,
+    "rain_mm": 51.75,
+    "soil_moisture": 0.538,
+    "raw_dynamic_score": 7.738,
+    "last_updated": "2026-11-10T14:14:43.154191Z",
+    "last_tweeted_at": "2026-11-10T14:14:43.154191Z",
+    "tweet_id": "2120158243410371058",
+    "resolved": false
+  },
+  "18.4813,96.4374": {
+    "country": "Myanmar",
+    "name": "Pyu",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 18.4813,
+    "longitude": 96.43742,
+    "rain_mm": 40.25,
+    "soil_moisture": 0.724,
+    "raw_dynamic_score": 6.694,
+    "last_updated": "2026-11-10T14:14:43.154191Z",
+    "last_tweeted_at": "2026-11-10T14:14:43.154191Z",
+    "tweet_id": "2120158496029073904",
     "resolved": false
   }
 }
