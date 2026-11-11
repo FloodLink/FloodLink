@@ -564,7 +564,7 @@
     "rain_mm": 43.25,
     "soil_moisture": 0.658,
     "raw_dynamic_score": 6.936,
-    "last_updated": "2026-01-12T09:28:07.551867Z",
+    "last_updated": "2026-11-11T04:07:27.280427Z",
     "last_tweeted_at": "2026-01-12T01:17:34.088172Z",
     "tweet_id": "2010521541419893179",
     "resolved": false
@@ -11969,22 +11969,6 @@
     "tweet_id": "2046304225789919612",
     "resolved": false
   },
-  "6.6858,80.4036": {
-    "country": "Sri Lanka",
-    "name": "Ratnapura",
-    "risk_level": "None",
-    "tweeted_level": "None",
-    "latitude": 6.6858,
-    "longitude": 80.4036,
-    "rain_mm": 0.0,
-    "soil_moisture": 0.589,
-    "raw_dynamic_score": 0.0,
-    "last_updated": "2026-11-09T22:00:29.390524Z",
-    "last_tweeted_at": "2026-11-09T22:00:29.390524Z",
-    "tweet_id": "2119913582997516554",
-    "resolved": true,
-    "resolved_at": "2026-11-09T22:00:29.390524Z"
-  },
   "6.8916,80.5955": {
     "country": "Sri Lanka",
     "name": "Hatton",
@@ -13285,7 +13269,7 @@
     "rain_mm": 47.25,
     "soil_moisture": 0.68,
     "raw_dynamic_score": 7.672,
-    "last_updated": "2026-11-10T21:20:54.342866Z",
+    "last_updated": "2026-11-11T04:07:27.280427Z",
     "last_tweeted_at": "2026-05-05T05:44:27.024261Z",
     "tweet_id": "2051538522998296949",
     "resolved": false
@@ -33865,7 +33849,7 @@
     "rain_mm": 15.44,
     "soil_moisture": 0.727,
     "raw_dynamic_score": 2.572,
-    "last_updated": "2026-11-10T21:20:54.342866Z",
+    "last_updated": "2026-11-11T04:07:27.280427Z",
     "last_tweeted_at": "2026-11-10T21:20:54.342866Z",
     "tweet_id": "2120265760220070054",
     "resolved": true,
@@ -40816,22 +40800,6 @@
     "tweet_id": "2111093388300652943",
     "resolved": false
   },
-  "7.2523,80.3436": {
-    "country": "Sri Lanka",
-    "name": "Kegalle",
-    "risk_level": "Low",
-    "tweeted_level": "Low",
-    "latitude": 7.2523,
-    "longitude": 80.3436,
-    "rain_mm": 0.25,
-    "soil_moisture": 0.558,
-    "raw_dynamic_score": 0.038,
-    "last_updated": "2026-11-09T22:00:29.390524Z",
-    "last_tweeted_at": "2026-11-09T22:00:29.390524Z",
-    "tweet_id": "2119913836190838981",
-    "resolved": true,
-    "resolved_at": "2026-11-09T22:00:29.390524Z"
-  },
   "1.9342,32.1164": {
     "country": "Uganda",
     "name": "Buyale",
@@ -43677,7 +43645,7 @@
     "rain_mm": 40.44,
     "soil_moisture": 0.732,
     "raw_dynamic_score": 6.756,
-    "last_updated": "2026-11-10T21:20:54.342866Z",
+    "last_updated": "2026-11-11T04:07:27.280427Z",
     "last_tweeted_at": "2026-11-10T21:20:54.342866Z",
     "tweet_id": "2120265760220070054",
     "resolved": false
@@ -43737,7 +43705,7 @@
     "rain_mm": 0.44,
     "soil_moisture": 0.622,
     "raw_dynamic_score": 0.069,
-    "last_updated": "2026-11-10T21:20:54.342866Z",
+    "last_updated": "2026-11-11T04:07:27.280427Z",
     "last_tweeted_at": "2026-11-10T21:20:54.342866Z",
     "tweet_id": "2120265760220070054",
     "resolved": true,
@@ -45238,7 +45206,7 @@
     "rain_mm": 49.44,
     "soil_moisture": 0.625,
     "raw_dynamic_score": 7.779,
-    "last_updated": "2026-11-10T21:20:54.342866Z",
+    "last_updated": "2026-11-11T04:07:27.280427Z",
     "last_tweeted_at": "2026-11-10T21:20:54.342866Z",
     "tweet_id": "2120265507437736429",
     "resolved": false
@@ -45253,10 +45221,14 @@
     "rain_mm": 60.5,
     "soil_moisture": 0.703,
     "raw_dynamic_score": 9.947,
-    "last_updated": "2026-11-10T21:20:54.342866Z",
+    "last_updated": "2026-11-11T04:07:27.280427Z",
     "last_tweeted_at": "2026-11-10T21:20:54.342866Z",
     "tweet_id": "2120265760220070054",
-    "resolved": false
+    "resolved": false,
+    "pending_downgrade": true,
+    "pending_target_level": "None",
+    "pending_set_at": "2026-11-11T04:07:27.280427Z",
+    "pending_is_region": true
   },
   "2.0833,111.6167": {
     "country": "Malaysia",
@@ -45268,7 +45240,7 @@
     "rain_mm": 60.5,
     "soil_moisture": 0.703,
     "raw_dynamic_score": 9.947,
-    "last_updated": "2026-11-10T21:20:54.342866Z",
+    "last_updated": "2026-11-11T04:07:27.280427Z",
     "last_tweeted_at": "2026-11-10T21:20:54.342866Z",
     "tweet_id": "2120265760220070054",
     "resolved": false
@@ -45283,7 +45255,7 @@
     "rain_mm": 81.06,
     "soil_moisture": 0.736,
     "raw_dynamic_score": 13.569,
-    "last_updated": "2026-11-10T21:20:54.342866Z",
+    "last_updated": "2026-11-11T04:07:27.280427Z",
     "last_tweeted_at": "2026-11-10T21:20:54.342866Z",
     "tweet_id": "2120265760220070054",
     "resolved": false
