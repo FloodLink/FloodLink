@@ -7686,5 +7686,14 @@
         "score": 8,
         "status": "processed",
         "tweet": null
+    },
+    {
+        "link": null,
+        "date": "2026-11-13",
+        "status": "posted",
+        "tweet": "By 2030, monsoon flood exposure across South Asia is projected to reach 300 million people annually due to more intense extreme rainfall.",
+        "type": "statistical",
+        "category": "monsoon flood patterns in Asia",
+        "tweet_id": "2121304104659976426"
     }
 ]
