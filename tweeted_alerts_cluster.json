@@ -21207,7 +21207,7 @@
     "rain_mm": 40.88,
     "soil_moisture": 0.661,
     "raw_dynamic_score": 6.565,
-    "last_updated": "2026-11-12T21:55:46.141181Z",
+    "last_updated": "2026-11-13T04:33:47.076299Z",
     "last_tweeted_at": "2026-06-27T02:39:58.475358Z",
     "tweet_id": "2070698664645787897",
     "resolved": false
@@ -45613,9 +45613,24 @@
     "rain_mm": 44.38,
     "soil_moisture": 0.723,
     "raw_dynamic_score": 7.378,
-    "last_updated": "2026-11-12T21:55:46.141181Z",
+    "last_updated": "2026-11-13T04:33:47.076299Z",
     "last_tweeted_at": "2026-11-12T21:55:46.141181Z",
     "tweet_id": "2120999302583689475",
+    "resolved": false
+  },
+  "-1.0449,-79.6384": {
+    "country": "Ecuador",
+    "name": "El Empalme",
+    "risk_level": "High",
+    "tweeted_level": "High",
+    "latitude": -1.04491,
+    "longitude": -79.6384,
+    "rain_mm": 85.06,
+    "soil_moisture": 0.722,
+    "raw_dynamic_score": 14.132,
+    "last_updated": "2026-11-13T04:33:47.076299Z",
+    "last_tweeted_at": "2026-11-13T04:33:47.076299Z",
+    "tweet_id": "2121099209315176511",
     "resolved": false
   }
 }
