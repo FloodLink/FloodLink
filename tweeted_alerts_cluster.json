@@ -5229,7 +5229,7 @@
     "rain_mm": 34.69,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 6.634,
-    "last_updated": "2026-11-18T11:04:18.777814Z",
+    "last_updated": "2026-11-18T20:01:55.668121Z",
     "last_tweeted_at": "2026-02-16T09:48:37.070770Z",
     "tweet_id": "2023334473186582864",
     "resolved": false
@@ -21174,7 +21174,7 @@
     "rain_mm": 43.0,
     "soil_moisture": 0.693,
     "raw_dynamic_score": 7.033,
-    "last_updated": "2026-10-04T03:47:07.384462Z",
+    "last_updated": "2026-11-18T20:01:55.668121Z",
     "last_tweeted_at": "2026-06-28T13:31:08.228095Z",
     "tweet_id": "2071224928246919296",
     "resolved": false
@@ -26469,7 +26469,7 @@
     "rain_mm": 63.69,
     "soil_moisture": 0.716,
     "raw_dynamic_score": 10.544,
-    "last_updated": "2026-11-18T11:04:18.777814Z",
+    "last_updated": "2026-11-18T20:01:55.668121Z",
     "last_tweeted_at": "2026-07-28T02:00:14.125708Z",
     "tweet_id": "2081923199475064916",
     "resolved": false
@@ -31419,7 +31419,7 @@
     "rain_mm": 57.94,
     "soil_moisture": 0.647,
     "raw_dynamic_score": 9.233,
-    "last_updated": "2026-09-24T23:52:28.447029Z",
+    "last_updated": "2026-11-18T20:01:55.668121Z",
     "last_tweeted_at": "2026-08-26T00:59:48.595472Z",
     "tweet_id": "2092416735874035862",
     "resolved": false
@@ -42268,7 +42268,7 @@
     "rain_mm": 79.69,
     "soil_moisture": 0.727,
     "raw_dynamic_score": 13.277,
-    "last_updated": "2026-10-24T20:13:39.041938Z",
+    "last_updated": "2026-11-18T20:01:55.668121Z",
     "last_tweeted_at": "2026-10-24T18:02:03.767834Z",
     "tweet_id": "2114055134162595863",
     "resolved": false
@@ -47380,7 +47380,7 @@
     "rain_mm": 42.94,
     "soil_moisture": 0.598,
     "raw_dynamic_score": 6.651,
-    "last_updated": "2026-11-18T11:04:18.777814Z",
+    "last_updated": "2026-11-18T20:01:55.668121Z",
     "last_tweeted_at": "2026-11-18T11:04:18.777814Z",
     "tweet_id": "2123009417444761991",
     "resolved": false
@@ -47395,7 +47395,7 @@
     "rain_mm": 56.69,
     "soil_moisture": 0.628,
     "raw_dynamic_score": 8.934,
-    "last_updated": "2026-11-18T11:04:18.777814Z",
+    "last_updated": "2026-11-18T20:01:55.668121Z",
     "last_tweeted_at": "2026-11-18T11:04:18.777814Z",
     "tweet_id": "2123009670348730436",
     "resolved": false
@@ -48163,6 +48163,21 @@
     "last_updated": "2026-11-18T11:04:18.777814Z",
     "last_tweeted_at": "2026-11-18T11:04:18.777814Z",
     "tweet_id": "2123009670348730436",
+    "resolved": false
+  },
+  "-21.2624,-63.4690": {
+    "country": "Plurinational State of Bolivia",
+    "name": "Villamontes",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": -21.26235,
+    "longitude": -63.46903,
+    "rain_mm": 72.0,
+    "soil_moisture": 0.439,
+    "raw_dynamic_score": 10.121,
+    "last_updated": "2026-11-18T20:01:55.668121Z",
+    "last_tweeted_at": "2026-11-18T20:01:55.668121Z",
+    "tweet_id": "2123144729990746180",
     "resolved": false
   }
 }
