@@ -8026,5 +8026,636 @@
             "longitude": -80.5,
             "confidence": 0.85
         }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOQlFlU09tNXdLZzFqdjBjTHY5TG1WVzhFYkdabGVfTzlUbjlWdU94NVBjck0zakVaSURWVFNTUWVESHQyeHFERllESmFvSkRFQWJ2THh4N3hGN2ExRGFVZXZQdVVyYXN5QVJyaHlnWUhqdVVfbVVrN0ktUGlHNGFlaVV4ZjFqNU5iUE1FVkhSX2NudWN6MUFFVVdCdzBsaGs0MFBqbzlsODlEMXFQRllDb1lvbUtJVlRQNlJmY0pVdTkxNFVHb3NZUUhTX1l3dW5MOWdpZUM5a25UZDZBc1o5SzRIQ0dCMmlXXzhxOUF4dw?oc=5",
+        "date": "2026-11-19",
+        "title": "Live: Heavy rain, flooding on Space Coast forces evacuations, warnings - Florida Today",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxOQlFlU09tNXdLZzFqdjBjTHY5TG1WVzhFYkdabGVfTzlUbjlWdU94NVBjck0zakVaSURWVFNTUWVESHQyeHFERllESmFvSkRFQWJ2THh4N3hGN2ExRGFVZXZQdVVyYXN5QVJyaHlnWUhqdVVfbVVrN0ktUGlHNGFlaVV4ZjFqNU5iUE1FVkhSX2NudWN6MUFFVVdCdzBsaGs0MFBqbzlsODlEMXFQRllDb1lvbUtJVlRQNlJmY0pVdTkxNFVHb3NZUUhTX1l3dW5MOWdpZUM5a25UZDZBc1o5SzRIQ0dCMmlXXzhxOUF4dw?oc=5\" target=\"_blank\">Live: Heavy rain, flooding on Space Coast forces evacuations, warnings</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Florida Today</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPc3Y0enBoU3dzaENLMEszc000NFdvLUQ0eGR3Vkcza21oWVpCZ2ZFWnRHZldZSWRQSDdfdGFyYWF0aGhQMElmLW1HTUd0NUxBeHRrai03ZEI0WTZuWi1UZkpNdUw5MzRUSXh3RlZyS0IzSUNZUzR5eFM3YTZyaFFqajJZWlZqWlF3Wk4wcThuMVltRl9xZy1UdWgwUG1JTjI0YnlYZVd6dw?oc=5",
+        "date": "2026-11-19",
+        "title": "Florida flash flooding: live updates, rainfall totals, closures - FOX 35 Orlando",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPc3Y0enBoU3dzaENLMEszc000NFdvLUQ0eGR3Vkcza21oWVpCZ2ZFWnRHZldZSWRQSDdfdGFyYWF0aGhQMElmLW1HTUd0NUxBeHRrai03ZEI0WTZuWi1UZkpNdUw5MzRUSXh3RlZyS0IzSUNZUzR5eFM3YTZyaFFqajJZWlZqWlF3Wk4wcThuMVltRl9xZy1UdWgwUG1JTjI0YnlYZVd6dw?oc=5\" target=\"_blank\">Florida flash flooding: live updates, rainfall totals, closures</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FOX 35 Orlando</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNa29tRHd0UW1zNmdPbTlHeVdVbENpUk05VkVmNlRMTzg4Z3ZJaHY0SWlDRnAyX0VtZXdvZ1BudDB6R1NFV29CLWozSDZsY093RGw1eUllV19kamc1d0Fja0JReHhSTWtyWHZpRnRGVlFLY20wSFZUb1RYYkdqNmpYT1Nhd3FyVy1h?oc=5",
+        "date": "2026-11-19",
+        "title": "Heavy rain drenches Southern California, triggers flash flood, evacuation warnings - Los Angeles Times",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNa29tRHd0UW1zNmdPbTlHeVdVbENpUk05VkVmNlRMTzg4Z3ZJaHY0SWlDRnAyX0VtZXdvZ1BudDB6R1NFV29CLWozSDZsY093RGw1eUllV19kamc1d0Fja0JReHhSTWtyWHZpRnRGVlFLY20wSFZUb1RYYkdqNmpYT1Nhd3FyVy1h?oc=5\" target=\"_blank\">Heavy rain drenches Southern California, triggers flash flood, evacuation warnings</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Los Angeles Times</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": null,
+        "tweet_id": "2123487463704236092",
+        "geo": {
+            "country": "United States",
+            "name": "Southern California",
+            "latitude": 34.0,
+            "longitude": -118.0,
+            "confidence": 0.9
+        }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOcHhrVmlMRHBXWm9vcERDbmNqbmVLRVJQdlJiOG9nbjIxbDBPS3NnNU9FeXl1bEJNVUJpMzhEb3pPN0w3b25ZcV9EMlFkVDAyNUVhdFZXTnZRS2tES3BJb3c2NDlPV0ttSWk1OTFrQkhOQWFtc2FwYUNZQVo3UnoxY2EtM0ozRUE2ODRIMlZ5RTZyYzJ6VU5zdmFUVVFrblNVVGtVT09DTHlTamNpV0RPWEVveElvSmxDUUlKVkNLVUY3OTNCemZ3ZEVtMA?oc=5",
+        "date": "2026-11-19",
+        "title": "Rain ramping up across SoCal with evacuation warnings in place for burn scar areas - ABC7 Los Angeles",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxOcHhrVmlMRHBXWm9vcERDbmNqbmVLRVJQdlJiOG9nbjIxbDBPS3NnNU9FeXl1bEJNVUJpMzhEb3pPN0w3b25ZcV9EMlFkVDAyNUVhdFZXTnZRS2tES3BJb3c2NDlPV0ttSWk1OTFrQkhOQWFtc2FwYUNZQVo3UnoxY2EtM0ozRUE2ODRIMlZ5RTZyYzJ6VU5zdmFUVVFrblNVVGtVT09DTHlTamNpV0RPWEVveElvSmxDUUlKVkNLVUY3OTNCemZ3ZEVtMA?oc=5\" target=\"_blank\">Rain ramping up across SoCal with evacuation warnings in place for burn scar areas</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ABC7 Los Angeles</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQWUV2RjVVNnc5U21YWU53blFzZzdUMncyYVE2aEF4cGRpZTFtRjA0U0pYMFFSZ2tQOXJ0dXJmYUc5bXVOcThiTzBwYVNYTG12ZWM2ZFNrTndxUGRuczg0ZTgxQTZYYzZwZS1Pbmh0azRLNE5oV2pJcDA4Z29VdGVvcVFCUmpQN1JEdFR2cEVncmoxY3BxcnV5NkFrUlVMTlZZNnc?oc=5",
+        "date": "2026-11-19",
+        "title": "Flash flood warning issued for parts of Los Angeles County - CBS News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQWUV2RjVVNnc5U21YWU53blFzZzdUMncyYVE2aEF4cGRpZTFtRjA0U0pYMFFSZ2tQOXJ0dXJmYUc5bXVOcThiTzBwYVNYTG12ZWM2ZFNrTndxUGRuczg0ZTgxQTZYYzZwZS1Pbmh0azRLNE5oV2pJcDA4Z29VdGVvcVFCUmpQN1JEdFR2cEVncmoxY3BxcnV5NkFrUlVMTlZZNnc?oc=5\" target=\"_blank\">Flash flood warning issued for parts of Los Angeles County</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CBS News</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBFcFNwSGdaMm1TUTZSajh6ZWgtVzFKdk0tU0tuNVZpVGhrMHVIR2FwREotV3MyOEVmY2VQUXZyWFBHQmUybW4xZExCckljSUpGQmRSakREQWVjaHpuSlk4X0hMOVdYSWpUUVU0RDlLdw?oc=5",
+        "date": "2026-11-19",
+        "title": "UPDATE: Flash flood warning affecting Los Angeles until Thursday midday - Sacramento Bee",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTFBFcFNwSGdaMm1TUTZSajh6ZWgtVzFKdk0tU0tuNVZpVGhrMHVIR2FwREotV3MyOEVmY2VQUXZyWFBHQmUybW4xZExCckljSUpGQmRSakREQWVjaHpuSlk4X0hMOVdYSWpUUVU0RDlLdw?oc=5\" target=\"_blank\">UPDATE: Flash flood warning affecting Los Angeles until Thursday midday</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sacramento Bee</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": null,
+        "tweet_id": "2123488007969804743",
+        "geo": {
+            "country": "United States",
+            "name": "Los Angeles",
+            "latitude": 34.0522,
+            "longitude": -118.2437,
+            "confidence": 0.95
+        }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5TZmRJVks4UUVjX1J1WFV1a0c2ZGJsY29iaHZsd2lvR1VfSnRTTldGN2dWQ0c5T09QRmpxUjJFaHhNNzRmNUVrWThJVndieGJnbnhZSFhnU0dMUGdfd1BMREVYVDEwWnVKRWdzM1B4WGUxWGR5a3BHWDdMOUVQdw?oc=5",
+        "date": "2026-11-19",
+        "title": "November 19, 8:45 a.m. Update - City of Melbourne, FL",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE5TZmRJVks4UUVjX1J1WFV1a0c2ZGJsY29iaHZsd2lvR1VfSnRTTldGN2dWQ0c5T09QRmpxUjJFaHhNNzRmNUVrWThJVndieGJnbnhZSFhnU0dMUGdfd1BMREVYVDEwWnVKRWdzM1B4WGUxWGR5a3BHWDdMOUVQdw?oc=5\" target=\"_blank\">November 19, 8:45 a.m. Update</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">City of Melbourne, FL</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBBYjRBUVE4SjVQdzg5M0h2UnRleWZGMzdZTHJBTzFGRnZTZFY5OUg5dTF3c2dTTnR1U2pYek5BWVhkSDBucl9HOHZUOUFmb1p5enUzQlFiY1BEM1RBUVZfVlRPeV9GUlJqa2p3cHdqTVZhSzNzRFl3QQ?oc=5",
+        "date": "2026-11-19",
+        "title": "California Storm Sweeps South, Prompting Some Evacuation Warnings in L.A. - The New York Times",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFBBYjRBUVE4SjVQdzg5M0h2UnRleWZGMzdZTHJBTzFGRnZTZFY5OUg5dTF3c2dTTnR1U2pYek5BWVhkSDBucl9HOHZUOUFmb1p5enUzQlFiY1BEM1RBUVZfVlRPeV9GUlJqa2p3cHdqTVZhSzNzRFl3QQ?oc=5\" target=\"_blank\">California Storm Sweeps South, Prompting Some Evacuation Warnings in L.A.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPa1ZRbXVkaHRJSTVoMDJob3VMbU1jTklvb2xETWFUNm8yM0VHaW15NXZub3dyZE5GWk5JRUlkVWlPTlRGVFlTUU9zVWhFUDhTUFR1U1NzU3A3NlBOVzJpbHlMeGhBVGpzN3MwNzVWc3MxZ212ZS1EM3dPNTZsSVhqSkRuNTXSAYoBQVVfeXFMUDVqME84Z1dqZmNwcnhGZVQ3aERNZzU0UXluVzJkSGN4ZjVlYkhBeFh2SnZYMkowMFNsc0gyTnBCYjd5Mlh6ZGpKRkE2c2VnMzdITVZtQ1hIV0hKX2RJcGlsNzFmWEQ0SmMyY1d6YmVza3ZBRGR6Z3A2NEtRZVBteHU3Sl82a09CRS1R?oc=5",
+        "date": "2026-11-19",
+        "title": "Powerful storm targets Southern California, triggers flood threat - KTLA",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPa1ZRbXVkaHRJSTVoMDJob3VMbU1jTklvb2xETWFUNm8yM0VHaW15NXZub3dyZE5GWk5JRUlkVWlPTlRGVFlTUU9zVWhFUDhTUFR1U1NzU3A3NlBOVzJpbHlMeGhBVGpzN3MwNzVWc3MxZ212ZS1EM3dPNTZsSVhqSkRuNTXSAYoBQVVfeXFMUDVqME84Z1dqZmNwcnhGZVQ3aERNZzU0UXluVzJkSGN4ZjVlYkhBeFh2SnZYMkowMFNsc0gyTnBCYjd5Mlh6ZGpKRkE2c2VnMzdITVZtQ1hIV0hKX2RJcGlsNzFmWEQ0SmMyY1d6YmVza3ZBRGR6Z3A2NEtRZVBteHU3Sl82a09CRS1R?oc=5\" target=\"_blank\">Powerful storm targets Southern California, triggers flood threat</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KTLA</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNWXdCeDZUU2k1VUcwZGpVZVZpdXFCQlB2YjFhV1QwS29DSTl1X1NIX0xQYUFiYmpIWUhGY004VTEzV3EzYXM2LUc4NmxmZlh3WF9IQjB2TWVqdnU2SXIwMlJuSzhoYmlIWFB5ZnVrbXZQM0xGQnhNM2hXejc1VFRwV2dUSEdSUDFhUDNGNkI5V2twei1iRy1oaVdqdUVpMTdHUGE4TXI3M0RmT01GTC1YNVFvLVM3RXRHbHfSAc4BQVVfeXFMTmsyTjVocjJrWjQ3M29aOGJqWUZwNE85Ql9rQUREUFJpemg0cUMwcENHajIwWDVKU3B3ekFMMndxa2ZDLWQyUWtXdE5qTWNFTG9TTVkxTUZIem5iZjhXSHNhX3NDaWJyMkoxXy0xY1IzMml1aDAwRjFScDEwa1ZrbWF4TF80UUFmOFhuRDZWamFpV3psVFFQVThPOU94OE5YSXpJUHN1d2lSOUpLWi1IbXhpSVBuZVo2OXZBMEZqMDJCa2ZGUm8yTzVaRGhrOFE?oc=5",
+        "date": "2026-11-19",
+        "title": "LIVE UPDATES: Heavy rainfall triggers storm alerts in parts of Central Florida - WFTV",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNWXdCeDZUU2k1VUcwZGpVZVZpdXFCQlB2YjFhV1QwS29DSTl1X1NIX0xQYUFiYmpIWUhGY004VTEzV3EzYXM2LUc4NmxmZlh3WF9IQjB2TWVqdnU2SXIwMlJuSzhoYmlIWFB5ZnVrbXZQM0xGQnhNM2hXejc1VFRwV2dUSEdSUDFhUDNGNkI5V2twei1iRy1oaVdqdUVpMTdHUGE4TXI3M0RmT01GTC1YNVFvLVM3RXRHbHfSAc4BQVVfeXFMTmsyTjVocjJrWjQ3M29aOGJqWUZwNE85Ql9rQUREUFJpemg0cUMwcENHajIwWDVKU3B3ekFMMndxa2ZDLWQyUWtXdE5qTWNFTG9TTVkxTUZIem5iZjhXSHNhX3NDaWJyMkoxXy0xY1IzMml1aDAwRjFScDEwa1ZrbWF4TF80UUFmOFhuRDZWamFpV3psVFFQVThPOU94OE5YSXpJUHN1d2lSOUpLWi1IbXhpSVBuZVo2OXZBMEZqMDJCa2ZGUm8yTzVaRGhrOFE?oc=5\" target=\"_blank\">LIVE UPDATES: Heavy rainfall triggers storm alerts in parts of Central Florida</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WFTV</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZGtxbU9uMjNrZ3J3SUNCMUxIbWNHSmJ2ZVhyaGNfRlFubjIxSEM3Vjd4YVUwcmNqYndWTzh0RjRzMlNXQUl0X1lrODlycEY2ZmJtNlNuY0FodHQtLVZWb3FZc0w0TUdjVzBwVENUVjJxUHR4Qk1IYmxrcUJYNEFPM200VmY5NGJhZHp6WURLVWtyT0hKai02Z2s0T0F1Sjcycmp6c2ZPTTB6VkhObFVfMDlTRjlab2c?oc=5",
+        "date": "2026-11-19",
+        "title": "Powerful rainstorm prompts flash flood warning for parts of Los Angeles. Here's what to know - CBS News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxNZGtxbU9uMjNrZ3J3SUNCMUxIbWNHSmJ2ZVhyaGNfRlFubjIxSEM3Vjd4YVUwcmNqYndWTzh0RjRzMlNXQUl0X1lrODlycEY2ZmJtNlNuY0FodHQtLVZWb3FZc0w0TUdjVzBwVENUVjJxUHR4Qk1IYmxrcUJYNEFPM200VmY5NGJhZHp6WURLVWtyT0hKai02Z2s0T0F1Sjcycmp6c2ZPTTB6VkhObFVfMDlTRjlab2c?oc=5\" target=\"_blank\">Powerful rainstorm prompts flash flood warning for parts of Los Angeles. Here's what to know</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CBS News</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPMmQ1TFk3Sno4eXo4VGdveGVZMVEyLTBlRFpRX3pudWRPQ0NUN0hwSVlzLXVlVnJ1UHRSdjVuajJLb3RLVjhwUmd2eGg0T1pqN1ZkNG05cHQzRVFLRk1yckNKeDdEWkZIOHBVSENxd1FXMWtETUZzWVZQdW9ydk9uaUY4NmJDd0JkdVlnb0Z0YUNwaV9uOHc?oc=5",
+        "date": "2026-11-19",
+        "title": "Road closures reported across Central Florida amid widespread flooding - WESH",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPMmQ1TFk3Sno4eXo4VGdveGVZMVEyLTBlRFpRX3pudWRPQ0NUN0hwSVlzLXVlVnJ1UHRSdjVuajJLb3RLVjhwUmd2eGg0T1pqN1ZkNG05cHQzRVFLRk1yckNKeDdEWkZIOHBVSENxd1FXMWtETUZzWVZQdW9ydk9uaUY4NmJDd0JkdVlnb0Z0YUNwaV9uOHc?oc=5\" target=\"_blank\">Road closures reported across Central Florida amid widespread flooding</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WESH</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUDd2V0dFZ1Z5WEpVNWlQTUF1d1RSeXRnQXgtcVBzRXhMV0VPT0IwY0R3dnA4bkV2QXZxZXB5Yzd5bG9ybUZpTTJEUXdiR0xLQjY5d012dWZEVkZxaWhSWjQtc3YzSktoVUtCRVdMbVVqOFlMd2M2Z1hfMW5HODhPcjlSVmpmQ003clBrSXAxeFQtMTZLWDI2cmpGN3ltWnlDWTR2RTJ0N0tOQQ?oc=5",
+        "date": "2026-11-19",
+        "title": "Flash flood warning in effect for east Central Florida - WKMG",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUDd2V0dFZ1Z5WEpVNWlQTUF1d1RSeXRnQXgtcVBzRXhMV0VPT0IwY0R3dnA4bkV2QXZxZXB5Yzd5bG9ybUZpTTJEUXdiR0xLQjY5d012dWZEVkZxaWhSWjQtc3YzSktoVUtCRVdMbVVqOFlMd2M2Z1hfMW5HODhPcjlSVmpmQ003clBrSXAxeFQtMTZLWDI2cmpGN3ltWnlDWTR2RTJ0N0tOQQ?oc=5\" target=\"_blank\">Flash flood warning in effect for east Central Florida</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WKMG</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9EV3hsVmkwbDBEcnF3VVZSUnAtZmJVb0lGV2NqVE9OQUdPSWVJV3NmWE03eTNNaHVPZExBcFBvMVY3S2MxSlliSDE3T2N1S3hQYXhNYmd6aVhwLUs4TVRSSzN6UTI1WWttdGRMTDlkOWtvbk5CRjk4Vg?oc=5",
+        "date": "2026-11-19",
+        "title": "Heavy rains lead to flash flood warning in San Luis Obispo (Video) - San Luis Obispo Tribune",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE9EV3hsVmkwbDBEcnF3VVZSUnAtZmJVb0lGV2NqVE9OQUdPSWVJV3NmWE03eTNNaHVPZExBcFBvMVY3S2MxSlliSDE3T2N1S3hQYXhNYmd6aVhwLUs4TVRSSzN6UTI1WWttdGRMTDlkOWtvbk5CRjk4Vg?oc=5\" target=\"_blank\">Heavy rains lead to flash flood warning in San Luis Obispo (Video)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">San Luis Obispo Tribune</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQa1VsbTI2NF83TUhCelJZWThWU3ZHYjJyYUZyRDh4ampGZWhqMWRlSHoxdTlvcGtKeV9SMUJkX2tLZDd4VVpYVExUeHZpMExiR2NPUDAwZi1MQV9XX1ZpdGU4cXFCUk1XQkUxbHlwWWhvSTB4Nm1iVUNuVVNpa2xlMW9sbGhHUkFXNlBZeQ?oc=5",
+        "date": "2026-11-19",
+        "title": "San Luis Obispo Activated Emergency Operations Center Amid Flash Flood Warning - edhat",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQa1VsbTI2NF83TUhCelJZWThWU3ZHYjJyYUZyRDh4ampGZWhqMWRlSHoxdTlvcGtKeV9SMUJkX2tLZDd4VVpYVExUeHZpMExiR2NPUDAwZi1MQV9XX1ZpdGU4cXFCUk1XQkUxbHlwWWhvSTB4Nm1iVUNuVVNpa2xlMW9sbGhHUkFXNlBZeQ?oc=5\" target=\"_blank\">San Luis Obispo Activated Emergency Operations Center Amid Flash Flood Warning</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">edhat</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxORjRjRDlOVHVjSEdpX1RBd2lFZWR0Rm9XWUZxN3hSZDRrTU5fVlZMOFZUSkJESVNTS21KMExmU2lRWTltaXJWbzFLekMxTGFuQVN1b2FBX2tsTm45aFhTR0NxUEEwdEY1cWJtcDM2a1BNbmtudlJXbFg3TVpySEdwb0h4ZkFEOERQTnNOaGt5U3FDRFJTMFcxd2FPU2pEbHJS?oc=5",
+        "date": "2026-11-19",
+        "title": "Central Florida flash flooding: Photos, videos, water rescues, damage - FOX 35 Orlando",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxORjRjRDlOVHVjSEdpX1RBd2lFZWR0Rm9XWUZxN3hSZDRrTU5fVlZMOFZUSkJESVNTS21KMExmU2lRWTltaXJWbzFLekMxTGFuQVN1b2FBX2tsTm45aFhTR0NxUEEwdEY1cWJtcDM2a1BNbmtudlJXbFg3TVpySEdwb0h4ZkFEOERQTnNOaGt5U3FDRFJTMFcxd2FPU2pEbHJS?oc=5\" target=\"_blank\">Central Florida flash flooding: Photos, videos, water rescues, damage</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FOX 35 Orlando</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPTmlFNzI2Vy0xcWpON1gzOXBpSmo0NzA3OWxsdUJmejc0bmZhVjBCUjB6aUM0a3QwLVRLNFRNOUowRVJVZElTWmVyM3hCSFZYdGhuSnFJTWZyWWU3WDJrd2x6bDlVOU45R2JQNUZkT2szbGZpblBlRzhDQWZMLWhyTEYxRndyQ0ZVV1ZYNEx5QmhmcWxMdVQ1V1NrTVp2c05MQWRtOWoxdlVmSjlJSFVEWXM1b3lMTnY1R2VQdXo3RVgtT0k?oc=5",
+        "date": "2026-11-19",
+        "title": "Flash flood warning covers much of Los Angeles until noon Thursday; rain eases by evening and Friday is dry - Nacionale",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxPTmlFNzI2Vy0xcWpON1gzOXBpSmo0NzA3OWxsdUJmejc0bmZhVjBCUjB6aUM0a3QwLVRLNFRNOUowRVJVZElTWmVyM3hCSFZYdGhuSnFJTWZyWWU3WDJrd2x6bDlVOU45R2JQNUZkT2szbGZpblBlRzhDQWZMLWhyTEYxRndyQ0ZVV1ZYNEx5QmhmcWxMdVQ1V1NrTVp2c05MQWRtOWoxdlVmSjlJSFVEWXM1b3lMTnY1R2VQdXo3RVgtT0k?oc=5\" target=\"_blank\">Flash flood warning covers much of Los Angeles until noon Thursday; rain eases by evening and Friday is dry</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Nacionale</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBQQ2RTMFVERnJaejJPa3RjTk5XZHZncnA0UFptUDNZdlZIX2RiSnRZNFNscVlCRjRnQldNLURfa3BOS1dHenFsdXZOZndaLWVjOWRPN1J2Rm9pRnYyUmlrYzVlQQ?oc=5",
+        "date": "2026-11-19",
+        "title": "Florida's Atlantic coast continues to face heavy downpours, flash flooding - FOX Weather",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFBQQ2RTMFVERnJaejJPa3RjTk5XZHZncnA0UFptUDNZdlZIX2RiSnRZNFNscVlCRjRnQldNLURfa3BOS1dHenFsdXZOZndaLWVjOWRPN1J2Rm9pRnYyUmlrYzVlQQ?oc=5\" target=\"_blank\">Florida's Atlantic coast continues to face heavy downpours, flash flooding</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FOX Weather</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQRnRkVkI1SWUydnAzWDZJNHdtRnV2SlRUcXdYOGRoc0ZSelBZWnprZlJVU3N2TUdBaVV3TVJQTEtqWE9yb3pydVJoTXpZNlZXRGtTS1dUWHRnQ29iTzZnN3g0N1ZQQ0dRWS1QbS03N3V4SzFzaC1uVTZsMVZyQUlLVWtzenV6Qmo3RHZJYmFqdEVBZ240WFNkQ2E4cUJCS1gxNVV0bE5sdXJEZklLVHphT0REbnJvdWJ6U1kzM0MydGtHM2ZvQUVwUWhTeE1YUGxu?oc=5",
+        "date": "2026-11-19",
+        "title": "Jacksonville flooding risk rises as more heavy rain, high tides move in - The Florida Times-Union",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxQRnRkVkI1SWUydnAzWDZJNHdtRnV2SlRUcXdYOGRoc0ZSelBZWnprZlJVU3N2TUdBaVV3TVJQTEtqWE9yb3pydVJoTXpZNlZXRGtTS1dUWHRnQ29iTzZnN3g0N1ZQQ0dRWS1QbS03N3V4SzFzaC1uVTZsMVZyQUlLVWtzenV6Qmo3RHZJYmFqdEVBZ240WFNkQ2E4cUJCS1gxNVV0bE5sdXJEZklLVHphT0REbnJvdWJ6U1kzM0MydGtHM2ZvQUVwUWhTeE1YUGxu?oc=5\" target=\"_blank\">Jacksonville flooding risk rises as more heavy rain, high tides move in</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Florida Times-Union</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9QLUVqT2doZlQwd0I1MUtkN2JTZ3pUM0l4OGRDY1RheThEVFZXXy1RWXYyWkd6RmhZcXkwQ2lfTWNqNEpJYXhGTXVZVXhra0h4T2JGZzFIaTFYWTF0ZlFKUE5hVGhRcE5saElfb3pKOHZrTVZqRVlF?oc=5",
+        "date": "2026-11-19",
+        "title": "WeatherTiger's Florida East Coast Low Special Update for November 19th - Substack",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE9QLUVqT2doZlQwd0I1MUtkN2JTZ3pUM0l4OGRDY1RheThEVFZXXy1RWXYyWkd6RmhZcXkwQ2lfTWNqNEpJYXhGTXVZVXhra0h4T2JGZzFIaTFYWTF0ZlFKUE5hVGhRcE5saElfb3pKOHZrTVZqRVlF?oc=5\" target=\"_blank\">WeatherTiger's Florida East Coast Low Special Update for November 19th</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Substack</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMkZFbk5GcnRSeElLOEk3RUdFYUR0R0RpTDNfSnE5NWFRNEFSbFRtTXNHQjBwZzJYWURmMExNMk00X3hQOFZYMDVGanpQLWU5WnBoUVNSOFZja1hJVGNhNlo2SEI5aDhFNDBjWjV6Z09ESjc1S2pWRUszS1l3M0E0dzR4aURHcWs3dXBaMThEYkJSVjNyNkFUV0lUcGVlcDlpU3d3?oc=5",
+        "date": "2026-11-19",
+        "title": "Weather Alert Day in place for thunderstorm and flood potential - KSBW",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPMkZFbk5GcnRSeElLOEk3RUdFYUR0R0RpTDNfSnE5NWFRNEFSbFRtTXNHQjBwZzJYWURmMExNMk00X3hQOFZYMDVGanpQLWU5WnBoUVNSOFZja1hJVGNhNlo2SEI5aDhFNDBjWjV6Z09ESjc1S2pWRUszS1l3M0E0dzR4aURHcWs3dXBaMThEYkJSVjNyNkFUV0lUcGVlcDlpU3d3?oc=5\" target=\"_blank\">Weather Alert Day in place for thunderstorm and flood potential</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KSBW</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOd1VjTWJfUExBNFF3SHducWNaLTgtVFlmdmhrVThLQUhZZWNIdU5PWWRkMjA3cUFWa2QtUm5EWGhrVVByT0NRR2hPbDJsY2ttcmJ0R08xT0tYaVk4SkJ2MElzU1NJd1FPVVdHV2d6akgzTXZDUDRoOFp0a1hXaXJxUWFB?oc=5",
+        "date": "2026-11-19",
+        "title": "Brevard County opens shelter as flooding prompts warning to stay off roads - WESH",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxOd1VjTWJfUExBNFF3SHducWNaLTgtVFlmdmhrVThLQUhZZWNIdU5PWWRkMjA3cUFWa2QtUm5EWGhrVVByT0NRR2hPbDJsY2ttcmJ0R08xT0tYaVk4SkJ2MElzU1NJd1FPVVdHV2d6akgzTXZDUDRoOFp0a1hXaXJxUWFB?oc=5\" target=\"_blank\">Brevard County opens shelter as flooding prompts warning to stay off roads</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WESH</font>",
+        "similarity_excluded": "No",
+        "score": 6,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSi02aEVRLTZHV2lGMUxfUlNmcHpIWWNzUlUzaWlfUWJndnpoUjdfVDRUWHZNQTBDTWZRV2dPQUs2X042RDV5a1ZNQmxlQmNWeVVWaF9BSUlMVEo1LWpFUXU1bVMwYVFHUG1kZmZna3hnd29oX3BJQmpDUEJxVzVTY2JYZWVyN1FLMC1kb3RXRGJmUnZVVWpzV3I5aThHeUozeXlRbkR3WGpsNWs?oc=5",
+        "date": "2026-11-19",
+        "title": "Flooding hits Central Florida as rain continues to dump buckets across region - Orlando Sentinel",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSi02aEVRLTZHV2lGMUxfUlNmcHpIWWNzUlUzaWlfUWJndnpoUjdfVDRUWHZNQTBDTWZRV2dPQUs2X042RDV5a1ZNQmxlQmNWeVVWaF9BSUlMVEo1LWpFUXU1bVMwYVFHUG1kZmZna3hnd29oX3BJQmpDUEJxVzVTY2JYZWVyN1FLMC1kb3RXRGJmUnZVVWpzV3I5aThHeUozeXlRbkR3WGpsNWs?oc=5\" target=\"_blank\">Flooding hits Central Florida as rain continues to dump buckets across region</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Orlando Sentinel</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1vSmJGa1pFN3FyN2NlRXo2ejFEaW9Xc3FFRzk5XzcxdXlhcmZCZmg1cFZ4bmRfZW9ONDZ2cVZmZzZ0R0hQRFZWZDRhM2pmSERWYU84Sm1Ud09QbDVrNmJrdW5ZVUZZd9IBa0FVX3lxTE9SaTd3bFRGTUNlRWkzRlZVZDFKaVpGRUtTWnROZFpSSUZNR01IYmpYU1FXZWVGSzh0WGd5WnAwYWZjVEJ6LWdGTTdEOGx1bGZQbi1wQmZVMG1zOWhjUnVUMDZKVkxlaFQ1Y1NZ?oc=5",
+        "date": "2026-11-19",
+        "title": "Saint Johns River hits record flood stage - FOX 35 Orlando",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE1vSmJGa1pFN3FyN2NlRXo2ejFEaW9Xc3FFRzk5XzcxdXlhcmZCZmg1cFZ4bmRfZW9ONDZ2cVZmZzZ0R0hQRFZWZDRhM2pmSERWYU84Sm1Ud09QbDVrNmJrdW5ZVUZZd9IBa0FVX3lxTE9SaTd3bFRGTUNlRWkzRlZVZDFKaVpGRUtTWnROZFpSSUZNR01IYmpYU1FXZWVGSzh0WGd5WnAwYWZjVEJ6LWdGTTdEOGx1bGZQbi1wQmZVMG1zOWhjUnVUMDZKVkxlaFQ1Y1NZ?oc=5\" target=\"_blank\">Saint Johns River hits record flood stage</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FOX 35 Orlando</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNYjNRbk9SWUZ3cXIyV0JYUFh5YTF0S3lnaWhCNnBWeVBYdG9Ec0ROOU9GQVIyVXoyamgwZk1QNUt4QWFxU1p1U3hnQjlZamxZWmpVaTZvT1pwNFJ3U2xkMUMzeFFYNThvTE41aGJYRGVkaTVCdEY3bmduby1lMElBTU9NaFJYUzFERWR5QXdaVnZfWnJwTWtKbmlObTVKYS1jWEM0?oc=5",
+        "date": "2026-11-19",
+        "title": "Tropical Storm Kyle? Brewing system helps dump rain on Florida - USA Today",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNYjNRbk9SWUZ3cXIyV0JYUFh5YTF0S3lnaWhCNnBWeVBYdG9Ec0ROOU9GQVIyVXoyamgwZk1QNUt4QWFxU1p1U3hnQjlZamxZWmpVaTZvT1pwNFJ3U2xkMUMzeFFYNThvTE41aGJYRGVkaTVCdEY3bmduby1lMElBTU9NaFJYUzFERWR5QXdaVnZfWnJwTWtKbmlObTVKYS1jWEM0?oc=5\" target=\"_blank\">Tropical Storm Kyle? Brewing system helps dump rain on Florida</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">USA Today</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQczRDWDg0M18xSTV5ZndrRERSYURTRjFaUVp6amM1d3pBTGtHbjlJX0M5QVp6dXBrX3RJajZEcmhJdklmeDJIWk5MLTdCR0tqbEZXX0dhSV9yNlA5QVpPRlNNZVNQdVZITmtmTWszX3Jwc240eUgyT3QtazZTSk4yWFMyZnZvUWUzNHNBV0JocGh6UUlzUlY5bWxvMmlMVlNvOVFWMVRWRGs4MEJQNnlMN1p3Yw?oc=5",
+        "date": "2026-11-19",
+        "title": "Mandatory evacuation issued in Palm Bay Estates over flooding - WKMG",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQczRDWDg0M18xSTV5ZndrRERSYURTRjFaUVp6amM1d3pBTGtHbjlJX0M5QVp6dXBrX3RJajZEcmhJdklmeDJIWk5MLTdCR0tqbEZXX0dhSV9yNlA5QVpPRlNNZVNQdVZITmtmTWszX3Jwc240eUgyT3QtazZTSk4yWFMyZnZvUWUzNHNBV0JocGh6UUlzUlY5bWxvMmlMVlNvOVFWMVRWRGs4MEJQNnlMN1p3Yw?oc=5\" target=\"_blank\">Mandatory evacuation issued in Palm Bay Estates over flooding</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WKMG</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQX2Y3MTlvS0duYWY0RXBXbXg2Tk5XYzRhMXk0aG1yeXJpNVdaVF9qR1c2SzVvU0hMMnhLbXdTdVlKZDRwSnMzY1Fvam02MGhnTURScDlBYVlxZDZac1dlZ29JNUp5NU1FTmU4RlpqdnoyQjJjcFRMNWsxN2F2RlBHS25uSFdiMHpIbVpQUmNVYWxMU1NPYTBHTEhfeXY1WHhBVjFubHJlLXVNLUtCSlJNUHA5aVRnQ0tMZ3loN3lR?oc=5",
+        "date": "2026-11-19",
+        "title": "Torrential Florida rain prompts emergency declarations as dangerous flooding grows - New York Post",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxQX2Y3MTlvS0duYWY0RXBXbXg2Tk5XYzRhMXk0aG1yeXJpNVdaVF9qR1c2SzVvU0hMMnhLbXdTdVlKZDRwSnMzY1Fvam02MGhnTURScDlBYVlxZDZac1dlZ29JNUp5NU1FTmU4RlpqdnoyQjJjcFRMNWsxN2F2RlBHS25uSFdiMHpIbVpQUmNVYWxMU1NPYTBHTEhfeXY1WHhBVjFubHJlLXVNLUtCSlJNUHA5aVRnQ0tMZ3loN3lR?oc=5\" target=\"_blank\">Torrential Florida rain prompts emergency declarations as dangerous flooding grows</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">New York Post</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWl8zNFk4RkN5bmtrNkd2Z2RvUENRNWxJZ2Z6NGFENVJCR25FUmtDT0h2MUVIdTRidXpBYk9RZ1hUcGxoSEpzY095WnBneUxjcmRCUGhCTGhXcXM2VGFVV2IzZWFBNF81a1pnT09Mbll0blRnRW9zcmUwZkdKNWZWaDFTLThza0pOQjNhUjFsNm01NkEzUWE5amNydlo4LUVqdG1DWVpyQVE3blJ6d3NwdDk5QdIB0gFBVV95cUxOcElCSWhGQ1NNVzdXcFNRTmxiM01FVlB4Y2gzR05SMVR5YnVTT0JDSFJiU05QUWZoWllYeWRwNEQ4OW9UX2tsWjBSZ0ZDN0FhVUxaclhVNTlmSGJzX3RIS09ObEEwNjFtMGliZmp4c2lBM3l3bWlDSmx5eUlfLWg1TVNUZC1oWGNQdW5ISTZ4aGRGWERoMzN4U19OY21sYzlEWTc2WmozM2tvTHltYTZmb1R2djlsSVNTUS1vaEVTZGg2OE5faHRBXzluVkxBMFIwNGc?oc=5",
+        "date": "2026-11-19",
+        "title": "Flash Flood Warnings Hit Santa Monica, South Bay As Powerful Storm Sweeps LA County - Patch",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNWl8zNFk4RkN5bmtrNkd2Z2RvUENRNWxJZ2Z6NGFENVJCR25FUmtDT0h2MUVIdTRidXpBYk9RZ1hUcGxoSEpzY095WnBneUxjcmRCUGhCTGhXcXM2VGFVV2IzZWFBNF81a1pnT09Mbll0blRnRW9zcmUwZkdKNWZWaDFTLThza0pOQjNhUjFsNm01NkEzUWE5amNydlo4LUVqdG1DWVpyQVE3blJ6d3NwdDk5QdIB0gFBVV95cUxOcElCSWhGQ1NNVzdXcFNRTmxiM01FVlB4Y2gzR05SMVR5YnVTT0JDSFJiU05QUWZoWllYeWRwNEQ4OW9UX2tsWjBSZ0ZDN0FhVUxaclhVNTlmSGJzX3RIS09ObEEwNjFtMGliZmp4c2lBM3l3bWlDSmx5eUlfLWg1TVNUZC1oWGNQdW5ISTZ4aGRGWERoMzN4U19OY21sYzlEWTc2WmozM2tvTHltYTZmb1R2djlsSVNTUS1vaEVTZGg2OE5faHRBXzluVkxBMFIwNGc?oc=5\" target=\"_blank\">Flash Flood Warnings Hit Santa Monica, South Bay As Powerful Storm Sweeps LA County</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Patch</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNSTJjRERmLVJZdDZudDM4QzlfYlJKTUNNNnIwRnNGNWlUelN3LWg0TFF3MkxJR2dCNjVPUjl6OFRldDYxY1dVckVVWl9wRF9GNlh2TVlkYnVubllkY2FVMWF6bWZuenRjdzVRZEZobkxfeEl4dWtmZnNOSTQ1YXhoQm1EaDU?oc=5",
+        "date": "2026-11-19",
+        "title": "Florida flooding rain topped monthly, fall, all-time records - The Weather Channel",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxNSTJjRERmLVJZdDZudDM4QzlfYlJKTUNNNnIwRnNGNWlUelN3LWg0TFF3MkxJR2dCNjVPUjl6OFRldDYxY1dVckVVWl9wRF9GNlh2TVlkYnVubllkY2FVMWF6bWZuenRjdzVRZEZobkxfeEl4dWtmZnNOSTQ1YXhoQm1EaDU?oc=5\" target=\"_blank\">Florida flooding rain topped monthly, fall, all-time records</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Weather Channel</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0xTmlaS3lJSzZpaHV5eUFBNVFLalVHcjFmU1h0WVhBbl8tWnpONDVMSmJwWEdwNXNUYWw3dllaQWdwMGFIeVdjS3I4SVYzS29nanpHbklhZUpRQTBMVkpPUkE1NkJEUdIBa0FVX3lxTE9tQjRRRENPSjktVjJqNUdOYVdWVnFidFduQUhQOVE0dllxN281QTRnOGpSaEtHNFJSZnMtempweWxGWHR2U2dkZXpObTJzLTFzMlRPSW1wSXE2czhaZUxwOGVENXFsbFJQWmkw?oc=5",
+        "date": "2026-11-19",
+        "title": "Heavy rains flood neighborhood street in Cocoa - FOX 35 Orlando",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE0xTmlaS3lJSzZpaHV5eUFBNVFLalVHcjFmU1h0WVhBbl8tWnpONDVMSmJwWEdwNXNUYWw3dllaQWdwMGFIeVdjS3I4SVYzS29nanpHbklhZUpRQTBMVkpPUkE1NkJEUdIBa0FVX3lxTE9tQjRRRENPSjktVjJqNUdOYVdWVnFidFduQUhQOVE0dllxN281QTRnOGpSaEtHNFJSZnMtempweWxGWHR2U2dkZXpObTJzLTFzMlRPSW1wSXE2czhaZUxwOGVENXFsbFJQWmkw?oc=5\" target=\"_blank\">Heavy rains flood neighborhood street in Cocoa</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FOX 35 Orlando</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUEpiOGZydnJmS2dQMFd6dWNlbi05NWdhajJ6Q29DVnZhQV9RcGgtLVgwYWcteWtXRlk5UHFWZ25NMlJ3R2YzQU44OUY1UGdibmdYVHV3a2FobjRoODV4YkRpUThEZmVreFNDbFpNaVRROHhnTzdBMDdtZWNVV1E4WENMcHNRUnhZRGhtSTU1VlhEbF9VMGE4VXBWb2xMWjdxSXdGdVI3cnR4TWZPLWs4ZWRwWEwxUUJRZVE?oc=5",
+        "date": "2026-11-19",
+        "title": "Florida's relentless deluge continues with record rainfall, flooding - The Palm Beach Post",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNUEpiOGZydnJmS2dQMFd6dWNlbi05NWdhajJ6Q29DVnZhQV9RcGgtLVgwYWcteWtXRlk5UHFWZ25NMlJ3R2YzQU44OUY1UGdibmdYVHV3a2FobjRoODV4YkRpUThEZmVreFNDbFpNaVRROHhnTzdBMDdtZWNVV1E4WENMcHNRUnhZRGhtSTU1VlhEbF9VMGE4VXBWb2xMWjdxSXdGdVI3cnR4TWZPLWs4ZWRwWEwxUUJRZVE?oc=5\" target=\"_blank\">Florida's relentless deluge continues with record rainfall, flooding</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Palm Beach Post</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPUGRMdlptYjdPemEySEpGQ1FQNkJQMVdmWmk0eUdUM0ZocUtfcDMwTXJIMXE4aUpDZlY4ZEp0U0pLald6Y0JFU2ZrR3pYOWR5bzI0UVZNVFdfejlNOWxRR3Z6M0cwU0d6bG1xclNTRVNHZ3daM05WUzhSNTNYR2tPdEZ2QWg3cE5NTFBLRjFqMExzWHRCZHNPUmt4ZS1aa3EwS0laVWgzVjJQUTN1Y3dsa2xiXzd2MWRNdDlBOXc5LUQySGtkRWthNWRTeUpranhoRVY4X3duaTRjMXFpcXc3X1Z0RGdFVEsyZWx4aTdn?oc=5",
+        "date": "2026-11-19",
+        "title": "Some Brevard areas may get 6 to 8 inches of rain today amid flooding - Florida Today",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7gFBVV95cUxPUGRMdlptYjdPemEySEpGQ1FQNkJQMVdmWmk0eUdUM0ZocUtfcDMwTXJIMXE4aUpDZlY4ZEp0U0pLald6Y0JFU2ZrR3pYOWR5bzI0UVZNVFdfejlNOWxRR3Z6M0cwU0d6bG1xclNTRVNHZ3daM05WUzhSNTNYR2tPdEZ2QWg3cE5NTFBLRjFqMExzWHRCZHNPUmt4ZS1aa3EwS0laVWgzVjJQUTN1Y3dsa2xiXzd2MWRNdDlBOXc5LUQySGtkRWthNWRTeUpranhoRVY4X3duaTRjMXFpcXc3X1Z0RGdFVEsyZWx4aTdn?oc=5\" target=\"_blank\">Some Brevard areas may get 6 to 8 inches of rain today amid flooding</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Florida Today</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVGNfU0FMX1lLUlBJdTVhQlZKbmxHNE9oOVhZNVZ1bWd5WDQxMjEzU2FLNHpUQTdQZXlYcFVSYlNJYU16VTNCRHRvN3I5Q1k3aDZHWGdYTVJ4ZjNlSFIxZ1oyM3ItRml1NENZZnNxV0RKZE1PYjZVM19rc1pNejJMNno3ZUVabkc4MzgyRUN6QkNMZzFTV1BwWWo2Zl9yS2psTS1BRkxEZzM1WnVDWHhGbFlFcHNBSFNPcUFN0gHPAUFVX3lxTFBRQUdPLVkwTmU4b3JfdjcyMmxFbU5PRWFSMlI3NlNEVjBubmF1UzhKSzBYV0dPNlREalZBcWxQRUo5Zl9Od3Nfajk1dkI5Z3JBbDJ3dEhaWkJGN3dvSnA2WWNFc3dqWEs5MEN1SG12dnlKYlRBVFVhcG0tY096NEJ2RGZwNFVlY0hpS09wNFkxTGpjeThBQVRPeDEzTWFpS05rRUZ2N1c1dTR5dGoxMTFVWE1YUlAzejhPOUV5SnB1dFFZdU9qZWlqTnZESURUZw?oc=5",
+        "date": "2026-11-19",
+        "title": "Mandatory evacuations ordered in Palm Bay Estates due to flooding - WFTV",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVGNfU0FMX1lLUlBJdTVhQlZKbmxHNE9oOVhZNVZ1bWd5WDQxMjEzU2FLNHpUQTdQZXlYcFVSYlNJYU16VTNCRHRvN3I5Q1k3aDZHWGdYTVJ4ZjNlSFIxZ1oyM3ItRml1NENZZnNxV0RKZE1PYjZVM19rc1pNejJMNno3ZUVabkc4MzgyRUN6QkNMZzFTV1BwWWo2Zl9yS2psTS1BRkxEZzM1WnVDWHhGbFlFcHNBSFNPcUFN0gHPAUFVX3lxTFBRQUdPLVkwTmU4b3JfdjcyMmxFbU5PRWFSMlI3NlNEVjBubmF1UzhKSzBYV0dPNlREalZBcWxQRUo5Zl9Od3Nfajk1dkI5Z3JBbDJ3dEhaWkJGN3dvSnA2WWNFc3dqWEs5MEN1SG12dnlKYlRBVFVhcG0tY096NEJ2RGZwNFVlY0hpS09wNFkxTGpjeThBQVRPeDEzTWFpS05rRUZ2N1c1dTR5dGoxMTFVWE1YUlAzejhPOUV5SnB1dFFZdU9qZWlqTnZESURUZw?oc=5\" target=\"_blank\">Mandatory evacuations ordered in Palm Bay Estates due to flooding</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WFTV</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAtSi1oYnNpVFVGdEpzbFZhTEplVm5WLW1QcDZPdVVLT0tfWGZfTzdVVE95RkloXzdqbFBBcS1yTW1OZVdXaHlGNFdpWWgzS0FhajAwcHZfeUtaOV8yWTVrUmxmVTBkZ9IBa0FVX3lxTE9GUTJxV0UySmJpZXV3Ym4zbzNrOTNVcktvZm1uZC01M3kxTFN6V1huWWlWVWRmbjFkWWVqbHQ3bVFJbkNjTjA5N01WOEFwbWlRMlBDYko0ZEJhengxWjFaeG91c0NOb2dIRmtJ?oc=5",
+        "date": "2026-11-19",
+        "title": "Major flooding amid heavy rains in Brevard County - FOX 35 Orlando",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTFAtSi1oYnNpVFVGdEpzbFZhTEplVm5WLW1QcDZPdVVLT0tfWGZfTzdVVE95RkloXzdqbFBBcS1yTW1OZVdXaHlGNFdpWWgzS0FhajAwcHZfeUtaOV8yWTVrUmxmVTBkZ9IBa0FVX3lxTE9GUTJxV0UySmJpZXV3Ym4zbzNrOTNVcktvZm1uZC01M3kxTFN6V1huWWlWVWRmbjFkWWVqbHQ3bVFJbkNjTjA5N01WOEFwbWlRMlBDYko0ZEJhengxWjFaeG91c0NOb2dIRmtJ?oc=5\" target=\"_blank\">Major flooding amid heavy rains in Brevard County</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FOX 35 Orlando</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZTdPVjNhWXhQa2lQM1JSWnZUTGtFd0xQY3BqNUlDQzhxOTNiS3I5THhaODg5SC1oTDN6LWJnUXM0WGxNLTQtTUQxOEV3Vm1FbEVQSTV2TEppTDF0Tnc5a0p6YVd4NU1INVp2Q0FxZmk4RWVVeXE3SUw3a0RzNzIxZlFTNVdwM0JHVWc0enUtcDJqTndZR1hkM0lmTGw5Qm1SQ2JHTGRqaHgxUk1vdDVIQ2NB?oc=5",
+        "date": "2026-11-19",
+        "title": "Los Angeles Flood Threat Builds as El Ni\u00f1o Storm Sweeps South - Bloomberg.com",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQZTdPVjNhWXhQa2lQM1JSWnZUTGtFd0xQY3BqNUlDQzhxOTNiS3I5THhaODg5SC1oTDN6LWJnUXM0WGxNLTQtTUQxOEV3Vm1FbEVQSTV2TEppTDF0Tnc5a0p6YVd4NU1INVp2Q0FxZmk4RWVVeXE3SUw3a0RzNzIxZlFTNVdwM0JHVWc0enUtcDJqTndZR1hkM0lmTGw5Qm1SQ2JHTGRqaHgxUk1vdDVIQ2NB?oc=5\" target=\"_blank\">Los Angeles Flood Threat Builds as El Ni\u00f1o Storm Sweeps South</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9mQmhnUFRIRERUbUpZTGRlbGJxUEctVDE1QlVSWXk5dHZFYjJmbUg2V0Z6b1Jjd0VUOU5YNk1sMmRCQXpXY3dZVlJzaHRxV0UxMk9hcFJtLWdKZ0dIVTZvSzBVeHZoSVdvcVpoa3FVVW80TkU?oc=5",
+        "date": "2026-11-19",
+        "title": "Study identifies factors that exacerbated the 2024 flash flood in l'Horta Sud - Phys.org",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE9mQmhnUFRIRERUbUpZTGRlbGJxUEctVDE1QlVSWXk5dHZFYjJmbUg2V0Z6b1Jjd0VUOU5YNk1sMmRCQXpXY3dZVlJzaHRxV0UxMk9hcFJtLWdKZ0dIVTZvSzBVeHZoSVdvcVpoa3FVVW80TkU?oc=5\" target=\"_blank\">Study identifies factors that exacerbated the 2024 flash flood in l'Horta Sud</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Phys.org</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRXRaS2xadkJXUGYxRVhEUnNQejZtRk9xc3pPdEF4Tm1FM1d2LTZ0aVA4Tl9sLTY3V0NTd3FqbmFVeXlTRzBoNy1BMDNOLTdhLWRkRUdwRXk3OFU5VXdVYTBBQ1k1aWFrYmFPbFRXQkJHUjRXSnl1cmczdmlsYjhYdUlPeVN0VThzcmhON0ZkSXZVOW5vRnJwNzR3?oc=5",
+        "date": "2026-11-19",
+        "title": "Severe flood warning issued for St. Johns County - Yahoo",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNRXRaS2xadkJXUGYxRVhEUnNQejZtRk9xc3pPdEF4Tm1FM1d2LTZ0aVA4Tl9sLTY3V0NTd3FqbmFVeXlTRzBoNy1BMDNOLTdhLWRkRUdwRXk3OFU5VXdVYTBBQ1k1aWFrYmFPbFRXQkJHUjRXSnl1cmczdmlsYjhYdUlPeVN0VThzcmhON0ZkSXZVOW5vRnJwNzR3?oc=5\" target=\"_blank\">Severe flood warning issued for St. Johns County</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxONExOZ1NuOG9ING00ZGdiSWRNaGNGNF9qcFpxc1JrT3QweF9aa1NiNGNzMXk3cUE3N25aNzgtRmx0TmF6VGVFWjltcWM4T3poTGMyR0FJZEFDVVNWaEk3aU5CWDVIQVpFd1d6X3dmWjMtV2ZXWDhMYy14bjlhbGJWTkpDTjVWSXVfOFZob1YweXB4V1FjbWtXWHYta09IQXJoY2pDbFgxazR5cTVtX0xYV2RZOTZycEREaG01bldsX004dzdkVnVjcWVGS0JvM05CRktrcWEzb1lOcUtMVkhrZ0tQTXBid0JXUVl1c0V6VHhNVlBrSXc?oc=5",
+        "date": "2026-11-19",
+        "title": "More than 90 rescued, evacuated as flooding hits Florida\u2019s east coast; rare high risk alert issued - WINK News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9gFBVV95cUxONExOZ1NuOG9ING00ZGdiSWRNaGNGNF9qcFpxc1JrT3QweF9aa1NiNGNzMXk3cUE3N25aNzgtRmx0TmF6VGVFWjltcWM4T3poTGMyR0FJZEFDVVNWaEk3aU5CWDVIQVpFd1d6X3dmWjMtV2ZXWDhMYy14bjlhbGJWTkpDTjVWSXVfOFZob1YweXB4V1FjbWtXWHYta09IQXJoY2pDbFgxazR5cTVtX0xYV2RZOTZycEREaG01bldsX004dzdkVnVjcWVGS0JvM05CRktrcWEzb1lOcUtMVkhrZ0tQTXBid0JXUVl1c0V6VHhNVlBrSXc?oc=5\" target=\"_blank\">More than 90 rescued, evacuated as flooding hits Florida\u2019s east coast; rare high risk alert issued</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WINK News</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "processed",
+        "tweet": null,
+        "tweet_id": "2123488574754464174",
+        "geo": {
+            "country": "United States",
+            "name": "Florida's east coast",
+            "latitude": 28.0,
+            "longitude": -80.5,
+            "confidence": 0.85
+        }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB1dlhCSWFhTTlKT2tscEdoQ2FucDFXdXdNVFk3TWpGcnJTckNBTUxwdVM2cURMVjgyV202eGtBNXZrbXZNSVRtd2RXaGh4TlRQT2ZpN1JuUkF0UjNuYkJ4Vy1pU0g5d9IBa0FVX3lxTE04TFZtckY4el9pWGlTNVhlVllfeXAtYjV6OFpzdE1sOTBoQUNtR0tGb0tHcGZYY3lfUEtxWnVReGZLUWdaRVRHOVo4WFI2QmlRY2otSDUwRFY3clM3VnR0VnNyc016eUJscVdF?oc=5",
+        "date": "2026-11-19",
+        "title": "Update on rain and flooding concerns in Seminole County - FOX 35 Orlando",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTFB1dlhCSWFhTTlKT2tscEdoQ2FucDFXdXdNVFk3TWpGcnJTckNBTUxwdVM2cURMVjgyV202eGtBNXZrbXZNSVRtd2RXaGh4TlRQT2ZpN1JuUkF0UjNuYkJ4Vy1pU0g5d9IBa0FVX3lxTE04TFZtckY4el9pWGlTNVhlVllfeXAtYjV6OFpzdE1sOTBoQUNtR0tGb0tHcGZYY3lfUEtxWnVReGZLUWdaRVRHOVo4WFI2QmlRY2otSDUwRFY3clM3VnR0VnNyc016eUJscVdF?oc=5\" target=\"_blank\">Update on rain and flooding concerns in Seminole County</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FOX 35 Orlando</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVXB4TWx2RTFyUlBtTjVGbTFsOGZLQk41Q3hiU2VmNHF1MVhWUnVraXJvYUwyVnRTOS1oSThyR0tadnYtTUVHbFUxTERkV1pPS1lDZEY4TFhLUmF2cTZ6WlFuYnl2THNka3dxZjBkbmlGdGZ4VkNqMFowcmNaZnJJLUlOenh6VzFQTWdIeVdmamJVdDlxeEQxUVNldFdjQ01YdF9tWG1Kc1A5MHhtMThKODVleHU?oc=5",
+        "date": "2026-11-19",
+        "title": "Southern California burn scar areas on high alert for flooding, mudslides - CBS News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPVXB4TWx2RTFyUlBtTjVGbTFsOGZLQk41Q3hiU2VmNHF1MVhWUnVraXJvYUwyVnRTOS1oSThyR0tadnYtTUVHbFUxTERkV1pPS1lDZEY4TFhLUmF2cTZ6WlFuYnl2THNka3dxZjBkbmlGdGZ4VkNqMFowcmNaZnJJLUlOenh6VzFQTWdIeVdmamJVdDlxeEQxUVNldFdjQ01YdF9tWG1Kc1A5MHhtMThKODVleHU?oc=5\" target=\"_blank\">Southern California burn scar areas on high alert for flooding, mudslides</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CBS News</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5pTXJNUC1QQlpDY1VkaEtwV3hLaHdwb2RtMXZxZGh0aXFfVFp2cUVQVU1BVnZfamhTS0pHRklaeHJlQ0NpUEVzd3Nvc0U4bzVKcmJ4VzNYa1IzMEdRdUdaaDhPbEZxQdIBa0FVX3lxTE0yeE5VMUIyakI1QjJnRFpGOVh0Tm4yeF9oYm4wM0ZuMG13Yk5qRVZ3ZF9ZSm9LYzU2Mk9MZGRHaDQ0LW5YaGZvdk4xdUVLWlBSUjQ1QUs4Y3BPNFBMOXBzM044c3BKd1YzdTlj?oc=5",
+        "date": "2026-11-19",
+        "title": "Animals rescued to dryer ground in the midst of flooding - FOX 35 Orlando",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE5pTXJNUC1QQlpDY1VkaEtwV3hLaHdwb2RtMXZxZGh0aXFfVFp2cUVQVU1BVnZfamhTS0pHRklaeHJlQ0NpUEVzd3Nvc0U4bzVKcmJ4VzNYa1IzMEdRdUdaaDhPbEZxQdIBa0FVX3lxTE0yeE5VMUIyakI1QjJnRFpGOVh0Tm4yeF9oYm4wM0ZuMG13Yk5qRVZ3ZF9ZSm9LYzU2Mk9MZGRHaDQ0LW5YaGZvdk4xdUVLWlBSUjQ1QUs4Y3BPNFBMOXBzM044c3BKd1YzdTlj?oc=5\" target=\"_blank\">Animals rescued to dryer ground in the midst of flooding</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FOX 35 Orlando</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNMUYtckpzRS11X0U3b0IxYUdaVTBBLWpOekktSTd3WEgwRmMwV2dZV2tNWkpoNzJSMEw3eFpKbktHZWs5UkJWcHJhZ0VwMGlHUWJOOWNZbzVBbmE5NHExaHJBSTFTQ2V4cDItbGZXTWVfd2REc0Zma05QQjVHdG1pbWxNWjhwSEZubzl5YzgtWEtiang1VTVCUDhFYm1Xd3RMWlliN0xqMmdzdFFRQmZScUlNdVlVZUtyWV85ekhmZnhDanBVeHNzNnJJNmRYZ1FSdGdmemNWbmIxMVJ6UklqSmdvTzczYlFTYW9kdmZGRmR4SWI4bllEQmhRcVRmSWh5bzRxZw?oc=5",
+        "date": "2026-11-19",
+        "title": "Amid heavy rain, a flood warning is in effect for St. Johns County - St. Augustine Record",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAJBVV95cUxNMUYtckpzRS11X0U3b0IxYUdaVTBBLWpOekktSTd3WEgwRmMwV2dZV2tNWkpoNzJSMEw3eFpKbktHZWs5UkJWcHJhZ0VwMGlHUWJOOWNZbzVBbmE5NHExaHJBSTFTQ2V4cDItbGZXTWVfd2REc0Zma05QQjVHdG1pbWxNWjhwSEZubzl5YzgtWEtiang1VTVCUDhFYm1Xd3RMWlliN0xqMmdzdFFRQmZScUlNdVlVZUtyWV85ekhmZnhDanBVeHNzNnJJNmRYZ1FSdGdmemNWbmIxMVJ6UklqSmdvTzczYlFTYW9kdmZGRmR4SWI4bllEQmhRcVRmSWh5bzRxZw?oc=5\" target=\"_blank\">Amid heavy rain, a flood warning is in effect for St. Johns County</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">St. Augustine Record</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOUm1hR3FYOEJiRUhWY2M4MklTNkVQcGRPNm9UWmk2dnI2NlFxVmhSZlNaSnR3ZEE5dzVjY3BEc2U2ejVxUGUzazBQZU9pTjRRcHdaeU9tQTJjN3I5aDBnR3ZSTUpnZHVzdTlaaXBMUElRTjZJaERkM0lGTS1KRm5oV2tTYjBhMFFObFpYRmM0X0VuVkhhZ2s1Y3N2bTJWRXdCMzZMVFZrbkVxRVFaSnZUbmdJQm9jcUZFcmRDVGwzUXlmV2R3?oc=5",
+        "date": "2026-11-19",
+        "title": "Flood watch continues in South Florida, more flooding possible - USA Today",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxOUm1hR3FYOEJiRUhWY2M4MklTNkVQcGRPNm9UWmk2dnI2NlFxVmhSZlNaSnR3ZEE5dzVjY3BEc2U2ejVxUGUzazBQZU9pTjRRcHdaeU9tQTJjN3I5aDBnR3ZSTUpnZHVzdTlaaXBMUElRTjZJaERkM0lGTS1KRm5oV2tTYjBhMFFObFpYRmM0X0VuVkhhZ2s1Y3N2bTJWRXdCMzZMVFZrbkVxRVFaSnZUbmdJQm9jcUZFcmRDVGwzUXlmV2R3?oc=5\" target=\"_blank\">Flood watch continues in South Florida, more flooding possible</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">USA Today</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPdU9UQy1QTEZRWi1NOXVrQXN0QUQ2dFN4Y3VubEFrdXN6a2V0WDFaSE8xdkhVTlRaejlqTUJyQWdDRTlkQ2NRazlKVy1mcHhtVnNmMmxTRW9LTGJvdWEzdmdTQlRid0JEdWdFdU9kX2FMb3hpdUMxc1BfSnBxR2tnV1NIblM3Z0prWW1UVUF0QlRBc2s?oc=5",
+        "date": "2026-11-19",
+        "title": "Heavy rains flood sreets in Rockledge - WKMG",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPdU9UQy1QTEZRWi1NOXVrQXN0QUQ2dFN4Y3VubEFrdXN6a2V0WDFaSE8xdkhVTlRaejlqTUJyQWdDRTlkQ2NRazlKVy1mcHhtVnNmMmxTRW9LTGJvdWEzdmdTQlRid0JEdWdFdU9kX2FMb3hpdUMxc1BfSnBxR2tnV1NIblM3Z0prWW1UVUF0QlRBc2s?oc=5\" target=\"_blank\">Heavy rains flood sreets in Rockledge</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WKMG</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4xNXl1MjRNUG4yeERuOEJwbS1JczRHTGttcVZ0TG5FTTlBUklpemE1TzBtM19oMVRwVFJRYUI0bnNMN2J6cVFJdW9kU21meDVzUC1DMV9nTVN2ZC0yY0dVeUFnVWUtZ9IBa0FVX3lxTE5xOVBoSDRtZ2MtTEJjYVVHd2NpTmdlMS1xWUFlNHhZeUptVWE5dFNKOEZlaDdVc0xuVUJBb1pjQWtrUDE5MDE0eEgtLVRNc0FiVkNENm01bGNPbWRLRVpONGtpaHV6dWw3aVRF?oc=5",
+        "date": "2026-11-19",
+        "title": "Orlando weather AM: Rain, flooding slams Central Florida - FOX 35 Orlando",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE4xNXl1MjRNUG4yeERuOEJwbS1JczRHTGttcVZ0TG5FTTlBUklpemE1TzBtM19oMVRwVFJRYUI0bnNMN2J6cVFJdW9kU21meDVzUC1DMV9nTVN2ZC0yY0dVeUFnVWUtZ9IBa0FVX3lxTE5xOVBoSDRtZ2MtTEJjYVVHd2NpTmdlMS1xWUFlNHhZeUptVWE5dFNKOEZlaDdVc0xuVUJBb1pjQWtrUDE5MDE0eEgtLVRNc0FiVkNENm01bGNPbWRLRVpONGtpaHV6dWw3aVRF?oc=5\" target=\"_blank\">Orlando weather AM: Rain, flooding slams Central Florida</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FOX 35 Orlando</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNRHQ3emRwSmJQYU84U1hpUVRwLXo4VTFqTTloOEoyMWE4Y2VGRG1LaHplQkFKU0xiVmpCYkMyQlNQaTRDTDhNbEQzRzJBS0VNY3VnazBneUU1YlpXem9faGR0ZksyYlplOUVpOXEybnBYc19jLWdWcUdHLTV1WHI1SURYOTV5RV90T1lXcndzVU0?oc=5",
+        "date": "2026-11-19",
+        "title": "San Luis Obispo Opens Ludwick Community Center for Storm-Impacted Residents Under Flood Advisory - edhat",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNRHQ3emRwSmJQYU84U1hpUVRwLXo4VTFqTTloOEoyMWE4Y2VGRG1LaHplQkFKU0xiVmpCYkMyQlNQaTRDTDhNbEQzRzJBS0VNY3VnazBneUU1YlpXem9faGR0ZksyYlplOUVpOXEybnBYc19jLWdWcUdHLTV1WHI1SURYOTV5RV90T1lXcndzVU0?oc=5\" target=\"_blank\">San Luis Obispo Opens Ludwick Community Center for Storm-Impacted Residents Under Flood Advisory</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">edhat</font>",
+        "similarity_excluded": "No",
+        "score": 6,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9pbEYyLVp0cXlNZ1hhcEdnSmRMS21FSDJLT3pzeHNwclhra2pZd2pqMW1xcWMtd19fTjhBQ0NBYjdjSk5LcHB6R2RmeW84RG5JUVhTWHowa3NEVG5HX1dYR3hxZjB5QdIBa0FVX3lxTE8xbDVEWkZwaUtYdkRMcFdIRUNBRVNmSlFWLWE5N1RMMWs4bmFqTDZ6UDNNU3M2WUVwcVhOUHg2YU5VYXY5dXdlRmJzbkNaZDF1Q1M5LWdZb0pVajdoVjFsOWlUa1dnWklHVTBJ?oc=5",
+        "date": "2026-11-19",
+        "title": "Horses rescued amid flooding in Cocoa - FOX 35 Orlando",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE9pbEYyLVp0cXlNZ1hhcEdnSmRMS21FSDJLT3pzeHNwclhra2pZd2pqMW1xcWMtd19fTjhBQ0NBYjdjSk5LcHB6R2RmeW84RG5JUVhTWHowa3NEVG5HX1dYR3hxZjB5QdIBa0FVX3lxTE8xbDVEWkZwaUtYdkRMcFdIRUNBRVNmSlFWLWE5N1RMMWs4bmFqTDZ6UDNNU3M2WUVwcVhOUHg2YU5VYXY5dXdlRmJzbkNaZDF1Q1M5LWdZb0pVajdoVjFsOWlUa1dnWklHVTBJ?oc=5\" target=\"_blank\">Horses rescued amid flooding in Cocoa</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FOX 35 Orlando</font>",
+        "similarity_excluded": "Yes",
+        "score": 0,
+        "status": "skipped",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1ERzYzQ3hHTEswZVViYU9ld1pwdEZPUzluMExUWXlrNEpRQVFfUHNla2FZblFMTUdVREJENm1FMHdDWnRtX1ZZcW9mLVh5bTk3bFZxQUVSVEFWZkxfX05WcXRmWkJqV2liZ0tySEpWYmw1U0NjOGh4ZzFsY9IBgAFBVV95cUxPX3g2TzZ5NmZMYWRYQXlFVVJBc00xekxtWGFtZEs1Y3JpeWtYbUtZbDJhRElnQWl0eXF1UUpVSXBENlpjV3J4dDRFS0ttVXRCanlKa2o5bHloMkZVMlJrVldETU10WFVrdk9HdlhsaW00cnEtSDJyMTNxZER0SmZZdw?oc=5",
+        "date": "2026-11-19",
+        "title": "Torrential rain from powerful storm floods Southern California streets - KTLA",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE1ERzYzQ3hHTEswZVViYU9ld1pwdEZPUzluMExUWXlrNEpRQVFfUHNla2FZblFMTUdVREJENm1FMHdDWnRtX1ZZcW9mLVh5bTk3bFZxQUVSVEFWZkxfX05WcXRmWkJqV2liZ0tySEpWYmw1U0NjOGh4ZzFsY9IBgAFBVV95cUxPX3g2TzZ5NmZMYWRYQXlFVVJBc00xekxtWGFtZEs1Y3JpeWtYbUtZbDJhRElnQWl0eXF1UUpVSXBENlpjV3J4dDRFS0ttVXRCanlKa2o5bHloMkZVMlJrVldETU10WFVrdk9HdlhsaW00cnEtSDJyMTNxZER0SmZZdw?oc=5\" target=\"_blank\">Torrential rain from powerful storm floods Southern California streets</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">KTLA</font>",
+        "similarity_excluded": "No",
+        "score": 6,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNeHctOXk3OVRNWFlWVTJBQzNuTEJMSUsyN3RRWXJKQzVPQzBKS0VnWDBhRGxBVWRveXBzbkQ3ZmkxbmFPNms5X205NzRTQjhXc3NXMUZvN3dRSXVyYTZIVXFOcndOdUdfX1FCc3doZGtKNHJmMXdfNVVfd3NEUEVFcmtpVmkxdmt2UUJScUpmaDU3SG1BanNUSmdiRWl2T3M0bzMxSVNhWVJtcGdMYmZIcTFMRdIBxwFBVV95cUxPUjRnU0tvS19XdVU0S0pnWFJoVXVDSFU5STVERkpCbjBaSUF3UklGUFl2QjJSeEtqaW9lZlRDV2hLeDRiS1FuekJ3aFdfbUtBQUlrcTBrY29BS2M3SFg5dnMxTjVIdWdUaEEzbFVMQ05HUkZkd0dfY1dxdHY2QVBkUS1lcGU3TVJnVXpobnJiS1BuSDhncXJlNUdGMjdXQVFuaGlyeEJZY1hIZnNMZkgzT01GSC1UMTNTMTVibktheDUzVHlkdGV3?oc=5",
+        "date": "2026-11-19",
+        "title": "Brevard County extends school closures through Friday - WFTV",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNeHctOXk3OVRNWFlWVTJBQzNuTEJMSUsyN3RRWXJKQzVPQzBKS0VnWDBhRGxBVWRveXBzbkQ3ZmkxbmFPNms5X205NzRTQjhXc3NXMUZvN3dRSXVyYTZIVXFOcndOdUdfX1FCc3doZGtKNHJmMXdfNVVfd3NEUEVFcmtpVmkxdmt2UUJScUpmaDU3SG1BanNUSmdiRWl2T3M0bzMxSVNhWVJtcGdMYmZIcTFMRdIBxwFBVV95cUxPUjRnU0tvS19XdVU0S0pnWFJoVXVDSFU5STVERkpCbjBaSUF3UklGUFl2QjJSeEtqaW9lZlRDV2hLeDRiS1FuekJ3aFdfbUtBQUlrcTBrY29BS2M3SFg5dnMxTjVIdWdUaEEzbFVMQ05HUkZkd0dfY1dxdHY2QVBkUS1lcGU3TVJnVXpobnJiS1BuSDhncXJlNUdGMjdXQVFuaGlyeEJZY1hIZnNMZkgzT01GSC1UMTNTMTVibktheDUzVHlkdGV3?oc=5\" target=\"_blank\">Brevard County extends school closures through Friday</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WFTV</font>",
+        "similarity_excluded": "No",
+        "score": 0,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZ1ZTT3dscFJCc0R0amlNalJlOXk5MU1LWmp1cnVCZFBWQWpXLVcxMHR5Q0tFTGlBb3Vna1hyRmFQQkhHX0I0cGptZVpVaU5VSFVYa05wVklxQzNodWdGZnJDdjFfMmJTeEFWcFRXMFIwaXpDYjF1QTdnbEEyZWFXMC1zZmgzejFpTkl6Y0tnLWIxMUwzMnpEVXZaTVBYRGp1Ri04Y3BiM3dQd2c?oc=5",
+        "date": "2026-11-19",
+        "title": "Volunteers turn out to help flooded horse farm in Cocoa - WKMG",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZ1ZTT3dscFJCc0R0amlNalJlOXk5MU1LWmp1cnVCZFBWQWpXLVcxMHR5Q0tFTGlBb3Vna1hyRmFQQkhHX0I0cGptZVpVaU5VSFVYa05wVklxQzNodWdGZnJDdjFfMmJTeEFWcFRXMFIwaXpDYjF1QTdnbEEyZWFXMC1zZmgzejFpTkl6Y0tnLWIxMUwzMnpEVXZaTVBYRGp1Ri04Y3BiM3dQd2c?oc=5\" target=\"_blank\">Volunteers turn out to help flooded horse farm in Cocoa</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WKMG</font>",
+        "similarity_excluded": "No",
+        "score": 5,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAyaFN0MjRkYjl5WDBuSy1xb21JVXYtb1hsazZDalJLRktGUU15MmRpUnhuczVVQWpWQjIyR3hpYVUzQW9sTk1pcEViS29zMjZocF9SbUo3VXhiZHZHTmNjZUVPTGU0SEZsVXZXaU5tSEljdmhw?oc=5",
+        "date": "2026-11-19",
+        "title": "When does Hurricane Season end? Multiple flooding warnings in effect - Bradenton Herald",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTFAyaFN0MjRkYjl5WDBuSy1xb21JVXYtb1hsazZDalJLRktGUU15MmRpUnhuczVVQWpWQjIyR3hpYVUzQW9sTk1pcEViS29zMjZocF9SbUo3VXhiZHZHTmNjZUVPTGU0SEZsVXZXaU5tSEljdmhw?oc=5\" target=\"_blank\">When does Hurricane Season end? Multiple flooding warnings in effect</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bradenton Herald</font>",
+        "similarity_excluded": "No",
+        "score": 7,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZkQxWWxWR0VJbXVjOW10ZU5NMkxhOGhJQVpHQ1NBcmFIVGhqV3pZOFp3eEJYWkNHdXJmV0NEUjV3b0RycVZFUUlPVHZpSXI0d0t3V0FwSTV0UUZWdVZXTnFacnJ4NzRDR2ZLNmgzN2RRakNZZGZuNmowa3ZFcmc3U19BaGdqU3MzQkZUWkx3TmpEekhvZ1ktbEVCQkpHMFE?oc=5",
+        "date": "2026-11-19",
+        "title": "East Coast storm could become 'Kyle' this weekend - The Weather Channel",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPZkQxWWxWR0VJbXVjOW10ZU5NMkxhOGhJQVpHQ1NBcmFIVGhqV3pZOFp3eEJYWkNHdXJmV0NEUjV3b0RycVZFUUlPVHZpSXI0d0t3V0FwSTV0UUZWdVZXTnFacnJ4NzRDR2ZLNmgzN2RRakNZZGZuNmowa3ZFcmc3U19BaGdqU3MzQkZUWkx3TmpEekhvZ1ktbEVCQkpHMFE?oc=5\" target=\"_blank\">East Coast storm could become 'Kyle' this weekend</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Weather Channel</font>",
+        "similarity_excluded": "No",
+        "score": 2,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPbGkyaW9xRjBVRk9RM0R3dmtEdHdjeV9OdFljcTZIMU1XT1lRNEoyZ2lvSk1ZaU9oVVM2UHJvQTBPWEpFNk9hdzBMLTk3eEVYNE9iS0R2RklKTE9GLXFDVURIQWFtWEx6T0UxMFpISWUzdld4UnExNGJmWlk2OGtZdUh1ZEJhR3Bhcno5X1NkNk5YblRKMHdxeFVpQ0Nwd9IBuAFBVV95cUxOWWJmUUw2c1dGSm9yaDFSeXZPc3lxUEdMTS05cVVBTk1wTFl1aGF6Zlc3bS1OYjZ0VEpQQml0enBlZTVKU1EwWGxSeGpMVTROeFlEaGRCMEhYZVBVaEFqQUw2b3R6X1FWaTJBdXY1Y1RJcml4dVdvSFZKSngzZ0J2cGQwSlJ5dzZJUHFiV09ValpxZzVPbEg3cnpiTGVwTE1wNW5SVF9ldGFXUHpfQ3pGSXQ2LUNTVlZ6?oc=5",
+        "date": "2026-11-19",
+        "title": "Potential Tropical System Watched Off FL Coast As State Battles Flooding - Patch",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPbGkyaW9xRjBVRk9RM0R3dmtEdHdjeV9OdFljcTZIMU1XT1lRNEoyZ2lvSk1ZaU9oVVM2UHJvQTBPWEpFNk9hdzBMLTk3eEVYNE9iS0R2RklKTE9GLXFDVURIQWFtWEx6T0UxMFpISWUzdld4UnExNGJmWlk2OGtZdUh1ZEJhR3Bhcno5X1NkNk5YblRKMHdxeFVpQ0Nwd9IBuAFBVV95cUxOWWJmUUw2c1dGSm9yaDFSeXZPc3lxUEdMTS05cVVBTk1wTFl1aGF6Zlc3bS1OYjZ0VEpQQml0enBlZTVKU1EwWGxSeGpMVTROeFlEaGRCMEhYZVBVaEFqQUw2b3R6X1FWaTJBdXY1Y1RJcml4dVdvSFZKSngzZ0J2cGQwSlJ5dzZJUHFiV09ValpxZzVPbEg3cnpiTGVwTE1wNW5SVF9ldGFXUHpfQ3pGSXQ2LUNTVlZ6?oc=5\" target=\"_blank\">Potential Tropical System Watched Off FL Coast As State Battles Flooding</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Patch</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPY2dmUHRXSm95SnlvR3JteXdaS0lPREdzcTE2WThYMU9wbGN0cjRMY2tuRmd6emx0bnBTT3RLVGloSlpjcU5FYXhlLU91WjhCV2xUTEFEcEY3cnpwbkFKRUZRQ0k3UDdJZDNsZGR6MUY2b0l4anV6RkpqTENxMG56QlJ6S09ObElZWmEwd1FQc3JJWTZRaU1GZzczT2V3dHZhMXR4blFrQVgtREg2MXfSAbMBQVVfeXFMTmNrc05zc0hjbmhOYW8yMEhCYnNTdU1pRDdjZTFJX2RYcS1NeTZIMnpJcmNteHNtUnlFYzNDVTFjLTNJQlMwSHNvc0o5M0RHRm0teTVjUlJNdUJTZVhtM2J4VW5IVmhDaEE5X2UzNXh0MDlWQUNiYS1Vc1Q0QzZWbUxnMlFFelRtQmZBajBsYmphTWlKOURRUHVIMG55d2Z1U1dBY0FvWVFvTU1JZlRIdXBSSkk?oc=5",
+        "date": "2026-11-19",
+        "title": "NST Leader: Before the rivers rise, show us a real monsoon flood plan - NST Online",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPY2dmUHRXSm95SnlvR3JteXdaS0lPREdzcTE2WThYMU9wbGN0cjRMY2tuRmd6emx0bnBTT3RLVGloSlpjcU5FYXhlLU91WjhCV2xUTEFEcEY3cnpwbkFKRUZRQ0k3UDdJZDNsZGR6MUY2b0l4anV6RkpqTENxMG56QlJ6S09ObElZWmEwd1FQc3JJWTZRaU1GZzczT2V3dHZhMXR4blFrQVgtREg2MXfSAbMBQVVfeXFMTmNrc05zc0hjbmhOYW8yMEhCYnNTdU1pRDdjZTFJX2RYcS1NeTZIMnpJcmNteHNtUnlFYzNDVTFjLTNJQlMwSHNvc0o5M0RHRm0teTVjUlJNdUJTZVhtM2J4VW5IVmhDaEE5X2UzNXh0MDlWQUNiYS1Vc1Q0QzZWbUxnMlFFelRtQmZBajBsYmphTWlKOURRUHVIMG55d2Z1U1dBY0FvWVFvTU1JZlRIdXBSSkk?oc=5\" target=\"_blank\">NST Leader: Before the rivers rise, show us a real monsoon flood plan</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NST Online</font>",
+        "similarity_excluded": "No",
+        "score": 8,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZjZJNHREcmtHQVRNdE5mcUVpdVViUjRvYW96YWdMWVgxb0k0dWdYZUhPX2FzYXl5T0QyVHhQa29HelVDMDFOeUQ1VW9CUFpLdFJ5OGYtd1FOb3NMOUNtVEZ2SUI0d0RHWkxBTW9wM0VoVUFIRUdBZmh6d2E5WFdiRnNGZjdIblBhY3dzc2drQmpFTXRPNWZUNEdVLXFUYUE2S200YnR3czY?oc=5",
+        "date": "2026-11-19",
+        "title": "Maliya Miyana bridges to protect Gujarat monsoon rail traffic - Urban Acres",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZjZJNHREcmtHQVRNdE5mcUVpdVViUjRvYW96YWdMWVgxb0k0dWdYZUhPX2FzYXl5T0QyVHhQa29HelVDMDFOeUQ1VW9CUFpLdFJ5OGYtd1FOb3NMOUNtVEZ2SUI0d0RHWkxBTW9wM0VoVUFIRUdBZmh6d2E5WFdiRnNGZjdIblBhY3dzc2drQmpFTXRPNWZUNEdVLXFUYUE2S200YnR3czY?oc=5\" target=\"_blank\">Maliya Miyana bridges to protect Gujarat monsoon rail traffic</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Urban Acres</font>",
+        "similarity_excluded": "No",
+        "score": 3,
+        "status": "processed",
+        "tweet": null
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNa29tRHd0UW1zNmdPbTlHeVdVbENpUk05VkVmNlRMTzg4Z3ZJaHY0SWlDRnAyX0VtZXdvZ1BudDB6R1NFV29CLWozSDZsY093RGw1eUllV19kamc1d0Fja0JReHhSTWtyWHZpRnRGVlFLY20wSFZUb1RYYkdqNmpYT1Nhd3FyVy1h?oc=5",
+        "date": "2026-11-19",
+        "title": "Heavy rain drenches Southern California, triggers flash flood, evacuation warnings - Los Angeles Times",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNa29tRHd0UW1zNmdPbTlHeVdVbENpUk05VkVmNlRMTzg4Z3ZJaHY0SWlDRnAyX0VtZXdvZ1BudDB6R1NFV29CLWozSDZsY093RGw1eUllV19kamc1d0Fja0JReHhSTWtyWHZpRnRGVlFLY20wSFZUb1RYYkdqNmpYT1Nhd3FyVy1h?oc=5\" target=\"_blank\">Heavy rain drenches Southern California, triggers flash flood, evacuation warnings</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Los Angeles Times</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 FORECAST Southern California: Heavy rain triggers flash flood and evacuation warnings (Los Angeles Times)",
+        "type": "news",
+        "tweet_id": "2123487463704236092",
+        "geo": {
+            "country": "United States",
+            "name": "Southern California",
+            "latitude": 34.0,
+            "longitude": -118.0,
+            "confidence": 0.9
+        }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBFcFNwSGdaMm1TUTZSajh6ZWgtVzFKdk0tU0tuNVZpVGhrMHVIR2FwREotV3MyOEVmY2VQUXZyWFBHQmUybW4xZExCckljSUpGQmRSakREQWVjaHpuSlk4X0hMOVdYSWpUUVU0RDlLdw?oc=5",
+        "date": "2026-11-19",
+        "title": "UPDATE: Flash flood warning affecting Los Angeles until Thursday midday - Sacramento Bee",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTFBFcFNwSGdaMm1TUTZSajh6ZWgtVzFKdk0tU0tuNVZpVGhrMHVIR2FwREotV3MyOEVmY2VQUXZyWFBHQmUybW4xZExCckljSUpGQmRSakREQWVjaHpuSlk4X0hMOVdYSWpUUVU0RDlLdw?oc=5\" target=\"_blank\">UPDATE: Flash flood warning affecting Los Angeles until Thursday midday</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sacramento Bee</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 FORECAST Los Angeles: Flash flood warning until Thursday midday",
+        "type": "news",
+        "tweet_id": "2123488007969804743",
+        "geo": {
+            "country": "United States",
+            "name": "Los Angeles",
+            "latitude": 34.0522,
+            "longitude": -118.2437,
+            "confidence": 0.95
+        }
+    },
+    {
+        "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxONExOZ1NuOG9ING00ZGdiSWRNaGNGNF9qcFpxc1JrT3QweF9aa1NiNGNzMXk3cUE3N25aNzgtRmx0TmF6VGVFWjltcWM4T3poTGMyR0FJZEFDVVNWaEk3aU5CWDVIQVpFd1d6X3dmWjMtV2ZXWDhMYy14bjlhbGJWTkpDTjVWSXVfOFZob1YweXB4V1FjbWtXWHYta09IQXJoY2pDbFgxazR5cTVtX0xYV2RZOTZycEREaG01bldsX004dzdkVnVjcWVGS0JvM05CRktrcWEzb1lOcUtMVkhrZ0tQTXBid0JXUVl1c0V6VHhNVlBrSXc?oc=5",
+        "date": "2026-11-19",
+        "title": "More than 90 rescued, evacuated as flooding hits Florida\u2019s east coast; rare high risk alert issued - WINK News",
+        "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9gFBVV95cUxONExOZ1NuOG9ING00ZGdiSWRNaGNGNF9qcFpxc1JrT3QweF9aa1NiNGNzMXk3cUE3N25aNzgtRmx0TmF6VGVFWjltcWM4T3poTGMyR0FJZEFDVVNWaEk3aU5CWDVIQVpFd1d6X3dmWjMtV2ZXWDhMYy14bjlhbGJWTkpDTjVWSXVfOFZob1YweXB4V1FjbWtXWHYta09IQXJoY2pDbFgxazR5cTVtX0xYV2RZOTZycEREaG01bldsX004dzdkVnVjcWVGS0JvM05CRktrcWEzb1lOcUtMVkhrZ0tQTXBid0JXUVl1c0V6VHhNVlBrSXc?oc=5\" target=\"_blank\">More than 90 rescued, evacuated as flooding hits Florida\u2019s east coast; rare high risk alert issued</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WINK News</font>",
+        "similarity_excluded": "No",
+        "score": 9,
+        "status": "posted",
+        "tweet": "\ud83c\uddfa\ud83c\uddf8 POST-EVENT Florida east coast: Flooding hits, over 90 rescued and evacuated; rare high risk alert issued. WINK News",
+        "type": "news",
+        "tweet_id": "2123488574754464174",
+        "geo": {
+            "country": "United States",
+            "name": "Florida's east coast",
+            "latitude": 28.0,
+            "longitude": -80.5,
+            "confidence": 0.85
+        }
     }
 ]
