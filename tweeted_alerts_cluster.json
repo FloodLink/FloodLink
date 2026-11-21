@@ -20904,7 +20904,7 @@
     "rain_mm": 48.88,
     "soil_moisture": 0.376,
     "raw_dynamic_score": 6.593,
-    "last_updated": "2026-10-04T03:47:07.384462Z",
+    "last_updated": "2026-11-21T10:44:03.708839Z",
     "last_tweeted_at": "2026-06-25T19:58:46.355529Z",
     "tweet_id": "2070235817860329873",
     "resolved": false
@@ -48587,6 +48587,36 @@
     "last_updated": "2026-11-21T02:07:23.698560Z",
     "last_tweeted_at": "2026-11-20T19:39:19.834348Z",
     "tweet_id": "2123864067093958989",
+    "resolved": false
+  },
+  "39.7477,-8.9323": {
+    "country": "Portugal",
+    "name": "Marinha Grande",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 39.74769,
+    "longitude": -8.93228,
+    "rain_mm": 43.5,
+    "soil_moisture": 1.0,
+    "raw_dynamic_score": 8.319,
+    "last_updated": "2026-11-21T10:44:03.708839Z",
+    "last_tweeted_at": "2026-11-21T10:44:03.708839Z",
+    "tweet_id": "2124091493598003543",
+    "resolved": false
+  },
+  "39.4033,-9.1384": {
+    "country": "Portugal",
+    "name": "Caldas da Rainha",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 39.40326,
+    "longitude": -9.13839,
+    "rain_mm": 38.56,
+    "soil_moisture": 1.0,
+    "raw_dynamic_score": 7.375,
+    "last_updated": "2026-11-21T10:44:03.708839Z",
+    "last_tweeted_at": "2026-11-21T10:44:03.708839Z",
+    "tweet_id": "2124091493598003543",
     "resolved": false
   }
 }
