@@ -8634,7 +8634,7 @@
     "rain_mm": 44.5,
     "soil_moisture": 0.613,
     "raw_dynamic_score": 6.957,
-    "last_updated": "2026-03-25T04:56:07.830403Z",
+    "last_updated": "2026-11-22T10:45:50.561504Z",
     "last_tweeted_at": "2026-03-25T01:30:43.182855Z",
     "tweet_id": "2036616782124081355",
     "resolved": false
@@ -13449,7 +13449,7 @@
     "rain_mm": 0.56,
     "soil_moisture": 0.349,
     "raw_dynamic_score": 0.075,
-    "last_updated": "2026-11-22T00:59:38.742159Z",
+    "last_updated": "2026-11-22T10:45:50.561504Z",
     "last_tweeted_at": "2026-11-22T00:59:38.742159Z",
     "tweet_id": "2124306819950768340",
     "resolved": true,
@@ -15670,7 +15670,7 @@
     "rain_mm": 0.44,
     "soil_moisture": 0.161,
     "raw_dynamic_score": 0.051,
-    "last_updated": "2026-11-22T00:59:38.742159Z",
+    "last_updated": "2026-11-22T10:45:50.561504Z",
     "last_tweeted_at": "2026-11-22T00:59:38.742159Z",
     "tweet_id": "2124306819950768340",
     "resolved": true,
@@ -15776,11 +15776,15 @@
     "rain_mm": 1.81,
     "soil_moisture": 0.251,
     "raw_dynamic_score": 0.224,
-    "last_updated": "2026-11-22T00:59:38.742159Z",
+    "last_updated": "2026-11-22T10:45:50.561504Z",
     "last_tweeted_at": "2026-11-22T00:59:38.742159Z",
     "tweet_id": "2124306819950768340",
     "resolved": true,
-    "resolved_at": "2026-11-22T00:59:38.742159Z"
+    "resolved_at": "2026-11-22T00:59:38.742159Z",
+    "pending_downgrade": true,
+    "pending_target_level": "Low",
+    "pending_set_at": "2026-11-22T10:45:50.561504Z",
+    "pending_is_region": true
   },
   "37.1361,109.6597": {
     "country": "China",
@@ -24192,7 +24196,7 @@
     "rain_mm": 13.38,
     "soil_moisture": 0.181,
     "raw_dynamic_score": 1.569,
-    "last_updated": "2026-11-22T00:59:38.742159Z",
+    "last_updated": "2026-11-22T10:45:50.561504Z",
     "last_tweeted_at": "2026-11-22T00:59:38.742159Z",
     "tweet_id": "2124306819950768340",
     "resolved": true,
@@ -30838,7 +30842,7 @@
     "rain_mm": 77.69,
     "soil_moisture": 0.527,
     "raw_dynamic_score": 11.541,
-    "last_updated": "2026-08-22T00:56:01.913352Z",
+    "last_updated": "2026-11-22T10:45:50.561504Z",
     "last_tweeted_at": "2026-08-21T18:36:00.859645Z",
     "tweet_id": "2090871106018443446",
     "resolved": false
@@ -30973,7 +30977,7 @@
     "rain_mm": 3.31,
     "soil_moisture": 0.141,
     "raw_dynamic_score": 0.377,
-    "last_updated": "2026-11-22T00:59:38.742159Z",
+    "last_updated": "2026-11-22T10:45:50.561504Z",
     "last_tweeted_at": "2026-11-22T00:59:38.742159Z",
     "tweet_id": "2124306819950768340",
     "resolved": true,
@@ -47399,7 +47403,7 @@
     "rain_mm": 42.69,
     "soil_moisture": 0.696,
     "raw_dynamic_score": 6.991,
-    "last_updated": "2026-11-21T02:07:23.698560Z",
+    "last_updated": "2026-11-22T10:45:50.561504Z",
     "last_tweeted_at": "2026-11-20T19:39:19.834348Z",
     "tweet_id": "2123863814034874428",
     "resolved": false
@@ -47504,7 +47508,7 @@
     "rain_mm": 77.31,
     "soil_moisture": 0.621,
     "raw_dynamic_score": 12.139,
-    "last_updated": "2026-11-22T00:59:38.742159Z",
+    "last_updated": "2026-11-22T10:45:50.561504Z",
     "last_tweeted_at": "2026-11-22T00:59:38.742159Z",
     "tweet_id": "2124306819950768340",
     "resolved": false
@@ -47519,7 +47523,7 @@
     "rain_mm": 77.31,
     "soil_moisture": 0.621,
     "raw_dynamic_score": 12.139,
-    "last_updated": "2026-11-22T00:59:38.742159Z",
+    "last_updated": "2026-11-22T10:45:50.561504Z",
     "last_tweeted_at": "2026-11-22T00:59:38.742159Z",
     "tweet_id": "2124306819950768340",
     "resolved": false
@@ -47534,7 +47538,7 @@
     "rain_mm": 39.75,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 7.602,
-    "last_updated": "2026-11-22T00:59:38.742159Z",
+    "last_updated": "2026-11-22T10:45:50.561504Z",
     "last_tweeted_at": "2026-11-22T00:59:38.742159Z",
     "tweet_id": "2124306819950768340",
     "resolved": false
@@ -47549,9 +47553,24 @@
     "rain_mm": 50.69,
     "soil_moisture": 0.541,
     "raw_dynamic_score": 7.591,
-    "last_updated": "2026-11-22T00:59:38.742159Z",
+    "last_updated": "2026-11-22T10:45:50.561504Z",
     "last_tweeted_at": "2026-11-22T00:59:38.742159Z",
     "tweet_id": "2124306819950768340",
+    "resolved": false
+  },
+  "-26.4047,-52.3511": {
+    "country": "Brazil",
+    "name": "Clevelândia",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": -26.40471,
+    "longitude": -52.35106,
+    "rain_mm": 43.25,
+    "soil_moisture": 0.711,
+    "raw_dynamic_score": 7.141,
+    "last_updated": "2026-11-22T10:45:50.561504Z",
+    "last_tweeted_at": "2026-11-22T10:45:50.561504Z",
+    "tweet_id": "2124454323384140282",
     "resolved": false
   }
 }
