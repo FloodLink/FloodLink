@@ -13439,22 +13439,6 @@
     "tweet_id": "2052064750587007365",
     "resolved": false
   },
-  "34.9249,-81.0251": {
-    "country": "United States",
-    "name": "Rock Hill",
-    "risk_level": "Low",
-    "tweeted_level": "High",
-    "latitude": 34.92487,
-    "longitude": -81.02508,
-    "rain_mm": 0.56,
-    "soil_moisture": 0.349,
-    "raw_dynamic_score": 0.075,
-    "last_updated": "2026-11-22T10:45:50.561504Z",
-    "last_tweeted_at": "2026-11-22T00:59:38.742159Z",
-    "tweet_id": "2124306819950768340",
-    "resolved": true,
-    "resolved_at": "2026-11-22T00:59:38.742159Z"
-  },
   "-32.2231,-58.1443": {
     "country": "Argentina",
     "name": "Colón",
@@ -15660,22 +15644,6 @@
     "tweet_id": "2057872368110870715",
     "resolved": false
   },
-  "34.5034,-82.6501": {
-    "country": "United States",
-    "name": "Anderson",
-    "risk_level": "Low",
-    "tweeted_level": "High",
-    "latitude": 34.50344,
-    "longitude": -82.65013,
-    "rain_mm": 0.44,
-    "soil_moisture": 0.161,
-    "raw_dynamic_score": 0.051,
-    "last_updated": "2026-11-22T10:45:50.561504Z",
-    "last_tweeted_at": "2026-11-22T00:59:38.742159Z",
-    "tweet_id": "2124306819950768340",
-    "resolved": true,
-    "resolved_at": "2026-11-22T00:59:38.742159Z"
-  },
   "9.3337,122.8637": {
     "country": "Philippines",
     "name": "Santa Catalina",
@@ -15765,26 +15733,6 @@
     "last_tweeted_at": "2026-05-23T19:08:29.560886Z",
     "tweet_id": "2058264366479200384",
     "resolved": false
-  },
-  "33.5604,-81.7195": {
-    "country": "United States",
-    "name": "Aiken",
-    "risk_level": "Low",
-    "tweeted_level": "High",
-    "latitude": 33.56042,
-    "longitude": -81.71955,
-    "rain_mm": 1.81,
-    "soil_moisture": 0.251,
-    "raw_dynamic_score": 0.224,
-    "last_updated": "2026-11-22T10:45:50.561504Z",
-    "last_tweeted_at": "2026-11-22T00:59:38.742159Z",
-    "tweet_id": "2124306819950768340",
-    "resolved": true,
-    "resolved_at": "2026-11-22T00:59:38.742159Z",
-    "pending_downgrade": true,
-    "pending_target_level": "Low",
-    "pending_set_at": "2026-11-22T10:45:50.561504Z",
-    "pending_is_region": true
   },
   "37.1361,109.6597": {
     "country": "China",
@@ -24186,22 +24134,6 @@
     "tweet_id": "2076718921974206540",
     "resolved": false
   },
-  "33.9204,-80.3415": {
-    "country": "United States",
-    "name": "Sumter",
-    "risk_level": "Low",
-    "tweeted_level": "High",
-    "latitude": 33.92044,
-    "longitude": -80.34147,
-    "rain_mm": 13.38,
-    "soil_moisture": 0.181,
-    "raw_dynamic_score": 1.569,
-    "last_updated": "2026-11-22T10:45:50.561504Z",
-    "last_tweeted_at": "2026-11-22T00:59:38.742159Z",
-    "tweet_id": "2124306819950768340",
-    "resolved": true,
-    "resolved_at": "2026-11-22T00:59:38.742159Z"
-  },
   "38.0882,125.2983": {
     "country": "Democratic People's Republic of Korea",
     "name": "T’aet’an-ŭp",
@@ -27302,7 +27234,7 @@
     "rain_mm": 41.44,
     "soil_moisture": 0.628,
     "raw_dynamic_score": 6.533,
-    "last_updated": "2026-11-07T00:45:07.903064Z",
+    "last_updated": "2026-11-23T01:31:07.447613Z",
     "last_tweeted_at": "2026-07-29T14:01:58.761164Z",
     "tweet_id": "2082467215346106580",
     "resolved": false
@@ -30966,22 +30898,6 @@
     "last_tweeted_at": "2026-08-22T00:56:01.913352Z",
     "tweet_id": "2090967745923834040",
     "resolved": false
-  },
-  "34.1954,-79.7626": {
-    "country": "United States",
-    "name": "Florence",
-    "risk_level": "Low",
-    "tweeted_level": "High",
-    "latitude": 34.19543,
-    "longitude": -79.76256,
-    "rain_mm": 3.31,
-    "soil_moisture": 0.141,
-    "raw_dynamic_score": 0.377,
-    "last_updated": "2026-11-22T10:45:50.561504Z",
-    "last_tweeted_at": "2026-11-22T00:59:38.742159Z",
-    "tweet_id": "2124306819950768340",
-    "resolved": true,
-    "resolved_at": "2026-11-22T00:59:38.742159Z"
   },
   "53.7249,18.9311": {
     "country": "Poland",
@@ -47586,9 +47502,17 @@
     "rain_mm": 81.44,
     "soil_moisture": 0.586,
     "raw_dynamic_score": 12.527,
-    "last_updated": "2026-11-22T19:02:31.637598Z",
+    "last_updated": "2026-11-23T01:31:07.447613Z",
     "last_tweeted_at": "2026-11-22T19:02:31.637598Z",
     "tweet_id": "2124579325370376534",
-    "resolved": false
+    "resolved": false,
+    "pending_downgrade": true,
+    "pending_target_level": "Low",
+    "pending_set_at": "2026-11-23T01:31:07.447613Z",
+    "pending_is_region": false,
+    "pending_observed_level": "Low",
+    "pending_observed_rain_mm": 0.12,
+    "pending_observed_soil_moisture": 0.501,
+    "pending_observed_raw_dynamic_score": 0.018
   }
 }
