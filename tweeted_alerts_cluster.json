@@ -27234,7 +27234,7 @@
     "rain_mm": 41.44,
     "soil_moisture": 0.628,
     "raw_dynamic_score": 6.533,
-    "last_updated": "2026-11-23T01:31:07.447613Z",
+    "last_updated": "2026-11-23T11:42:16.558988Z",
     "last_tweeted_at": "2026-07-29T14:01:58.761164Z",
     "tweet_id": "2082467215346106580",
     "resolved": false
@@ -47502,7 +47502,7 @@
     "rain_mm": 81.44,
     "soil_moisture": 0.586,
     "raw_dynamic_score": 12.527,
-    "last_updated": "2026-11-23T01:31:07.447613Z",
+    "last_updated": "2026-11-23T11:42:16.558988Z",
     "last_tweeted_at": "2026-11-22T19:02:31.637598Z",
     "tweet_id": "2124579325370376534",
     "resolved": false,
@@ -47514,5 +47514,50 @@
     "pending_observed_rain_mm": 0.12,
     "pending_observed_soil_moisture": 0.501,
     "pending_observed_raw_dynamic_score": 0.018
+  },
+  "-29.1472,27.7490": {
+    "country": "Lesotho",
+    "name": "Teyateyaneng",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": -29.14719,
+    "longitude": 27.74895,
+    "rain_mm": 45.38,
+    "soil_moisture": 0.577,
+    "raw_dynamic_score": 6.944,
+    "last_updated": "2026-11-23T11:42:16.558988Z",
+    "last_tweeted_at": "2026-11-23T11:42:16.558988Z",
+    "tweet_id": "2124830911170846868",
+    "resolved": false
+  },
+  "7.5000,126.0000": {
+    "country": "Philippines",
+    "name": "San Mariano",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 7.5,
+    "longitude": 126.0,
+    "rain_mm": 39.19,
+    "soil_moisture": 0.729,
+    "raw_dynamic_score": 6.535,
+    "last_updated": "2026-11-23T11:42:16.558988Z",
+    "last_tweeted_at": "2026-11-23T11:42:16.558988Z",
+    "tweet_id": "2124831163613315508",
+    "resolved": false
+  },
+  "7.6078,125.9664": {
+    "country": "Philippines",
+    "name": "Nabunturan",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 7.60778,
+    "longitude": 125.96639,
+    "rain_mm": 39.19,
+    "soil_moisture": 0.729,
+    "raw_dynamic_score": 6.535,
+    "last_updated": "2026-11-23T11:42:16.558988Z",
+    "last_tweeted_at": "2026-11-23T11:42:16.558988Z",
+    "tweet_id": "2124831163613315508",
+    "resolved": false
   }
 }
