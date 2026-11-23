@@ -8240,5 +8240,14 @@
             "longitude": -81.3,
             "confidence": 0.85
         }
+    },
+    {
+        "link": null,
+        "date": "2026-11-23",
+        "status": "posted",
+        "tweet": "By 2030, 2.1 billion people are projected to live in floodplains exposed to river flooding or storm surge.",
+        "type": "statistical",
+        "category": "population living in floodplains",
+        "tweet_id": "2125000493407858805"
     }
 ]
