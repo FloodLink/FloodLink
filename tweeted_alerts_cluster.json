@@ -14319,7 +14319,7 @@
     "rain_mm": 66.06,
     "soil_moisture": 0.651,
     "raw_dynamic_score": 10.553,
-    "last_updated": "2026-05-17T16:02:18.318812Z",
+    "last_updated": "2026-11-24T07:55:55.701384Z",
     "last_tweeted_at": "2026-05-15T06:36:09.235206Z",
     "tweet_id": "2055176684618551676",
     "resolved": false
@@ -33309,7 +33309,7 @@
     "rain_mm": 45.62,
     "soil_moisture": 0.711,
     "raw_dynamic_score": 7.534,
-    "last_updated": "2026-11-23T23:21:48.540283Z",
+    "last_updated": "2026-11-24T07:55:55.701384Z",
     "last_tweeted_at": "2026-09-08T23:18:00.138030Z",
     "tweet_id": "2097465284319752442",
     "resolved": false
@@ -46824,7 +46824,7 @@
     "rain_mm": 79.94,
     "soil_moisture": 0.689,
     "raw_dynamic_score": 13.04,
-    "last_updated": "2026-11-19T11:13:21.990617Z",
+    "last_updated": "2026-11-24T07:55:55.701384Z",
     "last_tweeted_at": "2026-11-19T02:34:39.476203Z",
     "tweet_id": "2123243824025927759",
     "resolved": false
@@ -47503,6 +47503,66 @@
     "last_updated": "2026-11-23T11:42:16.558988Z",
     "last_tweeted_at": "2026-11-23T11:42:16.558988Z",
     "tweet_id": "2124831163613315508",
+    "resolved": false
+  },
+  "-1.0449,-79.6384": {
+    "country": "Ecuador",
+    "name": "El Empalme",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": -1.04491,
+    "longitude": -79.6384,
+    "rain_mm": 41.31,
+    "soil_moisture": 0.699,
+    "raw_dynamic_score": 6.78,
+    "last_updated": "2026-11-24T07:55:55.701384Z",
+    "last_tweeted_at": "2026-11-24T07:55:55.701384Z",
+    "tweet_id": "2125136346205630774",
+    "resolved": false
+  },
+  "-2.6832,111.6259": {
+    "country": "Indonesia",
+    "name": "Pangkalanbuun",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": -2.6832,
+    "longitude": 111.6259,
+    "rain_mm": 49.69,
+    "soil_moisture": 0.499,
+    "raw_dynamic_score": 7.255,
+    "last_updated": "2026-11-24T07:55:55.701384Z",
+    "last_tweeted_at": "2026-11-24T07:55:55.701384Z",
+    "tweet_id": "2125136598820086024",
+    "resolved": false
+  },
+  "4.3000,101.1500": {
+    "country": "Malaysia",
+    "name": "Kampar",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 4.3,
+    "longitude": 101.15,
+    "rain_mm": 46.62,
+    "soil_moisture": 0.703,
+    "raw_dynamic_score": 7.668,
+    "last_updated": "2026-11-24T07:55:55.701384Z",
+    "last_tweeted_at": "2026-11-24T07:55:55.701384Z",
+    "tweet_id": "2125136851304636743",
+    "resolved": false
+  },
+  "4.1667,101.2000": {
+    "country": "Malaysia",
+    "name": "Tapah Road",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": 4.16667,
+    "longitude": 101.2,
+    "rain_mm": 46.62,
+    "soil_moisture": 0.703,
+    "raw_dynamic_score": 7.668,
+    "last_updated": "2026-11-24T07:55:55.701384Z",
+    "last_tweeted_at": "2026-11-24T07:55:55.701384Z",
+    "tweet_id": "2125136851304636743",
     "resolved": false
   }
 }
