@@ -17927,17 +17927,18 @@
   "-1.4902,102.1149": {
     "country": "Indonesia",
     "name": "Muara Bungo",
-    "risk_level": "Medium",
-    "tweeted_level": "Medium",
+    "risk_level": "Low",
+    "tweeted_level": "High",
     "latitude": -1.49018,
     "longitude": 102.1149,
-    "rain_mm": 40.81,
-    "soil_moisture": 0.702,
-    "raw_dynamic_score": 6.707,
-    "last_updated": "2026-06-09T14:43:29.410652Z",
-    "last_tweeted_at": "2026-06-09T12:04:39.944649Z",
-    "tweet_id": "2064317785258254763",
-    "resolved": false
+    "rain_mm": 11.19,
+    "soil_moisture": 0.678,
+    "raw_dynamic_score": 1.814,
+    "last_updated": "2026-11-25T16:41:22.066332Z",
+    "last_tweeted_at": "2026-11-25T16:41:22.066332Z",
+    "tweet_id": "2125631460354765057",
+    "resolved": true,
+    "resolved_at": "2026-11-25T16:41:22.066332Z"
   },
   "55.1611,61.4288": {
     "country": "Russian Federation",
@@ -18729,7 +18730,7 @@
     "rain_mm": 64.5,
     "soil_moisture": 0.598,
     "raw_dynamic_score": 9.996,
-    "last_updated": "2026-11-25T04:04:51.552268Z",
+    "last_updated": "2026-11-25T16:41:22.066332Z",
     "last_tweeted_at": "2026-11-25T04:04:51.552268Z",
     "tweet_id": "2125441120624676978",
     "resolved": false
@@ -30774,7 +30775,7 @@
     "rain_mm": 77.69,
     "soil_moisture": 0.527,
     "raw_dynamic_score": 11.541,
-    "last_updated": "2026-11-22T19:02:31.637598Z",
+    "last_updated": "2026-11-25T16:41:22.066332Z",
     "last_tweeted_at": "2026-08-21T18:36:00.859645Z",
     "tweet_id": "2090871106018443446",
     "resolved": false
@@ -33069,7 +33070,7 @@
     "rain_mm": 35.12,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 6.718,
-    "last_updated": "2026-11-25T04:04:51.552268Z",
+    "last_updated": "2026-11-25T16:41:22.066332Z",
     "last_tweeted_at": "2026-09-06T20:08:02.432253Z",
     "tweet_id": "2096692212470104122",
     "resolved": false
@@ -39264,7 +39265,7 @@
     "rain_mm": 48.44,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 9.264,
-    "last_updated": "2026-10-08T09:58:14.608629Z",
+    "last_updated": "2026-11-25T16:41:22.066332Z",
     "last_tweeted_at": "2026-10-07T18:20:17.802934Z",
     "tweet_id": "2107899614456054180",
     "resolved": false
@@ -39324,7 +39325,7 @@
     "rain_mm": 48.44,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 9.264,
-    "last_updated": "2026-10-08T09:58:14.608629Z",
+    "last_updated": "2026-11-25T16:41:22.066332Z",
     "last_tweeted_at": "2026-10-07T18:20:17.802934Z",
     "tweet_id": "2107899867188047891",
     "resolved": false
@@ -42099,7 +42100,7 @@
     "rain_mm": 61.88,
     "soil_moisture": 0.656,
     "raw_dynamic_score": 9.912,
-    "last_updated": "2026-10-25T18:12:36.538036Z",
+    "last_updated": "2026-11-25T16:41:22.066332Z",
     "last_tweeted_at": "2026-10-25T08:07:40.024314Z",
     "tweet_id": "2114267665590112705",
     "resolved": false
@@ -46930,7 +46931,7 @@
     "rain_mm": 89.94,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 17.201,
-    "last_updated": "2026-11-21T02:07:23.698560Z",
+    "last_updated": "2026-11-25T16:41:22.066332Z",
     "last_tweeted_at": "2026-11-20T11:01:06.317745Z",
     "tweet_id": "2123733650990879037",
     "resolved": false
@@ -47595,7 +47596,7 @@
     "rain_mm": 46.69,
     "soil_moisture": 0.714,
     "raw_dynamic_score": 7.723,
-    "last_updated": "2026-11-25T04:04:51.552268Z",
+    "last_updated": "2026-11-25T16:41:22.066332Z",
     "last_tweeted_at": "2026-11-24T20:01:58.495911Z",
     "tweet_id": "2125319065564582234",
     "resolved": false
@@ -47655,7 +47656,7 @@
     "rain_mm": 40.12,
     "soil_moisture": 0.682,
     "raw_dynamic_score": 6.521,
-    "last_updated": "2026-11-25T04:04:51.552268Z",
+    "last_updated": "2026-11-25T16:41:22.066332Z",
     "last_tweeted_at": "2026-11-25T04:04:51.552268Z",
     "tweet_id": "2125440867821387853",
     "resolved": false
@@ -47670,10 +47671,14 @@
     "rain_mm": 46.38,
     "soil_moisture": 0.627,
     "raw_dynamic_score": 7.306,
-    "last_updated": "2026-11-25T04:04:51.552268Z",
+    "last_updated": "2026-11-25T16:41:22.066332Z",
     "last_tweeted_at": "2026-11-25T04:04:51.552268Z",
     "tweet_id": "2125441120624676978",
-    "resolved": false
+    "resolved": false,
+    "pending_downgrade": true,
+    "pending_target_level": "Low",
+    "pending_set_at": "2026-11-25T16:41:22.066332Z",
+    "pending_is_region": true
   },
   "22.7166,-83.0565": {
     "country": "Cuba",
@@ -47685,7 +47690,7 @@
     "rain_mm": 50.81,
     "soil_moisture": 0.59,
     "raw_dynamic_score": 7.835,
-    "last_updated": "2026-11-25T04:04:51.552268Z",
+    "last_updated": "2026-11-25T16:41:22.066332Z",
     "last_tweeted_at": "2026-11-25T04:04:51.552268Z",
     "tweet_id": "2125441120624676978",
     "resolved": false
@@ -47700,7 +47705,7 @@
     "rain_mm": 46.38,
     "soil_moisture": 0.627,
     "raw_dynamic_score": 7.306,
-    "last_updated": "2026-11-25T04:04:51.552268Z",
+    "last_updated": "2026-11-25T16:41:22.066332Z",
     "last_tweeted_at": "2026-11-25T04:04:51.552268Z",
     "tweet_id": "2125441120624676978",
     "resolved": false
@@ -47715,7 +47720,7 @@
     "rain_mm": 108.25,
     "soil_moisture": 0.642,
     "raw_dynamic_score": 17.2,
-    "last_updated": "2026-11-25T04:04:51.552268Z",
+    "last_updated": "2026-11-25T16:41:22.066332Z",
     "last_tweeted_at": "2026-11-25T04:04:51.552268Z",
     "tweet_id": "2125441120624676978",
     "resolved": false
@@ -47730,7 +47735,7 @@
     "rain_mm": 78.31,
     "soil_moisture": 0.657,
     "raw_dynamic_score": 12.555,
-    "last_updated": "2026-11-25T04:04:51.552268Z",
+    "last_updated": "2026-11-25T16:41:22.066332Z",
     "last_tweeted_at": "2026-11-25T04:04:51.552268Z",
     "tweet_id": "2125441120624676978",
     "resolved": false
@@ -47745,7 +47750,7 @@
     "rain_mm": 58.06,
     "soil_moisture": 0.656,
     "raw_dynamic_score": 9.3,
-    "last_updated": "2026-11-25T04:04:51.552268Z",
+    "last_updated": "2026-11-25T16:41:22.066332Z",
     "last_tweeted_at": "2026-11-25T04:04:51.552268Z",
     "tweet_id": "2125441373490815219",
     "resolved": false
@@ -47760,9 +47765,84 @@
     "rain_mm": 36.81,
     "soil_moisture": 1.0,
     "raw_dynamic_score": 7.04,
-    "last_updated": "2026-11-25T04:04:51.552268Z",
+    "last_updated": "2026-11-25T16:41:22.066332Z",
     "last_tweeted_at": "2026-11-25T04:04:51.552268Z",
     "tweet_id": "2125441626151506066",
+    "resolved": false
+  },
+  "-22.5361,-55.7256": {
+    "country": "Brazil",
+    "name": "Ponta Porã",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": -22.53611,
+    "longitude": -55.72556,
+    "rain_mm": 42.69,
+    "soil_moisture": 0.574,
+    "raw_dynamic_score": 6.52,
+    "last_updated": "2026-11-25T16:41:22.066332Z",
+    "last_tweeted_at": "2026-11-25T16:41:22.066332Z",
+    "tweet_id": "2125630954655936737",
+    "resolved": false
+  },
+  "-2.1962,-79.8862": {
+    "country": "Ecuador",
+    "name": "Guayaquil",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": -2.19616,
+    "longitude": -79.88621,
+    "rain_mm": 56.81,
+    "soil_moisture": 0.735,
+    "raw_dynamic_score": 9.506,
+    "last_updated": "2026-11-25T16:41:22.066332Z",
+    "last_tweeted_at": "2026-11-25T16:41:22.066332Z",
+    "tweet_id": "2125631207257887231",
+    "resolved": false
+  },
+  "-1.2642,104.0970": {
+    "country": "Indonesia",
+    "name": "Simpang",
+    "risk_level": "High",
+    "tweeted_level": "High",
+    "latitude": -1.26424,
+    "longitude": 104.09701,
+    "rain_mm": 94.38,
+    "soil_moisture": 0.679,
+    "raw_dynamic_score": 15.315,
+    "last_updated": "2026-11-25T16:41:22.066332Z",
+    "last_tweeted_at": "2026-11-25T16:41:22.066332Z",
+    "tweet_id": "2125631460354765057",
+    "resolved": false
+  },
+  "-1.0163,103.5933": {
+    "country": "Indonesia",
+    "name": "Mendaha",
+    "risk_level": "Medium",
+    "tweeted_level": "High",
+    "latitude": -1.0163,
+    "longitude": 103.59331,
+    "rain_mm": 72.75,
+    "soil_moisture": 0.673,
+    "raw_dynamic_score": 11.765,
+    "last_updated": "2026-11-25T16:41:22.066332Z",
+    "last_tweeted_at": "2026-11-25T16:41:22.066332Z",
+    "tweet_id": "2125631460354765057",
+    "resolved": false
+  },
+  "-22.5493,-55.7387": {
+    "country": "Paraguay",
+    "name": "Pedro Juan Caballero",
+    "risk_level": "Medium",
+    "tweeted_level": "Medium",
+    "latitude": -22.54925,
+    "longitude": -55.7387,
+    "rain_mm": 42.69,
+    "soil_moisture": 0.574,
+    "raw_dynamic_score": 6.52,
+    "last_updated": "2026-11-25T16:41:22.066332Z",
+    "last_tweeted_at": "2026-11-25T16:41:22.066332Z",
+    "tweet_id": "2125631713397145830",
     "resolved": false
   }
 }
